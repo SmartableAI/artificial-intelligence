@@ -41,6 +41,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Medical Image Processing Deep Learning Market, 2030"
+    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-04T11:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "2IwsPyIa3DKP6CScvf/KJOJj4M9yiyZqEx6ffjGNnaliWqkcn/ATmwz5QlZs5RwePlY4ioYxIDkj+ACuRuCw+BEB7WOuGj9IRBhHAP77iE6ajqJqDZJQGxWpBo0JOd6HDqWgZ8Y9pyrv8AwqC6QoYhS5QowBWbzORrTlNINKWy+ux2pVl3wuCPPysbN/peM1bTTjfuxnPtOZtBZAABQT8mcxyFh/D6CxtSibAmpSLKSjWLf/UYVdEbA6E97K2IZTjbDJSPsd4ZmFuVFnj2YOLvQ6836HjN1gpZ3VHOGkdObM+vBvKRPdvd4muUBoRZ1WGtv0KMIYP5/12BfQykk5O/4oHrA5BbiZq0tIxNovtQ0=;CZMAiAbS67cnfwxfc9oG3g=="
 ---

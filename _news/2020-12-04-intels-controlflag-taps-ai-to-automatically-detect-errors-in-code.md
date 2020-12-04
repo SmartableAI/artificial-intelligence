@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-aut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

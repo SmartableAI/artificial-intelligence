@@ -2,6 +2,185 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-10-22-swarm-when-artificial-intelligence-decodes-end-time-prophecies-ebook-morris-guy-amazoncouk-kindle-store.md",
+      "title": "SWARM: When Artificial Intelligence Decodes End Time Prophecies eBook: Morris, Guy: Amazon.co.uk: Kindle Store",
+      "excerpt": "Swarm is an action-packed thriller with advanced artificial intelligence weapons set in a divided, post-pandemic country struggling to maintain social and national security. China has unleashed a devastating AI internet virus forcing antihero hacker Derek Taylor into a deadly conspiracy of digital identity control and end-time prophecy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.co.uk/SWARM-Artificial-Intelligence-Decodes-Prophecies-ebook/dp/B08LCN41YV",
+      "originalUrl": "https://www.amazon.co.uk/SWARM-Artificial-Intelligence-Decodes-Prophecies-ebook/dp/B08LCN41YV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-reorg._CB407363181_.png",
+          "width": 350,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Amazon Associates UK",
+        "domain": "amazon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
+      "title": "Tesla ‘full self-driving’ vehicles can’t drive themselves",
+      "excerpt": "DETROIT >> Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
+      "originalUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2020/10/web1_10562289-135a11bded104a2cbee932740c5733a6.jpg",
+          "width": 760,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tesla-is-increasing-price-of-full-self-driving-package-to-a-whopping-10000.md",
+      "title": "Tesla is increasing price of Full Self-Driving package to a whopping $10,000",
+      "excerpt": "Tesla indicates that it is about to increase the price of its Full Self-Driving package to a whopping $10,000 and yet, that’s a good deal according to Elon Musk. The decision to pre-sell a ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/",
+      "originalUrl": "https://electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-self-driving-Beta.jpg?quality=82&strip=all",
+          "width": 2794,
+          "height": 1172,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/amp/",
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-why-most-organizations-investments-in-ai-fall-flat.md",
+      "title": "Why Most Organizations’ Investments in AI Fall Flat",
+      "excerpt": "With how pervasive artificial intelligence (AI) is these days, executives—up to 85% of executives, in fact—know AI can fundamentally change their businesses. Organizations can look to use AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/sponsored/2020/10/why-most-organizations-investments-in-ai-fall-flat",
+      "originalUrl": "https://hbr.org/sponsored/2020/10/why-most-organizations-investments-in-ai-fall-flat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/GettyImages-1169108704.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-cruise-gm-to-seek-us-approval-for-vehicle-with-no-pedal-or-steering-wheel.md",
       "title": "Cruise, GM to seek U.S. approval for vehicle with no pedal or steering wheel",
       "excerpt": "Self-driving car maker Cruise said on Wednesday it and majority shareholder General Motors Co would seek U.S. regulatory approval in coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals.",
@@ -1015,195 +1194,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-constant-claims-2020-ai-techaward-for-loss-mitigation-tool.md",
-      "title": "Constant claims 2020 AI TechAward for loss mitigation tool",
-      "excerpt": "Constant has a reason to cheer this week. The fintech and automated loss mitigation provider received a 2020 AI TechAward, which celebrates technical innovation, adoption and reception in the artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoremarketing.com/autofinjournal/constant-claims-2020-ai-techaward-loss-mitigation-tool",
-      "originalUrl": "https://www.autoremarketing.com/autofinjournal/constant-claims-2020-ai-techaward-loss-mitigation-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoremarketing.com/sites/default/files/AI%20Tech%20Awards%20for%20web.png",
-          "width": 880,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Remarketing",
-        "domain": "autoremarketing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-google-fintech-group-unifiedpost-team-up-on-ai-data-capture.md",
-      "title": "Google, FinTech group Unifiedpost team up on AI data capture",
-      "excerpt": "a FinTech organization with a presence in 15 countries. The company handles procurement documents for over 400,000 small and medium-sized businesses and more than 250 enterprise players, a time-consuming and complicated task -- but it is thought that AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "originalUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/19/571138b0-7f46-499a-8e83-fda88fa825cb/thumbnail/1200x675/28adbdcfd037c2e23dea5f7022ad6a15/what-google-cloud-platform-is-and-why-yo-5f8850a547719e19b06f12fd-1-oct-19-2020-18-24-43-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "publishedDateTime": "2020-10-21T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time.md",
-      "title": "Acer claims SigridWave AI can translate gaming voice comms in real time",
-      "excerpt": "The AI has been trained with 1 000 hours of game-centric ... We’re going to keep a close eye on this service as it looks rather promising, provided it can translate more than two languages of course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/",
-      "originalUrl": "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2020/10/SigridWave_960x720.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/amp/",
-      "publishedDateTime": "2020-10-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-how-ai-can-help-boost-alternative-and-renewable-energy-use.md",
-      "title": "How AI can help boost alternative and renewable energy use",
-      "excerpt": "The challenge of inconsistent flow of wind and solar energy is getting help from artificial intelligence, helping companies predict and adapt, saving them money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/21/88c374fe-8fa8-49a9-9b4c-fc2a7a881400/resize/1200x/2bedb66f52c7d89171a70fedf5977a96/istock-1268370995.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "publishedDateTime": "2020-10-21T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

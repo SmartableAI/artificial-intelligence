@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-has-intuitive-surgical-only-scratched-the-surface-of-robotics.md",
+      "title": "Has Intuitive Surgical Only Scratched The Surface of Robotics?",
+      "excerpt": "Robotics-assisted surgery will keep growing for decades, and despite its hefty price, this stock is just getting started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "publishedDateTime": "2020-12-04T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
       "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
       "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
@@ -340,7 +383,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -662,7 +705,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1345,49 +1388,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-does-the-future-of-robotics-lie-in-the-imagination.md",
-      "title": "Does The Future Of Robotics Lie In The Imagination?",
-      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
-      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

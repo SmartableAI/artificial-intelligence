@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-opt
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Medical Image Processing Deep Learning Market, 2030"
+    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-04T11:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "A Machine Learning Solution for Designing Materials with Desired Optical Properties"
     excerpt: "Berkeley Lab scientists have developed a machine learning model that can be used for calculating optical properties of a known structure, and for designing a structure with desired optical properties."
     publishedDateTime: 2020-12-02T15:08:00Z

@@ -314,6 +314,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI ethics researcher says Google fired her after she criticised diversity efforts"
+    excerpt: "Timnit Gebru, who is Black, said on Twitter she was fired on Wednesday after sending an email to colleagues expressing frustration over gender diversity within Google's AI unit and questioning whether company leaders reviewed her work more stringently than that of people from different backgrounds."
+    publishedDateTime: 2020-12-04T10:51:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/google-fired-ai-diversity-black-ethics-b1766141.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 49
+    images:
+      - url: "https://static.independent.co.uk/2020/12/04/09/PRI173083165-2.jpg"
+        width: 4923
+        height: 3392
+        isCached: true
   - title: "What one of Google's top AI ethics researchers had to say before the company pushed her out"
     excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
     publishedDateTime: 2020-12-03T20:50:00Z
@@ -343,6 +357,6 @@ related:
         height: 465
         isCached: true
 
-secured: "rPVBHXyeY/VpOaX2xFY7XXjgEk7u0nahWjl9KoRqy4nwMlGg04Mn0qrpoj9d0hSX4H04QA3OOONme7//rGcIQ09ZV2CwIvuO7m6cZ//MDVA/ZamJA/XNTQ+dyZsYkXay3AhIxGfxHZdxCjJe8BeF/m/bcJfj5rUfsjfWk5AHJH783ct7Dm8smQEpIlPXbI6yPhd8h04gwDCZVunqLHaDBQ0IKStQb5NGZBdELf5EZq2zA0xSdq5vzgPYmIbdBPh8RzizD5wqtd0KnVhzmPwyvFiFZltCBOX+YxsE7iSipxcBGIBzTQnQ7XGT8/urzZ7Bzn++FqdYU1ZzdOP/FfXzIIs2WlC3UcPqo6qgzj/Lkzk=;PpBPwdKF1ruwfBEM7UwLPg=="
+secured: "BWsxcWDproj2oqSkEXtVOTxcyiFHvKqLhiwsYGl/BvOVAQS2Tx5/6IxtpsTSGhxSCPnvvA3taG7gbMOdcCbGRx65loXt58HXoZbrIX79LEWETBxQLHjcNRDLgKiMMiZ6lNoLuHX2NQ4bkyowp2DQzV4opW+DWTamzaHWYgcTdvms5X/k2LJ5+/3BLsD635KEemel1WVfGTXVN9aA8bIjF2Kkdo0LEFSGH/QQ277vskPko7izZPHCLjD6pKEiozgsodWz1LgdWp/QrKN8z8Te3tQhxZdasZVdmlalBQPLZSphSmjekXTGW5J9sMviZgqwF5Kj8T/UURc3AYJdtT8ISsSsn2JvleoOX/JOFxQ5SHeW++Tni74/IcENCIeUfzAgvYh59KYtdcsyDc/Uxcg1+gFceKSkrr1EYjD61XZtkC5bIx1zklyqXn2K/t6VjdrIKhTTE4KY9c3jOlsKxy+aHJjEn/dxu97iXgiXnXrMOZIhbhHSnj5OrYTmmJBikSlU5+8zQejJnPmd4RnY825TPw==;bh17hSiati1dHi7MJdMr6Q=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Trump signs order on principles for U.S. government AI use"
 excerpt: "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making."
-publishedDateTime: 2020-12-04T02:17:00Z
-originalUrl: "https://www.reuters.com/article/us-trump-ai/trump-signing-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
-webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signing-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+publishedDateTime: 2020-12-04T06:36:00Z
+originalUrl: "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
 type: article
@@ -56,6 +56,6 @@ related:
         height: 538
         isCached: true
 
-secured: "n5RLaTmmGlad/CmxABlKDTHCMMjmNHo7voAuU/WfHvQ3v3CuPRHCVg0kgfc7l7wCrT2SLpVZaQbu6YqHZkXjOJedsbcRfrpSHILhskUKruTMvUyUR6R9KpMtpVZyUvkgxIKhwwU5CW3VPqiWpC8loY6ePksilNBULVzxdzGwIXdlM+Wik9CosQeO4NIjvdFk8gWwL3ZJ526ErTGg2DBRC/hunk7L7Ih/C7ZMhUGRN3ottzIcSGDIDIwyawCs9Tu/gPRBiSKRJ7MnrxEtPBgW2WUq/zqu1ql5UuMJJ2L8yLdLrMdflOZyPzcebh22SJb4tUJjBMi4VxrjZjbew8nBlxRchy+St8Xp1ySj/9aj3Cfg7ljeZB4cYJ+LCMHWnZabr++g5okDnOgkLXRwRzZYjdJ5lqHZHCO8Boj5KMrytCmmd/F552ft4YgtrlEMwYCQ6ADXJDXdbwBFAoklmyrLQefqS/Xa2VkY9LoYfgZVzds/mpiyDsD4YYogjwgL50avhvyARXM50FX4S+LxFHjmCw==;NlOWrksoCDOfrleD3JsZuw=="
+secured: "JU+Q04XMEKPGH9hIbrPQ3Cs9Yjy4QshvXCMPTo/dwe8yUiNm0JIVs9E5qxW8mzMq8lpjvM1kN4ZtGKSgzRNxg5upXDpxzTsO7uz7bp202yG2rp1UlxFXfRtS7cfonsPLtFRgG6T49kZn0C5fz/aP1cJ4cae/KvF+RHiErcSxsLPVjxeudA/SGw2wjApygjtDBtYusYZOFtPTCPLvdyCL6ThbAqBhFr2tO9N4ucKH41+t39AWbF0BdCz3ougRpAH5wh0MTecLZYWHRvcdK2w7YaTN0jRPmTDihJe2AlFgYCV0Nbkr692CiTc2WsMxe9D6RA0i/5o4W7q5iq2evrkQ4QgCz5mcFNpHF5q9QgJij8w=;eEmESm+fxNOpQZdPtQAfqg=="
 ---
 

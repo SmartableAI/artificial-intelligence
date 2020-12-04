@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
-excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway"
-publishedDateTime: 2020-12-03T20:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/g18640911/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-prote"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/g18640911/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-prote"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18640911"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18640911"
+excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,"
+publishedDateTime: 2020-12-04T11:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
+webUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
 type: article
-quality: 11
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
@@ -50,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4pGtbbLi3ZEWR72CXyFWMG37dInoMVrJLiIJc7kD8uccZn6Da5DP9vTW16rmSYE51iq3rSuERApxPI3JNT543wVOKvOQ5K3IP71hWES/YjzRrfKhkxB1QoEYXBCqhOkwaqVnI83GDBaFNzYacy4XOcmLzuoweSs2LgsCsx0XGboEymgL89UVRttGlFS0jMlJUnzGMhuSve+hwI7nW53Meu8WooGxrr1+DHpuCxKkNzMeErPnHBefLIiwD6HGAWEjOe6EQuPtF3kH8i42TpjC8kEnfrhODtMTk/YqLU73F7k3Dx9lCqd7esUZdFlxDgkh/lBxOFiKhAGlUHU4X3HHMViQrHFRM2YdabDxw9T9Ozw=;CmQwxrbxVKUFEr56pg1JZA=="
+secured: "XbkGgQc4MCAsBda2Ge92Gx0ksLzDHAaOEvpr6kopT0AqBtq41vi1EXRHp3CIZHhyXmppm3Aluyt3zYdx7A84HURWVxz8RjLrqi+PbJHrPE3wQiS0rJibNjbx5Kpsh8vpcqAhkGV29Lhy5wFlo5w7WHd5Q/JW6hxp0sIeIQbvqTsjepIQ8ofXyW5gUGEU6J1vN4u5RA+w00iIMfqH4pwSLrGeyfBx39UROvAkt3zzlaOc4v9Q63p/MzEcD8iwwc7jD0mKkXwzlQ+6eRf2tXeTTrHIfatyRpxJM3EpEWuBSav+OTrVhK8nL3wUE5N3lAyPNKS133e4dJCBjP18JhzlaK4sgIiKCQeFWaKd3KtbVrM=;1oXETRmeJR1GREg4nL+jQg=="
 ---
 

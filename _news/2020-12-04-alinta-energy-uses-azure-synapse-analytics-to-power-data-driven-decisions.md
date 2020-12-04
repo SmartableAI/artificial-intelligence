@@ -66,6 +66,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
+  - title: "Microsoft Azure Synapse Analytics Now Widely Available"
+    excerpt: "Azure Synapse Analytics is leaving preview alongside Synapse Studio. Microsoft also announces Azure Purview for data governance."
+    publishedDateTime: 2020-12-04T12:48:00Z
+    webUrl: "https://winbuzzer.com/2020/12/04/microsoft-azure-synapse-analytics-now-widely-available-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 69
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Virtual care platform Andor Health raises Series A from Microsoft"
     excerpt: "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,"
     publishedDateTime: 2020-12-02T19:56:00Z

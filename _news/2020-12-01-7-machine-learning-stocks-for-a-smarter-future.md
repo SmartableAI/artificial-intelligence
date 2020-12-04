@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stoc
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips In today’s uncertain economic environment tech stocks (specifically AI"
-    publishedDateTime: 2020-12-02T17:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-that-are-helping-the-world-make-smarter-decisions-1029859407"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "7 free tools for deeper online learning"
     excerpt: "Spring’s shift to online learning was sudden and unexpected, and despite pockets of schools that have resumed in-person learning or moved to hybrid learning, most schools are still fully"
     publishedDateTime: 2020-12-02T10:06:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025"
+    excerpt: "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been"
+    publishedDateTime: 2020-12-04T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Forecasts to 2025: Global Industry Growth, Share, Size, Trends and Segmentation Report"
     excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
     publishedDateTime: 2020-12-03T05:21:00Z

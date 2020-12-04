@@ -2,6 +2,196 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-10-30-artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial.md",
+      "title": "Artificial Intelligence Platform Reduces Hospital Admissions By Over 50% In Trial",
+      "excerpt": "An artificial intelligence-based diagnostic tool has reduced hospital admissions by 51% among elderly patients identified by the tool as being high-risk, according to results of a trial released by health care provider Clare Medical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
+      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ab250fe11cd3ec3ad8215%2F0x0.jpg",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/",
+      "publishedDateTime": "2020-10-30T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program.md",
+      "title": "StradVision selected as a member of Renesas R-Car Consortium Proactive Partner Program",
+      "excerpt": "StradVision has been working closely with Renesas since the announcement of their collaboration on developing a deep learning-based object recognition solution for smart cameras used in ADAS in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program-301161061.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program-301161061.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
+          "width": 1413,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-alphabet-amazon-apple-facebook-release-quarterly-2020-earnings.md",
+      "title": "Alphabet, Amazon, Apple, Facebook release quarterly 2020 earnings",
+      "excerpt": "As Alphabet, Apple, Amazon and Facebook release their latest earnings for 2020 ... “It’s also a testament to the deep investments we’ve made in AI and other technologies, to deliver services that people turn to for help, in moments big and small.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/alphabet-apple-amazon-facebook-release-quarterly-2020-earnings-123492474/",
+      "originalUrl": "https://www.information-age.com/alphabet-apple-amazon-facebook-release-quarterly-2020-earnings-123492474/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/10/alphabet-apple-amazon-facebook-release-quarterly-2020-earnings.jpeg",
+          "width": 1080,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use.md",
+      "title": "How AI is helping Indian cotton farmers reduce pesticide use",
+      "excerpt": "There are more than 5.8 million cotton farmers in India according to the country’s Textile Ministry. Every year, they face heavy losses due to pests attacking their crops. In 2017, farmers in the state of Maharashtra faced a loss of ₹15,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/800px-CSIRO_ScienceImage_408_Cotton_Bearing_Cotton_Plant-e1604052065746-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
+      "publishedDateTime": "2020-10-30T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure.md",
       "title": "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure",
       "excerpt": "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ...",
@@ -1005,206 +1195,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
-      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
-      "excerpt": "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "originalUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
-          "width": 3331,
-          "height": 1816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "publishedDateTime": "2020-10-29T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-robot-boats-from-mit-can-now-carry-passengers.md",
-      "title": "Robot boats from MIT can now carry passengers",
-      "excerpt": "The latest \"Roboat\" is an autonomous vehicle that's about six feet long and is being tested for use in Amsterdam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "originalUrl": "https://www.techrepublic.com/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/10/29/fefd8537-d5cb-474a-ad8f-727c76b9358e/resize/1200x/db81d351348f41e33e4312f1e43dfa1f/mit-roboat-ii-close.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "publishedDateTime": "2020-10-29T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-the-alignment-problem-linking-machine-learning-and-human-values.md",
-      "title": "“The Alignment Problem”, Linking Machine Learning And Human Values",
-      "excerpt": "As the subtitle states, it’s an attempt to discuss fuzzier aspects of human value with the growing relevance of machine learning (ML). By ML, the author almost exclusively means neural networks. Overall, it was a good book. As with most, though ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/amp/",
-      "publishedDateTime": "2020-10-29T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-has-facial-recognition-won-the-race-for-biometric-authentication.md",
-      "title": "Has facial recognition won the race for biometric authentication?",
-      "excerpt": "Fingerprint identification had once been the most widespread biometric technology around the world. However, many argue that this technology has quite a lot of shortcomings. For instance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "originalUrl": "https://www.sourcesecurity.com/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/biometric-access-control-920-2.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "publishedDateTime": "2020-10-29T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

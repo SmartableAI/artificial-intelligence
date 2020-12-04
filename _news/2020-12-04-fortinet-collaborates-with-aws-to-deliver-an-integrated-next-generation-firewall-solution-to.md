@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
+    excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,"
+    publishedDateTime: 2020-12-04T11:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
     excerpt: "Deloitte collaborates with AWS Professional Services on cloud migration and app modernization for enterprise and public sector customers."
     publishedDateTime: 2020-12-04T00:47:00Z
@@ -39,17 +53,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
-    excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway"
-    publishedDateTime: 2020-12-03T20:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18640911/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-prote"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18640911"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18640911"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "uk4yJ5qDtXwybrDSrGrER1Un/ddG3vrXjffp6zimKwHTSPQuaPBAlxPCz6fulWVwyjSXy6iKJm8VN4/j+cX7V0IxHbGUufqZXjaVtRt7qPl0j7QFNkQTBg37TPXOtl9V3WjdTk/CHMx+OYePJAtpWoxCXkvF/xni8m51eAKgYgofwvsj7+ClqRKyUsyu5LXpqpTU6DGR7/QWvsBlllw+sL+4pKgHpCN3se4Giq92pYmqO7KJT9wDdNig4UJSFibZCWg3aLCf5kA/5q/LizgZ9ZHVQSUEWT1Hg7VpSmltehN2Vi8o6PTOLJ3hGc/cl6xhkNygc64zTYuEH75xjpvrSgRzf84YOX0ftUN3LeJ0CeA=;ZfFrELmCM+e14r7gTq16vg=="
 ---

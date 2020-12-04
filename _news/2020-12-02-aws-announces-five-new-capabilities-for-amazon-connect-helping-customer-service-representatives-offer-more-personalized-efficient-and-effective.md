@@ -82,20 +82,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
-    excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-11-29T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-devices-market-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2027-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "EdisonLearning and FocalPointK12 Announce Partnership to Provide Comprehensive Learning and Analytics Solution for Grades 6-12"
     excerpt: "EdisonLearning and FocalPointK12 today announced a partnership to provide a complete solution for grades 6-12, delivering more than 170 middle and high school courses along with nearly 60 embedded"
     publishedDateTime: 2020-12-01T19:36:00Z

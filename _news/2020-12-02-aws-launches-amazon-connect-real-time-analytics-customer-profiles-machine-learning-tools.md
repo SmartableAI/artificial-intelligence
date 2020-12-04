@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
 type: article
 quality: 96
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-1200-80.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
-    excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-11-29T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-devices-market-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2027-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."

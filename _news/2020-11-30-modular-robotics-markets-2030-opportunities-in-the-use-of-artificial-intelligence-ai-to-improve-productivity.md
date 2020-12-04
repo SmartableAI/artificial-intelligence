@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Computer on Module Market 2020-2025: Adoption of CoMs for Robotics, Artificial Intelligence, Smart Electronics are Projected to Drive Growth"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global computer on module market grew at a CAGR of around 7% during 2014-2019."
+    publishedDateTime: 2020-12-04T11:33:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=387357"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "L8tT6tApDDpNU9wb3iYbCWlrEwTAaOMQVeD9cmkmS6a67LqzURFYjMjHwdrHv/G50wlVJUtdPYxzpwR8Y36R09mrjctgnbDhrgTnlu/wxaBRKvvTJ/6ke+r5nem7/kVYIvUd9hhALq/hagvp9Sn9ka7RbbMX1R97WzGtG4MSR4VQVWC0Gh7RBfjtjIvxvA/Q2nAQ3R/mQZ0VFgcY+sILd8snuNsguW4TZn/PL38rYKgqN0Jhx16IkOOBFRiNkhOrUbskSBhjKRAtvsiCUn6enPozGjHQB9MxnxnpRaOrjG49l1Leg5ts5YnV8vvmS64b/ASLCZbRnKehoP6NxWs+NGEuMqgjHQ4M/97uaUW1ecg=;HQTAmcmxffIuZ0nrxHhGYg=="
 ---

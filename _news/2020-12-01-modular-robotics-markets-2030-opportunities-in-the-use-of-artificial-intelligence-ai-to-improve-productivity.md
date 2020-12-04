@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/modular-robotics-market
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
+        isCached: true
+  - title: "Global Computer on Module Market 2020-2025: Adoption of CoMs for Robotics, Artificial Intelligence, Smart Electronics are Projected to Drive Growth"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global computer on module market grew at a CAGR of around 7% during 2014-2019."
+    publishedDateTime: 2020-12-04T11:33:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=387357"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "NXUQng24gU6yHB8JDPY+oqM9RU8+gDmYMwqIAGdUp7U/prTwPIWDfczCNAFjxRKGeCXibnJtvm37QQXYDmBg9s/DU0IMoFEvEEYygycqBq/3ptAkB5AOWmkm7NnfjxlSjrCaiyy1MgnfjFTyyNQr1dmwP0qmj6kayAluadhGCQtQB6zakh4gh9lDTCCvDg2HxWnVExLvHM8QrvlwInfjvxOhlZAKVnixaB1kac4kAhwk0NcCyysGW3T4izWAwmscTk2pArbAZFZ5U3irB45TfygdGl68J1q55C7EHf8116t54QIcrPTjOMUNUmUwMefSeINeDI9q3Qb2c5Q85w4ASdZ6ViMcF5gesChR9fR6IoA=;MTK4H5UX7ORtFStIYeAh6A=="

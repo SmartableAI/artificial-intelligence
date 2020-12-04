@@ -38,6 +38,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
+    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
+    publishedDateTime: 2020-12-04T12:01:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 52
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Translation: Must We Be Slaves to Facial Recognition?"
     excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
     publishedDateTime: 2020-11-30T20:54:00Z
