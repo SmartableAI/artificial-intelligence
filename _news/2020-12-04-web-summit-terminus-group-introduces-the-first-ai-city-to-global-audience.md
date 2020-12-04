@@ -2,25 +2,29 @@
 category: news
 title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
 excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
-publishedDateTime: 2020-12-04T09:53:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-infectious-diseases-ursula-von-der-leyen-lung-disease-e1350cfade87761d8b6e5448a9682e9a"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-infectious-diseases-ursula-von-der-leyen-lung-disease-e1350cfade87761d8b6e5448a9682e9a"
+publishedDateTime: 2020-12-04T15:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04"
+webUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04"
 type: article
-quality: 35
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -71,6 +75,6 @@ related:
         height: 450
         isCached: true
 
-secured: "J8EvTbHsUeJgisWWnm0fTcJGgoDTXVFL7uVAZzFRadR0S0A1Kh8qHI/tI8mxJDMT2Z+X2YfqiRfZzVbsuefQSMiumQPs4t43Mkj2qn9jnHXPOLax2fn/18G14ajaEUwo1XOeKrHnoR2pnP8li3J5psll1WXQB4rP1zMLiGkrmKFOnDzgGSF16gsgLHz2rqmtqgZtsKjHg6uZJRhGLQe+A6hvul9YhDjBds8GINy1qcX5e7wmVBDobooWyidjGOiY7j0KmU2LR7O9EcCUz+KwgDAxM0DhXSebtk7PkDa1dTcaXQdsDKUGzyn0B8BC+k2YzL5OTOGFozwoP2G3BA+Mgb/n9EY+83EvlQJYgbH7z7o=;C9iybi8ZMlggFzs6LBcKog=="
+secured: "CFyjSeVRCckWRSD4yPxMKuGk/ECyv+CPyrMyZm+8ml9xxjZdXTagPXjZXe+/9MtrdvbXVi6qcVi3Lsc9lxbS1YVyOk4rkcr7Hr5OLgIauRBUFFH5qhOORu4/w4g1kYsMF+qjNKSDTvb6XLOCouPnYmEra6SMC/bQdRnEob5PjCOO/BakEAhbuYnp+do+8DXlDGNUgpjRkfi7tlEAZkVR+nwKlky1koNGrq+5hkMMICNbcXqkW5OpkfhSVPcxZrwz0sCdbYv0hdK23JNnu5bEGNN5Axuizzhq6FzJKwaY+4HoM81WMQ43nlgeS9wguUDvCF0fHaT9EGgr/6IYJ9WAN4FN/X5TjXE6/g0WYeqhtA8=;xWKcG7K6MJ9+QBEKg4PvjQ=="
 ---
 

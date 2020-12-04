@@ -281,6 +281,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "A Top Google AI Researcher Says She Was Fired Because of Email Over Racial Bias"
+    excerpt: "Timnit Gebru is a prominent AI researcher who says she was fired by Google. It's sparked a firestorm of concern about racial bias in big tech."
+    publishedDateTime: 2020-12-04T15:50:00Z
+    webUrl: "https://heavy.com/news/timnit-gebru/"
+    ampWebUrl: "https://heavy.com/news/timnit-gebru/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/timnit-gebru/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 55
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/12/timnit-gebru.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email"
     excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
     publishedDateTime: 2020-12-03T21:18:00Z
@@ -379,6 +395,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "BgGkT+VE+rz8so2gW37GGiXm8cCNCFg0WsrIH9PZG+Tn+Rsawak8VOy9hV1zbCXUGDtTQnRk2MOeqJWNswjaIJF0fL1ercQ64Sb8OnZ19x1Ih5sQbKkDff4OsP0s8fguUdmlV00S8CrNunP0B8U6hYvOjkd2zCCX2EeSnlKuzXJvf/U++fdw4pYDQNoxyh8WmldVOkLo3W5sxjf/cgVbQXUH/VuEORt0kdgxovavfbawsaxDZi1hbjh7n/V30wPEbumpGI5GQ1+yVoa/MgYg4HdpqLNdcJex2zRdckLXjqCt3Mf9oGBbhXA18/xRzpU4G+xC4QaVTF3qHCJ6Tdq6Alg3QyhYxOuyuJ/OFOFxtS4=;MvtgTlPYfAkNbUN7Jj1V/w=="
+secured: "qU3sN+BfRvT9ADKRtZVGB9qnFMSzKXogbWxML31BWp2w+PGALjjkBoI/lnp/inePB+dcyZ2Hsryre2Y0hzmGBG3tlfj2tw3mg5/UayFScjfziTPbVLD0zH5fPZJj41zz2VieMc15MrNcYxQijIW9uebVJ00QE/3xR19llqBuYyW0QdADCNNnAqOmVspqpsBj9+7znXJWxKMm57VeQCTPC7vImhg2sYsSYdQUlB6Dl9Rt9KCfdLt4bjuACDjKQ/ZMb+tdIw/+HxNab673kqJ0N/E0Ew14pvNVr4iOT3/GsCCmhlk0PXpmHPGK1A2CbR49IZnGULT7HeSeKRVaUxG7EixmTOrH761Qw17fXQvYGM0BTxr+oNlLMeQJy1KRNo2IowNga5a36WAIz9YUNiZs5XBrrsT2wL2ybrQN+2L9C5UiTVsJ8RYCH49Z9qFBOsxbk+UgpA+2XD8kcRC6Z2n67rFp1wyN4E4LVuCuGUX47PshTfBH+Zbs1xAVpdzMeWZ5R+2/Ojk1u6w6i7OUGLTCYg==;Vcb5Ih4b/SlLYbTDRtzxQw=="
 ---
 

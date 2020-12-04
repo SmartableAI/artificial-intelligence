@@ -75,6 +75,22 @@ related:
         width: 1199
         height: 902
         isCached: true
+  - title: "Not All Sunshine and Rainbows: Waymo’s Self-Driving Cars Take on Inclement Weather"
+    excerpt: "Until now, self-driving cars have mostly breezed around the sunny streets of places like Arizona and Northern California"
+    publishedDateTime: 2020-12-04T14:00:00Z
+    webUrl: "https://singularityhub.com/2020/12/04/not-all-sunshine-and-rainbows-waymos-self-driving-cars-take-on-inclement-weather/"
+    ampWebUrl: "https://singularityhub.com/2020/12/04/not-all-sunshine-and-rainbows-waymos-self-driving-cars-take-on-inclement-weather/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/04/not-all-sunshine-and-rainbows-waymos-self-driving-cars-take-on-inclement-weather/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 68
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2020/12/waymo_minivan_5.jpg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "Waymo's self-driving systems will be vetted at two proving grounds"
     excerpt: "As it readies its self-driving technology for operations across a wide swath of environments, Waymo will soon begin testing at two new dedicated proving grounds. The company said Tuesday it has partnered with the Transportation Research Center in East Liberty,"
     publishedDateTime: 2020-12-01T15:57:00Z

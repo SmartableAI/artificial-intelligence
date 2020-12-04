@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Presagen announces IVF success story with first baby born globally aided by its artificial intelligence (AI) applied to medical imaging"
-excerpt: "PRNewswire/ -- Baby Ebenezer is a happy, healthy 8-week-old - and an IVF success story of a new kind. His entry into"
-publishedDateTime: 2020-12-01T09:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852034"
-webUrl: "https://markets.businessinsider.com/news/stocks/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852034"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852034"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852034"
+excerpt: "PRNewswire/ -- Baby Ebenezer is a happy, healthy 8-week-old - and an IVF success story of a new kind. His entry into the world was aided by artificial intelligence (AI) applied to medical imaging. As an embryo,"
+publishedDateTime: 2020-12-01T08:42:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-child-and-teen-health-sexual-and-reproductive-health-medical-technology-medical-diagnostic-technology-fc242a0cbf8adbb4f5e1fba2c0f9bb12"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-child-and-teen-health-sexual-and-reproductive-health-medical-technology-medical-diagnostic-technology-fc242a0cbf8adbb4f5e1fba2c0f9bb12"
 type: article
-quality: 52
-heat: 52
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "N4sMKvTfKRsFrCG9ZMc1P+5NSmj6tTu+FAD2pzcTxRvaIlF+p5yHilxASPylDFKB36ODf6yNipNbEUQTTgedFo0iDwJcdTBCatEI7WQWjb5ZnJm5qBBleMS/hFXU64fp6OxAV85ipyjmu9Y24SjLimEkg261m/SSTNJEsCyOEzgAYSA6rzsuA+rPBkCFHwh5cJ3JdBoO/UApC7DWlW8/n0QRmbfMNMBLPqnLGN9YDqCGdZWwcI3XxXrDvyRiZGoTyu43tlsltjBI8yUY05TbT7nDGJkUGW5IosEF/pv4d38e/GS85kpY1w7qT6oN87wSp1jIlXYw6nx+clXtmc8AADQ8rrckrEhsILKD3MCVKCc=;+rPJx4+Y4rf0IINeGV63Jg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "u8tc1N0Aj7s0xTFTu4gZt9ohs1M3ktYNGdTM2DvDwVVpW2cQL/FJbA8VLoDVtBEZ3Ff4l726ADJcGSdqVK5CAKlmZqbS/WX0uV1XcQRREmHv1Mr7Oun/2HO9gMsvbt9R/QXBZvvRQDUolTS5nbUcN/r/AEuQPTRwgW7ubCVMr06Bqa/EGgocUtcceQL/e08jxMbmYZv74Yy27+PGM+PiL8bscLsrTpQkw9E2L7gxbCBgtG5fMPMIXRqX3tlB9q0b/HpIdpDsIvlsU6s2NEFmofyJSdUfNbhGoBk3zTJqQI6YBrP5TW2dXzDZT8GTMLlb03DofXZpe00hfPHg/gQ8yJrERMat8VQputT4sq23I7k=;HyKIKLPnNGTx+cIRvz1w1A=="
 ---
 

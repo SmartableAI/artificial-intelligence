@@ -116,7 +116,7 @@
       "originalUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 489,
       "tags": null,
       "images": [
         {
@@ -1156,10 +1156,10 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {

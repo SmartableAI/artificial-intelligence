@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4715574e6fb2cd0b8b531%2F0x0.jpg%3FcropX1%3D365%26cropX2%3D4717%26cropY1%3D60%26cropY2%3D3333"
         width: 1199
         height: 902
+        isCached: true
+  - title: "Not All Sunshine and Rainbows: Waymo’s Self-Driving Cars Take on Inclement Weather"
+    excerpt: "Until now, self-driving cars have mostly breezed around the sunny streets of places like Arizona and Northern California"
+    publishedDateTime: 2020-12-04T14:00:00Z
+    webUrl: "https://singularityhub.com/2020/12/04/not-all-sunshine-and-rainbows-waymos-self-driving-cars-take-on-inclement-weather/"
+    ampWebUrl: "https://singularityhub.com/2020/12/04/not-all-sunshine-and-rainbows-waymos-self-driving-cars-take-on-inclement-weather/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/04/not-all-sunshine-and-rainbows-waymos-self-driving-cars-take-on-inclement-weather/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 68
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2020/12/waymo_minivan_5.jpg"
+        width: 1408
+        height: 792
         isCached: true
   - title: "Waymo will build a city in Ohio to test its self-driving cars"
     excerpt: "Talk about pop-up urbanism: The Alphabet-owned Waymo will build a fake city in East Liberty, Ohio, to test its next generation of autonomous vehicles"

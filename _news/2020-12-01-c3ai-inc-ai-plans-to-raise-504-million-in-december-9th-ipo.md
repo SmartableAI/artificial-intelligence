@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
+    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
+    publishedDateTime: 2020-12-04T15:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December"
     excerpt: "The annual tech conference Web Summit is opening from December 2-4 this year. Due to the health concerns regarding COVID-19 pandemic, the event will be welcoming attendees from more than 150 countries around the world online."
     publishedDateTime: 2020-12-01T06:47:00Z
@@ -52,20 +66,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
-    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
-    publishedDateTime: 2020-12-04T09:53:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-infectious-diseases-ursula-von-der-leyen-lung-disease-e1350cfade87761d8b6e5448a9682e9a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

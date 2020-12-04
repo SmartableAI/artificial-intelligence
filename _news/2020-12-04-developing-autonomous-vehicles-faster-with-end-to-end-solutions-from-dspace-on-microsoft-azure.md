@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-03T18:35:00Z
-    webUrl: "https://www.oaoa.com/news/business/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g/article_acddd903-9b5f-5332-b486-c0cd45ec973a.html"
+  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
+    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
+    publishedDateTime: 2020-12-01T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 71
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "dVmQodNbviML6yY2jK9MgDe1h5GDFj8AHkkKwPPugbxcYAzih5zKcvW+s6A1H/JR+MU/EwZ5Xk/ROxMeVH2s1GOnF8WGJvaKItKlSWxioNrC1rjzeBVRtaggIssJFcUOVDvihUM+UVJeVY0Xdhyh0bB7VTjz4aLhGxqUkQhnGwz7w7zJq6de5lrT/D6hIouqde83FPULPXBF9SOPP4PeK40ZvJGwB5QFXpD/GwSlwvyRmSH+l8E4jB2V8dV2k6npwp0Lt6c2JpDiEB3ybNZetaNXI+qO8BR8fzgMzukPuRQLyS9cqcflba8vSXyklnosZlZ6lO7RpU/0EVjj216Ef99aEkL4yg5OFY6EMRA5ANA=;gp/uK6qmGyP4LLwqSFn7Ig=="

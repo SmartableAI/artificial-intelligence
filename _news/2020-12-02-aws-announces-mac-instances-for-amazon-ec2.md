@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 535
         isCached: true
-  - title: "AWS Announces Five Industrial Machine Learning Services"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced Amazon Monitron, Amazon Lookout for Equipment,"
-    publishedDateTime: 2020-12-01T20:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Introducing the AWS Panorama Device SDK: Scaling computer vision at the edge with AWS Panorama-enabled devices"
     excerpt: "Yesterday, at AWS re:Invent, we announced AWS Panorama, a new Appliance and Device SDK that allows organizations to bring computer vision to their on-premises cameras to make automated predictions with high accuracy and low latency. With AWS Panorama, companies can use compute power at the edge (without"
     publishedDateTime: 2020-12-02T16:02:52Z
@@ -98,6 +84,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS Announces Five Industrial Machine Learning Services"
+    excerpt: "Amazon Monitron provides customers with an end-to-end machine monitoring solution comprised of sensors, gateway, and machine learning service to detect abnormal equipment conditions that may require maintenance (Photo: Business Wire) Companies are increasingly looking to add machine learning capabilities to industrial environments,"
+    publishedDateTime: 2020-12-01T19:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-amazoncom-inc-products-and-services-c561ab9758064c83b3e5050e8bc94d57"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
     excerpt: "December 2, 2020"

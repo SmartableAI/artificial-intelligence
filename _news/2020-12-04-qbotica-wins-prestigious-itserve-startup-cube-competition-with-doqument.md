@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18650375/qbotica-wins-pr
 ampWebUrl: "https://amp.benzinga.com/amp/content/18650375"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18650375"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.abnewswire.com/uploads/1607021531.png"
@@ -25,6 +26,6 @@ images:
     height: 1331
     isCached: true
 
-secured: "6Ax1n3p1EPeYsRn/h8nfuk0B6y2IBk7iY9BO6vNVsvmwTO6R7eLk81b7Y7RQij+m5t5e/Qho0piUXjUAB9JK4+BSceGPfKjtDK7I0cEIy5rEfhX7OpwCnK+v77OKhxKFME/9/BrOpX4ave/zNrtXTgilSzvGNuNS5Kcx7ggiMLnHRpMgPH+QZQWNut91u5NL4S48QYJF1R4u7chLZyw2XkwG65Vf7edePAvjT8tJJkX3uAhHr75YfKPnyTcuc3w3bkF8eQkVjD/rAryUkgo52maYxc1/r5GV++EZTVdojRo6K/I7TUrxYvgLI76RcskPGqESYl7stHv3EC1xSZq3Z9eCxh+P1LnUijCArB+v/zw=;7vqYRdKJXOnBmFFXWCVs3A=="
+secured: "aVVVnlqGHWYQgDbtLNKnwIbS7A+jNbQoOu6jRAry1Jfvr6YAMrGdkUlCDPPWkUsAQNkehHlj7xi2W2jlzThct7fkN8txsRSHUMLdFNqFisxvPNi7IxZEzvYFdtK6oo+eNPlL6EFhcNT23/4rz2Fr3z6An0+1CAih7XYA4x5uv0d1GMukzPzQUzgXNUsjxlhqAMOVPW8r+6/R+hYh9DdoMPUei3iqpyklyZYLf3/zJqKaQ+q3gGzw9VeJJeGZ+6GyIsdM2VJuRieVsxQmxLYNNpKYlXLmCAiJ8CG+Ri8Jmg4YNu7mWEsWW3khiXdkjslQQwlUNDyahPsCMbLC91wguw9c2DHp54cRHwzEv1SLbGweJZhlmeqBwMwb6uuRifcxoj/m/dC3fcZKx5pxH8/g3v9jZZ5QgmWUgLLH/ixbnjbZUM6mRtnzEpSwS5Sr8+sJn5aeTGXIHXtOPIn3GlbHXIDJqEN4lAEME3fEiJib2VBEJLH2rrP0iWMsGped+f0qBnNh1tbShAFAmGrJXcTW6A==;mcSLsvjorVLZDpmLucM3cg=="
 ---
 

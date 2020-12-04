@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-h
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
 type: article
 quality: 106
-heat: 336
+heat: 346
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/080966e/2147483647/strip/true/crop/2304x1505+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F72%2F53b243554314ab301dc53a0b90dc%2F3064066-fi-google-walkout02-jlc.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "A Top Google AI Researcher Says She Was Fired Because of Email Over Racial Bias"
+    excerpt: "Timnit Gebru is a prominent AI researcher who says she was fired by Google. It's sparked a firestorm of concern about racial bias in big tech."
+    publishedDateTime: 2020-12-04T15:50:00Z
+    webUrl: "https://heavy.com/news/timnit-gebru/"
+    ampWebUrl: "https://heavy.com/news/timnit-gebru/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/timnit-gebru/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 55
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/12/timnit-gebru.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
   - title: "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email"
     excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."

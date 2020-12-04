@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
+    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
+    publishedDateTime: 2020-12-04T15:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C3.ai, Inc. (AI) Plans to Raise $504 Million in December 9th IPO"
     excerpt: "C3.ai, Inc. (AI) is planning to raise $504 million in an initial public offering (IPO) on Wednesday, December 9th, IPO Scoop reports. The company plans to issue 15,500,000 shares at $31.00-$34.00 per share."
     publishedDateTime: 2020-12-01T06:30:00Z
@@ -51,20 +65,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
-    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
-    publishedDateTime: 2020-12-04T09:53:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-infectious-diseases-ursula-von-der-leyen-lung-disease-e1350cfade87761d8b6e5448a9682e9a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

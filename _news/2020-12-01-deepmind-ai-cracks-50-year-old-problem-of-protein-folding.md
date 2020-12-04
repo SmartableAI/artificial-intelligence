@@ -173,20 +173,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "AlphaFold: a solution to a 50-year-old grand challenge in biology"
-    excerpt: "In a major scientific advance, the latest version of our AI systemAlphaFoldhas been recognised as a solution to the protein folding problem by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP)."
-    publishedDateTime: 2020-11-30T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/NxvP8uqle7ps9_pc42gx-EmqzbcN_cZKu82VuX2XdXdl0toT77YccuxQROhdygQXSElcCy2RRHHzvOOf9pXviEffJ-768DxepKPsZgw"
-        width: 512
-        height: 288
-        isCached: true
   - title: "DeepMind artificial intelligence cracks 50-year-old scientific riddle"
     excerpt: "A problem dating back five decades may have been cracked by artificial intelligence created in the UK, paving the way for faster development of treatments and drug discoveries. The so-called ‘protein folding problem’ has long been one of biology’s biggest challenges because there are so many of them and their 3D shapes are difficult to map out."
     publishedDateTime: 2020-11-30T15:33:00Z
