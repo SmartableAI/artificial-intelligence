@@ -2,6 +2,230 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-10-18-how-to-use-aws-a-simple-guide-for-beginners.md",
+      "title": "How to use AWS – a simple guide for beginners",
+      "excerpt": "Or you could try something more complex, such as the Data Scientist learning path. This will teach you to develop, train, and deploy ML models through Amazon SageMaker. Again, the key to learning how to use AWS is to know precisely what you want to achieve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/",
+      "originalUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/AWS-Logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/how-to-use-aws-1168883/amp/",
+      "publishedDateTime": "2020-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-sensor-fusion-enables-robotic-grip.md",
+      "title": "Sensor fusion enables robotic grip",
+      "excerpt": "Researchers at the National University of Singapore recently demonstrated the advantages of using neuromorphic sensor fusion to help robots grip and identify objects. It’s just one of a number of interesting projects they’ve been working on including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/sensor-fusion-enables-robotic-grip/",
+      "originalUrl": "https://www.embedded.com/sensor-fusion-enables-robotic-grip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/10/img20201022091134Neuromorphic-Sensor-Fusion-Lets-_1.jpg",
+          "width": 640,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-artificial-intelligence-humanity-and-the-future.md",
+      "title": "Artificial intelligence, humanity, and the future",
+      "excerpt": "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future",
+      "originalUrl": "https://www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR",
+          "width": 680,
+          "height": 931,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart",
+      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart",
+      "publishedDateTime": "2020-10-17T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Monroe News",
+        "domain": "monroenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-nvidia-releases-a-59-jetson-nano-2gb-kit-to-make-ai-more-accessible-to-developers.md",
+      "title": "NVIDIA Releases a $59 Jetson Nano 2GB Kit to Make AI More Accessible to Developers",
+      "excerpt": "However, as developers, learning AI skills for professional programming has been difficult. The barrier is the GPU. Most deep learning algorithms and frameworks are designed to run on the GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
+      "originalUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-sensiml-to-present-at-st-developers-conference.md",
+      "title": "SensiML to Present at ST Developers Conference",
+      "excerpt": "Learn how the SensiML Analytics Toolkit, TensorFlow Lite, and ST's SensorTile.Box can provide a powerful and flexible IoT development arsenal for innovating new smart wearables, IoT, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
+          "width": 2059,
+          "height": 1079,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-how-home-depot-is-enhancing-the-ecommerce-experience-with-ai.md",
       "title": "How Home Depot Is Enhancing The Ecommerce Experience With AI",
       "excerpt": "Online retail is changing in profound ways as consumers change their buying patterns. With the shift to work-from-home and school-at-home changing the way people live, work, and socialize. Retailers are rethinking their sales,",
@@ -937,238 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-google-search-is-getting-a-new-ai-powered-spell-checker.md",
-      "title": "Google Search is getting a new AI-powered spell checker",
-      "excerpt": "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/",
-      "publishedDateTime": "2020-10-16T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
-      "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
-      "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "originalUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-Learning-4.jpg",
-          "width": 1680,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk.md",
-      "title": "IBM and ServiceNow help businesses use AI to automate IT and reduce costs and risk",
-      "excerpt": "IBM. “By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow’s Now Platform is a powerful new way for clients to use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcr-online.biz/2020/10/16/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk/",
-      "originalUrl": "https://www.pcr-online.biz/2020/10/16/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcr-online.biz/wp-content/uploads/cloud-computing-copy-3-660x330.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCR",
-        "domain": "pcr-online.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit.md",
-      "title": "FDP on ‘Artificial Intelligence in Natural Language Processing’ inaugurated in KIIT",
-      "excerpt": "Faculty Development Programme (FDP) on ‘Artificial Intelligence in Natural Language Processing’ organized virtually by The School of Computer Applications, KIIT Deemed to be",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "originalUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/2.png?fit=606%2C342&ssl=1",
-          "width": 606,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "publishedDateTime": "2020-10-16T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-norway-pioneered-electric-ferries-now-its-making-them-self-driving.md",
-      "title": "Norway pioneered electric ferries. Now it's making them self-driving",
-      "excerpt": "Norwegian startup Zeabuz has created a zero-emissions, self-driving electric ferry. As more cities look to boats for clean and cheap transport, autonomous ferries could revolutionize urban waterways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200827174138-zeabuz-electric-passenger-ferry-super-tease.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "publishedDateTime": "2020-10-16T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

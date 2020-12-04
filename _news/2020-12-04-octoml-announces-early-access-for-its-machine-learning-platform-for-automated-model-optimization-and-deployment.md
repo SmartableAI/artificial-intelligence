@@ -2,22 +2,32 @@
 category: news
 title: "OctoML Announces Early Access for Its Machine Learning Platform for Automated Model Optimization and Deployment"
 excerpt: "Today at the Apache TVM and Deep Learning Compilation Conference, OctoML, the MLOps automation company for superior model performance, portability and productivity, announced early access to Octomizer."
-publishedDateTime: 2020-12-03T16:42:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8096405/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8096405/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment"
+publishedDateTime: 2020-12-04T02:43:00Z
+originalUrl: "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03"
+webUrl: "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03"
 type: article
-quality: 14
-heat: 14
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "s1zwpUrgwLRVTTAGbJfSrMV0qdWyHqAP+BT0PMYAO97mByPH3tbGC/0+PcQRwIMagfrJZEwxJOQ3IINq9ft5ObZASldgZuWWIrUnfFPQCmSUEsC4uhHFRNFzWZhkJL+mv4TEyrjQEj8+5RAcSrc0URxoelvj/MRwfJupZCMe4wU5QNFcG8a53MT7gYF8sT7GBUmFGOdFo3PcqxAmo+QKGFw97DjW2ky4T0jyfKit1qY1zcm2hx2VWzy/ShR403KB87CHMbTlA1A81ygv8swpFHH2bkIrdv7Ww6pL1TnnEZdC0qrA9oo9OBblTZ31PoI40+Um3ATh/HHCCjTD9fftQQs5qmyySSD4w6K0NFbcTOk=;2a5mpY0XxDG7aHuRAvRmgw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "7vrnzfSyPItM+AoX5bUuYZQcc5ve7O/fDo/zGUmQx9QeL1f2W9gPFRBoilCxwA6OnlbY81nQadyV7bpNy3xEAoUS9OdhrGIIGIVMHr4Y8Eoegah58j6ia4sjxpzaBZE4CplwPKRNsvEKzQXw/GxnHmFwLja6kaorvBrxIxOneZlZmhk1DycZo346j8GoL9kvA93qcHAJa0ZbnS3p48P9oL8oEeaQrFme3nP4naiveDtpUaD3jemLDQGRsgp44CP0EuNLOlQZeBBDGTdSKxkcm/IxG/zSmJyiA5hv0dkxiFRKC4kL8ToTcHKv9MQep8iGVpInl9t66gip3TCcHuXrMjbRDQ5Xlszw+3+SuWPFckk=;l62OyTV3801Osuxjgv2eXg=="
 ---
 

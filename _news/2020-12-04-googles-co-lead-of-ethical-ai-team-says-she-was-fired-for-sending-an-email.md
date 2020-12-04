@@ -63,6 +63,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "A Prominent AI Ethics Researcher Says Google Fired Her"
+    excerpt: "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts."
+    publishedDateTime: 2020-12-04T02:08:00Z
+    webUrl: "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/"
+    ampWebUrl: "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 104
+    images:
+      - url: "https://media.wired.com/photos/5fc950d9319157d9f1bd0ceb/master/pass/Business-Timnit%20Gebru-1028811892.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Google fires prominent AI ethicist Timnit Gebru"
     excerpt: "Timnit Gebru, one of Google’s top artificial intelligence researchers, says the company abruptly fired her yesterday. The technical co-lead of Google’s Ethical Artificial Intelligence Team claims managers were upset about an email she’d sent to colleagues."
     publishedDateTime: 2020-12-03T18:11:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/hVSUfQtkzDykyVDoXASpeN3wKIE=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68449917/1028811892.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Top AI ethics researcher says Google fired her over critical e-mail to colleagues; company denies it"
+    excerpt: "Google says Timnit Gebru had threatened to resign unless she was told which colleagues deemed a draft paper she wrote was unpublishable."
+    publishedDateTime: 2020-12-04T02:30:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3112501/top-ai-ethics-researcher-says-google-fired-her-over-critical-e-mail"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3112501/top-ai-ethics-researcher-says-google-fired-her-over-critical-e-mail"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3112501/top-ai-ethics-researcher-says-google-fired-her-over-critical-e-mail"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 89
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/04/9001db7c-35d0-11eb-8d89-a7d6b31c4b8a_image_hires_093654.jpg?itok=JnvzR1Eg&v=1607045821"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Ethicists Are Outraged After Google Fired a Respected Black Researcher"
     excerpt: "Timnit Gebru says she was terminated Wednesday after expressing frustration with the tech company's white male leadership."

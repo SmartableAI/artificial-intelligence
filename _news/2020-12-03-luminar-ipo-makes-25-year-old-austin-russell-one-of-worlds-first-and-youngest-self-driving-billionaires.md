@@ -33,8 +33,8 @@ images:
 related:
   - title: "Luminar Going Public Makes 25-Year-Old Austin Russell One of World's First, and Youngest, Self-Driving Billionaires"
     excerpt: "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal."
-    publishedDateTime: 2020-12-03T16:01:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
+    publishedDateTime: 2020-12-04T01:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
     type: article
@@ -43,9 +43,9 @@ related:
       domain: nbcnewyork.com
     quality: 37
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/105223671-821265836.jpg?fit=594%2C396"
-        width: 594
-        height: 396
+      - url: "https://media.nbcnewyork.com/2020/12/106805877-1607016848777-Luminar_Austin-1873.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Luminar CEO Dismisses Elon Musk’s Critiques of Lidar for Self-Driving"
     excerpt: "Luminar Technologies develops lidar technology that helps autonomous vehicles drive themselves. Austin Russell, Founder and CEO, Luminar Technologies, joined Cheddar to discuss his company’s decision to go public."

@@ -36,8 +36,8 @@ related:
         isCached: true
   - title: "Trump signing order on principles for U.S. government AI use"
     excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-    publishedDateTime: 2020-12-03T21:10:00Z
-    webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signing-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+    publishedDateTime: 2020-12-04T01:09:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28D357"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
     type: article

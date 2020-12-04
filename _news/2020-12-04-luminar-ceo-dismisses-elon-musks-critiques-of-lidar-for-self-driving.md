@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Luminar Going Public Makes 25-Year-Old Austin Russell One of World's First, and Youngest, Self-Driving Billionaires"
     excerpt: "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal."
-    publishedDateTime: 2020-12-03T16:01:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
+    publishedDateTime: 2020-12-04T01:33:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
     type: article
@@ -53,9 +53,9 @@ related:
       domain: nbcnewyork.com
     quality: 37
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/105223671-821265836.jpg?fit=594%2C396"
-        width: 594
-        height: 396
+      - url: "https://media.nbcnewyork.com/2020/12/106805877-1607016848777-Luminar_Austin-1873.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "vMt4MLleqosPXjDrecDhicc7RaRnzFKxrkAB0b3gm/g6wZreWtBYF0J1lrYHBrlahibRNeKmvZwzijdv2iDVGFKsiLWncw+6ouVwNzv0ZprhPxM0kp8mTsxGjPMG9vCkSIfJ6GvuPx9hwa2Fxr8aYmIyuH0P5xaNkXsxs1fw6P/6ObTGARN2yHzAmhFuhyS2F9XCjcys8ikmCe+CmsfvvNh5VjEs1HunSdtgbVtb9Dt6h+tKr0OkSc5WTazJbQ6yfNrXQ3kI3+YxPzzxRhU72LRpMAqAAUdoPOcB/EsbPVIhEqwVLy+CJLJv17gdQN5QrnX97v+FVPBkOkl4g6ZERz+0dxJSJESFvH92vhYbMTAJ7LFc0T5yRphVvdrt77g6GPtcDfTypmCX5sHckC3JQkhBFOL/pt30sAtdvY77wuXlWoLRtbiYSe9OmTcDTw1KsQlzcApJ4A9JAO/9NLMG8wAKdAAUiTusYlfjCU2Sj7HKFlAB8XmyvnYFMP9RA16/bUrvhRBBcYtQVPCIptOsZA==;dsrUCXumXjaUdyQbu2J09w=="

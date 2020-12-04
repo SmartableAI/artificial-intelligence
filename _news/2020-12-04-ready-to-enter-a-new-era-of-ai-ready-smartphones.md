@@ -8,8 +8,8 @@ webUrl: "https://techwireasia.com/2020/12/ready-to-enter-a-new-era-of-ai-ready-s
 ampWebUrl: "https://techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/"
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1562699506-450x300.jpg"
@@ -26,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "fHjXJCulhtJWACfjNgVM8g1WuIptkfBArSpym8JkZb5epOGNawIE7i6bHwX9SYIdfHnK1F4gSKGzd/eOWOduN39VoIXsj7z3hdkY2JPhvYiNZ7yA/iTxXROwUj9IsIYFajuNa5czy7OJCx2YYaaDVvljPlCCk2A8EBc3RnIMxVc1r4NCIB63PbOBCo0WOTVIQpknhCKiAvg5x/EebxG+SNze84h20xezX5roMYxhkrSJ+eWf9iwdVyrF1a1+ryXsQm+f3y0o8Mm/vKGbFr8wCwYCzDWKkI/4hbzlDuswHMJXlOeuNVuS6nJnnxmp6aYQsb2HUTF+0OnZhi8WxTN/bKVttT5V2TCPy46QYhV/tts=;VE29gfsLDeTxcp43sBotMg=="
+secured: "FMANdUxDTL2q2KC1kzDQgM4J+946fagJ0662LmhLC6cGM6msO3QeDMFumaKxdsy9l0nqfuSQz4F6MfQRGSKQ7rGvk2kpITWJk+s2UuB9DC/Zf/3bS/0hpJ552w92d75hfATOlYPL/4Rwh46HQwI2GfSxaThD91VtdDKL93icgbhMaFLUv7uDUXkPrHfvfAUC3VYeCXypr3oe7d3eCtnzi+xOQlnnlr1QetTrJ9JDq9eCTjNoVqxm8BVVZiKj1HBp17tMaFfs+tCwRHd8nD0k1HKgbmP+LrbXzWGmQX8e9LIdkFBUhc3tEiqRJTImnVppbWfPEbhIs/MFizW+CNd0sJREZQgwfwL6QWTMBuQOFOsQ7WUVq7U0Dgop/Ych3lbW/7k/V1Oyahm81lFjB1CizOHbVnrzbyloeUrraF1uGH2KKjwwKnEftS8zTnO5RYlBdyD1TKfqE3DfXj6YHohLinoefMMcdZNAZ+v28gO7FFwtaaabTJhsepVaWiGy0LM5opyNdcKrJ4pa6Ws3oekHvQ==;WiZ+qpMJI7snN2wrgbp+3w=="
 ---
 

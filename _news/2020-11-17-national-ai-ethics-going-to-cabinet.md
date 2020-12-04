@@ -1,14 +1,11 @@
 ---
 category: news
 title: "National AI ethics going to cabinet"
-excerpt: "The cabinet will be asked to endorse the country's first artificial intelligence (AI) ethics guidelines by December to ensure the proper use of this advanced technology, says the National Digital Economy and Society Committee (NDESC)."
-publishedDateTime: 2020-11-16T23:05:00Z
-originalUrl: "https://www.bangkokpost.com/tech/2020635/national-ai-ethics-going-to-cabinet"
-webUrl: "https://www.bangkokpost.com/tech/2020635/national-ai-ethics-going-to-cabinet"
+excerpt: "AI ethics principles have been approved by the NDESC, which is chaired by the prime minister, said Ms Vunnaporn. The NDESC office plans to ask the cabinet to endorse these guidelines for public ..."
+publishedDateTime: 2020-11-16T22:47:00Z
+originalUrl: "https://www.bangkokpost.com/business/2020635/national-ai-ethics-going-to-cabinet"
+webUrl: "https://www.bangkokpost.com/business/2020635/national-ai-ethics-going-to-cabinet"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
   name: Bangkok Post
@@ -19,29 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/tech/images_tech_1.jpg?v=0.1"
+  - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1"
     width: 620
     height: 413
     isCached: true
 
-related:
-  - title: "Revisiting ethical AI - where do organizations need to go next?"
-    excerpt: "AI ethics are having a hard time keeping up with AI. Academic debates may be interesting, but organizations need a practical AI ethics framework. Where do we go from here?"
-    publishedDateTime: 2020-11-17T16:52:00Z
-    webUrl: "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next"
-    ampWebUrl: "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 76
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-jimbophotoart-163732204_Sub_740px.jpg"
-        width: 740
-        height: 450
-        isCached: true
-
-secured: "UjMvaOyq0XqdzdbH3r2k/kNlzSwAYggVKulMtLepoLqvK1K1ShiFE5ldQheQZ+hH9oYkNA44HRbhOq0uCts/9Y87wISlZYVta/94ey9mKsY8uxMbzbu6zU6BQnL+bFrfOqOn7QWNnc1sEAbHByCG+mOE0TDZ5wVRQ/iTnS0ZcK2alYhpZKRCQG5r0X6pVgzb1BEEB93gWSDHSUCV0aAdNs+1xt+ngg93NTE2kMJKInJ4uUS0MVY1WEJWV7RO4gSIPQyhQ6bZu6N7QlcteFay+YDsH/4Iy5LdfaUxOEg5UPc8/4mqRnN0054b6LRwW7zBuBA/kWZAuqUi0pEve9PZ7A4dky3PEhmjl9x4lsw+MOjMK1KHIpummWmibbvAEUskeYrXI8mTVOArJtnW/xt58G1j1W10k1xOphYivhI+5M2m/OevbwtP934DsDVmGwsClC7WPGmUilYOmc+Xy2yCEPrtQQx1Ee4zrNeGFINiKUl77MHzeoDKoCuXziaTzfv6EdHT3Vhqo5nluwVVa+mVLA==;fBGR4yN7yHXCkm9iQ9ckaA=="
+secured: "YmgUItKw1Teq6nAegIRuWBE03RkdKk+aWGA66CPBX9DUb/rBCZKesQFGiNeJIqAU0WyV6VbeoUdy2HE8xCachVgM07EUkxT+ZjHyb25+ZiGen1v0UHLBMKKRAyipB4wgDmavcZSNCdxUn27Ox596mfL9dhJrtWfm7ozpFDzBn8cz+9u2iPqkoF/KiDFqXAcKSAaQGB3+s+XF4r5N5L/WrTZjm2zAUBmXVcKzPmrD10eW3gKiQ8ozTzPY5FK6eqXAxjM3KBsMfQm56ZE+9a2tddcJtLbaPpyO4a/FHX6Cokr77l1KmcVOvZ4bbzBcxElE3aylGKlXj7bR1dLuQsnn/gx+ItuWsnN0K23e/vXUKJA=;moKyFRKold5QVx2OLIhWgA=="
 ---
 

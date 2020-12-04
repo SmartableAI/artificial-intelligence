@@ -7,7 +7,7 @@ originalUrl: "https://www.whitehouse.gov/articles/promoting-use-trustworthy-arti
 webUrl: "https://www.whitehouse.gov/articles/promoting-use-trustworthy-artificial-intelligence-government/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 1024
     height: 538
     isCached: true
+
+related:
+  - title: "Trump signs another executive order on governmental AI development"
+    excerpt: "This time, the order is focused on promoting the use of trustworthy artificial intelligence by the government."
+    publishedDateTime: 2020-12-04T01:14:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/trump-signs-another-ai-executive-order/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "NO1TaGcUMk5qfrLQ5t8VlBz+QbkUUFymcyFdemdjjcnpHEHwtW7tB2KdQ/rxBDPspOGrOmyfcfgQ88B/v0wCU2fnmid6dtyw2yjvnwm6Ii9ouk/836Hpx8389HQaam+7R4qJZAp8fM1ee6KzxNXFAREcG0xxoVPLnWvAqOfiMtXWra1iO35lK+owPsEGvAMBHdMfGRQQrpajOZC7DCewVO9OVgZPMzoWbBoewS5qpOxkdXGI3cRB/AyxD2NQObj39bJcS0h4gUud/bXFDp83VouH3KAoibStq8iOJ20TJ5/ssKkkCsF4TLOpqXdW7S2V4Dp0yZDHKn1xOpImkBHprL5wD9310N2SsYyFC2ROWIk=;hNeNwzSe7s2k29NdrWA22w=="
 ---

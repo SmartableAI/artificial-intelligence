@@ -51,20 +51,20 @@ related:
       domain: businessinsider.com
     quality: 86
   - title: "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "According to Reuters, Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal. JERUSALEM (Reuters) – Intel Corp’s Habana Labs company said Wednesday it would take time to gain market share from Nvida in cloud and data center computers,"
-    publishedDateTime: 2020-12-03T20:18:00Z
-    webUrl: "https://www.compsmag.com/technology-news/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
-    ampWebUrl: "https://www.compsmag.com/features/tech-news-unlocked-samsung-galaxy-note-9-with-90-day-warranty-drops-to-300-in-spotlight-ebay-deal/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/features/tech-news-unlocked-samsung-galaxy-note-9-with-90-day-warranty-drops-to-300-in-spotlight-ebay-deal/amp/"
+    excerpt: "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
+    publishedDateTime: 2020-12-04T02:33:00Z
+    webUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
     type: article
     provider:
       name: Windows
       domain: compsmag.com
     quality: 76
     images:
-      - url: "https://cdn-stack.compsmag.com/wp-content/uploads/2020/03/Tech-News-Unlocked-Samsung-Galaxy-Note-9-with-90-day-warranty.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
         isCached: true
   - title: "AWS to leverage Habana Gaudi AI processors"
     excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"

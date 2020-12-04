@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-signs-another-executive-order-on-governmental-ai-development.md",
+      "title": "Trump signs another executive order on governmental AI development",
+      "excerpt": "This time, the order is focused on promoting the use of trustworthy artificial intelligence by the government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/trump-signs-another-ai-executive-order/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/trump-signs-another-ai-executive-order/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/",
+      "publishedDateTime": "2020-12-03T17:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-daily-crunch-google-fires-co-lead-of-its-ethical-ai-team.md",
       "title": "Daily Crunch: Google fires co-lead of its Ethical AI team",
       "excerpt": "Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru,",
@@ -493,7 +535,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/03/google-ai-ethics-co-lead-timnit-gebru-says-she-was-fired-over-an-email/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -778,6 +820,58 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
+      "title": "Meet TIME's First-Ever Kid of the Year",
+      "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "originalUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2018/12/TIM201207_KOTY.CoverFINAL4.jpg",
+          "width": 2363,
+          "height": 3150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "publishedDateTime": "2020-12-03T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1124,101 +1218,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-spain-to-invest-720m-in-artificial-intelligence.md",
-      "title": "Spain to invest $720M in artificial intelligence",
-      "excerpt": "OVIEDO, Spain Spanish Prime Minister Pedro Sanchez unveiled Spain’s national artificial intelligence strategy Wednesday, which will see €600 million ($720",
-      "sourceUrl": null,
-      "webUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/",
-      "originalUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.turkishpress.com/2020/12/02142539/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg",
-          "width": 864,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp",
-      "publishedDateTime": "2020-12-02T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Turkish Press",
-        "domain": "turkishpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines.md",
-      "title": "MIT machine learning models find gaps in coverage by Moderna, Pfizer, other Warp Speed COVID-19 vaccines",
-      "excerpt": "Vaccine makers need to take into account genetic diversity explicitly in clinical trials or risk missing coverage for some individuals, says MIT scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "originalUrl": "https://www.zdnet.com/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/02/329c2e0d-a24f-468e-971f-2f138e9b391d/mit-2020-gifford-et-al-coverage-gap-of-mhc-vaccine-classes.png",
-          "width": 2186,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "publishedDateTime": "2020-12-02T13:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
