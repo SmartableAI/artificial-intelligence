@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Computer-aided creativity in robot design"
-    excerpt: "RoboGrammar is a new system that automates and optimizes robot design. The system, developed at MIT, creates arthropod-inspired robots for traversing a variety of terrains. It could spawn more inventive robot forms with enhanced functionality."
-    publishedDateTime: 2020-11-30T05:13:00Z
-    webUrl: "https://news.mit.edu/2020/computer-aided-robot-design-1130"
+  - title: "New system optimizes the shape of robots for traversing various terrain types"
+    excerpt: "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?"
+    publishedDateTime: 2020-11-30T15:34:00Z
+    webUrl: "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html"
+    ampWebUrl: "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 84
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 71
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-robotgrammar-02-Press.jpg"
-        width: 1000
-        height: 666
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/newsystemopt.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Computer-aided creativity in robot design"
-    excerpt: "\"Robot design is still a very manual process,\" says Allan Zhao, the paper's lead author and a PhD student in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). He describes RoboGrammar as \"a way to come up with new, more inventive ..."
-    publishedDateTime: 2020-11-30T18:52:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201130131406.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
   - title: "RoboGrammar: Automated & Optimized Robot Design for Traversing Various Terrain Types"
     excerpt: "MIT researchers’ new system optimizes the shape of robots for traversing various terrain types. So, you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person?"
     publishedDateTime: 2020-11-30T11:57:00Z

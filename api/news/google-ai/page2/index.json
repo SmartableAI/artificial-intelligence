@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-bickey-russell-finds-inspiration-from-his-native-bangladesh.md",
+      "title": "Bickey Russell finds inspiration from his native Bangladesh",
+      "excerpt": "Welcome to the latest edition of “My Path to Google,” where we talk to Googlers, interns and alumni about how they got to Google, what their roles are like and even some tips on how to prepare for interviews.Having spent his childhood between London, Milan and Dhaka, Bangladesh, Bickey Russell began",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "originalUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mptg_x_1.0.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "publishedDateTime": "2020-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-neural-network-ip-listing.md",
       "title": "Neural network IP Listing",
       "excerpt": "Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... WhisPro is a neural network based speech recognition software ...",
@@ -1440,58 +1492,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence.md",
-      "title": "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence",
-      "excerpt": "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "publishedDateTime": "2020-10-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
+    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-04T20:58:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 76
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
+        width: 1280
+        height: 878
+        isCached: true
   - title: "Google embroiled in row over AI bias research"
     excerpt: "Google was struggling on Thursday to limit the fallout from the departure of a top artificial intelligence researcher, following its decision to block publication of a paper on an important AI ethics issue."
     publishedDateTime: 2020-12-03T23:07:00Z

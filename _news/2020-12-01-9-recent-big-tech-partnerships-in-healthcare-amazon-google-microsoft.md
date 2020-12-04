@@ -175,15 +175,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Power of AI With Cloud Computing is “Stunning” to Microsoft’s Nadella"
-    excerpt: "Asked what in the march of technology he is most impressed with, Microsoft CEO Satya Nadella said at MIT’s AI and the Work of the Future Congress 2020 held virtually last week that he is struck by the ability of cloud computing to provision massive computing power."
-    publishedDateTime: 2020-11-30T06:05:00Z
-    webUrl: "https://www.bio-itworld.com/news/2020/11/30/power-of-ai-with-cloud-computing-is-stunning-to-microsoft-s-nadella"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 36
 
 secured: "JYJj3lSBnXHBvbXL4ZT2AAETa9hSTHlfieRRN8fL0iRAjoGU6hkn5ufRjF3qafopyHNSxQjlsbLIwfHGxFVLJEW+6wWo5WGPMVVOWaTAKEtN/upjvjYCeDyL56ujsYwa970wLsMWeo5JbwTIcS0b8QgW4dsthFedGcQS1Dkj21EkRBsMUS/wc+ylTD7VRtT+5SL/l7TrjSAOty6uqcDPaRriCHIJ1y1Z+IWOZfWcgCfkjv7OJnuYscpLSeJjLjpjzIfZdHtE3W8gHuT/np38LJO+1Tog9+MU/f3TopUYI4QltA6KogVgMwsUmDOOPpGQfpy9TkQuvLM/M0d59MBL1HfwoOQL/iyjpcYHJ5+0RbI=;HLDkANmWZOZQ2zAmXu2Vwg=="
 ---

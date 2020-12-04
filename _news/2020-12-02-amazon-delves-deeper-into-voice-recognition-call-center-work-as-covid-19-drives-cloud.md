@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -82,6 +82,6 @@ related:
       domain: theglobeandmail.com
     quality: 13
 
-secured: "8Xcbu2ebIwCjUE0ijby38TkWqO75ZdB5JIBB7vQV1b0GM7oQh/CVJuUu/M6i5b6FZTRkZImfnbZn8YpfQxo6YmYpsVjLY/mepwdLbVm9K99JICOLbzBBHlwA7kooLAS/baBD/EEITlHG2i0p/L3CuYY4Sp3BsrfID1NUe7MfcDfjmNTplvOFE3VIh+mZHh66CvXK7YHhy4mzNEhrYZtwe0Cg+5nsAT4b+73tkfd84C+5bweGwSrHfvSsAJy4fEtr2kk5GrivDrpqg67fNrBxyoBYY+AM7G+k6Pv2PNf7ose+FtAlDxfqEdlD5Gx0eXb3/E6rWYGtExxHXk6DRl2AUKKA7tPWQ0U3QOPhx/AkNCLZsvdcnC59SWbAAfKiPMj+ajgL8IO0mNxUcrcZ8bmo5YU9BZviGYR+1AixpZVwKhiICCyn/4FoM5krHkBQGvTUj5oI3FF2xkWCmyRbigHr7yWPFDIMnw/oJ7q3xvrD+mKlGs/QMafw4k3BbFvwF50wp7h6ptvTl/NG70MCDcDPSg==;aqaUam4x7ZDEeUzZFoJvaA=="
+secured: "yjIVomdfsEDPaRLjLIDqWSI/e6r/63+Gu8AVi6P8NBdz8spOZDA+6GT3iX8XgFtvdbiHph8z7kTaX1DUGMde64IWcO1a30FXxrq+9yV5mMIFpVVHievk0Fb6Z+1ZPXkjseFhRsbKMESLQf5hpwJR/hSzjWN63GHB6VauPZoog6sTcsqatioUru9s3FDKiYb0jj6+c72ew1Co+cRL+JzDbkrS+jWJF3RH2V+dAqzMUoqHsP5v0AFSgTbRXISY2PzAadC0PIIW62F98lsMsjFPF/y211aXJA2SPJ2gsnj4Eq5c7V9fns1uuUNpWajGxgvlIN6Q91x+7NiAZFbxLBgsw/Ny6UCs9WUHI/KLeMOfPdw=;2EXhfJrf9in4nbiZ/jJuew=="
 ---
 

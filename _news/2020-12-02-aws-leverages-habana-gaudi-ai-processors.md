@@ -1,33 +1,29 @@
 ---
 category: news
 title: "AWS Leverages Habana Gaudi AI Processors"
-excerpt: "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver"
-publishedDateTime: 2020-12-01T22:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
-webUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
+excerpt: "What’s New: Today at AWS re:Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver up to 40% better price performance than current graphics processing unit-based EC2 instances for machine learning workloads 1."
+publishedDateTime: 2020-12-01T17:51:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-artificial-intelligence-63b962cd9f354b1bbdf732f8551fad13"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-artificial-intelligence-63b962cd9f354b1bbdf732f8551fad13"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "meqDsrvFbBvgBpNP+pEov6XNki6PvE71NX3z3adAwxbttkNG72dWQJxn5+qGFQDUaB1c2xeJofQHxNPrUIXe44u8NAnJm6ZiInpBhxLW6w+CwJODQiYVFSMUqgU+NV2LhRdF6veLP+cvXsRc8m2zchXSz9vhy+bAzprxNNO6M5qvT0fl1pGjvtW4yAXlETZbYaukdQAkxxxbcB7Gt7z27GPSJVUweiELsOTBfm/DzKHUPEi80U/pRafdfPg8y6FY1uwVmjCgyJNskiYkrz3ECXvEAezPildYxFLbP4P1ltadeys0oqqvS3FYQFtGoDWv06C0uvVhTE2B76jAcPbGVYu4ulakiPwQd+hLQ7c0+50=;WBqNUZ+vCUrmh1o12m50PQ=="
+secured: "+12AKi83RfCKFk+i0zf9aILNVCDWQXTNHnft0wSYETPwF/xhtFqCevMdB1l41Ovjt1cgQe/hsjJm8nCcCPBhu+gaudL8sBcTTyKQH0WK8DWo9GbFH9DczA0NJCApEWJFCrGuhKOERxziycQStl8ft/3/PLFdhNwvR7BOhc8KcEBKjb7sGh2RNzmDG/NnS36Sk1ewgm7PyctKj+hV39NDm2CF/bE4DDtdnHpLofF/WGkS6wD1XUvzi948DXsLE1/fEzv9HHVNZy8g8QUaWnqE39u48+My6jstIaNWFLo7ESaFtsmYzj5nnIG210beMaIV6f2GsFc4t3MkSt0CjeecYNpxj2aANgW6l3hvUdWftVo=;owJcmcW/W8lBHZgcNxjxEQ=="
 ---
 

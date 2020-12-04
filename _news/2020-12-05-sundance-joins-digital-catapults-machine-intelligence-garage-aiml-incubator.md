@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-04T17:04:00Z
 originalUrl: "https://www.roboticstomorrow.com/news/2020/12/04/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/15995/"
 webUrl: "https://www.roboticstomorrow.com/news/2020/12/04/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/15995/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AWS AI
 
 related:
   - title: "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator"

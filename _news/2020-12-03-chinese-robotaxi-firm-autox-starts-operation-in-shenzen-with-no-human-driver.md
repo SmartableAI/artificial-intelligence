@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Self-driving robotaxis are taking off in China"
+    excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
+    publishedDateTime: 2020-12-03T15:41:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2020/12/03/self-driving-robotaxis-are-taking-off-in-china/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 24
+    images:
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "/aX9QZxR8oMie2ec2hOIIT0CnuvCVrQZ3YYt2zsFnNc4xmc+sINN6/5VDGaxD5FG0rK1JZ42hvFfGSVGrAsAjqgazS5Pibwo44HmkPRZi6WkQbFQTNhjVsBY/FyFbxLvaZ45g10SQHhsdMEjK6xDuq3KEjc84ozayxqb6AI313FTLOq7V7Oc6C6xrq6YtYPIAX9oa2M2qbrUTz6Dn413/NgXmgAZa6NYIFFeYHOTHk9WJ+mE0IYw5jkJw+vGAL8+qXZL+HcnQjSgH3yILOw+jRpovn7JvQhRGNDVJWOER/LG2Vu+2tdp7LqXlvNNo6lYQ5SQkgUt6x3xX03pvfpPCkRAckw7DfLhCHbA8nVK1W6gxbmCnTZslbiYMbVUBJlkA1lED7YjpKAJJKjHDOUhWODjZjJactwuvl1Ky/5JNtFCzt6ClM5Sksjfcp4F10ZtK0Kuf6bHio/Nzv1SzK7udRDgeZE87gpRQWdJ7m3FQG24wpdiZoWBB+TjmQTWtJMQZrELis3SVsDE6bVs6B89tQ==;NogOPjRnqRtyBIpbIPMsDg=="
 ---

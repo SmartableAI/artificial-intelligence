@@ -76,6 +76,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "The opportunities with AI and machine learning"
+    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
+    publishedDateTime: 2020-12-04T22:05:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "CIO Leadership: Using AI and Automation to Strengthen Enterprise Efficiency and Improve Business Models Will Drive the"
     excerpt: "Discussion at HMG Strategy’s 2020 HMG Live! Florida CIO Ex"
     publishedDateTime: 2020-12-01T00:50:00Z
@@ -89,20 +103,6 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Calls grow for more AI transparency"
-    excerpt: "The scientific community is rising up to call for more transparency in artificial intelligence research, according to MIT Technology Review."
-    publishedDateTime: 2020-11-30T06:15:00Z
-    webUrl: "https://www.linkedin.com/news/story/4271449/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGEdSBhhDrAgA/storylineheaderimage-shrink_400_400/0?e=1606809600&v=beta&t=Ap4wBGIRnk7tg5NFfhYWHjYlVZwKFgaKRAALEjH-DSQ"
-        width: 400
-        height: 266
         isCached: true
   - title: "The AI coach that turns millennial into leaders in just 2 minutes a day"
     excerpt: "Berlin New York November 27th 2020 https bunch ai New iPhone app aims to disrupt antiquated management training and make the secrets of great leaders accessible to everyone Companies spend 366 billion on training globally despite the fact that current"

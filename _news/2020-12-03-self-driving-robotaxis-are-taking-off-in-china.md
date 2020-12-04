@@ -1,35 +1,63 @@
 ---
 category: news
 title: "Self-driving robotaxis are taking off in China"
-excerpt: "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality."
-publishedDateTime: 2020-12-03T05:47:00Z
-originalUrl: "https://www.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
-webUrl: "https://www.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
+excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
+publishedDateTime: 2020-12-03T15:41:00Z
+originalUrl: "https://keyt.com/news/money-and-business/2020/12/03/self-driving-robotaxis-are-taking-off-in-china/"
+webUrl: "https://keyt.com/news/money-and-business/2020/12/03/self-driving-robotaxis-are-taking-off-in-china/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+    width: 1024
+    height: 576
     isCached: true
 
-secured: "Px9l5pL43wnhH1G7TNeNSIpMbyuM4jgry5oBLF/22SxG4SWpXDAWzgzrmWt8r1UIk6RGDwRS9k4MWi689nX1FcYoRzDOLBZncakYzkrqwTzG+IqlzgtfS790bC4S2SfxixxGw9slRriT4/Mo8OLEXYitosxjOYFmykYXr/p26ewYBECkujrmZdEhvQX+UsGdR1zWfs5kprm5oPTebverMtTeKnpvLki18u1yQx4Eu1PmDAcB9ta12SgJcgPDn92/1HVaF7GKzgQ4EnhA+5wADc40bPrEoagvc/3PecXwb+Fr76rAD3fngJqi/KsK2+GodlJ2wKju07/hxzcHWNtWiUyHzxwGJS0YUs2Ii8+CwA2TzYaJ4bwzfuL8egcdfXIwJ1iGOP5BU/exulUln0tqcoj2Wlu8IxXJdd7slCnAtOEFfB3cChxb2kC/Txc56dNK/eDd/nGXepHo5dFvp6DnHFBId4J9paWx1QRJdBz+axTng51NH+9tmieFYFna2I3zKruO5yhsf/mNQEUs1Gnl5w==;qDo06hLCCs2oZglHptFVeQ=="
+related:
+  - title: "AutoX’s robo-taxi service in Shenzhen leaves out the human driver"
+    excerpt: "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen."
+    publishedDateTime: 2020-12-03T12:11:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/383ee54a-aeb2-492e-928e-c3d6b2d8e352-e1595013776178.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Chinese Robotaxi Firm AutoX Starts Operation In Shenzen With No Human Driver"
+    excerpt: "The Chinese startup is one of the first to take the leap to trusting its vehicles to roam the streets and take (special) passengers around with no safety driver to intervene in case of a problem."
+    publishedDateTime: 2020-12-03T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/03/chinese-robotaxi-firm-autox-starts-operation-in-shenzen-with-no-human-driver/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/03/chinese-robotaxi-firm-autox-starts-operation-in-shenzen-with-no-human-driver/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/03/chinese-robotaxi-firm-autox-starts-operation-in-shenzen-with-no-human-driver/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc8a0d2f52c2bbdc27a5f2e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "rYoUvO3P8knGKNGEleOHIz4ahZT7v5U8s/jbVOUrh3jmCYlAyH65BMFfeWSs1ZhHXeOyJcn8aqvPqGdJ1tQKKkjPmxnnKSpiCHXjAaXMXLJw5hyF+PzbLdJNAEGzQWZDGb1UWdFJXhma4hFRuQOfSulz8bOx3JguPjy/iU/KExAvUpKyJoYRYY2cpstahUOZap1MOkRQ1D6oneoEXOglkvCeniENFx3QnrAJHnsgOyek7KoXQvR8zHMF+il1A1WTQLouYC7uTryl7p5VnWom3u8m+snS0iIG0OA8sOVMZIMnNQIgwzHmDXu/j2LAyab4jW6CM0qojA5pQFjFMK1PTbfE5kNg0tXST8r+Pf19Urk=;3IC1LKtzgl956XGBNcUWTQ=="
 ---
 

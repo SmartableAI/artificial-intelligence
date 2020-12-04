@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-11-22-this-fintech-and-blockchain-training-bundle-features-8-courses-for-40.md",
-      "title": "This fintech and blockchain training bundle features 8 courses for $40",
-      "excerpt": "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "originalUrl": "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "publishedDateTime": "2020-11-22T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
       "title": "Robots invade the construction site",
       "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
@@ -380,6 +337,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-scholars-delve-deeper-into-the-ethics-of-artificial-intelligence.md",
+      "title": "Scholars Delve Deeper Into The Ethics Of Artificial Intelligence",
+      "excerpt": "\"Take driverless cars,\" he says. \"If there's an accident involving a driverless car, what policies do we have in place? What kind of insurance coverage do they have? And who needs to take insurance?\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/sections/alltechconsidered/2016/11/21/502905772/scholars-delve-deeper-into-the-ethics-of-artificial-intelligence",
+      "originalUrl": "https://www.npr.org/sections/alltechconsidered/2016/11/21/502905772/scholars-delve-deeper-into-the-ethics-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2016/11/21/gettyimages-482280052_wide-95d1955db46ef1604b63642137bbcd041d0ceef4.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-21T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {

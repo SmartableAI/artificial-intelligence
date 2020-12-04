@@ -24,6 +24,22 @@ images:
     height: 650
     isCached: true
 
+related:
+  - title: "Researchers, Marines Explore Trust in Human-Machine Teams"
+    excerpt: "In an era of Great Power Competition, where those who can field autonomous capabilities fastest have a distinct advantage, researchers at the Naval Postgraduate School are exploring many fundamentals"
+    publishedDateTime: 2020-12-04T22:45:00Z
+    webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2435883/researchers-marines-explore-trust-in-human-machine-teams/"
+    type: article
+    provider:
+      name: United States Navy
+      domain: navy.mil
+    quality: 24
+    images:
+      - url: "https://media.defense.gov/2020/Jul/26/2002464378/1460/1280/0/200730-N-ZZ999-0001.JPG"
+        width: 1274
+        height: 1280
+        isCached: true
+
 secured: "6nuKkloFzKSf+3MUToCbuP0oy69EeOknMx6UMbQIccz6BLbOri9gWNCHd172VeRTJlIBAp+Bm380WZ2ud96a5JQyfqR7UZGrmiSsf8ogtNZceEFj7ivz2kX8vsggydXTuzBjDhpjDhcORabrTgRQhiNAXuR9g9lYRnWDInz9kynubD1CfTfMxO/HBtYNSF9ITpZj+tzAEmd1HbrG0OWI30AJiIvmdvTFJG1EKCT0YAa+f7MWdOc/cV5/8eDZ2dqI6MmU+rPWQN6ExPjDckNEXMLldVCJ9eFOcUw/n5JWCt9dpzSCRTxaWC8+vfyvKvdYqPAPaInwmB29RKbmSU8K0ExrS7OadeVXI84MKd7gwxs=;TW31l4aYzOX4Fztwl2e7Yg=="
 ---
 

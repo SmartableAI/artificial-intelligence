@@ -26,6 +26,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "DIFC FinTech Hive to showcase 17 innovative startups"
+    excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region has announced that its much anticipated ‘Investor Day’ will take place today,"
+    publishedDateTime: 2020-11-30T11:29:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85225/difc-fintech-hive-to-showcase-17-innovative-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
 secured: "tkN+FujrCEG0b7jNbYNrQ56WBVWgt3YUSUVhJbZ88SCar7OHtMws5loWHNDh1e9HMxukyX6oila48JSN9HHL65aMi2cOUcJz38L5/UY6YTyZ7gkVY+poNkW28Zx6SoBlOaRdOq4b9ibLXmxowKtGJBtSFdTzbOhT5O/4ghCkYG2766v0ykRwXwrn1KMUiZ0NksCutGbajfC/k5/IWyf6DOs85Id5L+lU0MGsTLAGXXuYco1UaiaHIYmdIZCmUzO2apiMj4FsJqfgAKNNqCMc3BrLDlV++AJxZioI2rk9LFeWcJ23X914Sv9V/Hi7dkXSDL7/Lzx3O5iY3oDBFiPat5F7VUDVVCl732DZob2WIC/dYdarVyvFbFx6YTublXXEGjdwhhwNduZCu8+j0q1VEEZhBao/EJkrWTl1CHkA5um2OMIFTYJ8UHCvfOnoID3h9XgjlMevWDiXOwI1nRyIBdwqTwJKUcnk8tYlcLiCFib8okyGnXN8nsAwIrfH812IZ0P6BSvD1MWy+2fz2FZwMw==;dz3p51yzmyBXX63pj2G6/A=="
 ---
 

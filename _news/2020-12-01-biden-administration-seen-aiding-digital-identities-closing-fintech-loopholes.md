@@ -7,7 +7,7 @@ originalUrl: "https://www.rollcall.com/2020/12/01/biden-administration-seen-aidi
 webUrl: "https://www.rollcall.com/2020/12/01/biden-administration-seen-aiding-digital-identities-closing-fintech-loopholes/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,47 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech as driver of SME digitalisation continuing to drive momentum"
-    excerpt: "Financial technology or fintech is not only the new kid on the block, but a pivotal game-changer for the digitalisation of SMEs."
-    publishedDateTime: 2020-11-30T06:47:00Z
-    webUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844"
-    ampWebUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 44
-    images:
-      - url: "https://img.astroawani.com/2020-07/61593688007_DigitalEconomy.jpg"
-        width: 590
-        height: 400
-        isCached: true
-  - title: "Russia will keep paying attention to healthcare digitalization, says Putin"
-    excerpt: "At the same time, Putin stressed that digitalization in healthcare is not just important to correctly diagnose patients but also to minimize bureaucracy"
-    publishedDateTime: 2020-12-04T14:26:00Z
-    webUrl: "https://tass.com/society/1231503"
-    ampWebUrl: "https://tass.com/society/1231503/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1231503/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 37
-  - title: "DIFC FinTech Hive to showcase 17 innovative startups"
-    excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region has announced that its much anticipated ‘Investor Day’ will take place today,"
-    publishedDateTime: 2020-11-30T11:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85225/difc-fintech-hive-to-showcase-17-innovative-startups"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Biden administration expected to prioritize digital ID and tighten fintech regulations"
     excerpt: "U.S. President-elect Joe Biden will be coming into office amid a rapidly changing outlook for fintech, digital identity, and AI, and is expected to introduce stricter measures surrounding finance"
     publishedDateTime: 2020-12-02T22:30:00Z

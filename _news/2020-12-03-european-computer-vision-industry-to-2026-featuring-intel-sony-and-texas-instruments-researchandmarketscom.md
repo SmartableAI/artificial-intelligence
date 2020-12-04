@@ -39,6 +39,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2025"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-12-02T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2025-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
+    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
+    publishedDateTime: 2020-12-01T00:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "The analyst has predicted the Global Artificial Intelligence (AI) in Drug Discovery Market is valued approximately at USD 260 million in 2019 and is anticipated to grow with a healthy growth rate of more than 40."
+    publishedDateTime: 2020-12-03T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
     excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
     publishedDateTime: 2020-12-03T05:31:00Z
@@ -62,6 +104,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2025"
+    excerpt: "MarketQuest.biz has recently published Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025, assuming the historical data of the market to forecasts time-period from 2020 to 2025."
+    publishedDateTime: 2020-12-01T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-scope-of-the-report-challenges-and-trends-key-regions-and-key-players-analysis-by-2025-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,6 +150,20 @@ related:
       - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
+        isCached: true
+  - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
+    publishedDateTime: 2020-12-03T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "N2+8McxV3hotIE8gOxkRSojsRWjqJztPFIeL/mH5dCpHFNwGYtAqjJw0syvirBeK2RzRA2BPQ9g6xRH7ZvXGQLUW1ImfF13klwqWiX9zL/UBwgAanZjlQKW5a9WsTfB8KbpV3yBiPTTunmlyFngBnjhj8PbYIa7AE/oHX+5xkfPVpI4egf0vdZp/p263wTzWUTvr9g0vSHthXoOIudURTDnZGBYtGNcCV9fOpNj5RorQ1j2Pr9FiHgPnpUVfNhBs6GY31t27rWBuIPjavZ2FvQq2tcYNfIB+nlP2h8S4lvET1JKSTyyrLwZBPUV1j9Pf5gQq0kCrXx+/rzERpEHKylGnBOT6PHbDg9dwXBf/fLM=;6Y2ToU/7g6tpnQJ4F6xcHg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
 type: article
 quality: 106
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -179,15 +179,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Power of AI With Cloud Computing is “Stunning” to Microsoft’s Nadella"
-    excerpt: "Asked what in the march of technology he is most impressed with, Microsoft CEO Satya Nadella said at MIT’s AI and the Work of the Future Congress 2020 held virtually last week that he is struck by the ability of cloud computing to provision massive computing power."
-    publishedDateTime: 2020-11-30T06:05:00Z
-    webUrl: "https://www.bio-itworld.com/news/2020/11/30/power-of-ai-with-cloud-computing-is-stunning-to-microsoft-s-nadella"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 36
 
 secured: "mfbgXaTRer9/uLso5y3hZiasM+jgHHQS2+GX6a+I3E8rvu4+7s4YUV7RN7uXVZzFI2MLjeS/ODJ+fmUCUBXkAsD6vTArpIzr5aVRHlwZT4VI6x+8gu72D6cE3QE3eXy1YTLR/FSBYdYVSR2mIAM4+cWm5AHGfBFzNG9usPUoPi/mqF+4oL9thE/Lw0PcpzPEOUZGOAy+08nKSwNX8ddKksHN0oLLhuQJo50Sz4c+Ngy9mFJFZcbuk97EalNBgIAwVYlBAN1rIPJ0/VCSG2+u2v9A7mFbYSIfNK6Xjhf/qPxwJAPPuVvOAicOVxZAthqYOP6elirNnCEY5nA7q2sZ9vgFTOyaRj9SVy1RrUCahdhoETZGcPnggk8MLLl/a+Ic3eNzo3HTF1XeX45qbn2JZy53r+odcaY0nHXmk7ggsGaNO6Q5Z6D3djv+3jX5cjbq1vikq6ZuNebRScrO8Rtn3Es4eds7W7JFKKT2oezG1GfJwWlxgljTf9Hu4cQf1GStdU8rJtPv0USbC00kLXR4HA==;W63ZlSTPkR4wPtepAGRPFg=="
 ---
