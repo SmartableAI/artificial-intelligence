@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-04T04:31:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
 type: article
-quality: 61
+quality: 78
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

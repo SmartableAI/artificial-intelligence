@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-aut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "ControlFlag: Machine programming research tool detects bugs in code"
+    excerpt: "ControlFlag is a machine programming research system. It can detect errors in code, and automate testing, monitoring and debugging."
+    publishedDateTime: 2020-12-04T06:24:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/04/controlflag-detects-bugs-in-code/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 24
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/10175238/intel-inside-blue2.jpg"
+        width: 1280
+        height: 692
+        isCached: true
 
 secured: "PG+wn9ZA0qmYHCbixQCD95CMVAnagIcKGwFBGvEVdKSfcK3wgCmsJfo9U7tPjdHL4UuiDV+IHOq2UEtFZaZ/eMLWIKYIMLgOwxsOAnltHgv9wyBxkY9Iz1AdNpaoEzjG4db7ELdrpKEP5VC0iDNR4IRy0ftkXZ2EHg6JsAa/ucXPSdeZtHKpNU8vsUrsVnC4hpFjc0v2m/tqHJO9rvrh3fRuc+XAbb8pJrCZrl3PBk9em8nVXpX5IP1go9HshboXaAjaC7dveRZ5kDsEkEAZvVePCf1oMmjRQf6uKyATkYl1RjkFaEaYvSXH2nnW/w0B9pyfPZ+ZQInixcilYxIf/+XxRmiqnsiMiALAMgDsYYbRLQ8bprHx6qX3sK+r+L6b2cHIDLjkB8blRfG47sHGzRv5gMqljBu/Yd8FD6tMME1s4K052OqFNHwyqwwDJUt/DPhg3HEKrkP1QUJaEzz+USe4wnyGzKFegXuYdhx2zaFByEFxxenV4CtGC7CmPhOiQCkF0Ci5EBw5xSZCeUxBLg==;4okv4Gf/Km5SrefXXJKzgg=="
 ---

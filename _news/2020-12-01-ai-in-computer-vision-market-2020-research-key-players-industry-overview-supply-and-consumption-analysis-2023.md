@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01"
 type: article
 quality: 63
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
-        isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Worth $3.0 Billion By 2027: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in diagnostics market size was valued at USD 288.1 million in 2019 and is projected to grow at a compound annual growth rate (CAGR) of 32.3% from 2020 to 2027. <p>The global  size is expected to reach USD 3."
-    publishedDateTime: 2020-11-29T13:30:00Z
-    webUrl: "https://menafn.com/1101201948/Artificial-Intelligence-In-Diagnostics-Market-Worth-30-Billion-By-2027-Grand-View-Research-Inc"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2020-11/28/G_009d144b-0_Image_In_Body.png"
-        width: 600
-        height: 300
         isCached: true
   - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."

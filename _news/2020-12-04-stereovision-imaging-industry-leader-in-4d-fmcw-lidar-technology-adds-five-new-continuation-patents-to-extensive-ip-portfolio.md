@@ -1,25 +1,29 @@
 ---
 category: news
 title: "StereoVision Imaging, Industry Leader in 4D FMCW LiDAR Technology, Adds Five New Continuation Patents to Extensive IP Portfolio"
-excerpt: "StereoVision Imaging, Inc. (SVI) has been granted four new continuation patents by the United States Patent and"
-publishedDateTime: 2020-12-03T21:48:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/g18644313/stereovision-imaging-industry-leader-in-4d-fmcw-lidar-technology-adds-five-new-continuation-patent"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/g18644313/stereovision-imaging-industry-leader-in-4d-fmcw-lidar-technology-adds-five-new-continuation-patent"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18644313"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18644313"
+excerpt: "To enable links contact MENAFN] StereoVision [To enable links contact MENAFN] Imaging, Inc. (SVI) has been granted four new continuation patents by the United States Patent and Trademark Office (USPTO) and one new continuation patent issued by the European Patent Office."
+publishedDateTime: 2020-12-04T06:39:00Z
+originalUrl: "https://menafn.com/1101229785/StereoVision-Imaging-Industry-Leader-in-4D-FMCW-LiDAR-Technology-Adds-Five-New-Continuation-Patents-to-Extensive-IP-Portfolio"
+webUrl: "https://menafn.com/1101229785/StereoVision-Imaging-Industry-Leader-in-4D-FMCW-LiDAR-Technology-Adds-Five-New-Continuation-Patents-to-Extensive-IP-Portfolio"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "P4TjGiK2Yum+AwQyeQHOnXYpiw2MCSENM6pvPj0MSibG43Dpu74/tjDbT52wRrtIodGh1R6VuO8EcL2pLk50N07Fe/2XKbb4Ln9QF5NP827/HAtVCtQiqDTY+wvUuK23CxH1y7jnPGBxdEcpAp9XnNpoUX22W2Qk9mVbvgXOabryFRsEqiD2tWDs7Ix0lVIPCd4asNXfqedPA/y/diWxCK1APA0y93DmT8NLtziVsfRsCGgkSyKmdbnE/UOww9J60SsQeS7KUs++7LKE2ctimDEoLOR8OSCbf79nEO6EIaRGmvFbIrkM4knX8ycTMpajIkD7P7ujwMo8qtfidTwBm25Haw69VFZS16XHFryyKt4=;4/GbqgLebY87SRuSZi7L6w=="
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "FHXxnXFb35i3XbaGN5tJIZRYl07aB2vWsDmKIBp3kZMazuRw3fCVqwNQi8bTFPMdGRJRz/AVTdbd/2YL3lfvTgH4vMAixoKwSTk5L5Kb1Z+Epq9weFbSXT3+qzycGyoHGVVizCeFqPUZV4RDCL3up7amsmeBLjlHXR15cF76OYNHnIjueE+RP3ElJPG6PX4OmfR8zbIuMKbJ16P6/Lft0aIYnPoaxM50wuknJi7mMc74Rny9bBLwVwIWltjZSEaJegzbRAx9yj0v8mg93M41QsUf8STsPQyfU+/yTQnEeohZvs5o2afG7jUQmiet9Ywv9/Ter2aRAWU1Jy8kI6lYXcJn28npHAjn+MXRWHDz7e4=;1ZNjXa/viwp4uFm2kfdCrg=="
 ---
 

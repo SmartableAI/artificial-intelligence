@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/video/what-a-top-ai-ethics-researcher-
 webUrl: "https://www.fastcompany.com/video/what-a-top-ai-ethics-researcher-had-to-say-about-algorithmic-biasbefore-she-was-fired/tLswTdKo"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1280
     height: 722
     isCached: true
+
+related:
+  - title: "Google denies firing top AI ethics researcher who slammed its diversity efforts"
+    excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts."
+    publishedDateTime: 2020-12-04T06:07:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 70
+    images:
+      - url: "https://image-prod.iol.co.za/resize/5472x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0e3c0e9e-e862-50ab-84ff-e1bcd9df7eb5&operation=CROP&offset=0x287&resize=5472x3078"
+        width: 651
+        height: 366
+        isCached: true
 
 secured: "kF8RGtMR8PEpw9iRMJ2AAskZb5zl58zUzZ8hlPYcwggKmbUmwF2C5c6OM3iTV6zOzGoKjxeRDZBdV32lHXrt5A2u27HzMmqXGfp1LCkMh3he9EdoGilTIcP6qZgAkwlMhf+kS10f0AJiBMyflqhxDbC6NNDoZ7NmHIb7y22NmuLJbytmEtyd1CHjkchzTpHu5TEWTyhqwUmQNGO5D9XtgW8I8JJRd1raxqYFgPlJ8bS20Y1nRE9Mjt5f9X8/QfLy8rIe7GeUym0x9SPplmp9mnpqccU0d2YM34jf8WV08Ynjv5WIXBmRb9jbNbKamMUgMR6sUkW0ktM7RzdhoFC8iJxec1zbKo2F7bvXYxJmfq2gkM+eCUTapF6NYwJ9BvbqVLwuKHHCdCSSiyICYpN/JrSSZMuv3/XntRP0TlE7OdjAZku90SsL54vyKYl73h9jqo6uYVyIhbkcohCEX3KpecBcpJ7oXAZZU23e1eQ1SOzwB56owltlvoueQvlmQThj+b7/H86YpQ5rYKMFUGLqcQ==;iW/q/Am/GmebLoEx4tcfhg=="
 ---

@@ -568,8 +568,8 @@
       "title": "New Apple M1 MacBook Pro trounces Intel-based predecessor on AI training",
       "excerpt": "Apple has released a new version of Google's TensorFlow v2.4 machine learning library that’s optimized for its new M1-powered Macs. The new M1-optimized release leverages Apple’s new ML ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "originalUrl": "https://www.techradar.com/au/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "webUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "originalUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -586,9 +586,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "publishedDateTime": "2020-11-19T09:58:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "publishedDateTime": "2020-11-19T19:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1156,10 +1156,10 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {

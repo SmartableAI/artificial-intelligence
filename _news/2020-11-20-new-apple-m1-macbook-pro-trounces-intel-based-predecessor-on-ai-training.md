@@ -2,11 +2,11 @@
 category: news
 title: "New Apple M1 MacBook Pro trounces Intel-based predecessor on AI training"
 excerpt: "Apple has released a new version of Google's TensorFlow v2.4 machine learning library that’s optimized for its new M1-powered Macs. The new M1-optimized release leverages Apple’s new ML ..."
-publishedDateTime: 2020-11-19T17:58:00Z
-originalUrl: "https://www.techradar.com/au/news/apple-m1-macs-will-make-training-ai-much-faster"
-webUrl: "https://www.techradar.com/au/news/apple-m1-macs-will-make-training-ai-much-faster"
-ampWebUrl: "https://www.techradar.com/au/amp/news/apple-m1-macs-will-make-training-ai-much-faster"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/apple-m1-macs-will-make-training-ai-much-faster"
+publishedDateTime: 2020-11-20T03:47:00Z
+originalUrl: "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster"
+webUrl: "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster"
+ampWebUrl: "https://www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "l0aCkleA/dOY3AMu0a55+/aJBwc8aogP+S6ge+b62c6D/oeo0DzKaymYxyYMU+qEP4f2WwgjTdbXPMV5x201uQIUs+1w1/kpFRTQI/ISkCcg2F2KytK7vSXTHCdWEx1QxNRYoNxIpigMba1Y53bclRHvuPwi6xt4d6xtyBoeMJ2r6hqFCtirtgKDUz1HZvP4HGPkzoTvxSxP/N+ewSmG9I9VLvy8U97CMG/xomHAW34JMGkGxsry2mC2QL05E217GkEZi4iP/XgMw5rkXK434uqB6sH8iHIp66jKPVQpaLMXmZ6QTR6Na2RWcgF817aEhPwFkZmCnrHMNVZevfoPAhRwsGwCQXmXytaF3oGNEQU=;izmP01NMwEtK/MxUSjhkDQ=="
+secured: "AsFy4/P1LOUOo2vuvgf8sOaZb0VKY+gixe4MfLsveyw0lZaEZ+utfA5L8a7uFcpdI87KVX9o0DZAUewNLkiKxcipZFGxbNV4FaSrNrIqNwUnrEQ9psYffjBMEoByxCSCbWZSAbClUEAx+l+SiuvDuKES3ULW8N61KvwFkwqQa2Yjd1JvHP2RAEFlfp/DutDLway5gQqNTyXqOYGTvQhhx5KgvRQKfmV8pEEVwvnNuEnnY0BNYflsUEQaDj6QniqPk4g9OfVzRndqFVRRd4goi7PYAO4S15dmERTl0harkDprGBWmxpK9IhAeGqKThwucLj4C+2qg4kc+ElyTmHDw9Ox+pEoDJkBEbduMbjRbQtY=;nV3lnIX5HfALafz/8a9i1Q=="
 ---
 

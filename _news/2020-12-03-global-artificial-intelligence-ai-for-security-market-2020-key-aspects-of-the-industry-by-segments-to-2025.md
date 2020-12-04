@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 93
+  - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
+    excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
+    publishedDateTime: 2020-12-04T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
     excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
     publishedDateTime: 2020-11-30T15:30:00Z
@@ -53,20 +67,6 @@ related:
       - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
-    excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
-    publishedDateTime: 2020-12-04T04:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "qu9QhQY6lt57txMeRCKsKoSIBhdOwuGj6Uc9AVWeWHPgmRttfFgbQAtWDBOlWMtulqmKrQEAmBSY5OKDGdlhvzu6oTUtx0NEJ/WPn/Tqh2cyBtP6hp2pel8dhy2djTrYgxCU4wut6ax24XC8aQaRRybWg9h1pBcOXVKpuAKRtOr1zfQDi3C0eg/RW6Yyv9vjLOhZUYhm5QsL1RPZt2DjtyxIgC1aLE73L0UEKKMxRl5YG8kzafJVINp/MRHZsaedmiAnbBUamsqwizFH+ORieAlBEmum5cohAEb2Z0M/hka9huTLWze7pgJqKbqxIEZZ9o5Y3y9XBQNh46v4UrnlYsmn49f6jjZbZAkni6jsKlo=;22PGUZyMPXnapbLBfRhzLg=="

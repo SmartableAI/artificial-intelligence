@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-04-ai-iot-robotics-key-to-businesses-maintaining-their-edge.md",
-      "title": "AI, IoT, robotics key to businesses maintaining their edge",
-      "excerpt": "Artificial intelligence (AI), the Internet of Things (IoT), robotics and technology strategies have become key to businesses seeking opportunities for growth and staying competitive in the digital era,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/business/2029699/ai-iot-robotics-key-to-businesses-maintaining-their-edge",
-      "originalUrl": "https://www.bangkokpost.com/business/2029699/ai-iot-robotics-key-to-businesses-maintaining-their-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/dcx/2020/12/04/3828539_700.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-why-soft-skills-could-power-the-rise-of-robot-leaders.md",
       "title": "Why soft skills could power the rise of robot leaders",
       "excerpt": "What would the world look like if socially skilled robots stepped into the roles normally reserved for humans?",
@@ -1377,6 +1334,58 @@
         "name": "MD&M East",
         "domain": "mddionline.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
+      "title": "Robots invade the construction site",
+      "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/construction-robot-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "publishedDateTime": "2020-11-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
