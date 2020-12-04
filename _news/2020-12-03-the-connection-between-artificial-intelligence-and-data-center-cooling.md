@@ -25,33 +25,95 @@ images:
     isCached: true
 
 related:
-  - title: "From the Data and AI Expert Labs"
-    excerpt: "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Previously in this series, I discussed the formula we use"
-    publishedDateTime: 2020-11-30T20:57:05Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
+  - title: "Why Intel believes confidential computing will boost AI and machine learning"
+    excerpt: "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning."
+    publishedDateTime: 2020-12-02T17:08:00Z
+    webUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V3.jpg"
-        width: 990
-        height: 498
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "2020-The year of Artificial Intelligence « SAP Experts Podcast"
-    excerpt: "Technologies as AI, Machine learning and Robotic Process Automation will change the way we work and impact how enterprises do their business. Listen"
-    publishedDateTime: 2020-12-01T01:48:00Z
-    webUrl: "https://www.linkedin.com/posts/sdenecken_2020-the-year-of-artificial-intelligence-activity-6647103239248457729-0a-r"
+  - title: "AI for Intelligent Social Media Marketing"
+    excerpt: "Remember a scene in the flick Titanic, where while that mammoth structure sank, all the people tried to float on the surface of the water, jostling and flapping their limbs, to stay on the surface and not sink."
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 37
+    quality: 56
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5634AQH6rldQcJ7Wlg/ugc-proxy-shrink_1280_800/0?e=1606946400&v=beta&t=ooRMkr3yYLL1eQnuUhomJzNs5TaPd3B2vO98Erb3pTo"
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
         width: 1024
-        height: 576
+        height: 430
+        isCached: true
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Intel releases new machine programming tool to detect bugs in code"
+    excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
+    publishedDateTime: 2020-12-04T20:43:00Z
+    webUrl: "https://sdtimes.com/ai/intel-releases-new-machine-programming-tool-to-detect-bugs-in-code/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/12/5fc9481252123.image_.jpg"
+        width: 1396
+        height: 783
+        isCached: true
+  - title: "Intel Machine Programming Tool Detects Bugs in Code"
+    excerpt: "Intel unveiled ControlFlag – a machine programming research system that can autonomously detect errors in code. Even in its infancy, this novel,"
+    publishedDateTime: 2020-12-03T20:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18642224/intel-machine-programming-tool-detects-bugs-in-code"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18642224"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642224"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20201203005346/en/843821/4/Intel-Labs-Justin-Gottschlich-1.jpg"
+        width: 320
+        height: 480
+        isCached: true
+  - title: "Avast and Borsetta Join Intel in Launching the Private AI Collaborative Research Institute"
+    excerpt: "The Private AI Institute was originally established by Intel’s University Research & Collaboration Office (URC), which then expanded the collaborative potential of the Institute by inviting Avast and Borsetta to join forces."
+    publishedDateTime: 2020-12-03T20:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-computer-and-data-security-products-and-services-06cd739978dc7d450704ddd2ab99d644"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "1FwQ+D8l45aDs8k15mFIXp1fQAHWCkcvfZpkToswrMwMhNYDoQPRX0VVXerer+fS31C91MD3XxaTQOxvEL1DBnJzMKSOAbH8FqCaUdfiyC6bLWHLWZAa0/bXxWpfS1A6t8V0kKPEBNwgL/IsCk75nVaug993PMvHIZBOThPAFmVms5XXG6Mvhbp3X4nCn85mJWPAOBvqu7/SoSNL388mS3lI+vJ3MRsIn8QTl7VYGBvZCjlrrHIEUgihz1UkO7F/SVeJYxzJl7Nb7mOzUp/75jJ4BzZOS8faAidBsV37VpIjcHLeS5f9AbT1Iv0MH8ddRdkyahcZXk1X5s7q5UTzgeiN3fvhiTSYrbf+kMSBGk4qnE1GyeLbc+LHwY4jvEpOe+VksRgfKIAyRMqv7dJoIcSmV2YoHmzJtd2SiPiboyA7kPzBJNayi+vKoYldLPma+jKESV26wBSwAR88FYSrSH/hYBV4t3QgjycCPm1Kud/1ARq1QPf+7p0f03SgU63nhEHxFxiIwtDeBkEzYBRP7w==;83HsqPKp85FPmpc3a3fE/A=="

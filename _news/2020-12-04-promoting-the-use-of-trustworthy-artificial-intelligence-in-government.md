@@ -51,6 +51,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "White House AI Order Sparks New Federal Use Policies"
+    excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
+    publishedDateTime: 2020-12-04T20:46:00Z
+    webUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "NO1TaGcUMk5qfrLQ5t8VlBz+QbkUUFymcyFdemdjjcnpHEHwtW7tB2KdQ/rxBDPspOGrOmyfcfgQ88B/v0wCU2fnmid6dtyw2yjvnwm6Ii9ouk/836Hpx8389HQaam+7R4qJZAp8fM1ee6KzxNXFAREcG0xxoVPLnWvAqOfiMtXWra1iO35lK+owPsEGvAMBHdMfGRQQrpajOZC7DCewVO9OVgZPMzoWbBoewS5qpOxkdXGI3cRB/AyxD2NQObj39bJcS0h4gUud/bXFDp83VouH3KAoibStq8iOJ20TJ5/ssKkkCsF4TLOpqXdW7S2V4Dp0yZDHKn1xOpImkBHprL5wD9310N2SsYyFC2ROWIk=;hNeNwzSe7s2k29NdrWA22w=="
 ---

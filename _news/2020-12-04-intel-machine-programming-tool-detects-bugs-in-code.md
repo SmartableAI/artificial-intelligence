@@ -73,6 +73,34 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel releases new machine programming tool to detect bugs in code"
+    excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
+    publishedDateTime: 2020-12-04T20:43:00Z
+    webUrl: "https://sdtimes.com/ai/intel-releases-new-machine-programming-tool-to-detect-bugs-in-code/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/12/5fc9481252123.image_.jpg"
+        width: 1396
+        height: 783
+        isCached: true
+  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
+    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
+    publishedDateTime: 2020-12-03T13:42:00Z
+    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
+        width: 740
+        height: 409
+        isCached: true
   - title: "Avast and Borsetta Join Intel in Launching the Private AI Collaborative Research Institute"
     excerpt: "The Private AI Institute was originally established by Intel’s University Research & Collaboration Office (URC), which then expanded the collaborative potential of the Institute by inviting Avast and Borsetta to join forces."
     publishedDateTime: 2020-12-03T20:20:00Z

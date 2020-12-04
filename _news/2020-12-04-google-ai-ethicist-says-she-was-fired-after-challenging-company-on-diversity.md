@@ -252,6 +252,22 @@ related:
         width: 5760
         height: 3840
         isCached: true
+  - title: "Google AI Ethics Co-Head Reportedly Sacked for Critical Views"
+    excerpt: "A prominent Google AI researcher says she was fired over an email she authored expressing disappointment with how a review of her research was handled internally."
+    publishedDateTime: 2020-12-04T20:16:00Z
+    webUrl: "https://www.thestreet.com/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
+    ampWebUrl: "https://www.thestreet.com/.amp/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://content.jwplatform.com/thumbs/4bz7IJgq-720.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Google’s star AI ethics researcher, a Black woman, says she was fired for a critical email"
     excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
     publishedDateTime: 2020-12-03T20:38:00Z
@@ -267,6 +283,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA5YUVRVUYI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Google researcher says she was fired over paper highlighting bias in AI"
+    excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
+    publishedDateTime: 2020-12-04T20:56:00Z
+    webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 59
+    images:
+      - url: "https://www.chicagotribune.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "A Top Google AI Researcher Says She Was Fired Because of Email Over Racial Bias"
     excerpt: "Timnit Gebru is a prominent AI researcher who says she was fired by Google. It's sparked a firestorm of concern about racial bias in big tech."

@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
 type: article
 quality: 119
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -29,33 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
-    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
-    publishedDateTime: 2020-12-03T13:42:00Z
-    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
+  - title: "Getting there: Structured data, semantics, robotics, and the future of AI"
+    excerpt: "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI"
+    publishedDateTime: 2020-12-04T20:22:00Z
+    webUrl: "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 120
     images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
-        width: 740
-        height: 409
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/04/6d4aad17-133e-45ec-beed-b696a2fcb14e/1-l35pu2edyfpmhbm4c348pw.jpg"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "2020-The year of Artificial Intelligence « SAP Experts Podcast"
-    excerpt: "Technologies as AI, Machine learning and Robotic Process Automation will change the way we work and impact how enterprises do their business. Listen"
-    publishedDateTime: 2020-12-01T01:48:00Z
-    webUrl: "https://www.linkedin.com/posts/sdenecken_2020-the-year-of-artificial-intelligence-activity-6647103239248457729-0a-r"
+  - title: "Why robots freak us out, and what it means for the future of AI"
+    excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
+    publishedDateTime: 2020-12-03T16:47:00Z
+    webUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/"
+    ampWebUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: The American Genius
+      domain: theamericangenius.com
+    quality: 74
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5634AQH6rldQcJ7Wlg/ugc-proxy-shrink_1280_800/0?e=1606946400&v=beta&t=ooRMkr3yYLL1eQnuUhomJzNs5TaPd3B2vO98Erb3pTo"
-        width: 1024
-        height: 576
+      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Building a brighter future with robotics"
+    excerpt: "From exploring shipwrecks to air-dropping supplies in a pandemic, U of M faculty and students are designing robots for the 21st century."
+    publishedDateTime: 2020-12-01T22:26:00Z
+    webUrl: "https://twin-cities.umn.edu/news-events/building-brighter-future-robotics"
+    type: article
+    provider:
+      name: umn.edu
+      domain: umn.edu
+    quality: 54
+    images:
+      - url: "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/banner%20robot%20hand%20-%20news.gif"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "fZ+Ay2d8+X2L91XCq4sITi2JnvzurHcUXqO49RB/8AUNmGPqtFJ06TOc2Pj+nZBwM1OrEa/lreiHMxPRXO3GPuP6I1c9cpdZ/Uo1eVE8a8i8IYTqUeJY1oc8t5bhM2p0/OMeHU8EbigD2yDkAG9r9HUQFhhHSlxqOtqFKuac/3/nP2OadtThe4wI/QVW5eZGZObXf0g89KqpOVXfErTEFdidrVyHyZgIZ5vj/20Y9c4M39EXQYEbMpbGygcWmlJxlyDi96+4vMPgSveMh34Nhtz0vHK3VDGHRHtA5mbPhuAnB4V4Td9X/XKuguTIaWHvPmQR1W/yLVp+WZG4diuX3G7r0t4wUOvgswyHyM79vjk=;ewYPBu0NWy2kkounO8aLRw=="

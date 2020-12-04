@@ -24,9 +24,9 @@ related:
   - title: "Fintech as driver of SME digitalisation continuing to drive momentum"
     excerpt: "Financial technology or fintech is not only the new kid on the block, but a pivotal game-changer for the digitalisation of SMEs."
     publishedDateTime: 2020-11-30T06:47:00Z
-    webUrl: "https://www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844"
-    ampWebUrl: "https://www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844?amp=1"
+    webUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844"
+    ampWebUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844?amp=1"
     type: article
     provider:
       name: Astro Awani

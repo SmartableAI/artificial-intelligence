@@ -3,10 +3,10 @@ category: news
 title: "Fintech as driver of SME digitalisation continuing to drive momentum"
 excerpt: "Financial technology or fintech is not only the new kid on the block, but a pivotal game-changer for the digitalisation of SMEs."
 publishedDateTime: 2020-11-30T06:47:00Z
-originalUrl: "https://www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844"
-webUrl: "https://www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844"
-ampWebUrl: "https://www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844?amp=1"
-cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/fintech-driver-sme-digitalisation-continuing-drive-momentum-270844?amp=1"
+originalUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844"
+webUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844"
+ampWebUrl: "https://www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-malaysia/fintech-as-driver-of-sme-digitalisation-continuing-to-drive-momentum-270844?amp=1"
 type: article
 quality: 44
 heat: 44
@@ -81,6 +81,6 @@ related:
         height: 667
         isCached: true
 
-secured: "N6sTZhMVaGfN1dXy0OY9wXxt0R9Z+fRmncsk0dmtuzcNSYStw16vn/i7EtOGBzKM4xRMr3Je3G1Ix7VbBdVOF9QqIQLP5xKbxXWaenvqZcg18gB/msqwamlCcOOjLPW2pjLCZnQiY1dBVpkiLtRRLngeyetlL2sXWTDjH4vtSev66unpDaNaDHeXNwJFsSe19qh6d+uzpCKaWlFv9pt1sjrwfD9jLDDSoz9B28wxogXPMbsvPEn2bq6kCfFWavdpnxqyayiG0qVQxxRFuvIQOxd+T4YckxFZ3uQm7oTFPaVoiAbYQ5xGlIcDqk7AyQuYzOQBVIOMu+2TIqOIIv7RThCTV1V/wnXfrNF/I2qC8OAhIvHlZmwC4dFKRX9k1zfiEnJUDdJD7CYJN7t/UQ/rqP43nytGmkjZu4zWPIz8ofMQ4c8q1jhWy9Ix3A6wHtOjQNOlAqiToeeT1I7NzVW09UeWBp1SNcUbe4RgalhenSv6vU++ECMWjsuddMkIHq4QAkh0To8hhs4wAhxwy9abbw==;6zL0Hh33TDxWo2gteyOBnw=="
+secured: "5itko+GA0H+CQEZmrxop5nMGLjAG5jZWBCF0KynTMZx0CiDwLHSkK0K5PDieYfhuUucZoF/zDlLXVgGAwKNBEvzogSLvbngsbheteL9NQEMLIb8LBocY+gw0EgQ87pnxDa9EOw/CW6t5i0hukA6iZrw9zRsVYh7q0DhYxZvPiNcoHIbxxPkvbq9pQPpi4pMGo/WtctjxONLEdS0egrOYcvdy1DMiAJ0137MtVe8/m6cwr8t6qdPXFarMox/zi8ZZVEb3E+plGWlRJxfmHyNLAkoIQHil8vN+h4NDVMprjJDGlQeqauuXLDr8mz58NvDHj8YXIVUZwK2kdbl9ADylgNpNgfZE4w0ZjV4Qu/srzUg=;U/inIjYl9OahbqMPd4CeEw=="
 ---
 

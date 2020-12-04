@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "White House AI Order Sparks New Federal Use Policies"
+    excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
+    publishedDateTime: 2020-12-04T20:46:00Z
+    webUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "ERCnzAU6SrMjagw/q9m1seQ9f21a4sTxrtvyxsAKt+Ki2Txov22Uu7qoxX80u26oem5lP0FqDsomdL7Iy80FQi2Ql4JwztHSbQNOpcgJ5B7BiMsLyuIyLEKfVk78v2lsKbdkOpB0IVMMDBE+0wNWk0nO2y8vbQKELE/SVdlZGqEeq7aHyoOm/wtxxkB5RQZvhgjf6vu0XTzR8p9N0Xqksa9yxNjMH/7HAmfIQFoQnsl1e9kOkUOItsT+voHajty7o/FfWJOm4/lcijQTeIXOUJvEPDl9RxdsLEQcpLexbxvYrVLWdRTCWdqebz1MkgN7ECUDYViS4w0Zsm2gLIjJZA2DF/2v8PoZTckhY2BSachgE1qthwOVT9pmazCe37Jm+jd1Y51JcWVOxXyJv59NVaqZ5aGbU4NMkXRa7L8Avot8i4KbIsMJwGeY/STCsSkbaez4wseu78z2kUAe92xNhE5RzWptpWfkMQVb5MurAyaBVhOoeOu3Crov4pKjvdI2oc8UgCId+lauOXooTZWkig==;7Km0j1H6Op252cp7W5VMVw=="
 ---

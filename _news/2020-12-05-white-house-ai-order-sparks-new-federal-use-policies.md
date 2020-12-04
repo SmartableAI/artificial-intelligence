@@ -1,0 +1,66 @@
+---
+category: news
+title: "White House AI Order Sparks New Federal Use Policies"
+excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
+publishedDateTime: 2020-12-04T20:46:00Z
+originalUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+webUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: MeriTalk
+  domain: meritalk.com
+
+topics:
+  - AI Ethics
+  - AI
+
+related:
+  - title: "Trump signs order on principles for U.S. government AI use"
+    excerpt: "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making."
+    publishedDateTime: 2020-12-04T06:36:00Z
+    webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump signs another executive order on governmental AI development"
+    excerpt: "This time, the order is focused on promoting the use of trustworthy artificial intelligence by the government."
+    publishedDateTime: 2020-12-04T01:14:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/trump-signs-another-ai-executive-order/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Promoting the Use of Trustworthy Artificial Intelligence in Government"
+    excerpt: "President Donald J. Trump signed the Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Govern"
+    publishedDateTime: 2020-12-03T22:03:00Z
+    webUrl: "https://www.whitehouse.gov/articles/promoting-use-trustworthy-artificial-intelligence-government/"
+    type: article
+    provider:
+      name: The White House
+      domain: whitehouse.gov
+    quality: 37
+    images:
+      - url: "https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png"
+        width: 1024
+        height: 538
+        isCached: true
+
+secured: "NHX30juGelxPw7mALmChjVai0BNtLGqtKSgu9qwI5GiZ0J9NG+WkxLTb1JhnP8QXbVn0W/HRN0jwbMAu0s5GNsOWC3pvp5kz6Q/Lr14fReVQ2HEZoA4HNcR63rESbFDGyVRECfJmkhLMEPv9zJqDiqJ01NmM6En68E3T6G0f2+cZa9VzJQ7JyBQWfQUhUWJ5mJJCu4RdTP6P5XL+kBCwVlfO+7ugYVuSIeZHq0ivLTiSydIzHj/yoqAYorWD+DObx0X5Oe1LwMRQ1tWhSNSg7s7eXvTQ9sqcSWX+pvI3S1bnUHrKa4CyV5rtENjUY4r/G4qsrPFjVrDSxEB0RgVmcKuLegWO7U7lTuLLKdHyrYI=;O80k/KawvgrkTedJhhCRLg=="
+---
+

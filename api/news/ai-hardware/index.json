@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-getting-there-structured-data-semantics-robotics-and-the-future-of-ai.md",
+      "title": "Getting there: Structured data, semantics, robotics, and the future of AI",
+      "excerpt": "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "originalUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/04/6d4aad17-133e-45ec-beed-b696a2fcb14e/1-l35pu2edyfpmhbm4c348pw.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
+      "publishedDateTime": "2020-12-04T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-ready-to-enter-a-new-era-of-ai-ready-smartphones.md",
       "title": "Ready to enter a new era of AI-ready smartphones?",
       "excerpt": "The Qualcomm Snapdragon 888 chip will let handsets take high-resolution photos faster and perform AI-related tasks more efficiently",
@@ -1388,49 +1441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates.md",
-      "title": "NVIDIA Studio Driver November 2020 Update Brings Support For Eight New GPU-Accelerated Creative App Updates",
-      "excerpt": "Needless to add, the AI-accelerated RTX Tensor Cores combined with these features should significantly reduce tedious, repetitive work. Keyshot 10 claims rendering speeds are up by 23 percent than the previous version. The platform offers one-click GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
-      "originalUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.appuals.com/wp-content/uploads/2019/02/MW-FP470_nvidia_20170629195436_ZH.jpg",
-          "width": 890,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "appuals.com",
-        "domain": "appuals.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

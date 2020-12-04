@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/prepar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
         width: 818
         height: 545
-        isCached: true
-  - title: "Why robots freak us out, and what it means for the future of AI"
-    excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
-    publishedDateTime: 2020-12-03T16:47:00Z
-    webUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/"
-    ampWebUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 74
-    images:
-      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Lenovo Spreads The AI Message Far And Wide"
     excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"

@@ -58,22 +58,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Why robots freak us out, and what it means for the future of AI"
-    excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
-    publishedDateTime: 2020-12-03T16:47:00Z
-    webUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/"
-    ampWebUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 74
-    images:
-      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
     excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."
     publishedDateTime: 2020-12-01T12:51:00Z

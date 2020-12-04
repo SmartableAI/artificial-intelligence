@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/posts/sdenecken_2020-the-year-of-artifici
 webUrl: "https://www.linkedin.com/posts/sdenecken_2020-the-year-of-artificial-intelligence-activity-6647103239248457729-0a-r"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "From the Data and AI Expert Labs"
-    excerpt: "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Previously in this series, I discussed the formula we use"
-    publishedDateTime: 2020-11-30T20:57:05Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V3.jpg"
-        width: 990
-        height: 498
-        isCached: true
-  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
-    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
-    publishedDateTime: 2020-12-03T13:42:00Z
-    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 39
-    images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
-        width: 740
-        height: 409
-        isCached: true
 
 secured: "9ShUpGITb7BWwxFEVBd7BJFmNwFztGxmEVkMzg++u/XFKBBgpmfA304Kg3zg539uZtaKIdYSlXL2ULXJoVHKREfipQq5CGMYS2cBDdw2etOe2tJ4QMD5a4UtZvUsMsmcfm2hgVM4fzRZDAUG4YJzRStKinMru+4NzA3IiaUR6W6oh+OYOAg/ZpHsRrlhBKMOwk/gniQxq2/dCZCVr+ZGmJNiTxIv2HYI2+JOvesAWSeliK2tGibsYCyYDozUroAsmPXVVcQcCpJJv0lcTwTge5t0KVOtqpprbqs1mivASEngx3shN9L4DGX28xK/Ea7gZHJ5UxCZltmZi94denmHmR9trVh0GZcgxAen8AJhTBE=;15pJTJqY3wsZWhkYxKe4LA=="
 ---

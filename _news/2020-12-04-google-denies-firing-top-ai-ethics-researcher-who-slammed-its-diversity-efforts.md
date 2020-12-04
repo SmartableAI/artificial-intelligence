@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-de
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google parts with top AI researcher after blocking paper, faces blowback"
+    excerpt: "Google struggled on Thursday to limit the fallout from the departure of a top artificial intelligence researcher after the Internet group blocked the publication of a paper on an important AI ethics issue."
+    publishedDateTime: 2020-12-04T16:02:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/12/google-embroiled-in-row-over-ai-bias-research/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/timnit-gebru-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "What a top AI ethics researcher had to say about algorithmic bias—before she was fired"
     excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
     publishedDateTime: 2020-12-03T20:26:00Z

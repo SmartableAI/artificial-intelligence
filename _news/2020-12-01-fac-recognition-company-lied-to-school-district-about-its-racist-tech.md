@@ -82,16 +82,16 @@ related:
   - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
     excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
     publishedDateTime: 2020-12-04T17:28:00Z
-    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/index.html"
+    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
     type: article
     provider:
       name: University of Texas at Dallas
       domain: utdallas.edu
     quality: 38
     images:
-      - url: "https://www.utdallas.edu/news/files/otoole-alice-500-2020-12.jpg"
-        width: 500
-        height: 626
+      - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "vTfgQ8u5b8iqLHwa/WD9KT88GYJWoYdkg5HfEgGDjt0tdqQZT8Ok5qJKpfvro63dx53X0fwr6fNpweHMjiTjJbb5FUZ4cjhCS0tBahhF8goMQpDOqUwsyyOr+/Hnvs9HacBr+yOuNEMh9GENqz+FFFkkSGl6Dc1ucnMgmErgEZ5uTQev60NTjL6GQ9+s/HaeMcpClkwMY4SX4Ic+0CFGoLaE1+j9/JgG0JUDdC7xswIPiUCrfJu+z4+QHvsCktfleG45TVjQrGfDGd8vDOSUeYRZQJgYotHcJu9vCYn42q0Hd8A++P3VL+GqIzEnckvQt1ixeR6gXbkjl4/Y4Rdmg+uNCnXjmriytEsvTGUYYBva9GRuDFX/fU0wNphLBYp4KfrGd+OiSiCB0T1bCqrirf394qabqY+J0Bfi2k0lhY32fPXM7bpZyo5BCZ70r3PEr0RGNU8K0xRrlU4qfuD4njbIqIlAyD6aT2Aa7HoCIUSJ9OTyJKg3bRcKzLDdUMFaXfBgsy86KmA77l3kXj3Z7w==;tS401Id1NbW5TTuRLvzW8w=="

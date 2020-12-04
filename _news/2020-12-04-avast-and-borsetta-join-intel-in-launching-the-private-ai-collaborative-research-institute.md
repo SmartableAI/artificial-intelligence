@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel releases new machine programming tool to detect bugs in code"
+    excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
+    publishedDateTime: 2020-12-04T20:43:00Z
+    webUrl: "https://sdtimes.com/ai/intel-releases-new-machine-programming-tool-to-detect-bugs-in-code/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/12/5fc9481252123.image_.jpg"
+        width: 1396
+        height: 783
+        isCached: true
   - title: "Intel Machine Programming Tool Detects Bugs in Code"
     excerpt: "Intel unveiled ControlFlag – a machine programming research system that can autonomously detect errors in code. Even in its infancy, this novel,"
     publishedDateTime: 2020-12-03T20:47:00Z
@@ -85,6 +99,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201203005346/en/843821/4/Intel-Labs-Justin-Gottschlich-1.jpg"
         width: 320
         height: 480
+        isCached: true
+  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
+    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
+    publishedDateTime: 2020-12-03T13:42:00Z
+    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
+        width: 740
+        height: 409
         isCached: true
 
 secured: "cgzSWfNybEU4Pidm1Rj7G9bRx1bBiMOj6P5n4b39Ixn0AQc3BlneGixg/IzxNL5jiFQinogAzDUHVZT878H7P1SmhrvUDIPYt1zg0AGwTbzPAdtBphvjUZprZE/nkYSyaDKfcDBqX7FWy6xbR/eCzyugcR98WrlLLM89EgXiXT8gHIfMagm5e5ORkeA3jlpgXEtJCrGPKnJQwGBBPsFF27yjjQpl8PtTqqgqj9yiysCcKVDagcLimbdVwMcpyr9rXiDFvpXKb4g1EfxVpg2JLazefhnwxjxO2nhf3Kf9nVm2NL8NXj+2/WWpbh/QxbG1opYj4uDSvC2WQuEWzTrSyQsHbxHPsiVTbydolxvFKNs=;Obrj3wBwWZtaFr3nXezpSw=="

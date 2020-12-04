@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognit
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
     excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"

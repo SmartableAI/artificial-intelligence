@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Canada concludes inaugural plenary of the Global Partnership on Artificial Intelligence with international counterparts in Montréal"
-excerpt: "CNW/ - Artificial intelligence (AI) is fast becoming one of the most impactful technologies in the world today,"
-publishedDateTime: 2020-12-04T18:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/canada-concludes-inaugural-plenary-of-the-global-partnership-on-artificial-intelligence-with-international-counterparts-in-montréal-1029866048"
-webUrl: "https://markets.businessinsider.com/news/stocks/canada-concludes-inaugural-plenary-of-the-global-partnership-on-artificial-intelligence-with-international-counterparts-in-montréal-1029866048"
+excerpt: "CNW/ - Artificial intelligence (AI) is fast becoming one of the most impactful technologies in the world today, changing the way people work, interact"
+publishedDateTime: 2020-12-04T20:56:00Z
+originalUrl: "https://www.newswire.ca/news-releases/canada-concludes-inaugural-plenary-of-the-global-partnership-on-artificial-intelligence-with-international-counterparts-in-montreal-853087369.html"
+webUrl: "https://www.newswire.ca/news-releases/canada-concludes-inaugural-plenary-of-the-global-partnership-on-artificial-intelligence-with-international-counterparts-in-montreal-853087369.html"
 type: article
-quality: 17
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - AI
+
+images:
+  - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AI & Missing Children in Partnership with Intel, National Child Protection Task Force, et al, Hosted By IREX.ai"
@@ -37,6 +39,6 @@ related:
         height: 540
         isCached: true
 
-secured: "GTuPVJ/mcakluft3zib+GQdLihXg4qRviMGth5d0vieFFMd0c19K/IU+bFjy1JDA5pvfBl1yEhQvv0y9zo/Db2N7qKEBYNCMKYnMXRw8bG4jDLIlvj6AKbAzVdoe7x61X1vNuAUnYq0+Ycz4L6/esgYFEYWOJVb9bN5ds3aUURGsZjCg91/7TYca6d0gBEVdbkECX4fI2KOCH8ZfgtASAwzXODtAPGR4K3A/tKrobVRco+dQPjGV2Ds/p6D/CCDtyMpqY5TWjlDWIR9NOaQXllCmVjUrbBOSrmCpusZq7wnB8WG7ny30uAiYIFQjgJPtlSoHcxZMPcKLgRnSwKNueR+MEpkCNQNC1S+fNmVkb/w=;+eOFw2o2kpaNBcc51bPP4g=="
+secured: "GotuRONi7Gs+HMAVTNIG16QwZEf031XOS8h2dCdyN+HXEt+wljNb/mR2Gf5+mUcQKUGIjrgHSwVdq4olU/ydRXOiYIkM0lrfKqhCOuV5R0HL7pw226bv1mFoKOMBKxKQ1q2QK1/0ynwDCcl1+2iNYpO8NGL6OGC2qgPtT9hDScPZ13axVYCpl2wyVJ0MuZ9+TJtVPVK5XXlhLZUmG4euu2tZykukV+hGMuOg0efnYYNylxwk3QhD7wFQgxV3RZa5i1PWTonFKfEw1aaCJ55c0tS4CBQQ92aeklt6UOPHdGj5Cou8alwMHg+qGPxtIXxvoIPtv8PQpzV0ljRK8fZXKtxaen5J7MeWhTqC7s6oYbs=;jJNSmOMBRVYRhzWtpUkzzw=="
 ---
 
