@@ -467,20 +467,20 @@
     },
     {
       "path": "_news/2020-11-20-ibm-buys-apm-startup-instana-to-boost-ai-automation.md",
-      "title": "IBM Buys APM Startup Instana To Boost AI Automation",
-      "excerpt": "Once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps, said Instana CEO Mirko ... Instana‘s observability capabilities combined with IBM’s AI-powered automation capabilities across ...",
+      "title": "IBM buys APM startup Instana to boost AI automation",
+      "excerpt": "Instana offers end-user and infrastructure monitoring as well as analytics that leverages AI to manage ... into IBM, companies will be able to feed these insights into Watson AIOps, said Instana ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
-      "originalUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
+      "webUrl": "https://www.crn.com.au/news/ibm-buys-apm-startup-instana-to-boost-ai-automation-558051",
+      "originalUrl": "https://www.crn.com.au/news/ibm-buys-apm-startup-instana-to-boost-ai-automation-558051",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg",
-          "width": 399,
-          "height": 399,
+          "url": "https://i.nextmedia.com.au/News/crn-14_automation_iStock-1163061322.jpg",
+          "width": 1400,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -490,11 +490,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T14:04:00-08:00",
+      "publishedDateTime": "2020-11-19T22:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
         "images": null,
         "publishers": null,
         "authors": null

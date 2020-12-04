@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compre
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

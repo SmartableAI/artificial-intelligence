@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
-excerpt: "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
+excerpt: "According to Reuters, Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal. JERUSALEM (Reuters) – Intel Corp’s Habana Labs company said Wednesday it would take time to gain market share from Nvida in cloud and data center computers,"
 publishedDateTime: 2020-12-03T20:18:00Z
-originalUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
-webUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
-ampWebUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
+originalUrl: "https://www.compsmag.com/technology-news/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
+webUrl: "https://www.compsmag.com/technology-news/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
+ampWebUrl: "https://www.compsmag.com/features/tech-news-unlocked-samsung-galaxy-note-9-with-90-day-warranty-drops-to-300-in-spotlight-ebay-deal/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/features/tech-news-unlocked-samsung-galaxy-note-9-with-90-day-warranty-drops-to-300-in-spotlight-ebay-deal/amp/"
 type: article
 quality: 76
 heat: -1
@@ -22,9 +22,9 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-    width: 960
-    height: 675
+  - url: "https://cdn-stack.compsmag.com/wp-content/uploads/2020/03/Tech-News-Unlocked-Samsung-Galaxy-Note-9-with-90-day-warranty.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -93,6 +93,6 @@ related:
         height: 267
         isCached: true
 
-secured: "3eUIFWEF9SfjN8Q06EivUWQD0wHnwKps02LIpm0LOMPFyUEh3+8j4n3X7/8MdbhOR9mjFVJ4z+uMODUtN2lxQHkLSgOFzZr6n2u5FRXa5svtl6ITP0RQyXaoGD65A4+VVNK23EHCPQiMItxQyLy9K4YLKYC7o3DSTsJLdU/P0Sle5SZxagPzmanhUJvYVvvy9ZT5/1j6YJq5gpoVaYaSQYOg5PrvoeUGOEp/IUjaN7WT0eIp/iPLZO5gm7PZIsrDeOxh4IksKiKFZ0HhoZbOOoimsrAxj7hclNMoceKXcba1+4Cj4ZZ6kLetY26PosyIZgZDA0YfVpOdiruFLh0JUAmV9c/ZIWPZlqbBgFYspfMJQ2Z6Bf2z7dXL0KrdzvZgeNuRmSepoCqkHEf1y+EPzFbjDpYcVnuwH6yYhrY7jQ1Cmpodo/Ep7IlCDRe7Av0ed4whVswMu67Q29I34it6Jblqw/3mvpsnvu6x075N9WPejd9+2UGlZIvrLXj7dpn50GE2Dz7dH/5+Ic/EqOIn8Q==;tpUf+Z0tNP5MjsMqruEPMg=="
+secured: "64XeIrsVjG7hhHwQEVaaQvXJdIMzRpIN3J+FybuxgHKP7ENaMugpq1TVN+krj+qhLAbOcX6i2zktS6HDc0WIvrlctILASkOXEGQmGeqya/s9SfMvniRv1mAdrxIuxHDw9b5GIXZqFqRQ/AesnPEGtSIG+yqOCXfEzA8Vh5UnJCLmdvAdsuWnp1wtVkuE1Hdk0SB33PBd7LaGMp4zJ142sGH2tnQXdzJ/gXdJFQYwsEvvOxIMPgFixu8bb54H6jP9osrMM26ssYfNuzuauVeu+q+MT3JwJuwWpgT0vYe2GgKqet66QjWX/iPa/zl6dvNITfc09jy1VQCEfmrARINElPTPc40uxOrMrRyVzQV87D0=;mcudMpWz8/YN18QSObM/ig=="
 ---
 

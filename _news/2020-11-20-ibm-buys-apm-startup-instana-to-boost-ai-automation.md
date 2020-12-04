@@ -1,26 +1,26 @@
 ---
 category: news
-title: "IBM Buys APM Startup Instana To Boost AI Automation"
-excerpt: "Once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps, said Instana CEO Mirko ... Instana‘s observability capabilities combined with IBM’s AI-powered automation capabilities across ..."
-publishedDateTime: 2020-11-19T22:04:00Z
-originalUrl: "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation"
-webUrl: "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation"
+title: "IBM buys APM startup Instana to boost AI automation"
+excerpt: "Instana offers end-user and infrastructure monitoring as well as analytics that leverages AI to manage ... into IBM, companies will be able to feed these insights into Watson AIOps, said Instana ..."
+publishedDateTime: 2020-11-20T06:15:00Z
+originalUrl: "https://www.crn.com.au/news/ibm-buys-apm-startup-instana-to-boost-ai-automation-558051"
+webUrl: "https://www.crn.com.au/news/ibm-buys-apm-startup-instana-to-boost-ai-automation-558051"
 type: article
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
-    width: 399
-    height: 399
+  - url: "https://i.nextmedia.com.au/News/crn-14_automation_iStock-1163061322.jpg"
+    width: 1400
+    height: 900
     isCached: true
 
-secured: "t2xCxryXqgURbhSX2xXQXBsSeCenMR4LUySZx2F8Evv/2Auy/RUoZbvaSOpq7Pyfllw045qCkrSEUDE+pmTXM8pKpZgPCTccwGpt6L7lz7a4d1t34el8yDif89W5239P+LdEG/NWbb8fDEf+xPJUb2oAetS5EXDK37rT6P2UetmB/+qo+g2BnPcayjE/104aSd6HhmB0IZj1ru2O4PDL34PdPILj5Gj2yxHM8AcJESH6adLa2a13MO+Kcy9nfTATt77LPB1dcICSJwVug30V7VPXSKjNBt+bx5b7yx18QLz6NpEidJ6GDLzbCJjrydHiauGz/iFpBbAY1/sNu/D3et776B0ZknzbSnyGgBk3atw=;rWwORIGswjbUIRnd+OHleg=="
+secured: "4REqR8FWYIfn4dj64akMcVrnHk22dOH8lQCmExnITzXPG+zttBactQ+SZTkYiC+7enFNttbKi1cjDQ3p+ADIgTcpdXiDCaoAp7u5Z6KUC3+lvww9IXlwQGgb/lQMqRg9YOg+yMuduuZv4HQN+ppKBgQDv6NBGmOfdNY3pBS5Go2a/bx8E4brP4chsMwYebbrdCYAtEL5I6P3ry9yd389WcRpPo/KHjjI80vDTGCM5GKJWvCcFVX+VJofdi5y6q39rHkqcwlWHtVtzUqp614dNNyKNGi+q3bBzDSMDQo05hoNCX7YidjZ5YjeHQ0zSrNXoSgy6Kbi5gRv6AcvM4h3srEYTTjo2h8sWtb/bbcWopo=;sA9T0N+TkxJ0carcC74WxQ=="
 ---
 

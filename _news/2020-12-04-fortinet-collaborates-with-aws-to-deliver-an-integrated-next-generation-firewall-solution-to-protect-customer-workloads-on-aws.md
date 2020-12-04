@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
+    excerpt: "Deloitte collaborates with AWS Professional Services on cloud migration and app modernization for enterprise and public sector customers."
+    publishedDateTime: 2020-12-04T00:47:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/04/deloitte-aws/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 29
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to ..."
     excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outpost s , AWS Network Firewall and AWS Transit Gateway John Maddison, EVP of Products and CMO at Fortinet “Enterprises are increasingly looking to integrate both native cloud security and Fortinet’s enterprise-class cloud security offerings to protect their workloads on AWS."
     publishedDateTime: 2020-12-03T19:06:00Z

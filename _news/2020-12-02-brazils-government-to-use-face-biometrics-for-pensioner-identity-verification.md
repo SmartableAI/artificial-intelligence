@@ -91,6 +91,20 @@ related:
         width: 1420
         height: 798
         isCached: true
+  - title: "With or without a mask, facial recognition tools know if you are you"
+    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
+    publishedDateTime: 2020-12-04T00:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Behind the Rise of China's Facial-Recognition Giants"
     excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
     publishedDateTime: 2020-12-01T00:06:00Z

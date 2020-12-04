@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
+    excerpt: "Deloitte collaborates with AWS Professional Services on cloud migration and app modernization for enterprise and public sector customers."
+    publishedDateTime: 2020-12-04T00:47:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/04/deloitte-aws/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 29
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
     excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway"
     publishedDateTime: 2020-12-03T20:09:00Z
