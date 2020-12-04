@@ -284,6 +284,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Google AI ethics co-lead says she was fired for raising concerns over ethics"
+    excerpt: "The co-leader of Google’s Ethical AI team claims that she was fired over an email she to colleagues. In her message to the Brain Women and Allies listserv, Dr. Timnit Gebru criticized the company for retracting a research paper on AI bias,"
+    publishedDateTime: 2020-12-04T13:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-ai-ethics-co-lead-says-she-was-fired-raising-concerns-over-ethics/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 51
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GoogleAndroid.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Renowned AI Researcher Says Google Abruptly Fired Her, Drawing Industry-Wide Criticism"
     excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
     publishedDateTime: 2020-12-03T18:14:00Z
@@ -356,6 +370,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Google researcher says she was fired over paper highlighting bias in AI"
+    excerpt: "Timnit Gebru, who was a co-leader of Google’s Ethical AI team, had expressed exasperation over Google’s response to efforts to increase minority hiring and draw attention to bias in artificial intelligence."
+    publishedDateTime: 2020-12-04T14:54:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/12/04/google-researcher-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "BWsxcWDproj2oqSkEXtVOTxcyiFHvKqLhiwsYGl/BvOVAQS2Tx5/6IxtpsTSGhxSCPnvvA3taG7gbMOdcCbGRx65loXt58HXoZbrIX79LEWETBxQLHjcNRDLgKiMMiZ6lNoLuHX2NQ4bkyowp2DQzV4opW+DWTamzaHWYgcTdvms5X/k2LJ5+/3BLsD635KEemel1WVfGTXVN9aA8bIjF2Kkdo0LEFSGH/QQ277vskPko7izZPHCLjD6pKEiozgsodWz1LgdWp/QrKN8z8Te3tQhxZdasZVdmlalBQPLZSphSmjekXTGW5J9sMviZgqwF5Kj8T/UURc3AYJdtT8ISsSsn2JvleoOX/JOFxQ5SHeW++Tni74/IcENCIeUfzAgvYh59KYtdcsyDc/Uxcg1+gFceKSkrr1EYjD61XZtkC5bIx1zklyqXn2K/t6VjdrIKhTTE4KY9c3jOlsKxy+aHJjEn/dxu97iXgiXnXrMOZIhbhHSnj5OrYTmmJBikSlU5+8zQejJnPmd4RnY825TPw==;bh17hSiati1dHi7MJdMr6Q=="
 ---

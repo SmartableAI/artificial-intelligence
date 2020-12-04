@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning"
-excerpt: "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator"
-publishedDateTime: 2020-11-30T14:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18572236"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236"
+excerpt: "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,"
+publishedDateTime: 2020-11-30T12:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
 type: article
-quality: 89
-heat: 109
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
   - Machine Learning
-  - Microsoft AI
+  - AI Hardware
 
 images:
-  - url: "https://mms.businesswire.com/media/20201130005027/en/841782/4/Veritone_Nividia_BusinessWire_1200x640_copy.jpg"
-    width: 480
-    height: 256
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: seekingalpha.com
     quality: 15
 
-secured: "3S4k+u70BuIY57/5mizp+LkOPlhux/Q2srybr/PkXrL5it85plDVqVHJ3YoyYBcMHJJD3sJyGzkDA+GvWpWwpZwCv20RJpWoWgUwRSW6YgDZlRFpONAs2x+yDgxKMatr7+b7bWUgVi+oKiN/dzjI609JIKapY5w9hfndMt37cl+ksX0nZ+NLqsIOJmOpMvRXHm4t7BI+3Ntoquff0hCyxPsJQAlmbSK4goWMbVsE+IoXPPFSJJKRGnLvi5sk+LzSpvSzbdz4IbEgIUtW5FvfQNOcDJJs3DC+d/+vafSjGDkpoS0Crb+IwlLIFc8NGcgDiEVpqfASld8i8JghAQiOwToi3LJr5LAh62hFdnhKdZM=;DEmIp1/b+XZToK8fRDfnAQ=="
+secured: "EHiceljnHKmWkUqfQCp9k3LAd/Y0wAa9dUmmtR53+MTRircs9sRIT+IRW7Qnb5F8AxvKLsZ+DW3ONnsxqQnm43/SxnbK8myYIgLmwyZhSLKzFnubG/pqx1UoWlZHousgWq4VhrKYGUtIWdpyfpha+46EcCRpGzude5pRx31p9xq45Dbzg39E8s+ug57hSuHDCeOAhUxa16F51q/Q2rTeasUp0vZ1633WMCA+fNKCFm4pJuSHd2w67PZ9W3eXYDAxlyTiooCy+uY0kA9/PPxqaRoJVWROjf1Om/WqD3ADhMiH76N5hFbO+aR/mDSoy0/z90WcEzXfCbCLQ2qYQ1jkGDWa3llijaEDxXSLGhQCn58=;U3OCSZtI1ZstwPkLA86drQ=="
 ---
 

@@ -25,16 +25,37 @@ images:
 
 related:
   - title: "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December"
-    excerpt: "The annual tech conference Web Summit is opening from December 2-4 this year. Due to the health concerns regarding COVID-19 pandemic, the event will be welcoming attendees from more than 150 countries around the world online."
-    publishedDateTime: 2020-11-30T10:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december-1029848360"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december-1029848360"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december-1029848360"
+    excerpt: "Participants coming from different countries such as China ... of Bjarke Ingels Group (BIG), are going to discuss how the AI CITIES are designed with the future in mind, enabling the cutting-edge technologies and people thrive together. The AI CITY ..."
+    publishedDateTime: 2020-11-30T03:50:00Z
+    webUrl: "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/"
+    ampWebUrl: "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 157
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "C3.ai, Inc. (AI) Plans to Raise $504 Million in December 9th IPO"
+    excerpt: "C3.ai, Inc. (AI) is planning to raise $504 million in an initial public offering (IPO) on Wednesday, December 9th, IPO Scoop reports. The company plans to issue 15,500,000 shares at $31.00-$34.00 per share."
+    publishedDateTime: 2020-12-01T06:30:00Z
+    webUrl: "https://www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html"
+    ampWebUrl: "https://www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html/amp"
+    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html/amp"
+    type: article
+    provider:
+      name: modernreaders.com
+      domain: modernreaders.com
+    quality: 59
+    images:
+      - url: "https://www.marketbeat.com/logos/ipo1.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December"
     excerpt: "The annual tech conference Web Summit is opening from December 2-4 this year. Due to the health concerns regarding COVID-19 pandemic, the event will be welcoming attendees from more than 150 countries around the world online."
     publishedDateTime: 2020-12-01T06:47:00Z

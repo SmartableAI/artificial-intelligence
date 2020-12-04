@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-h
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png"
         width: 619
         height: 369
-        isCached: true
-  - title: "C3.ai, Inc. (AI) Plans to Raise $504 Million in December 9th IPO"
-    excerpt: "C3.ai, Inc. (AI) is planning to raise $504 million in an initial public offering (IPO) on Wednesday, December 9th, IPO Scoop reports. The company plans to issue 15,500,000 shares at $31.00-$34.00 per share."
-    publishedDateTime: 2020-12-01T06:30:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 59
-    images:
-      - url: "https://www.marketbeat.com/logos/ipo1.jpg"
-        width: 500
-        height: 500
         isCached: true
   - title: "Peninsula AI Startup Files For IPO"
     excerpt: "The company would be valued between $3.08 to $3.37 billion using the company's share count, according to the report, but C3.ai's IPO could take a hit in the $70-to $80-million range should underwriters decline their option."

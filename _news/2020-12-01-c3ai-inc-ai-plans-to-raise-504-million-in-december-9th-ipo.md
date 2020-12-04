@@ -27,132 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai sets IPO size above half-a-billion dollars"
-    excerpt: "The cloud software operator that uses AI to do industry-specific data analysis would see an initial value of $3 billion."
-    publishedDateTime: 2020-11-30T14:42:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
+  - title: "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December"
+    excerpt: "Participants coming from different countries such as China ... of Bjarke Ingels Group (BIG), are going to discuss how the AI CITIES are designed with the future in mind, enabling the cutting-edge technologies and people thrive together. The AI CITY ..."
+    publishedDateTime: 2020-11-30T03:50:00Z
+    webUrl: "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/"
+    ampWebUrl: "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 157
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/e4d858ff-3bd7-4aed-ae90-7676eda0116c/c3ai-boilerplate-nov-30-2020.png"
-        width: 1410
-        height: 628
+      - url: "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Enterprise AI software maker C3.ai sets terms for $504 million IPO"
-    excerpt: "C 3.ai, which provides a SaaS platform for deploying enterprise AI applications, announced terms for its IPO on Monday. The Redwood City, CA-based company plans to raise $504 million by offering 15.5 million shares at a price range of $31 to $34."
-    publishedDateTime: 2020-11-30T12:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-sets-terms-for-%24504-million-ipo-2020-11-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-sets-terms-for-%24504-million-ipo-2020-11-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-sets-terms-for-%24504-million-ipo-2020-11-30?amp"
+  - title: "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December"
+    excerpt: "The annual tech conference Web Summit is opening from December 2-4 this year. Due to the health concerns regarding COVID-19 pandemic, the event will be welcoming attendees from more than 150 countries around the world online."
+    publishedDateTime: 2020-12-01T06:47:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lung-disease-coronavirus-pandemic-health-jessica-alba-c7352fe69122a0be643fcc21a7438acd"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Billionaire Siebel's C3.ai looks to raise $527 mln in U.S. IPO"
-    excerpt: "Billionaire tech entrepreneur Tom Siebel founded C3.ai said on Monday the software company was looking to raise up to $527 million in its initial public offering."
-    publishedDateTime: 2020-11-30T12:55:00Z
-    webUrl: "https://www.reuters.com/article/c3ai-ipo-idUSL4N2IG31W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IG31W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IG31W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-  - title: "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite"
-    excerpt: "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut."
-    publishedDateTime: 2020-11-30T18:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/"
-    ampWebUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 62
-  - title: "IPO Launch: C3.ai Proposes Terms For $504 Million IPO"
-    excerpt: "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities."
-    publishedDateTime: 2020-12-02T17:42:00Z
-    webUrl: "https://www.thestreet.com/ipo/news/c3ai-ipo-launch"
-    ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png"
-        width: 619
-        height: 369
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Peninsula AI Startup Files For IPO"
-    excerpt: "The company would be valued between $3.08 to $3.37 billion using the company's share count, according to the report, but C3.ai's IPO could take a hit in the $70-to $80-million range should underwriters decline their option."
-    publishedDateTime: 2020-11-30T20:55:00Z
-    webUrl: "https://patch.com/california/sanmateo/peninsula-ai-startup-files-ipo"
-    ampWebUrl: "https://patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
+  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
+    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
+    publishedDateTime: 2020-12-04T09:53:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-infectious-diseases-ursula-von-der-leyen-lung-disease-e1350cfade87761d8b6e5448a9682e9a"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
     images:
-      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
-        width: 816
-        height: 612
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Silicon Valley AI Startup Files For IPO"
-    excerpt: "A Redwood City startup announced plans to go public Monday, and all indications are that the artificial intelligence software provider is poised to make some real money. When the dust clears, C3.ai could be worth north of $3 billion according to a published report."
-    publishedDateTime: 2020-11-30T20:46:00Z
-    webUrl: "https://patch.com/california/losgatos/silicon-valley-ai-startup-files-ipo"
-    ampWebUrl: "https://patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
-    images:
-      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
-        width: 816
-        height: 612
-        isCached: true
-  - title: "Tom Siebel's C3.ai seeks to raise $527 million in IPO"
-    excerpt: "C3.ai is seeking to raise up to $527 million in capital with its IPO, the company said Monday in its filing with the Securities and Exchange Commission. The 11-year-old Redwood City based company that helps customers with such AI-based applications as CRM,"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.html"
-    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-  - title: "IPO Update: C3.ai Proposes Terms For $504 Million IPO"
-    excerpt: "C3.ai has filed to raise $504 million in an IPO. The firm provides machine learning and artificial intelligence software to organizations worldwide."
-    publishedDateTime: 2020-12-02T19:07:00Z
-    webUrl: "https://seekingalpha.com/article/4392588-ipo-update-c3-ai-proposes-terms-for-504-million-ipo"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 21
-  - title: "C3.ai Sets IPO at 15.5 Million Shares; Sees Pricing at $31-$34 Each"
-    excerpt: "C3.ai Inc. on Monday said it plans to sell 15.5 million shares at between $31 and $34 apiece in its initial public offering. At the $32.50 midpoint of that range, the Redwood City, Calif., enterprise artificial-intelligence software company said it expects net proceeds of about $613."
-    publishedDateTime: 2020-11-30T12:03:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202011303196/c3ai-sets-ipo-at-155-million-shares-sees-pricing-at-31-34-each"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "XOFFXFYHjwYKlF/WSXm9aqGzWuTXbdt23THSV10x4Ja69vHguwr3mNS53SPi63qLFBBatMbLbqTqo1n1equ1p29RlWyMzI4kxlB5gLT1Di3OjEqT6hyQPwt1DeVOc9zyFdPreo9kPhpsmEYQFs/GDPlugtWI7nDj2P5CW+mrlbz4++aHZ+dmYP1shTB6odabb4pNQvFLvJlllb0ODeo11C8BF56LmVNG6iEcVQbF7egWp++o1C17Zftl88Qbf/W9ijE+OIwaKM78p/8M20kT4iNzjicfDGklkDk0kMcCxfWZxOUpYmNILDdEpOEYlJGFzoUUonJgEqTCMBhGN9FOBLsyWeAPuwp0BMk19GvIaFNkOmJqTLGP3rRO9z0gCxExInwObr48y/Puj4sHhL/3shxFZYVEELrjO4FvbynUNz1+eEfzx+EIkBO8azK4JUmEr4d1QXayUZhmIOHRCWFypN7yIDuQTH9UfhWc90lEAdyWQhDu1Q5oRAczCtDeWDYU18QIwBponyKZoAgoWcLDnA==;0WpJkHdrhmlhfFlzO/C4xQ=="
 ---

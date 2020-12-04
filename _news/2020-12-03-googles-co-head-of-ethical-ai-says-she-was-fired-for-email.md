@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-h
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
 type: article
 quality: 106
-heat: 316
+heat: 336
 published: true
 
 provider:
@@ -288,6 +288,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Google AI ethics co-lead says she was fired for raising concerns over ethics"
+    excerpt: "The co-leader of Google’s Ethical AI team claims that she was fired over an email she to colleagues. In her message to the Brain Women and Allies listserv, Dr. Timnit Gebru criticized the company for retracting a research paper on AI bias,"
+    publishedDateTime: 2020-12-04T13:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-ai-ethics-co-lead-says-she-was-fired-raising-concerns-over-ethics/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 51
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GoogleAndroid.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Renowned AI Researcher Says Google Abruptly Fired Her, Drawing Industry-Wide Criticism"
     excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
     publishedDateTime: 2020-12-03T18:14:00Z
@@ -360,6 +374,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Google researcher says she was fired over paper highlighting bias in AI"
+    excerpt: "Timnit Gebru, who was a co-leader of Google’s Ethical AI team, had expressed exasperation over Google’s response to efforts to increase minority hiring and draw attention to bias in artificial intelligence."
+    publishedDateTime: 2020-12-04T14:54:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/12/04/google-researcher-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Go4k02E6R6CBo7w3qTKMTFlrZ8oM8vcJcaHkHsvabIvcdlV6yEZ7sfVGzxpxxcphPwFVO5GLArhaLW1wmfbspy7ep4Zr3NQqdmS1/FjpOP5o5g1NV5t/oToyE1oOxwl5hH2rCOB/2mI54J3h9pvjsIOprSjNQ+vAxeAP7+ffRiLta5cBvNRixfvHwuHAzvHt+qqPDz+pOe306J/jr8dD0l6joHwOZxZldgCdLDREuJ7FycGWaTHwuk2VhbfMtxfShYI8J4z5oZ4Av6SJ1xj4vS//Y+Qd6Vi19GjYwSQR8n0OgDr0njTArFEidSMjfXq8kfdhMQ08oF6LVLvtRRBivcLf9AfUxAkaD+rlHWS7bkJ4hiSGa1hUj7Ci3jcFaNGs9gGpmNkMDzV4RxT0z1X3g/g7OEn1NnRJfy1lmvloxaWd26qMU5A9b2ZgnWouXK4l1nn66p15dQG/Jbhqt+AzwsuqtN4kocmb5g+jnesAzH1CgwluZZlnJ8LGZc9SDyaigCdU7I+60kirRkQO1RP1/g==;rwqqdE/HNp3PB04tpxWSXQ=="
 ---

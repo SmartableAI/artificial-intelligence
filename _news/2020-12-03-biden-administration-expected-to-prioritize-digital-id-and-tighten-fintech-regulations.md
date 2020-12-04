@@ -41,6 +41,17 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "Russia will keep paying attention to healthcare digitalization, says Putin"
+    excerpt: "At the same time, Putin stressed that digitalization in healthcare is not just important to correctly diagnose patients but also to minimize bureaucracy"
+    publishedDateTime: 2020-12-04T14:26:00Z
+    webUrl: "https://tass.com/society/1231503"
+    ampWebUrl: "https://tass.com/society/1231503/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1231503/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 37
   - title: "DIFC FinTech Hive to showcase 17 innovative startups"
     excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region has announced that its much anticipated ‘Investor Day’ will take place today,"
     publishedDateTime: 2020-11-30T11:29:00Z

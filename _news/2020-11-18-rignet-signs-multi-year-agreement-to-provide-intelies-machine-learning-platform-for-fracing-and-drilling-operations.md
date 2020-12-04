@@ -1,27 +1,21 @@
 ---
 category: news
 title: "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations"
-excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent"
-publishedDateTime: 2020-11-18T13:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
-webUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions, announced today that it has been awarded a multi-year"
+publishedDateTime: 2020-11-18T12:05:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling/article_94422afd-d96a-5121-a4f0-fbb54af42ad9.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling/article_94422afd-d96a-5121-a4f0-fbb54af42ad9.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "j3k801Qb66JIqXBzwmzFA9KpIPbm2nXX2Dx0pLziv468OLlbNcGpQ2Z/GH57x+CqohQ0OClrFOsfSQ08vr2OIT7uxYbO1yw+jD7ND9jYMeI4c0mgAPSvsxFv+n+fN8IYJWlGA44nX90pNTJjkQVIEx1EWU9yss2AB/HJ2zcCE+vJZ8w6nhqtC5m68a8lxLEXqwnrQmLWKekpSbQLfkdjl1mCibXGAHdvPDVWLwvcC8pqGNzSTVn8bQ87R9kgWqUmvOYb+H0lYWq+aXro9ZHcbEq0Wb2GbI9NOfCHECwOMTOznvcYzn4/fkvm5u9kcVIhRTvPK+Otpd3tvl7/K4oJBQy5W7gleMZnNWbQZhv9yaU=;eHbxpdsUuZsW0u7HiUHvyQ=="
+secured: "odpTbpHghPVB2NPSlUk1VQml5bgCkglBOuFoid4WTGxsAjw4FB7tWfP0XYqSqiVBla/hjFS6Yi7iRcq74ydQAgjvOT33imAXyY19PP9g6xlNJiPwepgXXhlixvwetXW3R8eWR8BDjsg1spV+RB1m/G+/vxZzGCRDhO/O8bT38uiDXAFHrGW8l7tTFxzJxoFzR/eWMVDKRVOctPLvQWdyeEimfjsoOfA3NJ9yiNOOAGRNotveTnO8lgAmVgEx87HGfojS3ZulV/PWqgnblYjpJM0MyLwxvPGQEamoHqHJWMl1PIeqgSJGTqI1iaK9nW+kDHGnOBZsbSvgXu7WTUXzN4fZCusFk5AK4BHAGRGJXymMD7dZ9UXDRegzMYhBPjbzU73VEPcsSYz8xwnb+KbfGSs4l52LmYiDu4AmciZougZr6/2eN0kXRfFEBE+cksDVSTQwW0/rMMxtg2qPXdkr5NZeKiGNtUj0efR0e1fq2Be+818qYmYwLzfAXHQ26m12H9UuxeO7iuFjByyqQuzMHA==;mLFmOdtu2J1e7mWXq2AG3Q=="
 ---
 

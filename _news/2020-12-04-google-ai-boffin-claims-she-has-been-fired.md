@@ -297,6 +297,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Google AI ethics co-lead says she was fired for raising concerns over ethics"
+    excerpt: "The co-leader of Google’s Ethical AI team claims that she was fired over an email she to colleagues. In her message to the Brain Women and Allies listserv, Dr. Timnit Gebru criticized the company for retracting a research paper on AI bias,"
+    publishedDateTime: 2020-12-04T13:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-ai-ethics-co-lead-says-she-was-fired-raising-concerns-over-ethics/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 51
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GoogleAndroid.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Renowned AI Researcher Says Google Abruptly Fired Her, Drawing Industry-Wide Criticism"
     excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
     publishedDateTime: 2020-12-03T18:14:00Z
@@ -355,6 +369,15 @@ related:
         width: 1280
         height: 722
         isCached: true
+  - title: "Google researcher says she was fired over paper highlighting bias in AI"
+    excerpt: "Timnit Gebru, who was a co-leader of Google’s Ethical AI team, had expressed exasperation over Google’s response to efforts to increase minority hiring and draw attention to bias in artificial intelligence."
+    publishedDateTime: 2020-12-04T14:54:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/12/04/google-researcher-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "rkQOGT1W6AC+/RqKtaSVavenzzUtaw/vPIY9inm2Mwh2et8Q/PoES+WSVHGKHR6q4+i6E4XV1z4LAWGFdyuau+2Gs+QvXAOdcO2lYRLCCFVCESrSBGY1CiKVwdUAm7WxrO5UwtRvpblOR2A8I1ClS2x59H2cxj1SK/DZDoRzuVBTiA9WSK/Ru7K494B12/029/yJNDNzJxHFXIPzBNkj+j+ye34D1RUjZxhyhr9wcRiEsrp2uTalMObNQU5YeJCFPjFwKk8xdA7CZn7S3RbVHMBSSRqOe1InetzA+2YJTIyA4gp9ezbb/Y82/gEmpeOPsCd8hZIXSl5Rv4cf7daduytu/gtYbF96NrJeBNDlGXk=;OWn7IUTsYw3dRmA74e1uOA=="
 ---

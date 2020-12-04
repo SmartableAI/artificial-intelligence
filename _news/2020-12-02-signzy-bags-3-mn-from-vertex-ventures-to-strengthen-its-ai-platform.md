@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/signzy-bags-3-mn-from-vertex-ventures-to-stre
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/signzy-bags-3-mn-from-vertex-ventures-to-strengthen-its-ai-platform/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "No code platform Signzy tops up fund raise with additional $3 million from Vertex Ventures"
+    excerpt: "No code AI platform Signzy announced today that it has raised an additional US$3M from Vertex Ventures, taking its latest round of fundraising to $8.4M in total."
+    publishedDateTime: 2020-12-02T11:00:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 127
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "hiXBQCgi0bl0dQgdwNt36aIPAxUyY+vmVxURqmcH1TGM2CBB8DDD149TO+NLqp/DfCdziVJGYwv//j3gv5ubit1klu3wgOXuJDdgectrjV/fQVE+4/QQ3nPcOLaBW6UYuoOiceWVLKnC1mt5usAFYrgfYL1Ecw9oTmAjw/XnpY00XUpybfbJiVlHVFOzJpfkDDHT7CowJIeNfNB1cdkwwkK82/pkfbZKzg1jZM6NpeljxhM31GEy+IH/igLnZzSj0e0c61/rQSho98CgDXCClAtawg0SG1uqnZZPucHStV/ptYMS/BNozzwrHklQhgrrCSqDVxFwEPwlFj66oOLuoGZivqnk9y+SwniMzmgY9v7XtS8BhQAmK7x68Gi0Kek0G0u9lGXq3RssCg1j4+M+mBZs5k+VteE0w56P0nuuLuNSV6GnK5hGE1PDJ3aooproSC+JIdluCLBSoYXqKe4J15oeXWHAdZr0DMhEvFBbjwzUAEkn7/hr1lsCDhtOzrIoxY+Yll4eCO/8WpPUIhIM4Q==;8zFbxLrrXRoKOP8p0hAdLA=="
 ---

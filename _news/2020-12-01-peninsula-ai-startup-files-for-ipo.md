@@ -91,22 +91,6 @@ related:
         width: 619
         height: 369
         isCached: true
-  - title: "C3.ai, Inc. (AI) Plans to Raise $504 Million in December 9th IPO"
-    excerpt: "C3.ai, Inc. (AI) is planning to raise $504 million in an initial public offering (IPO) on Wednesday, December 9th, IPO Scoop reports. The company plans to issue 15,500,000 shares at $31.00-$34.00 per share."
-    publishedDateTime: 2020-12-01T06:30:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/01/c3-ai-inc-ai-plans-to-raise-504-million-in-december-9th-ipo.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 59
-    images:
-      - url: "https://www.marketbeat.com/logos/ipo1.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Silicon Valley AI Startup Files For IPO"
     excerpt: "A Redwood City startup announced plans to go public Monday, and all indications are that the artificial intelligence software provider is poised to make some real money. When the dust clears, C3.ai could be worth north of $3 billion according to a published report."
     publishedDateTime: 2020-11-30T20:46:00Z
