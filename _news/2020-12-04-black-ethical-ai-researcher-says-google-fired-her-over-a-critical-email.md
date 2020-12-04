@@ -187,6 +187,22 @@ related:
         width: 5760
         height: 3235
         isCached: true
+  - title: "Google head of ethical AI fired over research paper"
+    excerpt: "Timnit Gebru was sacked after the company requested she retract an AI ethics paper she had co-written with six others"
+    publishedDateTime: 2020-12-04T07:14:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
+        isCached: true
   - title: "A leading AI ethics researcher says she’s been fired from Google"
     excerpt: "On December 2, the AI research community was shocked to learn that Timnit Gebru had been fired from her post at Google. Gebru, one of the leading voices in responsible AI research"
     publishedDateTime: 2020-12-03T22:45:00Z
@@ -311,7 +327,21 @@ related:
         width: 1280
         height: 722
         isCached: true
+  - title: "Google AI boffin claims she has been fired"
+    excerpt: "Google denies itTimnit Gebru, one of the best-known AI researchers today and co-lead of an AI ethics team at Google, said she was fired for sending an email to \"non-management employees that was inconsistent with the expectations of a Google manager."
+    publishedDateTime: 2020-12-04T10:27:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51995-google-ai-boffin-claims-she-has-been-fired"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/ba053490cc3e50b95acaee944486f9da_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
-secured: "yc05rdzTjZWDAnXZ0cM76h2blCJGiwy8/3oZDEZ+sylJa1ZCfZ/SlX3ZTgEHcqmrYFqvpEApRUnPnnlD/1b+NVYfOoFy0sviNE5+zdEYA1sh3rpcBYNFnHO5n87dB/UPuWz/LDyW133oE5F2BxLKg1cUgnuCVjaPG1RMGJWa6/orcG1XlAiZrTkT4xu53+2OWvYu/Yws2pPxYm+iDEU5pSpTP9TnaZ4DIFF8/en1ex5NvNN22j2cQceNjrD6ZJSpBlND80qJGBZXTUahWH3Nqi8uRVpbeFFC1TwN8jZBxr16QL3efnVOBFJlFpnm0z6I1CSFJmFv9hdaAVDvDYBp7xPejkIKYxSTk0Dg0VGZPQA=;vYJr0UaxkmO7qfPbZOcEjg=="
+secured: "ok8eW4YhR6dmm0vX/mvf7aahDOXyWhtBe1M6tCjXeiCT8y2tSGXmqziZovps/5g2zBt/VW9Z6TG8Pg4Qm6LBnwEN2yctUmKQqUQOEFHct6OaD4gJUWJLitF/gJ/W3yosr5i2iyor1ZLjHt61u6RSbREJCv9rVMjhVoCBwAgAO29DsNzGFalTslHlc1ZkZceJxVDG2/MgGDFRifWOwOFIIIddIrBJjqvD6lSzBnjTmlKaWQDLE/CQpUHAoisepjzwJUJAis10U8xvfpqFgfGhF4ugW0vlz7qZPJcSkaB3vP1UCbCc8+6l7z5l/PXUl7IlbhYYbZp69i1iA6CvBwrfz0gGIdg2CyE9eUypEZcR1jrDXuUTd2mwIBRAmajpDtW0BAphu4qN4x53KMimS44K5wJYnDcu+QEeIwvt/U0GqTTF5DpMh6uMG+uNwZchcCNubv8V98O2IcQubDoubjokCslwpKnqNZ0mkH3uJ6Bjc3AQTBcR2udxrDbX0rrsx3abuONZICvZS0b6OPZOZxWviw==;RGnTmI7YJ/T82D6Nrub8sw=="
 ---
 

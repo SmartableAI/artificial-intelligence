@@ -2,6 +2,101 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-10-18-computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge.md",
+      "title": "Computer Learns To Play Go At Superhuman Levels 'Without Human Knowledge'",
+      "excerpt": "The open-ended game has more possible configurations than there are known atoms in the universe, according to the DeepMind researchers. The open-ended nature of the game has made Go a \"grand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/sections/thetwo-way/2017/10/18/558519095/computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge",
+      "originalUrl": "https://www.npr.org/sections/thetwo-way/2017/10/18/558519095/computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2017/10/18/alphagozero-illustration-widescreen_wide-7f96f6e3363cf430b4034ff54c87ec0ebe8b8160.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-two-top-artificial-intelligence-stocks-to-invest-in.md",
+      "title": "Two Top Artificial Intelligence Stocks to Invest in",
+      "excerpt": "The competition is between Intel, Nvidia, and others to build Artificial intelligence chips for data hubs, self-driving automobiles, robotics, smartphones, drones, and other appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/two-top-artificial-intelligence-stocks-to-invest-in-2020-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/two-top-artificial-intelligence-stocks-to-invest-in-2020-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-why-software-developers-might-be-obsolete-by-2030.md",
       "title": "Why software developers might be obsolete by 2030",
       "excerpt": "John Maynard Keynes predicted we’d be having 15-hour workweeks by the end of the century. But by the time it was 2013, it was clear the great economist had gotten something wrong. Welcome to the era of bullshit jobs,",
@@ -1059,100 +1154,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-skylum-gives-us-a-sneak-peek-of-sky-reflections-in-water.md",
-      "title": "Skylum Gives Us a Sneak Peek of Sky Reflections in Water",
-      "excerpt": "When Skykum gave us sky replacement features in Luminar 4 in 2019, it was a breakthrough that didn't require masks and a lot of work. A whole lot of landscape photographers and real estate photographers loved the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=K_jWJ7Z-tKI",
-      "originalUrl": "https://fstoppers.com/landscapes/skylum-gives-us-sneak-peek-sky-reflections-water-524593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K_jWJ7Z-tKI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fstoppers",
-        "domain": "fstoppers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-servicenow-and-ibm-making-ai-really-work.md",
-      "title": "ServiceNow And IBM: Making AI Really Work",
-      "excerpt": "Both companies have announced an expanded strategic partnership that combines Watson with ServiceNow’s IT platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/",
-      "publishedDateTime": "2020-10-16T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

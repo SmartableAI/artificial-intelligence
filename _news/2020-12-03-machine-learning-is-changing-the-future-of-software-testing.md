@@ -24,6 +24,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Transforming our understanding of voice-hearing"
+    excerpt: "Durham University researchers are changing the way people think about experiences of hearing voices. Up to one in ten people hear voices that"
+    publishedDateTime: 2020-12-04T10:52:00Z
+    webUrl: "https://www.miragenews.com/transforming-our-understanding-of-voice-hearing/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://www.dur.ac.uk/images/research/DontjudgeNT.jpg"
+        width: 400
+        height: 250
+        isCached: true
+
 secured: "TbOjacYHkwCiM/ed3sVBtKpW3ehV4tFm5w4vq9r6sOTbnWx5DivJnPaOce1N0dnd/ngAMaQ+r6lWiJBAARmA31iFRuQx9XB6psI8+INmOXARaR/1pIvYd24BNvkeukxuUpwWHfF6XzWF8yI3G94ZbTMRFYvXDLz1LhOVvIZl2PWxDiIZNQTFUGgfVjf4kPqz2hduSScs+FNq2NDe0P5bC/tZysU9SMPFzImfu8NzcP9QHVlKyyZB83VMVkXbwKTfBm2fBFGwdOR/Y5j1B4LEBFQX5sbQUCPoYkPLQ/++zCxExZW7JmvuPPZEJHzWmCKhHpBNQa543ZQNtHqHm5jcGbl2P6+jBKGU7gf1wN9HlyofDcWdRhIoTc9b1GloFPrEypwozGmy+iI7AZ0RhbFWFSz7lTUsk4K1AS4gbD+NatLbJ0067hHd7q2NLDhrD/E2DASoNLb34P2ZMrcYEYZDXhxwm50CulfzHRJs7QiZxOdKUnPwca3QzD+gDvYipnmfEshVsEK+bS4eFhJnzge4ww==;qCV8KkPGkfgxN5yW8r1dfw=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
+      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
+      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "publishedDateTime": "2020-12-04T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Mining Review",
+        "domain": "globalminingreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-mlcommons-launches-and-unites-50-tech-and-academic-leaders-in-ai-ml.md",
       "title": "MLCommons Launches and Unites 50+ Tech and Academic Leaders in AI, ML",
       "excerpt": "Benchmarks and Best Practices Align Industry and Research to Drive AI Forward The opportunities ... Dell Technologies, d-Matrix Corp., Facebook AI, Fujitsu Ltd, FuriosaAI, Inc., Gigabyte Technology Co., LTD., Google LLC, Grai Matter Labs, Graphcore Limited ...",
@@ -1408,49 +1452,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
-      "title": "How archaeologists are using deep learning to dig deeper",
-      "excerpt": "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-26T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

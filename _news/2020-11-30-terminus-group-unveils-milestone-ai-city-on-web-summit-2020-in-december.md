@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/terminus-group-unveils-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december-1029848360"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
+    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
+    publishedDateTime: 2020-12-04T09:53:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-environment-and-nature-infectious-diseases-ursula-von-der-leyen-lung-disease-e1350cfade87761d8b6e5448a9682e9a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-10-data-trusts-could-be-the-key-to-better-ai.md",
+      "title": "“Data Trusts” Could Be the Key to Better AI",
+      "excerpt": "One of the challenges in developing AI applications is obtaining the vast amount of data that’s required. Making matters worse, regulations and privacy issues",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "originalUrl": "https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_10_2835584.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "publishedDateTime": "2020-11-10T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
       "title": "Ethical Frameworks for AI Aren’t Enough",
       "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",

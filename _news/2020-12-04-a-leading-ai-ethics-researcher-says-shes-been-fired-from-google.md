@@ -187,6 +187,22 @@ related:
         width: 5760
         height: 3235
         isCached: true
+  - title: "Google head of ethical AI fired over research paper"
+    excerpt: "Timnit Gebru was sacked after the company requested she retract an AI ethics paper she had co-written with six others"
+    publishedDateTime: 2020-12-04T07:14:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 76
+    images:
+      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
+        width: 1000
+        height: 652
+        isCached: true
   - title: "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email"
     excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager."
     publishedDateTime: 2020-12-04T08:24:00Z
@@ -310,6 +326,20 @@ related:
       - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
         width: 1280
         height: 722
+        isCached: true
+  - title: "Google AI boffin claims she has been fired"
+    excerpt: "Google denies itTimnit Gebru, one of the best-known AI researchers today and co-lead of an AI ethics team at Google, said she was fired for sending an email to \"non-management employees that was inconsistent with the expectations of a Google manager."
+    publishedDateTime: 2020-12-04T10:27:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51995-google-ai-boffin-claims-she-has-been-fired"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/ba053490cc3e50b95acaee944486f9da_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "R+sDvduxYrkOjWWFxr61RmZ02+16+A9gIwJgG4W9MgqvtYy8bedSp8Hj1oEoVVznTpCWQqeTpQunLpzu2cRcuizfFqAVGBUJAk4+vZjDPgJXMDNaroSWKE7EdYpJdK2SvlHmFdnkbgCY+aC4oxDlwnX2pKNb1f0siDZAnYVXw6StlS/mtA/cQwduwetalQiB0U+TqXQcr1Gizs/XQ648y/Jfd5jgxHFeymSFQngR9avy+fwe9/7llJxNH21U7CpZdVliqpRPG0NzAN7ptJ3pNgY9enfBOE26eYCOwNpQCRzCjP8sisCTQmB+XNBVbSq5Dz3pHKCRSO4XqJP1xMozE2Vl1Lccv5W0jAzZHO23j2QnEWerb0n2opooJ2yVf0djFEmTR1F7CsREk/l7lmfkTMyMr+dhg2bvsYWD8V1wDBBIfAVchmMXIDkxLVbjgeor+CVAHl9zSnL8lkjkojTitkBe++OXVqYyuNvvbyTxj4Tj2bUaXLb3DMN5/2M9iY9jgX7eOGDct3aBdLIB5eJDew==;QZkN4gva3+SJxjSYNMTLgw=="

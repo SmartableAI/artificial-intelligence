@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y"
 type: article
 quality: 92
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
-    publishedDateTime: 2020-11-29T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

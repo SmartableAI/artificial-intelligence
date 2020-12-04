@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
-    publishedDateTime: 2020-11-29T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Security Market 2020 Industry Size, Trends, Global Growth, Insights And Forecast Research Report 2025"
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
     publishedDateTime: 2020-12-02T05:31:00Z
