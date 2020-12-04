@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/google-ai-ethics-co-lead-timnit-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/google-ai-ethics-co-lead-timnit-gebru-says-she-was-fired-over-an-email/amp/"
 type: article
 quality: 106
-heat: 236
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -42,7 +42,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imC_aAMzSyd0/v0/360x-1.jpg"
         width: 360
@@ -64,6 +64,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Daily Crunch: Google fires co-lead of its Ethical AI team"
+    excerpt: "Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru,"
+    publishedDateTime: 2020-12-03T23:16:00Z
+    webUrl: "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/"
+    ampWebUrl: "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Google’s co-lead of Ethical AI team says she was fired for sending an email"
     excerpt: "Timnit Gebru, a leading researcher and voice in the field of ethics and artificial intelligence, says Google fired her for an email she sent to her direct reports.  According to Gebru, Google fired her because of an email she sent to subordinates that the company said reflected “behavior"
     publishedDateTime: 2020-12-03T17:56:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Google AI ethicist says she was fired because of an email"
+    excerpt: "Timnit Gebru, a co-leader of Google's Ethical Artificial Intelligence team, said late Wednesday that she'd been abruptly fired from the search giant over an email she sent to colleagues.  Gebru, a prominent AI researcher,"
+    publishedDateTime: 2020-12-04T04:10:00Z
+    webUrl: "https://www.cnet.com/news/google-ai-ethicist-says-she-was-fired-over-email/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-over-email/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-over-email/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/NRbhh9G4Y623_7Q5lbnFTCVARak=/1200x630/2020/12/03/14a3a964-d103-4c59-b0ad-0715ff21614d/gettyimages-1028811892.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google fires prominent AI ethicist Timnit Gebru"
     excerpt: "Timnit Gebru, one of Google’s top artificial intelligence researchers, says the company abruptly fired her yesterday. The technical co-lead of Google’s Ethical Artificial Intelligence Team claims managers were upset about an email she’d sent to colleagues."
@@ -237,6 +269,20 @@ related:
       - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "What one of Google's top AI ethics researchers had to say before the company pushed her out"
+    excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
+    publishedDateTime: 2020-12-03T20:50:00Z
+    webUrl: "https://www.fastcompany.com/video/what-one-of-googles-top-ai-ethics-researchers-had-to-say-before-the-company-pushed-her-out/tLswTdKo"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 44
+    images:
+      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
+        width: 1280
+        height: 722
         isCached: true
 
 secured: "jk/3EmEBycNp2S6ZyCc3J3oWylvPqpX0LWYH8yNelA48hZf9+iboNzp7nuJHjNNJeVWYFnuZ8IzOGNs5LE+yuY/+Bg5/yj1oPO905afg9sLkxggEG+nOEvXFK3Q+CNwRjHqXjarYjR9YsJl4d5+0Nr5fM5aoO4BqNXQREa3iWgMrTP/vg7QvPY/LnP664KvuRaq1uwwas23vgSgsJPsgrcAT5FXI2hCMLFiOmQrOv4g5hud9uBsLaZ31e6fr70j9fZJjfxTfWPicd8PAWMqc9z0saa1Qdu3as5xCfRVfruY1GGbShG73qdhDnT8FKNFAMrSXAoANlQV/h1RRQDMqrTxEgelr/3uQCMpIYOTl/fmsfZiVT09F2i6f4cKBeiBZzNALifl/VUSdWkvlb0OXPW6w4bgBrgACj3u7SorHsgowy7vYGJSACDfBLBxleIb5hGuRVQBl4BQKRV7ZtCo20CBY3/w8Gn2pCHlCC+goWraMm8vSpyaMGIosBoCbL20Zw1wl5Mufmm75dt7SSCYZhg==;qxCB8ifXj9XRYmGKZEOKaA=="

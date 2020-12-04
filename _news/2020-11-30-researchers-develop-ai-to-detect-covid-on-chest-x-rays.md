@@ -116,20 +116,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
-    excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
-    publishedDateTime: 2020-11-29T12:43:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-and-virtual-reality-can-accelerate-covid-vaccine-development/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-7-e1606637006803.jpg"
-        width: 900
-        height: 601
-        isCached: true
   - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
     excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
     publishedDateTime: 2020-12-03T12:04:00Z

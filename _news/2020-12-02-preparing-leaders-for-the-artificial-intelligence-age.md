@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/prepar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Lenovo Spreads The AI Message Far And Wide"
+    excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
+    publishedDateTime: 2020-12-04T03:30:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg"
+        width: 2400
+        height: 1800
         isCached: true
   - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
     excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."

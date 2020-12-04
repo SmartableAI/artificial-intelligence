@@ -73,6 +73,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Lenovo Spreads The AI Message Far And Wide"
+    excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
+    publishedDateTime: 2020-12-04T03:30:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "CIO Leadership: Using AI and Automation to Strengthen Enterprise Efficiency and Improve Business Models Will Drive the"
     excerpt: "Discussion at HMG Strategy’s 2020 HMG Live! Florida CIO Ex"
     publishedDateTime: 2020-12-01T00:50:00Z

@@ -24,6 +24,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "iCAD Highlights Expanded Suite of Leading Breast Health AI Solutions at Virtual RSNA 2020"
+    excerpt: "(GLOBE NEWSWIRE) -- iCAD, Inc. (NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that the Company  is showcasing its leading Breast Health Solutions,"
+    publishedDateTime: 2020-11-30T12:00:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/13214886-icad-highlights-expanded-suite-of-leading-breast-health-ai-solutions-at-virtual-rsna-2020/all"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 10
+
 secured: "GxfVoSCqd++1yKZNRsS7jYJOqqB9C+48qX9GQ7sYFMtTgUTuz1qgN2ogYlaUwpJFWanX97PRTNSuten+30N941Rl9zfVyRkE6TnX+9nCNpKXf54IRckZYDTIBiZB4M5SrSUlPAVjUUx1NMRF9za/aB/2x9T8wAQpZZL0tBZrGhWUhR70XonB5IEbrHSB13xCUMUQaG44X14kwrGOLE1/+vsCurCmU3wY8YCK1Iecy2MCrm2uUSQM1Pc6p1gzD19kPBuPBIlHv1VTtf91dc+0HqrVM3wIdnRkLmhCxbRUdkKQPGWcXt2wM/+keV5aLQmT5kVIkERBBAl33IJZKVKZRU5wD2jtL6BNCBSWfHMotLg=;u0gcfOw4byuMIwoy3YNs9g=="
 ---
 

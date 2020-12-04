@@ -145,6 +145,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "New data analytics tools aim to help deliver speedier packages, better patient care and more"
+    excerpt: "Azure Purview, Microsoft’s new data governance service, means data engineers can just be data engineers, and data scientists can just be data scientists."
+    publishedDateTime: 2020-12-03T21:06:00Z
+    webUrl: "https://news.microsoft.com/innovation-stories/new-data-analytics-tools-aim-to-help-deliver-speedier-packages-better-patient-care-and-more/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 28
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/549/2020/12/fedex-airport-terminal_1200x630-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "oZcX7vkWyB5KGZMIIG/E7NsqaB3aXphoNIrLnpxr2aAFy2rZoGgyK1dvacGrHVGxPbabadH545+eO6KTsXo8kDJfAycj6orR32AB74c5zfeG7Qp2NTetGpxswtT9QHiWqCCCAKyDP9Ox/TMDuwLvoHJsR42qcBOGH0Gxc+edRGtwiS+rp/m/4fDsTD7hdhkGocqzXTWo9fxtSwRZRetMjvcsTy44pik6gble+nBaCk013GI9sP1Jw33dlz1F79ZGlDDCAV31LYok/vxQyWu3odBuhWAgJAoHVc7gF9IvlBOhgXPLsbtankRQg2dzlDmvKC55ggfFS+bQFCHwkMN/unrroPsrIjTEtskd+9gGXoo=;l4GNBAbFdMXMOFuLFvQUhw=="
 ---

@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
+    excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
+    publishedDateTime: 2020-12-04T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "L8tT6tApDDpNU9wb3iYbCWlrEwTAaOMQVeD9cmkmS6a67LqzURFYjMjHwdrHv/G50wlVJUtdPYxzpwR8Y36R09mrjctgnbDhrgTnlu/wxaBRKvvTJ/6ke+r5nem7/kVYIvUd9hhALq/hagvp9Sn9ka7RbbMX1R97WzGtG4MSR4VQVWC0Gh7RBfjtjIvxvA/Q2nAQ3R/mQZ0VFgcY+sILd8snuNsguW4TZn/PL38rYKgqN0Jhx16IkOOBFRiNkhOrUbskSBhjKRAtvsiCUn6enPozGjHQB9MxnxnpRaOrjG49l1Leg5ts5YnV8vvmS64b/ASLCZbRnKehoP6NxWs+NGEuMqgjHQ4M/97uaUW1ecg=;HQTAmcmxffIuZ0nrxHhGYg=="
 ---

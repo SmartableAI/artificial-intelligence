@@ -63,6 +63,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
+    publishedDateTime: 2020-12-04T04:03:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
+        width: 1200
+        height: 741
+        isCached: true
   - title: "Microsoft’s Nudge service leverages AI to speed up completion of pull requests"
     excerpt: "Microsoft says it's using an AI service -- Nudge -- to accelerate pull requests in software development projects."
     publishedDateTime: 2020-12-03T20:13:00Z

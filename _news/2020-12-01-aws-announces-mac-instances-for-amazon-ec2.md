@@ -73,6 +73,22 @@ related:
         width: 900
         height: 376
         isCached: true
+  - title: "AWS Panorama — bringing computer vision to business masses?"
+    excerpt: "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to"
+    publishedDateTime: 2020-12-04T04:52:00Z
+    webUrl: "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 76
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png"
+        width: 450
+        height: 300
+        isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
     publishedDateTime: 2020-12-01T18:18:00Z

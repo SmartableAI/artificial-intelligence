@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-ad
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
 type: article
 quality: 102
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/1862.jpg"
         width: 900
         height: 376
+        isCached: true
+  - title: "AWS Panorama — bringing computer vision to business masses?"
+    excerpt: "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to"
+    publishedDateTime: 2020-12-04T04:52:00Z
+    webUrl: "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 76
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png"
+        width: 450
+        height: 300
         isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"

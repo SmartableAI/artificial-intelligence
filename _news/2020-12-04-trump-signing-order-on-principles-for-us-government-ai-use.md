@@ -62,6 +62,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Lenovo Spreads The AI Message Far And Wide"
+    excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
+    publishedDateTime: 2020-12-04T03:30:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
     excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."
     publishedDateTime: 2020-12-01T12:51:00Z
@@ -125,6 +141,6 @@ related:
       domain: multibriefs.com
     quality: 17
 
-secured: "mXY6ZAHiRl4LOl5Ji6i2SddsYpSWhab1M5RPEBv9wA5BQhgO3d5DLZp4WvvBQWH2iq9YxgUQ/Umhs000vucP2/hYJJng5Qw5dqeD2nRbBNGvodZf9G8t2J2XmIdKit0HPJy8dYLhv08tnWfOk47cBEyENTnY+fb7HrYa6ZiHyvPiPBZ7Dyb/3h1aUUsXcGJh7RE28Lkr7od1qZXWoOXeq5NCYBRj1tqhU/0LI7IKX0fWu6bnIAefE9E6OT0/tXEaCJiWBHRApT6LIU2EivpWta37ngQP1N63MnRCmH94tk5IdsZLruvmqfGpwc+d7T89cMdFCCod6pL+RtOcPtnXQOtvA53XtxpGFZj4R6fo7lc=;N0CQe8OOFcq3DyKlFnymzA=="
+secured: "V8KKqyF2xQfs4g/+rDprpGpZg5WP0YNZoFLXYQO5pmt0TISjfw2TSxYA7pzSoRZCKdsRBZW22xXYRjjWDh8LGkiAmJCkPXKJ4L3WO4mCcyYhaZ6ExVmz7DT9Sa9YprIfJ0ON1fnSHCRrv8NK7znjyKOPdvwrfblsfIAS7UDHj46rsxhcc3CF08LHkYVg2N6t8wonS09/K1iqCa3U3f8sskb3k4EZW0ebXtgpJyShK+pgFR5xn/k4+G5qehrBrhRYS2ofbarlx4y7WIOqmlIs7dyrtmJX4d4GTEWp99jMj+ot2Ka9D8Yy5EgGP1LAP7X0An7miBgX5LaIIpuNPWkjwcQQDu/OZmaGvWY2fDKsNekrL2a1X2/O/XyHuufu5OU6bl/td9fW7icK4B7qijQ9Z8jARrliMuxujkARe4G1+nF/dHqnDXrIBCGdO7Lpib/3SnGK9fxIYVDjkkDRbmzJQsawWye4okBCghysGdmSUU1PEPi95M/c1+xDTnq1U/ayMlhGnC1fFguCs7W+LieK9A==;8Zt+zcOhapIIIyT3xj30rg=="
 ---
 

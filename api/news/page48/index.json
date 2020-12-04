@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-10-28-bristol-myers-turns-to-machine-learning-startup-to-solve-als.md",
+      "title": "Bristol Myers Turns to Machine Learning Startup to Solve ALS",
+      "excerpt": "Bristol Myers Squibb Co. is teaming up with machine-learning startup Insitro in a novel $70 million deal to find new drugs for amyotrophic lateral sclerosis, the deadly illness also known as Lou Gehrig’s disease. The five-year deal, which includes a $50 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "publishedDateTime": "2020-10-28T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia.md",
       "title": "Machine learning helps pinpoint sources of the most common cardiac arrhythmia",
       "excerpt": "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are",
@@ -1109,49 +1152,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy-advocates.md",
-      "title": "China's new Silk Road runs through cyberspace, worrying rivals and privacy advocates",
-      "excerpt": "China is fast becoming a global leader in cutting-edge technologies — such as artificial intelligence ... and perhaps with your future driverless electric car. But these days, the Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy",
-      "originalUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/10/2020-10-27-huawei-china.jpg?itok=DWaojYkp",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy?amp",
-      "cdnAmpWebUrl": "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy?amp",
-      "publishedDateTime": "2020-10-27T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PRI",
-        "domain": "pri.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

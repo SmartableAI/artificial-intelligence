@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Co-Head of Ethical AI Says She Was Fired for Email"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed “inconsistent with the expectations of a Google manager."
+    publishedDateTime: 2020-12-03T15:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 106
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imC_aAMzSyd0/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Google AI ethics co-lead Timnit Gebru says she was fired over an email"
     excerpt: "AI ethics pioneer Timnit Gebru said she was fired Wednesday from her job as co-lead of AI ethics at Google over an email."
     publishedDateTime: 2020-12-03T16:18:00Z
@@ -47,21 +63,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google’s Co-Head of Ethical AI Says She Was Fired for Email"
-    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed “inconsistent with the expectations of a Google manager."
-    publishedDateTime: 2020-12-03T15:57:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
+  - title: "Daily Crunch: Google fires co-lead of its Ethical AI team"
+    excerpt: "Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru,"
+    publishedDateTime: 2020-12-03T23:16:00Z
+    webUrl: "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/"
+    ampWebUrl: "https://techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/google-fires-ethical-ai-co-lead/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 104
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imC_aAMzSyd0/v0/360x-1.jpg"
-        width: 360
-        height: 240
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Google’s co-lead of Ethical AI team says she was fired for sending an email"
     excerpt: "Timnit Gebru, a leading researcher and voice in the field of ethics and artificial intelligence, says Google fired her for an email she sent to her direct reports.  According to Gebru, Google fired her because of an email she sent to subordinates that the company said reflected “behavior"
@@ -78,6 +94,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811898.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Google AI ethicist says she was fired because of an email"
+    excerpt: "Timnit Gebru, a co-leader of Google's Ethical Artificial Intelligence team, said late Wednesday that she'd been abruptly fired from the search giant over an email she sent to colleagues.  Gebru, a prominent AI researcher,"
+    publishedDateTime: 2020-12-04T04:10:00Z
+    webUrl: "https://www.cnet.com/news/google-ai-ethicist-says-she-was-fired-over-email/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-over-email/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-over-email/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/NRbhh9G4Y623_7Q5lbnFTCVARak=/1200x630/2020/12/03/14a3a964-d103-4c59-b0ad-0715ff21614d/gettyimages-1028811892.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google fires prominent AI ethicist Timnit Gebru"
     excerpt: "Timnit Gebru, one of Google’s top artificial intelligence researchers, says the company abruptly fired her yesterday. The technical co-lead of Google’s Ethical Artificial Intelligence Team claims managers were upset about an email she’d sent to colleagues."
@@ -237,7 +269,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "What one of Google's top AI ethics researchers had to say before the company pushed her out"
+    excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
+    publishedDateTime: 2020-12-03T20:50:00Z
+    webUrl: "https://www.fastcompany.com/video/what-one-of-googles-top-ai-ethics-researchers-had-to-say-before-the-company-pushed-her-out/tLswTdKo"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 44
+    images:
+      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
+        width: 1280
+        height: 722
+        isCached: true
 
-secured: "0iBMltVE4C6kxwFFiWoU1AMh2Dvu1eK64nkteBsMSN/LH96wh6DOONh1Un2dS2sNutC7TfcjbxSMHiLhOcXvVKVAVFaRuQdHdN1SyreChkXZ6jmRKCMtiTNfboDSGJJoKSG0he7FW2JRwx0MYKaXOE5Hp0rRe/csA1X1jM9qpYOzYqRumRM1BKdo6MGlTccRfCbo2wKmXJV6oEF/qj1Zv5GUPeA0DsxZ+IpCJr2t9/WTdUcjhdXyEYmA2BHXn+CqLrMxkEj0Zh4JKcAF9raLWNxk2fxJWy/YQzf12F4avcy80ZpcxSyXYRbh/pstQCYymGwEe5qwTnyP0C00cWq5LGaahrRqDfPoUIWVQKXN41Q=;jGNVKPm1hBdYN1YXnE98Ig=="
+secured: "gtuINHovqf3o/hAnLzs7l8KmjxwzBwpdyfDmcur6ncDa8JJg3ngNUDHST559ImivhS0aukMMr2/JQoH32kB5JPSM/dod6gkN/r5hbcvkoAswivwgVPwDV7R1Beo4jKuT8+nx364xPl8hriLeg4GrCN4oO9+Q3H545+ko2nw7Cu+9b4FbLF0AuTYpFGIO+WWCYTcMCaX+aQnbxLTykcxuKQehhfSBUP2Xl+GaiarXsYUi5jlSID6LTebzCPcSwJyaXEYnQkWHTnFsGcR+WHnAzo3mOsNMAwGZ0xQ/O6n+n00rdUce4UCo8tk8vo8qlxiiXLf/4oJlSZ4YO3ypl0PE7P0o4v5xnAp1HzVLXfrQSAZ//jlhaAh5kkp8GHn1zIOEy9iGzbqG2jhFOETR6eieff2koylSdzXuySsOgmkBezmzlxg8snL/rZNv1bzPaPSzmb9nkJGn4i4iX1k2b3GlqfgZTADQ+2qmg2sAs2dsdd/UsHR1yFmELvpjNRzXgKMR7drv2+XDK2OU1aQbmLv4+g==;x3cUAJVftCVei9tXL9DfMw=="
 ---
 

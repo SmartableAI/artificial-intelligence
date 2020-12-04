@@ -59,6 +59,22 @@ related:
         width: 450
         height: 323
         isCached: true
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Sold by First Allied Advisory Services Inc."
+    excerpt: "First Allied Advisory Services Inc. cut its position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) by 1.7% in the 3rd quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC)."
+    publishedDateTime: 2020-12-02T10:42:00Z
+    webUrl: "https://theenterpriseleader.com/2020/12/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-first-allied-advisory-services-inc.html"
+    ampWebUrl: "https://theenterpriseleader.com/2020/12/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-first-allied-advisory-services-inc.html/amp"
+    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/12/02/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-first-allied-advisory-services-inc.html/amp"
+    type: article
+    provider:
+      name: theenterpriseleader.com
+      domain: theenterpriseleader.com
+    quality: 62
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
+        width: 450
+        height: 323
+        isCached: true
 
 secured: "irJa7qz985UoJ66/mbWBiowI9z8knboBUm8NW3e3DszE7rnB4bAfvPomfj5NiKlZKT0veVAv8uL74h+acUliUrv7HKXzkaanNfH/koXlKyGAYvfAY9pZNYs5N7wKDm1s30HLu+fHEUVxGyzxN1DvYUCIsvAc3cI+2aASqZEi/1/PYhDr8nAil1DhBYwC2pfQgHTmna7xCJkn2xY8MRbvHVrJYnwgBr4wUJ6r/vOCz7ZSEpEOHuBf9GgkT3H/pnZxf/C2JgOIFr7qAbhWW1xxHtEifRSAGBkugLRNAYlLkLaeC0/1wx42EfZW9tXiDWPhgb95M41cFg+r18/3VLKM9uLjEi02ruDT+YhfMSBDv/WlSE/Z/Bh6fynCxguj/BI3MhfiKCEsRfGK2dxCd3LHxZF/O8Fs2rz25SHYa88nU+wJvjEacg5W2rAg+zvwPf4yD2oN4zxrrjr3AlwU6cE8V4R8XDsh1LjqdQbdK1iToogIMmtdAmSfwct8yUTrxhyEnaBV164wEV9STSAOoShM9A==;16VgZk3JA9H8IBDjW9H5uQ=="
 ---

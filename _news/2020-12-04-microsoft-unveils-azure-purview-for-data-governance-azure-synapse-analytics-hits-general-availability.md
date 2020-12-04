@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-syn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
 type: article
 quality: 103
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "New data analytics tools aim to help deliver speedier packages, better patient care and more"
+    excerpt: "Azure Purview, Microsoft’s new data governance service, means data engineers can just be data engineers, and data scientists can just be data scientists."
+    publishedDateTime: 2020-12-03T21:06:00Z
+    webUrl: "https://news.microsoft.com/innovation-stories/new-data-analytics-tools-aim-to-help-deliver-speedier-packages-better-patient-care-and-more/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 28
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/549/2020/12/fedex-airport-terminal_1200x630-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "AWS Announces Three New Analytics Capabilities"
     excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"

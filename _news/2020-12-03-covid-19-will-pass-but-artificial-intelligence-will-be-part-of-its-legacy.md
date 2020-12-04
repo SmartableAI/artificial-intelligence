@@ -130,20 +130,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
-    excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
-    publishedDateTime: 2020-11-29T12:43:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-and-virtual-reality-can-accelerate-covid-vaccine-development/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 35
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-7-e1606637006803.jpg"
-        width: 900
-        height: 601
-        isCached: true
 
 secured: "bEllFLLDschxapaN2MMkGwkEKPrxVAL5yPcdrKCRlJYGWOkEM5SBufSlxqjQpw9U9xbYsTHIjxIVMKjmmE/KxmeAfNjh6tddwH7eGRuktR6NY5eDJmLDx8tZnmNACUPO1TbpVSGu7D8jlysb0rYZ9M2Zk5oNlPfl50cFXzmnMPecwfoz0WZxozGSKcrH8j74inWmIr9z/16SPn50TOf+iVDR5OiK8lxt6FHVmIVbFYcqBmj8UQPBtLOvxCtioTzuDYXWRWfgh9KOoxS8hU88/sk/cc+8b0qmxXXVSt8Kmr3Y5YnfoJSQzolgxo1F0ulAhPpCXEK7jYlrXqYrfp88ozcpnsDAIL+cRielhYPiFWWG+C0lm3ZP9WwFxYOeivSx9+rjG62EgASTSSEn7Qg1OLrHu8XzuXZiGp/1SCeRSUc86Qj0klLt3ZotyQ/xHJYq7hwtnp6efGInspBMcbZNf5AZTpQmoGgeYXZBkpUC+GkDbQ15LjtFsHz1MIMXYZb0MkTKSTcyqZJ3gOZxCQdPnQ==;9J0NFJW4wFxfQXrjqOU9Ww=="
 ---

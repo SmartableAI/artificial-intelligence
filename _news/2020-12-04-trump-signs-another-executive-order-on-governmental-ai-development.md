@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Trump signs order on principles for U.S. government AI use"
+    excerpt: "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making."
+    publishedDateTime: 2020-12-04T02:17:00Z
+    webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signing-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Promoting the Use of Trustworthy Artificial Intelligence in Government"
     excerpt: "President Donald J. Trump signed the Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Govern"
     publishedDateTime: 2020-12-03T22:03:00Z
