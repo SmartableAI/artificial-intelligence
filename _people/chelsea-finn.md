@@ -14,7 +14,7 @@ website: https://t.co/R71YZ0CUzE
 twitter:
   username: chelseabfinn
   url: https://twitter.com/chelseabfinn
-  followers: 29898
+  followers: 29906
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1xw2vTsAAAAJ
