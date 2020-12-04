@@ -2,7 +2,7 @@
 name: "Anaconda"
 overview: "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives."
 type: "profile"
-heat: 201
+heat: 197
 
 website: https://www.anaconda.com/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "DuIor/mAsLu7zECI2aZaAAinaDdZHODwCfmcM0ayLm7xNj1Yjb0X3ZjYnAbQsTZT1qvButzNhdnGnWgGNv5jQjUBZKLBRIY7BBQEmX29tytc01Hco6k8fy9T809EXLo4ZKMnBjlSTPSmhq86v0AAV2G+dqjSMr+l58B4oEo8jQ89yC4dtZMi7eTUtahVCVzBgjZm/oq/oWjFC2JXcgugUdJEjooZQkm/Mj1wbBOJ9pX6YOK66YoFAStufwGvGRH04bl9iCNPfcB19jMVE7vrFnCAly8jkqu/yhXJKEj7zNQRT222fniOioHZXfJ9POp5+ZwK3p2wjs6DhY4QqJhElx6rdGai0MC6gAO9iaWGhePM1Zs3RCmujtYk6v8gO6ZBoCXW3xLAW5uU3fK3LNrtjZdiF8ZwbxgvGNqARNP0OnM=;aWOek6GNt8Lo3sMrTIRbgA=="
+secured: "Jn08UBwAseZIsnbobPGN4P3aX0DpLYraQKho/8bFLD3ZA5Tlhvi+HjnkSDx9QXGWD+Vdf2Uj3sahSQKOvOsPHZbl7cPrLd5/NiqhkfjFjUVkXMtuWPqtw+ixffzL9dxIigzUHb4HkVteDbSuUuMNLPzM0kOEZxKoaTPDoneGNCDYNAkE9ge1XCJTtinFSgH/VXExdqrK/2qXxE+iTNC2q7Yl/DN162p2I1D6BUKVQlW9q0h29JrcR7Re9NSpW/wb6JmzpRQtr3LqaWyp+7mdMnl+IwjX4krskYqW2WlE344iEJ9UvvpEoHCOfLeqYMNwDS1tnweChZCuRHQ698YAokXeP00VN1Tt5vjR3JDOc9mKTpvSanNtlILYlTtJpSW/9VU/Z838sCy42bzy7dy1utWMvixGC/EsZabyQFpYRF0=;/nzFhozNJSbHfZITdAvOVg=="
 ---
 

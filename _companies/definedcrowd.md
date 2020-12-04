@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 50
+heat: 71
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1657
+  followers: 1658
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "M/SmhG2eMgy4v965Cr8bHybLVvqgobvmSPCRwoB0KqVJrNr/5gt+Av07kV/4pA1vyFFXauM8LC5QmaKT7oDvH0s0VvWk3NonmggVwL/PqCMflfPs9BHvCq03TqTZMcSnsGvQ75hAI2nUBdd/SlJoPOcJTP6Tol+nBmAtjjWKQFFr2XxLkP2o/qMquhVxPsv03oxzJLN7KZgYqKU8jk2ZGp01/KiJqI7A9279p8gHynXCjvFyVLcolyxcNKVPuERlo4QYEsP/KwU0XqyCyyb5u2GjBxY3Bw/OrUb+bkO8wSebwUQoKpqyxYyX4SsrxdI61ODMryKSXw/G8cBvmWm+VNUa0A1xeOPQIyogQM7G3pbHv5PxPA7CuCCjzip+G4P1vfcGruSg8pWiZ7LrXqKekJY84cWN1YL0wqbmClBMGjA=;zD9hY9IO3wzCcqx9xjnArQ=="
+secured: "oBpqkjjLWgURBngH3/V3kMIudq9eUytCzeh6Y4m4+ynm7Nb0mQ4DNb20+bPzJ8d0kaPgo1XuZw1PdwuS1ZFi3Ip4uHYiEa0kl+qc/z0WShS8hQHMp8Nn2FS64ALlS+22wgBI2uoaeW3/CLwSY9YtXGaGPnIW0IRgEeAs1une0aaTWWdlEc5hp3yqnmpi5pL05gedIi+rEM8xKLcrtC4V5YZiOgoGn7R52rbNPx5VV2ayOrvficcp2eplZp84v9eeW4ZqfRKO7Kvg1ZtthMndQez2G7EO9Po4AGPXmSNa64mxUQhCwWgQOno8vEswuHV0YzsHOnFb8QgtuaCOurcmrjll+OQ/ymfHRdymtVXR9Tbf2DxAYLToqSrVeSfAauEzZjkVfjKdA85llNCPlW110kB/Fe/VErfPHCuYgr30ti4=;+dBP4mNF7ZLWVMS4AJVZDQ=="
 ---
 
