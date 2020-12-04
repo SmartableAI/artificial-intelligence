@@ -3,7 +3,7 @@ name: "Animashree Anandkumar"
 bio: "Animashree Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems."
 location: Santa Clara, CA
 type: "profile"
-heat: 185
+heat: 306
 
 affiliation:
   name: caltech.edu - Homepage
@@ -14,7 +14,7 @@ website: https://t.co/cr0ijXcp1F
 twitter:
   username: animaanandkumar
   url: https://twitter.com/animaanandkumar
-  followers: 42228
+  followers: 42240
 
 linkedin:
   url: https://www.linkedin.com/in/anima-anandkumar/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Animashree Anandkumar"
 
-secured: "SISwJzlAeeZwzgvnIwagMib6Cx9M44PJaQ5nG+gtQLKfBm5vbHwXtS5uWJFceV7lqSYA58ONIUdT1kHpYxzqkQ4C0Y/1vOAFy0456XrTQvSNzVv33oRt83DWFHTeTXdmOKCPj94YychiuIXB5JO2EgYU95X9Kp9S8eWvE6vAIWhM3D++KwAagn7vyPk3Fxg33heRq17+CKFf+HnfsZWqdwy3ACoYTo+iYOOnn3N/hmCGKWi8A9fQrnpDgsRFs1shWT+z7t7DwDQLgOW4hjIhydvARF4RzjNS6tztWUAjRhyJaVkY0disj/CtPz033jGMEkaKXwYlKIca39ne/kHRWplPDuGBHJGBqTq5flajx7ZmbdUxPp6lOvNoY4cb/2Lo/d7ZRd9MaU+AGX0GRqX7mkTHtnA4M5VNQWaxzGut2Xw=;dCY3E0tMNMPYMszSOjLVSQ=="
+secured: "ks8LsRAeOshwahGTQYlSgefdE0DHoivGLBRXXOC+dBahuztfxcYpBxi+24PQ+77/aLGLtVfXqz7PpFGMmmiDfvXfyH7/Gjb0ZijbRLk45Wwa95h5VzbDmW/VwwMnZp1N0h6/gXKAF90olu4BwPtCQ5Z1tjSu/vXyEPYiNG6LoFQaZDtdg9vwxkYyEcJJ81CjTjOrF7Pa6g5F3l1DzzaQ7ppJffkEWr+Hp7fRaoLs8TZ4YDIWD5wvZxjQTSoKWfC7ic3e2wFzUrtC9TWW8Y43lj2j2XWf3wDDy1gXJIUqF+nRvUdp4xRNm5izD4xDUb4TvarkmeqGU+23xKBoE1C3LeymDER1K+ue8xCwdjZ3wuxkTvpJHcQcJ7nQFz91VpD75XK9iZjHx7RsHLDgZtJndlXv4WNtAXOJT1Uz6zVpdPs=;xC8LPMlfCHnoV1VNJpDmCQ=="
 ---
 
