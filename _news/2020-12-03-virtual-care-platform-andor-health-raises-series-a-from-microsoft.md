@@ -56,6 +56,17 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
+    excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"
+    publishedDateTime: 2020-12-04T17:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
     excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
     publishedDateTime: 2020-12-03T16:04:00Z

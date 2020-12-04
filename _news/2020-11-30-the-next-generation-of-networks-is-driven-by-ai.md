@@ -120,6 +120,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "u4UIPqSUVKADnE/BSehcYaOUInc8F+U/TkGf0ZDEK/T4IDhmrhl8eYI6RlX75fri4hAj/d2CMzmMy0tK3hXtwyPGcRuP03FfKKlbYvpn74/sCP1+rXgcGML41mlUDxRyAwc+psjxb5uO3GW2PDg8pQY8LmosjfgIeNfblv5lBcWi9wzbnKoW8K96o85DEnG1kpahc0sajr/WD1fh38pqgmelAjbm9UGWrEj/iOYH3YkfSfs55BN9llZwb5q2v99syT4NuYtNfDb0EcpSrH35+djgGEWEw6CKolr4CnOsttGENiQxm8/9W6l22NqeIbB8xxDzdaZ3N7ONVfoPgpbrLNaMT/9ciRxFvP0XPKfr1OX0hqwObZVuSQuqVD97iEh8LWYoxOzXcw/ayWXhDbw/dGuvec+o8REqquZXV9ERU0yQh01/znoGDtbp1FkCuHCcFELbmhcly+YnQ7JryPCSn1cJX1nHDmMaxJoxB3GNPzxyO86vh1s8nquR/tD6pq6RLu9qqkXY0toxttMz/GydEg==;DzjNgmLF5Xpv+EEvjgUpdA=="
 ---

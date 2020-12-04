@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "nrvDbky1nYWlQ5Gg4RCIeMaw520LYDXHWju2rabnHs0OMHpbKupYbD5aRkIodIvYHv3SArikQ85FeJKfAaT5HTLmfTMDX7uT6KzOQWLXb555LbnuZhaNSojpN7bjLqqUMuZ3CoMGDD8a2AsFg8m3aEuhoh57QcHOP9bS8+9Y5byzrPYMl3rNQ2vYQeqcT7gXej+cBjPV3dnkH6TF6koOHZl+4x+HqT/IOchqgEi9r3O/nPV1DxLZs2wk23W8YdKiUnQKUO/ID8HlbSiuOFToUkwQKLBb0ZUW++a8jdaBz31522/931ICm7BKPtKctrJZ1Mvng+1cWHq3sGdQyuu6i5ic8IJcPqaUABgcthmBI/vLw6kGbfL91XYvli0UVeWJDuz3ZLElyF3sd8IJjTBN3so4mTxRRRJJfxV7DFtFPVNowInM6MU3Q/l0MThXSnJGIX9r4o6N8HGG0lKmb0bmO/EGmgd06saosnIofdtBuLAs82R+q6bDjp4jRGSAAiLEhyHgHiNNKLmE8h/sWsVHwQ==;0grWBxppXUsQ+dlMljk+vw=="

@@ -52,6 +52,20 @@ related:
       name: TASS
       domain: tass.com
     quality: 37
+  - title: "Biden administration seen aiding digital identities, closing fintech loopholes"
+    excerpt: "The president-elect will take office during a rapidly evolving fintech landscape that will see advancements in artificial intelligence in finance."
+    publishedDateTime: 2020-12-01T12:25:00Z
+    webUrl: "https://www.rollcall.com/2020/12/01/biden-administration-seen-aiding-digital-identities-closing-fintech-loopholes/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 35
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/foster_BC_111617_248-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden administration expected to prioritize digital ID and tighten fintech regulations"
     excerpt: "U.S. President-elect Joe Biden will be coming into office amid a rapidly changing outlook for fintech, digital identity, and AI, and is expected to introduce stricter measures surrounding finance"
     publishedDateTime: 2020-12-02T22:30:00Z

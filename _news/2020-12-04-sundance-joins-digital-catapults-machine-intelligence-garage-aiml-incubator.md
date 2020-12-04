@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalminingreview.com/finance-business/04122020/sundanc
 cdnAmpWebUrl: "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator"
+    excerpt: "Move will accelerate and deepen Sundance's AI/ML knowledge and expertise, and facilitate ongoing development on various AI/ML projects including the ARISE robotic underground mining surveyor"
+    publishedDateTime: 2020-12-04T17:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/12/04/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/15995/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 33
 
 secured: "7PgrSMOYyQj5YtI/+3jiHWi+CzTyZygOJZHo479TsmSV+e4pmxPqcXAGRogNDbd8/Nbla01mvo629nzrZ8CyX3g1tNN+8VgcxAtsm3WY7uxFmUFJx4Qn2q6JEQYcGeinyRS/cKQock6VlYD1aplvJHsmvcwuk4aztyP+TdZHp92nq+w3OEKZNLAakc3PnmIOouuOWL/Dss8jwE3H4fgFKpZD0vpR1nGsFATenHZFfsdWxaQlU0DcwR1KO7uudpBeRcsTMwJhsBfSj5WahXWah/3+xHbKDhhrGMlgTNNeQmQHlnXMZojNVBWKGJpGMqRMB0iotki6dfO04YKVGG5Apu9S/1QNGgmGYifriQkLCLQ=;+BpFxkTvaToW1IfuWSHjXg=="
 ---

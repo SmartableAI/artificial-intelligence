@@ -38,6 +38,20 @@ related:
       name: TASS
       domain: tass.com
     quality: 37
+  - title: "Biden administration seen aiding digital identities, closing fintech loopholes"
+    excerpt: "The president-elect will take office during a rapidly evolving fintech landscape that will see advancements in artificial intelligence in finance."
+    publishedDateTime: 2020-12-01T12:25:00Z
+    webUrl: "https://www.rollcall.com/2020/12/01/biden-administration-seen-aiding-digital-identities-closing-fintech-loopholes/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 35
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/foster_BC_111617_248-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DIFC FinTech Hive to showcase 17 innovative startups"
     excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region has announced that its much anticipated ‘Investor Day’ will take place today,"
     publishedDateTime: 2020-11-30T11:29:00Z

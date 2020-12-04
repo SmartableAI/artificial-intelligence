@@ -63,6 +63,36 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Government to seek advice on facial recognition tech laws"
+    excerpt: "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition."
+    publishedDateTime: 2020-12-04T18:43:00Z
+    webUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
+    excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
+    publishedDateTime: 2020-12-04T17:28:00Z
+    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/index.html"
+    type: article
+    provider:
+      name: University of Texas at Dallas
+      domain: utdallas.edu
+    quality: 38
+    images:
+      - url: "https://www.utdallas.edu/news/files/otoole-alice-500-2020-12.jpg"
+        width: 500
+        height: 626
+        isCached: true
 
 secured: "vTfgQ8u5b8iqLHwa/WD9KT88GYJWoYdkg5HfEgGDjt0tdqQZT8Ok5qJKpfvro63dx53X0fwr6fNpweHMjiTjJbb5FUZ4cjhCS0tBahhF8goMQpDOqUwsyyOr+/Hnvs9HacBr+yOuNEMh9GENqz+FFFkkSGl6Dc1ucnMgmErgEZ5uTQev60NTjL6GQ9+s/HaeMcpClkwMY4SX4Ic+0CFGoLaE1+j9/JgG0JUDdC7xswIPiUCrfJu+z4+QHvsCktfleG45TVjQrGfDGd8vDOSUeYRZQJgYotHcJu9vCYn42q0Hd8A++P3VL+GqIzEnckvQt1ixeR6gXbkjl4/Y4Rdmg+uNCnXjmriytEsvTGUYYBva9GRuDFX/fU0wNphLBYp4KfrGd+OiSiCB0T1bCqrirf394qabqY+J0Bfi2k0lhY32fPXM7bpZyo5BCZ70r3PEr0RGNU8K0xRrlU4qfuD4njbIqIlAyD6aT2Aa7HoCIUSJ9OTyJKg3bRcKzLDdUMFaXfBgsy86KmA77l3kXj3Z7w==;tS401Id1NbW5TTuRLvzW8w=="
 ---

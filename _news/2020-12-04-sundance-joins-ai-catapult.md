@@ -41,6 +41,15 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator"
+    excerpt: "Move will accelerate and deepen Sundance's AI/ML knowledge and expertise, and facilitate ongoing development on various AI/ML projects including the ARISE robotic underground mining surveyor"
+    publishedDateTime: 2020-12-04T17:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/12/04/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/15995/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 33
 
 secured: "u9Ya5TrA7E8ybuvpmTKFjeNGp564XOAtoFqKo9/1qpt41oA+EUMfZXBdt/SrjHHCIZOVDjF524hERkHhseUN9JqfWrsA1k7F3h2Z+whNv+y7GB73ffeZCDdeoMIQLQJm2LzcMvDI6kQ58aEsCEHEg87ELOjPNLHzP02aFmxB7H5RVidd4Yl0/BNOJquO4GF4rlq1ND/GWmrh1fYxjkRAc37KKgv6TjOMLXlsOGaDn7rk1zmyxO7Sf8NRFELHJpkX6mXobcMUQq4naES1yAc2gECMWsi8zOscYYa99VcUsfcptpb/vjWFj3Iv+IpNLl2tQXlPw567hkZ3e5oIguLPxZog4qid8+SFmeTF5/3BBfw=;vBvUD9O4p3qb/naPHFD1wA=="
 ---

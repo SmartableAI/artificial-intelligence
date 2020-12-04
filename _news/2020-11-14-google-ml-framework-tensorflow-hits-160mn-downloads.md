@@ -14,10 +14,10 @@ provider:
   domain: businessinsider.in
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
-  - TensorFlow
 
 images:
   - url: "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412"
@@ -25,6 +25,6 @@ images:
     height: 275
     isCached: true
 
-secured: "VaOVbQgXAzXw+1oaSIIVQDxbCSglYNrPU5NTOsitZktPe0AODTlQEMktwzLjKnjaZcq4wxUfV4B8/BiUQuh12+1tiaLxcMWqEC02b4ImitS7AOU6ECOfoQgAvYBqtY9FLzslyWDyHJeoLRDJgj5uyKjUHoc9huMxOI9PkuhmL5jmuRkuCyeGZSpsPy4WNxz/xEaY8zwIESTHtfMpYlXOkgkGHSUAApKYTtee6duuuDZMmEGt50fqfMw54kd0Oz2Bry0ZD+wLYBSNSjUcvMJ03uLvaWOZHphqyMC9PpSho9LPtoS259/sTs4CKM84taE3nIjH5YlzCO9spToOlb7zvgLkA263ZQI3LOjuTzX5nUQ=;wcRaUlQmS+piRHAy3nDQ2g=="
+secured: "AqYr+9CmmtrGyvyBInh6ztCa84dkiplG9NegYWr6i1pXwXO2N7GsdzowQNC05xR47TKHwJd03+bO66BVobWr06TrrmlsstOX1cLlAC5tKmrpLsgLVMpsGew2dK5c/A0F81mtOpHNG0woA9e9N/DbeG/YhQtTv69t5S0ThVFgmuIWLAIlm1xNCWVOr4T0NV4x/89IkPJ57p6h7EqiyJ5zLo6t2gAkuCYMHrW7KrhvYDKEbhZwHf1QXBjlb6HJHt3JWcHVbn3TxfCcttFET6C3jUsM74Tj8cfgUd8puzqPq/BI9JfYyPeITckjnnazm+vEzASPij2fc6z52Dx1OW1QNTxzax+9CXor1PMnOkBe4HY=;Tzu7jpmUFVAXE+BE+mmgXw=="
 ---
 

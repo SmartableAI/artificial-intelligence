@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognit
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -133,6 +133,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Socure Wins American Financial Technology Award for the \"Best New Data and Data Services Technology\" From WatersTechnology"
+    excerpt: "DocV and Intelligent KYC solutions recognized for excellence at this year's 2020 awards ceremony Socure, the leader in Day Zero identity verification, today announced that"
+    publishedDateTime: 2020-12-04T18:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18654797"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18654797"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "WaoKsIYZq6++lJaUI1Zt8Lj3UbWJL6M8HFRmZOj81Jjd2r6rGE2EUaFZcFXQlNa1uG6KoQsGdZ5U83PBRNqae2mHWRONuuWEy2URaJGHxaizOjmABkRczQ6izz5P+HrfBsvfhvoWTH29Qx/hZRMMr9uPzjV+GSZeiBg3edycuYE5f4J1qV1/Cm2WY4Zv/c95xPf3xOVXMcMA4nrwB0GZTERuGYpZ/RAVyy2g10H9ToW/u+8/eSk2sVoWoptoRLAkbVQUvQdoNnpE/p7lel01kHeD02M50do5l8AQlTIxhPIyINAvji+KVPZtzTyPem6sc/x2cdZIzenyxPmVBfUz0afYCrGbRoAj6eOXoUQJof4=;A/1iD6EH+SoCi0O/WUDCYA=="
 ---

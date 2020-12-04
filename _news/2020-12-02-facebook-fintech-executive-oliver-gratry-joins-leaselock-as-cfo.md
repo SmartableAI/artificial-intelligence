@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Facebook Fintech Executive Oliver Gratry Joins LeaseLock as CFO"
-excerpt: "LeaseLock, the leading insurtech software platform that automates deposits out of leasing while providing enhanced lease insurance protection for"
-publishedDateTime: 2020-12-01T17:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/facebook-fintech-executive-oliver-gratry-joins-leaselock-as-cfo-2020-12-01"
-webUrl: "https://www.marketwatch.com/press-release/facebook-fintech-executive-oliver-gratry-joins-leaselock-as-cfo-2020-12-01"
+excerpt: "LeaseLock, the leading insurtech software platform that automates deposits out of leasing while providing enhanced lease insurance protection for multifamily operators, today announced veteran fintech executive Oliver Gratry has joined the company as CFO."
+publishedDateTime: 2020-12-01T16:44:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-executive-changes-north-america-7daaa5f2319941ff91dd044358b5b787"
+webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-executive-changes-north-america-7daaa5f2319941ff91dd044358b5b787"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "L4HJw/BIP1DwLEyFC3XDwc6J1BblP6MyvYU9qshQldIYqr7iYM+vcwmP2xSepfq3sSYi1GcIV+cpOOb0rnuP2Ri+346HVQkV/NTOIf8lbb4bFflHvk2MnfC51yO6bqZQp1ZGXGfZn1/LByqIpBpRtzjP4ODDCUg/wfBaT7L2tP/NQPs/RYSdDyZgswB37JTK7wkgpONBUSqhMgQvasauX3QEz3ckmU2+K0h+UpsLgScbBJtLmzBniFt6rW0C1orjVBwVWEXJcnrOVmFJdHuNi1uuHfSjPq7sirtu/v2iLgm00I/kub7X320M9HzV9Su1a0jwUa4t3UAQe793NA4sGphigdt0m8S2qj5tlmQODpU=;qpIEfv7LCEoAEL+VQ2WExQ=="
+secured: "/rDwj3sSnJ9oiOyCy2cVHBdBKCkSaks9O69ITJlr0ch4TsJak61Q2w/sFpHhgB9pmT+DHtaz1nFh5TvOo/w2e93Dyyf3FFE3514CxdMSFcb6mexckW0dOgo3lSrEv6KgVEAJICN16XUs4bBS4QyuxDN2pdJe1kab/vEhMTsWJOBHOdo6cxuUP+m/x8UXy47R7O/KW1PZ6NyWG34nggwI9J0Gck37iqTcIVx5PNMG7JnTcLG3Bi4ez5cM15t6Hq12IJQ6Y1AL7ox4hNoA8ev2EUkn78va7OcvwUP5J8Jvgr406zOD7X+Du3JuJRSbjpLt2pebtZLcuS5T+lsFoj+O5U7wR6kNf+smyhbt2bb8+P4=;OQDERNrbAjf3SF8Ao7zssQ=="
 ---
 
