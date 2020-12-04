@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-11-12-apples-first-m1-chip-based-macs-are-playing-it-too-safe.md",
+      "title": "Apple’s first M1 chip-based Macs are playing it too safe",
+      "excerpt": "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/macm1s.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
+      "publishedDateTime": "2020-11-11T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads.md",
       "title": "Standard Chartered Selects AWS to Power Its Strategic Banking Systems and Workloads",
       "excerpt": "(NASDAQ: AMZN), and Standard Chartered Bank plc (LON: STAN), a leading international banking group, announced a five year, strategic global agreement, which deepens the existing relationship between the two companies,",
@@ -1152,58 +1204,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-police-in-london-face-legal-action-over-cancelled-trans-rights-protest.md",
-      "title": "Police in London Face Legal Action Over Cancelled Trans Rights Protest",
-      "excerpt": "The organisers of a protest were threatened with arrest, despite being a political group that had taken health and safety measures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "originalUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fabd8931028e5009b2a11cb/lede/1605103070564-2cdrph1.jpeg?crop=1xw:0.8436319765002098xh;center,center",
-          "width": 3574,
-          "height": 2010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "publishedDateTime": "2020-11-11T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

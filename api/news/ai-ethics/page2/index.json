@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
+      "title": "Ethical Frameworks for AI Aren’t Enough",
+      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
       "title": "Review: Google Cloud AI lights up machine learning",
       "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",

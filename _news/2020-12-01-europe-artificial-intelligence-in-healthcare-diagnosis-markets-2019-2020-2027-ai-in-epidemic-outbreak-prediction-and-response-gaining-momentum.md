@@ -83,13 +83,18 @@ related:
         isCached: true
   - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-12-02T19:08:00Z
-    webUrl: "https://www.wfmj.com/story/42995296/european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom"
+    publishedDateTime: 2020-12-02T16:36:00Z
+    webUrl: "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html"
     type: article
     provider:
-      name: WFMJ
-      domain: wfmj.com
-    quality: 0
+      name: Odessa American
+      domain: oaoa.com
+    quality: 18
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
 
 secured: "K4HQ7jr5caC/dB3wyU0T7Yhaq/cpQ845OBK5xMwJfz8uBQsYmA6afI4vSfslHMR0DsgUPNKW7LwsDPYEg7tWGuWUL1F4TtsCOhRU6E4bDO53bBD7hH8Hw+R/oKnXgumWaN8wKc+hruFxIuEVVKHQWlnfPt/WwVxSfSOEBf+fgDiBYedzgt4NBoxtUFTPJcyqLU6T4XqVD1REg1q2OQLrp9Fw2PYKdxh7EduwULX+ZA+fCeDkvxovYmZ63vSQSXmQOWd1h2EZXkUmrg7skHJUoilwPMrSXTSIpe/ymPCTQHkiN/TVjIARt6YNK8Ltvdt3SCHab4L4LyENTClRpGK/dfziHhjBe5bb7DffzMX3tjE=;BYflbQryb3AFRo+JhFvT3Q=="
 ---

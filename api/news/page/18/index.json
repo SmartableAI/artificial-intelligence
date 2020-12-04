@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
+      "title": "IBM acquires Instana for its AI-powered app performance monitoring",
+      "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
+      "publishedDateTime": "2020-11-18T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-abacusai-raises-another-22m-and-launches-new-ai-modules.md",
       "title": "Abacus.AI raises another $22M and launches new AI modules",
       "excerpt": "AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round,",
@@ -1155,40 +1206,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities.md",
-      "title": "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities",
-      "excerpt": "INDIANAPOLIS , Nov. 18, 2020 (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18424642",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642",
-      "publishedDateTime": "2020-11-18T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

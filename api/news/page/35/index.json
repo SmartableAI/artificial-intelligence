@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-11-08-how-the-department-of-veterans-affairs-uses-ai-to-help-vets.md",
+      "title": "How The Department Of Veterans Affairs Uses AI To Help Vets",
+      "excerpt": "With the largest integrated health care system in the country and a strong mission, the VA had tremendous potential to use AI for its mission. Dr. Gil Alterovitz shares the AI experience at the VA and how it's impacting the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa6da8d7d7e38d5bf5f0e92%2F0x0.jpg",
+          "width": 586,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
+      "publishedDateTime": "2020-11-07T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-estimating-the-carbon-footprint-of-deep-learning-algorithms.md",
       "title": "Estimating the carbon footprint of deep learning algorithms",
       "excerpt": "According to their estimates, hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint. Whether browsing movies suggested by Netflix ...",
@@ -1134,58 +1185,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-can-we-balance-progress-and-privacy-with-machine-learning.md",
-      "title": "How Can We Balance Progress And Privacy With Machine Learning?",
-      "excerpt": "It’s helpful to shift this conversation from AI as a whole to the more specific domain of machine learning (ML), and how we can harness its advantages and minimize its drawbacks. Machine Learning is a subset of AI that describes how computer algorithms get better at solving their domain specific problems by leveraging large data sets with which to train themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89f505db3eef289c346955%2F0x0.jpg%3FcropX1%3D580%26cropX2%3D6399%26cropY1%3D0%26cropY2%3D3600",
-          "width": 1199,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/amp/",
-      "publishedDateTime": "2020-11-06T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

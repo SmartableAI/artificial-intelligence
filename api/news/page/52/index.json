@@ -2,6 +2,48 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-10-26-ai-bias-blame-the-workman-not-his-tools.md",
+      "title": "AI bias: blame the workman, not his tools",
+      "excerpt": "AI empowers efficiency, but it's paramount that developers don't use demographic data to influence outcomes. First it was taking our jobs, now it’s discriminating against our customers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
+      "originalUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aPK9JP79EUu5CqWfrQLTZ7-1200-80.jpg",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
+      "publishedDateTime": "2020-10-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025.md",
       "title": "Deep Learning Market Emerging Trends, Revenue Estimation, Global Size and Forecast Report to 2025",
       "excerpt": "Oct 26, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
@@ -1120,57 +1162,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health.md",
-      "title": "AI, Health Insurance, And Data Harmonization: Interview With Shiv Misra, CVS Health",
-      "excerpt": "nomenclature and definitions start following the same tune ... What are some of the insights and opportunities for dealing with data and AI from a healthcare and insurance perspectives? Shiv Misra: The potential for Artificial Intelligence within ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94a12e8753d1c882612732%2F0x0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
-      "publishedDateTime": "2020-10-24T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

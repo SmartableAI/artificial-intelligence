@@ -496,10 +496,10 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {

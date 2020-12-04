@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Top AI ethics researcher says Google fired her; company denies it"
+    excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists."
+    publishedDateTime: 2020-12-04T05:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D3JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543399867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Z5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Google’s co-lead of Ethical AI team says she was fired for sending an email"
     excerpt: "Timnit Gebru, a leading researcher and voice in the field of ethics and artificial intelligence, says Google fired her for an email she sent to her direct reports.  According to Gebru, Google fired her because of an email she sent to subordinates that the company said reflected “behavior"
     publishedDateTime: 2020-12-03T17:56:00Z
@@ -174,6 +190,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/12/GettyImages-1028811892-e1607033595352.jpg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager."
+    publishedDateTime: 2020-12-04T08:24:00Z
+    webUrl: "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528"
+    ampWebUrl: "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp"
+    cdnAmpWebUrl: "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp"
+    type: article
+    provider:
+      name: Jezebel
+      domain: jezebel.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Renowned AI researcher says Google abruptly fired her, spurring industrywide criticism of the company"
     excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."

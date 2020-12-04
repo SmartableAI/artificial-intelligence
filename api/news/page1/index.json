@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
+      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
+      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
+      "publishedDateTime": "2020-12-04T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
       "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
       "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
@@ -700,7 +752,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -1184,50 +1236,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-top-ai-chip-announcements-of-2020.md",
-      "title": "Top AI Chip Announcements Of 2020",
-      "excerpt": "We talked about the rising demand of AI-based systems on Chips and the year 2020 is no different -- the trend continued.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-ai-chips-2020/",
-      "originalUrl": "https://analyticsindiamag.com/top-ai-chips-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/12/ai-chips.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-21-ai-predicts-highest-risk-us-counties-during-covid-19-surge.md",
+      "title": "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge",
+      "excerpt": "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data",
+      "sourceUrl": null,
+      "webUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/",
+      "originalUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/",
+      "cdnAmpWebUrl": "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/",
+      "publishedDateTime": "2020-11-20T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Direct Relief",
+        "domain": "directrelief.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-getting-started-with-amazon-kendra-servicenow-online-connector.md",
       "title": "Getting started with Amazon Kendra ServiceNow Online connector",
       "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To make it simple to search data across multiple content repositories, Amazon Kendra offers a number of native data source connectors to help get your documents easily ingested and indexed.",
@@ -1173,57 +1216,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo.md",
-      "title": "Why Data, Software And AI Are Key To Growth: A Q&A With Blue Yonder’s CFO",
-      "excerpt": "Blue Yonder's AI-enabled supply chain solutions are mitigating disruptions in today's digital world. Learn more about how companies can face these challenges and grow their workforce in my interview with Blue Yonder's CFO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
-      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c0d24def72c0e10baee1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D293%26cropY2%3D3533",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
-      "publishedDateTime": "2020-11-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-19-nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates.md",
+      "title": "NVIDIA Studio Driver November 2020 Update Brings Support For Eight New GPU-Accelerated Creative App Updates",
+      "excerpt": "Needless to add, the AI-accelerated RTX Tensor Cores combined with these features should significantly reduce tedious, repetitive work. Keyshot 10 claims rendering speeds are up by 23 percent than the previous version. The platform offers one-click GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
+      "originalUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.appuals.com/wp-content/uploads/2019/02/MW-FP470_nvidia_20170629195436_ZH.jpg",
+          "width": 890,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "appuals.com",
+        "domain": "appuals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast.md",
       "title": "AWS Inferentia Gathers More Steam With Alexa, Snap, Anthem, And Conde Nast",
       "excerpt": "Amazon also shared that its computer vision platform, Rekognition, has also started leveraging AWS Inferentia. According to the company, this has allowed it to perform object classification with ...",
@@ -1164,57 +1207,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
-      "title": "IBM acquires Instana for its AI-powered app performance monitoring",
-      "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

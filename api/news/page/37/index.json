@@ -2,6 +2,59 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-11-05-amazon-translate-now-enables-you-to-mark-content-to-not-get-translated.md",
+      "title": "Amazon Translate now enables you to mark content to not get translated",
+      "excerpt": "While performing machine translations, you may have situations where you wish to preserve specific sections of text from being translated, such as names, unique identifiers, or codes. We at the Amazon Translate team are excited to announce a tag modifications that allows you to specify what text should",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-enables-you-to-mark-content-to-not-get-translated/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-now-enables-you-to-mark-content-to-not-get-translated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T15:54:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic.md",
       "title": "Intelligently connect to customers using machine learning in the COVID-19 pandemic",
       "excerpt": "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,",
@@ -1165,58 +1218,6 @@
         "name": "eTurboNews",
         "domain": "eturbonews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses.md",
-      "title": "Microsoft adds Hindi to its Text Analytics service to strengthen Sentiment Analysis support for businesses",
-      "excerpt": "Text Analytics is part of the Microsoft Azure Cognitive Services. Using this service, organizations can find out what people think of their brand or topic as this enables analyzing Hindi text for clues about positive, neutral, or negative sentiment.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
-      "originalUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/microsoft-text-analytics-hindi-768x362.jpg",
-          "width": 768,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

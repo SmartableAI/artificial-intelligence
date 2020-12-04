@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-10-16-singapore-releases-ai-ethics-governance-reference-guide.md",
+      "title": "Singapore releases AI ethics, governance reference guide",
+      "excerpt": "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-ai-ethics-governance-reference-guide/",
+      "publishedDateTime": "2020-10-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-how-id-study-machine-learning-if-id-be-starting-out-today.md",
       "title": "How I’d study machine learning — if I’d be starting out today",
       "excerpt": "I’m underground, back where it all started. Sitting at the hidden cafe where I first met Mike. I’d been studying in my bedroom for the past 9-months and decided to step out of the cave. Half of me was concerned about having to pay $19 for breakfast (unless it’s Christmas,",
@@ -1115,57 +1158,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-googles-new-hum-to-search-feature-can-figure-out-the-song-thats-stuck-in-your-head.md",
-      "title": "Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head",
-      "excerpt": "Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/hum-to-search",
-      "originalUrl": "https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2020-10-15_at_10.47.20_AM.max-1100x1100.png",
-          "width": 1066,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/hum-to-search/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/hum-to-search/amp/",
-      "publishedDateTime": "2020-10-15T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

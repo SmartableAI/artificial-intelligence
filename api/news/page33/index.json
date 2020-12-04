@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-11-10-artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey.md",
+      "title": "Artificial Intelligence and Machine Learning helping insurance companies with cybersecurity: EY",
+      "excerpt": "EY had helped an insurance company tackle the cybersecurity threat and this could be replicated throughout the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
+      "publishedDateTime": "2020-11-09T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators.md",
       "title": "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators",
       "excerpt": "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob",
@@ -1138,58 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-what-many-chief-investment-officers-dont-understand-about-ai.md",
-      "title": "What Many Chief Investment Officers Don't Understand About AI",
-      "excerpt": "You can drive real organizational gains with machine learning and AI, as long as there are processes in place to ensure data quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5b8b273725a764087eeb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
-      "publishedDateTime": "2020-11-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -70,22 +70,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
-    excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."
-    publishedDateTime: 2020-11-29T16:47:00Z
-    webUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/"
-    ampWebUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 57
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/11/5c9572d44bc20c59d7e2da8fdff0a0d9.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
     excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
     publishedDateTime: 2020-12-01T10:41:00Z

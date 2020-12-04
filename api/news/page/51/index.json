@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-10-27-mits-autonomous-boat-takes-on-amsterdams-vast-canal-network.md",
+      "title": "MIT’s autonomous boat takes on Amsterdam’s vast canal network",
+      "excerpt": "MIT has tested a new version of its autonomous \"Roboat\" on Amsterdam's canals. It could be used to transport people, ship goods, or even clean up waterways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/mits-driverless-boat-takes-on-amsterdams-vast-canal-network/",
+      "originalUrl": "https://www.digitaltrends.com/news/mits-driverless-boat-takes-on-amsterdams-vast-canal-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roboat-autonomous-boat-1200x630-c-ar1.91.jpg",
+          "width": 877,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/mits-driverless-boat-takes-on-amsterdams-vast-canal-network/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mits-driverless-boat-takes-on-amsterdams-vast-canal-network/?amp",
+      "publishedDateTime": "2020-10-26T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-deep-learning-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2023.md",
       "title": "Deep Learning Market Outlook By Industry Size, Share, Revenue, Regions And Top Key Players Analysis From 2020-2023",
       "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
@@ -1106,48 +1158,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ai-bias-blame-the-workman-not-his-tools.md",
-      "title": "AI bias: blame the workman, not his tools",
-      "excerpt": "AI empowers efficiency, but it's paramount that developers don't use demographic data to influence outcomes. First it was taking our jobs, now it’s discriminating against our customers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
-      "originalUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aPK9JP79EUu5CqWfrQLTZ7-1200-80.jpg",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
-      "publishedDateTime": "2020-10-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
