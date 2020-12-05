@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Socure Wins American Financial Technology Award for the \"Best New Data and Data Services Technology\" From WatersTechnology"
-excerpt: "DocV and Intelligent KYC solutions recognized for excellence at this year's 2020 awards ceremony Socure, the leader in Day Zero identity verification, today announced that"
-publishedDateTime: 2020-12-04T18:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18654797"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18654797"
+title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
+excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
+publishedDateTime: 2020-12-04T19:52:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
+webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
@@ -172,6 +170,6 @@ related:
         height: 450
         isCached: true
 
-secured: "pNCBSjizhzKkUNNPhBi4YtYWhnD+cZgTOGt8kgp+oRvddO2lQpc32WFY3ZFKVDr9vhUzJgDZprJ3Mt11lhz2DvRbs7Ik86olR/B5IBm/Hwu0OmX9PnDosQCs08luISrkfyfnf/dYtrtYBFXKjmTCUClPcCxV+q5JC3HFtC1q+j3FQOIzwHOzWwNmt/zjknZ1YIWT09d1KPieUpOpwR42BZMjY0m2SG9XnZ8RWZ5MphHfEofx3QIjdHcpldXDG04REmX8IB7UaxlhWNM3tOVSP9aGwJp4ug/jQTMtgwGFaDwDgnGFikvWC1c5IXWoU+pPr8ZudfjWc/DQF9Obys7S4OIMlglnYxUMyrwSMoVvP2M=;Tm7wxEL6A2zrfGwWkF3wdA=="
+secured: "sshD2qyUtiB+C5Htr+uzPhMzVhvHVmmWAVVpOKKHRm5kpaQjg0PmmD3ayuU9wn9he8Bag5fFsRkfJesiJhDLodPhz+hgI1Fgi8ZNYd+jEl4QNtAH/ogM7ysGw9Tr9yPlw7blMtbVAntARayaxbuXtf68qQJLk7xL8NV46GhJlhATG9iFF8FLFpBg2QyKBAQKBb0jLSIMo4LXDZnZsDtvq971Lmt/5Pdv2kqcm10/5AbjWEpZLy9GJGgQ9RgJ76jpTuOF/nGZMch2yk5jnTGAb+N8VSpw4mpPPM75hPl1HLS/LIrr2MorF4322aNCDfkNLQPx1obyKZrMhQ4OHTahNPCMPxzJqz87DSaW9tS8W4E=;/FHyd+SLuBJZbtWB+8C9fA=="
 ---
 

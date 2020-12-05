@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-02-waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down.md",
+      "title": "WaveOne aims to make video AI-native and turn streaming upside down",
+      "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024",
+          "width": 1024,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
+      "publishedDateTime": "2020-12-01T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021.md",
+      "title": "AI, 5G, and IoT top the list of the most important technologies for 2021",
+      "excerpt": "CIOs and CTOs say the biggest challenge next year will be dealing with recovery from COVID-19, according to a new study by the IEEE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "publishedDateTime": "2020-12-01T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications.md",
       "title": "Amazon launches new AI services for DevOps and business intelligence applications",
       "excerpt": "Amazon launched a slew of new AI and machine learning services duiring its re:Invent conference, including DevOps-focused offerings.",
@@ -391,6 +495,39 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-servicenow-now-set-to-acquire-ai-focused-startup-element-ai.md",
+      "title": "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI",
+      "excerpt": "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01",
+      "originalUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp",
+      "publishedDateTime": "2020-12-01T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-cyber-security-cloud-launches-wafcharm-on-microsoft-azure.md",
       "title": "Cyber Security Cloud Launches WafCharm on Microsoft Azure",
       "excerpt": "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,",
@@ -592,58 +729,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023.md",
-      "title": "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023",
-      "excerpt": "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-three-ways-ai-is-transforming-business-finance-management.md",
       "title": "Three Ways AI Is Transforming Business Finance Management",
       "excerpt": "By Swapnil Shinde, 3x Entrepreneur, Angel Investor, and CEO & Co-founder of Zeni, the all-in-one finance automation platform for startups. Three of the four largest accounting firms pledged to invest $9 billion in artificial intelligence (AI) and data analytics products and training over the next few years.",
@@ -704,7 +789,7 @@
       "originalUrl": "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -774,6 +859,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-alphabets-deepmind-ai-has-solved-the-protein-folding-problem.md",
+      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\"",
+      "excerpt": "Computer scientists at DeepMind, a lab owned by Alphabet, Google’s parent company, have developed an AI that has made a monumental leap in solving “the protein",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "publishedDateTime": "2020-12-01T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-infineon-to-set-up-global-ai-hub-in-singapore.md",
       "title": "Infineon to set up global AI hub in Singapore",
       "excerpt": "Part of the German chipmaker's digital transformation efforts, the facility will launch 25 artificial intelligence projects in Singapore where it also plans to partner local organisations to offer AI courses and certifications.",
@@ -824,7 +961,7 @@
       "originalUrl": "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -971,7 +1108,7 @@
       "originalUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1055,155 +1192,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-veritone-aiware-supports-nvidia-cuda-platform-for-gpu-aiml.md",
-      "title": "Veritone aiWARE Supports NVIDIA CUDA Platform for GPU AI/ML",
-      "excerpt": "Veritone aiWARE announced that it now supports the NVIDIA CUDA platform, which will enable organizations to run intensive artificial intelligence (AI) and machine learning (ML) tasks on NVIDIA GPUs, Veritone reported on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
-      "originalUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2020/11/30/08/5d/27/de/b1/be/83/d4/technology_2020118.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese.md",
-      "title": "Amazon Transcribe streaming adds support for Japanese, Korean, and Brazilian Portuguese",
-      "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy to add speech-to-text capabilities to your applications. Today, we’re excited to launch Japanese, Korean, and Brazilian Portuguese language support for Amazon Transcribe streaming. To deliver streaming transcriptions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T13:10:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion.md",
-      "title": "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion",
-      "excerpt": "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "originalUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=hp_lead_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-265924/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "publishedDateTime": "2020-11-30T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

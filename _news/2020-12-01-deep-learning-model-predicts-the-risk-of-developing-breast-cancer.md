@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning can predict breast cancer risk"
-    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patients risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
-    publishedDateTime: 2020-11-30T15:26:00Z
-    webUrl: "https://www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
-    ampWebUrl: "https://www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
   - title: "Deep learning can predict breast cancer risk"
     excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
     publishedDateTime: 2020-12-01T02:42:00Z

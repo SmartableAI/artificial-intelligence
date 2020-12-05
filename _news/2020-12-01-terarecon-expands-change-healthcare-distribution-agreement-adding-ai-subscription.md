@@ -39,15 +39,6 @@ related:
         width: 600
         height: 506
         isCached: true
-  - title: "Fixposition showcases new Vision-RTK solution for challenging scenarios in precision agriculture at FIRA 2020"
-    excerpt: "RTK tackles situations with limited satellite reception and enables new possibilities for precise positioning in agriculture"
-    publishedDateTime: 2020-11-30T15:10:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=15970"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 0
 
 secured: "yv3GoPqMfqgfsC75Y0Bc5Ehp7nJX8Az5UkgkhX2LyYwY6WXZQSM/NztZ1riYOc/O55L5pYkZIRIJRstwSKy2R0kB/Wnj/RmOT3J6MrDhsH4a0ri6aiZcql5D1MnlX18/zBs2Yh2Xw7zQKI6nEgYHch92TVXCvPLWdImOYekymp9vz0Lp58ZJ+Qxbxa9Nf7lBLaakXAXjZtlRN+WkQpinc6v7tC2lTerRpRQl4EdgvpdcSrCJdgBhTALLfbUp+NKWod/IDRRzJP7b6+qZ4Or7Q96Vduw1cFe9KLtfdT7rUfy5WQ2NozGaYtvpMoDTswDKfOO96hUzDdz3JdoubjJzK7xYMqnIC+ycbOpJsh1dy2I=;KOUjPzioJYZhLNbpqAK1cw=="
 ---

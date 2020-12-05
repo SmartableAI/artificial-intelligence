@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple.md",
+      "title": "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple",
+      "excerpt": "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb.md",
       "title": "Google widely criticized after parting ways with a leading voice in AI ethics – Jaweb",
       "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
@@ -355,6 +409,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-top-ai-chip-announcements-of-2020.md",
+      "title": "Top AI Chip Announcements Of 2020",
+      "excerpt": "We talked about the rising demand of AI-based systems on Chips and the year 2020 is no different -- the trend continued.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-ai-chips-2020/",
+      "originalUrl": "https://analyticsindiamag.com/top-ai-chips-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/12/ai-chips.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
       "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
       "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
@@ -363,7 +461,7 @@
       "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1359,93 +1457,6 @@
       "provider": {
         "name": "Cambridge Network",
         "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-natural-language-processings-impact-on-marketing.md",
-      "title": "Natural Language Processing's Impact on Marketing",
-      "excerpt": "So what does the surge in NLP use cases and technologies mean for AI in marketing? It’s huge if you ask Paul Roetzer, CEO and founder of the PR 20/20 and the Marketing Artificial Intelligence Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/9b53e77ff6714bfa8801c955a1e1bfc5.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "publishedDateTime": "2020-11-19T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
-      "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
-      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

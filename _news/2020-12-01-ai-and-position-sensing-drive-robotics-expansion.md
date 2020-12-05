@@ -7,7 +7,7 @@ originalUrl: "https://www.chemengonline.com/ai-position-sensing-drive-robotics-e
 webUrl: "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fixposition showcases new Vision-RTK solution for challenging scenarios in precision agriculture at FIRA 2020"
-    excerpt: "RTK tackles situations with limited satellite reception and enables new possibilities for precise positioning in agriculture"
-    publishedDateTime: 2020-11-30T15:10:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=15970"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 0
 
 secured: "aIxcR4NEPaLSNSrW1xWSOTR6jRbV+978jPv2c7mMOypiKlmn9H3bX5QWnrIFILBjPc6TIZWUTmr5yQmm7rHJNKP5pVMrDUh65S5PqHULV6pYp8joxvjhvEQMeO7woi3bgeIqbGnELA2xOK0+6Pd0IfERLk8g+bjLOanzSFNtTWLWnrHpyyx+J4IdPQlQB6Bdn3IAR73ayqdCrtnZ76QESc1953FR92e+lxHQHiT688rmGZ5TwMwNJ7I3aTzOScHCZTAjZl79i2Dgw5yQ7m5DoWy6+rhG/+1pFt6iA81lMb7WMk9Gj8I2Ro5lExF9hxhNAXnAWHjuLrpTl2wrcTn7tNW0cAIKSD9uJPPHM9HFFiWtA+ihL9+V7qotyY+N9Qf5eWdnMkH92v/SuFAshE4VEKHlsU83ZXvpROjn/H5KFTrqqE6schym3yhRcoSzlQ72+ru3Qo5kZ7AVBzbHz+pVbLJXsvFNxkbMTuNCNHdMQtviI0/CvrN/70vFxoN+1SL2txNWpXV5mLaViMxMhzzBvw==;/30Ku7QsXqre51f04wPSsQ=="
 ---

@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
-    excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
-    publishedDateTime: 2020-11-30T16:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
   - title: "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025"
     excerpt: "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
     publishedDateTime: 2020-12-03T02:25:00Z
@@ -54,33 +43,114 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
-    excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
-    publishedDateTime: 2020-11-30T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-301181623.html"
+  - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
+    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
+    publishedDateTime: 2020-12-01T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 63
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Computer on Module Market 2020-2025: Adoption of CoMs for Robotics, Artificial Intelligence, Smart Electronics are Projected to Drive Growth"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global computer on module market grew at a CAGR of around 7% during 2014-2019."
-    publishedDateTime: 2020-12-04T11:33:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=387357"
+  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2025"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-12-02T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2025-2020-12-01"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Blockchain AI Market (2020 to 2025) - Enhancement in the Acceptance of Cloud-Based Security Solutions Presents Opportunities"
+    excerpt: "The global blockchain AI market size is projected to grow from USD 228 Million in 2020 to USD 703 Million by 2025, at a CAGR of 25.3% during the Forecast Period. By component, services segment to grow at a higher CAGR during the forecast period The services segment includes various services required to deploy,"
+    publishedDateTime: 2020-12-01T17:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-blockchain-ai-market-2020-to-2025-enhancement-in-the-acceptance-of-cloud-based-security-solutions-presents-opportunities-1029854630"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-blockchain-ai-market-2020-to-2025-enhancement-in-the-acceptance-of-cloud-based-security-solutions-presents-opportunities-1029854630"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-blockchain-ai-market-2020-to-2025-enhancement-in-the-acceptance-of-cloud-based-security-solutions-presents-opportunities-1029854630"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "The analyst has predicted the Global Artificial Intelligence (AI) in Drug Discovery Market is valued approximately at USD 260 million in 2019 and is anticipated to grow with a healthy growth rate of more than 40."
+    publishedDateTime: 2020-12-03T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
+    excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
+    publishedDateTime: 2020-12-03T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2020-key-business-strategies-technology-innovation-and-regional-data-analysis-to-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2025"
+    excerpt: "MarketQuest.biz has recently published Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025, assuming the historical data of the market to forecasts time-period from 2020 to 2025."
+    publishedDateTime: 2020-12-01T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-scope-of-the-report-challenges-and-trends-key-regions-and-key-players-analysis-by-2025-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
+    publishedDateTime: 2020-12-03T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 31
     images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-12-02T16:36:00Z
+    webUrl: "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 18
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "o+QuUzloXeJoAGoKf1vAaJG9Wd3GgOOyaUwbdGSdbf0KHNviHLm0kHau9hzPVVa3W32DLGu3Xl3taxKGaJGY6p5qTCz3MZHFM4jVKgIl465ogxi/MWoLL8du9hi9y31UHUbLn/Cwzefbod71J/CcqqHz8rlgTeivokmc2UI74pV7mthkGuOoIWGHWhbOIG8k/Pg4IdFsH/eGCyfJ9hUsPbytAriL+e9OH2s6GcfW9HsZf+vY5rDVrVNDe457bkpT30RfM2UWYQqC0um3Qyy/pxgf0nuJ/eVFuHvOS5YAeY6Dyp2ulnC51mQgJM6kzFH3wfmg124GInAbkRQRHsruyFeCXapuhCllxpavF0qEGUU=;Fvjbg+3/kTO1uep3K5wEbQ=="

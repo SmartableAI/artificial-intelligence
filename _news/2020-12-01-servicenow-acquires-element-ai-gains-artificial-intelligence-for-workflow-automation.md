@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
-    excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
-    publishedDateTime: 2020-11-30T16:22:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 102
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI"
     excerpt: "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,"
     publishedDateTime: 2020-12-01T14:14:00Z

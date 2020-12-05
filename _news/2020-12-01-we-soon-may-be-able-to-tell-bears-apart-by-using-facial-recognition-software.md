@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apar
 cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 37
-  - title: "Madison Common Council to consider banning facial recognition software in most cases"
-    excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
-    publishedDateTime: 2020-11-30T16:17:00Z
-    webUrl: "https://wkow.com/2020/11/30/madison-common-council-to-consider-banning-facial-recognition-software-in-most-cases/"
-    type: article
-    provider:
-      name: WKOW
-      domain: wkow.com
-    quality: 12
 
 secured: "zkAL9x6JQ6YltLLbT0p7p/AYFNHK3zbJLUTnehcGuX/y+N5JRSeP09O1hfMYyUcBLRuTc70L8XItL500zj6jLBRrccl8tN4AFxVGmtTlIpBnKQKyTDO160oR5ktjm2Ojf+lJ+J8eveP2FReJLGPQ/r89EH0G3luxwuiBAu6R/3NvQ/qnFArFv7k4ILafsre+9MCj8VukKYZA0R2I88ZOughEzsr54BlwQA/yCkU5yWer9HEPR9AUyEMQTp0oCt7T3RW457K0b5RiMSBQZ62Meo9vJ7GBdPJghxTRieq4mhNrSKQbM0C7tqLO2gPGsdxzi5CoYFV7zO3uFrMDp0FTOD3+fudUj6BQa73JcRGo15I2DG7/ym5x4SbeSiYJ0bkyZvhvTf//R5MoMZAKzg55sgbsrcsdhnvpjIH2vzkHt2Ehirvy4tz8/YO5zOUg6SaXNal5CQp/68bNohOdTQvPlVyMFpbQpLG/CXbdeIFqE1g1V7lHW8amJYA04YHS5Woplb+I3pitjau+THmqMZFc6w==;ZyQvp8IyTW9qrVuzxIwqTQ=="
 ---

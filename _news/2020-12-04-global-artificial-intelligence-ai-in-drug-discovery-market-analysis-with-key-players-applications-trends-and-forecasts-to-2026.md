@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025"
+    excerpt: "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
+    publishedDateTime: 2020-12-03T02:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
+    excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
+    publishedDateTime: 2020-12-04T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
     excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
     publishedDateTime: 2020-12-01T12:33:00Z
@@ -56,34 +84,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
-    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
-    publishedDateTime: 2020-12-01T00:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01"
+  - title: "Global Blockchain AI Market (2020 to 2025) - Enhancement in the Acceptance of Cloud-Based Security Solutions Presents Opportunities"
+    excerpt: "The global blockchain AI market size is projected to grow from USD 228 Million in 2020 to USD 703 Million by 2025, at a CAGR of 25.3% during the Forecast Period. By component, services segment to grow at a higher CAGR during the forecast period The services segment includes various services required to deploy,"
+    publishedDateTime: 2020-12-01T17:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-blockchain-ai-market-2020-to-2025-enhancement-in-the-acceptance-of-cloud-based-security-solutions-presents-opportunities-1029854630"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-blockchain-ai-market-2020-to-2025-enhancement-in-the-acceptance-of-cloud-based-security-solutions-presents-opportunities-1029854630"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-blockchain-ai-market-2020-to-2025-enhancement-in-the-acceptance-of-cloud-based-security-solutions-presents-opportunities-1029854630"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Forecast 2020-2029 : Strategic Industry Evolutionary Analysis | IBM Corporation, Intel Corporation"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Healthcare market 2020 by Manufacturers, Type, and Application, Forecast to 2029 by MarketResearch."
-    publishedDateTime: 2020-12-01T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-2020-2029-strategic-industry-evolutionary-analysis-ibm-corporation-intel-corporation-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
   - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
     excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
     publishedDateTime: 2020-12-03T05:31:00Z
@@ -93,20 +104,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
-    excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
-    publishedDateTime: 2020-12-03T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -125,20 +122,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
-    excerpt: "The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic"
-    publishedDateTime: 2020-11-30T18:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020--2027---ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-301181740.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
     excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."

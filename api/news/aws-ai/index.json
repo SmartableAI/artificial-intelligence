@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple.md",
+      "title": "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple",
+      "excerpt": "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
       "title": "Using a test framework to design better experiences with Amazon Lex",
       "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
@@ -1421,58 +1475,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-20T16:06:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-amazon-augmented-ai-is-now-a-hipaa-eligible-service.md",
-      "title": "Amazon Augmented AI is now a HIPAA eligible service",
-      "excerpt": "Amazon Augmented AI (Amazon A2I) is now a HIPAA eligible service. Amazon A2I makes it easy to build the workflows required for human review of machine learning (ML) predictions. HIPPA eligibility applies to AWS Regions where the service is available and means you can use Amazon A2I add human review of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-augmented-ai-is-now-a-hipaa-eligible-service/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-augmented-ai-is-now-a-hipaa-eligible-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T15:58:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

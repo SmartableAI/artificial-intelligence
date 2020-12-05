@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-13-nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes.md",
+      "title": "NextVPU breaks the Performance Records of AI Chips on the Edge Side, and supports \"Algorithm Deployment Within 5 Minutes\"",
+      "excerpt": "In less than five years after its establishment, NextVPU has reinforced its leading position in the computer vision industry. Its \"blockbuster products\" are N1 series computer vision chips. With the high Tera operations per second (TOPS) and powerful real-time data stream processing capability,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
+      "publishedDateTime": "2020-11-12T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers.md",
       "title": "Intel’s First Discrete Xe Server GPU Aimed At Hyperscalers",
       "excerpt": "We have been waiting for years to see the first discrete Xe GPU from Intel that is aimed at the datacenter, and as it turns out, the first one is not the",

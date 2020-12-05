@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
+      "title": "Google AI is now piloting Loon's internet-beaming balloons",
+      "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "originalUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
+      "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
+      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
+          "width": 619,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "publishedDateTime": "2020-12-02T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu.md",
       "title": "Intel Announces Gold Release Of OneAPI Toolkits And New Intel Server GPU",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper as a few weeks ago, Intel announced its gold release of the oneAPI toolkit and its first discrete graphics card for the data center, the Intel Server GPU.",
@@ -921,7 +1016,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1151,91 +1246,6 @@
       "provider": {
         "name": "Finextra",
         "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-713.md",
-      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Expands By 71.3%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant increase in short interest during the month of November. As of November 15th, there was short interest totalling 16,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
-      "publishedDateTime": "2020-12-02T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-how-artificial-intelligence-can-aid-inventors-to-prevent-idea-theft.md",
-      "title": "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft",
-      "excerpt": "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
-      "originalUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
-      "publishedDateTime": "2020-12-02T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -161,16 +161,14 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Socure Wins American Financial Technology Award for the \"Best New Data and Data Services Technology\" From WatersTechnology"
-    excerpt: "DocV and Intelligent KYC solutions recognized for excellence at this year's 2020 awards ceremony Socure, the leader in Day Zero identity verification, today announced that"
-    publishedDateTime: 2020-12-04T18:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18654797"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18654797"
+  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
+    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
+    publishedDateTime: 2020-12-04T19:52:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "ikvtuRZ8fdOMHwdc3nZnMR+bxpjYvD2yxBLR/eQE/cr4TEv0lNg9MO7tP+GeTXhRQN/sBhYn02JrDIIo+kNxP+/1Gn5fsHYS1YKbNbnyHMFzro44bt4+z/O0AU6Sf77o49uAZ2WqK4NZuSIvQCRfmQ/qSCdHMcxWrB0LHCfkxgfR48Om5lY3Be22HXLkdjHHalZ72wu9R4eJP3aQ+tS7160xh2svc1tKtE7M29OsWrS93JA7WwjygDAtqL6d6TyaKTFQ0lTfemkRyV/q7Gy0iGPM4bBuASFjech6knecZuyTifrHKFtBEFjiyD0KmqxEO/K0jjT7QBYvROMqQptCBzB9iH+mHKmCE4Fvx7yMSlAp2DlKCCVJCs2q+3kjeHJ148iTbur+LDDEHg711ETW3foC16itXZYKKfmawMNDkaFNIekEaq+m1pgLROtyLOWHXJ5Chii4J8qhli3ATw8ABP4ytUc2+WwbgHaiXuLm/YzSDoP2SmOTYte7tqE11/JHvo8aE6CF40MRYKG50DpFfQ==;6w2vM0t7sCObZ8W5jpqcQw=="

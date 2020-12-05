@@ -7,7 +7,7 @@ originalUrl: "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvid
 webUrl: "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 272
     height: 270
     isCached: true
-
-related:
-  - title: "Veritone stock pops 29% after adding Nvidia CUDA support to its AI operating system"
-    excerpt: "Veritone (NASDAQ:VERI) shares are surging 29% after the company announced its AI operating system aiWARE now supports Nvidia's CUDA platform.CUDA stands for Compute United Device Architecture and the parallel computing platform boosts performance by tapping into the power of Nvidia GPUs."
-    publishedDateTime: 2020-11-30T16:37:00Z
-    webUrl: "https://seekingalpha.com/news/3640027-veritone-stock-pops-29-after-adding-nvidia-cuda-support-to-ai-operating-system"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 15
 
 secured: "p6t1UPgPxxf+EtekcsGxzdkMoREC2cje99xOflVG20GKXGQP3o0ooIAXXGOzTVrPjSRY0eiRfxCN5ttCkOIu7s6y3R5L8CFRJHZVi3pAJ1dQTX6hcZth9h2l1xqmxVD+gIbIdakc16nOd+Kd1MTmfzzq5m8b172+qnKo4r8PTmueqv86XLrAPu6tLoNLTRNX2F0LFhjSfgclaR+aZIMTuHHIpAD+5UXyWdkF24fZpSaPMpCCfxT+K1xk5ScE8w5VkmAKRkRfNnSSwhzXAmy+KWEdIDU8jjG/+FKSPgzZmEASZ2ICIw9NNBXkycDN37wYaQ3tUzUZCt7D74O6mMyhVnqe/lAc2CZuz28k8F+RYMlsWMcMdSvffIsArVpFu0VeNnGLRYRdkpxuRcLdtQqF854Og+5yqV+3BHdY55pKQ/bVl03RAjQ/kWp2h4DY19RCpvR5L+WSyJCofBMR+BNKlV+OP73nQ52A9iUhlCr8BCzm1EXpFh/4+sYbzQ406RqWddoxBmWCY56L5xHJmpXLIg==;VgTpPTuoKut+XzoK+uzHOQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.technewsworld.com/story/86939.html"
 webUrl: "https://www.technewsworld.com/story/86939.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Bringing Today’s AMRs into the Future"
-    excerpt: "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,"
-    publishedDateTime: 2020-11-30T16:36:00Z
-    webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future"
+  - title: "Transforming our understanding of voice-hearing"
+    excerpt: "Durham University researchers are changing the way people think about experiences of hearing voices. Up to one in ten people hear voices that"
+    publishedDateTime: 2020-12-04T10:52:00Z
+    webUrl: "https://www.miragenews.com/transforming-our-understanding-of-voice-hearing/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
     images:
-      - url: "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://www.dur.ac.uk/images/research/DontjudgeNT.jpg"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "TbOjacYHkwCiM/ed3sVBtKpW3ehV4tFm5w4vq9r6sOTbnWx5DivJnPaOce1N0dnd/ngAMaQ+r6lWiJBAARmA31iFRuQx9XB6psI8+INmOXARaR/1pIvYd24BNvkeukxuUpwWHfF6XzWF8yI3G94ZbTMRFYvXDLz1LhOVvIZl2PWxDiIZNQTFUGgfVjf4kPqz2hduSScs+FNq2NDe0P5bC/tZysU9SMPFzImfu8NzcP9QHVlKyyZB83VMVkXbwKTfBm2fBFGwdOR/Y5j1B4LEBFQX5sbQUCPoYkPLQ/++zCxExZW7JmvuPPZEJHzWmCKhHpBNQa543ZQNtHqHm5jcGbl2P6+jBKGU7gf1wN9HlyofDcWdRhIoTc9b1GloFPrEypwozGmy+iI7AZ0RhbFWFSz7lTUsk4K1AS4gbD+NatLbJ0067hHd7q2NLDhrD/E2DASoNLb34P2ZMrcYEYZDXhxwm50CulfzHRJs7QiZxOdKUnPwca3QzD+gDvYipnmfEshVsEK+bS4eFhJnzge4ww==;qCV8KkPGkfgxN5yW8r1dfw=="

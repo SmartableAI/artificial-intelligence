@@ -165,16 +165,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Socure Wins American Financial Technology Award for the \"Best New Data and Data Services Technology\" From WatersTechnology"
-    excerpt: "DocV and Intelligent KYC solutions recognized for excellence at this year's 2020 awards ceremony Socure, the leader in Day Zero identity verification, today announced that"
-    publishedDateTime: 2020-12-04T18:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18654797"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18654797"
+  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
+    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
+    publishedDateTime: 2020-12-04T19:52:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "hsoqkVMBq72Ip9iwVOp+P0c4IykEumv4TdQCA1hvXLiVaZUpdEHILSITBdzpLG2XQKic+QqdMTqmZwI3hShisVdHali7O4lRQuiNZWJ1nIPILRjf1FfwWBRggfC1H4mc37LYyE5FKBqQ51J2usGRcblAPqHZNMYvt35Q5FZxQAo+g3fhDokFRRIfB5jvayomUDKFoFO68j9omUDRC+EdxJm04a1H/+0ExpvFrNfYkCx7rdq2L8kvUsbH4XphlSmRd3EgkD/awslEGvSD4VhcZPXHOl1EmmLmuOHu8DIHZdQ914QEvfV8mYQCIXRNcdk84/Zo9v4CMyySFaZbUesi1nTw7YdDF+Tz2y3UUcYtVYxL1jNOvI3XY9zVq0Tdp0l1nJcrxeEa4A6jYlb0u0NqtmEQv1kFbt3fLT3clFJK5ykAkbWrKNKlGZJJCdL4GRaGYDdH/2Ed0pEe9RBSb0nkh+3lYIrqrcqTdisJo2GhL2lvOGNihxZYpJVqhvcyuoZc7EIoUl6z4rkF+yRIsQ3/Xw==;ZP8hVesanbZpaazxxxvCNQ=="

@@ -161,16 +161,14 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Socure Wins American Financial Technology Award for the \"Best New Data and Data Services Technology\" From WatersTechnology"
-    excerpt: "DocV and Intelligent KYC solutions recognized for excellence at this year's 2020 awards ceremony Socure, the leader in Day Zero identity verification, today announced that"
-    publishedDateTime: 2020-12-04T18:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18654797"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18654797"
+  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
+    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
+    publishedDateTime: 2020-12-04T19:52:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "WaoKsIYZq6++lJaUI1Zt8Lj3UbWJL6M8HFRmZOj81Jjd2r6rGE2EUaFZcFXQlNa1uG6KoQsGdZ5U83PBRNqae2mHWRONuuWEy2URaJGHxaizOjmABkRczQ6izz5P+HrfBsvfhvoWTH29Qx/hZRMMr9uPzjV+GSZeiBg3edycuYE5f4J1qV1/Cm2WY4Zv/c95xPf3xOVXMcMA4nrwB0GZTERuGYpZ/RAVyy2g10H9ToW/u+8/eSk2sVoWoptoRLAkbVQUvQdoNnpE/p7lel01kHeD02M50do5l8AQlTIxhPIyINAvji+KVPZtzTyPem6sc/x2cdZIzenyxPmVBfUz0afYCrGbRoAj6eOXoUQJof4=;A/1iD6EH+SoCi0O/WUDCYA=="

@@ -25,58 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
-    excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
-    publishedDateTime: 2020-11-30T16:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-  - title: "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025"
-    excerpt: "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
-    publishedDateTime: 2020-12-03T02:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02"
+  - title: "Nanorobotics Market Share Current and Future Industry Trends, 2020-2027"
+    excerpt: "Selbyville, Delaware Global Nanorobotics Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Nanorobotics Market Report also covers top key players,"
+    publishedDateTime: 2020-12-02T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
-    excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
-    publishedDateTime: 2020-12-04T04:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
+  - title: "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025"
+    excerpt: "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been"
+    publishedDateTime: 2020-12-04T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
-    excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
-    publishedDateTime: 2020-11-30T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-301181623.html"
+  - title: "Deep Learning Market Forecasts to 2025: Global Industry Growth, Share, Size, Trends and Segmentation Report"
+    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
+    publishedDateTime: 2020-12-03T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-forecasts-to-2025-global-industry-growth-share-size-trends-and-segmentation-report-2020-12-02"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 63
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size 2020 Future Analysis by Growth Segments, Opportunities and Challenges, Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Natural Language Processing"
+    publishedDateTime: 2020-12-03T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-future-analysis-by-growth-segments-opportunities-and-challenges-forecast-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI-Based Fever Detection Camera Market 2020 Top Key Players, Revenue, Market Share, Size, Market Dynamics and Forecast to 2027"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI-based"
+    publishedDateTime: 2020-12-02T13:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-top-key-players-revenue-market-share-size-market-dynamics-and-forecast-to-2027-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Speech and Voice Recognition"
+    publishedDateTime: 2020-12-02T08:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "wUiHizGPpYnS45cr0DHtoBzCpCv9nbIjbtM6VogTOtSH6xARHbif3IFQwRymrB33XJM3rbrvF3c9QMArNTiyyG5kMC+Grt5xkBsG2ioWkVI9y1WS9dm+tqvq7U8J1FzGYumPh0hzZwURc7fjrNm6Qj2Hqf4Wtf6lvtlmiUCqTbU5V1SIMHn5lE3bsBqzoX+QGduG1/WYkD/1joFpmXbEWs2N0rwnp9E0mHjOwfbC6pPzCLKF83KvTyOU1FBWI+9YWRcnfNPyxSrPw0wpIPs3pz4tbHvafSrQTWFHmi/3C0qOIKDbo68Z8CmPPZJl3bWdwNaNiDnMeAGi/vb5mFaFKbv47uS10msnNwOAO41QaRg=;/rcH7DE9K/aeYp0lEF+pWg=="

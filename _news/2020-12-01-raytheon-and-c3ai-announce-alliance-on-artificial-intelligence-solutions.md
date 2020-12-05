@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA Launches Inception Alliance with GE Healthcare and Nuance to Accelerate Medical Imaging AI Startups"
+    excerpt: "Over the decades, an entire ecosystem of medical imaging hardware and software came to be, with AI startups now playing a key role within it. Today we’re announcing the NVIDIA Inception Alliance for Healthcare,"
+    publishedDateTime: 2020-12-01T03:58:00Z
+    webUrl: "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/nvidia-launches-inception-alliance-ge-healthcare-and-nuance-accelerate-m"
+    type: article
+    provider:
+      name: Cadalyst
+      domain: cadalyst.com
+    quality: 16
 
 secured: "SC0QBfl4MSKu9ySHX25lFy6tO1iJeuE4s2J7oLpgBcJOLMpxloC5OImPwAMvW39km9SsxxaaXoI4ccq56UhDkzFL2mmJElQWIV+9uURADyErTYcSruHu0CsTvuFuNahNHajcK5BAB/CNcl6DYwVmbnKVg+CyQzk3ZD7T4ytXrQxy6i0N5AF9qaGf7MJN5ikTyo9LCwzwoGN8Os51ot9liYFx+wgCR3G7FEl1icxSgVSR7RMRv7ow8lYF+yvm8vZsImh8JSHoNrh87GE9EkRQmsWZLS9sp2fOhP5V7vQ6EmbNkLIWYL2+kcoGWiquZNFDBrEVwfULz4cqu8o+sMbUk2JRp9ukJ7IFsCffENR+jsb6UsfJks8pSgcgnTmXgDdTTxGZIvENIJMQQRojNY4u0V+G8oXzNljsM3eTjAOQPtXtvh9+8xICwLeTN+ggUfvhzLJRZOzabc0H74U3PAKqRYNZPpamR6syNLF7HVhKnC7fsANyFZ5L++2JDj2ecuLYroJAMpspfiPKXuwFS6Uzyw==;3QUzURyP3TqNg6ju+sv0Iw=="
 ---

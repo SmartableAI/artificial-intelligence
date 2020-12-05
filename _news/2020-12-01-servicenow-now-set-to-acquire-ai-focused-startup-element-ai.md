@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-foc
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Nasdaq
@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
-    excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
-    publishedDateTime: 2020-11-30T16:22:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 102
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "ServiceNow to Acquire AI Pioneer Element AI"
     excerpt: "ServiceNow (NYSE: NOW) today announced it has signed an agreement to acquire Element AI, a leading artificial intelligence (AI) company with deep AI capabilities and some of the world’s brightest AI minds."
     publishedDateTime: 2020-12-01T07:50:00Z

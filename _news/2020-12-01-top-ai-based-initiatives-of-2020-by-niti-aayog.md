@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Top 10 Artificial Intelligence Inventions in 2020"
+    excerpt: "The inventions in artificial intelligence, robotics, Internet of things, virtual and augmented reality, and big data are thriving the pace of invention in 2020. Despite the COVID 19 outbreak, they provide a promising outlook in the coming decade."
+    publishedDateTime: 2020-12-05T08:45:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-inventions-in-2020/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "UubNzxvau2wvEa9bq4wuJrxNA3TlSX0XL9eFTkvjEQF0YYJXBZ5d+gG+slvbxkgjuCLtIju66IZxcyIgdQdtPAkiQ9dRL0Pos52Tds00fRBy7xiXidDqEiN/97JToQppQnmI5qC/Yl5GAaWJcMpJrJRSiiaNu2hkFiTBGLqJtaEaj7LNVPC8kW4Ugb5ZUz3UtGGST/2TzG0L8vl4rM6rEHYVlOgZxoA6kjhLiM9EAmNkIsR2lEpDOOQFa+i5tU08PB4SGNJ8H88K8R0eji8IFrY2Ed2oHGrZ7UQ2YQCJowzJlLnIXyZkbpsyyCrRfhsj1Mj+wHgopWjRPFLaYL1x6OEuf8BQuxAipHCOwSxpbOI=;iaN6bTFrK2Vzn8ORfpy/OA=="
 ---

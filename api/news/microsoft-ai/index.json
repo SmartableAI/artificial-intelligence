@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple.md",
+      "title": "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple",
+      "excerpt": "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-05T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-microsoft-unveils-azure-purview-for-data-governance-azure-synapse-analytics-hits-general-availability.md",
       "title": "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability",
       "excerpt": "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available.",
@@ -62,7 +116,7 @@
       "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -459,7 +513,7 @@
       "originalUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1396,58 +1450,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing.md",
-      "title": "Financial services companies are starting to use the cloud for big data and AI processing",
-      "excerpt": "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
-      "publishedDateTime": "2020-11-18T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

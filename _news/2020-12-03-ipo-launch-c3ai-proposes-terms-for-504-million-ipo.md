@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Tom Siebel's C3.ai seeks to raise $527 million in IPO"
-    excerpt: "C3.ai is seeking to raise up to $527 million in capital with its IPO, the company said Monday in its filing with the Securities and Exchange Commission. The 11-year-old Redwood City based company that helps customers with such AI-based applications as CRM,"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.html"
-    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "IPO Update: C3.ai Proposes Terms For $504 Million IPO"
     excerpt: "C3.ai has filed to raise $504 million in an IPO. The firm provides machine learning and artificial intelligence software to organizations worldwide."
     publishedDateTime: 2020-12-02T19:07:00Z

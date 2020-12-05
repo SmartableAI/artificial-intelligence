@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intel
 webUrl: "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Bloomberg
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA Launches Inception Alliance with GE Healthcare and Nuance to Accelerate Medical Imaging AI Startups"
+    excerpt: "Over the decades, an entire ecosystem of medical imaging hardware and software came to be, with AI startups now playing a key role within it. Today we’re announcing the NVIDIA Inception Alliance for Healthcare,"
+    publishedDateTime: 2020-12-01T03:58:00Z
+    webUrl: "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/nvidia-launches-inception-alliance-ge-healthcare-and-nuance-accelerate-m"
+    type: article
+    provider:
+      name: Cadalyst
+      domain: cadalyst.com
+    quality: 16
 
 secured: "WHWNPz1/bN9GV/yDs27homuorBGPQ0PEs5ex9GdsuNbM8F9+2LAWVpCqhVICMU9xFlLcYP/0A04nB+Zyj0C/xSexltro0UndGK7x3itt0bWIjhUY1UHrIUtup7wjgpd1s6aNr9IOCiFM+zPhkoPUAieFRyuXPFaO6ivrTcOyUJHIi3uCKRcyBdqpKmnHHMSsDC6z0gqxbF54/8g7OedathYCesF07SazLxOVLs442ameYoQVm5n55KxymNrMSI/6L+XANNOtMtFjJPYAtiKlmwbNjQmJHHvq6ySRrj4yOIjwakJwEAd3rfxE8Jmfi1bHr6HBsOaU3Bx5sFgGwCugUbxZmFqUEWQnHrVs9Wr7Bbw=;CvDDsUPwklxB/k1RpdgB8Q=="
 ---

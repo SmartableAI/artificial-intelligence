@@ -52,17 +52,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Tom Siebel's C3.ai seeks to raise $527 million in IPO"
-    excerpt: "C3.ai is seeking to raise up to $527 million in capital with its IPO, the company said Monday in its filing with the Securities and Exchange Commission. The 11-year-old Redwood City based company that helps customers with such AI-based applications as CRM,"
-    publishedDateTime: 2020-11-30T16:15:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.html"
-    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "wbyK/ZHkuWLo5CNpvccYLLTuhH6O0VzV31kYc3ieRfgOKq+MI6H2aqHZ94nvBizyr+QzHUQsEEyB+5z0dqzZp+PzyWAY5pTjKhWbwyY/Z6QU/DgeVvLl71eSXIRteYKc9EGj8LY7BU+gjX/Dq9v/PN1a3PIVOMhgnJ7di+ZSEZmFkQiGmpZ2L5ExPaIiLVJdFJAXqZMVMFK7u/VjVI/dhtkSs69TaeiPhQPDKCJGx7CxjrWfX5/RgmEp/fS3zC6JaqsfLESFkenKRWvLaqlghS9ytzcinoOIkwfKD9c8bLlppH18J1sSzdq/d62+rqaFBkSq4P0eLd2UrB7vussKJ9813dI6Gpn4Dh73NQfwzkJhKVG8kq2n+2S1Q8T1IgqlNzBlb3k2RmmG1Kk2afT+8f1Q26rHWLG5slXDS44XY5oAS2oWqOlkP9ree1pwV83uF4twnqe+H1EGhfYtbcfKiOsrVxr3+GxzdAYkF+HQnVcOTxEpSc2PWstGivoAlWiMxzZXrHSim0sJ8RD/Q0A1zw==;nYfdLUCBSkw3r6+QpRVnvA=="
 ---

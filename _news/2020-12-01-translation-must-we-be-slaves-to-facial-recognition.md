@@ -94,15 +94,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 37
-  - title: "Madison Common Council to consider banning facial recognition software in most cases"
-    excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
-    publishedDateTime: 2020-11-30T16:17:00Z
-    webUrl: "https://wkow.com/2020/11/30/madison-common-council-to-consider-banning-facial-recognition-software-in-most-cases/"
-    type: article
-    provider:
-      name: WKOW
-      domain: wkow.com
-    quality: 12
 
 secured: "RDEPsqYsx7sGpZrEUJPjKH3x8seFyWNcb9zrjNri49ht56grf/G4NJBHsHKfkeBi/qzPIYJZChwapdh3hOa+Y3pnj1xSKNZIOUYc0qvH0bxvxvGdMnfol3Iy1CcbY+OWIIQPF/x0Lpg+U5giXA1zHdi9Efgoan+6R2kJsvRlP9yENWlfwIW+ood9D9ad1kSsHLTcCT9mLvXHsGQVNUNijy6ehqNn7e79wA79vt5knVSxr0/st0BS+sguN79roc/KAj4cUUkqzQ3HM1YNc45XKkTYxEFjcQ2F2e6S+dHugoW3loxralMvJap7LLctLMbSyR8ameDcRpRF2h811VEm0109DiMZxAwvUpHJdOsmJRo=;cDZ23U4j5bUdBhVCqPndIw=="
 ---
