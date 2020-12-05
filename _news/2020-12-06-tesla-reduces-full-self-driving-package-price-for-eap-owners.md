@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-packa
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/"
 type: article
 quality: 89
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers"
+    excerpt: "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars."
+    publishedDateTime: 2020-12-05T18:56:00Z
+    webUrl: "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night"
     excerpt: "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below."
     publishedDateTime: 2020-12-03T22:33:00Z

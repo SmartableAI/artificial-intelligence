@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers"
+    excerpt: "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars."
+    publishedDateTime: 2020-12-05T18:56:00Z
+    webUrl: "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Tesla reduces Full Self-Driving Package price for EAP owners"
     excerpt: "Driving Package by $1,000 for owners of the Enhanced Autopilot package. The Full Self-Driving Package, also known as FSD, is Tesla’s bundle of advanced driver-assist features that also includes the promise of eventually enabling complete autonomous driving in the near future with upcoming software updates."
     publishedDateTime: 2020-12-05T16:30:00Z

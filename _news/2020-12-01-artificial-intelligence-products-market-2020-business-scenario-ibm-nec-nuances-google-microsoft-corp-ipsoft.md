@@ -137,20 +137,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
-  - title: "AI in Social Media Market to Witness Positive Growth Owing to COVID-19| Google, Facebook, Microsoft"
-    excerpt: "The rising technology in AI in Social Media is also depicted in this research report. Factors that are boosting the growth of the market, and giving a positive push to thrive in the global market is explained in detail."
-    publishedDateTime: 2020-12-01T01:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-positive-growth-owing-to-covid-19-google-facebook-microsoft-2020-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft launches Azure governance tool to map data"
     excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."
     publishedDateTime: 2020-12-03T19:47:00Z

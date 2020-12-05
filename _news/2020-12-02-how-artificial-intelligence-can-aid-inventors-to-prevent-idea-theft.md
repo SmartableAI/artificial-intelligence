@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Artificial Intelligence Can Help Leaders Make Better Decisions Faster"
-    excerpt: "Lots of exciting changes are on the horizon. While AI might not necessarily make the process easier, it’s going to significantly contribute towards"
-    publishedDateTime: 2020-12-01T01:39:00Z
-    webUrl: "https://www.linkedin.com/posts/ibrahimsherin_artificial-intelligence-can-help-leaders-activity-6443405486376124416-hwOR"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20180814143922-GettyImages-878401808.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How AI is helping rural African farmers"
     excerpt: "Over 22,000 farmers in Zambia are now using AgriPredict, an AI-backed mobile app to get instant information about plant diseases and weather patterns, that would before only have come from agriculture experts and meteorologists."
     publishedDateTime: 2020-12-01T05:38:00Z

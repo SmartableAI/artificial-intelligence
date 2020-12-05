@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
-    excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"
-    publishedDateTime: 2020-12-01T01:28:00Z
-    webUrl: "https://www.linkedin.com/posts/nikiblack_san-diegos-massive-7-year-experiment-with-activity-6621079374517030917-ukMF"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E34AQHgxJJEy9zZvA/ugc-proxy-shrink_800/0?e=1606881600&v=beta&t=ebB1Z_9dvFoVV3CCh5uuhR4j0vbFdvrOJX4Y3XrGiEE"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "sshD2qyUtiB+C5Htr+uzPhMzVhvHVmmWAVVpOKKHRm5kpaQjg0PmmD3ayuU9wn9he8Bag5fFsRkfJesiJhDLodPhz+hgI1Fgi8ZNYd+jEl4QNtAH/ogM7ysGw9Tr9yPlw7blMtbVAntARayaxbuXtf68qQJLk7xL8NV46GhJlhATG9iFF8FLFpBg2QyKBAQKBb0jLSIMo4LXDZnZsDtvq971Lmt/5Pdv2kqcm10/5AbjWEpZLy9GJGgQ9RgJ76jpTuOF/nGZMch2yk5jnTGAb+N8VSpw4mpPPM75hPl1HLS/LIrr2MorF4322aNCDfkNLQPx1obyKZrMhQ4OHTahNPCMPxzJqz87DSaW9tS8W4E=;/FHyd+SLuBJZbtWB+8C9fA=="
 ---

@@ -56,15 +56,6 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 37
-  - title: "ServiceNow Acquires Element AI; Gains Artificial Intelligence for Workflow Automation"
-    excerpt: "ServiceNow acquires Element AI to meld artificial intelligence (AI) with automated workflows, the IT service management (ITSM) software company says."
-    publishedDateTime: 2020-12-01T02:25:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/servicenow-buys-element-ai/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 25
 
 secured: "ZayzjKurVJZMts4Lme/12DdXVsy57WqNvZavd/TM3uyQrPlWsL2/vugtQYUnXRT6z7LxbnbVcdiwzG8IDGAudSc74IuK30LK4YPzMVFZQlUpGH5J1Jqk6SXY5Fwk3rbgzT325fwbDGdnmBXWeHMNyOVbKAmevhHXqx1TC/HYoGXjLVJV2tA/0WJKbRXYqhXZ3YuWenjnTjcEA/a7jbCTmuIFhUoTml+XO75cs7BfT1GycOPtTh495QQMgokS0k1wYFlonSqnr8kjIX9dZOzXxR/S/KvlR56PDp1QAL9fwbLfmPGHXOpl4TA6p+tjVtcy0RHdPq2+Ek68Licxo3AqAUWdmuERTinKlrN5fo35hSE=;bRcFCbUOlkI9VizAvIPccQ=="
 ---

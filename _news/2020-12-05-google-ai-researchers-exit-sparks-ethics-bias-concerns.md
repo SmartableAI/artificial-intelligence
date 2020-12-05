@@ -1,31 +1,24 @@
 ---
 category: news
 title: "Google AI researcher’s exit sparks ethics, bias concerns"
-excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-publishedDateTime: 2020-12-04T20:58:00Z
-originalUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-webUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
+publishedDateTime: 2020-12-05T06:45:00Z
+originalUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
 type: article
-quality: 76
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: myhighplains.com
-  domain: myhighplains.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Facebook AI
   - AI
   - AI Ethics
-
-images:
-  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
-    width: 1280
-    height: 878
-    isCached: true
 
 related:
   - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models"
@@ -77,6 +70,6 @@ related:
         height: 600
         isCached: true
 
-secured: "5B9Wb3n/J4TbVCwEOjeHX4bW7VlxE4nyx0IzRxMbLw1Yy8brLhCIrS/51l4pAe0jC2ytoioFpWVq4q+Z8LW2MEM/k5R/lPe5AOoptqgBmSST6NBHxT0rHvLv1UIHng7xVV5q4nFHZWhzbpzdJp+HhcQk1V9vOitjnsFY5LUqxIaqF1Nir8GzEvwrD+3GhA5NmVnmbpS+273ihMhaj8GCrwW9vXubzajSRky0ghL9Lx9xu3Lwm44Tj8H43TUAR2AXkljpKCCyaJhTIM8MSaNeYra/jYdy3OvwG2asVZ7OY4JfvZ3A9x8eB5zNlRcpOMWRLI4ujZknLeJTtrqiePxL+oKLV7duCt7uzkIFR7cCYJw=;Qmms2J6ys9qPg6Mph/hCYw=="
+secured: "lwy7MCdaiJa0+UQP9IzuTYv5ynKXhgXAcd4HWU0dett9gqe8i2YwlUX2rkF6pvy7U3fDSH/ivhThsMBEJwVVwK3ZftRYBQa1GoyhbefPMfpBd+sKAnl5LolgOOCIU3POKwdp2LwySn2gYV2ljsdzfmSSrBD/ZryVFRZxNo8Q+ZV7jf/Qvk3HPhBk1IlJ9zdLM3k3ALJ/s92aJ+MdC2+wbTSiU0JM/XjkvaMxKuJIOHX9Goc/E+bSti/m5TSKZFsKaPIPob2MZlOKX40y96EESOfYXql7bvE8PZ21eT/V9XS1jBnzXzIRGw+PYR8j1Wz78v4xeTfu1gNN39HRoM8CxSuyI/x/k4tQAJ0XsJEoIrHMVyb3yo5Rrswbsh1q4JNnoxCk9v41QxAsxaEcM/giUEsUsQZaaECLfCTJlc/pm4VbgsELgU0J7MiMTQ83rg21qMfPhzE0QxYLc32qgz19zMXZgGRY8aDTJoO1dDhjH1E4LntEbXYPEg4LjQ8/lbfVJZfWi+vHnHlUc4x4jTmf0g==;9ZO3NbZ580Dqpgi5xLE1BQ=="
 ---
 

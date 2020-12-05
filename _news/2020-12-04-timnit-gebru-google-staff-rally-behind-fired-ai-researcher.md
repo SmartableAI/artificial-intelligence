@@ -58,6 +58,22 @@ related:
         width: 420
         height: 280
         isCached: true
+  - title: "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru"
+    excerpt: "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist."
+    publishedDateTime: 2020-12-05T17:12:00Z
+    webUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400"
+    ampWebUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 73
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Artificial Intelligence Scholar Timnit Gebru’s Exit From Google Sparks Ethics, Bias Concerns"
     excerpt: "Gebru was instrumental in improving Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
     publishedDateTime: 2020-12-05T04:22:00Z

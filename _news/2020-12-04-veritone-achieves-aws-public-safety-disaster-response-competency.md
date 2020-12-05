@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Veritone Achieves AWS Public Safety & Disaster Response Competency"
-excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has ach"
-publishedDateTime: 2020-12-03T16:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
-webUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has"
+publishedDateTime: 2020-12-03T19:50:00Z
+originalUrl: "https://www.marketwatch.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
+webUrl: "https://www.marketwatch.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
 type: article
-quality: 19
-heat: 19
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "eveI+IO0DUoP7tOqEP1jINkXHhm8rPUrtCRuVtAsU4nLMKivcx5dumOmbcjDabhb8X80oZ4GJUS2MBHj3NjEKXeVl9Or2svGZJ3H3fTabK9KcSqhUvdTfAHypnmJOOBj+cFtZ2kR7rsTlJNlQMuHrimGQM4z53vSf2ZX9lolVKZqGRtVK/5rHfa84+7WDXZcbl3Vuy7BiOE4bg5EMKVAF8v6uJBgFBVsPO/iW+V7wfdbLxtxQsD5tLGqpE6FNd9c9XgsY+mfR0voDsj21JGQz/dEo87jn5/imuOPeHqLVVx1z3SteZFG37EhIWcS/kzbCI6svEGIBK6Rcz6kKVRQK/sQByS+Uorp53+k6GI2yug=;aofpD2/9hhUVjoHQhOj/Dw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "D9N+3sU6MPAJLcVnBgDTUpsBAZxLsxEf7kB+2FK1F1RUldxuNan7p7cARTQLEjFzNglEa9adKtoijWfkHTE9euk2RJ6nsGyi9ctUy4+y7GYtHV3zt2HTKfF95IkrwQVL6NTEVb6M09pVNBt6bnkn9JbHq4uhQ7JIosdO1c33JFD41QavghYz/NHJFtZFwRa7TX4kkNekzKEZz7UcXDJBWmdimF2Z4FZwwCsHLRbnka/AA3Dp75DjcizXINg4UfnKpcDuJpKwXBOu7rPve+FJAyaJ+RqKkbYAkC7wGXUuZcI/ty/kNNIBvpD6Z7gVTrsMO5cG7MGRcinLTraDivDKzoLJiICMWozzJrG+CymbIsk=;n76hi++v9OXTnoo4QXdjxQ=="
 ---
 

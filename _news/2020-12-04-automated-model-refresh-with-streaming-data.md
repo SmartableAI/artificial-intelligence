@@ -32,9 +32,9 @@ related:
   - title: "Data streaming: More bandwidth is needed before self-driving cars can fully function with autonomy"
     excerpt: "The variety of computing platforms and data make it difficult to fully integrate an autonomous car system in which all vehicles communicate with each other, expert says."
     publishedDateTime: 2020-12-04T16:45:00Z
-    webUrl: "https://www.techrepublic.com/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
     type: article
     provider:
       name: TechRepublic

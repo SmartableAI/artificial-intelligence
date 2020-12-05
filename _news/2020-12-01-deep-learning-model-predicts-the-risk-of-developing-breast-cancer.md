@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning can predict breast cancer risk"
-    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
-    publishedDateTime: 2020-12-01T02:42:00Z
-    webUrl: "https://menafn.com/1101209786/Deep-learning-can-predict-breast-cancer-risk"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-11/30/I_21c1d344-1image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Deep Learning Predicts Woman’s Risk for Breast Cancer"
     excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient’s risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
     publishedDateTime: 2020-12-01T06:45:00Z

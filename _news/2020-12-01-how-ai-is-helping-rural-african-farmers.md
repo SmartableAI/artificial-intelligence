@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "Artificial Intelligence Can Help Leaders Make Better Decisions Faster"
-    excerpt: "Lots of exciting changes are on the horizon. While AI might not necessarily make the process easier, it’s going to significantly contribute towards"
-    publishedDateTime: 2020-12-01T01:39:00Z
-    webUrl: "https://www.linkedin.com/posts/ibrahimsherin_artificial-intelligence-can-help-leaders-activity-6443405486376124416-hwOR"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20180814143922-GettyImages-878401808.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "gscJh/EY03FIewXf9RLMr1Ui2dKSluBVf3U6IiZCUXyD7YMPKQiNOuMb7DyoPwXfoMoxgIxKkY6nGk6AUXhOA/tlyp5q4e4woMvwrriYYl4IA7++05oin1gVbdqyYBV7zoBt/6uzm5J6QzzWR6RQUqOBfgSuEzGrIpoqiFrKxzqhMTs1yc9b2Dx66ykMhSStkFYY1yXVp7e24dWj53xakR5HlSO9z3njStnrYhMigB6zTaLl1WA0fA7Uv93vt9c9lRjBXwiPmeUYKpr0q4VKO+PubwTOO5QRrlGVGBKeRqBVddRRkYfWSn5T0VfFfcL1B/wnUJx9dbvb6/UhIddPbNxCawDkqLtx5JOgOts/SEFI/5XtwUlyT8eLO8vtJT6IeDU8a/HwuJyQFF4/sizAySQp7nayOrfvN7H+W1KbuR1qGGYvVms1/EC+EOenT47gplH2dlxJwXs8iikqo0qAbVoWHLBlnjrNlU3Ysz8HBWS82NkbI8qva1W/Xpn+jYD2N5v/YeUIaM6/EpdHsta0cQ==;nVdUeCIU1SSOui9TRQDMvQ=="
 ---

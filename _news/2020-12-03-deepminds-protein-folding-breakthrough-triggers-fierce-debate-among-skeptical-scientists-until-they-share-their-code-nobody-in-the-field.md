@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind AI solves 50-year protein folding problem in \"stunning advance\""
-    excerpt: "While some of the applications for artificial intelligence involve say, winning games of Texas hold’em or recreating pretty paintings, there are areas where the technology could have truly profound consequences."
-    publishedDateTime: 2020-12-01T01:35:00Z
-    webUrl: "https://newatlas.com/biology/deepmind-ai-50-year-protein-folding-problem/"
-    ampWebUrl: "https://newatlas.com/biology/deepmind-ai-50-year-protein-folding-problem/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/biology/deepmind-ai-50-year-protein-folding-problem/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 103
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DeepMind AI breakthrough in protein folding will accelerate medical discoveries"
     excerpt: "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years."
     publishedDateTime: 2020-12-01T17:19:00Z
@@ -246,34 +230,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/76d9092e1573cdd08981aae589827add_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "DeepMind accurately predicts protein structure, advancing decades-old challenge"
-    excerpt: "In a challenge where researchers try to predict the shape of newly identified proteins, an AI system developed by DeepMind determined the shape of two-thirds of proteins with an accuracy comparable to laboratory experiments."
-    publishedDateTime: 2020-12-01T02:34:00Z
-    webUrl: "https://medcitynews.com/2020/11/deepmind-accurately-predicts-protein-structure-advancing-decades-old-challenge/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 35
-    images:
-      - url: "https://medcitynews.com/uploads/2020/11/Screenshot-88-e1606788953336.png"
-        width: 819
-        height: 495
-        isCached: true
-  - title: "Google’s DeepMind solves the ‘protein folding problem,’ one of biology’s biggest challenges"
-    excerpt: "Alphabet Inc.’s artificial intelligence research lab DeepMind Technologies said today it has solved a 50-year-old “grand challenge” in biology by creating software that can predict the atomic structure that proteins will fold into in a matter of days."
-    publishedDateTime: 2020-12-01T01:24:00Z
-    webUrl: "https://siliconangle.com/2020/11/30/googles-deepmind-solves-protein-folding-problem-one-biologys-biggest-challenges/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/unnamed.gif"
-        width: 1280
-        height: 720
         isCached: true
   - title: "DeepMind's protein-folding breakthrough triggers fierce debate among skeptical scientists: 'Until they share their code, nobody in the field cares'"
     excerpt: "John Moult, chair of the academic competition which heralded DeepMind's breakthrough, defended the findings, telling Business Insider he had looked at the results 'very carefully'. Academics and researchers are debating claims by Google-owned AI firm DeepMind that it's solved one of the toughest problems in biology,"

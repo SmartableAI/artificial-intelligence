@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb.md",
-      "title": "Google widely criticized after parting ways with a leading voice in AI ethics – Jaweb",
-      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
+      "path": "_news/2020-12-06-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
+      "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
+      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in",
       "sourceUrl": null,
-      "webUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
-      "originalUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
+      "webUrl": "https://www.wktv.com/content/news/573302281.html",
+      "originalUrl": "https://www.wktv.com/content/news/573302281.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-widely-criticized-after-parting-ways-with-a-leading-voice.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg",
+          "width": 640,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp",
-      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp",
-      "publishedDateTime": "2020-12-04T19:37:00-08:00",
+      "ampWebUrl": "http://www.wktv.com/templates/AMP?contentID=573302281",
+      "cdnAmpWebUrl": "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=573302281",
+      "publishedDateTime": "2020-12-05T09:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Elmoudjaweb",
-        "domain": "elmoudjaweb.com",
+        "name": "WKTV",
+        "domain": "wktv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -352,7 +352,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {

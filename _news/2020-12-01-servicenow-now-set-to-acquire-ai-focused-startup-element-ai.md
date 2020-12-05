@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-foc
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 37
-  - title: "ServiceNow Acquires Element AI; Gains Artificial Intelligence for Workflow Automation"
-    excerpt: "ServiceNow acquires Element AI to meld artificial intelligence (AI) with automated workflows, the IT service management (ITSM) software company says."
-    publishedDateTime: 2020-12-01T02:25:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/servicenow-buys-element-ai/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 25
 
 secured: "xj1b80bjL08LjPGc3PGDAiAET4eqo87HblV4uuzq/GSVK1JvXkMLqry3p0wRzmQY6tmkefc6nsZyCvl04r7QhRFBW809XVjOFUTzuIM6CQTSjexiVT12jjFZ0qomhkD7Qhi9uz7pD64C39gQhKz/lQ4R/gztFvQp6pL6mmJ9O/Dud/RufZzhysjSaZtOzJ/EXDneko5apXB4sf2Nglc2yVUAtpc1ZRPpcFuBTaKJFc2P+Zo1imksQlQJRIN3WPs/Q5bV+i+4/MeLQxakvb5Ro+ca4SxRBhsLD+LxfLbsqTR1Zfy56mtyqRI13zz6SxuoK20JnLO0VUIzOBrAoOCAJZO2ay/FGWNKJC1JXMVgVlM=;6Cltdn5noam/6VPNGaoPAw=="
 ---

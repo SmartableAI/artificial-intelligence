@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/luminar-elon-musk-austin-russell-l
 webUrl: "https://www.businessinsider.com/luminar-elon-musk-austin-russell-lidar-volvo-cars-2020-10"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Ford begins testing lidar sensors in self-driving truck pilot"
-    excerpt: "Ford Otosan will incorporate Velodyne's H800 lidar sensor into its autonomous truck program it will test and develop. Source: Velodyne Ford Otosan, the largest production center for Ford’s Europe division,"
-    publishedDateTime: 2020-12-03T13:44:00Z
-    webUrl: "https://insights.globalspec.com/article/15526/ford-begins-testing-lidar-sensors-in-self-driving-truck-pilot"
+  - title: "Elon Musk reveals Tesla's plan to be at the forefront of a self-driving car revolution – and why he wants to be buried on Mars"
+    excerpt: "Tesla CEO Elon Musk sat down with Axel Springer CEO Mathias Döpfner for an interview during his visit to Germany."
+    publishedDateTime: 2020-12-05T18:00:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5fca3ba6b6a3a800199b68d0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "tu354vmcnhKYdY6+82tcsWGWGrNAbzW/dBEFZ/TTKJuMKG30vZGXHPFsZjR+gD5KpdkRZVANUF57yUz0tjj7lJvsZnQGv02TekgG2HPKqa0F56qNQ0855P6QdaX3rE4kRdVbGRMlvy4z3M8Qj22TukJosAaldcEqxJcF2swvrKw1LQMeJ1CMLM7UaQLQJj90z2vcLPLXPVlIGpwMhd0JCu5954N/LyOd6Rqq/6HDtToDUQ+2rkQQiaousDpy7ITqatSuKY2Rg7/nsMd73ZSgZu6FgZh9y8aydgmqy+8BZvRtdLEgFhpwclXKGLMzBG4H1OFSbjTBcBeFu5YWqoeh1KspldewnNuhLWHzwsNmOmV25jGxM9sv7Da47iFm5Syy0gQC/3bLsnKLqxVdVWA0H07nPudGwIgyv4UW5VEnnfg00osFvtljVqaqmAXR7HIRFXAdttB9fYqWFrtaqqSRAOTqXzboIAJc/8tvGaMzlxMJ9263/50ctQ1TucpQ9OnswFJUSfDFq8BJzmBIdvU5zg==;hHMpZPN8c5aPSHszeD5cWA=="
 ---

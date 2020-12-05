@@ -3,10 +3,10 @@ category: news
 title: "Data streaming: More bandwidth is needed before self-driving cars can fully function with autonomy"
 excerpt: "The variety of computing platforms and data make it difficult to fully integrate an autonomous car system in which all vehicles communicate with each other, expert says."
 publishedDateTime: 2020-12-04T16:45:00Z
-originalUrl: "https://www.techrepublic.com/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
-webUrl: "https://www.techrepublic.com/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
 type: article
 quality: 60
 heat: -1
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "thAucgIk4lur6YpIOtWSf6Vc3Xhfswl8IPkQTP3iupRoWIYZSM9JH7yUcHrGsMOJvwdG2OQ/qvBCktL1ZRUosrb5AqH7tPnuHs6RN6fLleOjJywVm8tjEcVd50rWXBmxfCUoUQzzEyz23HcbcRJKTHM7Maf0pZ7rbHX9TSqJMDE2I50ZQTfWnjPUjmCb1ExewGzFDiz6QY3i6vRhoecVsejwchOFBkRgWuucW1zZt02MW/R8UsSerAq3EEMag9+WgtLQreOWikiQzkY6yNtKnP6ql/zs0sNut25UAXyIiFbf2Podo6zCpeFfY9tVrDafcq0ZkGmQb8KsZ4RR3Ckc0tLTPkzkTR9txcEb44o5s43r0zR+tjaD4MX3Z7QE1uc+r4ePz78PmqhIha+Knymet78VHwOPH0qXbPuAaGMnXhw0eTT8I7upa54mq/Oauf7goEs/jPItiyBXpitrL2qtiddg74Gd7YOccjLCl2/secPCIMepdiMmjoHBLjngaPIDc0hpGkUoaGtZbj4oc4ZUkA==;r57cp/DHCVqC8y1KnxsFPQ=="
+secured: "V8L8TxwgMVfLwIE6tuSgDzdIZcP8C87qKAn4i5i9DzCq/VP4PBzHXog+lePBdXWFmbPgqYjyBGDZSGOQnyjXauEPFXxyXmxmHr97OYPtTXYIixkoOhh6cwIEv633aVX3c8XTJT33khWP9iDvmildSoUvnqCnPKuwqJNPC5l4oJLAvudDThBM+R8vlYLgAxNHtTLyc1aOnLr0q43FxmqEUImsZPtJINX+MmdYUOoJ/EsXs427IK3UwPzntbT2fw9nw4Vvdev0iKWlq4aQ8topeR33a7pVFL4IC/tZT3CM7wMlfasyXbtEx8LjFP7snAIYU67tp+P9a8PetxqECJpBvK1dVjwba6xIW3GOmHA/o4w=;wgGEJc89uaUJ6bD4luoHuA=="
 ---
 

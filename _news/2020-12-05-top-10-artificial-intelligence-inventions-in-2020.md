@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI Chip Announcements Of 2020"
-    excerpt: "We talked about the rising demand of AI-based systems on Chips and the year 2020 is no different -- the trend continued."
-    publishedDateTime: 2020-12-03T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-chips-2020/"
+  - title: "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021"
+    excerpt: "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race."
+    publishedDateTime: 2020-12-05T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/ai-chips.jpg"
-        width: 1600
-        height: 1200
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcb9d7e99411771234c0196%2F0x0.jpg%3FcropX1%3D1189%26cropX2%3D6735%26cropY1%3D0%26cropY2%3D4500"
+        width: 1200
+        height: 974
         isCached: true
-  - title: "Top AI-based Initiatives Of 2020 By NITI Aayog"
-    excerpt: "NITI Aayog has taken several AI-related initiatives with an aim to ensure that the growth in this field is responsible and inclusive"
-    publishedDateTime: 2020-12-01T09:36:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-based-initiatives-of-2020-by-niti-aayog/"
+  - title: "AI study set to boost autonomous vehicles and cybersecurity"
+    excerpt: "A Lancaster University researcher is set to conduct Artificial Intelligence (AI) research to revolutionise its use in autonomous vehicles and cybersecurity after securing a £20m cash boost."
+    publishedDateTime: 2020-12-02T04:32:00Z
+    webUrl: "https://www.insidermedia.com/news/north-west/ai-study-set-to-boost-autonomous-vehicles-and-cybersecurity"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Insider
+      domain: insidermedia.com
     quality: 39
     images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NITI-Aayog-Banner.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.insidermedia.com/uploads/event/logos/logo_export_agenda_2021.jpg"
+        width: 400
+        height: 283
         isCached: true
 
 secured: "ybgypCOf3B8g9CNRy2MQQ6JBVfHaORYQ3b1rdDOIhnnCgV3EHNK/5nCLKP/zjCXD9NPQvYnx2F+ooLynRthpewCvQ5Y4B/iog5dAjLDzSHJqZgqQgMjOaIypb2ZjurV/ODd9gK/Z5bXLH0tGt/L0ZmqTxEKU/+OM63cK9wZ56Eky7UQ8ogtL8mxp9k3o4E9Y4d5nQmCNQ4uUyAyZh41g6H6rLuAmtRY0i2ZQKGwGJ+BhZEMzVVajtiVq/0Z/OwrB56uwvawkcgIvj6LSrRRdbY4JXx9F3RM51USsESveoX5a5gif+vB2lULxSFfN5m/IZ9Sw6X8mBQcQR+9UswM97MrdxRiVksZXyIb11n9Xx8+kxJZNewtS7KFcZ0lx9NNPVRwj2cu4ZJPxe8kIzPifytAhYzltMFXZIGMWwkwx5mxrBm4IFPXWNBlO0gpGw1rf9lNxVfyN099P2wmcznMD27sAjw9wMYwx0PSr86XhUHxLPb+50ySdgVYc8vQIN32PjUOgl+1pqhaQG92iQ4KkYQ==;k789zNuKScolEOzA/hocjA=="
