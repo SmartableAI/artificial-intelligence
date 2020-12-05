@@ -61,7 +61,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CrowdStrike Expands Routes to Market for CrowdStrike Services with AWS Marketplace"
+    excerpt: "AWS re: Invent-- CrowdStrike, a leader in cloud-delivered endpoint and cloud workload protection, today announced that it is participating in the launch of Professional Services in AWS Marketplace. As a participant in the launch of the professional services available in AWS Marketplace,"
+    publishedDateTime: 2020-12-03T18:38:00Z
+    webUrl: "https://www.nasdaq.com/press-release/crowdstrike-expands-routes-to-market-for-crowdstrike-services-with-aws-marketplace"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
 
-secured: "dp/KJQKkqi3DPlFdefdoMTldkB8ujEfgh4QQb4OwxJJpaiOUEhXLnBz4QInVWGDbE2jTsmopBylHh7uD+ZyYExGq5qmMMadvQ2wDq+79IeJKXHyd9ReUf87JXduZCR3sNOdq6XTzWPpSVvbOczEvuCw4crd9rggL+2VZClJI54WKhwtDLi3qGuxSZsw2RTvZBweT+VU0qD2yS2x5jHFKk1OICoAU7XpUFwC9W7UHw6oyCXvTaSLj+UUveJsUPQoXEY/oU9+BWoudKR+KtZNlfPZA9dkT7Qn9rV5+TPXXDQbZmMmc+GlTi6AXvsQzaG9s9yKMdOE33tdd3wwpwQEH59TYfah6bJC+pN7gqe7JQgg=;NtdMhAOKV+hFujKzoMzf2A=="
+secured: "4GMOlSEpyb46aWaNlr8+Voj4MTtfwLzuix5XPbz6o72CbMvwVMKtQLMVt0VZFztiD7o1wN7ggGckTw58KXQABSsRTCWKlR4+uyVv2ZEemh10EeNK6A0No1bRlpQfHTxd8u0ttlJl20rmgxXotDNHseIuDbAi6UiK3ZWvQ6weKL5HqzY7O+mdDPVAatG+9sItUSYSPtjATgt3e2/4NRY+HBCkVlL0TpofiXqU/1S7VMTNvUyJicQxeR7yCrDEjF67XrgC5Kq7pqT5nvcQCSQkQWQcKQyI4xBV1wO+etZrhHkE7DZjwL04+CbUdfBInwVGn8VNtaMDIoKQ62us4E9b/wuIL9PVoSaXyzDuDle8Uow=;g8+1S8nSGmASy7hb2J9uew=="
 ---
 

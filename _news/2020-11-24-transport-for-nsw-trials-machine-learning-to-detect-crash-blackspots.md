@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
@@ -24,6 +25,6 @@ images:
     height: 836
     isCached: true
 
-secured: "9mlBdNdV5GGw3ttBArn6qXO7oLOsVJc3nKzXQmF5sXqG5u1HiBaRjaCaYtdmvoZfka3bDV4tIMZUhFfx6QNiraFl+33ptWq/INIX57gEP+3fnc20XnTIKelQ5/8kEOnhbI7LXk89XeASxsoNy0a0pFtjDGOIAzcWJR8gCcWdV9+FTLjISj+qVag5AgZlzfT8ubAr3FpYkbUt8Jcbh8FeR8SyAIxCncysAgCpb0k+kWK1vYGNlNEStmIA5qKxA5bxzm6HGa8WXSiyWhN/C1jfBV9nwTgPDve3tpNA5yULj9WzojWSL7CtOhsdI8118dDu7tGYBb+9UHjEUzwX7OIQZtAJKymjPCaL8P+v6vqG+Q0=;hcxiJmMBv15ExjNaYHbpIQ=="
+secured: "uWQW6H/EXSrCoSS+fEdUkuUWvtIAxeuYzSH7Tyk1N4iPbjl26SGeFVSNM/2YZZcPFkIuJ4EeRqUX3CX+iopUmsCXR/Z02/vcUeFXBPD8Uv9hoqEnPu4kd9HwYds0ZGP0x0pmvnPJ0jN76GKMuh58oObamjfVqxxiBo41CJ/a5PIxW7TPoONhWGAsSMix4EJ33UuZl5ppuV87cNBcjKa+c8SPbfAWQJsaQ7H6ryKqzcKpRBoAuFJL4upnDMSgeAa5mJ62dye95bu74+HVj4MAC6qGjhObl3jPSg8QHwmq7n2j3bRS5BMNOybHobC7W7jFhSajVLNeBmeUYW7/S8qv1z3LUjRpbC5jxA2LUQKrVPDhIimYLXbmjt7vplLc47XdoOIltGkKGT+rQOgzVqI8caTl/yz9Da9FvoOOTUq4Mgi2kZ9waiMBmcnpgdCF14aMbY8foiIt9CJ9JbCO3PttGTcdP9OTbx5PmiZTrnSiS5mEJMkG5/E94Mr+0KVv3iMjvle3TvjHuj/U17vnakQMLw==;nWQ1YdXGK1focZ7iqYvOrg=="
 ---
 

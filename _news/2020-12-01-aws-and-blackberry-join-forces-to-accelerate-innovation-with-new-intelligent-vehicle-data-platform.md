@@ -57,6 +57,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CrowdStrike Expands Routes to Market for CrowdStrike Services with AWS Marketplace"
+    excerpt: "AWS re: Invent-- CrowdStrike, a leader in cloud-delivered endpoint and cloud workload protection, today announced that it is participating in the launch of Professional Services in AWS Marketplace. As a participant in the launch of the professional services available in AWS Marketplace,"
+    publishedDateTime: 2020-12-03T18:38:00Z
+    webUrl: "https://www.nasdaq.com/press-release/crowdstrike-expands-routes-to-market-for-crowdstrike-services-with-aws-marketplace"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
   - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
     excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
     publishedDateTime: 2020-12-02T20:58:00Z

@@ -21,49 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "We Soon May Be Able to Tell Bears Apart by Using Facial Recognition Software"
-    excerpt: "Bear biologist, Melanie Clapham, who studies bears in Canada, said it can be hard for people to tell bears apart as they track them over the years because their appearances change drastically."
-    publishedDateTime: 2020-12-01T11:57:00Z
-    webUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426"
-    ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
+  - title: "Microsoft creates system that can tell if you’re BORED at work meetings using facial recognition – and even scores you"
+    excerpt: "A PATENT filed by Microsoft shows how the company hopes to create a system that can tell if employees are bored during work meetings, according to reports. The technology would reportedly allow"
+    publishedDateTime: 2020-12-01T14:26:00Z
+    webUrl: "https://www.thesun.ie/tech/6222162/microsoft-to-measure-bored-in-meetings/"
+    ampWebUrl: "https://www.thesun.ie/tech/6222162/microsoft-to-measure-bored-in-meetings/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/6222162/microsoft-to-measure-bored-in-meetings/amp/"
     type: article
     provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 56
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 52
     images:
-      - url: "https://www.insideedition.com/sites/default/files/images/2020-09/093020-bear-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Face recognition software making progress at recognizing masked faces"
-    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
-    publishedDateTime: 2020-12-03T06:46:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
-        width: 1000
-        height: 707
-        isCached: true
-  - title: "Leverage the Latest in Speech Recognition Software to Stay Competitive"
-    excerpt: "A new generation of technology lets you spend less time on reports and more time on what matters: your clients."
-    publishedDateTime: 2020-12-03T16:52:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/leverage-latest-speech-recognition-software-stay-competitive"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 39
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/Voice-Recognition.png"
-        width: 735
-        height: 389
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/12/MICROSOFT-BORED-AT-WORK-PATENT-COMP-JF.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "wzGq4sSAQKqpSFmEx1Vl3Hkw9SD4UYGL5C3yxiXbtmdSD/q3AW+VNbCRSlED/94VQ4KXtNZPOa4TZTQLEFozfyvHhbJAJYQR4TLJSyR6DpzKs7ln3x499SN4vTFYDKGf9Oyzy+GsxvtXdJ0eH1ngnWSetXiUevx2t8oTROKQbqRWhheIscA8LiTLIYFtDPDkd4SvB9wRmofHF4Z1UiNCSB6Yz/DD76cBjYBHsyRHNNV5MUTN+wXAlddSgEzyLkTu2icfT0w7ZixuKqGp7uH0oTimraCmMYexOmifWu4u3NyeYW0cmpOrs+dDYyqod+AyHGMzuyYb2lIoGIayAW7QRIwoZlaSvrhQA0J3/btbPFdOb7lVqMe5QEdjP4KZKUNswb5wgZjtsPVBA0aD/WTIdacpAellhaQvOvoO6f0D9yeE+UiAnxN5/dZo5n7Ok3HOzpNHm1Ya5NlIvF746KK8zo+4FEl0amFz8Vg/rty618MoeIoSbOU2y1mkEoeGdjNBItl9UQSJNT9qTQnsO5kN/w==;HlbMzHlig4PKscep5AsaCg=="

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-a-robot-is-now-making-jamba-smoothies-in-a-california-walmart-in-less-than-3-minutes.md",
+      "title": "A robot is now making Jamba smoothies in a California Walmart in less than 3 minutes",
+      "excerpt": "The contactless kiosk uses a robotic arm to retrieve the ingredients and make the smoothie. It's one of Blendid's five kiosks in California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
+      "originalUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc81645037cbd00186137a9?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-training-facial-recognition-on-some-new-furry-friends-bears.md",
+      "title": "Training facial recognition on some new furry friends: Bears",
+      "excerpt": "A few years ago the pair became mesmerized, like many of us, by an Alaskan webcam broadcasting brown bears from Katmai National Park. They also happened to be seeking a project to hone their",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/",
+      "originalUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/12/SCI-AI-BEARS-2-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/",
+      "publishedDateTime": "2020-12-05T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb.md",
       "title": "Google widely criticized after parting ways with a leading voice in AI ethics – Jaweb",
       "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -296,6 +391,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-improving-ophthalmologic-care-through-artificial-intelligence.md",
+      "title": "Improving ophthalmologic care through artificial intelligence",
+      "excerpt": "For some, hearing the words artificial intelligence, or AI, sparks imaginative scenes of robot overlords, self-driving cars, dystopian surveillance, chatbots, and machines replacing humans at work.",
+      "sourceUrl": null,
+      "webUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "originalUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://med.stanford.edu/content/dam/sm/ophthalmology/images/artificial_intelligence.jpeg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1083,162 +1231,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-watch-teslas-full-self-driving-beta-detect-and-avoid-a-deer-crossing-the-road-at-night.md",
-      "title": "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night",
-      "excerpt": "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/",
-      "originalUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-driving-beta-avoid-deer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/",
-      "publishedDateTime": "2020-12-03T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb.md",
-      "title": "Nvidia Offers The Ultimate AI Learning Tool With Jetson Nano 2GB",
-      "excerpt": "This Jetson platform is enabling not only a new generation of products, but also a new generation of AI engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc931ef64014f197dce3649%2F0x0.jpg",
-          "width": 623,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/",
-      "publishedDateTime": "2020-12-03T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-intel-partners-make-new-strides-in-loihi-neuromorphic-computing-chip-development.md",
-      "title": "Intel, partners make new strides in Loihi neuromorphic computing chip development",
-      "excerpt": "Intel has released new performance benchmarks for the Loihi neuromorphic computing processor, revealing improvements in power consumption and efficiency. During Intel's virtual Lab Day, on Thursday, the tech giant revealed Loihi chip improvements in voice command recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "originalUrl": "https://www.zdnet.com/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/14/edcf80c8-c990-4e81-ac5f-857081496c33/thumbnail/1200x675/9e64681166dfe8e68dcb155133391e78/new-life-for-obsolete-intel-macs-great-w-5f07072c5129505ee26e182d-1-jul-14-2020-13-38-39-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/",
-      "publishedDateTime": "2020-12-03T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

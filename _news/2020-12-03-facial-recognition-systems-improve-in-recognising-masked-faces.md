@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "'Coded Bias' unmasks racism in facial recognition algorithms"
-    excerpt: "The lively and fascinating documentary “Coded Bias” dives into how the conscious and unconscious biases that create systemic inequities in the world are finding their way into the digital space."
-    publishedDateTime: 2020-12-01T22:00:00Z
-    webUrl: "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html"
-    ampWebUrl: "https://madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html"
+  - title: "Training facial recognition on some new furry friends: Bears"
+    excerpt: "A few years ago the pair became mesmerized, like many of us, by an Alaskan webcam broadcasting brown bears from Katmai National Park. They also happened to be seeking a project to hone their"
+    publishedDateTime: 2020-12-05T13:17:00Z
+    webUrl: "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/"
+    ampWebUrl: "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 59
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/09/80966dc1-3820-51bd-8e12-b3a57f06c442/5fc6cb30ef627.image.png?resize=1024%2C768"
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/12/SCI-AI-BEARS-2-1.jpg?w=1024&h=683"
         width: 1024
-        height: 768
+        height: 683
         isCached: true
   - title: "Facial recognition systems improve in recognising masked faces"
     excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study. The findings by the National Institute of Standards and Technology (NIST),"
@@ -52,6 +52,22 @@ related:
       - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "We Soon May Be Able to Tell Bears Apart by Using Facial Recognition Software"
+    excerpt: "Bear biologist, Melanie Clapham, who studies bears in Canada, said it can be hard for people to tell bears apart as they track them over the years because their appearances change drastically."
+    publishedDateTime: 2020-12-01T11:57:00Z
+    webUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426"
+    ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 56
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/images/2020-09/093020-bear-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "K//9eHhBDxc3/eziayDYukwdKv1nVMt0Tzne4zRxG7MbLx7tViZTg8OWFu1mwJeegFXfcxnpXF5p3romUmcjLvO2uPfbTrY1u1YYpIoJ8rRYz6L6A0ayfkdg0T6eCqZgPnWli+47aORKyZKt3USPa64q3zj7LDSLPbD0gABErzR7Evgo48pWwF0ypDI+g7AbG58ll6612AUy48trAaqC2hIlzjq3XzgsJSUyQDJXJ2VrRSB0GDn3J293zm+azmIxk6BMA8OU8/tlmNaH1AzusBgC/VMet2jOnmNztH077I6L+Eeh2nojjGibfo96KUlLIEgcG5kMFj5ZZLiAz9Y/6L/zphTFYD9yDO01BP83CQ4=;JI09mwvhJfZk7mQ5LCwQ+Q=="

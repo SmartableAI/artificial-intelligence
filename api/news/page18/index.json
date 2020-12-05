@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-19-chatbot-on-mobile-platform-market-is-booming-globally-with-top-key-players-googlemicrosoft-windowsxaiandychatbotduolingo.md",
+      "title": "Chatbot On Mobile Platform Market is booming Globally with Top key players: Google,Microsoft Windows,X.ai,Andychatbot,Duolingo",
+      "excerpt": "The Global Chatbot On Mobile Platform Market 2020 Research Report is a professional and in-depth study on the current state of Chatbot On Mobile Platform Market. The report provides a basic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
+      "originalUrl": "https://www.openpr.com/news/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb19586246_g.jpg",
+          "width": 577,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2190267/chatbot-on-mobile-platform-market-is-booming-globally-with-top",
+      "publishedDateTime": "2020-11-18T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-why-is-the-obscure-b-side-harness-your-hopes-pavements-top-song-on-spotify-its-complicated.md",
+      "title": "Why Is The Obscure B-Side “Harness Your Hopes” Pavement’s Top Song On Spotify? It’s Complicated.",
+      "excerpt": "He was with one of his daughters, stopping at a gluten-free bakery (“Very Portland,” Malkmus jokes) when the Pavement song “Harness Your Hopes” came on — a ... the streaming giant and their algorithms to the degree that Spotify’s legal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stereogum.com/2105993/pavement-harness-your-hopes-spotify/columns/sounding-board/",
+      "originalUrl": "https://www.stereogum.com/2105993/pavement-harness-your-hopes-spotify/columns/sounding-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.stereogum.com/uploads/2020/11/mike-campbell-sheva-kafai-1605807500.jpg",
+          "width": 620,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T21:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stereogum",
+        "domain": "stereogum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-deep-learning-global-markets.md",
+      "title": "Deep Learning: Global Markets",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T20:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version.md",
       "title": "Google TensorFlow ML framework gets an Apple M1-optimized version",
       "excerpt": "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ...",
@@ -1072,152 +1210,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-los-angeles-police-department-bans-the-use-of-third-party-facial-recognition-technology.md",
-      "title": "Los Angeles Police Department bans the use of third-party facial recognition technology",
-      "excerpt": "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "originalUrl": "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg",
-          "width": 1680,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "publishedDateTime": "2020-11-18T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-this-sushi-restaurants-secret-ingredient-is-ai.md",
-      "title": "This sushi restaurant's secret ingredient is AI",
-      "excerpt": "The next time you order sushi from your favorite Japanese restaurant, you might have artificial intelligence to thank in addition to the sushi chef. A popular Japanese conveyor belt sushi chain, Kura Sushi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "originalUrl": "https://www.cnet.com/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pJieP5G0Ks-HlaiuTfNXHWVZ2nI=/2020/11/18/d43123b2-0758-450b-a89d-992a32c13a3b/screen-shot-2020-11-18-at-10-53-13-am.jpg",
-          "width": 1052,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "publishedDateTime": "2020-11-18T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech.md",
-      "title": "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech",
-      "excerpt": "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/israel-emirates-regulato-int/israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech-idUSKBN27Y1QX",
-      "originalUrl": "https://www.reuters.com/article/israel-emirates-regulato-int/israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech-idUSKBN27Y1QX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX",
-      "publishedDateTime": "2020-11-18T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

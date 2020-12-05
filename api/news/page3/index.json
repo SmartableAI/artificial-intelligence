@@ -2,6 +2,240 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-03-facial-recognition-company-lied-to-school-district-about-its-racist-tech.md",
+      "title": "Facial Recognition Company Lied to School District About its Racist Tech",
+      "excerpt": "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
+      "originalUrl": "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fbd6ae4daaa2a009b1f3af6/lede/1606775605901-11302020racistfacialrecognitionsoftwarecv.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
+      "publishedDateTime": "2020-12-02T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
+      "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
+      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
+      "publishedDateTime": "2020-12-02T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
+      "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
+      "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
+      "publishedDateTime": "2020-12-02T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
+      "title": "Google AI is now piloting Loon's internet-beaming balloons",
+      "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "originalUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
+      "publishedDateTime": "2020-12-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
+      "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
+      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
+          "width": 619,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "publishedDateTime": "2020-12-02T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu.md",
       "title": "Intel Announces Gold Release Of OneAPI Toolkits And New Intel Server GPU",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper as a few weeks ago, Intel announced its gold release of the oneAPI toolkit and its first discrete graphics card for the data center, the Intel Server GPU.",
@@ -115,7 +349,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -412,50 +646,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
-      "title": "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp",
-      "publishedDateTime": "2020-12-02T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-artificial-intelligence-leaderships-friend-or-foe.md",
       "title": "Artificial Intelligence: Leadership’s Friend Or Foe?",
       "excerpt": "Leaders should not see artificial intelligence as a threat to organizational purpose, but rather a support for leaders to have the time and space to engage with aspects of their higher purpose.",
@@ -715,7 +905,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1058,185 +1248,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
-      "title": "Review: DataRobot aces automated machine learning",
-      "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/digital-twins_ai_robots_mirror-image_duo_pair_toy-robots-100760560-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
-      "publishedDateTime": "2020-12-02T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures.md",
-      "title": "No code platform Signzy tops up fund raise with additional $3 million from Vertex Ventures",
-      "excerpt": "No code AI platform Signzy announced today that it has raised an additional US$3M from Vertex Ventures, taking its latest round of fundraising to $8.4M in total.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
-      "originalUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-713.md",
-      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Expands By 71.3%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant increase in short interest during the month of November. As of November 15th, there was short interest totalling 16,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
-      "publishedDateTime": "2020-12-02T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-how-artificial-intelligence-can-aid-inventors-to-prevent-idea-theft.md",
-      "title": "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft",
-      "excerpt": "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
-      "originalUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
-      "publishedDateTime": "2020-12-02T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

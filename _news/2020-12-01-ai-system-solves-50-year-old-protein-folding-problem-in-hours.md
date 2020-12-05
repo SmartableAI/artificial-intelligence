@@ -122,36 +122,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "DeepMind AI handles protein folding, which humbled previous software"
-    excerpt: "DeepMind announced that it has seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
-    publishedDateTime: 2020-11-30T22:10:00Z
-    webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/ArgonneNationalLaboratory_Flickr_Bacillus_anthracis-CROPPED-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Google's Deepmind AI Cracks Protein Folding Simulation Decades Early"
-    excerpt: "Google’s DeepMind artificial intelligence project has made a startling leap in protein folding, a process in biology whose time- and resource-intensive physical solutions curren"
-    publishedDateTime: 2020-11-30T22:34:00Z
-    webUrl: "https://www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682"
-    ampWebUrl: "https://www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/05/deepmind-go-world-champion-challenge.png"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "DeepMind co-founder: Gaming inspired AI breakthrough"
     excerpt: "Gaming inspired Demis Hassabis, the co-founder of DeepMind, to use artificial intelligence for a recent scientific breakthrough. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century."
     publishedDateTime: 2020-12-02T13:26:00Z
@@ -199,22 +169,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2020/01/RTSRMD6-652x435.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "Alphabet’s DeepMind makes AI breakthrough with AlphaFold that could aid drug research"
-    excerpt: "Alphabet's DeepMind AI lab today announced that its AlphaFold system has made a \"major scientific advance\" in biology that could help the drug"
-    publishedDateTime: 2020-11-30T21:38:00Z
-    webUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/"
-    ampWebUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/11/30/deepmind-alphafold/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 67
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/11/deepmind-alphafold-cover.png"
-        width: 2400
-        height: 1350
         isCached: true
   - title: "Deepmind’s AlphaFold Program Demonstrates Value of AI Tools in Biology"
     excerpt: "Deepmind has just demonstrated that Artificial Intelligence is invaluable in understanding how life works and will play a key role in the"

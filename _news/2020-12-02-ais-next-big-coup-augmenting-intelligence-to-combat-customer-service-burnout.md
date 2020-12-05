@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 881
     isCached: true
-
-related:
-  - title: "Customization, automation and scalability in customer service: Integrating Genesys Cloud and AWS Contact Center Intelligence"
-    excerpt: "This is a guest post authored by Rebecca Owens and Julian Hernandez, who work at Genesys Cloud.&nbsp; Legacy technology limits organizations in their ability to offer excellent customer service to users. Organizations must design, establish, and implement their customer relationship strategies while"
-    publishedDateTime: 2020-11-30T21:34:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/customization-automation-and-scalability-in-customer-service-integrating-genesys-cloud-and-aws-contact-center-intelligence/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 62
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/23/Integrating-Genesys-Cloud-1.jpg"
-        width: 800
-        height: 404
-        isCached: true
 
 secured: "hatSkeVAYqmLpbpCXY92zfyGf3yKTw7IXqZhddLo6sy0C31U0o1UkwQRsBJ7h8zWvkn0b6KCw2+h717qG/5hRij6QPHFTMkuNgcDnIjgzN+G8UFw/AtQe2PDfMEWmNz4VXZK3lmc67XS1wk60dyhHELeIQt3MPd4ENOj90iSQHqCcU0ZDjv4JURs1bcbHcQKx23P9gsDMTfh7yzuu6vwvAsltz+f9ct8/5Fk+TCF/5rX7ZbJlULLoTwODmzhoFvNnAaqGs7bwMWYtiusvlMnAxE8SJ3BUCKOWC4V8Bu68SOmzKYNTvPJ1ljf43JuKE3jplqy+GYpLzw1NrzME3bFdcxrkPb5ozZXiv1N54bAtN0Cc2oArV8546rGMukwCkMT8E1NTs1yeAZExRugM1ozEA9TrGw0gm854e9rc28KsBiuKij+ZcaNwcezdx3uKvCJurIT7ktRhsU73QWKhT5OvsOHVqIsh0i2hmNINucmLcYf2AxfFFJxjC0t4iFgoEJHu79tLjXpT4kmEt3FIXV8jg==;6rKoc8ZFTL41OTkKFcqBuQ=="
 ---

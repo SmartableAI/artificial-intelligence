@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "TCS Launches New Version of DATOM(TM) to Help Accelerate Customers' Business Transformation on Azure Cloud"
-    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics Target Operating Model ( TCS DATOM™ ) consulting framework,"
-    publishedDateTime: 2020-11-30T21:25:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/11/30/tcs-launches-new-version-of-datom-tm-to-help-accelerate-customers-business"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 1
-
 secured: "j3bTLpzrqhXklRXX9bwpK/TJ727GxlMzRcuoZWYfd7P83Vd/fB6XtN/pucioCOUm6GcO7ROg76Yn3gbjGMS+p/+9JXIa5cHIzW2WPrVshBWhqtW5Ks7hM6j/RldSptEITDixx1FcWyQqJFazlDuPM3yOsS3teTmMGyajB9wMd2BakEGv34Wzt/ZqLbovJ6gf0xkteSrxU7iJ4Vkj39j7ZCyk3saOM2cEhbwmLzVfzKajQl0FfRLdWWYXJ4v3yby40vxWUIWPzY8q3UfuWx+fp9UeaY69cYMoMeq/ZsQb+1hkFhIEssmRs7FTK5GPbh9MJzL1BA/PYSQeT9nW6y1476oOQA6JKaTKyr1RP9chHow=;ztVFXAzMpHToDHCilOSQzQ=="
 ---
 

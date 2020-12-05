@@ -2,6 +2,93 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-20-as-festive-season-approaches-remember-these-cybersecurity-tips.md",
+      "title": "As festive season approaches, remember these cybersecurity tips",
+      "excerpt": "Next week is Black Friday and while it is expected to be rather muted compared to previous years, it is the day that has come to mark the start of the festive shopping season. As such, it’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/",
+      "originalUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2019/07/cyber-security-1805246.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/amp/",
+      "publishedDateTime": "2020-11-20T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions.md",
+      "title": "DLT Solutions Bolsters Hybrid Cloud, AI, Security and Other Software Offerings for the U.S. Public Sector with IBM Solutions",
+      "excerpt": "IBM Cloud Paks integrate the power of IBM Watson enabling clients to infuse AI into their systems to help automate complex processes, optimize employees' time and create more meaningful customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions-301177174.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/dlt-solutions-bolsters-hybrid-cloud-ai-security-and-other-software-offerings-for-the-us-public-sector-with-ibm-solutions-301177174.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/782060/DLT_Logo.jpg?p=facebook",
+          "width": 1267,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts.md",
       "title": "Artificial intelligence could be used to hack connected cars, drones warn security experts",
       "excerpt": "Cyberattacks on vulnerabilities in connected vehicles could have very real physical consequences if security isn't managed properly.",
@@ -483,58 +570,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
-      "title": "A neural network learns when it should not be trusted",
-      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
-      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1140,58 +1175,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-us-regulators-open-process-to-ensure-self-driving-car-safety.md",
-      "title": "U.S. regulators open process to ensure self-driving car safety",
-      "excerpt": "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
-      "originalUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM",
-      "publishedDateTime": "2020-11-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

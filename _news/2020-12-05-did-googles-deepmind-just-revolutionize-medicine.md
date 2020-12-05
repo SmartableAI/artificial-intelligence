@@ -111,36 +111,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "DeepMind AI handles protein folding, which humbled previous software"
-    excerpt: "DeepMind announced that it has seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
-    publishedDateTime: 2020-11-30T22:10:00Z
-    webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/ArgonneNationalLaboratory_Flickr_Bacillus_anthracis-CROPPED-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Google's Deepmind AI Cracks Protein Folding Simulation Decades Early"
-    excerpt: "Google’s DeepMind artificial intelligence project has made a startling leap in protein folding, a process in biology whose time- and resource-intensive physical solutions curren"
-    publishedDateTime: 2020-11-30T22:34:00Z
-    webUrl: "https://www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682"
-    ampWebUrl: "https://www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/05/deepmind-go-world-champion-challenge.png"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "DeepMind co-founder: Gaming inspired AI breakthrough"
     excerpt: "Gaming inspired Demis Hassabis, the co-founder of DeepMind, to use artificial intelligence for a recent scientific breakthrough. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century."
     publishedDateTime: 2020-12-02T13:26:00Z
@@ -188,22 +158,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2020/01/RTSRMD6-652x435.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "Alphabet’s DeepMind makes AI breakthrough with AlphaFold that could aid drug research"
-    excerpt: "Alphabet's DeepMind AI lab today announced that its AlphaFold system has made a \"major scientific advance\" in biology that could help the drug"
-    publishedDateTime: 2020-11-30T21:38:00Z
-    webUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/"
-    ampWebUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/11/30/deepmind-alphafold/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 67
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/11/deepmind-alphafold-cover.png"
-        width: 2400
-        height: 1350
         isCached: true
   - title: "AI system solves 50-year-old protein folding problem in hours"
     excerpt: "DeepMind has created an artificial intelligence system that can rapidly and accurately predict how proteins fold to get their 3D shapes."
@@ -350,6 +304,6 @@ related:
         height: 512
         isCached: true
 
-secured: "sv1vweSjpAxsk2ySuGwaMbNtABsm81w6SpIp/fnOod4+cTgNc88nT1cF2z8xivZqmx10Qfv5KEFRGUNf37Ys+ciUT/hTEFWo+cVErIxXsdm6+0Cpxpm/HZaS7Ott1OEcmXgYkPvoXtDaW0Vxa9FU8kbQggJw1G0+eugQ3tRMsky9R8Vz9heTaG4KBpt2RbPm7o3bSCu9DnvhOJ4MqQ0rRaIUZk649jtn/tjkBNdKZ/pRW/v5gw2sghxKAvIxvz+k++CqX/EHF1MCRkbM7phx6eMWJZUMRpnY5yqzypZGKxqNHstyBjYXCiGkk/8hr+7TCuUdL8MOrvnOnJui8jxV3Esi34P4wstr11esnEsvynQ=;SrR7P3EGVs50wf7XjU1Ekg=="
+secured: "S+xuDe0rCtUrbtYDVAw8PGa0/zccRj7mikfgdIwHfw3P3hSPxVeJQYpwRtklHpMGZQcYKv1Ahn/gjRBF3EZyH72laj2Lriug0BrS34kTuGGwvbUbqsJLkzZw7Q/Q7qNkVnsClMAh0BzSNK2x9JGRt+lcr47oJEQlDc/PZ43bDppU2ilfb3p26x8wBzAVOD0M+yeK8R06Hb8UknXEAwRDbEL2Fv4hUjVSURTlXdZF+mbvZlDSCzd3hpZNw7HONk1mAUu5rdlEmrpkNEfIEnFG4Un2cpPod790rPoGHjVoobG2TBNxn/T+QImvrSBRrx8YPFmzgJ4Dsz5bgK8p2Z2dfVmx0ye1R9E8NAaaWGIkOvpzVOoYiAVzvBGiJbNizmuR0L1kduuPDPJDwQ1wlb3YPmIPem3Ytjyp67pQqIY8nyNziM/fuITSo4cxdarPvVNsMrY58ADVnVPfVu50vX8FVsakrdWojYGdsWcjqc6MFwbeS9bV/qojZ0dWwrVCixnWbaSZVwY6qGuN0FbEMfy0Tg==;Nca0n6sUtMXMgKTM7UKbzQ=="
 ---
 

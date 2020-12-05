@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 430
         isCached: true
-  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
-    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-267539/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Intel Machine Programming Tool Detects Bugs in Code"
     excerpt: "Intel unveiled ControlFlag – a machine programming research system that can autonomously detect errors in code. Even in its infancy, this novel,"
     publishedDateTime: 2020-12-03T20:47:00Z

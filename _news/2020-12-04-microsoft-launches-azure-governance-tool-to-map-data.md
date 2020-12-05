@@ -160,20 +160,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "9 recent big tech partnerships in healthcare: Amazon, Google, Microsoft"
-    excerpt: "Here are nine recent partnerships between healthcare organizations and big tech companies including Amazon, Google and Microsoft. 1. The Colorado Department of Public Health and Environment on Oct. 25 launched its statewide COVID-19 exposure notification system in partnership with Google and Apple."
-    publishedDateTime: 2020-11-30T22:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/9-recent-big-tech-partnerships-in-healthcare-amazon-google-microsoft.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "JQgSjnz5FpdUQj8vgz+w6mtaroqPo+zQiqM5kq6xm5d5pRtElg8l3D1dIaKBBLUN9aNv0TpYcCgNTnRHrwCcfbQVSdIF0XfLmbQ2lfVG58oQHUyywivOIu6QSh92rECEE2meGga/mzhZEU4LhqhChiRiwnBlyj8ubNQAdFFWIVHUdnR4F6akAtEGFxsaFLyh/MN+soj4yS5Slm3h2ekhC8SR1w8aclifDdGP4IwO3Jd2VUvt8ZRWL5WffSg38XIO23VtQ1S52+oQAr6rEs/thXgXdHbRa7N+QLXWGvioDrnZtV1P3panf0H//ngmozoKhWKt0eHqDZhtR0ZM+sENC1rvGgqQUc1IYt/Stc/xCiajWgfOs0mc7yHKo6IxT0EsziiAeOs0+XWr/xt5SyuR2RS8BQGXDSjvkygxG/3loD1wPMMnVMNr27xTxo2Vg2uShRcBy62gon9gPg8ViTRFOBqk6w+76eCttV8SyV1P6fdAkyc5WvlV8JW7Q7sK58TPqvwdeUyp725jT3+dhA1cxA==;2f1IwW3MLiZjXqcWWWndOQ=="
 ---

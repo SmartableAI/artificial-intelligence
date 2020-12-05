@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-h
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email"
 type: article
 quality: 106
-heat: 376
+heat: 386
 published: true
 
 provider:
@@ -319,6 +319,20 @@ related:
       - url: "https://www.courant.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Google's co-head of Ethical AI firing triggers controversy"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
+    publishedDateTime: 2020-12-05T14:31:00Z
+    webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/44/944cc9e0-35fc-11eb-9807-9fa2013d419b/5fc9db821993b.image.png"
+        width: 280
+        height: 350
         isCached: true
   - title: "A Top Google AI Researcher Says She Was Fired Because of Email Over Racial Bias"
     excerpt: "Timnit Gebru is a prominent AI researcher who says she was fired by Google. It's sparked a firestorm of concern about racial bias in big tech."

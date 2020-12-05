@@ -24,21 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Africa faces hurdles: These 5 countries are leading the way"
-    excerpt: "Development and deployment of artificial intelligence in Africa is hampered by lack of connectivity and other issues, but Mauritius, South Africa, Seychelles, Rwanda and Senegal are making artificial intelligence a priority."
-    publishedDateTime: 2020-12-03T05:19:00Z
-    webUrl: "https://www.cio.com/article/3598736/ai-in-africa-faces-hurdles-these-5-countries-are-leading-the-way.html"
-    ampWebUrl: "https://www.cio.com/article/3598736/ai-in-africa-faces-hurdles-these-5-countries-are-leading-the-way.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3598736/ai-in-africa-faces-hurdles-these-5-countries-are-leading-the-way.amp.html"
+  - title: "How AI Can Help To Moderate Content"
+    excerpt: "Social Media companies such as Facebook, Twitter, Instagram, etc., have been using a combination of human content moderators and technology to try to limit the amount of harmful content."
+    publishedDateTime: 2020-12-01T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.techhive.com/images/article/2015/08/thinkstockphotos-478952698-100609777-large.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc671756a235b2d76b68eb0%2F0x0.jpg"
         width: 1200
-        height: 778
+        height: 801
+        isCached: true
+  - title: "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft"
+    excerpt: "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access."
+    publishedDateTime: 2020-12-02T10:40:00Z
+    webUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948"
+    ampWebUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
+        width: 1200
+        height: 803
+        isCached: true
+  - title: "Artificial Intelligence Can Help Leaders Make Better Decisions Faster"
+    excerpt: "Lots of exciting changes are on the horizon. While AI might not necessarily make the process easier, it’s going to significantly contribute towards"
+    publishedDateTime: 2020-12-01T01:39:00Z
+    webUrl: "https://www.linkedin.com/posts/ibrahimsherin_artificial-intelligence-can-help-leaders-activity-6443405486376124416-hwOR"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20180814143922-GettyImages-878401808.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "gscJh/EY03FIewXf9RLMr1Ui2dKSluBVf3U6IiZCUXyD7YMPKQiNOuMb7DyoPwXfoMoxgIxKkY6nGk6AUXhOA/tlyp5q4e4woMvwrriYYl4IA7++05oin1gVbdqyYBV7zoBt/6uzm5J6QzzWR6RQUqOBfgSuEzGrIpoqiFrKxzqhMTs1yc9b2Dx66ykMhSStkFYY1yXVp7e24dWj53xakR5HlSO9z3njStnrYhMigB6zTaLl1WA0fA7Uv93vt9c9lRjBXwiPmeUYKpr0q4VKO+PubwTOO5QRrlGVGBKeRqBVddRRkYfWSn5T0VfFfcL1B/wnUJx9dbvb6/UhIddPbNxCawDkqLtx5JOgOts/SEFI/5XtwUlyT8eLO8vtJT6IeDU8a/HwuJyQFF4/sizAySQp7nayOrfvN7H+W1KbuR1qGGYvVms1/EC+EOenT47gplH2dlxJwXs8iikqo0qAbVoWHLBlnjrNlU3Ysz8HBWS82NkbI8qva1W/Xpn+jYD2N5v/YeUIaM6/EpdHsta0cQ==;nVdUeCIU1SSOui9TRQDMvQ=="

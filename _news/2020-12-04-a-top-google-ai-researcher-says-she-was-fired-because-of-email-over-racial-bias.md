@@ -331,6 +331,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Google's co-head of Ethical AI firing triggers controversy"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
+    publishedDateTime: 2020-12-05T14:31:00Z
+    webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/44/944cc9e0-35fc-11eb-9807-9fa2013d419b/5fc9db821993b.image.png"
+        width: 280
+        height: 350
+        isCached: true
   - title: "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email"
     excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
     publishedDateTime: 2020-12-03T21:18:00Z

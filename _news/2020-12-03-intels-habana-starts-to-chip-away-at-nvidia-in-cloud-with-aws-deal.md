@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-publishedDateTime: 2020-12-02T20:16:00Z
-originalUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12"
-webUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12"
-ampWebUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12?amp"
+excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+publishedDateTime: 2020-12-02T19:28:00Z
+originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
 type: article
-quality: 86
-heat: -1
-published: false
+quality: 106
+heat: 166
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +24,12 @@ topics:
   - AWS AI
   - AI
   - AI Hardware
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal"
@@ -95,7 +101,23 @@ related:
         width: 437
         height: 267
         isCached: true
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "VSIcm+h9LSp23PkMuESygRk33XLXXtUFrja6jQSZ6i8dCeqMamYaqzakrB+XqKkSOOIEhr0zJyjz9j1xvTycnE9//RbyhvhZYAaE8RzEpkSaK0aztzlceXHZ50q455PCrA8uZeRj5mPMC3sxy5IbwEH8qx5dLPStacks03JXBOMa3+9jHHF4oqjY37RXGHIAWcuCJ1MfER6tfu0en8KXcaUqAXfnBzlmovwUMraw1Xc0YdKqcwMU6rPSn+QlbpPigbwbexMSHbcLvOAgI0bWGMWmKLqow63bDIu2dqb8g/otvNS87t7uo1ien7Vx1MXpISc/Zbqo1jhuDk/SD4mVGutS6X/FkVKT7qorY9GLwtw=;oD2oyoUdxzKxLrk+Nfzbrg=="
+secured: "rGxUH1b4gGbDCUDtUOZq9IKL1AUHydaa3QrTUUFaNCgeMbvZhvAYgNz2x729jbDm9LUwC+lxIOE07Z/p3EtVqf+yxmukiU2C4cxsLoCNpL0dJMs1S2jeazSMHXe7MMpdY58EM7UOvbm8j/sJ+kJnHMtyRKNEQfIIz4I67LWHcbiPG2hSxANFovgnGBdSCyx303qFTwAk++qC9s1PWVEyxpS66vd1iVPBu8gBrG4vvhQ5mEeKx5a8Tj6aykBpnAAVcxehj8Wxwg7ZWMHhBAciLO9ddTa85xE2UTN4Y8kGCamiQxE8EgPW3X7Am7gOnvU41EayLpeIjxzWID9+NV9HUHeEXnpNIqVirIPhQ4pI/Ws=;fcwtPdzKKRPRo1GDVPQ9Fg=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -82,6 +82,6 @@ related:
       domain: theglobeandmail.com
     quality: 13
 
-secured: "p7mpEClekBhu3hKhc4Th78v7eEIU/QVE6HbUg2leGVxpUdNlslk4DiAd4hsW6yrOZmtWgp49nw7Ybc2u/WX8Yik2n28Rpi9KuxTznpKN/SCMBzrOP2AnE4ZFzMV94QFNGCUKCT+Rqey6cS60q/zPBjCKurUUFhZCXxa757MjyZ2enRXqS6bb1EAz/dvOA5RFvRn3a2FYUOsgysf33Jotbx079aPT0vb+HbKtDli0M8vnur7vY6UFsHZU2ykN7D/VgBNbQ4RZVrucnSawW69KNfiiY0TsBCggGoL0U77u0N62MDQCz6R0jBc8kXFZAWpGfPBmpGkBlJRIpAYfXMor1LvtzfOQrlshtQcHrcCUHWV3JxmQGZCVKFBKVoPzl/xne5DgIvW54kEVq00hMZzFprrPEEL2CKh7SwxaH2LD+6WdCOBBJAGV/QIu0f+ARYS3WZ1EJ6JRNTszVz/6p1fzfx+vhUbyKWAQTGDnl8zH5zoP2m6DK+Z5NSbRZeBoQN/AABeyuhHkMwbnHQuqSeRSDA==;zWFV/o6EoH5/5p/ibNG3oQ=="
+secured: "TdgRAjI4XfSZtnoy4wiQWq4BMsxh+l4HacrEQw8jOTf3MWBmGjNY0SAsz/w9oMCrot3yTHaThWFfUGOile2zL7m13h56FfrxnrFRAwpgmFZ/kftCFei4C2xEHeyOdLpOArJOwXrrp7F6IRXrDT4wn0XmyKWtQATiEm92eQeZJUQYZRhYNmQW/2P2aJQ+dwRwdUrbIVXKwYphh/E3zWjfq5rSoGKcv5qSQz0Ny70wG7lgMkiKleq5lBTzDN1/Y9oASLUCHPUZharxA/EYa++7LWVrvlL8VHwwyV/aQVE2y6GayFgXL4PeWP1RB0EW8VssyaL+a1cnX3V95vBUPAY7j+vTwVth30E/kBsTK7IdtDU=;4KtWC4Nu4Clj58EHA9sXsA=="
 ---
 

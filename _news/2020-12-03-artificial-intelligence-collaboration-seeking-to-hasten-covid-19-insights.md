@@ -2,25 +2,26 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T14:23:00Z
-originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
-webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+publishedDateTime: 2020-12-03T05:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Purdue University
-  domain: purdue.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
-    width: 800
-    height: 400
+  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+    width: 720
+    height: 490
     isCached: true
 
 related:
@@ -39,6 +40,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
+    excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
+    publishedDateTime: 2020-12-05T14:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 77
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
     excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
@@ -70,20 +87,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
-    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"
-    publishedDateTime: 2020-11-30T21:27:00Z
-    webUrl: "https://scitechdaily.com/caltechs-ai-driven-covid-19-model-dramatically-outperforms-other-models/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 36
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Computer-Science-AI-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
     excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
     publishedDateTime: 2020-12-03T12:04:00Z
@@ -99,6 +102,6 @@ related:
         height: 372
         isCached: true
 
-secured: "cladtzVZo5Rylb8bK+lhg7i580ujrTd7EJLMyx9pVCydpuHCj0Djm7gQjE1fr30HCDhejz7A130lhHBF+VSP7ecvJEUYCual5l+aiU9ZtiSYmfxj2vSjOdW9fs2UTT0vLKPI4j3XrLzI5l+eafZY/rojmGPc3ieybMJEehIl1Nnc28c7HWoNixFDNFWBtT0D+HJCPZW46t02itELH3dQYaaENriov5CU/fr7vDJF0x5GLIX3FwPOLXSh0gIv1ANz/YEv+iPVYyfjNADsVrQVmGV/Hx5YBWojtITgsbxE3HNtQ9alGCqVdKfLEQA3dK69ZD0fpWDh2WYGMgNFWpvL9w0Yu+Nbh0foR9wqb2jaBzE=;XV4Jbn1IrodyccvjK/2GdA=="
+secured: "bYISIxwdPHTzf9QFTznNjri/+CHG0PyAOSovW6FBiG81ldahS8EI157t2MI01AkowyUeWei9s1uPDYLWdVGhf2uAq8l0uEO1ZXWNk5Auz15QpPegIZ3yHd9XDP1rRKlYEUa51yM6EULbyFeEe3t3x2c7pYUbpxBZ1zzHlfWegTrJCl0XQo0fFNkDzTD7ZCEcFiJBz/NQKPxc3NdYzkGIW42Er5baTNmoicPIuOC08vrHkYdSQSO1kVKmiSSusHFcb68ZpieDZhQ0vd8xfHU8UnLczCFXEkQ8cRK+1ZaBkU+vFZeTjuHO2M3vEesgLB8JiEdMm1nCKcgDk6VCxtGrR4wrIF28ot+a+BSsnuwJVFc=;HBQkI1JFvVD7o7gmsurz0w=="
 ---
 

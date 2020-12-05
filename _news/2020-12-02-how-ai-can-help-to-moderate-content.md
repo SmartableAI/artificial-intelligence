@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Forbes
@@ -31,51 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "How Mark Kelly used conversational AI to help win a Senate seat"
-    excerpt: "Mark Kelly's campaign has engaged with hundreds of thousands of constituents, replicating in-person conversations with AI chatbot exchanges."
-    publishedDateTime: 2020-11-30T21:40:00Z
-    webUrl: "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/"
-    ampWebUrl: "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/"
+  - title: "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft"
+    excerpt: "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access."
+    publishedDateTime: 2020-12-02T10:40:00Z
+    webUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948"
+    ampWebUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/MarkKelly_Senate.jpg?w=1200&strip=all"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
         width: 1200
-        height: 600
+        height: 803
         isCached: true
-  - title: "How Mark Kelly used conversational AI to help win a Senate seat – Jaweb"
-    excerpt: "Conversational artificial intelligence has rapidly smartened and scaled since chatbots first entered mainstream social media in 2016. The first few iterations of chatbots on Facebook Messenger were simple,"
-    publishedDateTime: 2020-11-30T23:25:00Z
-    webUrl: "https://elmoudjaweb.com/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat-jaweb/?amp"
+  - title: "Artificial Intelligence Can Help Leaders Make Better Decisions Faster"
+    excerpt: "Lots of exciting changes are on the horizon. While AI might not necessarily make the process easier, it’s going to significantly contribute towards"
+    publishedDateTime: 2020-12-01T01:39:00Z
+    webUrl: "https://www.linkedin.com/posts/ibrahimsherin_artificial-intelligence-can-help-leaders-activity-6443405486376124416-hwOR"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/How-Mark-Kelly-used-conversational-AI-to-help-win-a.png"
-        width: 1200
-        height: 600
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20180814143922-GettyImages-878401808.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Eight considerations for conversational AI in banking"
-    excerpt: "The growth of Fintech, changes in customer needs and behavior. Here is a list of 8 considerations for conversational AI in banking"
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-conversational-ai-in-banking/"
+  - title: "How AI is helping rural African farmers"
+    excerpt: "Over 22,000 farmers in Zambia are now using AgriPredict, an AI-backed mobile app to get instant information about plant diseases and weather patterns, that would before only have come from agriculture experts and meteorologists."
+    publishedDateTime: 2020-12-01T05:38:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/business-55138290"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0901z04.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "DKJWvpbAMyqnEMeUIUz9/DeLgAGHPfuzM0T4SRnwKCMT3E6ZfPw785FnfWckoFqKRNG+TxWYjvURFbAdSM7Bd/kOp6LGGHaiXACAxijLcas2HqSco7ZrH+rnC9YbEz+ZCgFptJzgMy5iX2g9JL7FZJGRRnwbUSPkeiNed0ShG8KZ6QDxONS0G7v3va9eYJv2J0OU/y5jGHCmsomMpsStu/awZ0OqrV2jh5RICt+SwjT3/CEHX7ossOAEISLK6an+kRGTzM9rBpTJmYU3GF1Xb+U5ymaIu7gLz/kT8VcAYypMzlPsm67ZQn1KJz2Px2RAYME+HaOalkoLdcLLQhaL49kvqIqoQBPpWXG/qStsBvWbMIy9CrXwDopQykvMN2tfVvNZqx+CreSqWGqffEG3q3FjohRBh/+UCrFasOlSRVXLNLBzl4qTmTxltGGKJCqfQhTBqGdIk+X/w3pm77dkCn0uVqoHH86BpTbnWvk2uUIYz9SypSsoK/5ckLKGd5wFh4woKoYxoSb5G2sAgoe8mQ==;4Gyjt9rU+V2z+Am1ymBdlA=="

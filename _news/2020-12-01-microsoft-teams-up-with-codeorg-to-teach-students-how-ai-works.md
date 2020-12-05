@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "9 recent big tech partnerships in healthcare: Amazon, Google, Microsoft"
-    excerpt: "Here are nine recent partnerships between healthcare organizations and big tech companies including Amazon, Google and Microsoft. 1. The Colorado Department of Public Health and Environment on Oct. 25 launched its statewide COVID-19 exposure notification system in partnership with Google and Apple."
-    publishedDateTime: 2020-11-30T22:12:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/9-recent-big-tech-partnerships-in-healthcare-amazon-google-microsoft.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Microsoft launches Azure governance tool to map data"
     excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."

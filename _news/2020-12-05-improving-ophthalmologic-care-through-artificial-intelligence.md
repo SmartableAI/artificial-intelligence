@@ -6,9 +6,9 @@ publishedDateTime: 2020-12-04T20:39:00Z
 originalUrl: "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html"
 webUrl: "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Stanford News
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "http://med.stanford.edu/content/dam/sm/ophthalmology/images/artificial_intelligence.jpeg"
@@ -28,6 +29,6 @@ images:
     height: 4032
     isCached: true
 
-secured: "LA0nidI+HwVWUbVKpV9WcMQh6RuWYASHRbrCw1aAJh76DrsMdvRt0M4NXxx49+dhQbPxnKlZNp+frcWyngHUPTLZh8O8i4EQNr8fiYjPaMlFbcXw+cyUi7/gkzxElq07d5knRmMNdeloUuNLAu1JFCtUtOoH4zRGtx7Zau73TRN2XxB1XCRtmPFtWPoq+gqBFd6/gHLP7QgetN0An8ea8BzDK6ZMcEblivxCpvcmOoqqSsPLgGrj7eyH2+xg87xoPxIerKJIO7cCDtlf2Ai29ZOw84sT81CwpsvCIAYzFtH9j9WuO5B4YU7zyHEqG8OEQVxI5r24Qzzul0vqCCtKtNuL+C6KkE0MGwKh0PgkqHo=;C8G5WIB4G/3fvAqdgJQ23g=="
+secured: "049fUkitPVISM4ODPt5ASwocofQFaTQAQzXszlK4dw1IBfJeo9R4AfF/eTU6YF8/CBSmtf8QBddQDEQEVANKCiBDWfDicfd+Zb7UaMtszyPOulR+WRxkSYtv7pgwMxDvCq/OX2BTLBLfdAR6/Ky9aCU3POPNkkIxTD2/kwXFCCj+D40DM0ykdM9/eVSzyOzN3JU19ZC8S+0Z8C4P3iYCidk00dQLKsIaRLMLtGoMoAhMzcCnztwDRkc4gkeNd5aAZRKlaFhBrYUwGMzx58Un5r06oIPTU61SyIIb+5jbc6LCsP2Jz5ElqqeuqygXorS9PgJd6RvgcZIlY6WmgsTKjH2UqeilWmpehwGUmsr174P9S1AL3VDl9WbSF1z3riwN6MtWqRnP4Cf8A6EXpmDy3R/RpQWUGFNtQQX0w7frn0JkR1pkH2tKT+PBymHg7eZzU2/11fOIF0l+64Dpqa3tGlGBeyiPMmuqtRWY0i1UrnE0CdCQ/PKqpDfJMzoTH/M7q//uxPJxVrHEF7dJnccc6w==;ZfiyQXz/JktJZkHVPGsIsA=="
 ---
 

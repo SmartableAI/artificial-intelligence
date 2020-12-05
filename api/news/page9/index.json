@@ -2,6 +2,103 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-27-global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025.md",
+      "title": "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025",
+      "excerpt": "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
+      "originalUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/3/T303620719_g.jpg",
+          "width": 687,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
+      "publishedDateTime": "2020-11-26T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-privacy-in-china-the-growth-of-facial-recognition-technology-in-the-private-sector-raises-concerns-about-security-and-identity.md",
+      "title": "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity",
+      "excerpt": "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/26/7c41750e-2eee-11eb-be20-200ca6256645_image_hires_183447.jpg?itok=rHFj5_nA&v=1606386899",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "publishedDateTime": "2020-11-26T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-the-10-coolest-ai-chip-startups-of-2020.md",
       "title": "The 10 Coolest AI Chip Startups Of 2020",
       "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
@@ -1066,101 +1163,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aisera-releases-ai-service-desk-for-microsoft-teams.md",
-      "title": "Aisera releases AI Service Desk for Microsoft Teams",
-      "excerpt": "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
-      "title": "SK Telecom designs own AI data centre chip for 5G applications",
-      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

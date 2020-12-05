@@ -1,0 +1,107 @@
+---
+category: news
+title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
+excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
+publishedDateTime: 2020-12-05T14:38:00Z
+originalUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html"
+webUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html"
+ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+type: article
+quality: 77
+heat: -1
+published: false
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
+    isCached: true
+
+related:
+  - title: "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls"
+    excerpt: "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns."
+    publishedDateTime: 2020-12-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
+    excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-12-01T17:00:57Z
+    webUrl: "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
+    excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
+    publishedDateTime: 2020-12-01T10:41:00Z
+    webUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability"
+    ampWebUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-09/8254EF84-240C-4E08-A875-407C5341B341.jpeg"
+        width: 640
+        height: 384
+        isCached: true
+  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
+    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+        width: 720
+        height: 490
+        isCached: true
+  - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
+    excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
+    publishedDateTime: 2020-12-03T12:04:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/12/03/covid-19-will-pass-but-artificial-intelligence-will-be-part-of-its-legacy/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 35
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/12/Big-Head-Article-202012021404.jpg"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "l95pNwSKv8M4aLjodi1VO764BNmLexadyEgvN/UDjJY5ptV00VUof0bwusXMC1gaHj6xJnahM+2ePu1e/LdblcadrRu6lUcayCPs8AljU15GLHLonR09lAZYFaYyZy8YplX08Rff4a/50ogVfcSoVHmwhRddKP0YUS7s0hQiNYxYiB3vdNRJYOYeEJSQUIGLSxrWpMc1E5Q8ccdgL3++Pd3PWdinU1mQMz15JJack64H7RDu4O35zBnSEJGXnCVptTs8xj25/PQxLcUYs+Ghhsl2hnxuYNRUrfS+zERrtel5kDq5D0ABPpyxcKFCv/acf1APigTWvhQiCRm9GNrgSm0uGU1IXEstuZStB7GE2T8=;+8ZSItPdlbSgqLnlG4Uw1g=="
+---
+

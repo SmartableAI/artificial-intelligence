@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
+      "title": "Review: DataRobot aces automated machine learning",
+      "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/digital-twins_ai_robots_mirror-image_duo_pair_toy-robots-100760560-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
+      "publishedDateTime": "2020-12-02T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures.md",
+      "title": "No code platform Signzy tops up fund raise with additional $3 million from Vertex Ventures",
+      "excerpt": "No code AI platform Signzy announced today that it has raised an additional US$3M from Vertex Ventures, taking its latest round of fundraising to $8.4M in total.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
+      "originalUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-713.md",
+      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Expands By 71.3%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant increase in short interest during the month of November. As of November 15th, there was short interest totalling 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
+      "publishedDateTime": "2020-12-02T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-facebook-agrees-to-acquire-crm-platform-kustomer.md",
       "title": "Facebook Agrees to Acquire CRM Platform Kustomer",
       "excerpt": "Facebook agreed to acquire customer-relationship-management platform Kustomer, which was named Adweek’s best customer experience platform in 2020. The Kustomer team—including co-founders Brad Birnbaum and Jeremy Suriel—will join Facebook,",
@@ -53,7 +190,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -446,8 +583,8 @@
       "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
       "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ",
-      "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ",
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
+      "originalUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
       "featuredContent": null,
       "highlight": null,
       "heat": 106,
@@ -799,49 +936,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-coded-bias-unmasks-racism-in-facial-recognition-algorithms.md",
-      "title": "'Coded Bias' unmasks racism in facial recognition algorithms",
-      "excerpt": "The lively and fascinating documentary “Coded Bias” dives into how the conscious and unconscious biases that create systemic inequities in the world are finding their way into the digital space.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html",
-      "originalUrl": "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/09/80966dc1-3820-51bd-8e12-b3a57f06c442/5fc6cb30ef627.image.png?resize=1024%2C768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html",
-      "publishedDateTime": "2020-12-01T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-scale-ai-hits-35b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza.md",
       "title": "Scale AI hits $3.5B valuation as its turns the AI boom into a venture bonanza",
       "excerpt": "Scale AI, the four-year-old data labeling startup, has discovered that selling the picks and shovels needed to develop and apply artificial intelligence is big business. The company, which created a visual data labeling platform that uses software and people to label image,",
@@ -1138,111 +1232,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving.md",
-      "title": "AI still struggles to recognize hateful memes, but it’s slowly improving",
-      "excerpt": "The preliminary results of Facebook's Hateful Memes Challenge suggest that multimodal tasks pose a challenge for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/ai-still-struggles-to-recognize-hateful-memes-but-its-slowly-improving/amp/",
-      "publishedDateTime": "2020-12-01T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down.md",
-      "title": "WaveOne aims to make video AI-native and turn streaming upside down",
-      "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024",
-          "width": 1024,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
-      "publishedDateTime": "2020-12-01T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

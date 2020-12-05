@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
+    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+    publishedDateTime: 2020-12-02T19:28:00Z
+    webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 106
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal"
     excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
     publishedDateTime: 2020-12-02T14:30:00Z
@@ -36,17 +52,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 86
-  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-    publishedDateTime: 2020-12-02T20:16:00Z
-    webUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 86
   - title: "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
     excerpt: "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
@@ -91,6 +96,22 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
         width: 437
         height: 267
+        isCached: true
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "yqoI8Y3YWUw93Q1t/p/L7XPTlNYyUm7inxGyPvqn+kDBQABBxquN9coPVpzChICuR0s0970+St4kzbJOcM+vVb6os/+BGpK02YZ0srgXGi3rH+hCwL3gWUu1iwcJwasPcM0YM0Iw/ntTxN29M0tSYi3i9GJqy1o5xVo9vSuBsuZtNmnvFXVbyg6qEFCyUrMZ0Xr+CcLO62TY/BtZKL0wyMOBLB02jhl06DVr52zq9per/a2mDeWavWiB7m5VUExtX9kIAjZTyR+QLEtX8OYctFkpoNOWlc6Tgsm7Ho7hwK1ycILC7xYmanO+KqouEYfj90izxm63x2YIRfQ408wr6HCAdgEVtkUoFchRHgfyeOLVDEZNgyksSiGMctYAPJ9AUnBJfXLEGI/ey6z+YutV7a2ImoxR1XXbN6oc8Lfw11Cvuam7cnBaVx9NWUW59OfkguH1hny9pIhNS91ZTGvL4SUHD8IyPw1tkub9HwdCHIei21CGJ0VembLQ4KddTUbIwQ1XFnYJj/4826uRNXEwtA==;S/HcGk05KFUD48pTbXbjhw=="

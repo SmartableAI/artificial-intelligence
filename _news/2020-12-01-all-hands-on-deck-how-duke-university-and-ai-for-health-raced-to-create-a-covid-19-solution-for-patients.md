@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
+    excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
+    publishedDateTime: 2020-12-05T14:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 77
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
     excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
     publishedDateTime: 2020-12-01T10:41:00Z
@@ -61,33 +77,19 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
-    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"
-    publishedDateTime: 2020-11-30T21:27:00Z
-    webUrl: "https://scitechdaily.com/caltechs-ai-driven-covid-19-model-dramatically-outperforms-other-models/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 36
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Computer-Science-AI-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T14:23:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
     type: article
     provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 36
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
     images:
-      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
-        width: 800
-        height: 400
+      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+        width: 720
+        height: 490
         isCached: true
   - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
     excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."

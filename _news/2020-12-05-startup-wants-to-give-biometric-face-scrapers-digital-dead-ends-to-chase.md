@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202012/startup-wants-to-give-biome
 webUrl: "https://www.biometricupdate.com/202012/startup-wants-to-give-biometric-face-scrapers-digital-dead-ends-to-chase"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1640
     height: 800
     isCached: true
-
-related:
-  - title: "Trueface computer vision wins for biometric travel innovation, public safety"
-    excerpt: "The National Institute of Standards and Technology (NIST) has announced Trueface, CalAster and several academic teams as Phase 1 winners in a computer vision challenge it is hosting in partnership"
-    publishedDateTime: 2020-11-30T21:08:00Z
-    webUrl: "https://www.biometricupdate.com/202011/trueface-computer-vision-wins-for-biometric-travel-innovation-public-safety"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "JhAtQU8kn+aHXGbqW7JOTQm4mpO8yDcUk+vuKO9Gjb9cFe1gZhAf+ZROjzx+9PC7OtsnsWxHMyRnpuObCL8rN0YnnHSlayb9bqSgjCPrD16kF+U/FTZEq7qT+gtWNblTElXqQM/s4MHm1BmvPA7/2Ja/g0E0A0e1MOgF58q9oQy5j+7KvNER9UwoEFactFEneObizn4bOMwJIWbqgx2zmn+aian9tasESu6xxEZbgp94E6emjWcmf49ojkjWucz/Yb0qmSPYtjx382AMG8r2b3D+Q27lo+/cEJ3CHQHN4U+Yz97++Z/6FVqW+5Cjy0hrHQOV13Gtyff1r1dFq0gMGAgFrySZvCPseyskI8/5+cDExXUQY3EDveDNaz02eaa/9LTVZoS0kpbFgcLAl5KdIxZ/PoHHRPo3rOb0mZxJbMFhfSOelv2tqzNDfptcC3CUEUYXY41TJ2NRdAgwY9hZW3S+d1mTNqyh6/9WwRvClLbi+76V0vvDgwOkuKQ9pPBkUPey2rLnQ7o0aiXtukepnQ==;qdMh0c1jlObd86jMDD19Og=="
 ---

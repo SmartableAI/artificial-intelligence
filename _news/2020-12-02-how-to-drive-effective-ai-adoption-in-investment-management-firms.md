@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft"
-    excerpt: "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access."
-    publishedDateTime: 2020-12-02T10:40:00Z
-    webUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948"
-    ampWebUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
+  - title: "The value of ethics in AI, from development to implementation"
+    excerpt: "AI experts explain why ethics and proper training matter as agencies consider developing autonomous applications."
+    publishedDateTime: 2020-12-04T21:37:00Z
+    webUrl: "https://www.fedscoop.com/value-ethics-ai-development-implementation/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
-        width: 1200
-        height: 803
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/12/Dell-Tech_AI_Header.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wenB8yEZDLSvkalba4QVp9KWJX3HeX9x0hHSjsk37OUcoatj8LZ/m9fJfRmPw+fdQFCH2IxBRexto0JSegE8R+IphbAEcXS3ch10YPdeNhITh/3pPg6hhu6I3fTTrsDFoM2U7+7mM1NF62sLxOwrXFpjnX9Puy8yzv6WM9YIPjbUkEtliPfWWMChsC65FGQQsLtNO2dvHJNaupz4VaFbg8yyVtaL+64D6CQBUl92gTIlpVgju2UpP8z1rZC0jjZz4iXdfGn2mTqqUBQhmSOSpWRSZrQI4gOJG138WmgBWDAvA33sznK77tyc7WTM5y4DxEIrdjZaP58iDdq4IgNmKMiN9JkEMlK5tKmDxaan48s=;WvIK4u3gbu+uqC+uYUlkMA=="
