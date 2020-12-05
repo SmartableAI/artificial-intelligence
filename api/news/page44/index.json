@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-11-02-amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech.md",
+      "title": "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech",
+      "excerpt": "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
+      "originalUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/AMD-RDNA-2-temp.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
+      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
+      "publishedDateTime": "2020-11-01T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Side Of Gaming",
+        "domain": "dsogaming.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
       "title": "Facebook research is developing AR glasses that help deaf people hear better",
       "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
@@ -1183,58 +1226,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-is-self-help-ai-the-new-trend.md",
-      "title": "Is Self-Help AI The New Trend?",
-      "excerpt": "With the use of artificial intelligence in healthcare taking off this year, companies creating AI-enabled tools to understand the mental health of individuals and their behaviors in group settings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c629e5300785f0acdf1f0%2F0x0.jpg%3FcropX1%3D442%26cropX2%3D7553%26cropY1%3D0%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/amp/",
-      "publishedDateTime": "2020-10-30T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

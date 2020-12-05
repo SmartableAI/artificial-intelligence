@@ -1,23 +1,27 @@
 ---
 category: news
 title: "7 Machine Learning Stocks for a Smarter Future"
-excerpt: "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new."
-publishedDateTime: 2020-12-01T11:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
-webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
-ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
+excerpt: "Stock Market News, Stock Advice & Trading Tips Machine learning stocks represent a promising long-term opportunity for"
+publishedDateTime: 2020-12-01T14:55:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
 quality: 71
 heat: 91
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - AI in Finance
   - AI
   - Machine Learning
 
@@ -48,6 +52,6 @@ related:
         height: 343
         isCached: true
 
-secured: "UPTicZJkPx4y3KkcW3bfki0Iu2G4ORGoWQtjfU4s2dw578vAaFynCG6A7eqiH9N1ctSeZ9ThAJ6qBf4wVW6matm1bX94GtvITDNVNBBnF+78vYKBTUT78AcmAxP8Hkde/5yEsbV6Ow9c5xHp1Zogz5rFr3AsaljBCxj8Z9T530QZlMtK4eu4AHbwLxa7UZha5BNfKSE1eVodKh04aZjdZXeTXQo8DgjmwCrKFWz79WrKn6pYMXhJBR8Gt6EG2FfatJVYTh8xoCQ1RZMW5FskX2+2zmMF4r1te8y67wZmyAFuEEErBmvKqK1pBmsTbLdIh6il/ez7xgNtwK7agUNlvHWdMBSHpZDv+Vhole3RE2k=;/3uErEom4iipTaOgv/eeGQ=="
+secured: "ZMWw+qKlcPRD6fuCe2fgOMBSKYpeYi+Sh3YY6rFn1Ffz3tEUU36shDFK9UzfIZBzLQDM1Vj1vg9SvwUTxunG+ypQxmVvkDQiZST9dtALNjm8QxRuuwzE5Lyj4aXJl0HY6FrNHR9JRMiBgU9abjjWXRDI+UyZAcBG7aCAsrDCpiYkhbBXEgzwXQMI+3WCLun2GD9Zjv44lK2HmGRDS77LZFGlRUTo/QaCthb5Yu5lrUCyp768Y0jXWouVnSMp17j0qc/y7dbwQP/F0RPCmu4N+adeG0rJDN3HyMIUNsORH7zeJYjVhHh3U+ftf8FT5J9+8KottXvmY07wLlJwAATSYRalEbyFIwKUKToPnrP41ZfkaXnkYH+GLe9PqOeG15Hmw/hIrZZr1GSCP/c/YOEwHvF/5Tna3GqQrYMqc8vGBe+A5G4kJitJHhPVxAdj/QNpkM9pfz5B6R2ByWtHdNZIfhYrxqKfCmZeukki/ZyMuB1tvT/JNOB5zhDjqj6ofIwqW0v7L5M93WDPaJjZvgqpgw==;HqpOFRx0na/shZNvMVzG0Q=="
 ---
 

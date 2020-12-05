@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-th
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "NLP Trends in 2021: Top Natural Language Processing technologies to be used in 2021 for Artificial Intelligence and Machine Learning applications"
-    excerpt: "During 2020 we have seen tremendous growth in the use of Natural Language Processing (NLP) technologies for developing for AI applications. We have seen the release of GPAT-3, Microsoft Research’s Turing-NLG and other in 2020."
-    publishedDateTime: 2020-11-30T09:41:00Z
-    webUrl: "https://newstrackindia.com/newsdetails/2020/11/30/1-NLP-Trends-in-2021.html"
-    type: article
-    provider:
-      name: Newstrack India
-      domain: newstrackindia.com
-    quality: 51
-    images:
-      - url: "https://newstrackindia.com/static/d3/img/nti-logo.png"
-        width: 439
-        height: 243
-        isCached: true
 
 secured: "XEGu69rGdPPHwzy5FtakxMiEaeVEjWyucn4qlf1oe6VHmcFhe5gBt0tF+Az6fWJXpTwQCKAs/9jNmutIoXbsmSy/dAnit8H+ymSquLqJGgSiaek4lAna320nC3iLR7hBNGaTNqHJ6P6Qdq5e/6nJM3+pVBdkE1bbw6ZYS39lpePfLHWeq5bohQxV4pUYD+V5OZRz6D4TOH9uMX4Hd1Yo0W6mImTXpjmlL70m+VrCc+EO2UffHv9Tekaqq+GGozcunBR9RM1h390g3cJgYWE8piz+K/Ur4eu6SsTnARMvq6J661ZVzuEkeilpchpvm2FHdTGI17luad8G6rXDtZHXq96ENoSKe2v206Hs8JYYapDeEKsD+v71887HKS7aPHkzWBODj9j7Oo7i6wth51XJBL44mxrI1ZT5HAmGAmlB5Z9IxPutRMBJSB1b1gdCdxf+3EvJQt21QJ3PE/MRaEfy7HfU4Tb3MkGOtouhxp0IwZJUOP6E36LuD3QNJSMELFGxqkZdHxBx1hT5HBVFauIwrw==;of+f+IEi6VWg6AAMkylnxQ=="
 ---

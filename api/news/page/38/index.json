@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-11-06-why-i-just-purchased-shares-of-ai-cloud-observability-company-dynatrace.md",
+      "title": "Why I Just Purchased Shares of AI Cloud Observability Company Dynatrace",
+      "excerpt": "Technology projects to update operations -- especially in cloud computing -- can no longer be delayed, but rather are critical to the long-term health of many businesses. As a result, cloud observability software outfit Dynatrace (NYSE:DT) says its total addressable market has surged in the last 18 months from $20 billion a year to $32 billion a year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/46596513d52485d407d4f24e1d5e7db7.png",
+          "width": 720,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "publishedDateTime": "2020-11-05T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-when-a-tree-falls-on-top-of-a-self-driving-car.md",
       "title": "When A Tree Falls On Top Of A Self-Driving Car",
       "excerpt": "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there",
@@ -1149,40 +1200,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-pluralsight-inc-class-a-common-stock-ps.md",
-      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
-      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

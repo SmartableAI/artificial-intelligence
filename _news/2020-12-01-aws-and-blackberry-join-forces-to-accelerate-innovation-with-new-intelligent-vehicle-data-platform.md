@@ -29,34 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Boom Supersonic Goes All-In on AWS"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Boom Technology, Inc. (Boom Supersonic), a"
-    publishedDateTime: 2020-12-01T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/boom-supersonic-goes-all-in-on-aws-2020-12-01"
+  - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
+    excerpt: "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud."
+    publishedDateTime: 2020-12-02T09:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Siemens Smart Infrastructure Chooses AWS as Its Preferred Cloud Provider for SAP Environments"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Siemens Smart Infrastructure, a business of the Siemens AG"
-    publishedDateTime: 2020-12-03T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments-2020-12-03"
+  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
+    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to"
+    publishedDateTime: 2020-11-30T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-solution-available-in-aws-marketplace-301181279.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
+  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
+    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
+    publishedDateTime: 2020-12-01T06:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-artificial-intelligence-f9496c3330fa806d1d7d9df00988bc36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
+    excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
+    publishedDateTime: 2020-12-02T20:58:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 34
 
 secured: "0EbqePu12Drqdq6t+IHIDfkQvAA4EdexdeS2o8i2Y96TWs7WHLtae8NSJaMpN5uuuiXU1kT3rWfPop+MyUiqDwcpL1YtYs08QHOV+LQK853IirzobJArmLwtWi3OeJaCD52R4biY8y/EHMfRn8sKD9q3WeBtf1bhSlCw8E0SbiTnthGzRHyw5WXBq1wZ4GghqmZJk6NMAryYTvIV86HUQLYIqZeRyXfIk+7te/gASYo7BQF3/aviQ5Rcl5uV4dib8pYsvFabzJ2zSdeOYvCqmyFHA/WENHefovUYGMZI1MjpSqXgO3AXCauFR0uwijsK2E0rBMXQCgR6iFCt0YZVH2WZv367nbebYr8Q+1dy7fo=;OKidDZvTwHGtXqEwzSuEEA=="
 ---

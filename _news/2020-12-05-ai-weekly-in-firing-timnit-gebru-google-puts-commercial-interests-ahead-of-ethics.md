@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-goo
 ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
 type: article
-quality: 100
-heat: 130
+quality: 104
+heat: 144
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - Natural Language Processing
   - AI
   - AI Ethics
+  - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
@@ -80,7 +82,23 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
+    excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
+    publishedDateTime: 2020-12-04T22:20:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
+        width: 600
+        height: 360
+        isCached: true
 
-secured: "Uwy/IQk4Lp3JeWsjGV1CgV4ILbkY8ceP21MoirR7rV+DKi2qeC2rp7XtYO2s7YwHG/QvDihJhi1KVz9TEuF7mvF6vDKIbcrv/PrDjsukQ8VBMQvdvFHNTUYqH9jJIgP1GsFuvnj23Agt/Suj/xoofmBmSQZLOL+dveh08k/7hb2KnhwnzaL4iUhCHI4RaJxy5MDPv+KpCBEMg2pocs+n6inpiwcrLanyDDXxV9zu+kwJ+O6RWbMxnGRu9ViFx8T/+j1qJ4G3o9mjKKC6y1S4KK2FQtpCRlKfbgFTQIH+IySmQjUG2Jtmts72UEXbcm5qpnFWYrkNS9ZYXwAaq3j03dRhIQhiKXKkdepX7fws0qQ=;Th9/XDwFoupXYUxg+tdc+Q=="
+secured: "f6Zs4tmifiR1aQ1GArfrMI7fsTgC7q9lZQ6cwMjJ+jMQ6UeiYv0lw/w++U7T+ZKhq2Cl1KjJkWBZczFbp+71qf76SHSfXHfQA81MDQAfGSKTszHyCJ/0sST3QiwvkpicGlcdI4ofwSxGngI6jvzBT/IfzVljfaV545EBBv3KPwXZHcS9QPbhQixGk4SmPgpO/bJCYDw2YkQiSWRziXjg7zoQI6J/hdqfYhfRydlXKRYY+yTBRaP006P7zyIP/gdpU/smrcS+s07ZZX6x8SBylBH1LI5hmPmK4T0LVd7Pyg5zBOEcWhtAieE0YNMKufJKNBpRp304lFmf4s1Z020GOVD1e6qg9ojUVcYPolbISfJfMpx1q+rN0jtPrr3LB7bCHeEyRFNmoSHX91iSP/av+/gdCOkLVt8W70CwZwjTPPtdVgsbUEhDpgrJttjqX8ni9ougCVvqcqN9S2NzygCAFhSjkgjdgIhstA/jEXdLs9uF6qMHrltGMiPnELiqmVGqbRpQO/yYGeLEtk7J9TlNLQ==;aVHnM9Z0kR5zkfxbACIGHg=="
 ---
 

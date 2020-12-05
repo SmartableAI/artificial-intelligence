@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-s
 webUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-solution-available-in-aws-marketplace-301181279.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: PR Newswire
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
+    excerpt: "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud."
+    publishedDateTime: 2020-12-02T09:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
+    publishedDateTime: 2020-12-01T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Appian Connected Claims Solution Available in AWS Marketplace"
     excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
     publishedDateTime: 2020-12-01T06:46:00Z
@@ -38,20 +66,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-    excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism's cloud-first ..."
-    publishedDateTime: 2020-12-02T14:03:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51401797-blue-prism-intelligent-automation-now-available-in-aws-marketplace-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1346299/Blue_Prism_scaleatspeed_aws.jpg"
-        width: 400
-        height: 209
         isCached: true
   - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
     excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."

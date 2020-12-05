@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-11-13-global-computer-vision-in-the-healthcare-market-report.md",
+      "title": "Global Computer Vision In The Healthcare Market Report",
+      "excerpt": "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
+      "originalUrl": "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb13143184_g.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report",
+      "publishedDateTime": "2020-11-13T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-the-future-of-work-work-ethics-by-yudhanjaya-wijeratne.md",
       "title": "The Future of Work: ‘Work Ethics,’ by Yudhanjaya Wijeratne",
       "excerpt": "He had earned that rare and elusive acknowledgement, whispered behind his back: He’s a Creative. The Capital C.”",
@@ -1102,49 +1146,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
-      "title": "New Orleans Police Department using facial recognition despite years of denial",
-      "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",
-      "sourceUrl": null,
-      "webUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "originalUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "publishedDateTime": "2020-11-12T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lens",
-        "domain": "thelensnola.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

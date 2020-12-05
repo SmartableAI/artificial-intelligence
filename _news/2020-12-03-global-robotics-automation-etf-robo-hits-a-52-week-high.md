@@ -37,22 +37,6 @@ related:
         width: 450
         height: 323
         isCached: true
-  - title: "Janney Montgomery Scott LLC Acquires 957 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-    excerpt: "Janney Montgomery Scott LLC lifted its holdings in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) by 7.6% during the 3rd quarter, according to its most recent disclosure with the SEC."
-    publishedDateTime: 2020-11-30T10:30:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/11/30/janney-montgomery-scott-llc-acquires-957-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/11/30/janney-montgomery-scott-llc-acquires-957-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/11/30/janney-montgomery-scott-llc-acquires-957-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 68
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
-        width: 450
-        height: 323
-        isCached: true
 
 secured: "TOKJznqM5UuzPk1Oy0uIymmw2dP6jEqNhtfrM1yU7f72eMeB/D7Kg/vsDko8b3O38tefZODvbmV9T+Ez+XzCGxNUqxu43FLJQGq9Qc+Qh4LqkdbQ68vW+Auqg35I8tmKrfjUw0r1xatWc0uIoqv7Ziq4AYDOVlsnq/g6LZSKIvSQ7S1qjFbKIf4UMFoU6BLwiVWiIeq0tEy/EshUawGNBc+8DNdjKaBGHh3T92hEVxNITnmZBQDjWMe1j6/ceahSk3/LynXD3j3M119fleiCtVHbf4bsHCkTInDsiEpdVJpaivWykVvG2eebodf+/SefWRRn8dGtotRD3p3R47XeOlfhjK4VlAlVOKL78iMAz4w=;TIe6qo7VAzbqddI8v7UjCA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201130/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Scans Retinal Images to Predict Alzheimer’s Disease"
-    excerpt: "The machine learning model analyzes retinal images that have been correlated to the development of Alzheimer's disease."
-    publishedDateTime: 2020-12-01T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics"
     excerpt: "Neuroglee Therapeutics, which builds personalized evidence-based prescription digital therapeutics for neurodegenerative diseases,"
     publishedDateTime: 2020-12-03T10:30:00Z

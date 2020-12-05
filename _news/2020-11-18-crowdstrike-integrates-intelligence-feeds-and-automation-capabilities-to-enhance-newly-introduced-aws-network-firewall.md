@@ -1,20 +1,20 @@
 ---
 category: news
 title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-excerpt: "Capabilities for AWS Network Firewall ... s single lightweight-agent architecture leverages cloud-scale artificial intelligence (AI) and offers real-time protection and visibility across ..."
-publishedDateTime: 2020-11-18T13:04:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
-webUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
+excerpt: "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds."
+publishedDateTime: 2020-11-18T13:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance"
+webUrl: "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "jsZVzVxtCyOfambfEIxB9uR22H2uq31NRABlgNZ2Cqh9jMI32ZVmjgi9QpLhchGDFAb3DQihIbvFyp/hesK7kkMoCPNGUSpbeM+YpzFOvJw9LuvRZ6QW+ecDqjP9CXZGhPCNHUMOxifgwARhEfFcYuGS2JLBs0NVuMRtuS1213rrHZlWs6TJf141/Br7KpWW7i0LTCBr3EwaX4pwIqlyNcOxasS348gXZGWOOh/XNyozHMpUMO5gXISeq9uBBkfYlItDcM7agacgYoYVL6oE1Rvpbu0oLj4xNTxLur4X9aHm0vutd+Z+jMpjtstJzWjsNi/IxqqOId0g2UYSO3pr0x12H7YhAEk4AO3n4ZCqSBk=;zl3VFPfb5SdCaiMSdhuMfg=="
+secured: "34YRvu/3cAFWUz984JxPcrCLcpMCw3x+OBhan30S040GK46uHdcqFf/h/vTBqOtkT9737MWf9qXEepr7aCKn24XoAGVXXjQzySKSnhZbVYinAvDTvTGJD8dH9TBuHYAmb5TahXnR/IDTPqcMXXfEVcQab9BsIay8r0k/vPz/ySr4ziFui37ec8n4ccfeQCsK68Vi9BcVE9BkvDlX4qV5o+T5Ep1yErS73IkxxGMu9K8xlG+oag1W++Ck5FrYsnqT8HScHtftYy+faHVpHeEyQLhJJYOe+O4dRGwozMMjzTIlXX27L8no54wdOK4AQIC/UoPX+l/RZA/80Q4+Si+TsEC+EypYlazQLcQx4omkrfk=;Q1R/hPDp/ppTVkV6wLlUMg=="
 ---
 

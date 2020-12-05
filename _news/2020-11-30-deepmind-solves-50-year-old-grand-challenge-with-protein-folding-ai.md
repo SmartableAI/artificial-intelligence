@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html"
 type: article
 quality: 189
-heat: 489
+heat: 499
 published: true
 
 provider:
@@ -473,6 +473,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/unnamed.gif"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'This will change medicine': How DeepMind is answering one of biology's biggest questions"
+    excerpt: "Google's DeepMind unit released data showing that its artificial intelligence program AlphaFold can accurately and quickly predict the 3D structure of a protein—a development that addresses one of the longest-enduring challenges in the field of biology and could help researchers create more effective drugs."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://www.advisory.com/daily-briefing/2020/12/03/alphafold"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 30
+    images:
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/advisory_board_default_twitter.jpg?rev=07534bf35a2a4202846219f27f4f341a"
+        width: 360
+        height: 361
         isCached: true
 
 secured: "XOPGUO65QGl4e5iy7WNd4hS6KuJ39XhoIJJ45unnYNFUolkwxVbtVjnj/uMRCbPmoFGQx+ybkotprdMk5/oE3MSZ7ED4X4Cfcdqgx8tKSkYwRX0S9E/3jHsg0rtooQ/kLZpzknPLq/zboC+90+tGgNo3ieNmjNS1NlD7BggwqkgNOk1jlPGHJqgX3Orjy6Q7CctuNfdqlpO0birNBPQ0iadjQIWgplFI1JAuiHMCa7DZ83cowHrKbkbduDnlHw2fCgXl7rFjs0Ql1OAdUx2AhDigALo5Fs6yCjGBptBbqvonhmbIC2lDDcPS+e6llUyZujMsa96DAK6OId1qlVNv0QoPrQHoPQ2jDRcnFm7iW+906pjPgTZ+A1sXFzv1CRhfcQI4Y+r7aDjjFcO7QpPxIGe3dK4+Nqq/7z2KxELkbF9GvB1R82+6zCVvpjb+h4Eq/jsSkTnBlTbwOyeQllcXnM/palsQ16fzBlMuAZrnnsB0ng8SUb9RDkOcFR58gFniVIGLXIT54xMu+fzU0bbP08VDq5/Blenht+9BZlGmEYE=;sBrkv8d7aPY+VgRBjPP2Jw=="

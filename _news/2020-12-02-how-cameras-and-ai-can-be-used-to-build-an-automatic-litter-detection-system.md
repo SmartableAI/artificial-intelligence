@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A smarter business with Hybrid Cloud and AI"
+    excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
+    publishedDateTime: 2020-12-05T01:30:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
+        width: 620
+        height: 422
+        isCached: true
 
 secured: "BYHcUv9vRawVxqnDGrlFnkDlPt53L79TZD3kxzwyCVPhIljbqO0lEVpJInAkQQU1VhayZLidnlrdudqWpWrc3GKQWFdupERczNPczEYyUC9FoBxJKwcqK0EFSipdcGRoHmu5mlK1MuwRTmX+u8iuZA10JV5oSgG+6T07Qn9wM4xn5BR5x5OT7diBk26gAH1EgJKbzLCX3eO+u3iGoK/jNu7RCx7GxLIx+rwSzVNVUwVUH5uZM+vC5DfqjCj7KivAVkVE9dJ+Qr9GRSxFGgz5l7zEc7TqIuDwdq4c8IUQKaVmAEbfxtsAmMmxeR19tswAduKjDU+nhZQkFABqw0xIt6JFyxo7PItz+M9/f+Wz5uuayg3dz5fgNCOhviF3p3M1+dQozyT3YaFm/oFcwanNXXL8930dEvCos/WvZEcKj1jKfO/vcS3rGFjK7F1ofHc0h092v6UxpEbxSmZQ1EThS2L2ZsNkOPg9/fVQiGOw0WSoby3SmR/ubbv/voLZmfU5VwFvj8+cwBNiya3QC0khMQ==;H3GFVO4gXtsBRC0rFh/DnQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-rein
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -64,6 +64,22 @@ related:
       - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png"
         width: 580
         height: 551
+        isCached: true
+  - title: "Amazon unveils ‘Alexa for the enterprise,’ SQL database support at Re:Invent"
+    excerpt: "Well AWS made three announcements in that product section. AWS released Amazon Rekognition for image analysis inside apps. This can help users with facial recognition technology. Amazon Polly ..."
+    publishedDateTime: 2020-12-01T00:01:00Z
+    webUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909"
+    ampWebUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 41
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/12/AWS-AndyJassy3-620x250.png"
+        width: 620
+        height: 250
         isCached: true
   - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
     excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"

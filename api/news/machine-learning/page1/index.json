@@ -134,49 +134,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-03-a-machine-learning-solution-for-designing-materials-with-desired-optical-properties.md",
-      "title": "A machine learning solution for designing materials with desired optical properties",
-      "excerpt": "Understanding how matter interacts with light—its optical properties—is critical in a myriad of energy and biomedical technologies, such as targeted drug delivery, quantum dots, fuel combustion, and cracking of biomass.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.html",
-      "originalUrl": "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/3-amachinelear.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp",
-      "publishedDateTime": "2020-12-02T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning.md",
       "title": "Why Intel believes confidential computing will boost AI and machine learning",
       "excerpt": "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning.",
@@ -238,7 +195,7 @@
       "originalUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -540,7 +497,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -640,10 +597,10 @@
     {
       "path": "_news/2020-12-01-7-machine-learning-stocks-for-a-smarter-future.md",
       "title": "7 Machine Learning Stocks for a Smarter Future",
-      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Machine learning stocks represent a promising long-term opportunity for",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01",
-      "originalUrl": "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
       "featuredContent": null,
       "highlight": null,
       "heat": 91,
@@ -651,13 +608,66 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp",
-      "publishedDateTime": "2020-12-01T03:55:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "publishedDateTime": "2020-12-01T06:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-deep-learning-model-predicts-the-risk-of-developing-breast-cancer.md",
+      "title": "Deep Learning Model Predicts the Risk of Developing Breast Cancer",
+      "excerpt": "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
+      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430.jpg?v=11002122",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
+      "publishedDateTime": "2020-12-01T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -667,9 +677,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -723,49 +732,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-machine-learning-model-uses-retinal-scans-to-detect-alzheimers-disease.md",
-      "title": "Machine learning model uses retinal scans to detect Alzheimer’s disease",
-      "excerpt": "A form of artificial intelligence designed to interpret a combination of retinal images was able to successfully identify a group of patients who were known to have Alzheimer's disease, suggesting the approach could one day be used as a predictive tool,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f2%2fAlzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx",
-      "publishedDateTime": "2020-11-30T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1429,6 +1395,49 @@
       "provider": {
         "name": "Orlando Sentinel",
         "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted.md",
+      "title": "AI Neural Networks Are Now Smart Enough To Know When They Shouldn’t Be Trusted",
+      "excerpt": "The idea of all-knowing, uncontrollable artificial intelligence (AI) is scary, but if we’re lucky, it looks like AI might just be able to save us from itself. A team of computer scientists from Massachusetts Institute of Technology (MIT) say they have created AI neural networks that are able to determine whether they can be trusted,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
+      "originalUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/sophia_neural_networks.jpg&quality=70&width=808",
+          "width": 808,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
+      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
+      "publishedDateTime": "2020-11-25T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNILAD",
+        "domain": "unilad.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

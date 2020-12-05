@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Amazon unveils ‘Alexa for the enterprise,’ SQL database support at Re:Invent"
+    excerpt: "Well AWS made three announcements in that product section. AWS released Amazon Rekognition for image analysis inside apps. This can help users with facial recognition technology. Amazon Polly ..."
+    publishedDateTime: 2020-12-01T00:01:00Z
+    webUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909"
+    ampWebUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 41
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/12/AWS-AndyJassy3-620x250.png"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
     excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
     publishedDateTime: 2020-12-02T01:57:00Z

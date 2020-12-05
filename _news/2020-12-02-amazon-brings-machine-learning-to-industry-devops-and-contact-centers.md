@@ -73,6 +73,22 @@ related:
         width: 580
         height: 551
         isCached: true
+  - title: "Amazon unveils ‘Alexa for the enterprise,’ SQL database support at Re:Invent"
+    excerpt: "Well AWS made three announcements in that product section. AWS released Amazon Rekognition for image analysis inside apps. This can help users with facial recognition technology. Amazon Polly ..."
+    publishedDateTime: 2020-12-01T00:01:00Z
+    webUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909"
+    ampWebUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 41
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/12/AWS-AndyJassy3-620x250.png"
+        width: 620
+        height: 250
+        isCached: true
   - title: "AWS Announces Amazon DevOps Guru"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru, a fully-managed ope"
     publishedDateTime: 2020-12-03T11:34:00Z

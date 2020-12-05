@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-19-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
-      "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
-      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept, Transport for NSW ran a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "publishedDateTime": "2020-11-18T18:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
       "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
       "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
@@ -793,6 +749,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime.md",
+      "title": "e-Book: Machine learning will (eventually) help win the war against financial crime",
+      "excerpt": "This e-Book, from Compliance Week and Guidehouse Inc., explores how the adoption of machine learning in fighting financial crime will likely explode as technology solutions become more effective and efficient—driven by work-stream prioritization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
+      "originalUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/pictures/web/b/e/m/cybr21rrisk_7_hp_390x260_617137.png",
+          "width": 391,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Compliance Week",
+        "domain": "complianceweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep learning predicts woman's risk for breast cancer"
-    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
-    publishedDateTime: 2020-11-30T10:02:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "Deep Learning Model Predicts the Risk of Developing Breast Cancer"
     excerpt: "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer."
     publishedDateTime: 2020-12-01T09:06:00Z
@@ -96,6 +80,34 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Machine Learning Scans Retinal Images to Predict Alzheimer’s Disease"
+    excerpt: "The machine learning model analyzes retinal images that have been correlated to the development of Alzheimer's disease."
+    publishedDateTime: 2020-12-01T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "A Machine Learning Solution for Designing Materials with Desired Optical Properties"
+    excerpt: "Berkeley Lab scientists have developed a machine learning model that can be used for calculating optical properties of a known structure, and for designing a structure with desired optical properties."
+    publishedDateTime: 2020-12-02T15:08:00Z
+    webUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-for-designing-materials-with-desired-optical-properties/"
+    type: article
+    provider:
+      name: Lawrence Berkeley National Laboratory
+      domain: lbl.gov
+    quality: 33
+    images:
+      - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/11/1024px-Quantum_Dots_with_emission_maxima_PlasmaChem.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "7NLafmnaNqEMMmJUN1Wd3RUyfex8BHdV7zGoHthCoV7jp5/HvWOJdubkYG/8wVAac7y6i0Tptt6dP+umG5ci/T7+eK554EpyITxEaE3M2U7loIuovsfBa+VEQc8BGpau/z0bEwO4+KLe8VBzvFUfCN9sgFkPDiulyXgtlrZXPcwrHxifED5wkF49wfVMC97EGvao+LI2ncOU7MQSO7iPE+4faqoYxNUB5R+LV4eBwdlwPLls6zGoqCWvpxdEmqFwiSZP7JSNBCEjUa4V67/nx1zfke6BlaIM0ZaTeke2v2HsdzeumQckm+WfpQnQCs/xfiqsnYIyuZ3XQ78nXXFQvxEv33WyZL5+orYpASwP99U=;HQ2RSq7EnnEaAsVdZ/W/lg=="

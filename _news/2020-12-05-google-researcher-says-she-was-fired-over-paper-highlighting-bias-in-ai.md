@@ -2,25 +2,25 @@
 category: news
 title: "Google researcher says she was fired over paper highlighting bias in AI"
 excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
-publishedDateTime: 2020-12-04T23:27:00Z
-originalUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-webUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+publishedDateTime: 2020-12-04T21:26:00Z
+originalUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
     width: 1200
     height: 900
     isCached: true
@@ -201,6 +201,22 @@ related:
       - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
         width: 1000
         height: 652
+        isCached: true
+  - title: "Google AI ethicist says she was fired for an email, 1,400 Googlers sign letter supporting her"
+    excerpt: "Google's Ethical Artificial Intelligence team, said late Wednesday that she'd been abruptly fired from the search giant over an"
+    publishedDateTime: 2020-12-05T01:59:00Z
+    webUrl: "https://www.cnet.com/news/google-ai-ethicist-says-she-was-fired-for-an-email-1400-googlers-sign-letter-supporting-her/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-for-an-email-1400-googlers-sign-letter-supporting-her/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-for-an-email-1400-googlers-sign-letter-supporting-her/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 76
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/NRbhh9G4Y623_7Q5lbnFTCVARak=/1200x630/2020/12/03/14a3a964-d103-4c59-b0ad-0715ff21614d/gettyimages-1028811892.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "A leading AI ethics researcher says she’s been fired from Google"
     excerpt: "On December 2, the AI research community was shocked to learn that Timnit Gebru had been fired from her post at Google. Gebru, one of the leading voices in responsible AI research"
@@ -426,6 +442,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "2OJDgMYmSyc2ozFEe8AUF/kuHQVIJ47B0WNZRRGua2uH8sD5je0/qyb+HNwTZ0eDxX83WDI3+VUCv/y/WXmB8VB5qwMBnjilX3XqzBxdF4GnVlxBs6fe60HaEyjFDsO3qMO2Dm+NPaqKN0r8Rvw0XtGiCGF971t9mL+f/DzD2VhNAvBOeqiNgIWXQtU4RwmxUBENQcPEMbQWj/k/l8ZAebbuqmLIs7srFmAktqu5z3sHK1VSHeOlYca0slFDEzB2E6wJ/1Po+7JpdKpnFhiK5ZO+c3bKTwfRgg4CSrg6MDu227cGSGvZkTlOm611vIjguGNeot+hioFELUw9D2lCNd0FHd4dqDd2yjs28l4O79A=;BvkElH/VJzTkl4DQIKVHxA=="
+secured: "4qHPgbLCwQ9uX8lC/nziDuJfcZoEeT3ykw/amYg3pw0o8nCva/rOg4T6oZbI9B/d2vXlhAVKDRaFayAzxX+C3kEzP6qMoPausV8QG6+Stm0x/u4KeGif+VSMczLCrO1lU5mKwLHLrfK33PnIC6ZQ7lnDO/FcdcB4sGhWXamJGa1KMFLFrTXBvKEGvYoxgOGW/uWE2VWBNttqCdtCrWvHOyqD9hSSQQuwnc7EymZsNQAbZhvWHR8f3DSqPRMC/DI+RGs+Xhs5qta0KjUM9uAE64GHkDnrJ8INX+A/9yhpi+rHPj+flOp299WJq8LQQf0G1z9VtJG2BZ4GkxWqysT9hvVqxPNkwilGRT9KHilea30=;fv6OHC0I9/cVguRT6hDZJg=="
 ---
 

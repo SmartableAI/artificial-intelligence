@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/0/7/7/12077_ailaw_764006.jpg"

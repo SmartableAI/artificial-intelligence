@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: technologynetworks.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning predicts woman's risk for breast cancer"
-    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
-    publishedDateTime: 2020-11-30T10:02:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "Deep learning model identifies imaging biomarkers to predict breast cancer risk in women"
     excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
     publishedDateTime: 2020-11-30T13:07:00Z
@@ -97,6 +81,34 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Machine Learning Scans Retinal Images to Predict Alzheimer’s Disease"
+    excerpt: "The machine learning model analyzes retinal images that have been correlated to the development of Alzheimer's disease."
+    publishedDateTime: 2020-12-01T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "A Machine Learning Solution for Designing Materials with Desired Optical Properties"
+    excerpt: "Berkeley Lab scientists have developed a machine learning model that can be used for calculating optical properties of a known structure, and for designing a structure with desired optical properties."
+    publishedDateTime: 2020-12-02T15:08:00Z
+    webUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-for-designing-materials-with-desired-optical-properties/"
+    type: article
+    provider:
+      name: Lawrence Berkeley National Laboratory
+      domain: lbl.gov
+    quality: 33
+    images:
+      - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/11/1024px-Quantum_Dots_with_emission_maxima_PlasmaChem.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "4ERou8egcjXcSvHyr8Bn2AfY0vRv2yYqGbvO8bX9CAoL5my+QQkOgeOIQoOoxfHF+mVB+mgdPCpOknTjfBSaRxq0TWXxKtXmJtdORzER+gWFZRIPSNFgHMSHHbvKvM2q2NNQXaoQzgC64aaXAyIJzVAqk7CVcvCMoKgP1SlqvbufamxFPrGEnnGpLc2Izg/kQnyFsNG02Fh45AC1un1hSDW1cXYpYkLm5S4pkU+1QxmB4/AP5taUFYJvECOIp9N3igPx+bhLOx7V1SAdq13zNpS1wvR1hF0yHhWa2KGSzSABiXE2orqDklHL08zdyoGBQpcOEpDVkLo3JH4Et7Ag7JNtlO67/7SZhmjRNKW4VWw=;m8+O0JF6O672YtnH9QY7TA=="

@@ -25,33 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "A machine learning solution for designing materials with desired optical properties"
-    excerpt: "Understanding how matter interacts with light—its optical properties—is critical in a myriad of energy and biomedical technologies, such as targeted drug delivery, quantum dots, fuel combustion, and cracking of biomass."
-    publishedDateTime: 2020-12-02T17:25:00Z
-    webUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.html"
-    ampWebUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
+  - title: "Deep Learning Model Predicts the Risk of Developing Breast Cancer"
+    excerpt: "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer."
+    publishedDateTime: 2020-12-01T09:06:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 53
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/3-amachinelear.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430.jpg?v=11002122"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Medical Image Processing Deep Learning Market, 2030"
-    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
-    publishedDateTime: 2020-12-04T11:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
+  - title: "Deep learning model identifies imaging biomarkers to predict breast cancer risk in women"
+    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-11-30T13:07:00Z
+    webUrl: "https://www.news-medical.net/news/20201130/Deep-learning-model-identifies-imaging-biomarkers-to-predict-breast-cancer-risk-in-women.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201130/Deep-learning-model-identifies-imaging-biomarkers-to-predict-breast-cancer-risk-in-women.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/Deep-learning-model-identifies-imaging-biomarkers-to-predict-breast-cancer-risk-in-women.aspx"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2f91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Deep learning can predict breast cancer risk"
+    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patients risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-11-30T15:26:00Z
+    webUrl: "https://www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
+    ampWebUrl: "https://www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
     quality: 39
+  - title: "Deep learning can predict breast cancer risk"
+    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T02:42:00Z
+    webUrl: "https://menafn.com/1101209786/Deep-learning-can-predict-breast-cancer-risk"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/30/I_21c1d344-1image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Deep Learning Predicts Woman’s Risk for Breast Cancer"
+    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient’s risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T06:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/cancer-health-diagnosis-and-treatment-diagnostic-imaging-breast-cancer-1c8047f0e9739c41f1bcbe79536a9870"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Machine Learning Scans Retinal Images to Predict Alzheimer’s Disease"
+    excerpt: "The machine learning model analyzes retinal images that have been correlated to the development of Alzheimer's disease."
+    publishedDateTime: 2020-12-01T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "2IwsPyIa3DKP6CScvf/KJOJj4M9yiyZqEx6ffjGNnaliWqkcn/ATmwz5QlZs5RwePlY4ioYxIDkj+ACuRuCw+BEB7WOuGj9IRBhHAP77iE6ajqJqDZJQGxWpBo0JOd6HDqWgZ8Y9pyrv8AwqC6QoYhS5QowBWbzORrTlNINKWy+ux2pVl3wuCPPysbN/peM1bTTjfuxnPtOZtBZAABQT8mcxyFh/D6CxtSibAmpSLKSjWLf/UYVdEbA6E97K2IZTjbDJSPsd4ZmFuVFnj2YOLvQ6836HjN1gpZ3VHOGkdObM+vBvKRPdvd4muUBoRZ1WGtv0KMIYP5/12BfQykk5O/4oHrA5BbiZq0tIxNovtQ0=;CZMAiAbS67cnfwxfc9oG3g=="
 ---

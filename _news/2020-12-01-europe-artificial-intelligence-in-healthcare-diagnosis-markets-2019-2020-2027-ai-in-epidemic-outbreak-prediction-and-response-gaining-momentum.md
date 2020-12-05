@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
-    excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
-    publishedDateTime: 2020-11-30T10:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-enabled-medical-imaging-solutions-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
     excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
     publishedDateTime: 2020-12-03T05:32:00Z

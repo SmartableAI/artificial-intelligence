@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud"
-    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics"
-    publishedDateTime: 2020-11-30T10:03:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=279013"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 3
   - title: "TCS Launches New Version of DATOM(TM) to Help Accelerate Customers' Business Transformation on Azure Cloud"
     excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics Target Operating Model ( TCS DATOM™ ) consulting framework,"
     publishedDateTime: 2020-11-30T21:25:00Z

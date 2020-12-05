@@ -3,8 +3,8 @@ category: news
 title: "Standard Chartered Bank launches learning hub in SG following SG$5m investment"
 excerpt: "The diSCover Lab will focus on future growth areas such as digital banking, international banking, cyber-information security, data solutions, analytics, cloud, and AI architect."
 publishedDateTime: 2020-12-04T04:32:00Z
-originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sgm-investment"
-webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sgm-investment"
+originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg$5m-investment"
+webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg$5m-investment"
 type: article
 quality: 17
 heat: 17
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Finance
 
-secured: "hZ3Ew0pQzQpRmkZhd2m3tX/IA8Z5+sWpWN+sv6jPpr7oU5L/VPJPQjjAnLtJMWEHsvBZBpfmbWFHmjx1eRGnj9WmuQhlpWjhvHReQ+6k+iBYiA0s/lGcNaFN4bJs6SMPqRIxsJPBNmx/qqi6umaw4C7ROFsyQxI/bJ3E5dJ9v8TqeJ+rgOt5VrRG23oOlBfDnfCy0KTTSjsCXq5Kky9VmK/GNYPv7z0+BMWKevkKcenlSB/wbYKa2SU/lChcF4csqVVrljJ6wtNuE8qKU3qC19eiKxy8T0/tcI7GDa36VAfX+yamgeC3xsP/swKGOH8cV6Oj1Vc1kEr3xM0rrXtfzWW94/Z0hABSSv8yGGvu3xY=;zkefctoY78WzCHm7B5KuwQ=="
+secured: "6pkMv6Hcv5tLMNV5noSjW+JRzvvvGQ0/XFqMTLnBwT4YRmwIj8nZB3qlXWXIUeeR2Jd7AIm6ieJ8YKk7zg6k5Qr5VPRn1ctlujXC5P5DEKM1cxlngwjKj4gfM/0ecB/gePkwFshWjBycC/GBkY65YpWwU1pgnH+UF2Z/Fyx+xpVvr/GGPhShCyC2Il4sJPwhOLRliTyjaxKPSE9JjmFSCaMHq0Ejv3XarM2p7AlRLkXWWQz4tZmWDUHMxYphpyYwJF/dj1RkoPk8m6y2Y4gF0W2Liml6EKpb5UVhUk785y60ldcxaC07PzyP6NlNO9SYLJysO/Q1fjl2Khn4ark78yS0f9Zx1o80iktpMM8Fx98=;+InEgrJj2djvtialjiCGdA=="
 ---
 

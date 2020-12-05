@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 100
+    quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
         width: 1024
@@ -75,7 +75,23 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
+    excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
+    publishedDateTime: 2020-12-04T22:20:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
+        width: 600
+        height: 360
+        isCached: true
 
-secured: "HUB8cHAdfTzaY4a/iVGRnBVxUftqrim/JUFqPEs5Wkp/N80CDHyzSwqIxHapEtXw5E2BuXwAEhHmpcDaDz4cuMCKDVbeHcwX2Nm8vu9OJtAl7zm8uzeeYFWUMwRZHuA9stoZXR8JQW2TYMHfazqNBAUPv9JBEY9fFDS3MZpfaUSkGQp5ryUUZ/5fAyhVvFyeCS/Zht27rxWHNb6qW9rfoif0dTsoodVbeyMVzZqTl2GS2T+Xb17a5rojSstp7LxKnRe3Nik7bQfkUjvoy67laM9DcNNWhnUEgb5aiSqZqrW8QggfyK58H4oT1zjsFH3irDLIa/5tcbVfquXmqmsqdRPzmPY79Tkuok1iWIIgZEc=;6pXlHlxegqDqaPXo5rqvUQ=="
+secured: "LeHbYQcUQoo0+tBdoiR+KXGxHdVpE2VDD5REpmXZvdjzhcutt6fUeiZeCkSfl/6uvaThV/Ofz6uu0EAad2nKToGFHvskc/l1GEkUZZE2zVHdjgmZ+mZw15e2zQxCmnTZdT1/pwIgZR0Zl9gtfk1AkKmdj6Jdq5vnnA+4gWqUnVweRuI8p0iV2iJt6SQdKp+chZ21ULOUny0puPJW4IbQ0fuXiPpU0p7DkUSw0WwSmbqjYYYpAPjCtE6D945TKkRY7bDVGand+MsvUbG8ZmwowAp3gvUbUeXzG58KxPwjtZ3evma+GoUplYRkXL1tRWR8UoklCQqIkhGdIpOH++wfwaQWWqmK0T/gcd3bL22OavFyNFasK7fTF9aVnZArr+GMpGh8iRbSeY/8vefOhqe822khTIs/2hyNhFcm5IxlAAg0SfDuK+EXOah7V8entq7AzifSDXPxCzIR9jI+opSnfhEm2ApdSIAt/ANjeXdZYnrhq6ksdAWSwok5vhmJXLHGtZcVgK5Ep59HL+2zidZuFw==;39rw3Eqwa0aYNiRzq/bQ1Q=="
 ---
 

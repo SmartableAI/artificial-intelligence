@@ -38,6 +38,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-7-machine-learning-stocks-for-a-smarter-future.md",
+      "title": "7 Machine Learning Stocks for a Smarter Future",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Machine learning stocks represent a promising long-term opportunity for",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "publishedDateTime": "2020-12-01T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-ten-workforce-skills-for-finance-employees-to-complement-ai.md",
       "title": "Ten Workforce Skills For Finance Employees To Complement AI",
       "excerpt": "After delivering a number of talks on embracing servant leadership as a CFO, audience members commented positively on how future workforce skills, such as servant leadership, would complement artificial intelligence (AI).",
@@ -1075,6 +1119,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime.md",
+      "title": "e-Book: Machine learning will (eventually) help win the war against financial crime",
+      "excerpt": "This e-Book, from Compliance Week and Guidehouse Inc., explores how the adoption of machine learning in fighting financial crime will likely explode as technology solutions become more effective and efficient—driven by work-stream prioritization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
+      "originalUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/pictures/web/b/e/m/cybr21rrisk_7_hp_390x260_617137.png",
+          "width": 391,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Compliance Week",
+        "domain": "complianceweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-lanistars-new-card-supports-personalized-security-a-first-in-fintech.md",
       "title": "Lanistar's New Card Supports Personalized Security, A First In Fintech",
       "excerpt": "Lanistar's core development mission is to provide first-time Generation Z and millennial bank card customers with the freedom and security they want in a bankcard but couldn't find with any Financial Services Provider.",
@@ -1276,92 +1364,6 @@
         "AWS AI",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-united-fintech-launches-to-transform-banks-fintechs-in-capital-markets.md",
-      "title": "United Fintech Launches to Transform Banks & Fintechs in Capital Markets",
-      "excerpt": "United Fintech, a ground-breaking new concept which enables banks and financial institutions to accelerate access to innovative digital technology from a wide range of fintechs specialising in capital markets,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-financial-technology-eeb99bab290f489cbc04886494cb2df9",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-financial-technology-eeb99bab290f489cbc04886494cb2df9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
-      "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
-      "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
-      "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg",
-          "width": 722,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
-      "publishedDateTime": "2020-11-12T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

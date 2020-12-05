@@ -470,6 +470,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'This will change medicine': How DeepMind is answering one of biology's biggest questions"
+    excerpt: "Google's DeepMind unit released data showing that its artificial intelligence program AlphaFold can accurately and quickly predict the 3D structure of a protein—a development that addresses one of the longest-enduring challenges in the field of biology and could help researchers create more effective drugs."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://www.advisory.com/daily-briefing/2020/12/03/alphafold"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 30
+    images:
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/advisory_board_default_twitter.jpg?rev=07534bf35a2a4202846219f27f4f341a"
+        width: 360
+        height: 361
+        isCached: true
 
 secured: "gSrOUJiI/+eNFo7wo9ozW47YiIJEEG+gTnSk880FwbLudaLavUI1gnHNqTGp5PVwdmJBIsBxbZOemuCjuWodxMwX0a7C0tG3zvLazg6qZ3PRPV7wbku91Lj5hL98DxAnhDTQVu4kwPg49MAs4tz3MNj7FvvwsFOZifx/jYgSDHH9l7VLinH//e94fXbb9hIEOc3xlKIz56ImMI/7Im1jD55AtDapA9dCOKRSQ6MXqQ6uyS+d/P7I3rUL0AirupM7AABmkTpkvuNXUaa47V6wd0dBxAZiQVOW8RPx6WsvJnBceWVJ5CrIWpFRP6b5dLdpQ7jPfXQ53sIcPjnaqi6cYMFhWXs+uBHusPp0MhS4w/U=;joDUDtcrpv0RfQvl0gI7TQ=="
 ---
