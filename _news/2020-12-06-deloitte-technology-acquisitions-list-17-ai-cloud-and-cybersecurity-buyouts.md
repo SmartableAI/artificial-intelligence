@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Top 10 Artificial Intelligence Inventions in 2020"
-excerpt: "The inventions in artificial intelligence, robotics, Internet of things, virtual and augmented reality, and big data are thriving the pace of invention in 2020. Despite the COVID 19 outbreak, they provide a promising outlook in the coming decade."
-publishedDateTime: 2020-12-05T08:45:00Z
-originalUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-inventions-in-2020/"
-webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-inventions-in-2020/"
+title: "Deloitte Technology Acquisitions List: 17 AI, Cloud and Cybersecurity Buyouts"
+excerpt: "Deloitte acquisitions list involving cloud, AI (artificial intelligence), cybersecurity, workforce digitalization and analytics companies."
+publishedDateTime: 2020-12-05T17:28:00Z
+originalUrl: "https://www.channele2e.com/investors/mergers-acquisitions/deloitte-technology-buyouts0list/"
+webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/deloitte-technology-buyouts0list/"
 type: article
-quality: 39
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Analytics Insight
-  domain: analyticsinsight.net
+  name: ChannelE2E
+  domain: channele2e.com
 
 topics:
-  - AI in Robotics
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-3.jpg"
-    width: 900
-    height: 500
-    isCached: true
 
 related:
   - title: "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021"
@@ -55,16 +49,21 @@ related:
         width: 400
         height: 283
         isCached: true
-  - title: "Deloitte Technology Acquisitions List: 17 AI, Cloud and Cybersecurity Buyouts"
-    excerpt: "Deloitte acquisitions list involving cloud, AI (artificial intelligence), cybersecurity, workforce digitalization and analytics companies."
-    publishedDateTime: 2020-12-05T17:28:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/deloitte-technology-buyouts0list/"
+  - title: "Top 10 Artificial Intelligence Inventions in 2020"
+    excerpt: "The inventions in artificial intelligence, robotics, Internet of things, virtual and augmented reality, and big data are thriving the pace of invention in 2020. Despite the COVID 19 outbreak, they provide a promising outlook in the coming decade."
+    publishedDateTime: 2020-12-05T08:45:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-inventions-in-2020/"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 16
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
-secured: "ybgypCOf3B8g9CNRy2MQQ6JBVfHaORYQ3b1rdDOIhnnCgV3EHNK/5nCLKP/zjCXD9NPQvYnx2F+ooLynRthpewCvQ5Y4B/iog5dAjLDzSHJqZgqQgMjOaIypb2ZjurV/ODd9gK/Z5bXLH0tGt/L0ZmqTxEKU/+OM63cK9wZ56Eky7UQ8ogtL8mxp9k3o4E9Y4d5nQmCNQ4uUyAyZh41g6H6rLuAmtRY0i2ZQKGwGJ+BhZEMzVVajtiVq/0Z/OwrB56uwvawkcgIvj6LSrRRdbY4JXx9F3RM51USsESveoX5a5gif+vB2lULxSFfN5m/IZ9Sw6X8mBQcQR+9UswM97MrdxRiVksZXyIb11n9Xx8+kxJZNewtS7KFcZ0lx9NNPVRwj2cu4ZJPxe8kIzPifytAhYzltMFXZIGMWwkwx5mxrBm4IFPXWNBlO0gpGw1rf9lNxVfyN099P2wmcznMD27sAjw9wMYwx0PSr86XhUHxLPb+50ySdgVYc8vQIN32PjUOgl+1pqhaQG92iQ4KkYQ==;k789zNuKScolEOzA/hocjA=="
+secured: "g+54q3/5gG3kpSALRzek/I0v46Cou2VHUWbhcU7IsGelaTBGRCMD5yMWDPrado1DweZSpzAJfWH4Xogd8UdfnMMg7OZyxOJM8PQNzV7ulMyt5f1WzhRt3xzL+Cv2DG/u4r9OrSZrY2er5+dUo8pewZyySjmwb3F/+f/31hQh27NeEIgHBE5Wya5hTODMO5k4N7MX/zlOes0BIvVHK9iCv6XQ8yMURiYPW5zO2ErSi5InRryuT/Xb+uchVyvU9P09aYEW1D1M/8VBXXn9jQ3ez1pkbF53w3eQrmAcQK5DHA1a6vuJfi3m4ds+xji1Ywf8AtLnZwauPFE6pqsOe/qOwY4wJfzprYbKL88EOrKJ4GI=;w/3Wkj3BJ6EL1FPor+f4VA=="
 ---
 

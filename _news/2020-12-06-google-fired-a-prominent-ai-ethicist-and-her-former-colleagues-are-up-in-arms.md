@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Renowned AI researcher says Google abruptly fired her, spurring industrywide criticism of the company"
-excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
-publishedDateTime: 2020-12-03T22:49:00Z
-originalUrl: "https://www.cnbc.com/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
-webUrl: "https://www.cnbc.com/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+title: "Google fired a prominent AI ethicist, and her former colleagues are up in arms"
+excerpt: "Google just can't help alienating large swaths of its employee base. More than 1,530 (and counting) Google employees have signed an open letter decrying the company's summary firing of the prominent artificial intelligence expert,"
+publishedDateTime: 2020-12-05T20:46:00Z
+originalUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
+webUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
+ampWebUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
 type: article
-quality: 74
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106805909-1607018476968-timnit-gebru.jpg?v=1607019660"
-    width: 5760
-    height: 3840
+  - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -191,22 +186,6 @@ related:
         width: 5760
         height: 3235
         isCached: true
-  - title: "Google fired a prominent AI ethicist, and her former colleagues are up in arms"
-    excerpt: "Google just can't help alienating large swaths of its employee base. More than 1,530 (and counting) Google employees have signed an open letter decrying the company's summary firing of the prominent artificial intelligence expert,"
-    publishedDateTime: 2020-12-05T20:46:00Z
-    webUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
-    ampWebUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 83
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google head of ethical AI fired over research paper"
     excerpt: "Timnit Gebru was sacked after the company requested she retract an AI ethics paper she had co-written with six others"
     publishedDateTime: 2020-12-04T07:14:00Z
@@ -270,6 +249,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Renowned AI researcher says Google abruptly fired her, spurring industrywide criticism of the company"
+    excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
+    publishedDateTime: 2020-12-03T22:49:00Z
+    webUrl: "https://www.cnbc.com/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106805909-1607018476968-timnit-gebru.jpg?v=1607019660"
+        width: 5760
+        height: 3840
         isCached: true
   - title: "Google AI Ethics Co-Head Reportedly Sacked for Critical Views"
     excerpt: "A prominent Google AI researcher says she was fired over an email she authored expressing disappointment with how a review of her research was handled internally."
@@ -493,6 +488,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "CSEmW2veJ6S2FdAXj6qGnrfBJP+qsePMXFJpSa24hOSfJCkYb2YubNS7z4ct6SiBjOEFdeDh3FlWBlY3JDk/YaCV+1e+vCyUfBo06SZWj4ayoyW6e/y3zXVLize5q6TI1FUbmDnni430lxxQjHj1HA9MEto1FesTSeW8ALwIenYYJ++ukLPtA44hHYqRJBB3Vt+kiJU6v+dDBu9JME3vCBU9nI+ItQhPoFrmgbaeqFEan3J9FdlR1tUziw8DBtKIskQCI4GUkQwRLeluOf4K8bG2Gwwi8I+kjfykEGAdzaFkEL2BbATngZk3zSptosQvvOYpCCa5/bfHlCJx3a/y8rfaZ7AVVH1SSXRaKIvcO0g=;LOvHeaS+wfaT4vzX9/4Lzg=="
+secured: "dAoe9Pd1ov0YeykvdjL4tggXJs6wVAfyNxDwsVGeI/LCWbEP5QRLO9ym9vJvsMNnPn7OmVcn85OleFICrGp0VeMItvxnsYq5grnEyv2Dk8JboNY+3TcWN6uNayQe6ivygANKsvZjw3DI0RE/+yueRT+UopeD89+HUaU90t63NbINzU5Um3OS1jqfvcKm7E/gGPYTowWO36h53nHWl6mJSOASwXXeYQWlnkwCCQawu2yY0Y+pYHz/d3qxiK7CyRi9APnrzu8rftWdJv2X+rsWe/z2BljuonomhDHHB/sORIDcHvm9Ii9YBhynO3zWMvnYtHPDscRMq2CEtE9xUNaAejK7IhupOH8dmX2l2Z2CMWA=;MUTHRRp9AZWzrryKw5RqNw=="
 ---
 

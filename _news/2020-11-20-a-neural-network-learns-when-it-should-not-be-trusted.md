@@ -1,30 +1,26 @@
 ---
 category: news
 title: "A neural network learns when it should not be trusted"
-excerpt: "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,"
-publishedDateTime: 2020-11-20T05:13:00Z
-originalUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
-webUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
+excerpt: "Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety, such as in autonomous driving or medical diagnosis."
+publishedDateTime: 2020-11-19T19:32:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/miot-ann111920.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/miot-ann111920.php"
 type: article
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg"
-    width: 1500
-    height: 1000
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "uP8zdXg2J5zXuyx/6In9nYiSh6SbfpW8QgVp3CzBcS3nVlzt+ryA3LHprkQwR/VO9mieOaYbjngm2JJd7Lb0nLDIINC2oTg42gqo1m5Cj7GMK0mYrIlcB/xEJ52aF/yKWjKvF8bCFefewZCHjAZyNUBJsE21IfniJb9NuOP9vDg+ibQaYrJSJmD5T7QRQIDuiAC+xAM4PIskK/bGuk1gIF807PXCJF4FvhFfAGBrVW3NNhnaDBVLilROYX3ygPqSAh6h27Ji0GK94ES97wd5ZBVwtnq4+f4L/V+Dl8LZSl4Lt6cytoCvPWEq2k5QgSTED2OCjrKKMhiYNws/BzRh7K/aErkTEaJ6EPubyFKAFpA=;y9Hc1Mrbx8htpAqaOx8eTw=="
+secured: "1c9UbUh9v1MHml6BFFHmBUbPkdDdjCkzjL64mfq159MS4rKGQYKtiGvFDHLXJ7+Xp+tuRQGGaKT2gzvUejUc4iFcZvlvptiC4VvvYFg/AallUPYJ4iZfQb4VSMSajtDfIAgcPcW6ghKdvqpXEBMc9a7xnI7lDjNrR/mHCiyIvcNKI3seYvZc+qeHqG+1Rc9Yhz2poqnUYynyYOPCc1X8LainmGUCKfnTAsYbI2KXwCdXLKWNOpWXpz2ZQA6/NqarENV39KJj3iDHhisOJwTXWLoLof5QpAWIBc5BMBxPzZZMIUFL8gmnC8uudX6viBDaTHXsJhhJKFPoY3fbD7hFznLADweuVCj2mnW+2+R8sxk=;GJPM/JTmwNVF4OQojapPbw=="
 ---
 

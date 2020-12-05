@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers"
-excerpt: "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars."
-publishedDateTime: 2020-12-05T18:56:00Z
-originalUrl: "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
-webUrl: "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
-ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+title: "Tesla reduces Full Self-Driving upgrade price by $1,000 for Enhanced Autopilot owners"
+excerpt: "Driving for most customers, those who purchased Enhanced Autopilot will now be able to upgrade for $5,000. The reason for the change is not known."
+publishedDateTime: 2020-12-05T14:56:00Z
+originalUrl: "https://www.neowin.net/news/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners"
+webUrl: "https://www.neowin.net/news/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners"
+ampWebUrl: "https://www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
+cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
 type: article
-quality: 89
-heat: 159
-published: true
+quality: 82
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: Neowin
+  domain: neowin.net
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894"
-    width: 600
-    height: 350
+  - url: "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg"
+    width: 760
+    height: 428
     isCached: true
 
 related:
+  - title: "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers"
+    excerpt: "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars."
+    publishedDateTime: 2020-12-05T18:56:00Z
+    webUrl: "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Tesla reduces Full Self-Driving Package price for EAP owners"
     excerpt: "Driving Package by $1,000 for owners of the Enhanced Autopilot package. The Full Self-Driving Package, also known as FSD, is Tesla’s bundle of advanced driver-assist features that also includes the promise of eventually enabling complete autonomous driving in the near future with upcoming software updates."
     publishedDateTime: 2020-12-05T16:30:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla reduces Full Self-Driving upgrade price by $1,000 for Enhanced Autopilot owners"
-    excerpt: "Driving for most customers, those who purchased Enhanced Autopilot will now be able to upgrade for $5,000. The reason for the change is not known."
-    publishedDateTime: 2020-12-05T14:56:00Z
-    webUrl: "https://www.neowin.net/news/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners"
-    ampWebUrl: "https://www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 82
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night"
     excerpt: "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below."
@@ -137,6 +137,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "NQ4ngiinI0Y4Usgn4GUnk1pkdNV3corTdI9Iq3sRrU0ra8yFAUbH1LRM93euNcFRDOXQy3CRo1IIYedc5uGuyPtHAqb8FFVLjAYuBRgEA8fNHy07SXA94gg+MuggznmHXaZLMxK73VRXZegIzXQtxUgAWwJLJqrYxLLFrnxobjovQKTsoTefsW3SXK8hH+bRxW2mUmgEm2dhtous9kFqV4W2DA4DPpTJC1r8BC9pccQJjkjw7LKB9EEcPy5RoNJ/0eCOjNufIvVgBSD7dQWkbKrdgqS5L26G80DSm1lITxxZ467E9adYhHMHuKnsVDv7P93zt99tHtw9+SO3V4BwMm3gDJop5eZVTY38u6TaL/KglcxW8bz8HjHEWan13D88avioaYt6zy/hb6g7KklzNmP14OR2TA+Naj8W7iGV7V8v/gsDBMx+XSubU6fZoil1XPfldduZHUJeTi2Cj6yzij2xWZBflrzhFZS9AkAuCSu4nMREm6rdGGkbaOlSnaL8C+hxJfoff8hsxt0RA+3H+A==;0Y7hTQxpuh8r/QcpLwvU4A=="
+secured: "OhwFz6BA6M8YHGnWTfL4F+roNJwwR3FiILPtPI+EzSZGCJIL7PTN1wscNB/fNlqjAdQsqob7XDE0l8eJaKhjVkdl0j5+w6XrjQL7hpIJGIBN8BPVJXmdF32z3HWgSgEmqH2TAOTnDzHwvsK68zaGUP1Bz1pfo3TDqrxfHYngzFVQYXOOSlCFK3eCh+IrpWzmohNfoROemFw6I5FkjOSxEYzMhsQufptptcfhZd0SC3v0YmNSb2HTd1XemfixXcZPJB20sq0EvuXnudktQoOmi9ZyDiSIPYB35ZNUOxXh4NDfzpbbyhXXRY2EGXUSRKjvMjm4tJR98zeEeqSDwTasCPZGZnUkT2BLi4Ypno6JOWI=;QJ7TlcefY5+WdBRAaeOVTg=="
 ---
 

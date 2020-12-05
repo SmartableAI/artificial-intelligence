@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predict
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -58,7 +58,16 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Deloitte Technology Acquisitions List: 17 AI, Cloud and Cybersecurity Buyouts"
+    excerpt: "Deloitte acquisitions list involving cloud, AI (artificial intelligence), cybersecurity, workforce digitalization and analytics companies."
+    publishedDateTime: 2020-12-05T17:28:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/deloitte-technology-buyouts0list/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 16
 
-secured: "7hf0Cr/ZZOlJYtuKOgiyGPDxzDEPoSkqx8d9V5cfoancAR8OxARGDFxCN5tWG5UaN+NKn5eVUbsCgfH+M5LnjBTvz4bl2479Es2CkW5hJYOeYKgIgBzRhrr7mpk+UZFqd013CKyMBX27EzDXP2KB3EsoruDjXA+VK3+F5Ebi71wS/i2oLWnOTs+CrAy7sH48qv5jNH8NWUUzsJxR1Beh0cUQbuD2fNMSBY6I5KYSQMK+ddEiVJgqFuKw4EPm/EpgmHhZM8b8IhYWgcjFTN6NCOdzHynjt8/OJHjXVLj3c0pa4Gfbek64dJMaC7mndSZI4Q7y9EQq3Zf0S998VR+z+qFJFjo6wln4qb7T3ibkwCk=;we7b5lBXGcRMbzTxrmrILw=="
+secured: "5ygjwU7w7GJoY/nzCnhD5VKJ9AfW+X2zY4hGV9MrVryJrFEnqE64ZCOE7R8RyK8L1iaeeIBBisEcHeDhWNhOu/LAGJhhvFKyFDr2RK/NTKy1oGsexz+qIqh20s50v01QnJSbiiRmvRV6DfYDwvXKED0B7MLphDnqV+W9tBieQWQzbhG4OysRdfaiLCrRIqpFPfMUkcFoDFDhFlBjk0OVWCVpb6nyS+HkW1LTuA6f0x7lbBdys61BzINQ2DK4ZcrfP047BZ0NWaahcfhbV2WdlvOIi6oPRsNbefeKZQVvFwGljuzdjkJBnmTj3FPK/iDAs/pp/5ZEiiAbl+9LvKlfBy//imbtgO9qhlyAtExQQQaDRiBsgEfxGxHJdem15YUHHc1eefYlKpEEd4hirIXQC3RuXz6zOCu7NxApClTDtm7qaKU3g0RdF21jG+LGUADW2YXnR4xAcTzDRNnAJ7xrcl9NoEgKjYujEbppaGse8zs07zGPxWNLUBulUuohlaIffMiVAaRWlPvDnQmKYOB2Yw==;mf56WmirZGrR7kCADP7PLQ=="
 ---
 

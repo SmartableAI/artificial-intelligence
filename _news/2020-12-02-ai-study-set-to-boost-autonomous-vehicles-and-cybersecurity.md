@@ -55,6 +55,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Deloitte Technology Acquisitions List: 17 AI, Cloud and Cybersecurity Buyouts"
+    excerpt: "Deloitte acquisitions list involving cloud, AI (artificial intelligence), cybersecurity, workforce digitalization and analytics companies."
+    publishedDateTime: 2020-12-05T17:28:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/deloitte-technology-buyouts0list/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 16
 
 secured: "zygsNjQy6lJX6SIRRPqSe9tQYApyblvOZk/PQk4tYvTgpLFDEe21HNHQJIHN2fqQao41g3+4khwOkHt6EfC9UE8WdieL7Cl2M2hch70Ag4pH0zRDU6Epf1r5Yfh7jKAN7g1D/r5en6hRl5EXCdp4Ho8k8sIKqKzJzgA/1hJkeFldWOgCrOYq4c/7/qkzTkAk7i2LXXIuNVe/yh70Vd/krG0XsO9niB2SbUxH+Mto5uI5cgdg3rDSY3k/7FbPADszeLefxhNHUCS8fd5fdZgVsu3misaI06jIYiTOLxc+i7997neeJXuB2cdMAT5vcNQrMMrH84nkP5bUdsHv+KaE/ZfCLhdw5ARs7wtYWXU30Jk=;s79xc7hKEEGJSUVjlmFuNA=="
 ---

@@ -56,22 +56,6 @@ related:
         width: 754
         height: 557
         isCached: true
-  - title: "From Hobart, to London, to Dhaka: using cameras and AI to build an automatic litter detection system"
-    excerpt: "This automated approach can be used in any other city around the world, helping to reduce how much waste enters local waterways and reaches the ocean."
-    publishedDateTime: 2020-12-01T03:13:00Z
-    webUrl: "https://theconversation.com/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
-    ampWebUrl: "https://theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 44
-    images:
-      - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=236&fit=crop"
-        width: 320
-        height: 236
-        isCached: true
   - title: "A smarter business with Hybrid Cloud and AI"
     excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
     publishedDateTime: 2020-12-05T01:30:00Z

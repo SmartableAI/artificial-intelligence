@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -82,6 +82,6 @@ related:
       domain: theglobeandmail.com
     quality: 13
 
-secured: "YUb8eZzdA8v2sNe/a8n+ajGEvWAVNRoisVqSC3Ge4cfri+YwLNIW7ZSd9hBp2tMI4rkSQ4RfcST5x2a1LYlIiusKNSBP/4k/BISMOOvEbEUjSjM/cnrLvB4nN+/PL2uMRPSaHqTh3qEanMe12WfUY4iV/b5x7EniUENcJlrr4WlH9nNBj/ICTjdWqXhEWWO65q5CHaJ0g6RKEpyZaVmxwvrluBZVzPEJlWazJ2y0d8tBO6QBWTJDMDgtDnI2979r9jNOJnaH+VF+QWBmo7sdzcsVGA7+k3/D77IyOpfht+EcD0UVvPO7Q9kR9jEtzyDMVEeu/o/T9p1W/c3esJXNqyp61W/iY4xeA07TQekKlE8eGPoLD7CxVsPA/9ZmSu618+DsG1QBjyKAJWWcROcKxXnXtvQwsvoykH3Tv0zmjUpHn+Pd5YFZLPBXXW8ifRfIegbgeccuEV7ABDFVyropasKy7W+rfCFEblum6xLq7WYVbMpfVurGTVNAS1EXCIdT47n8ppCnpgT0bjkF2+MZaw==;rmar34BPXXByB7fy7t2xTg=="
+secured: "AiNTE7IirNtd+QmQgRivr0zg3ZoGk8wl+VvfXKQOpazcatMbAIG+03oDAaE9eicvmOsWUvn953jMJz7KBzrQyXMQeLf6ZnpLsj0ylYY6hh1enZLPrO7aDSv4hyNYiuyE+hdL4aSBHVRjVOieTmK/8DeK6ykYCzcW0PywqIyiX79rJXf82XMYROpBJU0OAyOGInFpnEA9OMh0WExGbnkQfdZ3Cl4+6kW2USIY7QRMUihlm1Rw3GDkbK4nTN9WwovDx48hntvOEsrXDb4TpoZYwgvNBOV1mvlYRWEoY0zwR1R7fXgn9OwCDk8xUZkrs6rwOWBZ4Ryw3F0ntnKTuS43x/GOEDyeE/s8QY68C67YWz0=;/+AliaC215VGOoHsOXsk2A=="
 ---
 

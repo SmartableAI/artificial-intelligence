@@ -47,6 +47,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Tesla reduces Full Self-Driving upgrade price by $1,000 for Enhanced Autopilot owners"
+    excerpt: "Driving for most customers, those who purchased Enhanced Autopilot will now be able to upgrade for $5,000. The reason for the change is not known."
+    publishedDateTime: 2020-12-05T14:56:00Z
+    webUrl: "https://www.neowin.net/news/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners"
+    ampWebUrl: "https://www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 82
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night"
     excerpt: "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below."
     publishedDateTime: 2020-12-03T22:33:00Z
@@ -121,6 +137,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "7J1c4I9gcFdDuKXQpBdXc+j65iranf459z0CiDqk7pF9EAhLSM0BhOl0wH8wT1ROSlMsSF7oliaKBgwTGx/Tgp2EHFbFtOGoZkDtUuwR//siaIT0O+qqQXgz9JL6gd2+OTN2gIknS/K4AmSgjOIr5Hq51cA3JlCS2FDa9Y8M702PpAPQzOY2sav8zemaibvtFoEkQHm57yQPdf1loN8cNfrxcAcBSJILNfbWwOZMhUDd6FtH0TWi7FNS6L+LDA/YB7WqqymTBi1CMqzQNVD4lczAi7hhFptvsJ9WtkTRaJgYpiIGnHRb12SUMrqebTvQip5cml84SZ2OHgSsjvXkZKxDvou+lON/lPhO1pBDtyM=;vtBHRXrIo5Wl4mSD0SwByg=="
+secured: "ae6TvR1n35688s4f/MYCT6caLbZoKOLrTXPEPu5JEr6RJ+ziFPd8m20+rNYgF/FnJq/XMqcqhBAv4iuohib26ZDqklMQ4yqipIkYXGKKTYfQJ1IFM8cMfLkCA6sE/9lKRzMnk15hqAGkoCt+mQAQN3JaS9bY9G7zX4XAV1L965tokleRzX0fcGxq4W4NozLO9FirIS2X4xIWLSmPYnnJnh9RxboDMv3q/0B8Vvut0565t+FtepM0O90gQ5ixdeAqKXVN6bsyLfAwkUH70NGVM8zidQS5AxGM5Wmidkfa3TFL3ZepoGCnfipvl80xfVJ5DjKgZB/qvILOF+/bWmlD/jvdkhWbHbzvryb99pIhNgM9KfDCt+zYjaljp7wSSdjdnLkSfUzi7g10uC4futz4rs7bECvbqTD26eQW3eJNjM1D4/JFZQ6OjEWVJW2TsTRf8GKQqXFK3RnfxYDQI70sY49zlCWKZYwbWX27EfGk805Fg/8YiZNcsNl7gfdcmPeMNZs5C2m4+ZYroBIAuIQ3nw==;QXSB4G+LemliTCkeUjzdSg=="
 ---
 

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Leonardo247 Secures Machine Learning Patent to Identify Code Compliance Issues"
-excerpt: "Remote monitoring software company continues its technology leadership in multifamily property management Leonardo247, the leader in remote monitoring of onsite"
-publishedDateTime: 2020-12-03T03:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18618193/leonardo247-secures-machine-learning-patent-to-identify-code-compliance-issues"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18618193/leonardo247-secures-machine-learning-patent-to-identify-code-compliance-issues"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18618193"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18618193"
+excerpt: "Leonardo247, the leader in remote monitoring of onsite multifamily operations, today announced the company was awarded U.S. Patent (No. 10,867,135) that gives Leonardo247 rights to a process of using expert knowledge combined with limited data to “jumpstart” a machine learning (ML) algorithm that reduces the time necessary to achieve accurate ML output."
+publishedDateTime: 2020-12-02T16:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-patents-intellectual-property-8c2cc24bb03e4c05a81d321e95cf8952"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-patents-intellectual-property-8c2cc24bb03e4c05a81d321e95cf8952"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "8mqbv5zYVximq0WJL7zuZJenvyfWh/yyNPIJRS9SB0f+KQYlJ7R5fel8ENUjXCu0zVij+BO12ko7iie1FS1JCy+lh3CYreqJ13ktO0Ujjmo6uivHj9flZhnsO2m6ic/zYa+RIYztq5bbDSrrlLZ3VmTj5P3LjY+lvQQsq5mP+A5CqKIiwcrfPQSNgqnxyWIo2PUnLGMRebuw8g8oFIOPnOQ21VQDtQfNRuBWZDJGERhy3Ci0e0FpXTDyJQdUgMTGNRndXEdpPchnWUTTAYLSCH50I7M0EByuUUvJYkRSX728Ivx/lRognZ3hMGe6TfmO1t25zw95JDQLZSK+Rd+32jehHhk0d/SkygmdU07B1xM=;tmCITpDQaGvHhF8+dy9CpQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "fFgh2xE4E+3VamJ6gdV7mfgh+a4SAqVoghplaJUXSzzMVR+MVN6jm+wp4atoOAqDEVbmIoGFPGbI/YwvE8D9o9xo9PQBIX6w7iNs236K8g0jZolwKuwHSmdtJ+6bhGR7XJt+1VDcshXAUMAHjppeIytOyt79k5pg6mkgfPzTQeo6dn9nmM81m0luPGHocHyQ/h4Pt30IO38Dz/EnE39m2cnQzL6WHQnrOf3XJLA8N8cNvSd6fRjDoRmXsLybhoVJu1QepNmp+jOzrDIZ6UuGVL0TVVqB7GmdIlf4do89RFpWaTFoU2OkTkdyQGv9Azfcd91m9S9Q0jOQkfEpuiOs2uE3UbFBx1veyHq/1wYGT1s=;WA/ENtjqD/1NLh1cXboMxQ=="
 ---
 

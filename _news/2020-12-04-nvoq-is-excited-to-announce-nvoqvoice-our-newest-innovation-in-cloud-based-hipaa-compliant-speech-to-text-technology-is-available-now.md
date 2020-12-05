@@ -1,31 +1,27 @@
 ---
 category: news
 title: "nVoq is excited to announce nVoq.Voice. Our newest innovation in cloud-based, HIPAA-compliant speech to text technology is available now."
-excerpt: "PRNewswire/ -- nVoq Incorporated is pleased to announce general availability of nVoq.Voice, its newest offering"
-publishedDateTime: 2020-12-03T17:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nvoq-is-excited-to-announce-nvoq-voice-our-newest-innovation-in-cloud-based-hipaa-compliant-speech-to-text-technology-is-available-now-1029862664"
-webUrl: "https://markets.businessinsider.com/news/stocks/nvoq-is-excited-to-announce-nvoq-voice-our-newest-innovation-in-cloud-based-hipaa-compliant-speech-to-text-technology-is-available-now-1029862664"
+excerpt: "PRNewswire/ -- nVoq Incorporated is pleased to announce general availability of nVoq.Voice, its newest offering from the nVoq Platform of leading-edge, medically infused speech recognition solutions."
+publishedDateTime: 2020-12-03T16:50:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boulder-north-america-communication-technology-united-states-874a0d7fd120349466624af0ec87eed0"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-boulder-north-america-communication-technology-united-states-874a0d7fd120349466624af0ec87eed0"
 type: article
-quality: 36
-heat: 36
+quality: 6
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1027277/nVoq_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ZsPwHbB1EV7/JhniL4roU4i44m+7aghDeWXGvQU+d7gidx8tH2+yYJZh8Q1rK4sKFELYukM1JF5xNpx2vXKu1pSEGsTm2i7eBo22W4nF6sxbcye7qeLTknJYo6VCKZfjJWgpgMFwbHN6I2xOZUGfwg8FaCyNvgXO0miHPZdf5ogZxZa7uglXmXghASKxztn1IF5GzBdoDV26D8LDB3FapWDjs6G5avd88vv5mVn9H+zIRbSzEW0WSygEcQx3UEYpBtpwP4BydyrFXP7kIqK66bQdL8t/exOlQqJD7Fxv/m3xsOe8Csr35SsN57+sLlPEYbQ0zL3MLp8QbkE3U3fMt9BYCKur6Cpknzrk1Ic9NDw=;tWNJq2JoA9dhb6YLwZYFYg=="
+secured: "/pXWLiV8FjQLcIgnCshMe9fKGU8JlDzLCN0O+KoITJZ+9VmETrtKMY7jifiW91uChQlxrUERDASNEyn5uboUd2lDdFT/UoaHErzOKaLG0TLcPPw+8d6rPSX20krjStIgtrNT5bdZ3P3NvKolS8KjbwCDd37eBX5rc15XGnUXBjUShRX/ThfUx1EMYAkwd2isc0aIxP8P/eQtUjjfP6Ilgw9D74ThAjNVymmesc+0TTdAhUj6EHXg/ehxz9xkh5NMSEv/jM0U72vmZan5LEcBnuQX22anrnnqcgDB3jAyfdWhLe3L+INDxng7BHvLCuFBEP0dId/kLj0qEU9X9qbanhOc+kyGRkHHE9sMY/Iex/k=;FC+LOTYNf+LdCSyH5k93Hw=="
 ---
 

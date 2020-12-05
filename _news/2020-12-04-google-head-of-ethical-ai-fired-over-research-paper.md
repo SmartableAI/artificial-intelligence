@@ -188,6 +188,22 @@ related:
         width: 5760
         height: 3235
         isCached: true
+  - title: "Google fired a prominent AI ethicist, and her former colleagues are up in arms"
+    excerpt: "Google just can't help alienating large swaths of its employee base. More than 1,530 (and counting) Google employees have signed an open letter decrying the company's summary firing of the prominent artificial intelligence expert,"
+    publishedDateTime: 2020-12-05T20:46:00Z
+    webUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
+    ampWebUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 83
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google AI ethicist says she was fired for an email, 1,400 Googlers sign letter supporting her"
     excerpt: "Google's Ethical Artificial Intelligence team, said late Wednesday that she'd been abruptly fired from the search giant over an"
     publishedDateTime: 2020-12-05T01:59:00Z
