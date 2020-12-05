@@ -37,28 +37,6 @@ related:
         width: 1410
         height: 628
         isCached: true
-  - title: "Enterprise AI software maker C3.ai sets terms for $504 million IPO"
-    excerpt: "C 3.ai, which provides a SaaS platform for deploying enterprise AI applications, announced terms for its IPO on Monday. The Redwood City, CA-based company plans to raise $504 million by offering 15.5 million shares at a price range of $31 to $34."
-    publishedDateTime: 2020-11-30T12:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-sets-terms-for-%24504-million-ipo-2020-11-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-sets-terms-for-%24504-million-ipo-2020-11-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-sets-terms-for-%24504-million-ipo-2020-11-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Billionaire Siebel's C3.ai looks to raise $527 mln in U.S. IPO"
-    excerpt: "Billionaire tech entrepreneur Tom Siebel founded C3.ai said on Monday the software company was looking to raise up to $527 million in its initial public offering."
-    publishedDateTime: 2020-11-30T12:55:00Z
-    webUrl: "https://www.reuters.com/article/c3ai-ipo-idUSL4N2IG31W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IG31W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IG31W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
   - title: "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite"
     excerpt: "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut."
     publishedDateTime: 2020-11-30T18:04:00Z
@@ -143,15 +121,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 21
-  - title: "C3.ai Sets IPO at 15.5 Million Shares; Sees Pricing at $31-$34 Each"
-    excerpt: "C3.ai Inc. on Monday said it plans to sell 15.5 million shares at between $31 and $34 apiece in its initial public offering. At the $32.50 midpoint of that range, the Redwood City, Calif., enterprise artificial-intelligence software company said it expects net proceeds of about $613."
-    publishedDateTime: 2020-11-30T12:03:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202011303196/c3ai-sets-ipo-at-155-million-shares-sees-pricing-at-31-34-each"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "9mx2ibr5AfgQeqL0afUXdR4xJ4X5O/wBIdyOzt0yE/j7Dm/cL8V3p0nhZxyyfFRfxJghIWllBH+KbhiQQOMcDrRaLrfC3+Dh/drudriAgsVY+cwTcVLt678LDzm7mHSo2gwpVSRB9Xdb33B/TFv6Pic+6WsroeUPdZMjIgB9mVLoDKm+pGCn5nOD26yV6vINEfvD+Ox2ZxZl//FsBUu58KsLM3GDJe92N5YMlQqZjXzrOF2tP49vxHdXXwBadLoEZTQsKdvVPgQ/UO4GpbdFy7k5TEM9dVZOWhnWoam4yExiKrEdwMO8o+0HQ17AIqZBzcEOLbzYz5JrnVqoUJFELchQDIxYFKFL9OEfwmfjWVpDs0sLWthxc8JodV/NkjAIOcI/FR3A+lbQUri9eGY0lZI2r+JpXsYFQVkliH1ECNKBgp8IdOdc99g6umRtXWbtM7JEamUcLidYR2ByGaUBpHBD0QZzj4o9GWg3zQV6d3LP93eC3uzEuZNG9Ao1BRQXGlJ0JU0ExWbiOYfoLHx13A==;x2HyZwSHd2bDIS2uAbEOMQ=="
 ---

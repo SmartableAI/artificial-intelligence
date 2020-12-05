@@ -3,8 +3,8 @@ category: news
 title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
 excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
 publishedDateTime: 2020-12-04T22:20:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
-webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
+originalUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 type: article
@@ -62,6 +62,22 @@ related:
         width: 420
         height: 280
         isCached: true
+  - title: "Artificial Intelligence Scholar Timnit Gebru’s Exit From Google Sparks Ethics, Bias Concerns"
+    excerpt: "Gebru was instrumental in improving Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-05T04:22:00Z
+    webUrl: "https://www.outlookindia.com/website/story/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 63
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2020/12/5/Untitled_design_(30)_550_550.png"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Timnit Gebru: Google staff rally behind fired AI researcher"
     excerpt: "Hundreds of Google staff have signed a letter backing a leading AI ethics researcher who was sacked by Google. Timnit Gebru says she was fired after sending an internal email that accused Google of \"silencing marginalised voices\"."
     publishedDateTime: 2020-12-04T15:42:00Z
@@ -95,6 +111,6 @@ related:
         height: 360
         isCached: true
 
-secured: "8o4UOQoqTRXb0mytOKoBSqeLmYLQ6xo9JWqbLi1zL1lXtHtZCrzxh/PcNh+sheUmgpHl6Msz6mrew2v1/qmvnmxyLNS1Xk/pJESHdZYamyEsArfuxBatRr1Rp2WDf9irZdM63B/eLxlD5yOahtvICjiDYxoUOdkdz6sNSfs/GRQYq8hcxuVvwDn5GkX4tNoJuBbfqkh0Qrz6KvQrynLvDJWmUm95JTRJKLqFUbFrhSnzfkuKvIHnbFT98o23AwBqTbqr4WXrhQHpP7H6RrUdfzx/G+MgmbWJ/ls9E2FzCiLC6WAwAw+EF1oKo1F1jnknqYTxCeqPHLE92SODimISMR4cyBxBKOuD9nK2SYH/4mM=;HChe++w+zPSeT111rjEywQ=="
+secured: "EIcAuDBOs085OTrOXXNLi+zc5j4qiea9hqmAEJtXTu3vKDY2YP654QLSaW1L/I3kUlOMJwXdE9wuDWHs2XRs8IFjayLBiNnZK4tPpDW08nHx/GgKSxaem3G48W5OoT++CwIFJ9xISUalnsNlM6UuCRg/5BbEdYbwS+vItdJlcyF+yofafKeP91w/0s5JwdfALPoYqgC+CoN/FqyJAeLpW+CXrlv0G8keMBIhhlBtdOiDmgwHCvZGSSgUZHi2vtCdsYb1qsLLPDWkZ6c2YHJD2AiBmyS9Bp7H2RG+f/lIoKuNO90rlqqSIn+2wp2ApNlPn3L+OCw4LlcSArNgIGsOXgxSA1dQI3bKQ01IYd6xIEA=;WfaiOLcLb7D4pXl1vEaGow=="
 ---
 

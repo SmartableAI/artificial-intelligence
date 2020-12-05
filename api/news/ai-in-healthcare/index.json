@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-05-bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites.md",
+      "title": "Bayer inks pact with Blackford Analysis for AI platform for radiology suites",
+      "excerpt": "The AI platform developed by Bayer and Blackford Analysis will provide access to a virtual marketplace through which healthcare professionals can obtain and manage various diagnostic imaging analysis applications,",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
+      "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2020/04/28/127928-bayer.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
+      "publishedDateTime": "2020-12-04T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
       "title": "Meet TIME's First-Ever Kid of the Year",
       "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
@@ -1312,40 +1355,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-the-case-for-mathematical-optimization-in-health-care-building-a-strong-foundation-for-artificial-intelligence.md",
-      "title": "The Case For Mathematical Optimization In Health Care: Building A Strong Foundation For Artificial Intelligence",
-      "excerpt": "Enthusiasm for the potential impact of AI on hospital operations is often based on its impact in other industries. However, non-health care companies invest in AI after having digitized and optimized their operations with a variety of older mathematical methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
-      "originalUrl": "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?vgo_ee=hguEs6q24Zmes9eRBPIQrpk9TQ0Arj7CezoVU3GWf+GxlHx4Z2zwYOQnLmtLKlR8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Affairs",
-        "domain": "healthaffairs.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

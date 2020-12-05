@@ -304,17 +304,17 @@ related:
         isCached: true
   - title: "Google researcher says she was fired over paper highlighting bias in AI"
     excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
-    publishedDateTime: 2020-12-04T21:26:00Z
-    webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+    publishedDateTime: 2020-12-05T04:03:00Z
+    webUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+    ampWebUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 57
     images:
-      - url: "https://www.orlandosentinel.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+      - url: "https://www.courant.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
         width: 1200
         height: 900
         isCached: true
@@ -446,6 +446,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "W48ViPR+NKoYJRVfxdkZh/S98bRsHvEoecafYF5AlnXpUBW61j6JMT6zeuRua8Dhi8lTAh4Z1+4jQigT7DG6vlcxYTJpAywGhCjM9AiJaE5Bcn/ZMU7O1txbpr/RXrEfVCfTDy8nZqy5ftbrY/ATvwjJCa1SGxATOd58tFVnAAc5ztu3ycV0XdVZTTznyRB2niwp+eZf2ncEuZTBJjZnlfyHgujoB7fJg3R5mCg7XJvUXfrhEKVHJ5sEJ7A2yQXXFWr4+78eresMaQPAuYoJHN7DNpZE+obKjrqXwlGj44nIAgByK7vsA3t12WfimXplteG+TFks6mFYZB1oJFmj5b+71awwPIZqnKmD6Js/Dkg=;wKatD4t8f0X+4rfeKsTbUw=="
+secured: "7wkHf67k9hm8YeEE6jyg7NLTYtrcaRjzKtmgvE5fopJSeEL1Tnstgd2XvnQdqYES08CMt8CguCtZc/lXfSyLsas31T+wdntpPD5hNYzLAMY7reuRWqIAaCPxgqQZ8YUuOb2Xcej0+h2H+dUTxM+NySgm5+C9Dm62+4W8ej2IL3N6IaS3UqSR1OU+39NqxBNQ4K0uNdF2sPcqIApSbpMdAUVK5RamVlksMKWGjxgJ8+38+ZbQyelZekzPaq82tJ8xdlpBcQPDYQdhyV0agV7m5HzuYY+8hW3DEo9984sCFuURg6UUqNQe7y8FGTRW+HPeP4gYN5dDENGuW0RpwHNyGldsfTu3956Yossiphz7/KZ5CayoVf8F9kqFMN4AM8jOqIZZgBcKh/tEmVk/HSob3xxA4BusBKGp/GVFq0sNfa60iDj4BqHBkR/ApOaFwVuhkSvCTabnNtHLUZ1eQz4OjBNdsJtxs89ulI15FsbK2B321uIWgvzv07Ws3+IJZSewdqZZlez8FHkdpoZXYIy0bA==;WTjUmFnktwG34suaydSM3Q=="
 ---
 

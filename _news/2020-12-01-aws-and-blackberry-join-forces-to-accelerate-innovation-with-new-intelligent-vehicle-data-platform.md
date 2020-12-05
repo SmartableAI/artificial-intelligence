@@ -44,20 +44,6 @@ related:
         height: 630
         isCached: true
   - title: "Appian Connected Claims Solution Available in AWS Marketplace"
-    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to"
-    publishedDateTime: 2020-11-30T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-solution-available-in-aws-marketplace-301181279.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
     excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
     publishedDateTime: 2020-12-01T06:46:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-artificial-intelligence-f9496c3330fa806d1d7d9df00988bc36"

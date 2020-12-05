@@ -1,27 +1,23 @@
 ---
 category: news
 title: "7 Machine Learning Stocks for a Smarter Future"
-excerpt: "Stock Market News, Stock Advice & Trading Tips Machine learning stocks represent a promising long-term opportunity for"
-publishedDateTime: 2020-12-01T14:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+excerpt: "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new."
+publishedDateTime: 2020-12-01T11:55:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
 type: article
 quality: 71
 heat: 91
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Finance
+  - AI in Autos
   - AI
   - Machine Learning
 
@@ -52,6 +48,6 @@ related:
         height: 343
         isCached: true
 
-secured: "ZMWw+qKlcPRD6fuCe2fgOMBSKYpeYi+Sh3YY6rFn1Ffz3tEUU36shDFK9UzfIZBzLQDM1Vj1vg9SvwUTxunG+ypQxmVvkDQiZST9dtALNjm8QxRuuwzE5Lyj4aXJl0HY6FrNHR9JRMiBgU9abjjWXRDI+UyZAcBG7aCAsrDCpiYkhbBXEgzwXQMI+3WCLun2GD9Zjv44lK2HmGRDS77LZFGlRUTo/QaCthb5Yu5lrUCyp768Y0jXWouVnSMp17j0qc/y7dbwQP/F0RPCmu4N+adeG0rJDN3HyMIUNsORH7zeJYjVhHh3U+ftf8FT5J9+8KottXvmY07wLlJwAATSYRalEbyFIwKUKToPnrP41ZfkaXnkYH+GLe9PqOeG15Hmw/hIrZZr1GSCP/c/YOEwHvF/5Tna3GqQrYMqc8vGBe+A5G4kJitJHhPVxAdj/QNpkM9pfz5B6R2ByWtHdNZIfhYrxqKfCmZeukki/ZyMuB1tvT/JNOB5zhDjqj6ofIwqW0v7L5M93WDPaJjZvgqpgw==;HqpOFRx0na/shZNvMVzG0Q=="
+secured: "iHtq4v/lojFSO1xPC+IpwtnC7B9LMobX3lcR01rQ0ftaLExGJDAdP4SLayNyO3vnFzBv3npu1wVhQE9MY7WbV94Uv6ErENc7g2XDdG0DAWNKB2QwQiVfA1bAOE+WlOvLbp5JhceXLbi7f8GgtenWrOTH0XhdPMw82hEcmd5qx1yexJ9I9IP8yaO4o8bIgK5SMLdw6fkE73rQxz39EUZT+N8eOKuY2fYBVNrgKNs9m8MSVgOH3AON+sFYPYRmOej+l7tRdwBCwNX1rZoEvMbIyQbwPIEbkOXJUAEstqVAp2ZGBzr47J5gtkld352rhabkMjLc/JNEk3vOdP07+hsrTVenOaRcy7WlexSa2WhKQdg=;flohqfEzyTPDsUiONdGzNQ=="
 ---
 

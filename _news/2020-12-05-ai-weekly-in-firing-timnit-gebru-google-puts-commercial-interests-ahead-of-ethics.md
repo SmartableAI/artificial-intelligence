@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -50,6 +50,22 @@ related:
         width: 420
         height: 280
         isCached: true
+  - title: "Artificial Intelligence Scholar Timnit Gebru’s Exit From Google Sparks Ethics, Bias Concerns"
+    excerpt: "Gebru was instrumental in improving Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-05T04:22:00Z
+    webUrl: "https://www.outlookindia.com/website/story/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 63
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2020/12/5/Untitled_design_(30)_550_550.png"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Timnit Gebru: Google staff rally behind fired AI researcher"
     excerpt: "Hundreds of Google staff have signed a letter backing a leading AI ethics researcher who was sacked by Google. Timnit Gebru says she was fired after sending an internal email that accused Google of \"silencing marginalised voices\"."
     publishedDateTime: 2020-12-04T15:42:00Z
@@ -85,7 +101,7 @@ related:
   - title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
     excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
     publishedDateTime: 2020-12-04T22:20:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
+    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
     type: article

@@ -41,20 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "RoboGrammar: Automated & Optimized Robot Design for Traversing Various Terrain Types"
-    excerpt: "MIT researchers’ new system optimizes the shape of robots for traversing various terrain types. So, you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person?"
-    publishedDateTime: 2020-11-30T11:57:00Z
-    webUrl: "https://scitechdaily.com/robogrammar-automated-optimized-robot-design-for-traversing-various-terrain-types/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 47
-    images:
-      - url: "https://scitechdaily.com/images/RoboGrammar-Optimized-robot-Design-System.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "Toqzo8H4LZTSqMpC7oRsCkXi5dOS2q14YNOeYqUYYwHRaTi8BEqx8i7QQO3pguG3R5+fWtEF/LC4/ckv66caPqIS5azOVuk9MB/YdCURgKMc4yPGSONejpgSeB4z2wMJ5PMa1hhgHohJoslSTTVna0ttmJz9fY/8tFqSH3AJkP75kzywMWsUSnkME4eZz7qIcU1uOaaS3pJe26s3DAKCcCTf5VOYn0FkyB+cKmO9424zNTFs/B2yCGEA/IPBSaz42fqi1pGDUCyklsi/ZS2KX7W4TON+JIrPxp8bqyOx6Uf4kJCLCrsIG2qZDBJg9epcHdwa8z9uT3Nge8LcL5kp7OxLBZAhjcbP94QC1xaQaZ4JJdyF6bq6B8teXfTwgJp32vHgSmQvRe1p7qI2fUA9CLR+8SMcVXep2FKFgdHrVd3nz6DWzr1nQE/ARA3SpSoP0gi1eSU84lAnoEKufgLu4mHJwsk0nCL1YXj1DR7x+5e62Icnoz64VpHTBmsycljjv1mEKvBWMteVld4RNeDV3g==;uf0QuGM5/e0zcYvy70x6/Q=="
 ---

@@ -2,25 +2,25 @@
 category: news
 title: "Google researcher says she was fired over paper highlighting bias in AI"
 excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
-publishedDateTime: 2020-12-04T21:26:00Z
-originalUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+publishedDateTime: 2020-12-05T04:03:00Z
+originalUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+webUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+ampWebUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+  - url: "https://www.courant.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
     width: 1200
     height: 900
     isCached: true
@@ -442,6 +442,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "4qHPgbLCwQ9uX8lC/nziDuJfcZoEeT3ykw/amYg3pw0o8nCva/rOg4T6oZbI9B/d2vXlhAVKDRaFayAzxX+C3kEzP6qMoPausV8QG6+Stm0x/u4KeGif+VSMczLCrO1lU5mKwLHLrfK33PnIC6ZQ7lnDO/FcdcB4sGhWXamJGa1KMFLFrTXBvKEGvYoxgOGW/uWE2VWBNttqCdtCrWvHOyqD9hSSQQuwnc7EymZsNQAbZhvWHR8f3DSqPRMC/DI+RGs+Xhs5qta0KjUM9uAE64GHkDnrJ8INX+A/9yhpi+rHPj+flOp299WJq8LQQf0G1z9VtJG2BZ4GkxWqysT9hvVqxPNkwilGRT9KHilea30=;fv6OHC0I9/cVguRT6hDZJg=="
+secured: "LIp0bAYjQ2E/qtDYq1pNxUYeT9Ta5YK2kbpOx97LhVtL6Au3pqr49e/31GAxLtLViEjGt2vbEa7r/MsMz38BBlEVD5wUCq47YUHi75vH75nkUUIISDVsW6gJ/vdESIOWXmFHT89qRjA+GnUoJ7OwNG1OtNIFaw493nJK90hmCY2O/jXJoeKWmE4f5Q1uHiJ8hYNfH8Tfl5LqykeDCczBBPT3IURzQ57Oh0ZwQ6xeg/RTMHVK+dFeYJChvxcMHc3CtA0yQRLqU9aJglES0Hx0Alcbn7/fxx5zJye10exUys5d2J3HJDeq11UD/NIy0U/7Z0NYKV4IzATUCwxcyw/KaL4iAqsug6e1yVTyvdSUcLY=;gUGKZCeMA/jCLZx69XKiDA=="
 ---
 

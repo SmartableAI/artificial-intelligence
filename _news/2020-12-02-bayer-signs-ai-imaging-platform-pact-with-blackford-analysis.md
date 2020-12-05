@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/bayer-signs-ai-imaging-platf
 webUrl: "https://www.fiercebiotech.com/medtech/bayer-signs-ai-imaging-platform-pact-blackford-analysis"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bayer inks pact with Blackford Analysis for AI platform for radiology suites"
+    excerpt: "The AI platform developed by Bayer and Blackford Analysis will provide access to a virtual marketplace through which healthcare professionals can obtain and manage various diagnostic imaging analysis applications,"
+    publishedDateTime: 2020-12-05T03:30:00Z
+    webUrl: "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 56
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/04/28/127928-bayer.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology"
     excerpt: "During RSNA, Bayer and Blackford Analysis announced an advancement in the use of AI in the imaging field; they entered into a development and license agreement to establish an artificial intelligence (AI) platform for radiology suites."
     publishedDateTime: 2020-12-01T14:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terr
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "RoboGrammar: Automated & Optimized Robot Design for Traversing Various Terrain Types"
-    excerpt: "MIT researchers’ new system optimizes the shape of robots for traversing various terrain types. So, you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person?"
-    publishedDateTime: 2020-11-30T11:57:00Z
-    webUrl: "https://scitechdaily.com/robogrammar-automated-optimized-robot-design-for-traversing-various-terrain-types/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 47
-    images:
-      - url: "https://scitechdaily.com/images/RoboGrammar-Optimized-robot-Design-System.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "RoboGrammar System Automates and Optimizes Robot Design"
     excerpt: "The shape of a robot determines what types of tasks it can perform and environment it can operate in. With current technological limitations, there is no way to build and test each form, but a new system developed by researchers at MIT allows for these many forms to be simulated."
     publishedDateTime: 2020-12-04T13:37:00Z

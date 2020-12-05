@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bayer inks pact with Blackford Analysis for AI platform for radiology suites"
+    excerpt: "The AI platform developed by Bayer and Blackford Analysis will provide access to a virtual marketplace through which healthcare professionals can obtain and manage various diagnostic imaging analysis applications,"
+    publishedDateTime: 2020-12-05T03:30:00Z
+    webUrl: "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 56
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/04/28/127928-bayer.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Bayer signs AI imaging platform pact with Blackford Analysis"
     excerpt: "Bayer is strengthening its ties with Scottish artificial intelligence developer Blackford Analysis to build a one-stop shop for applications in medical imaging."
     publishedDateTime: 2020-12-01T18:58:00Z

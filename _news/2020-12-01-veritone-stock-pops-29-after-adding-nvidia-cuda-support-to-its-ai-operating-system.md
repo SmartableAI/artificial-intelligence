@@ -34,20 +34,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning"
-    excerpt: "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,"
-    publishedDateTime: 2020-11-30T12:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+NncAmOnPz2KNQ2DSprotz/7EplbH68+bClug+InnxN2wMs/R1q37v7gOsZmQykBZeggy/6PozdixtRiJQUxKQi7+FbtBqv2972pTUh4iElno8dImguzVgJkbc0/scPSE/8TV/KlHFrqIg9C8p6nG5kZRvRYiNGu53Qbs3fc+meK1b3eE6NDi1FI9h7wlBMA0eZCnV6Kti0feWU5Ih3tLm+eH4YSic+xndhearbgAP0CDvvEfRVPLE95RS9BoHsYdtBbFKzGIayRX3/ewrbIfuOhknc4qGAoRXEylZ8ir0qrPqDZI1lITgJMsgaFvV0SpvTTvV8PVRYsKHfFH9P4HmUy7vqeSdGQIKyNjMGKFc8=;EEInPkCeq6JlvGaSXeol/Q=="
 ---

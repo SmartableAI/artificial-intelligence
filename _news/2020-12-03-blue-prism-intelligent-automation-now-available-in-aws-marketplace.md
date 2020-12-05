@@ -48,20 +48,6 @@ related:
         height: 630
         isCached: true
   - title: "Appian Connected Claims Solution Available in AWS Marketplace"
-    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to"
-    publishedDateTime: 2020-11-30T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-solution-available-in-aws-marketplace-301181279.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
     excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
     publishedDateTime: 2020-12-01T06:46:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-artificial-intelligence-f9496c3330fa806d1d7d9df00988bc36"
@@ -76,6 +62,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lQsKpF4/JIta9JaTIPh93QIMCe+tQ4j9ORQZ+yi+xavhYmv5KOxtFxqqNiKlllzUXw6MM5Sj8q3ZHqUyozV64MAcFVha2SZxAYkYddgv0scuF8F5RHAf2Z3EpqRyd6QFXQFJDzAcRFgDy/m9m8AbHMoLApBet0i/OvpqsREQT3Fxp7NwCd0iHL5GgVm1EKHzjEh+MkYpKeoouoAlJUvg+73ydflbu5FRIx4hCmPkKP3tqwd+C3C4Iuxc6BkkaONztVJsqJd/9YLPSA03XIHSJt6U53zXqCtoBNMB4YRpRhb/zqlTAt5pkEkgstVPWYfQZfPpIciLVEua2UM6KbO+h+kpTStroLP8QfsxjVKsrOA=;ZBMW3Z3paZi48Wx3Mlu7kA=="
+secured: "w5Wb7p3H62YNH1NiE+3ujonHWXTg1x0zzqcfO38eP//6DuAs+O7hZINkgQI4uSBQd/kBtUv7sT3mmZ9K+FFjYRCjGyqs93Cf6qUo/fT4xwlaMFw4axEf+u7y7lKXvoOZcS46S8xq0Tm+Wkva1McvepKRTuLNwE5RNRhg/40s/N8bx5f+/hOggTfOI4THCVEJzeAB+4S9/Wc+Zs73UZpQtwJs3M7+PNeOeONtGyAKX201Cah4YOOKes5TDSL6if+hCAX8JwCzO/Q8CuIJB+14Aej0BA+38bkKtUOrEgk6Q9Q8gWFhKB+6Swf95vezf0uEPpxU2n/6S8hjs6K9v9C7045+okqwnOhcl2gN37sSoxg=;RVkMIvMuI5PhZ6tdsEMmuA=="
 ---
 
