@@ -5,8 +5,6 @@ excerpt: "New Delhi, Nov 14 (IANS) The popular machine learning framework from G
 publishedDateTime: 2020-11-14T10:08:00Z
 originalUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms"
 webUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms"
-ampWebUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms"
 type: article
 
 provider:
@@ -14,17 +12,11 @@ provider:
   domain: businessinsider.in
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
-  - TensorFlow
 
-images:
-  - url: "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412"
-    width: 412
-    height: 275
-    isCached: true
-
-secured: "AZv8rUQChXU+n22gZM3ThlWAE7L6WXLgHg1KpbIIakvVFW6+0WXEYRK4jBSTFjfgYUmf3GWYWCSfY2Om0NNcjbAnsMQJWAc3yNGTSbPM1SHH7hDOly9DSM23OeZGaSMl1feg1xrqrgdYN0jrPar9AeS87r+F5IZYHsM+7gzvzrF0/F4Y2K33kpAcw4iAtlRww2WY0iHfgL06yy2YoTey/UrBKFoes+qYQGWa3d7hvFJdoRGGQ99divLSD5zjuc/xCMS++kIQoWCLESKA2+zrRbIZcO5dcHd6BD3pE/NNFlxiM9+5JkItVsV1HMciUf9Eyp1naQQ7G7MEpYKSHB9woIry7T6v57tTBsQpzr66fHA=;7VJ4PlzryddXZk6qcUlGQw=="
+secured: "hevW9ucrk8ZgHjhPqE06gcbm1FpO839N9+7WtrCCJ1xNecTxqhPH/hQuczzxqMbznAJq+ylMJnQ8zDFbeCmMxlWWihECQpdt79cHqAIUuhUNNjAwoNp++0nNXk0bPMUMDR7KJ+0atecc1e0hd1fBr7X67BKJE5nWAXFv1camnOVjnDpBR0gVLvgbV8qrloW92ElaasX0GSjv1BS1MRy43Ecy+8v6oLosn42xyahAeRZ5Y949PwO2i/5ZvxvkuszX0ayNhHZ+AHw/OEzbYDd8Ls3Nw+BH4Yqb4HskZlP3HmPebOl77Jfmtq1onS613ME+i4efT46pgtYbPkrpPntU2TWTZay8Wt+SEtgHa/snBUE=;PaCiF7swCiIaJSfuwbY6dA=="
 ---
 

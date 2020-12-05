@@ -1,23 +1,24 @@
 ---
 category: news
 title: "Veritone Achieves AWS Public Safety & Disaster Response Competency"
-excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has ach"
-publishedDateTime: 2020-12-03T16:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
-webUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has"
+publishedDateTime: 2020-12-03T19:50:00Z
+originalUrl: "https://www.marketwatch.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
+webUrl: "https://www.marketwatch.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "BLzRhAKY1Vlmv9mGv2eUySqTaiLfyyFlFGD0vRkkC+Fv5R1pWy98kQYluDIAGp4Vu92/FCKjzSq0RRYVqNd4VC/W+dnPVQ2/FfhklKPKeVbbb0whIlyM/A1F/kG2PsPfa2BK+URP3K0vdoK02VdHaf8ZfP9CVqRZj0Y5Mi+GjKg5KBzqJzJtZhrSaeKI0OWBO9zW+MyhdO160un34B4xlNCQsdZwdofRSiimkisaF5hAicfgcAxjxJq/AzCPrQPCSQUJxzKCO/2i5O00/kkESF0KWiDRIevU8K/2ZjJfuN6o0y9wUvH1eK5cYf4My+vPxaUc7w8aRziBWvTBqGqbGq/nO7d1OpzGVQ3Yx9S+C0k=;JeJKOFzbINgvie4Ink4GsQ=="
+secured: "KJRpjw1TKQkaVpBMc9EHhSBcom8DFrxD+P9Ag2UtPREoLW7DiByccSedaf7rkw8e9XrpxsRie443fRC1lgpZ1A6VR781EziRWuWyvfKRNeeehFYXv9/E+DkwuhNkIFFfyUTn5SjVnRBniDSfivzcw6ultJ1vkOyP4KuaQWkLixRDmE5uq1apza+q0p58qcBxEd+LT9L2JZtfiJZmP0sQTNFC/pmGZLSSYHnaK3tj+y6ZNzzO8yiQ0xDEysKv0WfzIIEFL/0QycvByPFr1iYSZkhmmczfsGdlIT1UF14/Ny6JCzLaMUwx8drQxib6E8Ufv1vEwfjLO72AZCth5xR7lUpwBXmMs+D0HIQuFEhrKbY=;w6vlSJQQV4XdFSCVjSBMog=="
 ---
 

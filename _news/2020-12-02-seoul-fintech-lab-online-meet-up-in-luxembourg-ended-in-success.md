@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success"
-excerpt: "The online meet-up ′ 10X Extension in Luxembourg ′ held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:  Andy Choi,"
-publishedDateTime: 2020-12-02T08:19:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a"
+excerpt: "The online meet-up '10X Extension in Luxembourg' organized by the Seoul Fintech Lab on November 26 was ended in great success."
+publishedDateTime: 2020-12-02T15:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success"
+webUrl: "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "cORlfAFQzgt5crlUqD95L8miiSEdcNPjCwbQq/UgS7zYwftDk/zRUV+ibpkdobk8E4YcLbbfBVMdEdHSdLoDVEu7GVenOBH89SMUgWX09n25KySxyioZcQzftspgrE2KL4B5Lyqq+Wm/Zd1wHhrmd9EcZ7H0Q4dgyHnPD7oQ6rfNdOs4CgCXc9G+tt9bzWHDI3c+PzirsKnApw+l5g44Y03Enq8DXDd+gtNjNfYynPU6uHegcZZchR8Ls5GgwrWRn+E0wE4ZNCUYknoH+VhWFxjI6N+czsS9EA6lNk08nz+a2O8CtbIT41GS7LJKA6fxg2oRqodpax8Kkfr/GimpOvnkaOqvT3rNJe7tkkWiEx4=;pQqm6JGd7tvAGxmPYPnokg=="
+secured: "pFOIe6WBL6GLBfL3LbXI+3of1WjSCwhnSMyaTo8/63nO/JTtsmYKuneux303MEKhYR1Qm/pGUnhGxZZBS7x+WiPx+Yi5waSivFcpf3f7eGzbMeVo30oMS6bcUbZaw1o8YazR7qknAPqXO3srpJDcZGJRI8Esorsz0Q4pusFXivjtLinrKOO5/wXU5houoe21m8GjoRp3D415li9PKJ15xdmthk/r4AL94Th7WIVApwmQRFvlkI4dAiYzrfCfyKN+V1w7BUU+Ko6kxgkUjGlQ8AqaS/esOa5/2eY71ir03jjWZQq+eFJXTW2PRdXbfrTyPFFhMvhVuXxrjYWWSa+MuJH8UJl/VSXtmbYmKztFqV8=;yTSXAZUdvzTvPoXcNIvpwg=="
 ---
 
