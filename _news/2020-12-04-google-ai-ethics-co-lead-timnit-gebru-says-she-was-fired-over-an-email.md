@@ -290,17 +290,17 @@ related:
         isCached: true
   - title: "Google researcher says she was fired over paper highlighting bias in AI"
     excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
-    publishedDateTime: 2020-12-04T21:38:00Z
-    webUrl: "https://www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+    publishedDateTime: 2020-12-04T23:27:00Z
+    webUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 57
     images:
-      - url: "https://www.sun-sentinel.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+      - url: "https://www.baltimoresun.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
         width: 1200
         height: 900
         isCached: true

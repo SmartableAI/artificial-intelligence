@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Not To Destroy The World With AI"
-    excerpt: "While some developments in AI are enormously positive, others, such as autonomous weapons and the replacement of humans in many real-world, decision-making scenarios, may be negative. Should this be a cause for concern,"
-    publishedDateTime: 2020-11-30T08:41:00Z
-    webUrl: "https://www.kpbs.org/events/2020/dec/03/how-not-to-destroy-the-world-with-a/"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 39
-    images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/img/events/2020/stuartrussell.jpg"
-        width: 400
-        height: 581
-        isCached: true
   - title: "How is Europe doing in the world AI race?"
     excerpt: "In the great global dash to sell cutting-edge Artificial Intelligence, the US and China surging forwards, with the US a chest ahead; then thin air; then Europe puffing, sweating, and frankly not doing as well as it should."
     publishedDateTime: 2020-12-01T17:47:00Z
@@ -66,6 +52,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Europe-and-AI.jpg"
         width: 616
         height: 410
+        isCached: true
+  - title: "The 6 Challenges of Implementing AI in Manufacturing"
+    excerpt: "AI Automation and AutoML 2.0 are critical technologies that can address this Skills Gap and accelerate digital transformation in manufacturing. 2. Technology infrastructure and interoperability. Manufacturing sites often have a wide variety of machines ..."
+    publishedDateTime: 2020-12-03T01:45:00Z
+    webUrl: "https://www.americanmachinist.com/enterprise-data/article/21149328/the-6-challenges-of-implementing-ai-in-manufacturing-dotdata"
+    type: article
+    provider:
+      name: American Machinist
+      domain: americanmachinist.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/12/dreamstime127457438_1540.5fc841b6af54f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 623
         isCached: true
 
 secured: "UaS9BcJ55SazxUP4V0WBHk7Iy9tIXoVZAvleND2nnYMLgHJUbvMeysC65mCsC+xsimc3oidKC+bu1t5l47Axf3caQLTEHRzn9DihB/PuC9tZWdzUENFSKdMKzZaO1rXtZ3kBWfj+StKeUN0YJ57jdRCP2s1h8B3hAgORy+Nd8UQIoQs7O/8+UiUJDtNJdWsWJwyH6C2CT8PcsIQVlV4TwGqXLbvJDlBchF+o+6btrtkz/VUJ6HWE2Z9rkOGzRC/EFbWuQt9vVNmX03IHBcNzKpogVT3RHdSe2C3QnaJDawopV0V5n/G5oP7kiuOnBc1lZCeWvZZo3calghtCGKYxk3+1t8p4dI4+ysCsVKRlxpc=;lLyHsvwHQUWBbTDaPryN0g=="

@@ -2,26 +2,26 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T14:23:00Z
-originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
-webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+publishedDateTime: 2020-12-03T05:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Purdue University
-  domain: purdue.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://www.purdue.edu/uns/images/2020/hospital-mpcLO.jpg"
-    width: 800
-    height: 545
+  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+    width: 720
+    height: 490
     isCached: true
 
 related:
@@ -100,6 +100,6 @@ related:
         height: 372
         isCached: true
 
-secured: "cPnh9jyNGCMYkXOkk/+2oRzN+IpYqFT3yboKtz6uJCfr/v3p3flu/+iNeyw+Emd7amQsxK9omKKtqOg4rpRm98WGJjuNwtF/9hJBUJlg2Lm5q/T8lE9K+ohozwOjnYRB91/RxyhUmUrNLtfLqZnt1We7pu9EhAVDa2WAEMpkQ5ugknJd7rT2e9QHWcyf8r20v9g1IE1uu0zninzf/BXepHvu+26kdZ7/bDblLbeTp+mJVQl1MlkEL0YQ7vhzQVrvE3TopwmZ1zUH95gXlg+19/CzYuq4o8aY7SELSou5JiHS1HBMe7RfsBV+3w/7UVs1MSfG5Gctgopja6X+mvFkS13Q6Dtuu9EZmq3i+sPKf3cJB8rSbDPXf0tmDU03qlRg9Oemcb97vKiGG72IRjLrii3WqDoDmaRFG2GiIFq+Sa3FC2P+ZIHS4wRG2UB8O4mZeygsIMoaNe2hIsK5X+2SivIQIAy9E1qsNmhNFKfB9CH9idG6iI6LYkAxBXOlipKkIoZfgtbIq+9Qq9DpD6gJqg==;XaQNhM6Pb1ixsNZuPoxJog=="
+secured: "iSydAB68vlAUI2Q3X1VPAG4riCOmnD+h1RGOu5vgvLBw2uT3MDWaeVUjAEYUAXz1L/p7PP0HeKjHMSFaragjb35UKw2ZtmHp6Z8KfWFLSEDwmiy3FKGuVU78OsPBJY0curhD6KkbcGUdUisi4opXoL7wD9s6AvW7D4rubMbWG+eol4KNizb4C7xXIazbwYNFYn7iYeQh8X0zgkLGXwPq1uXPr3IJGa9IAGJIY2Q5SjIb2Mn4g8XzPGCihWlxYU1fM43ngvf5qIwXjEBuAR4kIBGJ/h8Mpaq4BMW/TNP7cn8x4HaiB+qpaEFI2oVmm1DiWP60oDgk5PP/Ul+S4UJ8HES0rmYXc6iVzueQIKpXlTo=;zcozUVlTu8H3kfz5PV71Pw=="
 ---
 

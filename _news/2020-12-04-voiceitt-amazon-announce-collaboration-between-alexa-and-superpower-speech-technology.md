@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/amp/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Using Alexa is tricky if you have a speech disability. Voiceitt could fix that"
+    excerpt: "Voiceitt, experts in speech recognition tools for people with atypical speech, has developed an app for Amazon Alexa."
+    publishedDateTime: 2020-12-04T23:02:00Z
+    webUrl: "https://www.digitaltrends.com/news/voiceitt-speech-recognition-app/"
+    ampWebUrl: "https://www.digitaltrends.com/news/voiceitt-speech-recognition-app/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/voiceitt-speech-recognition-app/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 50
 
 secured: "6uQYj84FCUjXUBsoboafFRxQUpujfO49wnsSRB1mV6qzpNxGy6YTFkHk7p3878hhJ4ionxc3ACiOPKaOwBNMjwRe6cciQGe/IERku4itCWlozdOgs44jUH1Upf8eLEgiL0Psq9aSb7A0CcC3hNKd/0Mr5svVjVPJxPhcSYM8mKQJLgq0l3CKQx1ePdnreGMZMU0NNOyNfEbD/DpX8yI/NbrKBODl9Z6ykPHoMciLpwp3XcZ3hE/Sv60iThRzDwG1tcbFjFjhhzFMg3k3VxhawRLN0/+PZDLatlwFVAGpNn5Nj1jqpUnbRGVGJ1LxxozUgeE2YVgIxsUZ7Vio53oR6cF3bPo6guQIazmB8N81Kn7+ooc0pLqg4MKd5M+oODE/mzSI6nKVsZggWlD6JMgXI8q6N4zuFZkaQy9yywv19/Jav8eHHpBcMg0uSGD29LyjlyOH9eeITNDac/rDs6T0cwPpGKiGqxB47LZyzjq+HSkOGPKDZaG0w0DWQ+nB5GnXuWbPRNPH+qflVF+UkbhYvQ==;MhEP/fQ7m8sZQqtzXKjAGA=="
 ---

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-14-espressive-barista-understands-13-billion-employee-language-phrases-out-of-the-box-bridging-gap-between-ai-and-the-semantics-of-human-language.md",
+      "title": "Espressive Barista Understands 1.3 Billion Employee Language Phrases Out-of-the-Box, Bridging Gap Between AI and the Semantics of Human Language",
+      "excerpt": "Espressive, a pioneer in artificial intelligence (AI) for enterprise service management (ESM) and a 2019 Gartner Cool Vendor, today announced its AI-based virtual support agent, Espressive Barista, now understands 1.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-labor-productivity-and-costs-63b0d94f783548b29f1c64c392d0b885",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-labor-productivity-and-costs-63b0d94f783548b29f1c64c392d0b885",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
+      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
+      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable.md",
       "title": "IBM Watson Demonstrates New Natural Language Processing Advancement in Premiere of \"That's Debatable\"",
       "excerpt": "ARMONK, N.Y., Oct. 12, 2020 /PRNewswire/ -- In the debut episode of \"That's Debatable\" on Bloomberg Television, IBM Watson used a new advancement in natural language processing (NLP) from IBM ...",

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-goog
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,56 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics"
+    excerpt: "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else."
+    publishedDateTime: 2020-12-04T23:05:00Z
+    webUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google AI Researcher Timnit Gebru’s Exit Sparks Ethics, Bias Concerns"
+    excerpt: "Furor over Timnit Gebru’s abrupt departure is the latest incident raising questions about whether Google has strayed so far away from its original “Don’t Be Evil” motto that the company now routinely ousts employees who dare to challenge management."
+    publishedDateTime: 2020-12-04T23:33:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 74
+    images:
+      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2020/12/timnit_gebru_google_1028811898.jpg?w=420"
+        width: 420
+        height: 280
+        isCached: true
+  - title: "Timnit Gebru: Google staff rally behind fired AI researcher"
+    excerpt: "Hundreds of Google staff have signed a letter backing a leading AI ethics researcher who was sacked by Google. Timnit Gebru says she was fired after sending an internal email that accused Google of \"silencing marginalised voices\"."
+    publishedDateTime: 2020-12-04T15:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-55187611"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55187611"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55187611"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/18299/production/_115796989_gettyimages-1028811892.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "j9O0CusWDCGY9fX807pi/yumaEBtob2FS+axNCF+yzwnQhyF+r86xLueZpBUhE0Vf6qfWv0odZbU1FNy6AdiNkMRW2g6FNQmas5JrBIB42tixevQyyDYHuHDVWyI1Hw4BNxSpTd+9uIMGNCLiV8JBqaB6AjGc+TGyxI7Wep1ceFYTUcvvaGXia75ccnUNJ8DyornMGwmAXIg4z3C1jLhnR/6RMkU0MX4CHc2JQNcSyMbiVBHOuE+ZLzRslrHz3L0Ma7cBx6o0pGlYNUKjPTqYAC6W8DAQAVHzUoMViV4MK8lRKjKYr0UdlYXSfKcjOAl9B4Q0SD7X7XXVlssyVw+rQf7CpZdfe+9UVmeEdu0Jifq4JEs6rA6kgf7XsQKOMgyX8j+ebaYle4EwLN7NYU7DRE8gEiFIlxh0v0ebQq7kCoxnlAJ3xNB0HdwLX4K07UpV+Cir+hdM0Uw3PqaauOcyxwBkKoSDsw+ajhJtCEtWH3JsI51x08TqG3zaYavZ2zNzWO7x1huSd+dcNnHbVVXHw==;00HJna9cL4zl1lTJHQSTeA=="
 ---

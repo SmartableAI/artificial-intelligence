@@ -2,25 +2,25 @@
 category: news
 title: "Google researcher says she was fired over paper highlighting bias in AI"
 excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
-publishedDateTime: 2020-12-04T21:38:00Z
-originalUrl: "https://www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-webUrl: "https://www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-ampWebUrl: "https://www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+publishedDateTime: 2020-12-04T23:27:00Z
+originalUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+webUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.sun-sentinel.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+  - url: "https://www.baltimoresun.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
     width: 1200
     height: 900
     isCached: true
@@ -426,6 +426,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "/H9bEqWk/PXmDb0MUJkUHQPK/9x8DMyksyvZqcL0netzPHbk1qa9Z8POyw14fwVUDX9+Kf1Ne8dym601vAGHaVigDhRVJ2PJ+8w4xPD53uMIDJ7db/aoyMlh+DF5dlfVrditOouH0OoAgrQA/1IbNt1GsmVjP6/jdca28pcKmRQupwwmJQK6bO0yjJXsRc3/P9pEnWHsWyQVy0RWuM199C1iQVlIrcjFr+WF22lWgBjsIJEPvEtEmk8BUm2vHqaB6z9CPKyBRwtuXAEwQQe0t/HkErJon+Z9w9nCBruDUlD8P29ph4AwgaaAwXcKbtydFsYSvUhbd4+1amIYXNCI+GHSftR5e9TKrtuJWhKcjOI=;+o17zrpSZ6qEqxjbaRoyeg=="
+secured: "2OJDgMYmSyc2ozFEe8AUF/kuHQVIJ47B0WNZRRGua2uH8sD5je0/qyb+HNwTZ0eDxX83WDI3+VUCv/y/WXmB8VB5qwMBnjilX3XqzBxdF4GnVlxBs6fe60HaEyjFDsO3qMO2Dm+NPaqKN0r8Rvw0XtGiCGF971t9mL+f/DzD2VhNAvBOeqiNgIWXQtU4RwmxUBENQcPEMbQWj/k/l8ZAebbuqmLIs7srFmAktqu5z3sHK1VSHeOlYca0slFDEzB2E6wJ/1Po+7JpdKpnFhiK5ZO+c3bKTwfRgg4CSrg6MDu227cGSGvZkTlOm611vIjguGNeot+hioFELUw9D2lCNd0FHd4dqDd2yjs28l4O79A=;BvkElH/VJzTkl4DQIKVHxA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/"
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/"
 type: article
 quality: 159
-heat: 180
+heat: 179
 published: true
 
 provider:

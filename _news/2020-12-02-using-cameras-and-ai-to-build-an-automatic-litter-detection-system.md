@@ -75,20 +75,6 @@ related:
         width: 754
         height: 557
         isCached: true
-  - title: "Dodging AI Biases in Machine Translation"
-    excerpt: "Machine translation company Intento uses metadata to add context to any text to be translated and automates post-editing to dodge AI biases."
-    publishedDateTime: 2020-11-30T09:01:00Z
-    webUrl: "https://slator.com/sponsored-content/dodging-ai-biases-in-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 54
-    images:
-      - url: "https://slator.com/assets/2020/11/Intento-main-image_6x4.png"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "b6OqFxZb4Xb263JjYRjPhB7P44HE9vzjF3QJBjcHjo79GTBW+LyQXh/EDreA9xi5Sn50CHb5kGKUmH3vyU88wDZiLSmmlwBNPq6oMEuH3xBAlPNAzwpcwW7msCKJfd6oAFUGuSDTclTPhyiSTdr20m7r9cm3xeWnm1YOzUAvdr4pQMUVX2NznBxrKBGhzI+Rxp30MFFCdkt0MqLnMZiLhQmcV3OP2FwXLakwhBPBFGVYjTigMF4YO7d77QKiExNXS4syLCEMhPz02yOHgFPU1VNMaHWxsJ4bsvvlAuNCdh1jo2dFoRrJq1GzzWTwEA0aJCXyCs5ydMTNffTXiiJJ0CqSF3BY9wjum+L5FDtHgRT1ZxMQhcPON4/JARVgsL+WQCbaH7dyPjtN/UKnNNs6ZUzZrgJYBohiRldKtLGPRLUIYpRQX5ANwHaXbatIJDI1JgTWtV3zAWINhclj+ceFWZ18eObJd+U6wrXdc+PWs1p8gwIHHVIxmS84QdE5MkuCYa5J504qawFkBBcn2WXOpQ==;/+Srrm5zhb3/Lfr+odgaAA=="
 ---

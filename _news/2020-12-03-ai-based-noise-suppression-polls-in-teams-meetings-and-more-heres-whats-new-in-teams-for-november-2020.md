@@ -56,20 +56,6 @@ related:
         width: 768
         height: 412
         isCached: true
-  - title: "Top 5 FinTech funding rounds in the Americas: November 2020"
-    excerpt: "FinTech funding in America has remained evergreen in the face of the economic downturn. The article lists 5 FinTech funding announcements made in November"
-    publishedDateTime: 2020-11-30T07:54:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-funding-rounds-in-the-americas-november-2020/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Top 5 FinTech funding rounds in November 2020 (UK & Europe)"
     excerpt: "Check out the top 5 FinTech funding rounds that took place in November 2020 (UK& Europe) – Italian FinTech Satispay has announced a €93 million ( ($111.2 million) Series C funding round co-led by American FinTech Square Inc,"
     publishedDateTime: 2020-12-01T06:05:00Z

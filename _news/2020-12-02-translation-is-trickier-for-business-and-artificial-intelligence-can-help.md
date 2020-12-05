@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 557
-        isCached: true
-  - title: "Dodging AI Biases in Machine Translation"
-    excerpt: "Machine translation company Intento uses metadata to add context to any text to be translated and automates post-editing to dodge AI biases."
-    publishedDateTime: 2020-11-30T09:01:00Z
-    webUrl: "https://slator.com/sponsored-content/dodging-ai-biases-in-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 54
-    images:
-      - url: "https://slator.com/assets/2020/11/Intento-main-image_6x4.png"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "nSTRhjaJV33K41gla3OEZgkLJr9eKStAFhmwn/jcJM44bE2Lc6Vx6jxC8i3OoXOlw4ZS0oXMh9WAP912jlLwGaYBhr2jBJbkE6jgyYwFUVFN8dqJCBrIgbtI6U1JJyIUNdqFHZ0LPh41aOXlaBwhekxz5FV6Eug/5nFMWPcL/dAQvZebsXUrz36fiMVU4Q5C2bLd2a+8sU3fJna2UZTg4MwxSxHd00W4+rlK0n46bzOc1H/Q+Ph6y2LrD5MEXFK4WIK9MVgpOcM/W1nJQq5sp28mSowA5wUg0WIr29ZAvsCGF6wcxB4Oghqs2uCCVSM3SElezE0exBwGc1WV1sw4g13KLeiFzYT8U3UOSag0Xkr5hvxoD36QmzV2wRLMxyHksHOTiMaL7BP3E8oZlhvUfPoT+P/bZ+5Y8ZzUpWNGgaaVrz5jqBl0nUZ2WxLdBwHg+Of4JdOz7g7XpYkcEv7YFM7yXHn1seDZXjwcBjm03y6VgEJIsgs/vqabuxEe278xKE6QS8P5ulEsCfd5Kwn1kg==;xRV6RLcPhrmkV4iJMNME/g=="

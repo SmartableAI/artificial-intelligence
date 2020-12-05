@@ -59,17 +59,17 @@ related:
         isCached: true
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T14:23:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
     type: article
     provider:
-      name: Purdue University
-      domain: purdue.edu
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 38
     images:
-      - url: "https://www.purdue.edu/uns/images/2020/hospital-mpcLO.jpg"
-        width: 800
-        height: 545
+      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+        width: 720
+        height: 490
         isCached: true
   - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
     excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"

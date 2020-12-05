@@ -1,31 +1,25 @@
 ---
 category: news
 title: "7 Machine Learning Stocks for a Smarter Future"
-excerpt: "Stock Market News, Stock Advice & Trading Tips Machine learning stocks represent a promising long-term opportunity for"
-publishedDateTime: 2020-12-01T14:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+excerpt: "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new."
+publishedDateTime: 2020-12-01T11:55:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
 type: article
-quality: 75
-heat: 95
+quality: 71
+heat: 91
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
   - Machine Learning
-  - AI in Finance
-  - AI in Autos
 
 related:
   - title: "7 Machine Learning Stocks for a Smarter Future"
@@ -54,6 +48,6 @@ related:
         height: 343
         isCached: true
 
-secured: "NABS3j1zZoU+iYKmNsz2iuXETw2XFgDAjCUplwuEwPtcAkyezrF2aTgueYS3yS3QxyVWYwI99FgLQx4ZwuvYJnl5bzmoKCs5kWFPOvmoV71Bz8KmjXGvoCCallqQT1HuvCKICkwtIVXoAox4UA+g12oyx3ULZDWBx0ySBeHRnZ0vz7TI+SYHwZQq8pTps7P/RvdmVG3IRGsg3wYqm5LAaBCcwTub6ACkMhR7impqJ86t9LbJZat713/W4lmgTyFOU0donq2amlY78AjVFfLKfHNvzqb3+tBC2jNupKWNb9U70xqXCFz9Ro0lveqpKXeuzhBE76lw2KMsY6ltOXvoojw6lELut44czAn3c8wGsCCwJ6MFLQCyXZRUg1XrLcS+5RDS7ApNo/6F3BF5Zr1Jo4QTpQsf2YlMpW6ypRVg5ybxPexeShAWpMItnu+iWGWiJKTKGkjETql2OSsD6nuxXSAluvylX5a9/kYFpP3zcrLHk2scu9Csr9NtiAwkl/AxAmmEJfQtfLakwuwjbF7DhQ==;KAicz/2JwnEKCRFLjSwdQQ=="
+secured: "UPTicZJkPx4y3KkcW3bfki0Iu2G4ORGoWQtjfU4s2dw578vAaFynCG6A7eqiH9N1ctSeZ9ThAJ6qBf4wVW6matm1bX94GtvITDNVNBBnF+78vYKBTUT78AcmAxP8Hkde/5yEsbV6Ow9c5xHp1Zogz5rFr3AsaljBCxj8Z9T530QZlMtK4eu4AHbwLxa7UZha5BNfKSE1eVodKh04aZjdZXeTXQo8DgjmwCrKFWz79WrKn6pYMXhJBR8Gt6EG2FfatJVYTh8xoCQ1RZMW5FskX2+2zmMF4r1te8y67wZmyAFuEEErBmvKqK1pBmsTbLdIh6il/ez7xgNtwK7agUNlvHWdMBSHpZDv+Vhole3RE2k=;/3uErEom4iipTaOgv/eeGQ=="
 ---
 

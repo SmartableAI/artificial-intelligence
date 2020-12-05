@@ -57,20 +57,6 @@ related:
         width: 768
         height: 412
         isCached: true
-  - title: "Top 5 FinTech funding rounds in the Americas: November 2020"
-    excerpt: "FinTech funding in America has remained evergreen in the face of the economic downturn. The article lists 5 FinTech funding announcements made in November"
-    publishedDateTime: 2020-11-30T07:54:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-funding-rounds-in-the-americas-november-2020/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI-based noise suppression, polls in Teams meetings, and more. Here’s what’s new in Teams for November 2020"
     excerpt: "Microsoft has just published a monthly recap of tons of new features announced for Microsoft Teams in the month of November. From the AI-based noise suppression capability, polls in Teams"
     publishedDateTime: 2020-12-02T18:00:00Z

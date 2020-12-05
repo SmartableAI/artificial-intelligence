@@ -2,26 +2,26 @@
 category: news
 title: "Self-driving robotaxis are taking off in China"
 excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
-publishedDateTime: 2020-12-03T15:41:00Z
-originalUrl: "https://keyt.com/news/money-and-business/2020/12/03/self-driving-robotaxis-are-taking-off-in-china/"
-webUrl: "https://keyt.com/news/money-and-business/2020/12/03/self-driving-robotaxis-are-taking-off-in-china/"
+publishedDateTime: 2020-12-03T08:52:00Z
+originalUrl: "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html"
+webUrl: "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: KCTV News
+  domain: kctv5.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
-    width: 1024
-    height: 576
+  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 800
         isCached: true
 
-secured: "rYoUvO3P8knGKNGEleOHIz4ahZT7v5U8s/jbVOUrh3jmCYlAyH65BMFfeWSs1ZhHXeOyJcn8aqvPqGdJ1tQKKkjPmxnnKSpiCHXjAaXMXLJw5hyF+PzbLdJNAEGzQWZDGb1UWdFJXhma4hFRuQOfSulz8bOx3JguPjy/iU/KExAvUpKyJoYRYY2cpstahUOZap1MOkRQ1D6oneoEXOglkvCeniENFx3QnrAJHnsgOyek7KoXQvR8zHMF+il1A1WTQLouYC7uTryl7p5VnWom3u8m+snS0iIG0OA8sOVMZIMnNQIgwzHmDXu/j2LAyab4jW6CM0qojA5pQFjFMK1PTbfE5kNg0tXST8r+Pf19Urk=;3IC1LKtzgl956XGBNcUWTQ=="
+secured: "+FKxhg4U1z6D3tsaH7wHJsvQB7SPB29JpFdCISM5QjzOCCiQmpTJTDlz7wx6ddMQ/QCovPgiiG5EuRo1+H5aJebNoKynuMkWhr5GaO8EZ7r34MUOLA56n1MWNp5pGthwQf4JLI67uZGxKIxYN4h4A7t0CATtvzwX8ngH1EA+/AfcDWJz/TwPPApYYZzaA7qO3hBouLwMsi8JX4xgfWf9EJNbIkaC9oENRCage6hTI8SY+aQhNrYk6Ot2ag/sguDu6XjK+T0Ruwe73rqQtwKuurKSyQkXFhbybBKLbRLtkocPZjJ8RK8Flpe1GENJGp5rKx6u92BIkL550SptitcjTB6IwILSGy8g7TxJ+ub8KCs=;C17XjQV34V3+LB9+Pfhzgg=="
 ---
 

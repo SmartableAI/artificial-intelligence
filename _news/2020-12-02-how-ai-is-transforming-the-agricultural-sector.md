@@ -108,17 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI coach that turns millennial into leaders in just 2 minutes a day"
-    excerpt: "Berlin New York November 27th 2020 https bunch ai New iPhone app aims to disrupt antiquated management training and make the secrets of great leaders accessible to everyone Companies spend 366 billion on training globally despite the fact that current"
-    publishedDateTime: 2020-11-30T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
-    ampWebUrl: "https://www.openpr.com/amp/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
 
 secured: "OJOZvthYChHQUJcCOsgjAq0TSkmVKfVCpjZkQgpmliC+p1CCwZKCj6bZl0BgtlO6yYdzv9e6htQLgHV+iOEL8OeGgYGXeRklXVXMQ7AENoJ2bLuVZ9elW4iobWkHaebe5XYMzvcWH4aY6TqF+1canXoq909JrwPQY3Q8IXMKXTnH19pJymMsAoOWJZEIChl1hhf2dyOrht3M9pEhc/C4/UX6/rKIcmr0Dn+F4HPL3o+BWOthC8FRUGxprhdtGSs+SURaKvD/ivyHq/GlMNrhF7dhOFRRXOUBvXExCNkx6CeoLfZtcfztdlvC5QxGf2ysNdB90YG1TIe6flaTgURnjYu7O7WS/H0k7wCq+nA1csAP02trCl4b9MMIplkN+p+xIkTtB4XgqeupXYR8znCCFamqZR1Rm7h8qRe0uVY3jzFYDbeiQ4lP7C9Pm58vMEnnJTv/Y/+fgPqLCPDGB/e9Dh1DWXABN7emX3oalSXDt30iIKNrWK/JLaEAxxWg1yzbOjAFBT0Nk4/aRYGhD9b1EA==;l0fT3iUjcmsj+wuIPL5HLA=="
 ---

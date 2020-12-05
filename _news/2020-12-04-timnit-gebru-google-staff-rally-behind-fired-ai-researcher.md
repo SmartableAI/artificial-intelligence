@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Google staff hit out at effort to 'silence' AI ethics leader"
-    excerpt: "More than 400 employees of the US firm signed a letter saying Timnit Gebru's departure was 'a moment of reckoning beyond Google'"
-    publishedDateTime: 2020-12-04T10:33:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/"
+  - title: "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics"
+    excerpt: "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else."
+    publishedDateTime: 2020-12-04T23:05:00Z
+    webUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Google AI Researcher Timnit Gebru’s Exit Sparks Ethics, Bias Concerns"
+    excerpt: "Furor over Timnit Gebru’s abrupt departure is the latest incident raising questions about whether Google has strayed so far away from its original “Don’t Be Evil” motto that the company now routinely ousts employees who dare to challenge management."
+    publishedDateTime: 2020-12-04T23:33:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
     quality: 74
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg"
-        width: 2394
-        height: 1497
+      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2020/12/timnit_gebru_google_1028811898.jpg?w=420"
+        width: 420
+        height: 280
+        isCached: true
+  - title: "Hundreds of Google workers condemn firing of AI scientist Timnit Gebru"
+    excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
+    publishedDateTime: 2020-12-04T19:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "1eJ+g+STk9yAfdosE+lphkfcxAScCARjaN+DOJP8ND+ssdSNjwFE4GjwFsKsAfQmTE8ocEuymj4LA5NGdnak1r7cx6egzVJ4TP3f1/6SqoNb+rOPpi8ND/bfnQyThbYoZOVlYWPBn3b3Wm4XXxTrZTeARyzClhhufe6pKCJLItDqhmEK2wCs7lGWEmCIt3xwmDdeJeq8boJKUn6Cvv2gBja9ScdTCmlBaaMh4cx4uNkUU8gAUO3Fm1kcOStQLmKuQZoM3jTKEyPZSxPVQ6yMecQp35zkx9YMAX8/4fgmlB7mB3cE4BizPgzmxUuegu2XL0aGkr5X79Q3TxiLXhcNwN60L+/HUrUClIgTDz62Zdd1dkzFGFC5Q6o2i/UDCcjg4Ckb2el5T6YoBrN6xDYUv3vH8e3cJ62WKy/X84gJo4Z7GJgDZn+i7Gh0AqvW8+a7smlaERRhchzZm8pYDxuIO23OB/x72jpTP/9QIJK7lWvu9qO9CkM93GZuS/iETxYLNioDBHoCzNYSkQfQBKHRhQ==;Yj/pwkqIO19789awf7t3Uw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/prepar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -104,17 +104,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI coach that turns millennial into leaders in just 2 minutes a day"
-    excerpt: "Berlin New York November 27th 2020 https bunch ai New iPhone app aims to disrupt antiquated management training and make the secrets of great leaders accessible to everyone Companies spend 366 billion on training globally despite the fact that current"
-    publishedDateTime: 2020-11-30T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
-    ampWebUrl: "https://www.openpr.com/amp/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
   - title: "How AI is transforming the agricultural sector"
     excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
     publishedDateTime: 2020-12-02T14:33:00Z

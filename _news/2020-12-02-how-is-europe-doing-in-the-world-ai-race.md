@@ -50,19 +50,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How Not To Destroy The World With AI"
-    excerpt: "While some developments in AI are enormously positive, others, such as autonomous weapons and the replacement of humans in many real-world, decision-making scenarios, may be negative. Should this be a cause for concern,"
-    publishedDateTime: 2020-11-30T08:41:00Z
-    webUrl: "https://www.kpbs.org/events/2020/dec/03/how-not-to-destroy-the-world-with-a/"
+  - title: "The 6 Challenges of Implementing AI in Manufacturing"
+    excerpt: "AI Automation and AutoML 2.0 are critical technologies that can address this Skills Gap and accelerate digital transformation in manufacturing. 2. Technology infrastructure and interoperability. Manufacturing sites often have a wide variety of machines ..."
+    publishedDateTime: 2020-12-03T01:45:00Z
+    webUrl: "https://www.americanmachinist.com/enterprise-data/article/21149328/the-6-challenges-of-implementing-ai-in-manufacturing-dotdata"
     type: article
     provider:
-      name: KPBS
-      domain: kpbs.org
+      name: American Machinist
+      domain: americanmachinist.com
     quality: 39
     images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/img/events/2020/stuartrussell.jpg"
-        width: 400
-        height: 581
+      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/12/dreamstime127457438_1540.5fc841b6af54f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 623
         isCached: true
 
 secured: "yEOwEjuwwQi2iXRG6v68YjBdDKRfPAqJpv0wwiauShWUU6KX3rmWPfUC5qn9Amw+S/0plQbs7ltNXfQxn8b2L5l2Y/FAKO6BbRKEnzORjXAggOM+QTftXAuL1J5UxwV2zosGKiuWJqlVqRYk6+megysRJddiz+cr5cJtPECEPQxpRCu8XVlOOpfNn7y1QYIxk7CKKxWXXJFAGJgCWdXfWZLMecWfSrx0k/t9ULDo1+cBrqZsmvY0FT4jql/GO1t+0dVUUgqBx00qMKNZZF+B18zqZzLzR6guVXUNQx9RpRJlnldLbf2sQy2R/4uWJuqvI90h8xRZcCHicfJwrDL+d4rRkAxYiX/vaYFP+Rg0A5XkEPuF4C0ONgQGIdN/dJ80a+7vkp7d5Y3P8A3lG/ZSUphbdSVulfvx9mVSm4xr26KbNxdNZN7FklWETpcDeHnmDauXQfZdJ4bzXCQJifDpL8VUerBy+5k1Vz0tdxvr0OHF8nvFd3MKHlkF4SuWVObY2t1A2G2osQ+nTG6MeF3Ktw==;G7CVbWoiAZ2UELtwC1Dtng=="
