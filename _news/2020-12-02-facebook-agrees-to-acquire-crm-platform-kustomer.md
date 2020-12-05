@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/"
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/"
 type: article
 quality: 159
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Daily Crunch: Facebook acquires Kustomer for $1B"
-    excerpt: "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for."
-    publishedDateTime: 2020-12-01T00:35:00Z
-    webUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/"
-    ampWebUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1026686014.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Meet Linformer: The First Ever Linear-Time Transformer Architecture By Facebook"
     excerpt: "Facebook AI introduced a Transformer architecture, that is known to be with more memory as well as time-efficient, called Linformer"
     publishedDateTime: 2020-12-02T05:06:00Z

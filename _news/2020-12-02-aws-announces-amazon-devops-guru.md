@@ -67,22 +67,6 @@ related:
         width: 580
         height: 551
         isCached: true
-  - title: "Amazon unveils ‘Alexa for the enterprise,’ SQL database support at Re:Invent"
-    excerpt: "Well AWS made three announcements in that product section. AWS released Amazon Rekognition for image analysis inside apps. This can help users with facial recognition technology. Amazon Polly ..."
-    publishedDateTime: 2020-12-01T00:01:00Z
-    webUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909"
-    ampWebUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 41
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/12/AWS-AndyJassy3-620x250.png"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
     excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
     publishedDateTime: 2020-12-02T01:57:00Z
@@ -124,20 +108,6 @@ related:
       - url: "https://www.techbooky.com/wp-content/uploads/2020/12/aws-reinvent.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent"
-    excerpt: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent - SiliconANGLE"
-    publishedDateTime: 2020-11-30T23:19:00Z
-    webUrl: "https://siliconangle.com/2020/11/30/cloud-first-initiative-and-embracing-change-lead-agenda-for-accenture-executive-summit-at-aws-reinvent-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Accenture-Executive-Summit-2020.png"
-        width: 898
-        height: 492
         isCached: true
 
 secured: "rVUXWTNRkbjTkX8EMF/vvp9AIE20huOdTLDjNclgS3rJUDut3kiVsWwvXjC6I9c4pX4A+te4rfGfsbCyOOIq0EYqV/VXfDMz9cHiKjYahso3mQ23Ctoe0xyFxiohXUpcjHXE72GXlXjL7pVdz3/sWlW6iYC9gX9eg0FJ1dPVFfddbGYJaJZwSyJjkh8BD1hcv6qYKxBSQ6glLxv4B62wpsrNo5DK1ryv4rPYDSfz3tB0Ck9E0sZ9vUC7MmSGzIXlkDWswvoDaMmdeaH1tFmQ3qmxwc04hmvFLtuos8hDzbIMVS794ztEaqkdlWgYDZ6e3/c5WknBFzpMjvmtqjWDRY3x3qBjwXoEBRDZwV+31O8=;JCsGaQo5nySYb8wggTvVhQ=="

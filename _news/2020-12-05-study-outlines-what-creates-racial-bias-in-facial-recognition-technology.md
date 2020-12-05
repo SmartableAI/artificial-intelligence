@@ -3,8 +3,8 @@ category: news
 title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
 excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
 publishedDateTime: 2020-12-04T17:28:00Z
-originalUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
-webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
+originalUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/index.html"
+webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/index.html"
 type: article
 quality: 38
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
-    width: 750
-    height: 500
+  - url: "https://www.utdallas.edu/news/files/otoole-alice-500-2020-12.jpg"
+    width: 500
+    height: 626
     isCached: true
 
 related:
@@ -90,6 +90,6 @@ related:
         height: 438
         isCached: true
 
-secured: "KoqQm2pklfco2zI69Na/ta8+vwFMabvjC5obfMU3oRblNsVo3+QhBtRHGZsaLF/xEXoqd21sG73EBtrXALLygaR3Vei7Y9GIa5EA+yMTJHOroX+9+bGsCcXRZpidyqbd6GGAouvIpc7oVoxmZeQ/3Qy3KhamFtvaq69fwQPBfizWYZZ48k5FMASe2WAalV1OeHaBcStTL+ZI8PSx0WdfxujvW/oGdD99QSvuKaNwyl5zkuCabOvYtxawB7aMjk+PzOpjuY1KhwggCHLhfJpAZaTqaM8hsKcr0q9WLFSLtdfybog2gTfH3U8jrocc9iU5VqD0a0NrUzogEIzQUBfuD0o+/veNbpUF8It+tfRAvnwbNTtl1CC5Fvf+RyuXdgI57V64X4lmtyE0YyO2F4Vj15dks64tRr8875nNdGFtGjYgahQ/AOSQkJK3SHiZb+D0VgwF6G+9lFEKVDT2tIQRiNdsnLu6JOKatE055LpA5zBAa9sdhePNc/W5EzMzJLE9HX/a/Uk2KY28r5XrfGlXgw==;Hk7vot1iwB/GyeIkNRyRPg=="
+secured: "eNro3/EHrlx/4XfTkfrOVFMXZhDW1Z00GbZd8J/QG9NGCYfwV+ZBNbUQiO1S2jmMYj8M6GcNY3ucy/24XsyabJsBsNzY+hHZQ8cZH1Wt33nR8HpDnGPDN1lqv0rxk6mFtYdKq3M1EN7GM6T/sBEZkixle88VfEIW2zD8U5ptYTeSWGV7VG67vlrdsu4jbVckjnUWMUiJq4gsG156sqUeUl+Ibcc7v71ahXLfpZXBSR3j3Cum6TTkR71SCpC6hmh7RwnaY+w/+6ufF2mtoFSNV5FLN+JlMJUZ0eWuqbjRGRq9ZYfodKQ7oxRyApKRcYT2f+vKwiQUGr7GQgN/zFi6edrR6n7+9pomcpTncGlMcX4=;BUkoCXiDLc6Ob+0bZ1q9bg=="
 ---
 

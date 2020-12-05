@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "ROHM Announces New VCSEL Module Technology, Increasing the Output of Spatial Recognition and Ranging Systems by 30%"
-    excerpt: "ROHM ’s newly developed VCSEL technology achieves greater accuracy in spatial recognition and distance measuring systems by using Time Of Flight (TOF) systems. VCSEL has become popular in recent years with the adoption of laser light sources for spatial recognition in tablets and facial recognition in smartphones."
-    publishedDateTime: 2020-11-30T23:39:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8091951/rohm-announces-new-vcsel-module-technology-increasing-the-output-of-spatial-recognition-and-ranging-systems-by-30"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "i/qWQ06YEzLNM/4yGCbxAa7HyH/zhzLUruM7lsL10hDncZZqtmwUGeJyQNDW6kVWqt1vNFgTZpj3H5YV9rEC+8MhLzpYLOwretu1SpYxTKI7PAamRFW7z5gP+B2UnvPaXjmlIckCb3P1zjYb9VxBPttwsrU8TJgZjmaVrHDlPk4VCJ6hKgq5i6XtUtZVHTvzzZBSYsDraxMsqlXK0z2bS3vcDaKACPsffYD/u51c844YmFn6teS8yJppLe5gUcnnZHeQCTsBtBNmG8i3DftIB8S1ALQ+dkzSEEhLHAPKKLS1wOPNSrvnj6TEUhl7dvGDlMMqWdMuhSORUDZWEdk6P+dTdlZlQUDIF+DLzLcLtH4=;0gALNOKEAEmJZSAV/T2zEQ=="
 ---
 

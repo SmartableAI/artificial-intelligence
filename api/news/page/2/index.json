@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-04-watch-teslas-full-self-driving-beta-detect-and-avoid-a-deer-crossing-the-road-at-night.md",
-      "title": "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night",
-      "excerpt": "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below.",
+      "path": "_news/2020-12-04-using-jax-to-accelerate-our-research.md",
+      "title": "Using JAX to accelerate our research",
+      "excerpt": "Here we share our experience of working with JAX, outline why we find it useful for our AI research, and give an overview of the ecosystem we are building to support researchers everywhere.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/",
-      "originalUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/",
+      "webUrl": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
+      "originalUrl": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-driving-beta-avoid-deer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://lh3.googleusercontent.com/ZaEyeo80XRS5DaGC-T2Ex2B1kdrfwK-93Md7sqf9ijfb4AU88Zu61yFOhTRnhRKCOR2OQ0z2QQmUdWxrT4XXe_QTP_X1HJSVfpqe",
+          "width": 512,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/",
-      "publishedDateTime": "2020-12-03T14:33:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "DeepMind",
+        "domain": "deepmind.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -476,7 +476,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
       "featuredContent": null,
       "highlight": null,
-      "heat": 386,
+      "heat": 396,
       "tags": null,
       "images": [
         {

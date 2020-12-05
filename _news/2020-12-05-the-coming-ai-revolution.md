@@ -57,6 +57,17 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Trump signing order on principles for U.S. government AI use"
+    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
+    publishedDateTime: 2020-12-04T18:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Lenovo Spreads The AI Message Far And Wide"
     excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
     publishedDateTime: 2020-12-04T03:30:00Z
@@ -100,20 +111,6 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "CIO Leadership: Using AI and Automation to Strengthen Enterprise Efficiency and Improve Business Models Will Drive the"
-    excerpt: "Discussion at HMG Strategy’s 2020 HMG Live! Florida CIO Ex"
-    publishedDateTime: 2020-12-01T00:50:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-30/cio-leadership-using-ai-and-automation-to-strengthen-enterprise-efficiency-and-improve-business-models-will-drive-the"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 43
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "iSHl+yX8228XczGeTRj2F7tYsDRBkQh+Wd1MqEFEFTOTXOVv9wI/5kzKKb1HrGapi9gAHaxBV4u9YBPiKJBMAs1Q7LzOiX7vTSUgiDiF08+GjEtT/V5SgnLWAhN+145dlndLL6FPnQoOGkqdQ0+spiVNQhRcrgqwq2z+5yYadwsL8LYrKcYucJHyAh9HaZg1V9wngdOu/0nYSJndBMqT84/aRPHe4cLejZdaipR1hkkj04GH7Vo4KuEjxvWbWJtrrN+4p2Uw/wOLK5y3k2+Z9irOpDqf9a3bFryMkuEJYDJDLD6ErUX8tHnLwxLn/FvMBI03uyCSk9CohVGe02q4CG7q6SwpMIW1S109P+r4Tuc=;3uhtYexCWDPFeCSDYcQ22A=="

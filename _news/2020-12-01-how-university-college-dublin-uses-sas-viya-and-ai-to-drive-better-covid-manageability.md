@@ -73,19 +73,30 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
-    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+  - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
+    excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
+    publishedDateTime: 2020-12-05T14:30:00Z
+    webUrl: "https://www.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP.html"
+    ampWebUrl: "https://m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 51
+  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
+    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
+    publishedDateTime: 2020-12-03T14:23:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 36
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
+      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
     excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."

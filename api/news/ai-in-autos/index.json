@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-06-tesla-reduces-full-self-driving-package-price-for-eap-owners.md",
+      "title": "Tesla reduces Full Self-Driving Package price for EAP owners",
+      "excerpt": "Driving Package by $1,000 for owners of the Enhanced Autopilot package. The Full Self-Driving Package, also known as FSD, is Tesla’s bundle of advanced driver-assist features that also includes the promise of eventually enabling complete autonomous driving in the near future with upcoming software updates.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/",
+      "originalUrl": "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/",
+      "publishedDateTime": "2020-12-05T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public.md",
       "title": "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public",
       "excerpt": "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30",
@@ -104,58 +156,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-watch-teslas-full-self-driving-beta-detect-and-avoid-a-deer-crossing-the-road-at-night.md",
-      "title": "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night",
-      "excerpt": "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/",
-      "originalUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-driving-beta-avoid-deer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/",
-      "publishedDateTime": "2020-12-03T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

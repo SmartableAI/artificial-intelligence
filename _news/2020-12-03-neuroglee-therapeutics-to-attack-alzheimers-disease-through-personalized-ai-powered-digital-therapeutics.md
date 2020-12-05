@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to
 webUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1956
     height: 1024
     isCached: true
-
-related:
-  - title: "Machine learning model uses retinal scans to detect Alzheimer’s disease"
-    excerpt: "A form of artificial intelligence designed to interpret a combination of retinal images was able to successfully identify a group of patients who were known to have Alzheimer's disease, suggesting the approach could one day be used as a predictive tool,"
-    publishedDateTime: 2020-11-30T23:45:00Z
-    webUrl: "https://www.news-medical.net/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2016%2f2%2fAlzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "QyRp43pBpfP0r3eSgGemTmojermtXjOs12Z2B7ejS2Tu4rZsDXfJnRcWfpwPMUj99BUXJAiKdxnHHWxxg4rcJ1XMP+vweRp1GOHG5tX7USRUZ9r+BcIgwS2FcohQTejpbfKBMhfW95bJjcAo6+Ulnx0mk/bQQAbEutQlRLcyqrMdeKWbsjUK1TeLtxn3koMBaIXtFfa1cwqrF+MRP3Utkj12/h498YsogP0mG2QkIo5chG6H2oho/ZQXyfDDevZ5VRUu2DpSGysfVB6aFIMcfvpPE41/IiE0vbrsFwPaVIyrlsjb+p1ANT5n6uX1NLywKS3JIDbXC308TPesA4aPfSBsAkYEjI3+/KzYVSOdb3c=;wsha6tLwZQOpOAtJsIHdQA=="
 ---

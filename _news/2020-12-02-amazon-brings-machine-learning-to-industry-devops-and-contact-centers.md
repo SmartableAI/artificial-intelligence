@@ -73,22 +73,6 @@ related:
         width: 580
         height: 551
         isCached: true
-  - title: "Amazon unveils ‘Alexa for the enterprise,’ SQL database support at Re:Invent"
-    excerpt: "Well AWS made three announcements in that product section. AWS released Amazon Rekognition for image analysis inside apps. This can help users with facial recognition technology. Amazon Polly ..."
-    publishedDateTime: 2020-12-01T00:01:00Z
-    webUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909"
-    ampWebUrl: "https://www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/amazon-unveils-alexa-for-the-enterprise-sql-database-support-at-reinvent/388909?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 41
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/12/AWS-AndyJassy3-620x250.png"
-        width: 620
-        height: 250
-        isCached: true
   - title: "AWS Announces Amazon DevOps Guru"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru, a fully-managed ope"
     publishedDateTime: 2020-12-03T11:34:00Z
@@ -116,20 +100,6 @@ related:
       - url: "https://www.techbooky.com/wp-content/uploads/2020/12/aws-reinvent.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent"
-    excerpt: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent - SiliconANGLE"
-    publishedDateTime: 2020-11-30T23:19:00Z
-    webUrl: "https://siliconangle.com/2020/11/30/cloud-first-initiative-and-embracing-change-lead-agenda-for-accenture-executive-summit-at-aws-reinvent-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Accenture-Executive-Summit-2020.png"
-        width: 898
-        height: 492
         isCached: true
   - title: "AWS Announces Amazon DevOps Guru"
     excerpt: "Atlassian, PagerDuty, and SmugMug among the customers and partners using Amazon DevOps Guru Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru,"

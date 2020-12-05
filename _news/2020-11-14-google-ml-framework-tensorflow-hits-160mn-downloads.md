@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Google ML framework TensorFlow hits 160mn downloads"
-excerpt: "New Delhi, Nov 14 (IANS) The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads."
-publishedDateTime: 2020-11-14T10:08:00Z
-originalUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms"
-webUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms"
-ampWebUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms"
+excerpt: "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open ..."
+publishedDateTime: 2020-11-14T10:26:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html"
 type: article
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
-  - TensorFlow
 
-images:
-  - url: "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412"
-    width: 412
-    height: 275
-    isCached: true
-
-secured: "nPcKglcYraCyhxLBclfezlNtD8dCG5lQOoZtBV6Q8Es0KOIZi/JSJP9uqbdbcgp3kzutiz3Uh4yQO91SSMR/x3smtHhMxuu4t3CPC3r5nMh0p1PpfZ2qhvRphFfF2y5la6DgrZFO3EQ6Z/QQZUCMn2AaUp480/SnkZaulvUKKspSiHC1D5lHIpxuSwWNwP+0pU8suKo0rLv3wW598u6J8/zlQtRBu3njrkEPq6jIq8vMYFsdGeB1g5Sm9o8zuQISf0t181oZLGjijwPJHiwIMgY3iiqH8XSUrtpy74LNo2NqeRtUmzcpyY3WU6B7zY/xDAF6uvn3cGACa/PGBodDrOdq4KGupVbNCqIZEdlHuSU=;xD3XM1OD6e+tnzUnImWaTg=="
+secured: "5Hu7JxE1sOpAeovguEQPI1Cpab833HwB/9WsUTzZT4StZnvJG73ekOJbGOZClKjbauSQlJVn50UiGb7sg0XvymsAuHsBkNVZnC/ckq74ugoPIgxGJnPIlZtqwvxWMlJDjBwpbcaLSfxSP79VpnlCM+Vq6UQ/62e4JNvji6uHFsSQdHWit+iUtM03Ir6U2RPkPX1X3BMPFKCmlswbyuXTUIGXZB8RqdOLsV+XlTeh7i3CcdWZPWodFPfabYBzOJp62e4IlU/vcXLwxLnmPCj/61UUMfHSF6ozSxgCmFj7E3Tw14TkirurDXE81+5GENW2CDoiBjk69Ljx7Vy3pIjAfqOrnJMfYUT29wgAjzs+t50=;10Dj5hWEsoHYssKVvjSzXQ=="
 ---
 

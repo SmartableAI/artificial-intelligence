@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Manufacturing Cost, Revenue, Growth Rate, Regional Outlook and Upcoming Development Scenario 2020 to 2026"
-    excerpt: "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-12-04T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-manufacturing-cost-revenue-growth-rate-regional-outlook-and-upcoming-development-scenario-2020-to-2026-2020-12-04"
+  - title: "Computer Vision Market Size, Share, Business Trends, Increasing Demand, Growth, Forecast 2023"
+    excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for computer vision stood at over USD 9,"
+    publishedDateTime: 2020-12-04T12:00:00Z
+    webUrl: "https://www.dcvelocity.com/articles/48238-computer-vision-market-size-share-business-trends-increasing-demand-growth-forecast-2023"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/89b71c25-6d63-44fc-88c9-d7760606ee76.jpg?crop=true&height=430&t=1607020726&width=640"
+        width: 600
+        height: 339
         isCached: true
 
 secured: "z3jbw9Krieuf4vwsdiwJ6QR4REoT3IbNQtLMgL5LpsXoTzcwFouQrhD0UzXrgjXjeE562d660jm2CfEfqhlJ8pyjOl8Cns2I1mucxfWK0qrr5erS3soofdgoZaXyxqN72zHbHZc0C9BYev9LvdFAxghjC6c7MgOIx2kw2fOdcSc+VQP033+Poic3kZYu5MpaBi6gxKP2gDzCcRjIZXDmbKGbXcBYWsp1hBiVj2tWehAiBvH5SISdZFm8Dff3gWpTn8QbYYSJz7qLYUlZWX3L1cs7gGiNsd8XteGydXqqzhToU9QITGYhpDUkqDF7gZqqS2YIcewinPGc9/IG36Ka582ZYgMYSgbQOzu06dE/V8k=;YEFnyB9TDp78r2VJtkw0LA=="

@@ -244,20 +244,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "The Times view on DeepMind and the protein-folding problem: Acid Test"
-    excerpt: "Scientific research is painstaking and it typically involves travelling down many blind allies. Not even once in a generation, on average, is there a revolutionary insight that transforms the body of"
-    publishedDateTime: 2020-12-01T00:17:00Z
-    webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-deepmind-and-the-protein-folding-problem-acid-test-jbmmkvw86"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F970833ec-3352-11eb-8874-74fdd66018b3.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
-        width: 685
-        height: 385
-        isCached: true
   - title: "DeepMind accurately predicts protein structure, advancing decades-old challenge"
     excerpt: "In a challenge where researchers try to predict the shape of newly identified proteins, an AI system developed by DeepMind determined the shape of two-thirds of proteins with an accuracy comparable to laboratory experiments."
     publishedDateTime: 2020-12-01T02:34:00Z

@@ -2,26 +2,25 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T05:08:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+publishedDateTime: 2020-12-03T14:23:00Z
+originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Purdue University
+  domain: purdue.edu
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-    width: 720
-    height: 490
+  - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -87,6 +86,17 @@ related:
         width: 640
         height: 384
         isCached: true
+  - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
+    excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
+    publishedDateTime: 2020-12-05T14:30:00Z
+    webUrl: "https://www.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP.html"
+    ampWebUrl: "https://m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 51
   - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
     excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
     publishedDateTime: 2020-12-03T12:04:00Z
@@ -102,6 +112,6 @@ related:
         height: 372
         isCached: true
 
-secured: "bYISIxwdPHTzf9QFTznNjri/+CHG0PyAOSovW6FBiG81ldahS8EI157t2MI01AkowyUeWei9s1uPDYLWdVGhf2uAq8l0uEO1ZXWNk5Auz15QpPegIZ3yHd9XDP1rRKlYEUa51yM6EULbyFeEe3t3x2c7pYUbpxBZ1zzHlfWegTrJCl0XQo0fFNkDzTD7ZCEcFiJBz/NQKPxc3NdYzkGIW42Er5baTNmoicPIuOC08vrHkYdSQSO1kVKmiSSusHFcb68ZpieDZhQ0vd8xfHU8UnLczCFXEkQ8cRK+1ZaBkU+vFZeTjuHO2M3vEesgLB8JiEdMm1nCKcgDk6VCxtGrR4wrIF28ot+a+BSsnuwJVFc=;HBQkI1JFvVD7o7gmsurz0w=="
+secured: "tfz+Hv8HrXJ6w3PhKNAuWlf1Y7eIZDkYqztSQ0qDCs6isXoQlXoltBbPJKYtcmC0l7Snb5yW7MNinpses71/5c2HcC9KVstelKXeFO8Ie6Ob6XS7tnNjiwKr2G5xJd5l8/8a1UsRMUzSnjIRwc87jXNOFKSMK6VRaFq4dqiZqjK6VLYMubjVYDMeK6jXJxOHIkit6p9SJh5zyYN8w35cAJvXvPNk97l318Br9Aqw4ctyuheoqvVcfIPg7yH69FNWRIlG7H2VurZSr/APOhlA2jAkVGqZ96b7+dKwbkLawO5I/0+ACFwn4smHBVIpvtUJKHIcTr3JC8aYYkDvt9hj+wWAWQ0GsR74Q7frmh+U+CY=;LAhKMaXihNkM2t+ZHTQgKg=="
 ---
 

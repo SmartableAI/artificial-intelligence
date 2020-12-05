@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/"
 type: article
 quality: 81
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla reduces Full Self-Driving Package price for EAP owners"
+    excerpt: "Driving Package by $1,000 for owners of the Enhanced Autopilot package. The Full Self-Driving Package, also known as FSD, is Tesla’s bundle of advanced driver-assist features that also includes the promise of eventually enabling complete autonomous driving in the near future with upcoming software updates."
+    publishedDateTime: 2020-12-05T16:30:00Z
+    webUrl: "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/"
+    ampWebUrl: "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
     excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
     publishedDateTime: 2020-12-02T08:00:00Z

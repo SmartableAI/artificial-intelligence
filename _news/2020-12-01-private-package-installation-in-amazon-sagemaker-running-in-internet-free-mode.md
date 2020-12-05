@@ -57,20 +57,6 @@ related:
         width: 802
         height: 462
         isCached: true
-  - title: "Securing data analytics with an Amazon SageMaker notebook instance and Kerberized Amazon EMR cluster"
-    excerpt: "Ever since Amazon SageMaker was introduced at AWS re:Invent 2017, customers have used the service to quickly and easily build and train machine learning (ML) models and directly deploy them into a production-ready hosted environment. SageMaker notebook instances provide a powerful, integrated Jupyter"
-    publishedDateTime: 2020-12-01T00:59:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-data-analytics-with-an-amazon-sagemaker-notebook-instance-and-kerberized-amazon-emr-cluster/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/28/ML-1222-1.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "kAsSAhhayoBWLpMCme9B0jJhfgh8VRkqPSCcZrMCO7jSg1zuhGuRhxl65NaDcPIyLb17ufttZwyOpB8DNB8FBL57jWqpLnqfMCqoQixwSdlrwVxNJUlSsiHFefNB+LsdYcDU1BbLytVjWT5YWJHIcRUlhNt+FJmQqemJN0ittT1RnXFqJzqJUALH7K7Io4XQzoxuBEuML3Cc9hwbtsgwNS+QHuHpTYIl4FJftTsdpfbjahlq27VJA6HEgy2+/gTe8abaUT/pJIR5YHs0R54OCJBmiWlScVhi/JyMKBiqzzzDYI2l8IF1h6+MxspmoYXgD6iV1Xq1wLHPwGAup2GbIw6n8BIzeDnvK6Ua7nGQm1Q=;X5YNyDD5c0YNs0aBzTniNg=="
 ---

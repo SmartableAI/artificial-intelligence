@@ -42,22 +42,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Mark Kelly used conversational AI to help win a Senate seat – Jaweb"
-    excerpt: "Conversational artificial intelligence has rapidly smartened and scaled since chatbots first entered mainstream social media in 2016. The first few iterations of chatbots on Facebook Messenger were simple,"
-    publishedDateTime: 2020-11-30T23:25:00Z
-    webUrl: "https://elmoudjaweb.com/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/How-Mark-Kelly-used-conversational-AI-to-help-win-a.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
     excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity."
     publishedDateTime: 2020-12-05T03:28:00Z
