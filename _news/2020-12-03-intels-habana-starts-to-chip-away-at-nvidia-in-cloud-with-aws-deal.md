@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-publishedDateTime: 2020-12-02T19:28:00Z
-originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
-webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
+excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+publishedDateTime: 2020-12-02T19:21:00Z
+originalUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
+webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28C22F"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F"
 type: article
 quality: 106
 heat: 166
@@ -118,6 +118,6 @@ related:
         height: 640
         isCached: true
 
-secured: "rp2Cfv6yt7cZyh2RElAVD62vd3GvXjNJSI3V4C7AJWA+ziyqnnJ+GcFKvvdFsi+dWk4mlpzIeceZx0jGRfTzYkfH4Wr2OKPx3vtfTm3KzyF7/+v6hQFSh+Fs1R1OzqzR4MV38lS3RYtJPcH0TNLZTgL2MKKQG/fCHV0UGeSJea57mlnMkeiC8xS2P0DqCVab1e/hC9XYpqA583JFDBh5gE5h/Zr5U82GmhTpSrbC8FUPfj3+wlXDRU0RrT0S4ix/3ka9ol+H98Qk9adIRVA2WvmIA/f8OOSrnwfqJ+jMp+vyZcdlioccIzppR/Ub4C1sJSb121fpko+0TPyCr53CLwudEF3ELPvYCLje2u5UqaQ=;CBZmuzNOi/+2JwNIMX2ZKg=="
+secured: "Q1g70bfrej2YlMEl2fa36J2wlfPXoiT4Aq99N4j8T9j6bEJmdR2dGceG1xMwcLqkUzUoXX3wV77wnTilvzPuIa9HZdoFk8wf8Ftn4s0BR4nLufOskd15pf/zDVw41SnOgqd8/aaR5T9Ua5b+dCjY0Y1j1/uBU+S00nmx5dsh6Y9v7I+WPM5Vh1R67X8aPJeuXRLIYazvr7nd7rxgfP59yhotlbwhNPzu0eu+BhaYw+uJzavPeqGVYX6Il5FQJ24fPViJwAA69vEgnjOVsAEG5l5OBAlWHaeQ8emfZPtMhGn3d1BJW03QP6id8o6ra/FLlI0jbRWpaCEoCC90WxWMpSdiEjrClOcAT/9yL3Ya6Rk=;cBiOmyth4iP7d0LOjHXaaA=="
 ---
 

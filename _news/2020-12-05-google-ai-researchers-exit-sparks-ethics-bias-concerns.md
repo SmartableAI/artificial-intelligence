@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Google AI researcher's exit sparks ethics, bias concerns"
-excerpt: "But internally, Gebru, a leader in the field of AI ethics, was not shy about voicing doubts about those commitments — until she was pushed out of the company this week in a dispute over a research paper examining the societal dangers of an emerging branch of AI."
-publishedDateTime: 2020-12-04T22:43:00Z
-originalUrl: "https://www.chron.com/news/article/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
-webUrl: "https://www.chron.com/news/article/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
-ampWebUrl: "https://www.chron.com/news/amp/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
+title: "Google AI researcher’s exit sparks ethics, bias concerns"
+excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+publishedDateTime: 2020-12-04T20:58:00Z
+originalUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+webUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: myhighplains.com
+  domain: myhighplains.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
+    width: 1280
+    height: 878
     isCached: true
 
 related:
@@ -76,6 +77,6 @@ related:
         height: 600
         isCached: true
 
-secured: "e3Y6nMvtUVialOEd6VnSZ3AEEFH+GWzC/J7LSnO9ii+x4mT76ddaL+0VJEiukQIPmM3ud+Gs7/R7r8ACvphlbs9aamg6tc9YTRFxiOjR+TcMPDMWOV+WPgINfb/C8V1xrU5Znv5874lGxU63diQeMYpXIx67zWL98zY9yR3Co8s+hZThx5wwTcw+hH86pOfehXzo+Uh5scQdoNU7CSfLxGnT3vJNbvSgqaqRHJbGEEyOskY/Y6yB2AUK8GQOPsRtvB7KZvgldR7u1SP5XPkBv2ZvDmKTnEY0kjaA3AoeTpUGiiVGIYeZ4dTYy/sDLEghDeOYxbnabUH2Xz345IzGKYMaxH6jq38CN/8WxZMxx/4=;NtzgYB9IF7G/JA4wZdTGwQ=="
+secured: "fEcJMcCA+oV7kU+nL3FYKA10U9TobcuT/o2FPNRbDf1CnlqHuOG+pOVdPbBndmXpbo+8LCycRtPo7D0pF2uofYA2QEPhODg02iB/ApgOOGXh8a2gz2Jud+/aNw0Ro2O1K8JbR7hm365VPdLUtPqjn5nnbwzYzvwY+CIMfebxInLvG/4UWHGnBNnwgau41HGPdOT1egFgFMC0cqFnm5/WbQfPqRKK67dY0nkMpSnNqG8Pxqxe4Op3k6fnPsXTotG/I2kusqN8DJMt1gRIIGU53l3JbJ0oBYt8B/48tCFhhe3eKNLcwiwHrog5nnDHdyay+dUUfiRpE1pFQcySimjyWQOnyPm3TpA/cPug/ygsZnI=;hUGky6M0RjqMde7nE8drPg=="
 ---
 

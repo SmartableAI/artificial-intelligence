@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-sol
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-01T170224.552-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "AI has cracked a problem that stumped biologists for 50 years. It’s a huge deal."
+    excerpt: "Finding the best ways to do good. DeepMind, an AI research lab that was bought by Google and is now an independent part of Google’s parent company Alphabet, announced a major breakthrough this ..."
+    publishedDateTime: 2020-12-03T19:48:00Z
+    webUrl: "https://www.vox.com/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
+    ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
+    type: article
+    provider:
+      name: Vox
+      domain: vox.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/y7zUeo4DTbWJ-ZjXlc35F80WFJs=/0x0:2400x1596/1400x1050/filters:focal(1008x606:1392x990):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68450337/protein_computer_GettyImages_524264596.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "DeepMind co-founder: Gaming inspired AI breakthrough"
     excerpt: "Gaming inspired Demis Hassabis, the co-founder of DeepMind, to use artificial intelligence for a recent scientific breakthrough. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century."

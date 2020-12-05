@@ -68,6 +68,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
+    excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
+    publishedDateTime: 2020-12-04T18:46:00Z
+    webUrl: "https://www.businessinsider.com/litigation-funders-data-lawsuits-underwriting-science-artificial-intelligence-legal-tech-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+    images:
+      - url: "https://i.insider.com/5fca59cb037cbd0018613d8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "EdisonLearning and FocalPointK12 Announce Partnership to Provide Comprehensive Learning and Analytics Solution for Grades 6-12"
     excerpt: "EdisonLearning and FocalPointK12 today announced a partnership to provide a complete solution for grades 6-12, delivering more than 170 middle and high school courses along with nearly 60 embedded"
     publishedDateTime: 2020-12-01T19:36:00Z

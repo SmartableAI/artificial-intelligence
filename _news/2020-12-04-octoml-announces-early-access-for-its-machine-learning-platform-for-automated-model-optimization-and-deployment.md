@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/octoml-announces-early-a
 webUrl: "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "OctoML Announces Early Access for Its Machine Learning Platform for Automated Model ..."
+    excerpt: "Today at the Apache TVM and Deep Learning Compilation Conference, OctoML, the MLOps automation company for superior model performance, portability and productivity, announced early access to Octomizer."
+    publishedDateTime: 2020-12-03T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/9300c67056da14913760a6bad9b9d850"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7vrnzfSyPItM+AoX5bUuYZQcc5ve7O/fDo/zGUmQx9QeL1f2W9gPFRBoilCxwA6OnlbY81nQadyV7bpNy3xEAoUS9OdhrGIIGIVMHr4Y8Eoegah58j6ia4sjxpzaBZE4CplwPKRNsvEKzQXw/GxnHmFwLja6kaorvBrxIxOneZlZmhk1DycZo346j8GoL9kvA93qcHAJa0ZbnS3p48P9oL8oEeaQrFme3nP4naiveDtpUaD3jemLDQGRsgp44CP0EuNLOlQZeBBDGTdSKxkcm/IxG/zSmJyiA5hv0dkxiFRKC4kL8ToTcHKv9MQep8iGVpInl9t66gip3TCcHuXrMjbRDQ5Xlszw+3+SuWPFckk=;l62OyTV3801Osuxjgv2eXg=="
 ---

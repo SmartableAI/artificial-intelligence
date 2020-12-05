@@ -73,20 +73,6 @@ related:
         height: 300
         isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
-    publishedDateTime: 2020-12-01T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-mac-instances-for-amazon-ec2-2020-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
     publishedDateTime: 2020-12-01T18:18:00Z
     webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"

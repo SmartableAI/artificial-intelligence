@@ -9,7 +9,7 @@ ampWebUrl: "https://time.com/5916772/kid-of-the-year-2020/?amp=true"
 cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:

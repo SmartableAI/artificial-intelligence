@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 type: article
 quality: 106
-heat: 207
+heat: 206
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.retailtimes.co.uk/largest-autonomous-computer-vision-o
 webUrl: "https://www.retailtimes.co.uk/largest-autonomous-computer-vision-only-store-opens-in-shanghai-powered-by-aifi-solutions/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 560
     height: 420
     isCached: true
-
-related:
-  - title: "TeraRecon Expands Change Healthcare Distribution Agreement Adding AI Subscription"
-    excerpt: "TeraRecon, the leading provider of AI-driven advanced visualization solutions, today announced the expansion of their distribution offering to Change Healthcare customers for their AI-powered Intuition Subscription."
-    publishedDateTime: 2020-12-01T06:43:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-artificial-intelligence-e3fa9bce148267798ba71fb2ecbe8c24"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "E2NRd+F3HN+O67vLoNqTF30/HPHTm0P+TwcqzaWtB9X4wtZAqEE30Tzmh/oypLKdyGS+kws9MQfsijAYPdGJpTxBSM4ThT8QMrFAWpy105AeB1YL2Pwg6ylbOA2oE4dr+zpBUiONTrVUtJQZJM6Cy8HVA6rg5kbVCK8p7NQLqz0jelkpr+bpWh7/dkFD8gA77+kzWYJylIxBKdrJS/JPfIb0oem9V6nuyYeFphLoyfDmjgx+LvBBhvlRvb1Ibc5SmnGOynNqCi54kRm34pJldVC3hPuP4DnJCrXSdMSmhqZ1JODi18tDzJqRqxPoTdza3m6s17ccdQjHl6Lrl/mBsjYHX3olOjgVaSr5VDXlVhs=;FGC+NnKdcXZhjkj50Z13hg=="
 ---

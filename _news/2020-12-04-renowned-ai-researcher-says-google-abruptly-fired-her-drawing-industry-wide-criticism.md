@@ -3,8 +3,8 @@ category: news
 title: "Renowned AI Researcher Says Google Abruptly Fired Her, Drawing Industry-Wide Criticism"
 excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
 publishedDateTime: 2020-12-03T18:14:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
 type: article
@@ -488,6 +488,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "Sl1c4QQin2DB2Nz4FfuaJw657ZVLzrNLV5wlDfp+S5IfgFcVHrKGXCO+nuUNUjucNFEa9GJ+F8fqqhDeks5cJFvXJQjlKT77hde2NkEeAkn3uF4egCCdp66M81UqSKwVCI50wtq3V+nHz9tfzlA2KcZp1GuOhncPhLDzm6fufRgzHes7lXp/v2OCkAFGfgti/K10BhPsotMnVlE/25rLVdz7gsgiJ6ZN+dbYkmMeAd9BBw+Kvq1zkNFsJX99WLE2Fs24nue6eLuVi9dpeYcVhQEWz/94b2SxtnAY/UMjmIAjB2UrHHUolD4g94fkFg2jGf6rxYlUBfaD/yVUNJg7MfQvZwMKKj4nKTVh58UFgRU=;Wl0/4PTnJ2aLqUJaGU9gRQ=="
+secured: "dzyYPXXrXpzPttDM3V1FXzpXd9L5DckYMSC2RQJ+khSh8fyXs3ceegDh6pUvFQygQztzGHtaU4o7k1yHh75g5kUtDA1nIHR212P1+E6W9wDjI17+0UEMAwH0cJxQJYq0VbZa9Gh+Mp80g/ZKEcc9cVjfj4k7cTVt1NzRZBUb+Q5y11OueCxlizOusM2wyIie61OhUnuUs3UUJx82LRk6KsHhA+KS87z2YlY0hOemTG3QjEWZvnhkU+lW4E9h5R89Ie2jOESjN11VCojhrEljC58pIa51UnUFHm2EqY6P+zTtKHfmCYshPly2LMIOAZ1M9eBWahAlRVr/bd0H7H5dDjk2tFRRKGj/iAghS2f1PeU=;TfLAPJz2X6/WUS/IPA1E4A=="
 ---
 

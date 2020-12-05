@@ -3,8 +3,8 @@ category: news
 title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to ..."
 excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outpost s , AWS Network Firewall and AWS Transit Gateway John Maddison, EVP of Products and CMO at Fortinet “Enterprises are increasingly looking to integrate both native cloud security and Fortinet’s enterprise-class cloud security offerings to protect their workloads on AWS."
 publishedDateTime: 2020-12-03T19:06:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
 type: article
 quality: 26
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 627
         isCached: true
 
-secured: "uk4yJ5qDtXwybrDSrGrER1Un/ddG3vrXjffp6zimKwHTSPQuaPBAlxPCz6fulWVwyjSXy6iKJm8VN4/j+cX7V0IxHbGUufqZXjaVtRt7qPl0j7QFNkQTBg37TPXOtl9V3WjdTk/CHMx+OYePJAtpWoxCXkvF/xni8m51eAKgYgofwvsj7+ClqRKyUsyu5LXpqpTU6DGR7/QWvsBlllw+sL+4pKgHpCN3se4Giq92pYmqO7KJT9wDdNig4UJSFibZCWg3aLCf5kA/5q/LizgZ9ZHVQSUEWT1Hg7VpSmltehN2Vi8o6PTOLJ3hGc/cl6xhkNygc64zTYuEH75xjpvrSgRzf84YOX0ftUN3LeJ0CeA=;ZfFrELmCM+e14r7gTq16vg=="
+secured: "0pu9Y81AZmXSfsbkdSCZblnQz/kzRtoUyZrCqa7qfq3OzRVLSp+OmxXSADUs2r611nZ+/9dIwbPIbBsevU6jFn7pI7f8Kc1PE/SM9+RkP1Y/e8b4lEHUBam+1/N3LxszJq+cdW8BYutWxZxV7QNJStyxaqmrC0eY59Ra9ePKh9zEAgV7gGONDXh0Pp081uBZ7A5Yrh+akxo9IgrKto3hc/Pm0DpD1uuta9C0vRdb42S/5ZZy0H/fF/RxRHAW25JMBwFN0aLZx8oJC9P0Muk+wakgaBQvfXquqmTpLacaTVj4GqjcHimlEWpRknXc2B4BOmOl6Q4U03hsVVCBZ60NRrOVCY0EC7jq5kVoBung2vI=;6nQ9jOM1Z33FPwcYGjSBeg=="
 ---
 

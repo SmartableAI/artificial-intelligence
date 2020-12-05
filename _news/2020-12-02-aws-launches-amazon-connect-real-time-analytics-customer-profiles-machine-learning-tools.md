@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
 type: article
 quality: 96
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-1200-80.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
+    excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
+    publishedDateTime: 2020-12-04T18:46:00Z
+    webUrl: "https://www.businessinsider.com/litigation-funders-data-lawsuits-underwriting-science-artificial-intelligence-legal-tech-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+    images:
+      - url: "https://i.insider.com/5fca59cb037cbd0018613d8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."

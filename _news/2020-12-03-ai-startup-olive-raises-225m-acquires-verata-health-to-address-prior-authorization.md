@@ -56,15 +56,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "HR startup Eightfold enters unicorn status after $125m series D round"
-    excerpt: "HR tech startup Eightfold AI said it has raised US$125 million in a series D round led by General Catalyst, pushing its valuation to US$1 billion. Existing investors such as Capital One Ventures, Foundation Capital,"
-    publishedDateTime: 2020-12-01T05:05:00Z
-    webUrl: "https://www.techinasia.com/hr-startup-eightfold-enters-unicorn-status-125m-series-d-round"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
 
 secured: "FEXwcN6xv9yPVqdYsY4VWoATYqbdPY0FnD8bPXmr1AcMI/Oj5h7eaYCrVhHc+lcZ+IyR2ySgZkCW6CPpcn225XD6x1hiDETEboftHlUNZfXAzaGZRjKDiidgSIqaVCCMbLPaPynJbPbMX5W/6ODSijCGVWUJF2IKPxHz/EzrFB3OBUnuszeLqUtHJbuKotP8IbwFK3qQ8RT6VbYv6MwnOE1qiRsyAKAaIUZfTI3hVtn0exNtvQVsXDKrfMDmVRM/UFApm/e6wGLu10z1HlzKxEdKt4MEjZkmJCC6yAb5XfKTrCh62+ynvCE55ObEsa3AGp/aEaf+RwHPmr1MK8gm7onHgu1kWOfDY4TU/rOaLY4=;Iqm3+wP+sHwYnnT8XJfPew=="
 ---

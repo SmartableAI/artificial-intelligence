@@ -47,30 +47,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
-    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
-    publishedDateTime: 2020-12-01T06:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-artificial-intelligence-f9496c3330fa806d1d7d9df00988bc36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CrowdStrike Expands Routes to Market for CrowdStrike Services with AWS Marketplace"
-    excerpt: "AWS re: Invent-- CrowdStrike, a leader in cloud-delivered endpoint and cloud workload protection, today announced that it is participating in the launch of Professional Services in AWS Marketplace. As a participant in the launch of the professional services available in AWS Marketplace,"
-    publishedDateTime: 2020-12-03T18:38:00Z
-    webUrl: "https://www.nasdaq.com/press-release/crowdstrike-expands-routes-to-market-for-crowdstrike-services-with-aws-marketplace"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
 
-secured: "8PhTiYlpmS4odIDJTGcUEAF4rP3fVKbmFSpsq1OlLo4TkRit4Gd/y3Bgi8yPfF1MZYyhrOWfu0Vyvw/Y3oOStg6M9L0VFQmqPl7JDeZJZCu0I8OKsUJiu9c2lf3dqZ0fXZUk05SR8YHXD6epi+gNXI0PZAdQ1fH3gvIsVPMcBhXmJEn7THOxWD4D4NzL2z672vuhvrfKppzgLIdJ3JeenzGTBzuG+jBed1CZTUQYSWqYShGAzGUQirf0XyRSThisNS+Vt+wn2Sz/outbeJUCPy9feRCJyanSxAqEA/UOIwNdVxYuGgD/MIOlwrtGb+N0LT+bJaedR0gYi1bhUP+JQcaP6YYAQM2FioylfU9S84k=;vjIrZJnJfiypVezqxhGN+g=="
+secured: "sF9WUhGt5UxUy9xb4nejL8oL2m3MN5cDOH/ghoamSp2NhPujlNz4nbC8Rc7Hq8+Eh2Mi2vVthQid4UOX9F3M7l6bEljL2VU3Ma7Cr7Iuf7Duz8Iaz8MNyJYDPXpg7LBtOREX+wjyI/W4SCThisMo7YcCG1ZB+00AFoXPObNuQF46MlcahOw0GVxgwLvaxv9iE/vTIhkxL1jIC5SG3mouSYqtselLF1thn+J5L+TE+w5OtoWUBdI2yKbmnrj6QffD/tB1hlxZVGJm6ctay/4bRMvG3F0vdq6/7QAi/jMfPVmI2jBhrAsdwDTfp/rK9CjvskLUvjyoTAHZyY2glyqvTPLMHGQDA6gJ8Em66fiGlLM=;HOLbN01uOWDo9Hoq0KN0MA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-ad
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
 type: article
 quality: 102
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png"
         width: 450
         height: 300
-        isCached: true
-  - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
-    publishedDateTime: 2020-12-01T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-mac-instances-for-amazon-ec2-2020-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AWS Announces Five Industrial Machine Learning Services"
     excerpt: "Amazon Monitron provides customers with an end-to-end machine monitoring solution comprised of sensors, gateway, and machine learning service to detect abnormal equipment conditions that may require maintenance (Photo: Business Wire) Companies are increasingly looking to add machine learning capabilities to industrial environments,"

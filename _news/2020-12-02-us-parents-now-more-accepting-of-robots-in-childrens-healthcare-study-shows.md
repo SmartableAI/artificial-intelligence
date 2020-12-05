@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-parents-now-more-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today"
-    excerpt: "The course of technology-driven change has been diverted this year due to the impact of the coronavirus pandemic. While the biggest drivers of change are still artificial intelligence (AI), the internet of things (IoT),"
-    publishedDateTime: 2020-12-01T06:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-biggest-healthcare-trends-2021-everyone-should-ready-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEZuMnFJgoT5w/article-cover_image-shrink_720_1280/0?e=1612396800&v=beta&t=ynjyNTNOFt70tBMDVZttZPEJQChlLXQdvwE7b92qLOc"
-        width: 1079
-        height: 720
-        isCached: true
   - title: "How children inspired my painting robots"
     excerpt: "Seeing how simple my young children's art was, I wondered if I could teach their creative process to a painting robot. My attempts, failures and successes led to a 15-year journey of artistic discovery that gave me profound insights into my own mind,"
     publishedDateTime: 2020-12-05T10:56:00Z

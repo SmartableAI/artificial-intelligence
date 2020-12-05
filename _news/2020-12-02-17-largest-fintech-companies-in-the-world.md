@@ -41,34 +41,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Even with machine learning, human judgment still required in fintech sector"
-    excerpt: "A COMBINATION of recent events has seen a rapid acceleration in the adoption and incorporation of technologies by a wide range of firms and institutions in the global financial sector."
-    publishedDateTime: 2020-12-01T05:55:00Z
-    webUrl: "https://www.irishnews.com/business/2020/12/01/news/even-with-machine-learning-human-judgment-still-required-in-fintech-sector-2144560/"
-    type: article
-    provider:
-      name: The Irish News
-      domain: irishnews.com
-    quality: 39
-    images:
-      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2020/11/27/185724098-663df9ae-a6bc-4750-8a26-cb2926bf19e4.jpg"
-        width: 900
-        height: 472
-        isCached: true
-  - title: "Top 5 FinTech funding rounds in November 2020 (UK & Europe)"
-    excerpt: "Check out the top 5 FinTech funding rounds that took place in November 2020 (UK& Europe) – Italian FinTech Satispay has announced a €93 million ( ($111.2 million) Series C funding round co-led by American FinTech Square Inc,"
-    publishedDateTime: 2020-12-01T06:05:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-funding-rounds-in-november-2020-uk-europe/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2016/12/funding.jpg"
-        width: 620
-        height: 387
-        isCached: true
 
 secured: "veyJ87RbGVyfqkbQ6+LxSfPSUO0C/kahva++YKtkXVCfGRQIxZOcQcCtSxaSlc1l3VNa+mx3QDuDF3bWBviLxqqpteZBPFcIsUdkSbrX4nck8mB/mTy4Vl7EYscnnyAjQ2CQ67g6CeeyUK87opHmIyMXKDbgFT2afGOQ9FRUJeh9kUk1Ld5H408YEA1yIPAo38M906KlISGj511mbxCFUWoI90G5mtto1NAsZHwWogCEDw2xS7weTVSIfnis9m/1V6dfuRGQJqCHvfiR2lCnYLQFcG4ECySWBzOO9kMY2rXB4YRDYp68QKDTuzwRBfqYxMBLtfUqD1WW2cgRoz/0W5zJkhuA1Z/MLYCnhDgXXu8+Rlxq2Mn3jBBcioHKjFCRepA7z77ZNtN8/C/CoPhKv1LiMQbrTzmXzp3V4xLyDZWOLhzanPy75i/NeGvoKaBB2zqVd+4C2ngdf2gR/kO406OouF0cirsSnMuEocL9FM+XoyyIvruHw5lcW0w9XvRHnrDW/VOmvNdyb9o0CbDOvw==;Ih5hMFnezPvCbQcawut3kA=="
 ---

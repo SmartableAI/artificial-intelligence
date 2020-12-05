@@ -730,6 +730,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-twitter-launches-disappearing-tweets-that-vanish-in-a-day.md",
+      "title": "Twitter launches disappearing tweets that vanish in a day",
+      "excerpt": "The news comes the same day Twitter CEO Jack Dorsey and Facebook CEO ... in a dispute over a research paper examining the societal dangers of an emerging branch of AI. MINNEAPOLIS (AP) — A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/twitter-launches-disappearing-tweets-that-vanish-in-a-day/",
+      "originalUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/twitter-launches-disappearing-tweets-that-vanish-in-a-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2020/11/d2b5df921ca6474ea7e09d2e27af9f55.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ozarksfirst.com/local-news/finance-and-business/twitter-launches-disappearing-tweets-that-vanish-in-a-day/amp/",
+      "cdnAmpWebUrl": "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/finance-and-business/twitter-launches-disappearing-tweets-that-vanish-in-a-day/amp/",
+      "publishedDateTime": "2020-11-17T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ozarks First",
+        "domain": "ozarksfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-one-persons-apocalypse-is-another-persons-day-to-day.md",
       "title": "‘One Person’s Apocalypse Is Another Person’s Day-to-Day’",
       "excerpt": "There’s even the virtual space of Facebook Live pearl parties ... compared to the role of the brain in cybernetics and AI research. Anyway, she likes to prescribe qi-nourishing herbs, which ...",
@@ -1419,58 +1462,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-artificial-intelligence-shows-potential-to-gauge-voter-sentiment.md",
-      "title": "Artificial Intelligence Shows Potential to Gauge Voter Sentiment",
-      "excerpt": "Some technology experts say artificial intelligence could hold promise for predicting election outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-256562/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "publishedDateTime": "2020-11-06T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

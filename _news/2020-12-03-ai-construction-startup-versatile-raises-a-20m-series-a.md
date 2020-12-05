@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "HR startup Eightfold enters unicorn status after $125m series D round"
-    excerpt: "HR tech startup Eightfold AI said it has raised US$125 million in a series D round led by General Catalyst, pushing its valuation to US$1 billion. Existing investors such as Capital One Ventures, Foundation Capital,"
-    publishedDateTime: 2020-12-01T05:05:00Z
-    webUrl: "https://www.techinasia.com/hr-startup-eightfold-enters-unicorn-status-125m-series-d-round"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
   - title: "AI startup Olive raises $225M, acquires Verata Health to address prior authorization"
     excerpt: "It's been a big week for health tech startup Olive. First, officials at the 'AI as a service' healthcare platform announced it raised a $225.5 million funding round led by Tiger Global and General Catalyst,"
     publishedDateTime: 2020-12-03T14:09:00Z

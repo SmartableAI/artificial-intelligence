@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "How AI is helping rural African farmers"
-    excerpt: "Over 22,000 farmers in Zambia are now using AgriPredict, an AI-backed mobile app to get instant information about plant diseases and weather patterns, that would before only have come from agriculture experts and meteorologists."
-    publishedDateTime: 2020-12-01T05:38:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/business-55138290"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0901z04.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "PWzTDJ6zsKELz763TC0fXbdH5U3RGK0RpLzAdbIml5QuYXVugxXHz2lvPvQtFC52D+yB+hhRj89Jj9nRy0C+0P+lbh63qSD120iY1qtW7IvYjaxwxqON/1X9xaXTlymKoqcHz/qpzHZ5ncc+O48z9s8VvV6MWiGf5vECSVHZ6IDdaQLfbSar+R3EeCnFdQmtLq4m94mCUhnJjTT/B85Rl2GUC9vmwXhSJgXoIds6af1Fi9v7XsCVFjx5EziCy+54a5ZjJNQnM9yiwOsc8tCb5Mz7OV+//AcJS2TDZhbt6/AdKjHSCvKKUcOp4FiyCC9Rq1Bhor3P9/2x9OcQyDEUtTnq27INBPTpRynxrPvv+fVpZ/PgpWuo1run5uvcdP8DIY72ig3GPrdFEk9FFS84ezkZigrYkbtSdtMZc53e+Av2k+s5m5v8bSWgbnsKH7CZcsZZiZbKxbzWQINOELXxTcFpLRfVv3BM69rxVFuvgHiFzyirixajuEWmwZ1RpMQDZKxbLUCl718QISaIDeJBPQ==;qjce/PncEeY72tXJE1LijA=="
 ---

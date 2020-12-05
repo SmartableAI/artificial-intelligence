@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-grou
 webUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December"
-    excerpt: "The annual tech conference Web Summit is opening from December 2-4 this year. Due to the health concerns regarding COVID-19 pandemic, the event will be welcoming attendees from more than 150 countries around the world online."
-    publishedDateTime: 2020-12-01T06:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lung-disease-coronavirus-pandemic-health-jessica-alba-c7352fe69122a0be643fcc21a7438acd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "zom31gyE4CTe/sQ7vzMnOBULQCHNOKTu95J79AaLMfj7DnbbN6FIP3i5Xhu0LRAa8kDz4qgruTuB6CVSayIfNfZ6PD+jmmvAOsoZJNqQy3nHT9956LTOH8ZDTAkXmkwGUlQIaYoD/nkijFaPg4loXKiCxnRbKs050pUVIh56SqTcJDPrJQpUR0gsPk0l1l9rJOA2rXsGBB/2JNQNzo2suF1MPcpTWtY/8v2a73+8gqyPSamAN7usakk7da2INmN3QtEWZZhCn0jFtIWSyLzpueWrVlrFmAtVYCiPLPc9IT8E0waVu+ZjV4jjVyDwTS0khZFnUkT39Q71N5R0FcRELr+rOg8VncAPYSJt/dTD3GE=;H3rTikIuasOCithVMiED3w=="
 ---

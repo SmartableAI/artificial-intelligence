@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
         width: 1200
         height: 803
-        isCached: true
-  - title: "How AI is helping rural African farmers"
-    excerpt: "Over 22,000 farmers in Zambia are now using AgriPredict, an AI-backed mobile app to get instant information about plant diseases and weather patterns, that would before only have come from agriculture experts and meteorologists."
-    publishedDateTime: 2020-12-01T05:38:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/business-55138290"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0901z04.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "DKJWvpbAMyqnEMeUIUz9/DeLgAGHPfuzM0T4SRnwKCMT3E6ZfPw785FnfWckoFqKRNG+TxWYjvURFbAdSM7Bd/kOp6LGGHaiXACAxijLcas2HqSco7ZrH+rnC9YbEz+ZCgFptJzgMy5iX2g9JL7FZJGRRnwbUSPkeiNed0ShG8KZ6QDxONS0G7v3va9eYJv2J0OU/y5jGHCmsomMpsStu/awZ0OqrV2jh5RICt+SwjT3/CEHX7ossOAEISLK6an+kRGTzM9rBpTJmYU3GF1Xb+U5ymaIu7gLz/kT8VcAYypMzlPsm67ZQn1KJz2Px2RAYME+HaOalkoLdcLLQhaL49kvqIqoQBPpWXG/qStsBvWbMIy9CrXwDopQykvMN2tfVvNZqx+CreSqWGqffEG3q3FjohRBh/+UCrFasOlSRVXLNLBzl4qTmTxltGGKJCqfQhTBqGdIk+X/w3pm77dkCn0uVqoHH86BpTbnWvk2uUIYz9SypSsoK/5ckLKGd5wFh4woKoYxoSb5G2sAgoe8mQ==;4Gyjt9rU+V2z+Am1ymBdlA=="

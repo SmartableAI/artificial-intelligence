@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101212518/UPDATE-Rackspace-Technology-Announce
 webUrl: "https://menafn.com/1101212518/UPDATE-Rackspace-Technology-Announces-New-Solve-Strategy-Series-Webinar-How-Businesses-are-using-AI-and-Machine-Learning-Today-NasdaqRXT"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 473
     height: 250
     isCached: true
-
-related:
-  - title: "UPDATE -- Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
-    excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as the final installment of the company's Solve Strategy Series."
-    publishedDateTime: 2020-12-01T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "RhyMvNyMXB2odmsz3sw0SPfNHQCFlxkB+omYYJehcWHA/GR8nBt4rcW+f1AIQLxXgHZfQET0SmDifx0BHoOOalMSjSzFp+FnCluIo9FY+rsNoCEvQT1tGtn0HMiEmeUhoNJ1Cu7EHXO1jqGu5SPHam3q422IV8it4BoRbR2Cw+dsAmhByO3v4oZ+37nShgg5S9nbhMf4vrj4SGUIB7VySIjPgisjgVw7Tt8hyUoUtJKvImn1T2M8w7/BqQzn7smhAfsKFbdqpKmSixo3an7x/DEmPz8diuCBEum8QngGBf4RzvyuHjRfiLR5mVpCdrG84cjk7T/y5yOlXwLdsJGpy1zj1zLoK2G/FZ7Lfhzfid8=;abnFiYtsG2cTaVwGPIJiYg=="
 ---

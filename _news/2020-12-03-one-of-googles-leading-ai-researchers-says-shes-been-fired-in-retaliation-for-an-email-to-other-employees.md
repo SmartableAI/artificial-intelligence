@@ -441,7 +441,7 @@ related:
   - title: "Renowned AI Researcher Says Google Abruptly Fired Her, Drawing Industry-Wide Criticism"
     excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
     publishedDateTime: 2020-12-03T18:14:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/renowned-ai-researcher-says-google-abruptly-fired-her-drawing-industry-wide-criticism/2759395/?amp"
     type: article

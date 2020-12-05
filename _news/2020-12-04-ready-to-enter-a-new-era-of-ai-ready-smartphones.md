@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/ready-to-enter-a-new-era-of-ai-ready-smartphones/"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

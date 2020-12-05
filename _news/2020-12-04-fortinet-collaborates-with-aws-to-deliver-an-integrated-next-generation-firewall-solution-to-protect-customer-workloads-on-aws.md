@@ -46,7 +46,7 @@ related:
   - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to ..."
     excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outpost s , AWS Network Firewall and AWS Transit Gateway John Maddison, EVP of Products and CMO at Fortinet “Enterprises are increasingly looking to integrate both native cloud security and Fortinet’s enterprise-class cloud security offerings to protect their workloads on AWS."
     publishedDateTime: 2020-12-03T19:06:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
     type: article
     provider:
       name: Associated Press

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today"
-    excerpt: "The course of technology-driven change has been diverted this year due to the impact of the coronavirus pandemic. While the biggest drivers of change are still artificial intelligence (AI), the internet of things (IoT),"
-    publishedDateTime: 2020-12-01T06:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-biggest-healthcare-trends-2021-everyone-should-ready-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEZuMnFJgoT5w/article-cover_image-shrink_720_1280/0?e=1612396800&v=beta&t=ynjyNTNOFt70tBMDVZttZPEJQChlLXQdvwE7b92qLOc"
-        width: 1079
-        height: 720
-        isCached: true
 
 secured: "VqdYWdV+QKraKw65ztVRY5sIFXRjjn5Vv2lpWGK7FQe2tcR184zvCXmpeZtWwrW70WyfUUFUs2Jxc5YJ4Wrz0LTr0VETQL5fQTa2Cm61b/1R8sQcpUzLujL0RmoE2RFAyAhHG6oH0ihifuoJPYEVaLo2Ju+wphXdNXKGBI0vZD6ObIZkt/2QkzQ7QATqS0JrwNHaDNWWE9upO6FXNLWQ3oL36pa4yiKqC6giiJzYlUhf0XEo888jVog+ChLfHyeYROWMPKniXzg0ATkQ4HHon4SJdGIbJrGjn/5PxmDYMyCYzKXj5wHXv5/PWwX9qcz7ZVtU/6O6RgD3RCpODkGZw/MhD8bMu9xeRn3GtK+55SzueP4ujysr99Y9dRDp3cA4txlBEGymEpZhhqopm0RrgZJe8aGmoxhwffvts2mOo+ODmXI9zWOHLUMuH7j3svQyQH61sDqx1lwH+rpuvgZ2U78NWnopFmu9uVsLAxXWvYvqs0/m2KOcLgx5m9s2UsCe7YuurpJDfjUdfa6r1hfSFw==;NaH+r/sA8q6ZrU+KLTeYVA=="
 ---

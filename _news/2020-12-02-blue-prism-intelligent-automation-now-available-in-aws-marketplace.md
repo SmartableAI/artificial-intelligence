@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-a
 webUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -43,29 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
-    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
-    publishedDateTime: 2020-12-01T06:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-artificial-intelligence-f9496c3330fa806d1d7d9df00988bc36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CrowdStrike Expands Routes to Market for CrowdStrike Services with AWS Marketplace"
-    excerpt: "AWS re: Invent-- CrowdStrike, a leader in cloud-delivered endpoint and cloud workload protection, today announced that it is participating in the launch of Professional Services in AWS Marketplace. As a participant in the launch of the professional services available in AWS Marketplace,"
-    publishedDateTime: 2020-12-03T18:38:00Z
-    webUrl: "https://www.nasdaq.com/press-release/crowdstrike-expands-routes-to-market-for-crowdstrike-services-with-aws-marketplace"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
   - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
     excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
     publishedDateTime: 2020-12-02T20:58:00Z

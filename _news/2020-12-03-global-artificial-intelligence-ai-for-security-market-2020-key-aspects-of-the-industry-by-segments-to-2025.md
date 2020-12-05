@@ -139,18 +139,18 @@ related:
         height: 630
         isCached: true
   - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
-    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-12-02T16:36:00Z
-    webUrl: "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html"
+    excerpt: "The “Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2020-12-02T17:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-products-and-services-847207b231414f4ab4193052ac1212df"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Associated Press
+      domain: apnews.com
     quality: 18
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "qu9QhQY6lt57txMeRCKsKoSIBhdOwuGj6Uc9AVWeWHPgmRttfFgbQAtWDBOlWMtulqmKrQEAmBSY5OKDGdlhvzu6oTUtx0NEJ/WPn/Tqh2cyBtP6hp2pel8dhy2djTrYgxCU4wut6ax24XC8aQaRRybWg9h1pBcOXVKpuAKRtOr1zfQDi3C0eg/RW6Yyv9vjLOhZUYhm5QsL1RPZt2DjtyxIgC1aLE73L0UEKKMxRl5YG8kzafJVINp/MRHZsaedmiAnbBUamsqwizFH+ORieAlBEmum5cohAEb2Z0M/hka9huTLWze7pgJqKbqxIEZZ9o5Y3y9XBQNh46v4UrnlYsmn49f6jjZbZAkni6jsKlo=;22PGUZyMPXnapbLBfRhzLg=="
