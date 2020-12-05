@@ -24,19 +24,67 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A with Zeta Global President of Data Cloud on AI and consumer scoring"
-    excerpt: "Insider Intelligence spoke to Neej Gore, EVP and President of Data Cloud at Zeta Global about using AI for predictive modeling."
-    publishedDateTime: 2020-11-30T14:07:00Z
-    webUrl: "https://www.businessinsider.com/interview-with-zeta-global-evp-and-president-of-data-cloud-2020-11"
+  - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
+    excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."
+    publishedDateTime: 2020-12-02T03:49:00Z
+    webUrl: "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: The Quint
+      domain: thequint.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/5fc4fa9a50e71a0011557e89?width=1200&format=jpeg"
-        width: 931
-        height: 465
+      - url: "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Cameras and AI Can Be Used to Build an Automatic Litter Detection System"
+    excerpt: "It’s estimated about two million tonnes of plastics enter the oceans from rivers each year. But our waterways aren’t just conveyor belts transporting land waste to the oceans: they also capture and retain litter."
+    publishedDateTime: 2020-12-01T17:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/12/how-cameras-and-ai-can-be-used-to-build-an-automatic-litter-detection-system/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/12/how-cameras-and-ai-can-be-used-to-build-an-automatic-litter-detection-system/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/12/how-cameras-and-ai-can-be-used-to-build-an-automatic-litter-detection-system/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 557
+        isCached: true
+  - title: "From Hobart, to London, to Dhaka: using cameras and AI to build an automatic litter detection system"
+    excerpt: "This automated approach can be used in any other city around the world, helping to reduce how much waste enters local waterways and reaches the ocean."
+    publishedDateTime: 2020-12-01T03:13:00Z
+    webUrl: "https://theconversation.com/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
+    ampWebUrl: "https://theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=236&fit=crop"
+        width: 320
+        height: 236
+        isCached: true
+  - title: "A smarter business with Hybrid Cloud and AI"
+    excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
+    publishedDateTime: 2020-12-05T01:30:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
+        width: 620
+        height: 422
         isCached: true
 
 secured: "RY+kgSSxdmQ5wGx1JOZUru95QdTy8fZQy+Idz5QPuZL/gEgkr1ZnH/1Hgzdm8yhJLrCPQ8WeygJfi/Fl37mUTxGTq6eoVPI/YcxEXMhgpXPbSEJv00L+VEpuH9BUBcBBVto+h6QdHWsxQnemzMGJdnKcxjsiPlwGC1xbooFSYtG5qlizQoSaFZwVS49JHXXjXMPVMP0oknzqCIR5VwmwYHowA7AVENA0k0tlvym4zAx/gLPKyHf1mW5gfBsYgku8UHnUrl9CrvG/CjN05LHJETgZtt8aeTlYHwmBJdeeZspkP3DMps+ImK1vfQb2Ggr6+Puq7OdA960yyRsL0KpCJm7ViE6XxL2FeWAm7NNtuSw=;4QRYIcvZm1Y3CIEbM0eZgA=="

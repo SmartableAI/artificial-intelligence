@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/city-of-hobart-pilots-ai-to-track-l
 webUrl: "https://www.itnews.com.au/news/city-of-hobart-pilots-ai-to-track-litter-in-waterways-558464"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 754
     height: 557
     isCached: true
-
-related:
-  - title: "From Hobart, to London, to Dhaka: using cameras and AI to build an automatic litter detection system"
-    excerpt: "This automated approach can be used in any other city around the world, helping to reduce how much waste enters local waterways and reaches the ocean."
-    publishedDateTime: 2020-12-01T03:13:00Z
-    webUrl: "https://theconversation.com/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
-    ampWebUrl: "https://theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 44
-    images:
-      - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=236&fit=crop"
-        width: 320
-        height: 236
-        isCached: true
 
 secured: "zSJtgcb5KmvcfaRs6V7k5xslsgNmAOA4z1h1ZFrdyP6mNBdHK7tRNcw3fu3iBfGwzM0IgTFAGfF/ox63aGVoGmN1RPICdeXCFScy4G8l9AXuMr4J1C8ksv3ARiUKulEIpghoqGl2aOAw46fIjzNUpf4znRTRwC7W7GbGlxcicOw48xC9UMOF4PCJbJmh9aiJebumZ+cWk2mq2HTk68o3hRrDvCHFF1WopjcNS2FACV7XHHpPSj050ITG6x8qiSKhQlBopSLWqWiG6DpdH+YUOXOsDFrjLqp3KsvLkmGbg4oMcFFFWqgcI2qEWbk76l0TMKqWEQc3P7s5rPg114THP+8Skg6T09vTo7RDQ3UonM+Au1OeObkftgdz3kY+/8hlT+PPnYlx54K/28EOGw0ckgJjvX0JfNX7HiqGqdMAknp035dfV/H28pMX8PMq8Vh+8AXJedVRTu4CVQjCRd0mJlf2tkMcHycc8IG1bilpe7Gd4qBOZjFmjRb1WOi01AozUuB5zhpp0ULees0lfWOmIg==;Zb37rplIe8KnyoPG0THmQw=="
 ---

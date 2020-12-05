@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning: A new blueprint for the fintech industry"
-    excerpt: "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better."
-    publishedDateTime: 2020-11-30T13:55:00Z
-    webUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry"
-    ampWebUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 68
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "The Beginning of the End of Cash? 2020 in Fintech Trends"
     excerpt: "Before the pandemic struck the globe, fintech companies around the world entered the new year with expectations that were shattered within months. Many of the trends that began the year were abruptly halted;"
     publishedDateTime: 2020-12-03T11:27:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
         width: 880
         height: 400
+        isCached: true
+  - title: "Top 5 FinTech funding rounds in November 2020 (UK & Europe)"
+    excerpt: "Check out the top 5 FinTech funding rounds that took place in November 2020 (UK& Europe) – Italian FinTech Satispay has announced a €93 million ( ($111.2 million) Series C funding round co-led by American FinTech Square Inc,"
+    publishedDateTime: 2020-12-01T06:05:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-funding-rounds-in-november-2020-uk-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2016/12/funding.jpg"
+        width: 620
+        height: 387
         isCached: true
   - title: "17 Largest Fintech Companies in the World"
     excerpt: "In this article we are going to list the 17 largest fintech companies in the world. Click to skip ahead and jump to the 5 largest fintech companies"

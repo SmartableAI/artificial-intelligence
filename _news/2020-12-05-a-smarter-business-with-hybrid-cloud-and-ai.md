@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Translation Is Trickier For Business, And Artificial Intelligence Can Help"
-    excerpt: "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,"
-    publishedDateTime: 2020-12-01T17:14:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
-  - title: "Amazon launches new AI services for DevOps and business intelligence applications"
-    excerpt: "Amazon launched a slew of new AI and machine learning services duiring its re:Invent conference, including DevOps-focused offerings."
-    publishedDateTime: 2020-12-01T18:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/"
-    ampWebUrl: "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
     excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."
     publishedDateTime: 2020-12-02T03:49:00Z
@@ -88,6 +56,36 @@ related:
       - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 557
+        isCached: true
+  - title: "From Hobart, to London, to Dhaka: using cameras and AI to build an automatic litter detection system"
+    excerpt: "This automated approach can be used in any other city around the world, helping to reduce how much waste enters local waterways and reaches the ocean."
+    publishedDateTime: 2020-12-01T03:13:00Z
+    webUrl: "https://theconversation.com/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
+    ampWebUrl: "https://theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system-150950"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=236&fit=crop"
+        width: 320
+        height: 236
+        isCached: true
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "Sh+mmR8l30D4fUKFbWL5Cg3+5RsGQ7Egkt/vmwbN7E7u6PPKkmjlfW+CA1/vvHo/iFlGghbZfqzRiLxUPGS9R2Hs8iM52E/sv8SvpkMsR239Mxqdc4Ro/GpAEZkSI4OAzLHsYdyI1wIAS/zAbxZbb6gHVIaf07i9kSN0ypR56ImT/sbH4mIvOfEoFrpkzRSemXdyx6/KOL9ureveUuLUhjK6tImbkZm6nAIwLjSIv9X4cc0UDXtAz9rd+f7qMv0ECWVmFfTryfl+88wwJEMaQzUrF6k4jgT+NP0IBeQRguTkr/sM9Cw11nK/qF/6JkNOSVF3fUn3LfU+fYAohTuwXWpy530PUmA5d6s0+3XbG7w=;7ORohKRdhdCbtihIsyeVJQ=="

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-12-power-players-meet-28-of-europes-lawmakers-activists-and-lobbyists-hashing-out-the-rules-on-everything-from-driverless-vehicles-to-net-neutrality.md",
+      "title": "POWER PLAYERS: Meet 28 of Europe's lawmakers, activists, and lobbyists hashing out the rules on everything from driverless vehicles to net neutrality",
+      "excerpt": "Voss has led an EU taskforce focusing on how the EU should tackle the impacts and challenges brought on by artificial intelligence. Dyann Heward-Mills is helping firms keep on top of their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meet-28-most-powerful-people-tech-laws-eu-2020-11",
+      "originalUrl": "https://www.businessinsider.com/meet-28-most-powerful-people-tech-laws-eu-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5faacf281df1d50018219e55?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies.md",
       "title": "As a New Direction of Chip Industry, Tesla, Facebook, and WIMI Launches Hologram AR + Chip Strategies",
       "excerpt": "Mark Zuckerberg, Facebook's chief executive ... also help support the high costs of long-term chip research and development. However, AI startups have advantages in how to strengthen AI capability.",
@@ -1407,40 +1460,6 @@
         "AI in Robotics",
         "AI in Autos",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-chinese-carmaker-invests-in-fremont-self-driving-tech-unicorn-ponyai.md",
-      "title": "Chinese carmaker invests in Fremont self-driving tech unicorn Pony.ai",
-      "excerpt": "Pony.ai, a self-driving tech unicorn led by former Baidu and Google self-driving car executives, on Tuesday announced a strategic investment from Chinese state-owned vehicle manufacturer FAW Group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
-      "publishedDateTime": "2020-11-03T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

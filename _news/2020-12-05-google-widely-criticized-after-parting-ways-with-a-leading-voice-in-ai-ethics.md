@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a"
-publishedDateTime: 2020-12-05T01:46:00Z
-originalUrl: "https://www.news-daily.com/news/business/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/article_7c031ef8-5b44-5cad-8548-66cf6ded47ad.html"
-webUrl: "https://www.news-daily.com/news/business/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/article_7c031ef8-5b44-5cad-8548-66cf6ded47ad.html"
+excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity."
+publishedDateTime: 2020-12-05T03:28:00Z
+originalUrl: "https://kvia.com/news/business-technology/2020/12/04/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/"
+webUrl: "https://kvia.com/news/business-technology/2020/12/04/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Clayton News
-  domain: news-daily.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
+  - Facebook AI
   - AI
   - AI Ethics
-  - Natural Language Processing
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-daily.com/content/tncms/assets/v3/editorial/2/2b/22b8f6a5-f891-5a55-b18d-b4f767de7971/5fcb0bd926747.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://kvia.b-cdn.net/2020/12/hypatia-h_c1da9bcad3c8c2aa432e0d905781f01c-h_248ee677d7f5426234a24fc074314ac7_preview.jpg"
+    width: 500
+    height: 333
     isCached: true
 
 related:
@@ -59,6 +59,6 @@ related:
         height: 800
         isCached: true
 
-secured: "13d60VhLEEP90uu/eTkbVskpu1oDse/otkN+iQz9K7j5Vq9meDyqFBsBSh34z60nTgDpjBaRSdpAesyLtSbjp+6bjonPkbDoIZI9zXT4cOUsVMQOs0Y/LeiJD3xHJRbCW0MC+/NtOoRUP/X1o9814fuzOJFblYtPKNR10e4iRg4I1MP2qPy+eMOwx0uYLQ7z9Uj22eiMPoSgCxuQGSD/G4EuV0VyCiZpZ7FN0cpGdg+zUY7Siavg31uxCim9PfyEJHmjkwkEsr9c/bbeJ2PMLoF0YsKrK5Xv/57rCjKz0d0JF+nIbbSci7Gj9TwYe10VpTIr2ORyQTZFM5QNM3qgwCcNQkLzvY5GaZHOqR1xM5Y=;HT21W9cvfHyxZHf04GQh5A=="
+secured: "bXI1+r62iEbzf1sEHn8i/zkIf+nhUXjakCQ7jX46zeQ4FsqrIQ2Iuzb5gb7Sb6G21MgTZp+CYfi/e8bafiOXZ/XHBIXuifrKWCjueQJYBCH4cA4bagZjOwmNACXtmv+UMY+xlizb1M5lX2OG1TH+I9Qavq1AcGtgQFI3U6C0nkpDRgG+xAav+7DhC5UZJOf8nMg0q8BVU58CeGcJrVaBXNZJ209NOp8NqxyytkXJrT+XTgT6jHhwAfnRs2Zs/h4wYg7slvfvm4VtPX2WAwjEknkk6KYSBd1UA8qywpoBa/fJCYkXBXsOG+Z6BsqH50yqpu9vFOlexn2HJkaFHubE3ddjgvxeIRuaAxQU95cVw1g=;Tq7YHyhIVFgf1KQ521ac9Q=="
 ---
 

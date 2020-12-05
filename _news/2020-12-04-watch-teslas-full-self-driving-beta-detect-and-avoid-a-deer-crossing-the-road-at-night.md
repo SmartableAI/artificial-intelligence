@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: Electrek
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks"
-    excerpt: "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets."
-    publishedDateTime: 2020-11-30T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
     excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
     publishedDateTime: 2020-11-30T17:54:00Z

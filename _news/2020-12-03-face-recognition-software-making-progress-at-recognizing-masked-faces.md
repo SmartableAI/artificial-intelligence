@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Translation: Must We Be Slaves to Facial Recognition?"
+    excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
+    publishedDateTime: 2020-11-30T20:54:00Z
+    webUrl: "https://chinadigitaltimes.net/2020/11/translation-must-we-be-slaves-to-facial-recognition/"
+    type: article
+    provider:
+      name: China Digital Times
+      domain: chinadigitaltimes.net
+    quality: 39
+    images:
+      - url: "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg"
+        width: 308
+        height: 308
+        isCached: true
   - title: "Leverage the Latest in Speech Recognition Software to Stay Competitive"
     excerpt: "A new generation of technology lets you spend less time on reports and more time on what matters: your clients."
     publishedDateTime: 2020-12-03T16:52:00Z
@@ -69,6 +83,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
   - title: "Madison Common Council to consider banning facial recognition software in most cases"
     excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
     publishedDateTime: 2020-11-30T16:17:00Z

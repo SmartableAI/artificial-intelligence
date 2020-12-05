@@ -29,111 +29,145 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Influencing The Evolution Of The Telecommunications Industry"
-    excerpt: "AI has helped the telecom sector redefine customer experience, bringing forth new opportunities but also complicating business models."
-    publishedDateTime: 2020-11-30T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
+  - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
+    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
+    publishedDateTime: 2020-12-01T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb432b0c5dac00077006bd%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "The Next Generation Of Networks Is Driven By AI"
-    excerpt: "It's IT leaders' responsibility to ensure business continuity, employee productivity, and innovation by evolving the network operations to power and keep up with our fundamentally changed lives."
-    publishedDateTime: 2020-11-30T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence Will Revolutionize Energy, Earning Billions For Investors"
-    excerpt: "The energy transformation will see an explosion of growth in Artificial Intelligence (AI) applications across the energy industry as electric grids, energy storage, and transmission systems become increasingly complex."
-    publishedDateTime: 2020-11-30T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/"
-    ampWebUrl: "https://www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/amp/"
+  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2025"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-12-02T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2025-2020-12-01"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4f618476f7cf8927bfd96%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 750
+        height: 630
         isCached: true
-  - title: "How Artificial Intelligence Is Changing The Landscape Of Digital Marketing"
-    excerpt: "AI for marketing strategy, predict a 37 percent reduction in costs along with a 39 percent increase in revenue"
-    publishedDateTime: 2020-12-01T12:27:00Z
-    webUrl: "https://www.linkedin.com/posts/helderfigueiredo_how-artificial-intelligence-is-changing-the-activity-6590726202707755008-nHBz"
+  - title: "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
+    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
+    publishedDateTime: 2020-12-01T00:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "The analyst has predicted the Global Artificial Intelligence (AI) in Drug Discovery Market is valued approximately at USD 260 million in 2019 and is anticipated to grow with a healthy growth rate of more than 40."
+    publishedDateTime: 2020-12-03T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 52
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEyEA5-6f_PTA/ugc-proxy-shrink_1280_800/0/1604886096043?e=1606917600&v=beta&t=BZU_G_PS3vBpsBARjLeju6qodMM0Zh8N3_rP4EtL1sw"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "New AI solution that can determine the shape of proteins could 'revolutionize' medical research"
-    excerpt: "DeepMind’s AI solution, AlphaFold, has succeeded in determining the shape of proteins with a level of accuracy similar to that of laboratory experiments."
-    publishedDateTime: 2020-11-30T15:35:00Z
-    webUrl: "https://www.news-medical.net/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
+  - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
+    excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
+    publishedDateTime: 2020-12-03T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2020-key-business-strategies-technology-innovation-and-regional-data-analysis-to-2025-2020-12-02"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1722492775.jpg"
-        width: 1000
-        height: 562
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How Artificial Intelligence is Bringing Today’s AMRs into the Future"
-    excerpt: "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,"
-    publishedDateTime: 2020-11-30T16:36:00Z
-    webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future"
+  - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
+    excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
+    publishedDateTime: 2020-12-03T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The Coming AI Revolution"
-    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
-    publishedDateTime: 2020-12-04T18:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+  - title: "Global Artificial Intelligence Market 2020 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2025"
+    excerpt: "MarketQuest.biz has recently published Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025, assuming the historical data of the market to forecasts time-period from 2020 to 2025."
+    publishedDateTime: 2020-12-01T22:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-scope-of-the-report-challenges-and-trends-key-regions-and-key-players-analysis-by-2025-2020-12-01"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
-        width: 750
-        height: 422
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
+    excerpt: "The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic"
+    publishedDateTime: 2020-11-30T18:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020--2027---ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-301181740.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
+    publishedDateTime: 2020-12-03T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-12-02T16:36:00Z
+    webUrl: "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 18
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "wKOKfqi2ZdbFDrWcPxdCwPwzUDCLcfXY30hyyvWc6tSeH0CDE3PtkJgvRIuJ8P+dSQ0w24ufHaHci2gGJXhV3CQKs0xSAf+N6ApgRUE+sL1aZvJhG8Uq43DYL1Kd4rZR/KBAA+tOU0ZnYhzcnzg36FV9wo8XykzbQRLq7Vuph/NcBIsDnjLBIAM2yYUFztPGH/lyjO6lWXs61VZemKhDII8fZ9741KlDwFTl+RCkX1jbF3ra11SxpgZ5idj/KQBafHWVLlKnV8943UKBpM0UBDVF/nGLybzkHetseOfPnExfSr1PJezcMbgUGcrrAvrWIudEPFS+FZhCON8glOure+V4jfWHClcN7tGPsFBMpLo=;BxJP7gqXu1fgYqVH/e6kPQ=="

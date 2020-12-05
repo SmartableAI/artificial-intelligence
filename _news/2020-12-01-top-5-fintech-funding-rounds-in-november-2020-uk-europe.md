@@ -25,51 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "The 15 Largest NYC Tech Startup Funding Rounds of November 2020"
-    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of November 2020; broken down by industry, stage, investors, and"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.alleywatch.com/2020/12/nyc-startup-funding-top-largest-november-2020-vc/9/"
-    ampWebUrl: "https://www.alleywatch.com/2020/12/nyc-startup-funding-top-largest-november-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/12/nyc-startup-funding-top-largest-november-2020-vc/amp/"
+  - title: "The Beginning of the End of Cash? 2020 in Fintech Trends"
+    excerpt: "Before the pandemic struck the globe, fintech companies around the world entered the new year with expectations that were shattered within months. Many of the trends that began the year were abruptly halted;"
+    publishedDateTime: 2020-12-03T11:27:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/the-beginning-of-the-end-of-cash-2020-in-fintech-trends/"
+    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/the-beginning-of-the-end-of-cash-2020-in-fintech-trends/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/the-beginning-of-the-end-of-cash-2020-in-fintech-trends/amp/"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
     images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/11/11_15_NYC-TECH-NEWS.002-768x412.jpeg"
-        width: 768
-        height: 412
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
         isCached: true
-  - title: "The 11 Largest US Tech Startup Funding Rounds of November 2020"
-    excerpt: "Everything you need to need to know about the largest US startup funding rounds of November 2020; broken down by industry, stage, investors, and more. Each of these companies raised at least $100M last month."
-    publishedDateTime: 2020-12-03T14:30:00Z
-    webUrl: "https://www.alleywatch.com/2020/12/us-startup-funding-top-largest-november-2020-vc/13/"
-    ampWebUrl: "https://www.alleywatch.com/2020/12/us-startup-funding-top-largest-november-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/12/us-startup-funding-top-largest-november-2020-vc/amp/"
+  - title: "Even with machine learning, human judgment still required in fintech sector"
+    excerpt: "A COMBINATION of recent events has seen a rapid acceleration in the adoption and incorporation of technologies by a wide range of firms and institutions in the global financial sector."
+    publishedDateTime: 2020-12-01T05:55:00Z
+    webUrl: "https://www.irishnews.com/business/2020/12/01/news/even-with-machine-learning-human-judgment-still-required-in-fintech-sector-2144560/"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
     images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/11/11_15_NYC-TECH-NEWS.002-768x412.jpeg"
-        width: 768
-        height: 412
+      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2020/11/27/185724098-663df9ae-a6bc-4750-8a26-cb2926bf19e4.jpg"
+        width: 900
+        height: 472
         isCached: true
-  - title: "AI-based noise suppression, polls in Teams meetings, and more. Here’s what’s new in Teams for November 2020"
-    excerpt: "Microsoft has just published a monthly recap of tons of new features announced for Microsoft Teams in the month of November. From the AI-based noise suppression capability, polls in Teams"
-    publishedDateTime: 2020-12-02T18:00:00Z
-    webUrl: "https://www.onmsft.com/news/ai-based-noise-suppression-polls-in-teams-meetings-and-more-heres-whats-new-in-teams-for-november-2020"
+  - title: "17 Largest Fintech Companies in the World"
+    excerpt: "In this article we are going to list the 17 largest fintech companies in the world. Click to skip ahead and jump to the 5 largest fintech companies"
+    publishedDateTime: 2020-12-01T18:34:00Z
+    webUrl: "https://www.insidermonkey.com/blog/17-largest-fintech-companies-in-the-world-894514/11/"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 19
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-Teams-Multiple-Channels-PWA-Custom.jpg"
-        width: 1024
-        height: 768
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/04/25064748/shutterstock_360426941.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "cThZPZk88qJM5VG6LQkUJrEK019CfHy2c3xtohvov8GZOAm6YBIsxbJRR/1znZeCAv6ePer3iXUyyOswdCTHZ2Ky/ptN4KgjPDP5GSpw1fcP183k3Ppiy03186TXZ67RnqqXxIdQyoRF+XKLOYDlVj0gNV3qF1P5kBYhx5wdJGnzRtRVewBISAvNtH12H5s3GSbC0ASQt+geTMloGKqfmiohnrHnoVAKvZO3TfbmWNdy2RhxNuZWR/qR0zql2n/p/3YtUA6V75mpK3Xl2/By3+jJEUAQZZVFZehYvsVIy3HJRY4KD4MGA8xB4j7j+1cpE0f5Qj6eD0h1mjEBBhcYkjtYltAaKXgau/1g0NRXqB5glq3cMT8nrPPqJjVi/8XJgE9lOdAUjIYLU4H5VU1DNs3eXPqboVFffEKoVYxl0k0jLbwWuNkw6ohOPKBVCEYT4NDVBY1Wc+JNkY1Lx7qjm4y0nElq3xzD6yygZK8xXSxTvN0SSSBL0HYPgsEy8QdnX3nmUvzjipWBxgb00rai5w==;YZVyhGzDsddyI/P3ctlY7g=="

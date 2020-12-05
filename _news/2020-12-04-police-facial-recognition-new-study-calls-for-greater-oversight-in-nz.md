@@ -25,127 +25,153 @@ images:
     isCached: true
 
 related:
-  - title: "Brazil trials facial recognition with retired public servants"
-    excerpt: "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits."
-    publishedDateTime: 2020-11-30T13:23:00Z
-    webUrl: "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
+  - title: "No bugs in facial recognition technology, says state agency"
+    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
+    publishedDateTime: 2020-12-01T23:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study. The findings by the National Institute of Standards and Technology (NIST),"
-    publishedDateTime: 2020-12-02T12:00:00Z
-    webUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/"
-    ampWebUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
-  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
-    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
-    publishedDateTime: 2020-12-04T12:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
+    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
+    publishedDateTime: 2020-12-02T16:11:00Z
+    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
-        width: 636
-        height: 382
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
         isCached: true
-  - title: "Translation: Must We Be Slaves to Facial Recognition?"
-    excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
-    publishedDateTime: 2020-11-30T20:54:00Z
-    webUrl: "https://chinadigitaltimes.net/2020/11/translation-must-we-be-slaves-to-facial-recognition/"
+  - title: "Facial recognition software getting better with mask wearers, says study"
+    excerpt: "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces."
+    publishedDateTime: 2020-12-02T15:01:00Z
+    webUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/"
+    ampWebUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
     type: article
     provider:
-      name: China Digital Times
-      domain: chinadigitaltimes.net
+      name: WTOP News
+      domain: wtop.com
+    quality: 58
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Madison City Council bans city agencies from using facial recognition technology"
+    excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
+    publishedDateTime: 2020-12-02T05:55:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/f2/0f2e861d-0159-586f-8b36-51224ddd6f9a/5fc73b36d5cad.image.jpg?resize=1024%2C700"
+        width: 1024
+        height: 700
+        isCached: true
+  - title: "Seattle officials deny use of facial recognition technology after ACLU allegations"
+    excerpt: "Seattle does not use Clearview AI's facial recognition technology, according to city officials. SEATTLE — Seattle officials are pushing back against the ACLU's allegations that city agencies are using facial recognition technology."
+    publishedDateTime: 2020-12-03T19:15:00Z
+    webUrl: "https://www.king5.com/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
+    ampWebUrl: "https://www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 53
+    images:
+      - url: "https://media.king5.com/assets/KING/images/0291c3cb-46ee-4fff-a3b7-081e4aef072b/0291c3cb-46ee-4fff-a3b7-081e4aef072b_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Stanford likely helped develop facial recognition tech now used against ethnic minorities in China"
+    excerpt: "U.S. government calls universities’ facial recognition technology development partnerships with China a security risk."
+    publishedDateTime: 2020-12-02T05:14:00Z
+    webUrl: "https://www.thecollegefix.com/stanford-likely-helped-develop-facial-recognition-tech-now-used-against-ethnic-minorities-in-china/"
+    type: article
+    provider:
+      name: The College Fix
+      domain: thecollegefix.com
+    quality: 40
+    images:
+      - url: "https://www.thecollegefix.com/wp-content/uploads/2020/05/ChinaSpy.Bee_Bright.Shutterstock.jpg"
+        width: 580
+        height: 380
+        isCached: true
+  - title: "'Regulation gap' for facial recognition technology, law expert says"
+    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
     quality: 39
     images:
-      - url: "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg"
-        width: 308
-        height: 308
+      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study."
-    publishedDateTime: 2020-12-02T19:59:00Z
-    webUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    ampWebUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "With or without a mask, facial recognition tools know if you are you"
-    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
-    publishedDateTime: 2020-12-04T00:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
+      name: StarTribune
+      domain: startribune.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
-        width: 1240
-        height: 826
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
-    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
-    publishedDateTime: 2020-12-04T15:20:00Z
-    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
-    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
-  - title: "Behind the Rise of China's Facial-Recognition Giants"
-    excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
-    publishedDateTime: 2020-12-01T00:06:00Z
-    webUrl: "https://www.linkedin.com/posts/omerwilson_behind-the-rise-of-chinas-facial-recognition-activity-6575262230235975680-vxgl"
+  - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
+    excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"
+    publishedDateTime: 2020-12-01T01:28:00Z
+    webUrl: "https://www.linkedin.com/posts/nikiblack_san-diegos-massive-7-year-experiment-with-activity-6621079374517030917-ukMF"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 24
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEGxe2rzFBNZQ/ugc-proxy-shrink_800/0?e=1606874400&v=beta&t=HPZRI68RHfLCMSppuIvef5D0-Ddpu3zMrf_pSqx-DOM"
+      - url: "https://media-exp1.licdn.com/dms/image/C4E34AQHgxJJEy9zZvA/ugc-proxy-shrink_800/0?e=1606881600&v=beta&t=ebB1Z_9dvFoVV3CCh5uuhR4j0vbFdvrOJX4Y3XrGiEE"
         width: 800
         height: 450
         isCached: true
-  - title: "Brazil’s Government to Use Face Biometrics For Pensioner Identity Verification"
-    excerpt: "The Brazilian government will be using biometric facial recognition to verify the identities of pensioners in the country."
-    publishedDateTime: 2020-12-01T21:25:00Z
-    webUrl: "https://mobileidworld.com/brazils-government-to-use-face-biometrics-for-pensioner-identity-verification/"
+  - title: "Socure Wins American Financial Technology Award for the \"Best New Data and Data Services Technology\" From WatersTechnology"
+    excerpt: "DocV and Intelligent KYC solutions recognized for excellence at this year's 2020 awards ceremony Socure, the leader in Day Zero identity verification, today announced that"
+    publishedDateTime: 2020-12-04T18:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18654797/socure-wins-american-financial-technology-award-for-the-best-new-data-and-data-services-technology"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18654797"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18654797"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 20
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/facial.jpeg"
-        width: 400
-        height: 260
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "AHFJEzmmOecRUYTGoJt7xRiR7WnIwHV9ZyfAXfXFM9s3dGbig6c53U5cQJlDSL4v32ojoS4s4CopDmCEPnegGeRfmmyvans1ovTxU1WB807+PZGy7ZOHAXGtEFawGQHB1NOhdNfGbYLotqNyobS++m5UuWrONkS73EDwvawU160XKJmszS5HhXo7x45kxT53kaQqLWXyfehfUktC4XTJFO/mnbDT+IZwKmJxIa+cdKGwlE4HuS78zpYt3778Ov07hGFtJU1/gwFNO59XS+N3dbnH+eNQ2snpW+Q8dqIZXbLHjJFl3Cp1F9VvFJc+xB9q69jj3De4qfrrWPIe6YEdO0IsgWS5B3PvhiD0IQKv8p9YOnRR6yRZJI3zg2yv7+0O8zO/bPfzTGj0NbQ4ayNGziia8h8EcU4psc7m4E9bEIbdfKV/opLE2QxtIlzcRhW34BISlG8nGIRowq07PAy+Bp2DLDb0QhWMXqDQVAO4N1gFCsYhacfBvnF4rH2mGoWURwBuHfCBOeKV0IxdJ7scNw==;2wUC6QZ3mkADWswcI+D62g=="
 ---

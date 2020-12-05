@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-17-artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Market Size, Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2027",
+      "excerpt": "The global artificial intelligence in healthcare market is anticipated to record a CAGR of 45.3% over the forecast period i.e. 2019-2027. On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-analytical-overview-growth-factors-demand-trends-and-forecast-to-2027-2020-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T21:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-the-case-for-mathematical-optimization-in-health-care-building-a-strong-foundation-for-artificial-intelligence.md",
       "title": "The Case For Mathematical Optimization In Health Care: Building A Strong Foundation For Artificial Intelligence",
       "excerpt": "Enthusiasm for the potential impact of AI on hospital operations is often based on its impact in other industries. However, non-health care companies invest in AI after having digitized and optimized their operations with a variety of older mathematical methods.",
@@ -1270,93 +1322,7 @@
         "AI",
         "AI in Healthcare"
       ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-in-healthcare-is-racist.md",
-      "title": "Artificial Intelligence in healthcare is racist",
-      "excerpt": "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "publishedDateTime": "2020-11-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-health-artificial-intelligence-being-trained-to-predict-risk-of-developing-oral-cancer.md",
-      "title": "Health: Artificial intelligence being trained to predict risk of developing oral cancer",
-      "excerpt": "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/11/02/10/35142862-0-image-a-6_1604313865968.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "publishedDateTime": "2020-11-02T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 3
+  "nextPage": null
 }

@@ -1,24 +1,29 @@
 ---
 category: news
 title: "7 Machine Learning Stocks for a Smarter Future"
-excerpt: "Machine learning stocks represent a promising long-term opportunity for investors. And they are not just about red-hot startups. There are also a myriad of mature operators that should benefit investors."
-publishedDateTime: 2020-12-01T16:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?time=1606971661"
-webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?time=1606971661"
-ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
+excerpt: "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new."
+publishedDateTime: 2020-12-01T19:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
+  - Machine Learning
 
 related:
   - title: "7 Machine Learning Stocks for a Smarter Future"
@@ -47,6 +52,6 @@ related:
         height: 343
         isCached: true
 
-secured: "eRU6NOwJNH5MvslXDri21UsJFX6jZkuzdMa4NSvLNpjJ6AmtLG+B5OBd9/o8bBFylU9qtyPcsvSzCfRV9CtnBTfJBdMaHEqeb6DGFrIJBYK/q6sFBUs2kOTTk5lIFcxpdGrEAiGWiMHTivpbm5M4LS9gMc4MQ/7b3IsB2zmiBf9uIuEqwKKa68uAdhqVb5DLQeBpYzPGe6wX+YqALPwOArppgiGLAosukxvhGyQChhZYHwPSKIiPjMxrvKJpN2lHJkEKjovPG74EQzWLTH2xu72LR7IEANi/SSHqd3/l8vXiwUQOGEXq+T/BwHYo2f8XRWwXQ+22OXBJs9jlycUpPXoD0LZcO6Gbs9ItgY9CxEI=;KC+/kslVTEdpl/7q/6rhgQ=="
+secured: "ODlschVV0ssxYDyrPIbg4G2ALj7jUidC6be4BWBPw2u8f56z/Q5o81Ft8vTsOwujJEfvdCGwNtaoq/mdvMzWf6uHmanO2va334K/LDHP6Fpsg2SMIh+szGuKT45GaCbQBxz+J23BdYLD3DgD9NdKW8jCJuwJTB+EaSBNVpr8MxjbvKBy/4vJHe/ap69C02x9559exnQw03a4nIicUBvDv+vrRtFNIc//1Gjb4GDfNrhAjMUF0ffs0Axzmb+0rf+qfxYC5EQkoSlHE7YlOIc90/NNsfRz37JpLjjJwV/NsEnma0i5bZAGS8islfLVpF5egO6E415RGDo4Y0WAc4UZmV8kQroZNwXqy4+mCtNwy0w=;/8NmR7mDv+V7gIhQe85c0Q=="
 ---
 

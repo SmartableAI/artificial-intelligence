@@ -55,6 +55,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
+    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
+    publishedDateTime: 2020-12-05T05:05:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 68
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
+        width: 764
+        height: 575
+        isCached: true
 
 secured: "kF8RGtMR8PEpw9iRMJ2AAskZb5zl58zUzZ8hlPYcwggKmbUmwF2C5c6OM3iTV6zOzGoKjxeRDZBdV32lHXrt5A2u27HzMmqXGfp1LCkMh3he9EdoGilTIcP6qZgAkwlMhf+kS10f0AJiBMyflqhxDbC6NNDoZ7NmHIb7y22NmuLJbytmEtyd1CHjkchzTpHu5TEWTyhqwUmQNGO5D9XtgW8I8JJRd1raxqYFgPlJ8bS20Y1nRE9Mjt5f9X8/QfLy8rIe7GeUym0x9SPplmp9mnpqccU0d2YM34jf8WV08Ynjv5WIXBmRb9jbNbKamMUgMR6sUkW0ktM7RzdhoFC8iJxec1zbKo2F7bvXYxJmfq2gkM+eCUTapF6NYwJ9BvbqVLwuKHHCdCSSiyICYpN/JrSSZMuv3/XntRP0TlE7OdjAZku90SsL54vyKYl73h9jqo6uYVyIhbkcohCEX3KpecBcpJ7oXAZZU23e1eQ1SOzwB56owltlvoueQvlmQThj+b7/H86YpQ5rYKMFUGLqcQ==;iW/q/Am/GmebLoEx4tcfhg=="
 ---

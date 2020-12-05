@@ -3,25 +3,25 @@ category: news
 title: "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology"
 excerpt: "During RSNA, Bayer and Blackford Analysis announced an advancement in the use of AI in the imaging field; they entered into a development and license agreement to establish an artificial intelligence (AI) platform for radiology suites."
 publishedDateTime: 2020-12-01T14:21:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_d3ded53e-4057-55b5-82ce-aa2b6c57c6ac.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_d3ded53e-4057-55b5-82ce-aa2b6c57c6ac.html"
+originalUrl: "https://www.bakersfield.com/ap/news/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_57b8176b-f7a6-5817-854c-1a510f91e060.html"
+webUrl: "https://www.bakersfield.com/ap/news/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_57b8176b-f7a6-5817-854c-1a510f91e060.html"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
-    width: 640
-    height: 336
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 768
         isCached: true
 
-secured: "G84AyludIa97FgW1wd3jM3ceaTpWhpQspAiHLbgXqOG9tjkw1pPZiGsiTdRVhVppsznxybwv46hxEuH2V2hcfOsPqVxwHo1604c+IFDzqp8QMk24bFHvDGEpUCXhUKzColVs4rlpVGqpBJqn/nQTtYb3XOwWgNkGXrvUz7nsOYxVjqlsyP7Vrd9ThN1mZJixe8iNdtPi2LOmrXxGTUcZ0AdQZXTsGNLB7gTX9iI4enyTO0BzpRKnnCogsB7j5+7axMLVC737FLlbQ+uRQqR33XzH6H+bd701e8eWI8XabxNbn9EQ3xb6Ner4qS7c3BdskvKTyLU4yCOluTvDreMeulzrUsDNMQgTWhaVOxIvYhg=;fk/JzGB6tEsPm/ZR4Nlaug=="
+secured: "5XG3PjdekSLlPRJoHvrdP8fUBv1pk7h/xrK0+W3wXTCzjp9IroupkJiiL6AfzEO9BaWx8engVXi3lKqPHbGLcqfD1yEYOukUdRNntYTKa0wZ8+ChluHzb2IVuatjTfLrMk9ODG4ii8vzx8R4H8PQ3i/ok0MGN2r2aPPkBycO65RqiX6gYsZ1ZBmFYXfM9fXX24NVu03q1PUQTY8/T/CIaSItJT/HqBJbx0NeYUh9Cl51x7RXdhv8znswTMdSEnNDxklqmoJRCVOIh3J10rvdGVeeZPpdRsf1eKu2S/s93k1LkSHi0FOFimJKaVofC5ksh6Nu4ormDF8N/Hofh4XkrilzpYreSpmC/uM+rqr1ciA=;Ui4s2c8WSX4ZV6q96qyxqQ=="
 ---
 

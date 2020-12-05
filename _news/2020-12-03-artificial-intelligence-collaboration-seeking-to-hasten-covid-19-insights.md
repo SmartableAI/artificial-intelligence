@@ -2,26 +2,25 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T05:08:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+publishedDateTime: 2020-12-03T14:23:00Z
+originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Purdue University
+  domain: purdue.edu
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-    width: 720
-    height: 490
+  - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -100,6 +99,6 @@ related:
         height: 372
         isCached: true
 
-secured: "SZN2KW7o+AsQyiw+SM5cm+5WiBfKPy/QGAaGf19bQ7N0E/qGe1fOPnc/qJEyfbZUi5c0YpQC+jkxR837op3/4ilK0nl6ctxBdlJbvZKDKeEXNVl4Y1lbHyNUWWN1Bai3x+s931yy1PLqzxMR2mkTlhBlCl8qat9iUfte1w4EhNL+JNb2FglSKfyBIy4zxDjKUQvSDbPzOeU0rlfjtH/EsXq00mBiSlGVKV1joD51ksM0LOdaIm0os99j373AOdCMbgNp2t3//Mx/dUnU8SGKZzAMgbvKiTUtN56fKBMNG2PygMT0Fozck9mmvXsle3XHVj0rOqsH5kLHZdXgeq6R2vUg+IM3z/l4smsPMk7CLM0=;vsfg8BhKrbka518wV+uwdw=="
+secured: "1ywVmtb9hzGBUT8p26xYL9baKRf74afLXmM5LvWaStEhhTYyo9aSXL+hMbcdC4+rykBjKz7zqj8i9AD/JNwMC0W+TqV6zmSOQUjN9IxKa0UFgw8iOap4HM+kpaJZ/IplXe/r9YlDVDi1OhUdoig3oGtqwSGg2tphT8sWAixcqVNi1PrfF+oz7iLi4nfmTfY3lsSDwcIpatBDTyrKMO8t4Y9VAmTcrv3prV1yf4K6S7FAnWsgZCJMinjema1+5CZ79BXS3tYhxb7+iZMOPZupG72DKGyimgJuNr3WRa7nnivGrg/3CEhA8w0NuBR5rBomX9DYAMiPe5JsqeDzbSy8I9nkg0v6G7i+ZLeeMz600ao=;IBxSgdkzKrB7W5ENtrOYTA=="
 ---
 

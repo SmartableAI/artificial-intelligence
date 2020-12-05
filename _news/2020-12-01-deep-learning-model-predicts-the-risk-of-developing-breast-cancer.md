@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning model identifies imaging biomarkers to predict breast cancer risk in women"
-    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
-    publishedDateTime: 2020-11-30T13:07:00Z
-    webUrl: "https://www.news-medical.net/news/20201130/Deep-learning-model-identifies-imaging-biomarkers-to-predict-breast-cancer-risk-in-women.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201130/Deep-learning-model-identifies-imaging-biomarkers-to-predict-breast-cancer-risk-in-women.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/Deep-learning-model-identifies-imaging-biomarkers-to-predict-breast-cancer-risk-in-women.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2f91618146-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Deep learning can predict breast cancer risk"
     excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patients risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
     publishedDateTime: 2020-11-30T15:26:00Z

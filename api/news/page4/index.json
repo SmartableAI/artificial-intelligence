@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-02-facebook-agrees-to-acquire-crm-platform-kustomer.md",
+      "title": "Facebook Agrees to Acquire CRM Platform Kustomer",
+      "excerpt": "Facebook agreed to acquire customer-relationship-management platform Kustomer, which was named Adweek’s best customer experience platform in 2020. The Kustomer team—including co-founders Brad Birnbaum and Jeremy Suriel—will join Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/",
+      "originalUrl": "https://www.adweek.com/media/facebook-acquires-crm-platform-kustomer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2020/11/NRP-11-2020.jpg?fit=1920%2C1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "publishedDateTime": "2020-12-02T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
       "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
       "excerpt": "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud.",
@@ -196,6 +239,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-using-cameras-and-ai-to-build-an-automatic-litter-detection-system.md",
+      "title": "Using Cameras And AI To Build an Automatic Litter Detection System",
+      "excerpt": "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "originalUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
+      "publishedDateTime": "2020-12-01T19:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -469,7 +555,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -660,21 +746,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images.md",
-      "title": "Nvidia introduces AI for generating video conference talking heads from 2D images",
-      "excerpt": "Nvidia researchers created AI for recreating and manipulating talking heads in video conferences from a singe 2D image.",
+      "path": "_news/2020-12-02-coded-bias-unmasks-racism-in-facial-recognition-algorithms.md",
+      "title": "'Coded Bias' unmasks racism in facial recognition algorithms",
+      "excerpt": "The lively and fascinating documentary “Coded Bias” dives into how the conscious and unconscious biases that create systemic inequities in the world are finding their way into the digital space.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
+      "webUrl": "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html",
+      "originalUrl": "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nividia-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/09/80966dc1-3820-51bd-8e12-b3a57f06c442/5fc6cb30ef627.image.png?resize=1024%2C768",
+          "width": 1024,
+          "height": 768,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -682,23 +768,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "publishedDateTime": "2020-12-01T13:59:00-08:00",
+      "ampWebUrl": "https://madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html",
+      "publishedDateTime": "2020-12-01T14:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -707,6 +784,7 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1163,102 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets.md",
-      "title": "AWS adds natural language search service for business intelligence from its data sets",
-      "excerpt": "When Amazon Web Services launched QuickSight, its business intelligence service, back in 2016, the company wanted to provide product information and customer information for business users — not just developers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
-      "publishedDateTime": "2020-12-01T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-finnish-researchers-say-ai-tool-can-help-optimize-cancer-combination-therapy.md",
-      "title": "Finnish researchers say AI tool can help optimize cancer combination therapy",
-      "excerpt": "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "originalUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4601606838101/2020/1/9cfb143b32837f2bd66aa13fc75ac5b8/v1.5/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "publishedDateTime": "2020-12-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

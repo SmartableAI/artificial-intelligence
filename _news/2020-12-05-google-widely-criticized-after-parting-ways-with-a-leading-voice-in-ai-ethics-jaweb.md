@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a"
-    publishedDateTime: 2020-12-05T01:46:00Z
-    webUrl: "https://www.news-daily.com/news/business/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/article_7c031ef8-5b44-5cad-8548-66cf6ded47ad.html"
+    excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity."
+    publishedDateTime: 2020-12-05T03:28:00Z
+    webUrl: "https://kvia.com/news/business-technology/2020/12/04/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/"
     type: article
     provider:
-      name: Clayton News
-      domain: news-daily.com
+      name: KVIA
+      domain: kvia.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-daily.com/content/tncms/assets/v3/editorial/2/2b/22b8f6a5-f891-5a55-b18d-b4f767de7971/5fcb0bd926747.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://kvia.b-cdn.net/2020/12/hypatia-h_c1da9bcad3c8c2aa432e0d905781f01c-h_248ee677d7f5426234a24fc074314ac7_preview.jpg"
+        width: 500
+        height: 333
         isCached: true
   - title: "Rival Peak aims to be a massive game-like reality show with AI characters – Jaweb"
     excerpt: "Genvid Technologies and Pipeworks Studios are unveiling Rival Peak, a new kind of interactive experience that is partly a game and partly a reality show. The audience consists of real people, but the characters they’re watching are not."
@@ -59,6 +59,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7fKkWYs4ah5Rg2gRGLFHdBfKYVlcqr1u3ein8Dwv8fT/bA0JgJESZteMfMr3Wbg2TEcvRsUnRT8NWzI0/jtXtTqIbKJVferCvp2pZj9vX8E3luc5/p+2b32lb4EJaamb2Ko8zs2tlJ+DxanoaBu4+ZdoiX/xGf4gpFeozqGJ6CLFvlPhyuxfvgY/B0bR68c8+oFdal2Utf1kbQ5831/Ne7It7zFPIBp6iY2PfhcC0gfFGrOOMtNS8SilTJwftuGSalkI3QOEBAAPX+2jrOsba9WyaEKmJBmFdW477XXsY8aJlNhpr7m4gPl+g4E7LnpyakjIv8dVcS2N7vFiGRk2CmYQfjWikfVS7/02zURocT8=;qc1pPYeiIdEgmrGCg9aj3g=="
+secured: "/J1ud5viK+e6uiogWcNs9Vsxh0L+DtHwpHVxvICCGU0O1714jtxWJfQWU7oyJYQqv0nMKwi8+wP/0QcTwTw5B+T2O9nFzfhUSM6lGs0qIZzhn54J+Uqepr0TZTK184rQABcCqN8GvcUNjCd+RQmmu+cgZ68yM33W9tPsXXjzTUkJuVp3RKQ2w1X8n8pXPCswsHO24HbI4zBrUZPniikWZI4mEejmmx3s6NrgHPNtaOSI+VJSjh0oFBT+AxXZU2bvIibHgSBVTYO9mpN3VUO/liIDwNYt/cc+i8OYZV8ueOxAIXCRTkc7o9LcVN9BGabJJsyGwxyMk4jOmHKYm+t+SoAdkvUhnfkDXQTjLojPRI6EylkBveyWZ8HcgRz9xaY2GF/xkKaGxx7HuLSDquMNGlQu5T2rHyxrAKhKGRLg4DSoNIRkOzNqEsgpvbsZ89jXgtLtKG5N4NCIH2WIIkrXWUHh8llSyaBTAZQgd+cIGd/6uuVHIXU+Kn6Zh8BvR6AyLpaI8mjwOb+zSJbqLYCYbA==;ys1AZ4B8jw39es60itImwg=="
 ---
 

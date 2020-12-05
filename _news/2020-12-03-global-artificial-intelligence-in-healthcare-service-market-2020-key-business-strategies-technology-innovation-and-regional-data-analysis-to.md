@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Forecast 2020-2029 : Strategic Industry Evolutionary Analysis | IBM Corporation, Intel Corporation"
+    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Healthcare market 2020 by Manufacturers, Type, and Application, Forecast to 2029 by MarketResearch."
+    publishedDateTime: 2020-12-01T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-2020-2029-strategic-industry-evolutionary-analysis-ibm-corporation-intel-corporation-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
     excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
     publishedDateTime: 2020-12-03T06:40:00Z

@@ -272,7 +272,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -307,6 +307,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-coded-bias-unmasks-racism-in-facial-recognition-algorithms.md",
+      "title": "'Coded Bias' unmasks racism in facial recognition algorithms",
+      "excerpt": "The lively and fascinating documentary “Coded Bias” dives into how the conscious and unconscious biases that create systemic inequities in the world are finding their way into the digital space.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html",
+      "originalUrl": "https://madison.com/ct/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/09/80966dc1-3820-51bd-8e12-b3a57f06c442/5fc6cb30ef627.image.png?resize=1024%2C768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/entertainment/movies/coded-bias-unmasks-racism-in-facial-recognition-algorithms/article_0b528392-3a39-5162-99cb-0916769e47e2.amp.html",
+      "publishedDateTime": "2020-12-01T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023.md",
       "title": "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023",
       "excerpt": "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020.",
@@ -315,7 +358,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -367,7 +410,7 @@
       "originalUrl": "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1375,58 +1418,6 @@
         "name": "HotHardware",
         "domain": "hothardware.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-los-angeles-police-department-bans-the-use-of-third-party-facial-recognition-technology.md",
-      "title": "Los Angeles Police Department bans the use of third-party facial recognition technology",
-      "excerpt": "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "originalUrl": "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg",
-          "width": 1680,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html",
-      "publishedDateTime": "2020-11-18T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

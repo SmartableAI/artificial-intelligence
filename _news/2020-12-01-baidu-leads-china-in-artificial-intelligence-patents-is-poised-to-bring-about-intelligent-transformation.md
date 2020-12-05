@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
-excerpt: "Baidu has been granted 2,682 AI-related patents and has filed a total of 9,364 AI-related patent applications as of October 2020, ranking No. 1 in applications for the third consecutive year. Baidu’s patent applications were followed by Tencent (8,"
-publishedDateTime: 2020-12-01T14:08:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8"
+excerpt: "Baidu, Inc holds the most AI-related patents and has filed the most AI-related patent applications of any company or organization in China, according to a recent study published by two units of China's Ministry of Industry and Information Technology,"
+publishedDateTime: 2020-12-01T13:28:00Z
+originalUrl: "https://www.nasdaq.com/press-release/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about"
+webUrl: "https://www.nasdaq.com/press-release/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about"
 type: article
-quality: 35
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
@@ -39,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4ZocthBpdHQQ7FBqv5lltCceMgU4SorcwFSGPUPh+vD7l8dYIebKr/a4rhg5fyYmFSiZB/fyZ5g63BrxGK/qMmHE6qUXjEact8nuUASNe0GAER51kwDy9avdnfaz++LCEWj4AtJKqugq54ywziaOOibSYw73YKrBtL/BDrE8Ex9J+x5UYazxPk9KnMylcfcX8vZNluegDpsPXPNf2RabpzMKoBNx1qFeC24lGOyuoSpRgTi2dOPAhYLts5ULfAjYeylgOFpnb0zf5EXMeVGk3QIg78yxrxEtQfOZe9KLAWE2We/61i2gw4klRT1ZL+ivR7+pdLmO/MEb1ecpuNFuKCxcs14/zJyuWHK9EPAh9mU=;8bf/W7ONMpriqNQm+R5RhA=="
+secured: "FbLneDMgueOf3U7Oxvfu0AIcDealaCgxytKFhrzjgfy4MGXh/63+v+OvL1y3pfbonnaaP6YIr4iBLmi7gmlocumZ5L0gt7SkXWCmxDJ7SW9Rg395kPwUZFfo8cMSXWNyAuF+Kr22dhb09hq/TOlnRLxSPlEwl4/wQkPDDISeNNPAcOYAgDwknN/Ygg3VbkQ3vOejY9b8DzMjR5GvKmXRmW3QKWiG4+LDd599TO8KZUHhIF/dt/AT2aceqjJ6jk1YosvIgcMGhr+80vwQkVnmv+DOs7lgw8VFduHcufTPF+VwMvTv4Wc4+Rojxz41JzgBEinD5AVtz/Yq7fFl9N+vIhbCEE5XH8MX1OXPYuTYNg4=;41xkgWi9wAyeXLJyBGu9zw=="
 ---
 

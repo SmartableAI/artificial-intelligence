@@ -105,6 +105,20 @@ related:
         width: 580
         height: 380
         isCached: true
+  - title: "Police facial recognition: new study calls for greater oversight in NZ"
+    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "'Regulation gap' for facial recognition technology, law expert says"
     excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
     publishedDateTime: 2020-12-03T17:22:00Z

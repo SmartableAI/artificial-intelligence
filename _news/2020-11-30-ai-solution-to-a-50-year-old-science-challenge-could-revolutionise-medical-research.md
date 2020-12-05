@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Is the Pandemic Spurring a Robot Revolution?"
-    excerpt: "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic."
-    publishedDateTime: 2020-11-30T14:00:00Z
-    webUrl: "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/"
-    ampWebUrl: "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/"
+  - title: "New AI solution that can determine the shape of proteins could 'revolutionize' medical research"
+    excerpt: "DeepMind’s AI solution, AlphaFold, has succeeded in determining the shape of proteins with a level of accuracy similar to that of laboratory experiments."
+    publishedDateTime: 2020-11-30T15:35:00Z
+    webUrl: "https://www.news-medical.net/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2019/07/automation-retro-robot-toys-shutterstock-175821860.jpg"
-        width: 1408
-        height: 792
-        isCached: true
-  - title: "How the pandemic enabled a robot revolution"
-    excerpt: "At several Texas health networks, a friendly-looking robot with a mechanical arm and blinking lights for eyes can be seen whirring around the hospital floor, ferrying lab samples and protective gear for nursing staff."
-    publishedDateTime: 2020-12-02T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2020/12/02/how-the-pandemic-enabled-a-robot-revolution-791984"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1722492775.jpg"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "QG3EGy5gWuHl1uqD8XPndm0g1zVnxMQZY5t8XllaNgyQCfOwIzKOmFIj4kWv5B05QHWshkkDAaNawJJ85xqKUfIcrBc+nwGVofae579mXFL4R1p09DNI7QMrKwPvlCDi4tB9e8kAh0wTx6igo4g529tpyX/Auyd63cFtePFEGelNbqWIvxi/VdwE3xoEHVY40A3NfHZhdGFEmuw7IfeNuS3qu5PqejUi8rWX8N1scDfzwFTOnWZ0+XHaQw9B1stvB0+orrVDHKhZZ0qH3nr6rvMnn2YPQyhiTc7NuDTn430tfnr0lkUR4S75GDD24ZtwDDjTf7GSJcyJxUijT+YDxssJF+oaPlBG4wcOw0npJSo=;SEMedNcEJVsHvcuUbKj5tA=="

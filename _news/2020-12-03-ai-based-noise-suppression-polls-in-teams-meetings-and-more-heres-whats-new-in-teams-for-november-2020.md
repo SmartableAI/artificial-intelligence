@@ -56,20 +56,6 @@ related:
         width: 768
         height: 412
         isCached: true
-  - title: "Top 5 FinTech funding rounds in November 2020 (UK & Europe)"
-    excerpt: "Check out the top 5 FinTech funding rounds that took place in November 2020 (UK& Europe) – Italian FinTech Satispay has announced a €93 million ( ($111.2 million) Series C funding round co-led by American FinTech Square Inc,"
-    publishedDateTime: 2020-12-01T06:05:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-funding-rounds-in-november-2020-uk-europe/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2016/12/funding.jpg"
-        width: 620
-        height: 387
-        isCached: true
 
 secured: "bQj5dQyY/CC/SDzjJzg3wBBCEdzQC0Qwt1Jfp6MzisOUb4QPluR5eKLBebvswDscn/MMXcQkLODqjVYLrc/+kWqbgw6GfEnuNDaXnusDOpOqy8p0UOy0f/ywbRShGjxexwVEX9P1h6hL57hoWDQwX2Qbs09ubzffHhbdcF7vX+detAPLhQnp2al/6DUOchSxJ1E8fLiSp6zkpD+Ks6d9jiwlIZy3v09l/+oi9gnH8sTZ2h1o9A7gQ/tT3pDLW/gWybbnDvxIa+P+8Yr6ga7jMhi7hJ+0MqyvFanApyuqW/bNSQ1fWhjFLL66mvJSF/33IblB+2+fHZKmpYHd8OfBC1DG+EYaR0seQLZ8D8Zp5i8=;p+j6SlBq1j6F9hMsUo8ogg=="
 ---

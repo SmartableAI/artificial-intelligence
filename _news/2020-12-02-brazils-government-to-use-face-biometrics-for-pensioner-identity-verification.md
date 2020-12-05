@@ -25,127 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Brazil trials facial recognition with retired public servants"
-    excerpt: "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits."
-    publishedDateTime: 2020-11-30T13:23:00Z
-    webUrl: "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
+  - title: "Gartner to biometrics firms: Do better with facial recognition. Somehow"
+    excerpt: "The facial recognition community continues to speak in circles when ethics is the topic. Notable business-to-business tech analyst Gartner is the latest with indistinct advice that amounts to"
+    publishedDateTime: 2020-12-01T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202012/gartner-to-biometrics-firms-do-better-with-facial-recognition-somehow"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study. The findings by the National Institute of Standards and Technology (NIST),"
-    publishedDateTime: 2020-12-02T12:00:00Z
-    webUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/"
-    ampWebUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
-    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
-    publishedDateTime: 2020-12-04T12:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Translation: Must We Be Slaves to Facial Recognition?"
-    excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
-    publishedDateTime: 2020-11-30T20:54:00Z
-    webUrl: "https://chinadigitaltimes.net/2020/11/translation-must-we-be-slaves-to-facial-recognition/"
-    type: article
-    provider:
-      name: China Digital Times
-      domain: chinadigitaltimes.net
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg"
-        width: 308
-        height: 308
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
         isCached: true
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study."
-    publishedDateTime: 2020-12-02T19:59:00Z
-    webUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    ampWebUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+  - title: "NEC facial recognition adopted by \"Star Alliance Biometrics\" platform"
+    excerpt: "TOKYO, Dec 2, 2020 - (J) - NEC Corporation (TSE: 6701) announced today that Lufthansa Airlines and Swiss International Airlines (SWISS), Lufthansa Group airline members of Star Alliance, launched the \"Star Alliance Biometrics\" identity verification platform utilizing NEC's facial recognition technologies at Frankfurt Airport and Munich Airport."
+    publishedDateTime: 2020-12-02T03:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/a18608227/nec-facial-recognition-adopted-by-star-alliance-biometrics-platform"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18608227"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18608227"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
-  - title: "Police facial recognition: new study calls for greater oversight in NZ"
-    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "With or without a mask, facial recognition tools know if you are you"
-    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
-    publishedDateTime: 2020-12-04T00:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
-    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
-    publishedDateTime: 2020-12-04T15:20:00Z
-    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
-    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
-  - title: "Behind the Rise of China's Facial-Recognition Giants"
-    excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
-    publishedDateTime: 2020-12-01T00:06:00Z
-    webUrl: "https://www.linkedin.com/posts/omerwilson_behind-the-rise-of-chinas-facial-recognition-activity-6575262230235975680-vxgl"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEGxe2rzFBNZQ/ugc-proxy-shrink_800/0?e=1606874400&v=beta&t=HPZRI68RHfLCMSppuIvef5D0-Ddpu3zMrf_pSqx-DOM"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "eaQsMVMQA2V6gv/DHNhlT6gdJKPTnfEiiV2LJlXLKjwyaVfcwpvfZQI2Hb0IQ68pFgngwzpRlnmxahOcSYZjtP0Jga9yYihSLX7nkBK3ktDCA5Z1ohlEhJhTdDC3xepprnipSOSrCnzf8YuhKNfBeulU/7iKKpj1BYqFhAcid/7HGkquRV/2x9WG2LtBB/Z0eWSUDO7U0mTDiIEnmZueO9pAKZUxxvinKB4YX2vraem9JMOydn5T1el4CoS7VZxYAFbyCZsaQc0qf3smDsIFmmifqhngX52/syD3s4G72dRlTkjEwyyXQI1o7Bb2JjhQRpvYcO8sgWVqnQGvO2bVnOsuswkL56xdfzHmDx6rVfA=;JZZkAgn8GXoc1aKO4YVMgg=="
 ---

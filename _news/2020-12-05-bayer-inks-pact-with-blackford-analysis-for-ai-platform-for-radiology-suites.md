@@ -44,16 +44,16 @@ related:
   - title: "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology"
     excerpt: "During RSNA, Bayer and Blackford Analysis announced an advancement in the use of AI in the imaging field; they entered into a development and license agreement to establish an artificial intelligence (AI) platform for radiology suites."
     publishedDateTime: 2020-12-01T14:21:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_d3ded53e-4057-55b5-82ce-aa2b6c57c6ac.html"
+    webUrl: "https://www.bakersfield.com/ap/news/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_57b8176b-f7a6-5817-854c-1a510f91e060.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 38
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
-        width: 640
-        height: 336
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zGLTqMtbCSMi8CnI6aroitYJGcYWGQqMzjQU66h9lxPTnfpR9rhscGgU3PAwWbJxEm0+gDBJTQQjnsnI1lgd+Eb/I3VmrqElWFe/6g+IIEFDcXCloNEudfFy4JSbnyiu5/EoV7k5cZUrr1dlhblOnD+7bZxLVp7uNnJ1xqHbuDiZ+N807bJn1gqUyivRD7P/mE6VtWCMh4l1EHZPxw/l+DQ2CEB7Ok8zHXYyyPM25N/ppzqFURsDbLDYFzt+9zMBt/tquk6eWMYA40Eupg1uI9CUd8JhP+b5taS3aXO4ia7YEAqw0J1+msTskkoBhArVNh89+FnxO+tTeNne3JQCyo/7aOmOclKCoGpla7zYpzU=;+6L0cV5PrcwEo/inhQ0bGA=="

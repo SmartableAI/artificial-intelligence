@@ -2,316 +2,21 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2020-11-02-this-ai-identifies-asymptomatic-covid-carriers-by-their-cough.md",
-      "title": "This AI Identifies Asymptomatic COVID Carriers by Their Cough",
-      "excerpt": "A neural network created by MIT to look for signs of Alzheimer's has been applied to COVID-19 and accurately identified 98.5 percent of coughs from people who were confirmed to have novel coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough",
-      "originalUrl": "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06j3rj27tROHxy3EaMtbhow-1.1604323934.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true",
-      "publishedDateTime": "2020-11-02T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
-      "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
-      "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
-      "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
-      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
-      "publishedDateTime": "2020-11-02T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Road to VR",
-        "domain": "roadtovr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-cmos-predict-your-wins-with-ai-and-predictive-analytics.md",
-      "title": "CMOs, Predict Your Wins With AI And Predictive Analytics",
-      "excerpt": "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/358890",
-      "originalUrl": "https://www.entrepreneur.com/article/358890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358890",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890",
-      "publishedDateTime": "2020-11-02T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-c3ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai.md",
-      "title": "C3.ai on tackling CRM, education, social media regulation, and enterprise AI",
-      "excerpt": "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-in-healthcare-is-racist.md",
-      "title": "Artificial Intelligence in healthcare is racist",
-      "excerpt": "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "publishedDateTime": "2020-11-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws.md",
-      "title": "Citizen Services AI Market Growing at a CAGR 46.3% | Key Player Servicenow, Microsoft, IBM, Accenture, AWS",
-      "excerpt": "The global Citizen Services AI Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 46.3% during the forecast period, to reach USD 9.7 billion by 2024 from USD 1.5 billion in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
       "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
       "excerpt": "WABG merges Wipro’s diverse industry experience and comprehensive portfolio of services with AWS’s industry-leading cloud platforms to help organizations worldwide drive business acceleration, enhance customer experience,",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth/article_b018c697-6f87-5f20-a82d-2011e939dab4.html",
-      "originalUrl": "https://www.oaoa.com/news/business/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth/article_b018c697-6f87-5f20-a82d-2011e939dab4.html",
+      "webUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
+          "url": "https://mms.businesswire.com/media/20201102005498/en/594194/23/Wiprologo1.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -321,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:49:00-08:00",
+      "publishedDateTime": "2020-11-02T08:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -340,735 +45,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-02-alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience.md",
-      "title": "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "path": "_news/2020-11-03-ai-may-help-identify-patients-with-early-stage-dementia.md",
+      "title": "AI May Help Identify Patients With Early-Stage Dementia",
+      "excerpt": "Research suggests that how we type, sleep and speak may offer clues of cognitive decline.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1324474/Alpitour_2.jpg",
-          "width": 400,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-how-to-make-the-most-of-the-google-cloud-free-tier.md",
-      "title": "How to make the most of the Google Cloud free tier",
-      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use the free tier for what it’s intended to be: an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
-      "originalUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/12/cso_gauges_meters_performance_indicators_dashboard_measures_by_autophotography_cc0_via_pixabay_binary_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay_2400x1600-100824624-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
-      "publishedDateTime": "2020-11-02T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough.md",
-      "title": "AI can detect asymptomatic COVID-19 infections by listening to a cough",
-      "excerpt": "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
-      "originalUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/cough.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
-      "publishedDateTime": "2020-11-02T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-health-artificial-intelligence-being-trained-to-predict-risk-of-developing-oral-cancer.md",
-      "title": "Health: Artificial intelligence being trained to predict risk of developing oral cancer",
-      "excerpt": "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/11/02/10/35142862-0-image-a-6_1604313865968.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "publishedDateTime": "2020-11-02T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-otterai-adds-live-captions-to-its-zoom-integration.md",
-      "title": "Otter.ai adds live captions to its Zoom integration",
-      "excerpt": "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
-      "originalUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
-      "publishedDateTime": "2020-11-02T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-romanian-speech-therapy-startup-aims-to-raise-eur-290000.md",
-      "title": "Romanian speech therapy startup aims to raise EUR 290,000",
-      "excerpt": "VoxiKids, a platform dedicated to parents and speech therapists that aims to accelerate the recovery of children with speech and pronunciation deficiencies, aims to raise EUR 290,000 in exchange for 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
-      "originalUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.romania-insider.com/sites/default/files/2020-11/ana_maria_onica_si_cristian_baita-_voxikids.png",
-          "width": 640,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
-      "cdnAmpWebUrl": "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
-      "publishedDateTime": "2020-11-02T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Romania Insider",
-        "domain": "romania-insider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ambarella-launches-computer-vision-chips-for-edge-ai.md",
-      "title": "Ambarella launches computer vision chips for edge AI",
-      "excerpt": "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/",
-      "publishedDateTime": "2020-11-02T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-uk-plans-to-use-ai-to-process-adverse-reactions-to-covid-vaccines.md",
-      "title": "UK plans to use AI to process adverse reactions to Covid vaccines",
-      "excerpt": "The AI tool will be employed as part of the MHRA’s yellow card scheme for coronavirus, through which patients and healthcare professionals report suspected side effects and negative reactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareitnews.com/news/emea/uk-use-ai-covid-19-vaccine-side-effects",
-      "originalUrl": "https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcareitnews.com/sites/hitn/files/Vaccination.jpg",
-          "width": 1068,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T01:50:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-2020s-trend-speech-recognition-latest-innovations-and-market-scope-2019-2026.md",
-      "title": "2020's Trend: Speech Recognition- Latest Innovations and Market Scope 2019-2026",
-      "excerpt": "Speech Recognition: How it Works? Speech recognition is a technology used in various devices such as smartphones which enables system to identify the sound of spoken words and convert them into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/1926902/2020-s-trend-speech-recognition-latest-innovations",
-      "originalUrl": "https://www.openpr.com/news/1926902/2020-s-trend-speech-recognition-latest-innovations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/2/T211344770_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/1926902/2020-s-trend-speech-recognition-latest-innovations",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/1926902/2020-s-trend-speech-recognition-latest-innovations",
-      "publishedDateTime": "2020-11-02T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-aws-to-open-data-centers-in-switzerland.md",
-      "title": "AWS to Open Data Centers in Switzerland",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/aws-to-open-data-centers-in-switzerland/article_cf6bdda4-6bb3-59eb-85cd-98c199f6baf8.html",
-      "originalUrl": "https://www.register-herald.com/region/aws-to-open-data-centers-in-switzerland/article_cf6bdda4-6bb3-59eb-85cd-98c199f6baf8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-halodoc-uses-ai-to-improve-how-doctors-receive-feedback.md",
-      "title": "Halodoc uses AI to improve how doctors receive feedback",
-      "excerpt": "Due to Indonesia’s vast size and population, timely and reliable access to healthcare can sometimes be a challenge. Halodoc aims to change that with a mobile first-telemedicine platform that connects Indonesians to doctors and helps them arrange appointments, medicine deliveries and tests. What’s distinctive",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
-      "publishedDateTime": "2020-11-02T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-mistakes-referees-bald-head-for-football-hilarity-ensued.md",
-      "title": "AI mistakes referee’s bald head for football — hilarity ensued",
-      "excerpt": "Top football leagues and teams around the world have TV crews and streaming services at their disposal to broadcast matches to fans across the globe. However, because of the coronavirus pandemic, smaller football teams are relying on AI-powered cameras to cast live matches through YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-camera-referee-e1604295644927-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
-      "publishedDateTime": "2020-11-01T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-projects-building-vs-buying-and-what-to-consider-with-diy.md",
-      "title": "AI Projects: Building Vs. Buying And What To Consider With DIY",
-      "excerpt": "AI is vital not only to short-term survival, but to prevailing in the marketplace and growing into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
+      "webUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "originalUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c2ffccbda05987ab38586%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
-      "publishedDateTime": "2020-11-01T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023.md",
-      "title": "AI in Telecommunication Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2023",
-      "excerpt": "Global AI in Telecommunication Market Research Report, By Component (Solution, Services), Deployment (On-Premise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-01T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
-      "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
-      "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-01T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-intel-iris-xe-max-discrete-gpu-launched-for-laptops.md",
-      "title": "Intel Iris Xe MAX discrete GPU launched for laptops",
-      "excerpt": "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/",
-      "originalUrl": "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg",
+          "url": "https://images.wsj.net/im-253269/social",
           "width": 1280,
-          "height": 800,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1076,16 +67,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/",
-      "publishedDateTime": "2020-11-01T16:02:00-08:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1101,26 +92,25 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-11-02-as-deadline-looms-expert-says-businesses-are-just-starting-to-take-digital-accessibility-more-seriously.md",
-      "title": "As deadline looms, expert says businesses are ‘just starting’ to take digital accessibility more seriously",
-      "excerpt": "“Unless you consciously include, you will unconsciously exclude,” said Ricardo Wagner, accessibility lead at Microsoft Canada ... it brings a multi-sense opportunity with a range of cognitive services that can be integrated into any application.",
+      "path": "_news/2020-11-03-retailers-use-ai-to-improve-online-recommendations-for-shoppers.md",
+      "title": "Retailers Use AI to Improve Online Recommendations for Shoppers",
+      "excerpt": "Companies are getting better at helping customers find what they are looking for—even when they don’t know what they want.",
       "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484",
-      "originalUrl": "https://www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484",
+      "webUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "originalUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/11/GettyImages-511721606-620x250.jpg",
-          "width": 620,
-          "height": 250,
+          "url": "https://images.wsj.net/im-253272/social",
+          "width": 1279,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1128,14 +118,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484?amp=1",
-      "publishedDateTime": "2020-11-01T16:00:00-08:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1144,26 +143,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-11-02-hope-turns-into-reality-with-robotic-prosthetics-exoskeletons.md",
-      "title": "Hope Turns into Reality with Robotic Prosthetics, Exoskeletons",
-      "excerpt": "starting with a LEGO-inspired robotic hand, and that’s led him to design mind-controlled prosthetics that are affordable for all. Momo is patient zero for Unlimited Tomorrow. She is the first ...",
+      "path": "_news/2020-11-03-aws-to-open-data-centers-in-switzerland.md",
+      "title": "AWS to Open Data Centers in Switzerland",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
       "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
-      "originalUrl": "https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/04/machinedesign_14399_sw_med_promo.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 785,
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
+          "width": 440,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1173,11 +171,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-01T16:00:00-08:00",
+      "publishedDateTime": "2020-11-02T08:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1187,10 +185,10 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
         "AI"
       ]
     }
   ],
-  "nextPage": 44
+  "nextPage": null
 }

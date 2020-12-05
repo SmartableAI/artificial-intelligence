@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/top-ai-chips-2020/"
 webUrl: "https://analyticsindiamag.com/top-ai-chips-2020/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -39,20 +39,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NITI-Aayog-Banner.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "C3.ai Announces Launch of Initial Public Offering"
-    excerpt: "C3.ai, a leading enterprise AI software provider for accelerating digital transformation, today announced plans to commence the roadshow for its proposed initial public offering. C3.ai has filed a registration statement on Form S-1 with the Securities and Exchange Commission (“SEC”) to offer 15,"
-    publishedDateTime: 2020-12-01T06:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-software-industry-information-technology-3b7af079af9c4a8e9661a428c55e70e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "mwifAUdYHKGOBPZnycbFnVcNHtA2LbYaaKAHymmOhZ8W/a4UHieRPe28gTX71/tC9I/+DEYJcppN4HbWJ4TJp6R3W2WXQxmJFigT0qW/IK1dU8GXEKjcnPrWHyxk/MzBbnhCAsxtoRdeh/qG5gIdAyaj56YQh3/4E3QyIWpA9LrMO+NmrWMvso2+F7lcMN9zW0C8Th8KWhRdPKzsfuG1zhhqjs9RZzcSFDKJhOHpS09vAmitiPoJ6Q8nUMuegz0atCW2vlNbr1TrCg5eilWqCm7ks3luS3r91/lOUWHp6Mat1ZkIAEB4CocF9H/Ii2s3lkLpUFhI6yxzQOPRUvuSBfiBhm6t04SiLkDFzg8eZpC2o7qWUnzlnw4CKgugYYcYNBN8ltnuvrrf4EHWk+1QUlNkRCWQs3fxXJQ7fiRzs76z+VaoIzC585fY0+duzAJRVJbeb1zysIw2lJVsSDlK2kFZFndbKkTjAKenQjpJXnsWkn9W/j2FLkUAy3EnlOcGtZhU1cYrYI81iSRHezQT4g==;fFIkkyB0kKvZ5yi/3X7+Vw=="

@@ -45,6 +45,22 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
+    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
+    publishedDateTime: 2020-12-05T05:05:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 68
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
+        width: 764
+        height: 575
+        isCached: true
   - title: "What a top AI ethics researcher had to say about algorithmic bias—before she was fired"
     excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
     publishedDateTime: 2020-12-03T20:26:00Z

@@ -101,15 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI is transforming the agricultural sector"
-    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
-    publishedDateTime: 2020-12-02T14:33:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
     type: article
     provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 17
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "Am165yxZumBxpTaroo/xcJLOwDIHy16o7hTrV979dNnvdE8oKdGyownPA/H8W1vQlH43UZT03iaoWmreEt+IE+wFwtPlehoj7nP28bI6C0uA/lzC0t0Z2Q7/6WMJB+GbIXeGk3dPVvrFwLiI7GEylLQNBMP9jKj8Wh78/kmwsUZNnTLRIxhNqpKgbvGbcBZS6PwBWH80KHZ0Da/3hO0xMGPDkc4Smi2oCDbrR3Wz/vLqURYTde44S6+QHLGZG8eEJk0ILGPoltNPWQmcjGE+NjmzuHUPTr6F6pYqqJCiFJTgyDdvGUhg/wD5ojjp2YAzc3AzjWhneecyNQ09tooVAgHnPBwFqoefd82BEPQtEUdtFssogy1X4xyxufIxqSCoQffQaq6Ks/XP8yJeMlw6rlLokAuAMO42Fl4rdKbHdFE3lfc9KU64ym3xOKdY9nF5/13SGb22+CLXFRKEDPAuXRFebgm/oAhcB9ToX8L0gXTYVm6QbUs11mkkfkhUrOLM31z5hQ+qbasFee7q0vPQbg==;0XP70U4IMV8hJkHN3feyVg=="
 ---

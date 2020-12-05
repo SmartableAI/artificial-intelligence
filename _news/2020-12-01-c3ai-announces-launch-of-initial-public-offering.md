@@ -24,34 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI Chip Announcements Of 2020"
-    excerpt: "We talked about the rising demand of AI-based systems on Chips and the year 2020 is no different -- the trend continued."
-    publishedDateTime: 2020-12-03T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-chips-2020/"
+  - title: "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite"
+    excerpt: "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut."
+    publishedDateTime: 2020-11-30T18:04:00Z
+    webUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/"
+    ampWebUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/ai-chips.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Top AI-based Initiatives Of 2020 By NITI Aayog"
-    excerpt: "NITI Aayog has taken several AI-related initiatives with an aim to ensure that the growth in this field is responsible and inclusive"
-    publishedDateTime: 2020-12-01T09:36:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-based-initiatives-of-2020-by-niti-aayog/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/NITI-Aayog-Banner.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 62
 
 secured: "f9nDlr29RPxfq8vq5QUVOlGKfzpC6RP5pF+vCj0PJJcAr8/zyGnSIyheHQeDlIjVb6u05vgUglcdb2quO95eorrjwevZAP7TU7x7Fd93Eeg6rmMJx6QLFF8VYI4290VptOYWE5Bui2sQcCYV/JuNcsW1bfGd+9grCgxUD4xpH0GRCCWlJAdpR5UB71jP0Zy4Td74OTRj3LCdJe91QhV/sv1VTYg5UbQzcV3AAEra4pMf641ciXDchdtMe9hQsPcRYh6Qnj3gYjxo3MjR87Bb8kVEvEbIE+aspSxvBxE/BwTDugpJ7oWscUF2I4VvN/BCheM/yZcW2z9UHumUX8WXhu7gU+z4Ckyh5k02RbSiyYg=;I04fvXDuHXPNx4NZq+364Q=="
 ---

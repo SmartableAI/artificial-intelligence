@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/yp/discover/news/hong-kong/article/3112505/jour
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

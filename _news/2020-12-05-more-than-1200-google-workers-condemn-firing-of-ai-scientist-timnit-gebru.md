@@ -3,8 +3,8 @@ category: news
 title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
 excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
 publishedDateTime: 2020-12-04T22:20:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 type: article
@@ -111,6 +111,6 @@ related:
         height: 360
         isCached: true
 
-secured: "EIcAuDBOs085OTrOXXNLi+zc5j4qiea9hqmAEJtXTu3vKDY2YP654QLSaW1L/I3kUlOMJwXdE9wuDWHs2XRs8IFjayLBiNnZK4tPpDW08nHx/GgKSxaem3G48W5OoT++CwIFJ9xISUalnsNlM6UuCRg/5BbEdYbwS+vItdJlcyF+yofafKeP91w/0s5JwdfALPoYqgC+CoN/FqyJAeLpW+CXrlv0G8keMBIhhlBtdOiDmgwHCvZGSSgUZHi2vtCdsYb1qsLLPDWkZ6c2YHJD2AiBmyS9Bp7H2RG+f/lIoKuNO90rlqqSIn+2wp2ApNlPn3L+OCw4LlcSArNgIGsOXgxSA1dQI3bKQ01IYd6xIEA=;WfaiOLcLb7D4pXl1vEaGow=="
+secured: "mVk5yHRiuiJh5XJ4f0p9jl5/dxC1nwXdjn4M7P+wZyyP9xqkAhf2utdEHDVOLuXBYWsdN1R8MQlJFnAmgxh96WdjQejndL7zgHb4V+LVSPq4jKXJek4V0icI45G8Iya+X9yztwyh7PlfLEy2k2DG3yZTRm3CGpihpH3QapCXJStaRfCZ798lCe6DeNxN3D0Y9eDSsHigrbFOjVQDXYCP14LOolTZeIgM4aXk9yCW0XMk1zB7td4/nksdsBoTfseG42Rp1woNZJSFzolQTjVsvA5TTDi1hcfANvIpCF8DjaLHpoRixaTfnl9mLb9frZEVUG09LRYcGllRygj3cfmQFZIYVB68j5stYcdkQUs8GoY=;EKeEQWbELAoBIobju75cDQ=="
 ---
 

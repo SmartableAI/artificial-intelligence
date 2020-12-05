@@ -39,20 +39,6 @@ related:
         width: 600
         height: 506
         isCached: true
-  - title: "Doubling down on debt – AI and Machine Learning in action"
-    excerpt: "How could a powerful combination of artificial intelligence and Machine Learning help utilities overcome mounting challenges in debt provision, prevention and forecasting? Download this new report from Utility Week and Inawisdom to find out."
-    publishedDateTime: 2020-11-30T14:02:00Z
-    webUrl: "https://utilityweek.co.uk/doubling-down-on-debt-ai-and-machine-learning-in-action/"
-    type: article
-    provider:
-      name: Utility Week
-      domain: utilityweek.co.uk
-    quality: 54
-    images:
-      - url: "https://static.utilityweek.co.uk/app/uploads/2020/11/30135022/Inawisdom.png"
-        width: 1800
-        height: 1143
-        isCached: true
   - title: "Fixposition showcases new Vision-RTK solution for challenging scenarios in precision agriculture at FIRA 2020"
     excerpt: "RTK tackles situations with limited satellite reception and enables new possibilities for precise positioning in agriculture"
     publishedDateTime: 2020-11-30T15:10:00Z

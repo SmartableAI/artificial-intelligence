@@ -33,20 +33,6 @@ related:
         width: 600
         height: 506
         isCached: true
-  - title: "Doubling down on debt – AI and Machine Learning in action"
-    excerpt: "How could a powerful combination of artificial intelligence and Machine Learning help utilities overcome mounting challenges in debt provision, prevention and forecasting? Download this new report from Utility Week and Inawisdom to find out."
-    publishedDateTime: 2020-11-30T14:02:00Z
-    webUrl: "https://utilityweek.co.uk/doubling-down-on-debt-ai-and-machine-learning-in-action/"
-    type: article
-    provider:
-      name: Utility Week
-      domain: utilityweek.co.uk
-    quality: 54
-    images:
-      - url: "https://static.utilityweek.co.uk/app/uploads/2020/11/30135022/Inawisdom.png"
-        width: 1800
-        height: 1143
-        isCached: true
   - title: "TeraRecon Expands Change Healthcare Distribution Agreement Adding AI Subscription"
     excerpt: "TeraRecon, the leading provider of AI-driven advanced visualization solutions, today announced the expansion of their distribution offering to Change Healthcare customers for their AI-powered Intuition Subscription."
     publishedDateTime: 2020-12-01T06:43:00Z

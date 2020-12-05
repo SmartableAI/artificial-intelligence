@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning: A new blueprint for the fintech industry"
-    excerpt: "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better."
-    publishedDateTime: 2020-11-30T13:55:00Z
-    webUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry"
-    ampWebUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 68
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "The Beginning of the End of Cash? 2020 in Fintech Trends"
     excerpt: "Before the pandemic struck the globe, fintech companies around the world entered the new year with expectations that were shattered within months. Many of the trends that began the year were abruptly halted;"
     publishedDateTime: 2020-12-03T11:27:00Z
@@ -70,6 +54,20 @@ related:
       - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2020/11/27/185724098-663df9ae-a6bc-4750-8a26-cb2926bf19e4.jpg"
         width: 900
         height: 472
+        isCached: true
+  - title: "Top 5 FinTech funding rounds in November 2020 (UK & Europe)"
+    excerpt: "Check out the top 5 FinTech funding rounds that took place in November 2020 (UK& Europe) – Italian FinTech Satispay has announced a €93 million ( ($111.2 million) Series C funding round co-led by American FinTech Square Inc,"
+    publishedDateTime: 2020-12-01T06:05:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-funding-rounds-in-november-2020-uk-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2016/12/funding.jpg"
+        width: 620
+        height: 387
         isCached: true
 
 secured: "veyJ87RbGVyfqkbQ6+LxSfPSUO0C/kahva++YKtkXVCfGRQIxZOcQcCtSxaSlc1l3VNa+mx3QDuDF3bWBviLxqqpteZBPFcIsUdkSbrX4nck8mB/mTy4Vl7EYscnnyAjQ2CQ67g6CeeyUK87opHmIyMXKDbgFT2afGOQ9FRUJeh9kUk1Ld5H408YEA1yIPAo38M906KlISGj511mbxCFUWoI90G5mtto1NAsZHwWogCEDw2xS7weTVSIfnis9m/1V6dfuRGQJqCHvfiR2lCnYLQFcG4ECySWBzOO9kMY2rXB4YRDYp68QKDTuzwRBfqYxMBLtfUqD1WW2cgRoz/0W5zJkhuA1Z/MLYCnhDgXXu8+Rlxq2Mn3jBBcioHKjFCRepA7z77ZNtN8/C/CoPhKv1LiMQbrTzmXzp3V4xLyDZWOLhzanPy75i/NeGvoKaBB2zqVd+4C2ngdf2gR/kO406OouF0cirsSnMuEocL9FM+XoyyIvruHw5lcW0w9XvRHnrDW/VOmvNdyb9o0CbDOvw==;Ih5hMFnezPvCbQcawut3kA=="

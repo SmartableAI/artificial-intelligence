@@ -25,87 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Brazil trials facial recognition with retired public servants"
-    excerpt: "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits."
-    publishedDateTime: 2020-11-30T13:23:00Z
-    webUrl: "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
+  - title: "We Soon May Be Able to Tell Bears Apart by Using Facial Recognition Software"
+    excerpt: "Bear biologist, Melanie Clapham, who studies bears in Canada, said it can be hard for people to tell bears apart as they track them over the years because their appearances change drastically."
+    publishedDateTime: 2020-12-01T11:57:00Z
+    webUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426"
+    ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study. The findings by the National Institute of Standards and Technology (NIST),"
-    publishedDateTime: 2020-12-02T12:00:00Z
-    webUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/"
-    ampWebUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 56
     images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.insideedition.com/sites/default/files/images/2020-09/093020-bear-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
-    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
-    publishedDateTime: 2020-12-04T12:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+  - title: "Face recognition software making progress at recognizing masked faces"
+    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
+    publishedDateTime: 2020-12-03T06:46:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study."
-    publishedDateTime: 2020-12-02T19:59:00Z
-    webUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    ampWebUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "Police facial recognition: new study calls for greater oversight in NZ"
-    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
+      name: Help Net Security
+      domain: helpnetsecurity.com
     quality: 39
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
-        width: 1420
-        height: 798
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
+        width: 1000
+        height: 707
         isCached: true
-  - title: "With or without a mask, facial recognition tools know if you are you"
-    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
-    publishedDateTime: 2020-12-04T00:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
+  - title: "Leverage the Latest in Speech Recognition Software to Stay Competitive"
+    excerpt: "A new generation of technology lets you spend less time on reports and more time on what matters: your clients."
+    publishedDateTime: 2020-12-03T16:52:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/leverage-latest-speech-recognition-software-stay-competitive"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: WealthManagement.com
+      domain: wealthmanagement.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
-        width: 1240
-        height: 826
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/Voice-Recognition.png"
+        width: 735
+        height: 389
+        isCached: true
+  - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
+    excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
+    publishedDateTime: 2020-11-30T20:39:00Z
+    webUrl: "https://www.biometricupdate.com/202011/ugandan-police-accused-of-using-facial-recognition-system-to-fuel-rights-abuses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
     excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
@@ -118,34 +94,15 @@ related:
       name: Reason
       domain: reason.com
     quality: 37
-  - title: "Behind the Rise of China's Facial-Recognition Giants"
-    excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
-    publishedDateTime: 2020-12-01T00:06:00Z
-    webUrl: "https://www.linkedin.com/posts/omerwilson_behind-the-rise-of-chinas-facial-recognition-activity-6575262230235975680-vxgl"
+  - title: "Madison Common Council to consider banning facial recognition software in most cases"
+    excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
+    publishedDateTime: 2020-11-30T16:17:00Z
+    webUrl: "https://wkow.com/2020/11/30/madison-common-council-to-consider-banning-facial-recognition-software-in-most-cases/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEGxe2rzFBNZQ/ugc-proxy-shrink_800/0?e=1606874400&v=beta&t=HPZRI68RHfLCMSppuIvef5D0-Ddpu3zMrf_pSqx-DOM"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Brazil’s Government to Use Face Biometrics For Pensioner Identity Verification"
-    excerpt: "The Brazilian government will be using biometric facial recognition to verify the identities of pensioners in the country."
-    publishedDateTime: 2020-12-01T21:25:00Z
-    webUrl: "https://mobileidworld.com/brazils-government-to-use-face-biometrics-for-pensioner-identity-verification/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 20
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/facial.jpeg"
-        width: 400
-        height: 260
-        isCached: true
+      name: WKOW
+      domain: wkow.com
+    quality: 12
 
 secured: "RDEPsqYsx7sGpZrEUJPjKH3x8seFyWNcb9zrjNri49ht56grf/G4NJBHsHKfkeBi/qzPIYJZChwapdh3hOa+Y3pnj1xSKNZIOUYc0qvH0bxvxvGdMnfol3Iy1CcbY+OWIIQPF/x0Lpg+U5giXA1zHdi9Efgoan+6R2kJsvRlP9yENWlfwIW+ood9D9ad1kSsHLTcCT9mLvXHsGQVNUNijy6ehqNn7e79wA79vt5knVSxr0/st0BS+sguN79roc/KAj4cUUkqzQ3HM1YNc45XKkTYxEFjcQ2F2e6S+dHugoW3loxralMvJap7LLctLMbSyR8ameDcRpRF2h811VEm0109DiMZxAwvUpHJdOsmJRo=;cDZ23U4j5bUdBhVCqPndIw=="
 ---

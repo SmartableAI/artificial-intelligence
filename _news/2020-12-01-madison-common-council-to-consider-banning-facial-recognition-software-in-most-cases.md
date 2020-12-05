@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Translation: Must We Be Slaves to Facial Recognition?"
+    excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
+    publishedDateTime: 2020-11-30T20:54:00Z
+    webUrl: "https://chinadigitaltimes.net/2020/11/translation-must-we-be-slaves-to-facial-recognition/"
+    type: article
+    provider:
+      name: China Digital Times
+      domain: chinadigitaltimes.net
+    quality: 39
+    images:
+      - url: "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg"
+        width: 308
+        height: 308
+        isCached: true
   - title: "Face recognition software making progress at recognizing masked faces"
     excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
     publishedDateTime: 2020-12-03T06:46:00Z
@@ -77,6 +91,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "hxZleRqVTFdzFOQLwhUO3I/2WmZycDyQ0yXyq/dwc+6d/75jLbGk+gsvSLXwdBL+ASvMsdsFVpKLhBqKItHcPeldhQGLv5EqBZ6/ZiktHTQ2ikIgF/m24P3A3JIFFyVCCjQY2kGmOixbTZZlmUVXCHCII26PEHMwI6JJb91oukb7vbOo15cfZvkoZJStHH6pCY40SbmNhpgbLDoM9zQYBwMZvlZbOnWHPMvRveFRUKnzr5qQSxPT8WiDIf2Bkcs2HtitTPEigisbQGSPC48v+4TnuL2zUVubIXvO+DLyhFoJ7UAnWjoqlfMcGmdhmLi2VVynwbO7n5ZKdXD6O01Yv2RLC9yL54QnAuduvrmyNq3ZW0PdIq7RX4J+7TnZyO3/EA9G5TnvsFFp9+/Flm+IU45G7iIPYSR9Ks66YaVZADHU//4pfeR6HVtnKFUOhwWXlXqtTR7CUrGvSG/BSriFiLPB+L97gtelnJrt6OWY8k0VE47T6GtoT8vPD967gFeqSat0RWkEzxow5TM0WOK3IQ==;LfyTIgZC8YM8vEmSzQo4LQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: TheStreet.com
@@ -28,33 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai sets IPO size above half-a-billion dollars"
-    excerpt: "The cloud software operator that uses AI to do industry-specific data analysis would see an initial value of $3 billion."
-    publishedDateTime: 2020-11-30T14:42:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/e4d858ff-3bd7-4aed-ae90-7676eda0116c/c3ai-boilerplate-nov-30-2020.png"
-        width: 1410
-        height: 628
-        isCached: true
-  - title: "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite"
-    excerpt: "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut."
-    publishedDateTime: 2020-11-30T18:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/"
-    ampWebUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 62
   - title: "C3.ai, Inc. (AI) Plans to Raise $504 Million in December 9th IPO"
     excerpt: "C3.ai, Inc. (AI) is planning to raise $504 million in an initial public offering (IPO) on Wednesday, December 9th, IPO Scoop reports. The company plans to issue 15,500,000 shares at $31.00-$34.00 per share."
     publishedDateTime: 2020-12-01T06:30:00Z
@@ -70,38 +43,6 @@ related:
       - url: "https://www.marketbeat.com/logos/ipo1.jpg"
         width: 500
         height: 500
-        isCached: true
-  - title: "Peninsula AI Startup Files For IPO"
-    excerpt: "The company would be valued between $3.08 to $3.37 billion using the company's share count, according to the report, but C3.ai's IPO could take a hit in the $70-to $80-million range should underwriters decline their option."
-    publishedDateTime: 2020-11-30T20:55:00Z
-    webUrl: "https://patch.com/california/sanmateo/peninsula-ai-startup-files-ipo"
-    ampWebUrl: "https://patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
-    images:
-      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
-        width: 816
-        height: 612
-        isCached: true
-  - title: "Silicon Valley AI Startup Files For IPO"
-    excerpt: "A Redwood City startup announced plans to go public Monday, and all indications are that the artificial intelligence software provider is poised to make some real money. When the dust clears, C3.ai could be worth north of $3 billion according to a published report."
-    publishedDateTime: 2020-11-30T20:46:00Z
-    webUrl: "https://patch.com/california/losgatos/silicon-valley-ai-startup-files-ipo"
-    ampWebUrl: "https://patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
-    images:
-      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
-        width: 816
-        height: 612
         isCached: true
   - title: "Tom Siebel's C3.ai seeks to raise $527 million in IPO"
     excerpt: "C3.ai is seeking to raise up to $527 million in capital with its IPO, the company said Monday in its filing with the Securities and Exchange Commission. The 11-year-old Redwood City based company that helps customers with such AI-based applications as CRM,"
