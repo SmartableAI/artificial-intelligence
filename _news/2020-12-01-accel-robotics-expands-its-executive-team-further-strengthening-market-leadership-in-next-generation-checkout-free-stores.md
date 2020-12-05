@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Accel Robotics Expands Its Executive Team, Further Strengthening Market Leadership in Next-Generation, Checkout-Free Stores"
-    excerpt: "SAN DIEGO, CA, Dec. 1, 2020— Accel Robotics, a San Diego-based startup focused on AI and computer vision for checkout-free stores, today announced it has hired Dr. Ron Khormaei as VP of Engineering and Jeff Hermann as Senior Director of Product Management."
-    publishedDateTime: 2020-12-02T14:57:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/accel-robotics-expands-its-executive-team-further-strengthening-market-leadership-in-next-generation-checkout-free-stores/"
+    excerpt: "Accel Robotics, a San Diego-based startup focused on AI and computer vision for checkout-free stores, today announced it has hired Dr. Ron Khormaei as"
+    publishedDateTime: 2020-12-01T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201201005163/en/Accel-Robotics-Expands-Its-Executive-Team-Further-Strengthening-Market-Leadership-in-Next-Generation-Checkout-Free-Stores"
     type: article
     provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 8
 
 secured: "b9c5k4POj+CtnF6aWbz+chtjqenLG9iT5z0+rKxGjJ+HVpDWiUqC967kFNIdZqjGotfnSRnfZE66ZeVRijFqDISDoUg+Pp1g4qZSSsqLXC9N/2q+njPvYENgYeigZAbtBmtvATnZncEQA7foYEyn2SDzRE6ZPRHsh2Z+HPnpABJjYceMSc6RCfT2csHhpipMNfhwVFXr2GQEgF/WGp6aY3h/8EF+/jv59OG8IMkd1iRiN8GCb7ejPIdrN+clqDEjMgaDboe0uCVZsDjXTE+QcSMLkWKWgKFPch2DLtb3dK02z3jLdhRlmgheo9pHu8UEb6FvDlUa6DF2X1Au2ogvzoo8bAOgw1r9JtrPZv0PYDY=;nlyus4UdLHnafgvwgXASdg=="

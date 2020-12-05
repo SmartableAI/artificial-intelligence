@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
-    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
-    publishedDateTime: 2020-11-30T17:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
   - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
     excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
     publishedDateTime: 2020-12-02T08:00:00Z
@@ -95,15 +84,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
-    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
-    publishedDateTime: 2020-11-30T18:10:00Z
-    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 15
 
 secured: "r3nEpJDEfwXYS92Z4MNC1UBa4JsY/0u6XdaQSlvF7z9aIWiVANo6DpBRHPokZO1wwSSmVNgY7pA/NWt3u8qS+zYy6USMY/K7vBpDwBKwL3H0c7EToRP97pyqhslwhtLhBmsMz1+TVSr4Vy7qtGoqd3+Qn3ZALJqkKse/E2bciTGG+LWru1OaC3sCaeaSWD4HfgkH076l1iYyZ9+3woaLFFrbuYbkEzgVcHW93L8RbOyUfKD0kSxglLjJNqAV5KyCO0rtEd/H78wMG8PdQ9moX8IECDb/o1eOSpqLKaDGiWLW65/IFCZkQ8R7O8o2AP70UhReaC/X89dXl13UJ5yiCImS9Rs05+Dk9XT2lM0AMOnonnklxxscXpl6KM/YADj/yhScorGOdlPuIUuYEDnKGP0hTuDwyW6XzEEho5sTQnt2d18dlgpAedNpK+lFN+WkpniU8dux5DLh5SIrj6Fc6ZCBnyxq4fZ9QeWuwlkzkEIpG94xiiXeVN17QtbRdhIe8Yrb5kST8HOv/yyvhbxSMQ==;uVMbp3VvfNxr+ZArjoYxlg=="
 ---

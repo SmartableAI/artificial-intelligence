@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Translation: Must We Be Slaves to Facial Recognition?"
-    excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
-    publishedDateTime: 2020-11-30T20:54:00Z
-    webUrl: "https://chinadigitaltimes.net/2020/11/translation-must-we-be-slaves-to-facial-recognition/"
-    type: article
-    provider:
-      name: China Digital Times
-      domain: chinadigitaltimes.net
-    quality: 39
-    images:
-      - url: "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg"
-        width: 308
-        height: 308
-        isCached: true
   - title: "Leverage the Latest in Speech Recognition Software to Stay Competitive"
     excerpt: "A new generation of technology lets you spend less time on reports and more time on what matters: your clients."
     publishedDateTime: 2020-12-03T16:52:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/Voice-Recognition.png"
         width: 735
         height: 389
-        isCached: true
-  - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
-    excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
-    publishedDateTime: 2020-11-30T20:39:00Z
-    webUrl: "https://www.biometricupdate.com/202011/ugandan-police-accused-of-using-facial-recognition-system-to-fuel-rights-abuses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
     excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."

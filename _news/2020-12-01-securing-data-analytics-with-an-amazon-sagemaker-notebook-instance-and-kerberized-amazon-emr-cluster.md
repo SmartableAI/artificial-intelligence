@@ -71,20 +71,6 @@ related:
         width: 802
         height: 462
         isCached: true
-  - title: "Analyzing data stored in Amazon DocumentDB (with MongoDB compatibility) using Amazon Sagemaker"
-    excerpt: "One of the challenges in data science is getting access to operational or real-time data, which is often stored in operational database systems. Being able to connect data science tools to operational data easily and efficiently unleashes enormous potential for gaining insights from real-time data. In"
-    publishedDateTime: 2020-11-30T17:48:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Analyzing-data-stored-in-Amazon-1.jpg"
-        width: 681
-        height: 335
-        isCached: true
 
 secured: "As971p83/h8k11DQxXiaQKbls8eys6j49vx5Brfl2YYvq0cc2RmMl0tLUYMA5JHqS50m+PxVkjdea5lrccmk7F0K1AC06kk9vPK+r6zt6his9CFWeNzjqW4woHqecKj/ckEzlJnI4P1FOE8CWtOWz+uLjLwoN4O3E/JukvVKyr6zxC8g49DLE9oWLCxfG4ftJOQ3YmfRzGM6aKBO0wZFsuzrDo5qJhGdDRUlzA+z3FkjuJz7UJ87cqF6CQxDdGkOckZ8ckWD3oqn3tBOW01IQQl4XEkEeP1mDifOh2O/hIdlObrAUK1LNRHhXKvme8R/Rgdzg9cD/+OZJISaMpb4rsuSXVBg2ZYioD0UBbee8f4=;dLPIsUkRoqlLTSRm8NA8LA=="
 ---

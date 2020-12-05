@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-05T09:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/20/12/ab18662314/voice-assistant-application-market-growing-at-a-cagr-31-9-key-player-ibm-google-aws-microsoft-app"
 webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18662314/voice-assistant-application-market-growing-at-a-cagr-31-9-key-player-ibm-google-aws-microsoft-app"
 type: article
+quality: 20
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -16,6 +19,22 @@ topics:
   - AI
   - AWS AI
   - Microsoft AI
+
+related:
+  - title: "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS"
+    excerpt: "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million"
+    publishedDateTime: 2020-12-02T00:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "H0KfblzVTJFvFZBteKxGV3MU/FFdaLh+1nLpcdcawfk/ovjrIMlpiNf05IKnDZFIISzhWF6nWw1+uDRDZCYAImQNA8hTnRjaWkq06l3WLpOVgdLPp5CbIlJ0xPPIVqgZZgPBGuc5Vd2tILI1rWBy6aL2wwaEELgRRCmRDviUSKV6ZTrGInu0UDEDB3IJ50bY6RVMMHKKgP6Tt6T8X1nLEmjo8iKynj0gOVno/4KqOWjJVtVQrPQJEGxiCkBjVkU78qNyPIVmLJxs/YmXBu8u8PDj4fxc+tx4YbLKtdvucUvfdLIFBwL53AVJzygfBS6zwAYmOzjD5bLrL4g6eB5cr2gvdkrX/09Y+TbFtMCWu6E1kVtfAMsjvazOARLQwBRfw25yhQ7zyTowwf3PZEoVImH4V+6QtLmJeKGfNlDuH6hMcMlrZ0uL47s8I5xN/I6dJ52DEjKAyFueqQKp7xV90x1NKTK1W2Nc8Nwx+TZBACNsokgfWIhlG4Rq2hTfhqKvKk27VTMiSbkrjF2SNnzW4Q==;h+Xr0AjEMHUoVFnQn4cxxA=="
 ---

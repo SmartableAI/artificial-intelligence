@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/"
 type: article
 quality: 81
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
-    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
-    publishedDateTime: 2020-11-30T17:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
   - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
     excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
     publishedDateTime: 2020-12-02T08:00:00Z
@@ -99,15 +88,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
-    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
-    publishedDateTime: 2020-11-30T18:10:00Z
-    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 15
 
 secured: "4UPL0uWnGAlVnah72jFrKeXfnQelxMOm/M5L0XBEfPtU1T4qDzTgb9G91eU0rEHj5KGS4hBxC7V5fkAWus2hpGzbvZKiVhgacFbNaxDKkki79TDtVsK25hK2/S4rqbfirJ+u/2U2NCgjFYvTmx7tSvP7u4/LozJ4h+FA0h8Iia3C6pGi+cTe4bjtVXlMT1QJc9aJML1+XKHQjfJlpsme2vRO+oqwGx3ioTc1Ku3TlvPiDwQxMjDdPV7PmmjMUrq1nRLUesN+Qb3cTX/VG/sOdYPZ5rrOpYicoDqx+pHw9eiMFGiscK3DVViKG+pw9B+elogr5aDw1qei3WWA/o3djslUfRzeJiv2rkXmeTAoslZchWKTV+cW1C/CTCCaUnmPzW6Pl9KTGvBfxotTPiNTreN64DAK7sFlp/Qrk7LATOTvwa88gsPy/BZue7bAJ8ymxD6ikJBaI7K1St7k8zmjVTmdXPW07ux8WMI1S2RYQdRedqdrCRlfep9z/gvvNUkx5RCrTmFwk0qG4M4yD+d1Nw==;JoOAaTSDOGyHhqg1oayrcA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-02T15:29:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success"
 webUrl: "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Business Wire

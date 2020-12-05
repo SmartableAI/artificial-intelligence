@@ -20,22 +20,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "'Startup Supercup' to Unite Angel Investors, Investment Funds and Startup Founders in French Tech Ecosystem"
-    excerpt: "To be held in Sarlat, the capital of France's idyllic Périgord noir, the Startup Supercup aims to bring together the entire startup ecosystem: investment-worthy startups and their founders, angel investors and business angels,"
-    publishedDateTime: 2020-11-30T18:46:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2771247"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 6
-    images:
-      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
-        width: 256
-        height: 256
-        isCached: true
-
 secured: "6uI4ji5kHA6cHmfWeC0JbylCXApHjkJq+Slw6rGrXxANyyKOqn0Q5HebM/Xo/34XW/52tGhTbOOYyJnFtWt9VSUn0WlzSdwKLKJgZx4yn5tFzqnguSdefCINf6c61+IJbmokaOtGB6jY2fvkIajfNuqBHy1AunJQ7LQycaGkg1N7JW6u+HWdbO/achN9OBd924Bn2NTUTzaaVa1mbJdGgIDUycyiNYWb/hPR9i8aho5rNE4KAs9ayAomX3GoINSeiJTfF0CHLOv2xg2Ec15+cl5Lt/a+cFwwBQTm1H4iAT/hTprH2fgOjqmNocnBqH8HGySoJVrxhlhO4exNgvkttZ28YHn+XfljFxKSMHBppAFBKDJmLmWKbbybZsrtRMFp0LVxfyYAF8ttPCH6jTPV2vMHG6h5dh/YvUlIXR/7WOFdTm+Jhl+aa0mXTLDGGzTNB6JiQvuEbc7elM9fRk96kYz4KpqFh3tcQ/kjHKOsM795W/XhWpmE/N9M6nMV6K19zCYoxryqGZS+dHrO37AN+w==;wVPNzD8+gT3PDyGt+kKsUw=="
 ---
 

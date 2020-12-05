@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/getting-there-structured-da
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/"
 type: article
 quality: 120
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "From the Data and AI Expert Labs"
-    excerpt: "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Previously in this series, I discussed the formula we use"
-    publishedDateTime: 2020-11-30T20:57:05Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V3.jpg"
-        width: 990
-        height: 498
-        isCached: true
   - title: "Why robots freak us out, and what it means for the future of AI"
     excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
     publishedDateTime: 2020-12-03T16:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.marketbeat.com/logos/ipo1.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "C3.ai Announces Launch of Initial Public Offering"
+    excerpt: "C3.ai, a leading enterprise AI software provider for accelerating digital transformation, today announced plans to commence the roadshow for its proposed initial public offering. C3.ai has filed a registration statement on Form S-1 with the Securities and Exchange Commission (“SEC”) to offer 15,"
+    publishedDateTime: 2020-12-01T06:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-software-industry-information-technology-3b7af079af9c4a8e9661a428c55e70e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "IPO Update: C3.ai Proposes Terms For $504 Million IPO"
     excerpt: "C3.ai has filed to raise $504 million in an IPO. The firm provides machine learning and artificial intelligence software to organizations worldwide."

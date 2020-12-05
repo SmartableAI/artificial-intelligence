@@ -37,20 +37,6 @@ related:
         width: 797
         height: 435
         isCached: true
-  - title: "Real-time anomaly detection for Amazon Connect call quality using Amazon ES"
-    excerpt: "If your contact center is serving calls over the internet, network metrics like packet loss, jitter, and round-trip time are key to understanding call quality. In the post Easily monitor call quality with Amazon Connect, we introduced a solution that captures real-time metrics from the Amazon Connect"
-    publishedDateTime: 2020-11-30T20:49:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-anomaly-detection-for-amazon-connect-call-quality-using-amazon-es/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/1-AnomalyhistoryChart.jpg"
-        width: 800
-        height: 302
-        isCached: true
   - title: "Machine learning: The new language of data and analytics"
     excerpt: "Machine learning is all the rage in today’s analytical market. According to Kenneth Research, the value of machine learning is growing sharply and is expected to reach over $23B by 2023 – an annual growth rate of 43 percent between 2018-2023."
     publishedDateTime: 2020-12-02T09:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-02T20:58:00Z
 originalUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
 webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Reseller News
@@ -15,6 +18,50 @@ topics:
   - AWS AI
   - AI
 
-secured: "v1nYrVmzMFda/yFcKDd/4S50uD0c4fOMvHTRGnddEuvLzA59hLKQJ1dcYl/q14IBoipAyxuae9ZlfxPrNTgwLwiZlKrN+lJ1sIXMs5N/7re6cDsiQXEI+K9/ieKZNLj8HP/si39k/h1OQSPD1naRvGasho+07oFe6LLM0uF7ALkKEJfX3mA6pjVzpWa7QBZA394eiMl22bQxBmLErqTrJaFUbVcsMcmw5IPLxnRuum7ecVOCq7Xu06JWm2Uzl4YAZeapqOhE3lU3557R4drahkqpz2r2V+391EVCx1yqfZqetS6YKy7qaN4nqV6/gVdyCwHLkJEuQ92GQqSac0Hv/tHINfVpbrTspjQ/klRAzms=;6j9Wu76Flzh6yVDLpuT8lA=="
+related:
+  - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
+    excerpt: "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud."
+    publishedDateTime: 2020-12-02T09:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
+    publishedDateTime: 2020-12-01T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Appian Connected Claims Solution Available in AWS Marketplace"
+    excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to reduce the operational complexity of insurance claims and deliver real-time,"
+    publishedDateTime: 2020-12-01T06:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-artificial-intelligence-f9496c3330fa806d1d7d9df00988bc36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "dp/KJQKkqi3DPlFdefdoMTldkB8ujEfgh4QQb4OwxJJpaiOUEhXLnBz4QInVWGDbE2jTsmopBylHh7uD+ZyYExGq5qmMMadvQ2wDq+79IeJKXHyd9ReUf87JXduZCR3sNOdq6XTzWPpSVvbOczEvuCw4crd9rggL+2VZClJI54WKhwtDLi3qGuxSZsw2RTvZBweT+VU0qD2yS2x5jHFKk1OICoAU7XpUFwC9W7UHw6oyCXvTaSLj+UUveJsUPQoXEY/oU9+BWoudKR+KtZNlfPZA9dkT7Qn9rV5+TPXXDQbZmMmc+GlTi6AXvsQzaG9s9yKMdOE33tdd3wwpwQEH59TYfah6bJC+pN7gqe7JQgg=;NtdMhAOKV+hFujKzoMzf2A=="
 ---
 

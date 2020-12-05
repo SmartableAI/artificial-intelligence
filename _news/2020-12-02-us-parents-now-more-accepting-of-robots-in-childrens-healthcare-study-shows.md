@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/us-parents-now-more-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1079
         height: 720
         isCached: true
+  - title: "How children inspired my painting robots"
+    excerpt: "Seeing how simple my young children's art was, I wondered if I could teach their creative process to a painting robot. My attempts, failures and successes led to a 15-year journey of artistic discovery that gave me profound insights into my own mind,"
+    publishedDateTime: 2020-12-05T10:56:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/kun/rob.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 34
 
 secured: "tssrT6teXEdV7kbMe7nlQKc9Ojc7+OdawH2ZoZFCLJsoNcgbNKj/j2P831I1MVGlyvCWlLIAlpRcsfmr+Jl+oT0x5NGmgPvROLJz3AVKrcevK5sCWze/KbmjjKSydcN5LPb7JTSJToaZi+12r0QRnSkJArXbIfiLSFm0ic/S0VhMIpWVeKy+UPA9N3KHAAeCsyGiNLvHTsQbCOInFgzSt+aFxhWXMaoxRs6+zEqlR9fnvV4nt61hdP9MM6SCBtcZr6LU5Cvstz759g1fXxsY8xFZuyiSWIFepkpirPiE9I4TfdhKShkzH6m9u5v02D6CuthVgdgdxCRaxWE4FOVELzqIEAmjved2v+Vwv1ejkYPa5Gy9T58sTO8gZ71mjuyhnxXQWzr2nVadd4slCWlJBuCSv1LoVSHGG+I6PHTMDNjhlNIhNUdLKYTwTYzTWnHvODyjCRANotIGV6zXrmHlc3VG8LuA1eYVekB/IqMukvyPFfvgLfhNHq0uXGGUACdmhIkaFErYlgDq63pqeSTRAQ==;P2HXeboU/6rIwRb14THjsw=="
 ---

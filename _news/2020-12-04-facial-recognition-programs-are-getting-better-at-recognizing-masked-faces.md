@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Translation: Must We Be Slaves to Facial Recognition?"
-    excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
-    publishedDateTime: 2020-11-30T20:54:00Z
-    webUrl: "https://chinadigitaltimes.net/2020/11/translation-must-we-be-slaves-to-facial-recognition/"
-    type: article
-    provider:
-      name: China Digital Times
-      domain: chinadigitaltimes.net
-    quality: 39
-    images:
-      - url: "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg"
-        width: 308
-        height: 308
-        isCached: true
   - title: "Face recognition software making progress at recognizing masked faces"
     excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
     publishedDateTime: 2020-12-03T06:46:00Z
@@ -78,20 +64,6 @@ related:
       - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/Voice-Recognition.png"
         width: 735
         height: 389
-        isCached: true
-  - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
-    excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
-    publishedDateTime: 2020-11-30T20:39:00Z
-    webUrl: "https://www.biometricupdate.com/202011/ugandan-police-accused-of-using-facial-recognition-system-to-fuel-rights-abuses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "wzGq4sSAQKqpSFmEx1Vl3Hkw9SD4UYGL5C3yxiXbtmdSD/q3AW+VNbCRSlED/94VQ4KXtNZPOa4TZTQLEFozfyvHhbJAJYQR4TLJSyR6DpzKs7ln3x499SN4vTFYDKGf9Oyzy+GsxvtXdJ0eH1ngnWSetXiUevx2t8oTROKQbqRWhheIscA8LiTLIYFtDPDkd4SvB9wRmofHF4Z1UiNCSB6Yz/DD76cBjYBHsyRHNNV5MUTN+wXAlddSgEzyLkTu2icfT0w7ZixuKqGp7uH0oTimraCmMYexOmifWu4u3NyeYW0cmpOrs+dDYyqod+AyHGMzuyYb2lIoGIayAW7QRIwoZlaSvrhQA0J3/btbPFdOb7lVqMe5QEdjP4KZKUNswb5wgZjtsPVBA0aD/WTIdacpAellhaQvOvoO6f0D9yeE+UiAnxN5/dZo5n7Ok3HOzpNHm1Ya5NlIvF746KK8zo+4FEl0amFz8Vg/rty618MoeIoSbOU2y1mkEoeGdjNBItl9UQSJNT9qTQnsO5kN/w==;HlbMzHlig4PKscep5AsaCg=="

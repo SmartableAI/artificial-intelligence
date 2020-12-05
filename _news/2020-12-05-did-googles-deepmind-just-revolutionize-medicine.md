@@ -1,22 +1,22 @@
 ---
 category: news
-title: "DeepMind AI breakthrough in protein folding will accelerate medical discoveries"
-excerpt: "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years."
-publishedDateTime: 2020-12-01T17:19:00Z
-originalUrl: "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
-webUrl: "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+title: "Did Google's DeepMind Just Revolutionize Medicine?"
+excerpt: "DeepMind has just provided an answer, and it is blowing the minds of researchers. For nearly 50 years, scientists have questioned how proteins know what shape to fold themselves into, and do it repeatedly time after time."
+publishedDateTime: 2020-12-05T11:50:00Z
+originalUrl: "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
+webUrl: "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
 type: article
-quality: 100
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: The Motley Fool
+  domain: fool.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/03/06/4e3a6121-5f6c-42e5-a44e-01592172263b/deepmind-coronavirus-protein-image.png"
-    width: 1668
-    height: 1403
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F602911%2Fgettyimages-1046071698.jpg&w=1200&op=resize"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeepMind AI breakthrough in protein folding will accelerate medical discoveries"
+    excerpt: "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years."
+    publishedDateTime: 2020-12-01T17:19:00Z
+    webUrl: "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/03/06/4e3a6121-5f6c-42e5-a44e-01592172263b/deepmind-coronavirus-protein-image.png"
+        width: 1668
+        height: 1403
+        isCached: true
   - title: "AI has cracked one of biology’s toughest problems"
     excerpt: "Finding the best ways to do good. DeepMind, an AI research lab that was bought by Google and is now an independent part of Google’s parent company Alphabet, announced a major breakthrough this ..."
     publishedDateTime: 2020-12-03T19:02:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/y7zUeo4DTbWJ-ZjXlc35F80WFJs=/0x0:2400x1596/1400x1050/filters:focal(1008x606:1392x990):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68450337/protein_computer_GettyImages_524264596.0.jpg"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "Did Google's DeepMind Just Revolutionize Medicine?"
-    excerpt: "DeepMind has just provided an answer, and it is blowing the minds of researchers. For nearly 50 years, scientists have questioned how proteins know what shape to fold themselves into, and do it repeatedly time after time."
-    publishedDateTime: 2020-12-05T11:50:00Z
-    webUrl: "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F602911%2Fgettyimages-1046071698.jpg&w=1200&op=resize"
-        width: 1200
-        height: 900
         isCached: true
   - title: "How DeepMind’s protein-folding breakthrough could transform drug development"
     excerpt: "A DeepMind AI system that accurately predicted how proteins fold into shapes could drive a range of new scientific discoveries."
@@ -350,6 +350,6 @@ related:
         height: 512
         isCached: true
 
-secured: "OfjpGvhdsq2R5aBSWqGJgebnMRXZsMQrXHr2IqryZJrXoYHLwsdDPSRo/TKJ2qOgBWbRHTHqExSJ8ylqt8LiO7ePnEDWqu3dtjeCYr2NtBjlwcVVTBMDczmEvK8x1Qid1eLzMUPStYVydsImkfpXGuJ3kIoSKs6VhIlC/kXixmjbYBtQFqmNPp8iKNSdhkQkKLiKC9EZbjd2HJIMFzYLmUVhjGtIgv9lZc01bibFMijrfH/BkcoN+bwxTgEzmwkJ4xapdbSQI+C8xyQUcBPIkhlJlGFlyrocHRXb8+r8nudrszd5aKnI6xQZBU0+JpKisOlUNRHqtKLfPjKRko7ttBafCSynv22vHkKvdMqsdnt8+FKlLBdB8Cgl5Cn5E0fuNgWQpBLO5MfMAdKQs2h1B8LFhwo2FFm9fPqvouI2jHMczrN7nup1YNKyYY4M35z/ddq5/0GMOgM7a6DNz8k9ZmH/O3XVk/qmRRiH2dOY2glAc9puGD4qgTlNsKR/Kkk9an99QXhMwR2yvijwkdKBKQ==;YPWa5BhTW6gIlowhLzazKA=="
+secured: "sv1vweSjpAxsk2ySuGwaMbNtABsm81w6SpIp/fnOod4+cTgNc88nT1cF2z8xivZqmx10Qfv5KEFRGUNf37Ys+ciUT/hTEFWo+cVErIxXsdm6+0Cpxpm/HZaS7Ott1OEcmXgYkPvoXtDaW0Vxa9FU8kbQggJw1G0+eugQ3tRMsky9R8Vz9heTaG4KBpt2RbPm7o3bSCu9DnvhOJ4MqQ0rRaIUZk649jtn/tjkBNdKZ/pRW/v5gw2sghxKAvIxvz+k++CqX/EHF1MCRkbM7phx6eMWJZUMRpnY5yqzypZGKxqNHstyBjYXCiGkk/8hr+7TCuUdL8MOrvnOnJui8jxV3Esi34P4wstr11esnEsvynQ=;SrR7P3EGVs50wf7XjU1Ekg=="
 ---
 

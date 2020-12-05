@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How children inspired my painting robots"
+    excerpt: "Seeing how simple my young children's art was, I wondered if I could teach their creative process to a painting robot. My attempts, failures and successes led to a 15-year journey of artistic discovery that gave me profound insights into my own mind,"
+    publishedDateTime: 2020-12-05T10:56:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/kun/rob.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 34
 
 secured: "wmMusHgo+8cA2eD9uYtg5tSGJ9PtM1Yk8I99/On1xPurKYjW7M3My19k88gTpnK5HQe/2yIdfFWUf+cM+ktCQtFpCuToh8xbqhi3wMgOOLPQrqQ3op+WKBjegV0hPo8eopArrufA9gxCePm0O6+ngPkxZ755SwnzaWybV3DWpw6C7SnYuYQddbbInSeVJ8bBDmuRsT1dg/3EGWIBAuKRIlCENojHJFml8AjjZOiZBl0pdjMABZ9x2vP0lb6wi4SpMJ8tWYgOKBYvWlrd2cTaE27et2+kR2VrlbvD6tSYyTHLAXTtEsUNwBcaegzx/lmwZavPideRozLmDC3w9MKJQo8rK52VAUyG3nQjp0ZSTDHwZBJLkl+ffCdOY8a0OYbi1bGWsz9NcQYp4mk3D1fHsjMBEwXbHhF16Sb8coVzAmVP7MtFyTIoe79KGX4NqXamZyCczzyGCGGlrelkpwF7j2Qrtlfvr4HtLjjSwxowNTjwjSJ+uMOmzv/pNFs3ceOAWpcoPrWk0Sc/sLvvqjTk6Q==;gZH1aCly02ohlxJUh4uhRA=="
 ---

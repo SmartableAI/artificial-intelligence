@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-04T04:32:00Z
 originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg$5m-investment"
 webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg$5m-investment"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Marketing Interactive

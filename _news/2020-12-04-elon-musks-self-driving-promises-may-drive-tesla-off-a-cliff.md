@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
-    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
-    publishedDateTime: 2020-11-30T17:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
   - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
     excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
     publishedDateTime: 2020-12-02T08:00:00Z
@@ -94,15 +83,6 @@ related:
         width: 2880
         height: 1400
         isCached: true
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
-    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
-    publishedDateTime: 2020-11-30T18:10:00Z
-    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 15
 
 secured: "KIP2Gah7qPR0OuVWjXSx89zCRLLueolqEBO+cGZRRcgKyKQ2/jstDQ2oJP8kKdmetSHynKR0ZjY1eqO+2fLHcFcM720QiVL2YQ3BiVOI5Zijk+vWRIHQ28qFv3R25sSp1POJRA5bca+1sgNCwnZw5l9cQdgHZsjQ9ElX0xtaN3qXOpv9N/My6C01ALRCPTW6/u824l4x8rtoCgZf5804Sz+QxNNE1K3GQFtL9aGcPfPZp5IMjbEvvC2sdZA1DWeIhT13Mj0chXxz0TJqY/qlTWCx3hkEtzkkkqpMvf4xnRkXHIkrT7hz4W/e0H0yTlT+QoxwzXgSrHS0Evv8sWW9Ysr9gHts+HnY4/i+x8T9eg0=;l4SDk4mUBUZgaTxRuzxzYg=="
 ---

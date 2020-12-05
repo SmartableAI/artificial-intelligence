@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-foc
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 37
-  - title: "ServiceNow to Buy Element AI to Strengthen Workflow Platform"
-    excerpt: "ServiceNow said it agreed to buy Element AI to strengthen its effort to build the 'world’s most intelligent workflow platform.'"
-    publishedDateTime: 2020-11-30T18:14:00Z
-    webUrl: "https://www.thestreet.com/investing/servicenow-buys-element-ai"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/servicenow-buys-element-ai"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/servicenow-buys-element-ai"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
     quality: 37
   - title: "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI"
     excerpt: "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise."

@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
-    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
-    publishedDateTime: 2020-11-30T17:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
   - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
     excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
     publishedDateTime: 2020-12-02T08:00:00Z
@@ -95,15 +84,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
-    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
-    publishedDateTime: 2020-11-30T18:10:00Z
-    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 15
 
 secured: "7IrytuceCccP0zoeLZagbwP55LBz+baOwkREpAR8siO5hXlKTtY8GGb4U9hCjOJm/UA+WdZ9ec5TtB5Kn+v+yUYtJ0NBSszxtn5p6S93uwRHS6Ke3w6jnyT4QERMOpbIUCfTPPbh2rSwvfQhSPLatW3+uvOU88IBONjdP9QGYriY7KI0F3Qa4CbhQ3FaZltgmpAFMGcNcEB6dI8c+/3HAdJzpo4KKCIvVD7kbMy1S6mBuV2A3QSkj4is33uWVzNkiYUPtpoD2a+9ThH1xPYhmAc6FL9526yQJYeTHsxxNMjI2lmawT6gzHOAull08CZhoPJq2RlqvDisVZFBUtCcL2K+IV4MiGKXGPpm6nQmc15EHnYXnCOs0ccm5zs4NU0cS6T7J1TsKQf+G5x7X7+kHw7hHOWH7GAA1UXjomcHRNzP1xUe91w3eUFhHllxcyYBjqeJhIzMD3wJ8Lbint9ShuqUPoI8+9f45yCwkA1dmVFsh8Imew2W39rxs86inUVBU3+0lvjTYPBrdHgeMwk2Pw==;dRajiKCcyywL6Ed+Dh2tkQ=="
 ---

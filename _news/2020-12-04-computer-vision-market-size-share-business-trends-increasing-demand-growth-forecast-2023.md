@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
-    excerpt: "This “ Artificial Intelligence Market ” research report delivers various aspects of industry including market growth projections, developments strategy, and prevailing dynamics. The report includes in-depth insights of Artificial Intelligence market size,"
-    publishedDateTime: 2020-12-03T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-03"
+  - title: "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027"
+    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
+    publishedDateTime: 2020-12-01T00:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Worldwide Emotion Detection And Recognition (EDR) Market 2021 Expansion, Development, Technology Leadership, and Forecast by 2024"
-    excerpt: "Emotion Detection And Recognition (EDR) Market ” report provides strategic supports mentioned by the business specialists with market sources, amount of manufacturing cost structure, raw materials, forecasts,"
-    publishedDateTime: 2020-12-02T08:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-emotion-detection-and-recognition-edr-market-2021-expansion-development-technology-leadership-and-forecast-by-2024-2020-12-02"
+  - title: "Deep Learning Chipset Market 2020 Growth Probability, Key Vendors and Future Scenario Up To 2027"
+    excerpt: "The global Deep Learning Chipset market garnered revenue around USD 6.4 Billion in 2019 and projected to reach USD 35.2 Billion in 2027, with at a compound annual growth rate of 24% throughout the estimate period from 2020 to 2027."
+    publishedDateTime: 2020-12-04T14:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-12-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-a
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple"
-    excerpt: "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to"
-    publishedDateTime: 2020-12-05T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-assistant-application-market-growing-at-a-cagr-319-key-player-ibm-google-aws-microsoft-apple-2020-12-05"
+  - title: "Deep Learning Chipset Market 2020 Growth Probability, Key Vendors and Future Scenario Up To 2027"
+    excerpt: "The global Deep Learning Chipset market garnered revenue around USD 6.4 Billion in 2019 and projected to reach USD 35.2 Billion in 2027, with at a compound annual growth rate of 24% throughout the estimate period from 2020 to 2027."
+    publishedDateTime: 2020-12-04T14:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-12-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS"
-    excerpt: "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million"
-    publishedDateTime: 2020-12-02T00:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01"
+  - title: "Computer Vision Market Size, Share, Business Trends, Increasing Demand, Growth, Forecast 2023"
+    excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for computer vision stood at over USD 9,"
+    publishedDateTime: 2020-12-04T12:00:00Z
+    webUrl: "https://www.dcvelocity.com/articles/48238-computer-vision-market-size-share-business-trends-increasing-demand-growth-forecast-2023"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/89b71c25-6d63-44fc-88c9-d7760606ee76.jpg?crop=true&height=430&t=1607020726&width=640"
+        width: 600
+        height: 339
         isCached: true
 
 secured: "NMJqj6GRYUKS7x5T+r5o0Vd68ztPxpVbExw2c8zHyoVo9CZXQpmCQtxB96RwBegc6etRDiL0ZKbWCQ8fJrhdOt2Oi+k5QWaw9AtG4U1KTHF7G+mDl/27vI5UVVaBDdjMRmEfsbdApDaYQnVPupSkGyNQQDhF3VoQbO7Z8hGURNc5gpPPaOUqbYQE1SFOJmJFkFAWPt9R5quXVzKL41IuD/R2aBbfJDVC9d8Fgf6InVCB2t06ads1bEKs+pjQhnsPSVCOcZ8PSVNO/7zujtLws50mBd4NwFCpwNzBQvT4wXzIPK5GIEvvzVM6PeaJhz8eaUlnRIYZbvb/jMOhvC7kFTcbGpdrv1Oyt8tTYxt81hs=;1pgn/3rm1hdaAmzsp5P8sQ=="

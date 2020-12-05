@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "From the Data and AI Expert Labs"
-    excerpt: "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Previously in this series, I discussed the formula we use"
-    publishedDateTime: 2020-11-30T20:57:05Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V3.jpg"
-        width: 990
-        height: 498
-        isCached: true
   - title: "Building a brighter future with robotics"
     excerpt: "From exploring shipwrecks to air-dropping supplies in a pandemic, U of M faculty and students are designing robots for the 21st century."
     publishedDateTime: 2020-12-01T22:26:00Z
