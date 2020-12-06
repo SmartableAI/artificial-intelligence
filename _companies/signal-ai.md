@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SignalHQ"
   url: "https://twitter.com/SignalHQ"
-  followers: 2496
+  followers: 2495
 
 size: 51-200 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QWC7T-G_reQ"
 
-secured: "hz1AITOUKnoRWrSRDyHVvCDhbmeuomQvksla4OAJWcKlxaKP7kPgip1n2+wCVWHWhgI194jW6vz/PJXYexvP0lQX4SMFduVcaqc0811duxSuv3r3vnsNQ5nEKbHaI3z8bQkABjb+SbAs62a3MlXekuSfXoIa/hI9bECDC8GtvcQkaGXGxdXCxjyT/Nhz5MVhuEvFXPwxD0P8/jP1maonDQYtVpzO83lFz+lWGFVc6Ss1nrqRFoLX3cymCc3P3d7si1PG0iizAS34OExqny7b06qu4vcG3U12y1gMkCS3MKV2RL2oE2WFOVAxJRbUS09yCmhkoKIecfHECf7sewQ7fBE1/t0OipyXjcljbz0eS7VU8RRSjuK+Tjq4RCfYUgEC75Y914k7rfSz+bHnwD/9mj8X55jzfJS88d2s6Ih9PPs=;4+p1kIqU23AIXUX6Yj3jrg=="
+secured: "o+08SB0OKsx+ErYijfJZQ2wVaMS9jM54uEgicmMJRFjSINu5l/7dkhkgJSnqegeD3SqF+RB7IxFMciGTFz5vnWVjFl9jOfUUr7YBXqyLDSpOqVgkyHEq6Z4m9s9bMNVeHIZr/qCDGjy3oztdeReerKSUnqVn/EnQ9F90AssZ0x/fEHhi35ggWmhAnjjAqhh+6hFmQ3jtPmm8cgixCl1HonwPSMLyiWiLQyZCJm34CECvSiJTchTGElkkFzaiJ1+xMek15jB12SNVOVkJzeXxPDOZHInWa+cghRbUqK0hDX+SgaRNJGjrVUQrVhI+lEvGp8c/bkz+2VUOTsVMyBxglWuyoavoYlqkJBx/hFRlgIvC6CD4VzBOEQwJ7przVOlJxrNCKxCCnkP3tR1OirZxQleSW/fUPPw8OljjLOUaJH8=;xak6hy0QrcJGYMqUMfUSCQ=="
 ---
 

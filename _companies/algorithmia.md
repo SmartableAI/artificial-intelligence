@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Algorithmia"
   url: "https://twitter.com/Algorithmia"
-  followers: 6375
+  followers: 6374
 
 size: 11-50 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "UEuu5h91cjALf1wq50xEPN3DKXmDHh2U1C6D1HPHekirbojkk4OvmPO+w7X2racuXqtmcLRIiuMu3KqzqUTM0lo+YsUxrd90lvHeY9yfYCj5Gow54SRJhjQW4QNBN19d3Q3Z97vTVT3dqzaymdsuHCBFl6zgkyteBYzVFAdJp93cS6VcGgA810O+qkzlFlxTwWzhadxN/hq3o2PX1iGF0Sh4IrYSz5ONmP01NMvRFusZJYeRlSS2Utg35Bs+jjgEGThnUO+DFFMYikDZ71Lpuq5CJx46EG5suHnxC0IfpFZ+sIy9MddLPRgsmO4oWbP11azKpf35WzVntTUjekDuczo4bjgc8HtVHKH02UYq+cKxwSXRJDpmWADApwpdPOUcCSTcrfgvsb0C3L7zJavz8ESOH6Qh9I3kWh+rVEzWv5A=;Scx+QseNXHytdCwEcRvzLQ=="
+secured: "9RChuzTO3INccI6yHlKmGYHmLRB6OmGoLcfx/G7jrrOyVlt//zvoQUO5C4G7LkZpeAWNRAWF/KU9G+H3T9ZXOozAmIuJI5G4Y/gVts3ouZxsG+01s1U7tsLE++LazhG0DETKqEyVeraauu2sf7UvHLdWwT17q+WizU+xwNPxeu3AYxYjmZmK/UV3wNCmKV2TL4rJbD1uvkwM3KkdlZyzbrQUxnZ05prAKNIw9pySsiFw/HonXuG4WWSkd1WlEpkHTTbtvpYrqfzgQGmz7hoMLpB51MXG8UN8Hzx6ZKZ0Ts5AaP9UeO8E++Hl2sz5e019XbNVCgLwjyPftxjRIK9vihpgFSzP1S7nQSpjqfso6HLqvHIpemQEop5TmwaapCJmDi+yCA6eIUzE0OTW1IkozzePSaTSaTHifcmp87kay6c=;SKMgnPMsnRCn8zBm7AASog=="
 ---
 
