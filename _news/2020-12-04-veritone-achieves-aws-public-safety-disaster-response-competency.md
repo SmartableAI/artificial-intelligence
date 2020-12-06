@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Veritone Achieves AWS Public Safety & Disaster Response Competency"
-excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response (PSDR) Competency status."
+excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced that it has achieved Amazon Web Services Public Safety& Disaster Response Competency status."
 publishedDateTime: 2020-12-03T17:05:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-214534741bdd4d81b9e46cf163a74171"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-214534741bdd4d81b9e46cf163a74171"
+originalUrl: "https://www.nasdaq.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
+webUrl: "https://www.nasdaq.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "xSEOMcfIQA2gS9tvV2HJskjLNc8+8ahJw/2gZNvBAANLYuO5BMIXxZqhl+RnWIuUdR6ZcF9Id8wYLFF1KCMt1EhZjvDbhckBd/W4c0+QCwtWLpptsUJYVFrM64lrMRdKmBlWMzHqGeKxm3XM160s5WKWaZs+bt3ZJeOlhyN7Ru4oAH1yRt5s/c8GFxva0NKcG6y/5XKDiEbqkhU6BA+FnxOCc5ozucldLhTvVXyeRIA61L66YbzqmOHWHO/8AAjPbBTZ8ZH6jzGXLwMz2cy927A9FA3yyoZqeW/9hNGVlmf2dY17gKvVArGfZ3VPBVbfYw1Awud3wn6RNKBGkzGAZMPpGIzKC82wGDe5oQFLw14=;hB68/WNYlwV2M0NEqWHakg=="
+secured: "7Jnh0h9j44FntDMkQYansM+tT2d8yKQWTqFpmcibwOwUMcUslwpQ9peh+SIYINwO7EI3wdjtBMw+UYwPjLua2+VpI4PRxQw4vVUyymZ7NwMrKMPW0WBRvsXZ6lSQjyyNdQ5qpz7Csb5t5wYme6U4J3toYsbTEKacY+LulD8O7SUegVsoUEGTG5in718h25flBkUD4ZV+GrOOzRUQ/Defi5Wd2nfdbUFN6lT0NKnJgsgq1+yDI78LbQpVuzFDanJ/C373HQqCiQBWJHeZ+dOS2QFnDPQXivabPIoY4COj9w5jLeeen5/5SaUbS+aSDw7LmGEF/lhAjMwHqOKf41QP+MbG5Qrp0Soh67nucCPi2OQ=;VUUUbl4Trk0PIvjiOu+OEA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

@@ -1,25 +1,28 @@
 ---
 category: news
 title: "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML"
-excerpt: "Engineering consortium to deliver industry-wide benchmarks, best practices and datasets to speed computer vision, natural language processing, and speech recognition"
-publishedDateTime: 2020-12-03T17:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18638589/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18638589/mlcommons-launches-and-unites-50-global-technology-and-academic-leaders-in-ai-and-machine-learning"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18638589"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18638589"
+excerpt: "Today, MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good."
+publishedDateTime: 2020-12-03T17:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-north-america-software-industry-759fd12740d94f46a3faa27c93149239"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-north-america-software-industry-759fd12740d94f46a3faa27c93149239"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
-  - Facebook AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "MLCommons debuts with public 86,000-hour speech data set for AI researchers"
@@ -62,6 +65,6 @@ related:
       domain: insidehpc.com
     quality: 7
 
-secured: "2bT1U8LfsSDDAu+pztLk/+hyhUpXUzAwUJXe63X04sMRsxvArY6HT9rzFpZZC/PS38wd0ahJTFrKTtle9BuZK+fl63yZB4nfPOuw8jkd/UHPfy0UbOYNfbVWLFz37pZuCEP86GUdPJLQOeOu8Mu0kojevazCF5romogjgfUJe5MBZ/cDlfRqYLfrSG5SyjDrvIh3zub878Z4oOqOfs1C82gwbbFevpHw5MScMPB50QG3uiSKXMBuM2E1bdAbm7s5pAeHclMO5U9mLRFPVXAYjRFC8xBynCTVURIdBwBrIRSPVUhSox2lFLKN3kqh1SzC3BD9MhZEUX074uMpySPjKYY3TEJXKbtJmF+gdTOq1uM=;g0rdqyCNFrDhCToVK1zfNA=="
+secured: "yATpCqHRuxZ82jzIuN5qymxM2Zv8Z/JQNt5/f7w0fOG8NwTTzntaFRD72n2Kyc0e2EDPfZHSSZ2Nw/r6S5QMtf7iZKJggNYpCOSHgk8t/1nvC4nU9YncYRLtAzxxQ5PkxC/S3d8Yztt0XKJ7XlOOLqQ89g0oAZFQe5Lg65fI5YW9MqUaOeDAYoAf9osCVapKjvw01qvVjU20IBB9/FY5aDoBe5fa0VTRoqSrO1zH370dMaRvWOytXpYSDMm1X0fcc8yUlkSDoFSS1Fl3o6nSfUwXgkqvs0GudvYrCgdYuH8y4U/DZ7j8cjzOBGfeyzb8JOK3IpXdj/DkeLUkSp14ZMN1Iouc0sb9dmoek23k6zc=;KXoNrdd+8C5Zi5QARbRnPQ=="
 ---
 

@@ -31,20 +31,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "ServiceNow to Acquire AI Pioneer Element AI"
-    excerpt: "ServiceNow (NYSE: NOW) today announced it has signed an agreement to acquire Element AI, a leading artificial intelligence (AI) company with deep AI capabilities and some of the world’s brightest AI minds."
-    publishedDateTime: 2020-12-01T07:50:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-canada-computing-and-information-technology-59e822d7b6274e08929acdd116f8f0b8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI"
     excerpt: "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise."
     publishedDateTime: 2020-12-02T14:08:00Z

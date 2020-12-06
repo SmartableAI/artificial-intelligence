@@ -3,8 +3,8 @@ category: news
 title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
 excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
 publishedDateTime: 2020-12-04T22:20:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
+originalUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
+webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics?source=techstories.org"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
 type: article
@@ -127,6 +127,6 @@ related:
         height: 360
         isCached: true
 
-secured: "WkyWafbzbNrRZtXf1LlTHTk5fwjijm7guVtzv5y1b9GUu4uMKv+kSMkzUxt55QjolqoKsxwUBab28vjCE/8isNRYl4d+vzRkz8VJVxzBFhRpQrX7RWFiUOLAYV2nJIkQEEhcDAfEAEln+TKYuuoSRoWR+a0/6kB9BbuEOQ250Z4J3yPGiyKvrFTjjONwwvI6H90J5xU/QojDePqgXihF+fqvF1naGbLDZKtNfR6cIH48uK7FGdr+ad6VJ1U0dJ8RY17aLsjNiq+ngvH8UKzuQqabLQDEARbC2hldXY9VOpuPtJiLs2mNP9pV/ac4Npfy2MQRcXVE0iYrUtePxVzZSAd/H66f741srBqj+JoWH1Tf89qOND+W1d/GhEQbBiGuO/hVM1yzy17Qx3TRiKl0WILZZtJE7yT4VvXSmMLNibbcW8LcF1S+TZVJDPN9iw1Ny+oreBtT3/0Xbr6lH1/bPBTrZSMYbQ1RYhTG3cCP1NA2VAyOh+jVK6ZQke5ZdEvhYV6M4aZrTTTGO40cIlxZVg==;BAUJo+BClPA7iwsoEPuIBg=="
+secured: "urToYh2m11P/SV5nNiSoZP9MOcjdSyV8mskAQF36SV2PeNI+y2D1VwKgIs0ddtDxut6GjPCpHCQKZDKpDGqsOGoPyhLRbZUrlQ5cYQ6DJHcsiEwZK1iLqFoIK8CHedvisxIltRaxiyKriUBSdi0j66e54/P/01HHtbDwT90mrl58I3+towm+drq7mjUh4HDFe4Lq28Ic4DMk9XOmWHE25HRNVCxbpajWUv6baGvi+QQjaFhv+QDizAWCb9lzJZ79KfXhEThX5egZEsS1Wr2BClNOQljIHGScaxRyefjctp66iIqVo52pOVtKsYEaznThJjVB6GYxiwQr1OjOHfIv8zW/1sRBY6A1B4+gUr/JyZY=;rQrjDjf7DJIVUbwa029cHA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://turkishpress.com/spain-to-invest-720m-in-artificial-intellig
 cdnAmpWebUrl: "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

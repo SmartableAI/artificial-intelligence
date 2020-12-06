@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Standard Chartered Bank launches learning hub in SG following SG$5m investment"
-excerpt: "Meanwhile in August, DBS Bank collaborated with Amazon Web Services to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in AI and machine learning."
-publishedDateTime: 2020-12-04T04:46:00Z
-originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sgm-investment"
-webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sgm-investment"
+excerpt: "The diSCover Lab will focus on future growth areas such as digital banking, international banking, cyber-information security, data solutions, analytics, cloud, and AI architect."
+publishedDateTime: 2020-12-04T04:32:00Z
+originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment"
+webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "aYPOPkzNUApOpSe2p6NluH9N7RZbjrxsLSNcbm7Fv224IKlmktukQy+pt/Ct59IxS248+fdwq7o+cURg6Mvn450CWhfS+SnYQ3P7d+Ot+zlD+0l1cfiHeGHuiDSW5Pk3B/WEvHr1+ITN/h+IytZKTKHZMS2ogANHbzNgt4LjkpYBsBUxndDpCVZpJ7c7dQ7FtO8JddVb6cRtGCXQuYJEpsVDsSisqHevitQT0Ep3RHiiLbqEoFEMvDf98J06l9n8o00tAQmACVVVCE4WtQZ9sPhdq1LusU6qJHr/gqY/88LO7m7m7LwlKkf/Co9pO+w5GqTEjRK4KIeXFJYwnXj9OzbueQTcvkr9PJ01/8SJyxQ=;0zc9t4DdVt6KUsdof5T8IA=="
+images:
+  - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/standard_chartered_bank.jpg"
+    width: 800
+    height: 455
+    isCached: true
+
+secured: "n9wV4G7x9Q7TcdYukfDCwEU++YjOxzUwHVdHJ3Ze7+YVIDS4zyjC2Hw+/G0f6tE8fnEMg3Z2IXix9TigfAHQ9D2ry/ABJG4AgdCY42rNngM4ElK8+qvozuFiJvHapLI21AUYsxy7PeR0zYIiSoTLOPHHh2TqhQbMKXtwk8wjWpLSBDBbRkrpTLS8b9lyEzpaKo5WuVNJX91qLS0E2tRzg2QaGAa9rDcehrnMGiEiVJCRdtAjB+2OmEDSnqtwRpkhUpoH78YzrNiMtqt0ftbhujhuDIgCw2nafrctY1+0dDIWtUtWyttBqLhHJcmFe6CTkeZ6ZRuRDaH+WBJngPp/BTj62cRgmE2nir34D9LZDTM=;820i1FwybBWWVNxuAUfkiQ=="
 ---
 

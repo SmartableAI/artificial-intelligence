@@ -92,10 +92,10 @@ related:
         isCached: true
   - title: "Top AI ethics researcher says Google fired her; company denies it"
     excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists."
-    publishedDateTime: 2020-12-04T05:52:00Z
-    webUrl: "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D3JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP"
+    publishedDateTime: 2020-12-04T05:51:00Z
+    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28D3JN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D3JN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D3JN"
     type: article
     provider:
       name: Reuters
@@ -488,6 +488,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "dzyYPXXrXpzPttDM3V1FXzpXd9L5DckYMSC2RQJ+khSh8fyXs3ceegDh6pUvFQygQztzGHtaU4o7k1yHh75g5kUtDA1nIHR212P1+E6W9wDjI17+0UEMAwH0cJxQJYq0VbZa9Gh+Mp80g/ZKEcc9cVjfj4k7cTVt1NzRZBUb+Q5y11OueCxlizOusM2wyIie61OhUnuUs3UUJx82LRk6KsHhA+KS87z2YlY0hOemTG3QjEWZvnhkU+lW4E9h5R89Ie2jOESjN11VCojhrEljC58pIa51UnUFHm2EqY6P+zTtKHfmCYshPly2LMIOAZ1M9eBWahAlRVr/bd0H7H5dDjk2tFRRKGj/iAghS2f1PeU=;TfLAPJz2X6/WUS/IPA1E4A=="
+secured: "ZuTCdcOBYXnw3+LJUmcjjWwTKsDtHOp1nR5De/z8EopQSQn+fFHX0uzbnvjO3SBJGqjQW3b1WADEFHhfAYo1vr+m65QgfxSD/AYS9iTcko/gGisXTkDI+bSykOjb82FnljgzD8NnZ8hPuwNhQJUCOTpZz42eVW0QYIpdbIYWcLzM4keI71esm73eLt5SntMrUf6gcz/Ghuq8U76jmGBKFsx/ee1irzG0efWT59DWVSarvrZexxIQ8AnykWgIQXWI2LUInjc0BPfZxamvo/PloY2FmTQ+1Dhze8pbu5AUgv7evl0Q7BRJkuhrvisF9xa9gKh4TXAXmDl5gX+LsWNO/g4gNBw9krhp+ifIglyTfap7Wv+2YIJL4xG/AyEGOWr5E7Y9XS+DgaHaaaThrGJXbdj3GJTU7cjh5JwqZ3p4ooWiHnb9RTcgy35tzU6JbNFwwNJ42pSfjg8BnkYwUzl/Bw+2CtGhRKqUG4ZVRU3upgBvv86Os+rgpTJ6Ixu7dar6Zk6o8DYPuBiltKO45zFtHA==;CQUxXTJgRlPFaTdmET3UUw=="
 ---
 
