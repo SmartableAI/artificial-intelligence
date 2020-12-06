@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-l
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Audit details inaccuracies with Lockport schools' facial recognition system"
-    excerpt: "Black women are 16 times more likely to be falsely identified than white men by Lockport’s AEGIS facial recognition system."
-    publishedDateTime: 2020-12-01T18:07:00Z
-    webUrl: "https://www.niagara-gazette.com/news/local_news/audit-details-inaccuracies-with-lockport-schools-facial-recognition-system/article_76ce141e-3408-11eb-a4f3-d3c3ac819964.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/audit-details-inaccuracies-with-lockport-schools-facial-recognition-system/article_76ce141e-3408-11eb-a4f3-d3c3ac819964.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/audit-details-inaccuracies-with-lockport-schools-facial-recognition-system/article_76ce141e-3408-11eb-a4f3-d3c3ac819964.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 72
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/a/c7/ac7ad190-962f-55dc-9a67-83bbdc6c8132/5ddef571cb259.image.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Government to seek advice on facial recognition tech laws"
     excerpt: "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition."
     publishedDateTime: 2020-12-04T18:43:00Z

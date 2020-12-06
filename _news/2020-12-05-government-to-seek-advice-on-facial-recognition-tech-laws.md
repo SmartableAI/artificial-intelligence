@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Audit details inaccuracies with Lockport schools' facial recognition system"
-    excerpt: "Black women are 16 times more likely to be falsely identified than white men by Lockport’s AEGIS facial recognition system."
-    publishedDateTime: 2020-12-01T18:07:00Z
-    webUrl: "https://www.niagara-gazette.com/news/local_news/audit-details-inaccuracies-with-lockport-schools-facial-recognition-system/article_76ce141e-3408-11eb-a4f3-d3c3ac819964.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/audit-details-inaccuracies-with-lockport-schools-facial-recognition-system/article_76ce141e-3408-11eb-a4f3-d3c3ac819964.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/audit-details-inaccuracies-with-lockport-schools-facial-recognition-system/article_76ce141e-3408-11eb-a4f3-d3c3ac819964.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 72
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/a/c7/ac7ad190-962f-55dc-9a67-83bbdc6c8132/5ddef571cb259.image.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
     excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
     publishedDateTime: 2020-12-04T17:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18608227"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18608227"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Gartner to biometrics firms: Do better with facial recognition. Somehow"
-    excerpt: "The facial recognition community continues to speak in circles when ethics is the topic. Notable business-to-business tech analyst Gartner is the latest with indistinct advice that amounts to"
-    publishedDateTime: 2020-12-01T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202012/gartner-to-biometrics-firms-do-better-with-facial-recognition-somehow"
+  - title: "Startup wants to give biometric face scrapers digital dead ends to chase"
+    excerpt: "A small shop of AI coders and photographers have a new use for their GAN-made portfolio of faces. The company says its Anonymizer app creates red herrings to throw face scrapers off a"
+    publishedDateTime: 2020-12-04T17:02:00Z
+    webUrl: "https://www.biometricupdate.com/202012/startup-wants-to-give-biometric-face-scrapers-digital-dead-ends-to-chase"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 39
+    quality: 21
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
         isCached: true
   - title: "Brazil’s Government to Use Face Biometrics For Pensioner Identity Verification"
     excerpt: "The Brazilian government will be using biometric facial recognition to verify the identities of pensioners in the country."

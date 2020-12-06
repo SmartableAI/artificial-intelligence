@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How is Europe doing in the world AI race?"
-    excerpt: "In the great global dash to sell cutting-edge Artificial Intelligence, the US and China surging forwards, with the US a chest ahead; then thin air; then Europe puffing, sweating, and frankly not doing as well as it should."
-    publishedDateTime: 2020-12-01T17:47:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-europe-doing-in-the-world-ai-race/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Europe-and-AI.jpg"
-        width: 616
-        height: 410
-        isCached: true
 
 secured: "S/i3bXXp0+hVwyJTEc+fIzknRu+9DXbkcON+RfU9Wn3OXaZvrQ8UE15kICqUMrGvw2BH9mrTpvs0jeQ7kRfctIHcRZ+jikCDxHsPmOLPDa05H+LQQu0jz55xRoAVPm/K2/SnRKjdGXNxg/JeitwkQwz+754TGbI06vF6AhoYyKeIWoA1OKFI/TjwSIt/Y3Zokxb+IZ0D3gDqZ610hkljksAXP8gHdAOk0eW3IdNJvOK40HlSFe5EMQMsIXUttWpfAkwMd7FV0Hu6rhWlYw+oma28hwYDCrpenckpN0zHg8//q+n5QQfuwCA+B86eOFzGdvj4bdYIvKHHkHqjEQZGCvEjKOD5lU1IQzujFWz7GGg=;z0GE9OOQCSs1Hs7s3QklDw=="
 ---

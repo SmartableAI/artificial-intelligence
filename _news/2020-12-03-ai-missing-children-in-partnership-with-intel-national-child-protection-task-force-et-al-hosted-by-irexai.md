@@ -31,7 +31,7 @@ related:
   - title: "Canada concludes inaugural plenary of the Global Partnership on Artificial Intelligence with international counterparts in Montréal"
     excerpt: "CNW/ - Artificial intelligence (AI) is fast becoming one of the most impactful technologies in the world today,"
     publishedDateTime: 2020-12-04T18:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/canada-concludes-inaugural-plenary-of-the-global-partnership-on-artificial-intelligence-with-international-counterparts-in-montréal-1029866048"
+    webUrl: "https://markets.businessinsider.com/news/stocks/canada-concludes-inaugural-plenary-of-the-global-partnership-on-artificial-intelligence-with-international-counterparts-in-montréal-1029866049"
     type: article
     provider:
       name: Business Insider

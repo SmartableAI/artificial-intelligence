@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Qualcomm: Android phones to get 'lucky number' Snapdragon 888 chip"
-    excerpt: "Qualcomm has branded its next flagship chip for Android smartphones with a number lucky in Chinese tradition. It says the Snapdragon 888 will let handsets take high-resolution photos faster than before and perform AI-related tasks more efficiently."
-    publishedDateTime: 2020-12-01T18:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-55150532"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-55150532"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55150532"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/153C9/production/_115758968_888.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Snapdragon 888: A Rundown of Qualcomm's Next Big Mobile Chip"
     excerpt: "While the chip won't be available in retail devices until early next year, here's an overview of what Qualcomm has upgraded on the Snapdragon 888 SoC."
     publishedDateTime: 2020-12-02T15:12:00Z

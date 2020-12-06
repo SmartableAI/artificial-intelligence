@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "17 Largest Fintech Companies in the World"
-    excerpt: "In this article we are going to list the 17 largest fintech companies in the world. Click to skip ahead and jump to the 5 largest fintech companies"
-    publishedDateTime: 2020-12-01T18:34:00Z
-    webUrl: "https://www.insidermonkey.com/blog/17-largest-fintech-companies-in-the-world-894514/11/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 24
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/04/25064748/shutterstock_360426941.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "8KQldaNpl1vGd1Ax7vA8JKEiw+AvCL7L+Xg0XBPvTGAFePAERvPGZ7QTpmtjf3sriaOFA+Iyob2JTx72TU0EKnw451uCtY8faYi8r61FJWR1bXcgONDI1XQ1m9h0zldgXUmWFLpCh30I2fmueHxDVdjgPLKMF/xpRAJogZl+xFd2exIYQ9rfo79MYSNutSF4SWy7EXkCQAxa7MmGTxzr3xB1ZiyeWll0Ii2G8UojV3Y0Noq3uBqPBXPUwHrshte0+ZVebdzCFU352q2+1cvEOJW8W7zbEWzuyZVSyYe9H+jX9l11aZiamt2THmmbOwAm9stMewVZHVWZfcCPeqb7Rb6jrzYS7NCNl6Hgo/NfDng9ETWmrrIg16JryngaX78s3sXb98OxB5bzHhnzZ1JywI/nx2xFxZIgEfrBamFlkTD4QcoxeYVr/yrFkRAHBASzSpx/b23Pm9gvSiJU2PPMYTgaiYio52ekPiaWJypjBAmamhktqyL4TEWUzc1E0veCgXD44R9lJ5coDhznwxiEtA==;M4ynRljuQ4D7XrUoisjSGg=="
 ---
 

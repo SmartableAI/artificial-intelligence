@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GAO Highlights Policy Options to Improve AI in Health Care Delivery"
-    excerpt: "In a new report, the Government Accountability Office (GAO) is highlighting policy options to improve artificial intelligence (AI) tools that in turn can improve data access, create best practices, and improve health care delivery."
-    publishedDateTime: 2020-12-01T17:58:00Z
-    webUrl: "https://www.meritalk.com/articles/gao-highlights-policy-options-to-improve-ai-in-health-care-delivery/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 19
 
 secured: "tG2W8k+0zv9Y/GSxgqVb3wPUvprWTocaqqFPL5xUb0SoIKdhqSewl/iIoOXABq/TDPxZ83H0sinmObMwGbvG2+LtGbTu/aTbpxorOMRsyGOyGOKuMzYByxuKq0IPvSWRxBZT/rq0AYCTnxGx7oumgWJ8Uyn/TEg5y+H5NxXLhzf70MnvIzSeKRC3Wt8b54Tn762frSTs6r6YuldUFX4JPPNAK4+SzfkEuNZmL6Z1iISmidtLiOiN1M0lZTeCb1XuWhzOK3mWBtqhhWSJYVaT6L3R/gzg1yJtH09/St61mJnYEHm3Kbbcd8Xe0CS3l2SPGLrGc9N9+MFytHwkajz2CIRF22SyN0/GGiVF9+e7wVSgPMoiLIaic7gM55CG+NHcRfZauIzvLLFRws2D5DwWE+LVTlo4iNBmwih6hKluQ/TUjr/0j5VOazkC0ieIp/dmhOFmTP3n7+wHCMxaQhMAHzhlIUOAtRJiNU1WYO2a58LbfA98ta8rbPOZIGWTJNJyz2QiQFVKaSVWfvTfCdkd7Q==;WhhZj7Wr0M4RvVF1H1fJOw=="
 ---

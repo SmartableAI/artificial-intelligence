@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Google AI researcher’s exit sparks ethics, bias concerns"
-excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-publishedDateTime: 2020-12-05T10:41:00Z
-originalUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-webUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-ampWebUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
+publishedDateTime: 2020-12-05T06:45:00Z
+originalUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
   - AI Ethics
-
-images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702"
-    width: 1024
-    height: 702
-    isCached: true
 
 related:
   - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models"
@@ -76,6 +70,6 @@ related:
         height: 600
         isCached: true
 
-secured: "OJ/luNKWvJ+QW0xR640Wtnh5gDp+pVrvbSQRwrdg8DNTLMmRPZ5ZIWPVGa0/G/fY8hgda3dMIn49vos0/7HF0AkIwrMRXbVdkzmqj4FukYMdp0RQr0wcwWIAKXl6Ksr2TtkUc+cQodBqHgQFoFRAIhxp5JzGg4l5fic0yhTyb4nzTaJSh/1VZl19lqIcn2zBYJBITYXoBu3s+FZTrMyaQwLInIvWrNSaZX/g1GBZiqXRUuTlTJg1r4kSX+oTR2z3TJeXqT+2lmVFPHJVyhUc3jrbyyrflGkI9t1LydtG13B5wx3HwPg9qXpo+mo7oPSnjm/D11jHu6yTreDaVB/LKY9CXRknTRyfOhMz3IFSHEw=;qv5YRmqi4CWxrFKIN5d0Mg=="
+secured: "d4s5bahCh7yM07rZUUCxg51rl4HIDHrKHFSY78+aNC2pP4uba1NU14W2eihl+HiKcmA4rwiwaE0UUuUQMB2BLzR3oEZbXVAl4+O3uuDp/hXDv5Uy/H8dUnejIM7BnkQnbAgfjDiJpGGlo4CuhTuNUsLPP9kKGiathJFymKdfd6O1E7aeANgze1axZ+3HycQM4G1kNc1Uvb8laUdcmELLp53e0/WAuMB+J/HM0GpHodEikJfyIYVK03CLmUPQTY/hrjAW9uBplD4UoO2tpm/tTrYtMRceMv3kfIhflPnj71j/4h+On05C0DE9N9D+CaRkYP5QYHllLjjP1wPZT84iU75QlFUyI6nMfS8E0wcth8RD4Gsaqndrn4BlXYcEhLtD78bmEdO4PItb47UwGTzi9zMjrgbYy06ptN6KVSEng4ZzzuGnGgTIpxXl0QvJjved20C2wJ44/lXwAO/xb2wgGn3sVBLX7yrkspf0lvA0v1P9w0ktSKiZA+4eMFKn3fyxV7a3J1zL9KdZTbllQCiX2g==;0uYDuqUPcSjKycZPsCkf7g=="
 ---
 

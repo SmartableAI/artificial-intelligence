@@ -130,20 +130,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
-  - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."
-    publishedDateTime: 2020-12-01T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=385307"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "9PaYZPDDJOx0dTFWjKM5o6GBf3p7R4pLjZTD3r7Um3dga5HBoqR8KQO5fWIYs2d4nm+GXJgntfBWMN9OFAw7kzA3/Y+ZpiYpsd6KQFrqg368AWS88GSmXWbYfqZ6V7axlBdfVDuefAu8XuknrJp0IQmpKRWA/e1xiscMPjBLgll0/8IQA2ThehEtphD27WEuGMSbYCgyt6vXO+OjUr8DFlIlz2PvkkikwKGKDzznfPjx+KQK1O0dv4d+Fbhwj+EPjAXE9Iaa5PpUKeeWOk7XKqAWMr6IWKSQ92YCK0HyNAYZC8XCKHfyK/uvdZowqbzXj5No7LJ8gNTi+OtrZQtsPYoSE8QzQ5nJ3TCkSvKs+iU=;sE58S9o3cbufLFow4mMBWg=="
 ---

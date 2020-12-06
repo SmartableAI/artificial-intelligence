@@ -146,11 +146,11 @@
       "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
       "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
+      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
+      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "type": "article",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
-      "publishedDateTime": "2020-12-02T11:00:00-08:00",
+      "publishedDateTime": "2020-12-02T11:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -302,6 +302,51 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-aws-announces-machine-learning-training-chip-trainium.md",
+      "title": "AWS announces machine learning training chip Trainium",
+      "excerpt": "Amazon Web Services plans to launch a new chip for training machine learning models. Trainium was developed in-house, and joins the company's existing Inferentia processor that focuses on inference workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/aws-announces-machine-learning-training-chip-trainium/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/aws-announces-machine-learning-training-chip-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
       "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
       "excerpt": "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud.",
@@ -362,7 +407,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -565,52 +610,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-aws-previews-ultra-efficient-ai-instances-for-neural-network-training.md",
-      "title": "AWS previews ultra-efficient AI instances for neural network training",
-      "excerpt": "Invent event today alongside several other new compute offerings optimized for use cases such as running databases and rendering video content. AWS’ planned AI instances will be based on Intel Corp.’s Gaudi chips (pictured),",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/01/aws-previews-ultra-efficient-ai-instances-neural-network-training/",
-      "originalUrl": "https://siliconangle.com/2020/12/01/aws-previews-ultra-efficient-ai-instances-neural-network-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/1-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
       "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
       "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
@@ -672,7 +671,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 142,
       "tags": null,
       "images": [
         {

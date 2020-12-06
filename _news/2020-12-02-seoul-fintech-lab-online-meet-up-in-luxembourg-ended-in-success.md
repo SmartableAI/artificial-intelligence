@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success"
-excerpt: "The online meet-up '10X Extension in Luxembourg' organized by the Seoul Fintech Lab on November 26 was ended in great success."
-publishedDateTime: 2020-12-02T15:29:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success"
-webUrl: "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success"
+excerpt: "The online meet-up ′ 10X Extension in Luxembourg ′ held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:  Andy Choi,"
+publishedDateTime: 2020-12-02T08:19:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Seoul Fintech Lab to Hold Online Meet-up With Singapore Fintech Association on December 10"
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "pFOIe6WBL6GLBfL3LbXI+3of1WjSCwhnSMyaTo8/63nO/JTtsmYKuneux303MEKhYR1Qm/pGUnhGxZZBS7x+WiPx+Yi5waSivFcpf3f7eGzbMeVo30oMS6bcUbZaw1o8YazR7qknAPqXO3srpJDcZGJRI8Esorsz0Q4pusFXivjtLinrKOO5/wXU5houoe21m8GjoRp3D415li9PKJ15xdmthk/r4AL94Th7WIVApwmQRFvlkI4dAiYzrfCfyKN+V1w7BUU+Ko6kxgkUjGlQ8AqaS/esOa5/2eY71ir03jjWZQq+eFJXTW2PRdXbfrTyPFFhMvhVuXxrjYWWSa+MuJH8UJl/VSXtmbYmKztFqV8=;yTSXAZUdvzTvPoXcNIvpwg=="
+secured: "z2t7W2sJsxLH3t+N66kDZsEOmn/oLuUa5VM8gd0irtJaR7lRlTsLsZWof1HRefa40zFWuN8yoe+TmeYLO0q018/PHMz8x/GhWUUFKS1OKzu8p0Mq7AOVmDJMOg3ai6RdkmLqcr7MoDOOIUK3eq1cqN4vKofgotshM1FM77q6KrAKJTS2XouRdfNOIXpXsjKJgP+KDwRTsUAVU8pmuTnEfJ6NhjIsi/fehfZyD4pvrV+ap+VBmPuxqW2RuwEawko5A4WxWIud0B10lMxkCGROR7hneT3RiZtQft+ukYGAkeC63Q+qK+tatAroc0MAXWXYjhBB+bLpUn8LBm3FfKB/PJgVp7jxzJM0KGcill4tyBc=;il4fVMyg0tMxLEb8977stQ=="
 ---
 

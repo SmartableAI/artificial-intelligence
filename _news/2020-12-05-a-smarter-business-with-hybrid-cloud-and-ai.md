@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Translation Is Trickier For Business, And Artificial Intelligence Can Help"
-    excerpt: "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,"
-    publishedDateTime: 2020-12-01T17:14:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
-  - title: "Amazon launches new AI services for DevOps and business intelligence applications"
-    excerpt: "Amazon launched a slew of new AI and machine learning services duiring its re:Invent conference, including DevOps-focused offerings."
-    publishedDateTime: 2020-12-01T18:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/"
-    ampWebUrl: "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
     excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."
     publishedDateTime: 2020-12-02T03:49:00Z
@@ -72,6 +40,20 @@ related:
       - url: "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "Sh+mmR8l30D4fUKFbWL5Cg3+5RsGQ7Egkt/vmwbN7E7u6PPKkmjlfW+CA1/vvHo/iFlGghbZfqzRiLxUPGS9R2Hs8iM52E/sv8SvpkMsR239Mxqdc4Ro/GpAEZkSI4OAzLHsYdyI1wIAS/zAbxZbb6gHVIaf07i9kSN0ypR56ImT/sbH4mIvOfEoFrpkzRSemXdyx6/KOL9ureveUuLUhjK6tImbkZm6nAIwLjSIv9X4cc0UDXtAz9rd+f7qMv0ECWVmFfTryfl+88wwJEMaQzUrF6k4jgT+NP0IBeQRguTkr/sM9Cw11nK/qF/6JkNOSVF3fUn3LfU+fYAohTuwXWpy530PUmA5d6s0+3XbG7w=;7ORohKRdhdCbtihIsyeVJQ=="

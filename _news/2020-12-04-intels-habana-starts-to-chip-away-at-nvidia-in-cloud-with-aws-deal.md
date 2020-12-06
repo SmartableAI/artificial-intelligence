@@ -30,8 +30,8 @@ images:
 related:
   - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
     excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-    publishedDateTime: 2020-12-02T19:00:00Z
-    webUrl: "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ"
+    publishedDateTime: 2020-12-02T19:28:00Z
+    webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
     type: article
@@ -68,20 +68,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/12/Habana-Gaudi-AI-Processors.jpg"
         width: 700
         height: 500
-        isCached: true
-  - title: "AWS and Intel Announce Gaudi (Habana)-based EC2 Instances for AI Training"
-    excerpt: "As customer validations go, it’s safe to say AWS is at the – *cough* – high end of any vendor’s wish list. So it’s understandable Intel is today crowing about a notable win for Gaudi AI accelerators from Habana Labs,"
-    publishedDateTime: 2020-12-01T18:31:00Z
-    webUrl: "https://insidehpc.com/2020/12/aws-and-intel-announce-gaudi-habana-based-ec2-instances-for-ai-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 55
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
-        width: 437
-        height: 267
         isCached: true
   - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
     excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."

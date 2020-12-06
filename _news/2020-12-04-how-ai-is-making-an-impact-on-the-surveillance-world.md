@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How is Europe doing in the world AI race?"
-    excerpt: "In the great global dash to sell cutting-edge Artificial Intelligence, the US and China surging forwards, with the US a chest ahead; then thin air; then Europe puffing, sweating, and frankly not doing as well as it should."
-    publishedDateTime: 2020-12-01T17:47:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-europe-doing-in-the-world-ai-race/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Europe-and-AI.jpg"
-        width: 616
-        height: 410
-        isCached: true
   - title: "The 6 Challenges of Implementing AI in Manufacturing"
     excerpt: "AI Automation and AutoML 2.0 are critical technologies that can address this Skills Gap and accelerate digital transformation in manufacturing. 2. Technology infrastructure and interoperability. Manufacturing sites often have a wide variety of machines ..."
     publishedDateTime: 2020-12-03T01:45:00Z

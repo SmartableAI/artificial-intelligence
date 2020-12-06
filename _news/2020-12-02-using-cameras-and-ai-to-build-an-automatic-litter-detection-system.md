@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Quint
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Translation Is Trickier For Business, And Artificial Intelligence Can Help"
-    excerpt: "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,"
-    publishedDateTime: 2020-12-01T17:14:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
-  - title: "Amazon launches new AI services for DevOps and business intelligence applications"
-    excerpt: "Amazon launched a slew of new AI and machine learning services duiring its re:Invent conference, including DevOps-focused offerings."
-    publishedDateTime: 2020-12-01T18:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/"
-    ampWebUrl: "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "A smarter business with Hybrid Cloud and AI"
     excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
     publishedDateTime: 2020-12-05T01:30:00Z
@@ -72,6 +40,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
         width: 620
         height: 422
+        isCached: true
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "b6OqFxZb4Xb263JjYRjPhB7P44HE9vzjF3QJBjcHjo79GTBW+LyQXh/EDreA9xi5Sn50CHb5kGKUmH3vyU88wDZiLSmmlwBNPq6oMEuH3xBAlPNAzwpcwW7msCKJfd6oAFUGuSDTclTPhyiSTdr20m7r9cm3xeWnm1YOzUAvdr4pQMUVX2NznBxrKBGhzI+Rxp30MFFCdkt0MqLnMZiLhQmcV3OP2FwXLakwhBPBFGVYjTigMF4YO7d77QKiExNXS4syLCEMhPz02yOHgFPU1VNMaHWxsJ4bsvvlAuNCdh1jo2dFoRrJq1GzzWTwEA0aJCXyCs5ydMTNffTXiiJJ0CqSF3BY9wjum+L5FDtHgRT1ZxMQhcPON4/JARVgsL+WQCbaH7dyPjtN/UKnNNs6ZUzZrgJYBohiRldKtLGPRLUIYpRQX5ANwHaXbatIJDI1JgTWtV3zAWINhclj+ceFWZ18eObJd+U6wrXdc+PWs1p8gwIHHVIxmS84QdE5MkuCYa5J504qawFkBBcn2WXOpQ==;/+Srrm5zhb3/Lfr+odgaAA=="

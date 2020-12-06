@@ -43,21 +43,16 @@ related:
         height: 600
         isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-05T10:41:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+    excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
+    publishedDateTime: 2020-12-05T06:45:00Z
+    webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 74
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702"
-        width: 1024
-        height: 702
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models – Jaweb"
     excerpt: "Following a dispute over some emails and a research paper Wednesday, AI ethics pioneer research scientist Timnit Gebru no longer works at Google. According to a draft copy of the unpublished paper obtained by VentureBeat,"
     publishedDateTime: 2020-12-04T06:55:00Z

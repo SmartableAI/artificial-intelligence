@@ -72,34 +72,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "AWS Announces Five Industrial Machine Learning Services"
-    excerpt: "Amazon Monitron provides customers with an end-to-end machine monitoring solution comprised of sensors, gateway, and machine learning service to detect abnormal equipment conditions that may require maintenance (Photo: Business Wire) Companies are increasingly looking to add machine learning capabilities to industrial environments,"
-    publishedDateTime: 2020-12-01T19:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-amazoncom-inc-products-and-services-c561ab9758064c83b3e5050e8bc94d57"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
-    publishedDateTime: 2020-12-01T18:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20201130006036/en/843024/4/mac-mini_top-down-isometric_10302018.jpg"
-        width: 480
-        height: 271
-        isCached: true
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
     excerpt: "December 2, 2020"
     publishedDateTime: 2020-12-03T02:00:00Z

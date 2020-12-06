@@ -7,8 +7,8 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-machine-l
 webUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-machine-learning-training-chip-trainium/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: Datacenter Dynamics
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon debuts Trainium, a custom chip for machine learning training in the cloud"
-    excerpt: "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021."
-    publishedDateTime: 2020-12-01T18:38:00Z
-    webUrl: "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/"
-    ampWebUrl: "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/"
+  - title: "AWS previews ultra-efficient AI instances for neural network training"
+    excerpt: "Invent event today alongside several other new compute offerings optimized for use cases such as running databases and rendering video content. AWS’ planned AI instances will be based on Intel Corp.’s Gaudi chips (pictured),"
+    publishedDateTime: 2020-12-01T21:16:00Z
+    webUrl: "https://siliconangle.com/2020/12/01/aws-previews-ultra-efficient-ai-instances-neural-network-training/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 116
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 75
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/1-800x533.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Amazon launches Trainium custom AI chip in latest in-house silicon move"
-    excerpt: "Trainium is the second custom machine learning chip from Amazon (NASDAQ:AMZN) Web Services, following in the footsteps of AWS Inferentia.Trainium is meant to offer cost-effective training for AI models,"
-    publishedDateTime: 2020-12-01T18:26:00Z
-    webUrl: "https://seekingalpha.com/news/3640485-amazon-launches-trainium-custom-ai-chip-in-latest-in-house-silicon-move"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
 
 secured: "kFcaIORNERfOMFA8YtrzcPUmxYefSwWzF1u4/qbgyZqOxTkTkOo1EYkpZEKPKKYBQi9e1lPrNd+7RSj5nO08e4ev0uScCEXQrmYjUKwT4CCXIB+ZwUTl7rNWMo6C1ii4iFH8P5BYOMmBcVBIbrMrlwil+tRZistnicLbtiUnrVHGI6XjjeOPjUQzmbQfjmVPh41STD9kX5S2yBr8v1xs+aWVu+DpbQ5ZRN10LNvIU3zFMkHuS8p5wScFNcLMh8boEvK1UUzruSW+SUJa9M/8kW7yQYOKPTLeCoQXhgGbuvdhav0mUfBJESajhdSV/VBb1CRvn3LoprSVWajinR02wUoqqetDh+GxGjN43OE6BNVELVF1jUwLcaFmual6ieqE1u1ExGLpSYp0Mlb9mBQfNNYTWBy2ve4f5Prga/nwuxTRcyhoCa9pu6XmPHz6mpahFJtFEgBNEi2dZx4ivXz5nBIIE5z0XZSPdFc5aqtWHz35ixaONwYX9skH7bH1OpMiaUrkUBcWz7Qp6QFg9PHj+Q==;zQonIPIaQj0je52oOpHQyQ=="
 ---

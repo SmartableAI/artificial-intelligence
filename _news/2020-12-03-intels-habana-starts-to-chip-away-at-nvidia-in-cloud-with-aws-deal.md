@@ -2,14 +2,14 @@
 category: news
 title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
 excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-publishedDateTime: 2020-12-02T19:00:00Z
-originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ"
-webUrl: "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ"
+publishedDateTime: 2020-12-02T19:28:00Z
+originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "AWS and Intel Announce Gaudi (Habana)-based EC2 Instances for AI Training"
-    excerpt: "As customer validations go, it’s safe to say AWS is at the – *cough* – high end of any vendor’s wish list. So it’s understandable Intel is today crowing about a notable win for Gaudi AI accelerators from Habana Labs,"
-    publishedDateTime: 2020-12-01T18:31:00Z
-    webUrl: "https://insidehpc.com/2020/12/aws-and-intel-announce-gaudi-habana-based-ec2-instances-for-ai-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 55
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
-        width: 437
-        height: 267
-        isCached: true
   - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
     excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
     publishedDateTime: 2020-12-03T05:08:00Z
@@ -104,6 +90,6 @@ related:
         height: 640
         isCached: true
 
-secured: "aSzk3BwRe/Rz7PoTXElKkHVVq8WcfBdNFKrpahEyrUxRp0yMYYvJkPRW3wAimQHqVOckyTgRV1fDkaopsrrSPS91ISNHTc37daFeDU/UpYaQtxG+6mvj0Z6KJz33HpgkTo1+cteMrsLOjW4nTaGqtbKdsr9t6dF3G1LQM5g/CDGHm6nZtK90/MnzCRZopV//hG9Ecim4anQeLnSVpImf611mv25XyGqr4rcwZSD8/n/Q5xGbUVmpyViEohSfMtldAnK4F6/mxF/6Jl9wDYDPevLeZeRDoVtsfS5PYbZDmJGDPco8Irse7ohNgRUHKPvAELI1AoP4jXMEkKadnzWlgC2eSUfJ/y2uvc2x45kOdWY=;Vq0vTMRIklCr0rzoz8ayJQ=="
+secured: "DBoTzp5SVQ/a/Atlq88U43dO7BcW+7v1t6mrTJyOGZum7KLrpW+RwSG0RhJLTfQGz0CcL+y29AtNjAiRZbuJENJl2wkQjGJcpl7obZ771HviMx1HmsclF4NgMiYbmFnl259yyo8/7iwBWq8y97BVRtvHXrvhoh1CiYngAC526tf7MUp1lSlRo3oaYSuyuYHc5Xy+ylIwW6bMN3nlFp1+KVYvmlC5I9FRySZsGUYWkaS1u/snp0oWPNsnV+JnPYCHhQJcF9upIlCKYwmxdH81B9nq642LtUfJ8c0ISd2BpkWLfCM7w0SoSyzhekTQw37wwYU2yt7LitD3rFt1JW9vj9Fh0w8mphz67uyEcERU0aM=;gP4zhMjSviKdPcjKTI1IMA=="
 ---
 
