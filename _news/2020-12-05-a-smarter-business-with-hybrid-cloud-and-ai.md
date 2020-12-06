@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-sma
 webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
-    excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."
-    publishedDateTime: 2020-12-02T03:49:00Z
-    webUrl: "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
-    ampWebUrl: "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
+  - title: "For AI success, start small and iterate"
+    excerpt: "Artificial intelligence projects are most successful if they start small with specific use cases and grow over time, according to federal IT experts. During a recent FedTalks panel on data, analytics and AI,"
+    publishedDateTime: 2020-12-02T21:21:00Z
+    webUrl: "https://www.fedscoop.com/artificial-intelligence-success-start-small-iterate/"
     type: article
     provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 59
-    images:
-      - url: "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
-    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
-    publishedDateTime: 2020-12-02T08:18:00Z
-    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
+      name: FedScoop
+      domain: fedscoop.com
     quality: 37
     images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/12/Dell_WWT_header.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Sh+mmR8l30D4fUKFbWL5Cg3+5RsGQ7Egkt/vmwbN7E7u6PPKkmjlfW+CA1/vvHo/iFlGghbZfqzRiLxUPGS9R2Hs8iM52E/sv8SvpkMsR239Mxqdc4Ro/GpAEZkSI4OAzLHsYdyI1wIAS/zAbxZbb6gHVIaf07i9kSN0ypR56ImT/sbH4mIvOfEoFrpkzRSemXdyx6/KOL9ureveUuLUhjK6tImbkZm6nAIwLjSIv9X4cc0UDXtAz9rd+f7qMv0ECWVmFfTryfl+88wwJEMaQzUrF6k4jgT+NP0IBeQRguTkr/sM9Cw11nK/qF/6JkNOSVF3fUn3LfU+fYAohTuwXWpy530PUmA5d6s0+3XbG7w=;7ORohKRdhdCbtihIsyeVJQ=="

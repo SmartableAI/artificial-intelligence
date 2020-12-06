@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 974
         isCached: true
-  - title: "AI study set to boost autonomous vehicles and cybersecurity"
-    excerpt: "A Lancaster University researcher is set to conduct Artificial Intelligence (AI) research to revolutionise its use in autonomous vehicles and cybersecurity after securing a £20m cash boost."
-    publishedDateTime: 2020-12-02T04:32:00Z
-    webUrl: "https://www.insidermedia.com/news/north-west/ai-study-set-to-boost-autonomous-vehicles-and-cybersecurity"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 39
-    images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo_export_agenda_2021.jpg"
-        width: 400
-        height: 283
-        isCached: true
   - title: "Deloitte Technology Acquisitions List: 17 AI, Cloud and Cybersecurity Buyouts"
     excerpt: "Deloitte acquisitions list involving cloud, AI (artificial intelligence), cybersecurity, workforce digitalization and analytics companies."
     publishedDateTime: 2020-12-05T17:28:00Z

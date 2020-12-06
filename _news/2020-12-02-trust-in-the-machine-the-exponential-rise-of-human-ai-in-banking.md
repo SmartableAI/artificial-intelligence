@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Researchers, Marines Explore Trust in Human-Machine Teams"
     excerpt: "In an era of Great Power Competition, where those who can field autonomous capabilities fastest have a distinct advantage, researchers at the Naval Postgraduate School are exploring many fundamentals"
     publishedDateTime: 2020-12-04T22:45:00Z

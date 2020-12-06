@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
-excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
-publishedDateTime: 2020-12-02T08:00:00Z
-originalUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html"
-webUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html"
-ampWebUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
-cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
+title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
+excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
+publishedDateTime: 2020-12-06T19:09:00Z
+originalUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
+webUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
+ampWebUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
 type: article
-quality: 68
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: NextBigFuture
-  domain: nextbigfuture.com
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-01-at-11.38.32-PM-1024x682.jpg"
-    width: 1024
-    height: 682
+  - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Tesla-Model-3-Full-Self-Driving.gif"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
+    excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
+    publishedDateTime: 2020-12-02T08:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 68
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-01-at-11.38.32-PM-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Musk: Tesla Full Self-Driving Will Be Ready In 2021"
     excerpt: "CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021. This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios."
     publishedDateTime: 2020-12-02T17:00:00Z
@@ -123,22 +139,6 @@ related:
         width: 2880
         height: 1400
         isCached: true
-  - title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
-    excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
-    publishedDateTime: 2020-12-06T19:09:00Z
-    webUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
-    ampWebUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Tesla-Model-3-Full-Self-Driving.gif"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Elon Musk's Self-Driving Promises May Drive Tesla Off A Cliff"
     excerpt: "Tesla has successfully positioned itself in the mind of the general public and investing community alike as a key leader in autonomous vehicles."
     publishedDateTime: 2020-12-03T18:03:00Z
@@ -149,6 +149,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "7jGcoFZwj7x4UMIBeJgDWAl1Q+KVguM5kP2P7L/wpnfhVqxjF4AlrqBPfRcd+aFs6F4CecXqs0D11LQmRseuh/4wmFWhYUU2Vj/A+4hbg/BIOyRfbGODY/kTisQGeHgk4yzsDaKYDysZZjr3PX3dpLiSjJ8C499UmBCJFu00F25cHW2GOh4kZpLT6H+5G12i6kRg8owCIQvMIWbugI8BtI8KmzWFoCZuzvDnRgM8RV7K9/nNP/RU09xJQFL2wqVcavkkHcnn8LlVqJyaNcKoTld9n+ZgcYX/COKYhC4FTb4IeoIPiOHWwxF9hxSi1yeVWyh4PjXkpFUWC0oF+b+6cea7bOQT871Gx8UV83AhBqg8zprYg4xHwflXIhWFmafotxUlNP24iV1SGZ4yGTDEVwxIJa5pu5kMoEqG0k+5cQvv3IwRY5mDZHdw8/ohEam47SdAkkF6iuknJe4jLu003ATb701qL9DX6VFjUNeFzVQJJOGV7qWrVP3tpwtyiGw272FLSmubwSsQUmQG6pkEYA==;H5K2wbNlC2lPCr2LC6+raA=="
+secured: "U2qyaXfQ6aDgMLFXlUfapYffuGM1KK+n5/8dy7DYCuU+jOE6DP/8qOPMrKoFY9oGis+P2C3b6LfwZglmokBnDsMOJNEfpMwxkHmd0UO3FLhwoqDiDxTA4MWAAG8JoP3tsyLrSH6unW50JYoQA0fl4/vNChOtDZ78ucZVkf+hiyHAikauw5bRvuEoYL8G3lFCCotqZ6ER+587DttIUH6L6nJalFSRXLlJo+J3s2Of1mcvHsOMB3M/Y7HBkVV9aTzD+nds6PySIYebUVVa7c8UHES2domDw9z/aPWGpOxQP4ozT7zZzyJfo4wnSmEUf5yAOhbf2V9ik64WXTvVkINno4V4lGaWHbZsXkbijYBBjfw=;6WSWazrSFOt8fAcDg1u11w=="
 ---
 

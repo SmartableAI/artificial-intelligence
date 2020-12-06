@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEC facial recognition adopted by \"Star Alliance Biometrics\" platform"
-    excerpt: "TOKYO, Dec 2, 2020 - (J) - NEC Corporation (TSE: 6701) announced today that Lufthansa Airlines and Swiss International Airlines (SWISS), Lufthansa Group airline members of Star Alliance, launched the \"Star Alliance Biometrics\" identity verification platform utilizing NEC's facial recognition technologies at Frankfurt Airport and Munich Airport."
-    publishedDateTime: 2020-12-02T03:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/a18608227/nec-facial-recognition-adopted-by-star-alliance-biometrics-platform"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18608227"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18608227"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Startup wants to give biometric face scrapers digital dead ends to chase"
     excerpt: "A small shop of AI coders and photographers have a new use for their GAN-made portfolio of faces. The company says its Anonymizer app creates red herrings to throw face scrapers off a"
     publishedDateTime: 2020-12-04T17:02:00Z

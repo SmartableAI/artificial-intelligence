@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predict
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI study set to boost autonomous vehicles and cybersecurity"
-    excerpt: "A Lancaster University researcher is set to conduct Artificial Intelligence (AI) research to revolutionise its use in autonomous vehicles and cybersecurity after securing a £20m cash boost."
-    publishedDateTime: 2020-12-02T04:32:00Z
-    webUrl: "https://www.insidermedia.com/news/north-west/ai-study-set-to-boost-autonomous-vehicles-and-cybersecurity"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 39
-    images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo_export_agenda_2021.jpg"
-        width: 400
-        height: 283
-        isCached: true
   - title: "Top 10 Artificial Intelligence Inventions in 2020"
     excerpt: "The inventions in artificial intelligence, robotics, Internet of things, virtual and augmented reality, and big data are thriving the pace of invention in 2020. Despite the COVID 19 outbreak, they provide a promising outlook in the coming decade."
     publishedDateTime: 2020-12-05T08:45:00Z

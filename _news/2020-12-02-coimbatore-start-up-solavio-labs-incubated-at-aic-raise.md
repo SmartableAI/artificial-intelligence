@@ -24,22 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Coimbatore Start-up, Solavio Labs, incubated at AIC Raise, Selected into Canadian Government Accelerator Program"
-    excerpt: "PRNewswire/ -- Solavio labs, a start-up incubated at AIC Raise [  ] incubator, has been selected for acceleration in the 2020 winter cohort"
-    publishedDateTime: 2020-12-02T04:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/coimbatore-start-up-solavio-labs-incubated-at-aic-raise-selected-into-canadian-government-accelerator-program-812386730.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1346656/AIC_Raise_Logo.jpg?p=facebook"
-        width: 2044
-        height: 1072
-        isCached: true
-
 secured: "DBz3BeAsnezDnave/lMPRG1EiSDZ3l1u/88lIIhiZa3CTDKWbHkdRtlMYJHli5fef009e2kCkkSbvf80yK/oLroyE9CJez507SIrMUW72dyAPRfd0jsmHuZNEBEXXjoiRCiQzFnejPFFoeVggSx0Oo6J6wmfOO6y6zVPkqdfZEM0dsRlM8GNNtLpL3W3ZtuFlYlPN9wvPdMJ9dRHcvmdLlHkljsWd9Ps8y+XI/IyHeYEDzpT0PuDNjZoKNITMkJE8a7wCeasH7gOWOUgrEMJER9l4bz1NMNHHflRtXgqYshkrU8skToTysoO/ZmKXnSzfesGfYbgsCAEk16zxS7RG5dw5NH352HaL8LEKtWZb7o=;WZ0kJHEhFtULmkcPQx4DZw=="
 ---
 
