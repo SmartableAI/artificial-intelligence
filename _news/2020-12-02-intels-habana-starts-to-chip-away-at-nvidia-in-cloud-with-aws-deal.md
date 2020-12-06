@@ -88,6 +88,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Israeli-made Habana AI processors challenge Nvidia"
+    excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
+    publishedDateTime: 2020-12-06T13:51:00Z
+    webUrl: "https://en.globes.co.il/en/article-AWS-to-offer-Israeli-made-Habana-AI-processors-1001351972"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "E6WU9pecOwfydhKUSbrzlv1cb7p8eKYNczTR9thtPsQ+l2s4gEuzyYfqJ2qyDcgrIN0SMogiC9I8bykJILnCS1gqHT4zfwkyloCXOBsY9jziqkCiZCCxO0avbE5gpL5g/SyDhW6ypW2f89R8GvEajJDVTecPR2Y4J9gGHuRUhM4Xwkf4U8Ohr3bBy58894D7O2Xt6Nf4W/TUlsLIYqDKSRiCUK18DjKp4HfH4lp6bHWjJmaLw+U/I1eGwYlBTlW+NXk+WMR1nzgVYkZ1+SwquhDGggTHnusr4KEZgFimKX0/sUFHBfpYPCsXs8ahTw4T4XOLWQtWZsq3/yj9b+7w5uJcZeJYM+tZ/ktZf+E6PPV6NRB8eHmUBx98+A+530OgzrgbARVgKTfKvvpVXoXJbH9FOxnwTtG6hcEgsV7LXco2x7idwmadqk8ZrDm05j7q5zlOwQwgIQv4/OrwzNFCvPG1FVWanqKnG98UnSo/aOfOBJu0+wM5auJQT3j+RaGqezkskV69LOgDWG6JUMGatA==;l1rF4+44e+NC/gWbZ3JAdw=="
 ---

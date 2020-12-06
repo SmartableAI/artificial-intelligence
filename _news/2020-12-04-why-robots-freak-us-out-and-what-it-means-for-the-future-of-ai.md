@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Building a brighter future with robotics"
-    excerpt: "From exploring shipwrecks to air-dropping supplies in a pandemic, U of M faculty and students are designing robots for the 21st century."
-    publishedDateTime: 2020-12-01T22:26:00Z
-    webUrl: "https://twin-cities.umn.edu/news-events/building-brighter-future-robotics"
-    type: article
-    provider:
-      name: umn.edu
-      domain: umn.edu
-    quality: 54
-    images:
-      - url: "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/banner%20robot%20hand%20-%20news.gif"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "/Imlr2GUyH+hZD4I+il8DOF8p9JjclnobMe46cjMqtEyfqiy8KOYuY/COmMkmM0Jwqqnek1ewnm9Kg5SOmUObvgDarbRgV3qmfAjcrqIzFEkKI9kiKk5Pf5X6etAUf5GKlDL6iSAVdFij2FxGwpCGJl6H7+qIUP4BQ4138wlZVbx9t60olYlWfAMYHvcdPmZqK1+hH9FWpgCk3tT2PXBziU02IxAcwDaSfp1RBIAmeyuLZyww0f/FvVWRkJwB0KGt+AOo5e7P0JK9lGkUwUWSb6GUXWbwExatSIzgFGMNiuWgQ6c97Jg3KcrCpC0bbbyBsKu/G8ZdupqsiMuLYFCoThFFSfT55J1TKmWlHNKdJlzQYF1ze+3tvjZjjNEURgFDgsvpQX05tm0wMFNUD5XXXShcRahw2IstgGcwABF5QcrMoRWHYnbZNIvH0q03IDHKBluUGIVgjv8G1RZIh+GXIUZ9A9bUvqpKV2GVGuQ3Qo+PzgcIwoKCO7i+FRwH4JI88nC8r7lHkA4Lllrf/+iWw==;xzlGJtRtlQsZByaZTUXzKg=="
 ---

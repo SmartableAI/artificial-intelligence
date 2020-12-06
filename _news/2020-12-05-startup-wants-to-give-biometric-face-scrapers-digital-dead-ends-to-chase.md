@@ -35,20 +35,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Brazil’s Government to Use Face Biometrics For Pensioner Identity Verification"
-    excerpt: "The Brazilian government will be using biometric facial recognition to verify the identities of pensioners in the country."
-    publishedDateTime: 2020-12-01T21:25:00Z
-    webUrl: "https://mobileidworld.com/brazils-government-to-use-face-biometrics-for-pensioner-identity-verification/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 20
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/facial.jpeg"
-        width: 400
-        height: 260
-        isCached: true
 
 secured: "JhAtQU8kn+aHXGbqW7JOTQm4mpO8yDcUk+vuKO9Gjb9cFe1gZhAf+ZROjzx+9PC7OtsnsWxHMyRnpuObCL8rN0YnnHSlayb9bqSgjCPrD16kF+U/FTZEq7qT+gtWNblTElXqQM/s4MHm1BmvPA7/2Ja/g0E0A0e1MOgF58q9oQy5j+7KvNER9UwoEFactFEneObizn4bOMwJIWbqgx2zmn+aian9tasESu6xxEZbgp94E6emjWcmf49ojkjWucz/Yb0qmSPYtjx382AMG8r2b3D+Q27lo+/cEJ3CHQHN4U+Yz97++Z/6FVqW+5Cjy0hrHQOV13Gtyff1r1dFq0gMGAgFrySZvCPseyskI8/5+cDExXUQY3EDveDNaz02eaa/9LTVZoS0kpbFgcLAl5KdIxZ/PoHHRPo3rOb0mZxJbMFhfSOelv2tqzNDfptcC3CUEUYXY41TJ2NRdAgwY9hZW3S+d1mTNqyh6/9WwRvClLbi+76V0vvDgwOkuKQ9pPBkUPey2rLnQ7o0aiXtukepnQ==;qdMh0c1jlObd86jMDD19Og=="
 ---

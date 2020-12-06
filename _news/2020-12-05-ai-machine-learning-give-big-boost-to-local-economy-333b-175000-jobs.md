@@ -1,13 +1,13 @@
 ---
 category: news
-title: "AI, Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
+title: "A.I., Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
 excerpt: "San Diego industries that embrace artificial intelligence generate an estimated $33.3 billion in annual gross regional product, according to a new study."
 publishedDateTime: 2020-12-04T17:00:00Z
-originalUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
-webUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+originalUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+webUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
 type: article
-quality: 54
-heat: 54
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Ans1dePg2l3GKdoEXRaj835obHqZsXLTqnROfiRKGHNBoCIZ/K+4x11c533Ob3hVqBU3p8D30xra5NmZIj0bx7q8Kz/YPKEf9vDtSfvdpQ6fo7xf1rK6P4470hbXTQTGAtGHhzIVIfcI6cz6rkuWpSSeYFjsHz1lpKa7+qxW3F1DeLnodCUiof17igQob0DsitkXMaoRrR88KwqDkfc+8S41LFRL5427IA2aqkfcRD8ItRN/rwY4QxubXJqY7kQh08MODtaTXaG3cefJOQTSS8Mk29QTGQ51T6F+Rr/QCUKYJcgVjgzbhUcxLVw8WvschO+MBDlhFdZcWkWecwGORKfvp51aA+7wCXDgR5bW8Rl0Q5Qe9mvx7vPaPp1FmLq3g1M7U8ic+bJtZtSNdQft4k3bOPHj7ovB9J0Ix+9YOfRhfKanQkqGfFHb/jAS60HSKQ4L2Ylcr79zy+u6wX0zn5PD1ay9c1UqnKU/6mhWo286TOr9jgDBcUC41e4SWKBK0G7HVXImEj89nlTs+xzDfQ==;eSwXiIyeKplgDBT+dP1APQ=="
+secured: "MS186vMtZKmcGVviNWN+qO+zmP+Ye0bfPX94LREirlsr9DgIGBgwUAkXAP6Orc2s39E944NqAY6G3H+maQMAeb60K5c9zWBc7Fbc2D6G6hpZn40CwEV1S1bAkiynN5bsqTdNVbX1J4RzUkFifmbAmLuQYLY2phZbnvoD0+w5Vpy/M6s/8+OVEXdGEKjnynibsZRZnrM+ahQ5rMFpZNXXjnT+V3bR0GNMZuiU6iM+v2sSXurgHY0Pcv12st7WR53j8GJllo1X0hAMftteqNRmLUlppIa3B5Wai9EvogtUIaF8OBdWHbczrHbGnn7MHSkN2yreK8Yb/ybva1oR9t5FeY82GpMJhjVVvLfwijwuY6U=;JwA1XkYJ12Ob0Zdu2053ww=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first ..."
-publishedDateTime: 2020-12-02T22:21:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
-webUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
+publishedDateTime: 2020-12-03T07:55:00Z
+originalUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
@@ -34,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "V3F+rl31EuBfcMELLnrFCDOTJOOgRzKHVlTl8alAMFg/HVf5BU6S0QBXIMocmLi765db1zWTQ15NUMXtuu5cmr4biHC+lQ4vsOaTQbE5m/q33k9+DzbWyiNy1GvWYSt0eO+D6CoykwmZyC8ND1BpgL83H0VTlc6YcgT7sc/rGmVEaCQfFPVvxd8JcNmsn7lSlJ3bG1M547fa9dqdNkfUB80UxK1Vsw4XWmc5x+lB7PqrW5bdaSFMLYsaHkY/ROAompXqCwCtxGrwOXn2O0LPcmbEstMYmO7FSTTpxQHke4X41QYY1jRqRjVmZxiXlaAKqQ676YyLsSAr6VS1NVL9H2siWLg4oGjNspdJqUD6o+U=;GF4XoQVbvE/xuzaj1qh9sw=="
+secured: "1l8iPmFfEFkMZeS1CyOKZ2cX3tDbdgo+JYxC7mpO8tPrU/Z1MIc8fTyo9FrPJVeMxCP+HGHy2O3LjJacxBD+KXeH/3kc0RfZ5LRIfr67QvUkXH01SYYGsfP9p5foKffcQAinbjhYERopoWhBmqnrVASSrV0vVUN2fih2XYqu6p3dPlqP7uAeBIpwHGu8TiOE3u4UgOHInU2n6WD5TMgrUPoRv88/UjsfSElttA40sP5FUDh6XkJBI8TfE2RC8EibBYnY15m+TuKcPEmCqU1PMxzZPV3SEe75RpnDBmUzKH5+06rZP08Oy/q8AaOA66BJLcBOxDbGFgVvztwUD7WqJD3dAj4aEKQ00DS+c/XeSmY=;NP926m1pbcbFZyApYoksjg=="
 ---
 

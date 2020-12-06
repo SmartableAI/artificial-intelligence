@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
-excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
-publishedDateTime: 2020-12-03T05:08:00Z
-originalUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+title: "Israeli-made Habana AI processors challenge Nvidia"
+excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
+publishedDateTime: 2020-12-06T13:51:00Z
+originalUrl: "https://en.globes.co.il/en/article-AWS-to-offer-Israeli-made-Habana-AI-processors-1001351972"
+webUrl: "https://en.globes.co.il/en/article-AWS-to-offer-Israeli-made-Habana-AI-processors-1001351972"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: globes.co.il
+  domain: globes.co.il
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.barrons.com/im-267539/social"
-    width: 1280
-    height: 640
+  - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg"
+    width: 800
+    height: 392
     isCached: true
 
 related:
@@ -84,21 +82,23 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "Israeli-made Habana AI processors challenge Nvidia"
-    excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
-    publishedDateTime: 2020-12-06T13:51:00Z
-    webUrl: "https://en.globes.co.il/en/article-AWS-to-offer-Israeli-made-Habana-AI-processors-1001351972"
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 54
     images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg"
-        width: 800
-        height: 392
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
         isCached: true
 
-secured: "3u78F6eu13ZKqrHfjmK/nbgnFvdtnBYPZrrvB69NPZjzFcpAZcJC1cGXXZehlWsvVbOdaJ5/CpS+dAqh1cqWfX24MX/DAMHMxTeJvrAoZi8g5bmj3t4Kkw5h4IpSzfiY8u9XOByw+xOZN6V+k0YHD/nmV6o7ZCPjq/bgVOJ3oGFA/8kHdjhQfm+oHVOzgEEiUU5cqw+6B18dYL+wUZvWS0MFX8HqxVD1lDB62JUEc50kvb5l5M+doYO3Y/GPKK47/QAz5Rdlki1ipiIFzuKroeuyrb2wSEwnJteBim6eafiXG7WY+HMLyKI2/BTbkEeXiHRqqIpHhENMAmxGWyl+JEmX3UQpOTJpGknh95B8Gb69gwL/DtYtBroVKwGVHC4eh4WceS0hKtfiyYMxwrugd1iaObEU4uVFXKnKyiPcLhwmwSYCRhQSULgKlfzr5RVsOmZ63ZGYTniFXtS69EcsFD9NmipyaLZr8QrjQIuxe+Hpe31p0zEbRfp2BYvsCCEk8Uc93W2n8I3q0VKjGfq6fw==;h4mvTHUFaczwA+OOSOACog=="
+secured: "AbrSnF1f0pHqLQLSWC3xm25ww7Wgv2m7FTgGnu9EGqZblp4BDCNtpc1olx+QMtHCH+oara9TBwK5yMDUtpnsa8Mo7zPUSBHZl+OmRvB4iLrYc2QkXh3OkVmcCN8ZUMfyBUBdcBbwqsHt9OYvNjdjzI6MeFgeWSSW05DsJXVcw/JCO7xs5q/s2l5MLhI28ID52qyaOfVFI9ciHwnXJoVi4FPw5arfg24GFt01blAZFo1eO6Q1ZBPZLtpH8gbbN1bWyCVn1WavIf5wOZCR1P8xMp8LP0hP43nOPgvDZklwd1pquZRIv1GFbEmgqW2FM0hdE9dzg/zKBnU7mnxHz5tSxBZJxHgbWTD/BDtmtWWjQc0=;74SoPJdMRpPXXoZ0bp2Log=="
 ---
 

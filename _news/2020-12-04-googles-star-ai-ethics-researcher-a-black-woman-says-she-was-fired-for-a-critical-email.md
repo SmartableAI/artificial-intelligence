@@ -94,10 +94,10 @@ related:
         isCached: true
   - title: "Top AI ethics researcher says Google fired her; company denies it"
     excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists."
-    publishedDateTime: 2020-12-04T05:51:00Z
-    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28D3JN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D3JN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D3JN"
+    publishedDateTime: 2020-12-04T05:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D3JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP"
     type: article
     provider:
       name: Reuters

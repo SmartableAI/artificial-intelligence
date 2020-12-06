@@ -35,22 +35,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
-    excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
-    publishedDateTime: 2020-12-01T22:32:00Z
-    webUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/"
-    ampWebUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Amazon introduces voice biometrics for call centers, edge computer vision"
     excerpt: "Amazon has revealed a new voice recognition tool built into its suite of call-center services for businesses to shorten call times, Reuters reports. The announcement was made by Amazon Web"
     publishedDateTime: 2020-12-03T17:23:00Z

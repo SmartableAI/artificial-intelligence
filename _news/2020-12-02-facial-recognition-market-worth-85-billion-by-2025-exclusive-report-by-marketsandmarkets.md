@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market
 webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-worth-8-5-billion-by-2025--exclusive-report-by-marketsandmarkets-301183416.html"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-enabled Testing Tools Market: Investments into Machine Learning and Pattern Recognition Growing"
-    excerpt: "Deployment of AI-enabled testing tools will rise at about 13% CAGR during 2020-2030 Adoption of machine learning and pattern recognition for deploying AI-enabled testing tools to remain prominent North America will remain epicenter of value-capture opportunities,"
-    publishedDateTime: 2020-12-01T21:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/december-2020/ai-enabled-testing-tools-machine-learning-pattern"
+  - title: "Worldwide Emotion Detection And Recognition (EDR) Market 2021 Expansion, Development, Technology Leadership, and Forecast by 2024"
+    excerpt: "Emotion Detection And Recognition (EDR) Market ” report provides strategic supports mentioned by the business specialists with market sources, amount of manufacturing cost structure, raw materials, forecasts,"
+    publishedDateTime: 2020-12-02T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/worldwide-emotion-detection-and-recognition-edr-market-2021-expansion-development-technology-leadership-and-forecast-by-2024-2020-12-02"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
     images:
-      - url: "https://www.automation.com/getmedia/84e968cb-52bd-4bab-92fc-cada3ff2883b/AI-data-Dec1-2020-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "z+w5evCh9dUeqIgD+oGxHfK0oniBTnH/lEnQ57YhidmgARkhM1mVqTnQmDgpwjeumqIYHncI9/7M1LDBGjm778rtZjvK+6qTHXd7VpDsxScDBUcKYmRVl/xBogi72xtTX0sIZXhabQl+XXVZ0drLDka+VyWBkIG1oEjStCtMPHv4ekXZ6g4B5+MQpsyQ7ZMOY9c8AKA5tpUuc9CsQ9yWn/DlZyo3bpb9ce6eMnC2F28o/2LGMNPYZs4MY7sLNgfCm/IQN6Y2+94l/maxM7FUB61nY3IuxoYiuuP0IHjf1WXmix6OtTk8p1U1z3g0lAb9xxLCJAxYR62vnCAcuUQtl6TmbBF3DMKG1mka0xLVDw0=;69HOIsO6yla5qSy6FKOWyw=="

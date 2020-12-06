@@ -2,27 +2,32 @@
 category: news
 title: "Google widely criticized after parting ways with a leading voice in AI ethics"
 excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity."
-publishedDateTime: 2020-12-05T03:28:00Z
-originalUrl: "https://kvia.com/news/business-technology/2020/12/04/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/"
-webUrl: "https://kvia.com/news/business-technology/2020/12/04/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics/"
+publishedDateTime: 2020-12-05T04:10:00Z
+originalUrl: "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
+webUrl: "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 101
+heat: 131
+published: true
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
   - AI Ethics
 
 images:
-  - url: "https://kvia.b-cdn.net/2020/12/hypatia-h_c1da9bcad3c8c2aa432e0d905781f01c-h_248ee677d7f5426234a24fc074314ac7_preview.jpg"
-    width: 500
-    height: 333
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -58,7 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Google parts with top AI researcher after blocking paper, faces blowback"
+    excerpt: "Google struggled on Thursday to limit the fallout from the departure of a top artificial intelligence researcher after the Internet group blocked the publication of a paper on an important AI ethics issue."
+    publishedDateTime: 2020-12-04T16:02:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/12/google-embroiled-in-row-over-ai-bias-research/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/timnit-gebru-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
-secured: "nrT4QpNtKeD15s4Mjoj3RuEiP+wZ8g6tcYXdtWx4bhXemzPmhV3tlpheQHdgaQDc1oOaUD+XNiWBtuv4kBHrw0sGLLECYOpIkM/kb9QAHg8xKExH/5ypMRBDQmGkvNIRogwg+FlQi8BtjNoSMdlNWMjghTOgVedA7WvVM/JhNDjWRAmVJmyZBcnU0nGhQrDLLT1xvS4j6RagdH2cAxnxQhwNgM9uwZHG3z6N9f1vutmbSkb8HuFGXLKHFF6NmIf7rlLsMAfm0mdyuDaz3YTwHyemBefan4hz8EdUs7XMmxuMi2l6ph6auZRYuA6uwp7rTw3zWsct1FJ590yviVGysXya/lLBkbJP5egUAWL8mbiu6p144e6TCcJapFZkuceJBEoIXWXp4PCZWrQv72i4fS4QOfauo3KyYCxC1pT9EyAle9sTMz5SIfYQ7XPyBo21fz2F902PK5HYvt0IG2V1L7BbP7NE34dv1tv5kgQPRBlMxXGrQlaBnyTcJJesytnRAkTFkDL8HMp7kWi7oV2ShQ==;2dj2eLNOiivdYb2hQliz8g=="
+secured: "l3rE9G6JpC2qqX1Ju6KWpwC1YeayGuLPwzx/lX0hIsxgZqrj3cGw6IPE3RtHD3zYgayrK6RzJDtChiRBbeLc1MjeUlS2Kml08CC7sVFSeZB+OpemoqvVWMEljNin7wK69NKKvIEkUOjkRpAZ5K81hQI/+tJuHSLU1+Y9sx3oZpxlQ02Gw9kTFMT2F709CLj2zxUs2zhwYXkuv96c4vVBhVqim+VLPStFgJXO4a74Vl0j7OyTBqODDsQHfBQtDD9z97Ax12Wj73FJUjVkdAnZ9TGdUEfkkqHOmsasP0FKXXmDZQTWtravYhcbCeCPrme6ePPIwSTCrqRlp8ewOJmKVouiKIPCTt4J+Rg8XTzcee0=;jpSPd2YGOqgVWLHKF14muQ=="
 ---
 

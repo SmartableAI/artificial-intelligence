@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-06-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
+      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
       "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
-      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in",
+      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
       "sourceUrl": null,
-      "webUrl": "https://www.wktv.com/content/news/573302281.html",
-      "originalUrl": "https://www.wktv.com/content/news/573302281.html",
+      "webUrl": "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "originalUrl": "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg",
-          "width": 640,
-          "height": 380,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,14 +67,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "http://www.wktv.com/templates/AMP?contentID=573302281",
-      "cdnAmpWebUrl": "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=573302281",
-      "publishedDateTime": "2020-12-05T09:41:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "publishedDateTime": "2020-12-04T20:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WKTV",
-        "domain": "wktv.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -83,7 +92,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
         "AI Ethics"
       ]

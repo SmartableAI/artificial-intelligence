@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/getting-there-structured-da
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/"
 type: article
 quality: 120
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Building a brighter future with robotics"
-    excerpt: "From exploring shipwrecks to air-dropping supplies in a pandemic, U of M faculty and students are designing robots for the 21st century."
-    publishedDateTime: 2020-12-01T22:26:00Z
-    webUrl: "https://twin-cities.umn.edu/news-events/building-brighter-future-robotics"
-    type: article
-    provider:
-      name: umn.edu
-      domain: umn.edu
-    quality: 54
-    images:
-      - url: "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/banner%20robot%20hand%20-%20news.gif"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "XygyDpPv9PYNuyMUVGtg6baN//AQsciHOv61JC9iprgBb5IxZQoG+purKT3A03HTqpvSb1/3hgOCkRulZLlyOlA1+4KCCrL9UwMCSfci/5mhf8T4+jahF2SHAPgwW4AUIqtGbhva8YRLS0LAdVpBkYBCoLWJvrSjZZbl6c6CgP1N8epd6MNy0U0XLlIQQO/MlhwnpZ9BwCLCxiuSuMBPkzDKIeh3OHzycZrt1fWezS/lgZwlMwkTXxkylC+Q+SMuHrGAEskkOtzy6a9/W47va+2WZZ4+Kb20P7TZz+S2wYRzMxi6ATDhA+W/KA+sGF7+P5Jq8ueqNkcs+NKZVTsoCfG0LuTCk5rrbtCWm7b4/ihtEBh9OHhiRyKFnhQJ0lTF6XvmqGycwSljq6UtXDq6Zz0b9vpx0X7CCVSf3B1+caRc4ayKMZIKouC8dQ+c8n4PBW2wb0G9XjxQMc4Dp/TfTXSN5zU3YTsmP4Q9GBj8sHmtPgqXtE1A+ZyAaPa8v7jvzKQrUJrsVvCs2mXby4aySA==;fHEk3xDbIeWbhEFPR505ww=="

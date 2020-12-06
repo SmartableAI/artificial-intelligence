@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 881
         isCached: true
-  - title: "AWS re:Invent Day 1: Top 5 announcements include machine learning, storage innovations, and container capabilities"
-    excerpt: "CEO Andy Jessy covered 24 new product announcements in his three-hour keynote on the first day of the virtual Amazon Web Services event."
-    publishedDateTime: 2020-12-01T21:49:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 101
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/12/01/ca41b574-2710-4c6b-a5bf-0d96bd8aef70/crop/924x541+0+35/resize/1200x/e8ebb2fdcd8f14e77e335f6234a8b731/serverless.jpg"
-        width: 1200
-        height: 703
-        isCached: true
   - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
     excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
     publishedDateTime: 2020-12-02T01:57:00Z

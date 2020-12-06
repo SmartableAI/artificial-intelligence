@@ -2,11 +2,11 @@
 category: news
 title: "Top AI ethics researcher says Google fired her; company denies it"
 excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists."
-publishedDateTime: 2020-12-04T05:51:00Z
-originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN28D3JN"
-webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28D3JN"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D3JN"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D3JN"
+publishedDateTime: 2020-12-04T05:52:00Z
+originalUrl: "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP"
+webUrl: "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28D3JP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP"
 type: article
 quality: 104
 heat: -1
@@ -493,6 +493,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "7Hf4TYgUyxHMrBbfbY8yQNlFcOSH+UbM+75CQWUN18fGgT509fEtp6DLLZgdBJ6pqEYisJpd+s0498RsvifuH8uGYaJ/SEPTNkLNUib5RYuo+ugzItciLFh8l1h+zEsKYoMi/vWJjuLxQXg63+OgRYEzjmCmOHil/uZF+s1MMmYXzsWCQqkm7ZKHAXBLjSuQoEcdtVSnVjIRpZ2uS/G7YEIyfEF2ERapALuoYYtlheKAHWPH8hJSaeA6qCi2YC5VuDH9D9g7rbyfJvmonoHVTXYngXhkQuKOEznHqiIiSj6+FFKeLOk7i5Ni0bLwhJK8EabM1khUNN7plQfKTLp3QhJbet7Ge1tcAJZY9waS+s55fxkC9O7ADqCr7I3dgQe3YKwVdkPUhd1YvCSywNRt426g0AJbdHKLj/RQozb+xq1Hk9fWmNH015mRJupwRQvZND67pC3JBfDfUGRzgCVumGuG+72Hi3mBTdxF6lnULfOJE79eQ5xqiINy58t/TRfHtcL/Qck7iKACcouZtLPOBw==;iPCC61ENGb8AsLQbdeYZPw=="
+secured: "y4xbHpPz0zwsDNdNDQS41pIbfAv8EaFgwOM47KFC4u6AqzJSccUzWjR2Nlh3u3+76p0npqu7V3JudEW/v/QCafR+yvDP3nxN1hpPxeUT6gL0AYgEhvqa5RsyUDtSuZYdlRDZ9yEXsSYLsjKjARJR8OZJFuFktfAtbQkQI3KfIwVkaY+HMe1huORISOk+T0SXXNt5KumXECxeO5ZoFyVBHGyOZ5y6I09/qAruHhyh0+Ju61fDmaZ9XsiS7ywUq1uSwJ7hChseuVKZRLYI4sWaWtuezmuAAaMZtDYOjnjnxGwE8YfUDB3PL9lpKJ+kT8OthaVQg6XKvL3rTQQGtGh3TA7mRY+VFUsDiVqZWAAYjYY=;LAyhMctt/+OzrcoFqfQsMw=="
 ---
 
