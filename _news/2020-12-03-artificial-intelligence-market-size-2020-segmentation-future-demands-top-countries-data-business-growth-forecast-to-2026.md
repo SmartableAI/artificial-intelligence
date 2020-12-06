@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-03"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -28,29 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market Size, Share, Business Trends, Increasing Demand, Growth, Forecast 2023"
-    excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for computer vision stood at over USD 9,"
-    publishedDateTime: 2020-12-04T12:00:00Z
-    webUrl: "https://www.dcvelocity.com/articles/48238-computer-vision-market-size-share-business-trends-increasing-demand-growth-forecast-2023"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 28
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/89b71c25-6d63-44fc-88c9-d7760606ee76.jpg?crop=true&height=430&t=1607020726&width=640"
-        width: 600
-        height: 339
-        isCached: true
-  - title: "Worldwide Emotion Detection And Recognition (EDR) Market 2021 Expansion, Development, Technology Leadership, and Forecast by 2024"
-    excerpt: "Emotion Detection And Recognition (EDR) Market ” report provides strategic supports mentioned by the business specialists with market sources, amount of manufacturing cost structure, raw materials, forecasts,"
-    publishedDateTime: 2020-12-02T08:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-emotion-detection-and-recognition-edr-market-2021-expansion-development-technology-leadership-and-forecast-by-2024-2020-12-02"
+  - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
+    excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
+    publishedDateTime: 2020-12-03T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,25 +2,26 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T14:23:00Z
-originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
-webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+publishedDateTime: 2020-12-03T05:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Purdue University
-  domain: purdue.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
-    width: 800
-    height: 400
+  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+    width: 720
+    height: 490
     isCached: true
 
 related:
@@ -70,22 +71,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
-    excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
-    publishedDateTime: 2020-12-01T10:41:00Z
-    webUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability"
-    ampWebUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 51
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-09/8254EF84-240C-4E08-A875-407C5341B341.jpeg"
-        width: 640
-        height: 384
-        isCached: true
   - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
     excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
     publishedDateTime: 2020-12-05T14:30:00Z
@@ -112,6 +97,6 @@ related:
         height: 372
         isCached: true
 
-secured: "6Ln9auIYrphtAo/fIgQ6R2NmYlgm19kMr7tnPa2Q3cO3ZTwiKhlJ79664MxjtoTVwCf1GCAHZY1PGV0mpTix64f331SJzSZTjO2Z3dKc4JAS3k5HCox9gKe6MZOofBi8iyM4nF4erqSWBpqpNXEOHye0D0mgklSNqikTAQTChnayLg4sX9OW53oPh6NgfPQ8AonEe207bDA09PltDQvit42pB985mLwXBlzplj8f4yH20qdLAs2RjccCwsd6VdZBf0LkMJ4Z0xQxAvj1GjkLPncohBR8pAeIqjIDXns721mFWfirqsfuFTNnFLOEL8yiXrOe5bQM/F4Kg4T4+qWaHtxo/rtH9AQVIjllnGZVaFI=;yCKGNbvjpmNmU2TWPxR6yg=="
+secured: "sZzy5JrSWcnlDY+L/SMcepL7ehBIxVFhMlFpzTKAKOQlQOiiOyfurRoZ/wbBgKHkAGUz4ISGDtAiIgCNecrTs8Y30dKdZZ7pgLYFSlCQyA45IttJYCPj+EkYs3lTMP9KzwqH+bCSLW+K2WMf5nEgNw8m7/IjOwcsxr86s/1MvZWEGvD6f/apYo5A/q1xcFwDLM/AW+3SCb5LzuPMzJzTEZU8W/cd5Oy8EI/g6Hqk96fkhcYj+6H2hJPkxEMdgFEX23h/GsMLcoyq07WYhAX1hwjexT30wc14nHcBG9eRr+ywfiecosrDeCeCxq9NRv5QuLJP0Kle1Kz1HwfGq4cp2xyoIU/09YwN5pBDuPzCB7Y=;MVUQa0f/H3EQ8pblB//V8w=="
 ---
 

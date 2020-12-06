@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM ) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software Platforms 2020 Vendor Assessment (October 2020, IDC # US45358820)."
-publishedDateTime: 2020-12-02T14:54:00Z
-originalUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537"
-webUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-lung-disease-23cc892460107a1d1430227e43547537"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software"
+publishedDateTime: 2020-12-02T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-301183522.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-301183522.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 209
         isCached: true
 
-secured: "IRyzT+hKL5qpGt5M5C2y0pHXejYdhb2QHh1G7szjNMKlmOErhRfqi8FzT8wnnRWF0Ww4MjKVlcEm+BKPJuFkJn6rC7U4ugpPG3aLUbr+hVxDfmqqhGPSMEFGd37m2M3eMkwbBTIZ7Wderkd+MJcuhCiUaw6ftB8NnDBUcd+rrnzuHlwtuI/jcR52cqXtT39DlEyrDS+GZe8Q6eG8aaBSeYoReohC2MhMY7H0ZOciBmoMt2KSgim84MHgIVjiJODDGIzIemHpx29HbfftndYTLmmw+IVs8d//fIhbVkhoIRgf/ULQl1atxMwjB/zCgdK3+2s4m+RxXr1fXA8eX2XgYollGMr/9xhPxKDgeey5u+4=;9TuYOZMBOo7Y3w5iOb5yDg=="
+secured: "MAIdQjX+T0Yv0J6DqxeEuTwBTXYTS9Z76QRxu3Wgt2jjsDdvpgrENKan9G8LRqQOb9o9sHUVKqk8IW4J1qTYEK62Ic+R+84N0HTPAOgpfhOon+uDXfWoH9RO9OvujHeCvmWj0HXHWqb5TjjkvPpr07rFda1UuPola6l4S8QD9PEGgDU5ssykrkUPBFSZgyow/pYYAGoQuGLpJsdZhobU4JYDPv4xB/czk4HYkErOTuFlQpLLg0dy88Jn7R8HQg1EbCSdIdAop8OeBfqDqZR/Q1AUfFqGLgvx5lOsicA10BPWJhw9lDYiuiNkBKJdoAODKhJlE7nrWZ7ppeOFAJRkprbrNik8lQVRVe8G/5f/foA=;2kHfk/y2pePq2R5XiACTzQ=="
 ---
 

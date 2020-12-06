@@ -233,20 +233,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Google’s Deepmind has key breakthrough"
-    excerpt: "Solves the problem of protein folding and confirms the existance of rice pudding A 50-year-old science problem has been solved and could allow for dramatic changes in the fight against diseases, researchers say."
-    publishedDateTime: 2020-12-01T09:37:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/51975-google-s-deepmind-has-key-breakthrough"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/76d9092e1573cdd08981aae589827add_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "DeepMind's protein-folding breakthrough triggers fierce debate among skeptical scientists: 'Until they share their code, nobody in the field cares'"
     excerpt: "One professor at the University of California, Merced, branded DeepMind's announcement \"laughable.\""
     publishedDateTime: 2020-12-02T17:56:00Z

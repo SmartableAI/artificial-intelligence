@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/11/angel-alberich-bayarri-1000x600.jpg"

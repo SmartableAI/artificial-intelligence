@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-
 webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Model Predicts the Risk of Developing Breast Cancer"
-    excerpt: "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer."
-    publishedDateTime: 2020-12-01T09:06:00Z
-    webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
-    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+  - title: "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics"
+    excerpt: "Neuroglee Therapeutics, which builds personalized evidence-based prescription digital therapeutics for neurodegenerative diseases,"
+    publishedDateTime: 2020-12-03T10:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html"
     type: article
     provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430.jpg?v=11002122"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "A Machine Learning Solution for Designing Materials with Desired Optical Properties"
-    excerpt: "Berkeley Lab scientists have developed a machine learning model that can be used for calculating optical properties of a known structure, and for designing a structure with desired optical properties."
-    publishedDateTime: 2020-12-02T15:08:00Z
-    webUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-for-designing-materials-with-desired-optical-properties/"
-    type: article
-    provider:
-      name: Lawrence Berkeley National Laboratory
-      domain: lbl.gov
-    quality: 33
-    images:
-      - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/11/1024px-Quantum_Dots_with_emission_maxima_PlasmaChem.jpg"
-        width: 1024
-        height: 576
+      - url: "https://mma.prnewswire.com/media/1357579/NeurogleeRx_Logo.jpg?p=facebook"
+        width: 1956
+        height: 1024
         isCached: true
 
 secured: "7vGhazO0eRJCuXcq2kBrDvoDbUR9CEJZpv4MHIFHywNIJ+ngH3GJYRpXNfcl1iElmqhbM0zYUmbHB20GXLs4Qe0JlaLJj08iUkDYqBum1niGIcAydIMndi0GTxMULQglrSU76m2u79EfVzDjkYTWrYhsH3vg+Be3g4Z71B3eWlEUS4QtDQ2Xi8Ptbxw+DasndSye2hxu6Tq3iMMkHxUGTD8NzOb+Oedk72WKROWpRGeh0qaAiJxpXQgC9QBLVHJyfu1rrqxWgWanpqJz+4spvOnSLsyxBkyhlAlNSescWNN8Kp5TSYx4DR45c8gSMkfB6FueNXnsfBKLyaxphW4h58muTpNnrvTiJSZ+9NioplnL865UL2xb9hTqH4tfGH4Y2Np8L6o53DJ2OU4nLKDn9ZevQDxSfCECKwdV2v8oHfMwovFdgaPpxlN7zj7hrPT6rClCMo5XzTc0RLIUtTeR9TQNpMoV0lbkaCqH2d9Re2k7OZs4VapE6o94Sn0P/7zw1bP1iILcAgBKnUL4og4KhA==;QTlcVblrKyDKQo6CKwGBaQ=="

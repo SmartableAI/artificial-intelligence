@@ -43,38 +43,6 @@ related:
         width: 450
         height: 323
         isCached: true
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Sold by Raymond James & Associates"
-    excerpt: "Raymond James & Associates lowered its holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) by 27.0% during the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2020-12-01T09:15:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 67
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
-        width: 450
-        height: 323
-        isCached: true
-  - title: "Raymond James & Associates Sells 9,972 Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
-    excerpt: "Raymond James & Associates cut its position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) by 27.0% during the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission."
-    publishedDateTime: 2020-12-01T09:16:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/12/01/raymond-james-associates-sells-9972-shares-of-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/12/01/raymond-james-associates-sells-9972-shares-of-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/01/raymond-james-associates-sells-9972-shares-of-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 63
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks.jpg"
-        width: 450
-        height: 323
-        isCached: true
 
 secured: "lkHEBsJcRsxnmsThXlY8YVgaj93/Z/UUoZcl78Q/VlAGo3qP+TeWt08KHJs6Haoxxd5Kos9kC0587FBrj2xLs3Jen+twAiCM5vRy1IbTO5IRLvHlxoh5tSi5Gu5vf7Tijnyz7qv/L64xlOcGgCCJHtpLkIes8HV0NiNIwyWfOxrz6OppYhSwwlYKiUlcCPwiRNx1cObVHWm5BuBKRNwuXtlDVkfFdJR31budiHLbbg1dGloqjEnCBNidFWsbo6KSfk+/xAFtK+HUDt3N8L9hc91aThEQHsaCP/xrrChBNW8zjN86Li84L0q+EItrG4uUJ49psr76J3i0uWd3YkjVTP4Do8R/6g9Trzly4x9IC/+yu5Uak+N19WN3jlMPZ2ojSXwOEsubg91ssV43SQGnpiCnUUagcbcBseZAM/oShjrLh/O976qqBGqTxO1KqXVkSKQoQQN4+b6WGN0LanG2gG9NXJohi9hGyaE02CdZ27wKe7TjqURp0W3JyMpg7cO6oZQjODTRnibMwCjr6Be8Jw==;FmDx+76Nj1/ys9fcQtV6Qg=="
 ---

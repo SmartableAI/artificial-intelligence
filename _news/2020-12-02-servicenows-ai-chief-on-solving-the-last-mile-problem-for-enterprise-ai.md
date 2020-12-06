@@ -32,17 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "ServiceNow to acquire Canadian startup Element AI"
-    excerpt: "Leading digital workflow company ServiceNow has signed an agreement to acquire Element AI, a Canadian startup focused on building Artificial Intelligence services."
-    publishedDateTime: 2020-12-01T09:26:00Z
-    webUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
-    ampWebUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
 
 secured: "N1HX5wdC1L0LiSATNCnwljReA/ZYdaDxXxfug3NEIwqPa2B9nPCRdsLqNenayh82Fu2cbJzbI0aSlBzlwV8T9P582IxJ8gjgw4W9ErTjG5MVbUd/q8JaF7NG0YBG8m0ZvgzaYX5Boj4V3cFGS9bUrYeLxgQ9vJtcgkKNtqyYP4am47YT5N0GPerceLL5F7XsB+rbTRigOaTXwWCVKbhZV5XVO2mqks8KWQ12Y+y7/ur9bfRghb64fJ17f1JZl71US5BQV1z2HinDTHJrCmmk1NJgAS5qnKEpUUGTqXV07vdntp2s5Re8JbHX8+XyqYFV8vGRPlCL5toPXm4s57IAeFtoGECAZNstqPZ6cSwfI+LkGpV7LFcX/++bEZ+R5RPVMx+YLqDu2y5mbiMCDcuegWxwai7bko64oIy7DZUPO9Zs0GSVpUL8BShmqSfJp2UPb+R0xnp+u9pgx2HDvy14eeONnCCX6Y6MKd/6apQkXWROaz/ehBefVR+jj3A5x+XMO0L3wBQrlWpONtntuMfTBg==;byQU2pqqzq9HV5AEjTPbSw=="
 ---

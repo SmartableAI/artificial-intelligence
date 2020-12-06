@@ -122,20 +122,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
-  - title: "Artificial Intelligence Products Market 2020 Business Scenario – IBM, NEC, Nuance’s, Google, Microsoft Corp, Ipsoft"
-    excerpt: "Top Leading Companies of Global Artificial Intelligence Products Market are Open AI, IBM, NEC, Nuance’s, Google, Microsoft Corp, Ipsoft, Google, Rocket Fuel Inc, Fingenius Ltd and others. Regional Outlook of Artificial Intelligence Products Market report includes the following geographic areas such as: North America,"
-    publishedDateTime: 2020-12-01T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2020-business-scenario-ibm-nec-nuances-google-microsoft-corp-ipsoft-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft launches Azure governance tool to map data"
     excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."
     publishedDateTime: 2020-12-03T19:47:00Z

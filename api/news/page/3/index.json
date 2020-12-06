@@ -203,10 +203,10 @@
     {
       "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
       "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
+      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F",
-      "originalUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F",
+      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
+      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
       "featuredContent": null,
       "highlight": null,
       "heat": 166,
@@ -223,9 +223,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28C22F",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F",
-      "publishedDateTime": "2020-12-02T11:21:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
+      "publishedDateTime": "2020-12-02T11:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -380,6 +380,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-a-machine-learning-solution-for-designing-materials-with-desired-optical-properties.md",
+      "title": "A machine learning solution for designing materials with desired optical properties",
+      "excerpt": "Understanding how matter interacts with light—its optical properties—is critical in a myriad of energy and biomedical technologies, such as targeted drug delivery, quantum dots, fuel combustion, and cracking of biomass.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.html",
+      "originalUrl": "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/3-amachinelear.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp",
+      "publishedDateTime": "2020-12-02T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1194,58 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-this-company-uses-ai-to-outwit-malicious-ai.md",
-      "title": "This Company Uses AI to Outwit Malicious AI",
-      "excerpt": "Security researchers had devised a way to attack a Proofpoint product that uses machine learning to identify spam emails. The system produced email headers that included a “score” of how likely a message was to be spam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/company-uses-ai-outwit-malicious-ai/",
-      "originalUrl": "https://www.wired.com/story/company-uses-ai-outwit-malicious-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fc6d91f1e74aa94c3b19aa6/master/pass/Business-AI-1203770609.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/company-uses-ai-outwit-malicious-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-uses-ai-outwit-malicious-ai/amp",
-      "publishedDateTime": "2020-12-02T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

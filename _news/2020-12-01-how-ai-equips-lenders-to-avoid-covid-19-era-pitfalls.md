@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
-    excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
-    publishedDateTime: 2020-12-01T10:41:00Z
-    webUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability"
-    ampWebUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 51
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-09/8254EF84-240C-4E08-A875-407C5341B341.jpeg"
-        width: 640
-        height: 384
-        isCached: true
   - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
     excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
     publishedDateTime: 2020-12-05T14:30:00Z
@@ -89,17 +73,17 @@ related:
     quality: 51
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T14:23:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
     type: article
     provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 36
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
     images:
-      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
-        width: 800
-        height: 400
+      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+        width: 720
+        height: 490
         isCached: true
   - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
     excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."

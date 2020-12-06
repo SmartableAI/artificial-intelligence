@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-sol
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -218,20 +218,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/1031x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e&operation=CROP&offset=80x0&resize=951x535"
         width: 651
         height: 366
-        isCached: true
-  - title: "Google’s Deepmind has key breakthrough"
-    excerpt: "Solves the problem of protein folding and confirms the existance of rice pudding A 50-year-old science problem has been solved and could allow for dramatic changes in the fight against diseases, researchers say."
-    publishedDateTime: 2020-12-01T09:37:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/51975-google-s-deepmind-has-key-breakthrough"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/76d9092e1573cdd08981aae589827add_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "DeepMind's protein-folding breakthrough triggers fierce debate among skeptical scientists: 'Until they share their code, nobody in the field cares'"
     excerpt: "John Moult, chair of the academic competition which heralded DeepMind's breakthrough, defended the findings, telling Business Insider he had looked at the results 'very carefully'. Academics and researchers are debating claims by Google-owned AI firm DeepMind that it's solved one of the toughest problems in biology,"

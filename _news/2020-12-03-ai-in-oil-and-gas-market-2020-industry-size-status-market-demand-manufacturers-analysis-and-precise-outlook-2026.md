@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market
 webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Forecast 2020-2029 : Strategic Industry Evolutionary Analysis | IBM Corporation, Intel Corporation"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Healthcare market 2020 by Manufacturers, Type, and Application, Forecast to 2029 by MarketResearch."
-    publishedDateTime: 2020-12-01T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-2020-2029-strategic-industry-evolutionary-analysis-ibm-corporation-intel-corporation-2020-12-01"
+  - title: "Artificial Intelligence Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
+    excerpt: "This “ Artificial Intelligence Market ” research report delivers various aspects of industry including market growth projections, developments strategy, and prevailing dynamics. The report includes in-depth insights of Artificial Intelligence market size,"
+    publishedDateTime: 2020-12-03T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

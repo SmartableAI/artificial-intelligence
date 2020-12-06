@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-publishedDateTime: 2020-12-02T19:21:00Z
-originalUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
-webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28C22F"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F"
+excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+publishedDateTime: 2020-12-02T19:28:00Z
+originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
 type: article
 quality: 106
 heat: 166
@@ -118,6 +118,6 @@ related:
         height: 640
         isCached: true
 
-secured: "8d/HdcebS8FLz/H5QuTDItNN+LnJOLmZtckC26rVb2XUEgh0kGESgPOfRUbwaBAJGs7hUWZ4mcVf09Cq/Feh3XHzF006wCKg0l82xKbxQgbM+EOyxa4sA0LQfiurfICqCQ3XYSwO2eC14evM3062leBrll13p01bRvnbEMgEhew8F4mQyWDwRAvtKuVvd1B6HKVfXcfPG4zVCGR7Bl5SwLNSIb1BrpUJPiWFuKlr2G08lRfETzqeO6s7+vRaiz+G89cXNIE5TfNK7y0JVnpGoa67yw7aNsUO0WhNvSm0xcTbm0XgG7vxcOxd1vAVs0A+Hr+F5nOuYEUDVn4Yi+tJOCKg4itQ1r2Fxvp6uoCY0F8xcTydbeGyxSx/4nHcGAhDF9te9OfdqvrlCKuCMcs1Z3Q6TNiUswITeRSx3BfrZC8LU2BOnVhOOKXdP9YkvvxJbmypU/ewdNxoXeYhIKsXlGqo4iTgiAiLReDwvil+7Nbn8ZyMOFnCReXpfgs51sWX5/Iq2WJvuZqHU95NT+NkzQ==;wHSe1JTSgx/dizSr3ssq8w=="
+secured: "T/Kle8WV0lDF/2o8XmMo4yUaWeYGbJbUZg2vVKWLCqeKUun+9j0QrvdhVKxTHtz131GkueofEKGKTVSLO54CaJiiobzuatyxbpOL36V6oMsFZ51DT3os6JiLJPZPXvUN0lzqsUebIcnRp0mTdVrWm8Ew0Yy5OSJNjGZ1lw140tSs04G2cRUNWE4vN22Y3KD69jfgikoJM7VR101jZ3FMJRxRMCD9R7X/qPS0PAc4jh4x787WoMICeX7PFVJEEhtFnIHh0evHDI7fb32ermzorZs6PUCtIG8ByaXRUS4wGW/XcX9+cF4je+vnBAmPZhsyN9qkqJlk2fHwwQ5Zsvr2DF6PlfLe4cMwo0PdkClLBTA=;SXd3RieJ+KqSMei8kcki9A=="
 ---
 

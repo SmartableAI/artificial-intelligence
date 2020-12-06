@@ -2,6 +2,48 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-11-12-choosing-the-right-ai-for-your-business-goals.md",
+      "title": "Choosing the Right AI for Your Business Goals",
+      "excerpt": "Artificial intelligence (AI) is one of the most powerful tools that can accelerate an organization's digital transformation and ultimately transition to contactless remote work. To leverage AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/81e7a08f547643258f6f1c47ac66a07a.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/choosing-the-right-ai-for-your-business-goals/amp/",
+      "publishedDateTime": "2020-11-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-neural-network-ip-listing.md",
       "title": "Neural network IP Listing",
       "excerpt": "Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... WhisPro is a neural network based speech recognition software ...",
@@ -1165,58 +1207,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released.md",
-      "title": "Equitable tech: AI-enabled platform to reduce bias in datasets released",
-      "excerpt": "The platform could promote equity in academic admissions, credit score assessment, hiring, academic admissions, and more, according to Synthesized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "originalUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "publishedDateTime": "2020-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

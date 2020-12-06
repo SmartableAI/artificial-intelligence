@@ -1,13 +1,13 @@
 ---
 category: news
-title: "A.I., Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
+title: "AI, Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
 excerpt: "San Diego industries that embrace artificial intelligence generate an estimated $33.3 billion in annual gross regional product, according to a new study."
 publishedDateTime: 2020-12-04T17:00:00Z
-originalUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
-webUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+originalUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+webUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
 type: article
-quality: 38
-heat: 38
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "oqanHK4+n/xa5g+e82xa5orujrt6lAXUfyUOSa3JdzJeWIEuouisuAaaDqv9140RwcKMp7Oy+AGBf0HBCkOcYu+yHNx46TJbHWh6gaIXWD1x7zS0oBDG7stYTsfk/IIclfDRFDs2DZ4xJBmd7IoGAnqhSCOKvRkG37XsqHyfE0hcHFw/LmbAX10N5bALjKjyN7ia43/S1/kBCCecGFNgIu5igk0nvx6hr5lSdh8GYqVTQ2uLS5KpZA6ZTY6ALmrjTgJMtjBtzwJ99rXe5UwljmP32FeW9UKtHuAU271rZjEh5atBIXGa20RpanFGrNMVhfeywuEehmh3+oVetUdBo2WE9SFMfVTgw6luk27BIm9iOg7tQvGMuDFH7UKDefYwDuQTaffrSrVJA912lxD6EmrdoR40PdkNyZWQJVc2Y087dKQQ5ABwTHM12Bj2RvcBUplJATGBMLfLE2vLhBVHfWEDUY4uHMu+TCWILEhyOQzHNQqJPhne734zm4MY3JatxWc5lcTIoR0Sz023GanAgQ==;aWxEZ59t4s5ICXcoTI6UEA=="
+secured: "lPexwpZFskaGPijlMnWo/QxVz/S01gJgGFS9DPeusieZmsGvjgPCOrXxMSdWKRj140+hphoI1zytRPYNLoq8alH7X1bsrP3iaDG/mkyGOa/BVLhPLEpvFlHnD6Fz2hvv6EkWQ9isLjp6d1gwtnPN99XqnH4vljkspAeFtgXVR9AN2X/XuI4x4mbvz6YdSA/uOVpQB6lI/Jwaj7Q6Fba6/hLbavXQMQHZetnAgAxrpF+6D+zAJ59ySyncXvMvcfYFWvpkihLZy7R6cUC+GdfmTODC7GEfBqI13ZvTqigxTT4eP2UiEm48LUVr1bBHr1yKmxjJy8JOG8aZ+5pqa15F/MgcqxUz2hlBX2uVq8MUrVU=;EY6J8FTaHt6WgR9kz4UewA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-opt
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Phys.org
@@ -38,6 +38,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "A Machine Learning Solution for Designing Materials with Desired Optical Properties"
+    excerpt: "Berkeley Lab scientists have developed a machine learning model that can be used for calculating optical properties of a known structure, and for designing a structure with desired optical properties."
+    publishedDateTime: 2020-12-02T15:08:00Z
+    webUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-for-designing-materials-with-desired-optical-properties/"
+    type: article
+    provider:
+      name: Lawrence Berkeley National Laboratory
+      domain: lbl.gov
+    quality: 33
+    images:
+      - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/11/1024px-Quantum_Dots_with_emission_maxima_PlasmaChem.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "YTdr+bsEKspG+10GjEKAT1tXEH6sIr1Saw6EkrkfTpRkXLatEGhNYuGRdyhaFOnN7UZQ6bhJC0iNgCnOLUIH4LVE7R0PjuwC7npG5O3BPEtsyXzB4Ue0xyq8UqPnMbhHbkNTVFBkzkSFobIVSesfxd9+7IcJA+dm3P10zXaXN5Orne+PhOoYTMIVEWVz9sLz4d56pMNu7RN7jHg+svQ99xjFOYbdl71LN3zW/K6chOvyy/FLTmhffHwmnW90m+kx+wsVHA+ZtwiBrzQ/R27VSa1MC/FhvbQTuBw/cF65JScynkaLFyJXWWARWZyIY1arAMJyE01qE62tOSAHP079gXu5H3OP6tb9+zLeMXxtYBJqLKCMJ6azMrU2CAwrmXbDEqz419nrVBoHTXBsNvDuJEnOl5AJUgk2aBrs9L/P11h+S9K2fhLy/ajp7f6vfHo39uRHWYErqieNSCRhYEHRzf7DGkW9KGNIDT/+6/xl2SeBIz7RvpDp1cYBqM/OOKvpvc9HZAo8OqNx5r+8vlJGQg==;05+GonNKuoqiEJEERBdIAg=="
 ---

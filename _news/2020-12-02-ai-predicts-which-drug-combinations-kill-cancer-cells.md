@@ -38,20 +38,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial Intelligence Predicts Drug Combinations That Kill Cancer Cells More Effectively"
-    excerpt: "A machine learning model developed in Finland can help us treat cancer more effectively. When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies."
-    publishedDateTime: 2020-12-01T10:11:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-predicts-drug-combinations-that-kill-cancer-cells-more-effectively/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 29
-    images:
-      - url: "https://scitechdaily.com/images/AI-Perfects-Drug-Combinations.jpg"
-        width: 2100
-        height: 1500
-        isCached: true
 
 secured: "3XSjfoWRj3NduITS7CySRMQhzl/uxAQNxFrFX/jHHsCc+6TI7DichPSdWH58GVFkAGjU2f52fIz6M1auINAURWtMQPPq4Cpvt0axgHSTvPwjdhbhEc/RoZG4x/KSE2cG1nSGmp1kJuvKklqAzlqVN5RnZf8E5B9MOkBHZZ0cvjjNnEguECbFLD8Oyjk4ljNxdkf/CA9xxMwq0Sy1QdBZzyGwBe5NVkxEPhOrt9tx8XCb7/+JBrGaiCjWxfCqWLeQWKMMjlQMAUbAdQTgul3/x+RiQ95A/CjW+VI2lHaOYjxPW5X1oyGZZBzQlNTPMrZKF3Uty8AGPfLr5+sVm2H2QlhtDOgICPwrRco2YVin95Y=;+NY9lCavl/GQMPgusSaXPA=="
 ---
