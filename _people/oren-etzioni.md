@@ -14,7 +14,7 @@ website: https://allenai.org/team/orene/
 twitter:
   username: etzioni
   url: https://twitter.com/etzioni
-  followers: 25342
+  followers: 25343
 
 googleScholar:
   url: https://scholar.google.com/citations?user=-hmxit8AAAAJ
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Oren Etzioni"
 
-secured: "lu20GskjCzIUFHSnckT4BZa4gzk4tMh6tc5UTuKg+k2fhw33VvrfHu7z2HQGoLlTglCBGf7YRx7vzTiKxlJIl/0SgPUHfcInHORokyjNE/UAYJXioZy63NgvEtsWqfjFVCunvfQnCopJ5XTyazkbyeA3WmYZIdcvCrzmERwZQjVBUUt8ucGEBaCTaAns9GWHkFxIlRQdz+n7Tua9AyLiccJD7YDT+brGtZnrIx4ZvYJ9BbM1PTQ2WPAhnRuBPDr6px5fPhJKYq6ZcPlibtynvyO0YegEMt+dKigVYcHC4PgNvNTbfUJ8Hlpw6htVkPkJqcWChl3MVJ8YxgRIqLBU/12dtwJt5xS4RvlAeMCJo8ztHhUNF0CWcXpfCpsivys93T/e7PMuh5DnRfSXmuF7INMy37VhD5n1BR/cL4XUgHQ=;cdbeuDVxY/NwRDl3pMh85A=="
+secured: "DSuydopiD/hS3XI5LX6etWpTH2xL4AtY/gW4yDa+ULPyWVHrT+XeF6FX2FQlJXR0zmdAAv5/9E2RkhBAstYfP24bwmOBzehNs4tPMqNIVR5y7kad/v1yiGXUhA27sxg8hL2f1J2LLbUJn++yQkw6PVZtL+CJLeWszFkQFSSK+O33Mfx21ufnwRwRPOs9BIiZJr55oOxSGe9XDt5SmemcOex2o5WwsiMARTpv/NzeFfO5PQwyIGBsfXHLLC/nT59jzG2iZE4N1HVIyH9yYvM8Q/SFvdE4T42xcth/NtllyNYSHEIB1vu8xcwp7sbz7Bpa5ilBVhq0Fic2mYitqze6ZWLZ+dZXWKrUeAoVdR2hfAPCqWHUmPiuhrYh4svYeIPujNzn2IGqoSrSKlLJpz4tWy3qisOtwECNTY2+sYMbnK4=;F42kNsGviNwgBSyDhVlOHw=="
 ---
 
