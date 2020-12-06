@@ -3,13 +3,13 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -70,18 +70,7 @@ related:
       name: AMEinfo.com
       domain: ameinfo.com
     quality: 17
-  - title: "Amazon delves deeper into voice recognition, call-centre work as demand grows for cloud tools"
-    excerpt: "Executive Andy Jassy said COVID-19 has accelerated businesses’ cloud adoption by several years, and more than 5,000 customers turned to the Amazon Connect service for call-centre help during the pande"
-    publishedDateTime: 2020-12-01T20:17:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 13
 
-secured: "9JzB/OMir0nECe+JsFp6Bw9I0AJSXe3AB8+vNmKYpPRB1/YvnxEYYe7hJ31uUr1NOjAlzyTI+A3SQL9mbURlcFNYsQwFRV3tdRVO0x53Jgh0gw9uor86Fcoy9v2U8t/y9Wo0bdSpQwqVa5O7S/yEh8I7TD0Ir96cvPBFDrPfwVDcdgnyGJikvqjEvhy8D6a1uYPpGP9aeQk5yU7U0I2XHNjo1E9doRA2LPDhC+xnAYnHuISLZFtebk1Zb5yxMwAqpygSpYSoUn/HIPPHPcTM6IYQVbUVyebv49nzOaN20QL+IfSi8xz8jpM6FK0evhZLAZCduuknI+z0/uvIbP5SoIK/7iKuPE8UrqFn6i4U9ws=;O4Q9t+KSOMpkhuz134LltA=="
+secured: "qW9a66chK0HaBbkOPPdDCmLAWcJxuK/q2EtmpNNoqO4VMym7b0J3wkv0xrLF+CIHnYKyAIwx/2F/Saf5EZCI7LU3uy4E7XNmSoskv8uesH5sauYDFxzKFvriuzACky8QX1A5WigJqwEXSd4F1iwZvrznbfx3lIrcjYS3dQnT+0yfGJD7Mg+llokGdF6VGaxsWuEYRp3fagCC9EGhG81ryByWBXGIoulioozk2gZldukkISL6/MyK+vrxGnUMD2NqZvM8VmNLYPB5TIdb/Ng3wJz18ywkn2h8B8AuFhe+LCKV+6ShM+wHL/SOlUzgyB1Namc5OEGP4rlBUKdLg1rkV8oJFYbEErNcuQ0og4YutHQ=;moYYoc+4SxxxQUDJR38Ysg=="
 ---
 

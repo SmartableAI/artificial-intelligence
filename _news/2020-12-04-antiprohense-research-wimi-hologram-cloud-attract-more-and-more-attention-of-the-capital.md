@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Antiprohense Research: WIMI HOLOGRAM CLOUD Attract More and More Attention of the Capital"
-excerpt: "Antiprohense, a market research organization in Hong Kong, recently released a research report 'WIMI HOLOGRAM CLOUD Attract More and"
-publishedDateTime: 2020-12-04T12:50:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/antiprohense-research-wimi-hologram-cloud-attract-more-and-more-attention-of-the-capital-301186503.html"
-webUrl: "https://www.prnewswire.com/news-releases/antiprohense-research-wimi-hologram-cloud-attract-more-and-more-attention-of-the-capital-301186503.html"
+excerpt: "Apple, Google, Facebook, as well as computer vision/machine learning, are attracting attention and investment from Silicon Valley, China, and around the world. WIMI Hologram Cloud Inc., a leading hologram AR company,"
+publishedDateTime: 2020-12-04T13:50:00Z
+originalUrl: "https://www.nasdaq.com/press-release/antiprohense-research%3A-wimi-hologram-cloud-attract-more-and-more-attention-of-the"
+webUrl: "https://www.nasdaq.com/press-release/antiprohense-research%3A-wimi-hologram-cloud-attract-more-and-more-attention-of-the"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "AKtBdKMOqFeckMynetccMuO2nlhlTEQG7co6K6H2RkH6YeO4Q3GcidZrKlWPTiQL5ro50DZlMrfv8kiompZcSTSJP6txLSn0YVLSm3dOaM66STnafEbnPvECu08Q/sO+nd6pWL0bdDm4wSF34bTzvW2Yuib5nn1zZTQNtLUePyDR6IQu2/G0q57KyFUasmTrhKLNcsNhJP2rgKPJ3EgxwGMfwBlJTTD7UGsAlmfaCaflAJu8xJsPcMxXRsl0ctXZjHoC6aEmxI/g19Nj8aeVTHXelBu87gOuzeD9osAjvqN0TWPHXQ3oODAVejhvQf21t2dh1jeLIDnbv4Y0RlBKhwsZBnMR9fwpEW8bBKyATUU=;5gxh+1PznvYrIZLHOIbz/Q=="
+secured: "VCFn2pB8NETZXrodW/VB/kArLcPqizcVWMsjBH8M/S40ZbqWuKFmbUZ5gbBVq3jKja2aqFSvpC1BYEBmhCALmCqBiLyqYTVm1gvdHhvQpFZmblZXQVSsQpaAls0wmFRFxJgu4whJlmuItfnxvyEcXHbpdGYsiBIqxAmn9bWkKLH4H6SG1pIMlt4EauNi9iHjkYf+1yh4LXPstCn3KsQnNYEdgiYKAjd9K7L6zPl5JAvnpmptmPwaPZpHhP8QDORxgKY07u8SGvevXksfZINOkfWv5P6Cyj+YCvTIwzzVQY7M53KCjxvtm4Sn7mixPHQsM0m+rGyErMnep4o2CvgET9ESuC+dE4I2FixNHFsy9BU=;u/1D+tJ1W9xiwqjpf2vSzg=="
 ---
 

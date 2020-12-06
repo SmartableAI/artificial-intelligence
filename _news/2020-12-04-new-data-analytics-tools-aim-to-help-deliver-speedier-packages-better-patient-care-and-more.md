@@ -45,17 +45,6 @@ related:
         width: 797
         height: 435
         isCached: true
-  - title: "Can Analytics Save Healthcare?"
-    excerpt: "Of even greater significance is the recent move of firms to move past predictive analytics – important though that is – to give a sense of optimal outcomes predictability. Here, the analytics moves beyond “what am I doing?"
-    publishedDateTime: 2020-12-01T20:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
     excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
     publishedDateTime: 2020-12-03T21:13:00Z
@@ -83,6 +72,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
+    excerpt: "December 2, 2020"
+    publishedDateTime: 2020-12-03T02:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-analytics-and-machine-learning"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 38
   - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
     excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
     publishedDateTime: 2020-12-03T18:27:00Z
@@ -96,6 +94,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
+    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
+    publishedDateTime: 2020-12-03T04:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
     excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
@@ -120,20 +132,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
-  - title: "EdisonLearning and FocalPointK12 Announce Partnership to Provide Comprehensive Learning and Analytics Solution for Grades 6-12"
-    excerpt: "EdisonLearning and FocalPointK12 today announced a partnership to provide a complete solution for grades 6-12, delivering more than 170 middle and high school courses along with nearly 60 embedded"
-    publishedDateTime: 2020-12-01T19:36:00Z
-    webUrl: "https://www.eschoolnews.com/2020/12/01/edisonlearning-and-focalpointk12-announce-partnership-to-provide-comprehensive-learning-and-analytics-solution-for-grades-6-12/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 0
-    images:
-      - url: "https://www.eschoolnews.com/files/2020/11/online-stem-education-covid-slide.jpg"
-        width: 500
-        height: 400
-        isCached: true
 
 secured: "U36jiXZWVRrbPXOENPSLUSMB89ZrQmGLXPvWO6PajdBwmJQWDPYBO60tMXPr3bx8u4uVCmyfd3mJ8cfpQc82wu8BCIiocLfPw3ylsbxJZqJv5ZejGjXEb/U4XAFDeiL61VbfhNxSPW9Ktq8sPqHlMAz57q9YPnCH/oWeBxtpHKqQe4qSqjBXRe3Ygqm4olTehX4YCY5kPzT7Ec/qhMgK2xVyvGYjpLFhb+mA6mmdScHDzfPj+jdJCHtxzXv7O/vdjsmqlvRLmdVVyZG52AZHJIHz9gShFfcDVoF0gvIKcX/WkIJd47qApWG7C2B35cRwPWo4bUuBtlbYSk+CudYLiVdw7s8ZIsqpBMUQGehq9EY=;Qk2eM55TZn6A0AuTgUuj9A=="
 ---

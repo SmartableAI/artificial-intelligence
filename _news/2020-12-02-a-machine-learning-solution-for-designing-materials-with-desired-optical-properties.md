@@ -52,6 +52,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "7 free tools for deeper online learning"
+    excerpt: "Spring’s shift to online learning was sudden and unexpected, and despite pockets of schools that have resumed in-person learning or moved to hybrid learning, most schools are still fully"
+    publishedDateTime: 2020-12-02T10:06:00Z
+    webUrl: "https://www.eschoolnews.com/2020/12/02/7-free-tools-for-deeper-online-learning/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 24
+    images:
+      - url: "https://www.eschoolnews.com/files/2020/11/deeper-online-learning.jpg"
+        width: 500
+        height: 343
+        isCached: true
 
 secured: "aWlMTXx08SE+dWgY0rC+A71Hl6MVGEzlGF3B8Iuy8ib7iy6bBIHi4YndqnGqzZ/ZNqMLw1bGDaHgmsTT+1jUgcdc6vozn0fyWoQdyp5LurKcdrBkZ9lbH0xZgTqP8+Lm8XMnppN4X0VjSfBWrnxClY7kf6AYKUchEdx6lWWzqOB76yWdBfrNKHgdPH91G40lmo2w7UHUP3pgXe7d45JXk9KHYIEjulmmv7o8a8FQgWHNSrLuhiJhybZM4DehITRjRsbfWEBax2J4T/BpGIDxp9GPoSJtP2Q+rv99bLH5LwXl/YhDUj5Gq+96YT+d5IgA68/i5A6BhPHVMJ9KCl7/Ukta72h1/AvGcNc4hTjmV7DD5inVMDu4IhPYkIkBQ6otUV/7zehmu1vhz84MrGp1EQD+82M+PzKms8H1VyJoFK7LZ0rPADyCjitrr0oCJFdNiusDpFTzzeFnYJXU10cZKIN7Xibi80Hib+HggAxwvBN/NZ5yqYo+WmGXjbZ3ZR1pBWFwaZUvld7mkhKsWwdudg==;26QNV/1ncRzsLMm0C/fn7A=="
 ---

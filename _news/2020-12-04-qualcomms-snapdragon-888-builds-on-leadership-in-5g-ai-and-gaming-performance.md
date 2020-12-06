@@ -95,22 +95,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Qualcomm Snapdragon 888 mobile SoC announced, focuses on AI, gaming and photography"
-    excerpt: "Qualcomm today announced the Snapdragon 888, its next-generation flagship system-on-chip (SoC) for smartphones, at the 2020 Qualcomm Snapdragon Tech Summit. The Snapdragon 888 is Qualcomm’s first flagship SoC with an integrated 5G modem."
-    publishedDateTime: 2020-12-01T21:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/qualcomm-snapdragon-888-mobile-soc-announced-focuses-on-ai-gaming-and-photography/439010"
-    ampWebUrl: "https://www.itworldcanada.com/article/qualcomm-snapdragon-888-mobile-soc-announced-focuses-on-ai-gaming-and-photography/439010?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/qualcomm-snapdragon-888-mobile-soc-announced-focuses-on-ai-gaming-and-photography/439010?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 53
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2020/12/snapdragon_888_chip_in-hand_-_copy-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
     excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."
     publishedDateTime: 2020-12-02T19:21:00Z

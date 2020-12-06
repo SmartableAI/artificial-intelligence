@@ -29,7 +29,7 @@ related:
   - title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
     excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
     publishedDateTime: 2020-12-02T00:45:00Z
-    webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
     type: article
@@ -67,17 +67,6 @@ related:
       name: AMEinfo.com
       domain: ameinfo.com
     quality: 17
-  - title: "Amazon delves deeper into voice recognition, call-centre work as demand grows for cloud tools"
-    excerpt: "Executive Andy Jassy said COVID-19 has accelerated businesses’ cloud adoption by several years, and more than 5,000 customers turned to the Amazon Connect service for call-centre help during the pande"
-    publishedDateTime: 2020-12-01T20:17:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 13
 
 secured: "mz7BEwNgzzaQfuK4ejZBeDydQQQmsc8oFYYTflzZkZ84WymsuQntHBHwoev/4caiitmY+4wWo63i5Ie7Db9KDxeiea0IZUdlxLc3ezxzAVxR+jMUOIt8i2fWOzw9q8yZwIqFPkx7ZuQodhVFtk4M3hKr60ViesBIOnauRNbfSYqb07hWA2SM3sqIK3BxHzXdZ9hzz0jyfAQheF6DgwCCqZbcBFKpVwf2kl7ZBqiFkURdQocjpfpny3Hh7KqRUedMU3pitLtRn/TFlvDqSiRWcYkwJufpQG3KV32L5ZH9YD45Kp9ukgI8DZVYi+C87T+1AeKQLwYTYCKkZsH+vYEjkgsNGm8aogVpr2iGvZ2jCj1u2oGrm1JZbZF3RyKyjwic3ZVlGyFItsC6SXZiSCv8IESWLPDYN5uWz2oKFc8fswS9aEuI1GGxSX+CLQLOqkkZPRNmbdFMC/eZSeixlt22t1dMS+gGgnSZcYJcuPk41+3/dsH7d8zk/CvynoJ7Jb7zN430XhnXTQ400MiWhw3idQ==;zjX8o1UNb17XPsgbleR5Cw=="
 ---

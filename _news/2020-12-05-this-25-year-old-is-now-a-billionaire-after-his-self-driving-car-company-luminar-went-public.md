@@ -3,8 +3,8 @@ category: news
 title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
 excerpt: "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30"
 publishedDateTime: 2020-12-04T20:52:00Z
-originalUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
-webUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
+originalUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page"
+webUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page"
 ampWebUrl: "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
 type: article
@@ -78,6 +78,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9QgnxJ0Sk15FIK71w/ERm08VBXs0uimsv8mRNjYd/QQ+gCN1kHwJIU7pkSYBhhGlAV7/QyEh+D28Ntl7lbGm8LVv1DdbKubAryb5UcoRZYrPMwqsCyGDmvFpXPdTLTZ0T1O4zgIm92pgmywJcqXXHgd0Dvn3xgqSgvg++ACdr0BRWpJUDVaRCLTj6Uyzytx2wsT9vfr96xEY7Jil2tPo1hy+Ynd9P3MrZeT2Fyy370KesumHTWxpzwy/ZZzh0/36fJkbFwzcTadDFM7DrbgBDSFADZxQbStlgzJuHeZoRHBv1Pl+gROIEl7QIZSKv93dZ3dl7arBU4sbSebxeBKoSWex6WGJF1B30DEs1OJ+rWFD6x2kl+EpeNHQiyHIcy20S1N9CTImDr/KBRjqDi99C9VDl0GG0P6q/eyQTbfy7ssHjukkMfYhWi2Wz8Z21RX4n8T5Bug4Sd/20Ukswv4jYKbr4AF2XeFc1fVSvdXOD8FylRx+cTfypIbPNZG8S1D6UHdoPFYIH4oQpzV/Y5a4Lw==;cJ6zNj7EELBKWPTIFNOUjg=="
+secured: "cjjXdAw3p/VTtmx1ERxDqP2FkbKZnQKDeRYvL5e/bu9AYQ+t917RubO20ap1aCtko7aUuBbnsnKCzHHdYExRI6E3lh9NnAZ9eNpvJdzMC6w8xMS80R0g0Pp9zcPjW2oez1lbV2bBb+y5mtbiKR0enWuDCW6nnT3p8Jq9Kwc336JlFHyPqsMGi/e5K/MKfAa+wnicovQ7JJK2x5hzYptavwe/ssG6qVsX28RWqQaeKOdmgOFyHNKGCNeB7sFzlSix6B/+E+UUn/ZdTb7lSXtII6jKfNidWUk0L7nyqF7jZgNklRIe7vI7tKHByDoM9uaQxWmrwRABEFuKTY/jYfhUiYwNGP4CXYi8L6ozqH3Za1I=;z7wajvGpLC7e8SDNAVqp+w=="
 ---
 

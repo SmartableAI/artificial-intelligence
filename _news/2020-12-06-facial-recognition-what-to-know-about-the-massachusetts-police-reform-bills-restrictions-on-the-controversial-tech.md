@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Massachusetts lawmakers pass state-wide police ban on facial recognition"
-excerpt: "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement."
-publishedDateTime: 2020-12-02T06:59:00Z
-originalUrl: "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-webUrl: "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
+excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
+publishedDateTime: 2020-12-06T10:30:00Z
+originalUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
 type: article
-quality: 88
-heat: 148
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d"
-    width: 600
-    height: 350
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
+    width: 2176
+    height: 1578
     isCached: true
 
 related:
+  - title: "Massachusetts lawmakers pass state-wide police ban on facial recognition"
+    excerpt: "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement."
+    publishedDateTime: 2020-12-02T06:59:00Z
+    webUrl: "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+    ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Massachusetts Lawmakers Vote To Ban Police From Using Facial Recognition Tech"
     excerpt: "Massachusetts lawmakers voted on Monday to pass a police reform bill that would outlaw the use of facial recognition technology by police departments and other public agencies in the state."
     publishedDateTime: 2020-12-02T02:33:00Z
@@ -111,23 +123,7 @@ related:
         width: 983
         height: 630
         isCached: true
-  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
-    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
-    publishedDateTime: 2020-12-06T10:30:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 36
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
-        width: 2176
-        height: 1578
-        isCached: true
 
-secured: "xGUPbq7AcKVaTDSso/rXqou1WeBk54ZYDyb1uyecMxiC3WfzlXA78fgZLVAO9OfPxCVEIXf8Xdcjf0Sa1oG6Yh9GPtVjipaH5ONxKzXxaFWn2ooSn6ePo79ayvtMj2znMUbcSjkYxCl2V9VbaG5MWxm3YOp2fqZLYOIorGYMKzJw9h9N4wXnoq8gCL2mfjdqA7lh8ZQeVhuWhEojOdIagSz/mVdlUSjGMpiJeR/OXzlQdetXxZgK3NuH8fiEgcEHwD9ikuSx77vI9BXJTeGryh6U23aulwzlNYx6lfQ98uxTDk2GmOjNg4NizeoJo7gjCmzraRn6eHvq6qVu22ty6tmArVtuNBAAOXJBW5P9yWE=;/cMgwo2FUuOOWpnWAX+PWQ=="
+secured: "vK9PlDbBoGCKU2MY7Y2lAeF3YX1BVCACIjer/GAQpWiFjBKL6iL3DmCtCVSZ81+fO88tqL5nVUduZc+gltOsr2dpKQeBlSnsQd3tBgxCwqf1BjLl2P+hzw5Chk/xaSFexYzSdhvSWkRdUszCgcxmetZB+sKoBHHempYsbdQTG5US6dyS8Ax6B2Y8ML6kaPbe5+K8QcDcW3Eus5Eq4Wcoc5sBzUVoGRRg48Yq39F8S1bPmvtS5j0b7fFUMmt8F5tMEgC6FCBMLsYnFcK1X43HshsyrzSfIwFnNbcy1Ji6L9ndslTGw4Y33H3/EmxygpXvcHCUfKJ1ar2XhquKxRGdijpNXku/76ylwyfvj1ydams=;mvkHbaIEsreYn2USsZdc4Q=="
 ---
 

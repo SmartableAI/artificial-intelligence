@@ -95,6 +95,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 48
+  - title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
+    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
+    publishedDateTime: 2020-12-06T12:49:00Z
+    webUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 32
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
 
 secured: "kF8RGtMR8PEpw9iRMJ2AAskZb5zl58zUzZ8hlPYcwggKmbUmwF2C5c6OM3iTV6zOzGoKjxeRDZBdV32lHXrt5A2u27HzMmqXGfp1LCkMh3he9EdoGilTIcP6qZgAkwlMhf+kS10f0AJiBMyflqhxDbC6NNDoZ7NmHIb7y22NmuLJbytmEtyd1CHjkchzTpHu5TEWTyhqwUmQNGO5D9XtgW8I8JJRd1raxqYFgPlJ8bS20Y1nRE9Mjt5f9X8/QfLy8rIe7GeUym0x9SPplmp9mnpqccU0d2YM34jf8WV08Ynjv5WIXBmRb9jbNbKamMUgMR6sUkW0ktM7RzdhoFC8iJxec1zbKo2F7bvXYxJmfq2gkM+eCUTapF6NYwJ9BvbqVLwuKHHCdCSSiyICYpN/JrSSZMuv3/XntRP0TlE7OdjAZku90SsL54vyKYl73h9jqo6uYVyIhbkcohCEX3KpecBcpJ7oXAZZU23e1eQ1SOzwB56owltlvoueQvlmQThj+b7/H86YpQ5rYKMFUGLqcQ==;iW/q/Am/GmebLoEx4tcfhg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-opt
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/11/1024px-Quantum_Dots_with_emission_maxima_PlasmaChem.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "7 free tools for deeper online learning"
+    excerpt: "Spring’s shift to online learning was sudden and unexpected, and despite pockets of schools that have resumed in-person learning or moved to hybrid learning, most schools are still fully"
+    publishedDateTime: 2020-12-02T10:06:00Z
+    webUrl: "https://www.eschoolnews.com/2020/12/02/7-free-tools-for-deeper-online-learning/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 24
+    images:
+      - url: "https://www.eschoolnews.com/files/2020/11/deeper-online-learning.jpg"
+        width: 500
+        height: 343
         isCached: true
 
 secured: "YTdr+bsEKspG+10GjEKAT1tXEH6sIr1Saw6EkrkfTpRkXLatEGhNYuGRdyhaFOnN7UZQ6bhJC0iNgCnOLUIH4LVE7R0PjuwC7npG5O3BPEtsyXzB4Ue0xyq8UqPnMbhHbkNTVFBkzkSFobIVSesfxd9+7IcJA+dm3P10zXaXN5Orne+PhOoYTMIVEWVz9sLz4d56pMNu7RN7jHg+svQ99xjFOYbdl71LN3zW/K6chOvyy/FLTmhffHwmnW90m+kx+wsVHA+ZtwiBrzQ/R27VSa1MC/FhvbQTuBw/cF65JScynkaLFyJXWWARWZyIY1arAMJyE01qE62tOSAHP079gXu5H3OP6tb9+zLeMXxtYBJqLKCMJ6azMrU2CAwrmXbDEqz419nrVBoHTXBsNvDuJEnOl5AJUgk2aBrs9L/P11h+S9K2fhLy/ajp7f6vfHo39uRHWYErqieNSCRhYEHRzf7DGkW9KGNIDT/+6/xl2SeBIz7RvpDp1cYBqM/OOKvpvc9HZAo8OqNx5r+8vlJGQg==;05+GonNKuoqiEJEERBdIAg=="

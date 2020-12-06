@@ -1,29 +1,27 @@
 ---
 category: news
-title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
-excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
-publishedDateTime: 2020-12-05T05:05:00Z
-originalUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
-webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
-ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
+excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
+publishedDateTime: 2020-12-06T12:49:00Z
+originalUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
+webUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
 type: article
-quality: 68
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: WRAL TechWire
+  domain: wraltechwire.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
-    width: 764
-    height: 575
+  - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+    width: 772
+    height: 434
     isCached: true
 
 related:
@@ -58,6 +56,22 @@ related:
       - url: "https://image-prod.iol.co.za/resize/5472x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0e3c0e9e-e862-50ab-84ff-e1bcd9df7eb5&operation=CROP&offset=0x287&resize=5472x3078"
         width: 651
         height: 366
+        isCached: true
+  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
+    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
+    publishedDateTime: 2020-12-05T05:05:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 68
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
+        width: 764
+        height: 575
         isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns | Charlotte Observer"
     excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
@@ -95,21 +109,7 @@ related:
         width: 1280
         height: 722
         isCached: true
-  - title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
-    publishedDateTime: 2020-12-06T12:49:00Z
-    webUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 32
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
 
-secured: "UQIUncf76rTq3PAy+l5oPzBmaCgeqQ0jrwEhpyk+5hoB00hXYZ+B/eKhTQBhpdg7U1GYA6u+ll9ZICkBKAEVxTl8lTWmwHAHhNSaWQ0b8Es8/7Ty8vZRi/J9OT5BRI4WQ57I3pycG6NUvXnkhYJ0EIvJsegRNXobG7y0hhHFvKGrjZRgsklaKMNNN6GTO9pfgtGFahAXsC8D+eOU10Cw7sH937kPoCd/i4st9tlPrp/2+xn8sDe4k3Z4FeVwJ25HKhwKIsnGb5pdGwgknpnYaym7pdctiLRPHjVZM4EFwAG4n9KDg2LN2KRMvIMVDVN5ABJXvuoZrwcjG+3wamqebcnXjKr04RsJpN6tIM2EOoxbUb1UQW9+Yk2F5VYm93YdH1qDxrhuD93dNBRJ51wzBZMtIBugPcJ9cDX8AQEYi4+Gem3kcVj2oWlidBc6AJo9CnLwTaL93ca0+m/h9pgpXza+m/I+M/2j+ZxHmWGYBAMxf83IO/fbSq/43NzGjIA3VJjgIefBLdwylT9Ih7yGkA==;LyiDY/njARYXFSOY0PGJww=="
+secured: "ENVrYnGYQkXXTY8daLwmynySE1iL/Y2MGxuD7PpIQcp8w2f+kVEQ+r0aMojfY6G48g+HjM61FaHs3G5s7KNOHxsG9t9Z3156+AqZMZVVPqss5HBRuMN9E5E15H107hqb9UFDcXP4jDr63Rxx5x//yHTgO6VGQQhn4VzZExElfBS8uMZ6RhMDw+gWtgT1pltUcipembwFT2ok8dSNjA8ZMe8ZI/bXQsWLzYItbJma1A20UCvmeTEHK9/sd/dGvew6X/CPOjmktRXEgkyiQZlO8Cwisea0siQqYSdkRrakl2Kol1tvgHq5CSmZnhk1lxCYjD5h+7mb5RwvQT9LSFfHeEwFFLNjqviIAQvkkU9eoa8=;gtQwuHjb7Qx0y71bBuzhVg=="
 ---
 

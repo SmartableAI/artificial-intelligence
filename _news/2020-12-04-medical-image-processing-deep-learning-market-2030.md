@@ -51,6 +51,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "7 free tools for deeper online learning"
+    excerpt: "Spring’s shift to online learning was sudden and unexpected, and despite pockets of schools that have resumed in-person learning or moved to hybrid learning, most schools are still fully"
+    publishedDateTime: 2020-12-02T10:06:00Z
+    webUrl: "https://www.eschoolnews.com/2020/12/02/7-free-tools-for-deeper-online-learning/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 24
+    images:
+      - url: "https://www.eschoolnews.com/files/2020/11/deeper-online-learning.jpg"
+        width: 500
+        height: 343
+        isCached: true
 
 secured: "BJTYp5Gmx+AyvqGKbgk/CiG8AXgYK4eXgyx4HW3ianLi+D976IqD5CwhKTyAbvM71WJXsen/FdFyGCL7a2DjYlE+pK3rNy2RmZ/+rZHhGb10qA2p0qjldnRJuyNd7ygKMj9xDU0368acTNQQFexZ904Ie1ikrMmfLFm75Ss4MHclAtpYWw5nh8v/wzuyinlLVFIDaY7kre9biby53i9GBnmUsoQ2WWeb8Nue2zFRCUqjTDj0W2jx2miwDKnh8D9Ay+rmEidjwiLYWLNe1c7cbewznL52VovKEtEqRLoPo3ONFxlUSW62tzNVqsUEo5sgTuUz24a7dl1tEdAfIl8lDFyzv/DQfnP7UAAppjGZrx8=;Ac57ha9TzQAB7zLzmuoO7Q=="
 ---

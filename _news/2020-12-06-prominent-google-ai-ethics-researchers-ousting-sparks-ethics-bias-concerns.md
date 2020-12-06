@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-research
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
         width: 1280
         height: 722
+        isCached: true
+  - title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
+    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
+    publishedDateTime: 2020-12-06T12:49:00Z
+    webUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 32
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
 
 secured: "5IzFSdkPfM8+pRRyUiPlgQfXJZ1q3Z9wvT8oZARQ1IFyFpjOF8d7p9+BE4HPHQOidVsyweH7jtycr6Jo66FniTjPGtMPXNgtMvfp1arAUEE4bzGMvtCFBZX36h86tkWPPt0aHIAR8vjWIlw+7FEJf8Gfx7LJ16eJ/iNdqTMFrPU0JW+GhpShuWe50AyPpG/Qje6KhsW1QSR9hYXib2Y3eMVwer5k/6P8hD+3EmRzyAZkj8RNk0DC/ydQQS84125dW38c+EFvYO7cVFFEHJBNGOMhNuCjxTfhbQj1UkZmcvIA7xTGJEPwH3CDbrb7heUTanklsBCXyV7GdrXKFEkuKgAEjWuRc6yvvth5RaYzOUjIN5w/e0k7O1sxqaptaJXEnLoInHmWYc12MZuTDhUXsxG5+28GiTFTZZuvmKU4/KlNsJ+DhvQcRfohCbmA43ClKzCFOX3s8jtdgkiBbKagLr7jY7AhyyWgoUF7pz7LFUKq1m/diwppH+iqH8uJW/1g1tcxxieV9a+MFvWGXbncsw==;Gm0px0MGP9+5mKLvpKsa8Q=="

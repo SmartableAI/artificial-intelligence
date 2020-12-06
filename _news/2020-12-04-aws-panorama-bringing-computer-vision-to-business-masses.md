@@ -9,8 +9,8 @@ ampWebUrl: "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: techwireasia.com
@@ -26,61 +26,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "AWS announces Panorama a device adds machine learning technology to any camera"
-    excerpt: "AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision enabled super-powered surveillance devices."
-    publishedDateTime: 2020-12-01T19:33:00Z
-    webUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/"
-    ampWebUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/AWS-Panorama-Appliance.jpg?w=1024"
-        width: 1024
-        height: 535
-        isCached: true
-  - title: "Introducing the AWS Panorama Device SDK: Scaling computer vision at the edge with AWS Panorama-enabled devices"
-    excerpt: "Yesterday, at AWS re:Invent, we announced AWS Panorama, a new Appliance and Device SDK that allows organizations to bring computer vision to their on-premises cameras to make automated predictions with high accuracy and low latency. With AWS Panorama, companies can use compute power at the edge (without"
-    publishedDateTime: 2020-12-02T16:02:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-panorama-device-sdk-scaling-computer-vision-at-the-edge-with-aws-panorama-enabled-devices/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/1862.jpg"
-        width: 900
-        height: 376
-        isCached: true
-  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
-    excerpt: "December 2, 2020"
-    publishedDateTime: 2020-12-03T02:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-analytics-and-machine-learning"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 38
-  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
-    publishedDateTime: 2020-12-03T04:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "NO2yEaj+IREoKyAG/PBrUzdDaGKL//5t9TWWVGuUeND8A/FvyoJmiDTzkbFwvDHTkxike3xfUiyiMlAC+J/WLYamW+TXJAdPdhYXfwUDdUTZ6+Pe1oqJwc8dy+Qd6R/WvvcN/yKh2DE0vSLTfaeS21Aa9W1aYFuiG1+yZQ7wblGoaFZK1cVa0acArFLJE45pRtzSUz1YtZuRvOx361DENE1Tf3AeoKbvORuMlqPU/T6rtAVvVsi1JfAxUfhC0AG40fqz54Q9SBrG07015TzzJNIz6VkkvaRXyib82Bakfuv1Mr9Rj6iFpzaoSTEu8Y48kX0OAs/jKgMYvrFzujQJIdSo9jFtIiVDcaCatslr7NhYtB2ISnzx46kcm7T/xY+gZkVQ5bWiYLFQ2QdysQaf16JgCqxbh4kKAj99Hkhm3YK3R/S2sl6I9DensyImriLpBpiywprXrZHZDmA7C3WUqKRbyTOBqGIUNVSCwOPZaCCO61LifZAKV1y2joSD2VsagihgxiB4mahg6Ev0OKlsJw==;2SSaEtw/JCQ3P1wZK5ilrQ=="
 ---

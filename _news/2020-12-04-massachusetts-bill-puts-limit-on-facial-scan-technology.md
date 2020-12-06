@@ -107,6 +107,22 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
+    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
+    publishedDateTime: 2020-12-06T10:30:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
+        width: 2176
+        height: 1578
+        isCached: true
 
 secured: "yesCeIZ/HCQyt53SvVdUZqXAH+ciTZOASFdj2jtQolW2rwzclnZNt0rkbVNnUt8XQDv0zIiuAdhFL4BF2cbx9YGiX8U6+WDrZ0IVwHtIHnYiQo1Hyq36I4kmsFMOKNse8nuwcXvRoK0Twq7ceS3W3tLWPkUHAES44Lp5Nr5R+Ogd+omf5/3zuars8/kzDEqQ5jKnZ/NoiZy3uf5pkLaQ8Ib047BFQMiAy7ttMnci5fCuR5wc2ty4dPYMFrxHLYxU3TVXIu6wMgrIrnebXitwcojVU9AMP1RYFXHveKRze+ydaYazpZAl2KfZJnSdAIVWgmpSMniXNPXKftIyrT6s8DlHWzBzEkze09Z1LRfvlMM=;+a9rlDqhLOVZTLHi6RC1Lg=="
 ---
