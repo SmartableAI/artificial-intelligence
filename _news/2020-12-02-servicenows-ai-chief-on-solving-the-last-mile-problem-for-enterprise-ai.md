@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-proble
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI"
-    excerpt: "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,"
-    publishedDateTime: 2020-12-01T14:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "N1HX5wdC1L0LiSATNCnwljReA/ZYdaDxXxfug3NEIwqPa2B9nPCRdsLqNenayh82Fu2cbJzbI0aSlBzlwV8T9P582IxJ8gjgw4W9ErTjG5MVbUd/q8JaF7NG0YBG8m0ZvgzaYX5Boj4V3cFGS9bUrYeLxgQ9vJtcgkKNtqyYP4am47YT5N0GPerceLL5F7XsB+rbTRigOaTXwWCVKbhZV5XVO2mqks8KWQ12Y+y7/ur9bfRghb64fJ17f1JZl71US5BQV1z2HinDTHJrCmmk1NJgAS5qnKEpUUGTqXV07vdntp2s5Re8JbHX8+XyqYFV8vGRPlCL5toPXm4s57IAeFtoGECAZNstqPZ6cSwfI+LkGpV7LFcX/++bEZ+R5RPVMx+YLqDu2y5mbiMCDcuegWxwai7bko64oIy7DZUPO9Zs0GSVpUL8BShmqSfJp2UPb+R0xnp+u9pgx2HDvy14eeONnCCX6Y6MKd/6apQkXWROaz/ehBefVR+jj3A5x+XMO0L3wBQrlWpONtntuMfTBg==;byQU2pqqzq9HV5AEjTPbSw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Qualcomm introduces Snapdragon 888 chip with next-gen AI, 5G, and graphics"
-    excerpt: "Qualcomm’s next flagship processor will be the Snapdragon 888 system-on-a-chip (SoC), a processor featuring Qualcomm’s 6th-gen AI engine, next-gen Adreno graphics, and a Snapdragon X60 5G modem. This time the modem is integrated into the SoC,"
-    publishedDateTime: 2020-12-01T14:13:00Z
-    webUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html"
-    ampWebUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 72
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2020/12/sd888_01.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Qualcomm unveils latest premium chip"
     excerpt: "Qualcomm unveiled its latest flagship smartphone chipset, the Snapdragon 888, focusing on enhanced AI capabilities,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to
 webUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1956
     height: 1024
     isCached: true
-
-related:
-  - title: "Machine Learning Scans Retinal Images to Predict Alzheimer’s Disease"
-    excerpt: "The machine learning model analyzes retinal images that have been correlated to the development of Alzheimer's disease."
-    publishedDateTime: 2020-12-01T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "QyRp43pBpfP0r3eSgGemTmojermtXjOs12Z2B7ejS2Tu4rZsDXfJnRcWfpwPMUj99BUXJAiKdxnHHWxxg4rcJ1XMP+vweRp1GOHG5tX7USRUZ9r+BcIgwS2FcohQTejpbfKBMhfW95bJjcAo6+Ulnx0mk/bQQAbEutQlRLcyqrMdeKWbsjUK1TeLtxn3koMBaIXtFfa1cwqrF+MRP3Utkj12/h498YsogP0mG2QkIo5chG6H2oho/ZQXyfDDevZ5VRUu2DpSGysfVB6aFIMcfvpPE41/IiE0vbrsFwPaVIyrlsjb+p1ANT5n6uX1NLywKS3JIDbXC308TPesA4aPfSBsAkYEjI3+/KzYVSOdb3c=;wsha6tLwZQOpOAtJsIHdQA=="
 ---

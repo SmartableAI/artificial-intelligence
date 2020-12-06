@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Tiger Global-Backed Hospital Software Maker Olive AI Reaches $1.5 Billion Value"
-    excerpt: "An Ohio startup that helps hospitals automate routine tasks is now valued at $1.5 billion after a funding round led by Tiger Global Management."
-    publishedDateTime: 2020-12-01T14:29:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-01/hospital-software-maker-olive-ai-reaches-1-5-billion-value"
+  - title: "Healthcare Artificial Intelligence Requires Data Access, Standards"
+    excerpt: "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards."
+    publishedDateTime: 2020-12-01T17:38:00Z
+    webUrl: "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 63
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioyewwV5JPTo/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"
+        width: 689
+        height: 407
         isCached: true
-  - title: "Another Columbus unicorn: Hospital AI bot Olive raises $226M, now valued at $1.5B"
-    excerpt: "Drive Capital startup has attained unicorn status with a $1.5 billion valuation. The 7-year-old company has raised 86% of its total $448 million VC funding during the pandemic."
-    publishedDateTime: 2020-12-02T18:50:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/another-columbus-unicorn-hospital-ai-bot-olive-raises-226m-now-valued-15b"
+  - title: "For AI success, start small and iterate"
+    excerpt: "Artificial intelligence projects are most successful if they start small with specific use cases and grow over time, according to federal IT experts. During a recent FedTalks panel on data, analytics and AI,"
+    publishedDateTime: 2020-12-02T21:21:00Z
+    webUrl: "https://www.fedscoop.com/artificial-intelligence-success-start-small-iterate/"
     type: article
     provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 32
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
     images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png"
-        width: 500
-        height: 211
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/12/Dell_WWT_header.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "NBrzU+tBPAFY20jejvjALE4KygWkyjB3Q9IYsFyTNTaeQjifkBChkqkJsgpNOigB308jTxbUGuaPfoOF1Rdwi8oongKL2MAb8GWYgQDTsyz2D3NoKniSZSx79+qm5e0IMfIhGXM38WrTS0bjBoK31urH1xNTWk2s8NrN75DGZ9b93itf2TcJnqY6pf7aKpR8qmnIckf9mT4QB82K73IAXJ8D0xS1v7Q10rj5v3VDwxDOb82dzE6CTkEtVQk31IOmX2pNI4YUPUBDliiZdwpa1QQ52mpoT7JBB0DIZfdLRfiBTEG3F1TyxcZOQkrW1N9Ng4rn1S3XrIBeDLPGZ4snN6+DSsbsBBjFXxWZMrEYeKa+6L3DJYsu7UBvc3i8kcW0fSxyykm8sMvtmspTdT+LezUP3Ag2KDfMKa8eZHvpdaUfvEUgIPKsjwRRFFp42vYxPvhnKtMZ4yhLWsSv+Vj5whMfzwz4Kz20elVM1VYGTFcrJvz2AmeYKfyAGJLeOkTg86CikwMCv6I8xw1AV9m+PA==;X79YrxMoFEbL0Vz1ZMy7ww=="

@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-05-bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites.md",
-      "title": "Bayer inks pact with Blackford Analysis for AI platform for radiology suites",
-      "excerpt": "The AI platform developed by Bayer and Blackford Analysis will provide access to a virtual marketplace through which healthcare professionals can obtain and manage various diagnostic imaging analysis applications,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2020/04/28/127928-bayer.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "publishedDateTime": "2020-12-04T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
       "title": "Meet TIME's First-Ever Kid of the Year",
       "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
@@ -105,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -320,6 +277,49 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-healthcare-artificial-intelligence-requires-data-access-standards.md",
+      "title": "Healthcare Artificial Intelligence Requires Data Access, Standards",
+      "excerpt": "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
+      "originalUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg",
+          "width": 689,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

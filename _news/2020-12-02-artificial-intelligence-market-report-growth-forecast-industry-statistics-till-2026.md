@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-12-01T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2029"
     excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of"
     publishedDateTime: 2020-12-02T14:42:53Z
@@ -94,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational Artificial Intelligence Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2024"
-    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
-    publishedDateTime: 2020-12-01T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2024-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

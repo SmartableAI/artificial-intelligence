@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-pr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
 type: article
 quality: 100
-heat: 220
+heat: 210
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2020/12/02174920/credit_shutterstock_christoph-burgstedt.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "DeepMind tackles 50-year-old challenge with AI software to boost drug discovery: 5 details"
-    excerpt: "The artificial intelligence system developed by Alphabet's DeepMind solved a 50-year-old challenge to help accelerate disease treatment and drug discovery, according to a Nov. 30 company blog post. Five details: 1."
-    publishedDateTime: 2020-12-01T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/deepmind-tackles-50-year-old-challenge-with-ai-software-to-boost-drug-discovery-5-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 44
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "DeepMind's protein-folding breakthrough triggers fierce debate among skeptical scientists: 'Until they share their code, nobody in the field cares'"
     excerpt: "John Moult, chair of the academic competition which heralded DeepMind's breakthrough, defended the findings, telling Business Insider he had looked at the results 'very carefully'. Academics and researchers are debating claims by Google-owned AI firm DeepMind that it's solved one of the toughest problems in biology,"

@@ -7,8 +7,8 @@ originalUrl: "https://healthitanalytics.com/news/healthcare-artificial-intellige
 webUrl: "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare process automation startup Olive AI lands $1.5B valuation"
+    excerpt: "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million."
+    publishedDateTime: 2020-12-02T02:06:00Z
+    webUrl: "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
+        width: 725
+        height: 482
+        isCached: true
   - title: "For AI success, start small and iterate"
     excerpt: "Artificial intelligence projects are most successful if they start small with specific use cases and grow over time, according to federal IT experts. During a recent FedTalks panel on data, analytics and AI,"
     publishedDateTime: 2020-12-02T21:21:00Z

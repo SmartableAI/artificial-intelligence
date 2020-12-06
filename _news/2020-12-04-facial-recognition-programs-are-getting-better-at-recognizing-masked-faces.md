@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft creates system that can tell if you’re BORED at work meetings using facial recognition – and even scores you"
-    excerpt: "A PATENT filed by Microsoft shows how the company hopes to create a system that can tell if employees are bored during work meetings, according to reports. The technology would reportedly allow"
-    publishedDateTime: 2020-12-01T14:26:00Z
-    webUrl: "https://www.thesun.ie/tech/6222162/microsoft-to-measure-bored-in-meetings/"
-    ampWebUrl: "https://www.thesun.ie/tech/6222162/microsoft-to-measure-bored-in-meetings/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/6222162/microsoft-to-measure-bored-in-meetings/amp/"
+  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
+    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
+    publishedDateTime: 2020-12-04T12:01:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
+      name: Daily Mail
+      domain: dailymail.co.uk
     quality: 52
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/12/MICROSOFT-BORED-AT-WORK-PATENT-COMP-JF.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "wzGq4sSAQKqpSFmEx1Vl3Hkw9SD4UYGL5C3yxiXbtmdSD/q3AW+VNbCRSlED/94VQ4KXtNZPOa4TZTQLEFozfyvHhbJAJYQR4TLJSyR6DpzKs7ln3x499SN4vTFYDKGf9Oyzy+GsxvtXdJ0eH1ngnWSetXiUevx2t8oTROKQbqRWhheIscA8LiTLIYFtDPDkd4SvB9wRmofHF4Z1UiNCSB6Yz/DD76cBjYBHsyRHNNV5MUTN+wXAlddSgEzyLkTu2icfT0w7ZixuKqGp7uH0oTimraCmMYexOmifWu4u3NyeYW0cmpOrs+dDYyqod+AyHGMzuyYb2lIoGIayAW7QRIwoZlaSvrhQA0J3/btbPFdOb7lVqMe5QEdjP4KZKUNswb5wgZjtsPVBA0aD/WTIdacpAellhaQvOvoO6f0D9yeE+UiAnxN5/dZo5n7Ok3HOzpNHm1Ya5NlIvF746KK8zo+4FEl0amFz8Vg/rty618MoeIoSbOU2y1mkEoeGdjNBItl9UQSJNT9qTQnsO5kN/w==;HlbMzHlig4PKscep5AsaCg=="

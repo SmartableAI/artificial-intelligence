@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/pmn/news-pmn/whos-to-blame-when-a-self-driv
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/whos-to-blame-when-a-self-driving-car-has-an-accident/wcm/8a9d45e5-00d8-4038-b946-38a60a93ef2f/amp/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Who's to blame when a self-driving car has an accident?"
-    excerpt: "With self-driving cars gaining traction in today's automobile landscape, the issue of legal liability in the case of an accident has become more relevant."
-    publishedDateTime: 2020-12-01T14:54:00Z
-    webUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.html"
-    ampWebUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-blame-self-driving-car-accident.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whostoblamew.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Keep your eyes on the road — even in a self-driving car"
     excerpt: "The appeal of self-driving vehicles is the promise that drivers will be able to do other tasks on the road or simply enjoy the ride as automation technology takes the task of driving out of human hands."
     publishedDateTime: 2020-12-02T14:38:00Z

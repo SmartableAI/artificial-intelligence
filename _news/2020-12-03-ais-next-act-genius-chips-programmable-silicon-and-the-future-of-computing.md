@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programm
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AWS is computing the future of the cloud"
-    excerpt: "As he always has, the longtime leader of Amazon.com Inc.’s cloud computing company will debut a dizzying array of new and upgraded services, which AWS is keeping close to the vest until Jassy’s keynote starts at 8 a."
-    publishedDateTime: 2020-12-01T14:36:00Z
-    webUrl: "https://siliconangle.com/2020/12/01/aws-computing-future-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/12/jassy-aws-2017-3.jpg"
-        width: 827
-        height: 508
-        isCached: true
   - title: "Driving The Next Generation of AI"
     excerpt: "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a"
     publishedDateTime: 2020-12-02T23:10:00Z

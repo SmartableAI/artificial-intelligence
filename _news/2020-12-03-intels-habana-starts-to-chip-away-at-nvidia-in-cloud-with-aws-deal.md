@@ -2,9 +2,9 @@
 category: news
 title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
 excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-publishedDateTime: 2020-12-02T19:28:00Z
-originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
-webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
+publishedDateTime: 2020-12-02T19:00:00Z
+originalUrl: "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ"
+webUrl: "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
 type: article
@@ -118,6 +118,6 @@ related:
         height: 640
         isCached: true
 
-secured: "em8AWrKeL15Kc8M++YXkTPysb4vvztOZnTMzvP0B0VXHYQQjSMe+MSRWJkBFJVQfospm/9rvm/T4wpjUQmVG9C4f+m8bPBUh5yGfGuSzYXBzf8hWC5kdoITZ5f84tqLd7gnTensmnJic4G+/P3VGR3q4fzoQdscrpj+cWzWNc5/xAbsoq7koOuJmbwRElEugVYvuIdJPZmr8Pf4PyQP7QmsddSRSBpEPhV81IgXe1rTHQibKVzzoALug86ZwfidUF+aUxY5yZnaegJiODx9bQZDxAmkXBzBEyHtA0Mg7ValFzawNH33e22ALJWTSHAeNSRnnItKafloD6E7fO9NXveJL8yDKKqDq/l6npt2+o1PcGUdrIcMFP0rxzc5UN9djqm9WXDdxg+fstIQcEXkplt1Azcq+k+o/Y5C1JPnfprcXUvwgV3Zwpl7MyCDYjHhN9J8al3h3k0mnZj5uQrxvKBr98tRaTPuFkE1vtkhrzRnK1qIdvMykSGSjAOoifQjP0l7Xak3tmhWc7Vs1yhfY+w==;L5qVToTRDnsscH+8gd0pOw=="
+secured: "aSzk3BwRe/Rz7PoTXElKkHVVq8WcfBdNFKrpahEyrUxRp0yMYYvJkPRW3wAimQHqVOckyTgRV1fDkaopsrrSPS91ISNHTc37daFeDU/UpYaQtxG+6mvj0Z6KJz33HpgkTo1+cteMrsLOjW4nTaGqtbKdsr9t6dF3G1LQM5g/CDGHm6nZtK90/MnzCRZopV//hG9Ecim4anQeLnSVpImf611mv25XyGqr4rcwZSD8/n/Q5xGbUVmpyViEohSfMtldAnK4F6/mxF/6Jl9wDYDPevLeZeRDoVtsfS5PYbZDmJGDPco8Irse7ohNgRUHKPvAELI1AoP4jXMEkKadnzWlgC2eSUfJ/y2uvc2x45kOdWY=;Vq0vTMRIklCr0rzoz8ayJQ=="
 ---
 

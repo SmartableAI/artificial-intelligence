@@ -23,14 +23,19 @@ topics:
 
 related:
   - title: "MetricStream's New M7 Integrated Risk Platform Leverages AWS Machine Learning"
-    excerpt: "MetricStream, the independent market leader in enterprise cloud applications for Governance, Risk, and Compliance (GRC), announced enhancements to its cloud-native M7 Integrated Risk Platform that is intelligent by design,"
+    excerpt: "MetricStream, the independent market leader in enterprise cloud applications for Governance, Risk, and Compliance (GRC), announced"
     publishedDateTime: 2020-12-02T12:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/metricstream-s-new-m7-integrated-risk-platform-leverages-aws-machine-learning-1029857689"
+    webUrl: "https://www.prnewswire.com/news-releases/metricstreams-new-m7-integrated-risk-platform-leverages-aws-machine-learning-301183400.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "UrXKUFJdF4fwFp1Utoq3H1phQkHwMNdSchTVSfuOW92o/xexXBmzIzFQTONpeX7zjewZunC5RWASiN1JGKw8N+8JjlOT6jIY2GMPdV2YaLtfHenUtc/gGB+ke7DEL3XlkLgtmcIusbmu2uqH+PdMBhyJ4+dyzaqABOLMcUtJ2Oim/K4FkgV1tarFNCJGb5q0v490277lxa3hfgKJ2WhKPZ8pjxXs6HlULNcp3ewZvZpw4pmkXaWwyFOwkj6SqZMq4cSWfA54e+Wi9WNThQcU8/mPwmv7eJx6lRLOktP5dAxpZcJVI7yLDtiX8bgj5/EueZWkn+Ygb1B8Z/6OCjzxflTZdFywvybJxVzMZObY8mI=;GmNBnC9s3Nx1RH3Dk7A3Fg=="
 ---

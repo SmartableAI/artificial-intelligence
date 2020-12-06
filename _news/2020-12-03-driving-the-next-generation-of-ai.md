@@ -45,20 +45,6 @@ related:
         width: 1024
         height: 602
         isCached: true
-  - title: "How AWS is computing the future of the cloud"
-    excerpt: "As he always has, the longtime leader of Amazon.com Inc.’s cloud computing company will debut a dizzying array of new and upgraded services, which AWS is keeping close to the vest until Jassy’s keynote starts at 8 a."
-    publishedDateTime: 2020-12-01T14:36:00Z
-    webUrl: "https://siliconangle.com/2020/12/01/aws-computing-future-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/12/jassy-aws-2017-3.jpg"
-        width: 827
-        height: 508
-        isCached: true
 
 secured: "yZm2HreQIxYKav/0zRXA2hGNcovN6eBVTjkD/hbv66wLolTh4UBCQPlmy8CELnjvxq82EClgOVYgshMlJY9aIv1EaaT2f81zlEkFU4Tc+39PSyD2QFM4pbXDyvGBaJ4WlfLVcX84bR8EH9Qwyrcn7pP8crAo2ZElWF3onk+/EWcb29LVAbHh15J1hzJ9phY0DP8zzQ1fhgobgRkmExwy5HfgyG8B/35mkeU3Bq0aFozUVdvI1cTQWbGI3MSOUtm5SOYqiAm0H+ErVpXwIk1ZlKFFcyjbPJInvpRp+jZ7hXIVBGLyGTNVLE8IclQwviHR9oejLVSassZ5iF6T5Su22JN1KgwxeMKI24fncWu3nsg=;Nu4X1HsF2BdoJUJAEqO48Q=="
 ---

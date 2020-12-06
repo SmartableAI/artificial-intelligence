@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/press-releases/2020-12-01/baidu-leads-ch
 webUrl: "https://www.bloomberg.com/press-releases/2020-12-01/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Bloomberg
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
-    excerpt: "Baidu, Inc holds the most AI-related patents and has filed the most AI-related patent applications of any company or organization in China, according to a recent study published by two units of China's Ministry of Industry and Information Technology,"
-    publishedDateTime: 2020-12-01T13:28:00Z
-    webUrl: "https://www.nasdaq.com/press-release/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
 
 secured: "Uk47mNVJ3oNCBukG9yf0PJA/EzKVyKnaL6bqCgJLPD5CQYHO9lqU2VwhddUEE1mOwS5sGPHWUAhJA7KNnISzGin/3sDVKSOGLOU8k6TDGs3Z7aGe6t6cL1JgQXgaHqup0mSuYoQH+88bmx3jxNoDztdgTjTtJR0gQbuaw6FTvskZAMlqHaxCVWseKF6h6b02UqcSb1SFExsKzv/z5OtdbPLRyXv5F14r+Zy4YHY+Z6mPfIY7pctkNhjjy957TcJSeLg/yphrcdonX3gGtkWYLhLTwvQzMoA4bP3rH948tVetGmkipVVzoB7p8fhmHcyb+jRsb5RpFxNsejWiZER+957V4IRwuPEOm7urpyD9YE8=;6C01tUOWzs+OVM3zDfGmrg=="
 ---

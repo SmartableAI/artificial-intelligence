@@ -38,6 +38,20 @@ related:
         width: 689
         height: 407
         isCached: true
+  - title: "Healthcare process automation startup Olive AI lands $1.5B valuation"
+    excerpt: "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million."
+    publishedDateTime: 2020-12-02T02:06:00Z
+    webUrl: "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
+        width: 725
+        height: 482
+        isCached: true
 
 secured: "gwAvz4kDvs1c2ZXm7kj4GkUZ4r7s4WzLd4tGz80f7JDnojw8jVc3ix5yUNiY3OGobeRPJZKFGx7g58rFRF556FjvC45p6Vni9XPKJ/S7wMTD3ulg1yaPbEQ9lYotqYdyevD5ZfPt4T3KiWmza2TIzCD02rCb8JQNQrjR8ikNYFSVhEZYyOe+caGWHM8oT+syR5TylhPv4ZEphf0AxKTSAk0kbJ463RqMzI6DROkzcSZUeAwk795tNPpTtjLe6TmV1vkhiPVdTZafjE4meQV/C3ff2h6uVVB0MlPPHBHHlZwdkrpqcExwq2KJjqfKIHR/oNPicHI7LJFO9OJhL3Pp/nokPpYOCviTI8sZQS5V92VfCWrepu4XpUy5d9avOUIMlh+izA/JdAFoz9VEZdZ+RZNbAjCJGGfarT1BhcR5Oh08t57KRiE7gXRRw9qX0Sh0ld+OftvMGKjdYBHBn7PLjBjZnXZdpLfH1RzQhlsd0cKh/BsB/hlEOJNx+LR2depQ8ducepzDeXKi7/BliLJTTw==;eew1JEIOgz6t7R11y5vT3Q=="
 ---

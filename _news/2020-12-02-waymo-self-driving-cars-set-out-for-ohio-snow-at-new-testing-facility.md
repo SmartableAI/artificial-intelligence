@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Waymo self-driving cars set out for Ohio snow at new testing facility - Roadshow"
-    excerpt: "Through a partnership with TRC, the new facility will provide more weather scenarios and complex situations. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
-    publishedDateTime: 2020-12-01T13:54:00Z
-    webUrl: "https://www.newsoneplace.com/39458891911/waymo-ohio-roadshow"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 34
-    images:
-      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/KYvl3VMQtRh4kd4gmZSX8NWuzvU=/300x0/2020/12/01/4564bc67-4908-404b-b45f-61494d577633/trc-waymo-photo.jpg&h=250"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "ffxnO6iLOe7+zF88Gf5OZRg88llaDBGBkcSvxsU3QTK8Qzkns/mYzD0pn2OuNkaWwwwW0lBA3XwOW6QqW24LbothoQzcEYXSoCap+4vO6T7eoW7w2LHaa10mN61BVfDB/8QhiXuel4W98p7xsZREF9YVvuv6+S106AKbe6/Wqp+88akvN3ZadqbaAmK3RijthniN+Ubm6JhnarYVRqayCAqmTphdSWiF2WWu12AcMgqiTsyK+HrOPC0HlznLpvf6BZ7D79aSBq0MCpDArG4jV7JDoZxS5SmO26gFZFoAoDGh9rOK6GUiVQNRogSSphv1TV3CYgZFNowIVA06V8v6x12/gi7naMm2H9AjNfbbc/2aAOPxo1lBfnLVtR+ixNp7QUF4Qop4oOOijP07Pcj44YR6yBGP8LgU5BODhedsTXg0Vlt/VCb2ZyY/jzK6gBX1LBd9nwg64qmZRrtgjmtoCAI7sFnt8Ynv6KThBJP5IGi977GRTza7cTqJuzX/KGY1JxWvqUuJpSqDBj/5h6SmVQ==;9i+eicFKGX02vjZvawtnwQ=="

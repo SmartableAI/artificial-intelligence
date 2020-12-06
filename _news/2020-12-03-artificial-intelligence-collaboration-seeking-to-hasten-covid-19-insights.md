@@ -2,25 +2,26 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T14:23:00Z
-originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
-webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+publishedDateTime: 2020-12-03T05:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Purdue University
-  domain: purdue.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
-    width: 800
-    height: 400
+  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+    width: 720
+    height: 490
     isCached: true
 
 related:
@@ -52,6 +53,6 @@ related:
       domain: hindustantimes.com
     quality: 51
 
-secured: "tAPysnMHD2cJQ12Pfrghih3cH3duEXeOAIp1B1PteH98pVR0IEb292sm5NGNRtdPuBaDMXcfUiLUFFCugc6rUhl+n7K2kXzChb3UKkkY59nh+ddYhvJ67Ves2UREDpG02sRw2ZWbzk8xauH2By78qJ9LAknaoD1uADnThRl8Dt/d4v2mA7uG1L+VkzTsl1EpNG7CBGT4rX/F5Xd9CJQRDBQgTy6bwOJHsYwophLq5k2o6BDYnDT8SSAuF0J9AjIODCi2ibBA7V7maJLbqsTMezcEqvc2/MYXsMAVobFyZK7mv0u+JeXXibi5BJCcfp66NBtiwUVls7/HJdBZHijs2Uz51C3w27WjaEAkhEYdgO8=;yLWlZo2No4bExv7oRCTYCQ=="
+secured: "1WaIkLQ6QUVUwAZNlv6cB/4EuZejbjEIWE4pLEZYmVEfrsJpVo0skH87SOJPDGNIAISTFUbny5LRfVsVvctZTDuy83pfYo63pTYiO6/JLDX3RrLP2IKQLvrnDgYSCj8viezboR4k77/tkOUOQfmwI7uY0fiKPK/dJ2P6ThIcN2nHwMbBevpTdr/06s6HH7Jq8Z3sNFas+UfobOqT4VaPZt/EUX5omqke2ZD7Z333kSqU5FXyLYD7P68dgpnO8uMBD5pt1V8KFBdkDUptjtvYW3q2j31UG2pYR5E7rJWVkf639Dl0wu4kNpaRS54gspljGIqNLksUZYP85xPfhIzI6lJxxhbbOOC0xbJ1/7TU5hQ=;MYuP2XdqckCCM+8c1Eh7mw=="
 ---
 

@@ -432,50 +432,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-metricstreams-new-m7-integrated-risk-platform-leverages-aws-machine-learning.md",
-      "title": "MetricStream's New M7 Integrated Risk Platform Leverages AWS Machine Learning",
-      "excerpt": "MetricStream, the independent market leader in enterprise cloud applications for Governance, Risk, and Compliance (GRC), announced enhancements to its cloud-native M7 Integrated Risk Platform that is intelligent by design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/metricstream-s-new-m7-integrated-risk-platform-leverages-aws-machine-learning-1029857689",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/metricstream-s-new-m7-integrated-risk-platform-leverages-aws-machine-learning-1029857689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
       "title": "Review: DataRobot aces automated machine learning",
       "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
@@ -1430,6 +1386,58 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research.md",
+      "title": "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research",
+      "excerpt": "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

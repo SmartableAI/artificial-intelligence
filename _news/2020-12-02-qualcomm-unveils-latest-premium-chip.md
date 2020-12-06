@@ -107,22 +107,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Qualcomm introduces Snapdragon 888 chip with next-gen AI, 5G, and graphics"
-    excerpt: "Qualcomm’s next flagship processor will be the Snapdragon 888 system-on-a-chip (SoC), a processor featuring Qualcomm’s 6th-gen AI engine, next-gen Adreno graphics, and a Snapdragon X60 5G modem. This time the modem is integrated into the SoC,"
-    publishedDateTime: 2020-12-01T14:13:00Z
-    webUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html"
-    ampWebUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 72
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2020/12/sd888_01.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Qualcomm Snapdragon 888 mobile SoC announced, focuses on AI, gaming and photography"
     excerpt: "Qualcomm today announced the Snapdragon 888, its next-generation flagship system-on-chip (SoC) for smartphones, at the 2020 Qualcomm Snapdragon Tech Summit. The Snapdragon 888 is Qualcomm’s first flagship SoC with an integrated 5G modem."
     publishedDateTime: 2020-12-01T21:00:00Z

@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "Who's to blame when a self-driving car has an accident?"
-    excerpt: "With self-driving cars gaining traction in today's automobile landscape, the issue of legal liability in the case of an accident has become more relevant."
-    publishedDateTime: 2020-12-01T14:54:00Z
-    webUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.html"
-    ampWebUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-blame-self-driving-car-accident.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whostoblamew.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "Who's to blame when a self-driving car has an accident?"
     excerpt: "Francesco Biondi, Assistant Professor, Human Kinetics, University of Windsor With self-driving cars gaining traction in today’s automobile landscape, the issue of legal liability in the case of an accident has become more relevant."
     publishedDateTime: 2020-12-01T18:26:00Z
     webUrl: "https://nationalpost.com/pmn/news-pmn/whos-to-blame-when-a-self-driving-car-has-an-accident"

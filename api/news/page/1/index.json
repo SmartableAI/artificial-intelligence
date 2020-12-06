@@ -382,49 +382,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites.md",
-      "title": "Bayer inks pact with Blackford Analysis for AI platform for radiology suites",
-      "excerpt": "The AI platform developed by Bayer and Blackford Analysis will provide access to a virtual marketplace through which healthcare professionals can obtain and manage various diagnostic imaging analysis applications,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2020/04/28/127928-bayer.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097",
-      "publishedDateTime": "2020-12-04T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
       "title": "Using a test framework to design better experiences with Amazon Lex",
       "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
@@ -1228,6 +1185,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-the-journey-to-make-robots-more-human.md",
+      "title": "The journey to make robots more human",
+      "excerpt": "The latest exhibition at the Hong Kong Science Museum shows the 500-year journey to make machines more realistic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
+      "originalUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/2020/12/04/20201112_0062b.jpg?itok=ZcDEbaOz",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/hong-kong/article/3112505/journey-make-robots-more-human",
+      "publishedDateTime": "2020-12-03T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/industry/pharma/bayer-inks-pact-with-blackford-analysis-for-ai-platform-for-radiology-suites-72097"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Daily
@@ -40,20 +40,6 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1606849755/BayerCloudy.jpg/BayerCloudy.jpg?q7nsLaNfx00BdwRRpJqSc7oOg2FHnD8_"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology"
-    excerpt: "During RSNA, Bayer and Blackford Analysis announced an advancement in the use of AI in the imaging field; they entered into a development and license agreement to establish an artificial intelligence (AI) platform for radiology suites."
-    publishedDateTime: 2020-12-01T14:21:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology/article_d3ded53e-4057-55b5-82ce-aa2b6c57c6ac.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
-        width: 640
-        height: 336
         isCached: true
 
 secured: "zGLTqMtbCSMi8CnI6aroitYJGcYWGQqMzjQU66h9lxPTnfpR9rhscGgU3PAwWbJxEm0+gDBJTQQjnsnI1lgd+Eb/I3VmrqElWFe/6g+IIEFDcXCloNEudfFy4JSbnyiu5/EoV7k5cZUrr1dlhblOnD+7bZxLVp7uNnJ1xqHbuDiZ+N807bJn1gqUyivRD7P/mE6VtWCMh4l1EHZPxw/l+DQ2CEB7Ok8zHXYyyPM25N/ppzqFURsDbLDYFzt+9zMBt/tquk6eWMYA40Eupg1uI9CUd8JhP+b5taS3aXO4ia7YEAqw0J1+msTskkoBhArVNh89+FnxO+tTeNne3JQCyo/7aOmOclKCoGpla7zYpzU=;+6L0cV5PrcwEo/inhQ0bGA=="

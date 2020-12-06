@@ -109,20 +109,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Waymo self-driving cars set out for Ohio snow at new testing facility - Roadshow"
-    excerpt: "Through a partnership with TRC, the new facility will provide more weather scenarios and complex situations. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
-    publishedDateTime: 2020-12-01T13:54:00Z
-    webUrl: "https://www.newsoneplace.com/39458891911/waymo-ohio-roadshow"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 34
-    images:
-      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/KYvl3VMQtRh4kd4gmZSX8NWuzvU=/300x0/2020/12/01/4564bc67-4908-404b-b45f-61494d577633/trc-waymo-photo.jpg&h=250"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "vEDVewLrwmMLEusUgoN4uzNdDo4dTPH1qoAA29hWpEA6jOiADvk0xy35Iyx0DRrqe2kiS1LHOgXLmCSZynexVJ4W9bfgIJDXVpPbvzfu8I7T82Af7wqDMXuaBuwTcx+Z0YWgBvmAHeof9gwQBQ6QFhUFlrqFfohHvf1VpdHJZ8QgDvqwydYTelU71Bx0BijvvSphADi51SrxFGqaPP6fGduNM8T1yO1eB4F8FSVSFqflirYXUzTs89eWc3CbPi8Ubi0T8X4WxmRibELQ6LYTRwrrk5gWMsBPvbIJaOpv9DadWkGmXmOfnCs40KNgli8oWIz+cMKRaN//iilRMEu37+S8IapeQBeiyII34AmlCdup3dHhpfWVBZkEYV0kt5bnqxTMnrbLhf+gwuyBngCST960ErxHZSUcV//J0XwNf1J4edMWTxuvE2OtcO5pEAziy4v3MxXINEspx5rCDv0vUhZ0pbbTsCbwDBH77vq5MtngKtPG9eoT3xA7Ibtkoc8b+MQfiGKyu0AtTztC0JIiCw==;6BFFdf3Q6ij9R2+R+hEoIA=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Fac Recognition Company Lied to School District About its Racist Tech"
-    excerpt: "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns."
-    publishedDateTime: 2020-12-01T14:13:00Z
-    webUrl: "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
-    ampWebUrl: "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 74
-    images:
-      - url: "https://video-images.vice.com//articles/5fbd6ae4daaa2a009b1f3af6/lede/1606775605901-11302020racistfacialrecognitionsoftwarecv.jpeg?crop=1xw:1xh;center,center"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Audit details inaccuracies with Lockport schools' facial recognition system"
     excerpt: "Black women are 16 times more likely to be falsely identified than white men by Lockport’s AEGIS facial recognition system."
     publishedDateTime: 2020-12-01T18:07:00Z
