@@ -43,22 +43,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "Madison City Council bans city agencies from using facial recognition technology"
-    excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
-    publishedDateTime: 2020-12-02T05:55:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/f2/0f2e861d-0159-586f-8b36-51224ddd6f9a/5fc73b36d5cad.image.jpg?resize=1024%2C700"
-        width: 1024
-        height: 700
-        isCached: true
   - title: "'Regulation gap' for facial recognition technology, law expert says"
     excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
     publishedDateTime: 2020-12-03T17:22:00Z

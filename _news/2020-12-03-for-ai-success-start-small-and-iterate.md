@@ -38,6 +38,20 @@ related:
         width: 620
         height: 422
         isCached: true
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "gwAvz4kDvs1c2ZXm7kj4GkUZ4r7s4WzLd4tGz80f7JDnojw8jVc3ix5yUNiY3OGobeRPJZKFGx7g58rFRF556FjvC45p6Vni9XPKJ/S7wMTD3ulg1yaPbEQ9lYotqYdyevD5ZfPt4T3KiWmza2TIzCD02rCb8JQNQrjR8ikNYFSVhEZYyOe+caGWHM8oT+syR5TylhPv4ZEphf0AxKTSAk0kbJ463RqMzI6DROkzcSZUeAwk795tNPpTtjLe6TmV1vkhiPVdTZafjE4meQV/C3ff2h6uVVB0MlPPHBHHlZwdkrpqcExwq2KJjqfKIHR/oNPicHI7LJFO9OJhL3Pp/nokPpYOCviTI8sZQS5V92VfCWrepu4XpUy5d9avOUIMlh+izA/JdAFoz9VEZdZ+RZNbAjCJGGfarT1BhcR5Oh08t57KRiE7gXRRw9qX0Sh0ld+OftvMGKjdYBHBn7PLjBjZnXZdpLfH1RzQhlsd0cKh/BsB/hlEOJNx+LR2depQ8ducepzDeXKi7/BliLJTTw==;eew1JEIOgz6t7R11y5vT3Q=="
 ---

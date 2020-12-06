@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police
 cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts lawmakers pass state-wide police ban on facial recognition"
-    excerpt: "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement."
-    publishedDateTime: 2020-12-02T06:59:00Z
-    webUrl: "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-    ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
     excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
     publishedDateTime: 2020-12-03T16:24:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
         width: 983
         height: 630
-        isCached: true
-  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
-    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
-    publishedDateTime: 2020-12-06T10:30:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 36
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
-        width: 2176
-        height: 1578
         isCached: true
 
 secured: "qEKqHfkypz15NbmR79Y7VN3zTMUdSCzjyp7XftXOfWCXS3dmzWrkCliHZp/TGQtaVK3PvccJzEqzfIotzKkOM1vCrR1QU/aq4JM3JyiJkQesNDSg5y/AtP/shr2dfZ6w51LFy2GBnY//Zbmpk0Ci0jCQTHIcgie8tM4jMRf5UpiTfF/TXGX582hXD6pGkGcd1xP3urCw5E8SMNXG2Xe/iYmITn9TNGeC6qGVcD58KuQOQWsEZnJl6QN9a+1W1DcBggowuzyY6Ke4cthwT0N70phILx2ETLcVfuDNHsrcBBFcbqgZvNBIUs3XEF4/cFX5m3Kr8A59laboKAmwrSUgw928x/0zNkDW4wJiksmIEd5ZrOoIfHf2tsCkCrhkoXYWfzlEwxCvyxawQShGSyP7kldUHNg4pB25szTY/08aT+6NobDJPS029roHTazdQSNqNF3k6pn3UxtSLU1pAEPT/UdUqvAyPQeHwxtCD6gy259BrluSlcT2wi48ZLkXBHycJ5FB9G2sueq8YI+339xy4g==;jrrwgWvm2cwmShzczeuTag=="

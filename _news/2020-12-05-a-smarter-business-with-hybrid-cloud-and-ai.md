@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "For AI success, start small and iterate"
     excerpt: "Artificial intelligence projects are most successful if they start small with specific use cases and grow over time, according to federal IT experts. During a recent FedTalks panel on data, analytics and AI,"
     publishedDateTime: 2020-12-02T21:21:00Z

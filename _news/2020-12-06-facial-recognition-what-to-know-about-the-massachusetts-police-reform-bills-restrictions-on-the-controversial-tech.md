@@ -27,53 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts lawmakers pass state-wide police ban on facial recognition"
-    excerpt: "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement."
-    publishedDateTime: 2020-12-02T06:59:00Z
-    webUrl: "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-    ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+  - title: "Facial Recognition Company Lied to School District About its Racist Tech"
+    excerpt: "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns."
+    publishedDateTime: 2020-12-02T19:42:00Z
+    webUrl: "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
+    ampWebUrl: "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: VICE
+      domain: vice.com
     quality: 88
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d"
-        width: 600
-        height: 350
+      - url: "https://video-images.vice.com//articles/5fbd6ae4daaa2a009b1f3af6/lede/1606775605901-11302020racistfacialrecognitionsoftwarecv.jpeg?crop=1xw:1xh;center,center"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
-    excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."
-    publishedDateTime: 2020-12-03T01:04:00Z
-    webUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457"
-    ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+  - title: "Government to seek advice on facial recognition tech laws"
+    excerpt: "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition."
+    publishedDateTime: 2020-12-04T18:43:00Z
+    webUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
     type: article
     provider:
-      name: The Root
-      domain: theroot.com
-    quality: 52
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg"
-        width: 800
-        height: 435
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
-    excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
-    publishedDateTime: 2020-12-03T16:24:00Z
-    webUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html"
-    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+  - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
+    excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
+    publishedDateTime: 2020-12-04T17:28:00Z
+    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
+      name: University of Texas at Dallas
+      domain: utdallas.edu
+    quality: 38
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
-        width: 983
-        height: 630
+      - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "/yVz2IXC8wnaZNRJpvU4/ILdujqV8WVqjzgM0t1B5UZyDi/S00mGw7Fr2XDZnRMhRkWtth9WFl6eYT5XyZx5xDN/4/3PfIQp19K4stJ2lSNrqYUkRO3Pj9BcUqb9OXVQwua/vsxXvb0g1lwyZ4ga0QZw2YJliM5xHQtsphMKdXmFQxD1t5ulDBXrJ404JbFVl5t7AW2xGmiV7v2uJ5b72LL8pJzXtV0lFD6EASmhDeb1Lj/XAA0XfCpBAvemN5kyEBL4dgIcZkuUs4WCZ4V4xAqKfFQUbIwL4BXFhRYZgx7vIkGlnFGwWdgVtkoILgpi7OsNlgOKJmhyGA39FUTT2WeS0hhz2JTIO6qqylDkYyM1da7wp2o5HxSMQOyERPmt+OF/DIRFiXgaUBfLxRuWp2iQiClNfmRU/Fbb7QbZwZmS3FswqnI2YDYYbUL/DFK6NXf1lpZJ9K1dG4s2xmjxpFC9TeriUJV+g1utur80oiW3CSHS3+bBAW5JUk+ewQKihNDeyjp8cTCLwkFVGQHhmQ==;plKPKmY3BMUFCybCzZCoLA=="

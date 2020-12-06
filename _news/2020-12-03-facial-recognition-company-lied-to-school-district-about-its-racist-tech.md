@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-l
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
+    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
+    publishedDateTime: 2020-12-06T10:30:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
+        width: 2176
+        height: 1578
         isCached: true
 
 secured: "wbCXmCQjMEd9EOZ2n9KyAHcxZnmnzA+vvusBcnmeLRuEMI4R2Nmm0dXhiohGrq/cvMY7AdVpZe3EqUyTm1lJalhnSZDPe7mh4rPaZQhUjPRaJLODNBkcZrDtRu2IbHDnqIblR+fJz64hl97nlF3TTZwb1Bn8HM+fGIjNO7+yrt46LUlUqiNWyRqPUv1ZPy2HWWMIjxQMwOt6zt4W54lCGZABHEJKOCQdrG4EYylV+ZBehXMH1U1StI383j5uMHEkCx+YnbZOzTNvRTbVsGzSUeiAPF/Kc280aGxzn/i2JscMMC7H1IB7nHcH7zZ8Ay2AknmqQPmWTX19ciBVZptGoGGYlozAb0ZgTyyNDXn6p1ywG7NM7X9KRnQ9SdI/UlNq9gEULY40n8U8hxB+UAXdkfCIOc3XR/OtDg+67eSHmP/WY/R4GpLCFUp66FklqgpvwANtpnwwpCNw8hl136w6tpxE97uQlBUIV58kqBgTOAWtNGg5/R3uDTgsFnFN41qPuAlGNYIlaW2YsOiqDYq+bQ==;+ribvmlZ2NL6i46tFI93PQ=="

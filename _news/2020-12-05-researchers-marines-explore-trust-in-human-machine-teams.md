@@ -7,7 +7,7 @@ originalUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2435883/res
 webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2435883/researchers-marines-explore-trust-in-human-machine-teams/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1274
     height: 1280
     isCached: true
-
-related:
-  - title: "Trust in the Machine: The Exponential Rise of Human AI in Banking"
-    excerpt: "And that’s exactly the same concept for machine learning (ML). AI (artificial intelligence) brains are, by and large, programmed the same way as a human brain. Advanced AI and deep learning are built to learn from human decisions, ask the same questions ..."
-    publishedDateTime: 2020-12-02T06:25:00Z
-    webUrl: "https://internationalbanker.com/technology/trust-in-the-machine-the-exponential-rise-of-human-ai-in-banking/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 39
-    images:
-      - url: "https://internationalbanker.com/wp-content/uploads/2020/12/AI-Banking.png"
-        width: 1070
-        height: 650
-        isCached: true
-  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
-    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
-    publishedDateTime: 2020-12-02T08:18:00Z
-    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 37
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "xOQsKh/fw7p+n/idVbhEPFaQRaoeEvcif9iSkoYnAccjYUExbIXnLGRSjYx+GphGssUini3r+lV7U04IFT9KkCCgRdRS5L6avWr8Eq4bTbrjkuxYPDx7nGYSnk59OCMO7xuSEGGZ28hECT05OjY63A2EsIWkMngY6L1OtHfzq/XcklJmdIFZOe6fxHktX6SKLd+LXB2Ebb3Dt30y5zcfcdwUCZ3+WbRo3UWMIEj9s/U1IhgDPbYzbjqbg08NTotm7Sb9FxoouG0mtl01WDbqg+gIkWhAryRJCZz53iW3lN59mRQl8lETpM8RuVqSPBQH3d12gTzyPH+iPeNtn77NRKWzYr6LCmZLfiHD2hYnBcM=;ZkJxnsNYRp02q8KpkaA2vA=="
 ---

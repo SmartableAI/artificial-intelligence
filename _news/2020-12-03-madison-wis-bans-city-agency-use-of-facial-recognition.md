@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-U
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Madison City Council bans city agencies from using facial recognition technology"
-    excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
-    publishedDateTime: 2020-12-02T05:55:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/f2/0f2e861d-0159-586f-8b36-51224ddd6f9a/5fc73b36d5cad.image.jpg?resize=1024%2C700"
-        width: 1024
-        height: 700
-        isCached: true
   - title: "Seattle officials deny use of facial recognition technology after ACLU allegations"
     excerpt: "Seattle does not use Clearview AI's facial recognition technology, according to city officials. SEATTLE — Seattle officials are pushing back against the ACLU's allegations that city agencies are using facial recognition technology."
     publishedDateTime: 2020-12-03T19:15:00Z

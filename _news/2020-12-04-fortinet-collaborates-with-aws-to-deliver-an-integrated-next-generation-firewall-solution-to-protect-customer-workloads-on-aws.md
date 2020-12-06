@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
-excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,"
-publishedDateTime: 2020-12-04T11:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
-webUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
+excerpt: "John Maddison, EVP of Products and CMO at Fortinet“ Enterprises are increasingly looking to integrate both native cloud security and Fortinet’ s enterprise-class cloud security offerings to protect their workloads on AWS."
+publishedDateTime: 2020-12-03T18:44:00Z
+originalUrl: "https://www.nasdaq.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall"
+webUrl: "https://www.nasdaq.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall"
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
@@ -44,6 +34,6 @@ related:
         height: 627
         isCached: true
 
-secured: "XbkGgQc4MCAsBda2Ge92Gx0ksLzDHAaOEvpr6kopT0AqBtq41vi1EXRHp3CIZHhyXmppm3Aluyt3zYdx7A84HURWVxz8RjLrqi+PbJHrPE3wQiS0rJibNjbx5Kpsh8vpcqAhkGV29Lhy5wFlo5w7WHd5Q/JW6hxp0sIeIQbvqTsjepIQ8ofXyW5gUGEU6J1vN4u5RA+w00iIMfqH4pwSLrGeyfBx39UROvAkt3zzlaOc4v9Q63p/MzEcD8iwwc7jD0mKkXwzlQ+6eRf2tXeTTrHIfatyRpxJM3EpEWuBSav+OTrVhK8nL3wUE5N3lAyPNKS133e4dJCBjP18JhzlaK4sgIiKCQeFWaKd3KtbVrM=;1oXETRmeJR1GREg4nL+jQg=="
+secured: "8q3SOXlG10l787uDJE4VJLOG2Fk/OeOFo1Dhs5nd39wex60BZ4n8X048Mj8xr27sc31GULwTxwF/iwOSsGHm9tlS1GmGQiaJe0jk+T+9dkUWOW9eHmCiX887u61ql4v2VA8JeSkguvFuhscO7zfRt2R58AjIo6RzJQPopdvQeACA1z4Tk4aXDzMhNJjjNgBTKLE7eC1gSZGQ8kfptiSDchxVSL001V81yDDVRmktKCivjOv4H8yIIBTz7Y4EXJ+duVJFq29D8FeJ77CTGZqSm1GEhnZ8tB0MAjw6F8wtBJA8IH/FuipxI6SJbbDFBAZkL8grHgc981Feww0+kmhg/e2zHLltXsWEHuwC2m8BpGc=;/9rHF8OecVWxWrSZIs9efA=="
 ---
 
