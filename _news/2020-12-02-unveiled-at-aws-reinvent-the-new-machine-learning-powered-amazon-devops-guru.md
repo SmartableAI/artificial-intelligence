@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-rein
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png"
         width: 580
         height: 551
-        isCached: true
-  - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
-    excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
-    publishedDateTime: 2020-12-02T01:57:00Z
-    webUrl: "https://siliconangle.com/2020/12/01/amazon-brings-machine-learning-industry-devops-contact-centers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-02_083650-1.png"
-        width: 1253
-        height: 737
         isCached: true
   - title: "AWS Announces Amazon DevOps Guru"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru, a fully-managed ope"

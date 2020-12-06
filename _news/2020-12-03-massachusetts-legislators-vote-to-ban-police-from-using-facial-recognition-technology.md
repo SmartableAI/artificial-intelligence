@@ -43,38 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Massachusetts Lawmakers Vote To Ban Police From Using Facial Recognition Tech"
-    excerpt: "Massachusetts lawmakers voted on Monday to pass a police reform bill that would outlaw the use of facial recognition technology by police departments and other public agencies in the state."
-    publishedDateTime: 2020-12-02T02:33:00Z
-    webUrl: "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518"
-    ampWebUrl: "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pcvm2anksgl4e0ay3m7q.jpg"
-        width: 800
-        height: 569
-        isCached: true
-  - title: "Massachusetts May Become First State To Ban Police Use Of Facial Recognition"
-    excerpt: "Law enforcement will only be able to make facial recognition searches against the state’s driver’s license database with a warrant."
-    publishedDateTime: 2020-12-02T01:31:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/01/massachusetts-may-become-first-state-to-ban-police-use-of-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/01/massachusetts-may-become-first-state-to-ban-police-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/01/massachusetts-may-become-first-state-to-ban-police-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6eb04bae0598b6dfc6143%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
     excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
     publishedDateTime: 2020-12-03T16:24:00Z

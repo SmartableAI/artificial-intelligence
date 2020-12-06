@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Google AI researcher’s exit sparks ethics, bias concerns"
-excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-publishedDateTime: 2020-12-04T20:58:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-webUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+title: "Google AI researcher's exit sparks ethics, bias concerns"
+excerpt: "But internally, Gebru, a leader in the field of AI ethics, was not shy about voicing doubts about those commitments — until she was pushed out of the company this week in a dispute over a research paper examining the societal dangers of an emerging branch of AI."
+publishedDateTime: 2020-12-04T22:43:00Z
+originalUrl: "https://www.chron.com/news/article/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
+webUrl: "https://www.chron.com/news/article/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
+ampWebUrl: "https://www.chron.com/news/amp/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
 type: article
-quality: 76
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - Facebook AI
   - AI
   - AI Ethics
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
-    width: 1280
-    height: 878
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -77,6 +76,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ffhf43j2lAKVWYkYEuSGWrc1gi6yr+fYWQ9Sv05QylBGb7mSn2n90TRe79GeyyRFafTlO3wE9RiL170Vezl/3J1W7kbIgNH/jt0t0uTVVBN4oJa7EfvWHzGlfutyHz3890gGwXl5hY9oGp6FM5i2E20sJtSokHtkpqVak6VMfoMZLafaNWm8A4Re2U+BCxSs1JdLCE2tSBAx42fJMLaWskyRWOW7zXDFh0Eq1/mhZzr4JJIVHq28Y56RbmJBMYbVIx1/lOZ7ZLhOtS4tAnrxsgJ+o+EI1HEJK9cnf/CDb/qHbYexNs2cOUBruqALpEDjjycCUvvUr6TqvXayrRV3bb5wQ4fYHnd9uuzF+MZLpyM=;5dae4XKNlvh73EZSpGClwQ=="
+secured: "Bsm5qkeStOIOB2V0mb0vIux6jASeZYXcnipyKeEThPIYwqeWUQS1ngj9ffQsmu6umG7O+ZIv0kSZ44QuAbxR71Menj31+BFcDQg1Sf/eRt2Zu1zgkhUJhMnojdvKl/vn5MZRU+F5OdGlsmEmniETLh78rhmdvGdw3BX+yavcoyFHQ2IpVH6x9hrPFCHHyKwC52mVpZlMLyfZzLZVnJZZ5Xbrujb4k91QZuvGTsx5VZw9+nXDGsYdMZTTEiZk1GS6A00Ig09gzN4ybgV8ZzOkAMgLd/eEkMR9DqKCeTkd0YnclEwrownTtZW78rGMxlYvg+uxB20DL6LvCfRERli2yJ14MaICVe0kXNuclPOqfvY=;apo+/Kmyxub20vZETSU1dA=="
 ---
 

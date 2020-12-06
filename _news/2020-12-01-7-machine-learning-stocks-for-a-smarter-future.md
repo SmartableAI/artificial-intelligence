@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "7 Machine Learning Stocks for a Smarter Future"

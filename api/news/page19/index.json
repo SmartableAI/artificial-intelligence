@@ -2,6 +2,109 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-19-weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes.md",
+      "title": "Weather forecasts get an AI update with Atmo as businesses grapple with climate-related catastrophes",
+      "excerpt": "“I thought I have to build something to make the intersection of weather and AI much more available for everyone.” That was the beginning of a four year journey, which culminated in Atmo ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1267240670.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/amp/",
+      "publishedDateTime": "2020-11-18T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-how-to-set-up-speech-to-text-in-windows-10.md",
+      "title": "How to set up speech-to-text in Windows 10",
+      "excerpt": "Windows 10 conveniently groups its voice commands under Speech Recognition, which interprets the spoken word across the operating system for various tasks. We’ll teach you how to get everything ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/10-incredibly-useful-windows-apps-2-1200x630-c-ar1.91.jpg",
+          "width": 500,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
+      "publishedDateTime": "2020-11-18T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving.md",
       "title": "How The Rick And Morty Butter Robot Is Cooking Up Chaos This Thanksgiving",
       "excerpt": "Founded by Carnegie Mellon alums on a mission to make robots more fun, the scrappy startup acquired the assets of the defunct ... Since sentience is considered years away on the AI roadmap by many industry experts, I pressed Hanchar to explain how they ...",
@@ -1115,101 +1218,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-using-transformers-to-create-music-in-aws-deepcomposer-music-studio.md",
-      "title": "Using Transformers to create music in AWS DeepComposer Music studio",
-      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched a Transformer-based model that iteratively&nbsp;extends your input melody up to 20 seconds.&nbsp;This newly created extension will use the style and musical motifs found",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/Using-Transformers-2-1.jpg",
-          "width": 800,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T11:39:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-lapd-bans-use-of-third-party-facial-recognition-software-for-law-enforcement-work.md",
-      "title": "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work",
-      "excerpt": "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
-      "originalUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg",
-          "width": 708,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/lapd-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban",
-      "publishedDateTime": "2020-11-18T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

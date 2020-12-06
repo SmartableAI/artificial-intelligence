@@ -57,20 +57,6 @@ related:
         width: 580
         height: 551
         isCached: true
-  - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
-    excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
-    publishedDateTime: 2020-12-02T01:57:00Z
-    webUrl: "https://siliconangle.com/2020/12/01/amazon-brings-machine-learning-industry-devops-contact-centers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-02_083650-1.png"
-        width: 1253
-        height: 737
-        isCached: true
   - title: "AWS re:Invent: Voice Recognition For Call Centres And Voice Print Among Others"
     excerpt: "Amazon Web Services unveils voice recognition software service. The tool will help call centres respond to customers more efficiently"
     publishedDateTime: 2020-12-02T16:15:00Z

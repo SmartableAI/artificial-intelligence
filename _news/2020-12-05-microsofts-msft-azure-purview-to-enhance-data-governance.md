@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
-    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
-    publishedDateTime: 2020-12-02T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 86
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
     excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
     publishedDateTime: 2020-12-03T16:04:00Z

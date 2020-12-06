@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-dat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
-    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
-    publishedDateTime: 2020-12-02T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 86
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
     excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"

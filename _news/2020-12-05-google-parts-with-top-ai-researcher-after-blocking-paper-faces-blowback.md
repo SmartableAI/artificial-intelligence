@@ -77,6 +77,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 1,000 Google employees have signed a letter demanding answers from leadership after a top AI researcher was suddenly fired"
+    excerpt: "A petition signed by more than 1,000 Googlers demands that managers explain why they rejected a research paper at the heart of Timnit Gebru's firing."
+    publishedDateTime: 2020-12-04T16:55:00Z
+    webUrl: "https://www.businessinsider.com/more-than-1000-google-employees-signed-petition-over-researcher-firing-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/more-than-1000-google-employees-signed-petition-over-researcher-firing-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-than-1000-google-employees-signed-petition-over-researcher-firing-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/5fcaaf5ab6a3a800199b6cc4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
     excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
     publishedDateTime: 2020-12-06T16:52:00Z

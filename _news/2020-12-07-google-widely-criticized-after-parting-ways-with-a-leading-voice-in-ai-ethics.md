@@ -88,6 +88,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "More than 1,000 Google employees have signed a letter demanding answers from leadership after a top AI researcher was suddenly fired"
+    excerpt: "A petition signed by more than 1,000 Googlers demands that managers explain why they rejected a research paper at the heart of Timnit Gebru's firing."
+    publishedDateTime: 2020-12-04T16:55:00Z
+    webUrl: "https://www.businessinsider.com/more-than-1000-google-employees-signed-petition-over-researcher-firing-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/more-than-1000-google-employees-signed-petition-over-researcher-firing-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-than-1000-google-employees-signed-petition-over-researcher-firing-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/5fcaaf5ab6a3a800199b6cc4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "598nHgHyq7VwrQ4LN04G2ULugl1hbLbbpQ9UK4Q+zcEWFWjPyo9swcuJsSkPtW7ah0yE5H+SvttCxgru2Mw1OmVl15qwk/zr0S4qCtRcQ8PEqpL2w5DXmWAwEUprJQ5rHge80kMuS+uuQQf0gVSq374kraaNgvTHR+r6btSm9imhvYBdrJfxIUZLzPeRE5zji1BKee7UAf5CB2pxoh3DBZiWhrZ8SCFuPvOE4s8LgF3wVQuBl8iuZ2l8DuPYafGVGZlZ4LLxifRMg1S+9uZdM6/MNAOGnIGt52XIwTpSI/+ZpLUHXUjnUazRkf1KmNtGy6hyOIOEqSk1KAtfHXUrZc5GI93qaeGnwggl2B0LMU4=;V0f55s0Quoqnc+JXv99htg=="
 ---

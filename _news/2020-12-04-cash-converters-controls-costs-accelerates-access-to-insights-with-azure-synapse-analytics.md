@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools"
-    excerpt: "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID."
-    publishedDateTime: 2020-12-02T02:42:00Z
-    webUrl: "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png"
-        width: 797
-        height: 435
-        isCached: true
   - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
     excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
     publishedDateTime: 2020-12-03T21:13:00Z
@@ -81,6 +65,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 38
+  - title: "Alinta Energy powers ahead with cloud-based data warehouse and AI infused analytics"
+    excerpt: "Every time an Australian batsman heads to the crease, Alinta Energy’s logo gets an outing. As principal partner of the men’s cricket team Alinta knows quality when it sees it. As one of the country’s leading power generators and retailers,"
+    publishedDateTime: 2020-12-03T18:22:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/alinta-energy-powers-ahead-with-cloud-based-data-warehouse-and-ai-infused-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/12/Alinta-Energy-1024x559.jpeg"
+        width: 1024
+        height: 559
+        isCached: true
   - title: "New data analytics tools aim to help deliver speedier packages, better patient care and more"
     excerpt: "Azure Purview, Microsoft’s new data governance service, means data engineers can just be data engineers, and data scientists can just be data scientists."
     publishedDateTime: 2020-12-03T21:06:00Z
@@ -108,6 +106,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Canadian organizations are breaking down data silos with the launch of Azure Synapse and Azure Purview"
+    excerpt: "Post by Henrik Gütle, General Manager, Microsoft Azure  About five years ago, as enterprises were transitioning to the cloud on mass to reap the benefits of flexible, large-scale computing and data storage,"
+    publishedDateTime: 2020-12-03T16:29:00Z
+    webUrl: "https://news.microsoft.com/en-ca/2020/12/03/canadian-organizations-are-breaking-down-data-silos-with-the-launch-of-azure-synapse-and-azure-purview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 23
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/67/2020/12/MDC19_hotAisleGreen_002-1-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
     excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
