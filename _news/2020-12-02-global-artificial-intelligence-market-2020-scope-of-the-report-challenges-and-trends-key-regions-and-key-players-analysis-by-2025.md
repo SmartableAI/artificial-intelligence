@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
+    excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
+    publishedDateTime: 2020-12-06T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence for Edge Devices Market 2020 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2025"
     excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2020-12-02T05:55:00Z
@@ -65,6 +79,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
+    excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
+    publishedDateTime: 2020-12-06T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

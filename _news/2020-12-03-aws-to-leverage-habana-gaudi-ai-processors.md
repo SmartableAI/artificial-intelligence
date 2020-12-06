@@ -69,20 +69,6 @@ related:
         width: 960
         height: 675
         isCached: true
-  - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
-    excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
-    publishedDateTime: 2020-12-01T17:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-witness-huge-growth-by-2025-google-intel-nvidia-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS and Intel Announce Gaudi (Habana)-based EC2 Instances for AI Training"
     excerpt: "As customer validations go, it’s safe to say AWS is at the – *cough* – high end of any vendor’s wish list. So it’s understandable Intel is today crowing about a notable win for Gaudi AI accelerators from Habana Labs,"
     publishedDateTime: 2020-12-01T18:31:00Z

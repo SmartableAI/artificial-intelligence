@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Self-Driving Cars Need Those ‘How Am I Driving’ Bumper Stickers"
-    excerpt: "Those ubiquitous \"How Am I Driving?\" bumper stickers are needed for self-driving cars too. getty. Sometimes bumper stickers are notably helpful. While out driving, you are bound t"
-    publishedDateTime: 2020-12-01T16:37:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4715574e6fb2cd0b8b531%2F0x0.jpg%3FcropX1%3D365%26cropX2%3D4717%26cropY1%3D60%26cropY2%3D3333"
-        width: 1199
-        height: 902
-        isCached: true
   - title: "Waymo will build a city in Ohio to test its self-driving cars"
     excerpt: "Talk about pop-up urbanism: The Alphabet-owned Waymo will build a fake city in East Liberty, Ohio, to test its next generation of autonomous vehicles"
     publishedDateTime: 2020-12-02T20:21:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://assets.archpaper.com/wp-content/uploads/2020/12/Screenshot-2020-12-02-16.15.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Waymo's self-driving systems will be vetted at two proving grounds"
-    excerpt: "As it readies its self-driving technology for operations across a wide swath of environments, Waymo will soon begin testing at two new dedicated proving grounds. The company said Tuesday it has partnered with the Transportation Research Center in East Liberty,"
-    publishedDateTime: 2020-12-01T15:57:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymos-self-driving-systems-will-be-vetted-two-proving-grounds"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "f8kAuWmjgG/FSu8ZiluThdDoiDqEzeEpERKI6lGt8JGv42+KnZNBi+E68q0i7nGOZ4bw0qhGrlMTGP2xqR9spmHRt/8MHhN/E7J47kCplDG6wFiHvVw71tMzctehrMROW6l7ViG3I0KNsIeyGuuOIUE1pBoqUaQ7UM5d0Slz+EkUiACpVl08dPAMKM5KMFZ7VRI9rGdT0LPnPfQwQKdtDnZHoGwPWs1svRcbTz9aSBGpPp9ztoIRy8rNVxETTZcnTNITnqs+Fl491PxSjcUwV6qJD61ZAsaNf1K5CDgFwZSYKDqx8daktT9YOyJGr2X0e9MmWhei5sewuIxIf5K06n92DSUZz1SzoKibNeM7MYet5YQ1nfYHrV0r/xq8Ed/xUeLDoAoLacMSwj9AnzZ+AziEY/8Y7ttpap10Q+Ha00gn02DsEFJW5EL9LoiGBEQ0p4ooU4d/19XRFoqLpj0eJlfaXJeXj61kEXh7R2nJIHod6WS2HIJ04hdsgOnH694mIv+C7thk/qJtxKRxE4CxfA==;lrzbIi/VcZMWHM1vrROjdA=="

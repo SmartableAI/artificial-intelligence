@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Self-Driving Cars Need Those ‘How Am I Driving’ Bumper Stickers"
-    excerpt: "Those ubiquitous \"How Am I Driving?\" bumper stickers are needed for self-driving cars too. getty. Sometimes bumper stickers are notably helpful. While out driving, you are bound t"
-    publishedDateTime: 2020-12-01T16:37:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4715574e6fb2cd0b8b531%2F0x0.jpg%3FcropX1%3D365%26cropX2%3D4717%26cropY1%3D60%26cropY2%3D3333"
-        width: 1199
-        height: 902
-        isCached: true
   - title: "Not All Sunshine and Rainbows: Waymo’s Self-Driving Cars Take on Inclement Weather"
     excerpt: "Until now, self-driving cars have mostly breezed around the sunny streets of places like Arizona and Northern California"
     publishedDateTime: 2020-12-04T14:00:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2020/12/waymo_minivan_5.jpg"
         width: 1408
         height: 792
-        isCached: true
-  - title: "Waymo's self-driving systems will be vetted at two proving grounds"
-    excerpt: "As it readies its self-driving technology for operations across a wide swath of environments, Waymo will soon begin testing at two new dedicated proving grounds. The company said Tuesday it has partnered with the Transportation Research Center in East Liberty,"
-    publishedDateTime: 2020-12-01T15:57:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymos-self-driving-systems-will-be-vetted-two-proving-grounds"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "pP+5UhYFtgz2jRqAxnQ197klAZhceiSKNfde1m8+J6nGWZVdHNivy3/AIZq1OGQrH4XbYolGwcm82TYzxzpJ9as9xhIX0KlIa0RWiVu4VJvb3fvJ//9B868YhCH+/MEEj9HKoGvRlGcSw8VTg4isxyj6KiNpFug7g7y3uyBGjjwjgXyFWXbTfHUv93dXrIlo2wtET8gZzoEdPfypPlYKyZGucozZ7q0J9eYSaHKV470Ip0P5p+WnMuqY4yBrkJfh+ryaUYMjEOklhrpS2ruUuCGrdzL0HHspRnQPQ4ZCHiX0XoezxV78/7Q5Ofm1eEDerBT3lDwNGOdDs/XLs1pmK0+uYc6n5FGCNSABdtme9VcVBh3VVw68zG2aZ0owPHuP1Ns9GT4a/iq1RvCoEcZpV6AlAY/+aMnR6chvwrrLARtk/hyT+xs+tsmnb7cYS/MAc28XdSBjnqcDBJQY3eiiQHktqlCdGwDg7jpjHb1qwWea7sBEdyO0OXHzT3Y0Yyj+NR5jVEgeQaqFePPFruy3HQ==;ecjoI5W/afUW2Jmp+gywuA=="

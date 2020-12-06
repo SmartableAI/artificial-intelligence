@@ -2,6 +2,135 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
+      "title": "Binarized neural networks show promise for fast, accurate machine learning",
+      "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/november2320.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "publishedDateTime": "2020-11-24T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices.md",
+      "title": "Syxsense Announces New Support for Amazon Web Service (AWS) Linux Devices",
+      "excerpt": "Syxsense, a global leader in SaaS IT and security management solutions, extends support of its cloud-native, real-time architecture to Amazon Web Service",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-garuda-capital-acquires-minority-stake-in-hong-kong-fintech-startup-finlink.md",
+      "title": "Garuda Capital acquires minority stake in Hong Kong fintech startup FinLink",
+      "excerpt": "This acquisition comes after FinLink raised US$2.5 million in a seed round led by PF Ventures and Garuda Capital in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/garuda-capital-acquires-minority-stake-hong-kong-fintech-startup-finlink?comments=true",
+      "originalUrl": "https://www.techinasia.com/garuda-capital-acquires-minority-stake-hong-kong-fintech-startup-finlink?comments=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-artificial-intelligence-could-put-milton-keynes-on-a-par-with-san-francisco-and-singapore.md",
       "title": "Artificial intelligence could put Milton Keynes on a par with San Francisco and Singapore",
       "excerpt": "MK has the world’s largest fleet of autonomous delivery robots and was the UK partner for a three-year trial of driverless autonomous vehicles. In the last year alone, Santander’s has begun its £150m investment into a new innovation centre in Central ...",
@@ -1056,135 +1185,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-can-we-make-our-robots-less-biased-than-we-are.md",
-      "title": "Can We Make Our Robots Less Biased Than We Are?",
-      "excerpt": "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police officers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
-      "publishedDateTime": "2020-11-23T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-global-ai-based-learning-market-in-a-boom-phase-free-webinar.md",
-      "title": "Global AI-based Learning Market in a Boom Phase: Free Webinar",
-      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market\". According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18494470",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494470",
-      "publishedDateTime": "2020-11-23T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-uk-based-ai-fintech-finchatbot-secures-12-million-through-latest-investment-round.md",
-      "title": "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round",
-      "excerpt": "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/",
-      "publishedDateTime": "2020-11-23T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

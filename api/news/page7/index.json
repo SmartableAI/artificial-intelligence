@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-30-london-ai-lab-claims-breakthrough-that-could-accelerate-drug-discovery.md",
+      "title": "London A.I. Lab Claims Breakthrough That Could Accelerate Drug Discovery",
+      "excerpt": "Researchers at DeepMind say they have solved “the protein folding problem,” a task that has bedeviled scientists for more than 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/science/30SCI-DEEPMIND1/30SCI-DEEPMIND1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html",
+      "publishedDateTime": "2020-11-30T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-one-of-biologys-biggest-mysteries-largely-solved-by-ai.md",
+      "title": "One of biology's biggest mysteries 'largely solved' by AI",
+      "excerpt": "One of biology's biggest mysteries has been solved using artificial intelligence, experts have announced. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/science-environment-55133972",
+      "originalUrl": "https://www.bbc.com/news/science-environment-55133972",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FFAA/production/_115705456_t1053onexpv02.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-55133972",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55133972",
+      "publishedDateTime": "2020-11-30T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-new-system-optimizes-the-shape-of-robots-for-traversing-various-terrain-types.md",
+      "title": "New system optimizes the shape of robots for traversing various terrain types",
+      "excerpt": "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/newsystemopt.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
+      "publishedDateTime": "2020-11-30T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction.md",
       "title": "Alphabet’s DeepMind achieves historic new milestone in AI-based protein structure prediction",
       "excerpt": "DeepMind, the AI technology company that’s part of Google parent Alphabet, has achieved a significant breakthrough in AI-based protein structure prediction. The company announced today that its ...",
@@ -1043,134 +1189,6 @@
         "Machine Learning",
         "AI in Autos",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles.md",
-      "title": "Volvo Designs Driving Simulator Using Video Game Engine To Train Autonomous Vehicles",
-      "excerpt": "More autonomous vehicle researchers and engineers are turning to video games to enhance the performance and reliability of autonomous vehicles. According to TNW, Volvo has begun to utilize video games to assist in the development of autonomous vehicles and the AI algorithms that will drive them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
-      "originalUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-israeli-ai-sports-highlights-company-expands-to-russian-market.md",
-      "title": "Israeli AI sports highlights company expands to Russian market",
-      "excerpt": "Since their launch last year, WSC Sports has grown into a world leader in AI-driven sports video technology, creating highlights for over 100 leagues and broadcast partners around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/jpost-tech/israeli-ai-sports-highlights-company-expands-to-russian-market-650609",
-      "originalUrl": "https://www.jpost.com/jpost-tech/israeli-ai-sports-highlights-company-expands-to-russian-market-650609",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/444758",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/jpost-tech/israeli-ai-sports-highlights-company-expands-to-russian-market-650609/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israeli-ai-sports-highlights-company-expands-to-russian-market-650609/amp",
-      "publishedDateTime": "2020-11-29T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-how-the-department-of-defense-approaches-ethical-ai.md",
-      "title": "How The Department Of Defense Approaches Ethical AI",
-      "excerpt": "Military and defense organizations using AI and machine learning can realize tremendous advantages over increasingly capable adversaries and competitors. But there is also a risk of unintended consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc2fb4596d24545cccb633c%2F0x0.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/amp/",
-      "publishedDateTime": "2020-11-28T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

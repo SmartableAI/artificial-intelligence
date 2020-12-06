@@ -58,22 +58,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Learning at your own pace with AI"
-    excerpt: "When Singapore emerged from a two-month long COVID-19-imposed Circuit Breaker (CB), AI Singapore, a national Artificial Intelligence (AI) program set up by the National Research Foundation (NRF) to anchor deep national capabilities in AI,"
-    publishedDateTime: 2020-12-01T16:00:00Z
-    webUrl: "https://phys.org/news/2020-12-pace-ai.html"
-    ampWebUrl: "https://phys.org/news/2020-12-pace-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-pace-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/students.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "nrT4QpNtKeD15s4Mjoj3RuEiP+wZ8g6tcYXdtWx4bhXemzPmhV3tlpheQHdgaQDc1oOaUD+XNiWBtuv4kBHrw0sGLLECYOpIkM/kb9QAHg8xKExH/5ypMRBDQmGkvNIRogwg+FlQi8BtjNoSMdlNWMjghTOgVedA7WvVM/JhNDjWRAmVJmyZBcnU0nGhQrDLLT1xvS4j6RagdH2cAxnxQhwNgM9uwZHG3z6N9f1vutmbSkb8HuFGXLKHFF6NmIf7rlLsMAfm0mdyuDaz3YTwHyemBefan4hz8EdUs7XMmxuMi2l6ph6auZRYuA6uwp7rTw3zWsct1FJ590yviVGysXya/lLBkbJP5egUAWL8mbiu6p144e6TCcJapFZkuceJBEoIXWXp4PCZWrQv72i4fS4QOfauo3KyYCxC1pT9EyAle9sTMz5SIfYQ7XPyBo21fz2F902PK5HYvt0IG2V1L7BbP7NE34dv1tv5kgQPRBlMxXGrQlaBnyTcJJesytnRAkTFkDL8HMp7kWi7oV2ShQ==;2dj2eLNOiivdYb2hQliz8g=="
 ---

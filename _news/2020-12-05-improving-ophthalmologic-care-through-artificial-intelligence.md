@@ -7,7 +7,7 @@ originalUrl: "https://med.stanford.edu/ophthalmology/news-and-media/annualreport
 webUrl: "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

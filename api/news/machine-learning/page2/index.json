@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-27-deep-learning-helps-determine-a-womans-risk-of-breast-cancer.md",
+      "title": "Deep learning helps determine a woman’s risk of breast cancer",
+      "excerpt": "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "publishedDateTime": "2020-11-26T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research.md",
+      "title": "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research",
+      "excerpt": "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-the-impact-of-machine-learning-ai-on-advertising-in-a-privacy-compliant-age.md",
       "title": "The impact of machine learning & AI on advertising in a privacy compliant age",
       "excerpt": "Sian Williams, Audience Strategy and Planning Director at MediaCom North, explains how AI offers a future of increased automation, faster decision-making and ‘hyper-personalisation’ that will make marketing comms more effective and businesses more efficient.",
@@ -1298,111 +1393,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-zapata-raises-38-million-for-quantum-machine-learning.md",
-      "title": "Zapata raises $38 million for quantum machine learning",
-      "excerpt": "Zapata Computing has raised $38 million for its quantum computing enterprise software platform. The figure, which brings its total funding to over $64 million, will be put toward Zapata’s core ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/i.ytimg.com/vi/5h_i4Po9Wds/hqdefault.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "publishedDateTime": "2020-11-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-the-new-m1-macs-make-cutting-edge-machine-learning-workstations.md",
-      "title": "The new M1 Macs make cutting-edge, machine-learning workstations",
-      "excerpt": "When you think of programming machine-learning PCs, hard-core developers dreams turn to high-priced powerhouse machines running Linux. But a recent benchmark by TensorFlow programmers showed that Macs powered by Apple's new M1 chip can give these boxes a run for their money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "originalUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/12/1e1a25bd-00e5-4234-9946-12c7f553eb0b/thumbnail/1200x675/8fcd7ac18ce1610fca957b4c1e46af19/20201111-j2-m1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "publishedDateTime": "2020-11-19T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

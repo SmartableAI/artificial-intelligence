@@ -370,7 +370,7 @@
       "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -475,7 +475,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -671,21 +671,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications.md",
-      "title": "Amazon launches new AI services for DevOps and business intelligence applications",
-      "excerpt": "Amazon launched a slew of new AI and machine learning services duiring its re:Invent conference, including DevOps-focused offerings.",
+      "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-in-the-cloud.md",
+      "title": "Amazon debuts Trainium, a custom chip for machine learning training in the cloud",
+      "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/",
+      "webUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 797,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -693,9 +693,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/",
-      "publishedDateTime": "2020-12-01T10:25:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "publishedDateTime": "2020-12-01T10:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -718,9 +718,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {

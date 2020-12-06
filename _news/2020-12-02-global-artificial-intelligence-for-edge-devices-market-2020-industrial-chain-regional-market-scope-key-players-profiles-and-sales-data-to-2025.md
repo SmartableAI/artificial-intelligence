@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
+    excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
+    publishedDateTime: 2020-12-06T07:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
+    excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
+    publishedDateTime: 2020-12-06T07:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Blockchain AI Market (2020 to 2025) - Enhancement in the Acceptance of Cloud-Based Security Solutions Presents Opportunities"
     excerpt: "The global blockchain AI market size is projected to grow from USD 228 Million in 2020 to USD 703 Million by 2025, at a CAGR of 25.3% during the Forecast Period. By component, services segment to grow at a higher CAGR during the forecast period The services segment includes various services required to deploy,"
     publishedDateTime: 2020-12-01T17:56:00Z

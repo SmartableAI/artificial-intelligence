@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
-excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
-publishedDateTime: 2020-12-03T05:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
-webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
+excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
+publishedDateTime: 2020-12-06T07:26:00Z
+originalUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
+webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
 type: article
-quality: 31
+quality: 74
 heat: -1
 published: false
 
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
+  - AI in Security
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T07:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -152,6 +138,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
+    publishedDateTime: 2020-12-03T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
     excerpt: "The “Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2020-12-02T17:36:00Z
@@ -167,6 +167,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SPn0dx8kgolIAQS6f/eCjwvB5rWHfACUT2jOyJ0CVh4mpM/slPopt37WqM81+fPt8FK0jn779T7QCqeDtBaRyfeLYeSN6pgUxf6L5iaUdqwZlIXJ+6Fh1mcD8q1wxTSyoBVvQF3RrsRNjTnwnnRRNqRam44mBODuW95yW80Z9bmsZ494e9O3N2K6HucrLqDiG+6BKKD3BrNa6Pzj02ObLuvSN8z5botGgJYHkwyUS4UvntODSsx9ccjZKEKfL4TU5nM2/pXa19H5qZrySKXPzON/ZpRat3b4tvnFjuz+pMoW5qIMeBlOyZQrzHIQMOvmN981rSdMW/Pyy+c6phiBfaZZkLb0eaH+z3Mw+jXT7R8=;/LwoWvAqdBqI8V51ej/pKg=="
+secured: "8GTFUCAGtMk1VU5Q4P9tANF3ID/2BmSAPwQP7melShCUX10GV2QzVQdSWBtadfuKWEeEi3V8NM42+QeJNYC3uyJATkTgzqoNC1q3WB4jRHW3RF1Cfag1+l6RsOTQseqH4yIm2hjbEnOp+kAfhGoxTdACKIo+Ixvk/FCu/ISMp1HNZaZCi5uyXzGEv3w2lR5s3Csk/nrYeqBOZm2lSnegm+3dql8Sb0AfZyBlD3fIBb/ic+LTyxXV2VlA290bzJx2T4xoeFB+gxAp9AatqHKRtxQTOpOp8sq/CKzfsZQUK+gVYTxgICXjJkeanHcD4Qwa0bIosi2VQU/B8xjiNk4RzlNlSLBDcfd2riK0OR8pXQY=;yjJns0ShWk0g6VwINKE8Tg=="
 ---
 

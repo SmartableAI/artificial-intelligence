@@ -9,7 +9,7 @@ ampWebUrl: "https://www.alleywatch.com/2020/12/us-startup-funding-top-largest-no
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/12/us-startup-funding-top-largest-november-2020-vc/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 15 Largest NYC Tech Startup Funding Rounds of November 2020"
-    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of November 2020; broken down by industry, stage, investors, and"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.alleywatch.com/2020/12/nyc-startup-funding-top-largest-november-2020-vc/9/"
-    ampWebUrl: "https://www.alleywatch.com/2020/12/nyc-startup-funding-top-largest-november-2020-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/12/nyc-startup-funding-top-largest-november-2020-vc/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 42
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/11/11_15_NYC-TECH-NEWS.002-768x412.jpeg"
-        width: 768
-        height: 412
-        isCached: true
   - title: "AI-based noise suppression, polls in Teams meetings, and more. Here’s what’s new in Teams for November 2020"
     excerpt: "Microsoft has just published a monthly recap of tons of new features announced for Microsoft Teams in the month of November. From the AI-based noise suppression capability, polls in Teams"
     publishedDateTime: 2020-12-02T18:00:00Z

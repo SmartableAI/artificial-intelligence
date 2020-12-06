@@ -1,25 +1,23 @@
 ---
 category: news
 title: "StereoVision Imaging, Industry Leader in 4D FMCW LiDAR Technology, Adds Five New Continuation Patents to Extensive IP Portfolio"
-excerpt: "StereoVision Imaging, Inc. (SVI) has been granted four new continuation patents by the United States Patent and"
-publishedDateTime: 2020-12-03T21:48:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/g18644313/stereovision-imaging-industry-leader-in-4d-fmcw-lidar-technology-adds-five-new-continuation-patent"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/g18644313/stereovision-imaging-industry-leader-in-4d-fmcw-lidar-technology-adds-five-new-continuation-patent"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18644313"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18644313"
+excerpt: "(GLOBE NEWSWIRE) -- StereoVision Imaging, Inc. (SVI) has been granted four new continuation patents by the United States Patent and Trademark Office (USPTO) and one new continuation patent issued by the European Patent Office."
+publishedDateTime: 2020-12-03T21:30:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8096577/stereovision-imaging-industry-leader-in-4d-fmcw-lidar-technology-adds-five-new-continuation-patents-to-extensive-ip-portfolio"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8096577/stereovision-imaging-industry-leader-in-4d-fmcw-lidar-technology-adds-five-new-continuation-patents-to-extensive-ip-portfolio"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "x9y3AM2Iy7yGXt1KYGVlFPccM8oHY/cY9fnk76YcBgeMJid4xGG+VufytTdMVYVWoqOExZSHa8fSinWp8p85Xvrik5ZZ7Z7nJjxDe7VqqhZ6YuzX9KoXS8hK2R8lyPtN6b/rGDPJMFxtPqDum/JUBPKs4kEEilbxWUJ+MNsDwQF3nQxMFlwMQrat57skf/CXCeJYtiIHNPhexlmmlj6r5yR/NL3dNUVfGpnP5UJR2xIQjGtuchdq9GpXEItySjeX3emHlaTb8Y9i9m/jfMbkJEW7Mc+637XZbQUNoJGxwscgqsNfPOEJz1Fv6qeL00sRI5emccMOZH0oeA+sWinm4lO6mXkxPNUzl0pPVIGAhlg=;MCWh6XXogWQpXvHLp8ak/A=="
+secured: "1WzJmlkmMOKBbZ4TCsRu2DQOJKbf+bcaPrySmKI5vQpmeuNHbQ/MGBH1KBD674kuZRJOFQrBo+1A8mYuoOY9GPxMdbuHglxqEPT8eOPn8KvanOBbgqUBFrHzKWbAWZT2Vdf1Z0a1huvcbIm177rE/eKzgxAARHQITN8EU/VjpCAOgjpL4rUwF4anB8b7sT5y9BIBk6yhSAOwiH6K9y5mYofstBZz7bC8P2AmTAIg+3Q0wcMoVkdOfqCXkz11u83odS81LeSutjxbPtK4bd57GOZ503TAZhyLQAGDiB3JGlKI+ev2FX6BvmA84QSh3T0VG5Nz8NlcaQk5RAnyzv4dluwiL69IeW4K+Mzzdlt60wg=;8/VSnZKSFW5/rqxxwuswsA=="
 ---
 

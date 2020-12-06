@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Soldiers Don’t Trust Robot Battle Buddies. Can Virtual Training Fix That?"
-    excerpt: "Allowing soldiers to train their robot wingmen in game environments could be the key to human-machine teaming."
-    publishedDateTime: 2020-12-01T15:55:00Z
-    webUrl: "https://www.govexec.com/defense/2020/12/soldiers-dont-trust-robot-battle-buddies-can-virtual-training-fix/170384/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 53
-    images:
-      - url: "https://cdn.govexec.com/media/img/upload/2020/12/01/120120d1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Allowing soldiers to train their robot wingmen in game environments could be the key to human-machine teaming."
     excerpt: "Allowing soldiers to train their robot wingmen in game environments could be the key to human-machine teaming."
     publishedDateTime: 2020-12-01T20:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.gsmarena.com/snapdragon_888_fully_unveiled_the_first_with_
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_888_fully_unveiled_the_first_with_cortexx1_35_gpu_triple_isp_and_more-amp-46555.php"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1220
     height: 526
     isCached: true
-
-related:
-  - title: "Snapdragon 888 unveiled with massive upgrades to GPU, AI hardware and 5G modem"
-    excerpt: "Qualcomm teases \"most significant upgrade\" to the Adreno GPU, holds back details for now. The CPU is kept under wraps too."
-    publishedDateTime: 2020-12-01T16:20:00Z
-    webUrl: "https://www.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-news-46535.php"
-    ampWebUrl: "https://m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 70
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/20/12/snapdragon-888-announced/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
-  - title: "The new Snapdragon 888 5G processor brings substantial gains in the CPU, GPU, and Camera departments"
-    excerpt: "It's the second, and last day of Qualcomm's Snapdragon Summit event that was held in the ether, with more details of the chipmaker's new Snapdragon 888"
-    publishedDateTime: 2020-12-02T18:19:00Z
-    webUrl: "https://www.talkandroid.com/360869-qualcomm-snapdragon-888-2/"
-    type: article
-    provider:
-      name: talkandroid.com
-      domain: talkandroid.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/img.talkandroid.com/uploads/2020/12/snapdragon-888-chip-case-scaled.jpg"
-        width: 2560
-        height: 1605
-        isCached: true
 
 secured: "X+UA+Xc47lUWwTp7emNxF/oSwL+abUheJf0zbmEtcTz5ZtNW9BgbNBz3AV7DDO2U87dp1GIcgTx+ZSDjfREoijD0aZEjvS+Oji4eWmvSM1jJQuyQboqZY1TSf3bvzL16liCepKkRrVvOgbvVnKI3NXju8bHbmQcxlKuqD7yG/tBTYKERvkaD9IoBrXr70Ywmjw6Q+YaFGkVvWGA1V5TudQTc+A8C32q4FxZYMYy2p76K6CRKk5pEojHyxr9txNgkMnNPO21wVyQuSUNijItJOVbarv1CAlfEoTm1h4/6kwYLEG2BafIu1qvfJnw7ipM8PnjeoRG/eCH3vPSTS/vLK7Ud9Gsfc8hIRt8WOXsEkGMVmBWCEZpodZo8pv29QIQZGuGvou1pC6Yt8Nr96mWCCwC+j+CpkoLfvY7fb+gYQTeAJZsv8UeKndQHc43e6Tenoud553VgVqbwU2yZ+wyloYDY2/MYApSp5CDIRJqGKny4S35bZFOFKMislLZvj0Yk0SG63FZLYvsggfbYiAo0fw==;u4BaJyefXoq8m7RgwxhJfg=="
 ---

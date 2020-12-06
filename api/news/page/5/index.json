@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-02-scale-ai-hits-35b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza.md",
+      "title": "Scale AI hits $3.5B valuation as its turns the AI boom into a venture bonanza",
+      "excerpt": "Scale AI, the four-year-old data labeling startup, has discovered that selling the picks and shovels needed to develop and apply artificial intelligence is big business. The company, which created a visual data labeling platform that uses software and people to label image,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
+      "publishedDateTime": "2020-12-01T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-aws-previews-ultra-efficient-ai-instances-for-neural-network-training.md",
       "title": "AWS previews ultra-efficient AI instances for neural network training",
       "excerpt": "Invent event today alongside several other new compute offerings optimized for use cases such as running databases and rendering video content. AWS’ planned AI instances will be based on Intel Corp.’s Gaudi chips (pictured),",
@@ -258,7 +309,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -290,7 +341,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -450,21 +502,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications.md",
-      "title": "Amazon launches new AI services for DevOps and business intelligence applications",
-      "excerpt": "Amazon launched a slew of new AI and machine learning services duiring its re:Invent conference, including DevOps-focused offerings.",
+      "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-in-the-cloud.md",
+      "title": "Amazon debuts Trainium, a custom chip for machine learning training in the cloud",
+      "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/",
+      "webUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 797,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -472,9 +524,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-launches-new-ai-services-for-devops-and-business-intelligence-applications/amp/",
-      "publishedDateTime": "2020-12-01T10:25:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "publishedDateTime": "2020-12-01T10:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -497,9 +549,62 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets.md",
+      "title": "AWS adds natural language search service for business intelligence from its data sets",
+      "excerpt": "When Amazon Web Services launched QuickSight, its business intelligence service, back in 2016, the company wanted to provide product information and customer information for business users — not just developers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
+      "publishedDateTime": "2020-12-01T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -511,7 +616,7 @@
       "originalUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -597,7 +702,7 @@
       "originalUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -638,6 +743,59 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
+      "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
+      "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
+      "publishedDateTime": "2020-12-01T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
       ]
     },
     {
@@ -1068,154 +1226,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-cyber-security-cloud-launches-wafcharm-on-microsoft-azure.md",
-      "title": "Cyber Security Cloud Launches WafCharm on Microsoft Azure",
-      "excerpt": "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls.md",
-      "title": "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls",
-      "excerpt": "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/",
-      "publishedDateTime": "2020-12-01T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works.md",
-      "title": "Microsoft teams up with Code.org to teach students how AI works",
-      "excerpt": "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
-      "originalUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
-      "publishedDateTime": "2020-12-01T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

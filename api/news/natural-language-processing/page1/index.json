@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wktv.com/content/news/573302281.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -494,6 +494,112 @@
         "Machine Learning",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets.md",
+      "title": "AWS adds natural language search service for business intelligence from its data sets",
+      "excerpt": "When Amazon Web Services launched QuickSight, its business intelligence service, back in 2016, the company wanted to provide product information and customer information for business users — not just developers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
+      "publishedDateTime": "2020-12-01T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
+      "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
+      "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
+      "publishedDateTime": "2020-12-01T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
       ]
     },
     {
@@ -1388,84 +1494,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-speechmatics-any-context-speech-recognition-engine-launches-on-genesys-appfoundry.md",
-      "title": "Speechmatics’ any-context speech recognition engine launches on Genesys AppFoundry",
-      "excerpt": "Speechmatics announced its any-context speech recognition engine is now available on the Genesys® AppFoundry, the industry’s largest dedicated marketplace focused on customer experience solutions. Through mission-critical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/speechmatics’-any-context-speech-recognition-engine-launches-genesys-appfoundry",
-      "originalUrl": "https://www.cambridgenetwork.co.uk/news/speechmatics’-any-context-speech-recognition-engine-launches-genesys-appfoundry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-natural-language-processings-impact-on-marketing.md",
-      "title": "Natural Language Processing's Impact on Marketing",
-      "excerpt": "So what does the surge in NLP use cases and technologies mean for AI in marketing? It’s huge if you ask Paul Roetzer, CEO and founder of the PR 20/20 and the Marketing Artificial Intelligence Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/9b53e77ff6714bfa8801c955a1e1bfc5.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "publishedDateTime": "2020-11-19T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

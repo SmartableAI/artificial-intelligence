@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-pr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
 type: article
 quality: 100
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -78,38 +78,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1277E/production/_115764657_hi020818759.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "DeepMind's New AI May Have Just Solved \"The Greatest Challenge In Biology\""
-    excerpt: "When it comes to life, proteins are everything. The production of proteins from genes underpins every cellular process, every difference in how a person lo"
-    publishedDateTime: 2020-12-01T15:35:00Z
-    webUrl: "https://www.iflscience.com/technology/deepminds-new-ai-may-have-just-solved-the-greatest-challenge-in-biology/"
-    ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-may-have-just-solved-the-greatest-challenge-in-biology/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-may-have-just-solved-the-greatest-challenge-in-biology/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 72
-    images:
-      - url: "https://cdn.iflscience.com/images/8fe3a91f-839f-5873-8e76-4e0bbd8ee237/default-1606835124-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "DeepMind AI solves decades old medical science problem of mapping protein structure"
-    excerpt: "Figuring out a protein’s structure or what is commonly referred to as protein folding, used to take years of laborious experimentation, and even so, they were not accurate. However, AlphaFold – the AI system created by Google’s DeepMind,"
-    publishedDateTime: 2020-12-01T16:35:00Z
-    webUrl: "https://www.moneycontrol.com/news/science/deepmind-ai-solves-decades-old-medical-science-problem-of-mapping-protein-structure-6176601.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/science/deepmind-ai-solves-decades-old-medical-science-problem-of-mapping-protein-structure-6176601.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/science/deepmind-ai-solves-decades-old-medical-science-problem-of-mapping-protein-structure-6176601.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 68
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/01/RTSRMD6-652x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
         isCached: true
   - title: "London AI lab claims breakthrough that could accelerate drug discovery"
     excerpt: "Proteins are the microscopic mechanisms that drive the behavior of viruses, bacteria, the human body and all living things. They begin as strings of chemical compounds before twisting and folding into three-dimensional shapes that define what they can do — and what they cannot."

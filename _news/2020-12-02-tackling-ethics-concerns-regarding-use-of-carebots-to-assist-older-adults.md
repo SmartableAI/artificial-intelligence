@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/ncsu-tec120120.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-12/ncsu-tec120120.php"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Tackling Ethics Concerns Regarding Use of ‘Carebots’ to Assist Older Adults"
-    excerpt: "A new analysis from North Carolina State University highlights the realistic pros and cons of apps and other technologies that use"
-    publishedDateTime: 2020-12-01T15:33:00Z
-    webUrl: "https://www.miragenews.com/tackling-ethics-concerns-regarding-use-of-carebots-to-assist-older-adults/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://news.ncsu.edu/wp-content/uploads/2020/12/Carebot-HEADER-2020.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "Kabx4KK6ROuiGOj5aIhHAn1DErR6BEWEb6VJ49z2gsJMcXnR/ExZ/DAZ+uAlTNcECZ4mW6nw0BvE5RcGbW2QwDIsuJcaHXsLvVqaZce3YGKG0rnbTjnhx+CWv6+azp3jjUS6UqKXYYEN+dSuvqHk98FkS4zf5tyjL4yshugw6KNY1WVIhuDeXyHoMzjSgvlia1DsAVs55G7O946IZnD52tFw1M5+DTg77iITObB67PFhdEqgbKcl/PgGhoEqxUu9XHda6sIGZeBaE/Eoi3Rz3If/SFGEM4Hhs7jV9YAZWFFbhTbajNIA5fhWZZ7hvb0PuDo4XwS0oGqQFxdpxWjZdow+bQxfE5GnwHfYeDgUagE=;UsD/9lh/lo0rhj0onzl1vg=="
 ---

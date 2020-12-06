@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
-excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
-publishedDateTime: 2020-12-03T05:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
-webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
+excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
+publishedDateTime: 2020-12-06T07:28:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
+webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
 type: article
-quality: 31
+quality: 61
 heat: -1
 published: false
 
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
+  - AI in Security
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
-    publishedDateTime: 2020-12-06T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Blockchain AI Market (2020 to 2025) - Enhancement in the Acceptance of Cloud-Based Security Solutions Presents Opportunities"
     excerpt: "The global blockchain AI market size is projected to grow from USD 228 Million in 2020 to USD 703 Million by 2025, at a CAGR of 25.3% during the Forecast Period. By component, services segment to grow at a higher CAGR during the forecast period The services segment includes various services required to deploy,"
     publishedDateTime: 2020-12-01T17:56:00Z
@@ -152,6 +138,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
+    publishedDateTime: 2020-12-03T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
     excerpt: "The “Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2020-12-02T17:36:00Z
@@ -167,6 +167,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SPn0dx8kgolIAQS6f/eCjwvB5rWHfACUT2jOyJ0CVh4mpM/slPopt37WqM81+fPt8FK0jn779T7QCqeDtBaRyfeLYeSN6pgUxf6L5iaUdqwZlIXJ+6Fh1mcD8q1wxTSyoBVvQF3RrsRNjTnwnnRRNqRam44mBODuW95yW80Z9bmsZ494e9O3N2K6HucrLqDiG+6BKKD3BrNa6Pzj02ObLuvSN8z5botGgJYHkwyUS4UvntODSsx9ccjZKEKfL4TU5nM2/pXa19H5qZrySKXPzON/ZpRat3b4tvnFjuz+pMoW5qIMeBlOyZQrzHIQMOvmN981rSdMW/Pyy+c6phiBfaZZkLb0eaH+z3Mw+jXT7R8=;/LwoWvAqdBqI8V51ej/pKg=="
+secured: "FiQktrTtiuJb3s0yE42OXfa5uoUxWAGDXTUyZR8dobVjYjjk6hbNbuS8W+LVfvBxWgb2afyLM4lQapdqZ/V0askVW69Knl/e9PB1iDnSIvxiHJ5DNwu9/udGlIsLJPbleuHi+98v4vhJmk42wN+XTQEByFpa5hV8H7OaqYbABtvTNrHV1S5D3qg93BXtEdxjePQFbCJLhwqhutfIBzw64IHZEQ/5P2oqtqK0ceE5boAV+iP+15m6ujC2BruYghJ8u0oohWL6otXvn8SRMyfRzaHWgczINJB6xF5DzsbD0wA8tI8ZL5UHVAXG2pKADzW/lX7r+ceaLJ4sS/u52x+hjnkZv3xPgT5E/FeepiQMLfs=;jMC6yOc9Xm5483KTBVLK9Q=="
 ---
 

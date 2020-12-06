@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-a
 webUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
     excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first ..."
     publishedDateTime: 2020-12-02T22:21:00Z

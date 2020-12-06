@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2020/12/snapdragon_888_chip_in-hand_-_copy-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "Snapdragon 888 Will be Qualcomm's Next Premium Chip"
-    excerpt: "At Qualcomm's Snapdragon Tech Summit event, the company announced its next top-end Snapdragon chip, the Snapdragon 888. The 888 is expected to power most flagship Android phones in 2021. Although Qualcomm is saving many details for tomorrow's keynote,"
-    publishedDateTime: 2020-12-01T15:34:00Z
-    webUrl: "https://www.phonescoop.com/articles/article.php?a=22384"
-    type: article
-    provider:
-      name: Phone Scoop
-      domain: phonescoop.com
-    quality: 39
-    images:
-      - url: "https://www.phonescoop.com/img/a/s/o20.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
     excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."

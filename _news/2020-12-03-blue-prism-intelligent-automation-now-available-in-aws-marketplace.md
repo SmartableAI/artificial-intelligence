@@ -33,21 +33,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "ORgjqtsg1KNfLECIhKWvWItCOAsJq4Ec3DHHO1mjb/FMRKNExTNVKK2ItxG76rDRP18H3RlSh0bVhXOIbfjLGuldi/Y9mhOxPnPm/4tTpK8K+RT/Upkn1xFXnBZpEglQKCe789fIffWTgyzSiM0Cvf9bgtMWM/ADz8sodBLbiEpPRdRuPa9w4JhJs37133y+liZfSPLw8zRbOpxwGDNPf/AnE/7TaiO5Ko4TSL6f3DNne711jri2y2bxf2XEyIJV51Tmr/yWIyX9hr5YcLrcUPOaD5Z0C+TaahBTkNtWGFZ9llVOff2N9bkdJb34md2Gr0tx1vCPSmi75T3W1VwRvE1pzFUQqwed8pMmyMHXlnY=;HMwjntYi8bWWIv5otozIKg=="
+secured: "K0VUbg1YthlMnhi6Qfiz/ZHHGi7tsSBsprb+J/c/vemMVj0RbqajlxGUZXSxJqZmup44Rqanh2Cdy/mkNER9bAqntdt4elELZCs9egMnY+G0KVrbjbmbK2RHjBUdSwAE3AZiT5bIhVPo4zgQi1qF93ibpAmo4l550ZW+4nMqNfYkm8+Kj7bA6ogWSBpqodUyH1sFSfmPH9fFPP4jQn3JAS3F2rRoXBOtZhkxqTSL8smHmST4eCsEMV3k1XZvecKaOPnlsx7zK2JRe2/1wS5IMkqlMmmxf9vBSnUa1X6EMi2ew4QWts/F4Im45I2niE7g6lSeo7IRRdXxMnCouqCxZ+O4IPZW7JGPHqT8EEakZQc=;TyDaUk8fPTNU6xmjuxLVcQ=="
 ---
 
