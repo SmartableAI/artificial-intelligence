@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SEEDLAND Unveiled the 1st OTA Smart Community to Render Proactive, Synergetic and Unperceivable Services"
-excerpt: "An OTA smart community, the first of its kind domestically and internationally, is unveiled in Beijing, China by SEEDLAND on December 1, 2020. SEEDLAND OTA smart community is equipped with a super “community brain” -- SLS2."
+excerpt: "Imagine a smart community unceasingly upgrading through over-the-air (OTA) updates like a smart car or a smart phone. SEEDLAND Group, a smart life leader and prominent real estate company in China, attempts to turn this vision into reality and usher in an era of evolving community."
 publishedDateTime: 2020-12-04T01:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-asia-3373d4171d99fe412211bb3d0b8faac2"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-asia-3373d4171d99fe412211bb3d0b8faac2"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-asia-3373d4171d99fe412211bb3d0b8faac2/gallery/69b3aa9b2892a896eb39044a0329fd94"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-asia-3373d4171d99fe412211bb3d0b8faac2/gallery/69b3aa9b2892a896eb39044a0329fd94"
 type: article
 quality: 7
 heat: 7
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "zmC34GW5unUDkM6b0XM1mBF18hC1aOvqzVk/3QdWlYZ/Ov7d+7hWu1t7ECqtnwoULc2LWzWKaUeGdB29ZahbGLQ/NdJ0FyUlQ0tOeTMvjX1cukE05XxxfpcxsgY9/fP2q43Hm4S7ArjZ8SOfPGm8U73m4vA5Yg2uhXs+jWhYdYc/yPVa7/h0RjtlI0M7oT9HlhWDQ1831Ceg/cF6ugfrELgbOMke4zBWbRQXciNkbRVKxvqwQnGHZJ95sOKISiQLN1iDCQfM3I0wKS1P5yMKOTVD+tD1yJEJ13FdAvvwphqOaijhc4QNkoih/Er9BfzyH03Ax5MK0jao7F8trQNUvrw3D96MI7aMdyBsbZrxxgc=;7715hqxkfTKC1yReJ0AmkQ=="
+secured: "nAEwoqXX7O9sPX9XQv65Y9KOTcA85DaO8rAX5i/TxtkeC2WAbqp3UHTzKYsKIOemBb0/A/SgESPjfZrDteA66/bGmW9mpKGOrAsBGSj5PeChO8zlH5nN6MQqlws1zEtK4iPIDxA6LUDHX6B8QdgB7Md0XTT5S3HCoCcpa7HNWJkqZ/ysTdzjGlfY/lT45jzKAQxyduv0UWVltchnF5QtZeGnOWvXSf6SXrnsBqacu0aVhgYYJUQSlbr2SO9mOCqkgDgjQIcYZkIYAa6K59GWs39edNN2yOWJ+ZjQ+tBhvBzynGgeaMpDvZeFoM54BXfEVO5E91D6hQnOLNLG4nLoCGeB3/64qWG4PAws5TH0yyE=;ZVQ7ZL5KADkxxY9mifpndQ=="
 ---
 

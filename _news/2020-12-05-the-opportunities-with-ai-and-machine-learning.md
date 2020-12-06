@@ -88,34 +88,15 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
-    excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."
-    publishedDateTime: 2020-12-01T12:51:00Z
-    webUrl: "https://www.lifescienceleader.com/doc/ai-and-machine-learning-prepare-pharma-for-the-data-onslaught-0001"
+  - title: "How AI is transforming the agricultural sector"
+    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
+    publishedDateTime: 2020-12-02T14:33:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
     type: article
     provider:
-      name: Life Science Leader
-      domain: lifescienceleader.com
-    quality: 54
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/4b20bc1a/4b20bc1a-3b31-45b6-9486-4955a8a9d444/clinical_trials_outlook_bucket_450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "The Coming AI Revolution"
-    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
-    publishedDateTime: 2020-12-04T18:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
-        width: 750
-        height: 422
-        isCached: true
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 17
 
 secured: "GrNtLi8bgTzPTHvNfF6zdDkgl8ydJlhxwfUAySLyZ2AlQ2Gl2skdppKcRN17DNGb5X5Ea4wMxPL2C4JiwWO9cPAs85gvsMmTOde82CoIrieAKHW5slDON7ZjpTCmnPTmHv6bg7B7atFTELpXTPdPcuO3+32O5tz4/uxSofGQ8KB1uPx5TMZWuhwDJw5dBXJIo+AKwrlvMvereUsZYxo5NaQtZZJgRyRuIqAXT202OXiyN6X+BOMtI75ZioAkJW8VTW5PNekhSv5GvNHP6hxs8wn5HhfIu16uveZWR/mONKMNWX/xZyY+kf+tDMkaA8OKUpjkVp2IDMxszl+fQkxlMZIOdugVO86wW5nH7hMTm9k=;j6lb9dcpheOuhDzK8Ex8AA=="
 ---

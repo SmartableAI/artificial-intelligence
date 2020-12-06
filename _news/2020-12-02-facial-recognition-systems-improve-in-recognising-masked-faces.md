@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "We Soon May Be Able to Tell Bears Apart by Using Facial Recognition Software"
-    excerpt: "Bear biologist, Melanie Clapham, who studies bears in Canada, said it can be hard for people to tell bears apart as they track them over the years because their appearances change drastically."
-    publishedDateTime: 2020-12-01T11:57:00Z
-    webUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426"
-    ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 56
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/images/2020-09/093020-bear-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial recognition systems improve in recognising masked faces"
     excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study."
     publishedDateTime: 2020-12-02T19:59:00Z

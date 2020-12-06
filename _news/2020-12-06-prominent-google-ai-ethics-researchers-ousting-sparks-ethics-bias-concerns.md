@@ -1,42 +1,32 @@
 ---
 category: news
-title: "Google AI researcher’s exit sparks ethics, bias concerns | Raleigh News & Observer"
-excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-publishedDateTime: 2020-12-05T05:12:00Z
-originalUrl: "https://www.newsobserver.com/news/business/article247617745.html"
-webUrl: "https://www.newsobserver.com/news/business/article247617745.html"
-ampWebUrl: "https://amp.newsobserver.com/news/business/article247617745.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article247617745.html"
+title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
+excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+publishedDateTime: 2020-12-06T03:17:00Z
+originalUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
+webUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
+cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 71
+heat: 121
+published: true
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Ethics
   - AI
 
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
+    width: 1280
+    height: 878
+    isCached: true
+
 related:
-  - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-06T03:17:00Z
-    webUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 71
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
-        width: 1280
-        height: 878
-        isCached: true
   - title: "Google denies firing top AI ethics researcher who slammed its diversity efforts"
     excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts."
     publishedDateTime: 2020-12-04T06:07:00Z
@@ -80,6 +70,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 51
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Raleigh News & Observer"
+    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-05T05:12:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article247617745.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article247617745.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article247617745.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 48
   - title: "What a top AI ethics researcher had to say about algorithmic bias—before she was fired"
     excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
     publishedDateTime: 2020-12-03T20:26:00Z
@@ -95,6 +96,6 @@ related:
         height: 722
         isCached: true
 
-secured: "1y3DA7XsOJf9O8dtQg/12TAvUPOtz1BNCYIvnYnR2+YxmnnmiDoKYkKG7Gpq1ZEy7+Y+Fxs0jtgNoOYeHC2lma3MowtTnp+wzDp9tOnXqbjwyrw5dU7DAjPnHIYWRfDh1UxKLM1C2CmMLWfUOwtg5iUqSqxgmC5sDepm7h3pTvKHitb7LEdXMGyy8XkEVLgjCMYht3w6o1tjxRIViBfTBLjASYyurBe6fFtH6qSPOuLL4vhRbmY63HVXXs8S6GzaqyCNWUmvrAqm7PNn1Rrc8jYaBh/5o63i83uFbi8FpPCR4ymJN960oXbCVQgauX02CSI1RnbDZcZi0Du8lG6ijCXlLMNf7aOh7AaLIeWA3OE=;gZpGmbykKHJs1kDgnwnoUg=="
+secured: "YdHTlz830l2ELf7t7MAKhLPBzGrqACXnp2ql3nUEd4cw31r9/NUr1K8dLTRkafAbxP43ttJGHpKsj/gWBi4MaOdOTOhCenwv/Xz0Nqy+aHCpPZpzWjE5lwvi+iZmI5TTaSg+bbhmeA0h+SZgjsPI2QSj1y6pnCLZPRZqbwS9H25O52mwCuH12M/cjHGaiGyt9EbixdIE7JoQLTg0zwHJQQCqkvAM/bz2IMLLpYJEaFuBocOWCza9CYUw53H8TkFSA07Dp9Qk4eF9pYlEmAhxk+NdFSBtA5jKEwVGUNM4sZiZW/Rql2nP+ayXvU/W/SOcALByGf+MIWtFs3Pxm49FCBYrx6Mz9XIoNiuLhpPZ3kQ=;pwtdZX00RN7cQ/ytY9W/KA=="
 ---
 

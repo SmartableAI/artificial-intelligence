@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stoc
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Business Insider
@@ -26,17 +26,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "7 Machine Learning Stocks for a Smarter Future"
-    excerpt: "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new."
-    publishedDateTime: 2020-12-01T11:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
   - title: "7 free tools for deeper online learning"
     excerpt: "Spring’s shift to online learning was sudden and unexpected, and despite pockets of schools that have resumed in-person learning or moved to hybrid learning, most schools are still fully"
     publishedDateTime: 2020-12-02T10:06:00Z

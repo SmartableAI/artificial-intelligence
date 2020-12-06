@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-works-an-intr
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: TechRepublic
@@ -31,110 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft teams up with Code.org to teach students how AI works"
-    excerpt: "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation."
-    publishedDateTime: 2020-12-01T12:48:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
+  - title: "Governance of AI in Global Pulse’s policy work: Zooming in on Human Rights and Ethical Frameworks"
+    excerpt: "English News and Press Release on World about Protection and Human Rights and Epidemic; published on 02 Dec 2020 by Pulse"
+    publishedDateTime: 2020-12-02T15:24:00Z
+    webUrl: "https://reliefweb.int/report/world/governance-ai-global-pulse-s-policy-work-zooming-human-rights-and-ethical-frameworks"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 106
+      name: ReliefWeb
+      domain: reliefweb.int
+    quality: 41
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-type/epidemic.png"
+        width: 500
+        height: 438
         isCached: true
-  - title: "Microsoft unveils Azure Purview, a new data governance platform"
-    excerpt: "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability."
-    publishedDateTime: 2020-12-03T13:58:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 104
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-    publishedDateTime: 2020-12-04T04:03:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
-        width: 1200
-        height: 741
-        isCached: true
-  - title: "Meet the Microsoft AI project that will transform corporate data into knowledge"
-    excerpt: "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems."
-    publishedDateTime: 2020-12-01T12:03:00Z
-    webUrl: "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 100
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/149a9e40-051d-40d4-b56e-8ebf048d6bea/resize/1200x/bee4d761c5f23809d0189d5233798872/microsoft-project-cortex-diagram.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft’s Nudge service leverages AI to speed up completion of pull requests"
-    excerpt: "Microsoft says it's using an AI service -- Nudge -- to accelerate pull requests in software development projects."
-    publishedDateTime: 2020-12-03T20:13:00Z
-    webUrl: "https://venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/"
-    ampWebUrl: "https://venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft: Here's how your smartphone camera plus AI can keep an eye on your health"
-    excerpt: "While wearables are at the forefront of medical applications for mobile technology, COVID-19 has sent researchers looking at older technologies like the humble smartphone for remote diagnosis. Microsoft Research has been working on telehealth ..."
-    publishedDateTime: 2020-12-03T15:21:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-  - title: "Microsoft launches Azure governance tool to map data"
-    excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."
-    publishedDateTime: 2020-12-03T19:47:00Z
-    webUrl: "https://www.itnews.com.au/news/microsoft-launches-azure-governance-tool-to-map-data-558568"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-12-03T160900Z_1_LYNXMPEGB21EC_RTROPTP_4_MICROSOFT-CLOUD.JPG"
-        width: 1000
-        height: 666
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "kMoZXUBtYny9/uW9JdzZhpRBcaetFvHXJMlgaD37bs/3Ixp2IqkEgaik/y8hFekk4GeJOX+AlpxSZCmq1HzfmAv0zTi965l+vsQGkfw25C622crxVoDyUeCBGWistVaHKK1vha0Zc9BX1TVoLp1sOf7OxShE5cOeAasRv41nX3X1Y4bU09oP3W5eRepktM/x31DaYjlSqFncaXwH/XIMPfYygceNzQ9yb4L9q0aACLNBEKEsAxhtp5vXufZqdEofJvZgIboAA0m+zx6GkBn3XljC15AfrrAX5iE7j6eLzqQj1/IkX/aYCf/+8Md3Yta9ouGbBrRkYjI6uTO2/YyzpVwYf2bfEBvZp4zE/Dh4kzqtKsD0TChLwoCHSMQKNpVFI9287mV4cMY/IO8fdXUwY/yvRhO+fmpteWA7+LfZ56n+/YljmFaajXu7N5U4pLc2vKXW9pBJh35WgwPp33sVwaVPBpwEVCf+BHz7xtLYOOw1R68CgwzpbL6cY9zALLH1CNQNzgqUEHzcxypvTCAB+Q==;BmfB4Cp/doRVoxoCnsAxzA=="

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
+    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-04T20:58:00Z
+    webUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+    ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+    type: article
+    provider:
+      name: myhighplains.com
+      domain: myhighplains.com
+    quality: 76
+    images:
+      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
+        width: 1280
+        height: 878
+        isCached: true
   - title: "Google embroiled in row over AI bias research"
     excerpt: "Google was struggling on Thursday to limit the fallout from the departure of a top artificial intelligence researcher, following its decision to block publication of a paper on an important AI ethics issue."
     publishedDateTime: 2020-12-03T23:07:00Z
@@ -59,17 +75,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
-    excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
-    publishedDateTime: 2020-12-05T06:45:00Z
-    webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "sBjyIRUmYXq0+v/lIs7VvAKpQpTbgWFaxNg6TQDjlEKPlndqTfo7Hr0C56VoKJ/BNoTQXieTQbRFMhiLHduV8730oh1Mw3W6wEeS7xeXiTdEyeqghb2yNVTIZuZWhtTcRH//Zq570UJypIHNUEosJZCCcdnV3iUXZx6FkyDEof+eRkEKIeJOzZKXstMoCVhNuYBHmOxRcRgqJ5bFmT6loUuux2JZTRGgvMZaGNehGSSI7GWNaHikEk26QKCQQ8c2wXBDE9z0UEJKjwYRS0pIsk/P1ZmHxCFE72cMA8Q+QIMpkpfjpJwBa6AiPJLLcB6YBVlRwkks/NlFAgaIkyTjSl+/XhnXFsyFO1K86aMevGbrdKM7OV+3MT/HCfppZQ8kIaCH0eNwj/jgaEFWdgDkjdL/s2ke1zZxRymMeOyMDn0cXsNWJI5OUhIF7L7wj4jmByCbfwIvlO5WVYaG/5YKX+TFy+wwy4TknlNx62iu7Ym0+unhAl7MRfjIoYCVwnvcYMsXj7PQfN012hM2djA3yw==;8Kja0C6ogRP23xYwrQ6eDg=="
 ---

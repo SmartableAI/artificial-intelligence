@@ -2,45 +2,28 @@
 category: news
 title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
 excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-publishedDateTime: 2020-12-03T05:08:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+publishedDateTime: 2020-12-03T14:23:00Z
+originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Purdue University
+  domain: purdue.edu
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-    width: 720
-    height: 490
+  - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
-  - title: "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls"
-    excerpt: "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns."
-    publishedDateTime: 2020-12-01T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
     excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
     publishedDateTime: 2020-12-05T14:38:00Z
@@ -57,20 +40,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
-    excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-12-01T17:00:57Z
-    webUrl: "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
     excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
     publishedDateTime: 2020-12-05T14:30:00Z
@@ -82,21 +51,7 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 51
-  - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
-    excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
-    publishedDateTime: 2020-12-03T12:04:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/12/03/covid-19-will-pass-but-artificial-intelligence-will-be-part-of-its-legacy/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/12/Big-Head-Article-202012021404.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
-secured: "sZzy5JrSWcnlDY+L/SMcepL7ehBIxVFhMlFpzTKAKOQlQOiiOyfurRoZ/wbBgKHkAGUz4ISGDtAiIgCNecrTs8Y30dKdZZ7pgLYFSlCQyA45IttJYCPj+EkYs3lTMP9KzwqH+bCSLW+K2WMf5nEgNw8m7/IjOwcsxr86s/1MvZWEGvD6f/apYo5A/q1xcFwDLM/AW+3SCb5LzuPMzJzTEZU8W/cd5Oy8EI/g6Hqk96fkhcYj+6H2hJPkxEMdgFEX23h/GsMLcoyq07WYhAX1hwjexT30wc14nHcBG9eRr+ywfiecosrDeCeCxq9NRv5QuLJP0Kle1Kz1HwfGq4cp2xyoIU/09YwN5pBDuPzCB7Y=;MVUQa0f/H3EQ8pblB//V8w=="
+secured: "tAPysnMHD2cJQ12Pfrghih3cH3duEXeOAIp1B1PteH98pVR0IEb292sm5NGNRtdPuBaDMXcfUiLUFFCugc6rUhl+n7K2kXzChb3UKkkY59nh+ddYhvJ67Ves2UREDpG02sRw2ZWbzk8xauH2By78qJ9LAknaoD1uADnThRl8Dt/d4v2mA7uG1L+VkzTsl1EpNG7CBGT4rX/F5Xd9CJQRDBQgTy6bwOJHsYwophLq5k2o6BDYnDT8SSAuF0J9AjIODCi2ibBA7V7maJLbqsTMezcEqvc2/MYXsMAVobFyZK7mv0u+JeXXibi5BJCcfp66NBtiwUVls7/HJdBZHijs2Uz51C3w27WjaEAkhEYdgO8=;yLWlZo2No4bExv7oRCTYCQ=="
 ---
 

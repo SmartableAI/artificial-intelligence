@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls"
-    excerpt: "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns."
-    publishedDateTime: 2020-12-01T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
     excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
     publishedDateTime: 2020-12-05T14:38:00Z
@@ -53,47 +37,19 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
-    excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-12-01T17:00:57Z
-    webUrl: "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    publishedDateTime: 2020-12-03T14:23:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
+      name: Purdue University
+      domain: purdue.edu
+    quality: 36
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
-        isCached: true
-  - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
-    excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
-    publishedDateTime: 2020-12-03T12:04:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/12/03/covid-19-will-pass-but-artificial-intelligence-will-be-part-of-its-legacy/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/12/Big-Head-Article-202012021404.jpg"
-        width: 620
-        height: 372
+      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "eel5+Mx6ig+FtyEFvxk3WKI55Il2AtDq/A0Gt7l7Dw45Gt4LxmvKZLDxrEen3xd/Mj3v3tU1slWYO3SNCNgsEAJtFd4aCLyk2G5sT06JBw9b1woCBd6icKx9hD5Rgr04ru6DLAxZgKKNJ6uT8W04UPD5PY8ZhHUDGFyXNvSdcmxwMzZk2KCoutq94mynm+oBwPCU5aIuNCExV4NTX/LzOiXBKldtY2zJII0jorWK8sOCpe1sid/q9WO8SyeSzBVOyBg6x+FKb0MRj1wMbloqKuaXZe46eQMvJpORrr1UVLcvKt/q4WdwUFk8fKKPBG+gI85G85lKRvu2GRzjJp5Hw0l4qn9Y6ApjRsWwvAcUcJdWd9+EN9CzPnpVM78y9kHM9KGEoCfa9qAyF9h7amkVAZ824hNnr3LWxIsZdjatNWSJ2lH4n6Q+1SsuwvH4ZB1omKt/kU7jUwcm5iI3HkDVu/38w11SKjyZdtQn04Uokd9rgqZBGLCKzAI9MzR6GfsXaybC54XKmtxneBQ7xv2aGg==;SD7XbobdWLjgSbTlnsPosw=="

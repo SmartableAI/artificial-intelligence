@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet's DeepMind AI has solved \"the protein folding problem\""
-    excerpt: "Computer scientists at DeepMind, a lab owned by Alphabet, Google’s parent company, have developed an AI that has made a monumental leap in solving “the protein"
-    publishedDateTime: 2020-12-01T11:53:00Z
-    webUrl: "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 104
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind AI breakthrough in protein folding will accelerate medical discoveries"
     excerpt: "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years."
     publishedDateTime: 2020-12-01T17:19:00Z
@@ -63,22 +47,6 @@ related:
         width: 1668
         height: 1403
         isCached: true
-  - title: "AI has cracked one of biology’s toughest problems"
-    excerpt: "Finding the best ways to do good. DeepMind, an AI research lab that was bought by Google and is now an independent part of Google’s parent company Alphabet, announced a major breakthrough this ..."
-    publishedDateTime: 2020-12-03T19:02:00Z
-    webUrl: "https://www.vox.com/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
-    ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
-    type: article
-    provider:
-      name: Vox
-      domain: vox.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/y7zUeo4DTbWJ-ZjXlc35F80WFJs=/0x0:2400x1596/1400x1050/filters:focal(1008x606:1392x990):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68450337/protein_computer_GettyImages_524264596.0.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "How DeepMind’s protein-folding breakthrough could transform drug development"
     excerpt: "A DeepMind AI system that accurately predicted how proteins fold into shapes could drive a range of new scientific discoveries."
     publishedDateTime: 2020-12-01T18:20:00Z
@@ -94,22 +62,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-01T170224.552-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "AI has cracked a problem that stumped biologists for 50 years. It’s a huge deal."
-    excerpt: "Finding the best ways to do good. DeepMind, an AI research lab that was bought by Google and is now an independent part of Google’s parent company Alphabet, announced a major breakthrough this ..."
-    publishedDateTime: 2020-12-03T19:48:00Z
-    webUrl: "https://www.vox.com/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
-    ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/22045713/ai-artificial-intelligence-deepmind-protein-folding"
-    type: article
-    provider:
-      name: Vox
-      domain: vox.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/y7zUeo4DTbWJ-ZjXlc35F80WFJs=/0x0:2400x1596/1400x1050/filters:focal(1008x606:1392x990):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68450337/protein_computer_GettyImages_524264596.0.jpg"
-        width: 1400
-        height: 1050
         isCached: true
   - title: "DeepMind co-founder: Gaming inspired AI breakthrough"
     excerpt: "Gaming inspired Demis Hassabis, the co-founder of DeepMind, to use artificial intelligence for a recent scientific breakthrough. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century."
@@ -159,21 +111,21 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "AI system solves 50-year-old protein folding problem in hours"
-    excerpt: "DeepMind has created an artificial intelligence system that can rapidly and accurately predict how proteins fold to get their 3D shapes."
-    publishedDateTime: 2020-12-01T12:00:00Z
-    webUrl: "https://www.livescience.com/artificial-intelligence-protein-folding-deepmind.html"
-    ampWebUrl: "https://www.livescience.com/amp/artificial-intelligence-protein-folding-deepmind.html"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/artificial-intelligence-protein-folding-deepmind.html"
+  - title: "London AI lab claims breakthrough that could accelerate drug discovery"
+    excerpt: "Proteins are the microscopic mechanisms that drive the behavior of viruses, bacteria, the human body and all living things. They begin as strings of chemical compounds before twisting and folding into three-dimensional shapes that define what they can do — and what they cannot."
+    publishedDateTime: 2020-12-01T20:22:00Z
+    webUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
     type: article
     provider:
-      name: Live Science
-      domain: livescience.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8eCNfj664XkeTYJ9LwiaBB-1200-80.jpg"
+      - url: "https://www.chicagotribune.com/resizer/IeQjlK8BOBiwRvsBVckXk44BvqU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G6SIPGSVPZE2JBXFJD7DZ5TIII.jpg"
         width: 1200
-        height: 800
+        height: 826
         isCached: true
   - title: "Deepmind’s AlphaFold Program Demonstrates Value of AI Tools in Biology"
     excerpt: "Deepmind has just demonstrated that Artificial Intelligence is invaluable in understanding how life works and will play a key role in the"
@@ -203,21 +155,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tech News: Artificial Intelligence solves a half-century-old science problem"
-    excerpt: "Solving a complex biological problem Proteins are large complex molecules, made up of chains of amino acids. Scientists have been struggling for almost half a century with the problem of “protein folding” – the mapping of the three-dimensional shapes of the proteins that are responsible for diseases from cancer to Covid-19."
-    publishedDateTime: 2020-12-04T10:07:00Z
-    webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-solves-a-half-century-old-science-problem-5f914dff-327c-4e3b-9c91-64ff3dc4fb9f"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-solves-a-half-century-old-science-problem-5f914dff-327c-4e3b-9c91-64ff3dc4fb9f"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-solves-a-half-century-old-science-problem-5f914dff-327c-4e3b-9c91-64ff3dc4fb9f"
+  - title: "DeepMind tackles 50-year-old challenge with AI software to boost drug discovery: 5 details"
+    excerpt: "The artificial intelligence system developed by Alphabet's DeepMind solved a 50-year-old challenge to help accelerate disease treatment and drug discovery, according to a Nov. 30 company blog post. Five details: 1."
+    publishedDateTime: 2020-12-01T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/deepmind-tackles-50-year-old-challenge-with-ai-software-to-boost-drug-discovery-5-details.html"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 54
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 44
     images:
-      - url: "https://image-prod.iol.co.za/resize/1031x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e&operation=CROP&offset=80x0&resize=951x535"
-        width: 651
-        height: 366
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "DeepMind's protein-folding breakthrough triggers fierce debate among skeptical scientists: 'Until they share their code, nobody in the field cares'"
     excerpt: "John Moult, chair of the academic competition which heralded DeepMind's breakthrough, defended the findings, telling Business Insider he had looked at the results 'very carefully'. Academics and researchers are debating claims by Google-owned AI firm DeepMind that it's solved one of the toughest problems in biology,"
@@ -246,6 +196,20 @@ related:
       - url: "https://i.insider.com/5fc6965650e71a001155841f?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "'This will change medicine': How DeepMind is answering one of biology's biggest questions"
+    excerpt: "Google's DeepMind unit released data showing that its artificial intelligence program AlphaFold can accurately and quickly predict the 3D structure of a protein—a development that addresses one of the longest-enduring challenges in the field of biology and could help researchers create more effective drugs."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://www.advisory.com/daily-briefing/2020/12/03/alphafold"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 30
+    images:
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/advisory_board_default_twitter.jpg?rev=07534bf35a2a4202846219f27f4f341a"
+        width: 360
+        height: 361
         isCached: true
 
 secured: "S+xuDe0rCtUrbtYDVAw8PGa0/zccRj7mikfgdIwHfw3P3hSPxVeJQYpwRtklHpMGZQcYKv1Ahn/gjRBF3EZyH72laj2Lriug0BrS34kTuGGwvbUbqsJLkzZw7Q/Q7qNkVnsClMAh0BzSNK2x9JGRt+lcr47oJEQlDc/PZ43bDppU2ilfb3p26x8wBzAVOD0M+yeK8R06Hb8UknXEAwRDbEL2Fv4hUjVSURTlXdZF+mbvZlDSCzd3hpZNw7HONk1mAUu5rdlEmrpkNEfIEnFG4Un2cpPod790rPoGHjVoobG2TBNxn/T+QImvrSBRrx8YPFmzgJ4Dsz5bgK8p2Z2dfVmx0ye1R9E8NAaaWGIkOvpzVOoYiAVzvBGiJbNizmuR0L1kduuPDPJDwQ1wlb3YPmIPem3Ytjyp67pQqIY8nyNziM/fuITSo4cxdarPvVNsMrY58ADVnVPfVu50vX8FVsakrdWojYGdsWcjqc6MFwbeS9bV/qojZ0dWwrVCixnWbaSZVwY6qGuN0FbEMfy0Tg==;Nca0n6sUtMXMgKTM7UKbzQ=="

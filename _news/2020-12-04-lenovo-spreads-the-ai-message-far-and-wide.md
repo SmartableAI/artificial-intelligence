@@ -69,20 +69,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
-    excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."
-    publishedDateTime: 2020-12-01T12:51:00Z
-    webUrl: "https://www.lifescienceleader.com/doc/ai-and-machine-learning-prepare-pharma-for-the-data-onslaught-0001"
-    type: article
-    provider:
-      name: Life Science Leader
-      domain: lifescienceleader.com
-    quality: 54
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/4b20bc1a/4b20bc1a-3b31-45b6-9486-4955a8a9d444/clinical_trials_outlook_bucket_450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "The opportunities with AI and machine learning"
     excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
     publishedDateTime: 2020-12-04T22:05:00Z
@@ -97,20 +83,15 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "The Coming AI Revolution"
-    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
-    publishedDateTime: 2020-12-04T18:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+  - title: "How AI is transforming the agricultural sector"
+    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
+    publishedDateTime: 2020-12-02T14:33:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
-        width: 750
-        height: 422
-        isCached: true
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 17
 
 secured: "9Nvpi15N2zWvsXnpDczwVycAickJfX2LtlpL7iY4ijVzVH6MZEOwyUnEfDVqptOIN6No9q6aMwHy/w8Pjqo0uGenxdEQmXhxMzGb6awdN8lmmV0drk00UTIPsUJG+YQyl/erArY/XMrakxHeCJiYh98U6FpPfBr8psvwkRRlI64jWjiXvg9lYaLslo3uPKqllCCUx6/fTRf1FoB+1hedfCQjMF/GTzL6VCCav2gDGS50B5xSAbmrhkG+mg7IBvNiFdWdAZAvrVwBu6hikyGGIxpbBo8ahjgR8f8NYCtRYI7AjrHJ3xSzTiR+mNURmwB2PgCpOX7r8904oTX+nQwBqXBAU8Jz/VSgA/uOklN8sU0iDq6iJOzq4SAoA07X7PBslWUEwUR1nvBxqos9JykX38PZkdAuD6lldVdrSfKNRDO/ktl5w1eBrZ0x9pxvkXd9VRwU8+PeHX3gIX532333Ap5oFTgdrhWjfqpozuqT7VBBRACUGTk8mxQqodb2Okya/B0V5WxJZnfvuwo+XC4AAw==;BxvRIyqckXaidki1bGlHjw=="
 ---

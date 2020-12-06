@@ -1,8 +1,8 @@
 ---
 category: news
 title: "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software"
-publishedDateTime: 2020-12-02T13:00:00Z
+excerpt: "IBM has a Watson Anywhere approach that brings AI to wherever the data resides —across any cloud —to help companies unearth hidden insights, automate processes, and ultimately drive business ..."
+publishedDateTime: 2020-12-02T14:04:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-301183522.html"
 webUrl: "https://www.prnewswire.com/news-releases/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-301183522.html"
 type: article
@@ -55,6 +55,6 @@ related:
         height: 209
         isCached: true
 
-secured: "MAIdQjX+T0Yv0J6DqxeEuTwBTXYTS9Z76QRxu3Wgt2jjsDdvpgrENKan9G8LRqQOb9o9sHUVKqk8IW4J1qTYEK62Ic+R+84N0HTPAOgpfhOon+uDXfWoH9RO9OvujHeCvmWj0HXHWqb5TjjkvPpr07rFda1UuPola6l4S8QD9PEGgDU5ssykrkUPBFSZgyow/pYYAGoQuGLpJsdZhobU4JYDPv4xB/czk4HYkErOTuFlQpLLg0dy88Jn7R8HQg1EbCSdIdAop8OeBfqDqZR/Q1AUfFqGLgvx5lOsicA10BPWJhw9lDYiuiNkBKJdoAODKhJlE7nrWZ7ppeOFAJRkprbrNik8lQVRVe8G/5f/foA=;2kHfk/y2pePq2R5XiACTzQ=="
+secured: "2NUYuaRJ8eVwCsycMn7Lrja49IoDmW0M73AtT6l/4WQVXZkj90VYtnK+arAlGPrQd7hPB7FmBOHTP2mFaeKssHTPW8kktcrA63070HyDWKUKMKbzmVdTdMSiWtkGLWvRqIX/YcY5J5X1u6oSavuoWN7SWdF7NEuSOjN4WLXYlng/4DIbHxnOEEIor4gCJVP56QMloCvBBMbklC/a/K3Zakth6/GaGt0CKazEr9PuSjtq8Cnl5gmjc2FL/KUu89t5cQOdICU+166euBulwDz2DRjd0ePUh8F9sGW0lT2xwgfDlXFc7usZqBOa2T9ml0MdtOAT1w2Gi69AIVrwwj4QducX6gFD4vP6nSBBUBnjpb4=;h11hiITh3Zeil+wOVlRpig=="
 ---
 

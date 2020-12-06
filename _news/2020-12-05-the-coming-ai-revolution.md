@@ -25,92 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Preparing Leaders For The Artificial Intelligence Age"
-    excerpt: "The power and promise of AI to augment decision-making is impressive, but there are a few things leaders need to keep in mind in order to leverage the tech successfully."
-    publishedDateTime: 2020-12-02T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
+  - title: "How AI works: An introduction coming to a school near you"
+    excerpt: "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership."
+    publishedDateTime: 2020-12-02T17:42:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc544ca97838db9b65a033f%2F0x0.jpg"
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg"
         width: 1200
-        height: 800
+        height: 899
         isCached: true
-  - title: "Trump signing order on principles for U.S. government AI use"
-    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-    publishedDateTime: 2020-12-04T01:09:00Z
-    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28D357"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
+  - title: "Governance of AI in Global Pulse’s policy work: Zooming in on Human Rights and Ethical Frameworks"
+    excerpt: "English News and Press Release on World about Protection and Human Rights and Epidemic; published on 02 Dec 2020 by Pulse"
+    publishedDateTime: 2020-12-02T15:24:00Z
+    webUrl: "https://reliefweb.int/report/world/governance-ai-global-pulse-s-policy-work-zooming-human-rights-and-ethical-frameworks"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: ReliefWeb
+      domain: reliefweb.int
+    quality: 41
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump signing order on principles for U.S. government AI use"
-    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-    publishedDateTime: 2020-12-04T18:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Lenovo Spreads The AI Message Far And Wide"
-    excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
-    publishedDateTime: 2020-12-04T03:30:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
-  - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
-    excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."
-    publishedDateTime: 2020-12-01T12:51:00Z
-    webUrl: "https://www.lifescienceleader.com/doc/ai-and-machine-learning-prepare-pharma-for-the-data-onslaught-0001"
-    type: article
-    provider:
-      name: Life Science Leader
-      domain: lifescienceleader.com
-    quality: 54
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/4b20bc1a/4b20bc1a-3b31-45b6-9486-4955a8a9d444/clinical_trials_outlook_bucket_450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
+      - url: "https://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-type/epidemic.png"
+        width: 500
+        height: 438
         isCached: true
 
 secured: "iSHl+yX8228XczGeTRj2F7tYsDRBkQh+Wd1MqEFEFTOTXOVv9wI/5kzKKb1HrGapi9gAHaxBV4u9YBPiKJBMAs1Q7LzOiX7vTSUgiDiF08+GjEtT/V5SgnLWAhN+145dlndLL6FPnQoOGkqdQ0+spiVNQhRcrgqwq2z+5yYadwsL8LYrKcYucJHyAh9HaZg1V9wngdOu/0nYSJndBMqT84/aRPHe4cLejZdaipR1hkkj04GH7Vo4KuEjxvWbWJtrrN+4p2Uw/wOLK5y3k2+Z9irOpDqf9a3bFryMkuEJYDJDLD6ErUX8tHnLwxLn/FvMBI03uyCSk9CohVGe02q4CG7q6SwpMIW1S109P+r4Tuc=;3uhtYexCWDPFeCSDYcQ22A=="

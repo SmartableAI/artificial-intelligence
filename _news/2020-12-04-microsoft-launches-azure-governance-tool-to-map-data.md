@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft teams up with Code.org to teach students how AI works"
-    excerpt: "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation."
-    publishedDateTime: 2020-12-01T12:48:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 106
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft unveils Azure Purview, a new data governance platform"
     excerpt: "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability."
     publishedDateTime: 2020-12-03T13:58:00Z
@@ -73,21 +57,21 @@ related:
         width: 1200
         height: 741
         isCached: true
-  - title: "Meet the Microsoft AI project that will transform corporate data into knowledge"
-    excerpt: "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems."
-    publishedDateTime: 2020-12-01T12:03:00Z
-    webUrl: "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
+  - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
+    excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 100
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/149a9e40-051d-40d4-b56e-8ebf048d6bea/resize/1200x/bee4d761c5f23809d0189d5233798872/microsoft-project-cortex-diagram.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "Microsoft’s Nudge service leverages AI to speed up completion of pull requests"
     excerpt: "Microsoft says it's using an AI service -- Nudge -- to accelerate pull requests in software development projects."
@@ -105,33 +89,135 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI works: An introduction coming to a school near you"
-    excerpt: "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership."
-    publishedDateTime: 2020-12-02T17:42:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
+  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
+    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 86
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg"
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
-        height: 899
+        height: 627
         isCached: true
-  - title: "Microsoft: Here's how your smartphone camera plus AI can keep an eye on your health"
-    excerpt: "While wearables are at the forefront of medical applications for mobile technology, COVID-19 has sent researchers looking at older technologies like the humble smartphone for remote diagnosis. Microsoft Research has been working on telehealth ..."
-    publishedDateTime: 2020-12-03T15:21:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
+  - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
+    excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"
+    publishedDateTime: 2020-12-04T17:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
+    excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
+    publishedDateTime: 2020-12-03T16:04:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 78
+  - title: "Microsoft Azure Synapse Analytics Now Widely Available"
+    excerpt: "Azure Synapse Analytics is leaving preview alongside Synapse Studio. Microsoft also announces Azure Purview for data governance."
+    publishedDateTime: 2020-12-04T12:48:00Z
+    webUrl: "https://winbuzzer.com/2020/12/04/microsoft-azure-synapse-analytics-now-widely-available-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 69
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Virtual care platform Andor Health raises Series A from Microsoft"
+    excerpt: "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,"
+    publishedDateTime: 2020-12-02T19:56:00Z
+    webUrl: "https://vator.tv/news/2020-12-02-virtual-care-platform-andor-health-raises-series-a-from-microsoft"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1343866/Andor_watch.jpg?p=publish&amp;w=950"
+        width: 1920
+        height: 1201
+        isCached: true
+  - title: "Microsoft launches Azure analytics and data services"
+    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
+    publishedDateTime: 2020-12-03T16:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Developing Autonomous Vehicles Faster with End-to-End Solutions from dSPACE on Microsoft Azure"
+    excerpt: "CA, December 3, 2020. dSPACE will offer customers its comprehensive solutions for data-driven development of advanced driver assistance systems (ADAS) and autonomous"
+    publishedDateTime: 2020-12-03T17:33:00Z
+    webUrl: "https://www.eejournal.com/industry_news/developing-autonomous-vehicles-faster-with-end-to-end-solutions-from-dspace-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 42
+    images:
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
+    publishedDateTime: 2020-12-03T18:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
+  - title: "NetMotion Unveils SASE Platform Leveraging Microsoft Azure"
+    excerpt: "NetMotion’s SASE solution is built with a cloud-native philosophy leveraging Microsoft Azure, offering integrated transport and web proxies, distributed firewalls, network access control (NAC), zero trust network access (ZTNA) or software-defined perimeters (SDP),"
+    publishedDateTime: 2020-12-02T00:37:00Z
+    webUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-leveraging-microsoft-azure"
+    type: article
+    provider:
+      name: PRWire
+      domain: prwire.com.au
+    quality: 34
+  - title: "Microsoft Switzerland launches Dynamics 365, more Power Platform modules and additional Azure services from the Swiss data centers."
+    excerpt: "With Dynamics 365 and the Power Platform, Microsoft Switzerland is completing its existing local cloud offering after having launched Microsoft Azure and Microsoft 365 with Teams previously. In addition,"
+    publishedDateTime: 2020-12-03T12:43:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2020/12/03/dynamics-365-and-power-platform-from-the-swiss-data-centers/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/12/MSC17_dataCenter_054-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "JQgSjnz5FpdUQj8vgz+w6mtaroqPo+zQiqM5kq6xm5d5pRtElg8l3D1dIaKBBLUN9aNv0TpYcCgNTnRHrwCcfbQVSdIF0XfLmbQ2lfVG58oQHUyywivOIu6QSh92rECEE2meGga/mzhZEU4LhqhChiRiwnBlyj8ubNQAdFFWIVHUdnR4F6akAtEGFxsaFLyh/MN+soj4yS5Slm3h2ekhC8SR1w8aclifDdGP4IwO3Jd2VUvt8ZRWL5WffSg38XIO23VtQ1S52+oQAr6rEs/thXgXdHbRa7N+QLXWGvioDrnZtV1P3panf0H//ngmozoKhWKt0eHqDZhtR0ZM+sENC1rvGgqQUc1IYt/Stc/xCiajWgfOs0mc7yHKo6IxT0EsziiAeOs0+XWr/xt5SyuR2RS8BQGXDSjvkygxG/3loD1wPMMnVMNr27xTxo2Vg2uShRcBy62gon9gPg8ViTRFOBqk6w+76eCttV8SyV1P6fdAkyc5WvlV8JW7Q7sK58TPqvwdeUyp725jT3+dhA1cxA==;2f1IwW3MLiZjXqcWWWndOQ=="
 ---

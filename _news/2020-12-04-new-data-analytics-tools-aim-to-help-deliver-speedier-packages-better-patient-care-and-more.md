@@ -29,72 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
-    excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
-    ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
-    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
-    publishedDateTime: 2020-12-02T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 86
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
-    excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"
-    publishedDateTime: 2020-12-04T17:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
-    excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
-    publishedDateTime: 2020-12-03T16:04:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+  - title: "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools"
+    excerpt: "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID."
+    publishedDateTime: 2020-12-02T02:42:00Z
+    webUrl: "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 78
-  - title: "Microsoft Azure Synapse Analytics Now Widely Available"
-    excerpt: "Azure Synapse Analytics is leaving preview alongside Synapse Studio. Microsoft also announces Azure Purview for data governance."
-    publishedDateTime: 2020-12-04T12:48:00Z
-    webUrl: "https://winbuzzer.com/2020/12/04/microsoft-azure-synapse-analytics-now-widely-available-xcxwbn/"
+    quality: 96
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png"
+        width: 797
+        height: 435
+        isCached: true
+  - title: "Can Analytics Save Healthcare?"
+    excerpt: "Of even greater significance is the recent move of firms to move past predictive analytics – important though that is – to give a sense of optimal outcomes predictability. Here, the analytics moves beyond “what am I doing?"
+    publishedDateTime: 2020-12-01T20:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
     excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
     publishedDateTime: 2020-12-03T21:13:00Z
@@ -106,57 +67,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "Virtual care platform Andor Health raises Series A from Microsoft"
-    excerpt: "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,"
-    publishedDateTime: 2020-12-02T19:56:00Z
-    webUrl: "https://vator.tv/news/2020-12-02-virtual-care-platform-andor-health-raises-series-a-from-microsoft"
+  - title: "Machine learning: The new language of data and analytics"
+    excerpt: "Machine learning is all the rage in today’s analytical market. According to Kenneth Research, the value of machine learning is growing sharply and is expected to reach over $23B by 2023 – an annual growth rate of 43 percent between 2018-2023."
+    publishedDateTime: 2020-12-02T09:00:00Z
+    webUrl: "https://www.itproportal.com/features/machine-learning-the-new-language-of-data-and-analytics/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
     type: article
     provider:
-      name: Vator
-      domain: vator.tv
-    quality: 56
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 61
     images:
-      - url: "https://mma.prnewswire.com/media/1343866/Andor_watch.jpg?p=publish&amp;w=950"
-        width: 1920
-        height: 1201
-        isCached: true
-  - title: "Microsoft launches Azure analytics and data services"
-    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
-    publishedDateTime: 2020-12-03T16:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-1200-80.jpg"
         width: 800
-        height: 500
+        height: 450
         isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
-    publishedDateTime: 2020-12-03T18:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
-  - title: "NetMotion Unveils SASE Platform Leveraging Microsoft Azure"
-    excerpt: "NetMotion’s SASE solution is built with a cloud-native philosophy leveraging Microsoft Azure, offering integrated transport and web proxies, distributed firewalls, network access control (NAC), zero trust network access (ZTNA) or software-defined perimeters (SDP),"
-    publishedDateTime: 2020-12-02T00:37:00Z
-    webUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-leveraging-microsoft-azure"
-    type: article
-    provider:
-      name: PRWire
-      domain: prwire.com.au
-    quality: 34
   - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
     excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
     publishedDateTime: 2020-12-03T18:27:00Z
@@ -171,6 +97,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
+    excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
+    publishedDateTime: 2020-12-04T18:46:00Z
+    webUrl: "https://www.businessinsider.com/litigation-funders-data-lawsuits-underwriting-science-artificial-intelligence-legal-tech-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+    images:
+      - url: "https://i.insider.com/5fca59cb037cbd0018613d8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AWS Announces Three New Analytics Capabilities"
     excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
     publishedDateTime: 2020-12-02T09:33:00Z
@@ -180,6 +120,34 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
+  - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."
+    publishedDateTime: 2020-12-01T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=385307"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "EdisonLearning and FocalPointK12 Announce Partnership to Provide Comprehensive Learning and Analytics Solution for Grades 6-12"
+    excerpt: "EdisonLearning and FocalPointK12 today announced a partnership to provide a complete solution for grades 6-12, delivering more than 170 middle and high school courses along with nearly 60 embedded"
+    publishedDateTime: 2020-12-01T19:36:00Z
+    webUrl: "https://www.eschoolnews.com/2020/12/01/edisonlearning-and-focalpointk12-announce-partnership-to-provide-comprehensive-learning-and-analytics-solution-for-grades-6-12/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 0
+    images:
+      - url: "https://www.eschoolnews.com/files/2020/11/online-stem-education-covid-slide.jpg"
+        width: 500
+        height: 400
+        isCached: true
 
 secured: "U36jiXZWVRrbPXOENPSLUSMB89ZrQmGLXPvWO6PajdBwmJQWDPYBO60tMXPr3bx8u4uVCmyfd3mJ8cfpQc82wu8BCIiocLfPw3ylsbxJZqJv5ZejGjXEb/U4XAFDeiL61VbfhNxSPW9Ktq8sPqHlMAz57q9YPnCH/oWeBxtpHKqQe4qSqjBXRe3Ygqm4olTehX4YCY5kPzT7Ec/qhMgK2xVyvGYjpLFhb+mA6mmdScHDzfPj+jdJCHtxzXv7O/vdjsmqlvRLmdVVyZG52AZHJIHz9gShFfcDVoF0gvIKcX/WkIJd47qApWG7C2B35cRwPWo4bUuBtlbYSk+CudYLiVdw7s8ZIsqpBMUQGehq9EY=;Qk2eM55TZn6A0AuTgUuj9A=="
 ---

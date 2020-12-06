@@ -32,31 +32,38 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways AI Is Transforming Business Finance Management"
-    excerpt: "By Swapnil Shinde, 3x Entrepreneur, Angel Investor, and CEO & Co-founder of Zeni, the all-in-one finance automation platform for startups. Three of the four largest accounting firms pledged to invest $9 billion in artificial intelligence (AI) and data analytics products and training over the next few years."
-    publishedDateTime: 2020-12-01T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2020/12/01/three-ways-ai-is-transforming-business-finance-management/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2020/12/01/three-ways-ai-is-transforming-business-finance-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/12/01/three-ways-ai-is-transforming-business-finance-management/amp/"
+  - title: "How AI Can Help To Moderate Content"
+    excerpt: "Social Media companies such as Facebook, Twitter, Instagram, etc., have been using a combination of human content moderators and technology to try to limit the amount of harmful content."
+    publishedDateTime: 2020-12-01T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0cb3e0cfbc87000651c6cb%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc671756a235b2d76b68eb0%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 801
         isCached: true
-  - title: "How AI is transforming the agricultural sector"
-    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
-    publishedDateTime: 2020-12-02T14:33:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+  - title: "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft"
+    excerpt: "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access."
+    publishedDateTime: 2020-12-02T10:40:00Z
+    webUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948"
+    ampWebUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
     type: article
     provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 17
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
+        width: 1200
+        height: 803
+        isCached: true
 
 secured: "nSTRhjaJV33K41gla3OEZgkLJr9eKStAFhmwn/jcJM44bE2Lc6Vx6jxC8i3OoXOlw4ZS0oXMh9WAP912jlLwGaYBhr2jBJbkE6jgyYwFUVFN8dqJCBrIgbtI6U1JJyIUNdqFHZ0LPh41aOXlaBwhekxz5FV6Eug/5nFMWPcL/dAQvZebsXUrz36fiMVU4Q5C2bLd2a+8sU3fJna2UZTg4MwxSxHd00W4+rlK0n46bzOc1H/Q+Ph6y2LrD5MEXFK4WIK9MVgpOcM/W1nJQq5sp28mSowA5wUg0WIr29ZAvsCGF6wcxB4Oghqs2uCCVSM3SElezE0exBwGc1WV1sw4g13KLeiFzYT8U3UOSag0Xkr5hvxoD36QmzV2wRLMxyHksHOTiMaL7BP3E8oZlhvUfPoT+P/bZ+5Y8ZzUpWNGgaaVrz5jqBl0nUZ2WxLdBwHg+Of4JdOz7g7XpYkcEv7YFM7yXHn1seDZXjwcBjm03y6VgEJIsgs/vqabuxEe278xKE6QS8P5ulEsCfd5Kwn1kg==;xRV6RLcPhrmkV4iJMNME/g=="
 ---

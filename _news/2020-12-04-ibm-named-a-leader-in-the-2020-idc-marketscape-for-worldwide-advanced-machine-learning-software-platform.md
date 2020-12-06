@@ -31,8 +31,8 @@ images:
 
 related:
   - title: "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) has been named to the Leaders Category in the latest IDC MarketScape: Worldwide Advanced Machine Learning Software"
-    publishedDateTime: 2020-12-02T13:00:00Z
+    excerpt: "IBM has a Watson Anywhere approach that brings AI to wherever the data resides —across any cloud —to help companies unearth hidden insights, automate processes, and ultimately drive business ..."
+    publishedDateTime: 2020-12-02T14:04:00Z
     webUrl: "https://www.prnewswire.com/news-releases/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-301183522.html"
     type: article
     provider:
