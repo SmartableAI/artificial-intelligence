@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google's grip on DeepMind set to cost taxpayers tens of billions"
-    excerpt: "DeepMind was snapped up by Google in 2014 for around £400m - but one of its early investors believes it is now worth at least $30bn"
-    publishedDateTime: 2020-12-02T00:17:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
-        width: 1960
-        height: 1225
-        isCached: true
   - title: "'This will change medicine': How DeepMind is answering one of biology's biggest questions"
     excerpt: "Google's DeepMind unit released data showing that its artificial intelligence program AlphaFold can accurately and quickly predict the 3D structure of a protein—a development that addresses one of the longest-enduring challenges in the field of biology and could help researchers create more effective drugs."
     publishedDateTime: 2020-12-03T00:00:00Z

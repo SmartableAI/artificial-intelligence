@@ -213,15 +213,6 @@ related:
         width: 1500
         height: 785
         isCached: true
-  - title: "NetMotion Unveils SASE Platform Leveraging Microsoft Azure"
-    excerpt: "NetMotion’s SASE solution is built with a cloud-native philosophy leveraging Microsoft Azure, offering integrated transport and web proxies, distributed firewalls, network access control (NAC), zero trust network access (ZTNA) or software-defined perimeters (SDP),"
-    publishedDateTime: 2020-12-02T00:37:00Z
-    webUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-leveraging-microsoft-azure"
-    type: article
-    provider:
-      name: PRWire
-      domain: prwire.com.au
-    quality: 34
 
 secured: "STtN9px5hPPhAxwrblHxPB4EbKGBXlxGzV86chFRxe1A/37rE18o9awNUU+GgBu+ylFc9N1RBnVscLeriw2b8HluRXWugDTvLpiywPCKn1s+BxX19snMlgp+QeHvre72oqqzmGRcAO2VONP4StA/dcZDqvB/Cihw1w6iQW5BJ1dn4Wo+muUJ0F6/M7cFptwe57hLugbdIs7TXGS/noS3O3k0h/LeR9UqwtAVZjNUt7kVHqOv+VD1qwQgCy8t2+lh8mcFa1KE3/yMu0iZm6+hX7yaiB+toFtzISNrEZ3ddutOp/XnAO835Sg6aJyUOv+FmgAYKJUp8mdaUEgSlZl0cGVgc0HXjutnEyMohjxRG595oQ1hpzy4THKN6UJ6XvoXCur0P8G4MKPQq2LvZhwUHD3BW4BZTgDWEePt3HL77UG4pisAjYiAqUgrg5Uq5ZGENNNjkH4iBoBdLgFdj9xbaqrIq54h0xWCd7+gH6WaRsU4bxNIoSOFY0LJYlcILtmvPs40J9iQ0NXpyqW7yGVpGw==;Vh5jHG3TY2/7Jeai2FyPeA=="
 ---

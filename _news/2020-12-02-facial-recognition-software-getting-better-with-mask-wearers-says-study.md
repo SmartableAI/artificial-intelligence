@@ -9,8 +9,8 @@ ampWebUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-be
 cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: WTOP News
@@ -27,83 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "No bugs in facial recognition technology, says state agency"
-    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
-    publishedDateTime: 2020-12-01T23:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
+  - title: "Face recognition software making progress at recognizing masked faces"
+    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
+    publishedDateTime: 2020-12-03T06:46:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
-    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
-    publishedDateTime: 2020-12-02T16:11:00Z
-    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
-  - title: "Madison City Council bans city agencies from using facial recognition technology"
-    excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
-    publishedDateTime: 2020-12-02T05:55:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/f2/0f2e861d-0159-586f-8b36-51224ddd6f9a/5fc73b36d5cad.image.jpg?resize=1024%2C700"
-        width: 1024
-        height: 700
-        isCached: true
-  - title: "Seattle officials deny use of facial recognition technology after ACLU allegations"
-    excerpt: "Seattle does not use Clearview AI's facial recognition technology, according to city officials. SEATTLE — Seattle officials are pushing back against the ACLU's allegations that city agencies are using facial recognition technology."
-    publishedDateTime: 2020-12-03T19:15:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    ampWebUrl: "https://www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 53
-    images:
-      - url: "https://media.king5.com/assets/KING/images/0291c3cb-46ee-4fff-a3b7-081e4aef072b/0291c3cb-46ee-4fff-a3b7-081e4aef072b_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Stanford likely helped develop facial recognition tech now used against ethnic minorities in China"
-    excerpt: "U.S. government calls universities’ facial recognition technology development partnerships with China a security risk."
-    publishedDateTime: 2020-12-02T05:14:00Z
-    webUrl: "https://www.thecollegefix.com/stanford-likely-helped-develop-facial-recognition-tech-now-used-against-ethnic-minorities-in-china/"
-    type: article
-    provider:
-      name: The College Fix
-      domain: thecollegefix.com
-    quality: 40
-    images:
-      - url: "https://www.thecollegefix.com/wp-content/uploads/2020/05/ChinaSpy.Bee_Bright.Shutterstock.jpg"
-        width: 580
-        height: 380
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
+        width: 1000
+        height: 707
         isCached: true
   - title: "Police facial recognition: new study calls for greater oversight in NZ"
     excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
@@ -119,43 +55,31 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "'Regulation gap' for facial recognition technology, law expert says"
-    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
-    publishedDateTime: 2020-12-03T17:22:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
+  - title: "With or without a mask, facial recognition tools know if you are you"
+    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
+    publishedDateTime: 2020-12-04T00:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
+      name: The Star
+      domain: thestar.com.my
     quality: 39
     images:
-      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
+        width: 1240
+        height: 826
         isCached: true
-  - title: "Police use of facial recognition technology soars in Minnesota"
-    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
-    publishedDateTime: 2020-12-04T20:44:00Z
-    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
-    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
-    publishedDateTime: 2020-12-04T19:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "OqOleP9+8SkjtkQ6MN5frmhiTm1cvVoe7VRg4mvhEFtseqewNWDXSIxaFor1blj2G5aQRqHPVotxdKRcELlcR5zUM2lZXPuYKfV/87ZSOz47z55oRF82f3XlyslSx86ZLnkfgEoIZId+D+Y1sUOIoDm4/g8qcAmTj1OePKRx8gaCKeligWQqyzxiNb+akoa2PT9QO/gWt86wab0Hx9ch1XlBQ8mQENqyuecvlG/Hk2SSSxsIsq0ttIiRifhQGs4eveVIWP54U94QG9y+BQpo2ezau1+jfNmUFguQ1gSIsTXWLEFz2GoJZ+rWH7RUW42vkTRgJLTE7AZpuMdJ9oaYPA4Irp404bwq6/WgUOarav8wZ5XcwUF48I47r9hx1Ti/89ixLBvIF84jCSv9sdrTizUyoUVvFEAhbg+LSAqqzPLTORbmvElOViXg05autZj7V0ppjyC0gPEKn2s90hcq/QezOhzYcH5FNZBjfxuCf+6+jvudg9xjhjprv9/qUlkJ2Dks4n5oX8kTaeN0Y4+cxw==;ZpLTgROtOGwnk+Vjros0qA=="
 ---

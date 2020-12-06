@@ -77,6 +77,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
+    excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
+    publishedDateTime: 2020-12-06T16:52:00Z
+    webUrl: "https://www.kitv.com/story/43009713/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 53
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20138709_G.jpg?lastEditedDate=1607119757000"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "oqu8V9aId+3p0uY5VnZ2KgbXuLuDYDdc+AOFqFaV5mnYnaugSseR9F+72RI1jykeK0RyMmsVk4G6lFLLA8+LyKVhCJCvtiAbYwA8W7l3FL2/5ig9ozS9Bu/S1rddaYU2C63zx3wefln8XIub3fKYj5nJbx5cvOtjewytwJdB5xSW8gu66OQSfcBPRwT991yiFlMZ16qTfLJPytx+9T9oHgPKFMoSJNcCjS/3/+HZZ70pgxMQXdYckjrUSyLQMDPPZNpEYBcyCk+FccYmuIR32B7lAmUjCOmFPsBfec5guj6S2XBtQBcQBzGuFyZT/kop4ER8fn37pIRLq9tZsXEKdkkpNh9eZhm2+CpfNBeX9l/eqHVmfGrXmmMxwVFF490wRTqAHq0rp5mSyGh8nzXasK4oI3jSGEWJiOlELFOiZhGct5bjN543MzGJB8zAWzAjv0Xh0RQFmEmpTIxiIRwDrR5n69kCHrn3ecZ6E4P1/jcFCiTl/WfW1VOxMJp61QN7GwASXDJdVt7bLcW59jGZ0g==;cmIX9xl/ZlvoIQwPWDtNZw=="
 ---

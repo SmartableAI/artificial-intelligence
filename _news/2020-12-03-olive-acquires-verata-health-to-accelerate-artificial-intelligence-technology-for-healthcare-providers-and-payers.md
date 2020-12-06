@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Olive Acquires Verata Health to Accelerate Artificial Intelligence Technology For Healthcare Providers and Payers"
-excerpt: "Prior authorizations were the most costly and time-consuming transactions for providers in 2019 and are among the top reasons patient care"
-publishedDateTime: 2020-12-03T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers-301185294.html"
-webUrl: "https://www.prnewswire.com/news-releases/olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers-301185294.html"
+excerpt: "Verata is a leading healthcare AI company, enabling Frictionless Prior Authorization® for providers and payers. Seamlessly connected to the nation’s top electronic health record (EHR) systems, Verata’s AI technology automatically initiates prior authorizations,"
+publishedDateTime: 2020-12-03T14:28:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-b71e415b83f61a440ed3d69ef57a5c02"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-b71e415b83f61a440ed3d69ef57a5c02"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1275952/Olive_Logo.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -78,6 +78,6 @@ related:
         height: 733
         isCached: true
 
-secured: "446ZrMQE5jjJG5Ivu/I0odCQ6WpAI8Rqd1zH489RFgpjD02/3j5YkhWVJ+FuKLe8WmTZ81d47Nsw8OPdeb/wJ9xEVK25RxYRbBXBzFwwebOOmc6fM/EFrDPpcZSsNeKG6w9nIBm4bBMZhQn0cXahkj6sG/U1BSxUU/aNeAPgjRlj/IWKFBxQwUkHOvIlt1IfnaBes13u4pzwQF+6R9RsI1/W6VKwzRKAo/XirpOgXC4m3G0BIcKDZ2dDO6O7Wo+peiNwi8iv/UzefA2pMchgj5JYzqIHy5fpotKdetR7CRnhv4XD2ERrKe1yq4SoXp7oiN+EtU505EA8W6Luq4Nc+5xfWWaTpjosF5kYXb0t0Tk=;yZh3h8KG/8RU0RmldicNqg=="
+secured: "kWn9QDmqBsL4z4dX+jq5DHFqp80dm3h6KwhianXlbhnFyk3CJl1R1Xu8Vfyc2jHwaVXdlVFkM1WC1hS2DDUsOyuNkDV/nzQBc1YgD5S5BsjPr4n2BCss2SMDwAgVipMR93z78/+4cfNEHf/9dC4mpDG7u/32/ENdsqzs09oKM2OkkH7MUvDGO7j01xGuPGZhWJku4kOUt/Mupzg+3hlMm9IWhEqwdLHNsoP1x4BsKukQsp5Ji0GFX8catchduGl1d4eieE8rtEHsTpUcLEpdcWgAlRaEE4YGNSmx9agWIzatwOSgLVwkgfxruXjT0tCLiOfuV6YQS4KsUH+4792ZO7sloXAu/+BJltX2cT9nhtQ=;i8/tGyE8lyvSBUpEydfOfg=="
 ---
 

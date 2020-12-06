@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
+      "title": "Meet TIME's First-Ever Kid of the Year",
+      "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "originalUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2018/12/TIM201207_KOTY.CoverFINAL4.jpg",
+          "width": 2363,
+          "height": 3150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "publishedDateTime": "2020-12-03T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-why-soft-skills-could-power-the-rise-of-robot-leaders.md",
+      "title": "Why soft skills could power the rise of robot leaders",
+      "excerpt": "What would the world look like if socially skilled robots stepped into the roles normally reserved for humans?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.html",
+      "originalUrl": "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/3-robot.jpg",
+          "width": 1920,
+          "height": 1771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp",
+      "publishedDateTime": "2020-12-03T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
       "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
       "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
@@ -345,6 +440,52 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning.md",
+      "title": "AWS DeepRacer trains and engages tens of thousands of people on machine learning",
+      "excerpt": "Ever since the launch of Amazon Web Services Inc.’s DeepRacer in 2018, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the AWS DeepRacer League Champion at Amazon’s yearly re:Invent conference.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Mike-Miller.png",
+          "width": 3762,
+          "height": 2120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AWS AI",
+        "AI in Finance"
       ]
     },
     {
@@ -894,7 +1035,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -936,6 +1077,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
+      "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
+      "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "publishedDateTime": "2020-12-02T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1038,206 +1222,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows.md",
-      "title": "US parents now more accepting of robots in children's healthcare, study shows",
-      "excerpt": "The COVID-19 pandemic has forced everyone to be more trusting of robots and AI in healthcare. Tufts professor discusses changes in attitudes toward technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "originalUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/02/b0b14d54-ced1-4968-a198-84015744bb49/resize/1200x/98f2f39d9b8b7d497b578adc563e2d6b/istock-1060861828.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "publishedDateTime": "2020-12-02T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
-      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
-      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "publishedDateTime": "2020-12-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
-      "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
-      "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
-      "originalUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
-      "publishedDateTime": "2020-12-02T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-artificial-intelligence-leaderships-friend-or-foe.md",
-      "title": "Artificial Intelligence: Leadership’s Friend Or Foe?",
-      "excerpt": "Leaders should not see artificial intelligence as a threat to organizational purpose, but rather a support for leaders to have the time and space to engage with aspects of their higher purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc514c1c71993c70975025b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
-      "publishedDateTime": "2020-12-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

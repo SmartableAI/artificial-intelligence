@@ -1,13 +1,13 @@
 ---
 category: news
-title: "A.I., Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
+title: "AI, Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
 excerpt: "San Diego industries that embrace artificial intelligence generate an estimated $33.3 billion in annual gross regional product, according to a new study."
 publishedDateTime: 2020-12-04T17:00:00Z
-originalUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
-webUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+originalUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+webUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
 type: article
-quality: 38
-heat: 38
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "MS186vMtZKmcGVviNWN+qO+zmP+Ye0bfPX94LREirlsr9DgIGBgwUAkXAP6Orc2s39E944NqAY6G3H+maQMAeb60K5c9zWBc7Fbc2D6G6hpZn40CwEV1S1bAkiynN5bsqTdNVbX1J4RzUkFifmbAmLuQYLY2phZbnvoD0+w5Vpy/M6s/8+OVEXdGEKjnynibsZRZnrM+ahQ5rMFpZNXXjnT+V3bR0GNMZuiU6iM+v2sSXurgHY0Pcv12st7WR53j8GJllo1X0hAMftteqNRmLUlppIa3B5Wai9EvogtUIaF8OBdWHbczrHbGnn7MHSkN2yreK8Yb/ybva1oR9t5FeY82GpMJhjVVvLfwijwuY6U=;JwA1XkYJ12Ob0Zdu2053ww=="
+secured: "PzDTVtPX4nc6Wy7UvURTM6A+GjEcvhKNYaST5h9PIF9ZBAmIceU8f9OF56C5+6sIGgqFvtJgzG9qdOdyDrTyHeVvMfQdU4IJ5Xf3VInjvKSFw8snfz/SwGn2Eu+9RmwWeSoax+Jl+2Hj0HpnW5gf+/5NBSg2IhScdgWf7cTg3+3LaYYU4R6dt4BFQddBE/n1JA03cnexnCnbup+/qqNRCIuOACvPM0JitNNF0LJ7h38gzadx8E/5xcsFNrPFRcK50Ie0gs0EE6UTfY7rGLYoZLJWc8SGqUsPrvJsfaqYZMSY0ty772hxxBF7ylfl/fkT/Q1bKoGAN7bqbGihhB1IM6QbbhLjgeuSaYkoZLOHkew=;awZda4E1z3/UGHPGyVQkRg=="
 ---
 

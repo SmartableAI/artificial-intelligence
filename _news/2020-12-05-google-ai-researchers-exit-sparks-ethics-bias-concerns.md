@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Google AI researcher's exit sparks ethics, bias concerns"
-excerpt: "But internally, Gebru, a leader in the field of AI ethics, was not shy about voicing doubts about those commitments — until she was pushed out of the company this week in a dispute over a research paper examining the societal dangers of an emerging branch of AI."
-publishedDateTime: 2020-12-04T22:43:00Z
-originalUrl: "https://www.chron.com/news/article/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
-webUrl: "https://www.chron.com/news/article/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
-ampWebUrl: "https://www.chron.com/news/amp/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Google-AI-researcher-s-exit-sparks-ethics-bias-15776999.php"
+title: "Google AI researcher’s exit sparks ethics, bias concerns"
+excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+publishedDateTime: 2020-12-04T20:58:00Z
+originalUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+webUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: abc27.com
+  domain: abc27.com
 
 topics:
+  - Facebook AI
   - AI
   - AI Ethics
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
+    width: 1280
+    height: 878
     isCached: true
 
 related:
@@ -76,6 +77,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0qv9wTdwEofaV1J5m4mSytlBlUrlYJxKCCu/xaBqgd5qQrFcXptrPocZwcRwfzs+AMniGtwc88a4zJL1qheO90PSdfGkJKhbkZPM5OBNsOd6VWXcUN+QItGd3U5C/h9FxY5Tee+V9icc2POImkAOy49/62Hreimqe+RtRlQdDEEMSfkQ6W7HOYZRivXMRa/09ZTlh1VXu0lpD9OB9UYEhkMCLscDis/9+nvw0oplV34JH+GeFrz5+ASXw5C3QmMEtJC08dxWvmfqy0kT8RV175z2EzRHkk63FkdapRjNd3O+JUgKhpd7czAAgch4QNZouG3oLowQeSunmksPzwxuBfFW1ol3NIJmYVhIs6McKFE=;ssNze9AmvMmZIGM/kSsLbg=="
+secured: "ffhf43j2lAKVWYkYEuSGWrc1gi6yr+fYWQ9Sv05QylBGb7mSn2n90TRe79GeyyRFafTlO3wE9RiL170Vezl/3J1W7kbIgNH/jt0t0uTVVBN4oJa7EfvWHzGlfutyHz3890gGwXl5hY9oGp6FM5i2E20sJtSokHtkpqVak6VMfoMZLafaNWm8A4Re2U+BCxSs1JdLCE2tSBAx42fJMLaWskyRWOW7zXDFh0Eq1/mhZzr4JJIVHq28Y56RbmJBMYbVIx1/lOZ7ZLhOtS4tAnrxsgJ+o+EI1HEJK9cnf/CDb/qHbYexNs2cOUBruqALpEDjjycCUvvUr6TqvXayrRV3bb5wQ4fYHnd9uuzF+MZLpyM=;5dae4XKNlvh73EZSpGClwQ=="
 ---
 

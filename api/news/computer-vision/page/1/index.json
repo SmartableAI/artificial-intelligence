@@ -89,6 +89,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-covid-19-odd-full-face-mask-that-shields-you-from-face-recognition-raises-110000-on-kickstarter.md",
+      "title": "COVID-19: Odd full-face mask that shields you from face recognition raises £110,000 on Kickstarter",
+      "excerpt": "The BLANC mask is the brainchild of US developers, and features two high-efficiency, reusable and replaceable HEPA filters and interchangeable front panels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9013977/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9013977/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/12/03/12/36399024-0-image-a-51_1606999249619.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9013977/amp/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9013977/amp/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "publishedDateTime": "2020-12-03T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-facial-recognition-company-lied-to-school-district-about-its-racist-tech.md",
       "title": "Facial Recognition Company Lied to School District About its Racist Tech",
       "excerpt": "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns.",
@@ -191,6 +234,49 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
+      "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
+      "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "publishedDateTime": "2020-12-02T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -299,6 +385,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-facial-recognition-software-getting-better-with-mask-wearers-says-study.md",
+      "title": "Facial recognition software getting better with mask wearers, says study",
+      "excerpt": "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/",
+      "originalUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/",
+      "publishedDateTime": "2020-12-02T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-massachusetts-lawmakers-pass-state-wide-police-ban-on-facial-recognition.md",
       "title": "Massachusetts lawmakers pass state-wide police ban on facial recognition",
       "excerpt": "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement.",
@@ -307,7 +436,7 @@
       "originalUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1272,144 +1401,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
-      "title": "Houston implements facial recognition technology at airports",
-      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "publishedDateTime": "2020-11-20T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-arm-offers-neural-processing-ip-for-application-processors.md",
-      "title": "Arm offers neural processing IP for application processors",
-      "excerpt": "Lead licensee NXP plans to use this IP in an upcoming family of application processors that can handle AI application such as pose estimation, multi-face recognition and object detection in videos, and speech recognition beyond basic keyword spotting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/arm-offers-neural-processing-ip-for-application-processors/",
-      "originalUrl": "https://www.embedded.com/arm-offers-neural-processing-ip-for-application-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/11/img20201124115227Arm-MicroNPU-Comes-to-Applicatio_0.jpg",
-          "width": 1129,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses.md",
-      "title": "Google’s Project Guideline uses AI to help low-vision users navigate running courses",
-      "excerpt": "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/a577f9c4-b652-4554-9655-39dc580ad1d7-e1605769616203.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
-      "publishedDateTime": "2020-11-19T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

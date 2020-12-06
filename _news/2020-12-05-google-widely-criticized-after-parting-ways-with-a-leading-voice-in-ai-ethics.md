@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -77,7 +77,21 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
+    excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
+    publishedDateTime: 2020-12-06T16:52:00Z
+    webUrl: "https://www.kitv.com/story/43009713/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 53
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20138709_G.jpg?lastEditedDate=1607119757000"
+        width: 500
+        height: 333
+        isCached: true
 
-secured: "l3rE9G6JpC2qqX1Ju6KWpwC1YeayGuLPwzx/lX0hIsxgZqrj3cGw6IPE3RtHD3zYgayrK6RzJDtChiRBbeLc1MjeUlS2Kml08CC7sVFSeZB+OpemoqvVWMEljNin7wK69NKKvIEkUOjkRpAZ5K81hQI/+tJuHSLU1+Y9sx3oZpxlQ02Gw9kTFMT2F709CLj2zxUs2zhwYXkuv96c4vVBhVqim+VLPStFgJXO4a74Vl0j7OyTBqODDsQHfBQtDD9z97Ax12Wj73FJUjVkdAnZ9TGdUEfkkqHOmsasP0FKXXmDZQTWtravYhcbCeCPrme6ePPIwSTCrqRlp8ewOJmKVouiKIPCTt4J+Rg8XTzcee0=;jpSPd2YGOqgVWLHKF14muQ=="
+secured: "A6qSDse8B5BYwvTk3vAziifQ6GZ8OYSppBjd9vnxLbydspktkCZfgQtoRqBYBEDK8AhboZkkOKFrUeDvfEZkfQpX5zYWGCqSLVrCv9oXN9ZLh+Rh69MYIwYh+uyN00Biu48UclA7KVhbgz9D22ifEaurfELfD0ndDroz7QjFmTY+lJM+szTnG2oygZmGrrrZvjEFBjXEN9e3/EJTZ3UJbarZJ+Lw4w0dlEpDBSUAcon8rbUD2ctdsAu1hfTyvkICw0YLC+O0Y/5EEC8cQcPlp64ZWktysRQ9i73WxOPo3MCfnyMvx+v9pNLll1qjOeQaos3A1fNufqw4H8p5NIg65qN3xFgIxIYANCRw5DwCpjWVTUjZqFRgtuIFr5tF5ZGYxEI4yMbX2SZLig91SCvUtg3whsS+hNNZnAd/lOyiP1TPvDKbCHLeaVTFwfga9c0BA0aGd4N18zSpbhpwtnUVvkz/NB/kulSAOqugQW2eElhmilNPlTXTHivJtANJO7LmLKGtuucmSMGjCu3PqiTICg==;uoBh6fAFsUtVcki0RVWubw=="
 ---
 

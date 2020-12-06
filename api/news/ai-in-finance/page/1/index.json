@@ -81,6 +81,52 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning.md",
+      "title": "AWS DeepRacer trains and engages tens of thousands of people on machine learning",
+      "excerpt": "Ever since the launch of Amazon Web Services Inc.’s DeepRacer in 2018, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the AWS DeepRacer League Champion at Amazon’s yearly re:Invent conference.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Mike-Miller.png",
+          "width": 3762,
+          "height": 2120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AWS AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
       "title": "7 Machine Learning Stocks for a Smarter Future",
       "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
@@ -1309,50 +1355,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-keybank-battles-push-payment-fraud-with-machine-learning-other-tactics.md",
-      "title": "KeyBank Battles Push-Payment Fraud With Machine Learning, Other Tactics",
-      "excerpt": "The Digital Fraud Tracker explores the threat of APP fraud and the use of data analytics and pattern recognition to identify and counter digital schemes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
-      "originalUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/Hero-1-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
-      "publishedDateTime": "2020-11-13T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

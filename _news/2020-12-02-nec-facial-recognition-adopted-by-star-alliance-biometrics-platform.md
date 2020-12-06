@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18608227"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18608227"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Amazon introduces voice biometrics for call centers, edge computer vision"
+    excerpt: "Amazon has revealed a new voice recognition tool built into its suite of call-center services for businesses to shorten call times, Reuters reports. The announcement was made by Amazon Web"
+    publishedDateTime: 2020-12-03T17:23:00Z
+    webUrl: "https://www.biometricupdate.com/202012/amazon-introduces-voice-biometrics-for-call-centers-edge-computer-vision"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 40
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
+        isCached: true
   - title: "Startup wants to give biometric face scrapers digital dead ends to chase"
     excerpt: "A small shop of AI coders and photographers have a new use for their GAN-made portfolio of faces. The company says its Anonymizer app creates red herrings to throw face scrapers off a"
     publishedDateTime: 2020-12-04T17:02:00Z

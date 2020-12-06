@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-faci
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
 type: article
 quality: 88
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6eb04bae0598b6dfc6143%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Massachusetts lawmakers vote to pass a statewide police ban on facial recognition"
-    excerpt: "Massachusetts lawmakers have voted to pass a new police reform bill that will ban police departments and public agencies from using facial recognition technology across the state. The bill was passed by both the state’s House and Senate on Tuesday,"
-    publishedDateTime: 2020-12-02T00:03:00Z
-    webUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/"
-    ampWebUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/surveillance-camera-blue-yellow.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
     excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."

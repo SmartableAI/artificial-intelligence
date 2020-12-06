@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "No bugs in facial recognition technology, says state agency"
-    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
-    publishedDateTime: 2020-12-01T23:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
-    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
-    publishedDateTime: 2020-12-02T16:11:00Z
-    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
   - title: "Facial recognition software getting better with mask wearers, says study"
     excerpt: "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces."
     publishedDateTime: 2020-12-02T15:01:00Z
@@ -73,89 +41,45 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Madison City Council bans city agencies from using facial recognition technology"
-    excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
-    publishedDateTime: 2020-12-02T05:55:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
+  - title: "Face recognition software making progress at recognizing masked faces"
+    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
+    publishedDateTime: 2020-12-03T06:46:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/f2/0f2e861d-0159-586f-8b36-51224ddd6f9a/5fc73b36d5cad.image.jpg?resize=1024%2C700"
-        width: 1024
-        height: 700
-        isCached: true
-  - title: "Seattle officials deny use of facial recognition technology after ACLU allegations"
-    excerpt: "Seattle does not use Clearview AI's facial recognition technology, according to city officials. SEATTLE — Seattle officials are pushing back against the ACLU's allegations that city agencies are using facial recognition technology."
-    publishedDateTime: 2020-12-03T19:15:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    ampWebUrl: "https://www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 53
-    images:
-      - url: "https://media.king5.com/assets/KING/images/0291c3cb-46ee-4fff-a3b7-081e4aef072b/0291c3cb-46ee-4fff-a3b7-081e4aef072b_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Stanford likely helped develop facial recognition tech now used against ethnic minorities in China"
-    excerpt: "U.S. government calls universities’ facial recognition technology development partnerships with China a security risk."
-    publishedDateTime: 2020-12-02T05:14:00Z
-    webUrl: "https://www.thecollegefix.com/stanford-likely-helped-develop-facial-recognition-tech-now-used-against-ethnic-minorities-in-china/"
-    type: article
-    provider:
-      name: The College Fix
-      domain: thecollegefix.com
-    quality: 40
-    images:
-      - url: "https://www.thecollegefix.com/wp-content/uploads/2020/05/ChinaSpy.Bee_Bright.Shutterstock.jpg"
-        width: 580
-        height: 380
-        isCached: true
-  - title: "'Regulation gap' for facial recognition technology, law expert says"
-    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
-    publishedDateTime: 2020-12-03T17:22:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
+      name: Help Net Security
+      domain: helpnetsecurity.com
     quality: 39
     images:
-      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
+        width: 1000
+        height: 707
         isCached: true
-  - title: "Police use of facial recognition technology soars in Minnesota"
-    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
-    publishedDateTime: 2020-12-04T20:44:00Z
-    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+  - title: "With or without a mask, facial recognition tools know if you are you"
+    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
+    publishedDateTime: 2020-12-04T00:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
+      name: The Star
+      domain: thestar.com.my
     quality: 39
     images:
-      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
+        width: 1240
+        height: 826
         isCached: true
-  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
-    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
-    publishedDateTime: 2020-12-04T19:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "AHFJEzmmOecRUYTGoJt7xRiR7WnIwHV9ZyfAXfXFM9s3dGbig6c53U5cQJlDSL4v32ojoS4s4CopDmCEPnegGeRfmmyvans1ovTxU1WB807+PZGy7ZOHAXGtEFawGQHB1NOhdNfGbYLotqNyobS++m5UuWrONkS73EDwvawU160XKJmszS5HhXo7x45kxT53kaQqLWXyfehfUktC4XTJFO/mnbDT+IZwKmJxIa+cdKGwlE4HuS78zpYt3778Ov07hGFtJU1/gwFNO59XS+N3dbnH+eNQ2snpW+Q8dqIZXbLHjJFl3Cp1F9VvFJc+xB9q69jj3De4qfrrWPIe6YEdO0IsgWS5B3PvhiD0IQKv8p9YOnRR6yRZJI3zg2yv7+0O8zO/bPfzTGj0NbQ4ayNGziia8h8EcU4psc7m4E9bEIbdfKV/opLE2QxtIlzcRhW34BISlG8nGIRowq07PAy+Bp2DLDb0QhWMXqDQVAO4N1gFCsYhacfBvnF4rH2mGoWURwBuHfCBOeKV0IxdJ7scNw==;2wUC6QZ3mkADWswcI+D62g=="
 ---

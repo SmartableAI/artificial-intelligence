@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-j
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1277E/production/_115764657_hi020818759.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Google's grip on DeepMind set to cost taxpayers tens of billions"
-    excerpt: "DeepMind was snapped up by Google in 2014 for around £400m - but one of its early investors believes it is now worth at least $30bn"
-    publishedDateTime: 2020-12-02T00:17:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 59
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
-        width: 1960
-        height: 1225
         isCached: true
   - title: "The predictions of DeepMind’s latest AI could revolutionise medicine"
     excerpt: "AlphaFold, DeepMind's new artificial intelligence, could accelerate drug development through its ability to predict the shape of the proteins that make up our bodies"

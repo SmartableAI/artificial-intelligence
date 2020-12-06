@@ -2,6 +2,187 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-30-how-to-productionalize-your-ai-initiatives-for-success-vb-live.md",
+      "title": "How to productionalize your AI initiatives — for success (VB Live)",
+      "excerpt": "Join this VB Live event for a look at each primary AI operating model and leave with a firm grasp on best practices and next steps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-collaboration.GettyImages-654774714.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/amp/",
+      "publishedDateTime": "2020-11-30T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-deep-learning-predicts-womans-risk-for-breast-cancer.md",
+      "title": "Deep learning predicts woman's risk for breast cancer",
+      "excerpt": "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg",
+          "width": 1280,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp",
+      "publishedDateTime": "2020-11-30T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-bull-of-the-day-baidu-bidu.md",
+      "title": "Bull of the Day: Baidu (BIDU)",
+      "excerpt": "After peaking above $270 in 2018, Baidu (BIDU) shares have been stuck in bull market purgatory, spending most of the last 18 months under $140. That punishment could be ending soon as the company reinvents itself and recovers from government restrictions on its advertising revenues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
+      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
+      "publishedDateTime": "2020-11-30T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029.md",
+      "title": "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029",
+      "excerpt": "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-computer-aided-creativity-in-robot-design.md",
       "title": "Computer-aided creativity in robot design",
       "excerpt": "RoboGrammar is a new system that automates and optimizes robot design. The system, developed at MIT, creates arthropod-inspired robots for traversing a variety of terrains. It could spawn more inventive robot forms with enhanced functionality.",
@@ -1017,212 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
-      "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
-      "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017",
-      "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-96392/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-turing-test-at-70-still-relevant-for-ai-artificial-intelligence.md",
-      "title": "Turing Test At 70: Still Relevant For AI (Artificial Intelligence)?",
-      "excerpt": "Yet Turing was already thinking about the implications of this category. In his paper, he described a framework to determine if a machine had intelligence. This essentially involved a thought experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc13a7e83db52b0eb53bf56%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D518%26cropY2%3D2487",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-27T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-ai-weekly-the-state-of-machine-learning-in-2020.md",
-      "title": "AI Weekly: The state of machine learning in 2020",
-      "excerpt": "If there was anything surprising in the report, it’s that only 16% of respondents said their companies have moved deep learning projects beyond a pilot stage. (This is the first year McKinsey ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/business_meeting.GettyImages-558270869.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/amp/",
-      "publishedDateTime": "2020-11-27T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
-      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
-      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "publishedDateTime": "2020-11-27T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

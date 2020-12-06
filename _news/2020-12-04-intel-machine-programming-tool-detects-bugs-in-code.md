@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI for Intelligent Social Media Marketing"
-    excerpt: "Remember a scene in the flick Titanic, where while that mammoth structure sank, all the people tried to float on the surface of the water, jostling and flapping their limbs, to stay on the surface and not sink."
-    publishedDateTime: 2020-12-02T00:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
-        width: 1024
-        height: 430
-        isCached: true
   - title: "Intel releases new machine programming tool to detect bugs in code"
     excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
     publishedDateTime: 2020-12-04T20:43:00Z

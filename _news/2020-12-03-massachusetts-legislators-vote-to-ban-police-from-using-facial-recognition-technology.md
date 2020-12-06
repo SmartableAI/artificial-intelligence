@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Massachusetts lawmakers vote to pass a statewide police ban on facial recognition"
-    excerpt: "Massachusetts lawmakers have voted to pass a new police reform bill that will ban police departments and public agencies from using facial recognition technology across the state. The bill was passed by both the state’s House and Senate on Tuesday,"
-    publishedDateTime: 2020-12-02T00:03:00Z
-    webUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/"
-    ampWebUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/surveillance-camera-blue-yellow.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
     excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
     publishedDateTime: 2020-12-03T16:24:00Z

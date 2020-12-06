@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "No bugs in facial recognition technology, says state agency"
-    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
-    publishedDateTime: 2020-12-01T23:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
     excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
     publishedDateTime: 2020-12-02T16:11:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
         width: 939
         height: 630
-        isCached: true
-  - title: "Facial recognition software getting better with mask wearers, says study"
-    excerpt: "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces."
-    publishedDateTime: 2020-12-02T15:01:00Z
-    webUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/"
-    ampWebUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 58
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Madison City Council bans city agencies from using facial recognition technology"
     excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
@@ -105,34 +73,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Stanford likely helped develop facial recognition tech now used against ethnic minorities in China"
-    excerpt: "U.S. government calls universities’ facial recognition technology development partnerships with China a security risk."
-    publishedDateTime: 2020-12-02T05:14:00Z
-    webUrl: "https://www.thecollegefix.com/stanford-likely-helped-develop-facial-recognition-tech-now-used-against-ethnic-minorities-in-china/"
-    type: article
-    provider:
-      name: The College Fix
-      domain: thecollegefix.com
-    quality: 40
-    images:
-      - url: "https://www.thecollegefix.com/wp-content/uploads/2020/05/ChinaSpy.Bee_Bright.Shutterstock.jpg"
-        width: 580
-        height: 380
-        isCached: true
-  - title: "Police facial recognition: new study calls for greater oversight in NZ"
-    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "'Regulation gap' for facial recognition technology, law expert says"
     excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
     publishedDateTime: 2020-12-03T17:22:00Z
@@ -147,15 +87,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
-    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
-    publishedDateTime: 2020-12-04T19:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
+  - title: "Wisconsin Capital Bans City’s Facial Recognition Use"
+    excerpt: "The Madison City Council voted to ban its city agencies from using facial recognition technology or information gathered from facial surveillance. The ban extends to the city’s police department."
+    publishedDateTime: 2020-12-03T21:35:00Z
+    webUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Governing
+      domain: governing.com
+    quality: 39
 
 secured: "p+S3IlUxoaysnPkIL2hKsIb/Yw76VvA2t3LpYMOLXvIeKkXfIDwY4YIjQe80RwDXYoUfdlD43Iz4wVd/ZGg+h2nS8BCLHsxuE+CnQjuGMG5R847Gq2WouR1NDiyUMAyCvd7IdfTd22XKZ+iwm8Ww4/h6SPmxqIEsUcG22j3A6FA1PlgyZz4SFw52ezZ8NzlteW3i9tjpTlR6h/AGtjKuZXhBslDw6NpJ670Wr7UfgQ1MA2dbbgFa7KRTSm932ualrfEZG+E9F1oVptl8T4ktK+e4jHHCVQA7uQge5eC4inoG+5IdHYGF71JhSZ36rBdj6QEes8u9GYiLiGXg8iWQzUYKigemN8T4rjMov83grIVcRlvOhvNvXvrjQeWhNIB++jq8JbJc2/sG0ULnGSrebidCxjVO3Q82X0wsCEZrzL8a8sRsSb+rHyzz9QwCZmh/Lfnk9zYSO6VkU2pUeBGA3spJV7GwNomLZAqRwACZKrNMavJkB69xIGQdZicucf64u6Lr/YSGwA0YOuL9+WOTcg==;jzShU54GtZtaHeyCoYcrRQ=="
 ---

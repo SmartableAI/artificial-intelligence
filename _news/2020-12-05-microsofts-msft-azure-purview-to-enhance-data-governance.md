@@ -194,15 +194,6 @@ related:
         width: 1500
         height: 785
         isCached: true
-  - title: "NetMotion Unveils SASE Platform Leveraging Microsoft Azure"
-    excerpt: "NetMotion’s SASE solution is built with a cloud-native philosophy leveraging Microsoft Azure, offering integrated transport and web proxies, distributed firewalls, network access control (NAC), zero trust network access (ZTNA) or software-defined perimeters (SDP),"
-    publishedDateTime: 2020-12-02T00:37:00Z
-    webUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-leveraging-microsoft-azure"
-    type: article
-    provider:
-      name: PRWire
-      domain: prwire.com.au
-    quality: 34
   - title: "Microsoft Switzerland launches Dynamics 365, more Power Platform modules and additional Azure services from the Swiss data centers."
     excerpt: "With Dynamics 365 and the Power Platform, Microsoft Switzerland is completing its existing local cloud offering after having launched Microsoft Azure and Microsoft 365 with Teams previously. In addition,"
     publishedDateTime: 2020-12-03T12:43:00Z

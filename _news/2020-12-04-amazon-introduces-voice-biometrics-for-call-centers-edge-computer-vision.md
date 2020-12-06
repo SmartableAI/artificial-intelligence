@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202012/amazon-introduces-voice-bio
 webUrl: "https://www.biometricupdate.com/202012/amazon-introduces-voice-biometrics-for-call-centers-edge-computer-vision"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,31 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
-    excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
-    publishedDateTime: 2020-12-02T00:45:00Z
-    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
+  - title: "NEC facial recognition adopted by \"Star Alliance Biometrics\" platform"
+    excerpt: "TOKYO, Dec 2, 2020 - (J) - NEC Corporation (TSE: 6701) announced today that Lufthansa Airlines and Swiss International Airlines (SWISS), Lufthansa Group airline members of Star Alliance, launched the \"Star Alliance Biometrics\" identity verification platform utilizing NEC's facial recognition technologies at Frankfurt Airport and Munich Airport."
+    publishedDateTime: 2020-12-02T03:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/a18608227/nec-facial-recognition-adopted-by-star-alliance-biometrics-platform"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18608227"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18608227"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Startup wants to give biometric face scrapers digital dead ends to chase"
+    excerpt: "A small shop of AI coders and photographers have a new use for their GAN-made portfolio of faces. The company says its Anonymizer app creates red herrings to throw face scrapers off a"
+    publishedDateTime: 2020-12-04T17:02:00Z
+    webUrl: "https://www.biometricupdate.com/202012/startup-wants-to-give-biometric-face-scrapers-digital-dead-ends-to-chase"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543091445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03DZ"
-        width: 818
-        height: 545
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
+        width: 1640
+        height: 800
         isCached: true
-  - title: "Masks are more likely to protect you from COVID-19 than facial recognition"
-    excerpt: "Facial recognition firms got more than they bargained for when COVID-19 struck. While the technology to identify faces when wearing coverings like the medical face masks we see today has certainly existed,"
-    publishedDateTime: 2020-12-02T12:06:00Z
-    webUrl: "https://www.ameinfo.com/industry/tech-and-mobility/masks-are-more-likely-to-protect-you-from-covid-19-than-facial-recognition"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 17
 
 secured: "mz7BEwNgzzaQfuK4ejZBeDydQQQmsc8oFYYTflzZkZ84WymsuQntHBHwoev/4caiitmY+4wWo63i5Ie7Db9KDxeiea0IZUdlxLc3ezxzAVxR+jMUOIt8i2fWOzw9q8yZwIqFPkx7ZuQodhVFtk4M3hKr60ViesBIOnauRNbfSYqb07hWA2SM3sqIK3BxHzXdZ9hzz0jyfAQheF6DgwCCqZbcBFKpVwf2kl7ZBqiFkURdQocjpfpny3Hh7KqRUedMU3pitLtRn/TFlvDqSiRWcYkwJufpQG3KV32L5ZH9YD45Kp9ukgI8DZVYi+C87T+1AeKQLwYTYCKkZsH+vYEjkgsNGm8aogVpr2iGvZ2jCj1u2oGrm1JZbZF3RyKyjwic3ZVlGyFItsC6SXZiSCv8IESWLPDYN5uWz2oKFc8fswS9aEuI1GGxSX+CLQLOqkkZPRNmbdFMC/eZSeixlt22t1dMS+gGgnSZcYJcuPk41+3/dsH7d8zk/CvynoJ7Jb7zN430XhnXTQ400MiWhw3idQ==;zjX8o1UNb17XPsgbleR5Cw=="
 ---

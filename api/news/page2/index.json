@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-signs-order-on-principles-for-us-government-ai-use.md",
+      "title": "Trump signs order on principles for U.S. government AI use",
+      "excerpt": "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
+      "originalUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D357",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357",
+      "publishedDateTime": "2020-12-03T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
       "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
       "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
@@ -1052,6 +1103,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-covid-19-odd-full-face-mask-that-shields-you-from-face-recognition-raises-110000-on-kickstarter.md",
+      "title": "COVID-19: Odd full-face mask that shields you from face recognition raises £110,000 on Kickstarter",
+      "excerpt": "The BLANC mask is the brainchild of US developers, and features two high-efficiency, reusable and replaceable HEPA filters and interchangeable front panels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9013977/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9013977/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/12/03/12/36399024-0-image-a-51_1606999249619.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9013977/amp/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9013977/amp/COVID-19-Odd-face-mask-shields-face-recognition-raises-110-000-Kickstarter.html",
+      "publishedDateTime": "2020-12-03T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-self-driving-cars-being-tailgated-by-obnoxious-human-drivers.md",
       "title": "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers",
       "excerpt": "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte",
@@ -1060,7 +1154,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1112,7 +1206,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1152,101 +1246,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
-      "title": "Meet TIME's First-Ever Kid of the Year",
-      "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
-      "originalUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2018/12/TIM201207_KOTY.CoverFINAL4.jpg",
-          "width": 2363,
-          "height": 3150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://time.com/5916772/kid-of-the-year-2020/?amp=true",
-      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true",
-      "publishedDateTime": "2020-12-03T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-why-soft-skills-could-power-the-rise-of-robot-leaders.md",
-      "title": "Why soft skills could power the rise of robot leaders",
-      "excerpt": "What would the world look like if socially skilled robots stepped into the roles normally reserved for humans?",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.html",
-      "originalUrl": "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/3-robot.jpg",
-          "width": 1920,
-          "height": 1771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp",
-      "publishedDateTime": "2020-12-03T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

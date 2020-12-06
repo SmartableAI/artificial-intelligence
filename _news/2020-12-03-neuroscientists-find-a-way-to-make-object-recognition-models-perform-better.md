@@ -1,31 +1,33 @@
 ---
 category: news
 title: "Neuroscientists find a way to make object-recognition models perform better"
-excerpt: "The study, which is being presented at the NeurIPS conference this month, is also co-authored by MIT graduate student Martin Schrimpf, MIT visiting student Franziska Geiger, and MIT-IBM Watson AI Lab Director David Cox. Mimicking the brain Recognizing ..."
-publishedDateTime: 2020-12-03T15:04:00Z
-originalUrl: "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/"
-webUrl: "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/"
-ampWebUrl: "https://scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/"
-cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519797/neuroscientists-find-a-way-to-make-object-recognition-models-perform-better/amp/"
+excerpt: "The study, which is being presented at the NeurIPS conference this month, is also co-authored by MIT graduate student Martin Schrimpf, MIT visiting student Franziska Geiger, and MIT-IBM Watson AI Lab Director David Cox. Recognizing objects is one of the ..."
+publishedDateTime: 2020-12-03T05:00:00Z
+originalUrl: "https://news.mit.edu/2020/object-recognition-v1-1203"
+webUrl: "https://news.mit.edu/2020/object-recognition-v1-1203"
 type: article
-quality: 42
-heat: 42
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: ScienceBlog
-  domain: scienceblog.com
+  name: news
+  domain: mit.edu
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://scienceblog.com/wp-content/uploads/2020/12/Neuroscientists-find-a-way-to-make-object-recognition-models-perform-better-.jpg"
+  - url: "https://news.mit.edu/sites/default/files/images/202012/MIT-BetterComputerVision-01-Press.jpg"
     width: 1200
     height: 800
     isCached: true
 
-secured: "ZouR0kYfgyyaP/DN7KDgW7NQ4ziDVlHv5qjYR8SbMxEb3qnwnMb2beK9OsK0WDikccsCaY8oausWQm0oRLuE/T8K6C+BmGzicCELRKHWm/dGPl7DkQYiYQhNn4Nd+qu5wSHb/1riGnnwypR6scPblE6NaTSCTe/8S8PEjcidYgn8WREdyESYLstfWjbQ9RyeNseoRmHJejtAJ+mqKZaVsThCiIJredKfejLfQjHYoKqVxRS2xrnulNEqpSsBe/+NNqEVSL9I/QQbU1514EjPRP3VHudHv8hUlz9GtNg1eEsuVzLt3S4Y0e8OQHmgjidaUSb29FReDAVsJPOjbw/A5F2FdkOUZpCxmiVW/y+xMIA=;QjkeWRU5Y0LCU9woD6OI3A=="
+secured: "i2Zgr7bdghYG/2Tro2KggR4rob/iMtvo1KrddR4fyHveGszMDdSOqzgTSH4Ed4f2dBMq9ldZ/so5xqR8I6GdFJPRWsFl3mI6TvMOC8NKMSvlB7iskNNqegKh8rWsY6k24mbZN+aUT3CH0V/fEW4m9aY+zI02QPBPSOyzODO98z1Lkwh9+AxeahqcrlVIccHexsFWM3GjRNWX+CvATk1Li6vlgKE+s+78SaPMSJyK35CFK0cqm6D3W+UDICkv9t6MxUqKOYJKUzSkQzYZshaQCktZujVDHKM/vNOR+PL7SO+OYSJQzngOnlvCdtrXcjfUgdEzSECoDR/mSxHKl5HjW4wuHBORSOCeVF7NUNrKZZw=;OOfM6Ri6ESSet4XvuT6rVA=="
 ---
 
