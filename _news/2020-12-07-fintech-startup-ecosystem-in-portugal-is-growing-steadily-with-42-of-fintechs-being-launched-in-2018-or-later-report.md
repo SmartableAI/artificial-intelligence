@@ -27,35 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "The Beginning of the End of Cash? 2020 in Fintech Trends"
-    excerpt: "Before the pandemic struck the globe, fintech companies around the world entered the new year with expectations that were shattered within months. Many of the trends that began the year were abruptly halted;"
-    publishedDateTime: 2020-12-03T11:27:00Z
-    webUrl: "https://www.financemagnates.com/cryptocurrency/news/the-beginning-of-the-end-of-cash-2020-in-fintech-trends/"
-    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/the-beginning-of-the-end-of-cash-2020-in-fintech-trends/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/the-beginning-of-the-end-of-cash-2020-in-fintech-trends/amp/"
+  - title: "Fintech startup Valyu.ai signs on integrated marketing consultancy, One Source"
+    excerpt: "New age fintech startup Valyu.ai, which focuses on the blue ocean Indian market for accrued advanced salaries, and is already working with close to a million of India’s employee base, today announced that they have signed on leading integrated marketing business impact consultancy,"
+    publishedDateTime: 2020-12-07T12:55:00Z
+    webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
+      name: AFAQS
+      domain: afaqs.com
+    quality: 52
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
+      - url: "https://images.assettype.com/afaqs%2F2020-12%2Fa8aabca6-60dc-4966-bb01-f9bf24bc7491%2Fdownload__4_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 935
         isCached: true
-  - title: "Israel’s Fintech Ecosystem Is Helping Usher in a New Era of Global Finance"
-    excerpt: "The rise of the global Fintech sector and Israel’s role as a major player in the field has never been more apparent. Although the industry has been thriving for the last decade, the last few years in particular,"
-    publishedDateTime: 2020-12-06T20:01:00Z
-    webUrl: "https://www.algemeiner.com/2020/12/06/israels-fintech-ecosystem-is-helping-usher-in-a-new-era-of-global-finance/"
+  - title: "IAN, Scale Ventures provide bridge funding to fintech startup Artivatic.ai"
+    excerpt: "Artivatic Data Labs Pvt Ltd, which operates insurance-technology startup Artivatic.ai, has raised capital in a bridge funding"
+    publishedDateTime: 2020-12-03T14:40:00Z
+    webUrl: "https://www.vccircle.com/ian-scale-ventures-provide-bridge-funding-to-fintech-startup-artivatic-ai"
     type: article
     provider:
-      name: Algemeiner
-      domain: algemeiner.com
+      name: VCCircle
+      domain: vccircle.com
     quality: 37
     images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2017/12/bitcoin.jpg"
-        width: 720
-        height: 360
+      - url: "https://assets.vccircle.com/uploads/2018/10/fundingbhaktiedited.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "i7mAtBpEo8iQjmEMGMjPAzP76xuFwKGEyD1AWqPbNQiTCF17esDyKz/bqgwRSK68cWQh4dqASMdXo1NqFKL9Mpga0XpQ7kQtnQigr77yfffRbCmmTWzodHOL3gob8w7Kvtjw/nZtM4o0A/RvsHmCrdqO+tmvMUYwIfmsZV2f4WUFyTYb9XSM/RHEfxiMn48wKTs3ICxqdxkpGsHq490PcJn2w/K4KJN83KbCZs42D7prWzrfAzXhk7jTwBLoQCmSic8IEr2pzA2Qpkygm5MHRrB66Z2qMuh05WCRP7siEOjVNKMFLOsM6ABrwVmTZvg2/cKlYK2C3VtYn8+kwk9oqFWmgV9jviEMn7aEMZaOwes=;ZLtSe3CQuTZZyXQ6ov/3tw=="

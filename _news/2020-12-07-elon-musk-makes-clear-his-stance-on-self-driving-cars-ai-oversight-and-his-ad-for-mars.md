@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artif
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Business Insider
@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-powered video compression could make an honest man out of Elon Musk"
-    excerpt: "LIDAR is a fool’s errand. Anyone relying on LIDAR is doomed. Doomed! Expensive sensors that are unnecessary. It’s like having a whole bunch of expensive appendices. Like, one appendix is bad, well now you have a whole bunch of them,"
-    publishedDateTime: 2020-12-02T19:47:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/"
+  - title: "Elon Musk reveals Tesla's plan to be at the forefront of a self-driving car revolution – and why he wants to be buried on Mars"
+    excerpt: "Tesla CEO Elon Musk sat down with Axel Springer CEO Mathias Döpfner for an interview during his visit to Germany."
+    publishedDateTime: 2020-12-05T18:00:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/aicodecs-796x419.jpg"
-        width: 796
-        height: 419
+      - url: "https://i.insider.com/5fca3ba6b6a3a800199b68d0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The world's youngest self-made billionaire is proving Elon Musk wrong by bringing lidar — and self-driving savvy — to the mass car market"
+    excerpt: "Elon Musk thinks lidars are too expensive for consumer cars, but Luminar has convinced Volvo that it's cracked the code to slashing lidar prices."
+    publishedDateTime: 2020-12-05T03:48:00Z
+    webUrl: "https://www.businessinsider.com/luminar-elon-musk-austin-russell-lidar-volvo-cars-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://i.insider.com/5f7f581be4029f0018760573?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
+    excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
+    publishedDateTime: 2020-12-06T20:44:00Z
+    webUrl: "https://www.newsy.com/stories/volkswagen-may-sell-self-driving-cars-as-soon-as-2025/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 24
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1607266233_Vw4xEy.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "fkP1N9tcHk+CJ591yhTgUv8czqc/KJS40wGHPQYe6yGr4Kr8+P5rn5dnlyB1uy4yNS0cPDu+G3+6cxPVXITtdivAk+ZrIJ4mEtlDVGt9SzXYAdTvsuLlvx4E4BgvipvXqnMuSC7SQ5QMBDiuY+MnP8UorVlQ1MIf0WUtb9B6jJ3IFuiOkY9RZSZvApXetltXWdw+ZSoEie1njwAJ62ns+IJORsr2/iK3BMZqpsTiEIRxNgQttPlKZfaqGQn29dHdO31RXhKilUvXNxom8fUDt9PG8cx8d54km7POeZ4FrAzfdrj+7tc5Y+oyI+qHWLBk/nJGMmkPvYCOBxP3W+Q6yAofr/gfy6UKZKzi9rP1Uc01N4sbcBivnImU331QSwyHD4B9Bn3sHzrNQ4OYM6hLRuC+g6XHuqZ9f+3SjJ2IRzXFLUuh0HVxUZZdeJDTr3iTL6HYjnJsd0yIbM9Dqp7rMfaMGo7qybZbCNqrR2p90Ot3YiU41pMW9TSr5Cd5iExISI6Yv0DS16mR2V44v3TDIg==;sPsxRipOKFJ9GHj+oX4NDw=="

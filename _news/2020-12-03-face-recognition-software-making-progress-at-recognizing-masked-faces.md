@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Police facial recognition: new study calls for greater oversight in NZ"
-    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
+  - title: "School facial recognition software misidentifies black women 16 times more often than white men, report"
+    excerpt: "Racial bias in AI in the spotlight as vendor allegedly lied about accuracy to school district, and leading researcher Timnit Gebru exits Google"
+    publishedDateTime: 2020-12-07T10:35:00Z
+    webUrl: "https://www.computing.co.uk/news/4024583/school-facial-recognition-software-misidentifies-black-women-times-white-report"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
-        width: 1420
-        height: 798
+      - url: "https://www.computing.co.uk/api/v1/wps/a075e87/6f37f4f3-bea2-4351-b017-ada8114325f4/1/facial-recognition-black-woman-iStock-1022348426s-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "uCFZ/hKUQLBhrAgFLKW/cyLm2dYz5d+Ngk7VUlmIOzponHy1GNpWcS59zRxqU2SjTsd9g/xQM1qJUIRfLv8+HEwxkJFHyx7RQ5cDYY49ADhDnbeoeBAbRDZy+ETJsNVM2XRvtGqsrP9od4slJ6lnTWAmA47TcCjNhlFnmF5qFguOYT4vTT7NOFJ1WKeatjz2ka4RjwTGWLb0zDfqsh+HbF35+s5SOSm8p6VQV19p6q1XmLFrhQ2aYU7Tk1BLGiaGyJs0kzsWAYtMPPPVaIozmylFlUF/LoROV7UBpdAnJZspIZO2mnpi10QQtlIzHwIDGz6BuNB5S7KHIMcII0HQQCBMbTIvevJmc7pim7FcmuSfPOkcr1DZT696a7AidHMR7g8/R527IHCkkvK9+0TPuvDDDOS4nn1E/wCjsqJT2H7tYzvs9PRtaguMn5X8RnhiNdiWHzq77l/nQYh8fmRDR+h7YZW+oT2IazQ0PEIFIMmAtQPm1pMSHUyWK626gGR3CDrPFoFNgfiTgx/r4NCkFg==;nR3E7sIcpMWRo6RF8lUbOA=="

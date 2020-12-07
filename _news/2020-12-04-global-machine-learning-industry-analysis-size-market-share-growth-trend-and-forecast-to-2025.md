@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04"
 type: article
 quality: 58
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 600
         height: 339
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
+    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
+    publishedDateTime: 2020-12-07T12:08:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 11
 
 secured: "ShrpNwZs2sJqPsnCHo1xKezub1y86Kl+dLV/3IKOK2gnqfABrnoizltARxOVXzgWc4qXF/O2JmdleBupcWsO6jn7uQE2rf3kr8XXItdfUtwiweD7tR1JX+MYfa/tVb4rBs8UB+quIonrV66sgpw72nxxrgzjHRRf0ADP0/Fg6S9lX8peniS/hxRGZ4Rv7prX36x5CJQiDpoDtEAFRI2fN7OfiZCsl92UiyXjuQWTWayG/1C9j+Zw5H9ur55LRFXdZfATqitslHHNtQZeLZ1iSso7TubxT7flyFU4Z5snAWRFZqd6Ry6O1/i8f+2FmNKVPLZyv8HMo2M3DIt/kuj3to/WAWSMlL3mU6lq8Kmo8pk=;3fevv6cG8E6okrOk5R9PxA=="
 ---

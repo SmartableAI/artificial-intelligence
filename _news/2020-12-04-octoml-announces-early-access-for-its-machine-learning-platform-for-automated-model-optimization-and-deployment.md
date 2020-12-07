@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/octoml-announces-early-a
 webUrl: "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Earnix Enhances the Machine Learning, Automation and Personalization Capabilities of its Solution with New Robust Features"
+    excerpt: "Earnix, a leading provider of advanced rating, pricing and product personalization solutions for insurers and banks, announced significant enhancements to its analytical, automation and personalization capabilities."
+    publishedDateTime: 2020-12-04T13:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-insurance-industry-6d7dc28ca85140fa8986f45720554eda"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

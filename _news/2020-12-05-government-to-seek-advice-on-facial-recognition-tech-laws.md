@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-a
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Newshub
@@ -27,21 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Company Lied to School District About its Racist Tech"
-    excerpt: "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns."
-    publishedDateTime: 2020-12-02T19:42:00Z
-    webUrl: "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
-    ampWebUrl: "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech"
+  - title: "'Regulatory gap: State's facial recognition tech sparks surveillance concerns"
+    excerpt: "State surveillance systems have become too powerful and lack controls, researchers warn. Research released today says the G overnment now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR)."
+    publishedDateTime: 2020-12-03T21:32:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 88
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 56
     images:
-      - url: "https://video-images.vice.com//articles/5fbd6ae4daaa2a009b1f3af6/lede/1606775605901-11302020racistfacialrecognitionsoftwarecv.jpeg?crop=1xw:1xh;center,center"
-        width: 1920
-        height: 1080
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Police facial recognition: new study calls for greater oversight in NZ"
+    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "'Regulation gap' for facial recognition technology, law expert says"
+    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
     excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
@@ -57,6 +99,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
   - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
     excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
     publishedDateTime: 2020-12-06T10:30:00Z

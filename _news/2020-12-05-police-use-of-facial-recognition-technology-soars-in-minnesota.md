@@ -25,49 +25,107 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
-    excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."
-    publishedDateTime: 2020-12-03T01:04:00Z
-    webUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457"
-    ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
-    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+  - title: "Government to seek advice on facial recognition tech laws"
+    excerpt: "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition."
+    publishedDateTime: 2020-12-04T18:43:00Z
+    webUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
     type: article
     provider:
-      name: The Root
-      domain: theroot.com
-    quality: 52
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg"
-        width: 800
-        height: 435
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
-    excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
-    publishedDateTime: 2020-12-03T16:24:00Z
-    webUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html"
-    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+  - title: "'Regulatory gap: State's facial recognition tech sparks surveillance concerns"
+    excerpt: "State surveillance systems have become too powerful and lack controls, researchers warn. Research released today says the G overnment now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR)."
+    publishedDateTime: 2020-12-03T21:32:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 56
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
-        width: 983
-        height: 630
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "Wisconsin Capital Bans City’s Facial Recognition Use"
-    excerpt: "The Madison City Council voted to ban its city agencies from using facial recognition technology or information gathered from facial surveillance. The ban extends to the city’s police department."
-    publishedDateTime: 2020-12-03T21:35:00Z
-    webUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
+  - title: "Police facial recognition: new study calls for greater oversight in NZ"
+    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
+      name: Stuff.co.nz
+      domain: stuff.co.nz
     quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "'Regulation gap' for facial recognition technology, law expert says"
+    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
+    excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
+    publishedDateTime: 2020-12-04T17:28:00Z
+    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
+    type: article
+    provider:
+      name: University of Texas at Dallas
+      domain: utdallas.edu
+    quality: 38
+    images:
+      - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
+  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
+    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
+    publishedDateTime: 2020-12-06T10:30:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
+        width: 2176
+        height: 1578
+        isCached: true
 
 secured: "p+S3IlUxoaysnPkIL2hKsIb/Yw76VvA2t3LpYMOLXvIeKkXfIDwY4YIjQe80RwDXYoUfdlD43Iz4wVd/ZGg+h2nS8BCLHsxuE+CnQjuGMG5R847Gq2WouR1NDiyUMAyCvd7IdfTd22XKZ+iwm8Ww4/h6SPmxqIEsUcG22j3A6FA1PlgyZz4SFw52ezZ8NzlteW3i9tjpTlR6h/AGtjKuZXhBslDw6NpJ670Wr7UfgQ1MA2dbbgFa7KRTSm932ualrfEZG+E9F1oVptl8T4ktK+e4jHHCVQA7uQge5eC4inoG+5IdHYGF71JhSZ36rBdj6QEes8u9GYiLiGXg8iWQzUYKigemN8T4rjMov83grIVcRlvOhvNvXvrjQeWhNIB++jq8JbJc2/sG0ULnGSrebidCxjVO3Q82X0wsCEZrzL8a8sRsSb+rHyzz9QwCZmh/Lfnk9zYSO6VkU2pUeBGA3spJV7GwNomLZAqRwACZKrNMavJkB69xIGQdZicucf64u6Lr/YSGwA0YOuL9+WOTcg==;jzShU54GtZtaHeyCoYcrRQ=="
 ---

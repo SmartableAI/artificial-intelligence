@@ -21,19 +21,109 @@ topics:
   - AI
 
 related:
-  - title: "ACLU Asks Durkan to Ban Use of Facial Recognition Software at SPD"
-    excerpt: "While it's unclear whether SPD used this technology in any investigations, the SPD officer with the Clearview AI account logged in multiple times from desktop computers in city government buildings and from an IP address on a secure city network,"
-    publishedDateTime: 2020-12-02T22:55:00Z
-    webUrl: "https://www.thestranger.com/slog/2020/12/02/52765786/aclu-asks-durkan-to-ban-use-of-facial-recognition-software-at-spd"
+  - title: "Government to seek advice on facial recognition tech laws"
+    excerpt: "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition."
+    publishedDateTime: 2020-12-04T18:43:00Z
+    webUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
     type: article
     provider:
-      name: The Stranger
-      domain: thestranger.com
-    quality: 41
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 59
     images:
-      - url: "https://media2.fdncms.com/stranger/imager/u/original/52774490/1606944712-gettyimages-1190695006.jpg"
-        width: 625
-        height: 559
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "'Regulatory gap: State's facial recognition tech sparks surveillance concerns"
+    excerpt: "State surveillance systems have become too powerful and lack controls, researchers warn. Research released today says the G overnment now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR)."
+    publishedDateTime: 2020-12-03T21:32:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 56
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Police facial recognition: new study calls for greater oversight in NZ"
+    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "'Regulation gap' for facial recognition technology, law expert says"
+    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
+    publishedDateTime: 2020-12-03T17:22:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
+    excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
+    publishedDateTime: 2020-12-04T17:28:00Z
+    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
+    type: article
+    provider:
+      name: University of Texas at Dallas
+      domain: utdallas.edu
+    quality: 38
+    images:
+      - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
+    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
+    publishedDateTime: 2020-12-06T10:30:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
+        width: 2176
+        height: 1578
         isCached: true
 
 secured: "wzGq4sSAQKqpSFmEx1Vl3Hkw9SD4UYGL5C3yxiXbtmdSD/q3AW+VNbCRSlED/94VQ4KXtNZPOa4TZTQLEFozfyvHhbJAJYQR4TLJSyR6DpzKs7ln3x499SN4vTFYDKGf9Oyzy+GsxvtXdJ0eH1ngnWSetXiUevx2t8oTROKQbqRWhheIscA8LiTLIYFtDPDkd4SvB9wRmofHF4Z1UiNCSB6Yz/DD76cBjYBHsyRHNNV5MUTN+wXAlddSgEzyLkTu2icfT0w7ZixuKqGp7uH0oTimraCmMYexOmifWu4u3NyeYW0cmpOrs+dDYyqod+AyHGMzuyYb2lIoGIayAW7QRIwoZlaSvrhQA0J3/btbPFdOb7lVqMe5QEdjP4KZKUNswb5wgZjtsPVBA0aD/WTIdacpAellhaQvOvoO6f0D9yeE+UiAnxN5/dZo5n7Ok3HOzpNHm1Ya5NlIvF746KK8zo+4FEl0amFz8Vg/rty618MoeIoSbOU2y1mkEoeGdjNBItl9UQSJNT9qTQnsO5kN/w==;HlbMzHlig4PKscep5AsaCg=="

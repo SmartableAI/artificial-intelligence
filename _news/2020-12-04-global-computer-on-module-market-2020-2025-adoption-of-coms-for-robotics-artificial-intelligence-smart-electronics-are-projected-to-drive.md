@@ -109,6 +109,15 @@ related:
         width: 600
         height: 339
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
+    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
+    publishedDateTime: 2020-12-07T12:08:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 11
 
 secured: "wUiHizGPpYnS45cr0DHtoBzCpCv9nbIjbtM6VogTOtSH6xARHbif3IFQwRymrB33XJM3rbrvF3c9QMArNTiyyG5kMC+Grt5xkBsG2ioWkVI9y1WS9dm+tqvq7U8J1FzGYumPh0hzZwURc7fjrNm6Qj2Hqf4Wtf6lvtlmiUCqTbU5V1SIMHn5lE3bsBqzoX+QGduG1/WYkD/1joFpmXbEWs2N0rwnp9E0mHjOwfbC6pPzCLKF83KvTyOU1FBWI+9YWRcnfNPyxSrPw0wpIPs3pz4tbHvafSrQTWFHmi/3C0qOIKDbo68Z8CmPPZJl3bWdwNaNiDnMeAGi/vb5mFaFKbv47uS10msnNwOAO41QaRg=;/rcH7DE9K/aeYp0lEF+pWg=="
 ---

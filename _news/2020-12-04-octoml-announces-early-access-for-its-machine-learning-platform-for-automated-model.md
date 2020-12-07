@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Earnix Enhances the Machine Learning, Automation and Personalization Capabilities of its Solution with New Robust Features"
+    excerpt: "Earnix, a leading provider of advanced rating, pricing and product personalization solutions for insurers and banks, announced significant enhancements to its analytical, automation and personalization capabilities."
+    publishedDateTime: 2020-12-04T13:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-insurance-industry-6d7dc28ca85140fa8986f45720554eda"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "TQkKa8X3ZU2V9vcjulV9YdH9OO6eaoeRumXEUR8f3q7BZNLLUuNepfI8QV+Zw2uKSJFlzrjovz7aN3QujDTN1J2r6hEVpgr0whTHuuPDJoy765QDJRXgLAXEunNOgCHQE0Q08og3kP40/BbPFwDDjqeKy3ubyzyQGXTUu2JQygoQ4ZIf09jQuWwJdknuJif96uVW3ymPRiJToDKgx0iReXRaEk9MChXJpiyhwlRv+mBGZ+ZasbAgUr0yPJe2/qQDEFYecl8b8q3L48U6MLY7Zzly+p8QocG9xK+oSzRVwwwJ9QenYOq1W2zECD5EPrqrCcGx1m97MN9d6whnFgdqqD60YPhpfGS+xDD3sgE1SyQ=;hJ62VEHuFPib6v76zV7BSA=="
 ---

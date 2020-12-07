@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-t
 webUrl: "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 685
     height: 385
     isCached: true
+
+related:
+  - title: "How DeepMind boss Demis Hassabis used chess to get billionaire Peter Thiel to ‘take notice’ of his AI lab"
+    excerpt: "Demis Hassabis, the co-founder of AI lab DeepMind, has revealed that he talked about chess instead of his start-up idea when he first met Peter Thiel."
+    publishedDateTime: 2020-12-07T12:00:00Z
+    webUrl: "https://www.cnbc.com/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106260865-1574433338966gettyimages-1035249058.jpeg?v=1574433395"
+        width: 5760
+        height: 3840
+        isCached: true
 
 secured: "Pet5xu+on+KmFZSxCNyonZCeG9ePToXixwtZn1zVm4QH/eM1IK7DR+kPd6g4+b5ouF68ZEU5GdUi7r4KL9g2HS18c6GeA0FXDpxUKise7mlwQ9duHcKXrG+2Sjt1X/h0YLDx7iMgxnvLffYn9S8gkLVBzd1ojTo6alIZ2e1GOBJmnpbvVXwSy3zpHXqwiDyYo53mo/5aPJ1s4fx3hMvDkiJpVI3XK2bauKobQpbiPSvXWIQKhnHsoR+SHi5IVtBldFF3VrpfwSjtuYTr4lmdu/bnD3GSKDIAYlea+eC14tkQUsXsM3Bk/7sCouKBS57DgCba1O2joEeX+kGR1q0fTz5H4s9+nm1F7LEH3OCudvU61CvbLCp/EW9SlOaCMHTABls098JQg4gi40jvbgNTtiissWJaYyvO1YbU+RXFpzV95hq9khePJ92FdVQh4H2eF+StrpnKcCsCtFNIMmg+2UxhrveanU8SY/8UpkNx9T9dtExBAWL5dHbNSS151tcsKI/0Un1tbTfXuT7Bu6T9Wg==;YHkiMguN3n4jB2YriDcXJQ=="
 ---

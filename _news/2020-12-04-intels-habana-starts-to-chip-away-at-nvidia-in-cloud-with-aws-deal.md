@@ -9,8 +9,8 @@ ampWebUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chi
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Windows
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-    publishedDateTime: 2020-12-02T19:28:00Z
-    webUrl: "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C225"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 106
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
-        width: 817
-        height: 545
-        isCached: true
   - title: "AWS to leverage Habana Gaudi AI processors"
     excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"
     publishedDateTime: 2020-12-03T10:17:00Z

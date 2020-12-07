@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police
 cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Police use of facial recognition technology soars in Minnesota"
-    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
-    publishedDateTime: 2020-12-04T20:44:00Z
-    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qEKqHfkypz15NbmR79Y7VN3zTMUdSCzjyp7XftXOfWCXS3dmzWrkCliHZp/TGQtaVK3PvccJzEqzfIotzKkOM1vCrR1QU/aq4JM3JyiJkQesNDSg5y/AtP/shr2dfZ6w51LFy2GBnY//Zbmpk0Ci0jCQTHIcgie8tM4jMRf5UpiTfF/TXGX582hXD6pGkGcd1xP3urCw5E8SMNXG2Xe/iYmITn9TNGeC6qGVcD58KuQOQWsEZnJl6QN9a+1W1DcBggowuzyY6Ke4cthwT0N70phILx2ETLcVfuDNHsrcBBFcbqgZvNBIUs3XEF4/cFX5m3Kr8A59laboKAmwrSUgw928x/0zNkDW4wJiksmIEd5ZrOoIfHf2tsCkCrhkoXYWfzlEwxCvyxawQShGSyP7kldUHNg4pB25szTY/08aT+6NobDJPS029roHTazdQSNqNF3k6pn3UxtSLU1pAEPT/UdUqvAyPQeHwxtCD6gy259BrluSlcT2wi48ZLkXBHycJ5FB9G2sueq8YI+339xy4g==;jrrwgWvm2cwmShzczeuTag=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/the-week-that-was-in-israels-innovative-sta
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/amp/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "There are 529 Fintech focused Startups in Israel and they’ve Secured Over $3 Billion in Investments"
+    excerpt: "There are reportedly 529 Fintech focused startups in Israel and they've secured over $3 billion in investments."
+    publishedDateTime: 2020-12-07T11:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Surfing-Israel-Ocean-Wave-Water-Beach-600x495.jpg"
+        width: 600
+        height: 495
+        isCached: true
 
 secured: "eRoEx9u57TDCPvNV2E4AunMfDykAy4bMWUlsefUnXDolBypbxTR3ecwk6/5zT8djKXCqMFyb3CcDtX0XnS7cSClE33W8LfK5dZRPH+NJIqPWPPOyRMNWO3CXHDw02iSw8pG0TvE5NYeNHlXvbwRD6p/VweeW2VNigHgkdOD1TaftM/SyOezsYWpyTuRk5Azeo22HEtzhJjYl2Jdcr/Doa5VLkR6Ewhxv02fFmfG9FMdbrA7yg4JPy3pcs3rTpEk0L4DqP731NtFji8RIWeF3xKMlnuCp3+jZtSamlM6mTN3ZQVnhFxsc2aVqMm0qP8lyh6QndoZ/BEmyZE4GTwfnxqI/C/PWw+KqTBJuu724ZoaeS4TUUqWtCzsyLUQ40m30aliv4Iv1LxAC5PWXptVoLd7jwwR2zoLcqXf4YQ0wcVI80B2HgaszN3aYzoOPK7A2+dj6rqlXwhaZ60ghOC79GTnZTujxUMseYn1etT7Sa73d3+RD5RYa/zjYlgd50i3Xdr3la1C+T4tFSuQQ4C7jpg==;/CAs56ORVfubi+yO9X3Mpw=="
 ---

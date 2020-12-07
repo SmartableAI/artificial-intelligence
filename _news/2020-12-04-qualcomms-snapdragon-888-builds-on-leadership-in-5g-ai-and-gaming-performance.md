@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 738
     isCached: true
-
-related:
-  - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
-    excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."
-    publishedDateTime: 2020-12-02T19:21:00Z
-    webUrl: "https://timesofsandiego.com/business/2020/12/02/qualcomm-unveils-top-of-the-line-snapdragon-888-chip-for-smartphones/"
-    type: article
-    provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 39
-    images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2020/12/Snapdragon-888.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "h83zSBj1BP9YKPtdqP+a6HxE2fM6eQ8advRhAS+3pe6NhJ5xYaySs8sYgui3yLtcNnIfZCoktZGaUzTwFrk6kDKYLnI/y/TrKR23BfPKWkvaWeKiEiZBPLaSaatypAmIwDtpqTPpceFX1KiwkkR6USzr5lHM0MhE5pwxoH0/xK2TvTGnI3z62A9aGWLJ11NsKJsGGUsuV0kXl7JVgXJwsIdvYMaUjYXqT9BAW9/YSyTOyGY2kiDEP/PXEsnvzcdz0gMqNTkuEVAn667b6xnlvVd//N8AxGa7wgvHGMgCu5Lz38benz9oRQ8gVy0wLSua/bLtD01/2Zmcl6NjnHtPtWmU8oGusRBVfAOncArpFKLQfEQBKhpYFEDguw+MnxZStnbQHdsm+wZQjyxLpp/c7vw2ym9MfHMgW2IF2aMEEMkLwXd5yhgYNGNBBwZdRSAWU6RjjnC/JyFYw0WCGOidwc5lIckfqMG3zta46NGn2rDbFOCy79w2wd4pVDnRza4g7yzY8y7EYQITBq0dCN9H9Q==;k/N0kOISDwjMGqqDEA/i+g=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
-    excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
-    publishedDateTime: 2020-12-06T21:57:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 20
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/08/Praia-de-Sa%CC%83o-Rafael-Albufeira-Portugal-dan-gold-unsplash-600x418.jpg"
-        width: 600
-        height: 418
-        isCached: true
 
 secured: "aTkrxoZ/BIwigabvtG0OsiIv0s4OMFN8TqZHHW492WkGF1+t1Sxt5buSi7X724YL5oeIxF3X5o4iWq/ojUMUR5P10tHiVG6UD0cmJwyZ8C4dvixCoaarPlSHNYLnmGkEE4+exKp1nu2uQDjl5ErKhZtAxp1d6uJy8t3fzP5ltnC39zr/gozzknPuqGTWYqemXqg+MmReFXs0RGqy5+blmwMWHOPUpP7qu/DG0VGxFAP7ON7a3Kcuq5nr7sE8tQmzAdABw+R3/Xkr7Sg7XT3NFgkRCIu6sUmcyWRcwAipzowaIZEZ7H9ylTrWbhidJx0aAtlyi0jc28kmEHPWV1f3op73dmZtxlzqmEa+bcZCzRc=;Z6LeQZk82fhe2rgRKaQnNw=="
 ---

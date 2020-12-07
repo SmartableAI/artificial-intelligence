@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-dat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Virtual care platform Andor Health raises Series A from Microsoft"
-    excerpt: "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,"
-    publishedDateTime: 2020-12-02T19:56:00Z
-    webUrl: "https://vator.tv/news/2020-12-02-virtual-care-platform-andor-health-raises-series-a-from-microsoft"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/1343866/Andor_watch.jpg?p=publish&amp;w=950"
-        width: 1920
-        height: 1201
         isCached: true
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
