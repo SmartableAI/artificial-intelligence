@@ -43,6 +43,31 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Wisconsin Capital Bans City’s Facial Recognition Use"
+    excerpt: "The Madison City Council voted to ban its city agencies from using facial recognition technology or information gathered from facial surveillance. The ban extends to the city’s police department."
+    publishedDateTime: 2020-12-03T21:35:00Z
+    webUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yesCeIZ/HCQyt53SvVdUZqXAH+ciTZOASFdj2jtQolW2rwzclnZNt0rkbVNnUt8XQDv0zIiuAdhFL4BF2cbx9YGiX8U6+WDrZ0IVwHtIHnYiQo1Hyq36I4kmsFMOKNse8nuwcXvRoK0Twq7ceS3W3tLWPkUHAES44Lp5Nr5R+Ogd+omf5/3zuars8/kzDEqQ5jKnZ/NoiZy3uf5pkLaQ8Ib047BFQMiAy7ttMnci5fCuR5wc2ty4dPYMFrxHLYxU3TVXIu6wMgrIrnebXitwcojVU9AMP1RYFXHveKRze+ydaYazpZAl2KfZJnSdAIVWgmpSMniXNPXKftIyrT6s8DlHWzBzEkze09Z1LRfvlMM=;+a9rlDqhLOVZTLHi6RC1Lg=="
 ---

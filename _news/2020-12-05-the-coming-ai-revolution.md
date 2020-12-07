@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Governance of AI in Global Pulse’s policy work: Zooming in on Human Rights and Ethical Frameworks"
-    excerpt: "English News and Press Release on World about Protection and Human Rights and Epidemic; published on 02 Dec 2020 by Pulse"
-    publishedDateTime: 2020-12-02T15:24:00Z
-    webUrl: "https://reliefweb.int/report/world/governance-ai-global-pulse-s-policy-work-zooming-human-rights-and-ethical-frameworks"
-    type: article
-    provider:
-      name: ReliefWeb
-      domain: reliefweb.int
-    quality: 41
-    images:
-      - url: "https://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-type/epidemic.png"
-        width: 500
-        height: 438
-        isCached: true
 
 secured: "iSHl+yX8228XczGeTRj2F7tYsDRBkQh+Wd1MqEFEFTOTXOVv9wI/5kzKKb1HrGapi9gAHaxBV4u9YBPiKJBMAs1Q7LzOiX7vTSUgiDiF08+GjEtT/V5SgnLWAhN+145dlndLL6FPnQoOGkqdQ0+spiVNQhRcrgqwq2z+5yYadwsL8LYrKcYucJHyAh9HaZg1V9wngdOu/0nYSJndBMqT84/aRPHe4cLejZdaipR1hkkj04GH7Vo4KuEjxvWbWJtrrN+4p2Uw/wOLK5y3k2+Z9irOpDqf9a3bFryMkuEJYDJDLD6ErUX8tHnLwxLn/FvMBI03uyCSk9CohVGe02q4CG7q6SwpMIW1S109P+r4Tuc=;3uhtYexCWDPFeCSDYcQ22A=="
 ---

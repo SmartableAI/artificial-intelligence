@@ -25,62 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
-    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
-    publishedDateTime: 2020-12-02T16:11:00Z
-    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
+  - title: "'Regulatory gap: State's facial recognition tech sparks surveillance concerns"
+    excerpt: "State surveillance systems have become too powerful and lack controls, researchers warn. Research released today says the G overnment now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR)."
+    publishedDateTime: 2020-12-03T21:32:00Z
+    webUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 56
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
-  - title: "Seattle officials deny use of facial recognition technology after ACLU allegations"
-    excerpt: "Seattle does not use Clearview AI's facial recognition technology, according to city officials. SEATTLE — Seattle officials are pushing back against the ACLU's allegations that city agencies are using facial recognition technology."
-    publishedDateTime: 2020-12-03T19:15:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    ampWebUrl: "https://www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 53
-    images:
-      - url: "https://media.king5.com/assets/KING/images/0291c3cb-46ee-4fff-a3b7-081e4aef072b/0291c3cb-46ee-4fff-a3b7-081e4aef072b_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Wisconsin Capital Bans City’s Facial Recognition Use"
-    excerpt: "The Madison City Council voted to ban its city agencies from using facial recognition technology or information gathered from facial surveillance. The ban extends to the city’s police department."
-    publishedDateTime: 2020-12-03T21:35:00Z
-    webUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Police use of facial recognition technology soars in Minnesota"
-    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
-    publishedDateTime: 2020-12-04T20:44:00Z
-    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
+      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
+        width: 768
+        height: 438
         isCached: true
 
 secured: "9bqK4hm8tcO6Qb5g/Fbp73BjLHCDhRL3fbvMNCWm3Mlw/azRt4p/LhvoYptAdV3Lnm+0kOmfLaGk1L+v39RgIm5Alt9t516G/HWtdHhx5HBlBZawOTWkyKaRNLzuE0xOY3NBmJ2hda6NU5DwZt/5Yan4dpYG8gTV5Mz0gQxU7FoJlWDMlUcYDp8Zo+H0XINXfQ2Ud+EyzskocPYy3hJaF6ivYEDF607H/cw3s1/fXWSvmhv3MaOMfuWXLlVDg6O6et/owyWQLG0NRm6pUJc26zepuxh9qBT4zqrGF+nWyDo5KVYTcRdhtW86vGS/lDpYugEbm//tJV0s62m4kRS/xVyPA19TMeER6qR4iiL5SAc=;1l+hUkzVPCiubUc0PG8xXg=="

@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse"
-    excerpt: "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging."
-    publishedDateTime: 2020-12-02T15:04:00Z
-    webUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/"
-    ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Snapdragon 888: A Rundown of Qualcomm's Next Big Mobile Chip"
-    excerpt: "While the chip won't be available in retail devices until early next year, here's an overview of what Qualcomm has upgraded on the Snapdragon 888 SoC."
-    publishedDateTime: 2020-12-02T15:12:00Z
-    webUrl: "https://gizmodo.com/snapdragon-888-a-rundown-of-qualcomms-next-big-mobile-1845786158"
-    ampWebUrl: "https://gizmodo.com/snapdragon-888-a-rundown-of-qualcomms-next-big-mobile-1845786158/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/snapdragon-888-a-rundown-of-qualcomms-next-big-mobile-1845786158/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qofioxuanmoiejqttvxa.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Qualcomm’s Snapdragon 888 Builds On Leadership In 5G, AI And Gaming Performance"
     excerpt: "Qualcomm’s new Snapdragon 888 replaces last year’s Snapdragon 865 as the new flagship chip for the brand. The Snapdragon 888 brings many big improvements across the board to help elevate the mobile experience."
     publishedDateTime: 2020-12-03T20:38:00Z
@@ -72,20 +40,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc94c118b96313babd53b26%2F0x0.jpg"
         width: 1200
         height: 738
-        isCached: true
-  - title: "Qualcomm’s Snapdragon 888 Provides Huge Leap to Smartphone Photography Capabilities"
-    excerpt: "Qualcomm today announced the Snapdragon 888, what the company says is the biggest architectural leap forward in AI. The Snapdragon 888 promises a plethora"
-    publishedDateTime: 2020-12-02T15:31:00Z
-    webUrl: "https://petapixel.com/2020/12/02/qualcomms-snapdragon-888-provides-huge-leap-to-smartphone-photography-capabilities/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 18
-    images:
-      - url: "https://petapixel.com/assets/uploads/2020/12/Qualcomms-Snapdragon-888-Promises-Huge-Leap-in-Photography-Capabilities.jpg"
-        width: 1600
-        height: 840
         isCached: true
 
 secured: "oGsuHE7oe8JLgSaWPdOxoQa4uw0kFevq5ZXVJqpUXUTL3q9G3lTK34mEJiN2gf0GI/eAHpSPBqt4M0EJPXk0Ae5RYSYP0OHZstX6weIslQE3duzXLiUvI0VqWVNuLrS42sXCJ3gz+UtL7uPdDDqjNAw4kJqThDCcS6gtsWgoSmEJTlYPw1lDG8/BJQ6arPJwX7s42P6aio3sNzBxwkajKD+UM1KdZMe+YixHzrU37OqzqWRoK5ubGwdt2JixRrwS8oxCecZwmw6zkZcQsn0M+fiYSuYKpUI9SS5ZpGH6bxkn6LacYKt6CR+LK98HYEUR63aVQbxqVEn+lBbVN/CvW26ELnm3vr4Ubr9xGUi5RzVbzCRL95qqOvIw3ODPHF2cqXU5kBhuYUb+YngirSaFnI/7VlArizPt+FF/E/NEdFSk06JWkTSJEe6yFkFBp9WbIzA8kFAHvivyBmkk2PyGz7KemCru+bOzIN13wCvEkN6jP+GLs9ICF/onwDvrF/aDpjzhBWXYUbhNPLMUFi9GgQ==;I4ch+GdhrL5YsbWMf8WS9g=="

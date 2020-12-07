@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-sta
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "New Study Highlights State of Artificial Intelligence in the Healthcare Industry"
-    excerpt: "Multi-national research finds healthcare AI maturing, despite staffing and data challenges Healthcare organizations seeking to implement and extend their"
-    publishedDateTime: 2020-12-02T15:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18614442/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18614442"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18614442"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
 
 secured: "MID4o/phi5qT08tvXqG5aM9kSBo5X574TEtiyI0VWQ+D8tb9ZuJKAzQam48pRcDghzNEdbR1/8OH2BD11aFT7wYzhXHT0uy7rnYjKNsawVHjqb7ChH5gSlNSEuDz6v/pEDSUhkEtwtsiGAioWElB4AJ+5c+MZmtCcyruFLZP3+o9t6UhQ1gZUmVhbXVtA32pMAst8WY/eR9EyjIx44V2GCBTpRd/AtmANxU4d8CrNRDng0bjJhsoJ0R/hFNzLbOtZi5FvI/mFfaFA8Tk0jOtFh33oW8yTyWxCv738m2pDjyWemMcmeDwT9KJZv7cW1KaWFF4jQ5hAEGVULXVXVDiPoBDIPrfqhq5ZL9pYowdaoI=;GG7ix7C+pU0Bu4u1SXVtKg=="
 ---

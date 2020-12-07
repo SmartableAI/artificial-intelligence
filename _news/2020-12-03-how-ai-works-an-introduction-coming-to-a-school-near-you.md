@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-works-an-intr
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Governance of AI in Global Pulse’s policy work: Zooming in on Human Rights and Ethical Frameworks"
-    excerpt: "English News and Press Release on World about Protection and Human Rights and Epidemic; published on 02 Dec 2020 by Pulse"
-    publishedDateTime: 2020-12-02T15:24:00Z
-    webUrl: "https://reliefweb.int/report/world/governance-ai-global-pulse-s-policy-work-zooming-human-rights-and-ethical-frameworks"
-    type: article
-    provider:
-      name: ReliefWeb
-      domain: reliefweb.int
-    quality: 41
-    images:
-      - url: "https://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-type/epidemic.png"
-        width: 500
-        height: 438
-        isCached: true
   - title: "The Coming AI Revolution"
     excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
     publishedDateTime: 2020-12-04T18:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-p
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/tesla-press-conference-featuring-elon-musk-at-2-pm-est-today.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Musk: Tesla Full Self-Driving Will Be Ready In 2021"
-    excerpt: "CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021. This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios."
-    publishedDateTime: 2020-12-02T17:00:00Z
-    webUrl: "https://www.benzinga.com/tech/20/12/18617609/musk-tesla-full-self-driving-will-be-ready-in-2021"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18617609"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18617609"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_0.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Tesla's Full Self-Driving Beta Dodges Deer On Dark Dirt Road"
     excerpt: "A video from a Tesla owner shows Tesla's FSD Beta software detecting a deer on a dark dirt road. The car applies the brakes and plans a path to drive around the deer. Later in the video, two more deer are detected,"

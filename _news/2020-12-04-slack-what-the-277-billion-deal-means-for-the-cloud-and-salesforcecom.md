@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/salesforce-buys-slack-for-27poin
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/salesforce-buys-slack-for-27point7-billion-in-cloud-companys-largest-deal.html"
 type: article
 quality: 171
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 4368
     height: 2912
     isCached: true
-
-related:
-  - title: "Salesforce applies AI to workflow with Einstein Automate"
-    excerpt: "While Salesforce made a big splash yesterday with the announcement that it’s buying Slack for $27.7 billion, it’s not the only thing going on for the CRM giant this week. In fact Dreamforce, the company’s customer extravaganza is also on the docket."
-    publishedDateTime: 2020-12-02T15:53:00Z
-    webUrl: "https://techcrunch.com/2020/12/02/salesforce-applies-ai-to-workflow-with-einstein-automate/"
-    ampWebUrl: "https://techcrunch.com/2020/12/02/salesforce-applies-ai-to-workflow-with-einstein-automate/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/02/salesforce-applies-ai-to-workflow-with-einstein-automate/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1215417068-1.jpg?w=1024"
-        width: 1024
-        height: 399
-        isCached: true
 
 secured: "dmerJc5uVcxtT/psEWQarqMOVe6hzgVLWSeCGDV4l57zxbB2r5vR7UfN0HYJXPBiR8dk3mQ5AJb8/ledtGxsgkI6o4jutfARwG5kMaFsjbpH+ZLvolSzDzMqt4PmlPGFPH8nnN4TYriIZrC04AKgwaatNCHI/UezOirICALTwyJ13lI4j3Tg5rpDbpXWbmcax5EMLGbYdEXK7qkXKHEwdb6kWAQWfw1XklyjSlOLZV9HqiBYEoZd+Nom/RJyCqaubg1fwYEsHyJBgYbFVeJNR9sFDdRnDRHYswK/gnLJHpeqS9ciGD9/+OMB5AEDxuPrtopolvPO89xjVQmwKIftmRece4nhXXn9udqj+cCblah8Hz1lQp98ThBbTmA6jBZAWcqbz2E+ovFEhkayXxlZx0S6+9i3cmL+cfrE+kwDOEyZ460xhkHGeCHYYXd30VKM7Rjnv1yhadyy7PorEmF35A4Tz2zHIRCKeibfahFiAg4Q0IbU1Wv49VvnjiIsWyFKUAoWiQDW0JUoIc4DnEvvU/m4Zb1PxRr2HdY4O4YfIDY=;BrcAMc9XRySROKBqoPdjog=="
 ---

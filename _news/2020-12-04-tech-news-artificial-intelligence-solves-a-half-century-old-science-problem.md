@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artifici
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-solves-a-half-century-old-science-problem-5f914dff-327c-4e3b-9c91-64ff3dc4fb9f"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Solves Momentous Disease-Fighting Problem Decades Ahead of Schedule"
-    excerpt: "The AI identifies proteins at about two-thirds the human success rate in a fraction of the time. Diseases caused by folded proteins in the body are all over the news every day, like cancer, Alzheimer’s,"
-    publishedDateTime: 2020-12-02T15:33:00Z
-    webUrl: "https://www.popularmechanics.com/science/a34837830/ai-unfolds-proteins-disease-fighting-problem/"
-    ampWebUrl: "https://www.popularmechanics.com/science/amp34837830/ai-unfolds-proteins-disease-fighting-problem/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp34837830/ai-unfolds-proteins-disease-fighting-problem/"
+  - title: "'Stunning advance' on 'protein folding': A 50-year-old science problem solved and that could mean big things"
+    excerpt: "The so-called \"protein-folding problem\" has puzzled scientists for five decades, and the discovery this week from the London-based artificial intelligence lab DeepMind has been heralded as a major ..."
+    publishedDateTime: 2020-12-03T23:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/03/protein-folding-discovery-major-breakthrough-deepmind/3809693001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3809693001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3809693001"
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/protein-1606919965.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/dcb849fd-63f8-4bca-8b61-7b364eb808bc-ca_1204NID_Protein_Fold_large_online.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "LOctf0aKT47bi7kbRkD0RjwdHROxdjUQTgluZcx4d9s8p19AOJb/Eco9k8pQBovSEzM8wW/V4tJOj5WKH+nPCDmDbK/uv6xKGa+k1H2Svx6jsA8jAjlFxhnkDY2p+gaAffskoeTfcbfkvnZD8U0567Brv/BmktNizrQ4KaKTfLvlixpJcm4spFQi5Xmux61saRepMWIVuGF5pwgqAB+q40PkOk/81dPP7aSWdefRgaDnQPmrXItsIHbtyv7jrm9Ir435v/WCugBZtFGbiUg8h/NLlTIP601zhYw+/bFe81nLnRrFwi4lUb8VaPlNto/HsoHNL1LnSt6JKfMlfXxCXG+wJjtNQ3o/+Raj7M+Avi4=;buspfVYTukfMPT70L4E8zw=="

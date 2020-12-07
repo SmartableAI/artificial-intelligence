@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-aws-pano
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-aws-panorama-improve-your-operations-with-computer-vision-at-the-edge/"
 type: article
 quality: 100
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 501
     height: 404
     isCached: true
-
-related:
-  - title: "Introducing the AWS Panorama Device SDK: Scaling computer vision at the edge with AWS Panorama-enabled devices"
-    excerpt: "Yesterday, at AWS re:Invent, we announced AWS Panorama, a new Appliance and Device SDK that allows organizations to bring computer vision to their on-premises cameras to make automated predictions with high accuracy and low latency. With AWS Panorama, companies can use compute power at the edge (without"
-    publishedDateTime: 2020-12-02T16:02:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-panorama-device-sdk-scaling-computer-vision-at-the-edge-with-aws-panorama-enabled-devices/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/1862.jpg"
-        width: 900
-        height: 376
-        isCached: true
 
 secured: "3ULl3KV12fQBEzqhtuk0KnkrvONrKFar+SJm26afhiing5FXR91xPBXrUwc443EEWh5XfMC8Cn9o7CN3YIg/L3/5O19ek2SBGCMqe/Z4yh89VYJkkate1LkGj4yxDXapwr1uGC6BV65sdSqGQk/bseZuo4fYjiwqDNgDTfzwT19sSeVbJWIGvqn9L4jvXvi+wBjZiaUR5lUaWsvb4F8AY9YPBWhXCdnaRskwZF3S0+zkgpbhCKs/yisxcypfM703J+8p2reKXsqxfRcRbqNWtBeX+w+46AtlZd4GueNDi3zisy/sSxhaUmY61JimwDOO6uO/bQzz+aLzCeC26OYFdUeO4EyAPBhkG7u8QQtP9jg=;U06GOCChZSmuOednoCH5Ig=="
 ---

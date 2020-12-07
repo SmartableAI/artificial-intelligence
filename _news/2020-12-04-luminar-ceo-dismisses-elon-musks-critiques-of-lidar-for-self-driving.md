@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
+    excerpt: "Self-driving car company Luminar Technologies LAZR (LAZR) went public on Thursday through a Special Purpose Acquisition Company (SPAC), making founder Austin Russell a billionaire at the age of 25. Russell joins a short list of people who have amassed a billion-dollar fortune before the age of 30 ( link )."
+    publishedDateTime: 2020-12-06T08:51:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20201206262/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 8
 
 secured: "vMt4MLleqosPXjDrecDhicc7RaRnzFKxrkAB0b3gm/g6wZreWtBYF0J1lrYHBrlahibRNeKmvZwzijdv2iDVGFKsiLWncw+6ouVwNzv0ZprhPxM0kp8mTsxGjPMG9vCkSIfJ6GvuPx9hwa2Fxr8aYmIyuH0P5xaNkXsxs1fw6P/6ObTGARN2yHzAmhFuhyS2F9XCjcys8ikmCe+CmsfvvNh5VjEs1HunSdtgbVtb9Dt6h+tKr0OkSc5WTazJbQ6yfNrXQ3kI3+YxPzzxRhU72LRpMAqAAUdoPOcB/EsbPVIhEqwVLy+CJLJv17gdQN5QrnX97v+FVPBkOkl4g6ZERz+0dxJSJESFvH92vhYbMTAJ7LFc0T5yRphVvdrt77g6GPtcDfTypmCX5sHckC3JQkhBFOL/pt30sAtdvY77wuXlWoLRtbiYSe9OmTcDTw1KsQlzcApJ4A9JAO/9NLMG8wAKdAAUiTusYlfjCU2Sj7HKFlAB8XmyvnYFMP9RA16/bUrvhRBBcYtQVPCIptOsZA==;dsrUCXumXjaUdyQbu2J09w=="
 ---

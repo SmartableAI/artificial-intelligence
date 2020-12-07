@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navica
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
 type: article
 quality: 87
-heat: 117
+heat: 87
 published: true
 
 provider:
@@ -28,49 +28,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "New AI-Based Navigation Helps Loon’s Balloons Hover in Place"
-    excerpt: "Reinforcement learning might be the next step in keeping broadband-carrying balloons afloat above remote areas. Could Venus be next?"
-    publishedDateTime: 2020-12-02T16:04:00Z
-    webUrl: "https://www.wired.com/story/new-ai-based-navigation-helps-loons-balloons-hover-in-place/"
-    ampWebUrl: "https://www.wired.com/story/new-ai-based-navigation-helps-loons-balloons-hover-in-place/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-ai-based-navigation-helps-loons-balloons-hover-in-place/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/5fc670e536f8a02c47d791c3/master/pass/Science_balloon_Loon-Balloon-Flight-Above-Nevada-2.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Alphabet's Loon deploys new AI-powered navigation system to balloon fleet"
-    excerpt: "The new navigation system leverages reinforcement learning to steer balloons more accurately and efficiently through the stratosphere."
-    publishedDateTime: 2020-12-02T16:12:00Z
-    webUrl: "https://www.zdnet.com/article/alphabets-loon-deploys-new-ai-powered-navigation-system-to-balloon-fleet/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alphabets-loon-deploys-new-ai-powered-navigation-system-to-balloon-fleet/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alphabets-loon-deploys-new-ai-powered-navigation-system-to-balloon-fleet/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-  - title: "Google's AI can keep Loon balloons flying for over 300 days in a row"
-    excerpt: "An artificially intelligent pilot created by Google and Loon can keep huge stratospheric balloons in the air for hundreds of days at a time to act as floating cell towers in remote areas"
-    publishedDateTime: 2020-12-02T16:20:00Z
-    webUrl: "https://www.newscientist.com/article/2261369-googles-ai-can-keep-loon-balloons-flying-for-over-300-days-in-a-row/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/12/02094922/loon-balloon-flight-above-nevada_web.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "lIf0JVbtPUvsuYblk62kozyZMx53QSqgS+YEKsqoDfjhvTAarWtNfHoM9FQoQjaRUFMLvunWARIGffcPDiOkWMTrhXEWSKjwLWepFJdgdBhJKDZAXFfhMBe/xseZ2+BU+P2GKuyEsvZDLBctxFsi+OkoupHzcH+p9WgQgKe2Dms43ETsMNsx9tIx0ewa8ZXnFJ5AP/6XlWjVLxgRuLUDGjjM2fYVxc/Nxg4T19aEkq9ZcHXalpZssA+arOE/rKYUsrFMBYt3UjxVtTsnWkYRL4E8GW0JhEX3KpdHcGXrjO2zBE+Unt1agWYbI5f7fxQd2+o3kToXGBB9m7UXPWCIHsGgNfqGLa2OFRk5+oOs0zeFYjIAU6gHsy8zTv3aP5sz2rCWqpI5nEzvnzdGHhaYmCa6By8TyEJgyT1CKcjRyQsfWKpORYTzBkoEJAezNzKK5W46229lxCNZSA65DWY6dmqTiVIch+ZFXM5P2t22qCEVe4za7KehrTOJW1jteCscgKHwP+GjAn+G1X6Fd5hScQ==;uYUyveVWyQzpFiM/9IiRkQ=="
 ---

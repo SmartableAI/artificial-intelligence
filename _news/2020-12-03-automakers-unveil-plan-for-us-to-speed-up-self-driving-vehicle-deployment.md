@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automakers unveil proposals to speed U.S. self-driving deployment"
-    excerpt: "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters."
-    publishedDateTime: 2020-12-02T15:22:00Z
-    webUrl: "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1C8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
   - title: "Automakers propose policy changes to speed self-driving vehicle roll-out"
     excerpt: "Automakers say the 14 recommendations would speed up the deployment of safe autonomous vehicles and make the U.S. a leader in their development."
     publishedDateTime: 2020-12-02T18:47:00Z

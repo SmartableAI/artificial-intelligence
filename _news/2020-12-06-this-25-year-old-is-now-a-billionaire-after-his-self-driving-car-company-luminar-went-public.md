@@ -1,36 +1,40 @@
 ---
 category: news
 title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
-excerpt: "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30"
-publishedDateTime: 2020-12-04T20:52:00Z
-originalUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page"
-webUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page"
-ampWebUrl: "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
+excerpt: "Self-driving car company Luminar Technologies LAZR (LAZR) went public on Thursday through a Special Purpose Acquisition Company (SPAC), making founder Austin Russell a billionaire at the age of 25. Russell joins a short list of people who have amassed a billion-dollar fortune before the age of 30 ( link )."
+publishedDateTime: 2020-12-06T08:51:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20201206262/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public"
+webUrl: "https://www.morningstar.com/news/marketwatch/20201206262/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public"
 type: article
-quality: 78
-heat: 128
-published: true
+quality: 8
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.mktw.net/im-268636/social"
-    width: 1280
-    height: 640
-    isCached: true
-
 related:
+  - title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
+    excerpt: "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30"
+    publishedDateTime: 2020-12-04T20:52:00Z
+    webUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://images.mktw.net/im-268636/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Luminar IPO makes 25-year old Austin Russell one of world's first, and youngest, self-driving billionaires"
     excerpt: "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal."
     publishedDateTime: 2020-12-03T15:20:00Z
@@ -93,16 +97,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
-    excerpt: "Self-driving car company Luminar Technologies LAZR (LAZR) went public on Thursday through a Special Purpose Acquisition Company (SPAC), making founder Austin Russell a billionaire at the age of 25. Russell joins a short list of people who have amassed a billion-dollar fortune before the age of 30 ( link )."
-    publishedDateTime: 2020-12-06T08:51:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20201206262/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
-secured: "cjjXdAw3p/VTtmx1ERxDqP2FkbKZnQKDeRYvL5e/bu9AYQ+t917RubO20ap1aCtko7aUuBbnsnKCzHHdYExRI6E3lh9NnAZ9eNpvJdzMC6w8xMS80R0g0Pp9zcPjW2oez1lbV2bBb+y5mtbiKR0enWuDCW6nnT3p8Jq9Kwc336JlFHyPqsMGi/e5K/MKfAa+wnicovQ7JJK2x5hzYptavwe/ssG6qVsX28RWqQaeKOdmgOFyHNKGCNeB7sFzlSix6B/+E+UUn/ZdTb7lSXtII6jKfNidWUk0L7nyqF7jZgNklRIe7vI7tKHByDoM9uaQxWmrwRABEFuKTY/jYfhUiYwNGP4CXYi8L6ozqH3Za1I=;z7wajvGpLC7e8SDNAVqp+w=="
+secured: "uM5QAtEl4VAjVgt1148j1xnj2NqEhfNJxXFOHUTTkDRxMu5b0Dde5qH7txQKM0FuGcKS7/WDVZ8pYwjNPCPQuVGGfwIU9Tyz7tSRioK6an4eEyjsBW+f6fc+tnVSb6VH3wiru8FcqG4MkIjFLjYJvTzS9BscPgZOwTdI43QeIGX3LZmpxdCw7GDM4/Cry+N/ej6ezy08Nc0HSWXyc5l8jhlv1KM2B2unyE8iIWFpHa4S4qr74bzS65FgcgsvuQjECDFRA1LJUoskhrDuMLATP5A0Y63wrLG8Yz+C9H+8wIJGkQvloILXiPhioAG1rxDlZeXLBixMr8NH1QokIZAT+DvDe/mPBKxsI5kc7BQjaWE=;mVNG/RnyQ1kVuAneL6c0fg=="
 ---
 

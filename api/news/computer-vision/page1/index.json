@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-massachusetts-legislators-vote-to-ban-police-from-using-facial-recognition-technology.md",
+      "title": "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology",
+      "excerpt": "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457",
+      "originalUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg",
+          "width": 800,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp",
+      "publishedDateTime": "2020-12-02T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-facial-recognition-company-lied-to-school-district-about-its-racist-tech.md",
       "title": "Facial Recognition Company Lied to School District About its Racist Tech",
       "excerpt": "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns.",
@@ -201,7 +244,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-panorama-improve-your-operations-with-computer-vision-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1366,49 +1409,6 @@
       "provider": {
         "name": "Mid Day",
         "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-image-recognition-ai-camera-market.md",
-      "title": "Image Recognition AI Camera Market",
-      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition), Application (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality and Others), Deployment (On Premises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
-      "originalUrl": "https://www.openpr.com/news/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb20238033_g.jpg",
-          "width": 651,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2192021/image-recognition-ai-camera-market-2020-industry-demand-share",
-      "publishedDateTime": "2020-11-20T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

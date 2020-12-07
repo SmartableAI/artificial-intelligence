@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-04-how-ai-is-making-an-impact-on-the-surveillance-world.md",
+      "title": "How AI Is Making An Impact On The Surveillance World",
+      "excerpt": "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cc69863202e1c1b581ae8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/",
+      "publishedDateTime": "2020-12-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025.md",
       "title": "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025",
       "excerpt": "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been",
@@ -739,6 +790,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-04-qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance.md",
+      "title": "Qualcomm’s Snapdragon 888 Builds On Leadership In 5G, AI And Gaming Performance",
+      "excerpt": "Qualcomm’s new Snapdragon 888 replaces last year’s Snapdragon 865 as the new flagship chip for the brand. The Snapdragon 888 brings many big improvements across the board to help elevate the mobile experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc94c118b96313babd53b26%2F0x0.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/",
+      "publishedDateTime": "2020-12-03T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb.md",
       "title": "Nvidia Offers The Ultimate AI Learning Tool With Jetson Nano 2GB",
       "excerpt": "This Jetson platform is enabling not only a new generation of products, but also a new generation of AI engineers.",
@@ -954,7 +1057,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/03/slack-what-the-277-billion-deal-means-for-the-cloud-and-salesforcecom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1150,111 +1253,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-googles-co-head-of-ethical-ai-says-she-was-fired-for-email.md",
-      "title": "Google’s Co-Head of Ethical AI Says She Was Fired for Email",
-      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed “inconsistent with the expectations of a Google manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 406,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imC_aAMzSyd0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
-      "publishedDateTime": "2020-12-03T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing.md",
-      "title": "AI’s next act: Genius chips, programmable silicon and the future of computing",
-      "excerpt": "Much of the hype around AI — all the disruption it was supposed to bring and the leaps it was supposed to fuel — will begin in earnest in the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
-      "originalUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1161024057.jpg?w=1024",
-          "width": 1024,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
-      "publishedDateTime": "2020-12-03T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -25,51 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
-    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
-    publishedDateTime: 2020-12-02T16:11:00Z
-    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
+  - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
+    excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."
+    publishedDateTime: 2020-12-03T01:04:00Z
+    webUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457"
+    ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 52
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg"
+        width: 800
+        height: 435
+        isCached: true
+  - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
+    excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
+    publishedDateTime: 2020-12-03T16:24:00Z
+    webUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html"
+    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 59
+    quality: 44
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
+      - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
+        width: 983
         height: 630
-        isCached: true
-  - title: "Seattle officials deny use of facial recognition technology after ACLU allegations"
-    excerpt: "Seattle does not use Clearview AI's facial recognition technology, according to city officials. SEATTLE — Seattle officials are pushing back against the ACLU's allegations that city agencies are using facial recognition technology."
-    publishedDateTime: 2020-12-03T19:15:00Z
-    webUrl: "https://www.king5.com/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    ampWebUrl: "https://www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/local/seattle/seattle-facial-recognition-technology/281-bedd520e-fcf5-4672-abc8-86da9db2c4bf"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 53
-    images:
-      - url: "https://media.king5.com/assets/KING/images/0291c3cb-46ee-4fff-a3b7-081e4aef072b/0291c3cb-46ee-4fff-a3b7-081e4aef072b_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "'Regulation gap' for facial recognition technology, law expert says"
-    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
-    publishedDateTime: 2020-12-03T17:22:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Wisconsin Capital Bans City’s Facial Recognition Use"
     excerpt: "The Madison City Council voted to ban its city agencies from using facial recognition technology or information gathered from facial surveillance. The ban extends to the city’s police department."

@@ -7,8 +7,8 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-con
 webUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-conversational-ai-in-banking/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: IBS
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Technology Help Prevent Suicide In Veterans And What Are The Ethical Considerations?"
-    excerpt: "Suicide rates in veterans have increased by about 30 percent since 2000. According to a recent piece in the New York Times, researchers are turning to A.I technology to try to detect veterans who are at risk in an attempt to intervene."
-    publishedDateTime: 2020-12-02T16:04:00Z
-    webUrl: "https://www.scpr.org/programs/airtalk/2020/12/02/66294/can-ai-technology-help-prevent-suicide-in-veterans/"
-    type: article
-    provider:
-      name: KPCC
-      domain: scpr.org
-    quality: 44
-    images:
-      - url: "https://a.scpr.org/i/940b55fd3769b9bc07b369d66b8da7a1/230069-full.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Prediction 2021: AI Policies that Organisations should Lookout For"
     excerpt: "Florian Douetteau, CEO and Co-founder of Dataiku predicts that collecting diverse datasets, narrowing the business and analytics gap, building inclusive future and using MLOps will be on trend in 2021."
     publishedDateTime: 2020-12-04T06:07:00Z

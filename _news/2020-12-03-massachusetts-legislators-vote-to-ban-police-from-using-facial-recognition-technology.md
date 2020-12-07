@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police
 cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 82
+published: true
 
 provider:
   name: The Root
@@ -41,6 +41,31 @@ related:
     images:
       - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
         width: 983
+        height: 630
+        isCached: true
+  - title: "Wisconsin Capital Bans City’s Facial Recognition Use"
+    excerpt: "The Madison City Council voted to ban its city agencies from using facial recognition technology or information gathered from facial surveillance. The ban extends to the city’s police department."
+    publishedDateTime: 2020-12-03T21:35:00Z
+    webUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Wisconsin-Capital-Bans-Citys-Facial-Recognition-Use.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
         height: 630
         isCached: true
 

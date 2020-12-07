@@ -37,20 +37,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "A Machine Learning Solution for Designing Materials with Desired Optical Properties"
-    excerpt: "Berkeley Lab scientists have developed a machine learning model that can be used for calculating optical properties of a known structure, and for designing a structure with desired optical properties."
-    publishedDateTime: 2020-12-02T15:08:00Z
-    webUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-for-designing-materials-with-desired-optical-properties/"
-    type: article
-    provider:
-      name: Lawrence Berkeley National Laboratory
-      domain: lbl.gov
-    quality: 33
-    images:
-      - url: "https://newscenter.lbl.gov/wp-content/uploads/sites/2/2020/11/1024px-Quantum_Dots_with_emission_maxima_PlasmaChem.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "BJTYp5Gmx+AyvqGKbgk/CiG8AXgYK4eXgyx4HW3ianLi+D976IqD5CwhKTyAbvM71WJXsen/FdFyGCL7a2DjYlE+pK3rNy2RmZ/+rZHhGb10qA2p0qjldnRJuyNd7ygKMj9xDU0368acTNQQFexZ904Ie1ikrMmfLFm75Ss4MHclAtpYWw5nh8v/wzuyinlLVFIDaY7kre9biby53i9GBnmUsoQ2WWeb8Nue2zFRCUqjTDj0W2jx2miwDKnh8D9Ay+rmEidjwiLYWLNe1c7cbewznL52VovKEtEqRLoPo3ONFxlUSW62tzNVqsUEo5sgTuUz24a7dl1tEdAfIl8lDFyzv/DQfnP7UAAppjGZrx8=;Ac57ha9TzQAB7zLzmuoO7Q=="
 ---
