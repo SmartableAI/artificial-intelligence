@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-sy
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
 type: article
 quality: 68
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS Announces Three New Analytics Capabilities"
-    excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
-    publishedDateTime: 2020-12-02T09:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201201006065/aws-announces-three-new-analytics-capabilities"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "6bkU8IRzptbpGTxgpfaVQYlppqgKkEnwih2DVqPY42OBAOVJJKFy61fvcBhpj0F5Xgb/xNdkJZigvo5Z63WwEfFkLUQKX22FWWolYoOPuJlZYIBgrAcL77qDmE0HoyX9uXdeGa7ap+CHfV+dMR4QmiH5z3JuQHHiW6cNKzIePeWfGBXGaPhlz3buYMHlcziQsTRMpDrELSi7Ie6uROriwMYCreaAGjnOMpkdpdAUrKsfD7aLEf60j6lME+u+INaXOEKhTHBTae1u4JLHlKo5K3+CYG6BoOuev8l4Mkmh5SItthiypWqLtwF/9l1O9bnZk3FKpTRg4m6ZHU+hd2L+F1vxxaURqHmKqXmPrIWj9G6s5M3FXBgCBZmq7zuxblnLgOZeTQQ5IZqtKcn5Y+6F4lQGzNdm8OrBm6CxVClfPFrnScs/WDh10Aidl6HKl+s2ELuaKgIDt/QBoFFbrYyGl4GYpXtjFOh/j1BiG9SyBjM2xpLIzFpEfZEAKFlsIvAMbUfaglxj0hpviB0LDzxfUA==;//nxsrHMJIFkS/0vMiO/kQ=="
 ---

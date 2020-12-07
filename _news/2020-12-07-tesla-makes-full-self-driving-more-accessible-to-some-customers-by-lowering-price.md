@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
-excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
-publishedDateTime: 2020-12-06T19:09:00Z
-originalUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
-webUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
-ampWebUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
+title: "Tesla Makes Full Self Driving More Accessible To Some Customers By Lowering Price"
+excerpt: "Beta continues to impress, with many fans and Tesla owners posting videos of their FSD Beta experiences on social"
+publishedDateTime: 2020-12-07T00:05:00Z
+originalUrl: "https://www.benzinga.com/news/20/12/18663378/tesla-makes-full-self-driving-more-accessible-to-some-customers-by-lowering-price"
+webUrl: "https://www.benzinga.com/news/20/12/18663378/tesla-makes-full-self-driving-more-accessible-to-some-customers-by-lowering-price"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18663378"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18663378"
 type: article
-quality: 57
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Tesla-Model-3-Full-Self-Driving.gif"
-    width: 600
-    height: 338
+  - url: "https://www.benzinga.com/files/images/story/2012/tesla-press-conference-featuring-elon-musk-at-2-pm-est-today.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Makes Full Self Driving More Accessible To Some Customers By Lowering Price"
-    excerpt: "Beta continues to impress, with many fans and Tesla owners posting videos of their FSD Beta experiences on social"
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.benzinga.com/news/20/12/18663378/tesla-makes-full-self-driving-more-accessible-to-some-customers-by-lowering-price"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18663378"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18663378"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tesla-press-conference-featuring-elon-musk-at-2-pm-est-today.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Musk: Tesla Full Self-Driving Will Be Ready In 2021"
     excerpt: "CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021. This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios."
     publishedDateTime: 2020-12-02T17:00:00Z
@@ -139,6 +123,22 @@ related:
         width: 2880
         height: 1400
         isCached: true
+  - title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
+    excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
+    publishedDateTime: 2020-12-06T19:09:00Z
+    webUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Tesla-Model-3-Full-Self-Driving.gif"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Elon Musk's Self-Driving Promises May Drive Tesla Off A Cliff"
     excerpt: "Tesla has successfully positioned itself in the mind of the general public and investing community alike as a key leader in autonomous vehicles."
     publishedDateTime: 2020-12-03T18:03:00Z
@@ -149,6 +149,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "U2qyaXfQ6aDgMLFXlUfapYffuGM1KK+n5/8dy7DYCuU+jOE6DP/8qOPMrKoFY9oGis+P2C3b6LfwZglmokBnDsMOJNEfpMwxkHmd0UO3FLhwoqDiDxTA4MWAAG8JoP3tsyLrSH6unW50JYoQA0fl4/vNChOtDZ78ucZVkf+hiyHAikauw5bRvuEoYL8G3lFCCotqZ6ER+587DttIUH6L6nJalFSRXLlJo+J3s2Of1mcvHsOMB3M/Y7HBkVV9aTzD+nds6PySIYebUVVa7c8UHES2domDw9z/aPWGpOxQP4ozT7zZzyJfo4wnSmEUf5yAOhbf2V9ik64WXTvVkINno4V4lGaWHbZsXkbijYBBjfw=;6WSWazrSFOt8fAcDg1u11w=="
+secured: "MXYM62gwXubMfg9OI8LDN9CWZkPeVKb+Zw9EcCYiX6yaIKKT6oKJ7t6qN9PgzzlrMkW7qwem0tdvVWV32HEgCq/jW2FgWrjNzPEDb3tJe2S1ZhD0YRrj5VrsSg6M27Cv57TTsq0gcIkrJ5orwW37U+8prJWR4QJo2Vln6OpJwcQJRnFfNBrcdigcauuWTXbce087udfGFgWxrREv2AhcEC5sBiDT7d+I3L3+OwwmW/t0fFPTaRZFOzT2tcaoQ/u0SCZmKj0GofUnbNURleWW7jNenCHv4jdSIiK+K8SuA4Bm9pOH/Ln/K2EURbLI3L/7BOE02emfPmoAu9a+D8/OFTiDAs+8ROu16h9jzHlRGys=;AJcB7F4aRvNDhWrsAnswzw=="
 ---
 

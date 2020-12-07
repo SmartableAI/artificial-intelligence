@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "AirHop joins Azure 4G/5G ecosystem"
+    excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
+    publishedDateTime: 2020-12-07T01:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/07/airhop-communications-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "+iV0zjrNh2Zr52XHDF2fmMPuZvTk4CJCDrGjrwqe9DHt2taVNbStFAVYE3Jfpcow0tibvzcfh8KPdCBOky8GWP6B3CSOgPzC0PoRL1tMT6d2zgw6PS1W0DWvBjv+xuF1sQD1PBlfYi8DUO2BaWDkcnyIw+WgK+/tMrZtsXDyesUl7eHc/rkblTzlHiaQBVtF+ApIC+1+OeQLbDS5Avs9PoZKSeaaaPQ1g2wjwhw3TUqyTRGV70uiwbLoiVZQC3IyalrrMdiG6+1iTtYD+0KjJ5Nfwy7G7M3i7NqiUorOCe9tI5I7r/JtWL1vAnuEvejZJEOzOodNj0B7FXgkneW2nbgWlWLYI9JdFzdWCL5lLkY=;FzeizRO3dMWCv5Lis++fTg=="
 ---

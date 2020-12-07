@@ -825,6 +825,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-twitter-facebook-ceos-defend-election-actions-promise-more.md",
+      "title": "Twitter, Facebook CEOs defend election actions, promise more",
+      "excerpt": "Facebook CEO Mark Zuckerberg ... the company this week in a dispute over a research paper examining the societal dangers of an emerging branch of AI. SAN FRANCISCO, Calif. (KRON) -- Twitter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/",
+      "originalUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/11/AP20322576166686.jpg?w=1280",
+          "width": 1280,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/facebook-twitter-ceos-facing-questions-on-election-measures/amp/",
+      "publishedDateTime": "2020-11-16T21:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-facebook-increasingly-reliant-on-ai-to-predict-suicide-risk.md",
       "title": "Facebook Increasingly Reliant on A.I. To Predict Suicide Risk",
       "excerpt": "Mason Marks isn't surprised that Facebook is employing AI this way. He's a medical doctor and research fellow at Yale and NYU law schools, and recently wrote about Facebook's system. \"Ever since ...",
@@ -1410,58 +1453,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-our-platform-is-siri-for-employees-leena-ai-ceo.md",
-      "title": "'Our Platform Is Siri For Employees': Leena AI CEO",
-      "excerpt": "The startup earlier this week raised $8 million in Series A round led by Greycroft to expand the startup’s go-to-market programmes and accelerate product development",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359222",
-      "originalUrl": "https://www.entrepreneur.com/article/359222",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604732821-MyPost55.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359222",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359222",
-      "publishedDateTime": "2020-11-06T23:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

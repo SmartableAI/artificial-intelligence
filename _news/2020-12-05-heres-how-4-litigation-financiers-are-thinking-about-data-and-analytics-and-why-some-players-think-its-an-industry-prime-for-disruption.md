@@ -119,15 +119,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AWS Announces Three New Analytics Capabilities"
-    excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
-    publishedDateTime: 2020-12-02T09:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201201006065/aws-announces-three-new-analytics-capabilities"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "11DsqlG0PwQqLvJMGfR2ad/o777zjK/0ScJi4kgWY2HI1YO2Ld5zUHT5Cvx0LatKuDCmpTs0FWnr5qAQenTSducP7Xe5iiBi+OxdJKokAs9cyZbByfnyfKmRVjrItHKN+ADeWK6bjeZ+ZH/tiua/Ph0st9Rdt+JtU2ftwRhPW3iUn2UdlijflBTWMggsAzWCOhkM4FBXfommKYuY7iF2F8b4lB+PQsNaPdhGnpq4TCBe2cemzwwYwmrPjte9BZYfejK3arFvBInKJ+u6yhmTyGZ+/JIVr4iwnMLlRkLg5hnZS9gT06p+qWcEMGqer7iT1md86rl3y3oMXDgQarRdXBqk+EPeY26wZKBgL+V+Chg=;cCCZMqLqoVNRXhEnzoumqg=="
 ---

@@ -67,18 +67,18 @@ related:
         height: 733
         isCached: true
   - title: "Olive Acquires Verata Health to Accelerate Artificial Intelligence Technology For Healthcare Providers and Payers"
-    excerpt: "Verata is a leading healthcare AI company, enabling Frictionless Prior Authorization® for providers and payers. Seamlessly connected to the nation’s top electronic health record (EHR) systems, Verata’s AI technology automatically initiates prior authorizations,"
-    publishedDateTime: 2020-12-03T14:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-b71e415b83f61a440ed3d69ef57a5c02"
+    excerpt: "Prior authorizations were the most costly and time-consuming transactions for providers in 2019 and are among the top reasons patient care"
+    publishedDateTime: 2020-12-03T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers-301185294.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1275952/Olive_Logo.jpg?p=facebook"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "12SZAfNXlQScRz7jMXBRaCo4ye3XYznmYSFIZ3HPf9Ts8w7tloyLxjJOGnCFnHALwnJ/7ly9sEUbwsT15VrH8cE/8sG7TjCGvJY8npeqqTSOS+L8jth4QOgYleRfPUMEiyTg+07EEntO7pXZGvLwNoOeSIDyv7IbM5Z2NY00rntTZHAhq/rNVANEP9b60dRq1fukiscP/TmSbuWRNUHCHtJXULB+lOFgMF/UkH1/0GW3TXFmqWvCn8OTHkX4dNFqgLHqgGoxt0Jj2smxJrBnZHJCfFCxAA4Yi2sUJ6aqJ4MMq/QML2F1T59lskTBbkSkTcVZPoAKp1H40y3wmk+6/8g+trfvO5keMFOe+A+BEXr7SEXiTI60btPdWbNmhfnmH+61DVXrYp4S0fUy/25XCwKpha7SAqeMFGMEUmgbWetnHoFcXBeAjbNUMGAmzgbmmIKZ2S1CAfIJXmtJshdLZOolUh745Ma9KBIzmhWL+avTTz4X1DtQ5eNzKjpllu8GcK+HB+PcFqnvAoZE87dTnQ==;sFxZcvDibLsPPpPXnG2kYQ=="

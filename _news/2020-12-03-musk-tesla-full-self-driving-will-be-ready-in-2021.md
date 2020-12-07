@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Makes Full Self Driving More Accessible To Some Customers By Lowering Price"
+    excerpt: "Beta continues to impress, with many fans and Tesla owners posting videos of their FSD Beta experiences on social"
+    publishedDateTime: 2020-12-07T00:05:00Z
+    webUrl: "https://www.benzinga.com/news/20/12/18663378/tesla-makes-full-self-driving-more-accessible-to-some-customers-by-lowering-price"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18663378"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18663378"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tesla-press-conference-featuring-elon-musk-at-2-pm-est-today.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta Dodges Deer On Dark Dirt Road"
     excerpt: "A video from a Tesla owner shows Tesla's FSD Beta software detecting a deer on a dark dirt road. The car applies the brakes and plans a path to drive around the deer. Later in the video, two more deer are detected,"
     publishedDateTime: 2020-12-03T21:38:00Z

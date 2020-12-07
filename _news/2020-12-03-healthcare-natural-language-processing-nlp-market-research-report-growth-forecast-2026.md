@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Report 2020: Global Industry Size, Growth, Share, Trends, Key Players and Forecast By 2025"
-    excerpt: "As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is projected to expand at a CAGR of around 30% during the forecast period (2020-2025)."
-    publishedDateTime: 2020-12-02T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-global-industry-size-growth-share-trends-key-players-and-forecast-by-2025-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

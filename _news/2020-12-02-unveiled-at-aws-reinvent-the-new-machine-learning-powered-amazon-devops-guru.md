@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-rein
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS Announces Amazon DevOps Guru"
-    excerpt: "Atlassian, PagerDuty, and SmugMug among the customers and partners using Amazon DevOps Guru Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru,"
-    publishedDateTime: 2020-12-02T09:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201201006063/aws-announces-amazon-devops-guru"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "nIvqRr3RCCXHbJKih38HD+Z6+RXBop/dU/5CPFaC8iM3F+C9MAo9bC5pGeyZJzSOSLyMTqXl2WveLhbtcxSWnyrzfpZcgxX2pcfFiPSkuXwGHcX+pdm2U8j8OCe14hstwzc1LRvGtoU8G92eSfANausTw+w4fgAQurwCSFacgb4Is1JiMIOph5/kZHKh1Du5ImRtcWGOAm4UAIYAfpLxBPX+Djhr+xSS3LBYmtbmc2Y3I8XtSf8qgBBWU7PwegcC2ug/sagAwhdQBmoGXqETsMqinXRlDXG/Rd65pOvw6bv9zQyEDN4cyHZzPDbEtameaka0uDYNILjAeDZIzL+kJaTlIzmVCw0FLYFXmeRRDeYju8Ph82kyrhBqJVrgsqnBuaCs/svB1qbbnIm/lEp9SIZKX1zvGiDXqnjl+TWSEvh4Oc5FbSwp2E2ordPVLEoHDyW/iQqb5jI8OSqjFBLEmEQxUOk/1DLChdywIQdsvCfiYWa5Nv7hp8G39FCKdAIPP5FjRic0YgQHMxvPT0q3mA==;MvogODmQi9l/yOO8+Is4wA=="
 ---
