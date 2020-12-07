@@ -7,8 +7,8 @@ originalUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-w
 webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Microsoft
@@ -29,74 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Preparing Leaders For The Artificial Intelligence Age"
-    excerpt: "The power and promise of AI to augment decision-making is impressive, but there are a few things leaders need to keep in mind in order to leverage the tech successfully."
-    publishedDateTime: 2020-12-02T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
+  - title: "SURVEY REPORT: Artificial Intelligence, Machine Learning and the Future of Telecoms"
+    excerpt: "Telecoms operators are increasingly looking to Artificial Intelligence (AI) and Machine Learning (ML) to make their networks more dynamic and responsive to the different demands on their operations. As the technology promises to offer communication service ..."
+    publishedDateTime: 2020-12-05T06:28:00Z
+    webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 48
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc544ca97838db9b65a033f%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/04/tw_mwl_sl_undr_blk@3x.png?fit=1075%2C616&#038;ssl=1"
+        width: 1075
+        height: 616
         isCached: true
-  - title: "Trump signing order on principles for U.S. government AI use"
-    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-    publishedDateTime: 2020-12-04T01:09:00Z
-    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28D357"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
+  - title: "A smarter business with Hybrid Cloud and AI"
+    excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
+    publishedDateTime: 2020-12-05T01:30:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
-        width: 818
-        height: 545
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
+        width: 620
+        height: 422
         isCached: true
-  - title: "Trump signing order on principles for U.S. government AI use"
-    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-    publishedDateTime: 2020-12-04T18:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-signing-order-on-principles-for-us-government-ai-use-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Lenovo Spreads The AI Message Far And Wide"
-    excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
-    publishedDateTime: 2020-12-04T03:30:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
-  - title: "How AI is transforming the agricultural sector"
-    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
-    publishedDateTime: 2020-12-02T14:33:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
-    type: article
-    provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 17
 
 secured: "GrNtLi8bgTzPTHvNfF6zdDkgl8ydJlhxwfUAySLyZ2AlQ2Gl2skdppKcRN17DNGb5X5Ea4wMxPL2C4JiwWO9cPAs85gvsMmTOde82CoIrieAKHW5slDON7ZjpTCmnPTmHv6bg7B7atFTELpXTPdPcuO3+32O5tz4/uxSofGQ8KB1uPx5TMZWuhwDJw5dBXJIo+AKwrlvMvereUsZYxo5NaQtZZJgRyRuIqAXT202OXiyN6X+BOMtI75ZioAkJW8VTW5PNekhSv5GvNHP6hxs8wn5HhfIu16uveZWR/mONKMNWX/xZyY+kf+tDMkaA8OKUpjkVp2IDMxszl+fQkxlMZIOdugVO86wW5nH7hMTm9k=;j6lb9dcpheOuhDzK8Ex8AA=="
 ---

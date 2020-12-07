@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligenc
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, machine learning playing a key role in fight against COVID, say experts"
+    excerpt: "At KnowDis Machine Learning Day, experts say AI models could quickly narrow down the list of candidate drug molecules, which might possibly bind to the protein, modify its behaviour, and provide therapeutic benefit."
+    publishedDateTime: 2020-12-07T04:30:00Z
+    webUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid"
+    ampWebUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 72
+    images:
+      - url: "https://images.yourstory.com/cs/5/803961002d6d11e9aa979329348d4c3e/FI-1585834113618.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
     excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
     publishedDateTime: 2020-12-05T14:30:00Z

@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Preparing Leaders For The Artificial Intelligence Age"
-    excerpt: "The power and promise of AI to augment decision-making is impressive, but there are a few things leaders need to keep in mind in order to leverage the tech successfully."
-    publishedDateTime: 2020-12-02T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc544ca97838db9b65a033f%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump signing order on principles for U.S. government AI use"
     excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
     publishedDateTime: 2020-12-04T01:09:00Z
@@ -56,45 +40,72 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Lenovo Spreads The AI Message Far And Wide"
-    excerpt: "Artificial intelligence and machine learning are foundational to many of the modernization efforts that enterprises are embracing, from leveraging them to"
-    publishedDateTime: 2020-12-04T03:30:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/03/lenovo-spreads-the-ai-message-far-and-wide/amp/"
+  - title: "Trump signs order on principles for U.S. government AI use"
+    excerpt: "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making."
+    publishedDateTime: 2020-12-04T06:36:00Z
+    webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg"
-        width: 2400
-        height: 1800
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
+        width: 818
+        height: 545
         isCached: true
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
+  - title: "Governments And Artificial Intelligence, Policy And Investment"
+    excerpt: "Over the last couple of years, it has become increasingly clear that many democratic governments have been taking a closer look at artificial intelligence (AI), both from a policy standpoint and as something to help their economies of the future."
+    publishedDateTime: 2020-12-04T17:19:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
+        width: 876
+        height: 548
         isCached: true
-  - title: "How AI is transforming the agricultural sector"
-    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
-    publishedDateTime: 2020-12-02T14:33:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+  - title: "Trump signs another executive order on governmental AI development"
+    excerpt: "This time, the order is focused on promoting the use of trustworthy artificial intelligence by the government."
+    publishedDateTime: 2020-12-04T01:14:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/trump-signs-another-ai-executive-order/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
     type: article
     provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 17
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Promoting the Use of Trustworthy Artificial Intelligence in Government"
+    excerpt: "President Donald J. Trump signed the Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Govern"
+    publishedDateTime: 2020-12-03T22:03:00Z
+    webUrl: "https://www.whitehouse.gov/articles/promoting-use-trustworthy-artificial-intelligence-government/"
+    type: article
+    provider:
+      name: The White House
+      domain: whitehouse.gov
+    quality: 37
+    images:
+      - url: "https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "White House AI Order Sparks New Federal Use Policies"
+    excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
+    publishedDateTime: 2020-12-04T20:46:00Z
+    webUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "SPJgAvNJOsM7fX7HUr+2gt8rI/T/ynZoMOyiiTtDL2DR17eq4AskqWYBjzfwjlkTstZwu7IiYNhWx2s02awXuJBFfOkIIihfFasd8iqaMvXo8Aeng+7utaWCSOVvlAiVTjQ9B5qjw8XHY45oDa1R0fiUoTvKXfG+CqLeUpqMiXrPfZ7D7QF9scWzPBKflyL761SS52pkwXVxosMY/HKykjOdJivLR7mX2qeECI+s9c9BVwpH3Tv1da2YG5d8iyXhNvJUPrQY3+t2PSCDJmD8VdPZ0fF3rOAD93BvQUT0V2BRYSvpr4xfoEqabzwWmBObalYHhQX+SuWDRN5LkTxs5k6/M/wf0hJ6S6QTQUJiUP8=;C5rbdHCNG3RSw7v3ZhMQfQ=="
 ---

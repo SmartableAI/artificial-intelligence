@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/tensorflow-turns-five-top-libraries/
 webUrl: "https://analyticsindiamag.com/tensorflow-turns-five-top-libraries/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1600
     height: 1200
     isCached: true
-
-related:
-  - title: "Why enterprises are turning from TensorFlow to PyTorch"
-    excerpt: "The deep learning framework PyTorch has infiltrated the enterprise thanks to its relative ease of use. Three companies tell us why they chose PyTorch over Google’s renowned TensorFlow framework."
-    publishedDateTime: 2020-12-02T11:09:00Z
-    webUrl: "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html"
-    ampWebUrl: "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 123
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "D/csQGZ09mnamGRWT6F2aXqYqb5AXqSVTTjMEfTzxEW5ywsOedgxJRcqcxahwXTElHNMqMc9VwUd/yxEoNXvFvoMQFyErTWeBsiHv8D9hKzSCvvEcaGfrVbeZCDtYItP0tUKcvNOS6/hveeoveVNrr1CfTyu2rWyVVqUt+xAvQCN2vxKQu/VAgaInQmgXSjhDaoxb7ES9d2saQ7ZECNDhZzimaoKPCyhPupHDizWOY+sxNo1p+CdlKtEeNTAguJ7cgkt2RBbQbtVZEr9+Nxfxe5VNfXh46Gp/gHK+5+ichemiY3ZR6AGo8xaW9bHLN99WjHRULDEXWEbXJ0gNd6Fj3lbAHNjKQalbtMKJUzA6OJjX5NeFvMSLzZGN6OCdrP5oIjmbVjwK5pE/SiYmS+ldGWJGHyC67GsWejTNuzodP1fpp7IQ8cESFnNeAmqwz+vnb38NxtoMxeAQ7VriMeTgOwoAymMUgXbM5dM8+GC+XMWfRsnPE8ZS9AeHBnOAo1Qi9SLpXm0zQoCiEzAiI7P4g==;R+FKo/68nP4DEjfxGA7e0Q=="
 ---

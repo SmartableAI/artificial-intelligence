@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-art
 webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-applications-for-smart-cities-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
-    excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
-    publishedDateTime: 2020-12-03T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
-    excerpt: "This “ Artificial Intelligence Market ” research report delivers various aspects of industry including market growth projections, developments strategy, and prevailing dynamics. The report includes in-depth insights of Artificial Intelligence market size,"
-    publishedDateTime: 2020-12-03T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "48GpjFwZiiS+CxuM3Rj9NYad+0le13+TwbnpYsvh/1TKRyb0iIuSr+xdVlKrgP5DNp1U/puairo9oQPnSnZH6u57hHiUJtudzeCRcHourGGp4lUcBZkQGvc/PBFS4BYRBANTSARX+i9E8pWTTAYxtLprB8ZlaGFsonKHE2eb2YFchjlYEYMtw4ACkWGzO058/cNt/LzjLEEY8RCDwJfA29aVAs5mmcMi4v3erDHI+pUc3dEfM/GNmXQaMFVvvkSRIvZmmwQK+qeyq40ciNeqLsaIRI+Ufx9VA2KyBZ0XHWwCncsp+0PBSe7+U7G53m0wFCUpCz68xxPlgUfRZ27RzYEd17rsTF/Ev8UJ0X3oATg=;LF7TIj3uqsVScdPvjXC/nA=="
 ---

@@ -37,22 +37,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study. The findings by the National Institute of Standards and Technology (NIST),"
-    publishedDateTime: 2020-12-02T12:00:00Z
-    webUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/"
-    ampWebUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "K//9eHhBDxc3/eziayDYukwdKv1nVMt0Tzne4zRxG7MbLx7tViZTg8OWFu1mwJeegFXfcxnpXF5p3romUmcjLvO2uPfbTrY1u1YYpIoJ8rRYz6L6A0ayfkdg0T6eCqZgPnWli+47aORKyZKt3USPa64q3zj7LDSLPbD0gABErzR7Evgo48pWwF0ypDI+g7AbG58ll6612AUy48trAaqC2hIlzjq3XzgsJSUyQDJXJ2VrRSB0GDn3J293zm+azmIxk6BMA8OU8/tlmNaH1AzusBgC/VMet2jOnmNztH077I6L+Eeh2nojjGibfo96KUlLIEgcG5kMFj5ZZLiAz9Y/6L/zphTFYD9yDO01BP83CQ4=;JI09mwvhJfZk7mQ5LCwQ+Q=="
 ---

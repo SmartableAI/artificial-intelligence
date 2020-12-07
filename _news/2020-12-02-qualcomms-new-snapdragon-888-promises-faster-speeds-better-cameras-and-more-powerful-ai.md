@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Qualcomm unveils latest premium chip"
-    excerpt: "Qualcomm unveiled its latest flagship smartphone chipset, the Snapdragon 888, focusing on enhanced AI capabilities,"
-    publishedDateTime: 2020-12-02T13:01:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-unveils-latest-premium-chip"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-unveils-latest-premium-chip/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-unveils-latest-premium-chip/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/02/Qualcomm-signage-650.jpg?fit=650%2C400&#038;ssl=1"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
     excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."
     publishedDateTime: 2020-12-02T19:21:00Z

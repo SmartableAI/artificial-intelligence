@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 881
         isCached: true
-  - title: "AWS DevOps Guru: the mahatma's machine learning mantra"
-    excerpt: "Invent virtual event this week to announce Amazon DevOps Guru. He/she/they are not an actual person, there is no all-powerful mystical mahatma who delivers teachings as the ‘learned one’ for all DevOps needs."
-    publishedDateTime: 2020-12-02T11:55:00Z
-    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra"
-    ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 76
-    images:
-      - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png"
-        width: 580
-        height: 551
-        isCached: true
   - title: "AWS re:Invent: Voice Recognition For Call Centres And Voice Print Among Others"
     excerpt: "Amazon Web Services unveils voice recognition software service. The tool will help call centres respond to customers more efficiently"
     publishedDateTime: 2020-12-02T16:15:00Z

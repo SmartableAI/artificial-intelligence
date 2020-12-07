@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engag
 webUrl: "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/"
 type: article
 quality: 100
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 3762
     height: 2120
     isCached: true
-
-related:
-  - title: "AWS announces machine learning training chip Trainium"
-    excerpt: "Amazon Web Services plans to launch a new chip for training machine learning models. Trainium was developed in-house, and joins the company's existing Inferentia processor that focuses on inference workloads."
-    publishedDateTime: 2020-12-02T12:40:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-machine-learning-training-chip-trainium/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 88
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8LFgQPvcPQeAsDdcs0qda8FqmE7vgsfutzVLWGEXApFugF0nHIIuGmlxZZeUsdPfDCUgSUwWYwfQ0s8Wr13wcqNtwsuBk4hcghB+o8e7A1B3C6SLvnzF1VagVVgos08UBVTZ8J9HeBsVrQPjJABG/7BqTQRl0Vw6fTgccrWrXLBuRKcT19cSNPf39IUXvkNUzfLkfChCyePGJp0qdcjLUB8XjGFXVsNlBWb9/NYVSH+bQBM8XzW+GUAdq7lH0MiE9JX5kqSozwq4ZclwFqOBroln/skufmWTXwxiRnROEvjKBSYUaONH4IMNPoRl4qeJGblMOjb6ZG3V/QqfFSU4/ku//t1IJsPBQl8+TcIHBmQ=;melpBVC0RH7iC/JDV65w8g=="
 ---

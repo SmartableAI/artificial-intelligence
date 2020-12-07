@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/csiros-data61-researchers-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1144
     isCached: true
 
-secured: "10m/AD4ahhZ+0cZPdas3SDBayW65uLHw9kcabuMF6hfkXETFfj23lY/DDWSA8Wjw3GXcKRxiAGqNvQkgqelvE8AZ4Q2CDqttGj2quDH2HeR4u3vSmoYmhP+R25TnScwOBevELMqShncDbBCef2S7jbSc8w33ciJowhvCePLvVMuu900cjoFzVhGVveagHJO8O4JuafZ+yN0xE8j71fadtoexkCXKd0k1E4y34XGw/E6uDBCF3eqekcdWQ5IOBJnO2+/OPB9yAnQR5vgylpm+vyblLtwGGCwPFYJlrO9nH3xeDflrBpRXJiBkCYiNWG6locy+5B74szWLPbnb/QynJFYlXbPVq2jAuk+QkyJfUa4=;d936+3JYQXNf841MBffCsA=="
+secured: "5PC2Lp+61nrO4MI8S76RFLzgarFsIDGR/4myTezpsG3drfEMTsGY1euoIzhy2Lg04bALtIoxYYxcd1Pt0/zWVoDFnjH3P9OVNwxjQtmGzxH67G0bb0AHJ7AxmWfnSpGoK1Fgk09so84MKLkPZEYI5ladO0YGzEt4jz7PX1LqW8WIVbDluFVGvsAx8pDhyNELnNts2z9iOqoW8bm/mjRHY5r5/vthkknICx+etNd3PEXypEMNJVG7hCdMoaLibp+MTIQKNxptJLohjZ3p4Smh1boG3Fple9EVmqDO3TmZ1luKL1cNRpRw+0Uyiz36ewlHcVXLbnZPwqkheA46sNFxOOijsdel7juX22r8mb20ra0GAD4XsCME/eMW8Yr4Gtdag/YbfBVsm9CIuwXKw4KT7MuixFgdLIeAb6GswN0DbecarsLPKLEZ/5WRiLJjEVePs4xtISALoU8TZnS4GzGrPQRLX2vPxZdNcf4FefH5MZI0kOtKl23D3ZfNfYluHZ6v3dHHm2hFGxM4VJAszpHeEg==;Q9b8+6b7tOasgONMjtqxgw=="
 ---
 

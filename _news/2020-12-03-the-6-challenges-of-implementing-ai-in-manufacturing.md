@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "How AI is transforming the agricultural sector"
+    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
+    publishedDateTime: 2020-12-02T14:33:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+    type: article
+    provider:
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 17
 
 secured: "S/i3bXXp0+hVwyJTEc+fIzknRu+9DXbkcON+RfU9Wn3OXaZvrQ8UE15kICqUMrGvw2BH9mrTpvs0jeQ7kRfctIHcRZ+jikCDxHsPmOLPDa05H+LQQu0jz55xRoAVPm/K2/SnRKjdGXNxg/JeitwkQwz+754TGbI06vF6AhoYyKeIWoA1OKFI/TjwSIt/Y3Zokxb+IZ0D3gDqZ610hkljksAXP8gHdAOk0eW3IdNJvOK40HlSFe5EMQMsIXUttWpfAkwMd7FV0Hu6rhWlYw+oma28hwYDCrpenckpN0zHg8//q+n5QQfuwCA+B86eOFzGdvj4bdYIvKHHkHqjEQZGCvEjKOD5lU1IQzujFWz7GGg=;z0GE9OOQCSs1Hs7s3QklDw=="
 ---

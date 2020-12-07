@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-sma
 webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "For AI success, start small and iterate"
-    excerpt: "Artificial intelligence projects are most successful if they start small with specific use cases and grow over time, according to federal IT experts. During a recent FedTalks panel on data, analytics and AI,"
-    publishedDateTime: 2020-12-02T21:21:00Z
-    webUrl: "https://www.fedscoop.com/artificial-intelligence-success-start-small-iterate/"
+  - title: "The opportunities with AI and machine learning"
+    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
+    publishedDateTime: 2020-12-04T22:05:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/12/Dell_WWT_header.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "SURVEY REPORT: Artificial Intelligence, Machine Learning and the Future of Telecoms"
+    excerpt: "Telecoms operators are increasingly looking to Artificial Intelligence (AI) and Machine Learning (ML) to make their networks more dynamic and responsive to the different demands on their operations. As the technology promises to offer communication service ..."
+    publishedDateTime: 2020-12-05T06:28:00Z
+    webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 48
+    images:
+      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/04/tw_mwl_sl_undr_blk@3x.png?fit=1075%2C616&#038;ssl=1"
+        width: 1075
+        height: 616
         isCached: true
 
 secured: "Sh+mmR8l30D4fUKFbWL5Cg3+5RsGQ7Egkt/vmwbN7E7u6PPKkmjlfW+CA1/vvHo/iFlGghbZfqzRiLxUPGS9R2Hs8iM52E/sv8SvpkMsR239Mxqdc4Ro/GpAEZkSI4OAzLHsYdyI1wIAS/zAbxZbb6gHVIaf07i9kSN0ypR56ImT/sbH4mIvOfEoFrpkzRSemXdyx6/KOL9ureveUuLUhjK6tImbkZm6nAIwLjSIv9X4cc0UDXtAz9rd+f7qMv0ECWVmFfTryfl+88wwJEMaQzUrF6k4jgT+NP0IBeQRguTkr/sM9Cw11nK/qF/6JkNOSVF3fUn3LfU+fYAohTuwXWpy530PUmA5d6s0+3XbG7w=;7ORohKRdhdCbtihIsyeVJQ=="

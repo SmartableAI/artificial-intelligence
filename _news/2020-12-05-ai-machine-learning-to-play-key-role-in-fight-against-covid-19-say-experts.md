@@ -37,6 +37,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "AI, machine learning playing a key role in fight against COVID, say experts"
+    excerpt: "At KnowDis Machine Learning Day, experts say AI models could quickly narrow down the list of candidate drug molecules, which might possibly bind to the protein, modify its behaviour, and provide therapeutic benefit."
+    publishedDateTime: 2020-12-07T04:30:00Z
+    webUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid"
+    ampWebUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 72
+    images:
+      - url: "https://images.yourstory.com/cs/5/803961002d6d11e9aa979329348d4c3e/FI-1585834113618.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
     publishedDateTime: 2020-12-03T05:08:00Z

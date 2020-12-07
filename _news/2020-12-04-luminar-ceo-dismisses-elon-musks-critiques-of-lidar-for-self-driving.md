@@ -57,6 +57,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Elon, a 25-year-old billionaire, and the great self-driving car debate"
+    excerpt: "Tesla (cameras + AI) and Luminar Technologies (LIDAR) have 2 competing visions on how fully autonomous vehicles will be achieved."
+    publishedDateTime: 2020-12-07T03:53:00Z
+    webUrl: "https://thehustle.co/12072020-lidar/"
+    ampWebUrl: "https://thehustle.co/12072020-lidar/amp/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12072020-lidar/amp/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 59
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2020/12/News-Brief_2020-12-07T033236.072Z.jpg"
+        width: 600
+        height: 330
+        isCached: true
   - title: "Luminar Going Public Makes 25-Year-Old Austin Russell One of World's First, and Youngest, Self-Driving Billionaires"
     excerpt: "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal."
     publishedDateTime: 2020-12-04T01:33:00Z
