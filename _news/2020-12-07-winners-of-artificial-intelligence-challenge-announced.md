@@ -82,6 +82,20 @@ related:
         width: 740
         height: 409
         isCached: true
+  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
+    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
+    publishedDateTime: 2020-12-07T22:01:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 39
+    images:
+      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "tXDFvlysIoS4WcTahgg+rFqnng2K/JfGzvyWt//HfHg/v29uN8TIcIdwZ7WxAnGpNcftuJnUDM4Owztmq580ikyalgY/ff0M2QnABVI8REzf4LdvsUn/C9yjlIJWAlt7o3iD57CjxubC4ETkb7eRUE/nk66G9KJKJYTXD/C703kjBk7t5wgcFSr6ZYsSebsbqS/gq+rnr5oNTEFZbtYAz7WRGOFVgQNoamuD632ALYymcHdVTS1xcObpAozJ7imR1/NBTEEq6MewMRrdYviy9h7twCqoFUpT8dFLiYMht/N11Z8eacJ13DX+3OA0YhfPJ7cGfxCM8FdMSeZFFXqoLNeGqR8fOqUq3fQ5hyj1c8k=;/GY7Xdh1HUCLjypTKCBCgw=="
 ---

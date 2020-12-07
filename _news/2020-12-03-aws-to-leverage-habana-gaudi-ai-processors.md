@@ -42,22 +42,6 @@ related:
         width: 960
         height: 675
         isCached: true
-  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
-    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-267539/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Israeli-made Habana AI processors challenge Nvidia"
     excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
     publishedDateTime: 2020-12-06T13:51:00Z

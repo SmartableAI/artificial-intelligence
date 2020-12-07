@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-ve
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 796
     height: 448
     isCached: true
+
+related:
+  - title: "Uber unplugs own self-driving car project"
+    excerpt: "Uber has abandoned efforts to develop its own self-driving car and will instead swap its operations for a minority stake in Aurora, a driverless vehicle start-up backed by Amazon and Sequoia, at a significantly marked-down valuation."
+    publishedDateTime: 2020-12-07T21:11:00Z
+    webUrl: "https://www.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
+    ampWebUrl: "https://amp.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86e8c8e1-20c3-4609-80ed-8a33c967c72b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "fVpct5iLkt0M7jS72t6pqNFel3lp8n1uU100nGQK5lpkYNfPkTGzCH38fKq9pDjBbRqaojrn8SrhQc6vQPs3RT9yIEW/KZP8uSwZtGr5ANLe5/CSBZcW9Cm1paq2D3ekRIf8q7MloXXuOTaXUpQzH+fxJ/OZ4dX8XnN2YGiEFRgZ15IYU34c2Jo3vtUyb3H6IDPZqJyZZFmR/PEIiFj1Fx5ZkR3NDE8bwzvAjNN/2iSE/XG+sgKC6+yosiHdpSx5yPgKlRcGSG8cr2TxwuDupTSVOXUlfpOxWegMMvBagljvynRvR4qi+ixJY5B6TCls2yeZq9aJ3rVcFf7QJ9S9RqiZDq7eucOqQS5/F28FXm9SD1o8+dda2+xqSaE0QCtcavjgIZ1ZzYhl7efUy5/NITMeM10s5Bq1Iwl39/Y5ishxX+SJBb64MPMF7EkBbEeuyr7IazdMIpI6wrprEwsgjJz3dsi/hXdoKPuEKpXGDi+CJuhka3z9qEYFlghhrF0GKK191t9Wqm7TjtiK2bX4xQ==;fdOl0kUfBSsDsn7G9BLikA=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -42,7 +42,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -375,7 +376,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {

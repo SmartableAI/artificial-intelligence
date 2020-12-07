@@ -2,9 +2,9 @@
 category: news
 title: "3 Popular Robinhood Stocks That I'll Likely Never Sell"
 excerpt: "E-commerce, the migration to the cloud, artificial intelligence, streaming TV ... In particular, I think that Waymo, the company's self-driving car subsidiary, will be a major success story ..."
-publishedDateTime: 2020-12-04T11:19:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04"
-webUrl: "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04"
+publishedDateTime: 2020-12-04T11:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501"
+webUrl: "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501"
 ampWebUrl: "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp"
 type: article
@@ -20,6 +20,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "aISs0bjbXDqjmSkJxRiW/FNirugI+gOKpfFbDjfdY/WCFeHp4zaivDIYIZaUlz/h3bjFNhCjV8zgl6W4imS5j4jz+3dr8ku4plcST0pByzkpXAWEaEXsJtbr8zgApPW7pXG19LctTnoFzElMpWv0pqA1LSXdeDqoPTlUQHaMLNt3IPlD3BFWBIXg7FRQp9BRH162Fo+UOppaeKWdqgTuevzC7r2ccTdAkbek93SSIZPf/o6dps812529reSI48iWX+0rbTaAGhYwJucOrF/dlE8a04L7su+Sp+8pN1MyOkvbHZd/8MYZldBvwj4rSlvX9A8u5f+riuPF85G1RiXroilHHzbOaO5Mi8zpuwIg+38=;/1IJpEmi4MhyvmxyZfAtRQ=="
+secured: "vGmRXFqkv/kf+Y6gN9YhaArAiUoNlq8/z1W6isdKDBRfTIx9/tIh/NUHGlHvhRTju7He7GspRmeuxVnZDNdjXGWtON2taTBl36lNJRYL3Hi6xciDFJglKOCeS72cKz+TUsVWDKB76DM4k9n3h2SM+6dVf3s2KdQ9FUzDDm4boYZ6PfxQCqEiLqsfLau+XjrjreMv28jeQlIlQormYP27xhPoL8Tq9Q62m79pGEWCxnwF6OYu/vwAySR6R7c+tn3ZqV1h9tr+ExvM+c5wwm/1xSAPHYDouXX8OVtbAU+MQ/FY9bWI8M5SZXAejoGwFMTDxFlmZfLGMVyp59yIqdSR+jJcJhofGJy7eDjhevNDMV0=;8ZdOkn/AUTZQc7dEq1eqKg=="
 ---
 

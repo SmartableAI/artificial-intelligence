@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-05-this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public.md",
+      "title": "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public",
+      "excerpt": "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-268636/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665",
+      "publishedDateTime": "2020-12-04T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-improving-ophthalmologic-care-through-artificial-intelligence.md",
+      "title": "Improving ophthalmologic care through artificial intelligence",
+      "excerpt": "For some, hearing the words artificial intelligence, or AI, sparks imaginative scenes of robot overlords, self-driving cars, dystopian surveillance, chatbots, and machines replacing humans at work.",
+      "sourceUrl": null,
+      "webUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "originalUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://med.stanford.edu/content/dam/sm/ophthalmology/images/artificial_intelligence.jpeg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-getting-there-structured-data-semantics-robotics-and-the-future-of-ai.md",
       "title": "Getting there: Structured data, semantics, robotics, and the future of AI",
       "excerpt": "Leveraging structure in data is key to making progress in AI, says AI prodigy Gary Marcus. A forward-looking view on Software 2.0, AI chips, robotics, and the future of AI",
@@ -693,7 +798,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -901,7 +1006,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1124,110 +1229,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance.md",
-      "title": "Qualcomm’s Snapdragon 888 Builds On Leadership In 5G, AI And Gaming Performance",
-      "excerpt": "Qualcomm’s new Snapdragon 888 replaces last year’s Snapdragon 865 as the new flagship chip for the brand. The Snapdragon 888 brings many big improvements across the board to help elevate the mobile experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc94c118b96313babd53b26%2F0x0.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/",
-      "publishedDateTime": "2020-12-03T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb.md",
-      "title": "Nvidia Offers The Ultimate AI Learning Tool With Jetson Nano 2GB",
-      "excerpt": "This Jetson platform is enabling not only a new generation of products, but also a new generation of AI engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc931ef64014f197dce3649%2F0x0.jpg",
-          "width": 623,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/",
-      "publishedDateTime": "2020-12-03T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterpr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
         width: 740
         height: 409
+        isCached: true
+  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
+    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
+    publishedDateTime: 2020-12-07T22:01:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 39
+    images:
+      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Winners of Artificial Intelligence Challenge Announced"
     excerpt: "Naval Information Warfare Systems Command announced the winners of its second annual prize challenge in the Artificial Intelligence Applications to Autonomous Cybersecurity Challenge series Dec. 7."

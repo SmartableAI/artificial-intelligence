@@ -24,22 +24,6 @@ images:
     height: 401
     isCached: true
 
-related:
-  - title: "Automakers Unveil Plan for U.S. to Speed Up Self-Driving Vehicle Deployment"
-    excerpt: "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in"
-    publishedDateTime: 2020-12-03T06:07:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/12/03/592510.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 22
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2015/07/Autonomous-Vehicles-the-words.jpg"
-        width: 900
-        height: 900
-        isCached: true
-
 secured: "qt5m5eNxwz+4qw5mO2POEJuNmme9lt4RsxFeX3Y1ryM7NcefeyEOiysIDD5+fx7ErKl7tB7BOINOWVCnoaMAALGwklA+IGMylQ9UiYpaFIZ8C1UiPop9q3VqXjpgxd9UY9fu8ZfDh1SOG3RCpCKgfZhrrGl+iCTXmAQ7PfmYrUJknZx6MWnDhk9qThGsOzz/PVJ4+HNXhyp105mHY5Yboap0CHwXL7tSxZBRVny0hlUnVhznUAl+DUmuiCrOUFJjXyqFoorbW0mO6mv4Qn/PrTFlz2ukm6s/QEBibpJUD4ymD1SNQh6173S37GvGQOesnCZV3BK7bcyagu1/KnJhC5Km5CZf8EVTht31a4ex6qsjfvDUrZnPXgE1FmhTMJJBpEIolCMnygF5cfJdtkMsuRLSgmDtGop5YGXjQtzGGotqVPMTyA+jtIBEDaXayLpTwWzvkw5mzvjPDAJBDA8iyZSbnR52/KkoDHZzga8vjzZEnb9cJkYKSDTQF0E3cO4XYJ9YufmajtlP5eaU+tz5SA==;PTMGdQsfGakLchA3Mtqjfg=="
 ---
 

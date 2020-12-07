@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Google employees dispute company's claim that AI researcher Timnit Gebru resigned"
+    excerpt: "A group of employee organizers at Google on Monday responded to the departure of Timnit Gebru, a star artificial intelligence researcher who said she was fired last week after co-writing a research paper critical of the company's AI systems."
+    publishedDateTime: 2020-12-07T21:01:00Z
+    webUrl: "https://www.cnet.com/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 82
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/FxPoIKH-bQ1gv2HCASbpaQQQZ_A=/1200x630/2020/12/03/dd71df12-2ccc-4ddd-b925-f3a7752267bd/gettyimages-1028811898.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google AI Researcher Timnit Gebru’s Exit Sparks Ethics, Bias Concerns"
     excerpt: "Furor over Timnit Gebru’s abrupt departure is the latest incident raising questions about whether Google has strayed so far away from its original “Don’t Be Evil” motto that the company now routinely ousts employees who dare to challenge management."
     publishedDateTime: 2020-12-04T23:33:00Z

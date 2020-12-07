@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Standard Chartered Bank launches learning hub in SG following SG$5m investment"
-excerpt: "The diSCover Lab will focus on future growth areas such as digital banking, international banking, cyber-information security, data solutions, analytics, cloud, and AI architect."
-publishedDateTime: 2020-12-04T04:32:00Z
+excerpt: "Meanwhile in August, DBS Bank collaborated with Amazon Web Services to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in AI and machine learning."
+publishedDateTime: 2020-12-04T04:51:00Z
 originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment"
 webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 455
     isCached: true
 
-secured: "RTGNyS/sW04NMPOPQPKNwVFusm4K/TjkBZVdiV1cn8DejcOjIV3qX6ZgqjgwmK3fISThd35SnrU5LXfNpeB31AZRwiE6KC30sUblor5GDNDF3nTk0HlotqGHLeBcyKFt8P5xBK4sF+zYfd/s+uKUGZ+gCZww9iKUZojQkPYzL68R4h4L6a12J15ybbx6Tj7aZa6XGfo2uXAyxIqlEl5Z6mDhJGY/KMhcpsnxaWiyh6OMIvRKPPn7q/EEeVdDR9SwXCFJKzZaLXt5sU5l2P8SxbOVJQvWThU7zBQx7sPSu2pZw67xAxwir/tG/okuSedFFLbcyISkwscoN9dk9AmiXVD0mgsR8sYYqEGlOgxEImU=;hCt9/YncDfP5d43gyFIxyg=="
+secured: "7GTqviGjCH+Zje3S7QuQdmBdMX5etPz7bKQvnPzEEgZbRNnGnVYFG1UXk/s1k9PtOzeuQm0k7SlLiF+C4iH7IzXjIjd0r5Dto3gk0GaKnIhJ66K/LvNUeCT9dhp9LPD+4bkZg576NLk9kjbUXKHRiKdyvcQ0ndagd2B9loEMc/Rrh7Ak5kRpT2JfIgCIF4Re1kXS2Cpfrp48FAOgNQVJqyYfrUJ7bJEPnHSB3Hmof4iv0WRq0UKeErOpgu1UA+oY1n9JYBkX4sE6uwIlYsLgYwpIaNgDYNRvCB3iFm4il6r//9xgMf9ow6JlUh2eM0iXGLrqA/wVXy2LIYyDHqIwc8XiPals6CASh2mUbwESu1c=;1eHw9NNwED6DSBbgQyChsQ=="
 ---
 

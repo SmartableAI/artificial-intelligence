@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-aws-expands-think-big-ato-aiml-rapid-adoption-programs.md",
+      "title": "AWS Expands Think Big, ATO, AI/ML Rapid Adoption Programs",
+      "excerpt": "Amazon Web Services is ramping up offerings for its public sector partners with the expansion of its Think Big for Small Business, AI/ML Rapid Adoption and Authority to Operate on AWS programs",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
+      "originalUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0260-1029655d8d40-42cc89fb2319-1000/aws-booth.jpg",
+          "width": 609,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g5g.md",
       "title": "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G",
       "excerpt": "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,",
@@ -1364,58 +1409,6 @@
         "name": "BizTech",
         "domain": "biztechmagazine.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
-      "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
-      "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c87ffb80008a1cb4cd7c%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/",
-      "publishedDateTime": "2020-11-19T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -112,48 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Forecasts to 2025: Global Industry Growth, Share, Size, Trends and Segmentation Report"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2020-12-03T05:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-forecasts-to-2025-global-industry-growth-share-size-trends-and-segmentation-report-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Market Report 2020 Global Industry Size, Segment by Key Companies, Types & Applications and Forecast to 2026"
-    excerpt: "The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe,"
-    publishedDateTime: 2020-12-03T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-report-2020-global-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2026-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
-    excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
-    publishedDateTime: 2020-12-03T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence of Things (AIoT) Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 07, 2020 (WiredRelease via Comtex) -- Global Artificial Intelligence of Things (AIoT) Market report provides in-depth research, sales estimates, and growth forecast by ..."
     publishedDateTime: 2020-12-07T10:23:00Z
@@ -219,20 +177,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Technologies Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
-    excerpt: "The latest research report titled Global Voice Recognition Technologies Market 2020 by Company, Regions, Type and Application, Forecast to 2025 demonstrates a thorough executive synopsis of the industry over the globe."
-    publishedDateTime: 2020-12-03T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-technologies-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

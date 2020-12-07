@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4024583/school-facial-recognition
 webUrl: "https://www.computing.co.uk/news/4024583/school-facial-recognition-software-misidentifies-black-women-times-white-report"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 370
     height: 229
     isCached: true
-
-related:
-  - title: "Face recognition software making progress at recognizing masked faces"
-    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
-    publishedDateTime: 2020-12-03T06:46:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
-        width: 1000
-        height: 707
-        isCached: true
 
 secured: "cpEch61ztQCrPOUIjo4KMyb4FZ+ZlDsSqxzjA8sdDA1I9dHEKFggv2JtN+TfLYjRZZPu4+CtuBx9XLYJL7FZ7us9RtWlrGBNB7Toom9DVYgnqgvWXZlgHIFicN6vU7hfUDqQxivFgZqf06r08mZit0he7iWoUoDnkiSVnWYh8un+m5EgjZ7TkZGhNVH2ntjfavqxsTeBZZtWmLaUB4JzxdjiZl6zINP5F9iV/66qsmD5tKIpjahcfnpk2N9+R3B6C0aPlvI+Dzys7p3AkJgTa3xibRgGWsq2LNLYU7elBS04c5b1v0oxPd8YtLdJAuxsuqKs+QlR9PVZVAgjYbUc1JhT/0j+G2ls3aWcIzb525XW/F9IzbKUW5VmTmktBPKnYKyx1BTYI15eJ5P9g2dkRxLoNOz5YYje4oxKEpg5i4nqiUgxXJgxxZfR1353R9Clfk7igbp7HzE996CcXT9qlqkQthEWj5Ykp/Q6IpcGSp8EfyK4NXBr/x22NxlX33yP+XrGc0aSXFp9NnnBsjeKgQ==;WvrRrYZNCWjAeNK+tEt2qw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-07T19:42:00Z
 originalUrl: "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs"
 webUrl: "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://www.crn.com/resources/0260-1029655d8d40-42cc89fb2319-1000/aws-booth.jpg"
@@ -25,6 +26,6 @@ images:
     height: 456
     isCached: true
 
-secured: "ARnD3/DvTwwuKvpxEjbtKodOillTXZVn+Zjj62wJoIltRsr5PJG1AHlnCVzO+MwLI10TnTi0trX9oek+3HZ8Gmhjh9QB3MNO8zc0vikdzzHINfBFaCWDTIIJ/TAqtTxVfR+rUFC1n1ey6sYWnqs18VAa03lANxa+Cl/shi+arCceTNJObhT80/BFscV1cisn5iVTLNVirMYYSuCll8xB2zwn3rDhvR/qEXIcWBogeJXqEDYYIv4gC80j8LTbxdhaLs9PbsZoSNVNBgdw27nd1887XA17fj/vR5yEoRnjXpbzbceS510i6AZ/LGHhB+8F6hKK46zqsY0iEVxZnRoa76TFu/wsiHg0pIVqmb8/mRc=;ESRcWHGiyL6V9Tq5VpuqxQ=="
+secured: "Cv+hdrdxtWnRruHL044yPpNcS58X0QdHy/VJNThDPEGgyXKrKuXSz2lHiEbr6b/nD5fwyaaaat4U+j0+MRGMut+XFRZSXYmMJ0Uyoqktayh4+GCnpvRzQT7rEhbyiVWNzTmhTWL1UEU6oSxTLRTMdnTaEDhAgQ6HzufM7Vy/1Xg7MD9ncM6oukzU4CxYIkzCd9O2SQi8bETG/CXOx61Vn3pccG28/QMz7++2hAWqM/aQ5sxXyveuAPMGH89RDLCNhhHnLLtq6/APriIV0NN7IqnXPUh46Qg3Oao8Htqn99ypqOCbfR25VwN9rZ11SzrficKH++pe6BRonwX6R0xh3IljyaTXy+UHcEM58Fu8f4uh09KUI6p0zewgV5NUWUfddXH+vlibvUdprqavjco1sEjE4bcLJOXJc7EVDTekY7a+opJoDFjj6kiEqFLSHNWIptkH+fhYU3iWYg+ocz0CsEjmLhMKVUhP9VZPMmQPhIf635TkkbF1zQYqQOP1Iuxo9J9cXMpkL9cVKBegdMdEhg==;z2KIR13J1wAYUKYlPyfhug=="
 ---
 

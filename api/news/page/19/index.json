@@ -2,6 +2,143 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-20-ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say.md",
+      "title": "IBM is moving to cut thousands of jobs, reports and workers say",
+      "excerpt": "RESEARCH TRIANGLE PARK – IBM is planning to ... clients on their journey to adopting an open hybrid cloud platform and AI capability, and we are reinvesting in our business,” a spokesperson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2020/11/20/ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say/",
+      "originalUrl": "https://www.wraltechwire.com/2020/11/20/ibm-is-moving-to-cut-thousands-of-jobs-reports-and-workers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2020/11/keyboard-417090_1280-e1605871366735-1024x577.jpg",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.md",
+      "title": "Study examines the phenomenon of visual illusions in convolutional networks",
+      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201120/Study-examines-the-phenomenon-of-visual-illusions-in-convolutional-networks.aspx",
+      "publishedDateTime": "2020-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-fireeye-acquires-respond-software-for-186m-announces-400m-investment.md",
+      "title": "FireEye acquires Respond Software for $186M, announces $400M investment",
+      "excerpt": "The security sector is ever frothy and acquisitive. Just last week Palo Alto Networks grabbed Expanse for $800 million. Today it was FireEye’s turn, snagging Respond Software, a company that helps customers investigate and understand security incidents,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
+      "originalUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1175886963.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
+      "publishedDateTime": "2020-11-19T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
       "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
       "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
@@ -1086,135 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-a-deep-learning-toolkit-gives-java-developers-a-jumpstart.md",
-      "title": "A Deep Learning Toolkit Gives Java Developers a Jumpstart",
-      "excerpt": "Deep Java Library (DJL), is an open-source library created by Amazon to develop machine learning (ML) and deep learning (DL) models natively in Java while simplifying the use of deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3597908/a-deep-learning-toolkit-gives-java-developers-a-jumpstart.html",
-      "originalUrl": "https://www.infoworld.com/article/3597908/a-deep-learning-toolkit-gives-java-developers-a-jumpstart.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/istock-1199145131-100867577-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-artificial-intelligence-is-reshaping-finance.md",
-      "title": "Artificial intelligence is reshaping finance",
-      "excerpt": "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
-      "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F136ee239-920a-4bb8-afc5-c91ad26d1f4d.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
-      "publishedDateTime": "2020-11-19T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-speechmatics-any-context-speech-recognition-engine-launches-on-genesys-appfoundry.md",
-      "title": "Speechmatics’ any-context speech recognition engine launches on Genesys AppFoundry",
-      "excerpt": "Speechmatics announced its any-context speech recognition engine is now available on the Genesys® AppFoundry, the industry’s largest dedicated marketplace focused on customer experience solutions. Through mission-critical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/speechmatics’-any-context-speech-recognition-engine-launches-genesys-appfoundry",
-      "originalUrl": "https://www.cambridgenetwork.co.uk/news/speechmatics’-any-context-speech-recognition-engine-launches-genesys-appfoundry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
