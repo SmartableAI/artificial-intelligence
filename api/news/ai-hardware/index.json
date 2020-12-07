@@ -318,7 +318,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -576,11 +576,11 @@
       "title": "WaveOne aims to make video AI-native and turn streaming upside down",
       "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
+      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -620,8 +620,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {

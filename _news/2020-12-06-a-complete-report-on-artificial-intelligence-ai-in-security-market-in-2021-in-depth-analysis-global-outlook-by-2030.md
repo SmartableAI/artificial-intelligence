@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Market Report 2020 Global Industry Size, Segment by Key Companies, Types & Applications and Forecast to 2026"
+    excerpt: "The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe,"
+    publishedDateTime: 2020-12-03T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-report-2020-global-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2026-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
     excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
     publishedDateTime: 2020-12-03T05:31:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -594,6 +594,49 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
+      "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
+      "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
+      "originalUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/11/stocks-economy-algorithms-AI-1.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
+      "publishedDateTime": "2020-12-01T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1350,58 +1393,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada.md",
-      "title": "Gatik And Loblaw Partner To Bring First-Ever Driverless Deliveries To Canada",
-      "excerpt": "Canada is poised to see driverless commercial delivery of goods come to Toronto, thanks to startup Gatik bagging a $25M infusion of capital plus a partnership with Canada’s largest retailer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbab97107d4f398e3ecce1d%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1886%26cropY1%3D0%26cropY2%3D1332",
-          "width": 1199,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,9 +2,9 @@
 category: news
 title: "Luminar Going Public Makes 25-Year-Old Austin Russell One of World's First, and Youngest, Self-Driving Billionaires"
 excerpt: "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal."
-publishedDateTime: 2020-12-03T16:01:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
+publishedDateTime: 2020-12-04T01:33:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires/2758975/?amp"
 type: article
@@ -74,6 +74,6 @@ related:
         height: 675
         isCached: true
 
-secured: "J8k3ommVyFF2XYHjDDsNzsoAGkwUvrDN/bFk0pqOTIj6Z6G34wA7qMVsiQAXr7aUh+1IO7up0UljmN8MbCSS5xnZAkoJdy2O+SGhPXWswtsnWePWp/qzZ0wDdT7j42MecYG7br31/1lE46SiBeD9P1rZMWhuI3GzyUgWWTLKZXmHA+NRF7ysOmod3t5PAQVR1xka+sXHKATo9vk2KpTg6X5z/eRtrzzc5gXEWjRN1YvN4ehb2XbJLqzoOx0q/Se99+DtdRVG9Thd9sWKQXIFw3XrC7yk3c5gdZYX/BqF0+fWlH0xRae2JWYknBa4bwmcWWfOoOumWGxYaZ18BRYd09Ks0jTWEmZLCRkvbjE5r5M=;jgxkmsdKQGUtNzkzxYmxUg=="
+secured: "D/wtkGboH9Xizg1WhHZQ+zEisk+0ye3PUm5EmTPpACu60bZzex80O4tln1A3Fwaf0RLErBFK4DbjH8A63HA5SIi+mEadbjGj3icOAkgmRrKoPTscrKje/SDUy7TkfeFt3aMn3T+HLieQ9YMlENwpDWXr7nVW31oUbIBCxG9K3tTxKZHFiypp/NNcH+EVWs2pW6oAFkCWpvwM12UXR3oD89Qnw/AIR0YTRIgbwsLzzWAszGCyVcAvKLz5LXa+J7SGboSJhyKz7bCFobKTmdQ4vxGX8fDER+jmttvokFLRS+G2H4dUNOyU2MWoqxDZuEWyXEJB7mEIM3Nay5FCM8kLcZHgmkvu/Xr6juimw9HSpVI=;E8ehdb76rjhLYmhbaQNIGQ=="
 ---
 

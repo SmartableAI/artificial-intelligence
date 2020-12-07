@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Speech and Voice Recognition"
-    publishedDateTime: 2020-12-02T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wUiHizGPpYnS45cr0DHtoBzCpCv9nbIjbtM6VogTOtSH6xARHbif3IFQwRymrB33XJM3rbrvF3c9QMArNTiyyG5kMC+Grt5xkBsG2ioWkVI9y1WS9dm+tqvq7U8J1FzGYumPh0hzZwURc7fjrNm6Qj2Hqf4Wtf6lvtlmiUCqTbU5V1SIMHn5lE3bsBqzoX+QGduG1/WYkD/1joFpmXbEWs2N0rwnp9E0mHjOwfbC6pPzCLKF83KvTyOU1FBWI+9YWRcnfNPyxSrPw0wpIPs3pz4tbHvafSrQTWFHmi/3C0qOIKDbo68Z8CmPPZJl3bWdwNaNiDnMeAGi/vb5mFaFKbv47uS10msnNwOAO41QaRg=;/rcH7DE9K/aeYp0lEF+pWg=="
 ---

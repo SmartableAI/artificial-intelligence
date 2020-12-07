@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02"
 type: article
 quality: 80
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Market Report 2020 Global Industry Size, Segment by Key Companies, Types & Applications and Forecast to 2026"
+    excerpt: "The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe,"
+    publishedDateTime: 2020-12-03T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-report-2020-global-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2026-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

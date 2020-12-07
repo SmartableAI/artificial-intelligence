@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-02-massachusetts-lawmakers-pass-state-wide-police-ban-on-facial-recognition.md",
+      "title": "Massachusetts lawmakers pass state-wide police ban on facial recognition",
+      "excerpt": "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "originalUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "publishedDateTime": "2020-12-01T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video.md",
       "title": "Google’s AI experiment syncs every ‘Bad Guy’ song cover in an endless video",
       "excerpt": "We’ve seen some cool AI-based musical experiments from Google’s team recently, including a virtual piano and a voice-to-music converter. The company’s latest experiment is a bit different: an infinite version of Billie Eilish’s hit song,",
@@ -1006,11 +1058,11 @@
       "title": "WaveOne aims to make video AI-native and turn streaming upside down",
       "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/?tpcc=ECTW2020",
+      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1050,8 +1102,50 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
+      "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
+      "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
+      "originalUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/11/stocks-economy-algorithms-AI-1.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/01/as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully/amp/",
+      "publishedDateTime": "2020-12-01T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1156,102 +1250,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets.md",
-      "title": "AWS adds natural language search service for business intelligence from its data sets",
-      "excerpt": "When Amazon Web Services launched QuickSight, its business intelligence service, back in 2016, the company wanted to provide product information and customer information for business users — not just developers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
-      "publishedDateTime": "2020-12-01T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-finnish-researchers-say-ai-tool-can-help-optimize-cancer-combination-therapy.md",
-      "title": "Finnish researchers say AI tool can help optimize cancer combination therapy",
-      "excerpt": "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "originalUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4601606838101/2020/1/9cfb143b32837f2bd66aa13fc75ac5b8/v1.5/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "publishedDateTime": "2020-12-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

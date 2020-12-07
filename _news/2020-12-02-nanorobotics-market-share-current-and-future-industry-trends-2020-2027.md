@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-shar
 webUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
         height: 339
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Speech and Voice Recognition"
-    publishedDateTime: 2020-12-02T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "G2RZkd2kvlHlpbInMsJQCmzmaRotqo33hoGV9BPe/3Vll96aahXgdsmLLE1oUVdJD6qnT4SIeudQQDnwh3eWqBHo8HHIM0AU6rqzDq8Zu4deVTT5gLg92TSyPjZv8eH8qwveT5Ct6ffVpYo3K8BwUHBLYNyg8cdlrh3Y8tUgIfRMRM7nafmclQmzWQeb5ZDFRZQ2gfF7wmJIjIO53cKB0v3etC1BTmgcrQ6CM2Sn3QhoTzYFH1K8v480EFrW/VsJB9WU7WNHtpuj5l4U9OOzj7Q3SHfCcAby/cE1xYLPRXDQvcjRAVrt7n/gwPDY7zVOTBC8Oef7uNV3H7IR5RVL5L3Zqmwnxdtr5jBqNAvsr5c=;6TT1p+2ps0JgkiKpArldVg=="

@@ -446,6 +446,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-global-robotics-automation-etf-robo-hits-a-52-week-high.md",
+      "title": "Global Robotics & Automation ETF (ROBO) Hits a 52-Week High",
+      "excerpt": "For investors looking for momentum, ROBO Global Robotics & Automation ETF ROBO is probably a suitable pick. The fund just hit a 52-week high and is up 102.4% from its 52-week low price of $28.27/share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02",
+      "originalUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp",
+      "publishedDateTime": "2020-12-02T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
       "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
       "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
@@ -593,7 +627,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1335,58 +1369,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-do-you-have-a-conflict-of-interest-this-robotic-assistant-may-find-it-first.md",
-      "title": "Do You Have a Conflict of Interest? This Robotic Assistant May Find It First",
-      "excerpt": "They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-CONFLICTSCOLOR/24SCI-CONFLICTSCOLOR-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "publishedDateTime": "2020-11-23T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

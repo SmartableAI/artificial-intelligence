@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-j
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep medicine: Artificial intelligence is changing the face of healthcare, daily"
+    excerpt: "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this."
+    publishedDateTime: 2020-12-06T23:41:00Z
+    webUrl: "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/"
+    ampWebUrl: "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/"
+    cdnAmpWebUrl: "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/"
+    type: article
+    provider:
+      name: Daily Maverick
+      domain: dailymaverick.co.za
+    quality: 84
+    images:
+      - url: "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "DeepMind co-founder: Gaming inspired AI breakthrough"
     excerpt: "Gaming inspired Demis Hassabis, the co-founder of DeepMind, to use artificial intelligence for a recent scientific breakthrough. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century."
     publishedDateTime: 2020-12-02T13:26:00Z

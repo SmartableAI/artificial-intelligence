@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Deep medicine: Artificial intelligence is changing the face of healthcare, daily"
+    excerpt: "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this."
+    publishedDateTime: 2020-12-06T23:41:00Z
+    webUrl: "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/"
+    ampWebUrl: "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/"
+    cdnAmpWebUrl: "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/"
+    type: article
+    provider:
+      name: Daily Maverick
+      domain: dailymaverick.co.za
+    quality: 84
+    images:
+      - url: "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "The predictions of DeepMind’s latest AI could revolutionise medicine"
     excerpt: "AlphaFold, DeepMind's new artificial intelligence, could accelerate drug development through its ability to predict the shape of the proteins that make up our bodies"
     publishedDateTime: 2020-12-02T19:11:00Z

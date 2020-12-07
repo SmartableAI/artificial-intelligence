@@ -35,22 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "Machine learning: The new language of data and analytics"
-    excerpt: "Machine learning is all the rage in today’s analytical market. According to Kenneth Research, the value of machine learning is growing sharply and is expected to reach over $23B by 2023 – an annual growth rate of 43 percent between 2018-2023."
-    publishedDateTime: 2020-12-02T09:00:00Z
-    webUrl: "https://www.itproportal.com/features/machine-learning-the-new-language-of-data-and-analytics/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 61
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-1200-80.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Alinta Energy powers ahead with cloud-based data warehouse and AI infused analytics"
     excerpt: "Every time an Australian batsman heads to the crease, Alinta Energy’s logo gets an outing. As principal partner of the men’s cricket team Alinta knows quality when it sees it. As one of the country’s leading power generators and retailers,"
     publishedDateTime: 2020-12-03T18:22:00Z
