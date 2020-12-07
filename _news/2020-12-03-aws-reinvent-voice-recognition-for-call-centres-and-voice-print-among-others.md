@@ -7,7 +7,7 @@ originalUrl: "https://www.techbooky.com/aws-voice-recognition-announcement/"
 webUrl: "https://www.techbooky.com/aws-voice-recognition-announcement/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru"
-    excerpt: "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services."
-    publishedDateTime: 2020-12-02T13:14:00Z
-    webUrl: "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg"
-        width: 1200
-        height: 881
-        isCached: true
-  - title: "AWS Announces Amazon DevOps Guru"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru, a fully-managed ope"
-    publishedDateTime: 2020-12-03T11:34:00Z
-    webUrl: "https://www.hostreview.com/news/201203-aws-announces-amazon-devops-guru"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 39
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "SaLFaRB8EPJHdUbYOPxeC/y1iU1H8UejstwR3P7TN8V5U4m+tX9yHGXoXJkB18ghuvZAbJeqXnNcQafAesSXnuOYA7zHEE/fqLI+G+mDXSaQt5q8YqWpH3zVCZ0YA0D7xf8N7dNOEMgZKmBRWoast7NcCWvgOECwfX/+y//v71X1R4kXgzeejpPNCQOrtnYnyXgPV2JzKRJY2FxjT0SLacN7OO+gA7OhIMRsk8v9y0nzOIc/PHSfzrPXl4cuEp2sQW+QrKe8SOfdUX59Cu/Sw/D+pZJqUXNgz66N4eW0/9HXLMT4//Khr6vtTh77EVzZ//kun6+GSDOTMR2aGhTtvDb2ODdIT6rgOS8xUOTdC+JwFO3DLRku5zUl4wRLWmspUBuzLcUUSpJ1kASm2T7b7sQ6YckHoIiJ3VGi42C0lBz6EDGv6wGyW2JmemerysAm4yu4vA/NilPWnSNa4kh2LtVxUwjvR9VHAI9r0gfYIiOpIz0lbyetHHF+lwXzVnL+n16egamcdDjvnsgcsT1UyA==;WIruHQ8stJIWK1lYCxIzvg=="
 ---

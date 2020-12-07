@@ -40,20 +40,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform"
-    excerpt: "IBM has a Watson Anywhere approach that brings AI to wherever the data resides —across any cloud —to help companies unearth hidden insights, automate processes, and ultimately drive business ..."
-    publishedDateTime: 2020-12-02T14:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-301183522.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "tseMic98uZ/ilFUCJzrLXEm1wLEk5hhXBYuSKnZtmcJOtk8EEGm5E87cDdyuSvRnxZHwikV9lOv2Wd88Acx1ygjynL80BdN9b9j0kJhFge9nKXElvVM2ZxSHAS9ifpUwp3hxMayPqHTTkrHm05cZYgruCcIIO0JbJGpLbuK3thGfpbhdiVhzZKB6ekrG8XgCw1oVte1lqqBn0wsnUmxS8gB8Kuxe9NaMwZQPn8X0gkadPdLTFjiL/R7cn7FT26jvwzeVwR5K1dQiuNKznq0JyUcRn1TK+2uVLSpxhheU94MGfx95kx5Ld8QRo29LnPO9i75xY0cMwOTBiJGSkYBw41shzvjUuk6s6S/QZhLU5fw=;2+ixhoK6EehcQU694tl3Ow=="
 ---

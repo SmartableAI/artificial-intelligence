@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software getting better with mask wearers, says study"
-    excerpt: "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces."
-    publishedDateTime: 2020-12-02T15:01:00Z
-    webUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/"
-    ampWebUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 58
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Face recognition software making progress at recognizing masked faces"
     excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
     publishedDateTime: 2020-12-03T06:46:00Z
@@ -55,31 +39,6 @@ related:
         width: 1000
         height: 707
         isCached: true
-  - title: "With or without a mask, facial recognition tools know if you are you"
-    excerpt: "An American study has shown that current facial recognition algorithms are powerful enough to identify people even if they are wearing masks."
-    publishedDateTime: 2020-12-04T00:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/12/04/with-or-without-a-mask-facial-recognition-tools-know-if-you-are-you"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/04/960482.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
-    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
-    publishedDateTime: 2020-12-04T15:20:00Z
-    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
-    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
 
 secured: "AHFJEzmmOecRUYTGoJt7xRiR7WnIwHV9ZyfAXfXFM9s3dGbig6c53U5cQJlDSL4v32ojoS4s4CopDmCEPnegGeRfmmyvans1ovTxU1WB807+PZGy7ZOHAXGtEFawGQHB1NOhdNfGbYLotqNyobS++m5UuWrONkS73EDwvawU160XKJmszS5HhXo7x45kxT53kaQqLWXyfehfUktC4XTJFO/mnbDT+IZwKmJxIa+cdKGwlE4HuS78zpYt3778Ov07hGFtJU1/gwFNO59XS+N3dbnH+eNQ2snpW+Q8dqIZXbLHjJFl3Cp1F9VvFJc+xB9q69jj3De4qfrrWPIe6YEdO0IsgWS5B3PvhiD0IQKv8p9YOnRR6yRZJI3zg2yv7+0O8zO/bPfzTGj0NbQ4ayNGziia8h8EcU4psc7m4E9bEIbdfKV/opLE2QxtIlzcRhW34BISlG8nGIRowq07PAy+Bp2DLDb0QhWMXqDQVAO4N1gFCsYhacfBvnF4rH2mGoWURwBuHfCBOeKV0IxdJ7scNw==;2wUC6QZ3mkADWswcI+D62g=="
 ---

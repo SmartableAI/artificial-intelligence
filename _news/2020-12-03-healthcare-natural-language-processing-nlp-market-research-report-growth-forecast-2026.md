@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y"
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Healthcare Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2029"
-    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of"
-    publishedDateTime: 2020-12-02T14:42:53Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2029-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5EDkDJNicwxWfHbJtF8He1GFL6zCCkEM/5fOUOfMqvyau6Jmh4+vH1uU36d/msNCyEfyEptR/lPaQ9jeOA8fN7eYdQUWTsL/KWBF9p7u6cN+g0K4qQ3u0hWQ4QqSXAFmg6NSCFDrW5QqV77ZvlmfAnVgWEQacP1kfpOtrGie07YYE289cd8FLBmURqh5feLRi4SosUoILrCtzXsBgL3rRbbltPFeOIZCmC483LYtDh2H5VRZnhl51lmz8o1rcCLHiwqnrdRnC366V55ieWq7TFhgaYEP2Ocbzv7aSB8KEdCF7ulDvPaut0evt85iBQug7jePwWErtTyZrZ4nDA/a8rBVi4xxaOKAc5ubqdCVDUw=;LqQSS4SdFEw6hpVinGdi2A=="
 ---

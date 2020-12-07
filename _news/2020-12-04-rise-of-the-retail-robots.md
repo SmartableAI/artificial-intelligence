@@ -45,20 +45,6 @@ related:
         width: 1920
         height: 1771
         isCached: true
-  - title: "Why soft skills could power rise of robot leaders"
-    excerpt: "If robots can master humour, they could step into roles that require exemplary soft skills, like leadership roles,' says Dr Gloor"
-    publishedDateTime: 2020-12-02T14:24:00Z
-    webUrl: "https://www.miragenews.com/why-soft-skills-could-power-rise-of-robot-leaders/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2019/01/PoliceSignages-6-768x393.jpg"
-        width: 768
-        height: 393
-        isCached: true
 
 secured: "G+NH77qmqdm4fIg8aXAO0g982uqcex6EVmJEx/Lwwxy1J66A8h9O2euL5J7froMUqs7+0dHFv/xZCZUC2dycHTWNGG+tzTNvSbMSBb39RlX75C4OstRY15AOwLkRHPZRHvgJXz68YTB4NpFOP4AIsvYi5kxnJNGoeRnhHgLJCaLXgTeUqp5+TE4sqX79C4b/C4jwghcC8F06jpT9tpm5k0D5wqzRyUp/qIX1ltZmQhClMbVgRD63zd+EP4p35a2j0cb1gDEEmzarf92LY5qk3LLIpZjq/f7cctOjxJS0PMIOW9l8sEHW0UcPL8GPhmY6UFAL4hU/jpDMb3Tih07V5Q4Q83ai9E2RuFsrCDOY5Bo9ZPcfLMMwpVlPo9fgu811SQenXXhVxL4b+fkFgL8wWpj0kUBUkBFS784wCybB2RdGVnJH0Z0wRnqKzYc1J3sx6YtC8xKjt9iobR6io1qTKCyx7QymJAJ/7RpL6/NPfSyrP/fwemrFvOzEYcJ1Z3tE0tRKGbSE0aCxMAPEqFmClg==;mPJTbotM/5jqfaBJE2lHVg=="
 ---

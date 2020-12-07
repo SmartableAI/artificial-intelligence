@@ -55,17 +55,17 @@ related:
         isCached: true
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    publishedDateTime: 2020-12-03T14:23:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Purdue University
+      domain: purdue.edu
     quality: 38
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
+      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "eel5+Mx6ig+FtyEFvxk3WKI55Il2AtDq/A0Gt7l7Dw45Gt4LxmvKZLDxrEen3xd/Mj3v3tU1slWYO3SNCNgsEAJtFd4aCLyk2G5sT06JBw9b1woCBd6icKx9hD5Rgr04ru6DLAxZgKKNJ6uT8W04UPD5PY8ZhHUDGFyXNvSdcmxwMzZk2KCoutq94mynm+oBwPCU5aIuNCExV4NTX/LzOiXBKldtY2zJII0jorWK8sOCpe1sid/q9WO8SyeSzBVOyBg6x+FKb0MRj1wMbloqKuaXZe46eQMvJpORrr1UVLcvKt/q4WdwUFk8fKKPBG+gI85G85lKRvu2GRzjJp5Hw0l4qn9Y6ApjRsWwvAcUcJdWd9+EN9CzPnpVM78y9kHM9KGEoCfa9qAyF9h7amkVAZ824hNnr3LWxIsZdjatNWSJ2lH4n6Q+1SsuwvH4ZB1omKt/kU7jUwcm5iI3HkDVu/38w11SKjyZdtQn04Uokd9rgqZBGLCKzAI9MzR6GfsXaybC54XKmtxneBQ7xv2aGg==;SD7XbobdWLjgSbTlnsPosw=="

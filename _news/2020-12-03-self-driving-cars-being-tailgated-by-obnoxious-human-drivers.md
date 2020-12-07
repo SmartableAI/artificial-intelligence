@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Keep your eyes on the road — even in a self-driving car"
-    excerpt: "The appeal of self-driving vehicles is the promise that drivers will be able to do other tasks on the road or simply enjoy the ride as automation technology takes the task of driving out of human hands."
-    publishedDateTime: 2020-12-02T14:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16036/keep-your-eyes-on-the-road-even-in-a-self-driving-car"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "nr4dzttSa7SspOVQHbwGVqFFmxCN92cbTi0ums0JYJmpJSGfI5JI0QdMTrD3v+DSPLTs9yKciimTSTU0q1vjXFfxxXwDfF3dLjlwDWt4uhmhhbExukSjsl2AdR4LB041AyR67fLIXRZRXl5uwYzYj8nHOp+Zkc427+4NC0h2J7b3Qkt0wJENufQAARjbO4Xm+kX4F0NV+zXLosTW5nAa34foEn03AVqxrX4dpYDIUiD4fiZWytXR+I9ROV6kZeT2CXVlBEPLgqnDfRiCgZICyGaCA+HS9WpsFgJUslDlOmDZOIiBws48qQorVSEXUfyvmHy5r+UDVyOfj9A2Y/MMOC39qLTM+hDC8CRiNGSxAwlbs1Jo+djmX/VzFRwVbvXNebOPtAjbMYjXrfU84nsBhKJKutxIuNqpcuUglGOZeVTP6cUg1sVGdlEqC9/hwjp8z/uUaOz+Fpb6J0z7gbQbiqXAXVfTcywV1p4kuK7vJXA5ois8QXqyuzLMTSP5WGaKbLLqTFDtDxi5d3/lxQx8Dg==;Ic+Lz6u5v9n4Shc9zcbwVw=="
 ---

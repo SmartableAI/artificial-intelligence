@@ -24,57 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging The Power Of AI In Telehealth"
-    excerpt: "The main AI use cases in telehealth include information analysis and collaboration, remote patient monitoring, and intelligent diagnostics and assistance."
-    publishedDateTime: 2020-12-02T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/"
+  - title: "GAO Issues Report on Artificial Intelligence in Health Care"
+    excerpt: "Tennessee, chairman of the Senate Health, Education, Labor, and Pensions Committee. Greg Walden, R- Oregon, ranking member of the House Energy and Commerce Committee, Rep. S. Brett Guthrie, R- Kentucky,"
+    publishedDateTime: 2020-12-02T22:46:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/gao-issues-report-on-artificial-intelligence-in-health-care"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc68504a15370bf1f829b19%2F0x0.jpg"
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "New Study Highlights State of Artificial Intelligence in the Healthcare Industry"
-    excerpt: "Multi-national research finds healthcare AI maturing, despite staffing and data challenges Healthcare organizations seeking to implement and extend their"
-    publishedDateTime: 2020-12-02T15:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18614442/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18614442"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18614442"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-  - title: "New Study Highlights State Of Artificial Intelligence In The Healthcare Industry"
-    excerpt: "Healthcare organisations seeking to implement and extend their artificial intelligence (AI) capabilities struggle with finding skilled personnel and sufficient, high quality data, according to a new IDC White Paper,"
-    publishedDateTime: 2020-12-03T02:43:00Z
-    webUrl: "https://www.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 49
-  - title: "Olive Acquires Verata Health to Accelerate Artificial Intelligence Technology For Healthcare Providers and Payers"
-    excerpt: "Verata is a leading healthcare AI company, enabling Frictionless Prior Authorization® for providers and payers. Seamlessly connected to the nation’s top electronic health record (EHR) systems, Verata’s AI technology automatically initiates prior authorizations,"
-    publishedDateTime: 2020-12-03T14:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-b71e415b83f61a440ed3d69ef57a5c02"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+        height: 630
         isCached: true
 
 secured: "1E8PwHdO/IR5zEXQB03ymAT8OI/SNQ0pTNxxYhoL/cnUF9DA03Ll3SqB+hHfYJ8Fy7Um5xTNhaH1UxW7EaAWKFRXiTdlHiG3oHbxokk3GpBGzaNxaYvqso4ep4ZcsK7lDDip9uhyWDtN7G2ohd7HN1AyLWBYsZ6vdkEyc08Uoek6r3+4k6md/6z8nC1PPH8/fBiyISucOrQjMlPFhM9VPrkwzOCGU6EzO3rTW8CXglxSXihtGhp9PLFWOo2uGQ3v/mOPrUgQDwUce9+P6rvtuYFpOCkBA6xhfduRrnnp4sla3f0IR60hzfUumLQJu8NxEqnKbuZEdDapBOwgPD4SvMO5uJxgaH5q17edqrZiBKM=;E0Anlf9NoGkts8qYAj2+dQ=="

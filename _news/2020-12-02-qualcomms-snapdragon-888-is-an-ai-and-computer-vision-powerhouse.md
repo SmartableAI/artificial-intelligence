@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc94c118b96313babd53b26%2F0x0.jpg"
         width: 1200
         height: 738
-        isCached: true
-  - title: "Qualcomm’s new Snapdragon 888 promises faster speeds, better cameras, and more powerful AI"
-    excerpt: "Qualcomm teased the Snapdragon 888, its latest 5G-equipped flagship smartphone processor, on the first day of its Snapdragon Tech Summit. But at the day two keynote, the company provided all of the details on the new chipset,"
-    publishedDateTime: 2020-12-02T15:00:00Z
-    webUrl: "https://www.theverge.com/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
     excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."

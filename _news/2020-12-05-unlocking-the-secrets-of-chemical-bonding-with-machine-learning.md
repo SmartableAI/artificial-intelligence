@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2020-12-secrets-chemical-bonding-machine.htm
 webUrl: "https://phys.org/news/2020-12-secrets-chemical-bonding-machine.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 415
     isCached: true
+
+related:
+  - title: "Unlocking the secrets of chemical bonding with machine learning"
+    excerpt: "Researchers have developed a Bayesian learning model of chemisorption, or Bayeschem for short, aiming to use artificial intelligence to unlock the nature of chemical bonding at catalyst surfaces."
+    publishedDateTime: 2020-12-07T05:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201204131313.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "X9em4SnVB/ROYK2CQqenIym1KzdJ1N67aD4thejcBESI+/2uxdOYZMq33Ft6yA37jCcFQEa34P7FDeNsLsfPKy0tFQMWj9S4qtSjFzbwP+h15jjNZwQDSJNJKJWusTgIpiJOVKUXxlLxC5/jSAauXjw7yd84j54GYZjrbk4d/dykL00npE0MwMr1eiVFXBudyp0b0NdX0ZTrHOwiQh7ZTrH29X/E6MQeKJk10iHwFzGGh8zW12fjWuP5DpljR1qZwwHexqokOCw204UMW9a22oOO+0JOOGIRg7eqMVC19eVMbloJQ2iuurw8WzzgJyqJcuvca4EjSRKyGPbELSDfpJrwmeTApJzstCHv6AyvyeDLQRbKSl6T6ED8FQgkZAEAH58xPZIPGwHzlPNDOFb3B/SgTmkOuUlhMFhMt73Gw8bmERfb33Fx8kQKrE6d2qOpBlqs/bFIYGVX6vR+Em7P6BT/iQWI8PopWJi8Z10rzgV86mjGk32+W49FAcWy5Hv6pMbrPYknpdx30v4simJevg==;4UbNekypEjiVhZj8g2GJ9g=="
 ---

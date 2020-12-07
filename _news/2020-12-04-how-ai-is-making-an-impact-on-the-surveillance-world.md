@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "How AI is transforming the agricultural sector"
-    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
-    publishedDateTime: 2020-12-02T14:33:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
-    type: article
-    provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 17
 
 secured: "bLHnBCi4ANSK9R8cEX0iyKYPI399nRjE3w3EATff7Yaw4Jx3XisXGIyvTH/n3ITgOc4ykARZt2Bo3o6wmwUf5rrgBjLHNciUZvscWmejwrC92I53WrszQl39I1ckD0FevF1JTQR5eFtpG33Hl9CfuTWMcisEkTRgJLx/YIy+DwChNPomZpAoDZ7IwKxBClwZwYgujKcQjW8DODRqznIaTggPm5ROW6RKShrIhgwnSJuka2jTdS/MvLaT4BBS/5oKQzGQfLBMmb6MFacz7fW22fLGLFTpkfyrWq6yNY85PXSOct8SE9iPzoQOt7/CZq6RhHS0uZhLsd6+yE9WRS9CNo1sYkFS8jcVbiPWVmoePwBGwcDcJkZ0zMbfZ8K1BFBmmiUu6ClXq9OhmNMLcLoAONCqtp003Z9gTXyDufgT+6YkdIV9WxCCkxmD62XBBrW555ENQ1LZ7U0xIDdF+L/lII7wn37sMXDXcdU35JvqFcY1zKaFlOoksu20CIzjQn6HYNQ9lYVUgIsPgyz/fKOdVA==;p+DMxgGxN3Wi4zn/2NnIog=="
 ---

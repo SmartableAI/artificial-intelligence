@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore.com
@@ -40,20 +40,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFZvNXhGbliyg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=_aUT2bo_itBC-QXPF9CE8oPMMQYPvOAPxm6esMGikLA"
         width: 1800
         height: 600
-        isCached: true
-  - title: "Why soft skills could power rise of robot leaders"
-    excerpt: "If robots can master humour, they could step into roles that require exemplary soft skills, like leadership roles,' says Dr Gloor"
-    publishedDateTime: 2020-12-02T14:24:00Z
-    webUrl: "https://www.miragenews.com/why-soft-skills-could-power-rise-of-robot-leaders/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2019/01/PoliceSignages-6-768x393.jpg"
-        width: 768
-        height: 393
         isCached: true
 
 secured: "BTyfHv0YuhxDOXSVjrsFOQweQMQvwFcvTJ6nFmj2zeE4P9Lq5xEXdWxOhNMYXa1hoMB3u5zaUZiWnnW+hlE910PCI9YWDTAtl3W5p0mrsiL9L0VBTPJeyWEHOeq0NdvSr2WqiC5n0RElcDO18c+Z1SkAFT+qTGp3wc/0mF8nj9osgJyUraaFLhACOkc0aNkCuibmhUAdmWlE8zEstl9ogRF0pwsXaQZjylC4tHGbZi9PiiGY7JsffWrSmcvdt6ic0ZZT8Qg2uZ4YMvA9lsF3NvOQz6In7DevD0O87SThmsW5hMbyDwPBXoqlbA/4V6iwIkj25owWNOBYLnu0bRuN+3F+AAxDM9V9T/LklyeYn+kgo/iZwIu3AHIUFR3AxcuTemEecQE4Yi8LYVvgEvh3kV0hwhDba8yFhOSdbEX2dKqi1GfBqUcvuoI9Ooj2tIR9kp6uFYIFCdRNWkSaVWnJMuH+tlEHvFVYkij0OBixK1Cup9Qie+NtcZAjzmQM1ye8i8OEya7Uy66sq54CgV8K/Q==;tvZG4Z5T1VyH382oHlsXlw=="

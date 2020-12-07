@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "DeepMind co-founder: Gaming inspired AI breakthrough"
-    excerpt: "Gaming inspired Demis Hassabis, the co-founder of DeepMind, to use artificial intelligence for a recent scientific breakthrough. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century."
-    publishedDateTime: 2020-12-02T13:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/amp/technology-55157940"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55157940"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55157940"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1277E/production/_115764657_hi020818759.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "'This will change medicine': How DeepMind is answering one of biology's biggest questions"
     excerpt: "Google's DeepMind unit released data showing that its artificial intelligence program AlphaFold can accurately and quickly predict the 3D structure of a protein—a development that addresses one of the longest-enduring challenges in the field of biology and could help researchers create more effective drugs."
     publishedDateTime: 2020-12-03T00:00:00Z

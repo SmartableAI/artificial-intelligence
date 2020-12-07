@@ -25,6 +25,19 @@ images:
     height: 559
     isCached: true
 
+related:
+  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
+    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
+    publishedDateTime: 2020-12-04T15:20:00Z
+    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
+    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
+
 secured: "0q5ugvUNIq7MRgJtuoOn5HkxIQZERGMIbZc+YwylCYw2swczxeWoeoGoiSYsLol08YVdhaiL87v4cVqNMDnGcRfeFyycOUfbWea1g6j13REOdHwtiXhgFZ4zUxBnDRrJOoj0OMyouTLGvRq+N104qlwV6RUmeYGg+TXAUvpjUeYhJRT1Azir7MaMZIo01XhibmCQM7RteCcwJxA3DFE6KryBExldyNeNRh68btP1fKk5/IeYtuwcsQy65qqU4ah8BeflVyIx3lW5KA4f2K/fxkyJ0YfoPoGMkJRrkxrm0gHE/qjRv/hmb1kmSOYst/7ywgAwa93WZwPUeFvgdRNoC9be6BsYcmXNck/7KjR4o9dQQ4xlbN0uIsUlKTkCpHICHPYo5QBQdrfFKZNDYekuvFp+saAzq27mCoMXGPSCSSX9exeyJURI8dnrQFnDJnTGfx9fYjXUpwyqu+y+wVCXausE3Huf8a56I9mrOkc99SIwY/ZKzMRUCMKBW7cq8PEkyAJuIDe/fKZ7UgbLg96rwA==;cfu87qjEsJOWHXHApDBYPA=="
 ---
 

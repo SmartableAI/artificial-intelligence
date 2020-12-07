@@ -56,19 +56,19 @@ related:
     quality: 51
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    publishedDateTime: 2020-12-03T14:23:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Purdue University
+      domain: purdue.edu
     quality: 38
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
+      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
+        width: 800
+        height: 400
         isCached: true
 
-secured: "AF8bxDilTzVn2a86EVu8Vjt8Y8irE2UnA3BTIHpdND3NEQ3WHYEkut0UrcCeMTRVhSAF1q7YtDMEGJ5VfziIkAkkGLBV5vK4m0vsnTTCVwi/HQSJWGFCAgWQjvYMkH/qPiBvzf+A/xOwR/1YYUnYnDnCVOHJPi1zKvAZNDV+cYIYyOWEah722bjb8W4kS9Nvd/JG0SWyy9CReJZYrhAQbDhUPZAud82A+nu2PoFFK2TyffBBqxc8uYlsGbaeDa885o4GnZO5pL8iBFFBXlObfIvrmYBPHNeiYrohVDchB0Tn93qPz4xCgzMbgwW6z5Cl5H9AxuEd3iyyKB67CQl+HwpS+8MzkbGya0ArhCjtwds=;f/DyQp8IMg9h0eFbqgVcQA=="
+secured: "DIWZAp7NA9t74UzkXQjWg9JsvszqhfnZvc6rgQvqLmO/Yma0VgnoVP7tUBVQXX5JncAVKud5ka5akhzXQivFZYRqsjJ6orQl6hi1asNab4S19o1pk1X7jfrL7CJRQBY14vqW2pj4L9KvqfOmMaOFdJIepHuop3X6GK6wppfYIBx+rhFDMFhSziTBrLd0HN8L7XssOYECISkugHGAHTGl6rVFHVCxfCWK0KU3JNmifqXCn6hqynrziqw2Pp2dk2X+1dXkBVEOY5nYZhoPc+nSUCBMyP7zMrp9I+v1griKYsPapms58l0fFaOmHOdZO6ZSoFdkuYJmxiSSa9w1Zi/dRWIkECWB0hnLu7PU47acoJGlxuMtQIb0B5/fRD2+W6O8B5405aLJPVzglZvVY5IuYHxgiW94wuf+IBTjOY5oFwir0t18SddIpNGJTI38zWqhZ1InQi6v8yTgnohN1DVpUyjfWKMvds6JmIxQsavmZWFskNmzc0hb1JXSFmqFZZLXq5vppGFY9RZlXqPpJMIAMg==;2AOmM8+hhMoT48X+an8QCg=="
 ---
 

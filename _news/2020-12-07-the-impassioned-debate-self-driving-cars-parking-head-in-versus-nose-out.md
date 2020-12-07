@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Keep your eyes on the road — even in a self-driving car"
-    excerpt: "The appeal of self-driving vehicles is the promise that drivers will be able to do other tasks on the road or simply enjoy the ride as automation technology takes the task of driving out of human hands."
-    publishedDateTime: 2020-12-02T14:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16036/keep-your-eyes-on-the-road-even-in-a-self-driving-car"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "JO/8kILdmr0GTlZcBscAItfwtXXdJqCi4JA/c5zDYFTNWzS+YY1lFaUTKZNfwdOkfpKlzpAGPFOycu/l+ib+sgzAXSShdTwm921QqKcP93SclMyzn/Gm5UHMBzqmcYZ7fag3iGZ0ygD43G+dkCRlnVkEBG20S/IKWgWo2bQTdHpPeurdYXHSRNWZ8R2nV3G77n3hWVMNvDZdhEiIzk0d/qoQwKKLpfOWmniE6WsGjBWb8HbNYVcPV4aEve1eW2R21XxFBP2duiWWiy9/fLnJ7GriEWPRiYL2iHbCgGs6mmO+L6kEmxII1fRvomu1q4zGJ0f5mdg5Uf7bxszZJCaSl7t0DbFcdORKCbiNwg8SrxkKpkBpIz+k/cSC9/N+n2G4cQRjIg6YFcU252/RvUY9WaYXUGzkK094ulDQ1l8ZinRviqgCc4rHrE5QUN3sPrh3fiUMOyI5iW2KGKOzpZqTtlhPARASylVKbhcqIVDXsbO2q4toVhnx3Lr+ShfZyI9FRIrMcxN2HudfYQS1cdc2Fw==;p0E+/IgeSS0Katp0odAPsw=="
 ---

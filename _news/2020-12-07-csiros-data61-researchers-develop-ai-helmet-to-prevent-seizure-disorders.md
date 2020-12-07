@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/csiros-data61-researchers-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/"
 type: article
 quality: 86
-heat: 88
+heat: 89
 published: true
 
 provider:

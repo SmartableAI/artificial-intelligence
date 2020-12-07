@@ -60,6 +60,17 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
+    excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
+    publishedDateTime: 2020-12-06T19:01:00Z
+    webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models – Jaweb"
     excerpt: "Following a dispute over some emails and a research paper Wednesday, AI ethics pioneer research scientist Timnit Gebru no longer works at Google. According to a draft copy of the unpublished paper obtained by VentureBeat,"
     publishedDateTime: 2020-12-04T06:55:00Z
@@ -77,6 +88,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EyN4yNpYCgjWReJUeFhg8wknS6e7aQ+R7PJrar37NjY3DiblDqr3NKw80P6iUYyfdR6uqz1k5t8FY7xUaQqPoUIlayhdMxTbYjocYFTgM5iS2jxFqiau7PasbyD3fnjIQVBQ7mfqCdiDUOMQGZZo07F9ih0B8wRR697o3jNY7H7qnMnUVAbGOTSNTDe1nLUvoUypk7yCtmyuOkuX9W3hnV0BDiwGx8Y9G11+tXyM2qZhr9VFOvSXLj/UqZnkuPkBvxWJgbm9SMnFuJwoH2lai1tWjF4WyxMMEJF5jnAd13Nwt6TJtVjc2gOFQXnwxRpIu8L2ATMI67GzAQ2K5eT/6OzA0b/XtCn+Ad5M9dpjyAU=;ptkqsJtI+PAqSKUPaWGszQ=="
+secured: "gQ1XOkyxBrSDPcQcQ7/aPE8Qy25EI4kUeuuVbNKlVwBNwruqk+WU1Q1AuDLUvveOTjbpkag3iVy8t+FyqpGJRkxMoKOgXip89pBH9M0GX0xb1JVjTn2oyL/Vte40fj3M0Sq4MuxW3dA3NykrHPn9VzYdJsMAAqCzEIftveblCZlpmstMl4hT0+hJSYxPO/MU6lU30CIHmYBA7LLG3w7yXbU25073DOGB/JCmKTiNPIcV3dFIizEc02hFsreb4o7f+5o4DbS59W675SK4vlBcBIoZkKyjgAJFdk7iIoB+YoDfFoHiawK+Tpy/cKb1SuFsGzXTt3RaB4RIoIwJb0dawE4xKm9fsf0HoC9tF2K/qNbDCCYEBzJAAkvQGKBSczR5VZFSRSdmjKq9NbQPqcDUr+cy3hPQ6RLRWC2FoOmcZAz6zMeVrzZrMfO2nsuSSWnc1ZfSWPYy+RwP8J8v+C26B0FnLFwesyppM1xFucrafhl61ZtDsxXNP0GKd4QfE4RTy/MFbt6hMgau6z9RrbDsrQ==;TInwZCPvySYY+3VLRcIqVA=="
 ---
 

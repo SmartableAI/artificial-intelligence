@@ -28,22 +28,6 @@ images:
     height: 209
     isCached: true
 
-related:
-  - title: "Wolters Kluwer Partners with Clifford Chance Paris to Host Artificial Intelligence and International Arbitration Webinar"
-    excerpt: "Panelists from Wolters Kluwer Legal & Regulatory U.S., Google and Clifford Chance Paris will participate in an exciting digital discussion"
-    publishedDateTime: 2020-12-02T14:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/wolters-kluwer-partners-with-clifford-chance-paris-to-host-artificial-intelligence-and-international-arbitration-webinar-301183862.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1347103/Webinar_WK_Clifford.jpg?p=facebook"
-        width: 905
-        height: 474
-        isCached: true
-
 secured: "pQjdgfwDWX3+NonYkAuJ/qRjvTDGzQHv+tyDFWlRrqd9Y/t4MMf8STvW9VbmdEbv+eMkcV8jKDU4vqAaOGypwWdci4x3+jsUTfDdDC9o91Z0INtCsoDWFmCREvc8dUV6sVBij1E9vIxmAzcLNKAeKnGQ96nO4CzchKQcJQlETmHF6X9dnhwDL4JMARCkFvmP5vAOYzO404OgpBCcXlfbtjoEpD4EoCHgs24F/DC3utOgOZ2IiXAI5KBb5Pv5ovDQFTpYyyNB6V/CVDG82hdl8xAKlY/PEIPJG8G527/2vAb6MvgxHqcHXA1hfjCjLfORZModM+c+MWDCz/wxltwnb4brmbWc0FUZxFklop4xwFw=;muQgdDuBwexYc9C1jHWqhw=="
 ---
 

@@ -75,6 +75,17 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
+    excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
+    publishedDateTime: 2020-12-06T19:01:00Z
+    webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+    ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
 
 secured: "sBjyIRUmYXq0+v/lIs7VvAKpQpTbgWFaxNg6TQDjlEKPlndqTfo7Hr0C56VoKJ/BNoTQXieTQbRFMhiLHduV8730oh1Mw3W6wEeS7xeXiTdEyeqghb2yNVTIZuZWhtTcRH//Zq570UJypIHNUEosJZCCcdnV3iUXZx6FkyDEof+eRkEKIeJOzZKXstMoCVhNuYBHmOxRcRgqJ5bFmT6loUuux2JZTRGgvMZaGNehGSSI7GWNaHikEk26QKCQQ8c2wXBDE9z0UEJKjwYRS0pIsk/P1ZmHxCFE72cMA8Q+QIMpkpfjpJwBa6AiPJLLcB6YBVlRwkks/NlFAgaIkyTjSl+/XhnXFsyFO1K86aMevGbrdKM7OV+3MT/HCfppZQ8kIaCH0eNwj/jgaEFWdgDkjdL/s2ke1zZxRymMeOyMDn0cXsNWJI5OUhIF7L7wj4jmByCbfwIvlO5WVYaG/5YKX+TFy+wwy4TknlNx62iu7Ym0+unhAl7MRfjIoYCVwnvcYMsXj7PQfN012hM2djA3yw==;8Kja0C6ogRP23xYwrQ6eDg=="
 ---
