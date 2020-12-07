@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Intel believes confidential computing will boost AI and machine learning"
-    excerpt: "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning."
-    publishedDateTime: 2020-12-02T17:08:00Z
-    webUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
+  - title: "Intel’s ControlFlag taps AI to automatically detect errors in code"
+    excerpt: "Intel's new AI-powered ControlFlag tool can automatically detect code errors that humans miss, according to the company."
+    publishedDateTime: 2020-12-03T20:06:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 103
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
@@ -61,33 +61,19 @@ related:
         width: 320
         height: 480
         isCached: true
-  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
-    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
-    publishedDateTime: 2020-12-03T13:42:00Z
-    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
+  - title: "ControlFlag: Machine programming research tool detects bugs in code"
+    excerpt: "ControlFlag is a machine programming research system. It can detect errors in code, and automate testing, monitoring and debugging."
+    publishedDateTime: 2020-12-04T06:24:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/04/controlflag-detects-bugs-in-code/"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 39
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 24
     images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
-        width: 740
-        height: 409
-        isCached: true
-  - title: "Avast and Borsetta Join Intel in Launching the Private AI Collaborative Research Institute"
-    excerpt: "The Private AI Institute was originally established by Intel’s University Research & Collaboration Office (URC), which then expanded the collaborative potential of the Institute by inviting Avast and Borsetta to join forces."
-    publishedDateTime: 2020-12-03T20:20:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-computer-and-data-security-products-and-services-06cd739978dc7d450704ddd2ab99d644"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/10175238/intel-inside-blue2.jpg"
+        width: 1280
+        height: 692
         isCached: true
 
 secured: "Jkypu7kU4+327aV72uQT0mrYfZsvWzO+GdKPam5xPF4CWawrHSTt0BCqDFdQ5SgenUmqJnagrtzlbhIhRAMMz6o337ODC0U9cqjMqtcobTq7kjHJaBnpoFz5Z7XTO9pecR7uQ0xMUgAs4dapwt/0uGRjprkiND7Qs35rJiV+CJOKRcxmqnLvSm3c3DuOEZZMax9lYqqwlE50QSJTuJB000foXkMwtYqWw7EdwXN6NSjcyMabyLRWrqEN/s5gu9tuDtVqKUS9SA8Xl151V+zh7kK2plJqqhS3a4gWG5oCvoPtv/aG8u+tAWAX7L4Hcc+RzbWZX03K8cQVcmup6Oz9X4aZQmgaziX5N0r/XaX6JMc=;WIAuQm3oZ+D5eBWhUbpHdg=="

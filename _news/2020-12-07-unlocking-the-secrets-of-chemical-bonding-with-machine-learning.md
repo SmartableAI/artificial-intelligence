@@ -23,6 +23,17 @@ topics:
   - AI
 
 related:
+  - title: "Medical Image Processing Deep Learning Market, 2030"
+    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-04T11:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Unlocking the secrets of chemical bonding with machine learning"
     excerpt: "A new machine learning approach offers important insights into catalysis, a fundamental process that makes it possible to reduce the emission of toxic exhaust gases or produce essential materials like fabric."
     publishedDateTime: 2020-12-04T17:35:00Z

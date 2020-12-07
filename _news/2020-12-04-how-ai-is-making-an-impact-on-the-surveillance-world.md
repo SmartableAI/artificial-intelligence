@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips In today’s uncertain economic environment tech stocks (specifically AI"
-    publishedDateTime: 2020-12-02T17:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-that-are-helping-the-world-make-smarter-decisions-1029859407"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The 6 Challenges of Implementing AI in Manufacturing"
     excerpt: "AI Automation and AutoML 2.0 are critical technologies that can address this Skills Gap and accelerate digital transformation in manufacturing. 2. Technology infrastructure and interoperability. Manufacturing sites often have a wide variety of machines ..."
     publishedDateTime: 2020-12-03T01:45:00Z
@@ -52,6 +43,20 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/12/dreamstime127457438_1540.5fc841b6af54f.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 623
+        isCached: true
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "bLHnBCi4ANSK9R8cEX0iyKYPI399nRjE3w3EATff7Yaw4Jx3XisXGIyvTH/n3ITgOc4ykARZt2Bo3o6wmwUf5rrgBjLHNciUZvscWmejwrC92I53WrszQl39I1ckD0FevF1JTQR5eFtpG33Hl9CfuTWMcisEkTRgJLx/YIy+DwChNPomZpAoDZ7IwKxBClwZwYgujKcQjW8DODRqznIaTggPm5ROW6RKShrIhgwnSJuka2jTdS/MvLaT4BBS/5oKQzGQfLBMmb6MFacz7fW22fLGLFTpkfyrWq6yNY85PXSOct8SE9iPzoQOt7/CZq6RhHS0uZhLsd6+yE9WRS9CNo1sYkFS8jcVbiPWVmoePwBGwcDcJkZ0zMbfZ8K1BFBmmiUu6ClXq9OhmNMLcLoAONCqtp003Z9gTXyDufgT+6YkdIV9WxCCkxmD62XBBrW555ENQ1LZ7U0xIDdF+L/lII7wn37sMXDXcdU35JvqFcY1zKaFlOoksu20CIzjQn6HYNQ9lYVUgIsPgyz/fKOdVA==;p+DMxgGxN3Wi4zn/2NnIog=="

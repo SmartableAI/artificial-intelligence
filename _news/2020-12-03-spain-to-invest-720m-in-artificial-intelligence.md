@@ -9,7 +9,7 @@ ampWebUrl: "https://turkishpress.com/spain-to-invest-720m-in-artificial-intellig
 cdnAmpWebUrl: "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 864
     height: 486
     isCached: true
-
-related:
-  - title: "Spain To Invest 600 Mn Euros In Artificial Intelligence"
-    excerpt: "Spain is to invest 600 million euros (725 million dollars) in developing artificial intelligence over the next two years as part of plans to transform its national economy, the premier said Wednesday."
-    publishedDateTime: 2020-12-02T17:44:00Z
-    webUrl: "https://www.barrons.com/news/spain-to-invest-600-mn-euros-in-artificial-intelligence-01606921510"
-    ampWebUrl: "https://www.barrons.com/amp/news/spain-to-invest-600-mn-euros-in-artificial-intelligence-01606921510"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spain-to-invest-600-mn-euros-in-artificial-intelligence-01606921510"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 52
 
 secured: "nHczaRwr17WnIpouI2nUhwk/0CaZiTCASBDcXvOJhykjGlfDfDhu78QaXM8FK4gH2k6qtXFhSOocS5Qj8evu4H+qUq81IC3j6WqlS5FvWdjkXaH/HaQhBKfgL0dIc+yPGL78ir3ujvg5pdfZv0AKUtwyPkBQg4/YiSeceMM5uaZjnZ9KcCigOq48Zu0Z7XfP4hE3Dhdl16N8+02Sf0PFIjy/LUHwY5ag+foS67E7zoKK1tYqu2JP16at7npqaWm+OtXDCLwcLbLSAmS7t+90R2+1xKtfEOHmE8xe4N9RAzOvkMvDt0NPfJ6zmexvefM9N9PqJ8HsYCTMRTOOsIDMnpFZjGb/LrVPEpYndRNEf710C4wjuQ7v7W4jH6evoaPWOAh+2WFnSvopeNwU0fzeLS54YPxzK03xAe5Wq8E1eFvvqVkQfpRxcbPy69Qc1kzGUVPMUx/vW5temKpqrpalag3Tq7vwHfRRB4ucFOte2cBGoBj3aR8+QWA+G6Os8HBlW6ca0M1ui/8Dlg83ghQNHg==;HTCjbDG9/eUOuT6+qB//3A=="
 ---

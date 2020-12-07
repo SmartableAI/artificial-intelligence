@@ -25,49 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
-    excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
-    publishedDateTime: 2020-12-05T14:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+  - title: "When newsrooms collaborate with AI"
+    excerpt: "Two years ago, the Google News Initiative partnered with the London School of Economics and Political Science to launch JournalismAI, a global effort to foster media literacy in newsrooms through research, training and experimentation.  Since then, more than 62 thousand journalists have taken Introduction"
+    publishedDateTime: 2020-12-07T11:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 77
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "AI, machine learning playing a key role in fight against COVID, say experts"
-    excerpt: "At KnowDis Machine Learning Day, experts say AI models could quickly narrow down the list of candidate drug molecules, which might possibly bind to the protein, modify its behaviour, and provide therapeutic benefit."
-    publishedDateTime: 2020-12-07T04:30:00Z
-    webUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid"
-    ampWebUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 72
-    images:
-      - url: "https://images.yourstory.com/cs/5/803961002d6d11e9aa979329348d4c3e/FI-1585834113618.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
-    excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
-    publishedDateTime: 2020-12-05T14:30:00Z
-    webUrl: "https://www.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP.html"
-    ampWebUrl: "https://m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
 
 secured: "1Qxz+pv9P8x/2Qfkh3OoeFPolNq5pTOxNWIvQ5E8hfUI03keS7ej7tN5SIqh5JuCA1usc4Xh0zlL/Fa++lrZBg9lGQqXYu+/UMRJ/219J8+3+XEox1XUVEs3/jfMhuCrMENh4lCX6Ov+FfXeC7Q4i1E8bax5aQ+p6IJyLGCx0rX1MqCDjhUdPI3juvdJAwCvEC7b85ZFDFvfMs5QX4DlRl7uw53wsLsYizxQvByX6QZPSTrQUzRlO4eYezXQSblLOaESbvdqmB5lz9ta1tmo+hMUA6DCtHI95mTAzEIj7mE5Z5q8zBlDhZxJYMBZQFvTS/V44Giipjy15jFkR0D2dTECk7uIScN/NmXQ7x+X8TM1E8zoxXNfSiuuERBlKqTCNYdWAN2+swqtoYGre/rSt53XCe63fnpLvXqf4TTKq/3DvAsRC1zkxu7lhETJ4od0+yjtBUvr2pVPrrRiKdxh5j+nZbvem01gVnObKx9KEcoZalrRupuIh+qds6h8jk78fMy/+OuOT4KQ+/G9Y9GprQ==;7t+bWtT2DRQ6CpOqzYweSQ=="
 ---

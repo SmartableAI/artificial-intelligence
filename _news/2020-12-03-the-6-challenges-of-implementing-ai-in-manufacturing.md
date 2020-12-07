@@ -41,15 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips In today’s uncertain economic environment tech stocks (specifically AI"
-    publishedDateTime: 2020-12-02T17:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-ai-stocks-that-are-helping-the-world-make-smarter-decisions-1029859407"
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "S/i3bXXp0+hVwyJTEc+fIzknRu+9DXbkcON+RfU9Wn3OXaZvrQ8UE15kICqUMrGvw2BH9mrTpvs0jeQ7kRfctIHcRZ+jikCDxHsPmOLPDa05H+LQQu0jz55xRoAVPm/K2/SnRKjdGXNxg/JeitwkQwz+754TGbI06vF6AhoYyKeIWoA1OKFI/TjwSIt/Y3Zokxb+IZ0D3gDqZ610hkljksAXP8gHdAOk0eW3IdNJvOK40HlSFe5EMQMsIXUttWpfAkwMd7FV0Hu6rhWlYw+oma28hwYDCrpenckpN0zHg8//q+n5QQfuwCA+B86eOFzGdvj4bdYIvKHHkHqjEQZGCvEjKOD5lU1IQzujFWz7GGg=;z0GE9OOQCSs1Hs7s3QklDw=="
 ---

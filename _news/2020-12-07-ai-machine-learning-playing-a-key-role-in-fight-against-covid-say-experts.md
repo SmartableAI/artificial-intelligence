@@ -54,20 +54,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 51
-  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
-    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T14:23:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 38
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/Gaurav_Chopra_portraitOG.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "DIWZAp7NA9t74UzkXQjWg9JsvszqhfnZvc6rgQvqLmO/Yma0VgnoVP7tUBVQXX5JncAVKud5ka5akhzXQivFZYRqsjJ6orQl6hi1asNab4S19o1pk1X7jfrL7CJRQBY14vqW2pj4L9KvqfOmMaOFdJIepHuop3X6GK6wppfYIBx+rhFDMFhSziTBrLd0HN8L7XssOYECISkugHGAHTGl6rVFHVCxfCWK0KU3JNmifqXCn6hqynrziqw2Pp2dk2X+1dXkBVEOY5nYZhoPc+nSUCBMyP7zMrp9I+v1griKYsPapms58l0fFaOmHOdZO6ZSoFdkuYJmxiSSa9w1Zi/dRWIkECWB0hnLu7PU47acoJGlxuMtQIb0B5/fRD2+W6O8B5405aLJPVzglZvVY5IuYHxgiW94wuf+IBTjOY5oFwir0t18SddIpNGJTI38zWqhZ1InQi6v8yTgnohN1DVpUyjfWKMvds6JmIxQsavmZWFskNmzc0hb1JXSFmqFZZLXq5vppGFY9RZlXqPpJMIAMg==;2AOmM8+hhMoT48X+an8QCg=="
 ---

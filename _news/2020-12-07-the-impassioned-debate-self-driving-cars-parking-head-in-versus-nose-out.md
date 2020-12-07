@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "Self-driving trucking company hiring in Tucson"
+    excerpt: "The company designs and tests self-driving trucks in Tucson. \"We need CDL drivers, we need testing engineers, we also need mechanical engineers and techs and HR folks.\" That's not counting the more than 100 jobs they're adding."
+    publishedDateTime: 2020-12-07T09:14:00Z
+    webUrl: "https://www.kgun9.com/rebound/hiring-during-coronavirus/self-driving-trucking-company-hiring-in-tucson"
+    type: article
+    provider:
+      name: KGUN 9
+      domain: kgun9.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/5b4462b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F8fd%2Ff0fe4276ab8344079f404f1ac9c377b7%2F8fd1778b75314c8099ff1086f326205e%2Fposter_48756ffaf2564f11bda0af0eaa71dfae.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JO/8kILdmr0GTlZcBscAItfwtXXdJqCi4JA/c5zDYFTNWzS+YY1lFaUTKZNfwdOkfpKlzpAGPFOycu/l+ib+sgzAXSShdTwm921QqKcP93SclMyzn/Gm5UHMBzqmcYZ7fag3iGZ0ygD43G+dkCRlnVkEBG20S/IKWgWo2bQTdHpPeurdYXHSRNWZ8R2nV3G77n3hWVMNvDZdhEiIzk0d/qoQwKKLpfOWmniE6WsGjBWb8HbNYVcPV4aEve1eW2R21XxFBP2duiWWiy9/fLnJ7GriEWPRiYL2iHbCgGs6mmO+L6kEmxII1fRvomu1q4zGJ0f5mdg5Uf7bxszZJCaSl7t0DbFcdORKCbiNwg8SrxkKpkBpIz+k/cSC9/N+n2G4cQRjIg6YFcU252/RvUY9WaYXUGzkK094ulDQ1l8ZinRviqgCc4rHrE5QUN3sPrh3fiUMOyI5iW2KGKOzpZqTtlhPARASylVKbhcqIVDXsbO2q4toVhnx3Lr+ShfZyI9FRIrMcxN2HudfYQS1cdc2Fw==;p0E+/IgeSS0Katp0odAPsw=="
 ---

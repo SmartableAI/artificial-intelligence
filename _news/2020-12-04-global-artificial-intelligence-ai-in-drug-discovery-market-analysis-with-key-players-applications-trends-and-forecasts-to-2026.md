@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market 2020: Industry Demands, Top Key Players, Industry Analysis & Forecast By 2026"
+    excerpt: "Global “Face Recognition Device Market” report 2020 is an overview of the market is provided with prime focus on"
+    publishedDateTime: 2020-12-03T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2020-industry-demands-top-key-players-industry-analysis-forecast-by-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Market Report 2020 Global Industry Size, Segment by Key Companies, Types & Applications and Forecast to 2026"
     excerpt: "The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe,"
     publishedDateTime: 2020-12-03T06:58:00Z
@@ -139,20 +153,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
-    excerpt: "The “Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2020-12-02T17:36:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-products-and-services-847207b231414f4ab4193052ac1212df"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "1ViGljwTbInk2tH2uBF2dbu9DQWjgnvwEX//2G34GGPxTbb8bVIxxVjwn74NBrHpI86ZFeMgR6hWcgh48RMcnSEmyZWIMUKIx+4YnMPA6oKbi8zUyGpeBpGaegnadc2a+WU0nxZ+UAoIHxCBppyrlAP19WaMTQJ7BsIClcj7pPV+igosgoB28P3GWL9o/iNmw9GO8r+KzDjgAlxRQUDV/gV1nh3a9RMxNXYEJcQiOxAfhIs3WOVFUbKFtsj1mCrRgFeisg6J3ed3pX5fmCEldzuh4s+sTSz3DqeZHVhg0T1QIFswc1RsUEgQMLmviczjpXw1BbCxk/0Ikl2gvVSV24YEx7SvWK/T8f/CdcAjBWI=;DYOkNaEMra1kDnc/fg7+0w=="

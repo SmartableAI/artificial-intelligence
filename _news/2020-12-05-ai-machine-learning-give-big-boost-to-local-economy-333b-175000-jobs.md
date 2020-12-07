@@ -1,13 +1,13 @@
 ---
 category: news
-title: "AI, Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
+title: "A.I., Machine Learning Give Big Boost to Local Economy – $33.3B, 175,000 Jobs"
 excerpt: "San Diego industries that embrace artificial intelligence generate an estimated $33.3 billion in annual gross regional product, according to a new study."
 publishedDateTime: 2020-12-04T17:00:00Z
-originalUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
-webUrl: "https://timesofsandiego.com/tech/2020/12/04/ai-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+originalUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
+webUrl: "https://timesofsandiego.com/tech/2020/12/04/a-i-machine-learning-technologies-a-33-3b-power-in-regional-economy/"
 type: article
-quality: 54
-heat: 54
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "nGIvPMWLRcZ3ZeJQvuWk8EFaYmQ25OynQf7lYzGhW2WO2F8H2j3wz7ZAR4ZVQj6kSdaPGeeeoysv9bz7SB/lCmkduQs6cnp0e9Mj1HG5JZzhwlCJQLNYYCi6rAHpgf1VWedVQwdlGKovx4hKSNO41sgEyFoJug/kq4V0nz0px3ZuJdI6BBd7BoFhwV/uW3k91vsDZSCaD5tcgS3yO4b9PtE7Ofk/4EojlOEA4GG6AeZTF5TsZszhzLRM+0cQ51euPUpr0RMXKm/Fze6ZtFHg6YbtGc6qhbnItM9HyYDREtiI7ticU0lXXTTEwFB6bkA8L9hgFOFtvHxXgH894mUBMHRaZYSlZZKTXWjTOQ0eB6tM8K4AIPfvHL5SY6k8lML7tlIYGNF9PLZDPzJyGsmzHz6fLWA1SH7U7QeZ5K1QKqFjC41edt3Vw4vUxMA6HDy/H6rzWT4if0xY/+xWFvfa6IGhOBTRcQI1gZaw9kqe/bCA2hJdQwqQ6/VRdMuyxz5CMPnNk77rdyUlWyOToI+g6Q==;cD7nCXSP4w+HvlBY100c6w=="
+secured: "PRQpgyh8IHGZbuIiAlt0fBzxgJoxEPrcQtEgx9YqyI2fuq0/eoDqvthSriMHZtaAepeh5ripKqjNNwyOs7tnuV+LNyFd3+h75uK2eitqFZC0FCU2WgFPsPqLhwhEJqtA3EMt1vNsygDK+tYEOX412h1RHPkuG1i4M6JWHu4/ip/15PFTBZDUnrD8zaXv6/fE8AIajCmn8cLjqQf6W9kfQB+78bmTnFaQxct93mQN0vwdRGIxeeBM5NOb96tdkB6HkBXzMDPrLwxXLHiD9+099JxfVQYYkkGEP0comYtbhEcREIsfUG4kyhlt1eh6Fjak+gA0nYDCmyQztUOz2M46J5yDv3d9QAWXK0HDDduD78M=;csdJV2BXvaIBJ5+CROMl6g=="
 ---
 

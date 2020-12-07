@@ -7,8 +7,8 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-con
 webUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-conversational-ai-in-banking/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: IBS
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
+    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
+    publishedDateTime: 2020-12-03T13:42:00Z
+    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
+        width: 740
+        height: 409
+        isCached: true
   - title: "Prediction 2021: AI Policies that Organisations should Lookout For"
     excerpt: "Florian Douetteau, CEO and Co-founder of Dataiku predicts that collecting diverse datasets, narrowing the business and analytics gap, building inclusive future and using MLOps will be on trend in 2021."
     publishedDateTime: 2020-12-04T06:07:00Z

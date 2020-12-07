@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market 2020: Industry Demands, Top Key Players, Industry Analysis & Forecast By 2026"
+    excerpt: "Global “Face Recognition Device Market” report 2020 is an overview of the market is provided with prime focus on"
+    publishedDateTime: 2020-12-03T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2020-industry-demands-top-key-players-industry-analysis-forecast-by-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
     excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
     publishedDateTime: 2020-12-03T05:31:00Z
@@ -140,20 +154,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
-    excerpt: "The “Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2020-12-02T17:36:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-products-and-services-847207b231414f4ab4193052ac1212df"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "SRMIexXHrXff7HS976ChYzbW9IgGccUsgOFtkkQ4m2CNm6uUWcx2Nz6gkrqfQKNbkm0H9NgAwYnlvcJQigVHyK/aENS2Ds3ccELZDdUZZ4Z/rdLQMbrgknrkNDWdZhY9+eDyl20WMzrKFcPu1GpG3KE1M+C/F6QBfoa0UEApS/XdaDpjZh//+ptpdayl4nTn0UHX2bXzdec0eyYUu5FM4fJk69UOFRI7Y39ENjw1abzGdGQ/72MTvekH1bu3sVYetBkPGyYAbiXswt5ntkXPW6UQEfmKSVU1RCXrsICq9T0PC75vUcG23Szulq8FsqAIg1diE/lkfyCqazAebixlLsR0c23NTh9SeBt2n37ltfE=;HBUfnZ4rnstZ2r9ybucchw=="

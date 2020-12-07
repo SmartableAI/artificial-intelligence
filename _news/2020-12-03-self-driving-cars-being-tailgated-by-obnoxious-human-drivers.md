@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbf2d4ca741861df005a691%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-driving trucking company hiring in Tucson"
+    excerpt: "The company designs and tests self-driving trucks in Tucson. \"We need CDL drivers, we need testing engineers, we also need mechanical engineers and techs and HR folks.\" That's not counting the more than 100 jobs they're adding."
+    publishedDateTime: 2020-12-07T09:14:00Z
+    webUrl: "https://www.kgun9.com/rebound/hiring-during-coronavirus/self-driving-trucking-company-hiring-in-tucson"
+    type: article
+    provider:
+      name: KGUN 9
+      domain: kgun9.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/5b4462b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F8fd%2Ff0fe4276ab8344079f404f1ac9c377b7%2F8fd1778b75314c8099ff1086f326205e%2Fposter_48756ffaf2564f11bda0af0eaa71dfae.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nr4dzttSa7SspOVQHbwGVqFFmxCN92cbTi0ums0JYJmpJSGfI5JI0QdMTrD3v+DSPLTs9yKciimTSTU0q1vjXFfxxXwDfF3dLjlwDWt4uhmhhbExukSjsl2AdR4LB041AyR67fLIXRZRXl5uwYzYj8nHOp+Zkc427+4NC0h2J7b3Qkt0wJENufQAARjbO4Xm+kX4F0NV+zXLosTW5nAa34foEn03AVqxrX4dpYDIUiD4fiZWytXR+I9ROV6kZeT2CXVlBEPLgqnDfRiCgZICyGaCA+HS9WpsFgJUslDlOmDZOIiBws48qQorVSEXUfyvmHy5r+UDVyOfj9A2Y/MMOC39qLTM+hDC8CRiNGSxAwlbs1Jo+djmX/VzFRwVbvXNebOPtAjbMYjXrfU84nsBhKJKutxIuNqpcuUglGOZeVTP6cUg1sVGdlEqC9/hwjp8z/uUaOz+Fpb6J0z7gbQbiqXAXVfTcywV1p4kuK7vJXA5ois8QXqyuzLMTSP5WGaKbLLqTFDtDxi5d3/lxQx8Dg==;Ic+Lz6u5v9n4Shc9zcbwVw=="
