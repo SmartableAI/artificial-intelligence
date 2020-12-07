@@ -96,20 +96,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
-    publishedDateTime: 2020-12-03T04:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Canadian organizations are breaking down data silos with the launch of Azure Synapse and Azure Purview"
     excerpt: "Post by Henrik Gütle, General Manager, Microsoft Azure  About five years ago, as enterprises were transitioning to the cloud on mass to reap the benefits of flexible, large-scale computing and data storage,"
     publishedDateTime: 2020-12-03T16:29:00Z

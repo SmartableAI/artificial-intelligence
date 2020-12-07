@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "VU Security unveils voice and face biometrics for secure video conferencing"
+    excerpt: "VU Security has launched VU Video Call Identity, a biometrics-based authentication solution for secure and frictionless teleconference meetings. The company said in a news release that the"
+    publishedDateTime: 2020-12-07T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202012/vu-security-unveils-voice-and-face-biometrics-for-secure-video-conferencing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/07150533/remote-biometric-authentication-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Startup wants to give biometric face scrapers digital dead ends to chase"
     excerpt: "A small shop of AI coders and photographers have a new use for their GAN-made portfolio of faces. The company says its Anonymizer app creates red herrings to throw face scrapers off a"
     publishedDateTime: 2020-12-04T17:02:00Z

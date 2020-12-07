@@ -1,27 +1,29 @@
 ---
 category: news
 title: "RETINA-AI Health, Inc. Welcomes Nwamaka Imasogie as Chief Product Officer"
-excerpt: "AI Health, Inc. as Chief Product Officer. She joins from Microsoft's Healthcare AI and Research team where she was Principal Software Engineer. Nwamaka has a passion for healthcare and is driven to build technology that will save lives."
-publishedDateTime: 2020-12-07T11:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer-1029868649"
-webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer-1029868649"
+excerpt: "AI Health, Inc. as Chief Product Officer. She joins from Microsoft's Healthcare AI and Research team where she was Principal"
+publishedDateTime: 2020-12-07T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer/article_f6e8dd5f-577a-5de0-af83-a81f7c5cd21c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer/article_f6e8dd5f-577a-5de0-af83-a81f7c5cd21c.html"
 type: article
-quality: 48
-heat: 48
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "F31xmw7JPxM7ZXex/i3UYeyb2GcR7Eh1g7Y5H36CTkJAunA/845LhZqq82RWVY5iKgl+1thd2fS+xjnG6Pml2Sg8x8dI4SBkoygIPfwdtLG4Qd6s4vY5G9rb2QCqjTOnZZ2ZVjLUdgewriJvo/IkbtGX32j9VDkdP1A24+xYWxFHBGDKhvx4J/PZOKRyF6rnvG3xGgQr8HbXUGHqAZR6Lc2T8vrUuOVu8JPjzaVcOWfMsNqoqtKE4WyWTgTxxn1bHX9fWUlNB1uzYHInwRJ5vFLxk1n1NDTzkNkKtB4AUZQ3dgp/rPMz29auaW3YillbbNogmo9k9ceIfbwyj1UuUwptsZbFNEtjS0KtMucH+F0=;64xMdXjyMqpxlvl6H4GpYw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/cb/2cb19d54-5fbb-5b72-9878-baf119cf37ff/5fce12b2d0bc8.image.jpg"
+    width: 400
+    height: 266
+    isCached: true
+
+secured: "2ieEfOXtqCiclwTiHtSbHK7S7cv2K3k34bCkDPWBaajsTWw3aiQbSFw7JO/jdDqF6X93wiDp64cPuW+SnHCmsmmbG+4Zb61cBwGdYuLyK0A2Qppuh2M4V8gCeZ6wJjc/zFi924zj1Dmpo+rZwAeRP2bdvGHKKqZPl8svqYPrkXVEiuAI7cMBL5hbSEF6/6fK6hxyUn9Wg1N8PEg4l8n2I1nq+LWIv/LGBoD/AHZYMQzeyFrCwlZcbuE7afPqELcLCpLUZQrAC06FLtAlmRMElo85FV3LDWqxAbtXCiKRhHciYHN7xT9LuYIWNxofATA5iERiVRkLC+PPwuRwhAwke1tra2WcM6NTus4RgnyHYNI=;0CiBJNYJwy98snm8BcMkvg=="
 ---
 

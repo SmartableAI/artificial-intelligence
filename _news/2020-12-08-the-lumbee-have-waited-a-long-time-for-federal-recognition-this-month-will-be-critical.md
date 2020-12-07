@@ -3,18 +3,18 @@ category: news
 title: "The Lumbee have waited a long time for federal recognition. This month will be critical."
 excerpt: "The Lumbee Tribe of North Carolina has been seeking federal recognition for more than 100 years. Could Congress include recognition among must-pass legislation this month?"
 publishedDateTime: 2020-12-07T16:15:00Z
-originalUrl: "https://www.heraldsun.com/news/politics-government/article247604590.html"
-webUrl: "https://www.heraldsun.com/news/politics-government/article247604590.html"
-ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article247604590.html"
-cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article247604590.html"
+originalUrl: "https://www.mcclatchydc.com/news/politics-government/article247604590.html"
+webUrl: "https://www.mcclatchydc.com/news/politics-government/article247604590.html"
+ampWebUrl: "https://amp.mcclatchydc.com/news/politics-government/article247604590.html"
+cdnAmpWebUrl: "https://amp-mcclatchydc-com.cdn.ampproject.org/c/s/amp.mcclatchydc.com/news/politics-government/article247604590.html"
 type: article
 quality: 50
 heat: 60
 published: false
 
 provider:
-  name: The Herald-Sun
-  domain: heraldsun.com
+  name: McClatchyDC
+  domain: mcclatchydc.com
 
 topics:
   - Natural Language Processing
@@ -44,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "83WWk70MLv8GeqybdvyrPNH1D+pNRQfjanpdgmP+cz2nwTFBO/TGhGCKrKTNz0P5IKgCCvxiJcSUDhZD1nx9QgXsgiisQAZiT2ngeZQPma38QL0KASVymvgRZ9nicZfOXK+boXhteiVU13266HyTlbhz2tKLZZnlKWGPkS/I0oNW7nW2GT2E9aJsc4VA9Qm/lcLzsiiqP2R7ZN59G7zRytvjHuKxeuD+Xs/BJ5UeeooIrZrq8CwFnTN2LwoAa+9vfw9fFTMvS4SRclJfcisrsxFYcQmacRzs3Q4CpUwfm6lvVYSIUrM+Aqi1W9LhDFe8WKNsYxJxZH9y1TuVGsj0Xt3zTpNIze6jOBACepeUW1k=;WTVq1xiaPBsodOu5Z+CunQ=="
+secured: "bL5wiADQuLP+YbRKSLl2vMudFNrFIVFt0azv2HEzXYHfcF3IpOAYug9ioB7HQfb4oKpOlEHQNNAC/aoIN2c8MT4zAUKqEIfg8JtFSA3JfY2PUkoq0aTe/FuZxiFG5ic4rYZ6InaS6V7zlR6F5r83ZkOgjEBmst3FpK8flWlI6QMJ1LztF/BTpxICKiLWiq18o3SU2BfimO76qMzPpq+/aBx3Uw7qwxJaAwjmvooXeq7Zi6UTtDoU9rX1VUCKaUNTazVpFoHc3ObfC9HyHoe+cJaMa2o2hyP4VRJBgDKBp+Z8HysFVfiBOhY2b0zYLpypwgBV7kl+/BsfbkoA6WIRUHgul6tI0FpZWVf6T7b7y8Y=;AlObuDf7XssB9FS6lzd4PQ=="
 ---
 

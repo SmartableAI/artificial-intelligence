@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -84,6 +84,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce4dc8d145b3d32f9750bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D382%26cropY2%3D3622"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Artificial-Intelligence Software Company C3.ai Raised Its Expected IPO Price Range"
+    excerpt: "The provider of artificial-intelligence software now expects to sell an offering of 15.5 million shares at between $36 and $38 a share."
+    publishedDateTime: 2020-12-07T19:11:00Z
+    webUrl: "https://www.barrons.com/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 51
+    images:
+      - url: "https://images.barrons.com/im-269385/social"
+        width: 1279
+        height: 640
         isCached: true
 
 secured: "yMZFiQ6EcOjq+hPB+cmpCJuN+d/pMFF8H4iwevPN4h396YLYqeTrX+ML9bqWvUwzzH8FLNjdAShb6dMK+VB18CmD3fmgOeWkvJ9grZYfaSVR+TMbL08bAGIzZk53+eBhltD3FVO07bAFJrU3WsdJd3xrQigWIfXpcxZnDF839yOOR6SrspwqzeCela+EJTKtuL/4/pb9ekW6FeFamxlQErYwH33M7edoV3m8wCctPhWLMwEX9y26Hfm2JXkTfjlTwLhkpxuJWIbgF9tZMzZkR/BSO99drmcNEKDyCPMltgbWzdkf2rbNtMQQDGvrranw4wndPT6yPZYCJUVzaQqIxhq597eCCVMV/nhmQYpAuQc=;9bgbXzlEaI7TEDyEMJXPdQ=="

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Abaxx Technologies: Canadian Fintech Looking To Disrupt The Global Commodity Supply Chain"
+    excerpt: "Abaxx Technologies will officially be listed on a Canadian exchange on December 15th after a successful RTO transaction with."
+    publishedDateTime: 2020-12-07T19:02:00Z
+    webUrl: "https://seekingalpha.com/article/4393406-abaxx-technologies-canadian-fintech-looking-to-disrupt-global-commodity-supply-chain"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 10
   - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
     excerpt: "Socure , the leader in Day Zero identity verification, today announced that it has won the “ Best New Technology Introduced over the Last 12 months – Data and Data Services ” for its DocV and Intelligent KYC offerings,"
     publishedDateTime: 2020-12-04T15:52:00Z

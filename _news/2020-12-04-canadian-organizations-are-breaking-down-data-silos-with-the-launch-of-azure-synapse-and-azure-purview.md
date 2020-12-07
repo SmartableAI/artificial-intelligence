@@ -110,20 +110,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
-    publishedDateTime: 2020-12-03T04:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
     excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
     publishedDateTime: 2020-12-04T18:46:00Z

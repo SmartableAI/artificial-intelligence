@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial-Intelligence Software Company C3.ai Raised Its Expected IPO Price Range"
+    excerpt: "The provider of artificial-intelligence software now expects to sell an offering of 15.5 million shares at between $36 and $38 a share."
+    publishedDateTime: 2020-12-07T19:11:00Z
+    webUrl: "https://www.barrons.com/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 51
+    images:
+      - url: "https://images.barrons.com/im-269385/social"
+        width: 1279
+        height: 640
+        isCached: true
 
 secured: "bbQtLhoMahgMH9Geqn1jnlOjUJxlmcu3xC6MZcqvtYUcbhmRxg65M2g49e5pjnOlrAk9lNDQzGEytL73Q6UjrB97Ccu8mqxHl3dt+bgLRoGdZeiFOdmebKXxXPbHc5FrdCyg+YTh0E0Mkf0M8gWQlpiof//5O8aHXIvnKDv4goKLNpROkN3kccODXoWl8jCi3cS76FwO588ojWqct7IT0rlp92FQpCSYiObYKa2KmNjOooANnYdi3tpqMWdS4XinaAZ+dGzVCcLMTGX3DIi2ONBOj82GX7dko6aaoT2OcvIFit4hbfrT0SeVW8eLqig3hkrPEpaPCxH8nD6YHmemPalZyn0vs6neCxmICczf+D4=;cfG7veVl1B2esHWo516qLg=="
 ---

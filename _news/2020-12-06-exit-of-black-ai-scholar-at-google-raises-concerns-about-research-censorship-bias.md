@@ -25,49 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-06T03:17:00Z
-    webUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 71
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
-        width: 1280
-        height: 878
-        isCached: true
-  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
-    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
-    publishedDateTime: 2020-12-05T05:05:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 68
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
-        width: 764
-        height: 575
-        isCached: true
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Charlotte Observer"
-    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-04T22:24:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article247617745.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
   - title: "Google AI researcher’s exit sparks ethics, bias concerns | Raleigh News & Observer"
     excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
     publishedDateTime: 2020-12-05T05:12:00Z
@@ -79,20 +36,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 48
-  - title: "What a top AI ethics researcher had to say about algorithmic bias—before she was fired"
-    excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
-    publishedDateTime: 2020-12-03T20:26:00Z
-    webUrl: "https://www.fastcompany.com/video/what-a-top-ai-ethics-researcher-had-to-say-about-algorithmic-biasbefore-she-was-fired/tLswTdKo"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 46
-    images:
-      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
-        width: 1280
-        height: 722
-        isCached: true
 
 secured: "ENVrYnGYQkXXTY8daLwmynySE1iL/Y2MGxuD7PpIQcp8w2f+kVEQ+r0aMojfY6G48g+HjM61FaHs3G5s7KNOHxsG9t9Z3156+AqZMZVVPqss5HBRuMN9E5E15H107hqb9UFDcXP4jDr63Rxx5x//yHTgO6VGQQhn4VzZExElfBS8uMZ6RhMDw+gWtgT1pltUcipembwFT2ok8dSNjA8ZMe8ZI/bXQsWLzYItbJma1A20UCvmeTEHK9/sd/dGvew6X/CPOjmktRXEgkyiQZlO8Cwisea0siQqYSdkRrakl2Kol1tvgHq5CSmZnhk1lxCYjD5h+7mb5RwvQT9LSFfHeEwFFLNjqviIAQvkkU9eoa8=;gtQwuHjb7Qx0y71bBuzhVg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-07T17:49:00Z
 originalUrl: "https://www.dcvelocity.com/articles/48272-report-self-driving-cars-top-list-of-transformative-technologies-for-the-coming-decade"
 webUrl: "https://www.dcvelocity.com/articles/48272-report-self-driving-cars-top-list-of-transformative-technologies-for-the-coming-decade"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202012/lux-emerging-tech-Screen-Shot-2020-12-07-at-122920-PM.png?height=635&t=1607363011&width=1200"
@@ -24,6 +25,6 @@ images:
     height: 635
     isCached: true
 
-secured: "Q7e/QsXMf9GvqPIj39LRGKS7dP4ebDrVNcp2bfwlgfo9luiaWiEErkZSrweIayVKHlNZvS+NmCuPSPUQle4Hn5K5rjT4iYZdvv32q3CkTy6ZTo+4CUmNOs5AuasDhGCqjPN95Dti5TFM3VlYGdb7GfzwGSFa9HZrijUWyOwhaKVd2LtngDhu5ToT/9AxWaN8RJks1BhaDILFMCM8mj+cUN9OyNPaAp9CSh3gQIus+5BlkvyXAzW0wB3d+IoS1PTSIMBmnR/32ZhoBZNV+edSY5cmv5fhjDMdCMHJZaA/aQZRt961FZok/KqfMwNCzKfuaImd6jWht+J/I72K3r2MBcWMwXI0EGVbJve04ldG7w8=;GecuJbugpOQRkY3LyO29ug=="
+secured: "Z2pH3GSQKkcYjbqqzYF5L/E3VPSijE0oreJTIJl2nBul1Qn/mXnzdzjVYT9oOMnT1v73ihe48KekBmGlgWB8SEBVmSDCZM7sGKuajGX3w3Enl1riFUJ2VA/84zNB8iVrwZPVhHVs/0oeaJKxGO8OqPne1OHgbTc8V7ktEwGMeu1cRMgIRQBLywRobs6ISqCMd59utry6MbM5j14xQzmxhsgb48zkwnpe2q1HZTluyvCttZVwFrbTYIBXJ2aV0bXPZA8DQb/bUkaO9/Wc+6uhtq2QluRSPh2kNh+NhIQFH99jmsdsv6seTCCQiOt5/zJGvrS8nzf4ac6lPdbYhNY/wYdhmwxaT69jGIorGxjbRmKtU/W2pkWBKUHWRKTvdHg5YdAJu0/e4vAR1udO9Bp7u1WlCi4J+VP/5fjeQdBJeaxlnhewlq4N+WbltPcX9RVDAa+Sefr+UC//zGYuSondwpUAunepx70sM0bldNvT3p32t7PisV3HrG3WMlMR1WFOP8qxGh6NHFfZ/XaIJvVWvw==;L5Xji7I2jHlG1Uirz05mtw=="
 ---
 

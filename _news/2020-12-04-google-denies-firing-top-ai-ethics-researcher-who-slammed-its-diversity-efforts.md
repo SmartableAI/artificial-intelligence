@@ -27,22 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "Google employees say AI researcher did not resign, despite what exec claims"
-    excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
-    publishedDateTime: 2020-12-07T18:34:00Z
-    webUrl: "https://www.cnbc.com/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
+  - title: "Researchers are starting to refuse to review Google AI papers"
+    excerpt: "Computer scientists are beginning to refuse to review Google AI papers until Google changes its stance on former ethics co-lead Timnit Gebru."
+    publishedDateTime: 2020-12-07T19:01:00Z
+    webUrl: "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/"
+    ampWebUrl: "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
+  - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
+    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-06T03:17:00Z
+    webUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
+    ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 71
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
+        width: 1280
+        height: 878
+        isCached: true
+  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
+    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
+    publishedDateTime: 2020-12-05T05:05:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 68
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
+        width: 764
+        height: 575
+        isCached: true
+  - title: "Google Employees Say AI Researcher Did Not Resign, Despite What Exec Claims"
+    excerpt: "Timnit Gebru’s colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean’s statements."
+    publishedDateTime: 2020-12-07T18:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 55
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Charlotte Observer"
+    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-04T22:24:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article247617745.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article247617745.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article247617745.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
 secured: "xOvmkbQM8nTMTIzSAZgFryLIBZl5ZdGDWGMLqVHQjy+Be60NDRBSPvVcsR0moBR+k3HI/rq/En5/6/kfgWSOz2NhPEZTB8ZJhwL7y993whDRHct/M192ve1vcFU7RSFcweCf5Y50fE1E38dCW8tgiuf6JbAGf1empCUirs20BdcE8kUepoOcnMj+cBoz5E5r7woKdTffA47BY6poqjxCewGykb9yTVNtQiRoZhKlXvDWrpsPN4hffiMCjdebPvoe3/5qs9HTFRZ3NJkS3dhGPZFAeZwOFZArMqUqq5g96iu6rP7EncW2qn9IjCSroNZ2ckqg8J4+E//NToBHm00zc6WjngNAwcD66lpqY9j+WAs5hyjV1tYfr7vOBrye4EVygnglnib6NR0S1UjLaODt2JpVpbD/liqYiVHuslmK0tSX9rMXnO+/Crm0Ipe5ETqx+g+qncGQaNRdCpu2+L8dGZ4vVQ80DESN0Od94Bv64u1cMVont/+3t52gb7d5YCRzGv0yfSzHgP/SHun3spsqCg==;JR6CL+agNB5Ojnw5hQ6jPA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-corporate-news-products-and-services-2074b30097644926be0bd6578d379d18"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Abaxx Technologies: Canadian Fintech Looking To Disrupt The Global Commodity Supply Chain"
+    excerpt: "Abaxx Technologies will officially be listed on a Canadian exchange on December 15th after a successful RTO transaction with."
+    publishedDateTime: 2020-12-07T19:02:00Z
+    webUrl: "https://seekingalpha.com/article/4393406-abaxx-technologies-canadian-fintech-looking-to-disrupt-global-commodity-supply-chain"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 10
   - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
     excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
     publishedDateTime: 2020-12-04T19:52:00Z

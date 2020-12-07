@@ -38,6 +38,20 @@ related:
         width: 810
         height: 405
         isCached: true
+  - title: "VU Security unveils voice and face biometrics for secure video conferencing"
+    excerpt: "VU Security has launched VU Video Call Identity, a biometrics-based authentication solution for secure and frictionless teleconference meetings. The company said in a news release that the"
+    publishedDateTime: 2020-12-07T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202012/vu-security-unveils-voice-and-face-biometrics-for-secure-video-conferencing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/07150533/remote-biometric-authentication-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "JhAtQU8kn+aHXGbqW7JOTQm4mpO8yDcUk+vuKO9Gjb9cFe1gZhAf+ZROjzx+9PC7OtsnsWxHMyRnpuObCL8rN0YnnHSlayb9bqSgjCPrD16kF+U/FTZEq7qT+gtWNblTElXqQM/s4MHm1BmvPA7/2Ja/g0E0A0e1MOgF58q9oQy5j+7KvNER9UwoEFactFEneObizn4bOMwJIWbqgx2zmn+aian9tasESu6xxEZbgp94E6emjWcmf49ojkjWucz/Yb0qmSPYtjx382AMG8r2b3D+Q27lo+/cEJ3CHQHN4U+Yz97++Z/6FVqW+5Cjy0hrHQOV13Gtyff1r1dFq0gMGAgFrySZvCPseyskI8/5+cDExXUQY3EDveDNaz02eaa/9LTVZoS0kpbFgcLAl5KdIxZ/PoHHRPo3rOb0mZxJbMFhfSOelv2tqzNDfptcC3CUEUYXY41TJ2NRdAgwY9hZW3S+d1mTNqyh6/9WwRvClLbi+76V0vvDgwOkuKQ9pPBkUPey2rLnQ7o0aiXtukepnQ==;qdMh0c1jlObd86jMDD19Og=="
 ---
