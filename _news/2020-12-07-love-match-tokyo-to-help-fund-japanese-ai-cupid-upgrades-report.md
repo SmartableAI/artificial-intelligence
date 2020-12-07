@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H19G"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H19G"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 545
     isCached: true
 
-secured: "tegMDjs8Fqx0xrzH1iLP7sOyGat2zLpGb2g8BStidORGdgFEZ5Dj4W4InxSMHPSqc6lZs7EoirAc2A75UTb6TxjBoed0PPB7UyYpj0qbmfq+CzcSgwOzaQ0x+T7UJzCG68Br9pMxS/LPyp5cgQ/DzqMX17VPt8E3K/qTzlJ5QE4sFouUEyiCBdP4MkXd43183vWZ8ppxeiHP0C61VA5+i9np/OBz+1xZ2LEQ4YdePnKF27XidFM/elGPaPgbF2N/wFlfH3rl7+k4F8plVyOw1JV9OlEC02wmBOA7mwkEAGj/HYlV+l9Eh1oLeHcU9rt/Yy6BuqGAg6GxGLsXa/yCDOO1IViZQC9nriUjTiaZWOE=;MUrxGsOHjrUYT7EzSJqCIg=="
+related:
+  - title: "Japan Boosts AI Funding To Match Lonely Hearts"
+    excerpt: "Japan is seeking to boost its flagging birthrate by funding the use of artificial intelligence to help match lonely hearts, an official said Monday. Although it might not conjure thoughts of romance,"
+    publishedDateTime: 2020-12-07T12:52:00Z
+    webUrl: "https://www.ibtimes.com/japan-boosts-ai-funding-match-lonely-hearts-3096347"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/japan-is-seeking-to-boost-its-flagging-birthrate.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+
+secured: "ZU+nItSiJtZ5ASUSSQV45dy03wo3Wy0At16/wCpk4/gjAWLqX3HY30TqF2cvOm9E6oB6gpTunsypILdseKPx7IP+KQ9fBc9vrbHYmfNiTDVNCz+uE9EBW4lkNyhwiEqHzHaVdihiGUw7qn0HwORImrHM2f0K10v3LC8hGLcaeYGcakOKEk7uu+qTHTg1LAlPT58mIkPVTgwNRrPF/nsVYqdNEG1TDPWgFLigjCaJl/3pYThDX0ON+1RuYZoHXCbrY9Gg8h+nR3K2MVAAo3PzI80Rz/qbYlQUh/SdmeL6NYdQCl4SLTY1g/B6Id/WSGdta76eKFzuEJ+j5APEPwtARURkhryxvdj1tpfV7T78VzGt//6H2+L7DjBOWm2680dkOURdxa3B2srUBWqpHqMlAeioPL+EuK354Q21S+vx8goQl/z24w1SyekXKHOQlmTi79T6TPGuCh6zLP13wFczBZilpkQ0UP28cwEqlmffHa6lJ7Uxym+gaLneEIeKdyqk9QGMuEbSy9PMeebcicTRzg==;hKaPbjzRwvtnrUFe56yVMQ=="
 ---
 

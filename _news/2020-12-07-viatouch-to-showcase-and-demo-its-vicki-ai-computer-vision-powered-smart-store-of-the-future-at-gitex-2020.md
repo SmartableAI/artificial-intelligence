@@ -1,28 +1,22 @@
 ---
 category: news
 title: "ViaTouch to Showcase and Demo Its Vicki AI Computer Vision Powered Smart Store of the Future at GITEX 2020"
-excerpt: "VICKI innovations include integration with the Etisalat eWallet app for QR code payments and COVID-19 protection by sanitizing products and surfaces with UV-C lighting<br /></p> <p>DUBAI, United Arab Emirates,"
-publishedDateTime: 2020-12-07T12:18:00Z
-originalUrl: "https://menafn.com/1101242904/ViaTouch-to-Showcase-and-Demo-Its-Vicki-AI-Computer-Vision-Powered-Smart-Store-of-the-Future-at-GITEX-2020"
-webUrl: "https://menafn.com/1101242904/ViaTouch-to-Showcase-and-Demo-Its-Vicki-AI-Computer-Vision-Powered-Smart-Store-of-the-Future-at-GITEX-2020"
+excerpt: "(GLOBE NEWSWIRE) -- [GITEX 2020] San Diego-based ViaTouch Media, which is disrupting the retail shopping industry with its advanced software innovations, is demonstrating its VICKI AI Computer Vision powered smart store of the future at the Emirates Telecommunications Corporation (Etisalat) Stand Z1-A10-21,"
+publishedDateTime: 2020-12-07T07:00:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8097536/viatouch-to-showcase-and-demo-its-vicki-ai-computer-vision-powered-smart-store-of-the-future-at-gitex-2020"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8097536/viatouch-to-showcase-and-demo-its-vicki-ai-computer-vision-powered-smart-store-of-the-future-at-gitex-2020"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
-    height: 250
-    isCached: true
 
 related:
   - title: "Panasonic to Showcase Future Mobility and Robotic Solutions at GITEX Technology Week 2020"
@@ -42,6 +36,6 @@ related:
         height: 666
         isCached: true
 
-secured: "xDdppzc9aobwY5x3lYWws6+0w5kj/Ea+bGm7donrI5ZSLyh6jMNbkbaFuKTi5MLmOvFiBy+mz4xFyCVBIRRO4qb7mxRQS0AEoIu5474Fo6RH4a1DFj3x5qs2V5El2szJAUeS5HfKdhxITDbzXys9Q7pNCPCeVEG+lxw5hclx3RWqgPHSZ4B3/zMwGs/S0Py38YpRTlxtWwHWLjoMc3yEUoVBOA01DDyy9PChDFGBh0uKlH87O+1STsw1y9/AjJ3HXswBsg11gfUdAyw2LE80wTdSbN1PWQfUSvl56zZ1PF8L22EpMyhwTDNSobJYjy0k+goltyP5MMjqduMg7hoSbaVYymXJsRu/yIIE7HkwTBs=;xVVKLMKfEyoqkLCXRMSNCQ=="
+secured: "qPtDShNlJDHDndEPqYu2xZ/mpOR/O0sRTeqNLglw0zhBmWCm5dBZ+LCAohfHAmDxeGhIFj+0Mx9Vf/UeGFddSJfgbKXg/ZGQlIYRmLytlVgwVDwCRWJDeN3lDGmX5tPOqZBSg/aGaVkIEQKpUFHOJaU2DZBdcjXqodty5xL24vt9D33s/lHRmkHcGOz0TFJpQiI8S/4k6q60tU0qZcFpFVkj5yCIswriaDEPrIeQnLwMm/hZ+lAUnMFLktucPKexyigIXToOLARfByuwzv+7TpmTWUcZ/sdZQxEaBinq1OaSM3p+pC1Ny8qrID7ALvQn1neAHWQhBVg0kjA4sfOLcQNPZnR8svQBnL1JyG95Mkw=;p7yEP7zIAxA5l7tF41ecBg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
+      "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
+      "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
+      "sourceUrl": null,
+      "webUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
+      "originalUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://architosh.com/wp-content/uploads/2020/12/Mozart-angle-L-1.jpg",
+          "width": 1324,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
+      "cdnAmpWebUrl": "https://architosh-com.cdn.ampproject.org/c/s/architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
+      "publishedDateTime": "2020-12-07T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "architosh.com",
+        "domain": "architosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity.md",
       "title": "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity",
       "excerpt": "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development.",
@@ -1435,50 +1478,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post.md",
-      "title": "Nvidia RTX 2080, 2070, 2060 Black Friday Deals (2020): Top Early GPU Sales Monitored by The Consumer Post",
-      "excerpt": "Save on Nvidia RTX graphics card deals at the early Black Friday 2020 sale, including RTX 2080 ti, 2080 super, 2070 super, 2060 super & more",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post-1029826464",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-rtx-2080-2070-2060-black-friday-deals-2020-top-early-gpu-sales-monitored-by-the-consumer-post-1029826464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Nvidia-RTX-2080-2070-2060-Black-Friday-Deals-2020-Top-Early-GPU-Sales-Monitored-by-The-Consumer-Post-1029826464",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nvidia-RTX-2080-2070-2060-Black-Friday-Deals-2020-Top-Early-GPU-Sales-Monitored-by-The-Consumer-Post-1029826464",
-      "publishedDateTime": "2020-11-19T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

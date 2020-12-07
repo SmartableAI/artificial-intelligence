@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-12-07T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer on Module Market 2020-2025: Adoption of CoMs for Robotics, Artificial Intelligence, Smart Electronics are Projected to Drive Growth"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global computer on module market grew at a CAGR of around 7% during 2014-2019."
     publishedDateTime: 2020-12-04T11:33:00Z

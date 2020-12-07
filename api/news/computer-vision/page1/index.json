@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-07-deepcell-raises-20-million-to-identify-cells-with-computer-vision.md",
+      "title": "Deepcell raises $20 million to identify cells with computer vision",
+      "excerpt": "Deepcell, a startup developing technologies to identify cells using computer vision, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "publishedDateTime": "2020-12-07T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-facial-recognition-toilet-paper-dispensers-in-china-put-on-hold-as-privacy-concerns-grow.md",
       "title": "Facial recognition toilet paper dispensers in China put on hold as privacy concerns grow",
       "excerpt": "Toilet paper dispensers that were equipped with facial recognition in a public toilet in China’s Dongguan city have been suspended after citizens raised concerns.",
@@ -1376,40 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality.md",
-      "title": "Scandit Expands into the Japanese Market to Enable Digital Transformation Through Computer Vision and Augmented Reality",
-      "excerpt": "Scandit is a unique computer vision and machine learning platform combining leading-edge barcode scanning, text recognition (OCR), object recognition, and AR for any camera-equipped smart device - from familiar smartphones to drones, wearables, and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "originalUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realwire.com",
-        "domain": "realwire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

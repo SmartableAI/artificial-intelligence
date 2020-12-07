@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-12-07T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size, Share, Business Trends, Increasing Demand, Growth, Forecast 2023"
     excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for computer vision stood at over USD 9,"
     publishedDateTime: 2020-12-04T12:00:00Z

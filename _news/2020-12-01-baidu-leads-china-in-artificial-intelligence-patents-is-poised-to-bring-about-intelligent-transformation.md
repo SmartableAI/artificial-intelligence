@@ -1,39 +1,26 @@
 ---
 category: news
 title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
-excerpt: "Baidu, Inc holds the most AI-related patents and has filed the most AI-related patent applications of any company or organization in China, according to a recent study published by two units of China's Ministry of Industry and Information Technology,"
-publishedDateTime: 2020-12-01T13:28:00Z
-originalUrl: "https://www.nasdaq.com/press-release/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about"
-webUrl: "https://www.nasdaq.com/press-release/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about"
+excerpt: "Baidu has been granted 2,682 AI-related patents and has filed a total of 9,364 AI-related patent applications as of October 2020, ranking No. 1 in applications for the third consecutive year. Baidu’s patent applications were followed by Tencent (8,"
+publishedDateTime: 2020-12-01T14:08:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-24bc07f970240b4d891bc6556ce65ea8"
 type: article
-quality: 47
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
-    excerpt: "PR Newswire BEIJING, Dec. 1, 2020 BEIJING, Dec. 1, 2020 /PRNewswire/ -- B"
-    publishedDateTime: 2020-12-02T01:48:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-01/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 65
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "FbLneDMgueOf3U7Oxvfu0AIcDealaCgxytKFhrzjgfy4MGXh/63+v+OvL1y3pfbonnaaP6YIr4iBLmi7gmlocumZ5L0gt7SkXWCmxDJ7SW9Rg395kPwUZFfo8cMSXWNyAuF+Kr22dhb09hq/TOlnRLxSPlEwl4/wQkPDDISeNNPAcOYAgDwknN/Ygg3VbkQ3vOejY9b8DzMjR5GvKmXRmW3QKWiG4+LDd599TO8KZUHhIF/dt/AT2aceqjJ6jk1YosvIgcMGhr+80vwQkVnmv+DOs7lgw8VFduHcufTPF+VwMvTv4Wc4+Rojxz41JzgBEinD5AVtz/Yq7fFl9N+vIhbCEE5XH8MX1OXPYuTYNg4=;41xkgWi9wAyeXLJyBGu9zw=="
+secured: "2gdCMQGgzxTIqpX7fZIhagC0uWupWu+l+2g9RJBtoZIo9249y+BeuKLVs3fTJ4N/wO4M+1jL0lBuyiNq/gdkXzwM2mHZVwlhw4+1kRoywNn91P9fbtPLjoC3EOvgCnHL+gy1ausF2ke/gPcYDE38lWPUVhEwho0wPgKODC4z2//A5jptTqvx2gDMR1m8uFBVeydR/V63ThwFFMIb80HPj0HrxQ6dj57tdjHRTllIr9fv7CMj0ursmMgFsd8OkZE5RqvAsXvMIl9hV7qJJzjJd/OcI09Lxk7vvw7Ddk1OhTewSTKdf6TYGpEdrDha7r40wuM4HuszlmgLUCJt9ELm4RKIdg6nAiQxHGJSUyKjfw4=;VnTX/AqNM2ZPjEIxbLtkgw=="
 ---
 
