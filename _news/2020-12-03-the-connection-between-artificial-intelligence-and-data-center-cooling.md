@@ -25,33 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Eight considerations for conversational AI in banking"
-    excerpt: "The growth of Fintech, changes in customer needs and behavior. Here is a list of 8 considerations for conversational AI in banking"
-    publishedDateTime: 2020-12-03T11:29:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-conversational-ai-in-banking/"
+  - title: "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps"
+    excerpt: "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps."
+    publishedDateTime: 2020-12-07T17:33:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The opportunities with AI and machine learning"
+    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
+    publishedDateTime: 2020-12-04T22:05:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 54
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "Prediction 2021: AI Policies that Organisations should Lookout For"
-    excerpt: "Florian Douetteau, CEO and Co-founder of Dataiku predicts that collecting diverse datasets, narrowing the business and analytics gap, building inclusive future and using MLOps will be on trend in 2021."
-    publishedDateTime: 2020-12-04T06:07:00Z
-    webUrl: "https://www.analyticsinsight.net/prediction-2021-ai-policies-that-organisations-should-lookout-for/"
+  - title: "Taking AI development and test to the cloud"
+    excerpt: "Many organizations leverage cloud-based HPC resources to develop and test AI models, and then move the production models to on-premises systems — for lots"
+    publishedDateTime: 2020-12-07T09:37:00Z
+    webUrl: "https://www.hpcwire.com/2020/12/07/taking-ai-development-and-test-to-the-cloud/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 41
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-Predictions.jpg"
-        width: 900
-        height: 500
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
+        width: 1000
+        height: 669
+        isCached: true
+  - title: "Winners of Artificial Intelligence Challenge Announced"
+    excerpt: "Naval Information Warfare Systems Command announced the winners of its second annual prize challenge in the Artificial Intelligence Applications to Autonomous Cybersecurity Challenge series Dec. 7."
+    publishedDateTime: 2020-12-07T15:09:00Z
+    webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2436651/winners-of-artificial-intelligence-challenge-announced/"
+    type: article
+    provider:
+      name: United States Navy
+      domain: navy.mil
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2020/Jul/26/2002464378/1460/1280/0/200730-N-ZZ999-0001.JPG"
+        width: 1274
+        height: 1280
         isCached: true
 
 secured: "1FwQ+D8l45aDs8k15mFIXp1fQAHWCkcvfZpkToswrMwMhNYDoQPRX0VVXerer+fS31C91MD3XxaTQOxvEL1DBnJzMKSOAbH8FqCaUdfiyC6bLWHLWZAa0/bXxWpfS1A6t8V0kKPEBNwgL/IsCk75nVaug993PMvHIZBOThPAFmVms5XXG6Mvhbp3X4nCn85mJWPAOBvqu7/SoSNL388mS3lI+vJ3MRsIn8QTl7VYGBvZCjlrrHIEUgihz1UkO7F/SVeJYxzJl7Nb7mOzUp/75jJ4BzZOS8faAidBsV37VpIjcHLeS5f9AbT1Iv0MH8ddRdkyahcZXk1X5s7q5UTzgeiN3fvhiTSYrbf+kMSBGk4qnE1GyeLbc+LHwY4jvEpOe+VksRgfKIAyRMqv7dJoIcSmV2YoHmzJtd2SiPiboyA7kPzBJNayi+vKoYldLPma+jKESV26wBSwAR88FYSrSH/hYBV4t3QgjycCPm1Kud/1ARq1QPf+7p0f03SgU63nhEHxFxiIwtDeBkEzYBRP7w==;83HsqPKp85FPmpc3a3fE/A=="

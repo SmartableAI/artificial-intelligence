@@ -1,28 +1,22 @@
 ---
 category: news
 title: "PostEra enters a multi-year strategic partnership with Pfizer Inc. to advance machine learning for Drug Discovery"
-excerpt: "PostEra, a biotechnology company specializing in machine learning solutions for preclinical drug discovery, today announced a"
-publishedDateTime: 2020-12-07T14:23:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/postera-enters-a-multi-year-strategic-partnership-with-pfizer-inc-to-advance-machine-learning-for-drug-discovery-863473166.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/postera-enters-a-multi-year-strategic-partnership-with-pfizer-inc-to-advance-machine-learning-for-drug-discovery-863473166.html"
+excerpt: "PostEra, a biotechnology company specializing in machine learning solutions for preclinical drug discovery, today announced a strategic partnership with Pfizer Inc. with the goal of accelerating small molecule drug discovery by developing a platform technology based on generative chemistry."
+publishedDateTime: 2020-12-07T14:15:00Z
+originalUrl: "https://www.nasdaq.com/press-release/postera-enters-a-multi-year-strategic-partnership-with-pfizer-inc.-to-advance-machine"
+webUrl: "https://www.nasdaq.com/press-release/postera-enters-a-multi-year-strategic-partnership-with-pfizer-inc.-to-advance-machine"
 type: article
-quality: 18
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "PostEra enters a multi-year strategic partnership with Pfizer Inc. to advance machine learning for Drug Discovery"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VUhmIoCsOhCwxDMslRkVYZ+pt4U1ouMxbt2Pxvrf3Wc5gG7V0KBO7boCbe52FjAu8skvAfPGldCh4DBdzay/Sg4/YHoQVUj5zb+OQrd2IQZe5ljBTwyMI15cv/l13W7YSO1ZAwPfvl64BDM3ZDnP9mCQsZkGemQE1vya/cJXYrbfo1zH+dtaTeBM62RW4J61wShGmnwDOTMds0Q2QJMBYHT1sUpGgPSxHthR32k3s7yrDs/VDs8lE8dLy7z7DYBAIDqgBwHbK5TnxysrU/nCyVjTSCH+PDgj8qKxCMRApquJWouMCV7GKay0xEUTcBQxyTBStzCrgHToXuzBTCAeJQgHEEMcM/jKV9Ywfvae3+E=;Gwxg1CWzqEAhiKzIHRJ4XA=="
+secured: "zjvJzEAJQ2tNrlfPUm3MW5Y8XNphlX11grMuluALLcIA8oLgptTs412ft2pb3+Sgz33949JOVnDSiWxbYQjIgTX3s8+fVEZdfBF0uNSNri0p5OIiML0nymElU6JEcLK8XzzdXJ5Eff83Q87wDAJrGYsEvHoRsHYV8Fsm5xR8xxzkpyBSdw3SCjLxWjilnJPASZf2373hNEUsaVcOt/r30x3NNbFtDKAIhJobtMrq7DGluHtHfhNlsCstY1dWyZyy2oaVHsHPz9gvSyTOioMVYatKODcZWrvTrbQg+JV0T8MJxmGPJKiusgJNYR2uP0DqMkSbG7rkfuYUSMSLh5InO3KwjP2KXog6vffBz6HF6Xo=;gL1vtMRLt3tu2W2ddcunEw=="
 ---
 

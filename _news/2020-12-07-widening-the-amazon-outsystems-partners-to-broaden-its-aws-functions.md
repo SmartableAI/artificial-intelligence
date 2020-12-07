@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/Widening-th
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Widening-the-Amazon-OutSystems-partners-to-broaden-its-AWS-functions?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computer Weekly
@@ -35,6 +35,15 @@ related:
     provider:
       name: Advanced Television
       domain: advanced-television.com
+    quality: 19
+  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "OutSystems and AWS provide customers with a better, more efficient way to move even the most complex, mission-critical software to the cloud."
+    publishedDateTime: 2020-12-07T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201207005179/en/OutSystems-Announces-Strategic-Collaboration-Agreement-with-AWS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
 
 secured: "p5m08Fi5pCRk3n7H5AbuKS4gPmJN0LINPfu5OA2MNJxYci1LHhNRTBaO48jQ/6iFBopsHRSbP+E7tuHvRNMIdAmaH8x9HpJaakir/DBp4+Y2tWSgdqUcdVkzdnS+2Uvhl59gGZQ/JtzpcT3j26ZYXgiUTxKMvwBlv7UcXCtWJaJHQ0qwOHFYdK8wSH4X7M0fuI1BdPOffbFR/KcFwxSvySt4Lmp6RA2Q8VGosWtfC6w2fPOQCnMjxNydRwZn4iHvcPgiqGP6OEQdk4+vP66dMpO/K+p/2Lnc4oDIbe2lD/FmSEicsGIJdRnwsFijiRdu3nd3orlXbjiuYGq4Xxd/6ZZg9dvd1sgSVVBLH7cE9NqYnkjj7PdJhiaoIr9epUmVt/tBnc3BgkRjvLnQifzp+okd7TmJpLLWRb1Ah3P4zt8/Rwurh0hgxTlIHaQwwZQ61S8Ptho8Htvu8na/RFiyXzlwcIkEg/IbZKZVab2Qro3WwEyTMfZ8bHn5FiNh2EJf6GkNGpUt/L4hHyx56lSsGQ==;dPUQ9QwD2EX2f4q5kCEqtg=="

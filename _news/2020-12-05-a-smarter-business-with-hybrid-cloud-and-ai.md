@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-sma
 webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 620
     height: 422
     isCached: true
-
-related:
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "SURVEY REPORT: Artificial Intelligence, Machine Learning and the Future of Telecoms"
-    excerpt: "Telecoms operators are increasingly looking to Artificial Intelligence (AI) and Machine Learning (ML) to make their networks more dynamic and responsive to the different demands on their operations. As the technology promises to offer communication service ..."
-    publishedDateTime: 2020-12-05T06:28:00Z
-    webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 48
-    images:
-      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/04/tw_mwl_sl_undr_blk@3x.png?fit=1075%2C616&#038;ssl=1"
-        width: 1075
-        height: 616
-        isCached: true
-  - title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
-    excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
-    publishedDateTime: 2020-12-07T15:17:00Z
-    webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 38
-    images:
-      - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
-        width: 1024
-        height: 577
-        isCached: true
 
 secured: "Sh+mmR8l30D4fUKFbWL5Cg3+5RsGQ7Egkt/vmwbN7E7u6PPKkmjlfW+CA1/vvHo/iFlGghbZfqzRiLxUPGS9R2Hs8iM52E/sv8SvpkMsR239Mxqdc4Ro/GpAEZkSI4OAzLHsYdyI1wIAS/zAbxZbb6gHVIaf07i9kSN0ypR56ImT/sbH4mIvOfEoFrpkzRSemXdyx6/KOL9ureveUuLUhjK6tImbkZm6nAIwLjSIv9X4cc0UDXtAz9rd+f7qMv0ECWVmFfTryfl+88wwJEMaQzUrF6k4jgT+NP0IBeQRguTkr/sM9Cw11nK/qF/6JkNOSVF3fUn3LfU+fYAohTuwXWpy530PUmA5d6s0+3XbG7w=;7ORohKRdhdCbtihIsyeVJQ=="
 ---

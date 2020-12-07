@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-research
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google denies firing top AI ethics researcher who slammed its diversity efforts"
-    excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts."
-    publishedDateTime: 2020-12-04T06:07:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-denies-firing-top-ai-ethics-researcher-who-slammed-its-diversity-efforts--1d2f449f-a5fb-40e2-bc2e-45998180f141"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 70
-    images:
-      - url: "https://image-prod.iol.co.za/resize/5472x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0e3c0e9e-e862-50ab-84ff-e1bcd9df7eb5&operation=CROP&offset=0x287&resize=5472x3078"
-        width: 651
-        height: 366
-        isCached: true
   - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
     excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
     publishedDateTime: 2020-12-05T05:05:00Z

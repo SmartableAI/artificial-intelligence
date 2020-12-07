@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "Y4k+fgoayjisF1I1+IIfBE+KWWqDMw1UAl3Lm+mslUfCOo7fStnqDQO+9YLssZ6b0FXLGPf0Kfy5nBvAaqsUFAHSpvsQanMziriAzVsMBshrOF29VJaZIpJHYT0vA1CVXGNeQHxj8vVD0wKtdmBHkePQLmBUhdQt2HxYrYI8ysJVSqnNH4zKCU2WRyaMzrRbt6XVelU8j4kuOIWHTf3hduGX12yYOztOQXXKH5Il/5rc6I43dUVCq1EZf79fOPCGseY4jsDReKTkbjr+xQalHqfqFjBiqCfgcD3w+QSYGhoboNUeVyYYB0FEkRO9fOQernRuWlxeDGTkzWIRv3/9b/fIy8D9/ssyL1XjWrKfzWo=;9RtdtaQzFrt66um/PHkr1A=="
+secured: "YQ+LS3zopefB45Dngk6lSj4kW+KXj/U04pH4vmfHulchpe/wXEwTkIjq2gjP5fiBSrRsHgUBfE2Jvq3l9m9o5vQeU00f4h4Cwj+f0+Pm5ArC0uW6eYCY0hqC5TQgMlN9p20w6n71NQLlFwudpmGKDyOx0B/5x/Lux1JmWgJlOi+k+PajzRsuZIucH8XaHZWZmm9zCrb6gud/QTqcVUvohvEXm2d8L/nIBru3X8dqFofZUod+hw+YX0+r3aRl6VaxDPy5HX2IXsw+jflV7TS9q5mxhl+mQuyZu5IZX5LViZD+BYLl1Kp/Mj+qCfQf4+chvQIhT50R8fFm3DSyjmBryyeguHSspXODAuWyspwjxMM=;bif5QOw0Xznl4BQEXKeOuw=="
 ---
 

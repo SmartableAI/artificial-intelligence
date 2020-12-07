@@ -35,6 +35,15 @@ related:
         width: 580
         height: 332
         isCached: true
+  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "OutSystems and AWS provide customers with a better, more efficient way to move even the most complex, mission-critical software to the cloud."
+    publishedDateTime: 2020-12-07T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201207005179/en/OutSystems-Announces-Strategic-Collaboration-Agreement-with-AWS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "4eEFrfGSAmFWan/lfdrsWeHwWtA5y1/wTP/6W9oUotucboZwzoy5Wm360fTeO0mQds47bj/R4/W07/Zdmw0inhaSjAFCJPSzWRCoMSb6ZLkIG1RlzfHMjDqpi8Adnm+mex11O6qwQnhSP0VqihazQpuQm83sHaXZOcl6Mkk584N49zQMAic3fe0UqleilkV4cGZKNlaW4T0LEak3J/fNzN0L5OKIIX2xjjix+vE0cV+1PeQ+tu+I8v24voULWGw+m4Rfi8Rvifnf7mbxU6EgijlFq5hInnjYfFIAnUwjF8jmOJRQ2EEJUDX7/JlljrEw3IRFBVsdC0uT0HERmc/GMDpWVRZK/TgLJb2oPzdJIcldYmp29PNnkXIrw1QgH/2UtIqsQH/iu/nXbY9dcD8XaHi/clUlpl3a8ve+RInfwspwI9TULYOdXjdaMVsRVDQcE3BAreATwkyjUYjK0eW00KlW/201tB2L7ceISbSXeapkV+eLaM8YoBLQLj7TE7CC1E2NMuItEso5c4hOtDJBdw==;kg4tMTwnlWi3M8nPNqi7YA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-me
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "AWS announces partnership with MGM to reinvent its media supply chain"
+    excerpt: "MGM has one of the world’s largest libraries of digital and physical film content. The company focuses on the production, acquisition, licensing and global distribution of its film and television content across all media platforms."
+    publishedDateTime: 2020-12-07T17:45:00Z
+    webUrl: "https://siliconangle.com/2020/12/07/aws-announces-partnership-mgm-reinvent-media-supply-chain/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/mgm-logo.png"
+        width: 960
+        height: 720
+        isCached: true
   - title: "Media giant MGM signs multi-year deal with AWS to revamp its supply chain processes"
     excerpt: "AWS lands multi-year cloud deal with US media giant MGM that will see it assist the firm with revamping its supply chain and content distribution processes."
     publishedDateTime: 2020-12-07T16:27:00Z
@@ -48,6 +62,6 @@ related:
       domain: computerweekly.com
     quality: 48
 
-secured: "caFlNOdESaoUl8Pqat+xC7M3QMdzXxFf0tTTIBepbdNwYU+JX9wcKGiJl80Az65qjjsrGhupBmS2HnyS6UV4Cts14I8d13zOoXc+g6YGhnVxbVSV0Lk8UgiPXp2AMpFuhXP0GlUoLUAJXDafh9WVWQHeQcJhJCaDA171FZ0I+hU8e252cy6XICMKWLkRJK2C2y+WpJnAblOgBbWGMADp7MyK8iPM5QP4zTFQusu3APNypze0nRgELirDJTE/mcXe5AbMupfCBX8EjKDGGaCVWt+L4w8r5GwZAg0xeukiA8CGpbCE2ekY2c14iYLe/jmgT1uwJycT5z9D8eDdPFOJCHcRw8wUMhu4/CcjltujjOY=;IUcwsIrJbgVO2JXk5ZlUYg=="
+secured: "8PHDasXudxld6db/Qtwi/OITj/0RPC7XegKYe7mcfPynSZI93ZlhUzkS2S8n2p8pBqHKoEyDgQK50E3nozetYe7x+xkuGPyl6uBtHuGEjsBQe8vuma29bQ48R6mo2Z0K762QhqQBqW3AXiysiPwFlLuagPS5GsUza1WemENDiEKb1WyjATxh0E+0D8P7m8s90ghynvInzzKL3JczaC63npO7vOO8LCjX+thF3OvW/v9hWQZCU1cA4KMV2GTxy1p5Hp7OpDEh92zudsTT9K/Kf3WGCYa9yaESAGIHC/nCYfN5tal4In7NPnqBndpruSeF2YNy5Jne/WMAQpow8rPaMXtzmwcmlF5P30JmUoZ/yWN+sHpUeQgq7pxEzOjImkOw4gIerEwOdSjPvCIgC2v7BII3IKRDdz1IMo2V50R4ty95zdG+q2En0UR8F0c9KvvfEJju2avicFs5sTy2Q9QPmTro3GhnUc8oALIdH9kyw5z9nLn4b0cCUuNR6R0u3GAZqU3Cm016KF2PotmOr6bl/A==;0b02Jid6FsQRhwHVtBSutw=="
 ---
 

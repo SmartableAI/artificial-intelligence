@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The 6 Challenges of Implementing AI in Manufacturing"
-    excerpt: "AI Automation and AutoML 2.0 are critical technologies that can address this Skills Gap and accelerate digital transformation in manufacturing. 2. Technology infrastructure and interoperability. Manufacturing sites often have a wide variety of machines ..."
-    publishedDateTime: 2020-12-03T01:45:00Z
-    webUrl: "https://www.americanmachinist.com/enterprise-data/article/21149328/the-6-challenges-of-implementing-ai-in-manufacturing-dotdata"
-    type: article
-    provider:
-      name: American Machinist
-      domain: americanmachinist.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/12/dreamstime127457438_1540.5fc841b6af54f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 623
-        isCached: true
 
 secured: "iSHl+yX8228XczGeTRj2F7tYsDRBkQh+Wd1MqEFEFTOTXOVv9wI/5kzKKb1HrGapi9gAHaxBV4u9YBPiKJBMAs1Q7LzOiX7vTSUgiDiF08+GjEtT/V5SgnLWAhN+145dlndLL6FPnQoOGkqdQ0+spiVNQhRcrgqwq2z+5yYadwsL8LYrKcYucJHyAh9HaZg1V9wngdOu/0nYSJndBMqT84/aRPHe4cLejZdaipR1hkkj04GH7Vo4KuEjxvWbWJtrrN+4p2Uw/wOLK5y3k2+Z9irOpDqf9a3bFryMkuEJYDJDLD6ErUX8tHnLwxLn/FvMBI03uyCSk9CohVGe02q4CG7q6SwpMIW1S109P+r4Tuc=;3uhtYexCWDPFeCSDYcQ22A=="
 ---

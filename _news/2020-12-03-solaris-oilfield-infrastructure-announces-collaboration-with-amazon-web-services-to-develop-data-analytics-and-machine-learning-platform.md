@@ -51,15 +51,20 @@ related:
         width: 744
         height: 400
         isCached: true
-  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
-    excerpt: "December 2, 2020"
-    publishedDateTime: 2020-12-03T02:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-analytics-and-machine-learning"
+  - title: "Cognitive Analytics Market widen to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2020-12-07T17:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-widen-to-witness-high-growth-in-near-future-2020-12-07"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alinta Energy powers ahead with cloud-based data warehouse and AI infused analytics"
     excerpt: "Every time an Australian batsman heads to the crease, Alinta Energy’s logo gets an outing. As principal partner of the men’s cricket team Alinta knows quality when it sees it. As one of the country’s leading power generators and retailers,"
     publishedDateTime: 2020-12-03T18:22:00Z

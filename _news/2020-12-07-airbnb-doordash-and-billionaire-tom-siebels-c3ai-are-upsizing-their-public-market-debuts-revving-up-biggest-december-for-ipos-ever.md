@@ -30,23 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in December"
-    excerpt: "These days, artificial intelligence is showing up in all sorts of new services. There's a reason: The use of AI is growing fast, and businesses putting it to good use are unlocking efficiencies and delivering better experiences to their customers."
-    publishedDateTime: 2020-12-07T14:10:00Z
-    webUrl: "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/"
+  - title: "The IPO market looks hot as Airbnb and C3.ai raise price targets"
+    excerpt: "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish."
+    publishedDateTime: 2020-12-07T17:41:00Z
+    webUrl: "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/"
+    ampWebUrl: "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603469%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-grn.jpg?w=300"
+        width: 300
+        height: 300
         isCached: true
+  - title: "Artificial Intelligence Firm C3.ai Raises IPO Price Range"
+    excerpt: "The initial public offering market in 2020 remained hot Monday with enterprise artificial intelligence company C3.ai raising its pricing to between $36 and $38 per share. The Redwood City, California-based company previously had a debut range between $31 and $34 per share."
+    publishedDateTime: 2020-12-07T15:08:00Z
+    webUrl: "https://www.thestreet.com/investing/ai-firm-c3ai-raises-ipo-pricing-range"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ai-firm-c3ai-raises-ipo-pricing-range"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ai-firm-c3ai-raises-ipo-pricing-range"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 72
+    images:
+      - url: "https://content.jwplatform.com/thumbs/ovyBpuoH-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Billionaire Siebel's C3.ai boosts IPO price range as investors flock to tech stocks"
+    excerpt: "C3.ai, founded by billionaire tech entrepreneur Tom Siebel, said on Monday it expects to raise $589 million in its initial public offering (IPO) after boosting its price range, underscoring the demand for new tech listings."
+    publishedDateTime: 2020-12-07T12:17:00Z
+    webUrl: "https://www.reuters.com/article/c3ai-ipo-idUSL4N2IN2QU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IN2QU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IN2QU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
+  - title: "Billionaire Siebel's C3.ai boosts IPO price range as investors flock to tech stocks"
+    excerpt: "C3.ai, founded by billionaire tech entrepreneur Tom Siebel, said on Monday it expects to raise $589 million in its initial public offering (IPO) after boosting its price range, underscoring the demand for new tech listings."
+    publishedDateTime: 2020-12-07T18:05:00Z
+    webUrl: "https://www.reuters.com/article/c3-ai-ipo-idUSKBN28H1JZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H1JZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H1JZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
 
-secured: "2MvjCXBy6hwHwlhnrl99BCZqd1Y/7G33+UvCNmTL5pxsK8g7cn2/XH3DXAgCRtXzxkZHTAPO0FmGfRh4/NqAskHn2vXQAF2I4IaCDmm0YdsNFlADRpVVH4aGkzcKmcwI9w0HS/RifakkAEsNUTOzRWCKWD+Ulxti9pgrZr2Jhna2Hg6Ec97x34XTgdiQpRC8wrSwlHbK8DAXP4CG16zT7246GnTXZM9aMlE7uK3QJ0g/zCTI+f1AigXw3s2pDVGphJQiW7rrkvl/p8nkJZ9NSElmf39XB4/RaZRoWqz81heYC/0+eieTF2EVxfb4QMw0Y+sQm0McqQ44L9+KWbmb2lvAk52obL9VYkhdZSTPSvc=;sEzAbnDfu5iZLeqc7yLIDw=="
+secured: "gKQfI1yOpTzK3/ET87K/HPysMmWDL4Iym5r00e70KUtzH2l7XeUfNgFsrPzhJmWmbOgNGuFQSQ8oQoT7itJA832bXRcDzrFNLjulLVRhD38ro+a4SHmUqChCPE8AAKhEiRVtC9lOyHa9QCMDa9T5VgiUUoC837HH9oym5rZK8HDtxDI9brZaRkZzx1EEMSFkeBac3DRjtSBzU0IEb8MN5DkO708vzeX/Gj29OSymTLq1Jk5FtgN+tZYvT+O69OlG+au78jVbmiX1uhCr5AbeaY+xsBaMBVAJBt50vvIYV+fZyJYZKvVcqIxfDlLjindMxKI1fyeManN4ywRYHlU7scdWKT5gtUk33UkPRNAavs4TfgZBn5arPmb8P66MpuA2zQkfpJeZnwwVLEdZJl282l4D7NLugxaQv60a69qt78GL9HurM06+6s2LP49MctxTudfqb68uTgSkd5gZHn4PaNAYwnZ+wzp2UqcvVPb3sRlc46T+fZOqk6hCSTcs0Gn+2/sJ39bZ+MdwU+k1sxKHFA==;fkAgKmx3gWGY25y+2rOE9g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 6 Challenges of Implementing AI in Manufacturing"
-    excerpt: "AI Automation and AutoML 2.0 are critical technologies that can address this Skills Gap and accelerate digital transformation in manufacturing. 2. Technology infrastructure and interoperability. Manufacturing sites often have a wide variety of machines ..."
-    publishedDateTime: 2020-12-03T01:45:00Z
-    webUrl: "https://www.americanmachinist.com/enterprise-data/article/21149328/the-6-challenges-of-implementing-ai-in-manufacturing-dotdata"
-    type: article
-    provider:
-      name: American Machinist
-      domain: americanmachinist.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/12/dreamstime127457438_1540.5fc841b6af54f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 623
-        isCached: true
   - title: "The Coming AI Revolution"
     excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
     publishedDateTime: 2020-12-04T18:21:00Z

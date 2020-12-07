@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201207/Artificial-network-mo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2880
         height: 1912
         isCached: true
+  - title: "Grasping an object: Model describes complete movement planning in the brain"
+    excerpt: "Neurobiologists have developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object."
+    publishedDateTime: 2020-12-07T18:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201207112242.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Grasping an object - model describes complete movement planning in the brain"
     excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object."
     publishedDateTime: 2020-12-07T15:37:00Z

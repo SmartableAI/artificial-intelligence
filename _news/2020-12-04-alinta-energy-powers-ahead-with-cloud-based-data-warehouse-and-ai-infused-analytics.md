@@ -54,15 +54,20 @@ related:
         width: 744
         height: 400
         isCached: true
-  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
-    excerpt: "December 2, 2020"
-    publishedDateTime: 2020-12-03T02:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-analytics-and-machine-learning"
+  - title: "Cognitive Analytics Market widen to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2020-12-07T17:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-widen-to-witness-high-growth-in-near-future-2020-12-07"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
     excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
     publishedDateTime: 2020-12-03T18:27:00Z

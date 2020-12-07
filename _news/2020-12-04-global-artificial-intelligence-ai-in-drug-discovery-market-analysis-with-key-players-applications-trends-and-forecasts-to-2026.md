@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025"
-    excerpt: "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
-    publishedDateTime: 2020-12-03T02:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
     excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
     publishedDateTime: 2020-12-04T04:31:00Z
@@ -84,6 +70,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025"
+    excerpt: "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been"
+    publishedDateTime: 2020-12-04T11:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chipset Market 2020 Growth Probability, Key Vendors and Future Scenario Up To 2027"
+    excerpt: "The global Deep Learning Chipset market garnered revenue around USD 6.4 Billion in 2019 and projected to reach USD 35.2 Billion in 2027, with at a compound annual growth rate of 24% throughout the estimate period from 2020 to 2027."
+    publishedDateTime: 2020-12-04T14:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-12-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Forecasts to 2025: Global Industry Growth, Share, Size, Trends and Segmentation Report"
     excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
     publishedDateTime: 2020-12-03T05:21:00Z
@@ -93,20 +107,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market 2020: Industry Demands, Top Key Players, Industry Analysis & Forecast By 2026"
-    excerpt: "Global “Face Recognition Device Market” report 2020 is an overview of the market is provided with prime focus on"
-    publishedDateTime: 2020-12-03T05:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2020-industry-demands-top-key-players-industry-analysis-forecast-by-2026-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -126,15 +126,85 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence In Healthcare Service Market 2020 Key Business Strategies, Technology Innovation and Regional Data Analysis to 2025"
-    excerpt: "Global Artificial Intelligence In Healthcare Service Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a complete picture of the current and future market enclosing a comprehensive presumption of the market and imperative future estimations for 2020 to 2025 time-period."
-    publishedDateTime: 2020-12-03T05:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2020-key-business-strategies-technology-innovation-and-regional-data-analysis-to-2025-2020-12-02"
+  - title: "AI in Oil and Gas Market 2020 Industry Size, Status, Market Demand, Manufacturers Analysis and Precise Outlook 2026"
+    excerpt: "Global “AI in Oil and Gas Market” report is designed by detailed investigation procedure to collect all the necessary"
+    publishedDateTime: 2020-12-03T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-and-gas-market-2020-industry-size-status-market-demand-manufacturers-analysis-and-precise-outlook-2026-2020-12-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence of Things (AIoT) Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 07, 2020 (WiredRelease via Comtex) -- Global Artificial Intelligence of Things (AIoT) Market report provides in-depth research, sales estimates, and growth forecast by ..."
+    publishedDateTime: 2020-12-07T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
+    excerpt: "This “ Artificial Intelligence Market ” research report delivers various aspects of industry including market growth projections, developments strategy, and prevailing dynamics. The report includes in-depth insights of Artificial Intelligence market size,"
+    publishedDateTime: 2020-12-03T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size 2020 Future Analysis by Growth Segments, Opportunities and Challenges, Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Natural Language Processing"
+    publishedDateTime: 2020-12-03T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-future-analysis-by-growth-segments-opportunities-and-challenges-forecast-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-12-07T13:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A Complete Report on Artificial Intelligence Applications for Smart Cities Market in 2021: In-Depth Analysis & Global Outlook by 2030"
+    excerpt: "The Artificial Intelligence Applications for Smart Cities Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence Applications for Smart Cities market study is provided for the global and regional markets,"
+    publishedDateTime: 2020-12-06T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-applications-for-smart-cities-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -168,6 +238,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Computer on Module Market 2020-2025: Adoption of CoMs for Robotics, Artificial Intelligence, Smart Electronics are Projected to Drive Growth"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global computer on module market grew at a CAGR of around 7% during 2014-2019."
+    publishedDateTime: 2020-12-04T11:33:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=387357"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
+    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
+    publishedDateTime: 2020-12-07T12:08:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 11
 
 secured: "1ViGljwTbInk2tH2uBF2dbu9DQWjgnvwEX//2G34GGPxTbb8bVIxxVjwn74NBrHpI86ZFeMgR6hWcgh48RMcnSEmyZWIMUKIx+4YnMPA6oKbi8zUyGpeBpGaegnadc2a+WU0nxZ+UAoIHxCBppyrlAP19WaMTQJ7BsIClcj7pPV+igosgoB28P3GWL9o/iNmw9GO8r+KzDjgAlxRQUDV/gV1nh3a9RMxNXYEJcQiOxAfhIs3WOVFUbKFtsj1mCrRgFeisg6J3ed3pX5fmCEldzuh4s+sTSz3DqeZHVhg0T1QIFswc1RsUEgQMLmviczjpXw1BbCxk/0Ikl2gvVSV24YEx7SvWK/T8f/CdcAjBWI=;DYOkNaEMra1kDnc/fg7+0w=="
 ---
