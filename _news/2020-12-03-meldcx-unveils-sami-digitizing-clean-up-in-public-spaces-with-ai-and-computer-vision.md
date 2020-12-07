@@ -3,12 +3,9 @@ category: news
 title: "meldCX unveils SAMi® - digitizing clean-up in public spaces with AI and computer vision"
 excerpt: "SAMi (Surface Awareness Management Intelligence) turns manual “clipboard and checklist” cleaning procedures into an efficient, digitally-driven and monitored process: Step 1: Cameras anonymously monitor surfaces,"
 publishedDateTime: 2020-12-02T23:47:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-cc6cb5997a6bf1929dcba31a480ae412/gallery/7a94b7719f4f2236345db90fa342f5c2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-cc6cb5997a6bf1929dcba31a480ae412/gallery/7a94b7719f4f2236345db90fa342f5c2"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-cc6cb5997a6bf1929dcba31a480ae412"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-cc6cb5997a6bf1929dcba31a480ae412"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: Associated Press
@@ -24,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "qK3PEJNKSnL819YSSpbsN6Cj1HKwqnHg3tU7dDj7senB87RVps8oUwT+KednJavrj0Xi8vTrusLOz9bqZEnxKqGdfe3ct+BTZfnDgBwEaLlAu9pIvhwed91SPM400fVa5bmZl8q2enIo0HgFSG2V6lncBRJZV7j5eIZKAJoXFiSbNyHTjf0ikYBFGi9lQRua2odrzAuVzLtWF7MGxmrRJqZHH6eCcylJq9lSBwd7dTYDvjx1mEugFY8FioExTYkrCmJCGm3n3BRtC+8EsdIW/HtRFanUMm2gK//lCY0wzY94L2Avkb0ITIExyzs8zLpoLaGUmauyzfyyBuc6xSjFC6ET+BhKq5u6eWjTDhV3teY=;06jt4KIyjVLSxwfSwuYUlQ=="
+secured: "1bQwL43Tx4kNfVeaxQVwv7Vz2yYAxUUnF1FNcKOlq5dqHmug5ShcViDraGAA0Z6llvD4MDAKWUJqmNWRoRtAKIgtV7JxdMlmrWgorWM8fdsYYSd5Pf3ZT5AKHZpuuAoq/Uex7aRAkS83RjEPxx1Vk4X0XsQGZrCatG9dUoqHUrcVwUcm9YjxvfnofQyje3NeYF7NE19V1m8aVFHeudy95s2bzLvV3vZa7HXhtbY7t04jX5tB+frOFYYioSyfMPZzqcW0i4grXMqnVTYJsWZBjVBUzKrUovyySHxfJfC3rT+KA+vyZGfaJv5tYNQ4C0CBeS2coID8OG04Bx+9lnR3wvCgMW4qhF3H4A8def0XSh0=;Yp/XI6qf63BPD2OhdrSN1A=="
 ---
 

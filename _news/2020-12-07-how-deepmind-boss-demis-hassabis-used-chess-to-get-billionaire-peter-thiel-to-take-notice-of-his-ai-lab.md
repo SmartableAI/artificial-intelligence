@@ -1,36 +1,48 @@
 ---
 category: news
-title: "How DeepMind boss Demis Hassabis used chess to get billionaire Peter Thiel to ‘take notice’ of his AI lab"
+title: "How DeepMind Boss Demis Hassabis Used Chess to Get Billionaire Peter Thiel to ‘Take Notice' of His AI Lab"
 excerpt: "Demis Hassabis, the co-founder of AI lab DeepMind, has revealed that he talked about chess instead of his start-up idea when he first met Peter Thiel."
-publishedDateTime: 2020-12-07T12:00:00Z
-originalUrl: "https://www.cnbc.com/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
-webUrl: "https://www.cnbc.com/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+publishedDateTime: 2020-12-07T11:42:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/how-deepmind-boss-demis-hassabis-used-chess-to-get-billionaire-peter-thiel-to-take-notice-of-his-ai-lab/2764704/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/how-deepmind-boss-demis-hassabis-used-chess-to-get-billionaire-peter-thiel-to-take-notice-of-his-ai-lab/2764704/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/how-deepmind-boss-demis-hassabis-used-chess-to-get-billionaire-peter-thiel-to-take-notice-of-his-ai-lab/2764704/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/how-deepmind-boss-demis-hassabis-used-chess-to-get-billionaire-peter-thiel-to-take-notice-of-his-ai-lab/2764704/?amp"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106260865-1574433338966gettyimages-1035249058.jpeg?v=1574433395"
-    width: 5760
-    height: 3840
+  - url: "https://media.nbcnewyork.com/2020/12/106260865-1574433338966gettyimages-1035249058.jpeg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "How DeepMind boss Demis Hassabis used chess to get billionaire Peter Thiel to ‘take notice’ of his AI lab"
+    excerpt: "Demis Hassabis, the co-founder of AI lab DeepMind, has revealed that he talked about chess instead of his start-up idea when he first met Peter Thiel."
+    publishedDateTime: 2020-12-07T16:35:00Z
+    webUrl: "https://www.cnbc.com/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106260865-1574433338966gettyimages-1035249058.jpeg?v=1574433395"
+        width: 5760
+        height: 3840
+        isCached: true
   - title: "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science"
     excerpt: "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and"
     publishedDateTime: 2020-12-05T18:10:00Z
@@ -46,6 +58,6 @@ related:
         height: 385
         isCached: true
 
-secured: "I2tFs5jEa+Xwf2WENDeHvEKxEsdv+BRocUatKka8Z4J/KqsJwgdkif6no3NzUwCYaAFjw68YB0SJO87PaRdmdshzruBepmYdi7JA1w3dmevCGDAfGvjQMU4vQ2YolAvnTe0XYz7nGXkCvaQ0ANuFJwMhijP02Nl8w4u47Xhx6VpSJCSR1zG5yeHJmO2YgX5iogb+7dbtgPhyAFdTmWxz5NTYX7rgl3vRTdaftLE4BBxE9zWndXu2huwsGFvfxTkBgZaUZ1M+VhSVmUY8nITV8VvMTGXe3pUnadof90EmRJS3zNM1N0RlO2p5RXx5fBuzk8oIPkDPi3MQSuKY1P08MyfTjS+qUDNQrWzAOIiNFrU=;eddTi3RFIF1EitiiF5/7UA=="
+secured: "NcXC5c1TZg6hHr+WOWEvldu+aIcGIvL/7M7c1s9rRFIGHQR8yrWBUZiAmja777hs2pFwJo/u2qnUy8SqkUfcVwV38M5XhBsTJblI9p5U16LW+ILmySdmzmT66eFF6QIxjhUGm1R5XX0Al3xKw35dfeJRP2lI60omtPa4KPee5voxsalY+Y/XBy2eKYTtXyKbgxfkdTfBLv7ZicmzVYuAEAYRLghfC7SIHHBZ3UpBs12fliHQ5DxgUUGWJNavAUbVTSbpeh7/4FG4XWBZ5DQfMzZGxdrZ9l7SRnogNKyGTgjqx++O2lS9hq27ky9uOMBzpzOoq2MiewihAhbfKZtz2P9O2ntKP6AKagknQQnqsfQ=;yFNqRQItTnSc0bmBqGT0tQ=="
 ---
 

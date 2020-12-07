@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-24T14:34:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
-webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
+excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
+publishedDateTime: 2020-11-24T08:09:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "O1FuztM3KoYxceAvIucnGeqo6hcdjhgyc0aK6SJV8bOgnieiy5ZsEIi6tj77KN1VqcxzTHkW3xAKitBQEACmGlgvh31AB4aKi9MV+uMi7N6TS+gWOAQ3qbF/PfEP325KtxyIymHT1IaqjnfU6m2dTF/fA9BQ+bEy1Aq4vrZZyOOEkd2vO3PhzoKaMP+Q+6EUBJcPr5MgsKhsUByGBHzY0dtLsMUPtyLt7lbXPA9w8dr0s6OZVIWpKzPK0kDSWgX9ehTcFXq8YX7DqzaSmuU8qoSoKb6NhFoyYIIqTYi5lQE14cH4SRc1320oGfM1KFTdMfDCL+ZKkUok2AB26sEAVkcnwr8DdXj7kJCWf0oiXT4=;aDI8/4Kj0sk2/CLJaYwTbA=="
+secured: "oXuO6FkRUfeju0vrxAEatVRFSAq3YKk9iFjfyClQocOaMtOayMdLVXb8wweJrXlr6KffyLleF/a60DJdPrd0JPNO2NvQ5aLgEZC66CMCkgRJJ/0Zhxf9481wsFKgcfDKwDrTUwrYiiXg6sLpE4MdQ4FIJZeAMLoi8QIwRv5dawVfM5TkLZKEc2c4yV2WooA9s5Sa+MQeZZPRzlM2vZxYUK0oRye34og1F1uouorsaGBuL/XfKwjTtmA0rV3ssde0BIeA3bprtjWfIW8W98EPtKTLEfm/MgGKmojBeB5E/KIPF18bMaiikbRlfPeL+ctg0orabsFFYzmQdQI0G0OOsgymK7k8AQszXzOuG1KUQbQ=;+wllPRYfxqxpgnETFwR2PQ=="
 ---
 

@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Self-Driving Car Stocks to Own for 2021"
+    excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
+    publishedDateTime: 2020-12-07T15:47:00Z
+    webUrl: "https://stocknews.com/news/tsla-nvda-goog-3-self-driving-car-stocks-to-own-for-2021/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
 
 secured: "LBJIRxi79QtdQJSwaJK0i6TWzmlxPR3NmdmD927InctIqvT0p60sReTPv7mKsNf8Ai5PFc02nqz4NBpVjQ42KxlLMmPD/pnk4ZN+xROnHM3mVG7Fi0Q4257jSJLUiCFvgXnuJJn5748aAhfpp8n609LxAsBU4j07VM3D9+R8KcGABCvXnjLLz6zp2juI0BdKUmKN6nxL+CNklgsKRwCw0rQ1v4B26L0UNpcsmsFxOEWBHH+kZFCtGpxLg/HBKywwNYytbjuFCnWohcmXAnEdEFUAyU6OnLp/pFukuU5A4qN4CwMFFBhCyInSsVV29ul0IxDZxqkv8ql38s3Rg3wYcAn1q4CkKQF5arRE/YB/CscUKokQ1AVLPjIqtmJ92V9pFLjoHG/eKmf6CLHRYiJlnC94ln9HRHarxqMNOU53z6AYdPArX/CFCIW/LeDAm8tiBJNfevi74Gb/g5/k9Gx5fyQ+eQEjSqngqzz0tUsCZONgYoFbCqbL1CCeDn+hziKkaQ9u6r1VUNk077ojXJiKwg==;HWk7vi7UPjcrTLskDeeWDA=="
 ---

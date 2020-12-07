@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-w
 webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
         width: 620
         height: 422
+        isCached: true
+  - title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
+    excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
+    publishedDateTime: 2020-12-07T15:17:00Z
+    webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 38
+    images:
+      - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
 
 secured: "GrNtLi8bgTzPTHvNfF6zdDkgl8ydJlhxwfUAySLyZ2AlQ2Gl2skdppKcRN17DNGb5X5Ea4wMxPL2C4JiwWO9cPAs85gvsMmTOde82CoIrieAKHW5slDON7ZjpTCmnPTmHv6bg7B7atFTELpXTPdPcuO3+32O5tz4/uxSofGQ8KB1uPx5TMZWuhwDJw5dBXJIo+AKwrlvMvereUsZYxo5NaQtZZJgRyRuIqAXT202OXiyN6X+BOMtI75ZioAkJW8VTW5PNekhSv5GvNHP6hxs8wn5HhfIu16uveZWR/mONKMNWX/xZyY+kf+tDMkaA8OKUpjkVp2IDMxszl+fQkxlMZIOdugVO86wW5nH7hMTm9k=;j6lb9dcpheOuhDzK8Ex8AA=="

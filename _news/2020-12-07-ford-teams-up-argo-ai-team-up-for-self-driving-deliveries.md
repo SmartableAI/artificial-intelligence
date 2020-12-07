@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ford's autonomous cars are delivering fresh produce in Miami"
+    excerpt: "Ford and Argo AI have launched a pilot that uses self-driving cars to deliver fresh produce to Miami-area students learning at home during the pandemic."
+    publishedDateTime: 2020-12-07T15:35:00Z
+    webUrl: "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html"
+    ampWebUrl: "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4b10add0-389c-11eb-b7d7-58c367381a24&client=amp-blogside-v2&signature=24c8c350119fc36ad9047a5f18cf73643e230d9b"
+        width: 600
+        height: 350
+        isCached: true
 
 secured: "VscAK4D+LbgpTg1MWQajHMA2Caczenp94Wk11g6rauhbrpBqFhe6p/mdk5Uw8GunLvQRr6Ig/3vM+hf48ycYBtGAtwa2aBrOZcp6FcF0A2OmiWoILNqWudq720F+xTWs5LwmNftBn122g53jDWJDnxhc9aDCqtf3K6/gjh9Ap1v3c78RIBQQ4gwtwUrcuiuYf9dSipWqS4zD/AbWsnCueLTmWFxG+4xKwuTEDx4rjP2pErTA1z1GTpkPvpmGSrzQIkjLkfV7JGaDvaGZyiZO3OlkOq3jk2A7rrB9IJHm5tFgoyr0xFZ8foAEZuuAMIB8cJFzVqL9by2E2WkXT+TX4kPa0AN2Pn9+v52j8IUmT/c=;PYdkSEqMzqs8QUfDq2issw=="
 ---

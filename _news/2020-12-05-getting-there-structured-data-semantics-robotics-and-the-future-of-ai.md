@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/getting-there-structured-da
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/"
 type: article
 quality: 120
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driving into the future from autonomous to AI"
+    excerpt: "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society."
+    publishedDateTime: 2020-12-07T15:54:00Z
+    webUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Why robots freak us out, and what it means for the future of AI"
     excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
     publishedDateTime: 2020-12-03T16:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-dat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
+    excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-12-07T15:59:46Z
+    webUrl: "https://blogs.microsoft.com/ai/reinforcement-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/12/reinforcement-learning-sberbank-coins_1200x630-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
     excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"

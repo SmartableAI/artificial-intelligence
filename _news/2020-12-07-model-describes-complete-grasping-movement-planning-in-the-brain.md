@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-12-grasping-movement-brain.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-grasping-movement-brain.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -37,13 +37,27 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 58
+    quality: 60
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620
         height: 480
         isCached: true
+  - title: "Grasping an object - model describes complete movement planning in the brain"
+    excerpt: "Neurobiologists at the German Primate Center developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object."
+    publishedDateTime: 2020-12-07T15:37:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/dpp-gao120720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "QN4XCjiKPRvPCMRqtsGiJGY+UelRPfRCN2zaNpE+SySSNHlo2hU76/4Z1w0D9y6MNI5BWZaJgnAISleMzO4YK/fGZ2kOjmlZCil+puM/uNFGSyZ4Y5JDlVEwrgX+uKkZCCC5gKjBrHLUMFXQj54zcSnU0pvEz1WxdMqtoe/qK3P0lIPUIb2ILaWxeF09jIZkY0FMBk9WTvGYLqdQkytWn7EzcgG8oR3zWx2kW97Sndgw/vfmRPvhjcjIhhkD6Nj6Q9rlslNJl4ti9c5MPOkTIQBJXljCoAvUJNJK91W1aiTpkZ2F7KUqa3A+Tv9rvZL8uKds6cvss7SL0a/QQuKkBU14ZHdtV9VwILEqzGDBQE8=;O0WxDX1MYQRG+h6vdAVywA=="
+secured: "04dPI2dihXN62dL1ewb1BPoHeekj3PiUTn2sou+1CBmE17mHjNl+XpBueEzN8z8+m8yin/h+izzOFuFCpr/TZ8N0k2Gd5D04oJgp1H3VpZZu5TMOexyD6/wdfV5HANPjpIDulTpi5n8CAexc63ChMbnUcM0UPzR1ERoa3iz6kOwmcBo2Y916pgFO1pqRVUw/qeYPk8F8W9E6wLA6W0kXUbWroJ68RsviwnhLRDW1ciXL/+CY62qcwpKRB9LXjE+cL1D6mVhrKs7WR8TSItBKC72R2FdGb5XCTYywFI8iTvHrSN6GjrIt2DbXd/Q9yGXBcwD8V6/xJPYR2CXX53VzIXM+rboCagZQCDRgDVBmMq6t3IUopYDtfAAGRPAGiZhg6FXP3QQicqB/uaTJx95wuIXrbs4/+AUh/Nr8H3r1jir26QmLEBwHSe9ELTlDqjZCMEBNZVaLrQ7kA8R+gdJ6pTW9nVa+OSAQYcSMOjQNHUrZegayA4S7Ekalf7pzgqHkfYJoB54p0WpFfjAOMt/DqA==;4dd6jIn+muopjhSJMah5FQ=="
 ---
 

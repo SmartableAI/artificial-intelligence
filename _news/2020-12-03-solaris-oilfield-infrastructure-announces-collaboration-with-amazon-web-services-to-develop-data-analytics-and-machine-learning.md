@@ -35,6 +35,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
+  - title: "On how to become a robotics and data analytics company"
+    excerpt: "I recently met with Eric de Groot of RevelX (author of “DARE: A Mindset for Innovators in the Digital Age”), who concluded with a statement that Fugro is a very interesting case study. From a geotechnical company,"
+    publishedDateTime: 2020-12-07T15:08:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-become-robotics-data-analytics-company-pawel-michalak"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEqi0QKZgGQsA/article-cover_image-shrink_600_2000/0?e=1613001600&v=beta&t=C8RzwL98f8-mAAFRYIxdGI26dVCiWoKk6M59ZYCfdhA"
+        width: 744
+        height: 400
+        isCached: true
   - title: "Alinta Energy powers ahead with cloud-based data warehouse and AI infused analytics"
     excerpt: "Every time an Australian batsman heads to the crease, Alinta Energy’s logo gets an outing. As principal partner of the men’s cricket team Alinta knows quality when it sees it. As one of the country’s leading power generators and retailers,"
     publishedDateTime: 2020-12-03T18:22:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"

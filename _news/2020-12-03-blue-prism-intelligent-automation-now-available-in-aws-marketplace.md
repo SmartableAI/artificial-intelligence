@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first ..."
-publishedDateTime: 2020-12-02T22:21:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
-webUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
+publishedDateTime: 2020-12-03T07:55:00Z
+originalUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
   - AI
 
-secured: "mMCZhmvPe0cnK6hJ8WlR/M8/IkFvqLZ1W2vZB/EX1Ligr2g5b+OvqGxVzm0427E+gAswV6E6U5ccl+6Rzbc/fVW1UOpPFZyPHli2Nbqva/B873X5vKke+okFya1oUOIOc/XTZobbasKRCuOutnWVr4WITqrbiI12StnVNZI6pVZ6I798QeVP/u5cqLkLyo4rx6CrlutWoaocvMTLznoltQpb065ztNqN2ey9sNyAWxtA5DGDQZ8CQDZJ6X3NKJkTJM2VRLOwE/gcxnFWFUzlX0yoGG6w2DNGND9eOcmDuparzRwVjGeR1bEZl3UEeiZD+TAKow8gGShk3PC0bhhdEyKbismws6D721vRVuMtAyc=;p8s9Lq+/sChmd13IA+Cnjw=="
+secured: "Y4k+fgoayjisF1I1+IIfBE+KWWqDMw1UAl3Lm+mslUfCOo7fStnqDQO+9YLssZ6b0FXLGPf0Kfy5nBvAaqsUFAHSpvsQanMziriAzVsMBshrOF29VJaZIpJHYT0vA1CVXGNeQHxj8vVD0wKtdmBHkePQLmBUhdQt2HxYrYI8ysJVSqnNH4zKCU2WRyaMzrRbt6XVelU8j4kuOIWHTf3hduGX12yYOztOQXXKH5Il/5rc6I43dUVCq1EZf79fOPCGseY4jsDReKTkbjr+xQalHqfqFjBiqCfgcD3w+QSYGhoboNUeVyYYB0FEkRO9fOQernRuWlxeDGTkzWIRv3/9b/fIy8D9/ssyL1XjWrKfzWo=;9RtdtaQzFrt66um/PHkr1A=="
 ---
 

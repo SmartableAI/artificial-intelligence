@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
+    excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-12-07T15:59:46Z
+    webUrl: "https://blogs.microsoft.com/ai/reinforcement-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/12/reinforcement-learning-sberbank-coins_1200x630-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
     excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
     publishedDateTime: 2020-12-03T16:04:00Z

@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market widen Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2020-12-07T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-widen-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2020-12-07T13:36:00Z

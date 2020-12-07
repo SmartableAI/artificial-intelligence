@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/07/top-artificial-intelli
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 800
     isCached: true
 
-secured: "/06Brbj0mQDNftGdc1mnKc065RBJ0nAak87ZB5YI91sclKAYyhlNzP3oOGliZOpTb5SHQgsmZnDB9t8mbl9zONDUVr11d1/5zbx/xALRYj86wuziN5YLtv/rVcKUmMplm3dNWBQK9leXNszTLr/Wz3ZZvaCWYbTLHbgn0Kr5u8u80fWy3+ckDMr/VmzCKDhb1LSitz8X1onkjwY62c8JMgys0dfVzcTpMDjLTadoC8uNBsOTwKZ2+mXDug+guAPRNUaVqDP6hdQqx9Zp77o0jaPdX2+5pcmHQDcyXihHxp21EopK5DkJPIebkJAFGGHIorhIUVVtk+k8KaAmzO8/OELByAVWqqICFa+xrNxT0EQ=;2hpAOTLNogt6emW1KFLeZQ=="
+related:
+  - title: "Airbnb, DoorDash And Billionaire Tom Siebel's C3.ai Are Upsizing Their Public Market Debuts, Revving Up Biggest December For IPOs Ever"
+    excerpt: "Amid a red-hot market for tech IPOs, six firms are on track to raise roughly $9 billion in offerings slated for this month."
+    publishedDateTime: 2020-12-07T15:47:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2020/12/07/airbnb-doordash-and-billionaire-tom-siebels-c3ai-are-ipo-revving-up-biggest-december-for-ipos-ever/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathanponciano/2020/12/07/airbnb-doordash-and-billionaire-tom-siebels-c3ai-are-ipo-revving-up-biggest-december-for-ipos-ever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2020/12/07/airbnb-doordash-and-billionaire-tom-siebels-c3ai-are-ipo-revving-up-biggest-december-for-ipos-ever/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 55
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce4dc8d145b3d32f9750bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D382%26cropY2%3D3622"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "sE8WssT+r8vfMaJBUH0K4dEHGoV/Qng3CfLgN5VNh+Bj0AgT0+PXTsiR830FR3z2nDYvsnDjqf6QqHiogSN6QJdADk6gvtep3ddTe+zFI8CjIHmAutRBwjkTIhr0Umrk7gblDfIzQA0WsagiifZyN1h62SyM7Gigy7K4bBrFjPmimj7tia826MoA6rvxLY8sYv60nde61Sk4LCCLHqKYr8yVw9TMdw3XJq2hgrpkAPSD4cW9LRCIOHcfrNMHVK+xj8kq2l8sqhd4usWuAaaAEBY50czcBsUcVNPhxy3D6GpQAGSbwipcyzEbyYd8v0JSiWcaveiBn382IHM9GWfixrjvAl8NNNzLA22752qelz3/oU7kPhMcukj4qw4og6/D4f5DFcccRr1810E86KYuEoiFuWkk990V1WBKMgrCpCH6KsYiEzyylke3TaF2zdRw228fTQilp370/OrNGwMPX4g6+XCBBocaqfk00mjXaV9bUYF5QFXccaQHemNhFSTHmf8OSoM476MJYJc1V6GjYA==;0Qn6pCgcTrwrpX2/tbxv0Q=="
 ---
 

@@ -53,6 +53,22 @@ related:
         width: 620
         height: 422
         isCached: true
+  - title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
+    excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
+    publishedDateTime: 2020-12-07T15:17:00Z
+    webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 38
+    images:
+      - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
 
 secured: "IC3epRP7vJqFMfJL2RXdaNdjB84410RnpnHFsf1IfFfl/pszw+O+OzXZWGWwZdyOLkOV9OX+bURPMdwSpic2JjOLlyYgPSaf1oWrlk3DEw9CqtHxSDYdEwZ0ZCJ8XjqPwFyO3Z6cg9UIVdi3aBAseZDf+3YT+uUTPDrdDIGojbD6haXF4c7fBBA4m8TmFbTCKvk/PSPwPY+1n4ZhY8Qm91Ct4Zlyyu6Xl0/X41m+ko/g1HfZXAirLTgYgDHpcmxwaSn1FSJVn+79QvujMrtZW499Lew/pb8vOOYEVXbN5nkduD6H024prNWJ+bnKxD/4an0RkXWXdLiTpt5S1PcNpRO0WB7Ub4uuOti8XoqzBik=;MYaXkkO/sLLEfIl1fZmqnQ=="
 ---

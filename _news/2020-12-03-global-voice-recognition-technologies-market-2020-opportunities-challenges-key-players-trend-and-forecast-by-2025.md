@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
+    excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
+    publishedDateTime: 2020-12-07T16:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SPn0dx8kgolIAQS6f/eCjwvB5rWHfACUT2jOyJ0CVh4mpM/slPopt37WqM81+fPt8FK0jn779T7QCqeDtBaRyfeLYeSN6pgUxf6L5iaUdqwZlIXJ+6Fh1mcD8q1wxTSyoBVvQF3RrsRNjTnwnnRRNqRam44mBODuW95yW80Z9bmsZ494e9O3N2K6HucrLqDiG+6BKKD3BrNa6Pzj02ObLuvSN8z5botGgJYHkwyUS4UvntODSsx9ccjZKEKfL4TU5nM2/pXa19H5qZrySKXPzON/ZpRat3b4tvnFjuz+pMoW5qIMeBlOyZQrzHIQMOvmN981rSdMW/Pyy+c6phiBfaZZkLb0eaH+z3Mw+jXT7R8=;/LwoWvAqdBqI8V51ej/pKg=="
 ---
