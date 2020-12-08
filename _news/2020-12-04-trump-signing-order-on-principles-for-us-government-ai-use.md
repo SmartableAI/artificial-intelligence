@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Promoting the Use of Trustworthy Artificial Intelligence in Government"
-    excerpt: "President Donald J. Trump signed the Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Govern"
-    publishedDateTime: 2020-12-03T22:03:00Z
-    webUrl: "https://www.whitehouse.gov/articles/promoting-use-trustworthy-artificial-intelligence-government/"
-    type: article
-    provider:
-      name: The White House
-      domain: whitehouse.gov
-    quality: 37
-    images:
-      - url: "https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "White House AI Order Sparks New Federal Use Policies"
     excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
     publishedDateTime: 2020-12-04T20:46:00Z

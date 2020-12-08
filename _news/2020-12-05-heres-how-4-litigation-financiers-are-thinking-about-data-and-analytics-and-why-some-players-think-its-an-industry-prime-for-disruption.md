@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
-    excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
-    publishedDateTime: 2020-12-03T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "On how to become a robotics and data analytics company"
     excerpt: "I recently met with Eric de Groot of RevelX (author of “DARE: A Mindset for Innovators in the Digital Age”), who concluded with a statement that Fugro is a very interesting case study. From a geotechnical company,"
     publishedDateTime: 2020-12-07T15:08:00Z
@@ -67,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New data analytics tools aim to help deliver speedier packages, better patient care and more"
-    excerpt: "Azure Purview, Microsoft’s new data governance service, means data engineers can just be data engineers, and data scientists can just be data scientists."
-    publishedDateTime: 2020-12-03T21:06:00Z
-    webUrl: "https://news.microsoft.com/innovation-stories/new-data-analytics-tools-aim-to-help-deliver-speedier-packages-better-patient-care-and-more/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/549/2020/12/fedex-airport-terminal_1200x630-1024x538.jpg"
-        width: 1024
-        height: 538
         isCached: true
 
 secured: "11DsqlG0PwQqLvJMGfR2ad/o777zjK/0ScJi4kgWY2HI1YO2Ld5zUHT5Cvx0LatKuDCmpTs0FWnr5qAQenTSducP7Xe5iiBi+OxdJKokAs9cyZbByfnyfKmRVjrItHKN+ADeWK6bjeZ+ZH/tiua/Ph0st9Rdt+JtU2ftwRhPW3iUn2UdlijflBTWMggsAzWCOhkM4FBXfommKYuY7iF2F8b4lB+PQsNaPdhGnpq4TCBe2cemzwwYwmrPjte9BZYfejK3arFvBInKJ+u6yhmTyGZ+/JIVr4iwnMLlRkLg5hnZS9gT06p+qWcEMGqer7iT1md86rl3y3oMXDgQarRdXBqk+EPeY26wZKBgL+V+Chg=;cCCZMqLqoVNRXhEnzoumqg=="

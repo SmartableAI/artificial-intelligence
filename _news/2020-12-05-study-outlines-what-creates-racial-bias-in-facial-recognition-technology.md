@@ -41,22 +41,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "'Regulatory gap: State's facial recognition tech sparks surveillance concerns"
-    excerpt: "State surveillance systems have become too powerful and lack controls, researchers warn. Research released today says the G overnment now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR)."
-    publishedDateTime: 2020-12-03T21:32:00Z
-    webUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 56
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Police use of facial recognition technology soars in Minnesota"
     excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
     publishedDateTime: 2020-12-04T20:44:00Z

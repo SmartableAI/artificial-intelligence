@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Uber Sells Self-Driving Car Division and Takes a Stake"
+    excerpt: "Uber sells its self-driving car unit to Aurora Innovation and takes a stake in the startup as it shifts its focus back to profitability in the wake of the pandemic."
+    publishedDateTime: 2020-12-08T11:42:00Z
+    webUrl: "https://www.thestreet.com/investing/uber-self-driving-car-division-sale-aurora"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/uber-self-driving-car-division-sale-aurora"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/uber-self-driving-car-division-sale-aurora"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/GN9TPWem-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "The world's youngest self-made billionaire is proving Elon Musk wrong by bringing lidar — and self-driving savvy — to the mass car market"
     excerpt: "Elon Musk thinks lidars are too expensive for consumer cars, but Luminar has convinced Volvo that it's cracked the code to slashing lidar prices."
     publishedDateTime: 2020-12-05T03:48:00Z

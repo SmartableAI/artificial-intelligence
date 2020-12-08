@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-ve
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber selling off division working on self-driving vehicles"
+    excerpt: "Self-driving vehicle technology company Aurora will acquire the employees and technology behind Uber’s Advanced Technologies Group, and Uber will invest $400 million in Aurora and acquire a 26% stake in the company."
+    publishedDateTime: 2020-12-08T14:11:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 44
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tXZUGrfOm13ZGtY6h8scw8JGCWc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LT4MVAKYQ2WKPRMDVPXHODQAVE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Uber unplugs own self-driving car project"
     excerpt: "Uber has abandoned efforts to develop its own self-driving car and will instead swap its operations for a minority stake in Aurora, a driverless vehicle start-up backed by Amazon and Sequoia, at a significantly marked-down valuation."
     publishedDateTime: 2020-12-07T21:11:00Z

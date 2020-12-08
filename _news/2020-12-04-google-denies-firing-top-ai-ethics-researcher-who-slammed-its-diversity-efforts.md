@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google is facing a mounting rebellion from its employees over the dismissal of AI ethics researcher Timnit Gebru"
+    excerpt: "Dr. Timnit Gebru says she was fired, whereas Google says she resigned. Google employees have now publicly backed Gebru's version of events."
+    publishedDateTime: 2020-12-08T14:27:00Z
+    webUrl: "https://businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google employees dispute company's claim that AI researcher Timnit Gebru resigned"
     excerpt: "A group of employee organizers at Google on Monday responded to the departure of Timnit Gebru, a star artificial intelligence researcher who said she was fired last week after co-writing a research paper critical of the company's AI systems."
     publishedDateTime: 2020-12-07T21:01:00Z
@@ -251,22 +267,6 @@ related:
         width: 1280
         height: 878
         isCached: true
-  - title: "A leading AI ethics researcher says she’s been fired from Google"
-    excerpt: "On December 2, the AI research community was shocked to learn that Timnit Gebru had been fired from her post at Google. Gebru, one of the leading voices in responsible AI research"
-    publishedDateTime: 2020-12-03T22:45:00Z
-    webUrl: "https://www.technologyreview.com/2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/"
-    ampWebUrl: "https://www.technologyreview.com/2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/12/GettyImages-1028811892-e1607033595352.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email"
     excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager."
     publishedDateTime: 2020-12-04T08:24:00Z
@@ -298,22 +298,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg"
         width: 2394
         height: 1497
-        isCached: true
-  - title: "Renowned AI researcher says Google abruptly fired her, spurring industrywide criticism of the company"
-    excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
-    publishedDateTime: 2020-12-03T22:49:00Z
-    webUrl: "https://www.cnbc.com/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106805909-1607018476968-timnit-gebru.jpg?v=1607019660"
-        width: 5760
-        height: 3840
         isCached: true
   - title: "Google AI Ethics Co-Head Reportedly Sacked for Critical Views"
     excerpt: "A prominent Google AI researcher says she was fired over an email she authored expressing disappointment with how a review of her research was handled internally."
@@ -504,22 +488,6 @@ related:
       - url: "https://heavy.com/wp-content/uploads/2020/12/timnit-gebru.jpg?quality=65&strip=all"
         width: 780
         height: 439
-        isCached: true
-  - title: "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email"
-    excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
-    publishedDateTime: 2020-12-03T21:18:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 54
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA5YUVRVUYI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"

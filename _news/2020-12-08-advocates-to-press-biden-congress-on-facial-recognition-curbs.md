@@ -41,22 +41,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "'Regulatory gap: State's facial recognition tech sparks surveillance concerns"
-    excerpt: "State surveillance systems have become too powerful and lack controls, researchers warn. Research released today says the G overnment now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR)."
-    publishedDateTime: 2020-12-03T21:32:00Z
-    webUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2020/12/regulatory-gap-state-s-facial-recognition-tech-sparks-surveillance-concerns.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 56
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Police use of facial recognition technology soars in Minnesota"
     excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
     publishedDateTime: 2020-12-04T20:44:00Z
@@ -113,6 +97,6 @@ related:
         height: 1578
         isCached: true
 
-secured: "ecL2SrkMODFS0qHL/PqaSYVNS8BS19LMWW1ZQywWk2bsPrUXeQhT5aJGcYFZXjcqJ77EcThBcI8EpO4hgfsDJ+eLDv4pddngKL0Kj+z3Tjd3VtA6MW/DmM+iOxw2XOivJQu/cDu40vCTiAUy5lzOMgZCbkXCtzvuz/KyRc7iTCCljCZw0Rl6s+kRLfukxWcN4g++JGorxLcShBucGnWJMmWTQC8XCS3/fy3m2bYxAuI449aC5WB1izQQ/oAPvRP9hc4PBE9nAT0m8RKUOoXmGSVUNbGMJ6HH0p6Mi6CYpr6pRphSHpdUQZkygDVIrUScxnfMtPTgJPIuwiaGFNRb39DTTbWczFRHRPR/9Nv4Sss=;6rZt1nE+Igev24j9FGKoSw=="
+secured: "hb9NnynfgM6aq3q7lf/hhldtVWMPGoHmdU1OD+hSxEVXSEkxevpzimmbp4UZWzV/8zNroQPIflG9+BS78VMSXOxEKrsdfOXB8i6MOToxDp1a5amoyt/urEOjaf6EseQal6ggWB8VGvsBNwj6+qedAOOV+Y88H+kMz6CxHjmffNkRHrYpCzaWTH05rNGnxCGghK6CLuPQHJ3s1wsWdVLyeqG15ZxzR8nu0+Ln3NMHVs65XYEhO3TrzbQBemFRoUPcz9BR3EphI/dAgjNcC+nUkHR5np4iI/J/R0PIN7Qp0ET39tVbL0wOPDDoGuW05i0vuUHvNOanEuzr4KbrISinlMVJda0VFmO+22rWVXny+iUyebuESoCLhoBhzB3/GOQmieyuXM3K1chQ1tJdPwjfJuZMoLVMzVhyNa1XYjazYA3KMM/Fs1AfJgxK+pm30YPaKW3BTlqGi7CFSB0c3MiDk1NXYRiiZi/fpiEfLYU/O79o9HGZwiflUgbmLcQn2Uy9+oURlOSR9l0IuS2seINwQA==;40YH6dfL54fQpvNuolyH/A=="
 ---
 

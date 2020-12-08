@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterpr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Taking AI development and test to the cloud"
-    excerpt: "Many organizations leverage cloud-based HPC resources to develop and test AI models, and then move the production models to on-premises systems — for lots"
-    publishedDateTime: 2020-12-07T09:37:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/07/taking-ai-development-and-test-to-the-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
-        width: 1000
-        height: 669
         isCached: true
   - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
     excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."

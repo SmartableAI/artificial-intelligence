@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "The analyst has predicted the Global Artificial Intelligence (AI) in Drug Discovery Market is valued approximately at USD 260 million in 2019 and is anticipated to grow with a healthy growth rate of more than 40."
-    publishedDateTime: 2020-12-03T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence of Things (AIoT) Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 07, 2020 (WiredRelease via Comtex) -- Global Artificial Intelligence of Things (AIoT) Market report provides in-depth research, sales estimates, and growth forecast by ..."
     publishedDateTime: 2020-12-07T10:23:00Z
@@ -185,6 +171,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Automotive Market 2020 Global Analysis, Opportunities, Key Applications and Forecast to 2026"
+    excerpt: "Wiseguyreports.Com Adds 'Artificial Intelligence for Automotive-Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025' To Its Research Database <p>This report has been prepared based on extensive research and analysis of the latest dominating trends in the market."
+    publishedDateTime: 2020-12-08T14:04:00Z
+    webUrl: "https://menafn.com/1101247049/Artificial-Intelligence-for-Automotive-Market-2020-Global-Analysis-Opportunities-Key-Applications-and-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/updates/pr/2020-12/07/G_2a43fbc9-1image_story.jpeg"
+        width: 278
+        height: 333
         isCached: true
 
 secured: "d5tUKDCfENAMwggsVCC4TuWJs+NFxzTxrFLH2lK7RL+T8FFLQVL53+1b7hcM5Qej994ce+5goopvctVL6XuBoN7XSQHCMsQMhy+jRjIz+L19+QDt+ZW223pzjaq5zBSM2K0l0x/C1e3Td/Va5bGjXthqAJ1oH2qIOrQ2/1PlvRdciVjkbYkyDlhyEHjidJ/D1hkDwN0wjMYvJSym2QY33Wk7PRGmCf4921/TISwQy9U3ih7eLXjMPi+XsWeZadviZUMeaK9MPkejVFRl/EJWzV5GEzqitUCIVxWv3K7iBOcj6Og8ruLbVfUpCF5reCVMxq4cTz8rgxo56rfyYTVYtOOWrVXy/iMJmWy3AEXaP54=;wmA/EsBE67Cc1sMGfAwriA=="

@@ -43,6 +43,22 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Uber selling off division working on self-driving vehicles"
+    excerpt: "Self-driving vehicle technology company Aurora will acquire the employees and technology behind Uber’s Advanced Technologies Group, and Uber will invest $400 million in Aurora and acquire a 26% stake in the company."
+    publishedDateTime: 2020-12-08T14:11:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 44
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tXZUGrfOm13ZGtY6h8scw8JGCWc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LT4MVAKYQ2WKPRMDVPXHODQAVE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JSAxChfDIIQ8bBwQHE2nQOBm+A/p6CinrHqjln3zqDTe7d9L8U6krDUBuWr/3N2XEL7zdd5Tg4y2WfwNPJMpo7I3iQKLhzxlEECbJiuLTXzO2gYexs7J9GZfIo75ObXvslYQyqBIQucOOtIf+iiqnHDe2Fls4HUwizZm0OdHpMDeNPuTc3wEypC2eANknyVQLH49Ps8YscPUzAteayl4Y2yL2NXHpeEHFSYOyc9xEvA56eAQgGXLwrEwc/6yD45C5aZTrli4YqFZdmiEibr3oP9ghFB23Xo6KRXp1LSeYJV8JTdrlqpK+6wUYUVzRmK5WuUwjui+XQEO9wgb1B4Fql509sE5In+8IVRL8pKxwW+sIkyc8v9An1w/bc1Pg1RxKKURR7p8l2gP0SyChQcb+8t87LEni+CqHa0FJapkcSwyLUB/fl1kKRPRymo61HOB2OHVPxFsBe+l7uRDA29KJpAcWX4toSMX3CzvblX5Q93KpYIfQ0oYWfyp9A/pBiAodlW2e/pCm4An8YkTWmXPbw==;0IaUaSghcYqNxdbJwA62nA=="
 ---

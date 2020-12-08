@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
-excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the"
-publishedDateTime: 2020-12-08T07:08:00Z
-originalUrl: "https://www.miragenews.com/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
-webUrl: "https://www.miragenews.com/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
+excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
+publishedDateTime: 2020-12-08T14:52:00Z
+originalUrl: "https://phys.org/news/2020-12-breakthrough-optical-sensor-mimics-human.html"
+webUrl: "https://phys.org/news/2020-12-breakthrough-optical-sensor-mimics-human.html"
 type: article
-quality: 29
-heat: 29
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Autos
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-    width: 1416
-    height: 829
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/retina.jpg"
+    width: 2880
+    height: 1618
     isCached: true
 
-secured: "wm+h4C8ZzjcwXiq1J25dUorTJOzcGEeU+PiR3x11U1W5r69WA/73xxoGU41m0cZKsxVT5jwPYStf6IVGUepTJrDh7DGtrqZccNd3Vj4F7AUvktrnLaMs/pZT6Qrzm8GKsyq65T+K2sz/6VSFAhY1ca4EnloAIPCz2/drUt2EyKDDtk1+8WBhPgwOzreGVTPJzo28XVbq/J1p4flTO9RSNHwvZJrQtVsE0NqqwssSAWgB2d9RNDBB4sUyzZgcEVYQYrB8Fz6eD+Eehw1cQtR9b19Iex1EWLLTHN3Btw+sUIFDxnzCMWTZOl0da991GU9jbuds0TqkyaDW007907oQUpDF/mzI95B8ynQhf6fch9E=;Ho83wEjNeY8FhF7APm++bQ=="
+secured: "A81MNHHJWEtTmzpqGIES/dsAztZHr47fXd1oOdojQAg1NnW/e4w0NOT1XHKO0qzUfoX270LwOIojFx+3YrKX18sZpeXgZ+KbBxKCdxUxxE4+JOxoJPcYocTZuepA9jW9poU+sDZ8qhTdUnftP44d2KfxUsVXRuS5/c0k/YQOaXsBx00ZTPNQhDy9JIqs/7I/ogCkOSZf2av43OQRxKHaF3RexiWpp4Bi6XiQP8ygwztKDBtyqAtgLzkzceekXU5le2Mz603S/zSLioln4k/6CmQnlx5s4VKjcjcx2I1VJrM0voyYE9Gnnr8L0p5GoDID0RWQ+QOYVKCY5qfRSv4pCHgeXtKwnYoeuHlhFWhc5Qc=;i7p7laqMKhyz5Ql6mqiHJQ=="
 ---
 

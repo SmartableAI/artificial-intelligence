@@ -89,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Promoting the Use of Trustworthy Artificial Intelligence in Government"
-    excerpt: "President Donald J. Trump signed the Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Govern"
-    publishedDateTime: 2020-12-03T22:03:00Z
-    webUrl: "https://www.whitehouse.gov/articles/promoting-use-trustworthy-artificial-intelligence-government/"
-    type: article
-    provider:
-      name: The White House
-      domain: whitehouse.gov
-    quality: 37
-    images:
-      - url: "https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png"
-        width: 1024
-        height: 538
-        isCached: true
 
 secured: "NHX30juGelxPw7mALmChjVai0BNtLGqtKSgu9qwI5GiZ0J9NG+WkxLTb1JhnP8QXbVn0W/HRN0jwbMAu0s5GNsOWC3pvp5kz6Q/Lr14fReVQ2HEZoA4HNcR63rESbFDGyVRECfJmkhLMEPv9zJqDiqJ01NmM6En68E3T6G0f2+cZa9VzJQ7JyBQWfQUhUWJ5mJJCu4RdTP6P5XL+kBCwVlfO+7ugYVuSIeZHq0ivLTiSydIzHj/yoqAYorWD+DObx0X5Oe1LwMRQ1tWhSNSg7s7eXvTQ9sqcSWX+pvI3S1bnUHrKa4CyV5rtENjUY4r/G4qsrPFjVrDSxEB0RgVmcKuLegWO7U7lTuLLKdHyrYI=;O80k/KawvgrkTedJhhCRLg=="
 ---

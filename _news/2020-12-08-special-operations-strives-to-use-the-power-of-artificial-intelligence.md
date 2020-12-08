@@ -55,20 +55,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Taking AI development and test to the cloud"
-    excerpt: "Many organizations leverage cloud-based HPC resources to develop and test AI models, and then move the production models to on-premises systems — for lots"
-    publishedDateTime: 2020-12-07T09:37:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/07/taking-ai-development-and-test-to-the-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
-        width: 1000
-        height: 669
-        isCached: true
   - title: "Winners of Artificial Intelligence Challenge Announced"
     excerpt: "Naval Information Warfare Systems Command announced the winners of its second annual prize challenge in the Artificial Intelligence Applications to Autonomous Cybersecurity Challenge series Dec. 7."
     publishedDateTime: 2020-12-07T15:09:00Z

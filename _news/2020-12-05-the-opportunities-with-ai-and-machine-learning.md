@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Taking AI development and test to the cloud"
-    excerpt: "Many organizations leverage cloud-based HPC resources to develop and test AI models, and then move the production models to on-premises systems — for lots"
-    publishedDateTime: 2020-12-07T09:37:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/07/taking-ai-development-and-test-to-the-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
-        width: 1000
-        height: 669
-        isCached: true
   - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
     excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
     publishedDateTime: 2020-12-07T22:01:00Z

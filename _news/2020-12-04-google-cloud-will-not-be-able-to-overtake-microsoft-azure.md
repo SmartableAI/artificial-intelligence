@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
 type: article
 quality: 104
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches Azure Digital Twins in general availability"
+    excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
+    publishedDateTime: 2020-12-08T14:25:00Z
+    webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
     excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
     publishedDateTime: 2020-12-07T15:59:46Z
@@ -97,15 +113,29 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
-  - title: "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple"
-    excerpt: "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to USD 5.2 billion by 2024, at a Compound Annual Growth Rate (CAGR) of"
-    publishedDateTime: 2020-12-05T09:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18662314/voice-assistant-application-market-growing-at-a-cagr-31-9-key-player-ibm-google-aws-microsoft-app"
+  - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
+    excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
+    publishedDateTime: 2020-12-08T14:18:00Z
+    webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
+        width: 742
+        height: 649
+        isCached: true
+  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Microsoft announces the general availability of Azure Digital Twins Holistic integration across digital twin technologies will enable users to digitally manage physical spaces, maximize efficiency, support COVID-19 safety and pilot new solutions Solution aims to encompass the entire ecosystem of building and device management technologies with digital cloud technologies Collaboration will support efficient and environmentally"
+    publishedDateTime: 2020-12-08T14:27:00Z
+    webUrl: "https://news.microsoft.com/2020/12/08/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "XL9JlO+YNsRNzIq6ZUMeC4B0nIJfvIKbRQ6fkW6TKZqmsGTZZ85NxxSgGMFhYFIt6ZoilO8/K0rCocHR3YtJR1eSiJ1ZD13lUv4Pj3CYRxiDnNKMFJuc384q03VOZ5nGjo0EA3XhrFZ1P5h1hFbWEz8ZhsW04rweGi+1dE3q1dv97kGV+aYnhzbHBj7Zjgzqd3UA3mviv5y6iihTh1tR+oThj/Z9ivNbxeN2zJoH+h7EPQqYY9xbtYLnTfXpcgYxmEHFAIOjds1tan97HIJ5fFH6TSHr0hWd7rK49+SvRyZS8a4L7a3UT4z1BUDdxZ7+h6ieGIO4kk8YIGhdIbgW+WriGIGKsfuPEQ6rcD8iJfXI1EEyjfMfhAwP6EeBT8NrtIvP9qiWDYBB5p1KkqZ3aQTCbLBmA14byYICgv1tQl9R5HCFSfMX6+kA94fnqGOs8Kf+Q5/ZH17u6CTl9s960ntuaW2V7rQZn+ttwgZpKJnJU5FOz07VeRsz0bTdYqM3jugYwMyUFLYTNDf2jTklXQ==;BnWjQSHHAfTLyTy/xo/oJQ=="
 ---

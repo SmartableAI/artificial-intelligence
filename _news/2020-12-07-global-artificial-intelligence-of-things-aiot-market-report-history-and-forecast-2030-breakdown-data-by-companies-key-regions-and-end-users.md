@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "The analyst has predicted the Global Artificial Intelligence (AI) in Drug Discovery Market is valued approximately at USD 260 million in 2019 and is anticipated to grow with a healthy growth rate of more than 40."
-    publishedDateTime: 2020-12-03T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2020-12-07T13:36:00Z
@@ -181,6 +167,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Automotive Market 2020 Global Analysis, Opportunities, Key Applications and Forecast to 2026"
+    excerpt: "Wiseguyreports.Com Adds 'Artificial Intelligence for Automotive-Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025' To Its Research Database <p>This report has been prepared based on extensive research and analysis of the latest dominating trends in the market."
+    publishedDateTime: 2020-12-08T14:04:00Z
+    webUrl: "https://menafn.com/1101247049/Artificial-Intelligence-for-Automotive-Market-2020-Global-Analysis-Opportunities-Key-Applications-and-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/updates/pr/2020-12/07/G_2a43fbc9-1image_story.jpeg"
+        width: 278
+        height: 333
         isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
     excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
