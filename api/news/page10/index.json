@@ -2,57 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-11-30-how-ai-is-influencing-the-evolution-of-the-telecommunications-industry.md",
-      "title": "How AI Is Influencing The Evolution Of The Telecommunications Industry",
-      "excerpt": "AI has helped the telecom sector redefine customer experience, bringing forth new opportunities but also complicating business models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb432b0c5dac00077006bd%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-is-the-pandemic-spurring-a-robot-revolution.md",
       "title": "Is the Pandemic Spurring a Robot Revolution?",
       "excerpt": "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic.",
@@ -830,6 +779,111 @@
       ]
     },
     {
+      "path": "_news/2020-11-30-automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers.md",
+      "title": "Automated transcription spells savings, speed and security for Griffith University researchers",
+      "excerpt": "Professor Elizabeth Kendall is the executive director of the Hopkins Centre at Griffith University, and leads a large team of researchers investigating rehabilitation and disability service delivery and community support.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-au/features/automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers/",
+      "originalUrl": "https://news.microsoft.com/en-au/features/automated-transcription-spells-savings-speed-and-security-for-griffith-university-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/05/Griffith-NATHAN-architecture_evening-HIGHRES-38-e1573792208782-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business.md",
+      "title": "‘Dangerous’ And Hidden Microsoft Feature Could Destroy Your Career And Your Business",
+      "excerpt": "A new Microsoft 365 feature designed to boost performance could spark management and staff behavior that undermines it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc40308368520046e9ef540%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonyewing/2020/11/29/dangerous-and-hidden-microsoft-feature-could-destroy-your-career-and-your-business/amp/",
+      "publishedDateTime": "2020-11-29T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-israeli-ai-sports-highlights-company-expands-to-russian-market.md",
       "title": "Israeli AI sports highlights company expands to Russian market",
       "excerpt": "Since their launch last year, WSC Sports has grown into a world leader in AI-driven sports video technology, creating highlights for over 100 leagues and broadcast partners around the globe.",
@@ -1129,58 +1183,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai.md",
-      "title": "Emily Murphy, Administrator Of The GSA Shares Her Thoughts On AI",
-      "excerpt": "Being recently thrust into the news, Emily Murphy, Administrator of the GSA might have rather been known for the impact she has helped make on the GSA's use of AI and automation to change the way the government procures and uses technology services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc25de1572d1ce489ed7e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2400%26cropY1%3D271%26cropY2%3D1621",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
-      "publishedDateTime": "2020-11-28T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

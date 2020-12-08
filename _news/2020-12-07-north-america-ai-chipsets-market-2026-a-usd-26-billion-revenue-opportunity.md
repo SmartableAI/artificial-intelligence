@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipset
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Automotive Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2020-12-08T07:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-by-size-growth-opportunity-and-forecast-to-2026-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2/jklmDQA6hkeyz7nb8uIpgNlC+GC/ZqQoY8d/BMZQvCMvjydYSwb7PH//BA1IBVPFt0BiK97Jx0ZLZE8GY6OKuPrz1/yFdQyYVKQ4BN3IE9Dn2wAofx81XVxrJC3QEO4loRHEvJugXMCW91smECXOuX7sNGzE6ulu596fjnoMTVTLy7c4SjldmTTRFA4X7qQKmxpeHMNn9AbUefD5NrBCDsoEPoxHxZlmlidRAHgftkdrTenjKo/Jx/PS5eUdswWlq5tR3PP5bn1jXOXurhEa8T+ueAfOlXwn7hHhfdFi+qpq8QX42+h3t3quiGoxa0jDCCwVDy3iujZfsLHxGkiaqQgZKwAlFu9ThjqR+ADgI=;FTXbrSr9X7nKxLkbPIg3FA=="
 ---

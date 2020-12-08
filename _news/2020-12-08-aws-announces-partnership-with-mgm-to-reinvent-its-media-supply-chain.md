@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MGM leverages AWS for its supply chain"
+    excerpt: "Film studio MGM has reached a multi-year deal with Amazon Web Services to power its media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms. The new MGM media supply chain will use AWS compute,"
+    publishedDateTime: 2020-12-08T08:43:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 74
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/12/bond.jpg"
+        width: 768
+        height: 433
+        isCached: true
   - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM)"
     publishedDateTime: 2020-12-07T15:38:00Z

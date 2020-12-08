@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI-focused Deepcell raises $20M in series A"
+    excerpt: "Artificial intelligence (AI)-powered cell capture startup Deepcell Inc. scooped up $20 million in a series A round led by Bow Capital. The funds are earmarked for developing the company’s microfluidics-based technology,"
+    publishedDateTime: 2020-12-07T23:19:00Z
+    webUrl: "https://www.bioworld.com/articles/501026-ai-focused-deepcell-raises-20m-in-series-a"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/Dollar-pig-bank.png?height=635&t=1588782533&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "ErM29IUflruyzklviIRnGTN1rUNvCrMJXSjZlMviM2EGwkQssxxvo5v+5k4PuY6AK+PwBrJPL1U97TT7JG5q06Hwfga0nuBewCj9sosO3BeRzpI6UCZXR3VJemKEeFz0tlf/pnKnSRu7Db8aAJ0C5Dt/cHgwtts69ZEaQ3J9N5YKVIYAUiLRrrouP9mlOpNQS4yex1kDbh3PAZ1B4um7N8L+La+/tdyOaYs6cVhbusyKsOVI9vP+uW34acWMPsldan+v9TswOvqTS8aej8d9jKfPAEQkv6kV8baiC4+BwPBWNUblLLBsL/ptjFl5PoG5RQ563R6193Hbv5j2qDMLxSOGmx+xipsKoZo00ZqXx7STyPkaRUNPQeldVwyLv/jKAIYi5m0jsX1Mp6hD8iPu/13TN6UUqz8ajzX4apIWAMQcpN+O1f4DGaQ/HAxv3tRRG3uQM5APqanMrJwGoKFr4w+BqoWBmZxQP/S2pcZTwNmcsmhlL4wr6fULlXOGbtAJEJvxzJc4uRKtGKtirPa+Cw==;D3a8cmy82fS91o0CJteo5w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-au/features/bluescope-forges-enhance
 webUrl: "https://news.microsoft.com/en-au/features/bluescope-forges-enhanced-analytics-capability-transitions-800-models-to-the-cloud/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 541
     isCached: true
-
-related:
-  - title: "Versor revamps BlueScope’s analytics"
-    excerpt: "Microsoft partner Versor has lent a hand in steel vendor BlueScope Steel’s \"data-driven\" digital transformation efforts by revamping its data warehouse and analytics platform."
-    publishedDateTime: 2020-12-03T16:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/684945/versor-revamps-bluescope-analytics/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 24
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_l_190538910.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "d7kdfaazZ7SscOgIjX6VrvDz3iM9JlBnBZ0hpeGELnx3526GjtAlxHUxl1MfNssg6YAxbY3g5AVqLFaxzXczuh2/Gx1NSDfgZFXMpkcvrli8rV637U8J1k00+UTNXmTM1/wExme6Xv96s2X+jRBafo/p209aKODu3/xm30oykeQXnNUfwEhFvjQjuHmemZ0PmO9ec7KjLlRsotke6Yz7hBiSvOmiNiLHzRfr7FeTw24f96SXSLirM2WpO4lBlZ/DdkTZGYs9ZMo7+F+reMIb5mx2n+IGg2G41f5djdeeWdQNox3sq6znkI19eD+usMHWRBPK5Lp30pJcoJRRrZxL4ct+xsqEe77FG6W4yGg+HrMgZK3qwCj8Or2SnkirqJZ4xUp9firXkwNSkkMS8Z3dNDV02AupqS+kyPWbQaN5sEEBUBRNvFpwUY+Z+DSPMOUJ4aoPI0hiXPC6aL31/ejiKp2H8FN1pMy6xS3b1lcebCBEXD/f3GSz2Z1+5RRFcpqpIbD9T4paZwD+bIG0GkyePA==;C9zDkEhkgq+/OaqVB7BQgA=="
 ---

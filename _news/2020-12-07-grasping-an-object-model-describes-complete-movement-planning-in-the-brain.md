@@ -41,6 +41,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Model describes complete grasping movement planning in the brain"
+    excerpt: "Leibniz Institute for Primate Research in Göttingen have developed a model that can seamlessly represent the entire planning of movement from seeing an object to grasping it. Comprehensive neural and motor data from grasping experiments with two rhesus monkeys provided decisive results for the development of the model,"
+    publishedDateTime: 2020-12-07T14:44:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-grasping-movement-brain.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-12-grasping-movement-brain.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-grasping-movement-brain.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fce319c6cf1f.jpg"
+        width: 2880
+        height: 1912
+        isCached: true
   - title: "Grasping an object: Model describes complete movement planning in the brain"
     excerpt: "Neurobiologists have developed a model that for the first time can completely represent the neuronal processes from seeing to grasping an object."
     publishedDateTime: 2020-12-07T18:28:00Z

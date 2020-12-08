@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4393406-abaxx-technologies-canadi
 webUrl: "https://seekingalpha.com/article/4393406-abaxx-technologies-canadian-fintech-looking-to-disrupt-global-commodity-supply-chain"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Futre warfare: Is Indian Army ready for the use of Artificial Intelligence and Smart Technologies?"
+    excerpt: "It is for the first time that the machine gun was controlled remotely using advanced cameras and artificial intelligence and targeted only one individual without causing any collateral damage."
+    publishedDateTime: 2020-12-08T08:28:00Z
+    webUrl: "https://www.financialexpress.com/defence/futre-warfare-is-indian-army-ready-for-the-use-of-artificial-intelligence-and-smart-technologies/2145585/"
+    ampWebUrl: "https://www.financialexpress.com/defence/futre-warfare-is-indian-army-ready-for-the-use-of-artificial-intelligence-and-smart-technologies/2145585/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/futre-warfare-is-indian-army-ready-for-the-use-of-artificial-intelligence-and-smart-technologies/2145585/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 43
+    images:
+      - url: "https://images.financialexpress.com/2020/12/Futre-warfare.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
     excerpt: "Socure , the leader in Day Zero identity verification, today announced that it has won the “ Best New Technology Introduced over the Last 12 months – Data and Data Services ” for its DocV and Intelligent KYC offerings,"
     publishedDateTime: 2020-12-04T15:52:00Z

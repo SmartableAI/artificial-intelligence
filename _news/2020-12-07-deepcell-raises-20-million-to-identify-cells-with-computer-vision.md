@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-ide
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Deepcell-raises-20-million-to-identify-cells-with-computer-vision.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI-focused Deepcell raises $20M in series A"
+    excerpt: "Artificial intelligence (AI)-powered cell capture startup Deepcell Inc. scooped up $20 million in a series A round led by Bow Capital. The funds are earmarked for developing the company’s microfluidics-based technology,"
+    publishedDateTime: 2020-12-07T23:19:00Z
+    webUrl: "https://www.bioworld.com/articles/501026-ai-focused-deepcell-raises-20m-in-series-a"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/Dollar-pig-bank.png?height=635&t=1588782533&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "FkWT9ou1NpzC4DMoJHsKI4D3v04GC2jK4WIbf3eeWnuWHz3W2Czbck/IkbVpN63Sh9O8AoQBAVP49Ig14Whu3blVTIlq/HNs3Uo26hRd+CDv8gk3KnP/Q0a6RLDD04VLKpmRu3FsGVC/503741TIdZpx/n4Gj+DD1X+tuIjrf10/rJLNwB154m4Z67KP+LQbcii2gr+wVmAEDzM87zWzzsjo5wMF8JNxODQp3KSawvnHUV92yV6g7zUPbBCuMKw67hWHQStiyrfJLZblJ/zsBjNbabOr2a1KgigRfWiMwqxtCaKZd3c0M8dSaXJsTC/vUvb71vg10z5q2GYANbD/K+skHRMEkDmlmbW8xbYBPvV/9FwH2M2Mq5u65ac5CkUkoYPtZQfZh3ggSkYIrsAs9LoaFPAWxbioG1FYU9kxqyQTcXEf8i2GLZbvKibpJxMjCUTMqJZeYUhjuzTaEMkT9HkPaloQT1qwR5nOZcbbOBIbiwBk6wadlhiuzZLhTgZfvtqeJU8zxbNGktdsObfV+Q==;W116/jsK9RBbGQG8/nsEGg=="

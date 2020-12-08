@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Luminar IPO makes 25-year old Austin Russell one of world's first, and youngest, self-driving billionaires"
-    excerpt: "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal."
-    publishedDateTime: 2020-12-03T15:20:00Z
-    webUrl: "https://www.cnbc.com/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 71
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105223671-821265836.jpg?v=1607007200"
-        width: 594
-        height: 396
-        isCached: true
   - title: "Elon, a 25-year-old billionaire, and the great self-driving car debate"
     excerpt: "Tesla (cameras + AI) and Luminar Technologies (LIDAR) have 2 competing visions on how fully autonomous vehicles will be achieved."
     publishedDateTime: 2020-12-07T03:53:00Z

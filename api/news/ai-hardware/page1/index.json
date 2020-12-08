@@ -148,7 +148,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -256,7 +256,7 @@
       "originalUrl": "https://www.zdnet.com/article/getting-there-structured-data-semantics-robotics-and-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -703,10 +703,10 @@
     {
       "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
       "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
+      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
+      "webUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F",
+      "originalUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -723,9 +723,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
-      "publishedDateTime": "2020-12-02T11:00:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C22F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C22F",
+      "publishedDateTime": "2020-12-02T11:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

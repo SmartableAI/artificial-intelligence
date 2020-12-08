@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 730
         isCached: true
-  - title: "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML"
-    excerpt: "Today, MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good."
-    publishedDateTime: 2020-12-03T17:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-north-america-software-industry-759fd12740d94f46a3faa27c93149239"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Creators of MLPerf Launch MLCommons Consortium for Machine Learning Benchmarks, Metrics, Datasets, Models and Best Practices"
     excerpt: "Today, open engineering consortium MLCommons launched an industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. MLCommons will focus on: Benchmarks and Metrics – that deliver transparency and a level playing field for comparing ML systems,"
     publishedDateTime: 2020-12-03T20:17:00Z

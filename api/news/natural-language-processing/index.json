@@ -202,6 +202,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb.md",
+      "title": "Google widely criticized after parting ways with a leading voice in AI ethics – Jaweb",
+      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-widely-criticized-after-parting-ways-with-a-leading-voice.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp",
+      "publishedDateTime": "2020-12-04T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
       "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
       "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
@@ -210,7 +254,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1446,58 +1490,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-recent-trends-in-global-mobile-speech-recognition-software-market-to-expand-with-covid-19-impact-2020-2026.md",
-      "title": "Recent Trends In Global Mobile Speech Recognition Software Market - To Expand With Covid-19 Impact [2020-2026]",
-      "excerpt": "Global Mobile Speech Recognition Software Market report provides a crucial document of Technology and Media for the industry players to understand competitive Mobile Speech Recognition Software market scenario.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

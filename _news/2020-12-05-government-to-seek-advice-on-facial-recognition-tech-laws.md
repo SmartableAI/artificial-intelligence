@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-a
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
         width: 768
         height: 438
-        isCached: true
-  - title: "Police facial recognition: new study calls for greater oversight in NZ"
-    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
-        width: 1420
-        height: 798
         isCached: true
   - title: "'Regulation gap' for facial recognition technology, law expert says"
     excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","

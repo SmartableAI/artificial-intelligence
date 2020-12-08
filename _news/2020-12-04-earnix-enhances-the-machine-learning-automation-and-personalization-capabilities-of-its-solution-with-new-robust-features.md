@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OctoML Announces Early Access for Its Machine Learning Platform for Automated Model ..."
-    excerpt: "Today at the Apache TVM and Deep Learning Compilation Conference, OctoML, the MLOps automation company for superior model performance, portability and productivity, announced early access to Octomizer."
-    publishedDateTime: 2020-12-03T16:42:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/9300c67056da14913760a6bad9b9d850"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "COj/qJqg9u8j0SvMs1Q32LDQPwg0V7QzG+WhIBjzc+ZoGELiMtMWcpYA94aLlYotgXhs4Thxk9PS7eH3pXW9PJQmqsLB2IDl9/enYxzw4kVJuOmKM6WPT34l2QoshnXH8mX3J01X9GA57kwGP3HNqh1UVG/YB/qoX+ujenLJAdE9WlEGRUOi/jZkeAOObS4liKQGi/riCcsXNY8ThpLQJvQfa+CSh7x6PBOvl+9um9UDHu3viiPsJwx096VMFR8njLoFHLPpCZ0DAm9lqWFtDLNgaGDrun8wjJHvjbd5Mm2YMlL6HgFkdb6kdWh1pkU/gyUoqtAys9tEXmWk7OsqfPl0aj0yqt7HeUwTgtWvT5c=;KESrO7n8alNlOR2RspFnHA=="
 ---

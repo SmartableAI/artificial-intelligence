@@ -110,20 +110,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Canadian organizations are breaking down data silos with the launch of Azure Synapse and Azure Purview"
-    excerpt: "Post by Henrik Gütle, General Manager, Microsoft Azure  About five years ago, as enterprises were transitioning to the cloud on mass to reap the benefits of flexible, large-scale computing and data storage,"
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://news.microsoft.com/en-ca/2020/12/03/canadian-organizations-are-breaking-down-data-silos-with-the-launch-of-azure-synapse-and-azure-purview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 23
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/67/2020/12/MDC19_hotAisleGreen_002-1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "11DsqlG0PwQqLvJMGfR2ad/o777zjK/0ScJi4kgWY2HI1YO2Ld5zUHT5Cvx0LatKuDCmpTs0FWnr5qAQenTSducP7Xe5iiBi+OxdJKokAs9cyZbByfnyfKmRVjrItHKN+ADeWK6bjeZ+ZH/tiua/Ph0st9Rdt+JtU2ftwRhPW3iUn2UdlijflBTWMggsAzWCOhkM4FBXfommKYuY7iF2F8b4lB+PQsNaPdhGnpq4TCBe2cemzwwYwmrPjte9BZYfejK3arFvBInKJ+u6yhmTyGZ+/JIVr4iwnMLlRkLg5hnZS9gT06p+qWcEMGqer7iT1md86rl3y3oMXDgQarRdXBqk+EPeY26wZKBgL+V+Chg=;cCCZMqLqoVNRXhEnzoumqg=="
 ---

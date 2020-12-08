@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-24-preludedxtm-announces-partnership-with-americas-choice-provider-network.md",
+      "title": "PreludeDx(TM) Announces Partnership with America's Choice Provider Network",
+      "excerpt": "Prelude Corporation (PreludeDx(TM)), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/preludedx-tm-announces-partnership-with-americas-choice-provider-network/article_f90d1080-8d16-566e-aa8d-ef9e95373dd4.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/preludedx-tm-announces-partnership-with-americas-choice-provider-network/article_f90d1080-8d16-566e-aa8d-ef9e95373dd4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-i-paid-an-ai-to-get-me-instagram-followers-it-didnt-go-well.md",
+      "title": "I Paid an AI to Get Me Instagram Followers. It Didn't Go Well",
+      "excerpt": "Influencers and pop stars use AI-powered bots to boost their online presence. But what happens if a non-celeb (like me) uses one?",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/93wad8/instagram-ai-bot-followers-review",
+      "originalUrl": "https://www.vice.com/en/article/93wad8/instagram-ai-bot-followers-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fbbec0a430030009be97230/lede/1606152260223-2am9rka-1.jpeg?crop=1xw:1xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review",
+      "publishedDateTime": "2020-11-24T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-california-paves-way-to-let-self-driving-taxis-charge-for-rides.md",
       "title": "California paves way to let self-driving taxis charge for rides",
       "excerpt": "Regulators in California have developed two programs that will allow and permit self-driving taxis to charge their passengers for rides.",
@@ -514,6 +599,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-machine-learning-101-part-1.md",
+      "title": "Machine Learning 101: Part 1",
+      "excerpt": "The purpose of this series of articles is to provide a complete guide (from data to predictions) to machine learning, for .NET developers in a .NET ecosystem, and that is possible now using Microsoft ML.NET and Jupyter Notebooks. Even more, you don’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://jaxenter.com/machine-learning-101-part-1-173473.html",
+      "originalUrl": "https://jaxenter.com/machine-learning-101-part-1-173473.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/11/shutterstock_1740253916.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1049,153 +1177,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-find-your-inner-poet-with-help-from-americas-greats.md",
-      "title": "Find your inner poet with help from America's greats",
-      "excerpt": "Behold! the living thrilling linesThat course the blood like madd'ning wines,And leap with scintillating sprayAcross the guards of ecstasy.The flame that lights the lurid spellSprings from the soul's artesian well,Its fairy filament of artEntwines the fragments of a heart.Poetry by Georgia Douglas JohnsonWhen",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/verse-by-verse/",
-      "originalUrl": "https://blog.google/technology/ai/verse-by-verse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/versre-by-verse-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/verse-by-verse/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/",
-      "publishedDateTime": "2020-11-23T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-self-driving-cars-a-level-by-level-explainer-of-the-road-to-autonomy.md",
-      "title": "Self-driving cars: A level-by-level explainer of the road to autonomy",
-      "excerpt": "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "publishedDateTime": "2020-11-23T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-preparing-for-the-artificial-intelligence-revolution-opinion.md",
-      "title": "Preparing for the artificial intelligence revolution | Opinion",
-      "excerpt": "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
-      "originalUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
-      "publishedDateTime": "2020-11-23T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

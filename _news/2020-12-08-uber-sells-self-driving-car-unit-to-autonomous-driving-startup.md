@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Uber sells ATG self-driving business to Aurora at $4 billion"
     excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
-    publishedDateTime: 2020-12-07T23:56:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2RX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2RX"
+    publishedDateTime: 2020-12-08T03:39:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-atg-idUKKBN28H2RX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2RX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2RX"
     type: article
     provider:
       name: Reuters
@@ -381,6 +381,6 @@ related:
         height: 787
         isCached: true
 
-secured: "BZQ7yN6cDjQ+CEjAXgefzT0EGH7EwikJ98F1HaIHFGrNg+RjiBQCD9N+zpeDUDz3sgzZUF/T8UhtIJQss5hFrGR6mlB9KD1/DnEMVBk9Utu3OPDAr2csQxTl92EQXubAa08RApOI9M6aOVelb82Di6jLXBcFHvilWfjH9XCrfqSbOYq1tffKJPHRXM7HP5pVRus4C4mUcYkOlWOoyg7S1/zPQEMqyFEpkqlOoaDwetuKPCOau3/Vy7FkCusYM+HZ9D/eDGmH01ggojyDwqsjZuIa3U59DTLTVtpHRPkO7VPIq5OYpTXKzMBek8ErmHcKVwBjF/Z80ZKFf4s6WQgM/n9G/56rK8sHNHHKlqiOf6Y=;OW/jPALbkToMlx37CX+qyA=="
+secured: "xV2KIo2hVPJBi/SMVV1ODV9pJ03oLfr/JoZlD1j1PvDbFXSBVHoNpTwsBdi/aZrPzvSnCstPkzoBcrdQ7B7L8SbdbRJuIhp46nvDGAGMWb2iITNgIj4ZZtda1XXDORL2Xr8VSb6t0AEtOpXDlDbinphL3hCzVRGqceLxpYbDOOEFHPgHnMsc1x8sjBAAkfS28l5EFZQMi45voL4gCb2TstQxxjc1K7naYUIwxkQzJbhI+AzJ5PMTng+0EfD6eSoT0MJEersaWP8GPtU/isxtgvaEPVbjUuWQbNJhCyaslzfj7J6SEf27/gbx6GmCet6X1GqgPGEYSKthhil6YywPOX1pJsfto4jR1cXDABBmDvM=;0tY009IQvrfQlDe431VO1Q=="
 ---
 

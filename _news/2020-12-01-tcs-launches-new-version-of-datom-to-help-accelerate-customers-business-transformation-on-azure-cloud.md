@@ -1,29 +1,26 @@
 ---
 category: news
-title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers’ Business Transformation on Azure Cloud"
-excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics Target Operating Model ( TCS DATOM™ ) consulting framework,"
-publishedDateTime: 2020-12-01T06:45:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-1ceeba322a3f0778fd6dcf6477902fb3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-1ceeba322a3f0778fd6dcf6477902fb3"
+title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud"
+excerpt: "PRNewswire/ -- Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization,"
+publishedDateTime: 2020-11-30T16:27:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html"
+webUrl: "https://www.prnewswire.com/news-releases/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-301181744.html"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
+    width: 2063
+    height: 1082
     isCached: true
 
-secured: "j3bTLpzrqhXklRXX9bwpK/TJ727GxlMzRcuoZWYfd7P83Vd/fB6XtN/pucioCOUm6GcO7ROg76Yn3gbjGMS+p/+9JXIa5cHIzW2WPrVshBWhqtW5Ks7hM6j/RldSptEITDixx1FcWyQqJFazlDuPM3yOsS3teTmMGyajB9wMd2BakEGv34Wzt/ZqLbovJ6gf0xkteSrxU7iJ4Vkj39j7ZCyk3saOM2cEhbwmLzVfzKajQl0FfRLdWWYXJ4v3yby40vxWUIWPzY8q3UfuWx+fp9UeaY69cYMoMeq/ZsQb+1hkFhIEssmRs7FTK5GPbh9MJzL1BA/PYSQeT9nW6y1476oOQA6JKaTKyr1RP9chHow=;ztVFXAzMpHToDHCilOSQzQ=="
+secured: "C86MPhZKftD5KyGx1MnvHLSkmgAYXJ/s4XqCiMs03UCkySCk3NVnAwXXu/poLxn9bRWuotqW12YTCOG0kUwwUYMVsRliDEwlhiTapJUegqAhiU2iLXcy6RQPUjHxoSqcuqOU+m8nBQ39SfVrPwjarSRsJQ8s0wW+XMYPa+IIItzZggDC2PI3nbCLva64xvMgBfKdUlLiEYcrb6GGw8sHub0MZ2khj2MMBa48yFpZXV6CNtOvmL4Uksmwjf5z9whOw9lxwGHS+7V1LqaI/SwA/Dj9dEvu1eYkmUueCnPiMk+JkSZNkO1gX+ZjJ8H4kWXII7QFP0SInWaS/5XH31FgeNBmLYYAm3FR4BP+9EWjUfE=;IwGxQ9rVejAN3HygZ1P1wg=="
 ---
 

@@ -74,6 +74,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Nuclear scientist killed in Iran by machine gun with ‘artificial intelligence’"
+    excerpt: "A satellite-controlled machine gun equipped with “artificial intelligence” was used to assassinate Iran’s chief nuclear scientist, according to officials in the country. Mohsen Fakhrizadeh, who"
+    publishedDateTime: 2020-12-07T20:43:00Z
+    webUrl: "https://nypost.com/2020/12/07/nuclear-scientist-killed-in-iran-by-machine-gun-with-ai/"
+    ampWebUrl: "https://nypost.com/2020/12/07/nuclear-scientist-killed-in-iran-by-machine-gun-with-ai/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/07/nuclear-scientist-killed-in-iran-by-machine-gun-with-ai/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 53
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/IRAN-NUCLEAR_SCIENTIST-SECURITY.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Iran says top nuclear scientist killed by 'artificial intelligence' machine gun"
     excerpt: "The satellite-controlled weapon 'zoomed in' on Mohsen Fakhrizadeh's face before firing 13 rounds, an Iranian official said."
     publishedDateTime: 2020-12-06T21:42:00Z

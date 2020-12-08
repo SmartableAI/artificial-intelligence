@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.newshub.co.nz/home/world/2020/12/iran-s-top-nuclear-scientist-killed-by-satellite-controlled-machine-gun-using-ai-facial-recognition-iran/_jcr_content/par/image.dynimg.768.q75.jpg/v1607361205924/GETTY_REUTERS_IRAN_NUCLEAR_SCIENTIST_1120.jpg"
         width: 768
         height: 438
+        isCached: true
+  - title: "Nuclear scientist killed in Iran by machine gun with ‘artificial intelligence’"
+    excerpt: "A satellite-controlled machine gun equipped with “artificial intelligence” was used to assassinate Iran’s chief nuclear scientist, according to officials in the country. Mohsen Fakhrizadeh, who"
+    publishedDateTime: 2020-12-07T20:43:00Z
+    webUrl: "https://nypost.com/2020/12/07/nuclear-scientist-killed-in-iran-by-machine-gun-with-ai/"
+    ampWebUrl: "https://nypost.com/2020/12/07/nuclear-scientist-killed-in-iran-by-machine-gun-with-ai/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/07/nuclear-scientist-killed-in-iran-by-machine-gun-with-ai/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 53
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/IRAN-NUCLEAR_SCIENTIST-SECURITY.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Assassination of Iranian scientist used 'artificial intelligence' camera and machine gun"
     excerpt: "The “AI hit” on Tehran's nuke mastermind Mohsen Fakhrizadeh took 13 bullets and happened as the camera focused on him, triggering the pick-up mounted rifle soon after"

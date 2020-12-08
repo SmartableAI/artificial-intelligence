@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-sy
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/549/2020/12/fedex-airport-terminal_1200x630-1024x538.jpg"
         width: 1024
         height: 538
-        isCached: true
-  - title: "Canadian organizations are breaking down data silos with the launch of Azure Synapse and Azure Purview"
-    excerpt: "Post by Henrik Gütle, General Manager, Microsoft Azure  About five years ago, as enterprises were transitioning to the cloud on mass to reap the benefits of flexible, large-scale computing and data storage,"
-    publishedDateTime: 2020-12-03T16:29:00Z
-    webUrl: "https://news.microsoft.com/en-ca/2020/12/03/canadian-organizations-are-breaking-down-data-silos-with-the-launch-of-azure-synapse-and-azure-purview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 23
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/67/2020/12/MDC19_hotAisleGreen_002-1-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
     excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."

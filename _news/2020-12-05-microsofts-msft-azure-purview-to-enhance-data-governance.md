@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 741
         isCached: true
-  - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
-    excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
-    publishedDateTime: 2020-12-03T16:03:00Z
-    webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
-    ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft’s Nudge service leverages AI to speed up completion of pull requests"
     excerpt: "Microsoft says it's using an AI service -- Nudge -- to accelerate pull requests in software development projects."
     publishedDateTime: 2020-12-03T20:13:00Z
@@ -83,17 +67,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
-    excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
-    publishedDateTime: 2020-12-03T16:04:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-07T09:18:00Z
@@ -137,20 +110,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Microsoft launches Azure analytics and data services"
-    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
-    publishedDateTime: 2020-12-03T16:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "Microsoft launches Azure governance tool to map data"
     excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."

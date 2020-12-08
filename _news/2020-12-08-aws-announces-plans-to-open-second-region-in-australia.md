@@ -1,25 +1,33 @@
 ---
 category: news
 title: "AWS Announces Plans to Open Second Region in Australia"
-excerpt: "Region will be available in the second half of 2022, supporting hundreds of thousands of AWS customers with lower latency, and even greater"
-publishedDateTime: 2020-12-08T01:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18685973/aws-announces-plans-to-open-second-region-in-australia"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18685973/aws-announces-plans-to-open-second-region-in-australia"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18685973"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18685973"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in"
+publishedDateTime: 2020-12-08T06:44:35Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "PiLxCrPxd7O9mAKfCLgYCkndmH0hFFTwnhsCmUKx4SA4mmAw10YwzTSKyXHSnpZkD4xqtklFUXAWgODehXcC5ZY6+6tkL8txeNixe+TmpGoaA4CjRIZ+PsQPuNRAURxNUlNmPYuRuQTOGz44/ri3iHMMyx0npzN/FLRZP8DwooJ/FVXq3VK5TcWEC1kK8dXxh3WnEOnveqJ43r1gpi95ACq7l/aiDhU2mLtLqVaLlWf5f23QTDIxKsiyFlC7943t4jcuZLr6I04fRlD7uCTINzc5b5drLL7e/Q43YZRzLteKxFZVAhAJeAQu4my4yQPTjoofFPRS8y11jBWQYLOSG0lD1rNykMeXCbsEeUIHBw4=;aosDbsr1DwqkF/a1q25BAQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ZfMsFalobjkHcVdHxoNe42zJ84/ITvfcI+22Gf/YGI+V+0LX2mjgDwg1XfNd1yq0uG9ycK4xYLGPfiDLu7L1Kq3t5ffyez+q+IgvnM9DRB9OlSviPEYm9uuOoz2AZiorlJRaPsx7Gw+ENRqurpQ1ICzqI9hIA2/boElzI3CSbU3b3CcJwu+dYYndgMoJTrx5fw51f8ImfucHbQmvrEFTVud3nKfgoHIno1uz3oP/JSlQfRiXoMJT+bXRuOHoHe+ySkbZK/QUOoPtRjKg7djpgCnNqAqVIjnswMp/+JA2GAifigz1L2tJfwD5gnC863PKRCqpIvsZBvLuWXRyxJQ1Qsinq45o6dbP9GLqx+Ub7jM=;CD55kk1/Ie7yhf4uB1S4hg=="
 ---
 

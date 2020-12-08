@@ -2,83 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
-      "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
-      "excerpt": "The online meet-up '10X Extension in Luxembourg' organized by the Seoul Fintech Lab on November 26 was ended in great success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success",
-      "originalUrl": "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
-      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
-      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "publishedDateTime": "2020-12-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
       "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
       "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
@@ -1196,6 +1119,102 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
+      "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
+      "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png",
+          "width": 797,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "publishedDateTime": "2020-12-01T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-healthcare-process-automation-startup-olive-ai-lands-15b-valuation.md",
+      "title": "Healthcare process automation startup Olive AI lands $1.5B valuation",
+      "excerpt": "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
+      "originalUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg",
+          "width": 725,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T18:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

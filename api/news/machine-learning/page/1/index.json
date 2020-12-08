@@ -92,49 +92,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between different parts of the brain in people with major depressive disorder—even when different protocols are used to detect these brain networks.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-12-machine-brain-network-signature-major.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-12-machine-brain-network-signature-major.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/64-machinelearn.jpg",
-          "width": 874,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-12-machine-brain-network-signature-major.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-machine-brain-network-signature-major.amp",
-      "publishedDateTime": "2020-12-07T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-07-artificial-network-model-describes-entire-movement-planning-in-the-brain.md",
       "title": "Artificial network model describes entire movement planning in the brain",
       "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
@@ -143,7 +100,7 @@
       "originalUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -326,7 +283,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1418,6 +1375,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-restoring-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments-through-blockchain-data.md",
+      "title": "Restoring Credibility Of Machine Learning Pipeline Output Challenged In Study Of Real World Deployments Through Blockchain Data",
+      "excerpt": "Challenges to the credibility of Machine Learning pipeline output. How the performance of such ML models are inherently compromised due to current practices. How such problems can be cured by using the quality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
+      "originalUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc1b29874a9b53e956d3b8c%2F0x0.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
+      "publishedDateTime": "2020-11-27T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

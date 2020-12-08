@@ -2,11 +2,11 @@
 category: news
 title: "Uber sells ATG self-driving business to Aurora at $4 billion"
 excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
-publishedDateTime: 2020-12-07T23:56:00Z
-originalUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
-webUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2RX"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2RX"
+publishedDateTime: 2020-12-08T03:39:00Z
+originalUrl: "https://www.reuters.com/article/us-uber-atg-idUKKBN28H2RX"
+webUrl: "https://www.reuters.com/article/us-uber-atg-idUKKBN28H2RX"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2RX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2RX"
 type: article
 quality: 74
 heat: -1
@@ -381,6 +381,6 @@ related:
         height: 787
         isCached: true
 
-secured: "yhsyDnU+V+ThFqTJUB3bUYmkhzo2y6Fgl1cbkxqzU6/vz3tq8xYill9EdcEShqHjTObsaoAwEHYapneC2IV4GLXeuXrcp6JpvYyOgLmdPJXgG/q3t+J/EWyk3Z9oy6+2mPMYMscDXLoJmCgZpEIXY8tRymKJoBy8YUMbLh5+xFcPTMaNffvMT3HQybGGgMCgTX9DjS5o1QrjIZLFvWvtIvHw4YHEe0iUZKgLjkb/bgJ8dlLwu0znr/+bRofcZo0YHuhd3G11lvFbkz8MECf/qA7SURq9RO3Rn+93EhDVqLeYSPkraAGXnFrKqxxcmSQVb31wKJauqQqqi1Uo9ixsjT5gZ6Nc/ko3oBD9LHCkIndVY06TtQb+RYX+0v2foccZNr5PSVdXZo0d2OzfRcmSJ6Dmb2HdfA5WSvrOt/8Fr62aAjPYxMD6qgiNO+MA8rsP53KtqKiMpsZtskJXxpNpmYBO6fhDCFua6OaIdDH7NNDFtdfDp6HRr9tVu2Ha+IKxQUy43i6rwOupCJabpfYOJw==;H2IMgQNCV5b/fhJ/g/X/eg=="
+secured: "c8BYbcXZ4+paZKV6m1SOlqzTI4aVRDznquV6V8R6cH0LaBm834FrTlp3AFJr0wN0nHZqJxmTkqFdpwugDa6LNZBJOUyFtVTHIw9APFEmAeHfkXZQa2SxMQNrgjV8PJnmLIo0cX3aMAUbLFEvjB0+9/29LYry52wTtbw48mmdeGcJ3nzN0u0yiSqcwVVJ/ZOi+Q6J8Fxj5zm0JWVUgFaURBXII11cmGJ1qBeRnMt/NDk2U5a2Xkhq6dyZNmQfteVb63aWUDAF6a9cMqkHJQgfybAkvehldzcgjZXOLkuO3vgHR15BShH/28LpEcwi6E3bE0u0UJGc9KXFtz/bKupbUEk8TmtKW+6D0hCmbt/aooE=;U7gMA3kZGfNRUqQp87y1/g=="
 ---
 

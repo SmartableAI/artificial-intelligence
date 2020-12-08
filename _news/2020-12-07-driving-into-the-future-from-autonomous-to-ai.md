@@ -46,22 +46,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Why robots freak us out, and what it means for the future of AI"
-    excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
-    publishedDateTime: 2020-12-03T16:47:00Z
-    webUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/"
-    ampWebUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 74
-    images:
-      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "5dHf2Dnsufwo8ThLY/R2ThrdnIXe3FwbKbz4hQ+TagVsdtgLERQGPAhztJMNx7a9SgQgbz+WNboUoCpN45mmq+o7UBMRXaCcwa+aXneWa7aPXjygPAlO+yamNXnQ3DomayLvaetygjQ4cjRzJE9jQ1c7047PmBm3SuRBiI2sm0WYdKXVTiiy6ABbe59R2Fbgr5Kv0hgZMqgTNR2UgweP8sBokorJF4ENMjEz75OORQGfi50XJ/DzbJeRwKk8oLz4Yx6WNUWdAEBO9zjre597/xlyed+fJ7rYQQSgGRe3CYmMv69OPp30cmk3oSf/OGzuoZDtGAVnOQpRtBvTwUYAcYjThsJDV0o/8SY54K+v/oRgowEhorsaHaUzTNHuU5W1C+2JbG3heerj9Uez6L64s0ZVihS8qABiJDVPCgTuy2w9SwzzMay0NT+/bXrTRsQqGEpD3mPYh5O+en9mpcg/5Tk7BH9KkZv3B+Uwn9rktc4mgl+x/HJBS2jNm08f3JBcOUyS4zf3iL8GI6n/DCJzag==;nVLhjpPhXPge5+xIgIME+w=="
 ---

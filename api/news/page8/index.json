@@ -2,101 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-12-02-healthcare-artificial-intelligence-requires-data-access-standards.md",
-      "title": "Healthcare Artificial Intelligence Requires Data Access, Standards",
-      "excerpt": "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "originalUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg",
-          "width": 689,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-deepmind-ai-breakthrough-in-protein-folding-will-accelerate-medical-discoveries.md",
-      "title": "DeepMind AI breakthrough in protein folding will accelerate medical discoveries",
-      "excerpt": "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "originalUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/03/06/4e3a6121-5f6c-42e5-a44e-01592172263b/deepmind-coronavirus-protein-image.png",
-          "width": 1668,
-          "height": 1403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "publishedDateTime": "2020-12-01T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
       "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
       "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
@@ -1202,6 +1107,101 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-ai-and-position-sensing-drive-robotics-expansion.md",
+      "title": "AI and Position-Sensing Drive Robotics Expansion",
+      "excerpt": "Advancements in artificial intelligence and improved positional awareness have driven an expansion of robotics use in a variety of application areas",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
+      "originalUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chemengonline.com/wp-content/uploads/2020/12/che_1220_hires-12-fig-2.jpg",
+          "width": 600,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Magazine",
+        "domain": "chemengonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027.md",
+      "title": "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027",
+      "excerpt": "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

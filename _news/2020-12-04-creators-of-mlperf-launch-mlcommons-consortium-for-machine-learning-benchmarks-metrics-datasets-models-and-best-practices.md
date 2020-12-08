@@ -49,20 +49,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "MLCommons Launches and Unites 50+ Global Technology and Academic Leaders in AI and Machine Learning to Accelerate Innovation in ML"
-    excerpt: "Today, MLCommons, an open engineering consortium, launches its industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good."
-    publishedDateTime: 2020-12-03T17:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-north-america-software-industry-759fd12740d94f46a3faa27c93149239"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "SIt8uvjfwqC7luMBoIlq0Ijtjc7owxSHe0JrguyakNvCKT9iEuTPwDZnTdxZb/UdTMd3xabzPMdpcUZVtEjEgeH2MG+sSXIQq3aZxfkluoyZOHgFDYGKCSFihlrlDCCiD7i3OOd/febpMJjJFzo4d/bd0PxDM2etDzmFrdrQqxe1ikaqjw6oQsJfMjPRq18Mi4OjwIa8OpK2UwAn/nsI68C+Nfm9ek+TBf/UG4SUoFviDu/uAmCIn3rpKJGlFo53djl8UziWGl4VvjgqDPV5IbbTEFEylxiF66HBa7xYyzIkREKm9N+B1SKNypVqm5R+X7Umo/m8CUqPCxczkfm5qxV0+rJuQdMqaXJy1zVMJf0=;dI6z1NxOU+m+Gi/AuaJYHQ=="
 ---
