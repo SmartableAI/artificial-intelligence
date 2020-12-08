@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This student from NUST just became the first NVIDIA Certified Jetson AI Specialist in Pakistan"
-    excerpt: "Muhammad Uzair Khattak, research assistant at SIGMA and the TUKL Deep Learning Lab in SEECS, NUST, is officially the first NVIDIA Certified Jetson AI Specialist in Pakistan. The past decade has been defined quite a bit by huge leaps and bounds in artificial intelligence."
-    publishedDateTime: 2020-12-03T11:09:00Z
-    webUrl: "https://www.techjuice.pk/this-student-from-nust-just-became-the-first-nvidia-certified-jetson-ai-specialist-in-pakistan/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 27
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/12/uzair-khattak.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "This student from NUST is among the first ones to become a NVIDIA Certified Jetson AI Specialist"
     excerpt: "Muhammad Uzair Khattak, research assistant at SIGMA and the TUKL Deep Learning Lab in SEECS, NUST, is officially one of the first NVIDIA Certified Jetson AI Specialists in Pakistan. The past decade has been defined quite a bit by huge leaps and bounds in artificial intelligence."
     publishedDateTime: 2020-12-04T17:02:00Z

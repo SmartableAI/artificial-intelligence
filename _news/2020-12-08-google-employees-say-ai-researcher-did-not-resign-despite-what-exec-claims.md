@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Google employees say AI researcher did not resign, despite what exec claims"
-excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
-publishedDateTime: 2020-12-07T23:22:00Z
-originalUrl: "https://www.cnbc.com/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-webUrl: "https://www.cnbc.com/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
+title: "Google Employees Say AI Researcher Did Not Resign, Despite What Exec Claims"
+excerpt: "Timnit Gebru’s colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean’s statements."
+publishedDateTime: 2020-12-07T18:34:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/?amp"
 type: article
-quality: 85
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
+  - url: "https://media.nbcnewyork.com/2020/12/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?resize=1200%2C675"
     width: 1200
-    height: 800
+    height: 675
     isCached: true
 
 related:
@@ -149,6 +145,6 @@ related:
       domain: charlotteobserver.com
     quality: 51
 
-secured: "XxGXHxnuJA/5P66eGNvvyaUxEtJ8jDHMjwaIfk3wieQMSJdyKyAj0oORy9DtSJ/ApvHQnOmmDl9ftfyGwAtLTbb07ZVcCwyIg14PwSBgja1IIZkYNNV8Pc5szPMwduIA6KzdZVGBtVbcnLIA8FrPoG1BiR+QjZfGETP96xROdijHZcra6dafE2ukh5SJW64JLoSXbM7inOB2wfIDxZIJZCiUqeSrcYj0AG0dPXvOCzDfqsB5Y2H4q/63iUr3Q1+3PRvz3p/TfYQ6qlVB8OWgiLf0URAoaLFE4zW8OQv9d45DjZwkJl5NCCUh4wRdqr8LlQP9r6bR1lHzZeytyFCiIo5M9u2YjIh6XJ9E3/Azie0=;2qnPwudi8a6t8nklufcI+Q=="
+secured: "+CNzO1Viqlj3SXngbtSp4PAnYWSmxge+gu+3e3QfHJKTSSQi2KiOPpPndnXqvNWX01lW4ZyAt8vQ8Npr7KHXmdTrZf3d6a62uRfX41GcSkj5ucg23l8/+BRqm6ecaX79nluvpXRD9MaNRInXOAU+A+EBFFQL7Rw/fhJGQiee+cApK3m+x+8YHxW9r/EwwEw1h/T+2QySq4INT+8A22529aDZLezCmTfBACcZINlNYPrsi0VTh35JM7kgbz4xVSPunRBIlVvX3492GoKfLBesFmN+YMEcTscT7kz8gMcHRDOiUpclkc3ADTJJhlS7QqOavb3lumTevbRPs3Oi2Z3zdqlWhy3UZ9Rd/3rrxTMzFLQ=;vlLpnG2MEaxIueJHZJ9jBw=="
 ---
 

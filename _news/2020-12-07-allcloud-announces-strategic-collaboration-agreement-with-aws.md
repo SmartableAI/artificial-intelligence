@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
-    excerpt: "Deloitte collaborates with AWS Professional Services on cloud migration and app modernization for enterprise and public sector customers."
-    publishedDateTime: 2020-12-04T00:47:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/04/deloitte-aws/"
+  - title: "How AWS aims to democratize machine learning with cloud services"
+    excerpt: "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts."
+    publishedDateTime: 2020-12-08T03:53:00Z
+    webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 29
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"
+        width: 1922
+        height: 994
         isCached: true
-  - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
-    excerpt: "John Maddison, EVP of Products and CMO at Fortinet“ Enterprises are increasingly looking to integrate both native cloud security and Fortinet’ s enterprise-class cloud security offerings to protect their workloads on AWS."
-    publishedDateTime: 2020-12-03T18:44:00Z
-    webUrl: "https://www.nasdaq.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 21
 
 secured: "TBPBJc26fpZRNdypVzhqniFEZrmIYMb2dRd5vA8giDGwdzAJnoFn43YraAzf8vmwsmASzGKYw2UAdBLKtdeDMQYFq954opCbkC/cxnkBAkFAKj8DLj2chwS8gdbfrXUbpTGfpVT+sttewbLbCb+LoCbytpz4LWCOeVnz+Pp9D4tFJtfn3jsQCAyxm6BThrbsdhXfqlg49sfMlnt7mXS1Y/2QHVcMO6mMv5vL1WOC8pAQq4MfwlDN8gVe2ngx7GB2ZpyHzDl6skIBvCUi9WbHJNVZJ3NCLGnvzgVtcxfCwjNYiieFXSCuk6WbSNYZWTAFiBlubjCka8gosPhaUjjlSh29l+rs2/45egkmTAguKVE=;Mx/CaJKSocvdcp4AYejhbQ=="
 ---

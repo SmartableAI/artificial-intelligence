@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Uber Sells Self-Driving Unit to Aurora, Takes Stake in Startup"
-excerpt: "Uber Technologies Inc. sold its self-driving car division to Aurora Innovation Inc. and took a stake in the startup, creating a larger competitor to the leader in the field, Alphabet Inc.’s Waymo.The deal will value Aurora at $10 billion,"
-publishedDateTime: 2020-12-07T21:38:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
-webUrl: "https://www.bloomberg.com/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+title: "Uber Kicks Its Self-Driving Car Unit Out the Side Door"
+excerpt: "Uber is bailing on its self-driving car unit, the Uber Advanced Technologies Group, and will sell it off to driverless trucking-focused startup Aurora in a deal that could create a combined firm valued at $10 billion,"
+publishedDateTime: 2020-12-08T04:19:00Z
+originalUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936"
+webUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936"
+ampWebUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ojyy5rpvc3vnm8yyyf7b.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Uber exits self-driving car sector, sells business to Aurora"
@@ -40,22 +46,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/k_P-sXNCtISFaJpb72WeyTwiiIk=/2020/12/07/ab5a2db9-cee7-437e-b15d-e0361aee0e01/ogi-uber.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Uber Kicks Its Self-Driving Car Unit Out the Side Door"
-    excerpt: "Uber is bailing on its self-driving car unit, the Uber Advanced Technologies Group, and will sell it off to driverless trucking-focused startup Aurora in a deal that could create a combined firm valued at $10 billion,"
-    publishedDateTime: 2020-12-08T04:19:00Z
-    webUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936"
-    ampWebUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 74
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ojyy5rpvc3vnm8yyyf7b.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Uber sells ATG self-driving business to Aurora at $4 billion"
     excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
@@ -137,6 +127,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Uber Sells Self-Driving Unit to Aurora, Takes Stake in Startup"
+    excerpt: "Uber Technologies Inc. sold its self-driving car division to Aurora Innovation Inc. and took a stake in the startup, creating a larger competitor to the leader in the field, Alphabet Inc.’s Waymo.The deal will value Aurora at $10 billion,"
+    publishedDateTime: 2020-12-07T21:38:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
   - title: "Uber abandons dreams of self-driving domination, sells self-driving unit"
     excerpt: "Aurora, one of the nation's leading self-driving startups, will become the new owner of Uber's self-driving division, Aurora announced on Monday. In addition to turning over Uber's self-driving division,"
     publishedDateTime: 2020-12-07T22:07:00Z
@@ -321,6 +322,6 @@ related:
         height: 787
         isCached: true
 
-secured: "IOjauB/3GiH8JjbtjfK/BFhpwKwCSlaLdFcUh500DjURmVreTHRp2N/LIhuDbZEIdFVKWrvVjnB1PDw58c5suTR+akZcUgctjxUbYYTPyOKi5qIOqYTrtYC+kP+9ZTRJq+otAF3rvHpmnBj57FQysIcuTRB2OAoOa+TiKxzUYB5lRleJnCeOWLbfD129/2+au75gshkgVlDPU28pEmQsP4YorTZVxPVvU4xiw1Ne2vCZWFwEQUUsM1dXqEzlyUkzq1m1Y5wVYZ8iOioVEMufF7TeqwN68gcjTkB7eQ+WmpN8yY4yMgrk6mW4R9FGrA9WWlj7biWAc5IpI1/llMf4shQXkB/U7oI/9CeMzZjc97UhOehKSK7+3D4ikWBu9g/87yMsQTC6SNrplq9aXXNFuTbsDoPC7K8L6qgkM21xalet8HhWgPudXi0sRf+yRpSsfw2Nbrptu415635JWzyS42Zigp0dsOzHbw5CqANh0km3WbMfV8vmOj4HNB22PBxRifFGQD+3V+sKK1DEFASdkg==;rc4ojXJO5VUaYw4jRD4zPg=="
+secured: "Mk0TKQqwrO0yHGHKXYiim72HEzRB8AjIgMLuZLNbgB7mTWgh0WwfLm1W7dxoZZGV1D5eWn3nEzJR6SsiYvCNWwHt3LI05DuqDOziL2UQIl73W8XRGiB8H/kyBnLOK1Im3a3YZHgRyiSsWrkatGtV141fMpZs/dzUde5CYuEihKfR0ZY6p4OzGWCtqPO+uUlqQadhpgVyeyE0AW3lFPrP/13Km+YGUsr97MFY+ql975RkdgR3cR8V0YRNoamUVAFdjorhJPFfuDWy0dKt9zObiU48yEgMa+CEgdM8dPhKpOboaRnaD79q1huRRqLGUqrwqnzmMI8wF5jOb7OzbxcM5DdaZQ1jkJg1Iyf4CrygzMM=;avID9kWqqldM/WYnvNZpkg=="
 ---
 

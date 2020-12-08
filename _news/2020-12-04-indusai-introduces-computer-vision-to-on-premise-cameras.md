@@ -18,22 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "INDUS.AI launches Construction Intelligence at the Edge to improve project oversight, quality control and safety onsite"
-    excerpt: "INDUS.AI, a leader in artificial intelligence (AI) powered construction performance and safety monitoring, is proud to be a Launch Partner"
-    publishedDateTime: 2020-12-03T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/indusai-launches-construction-intelligence-at-the-edge-to-improve-project-oversight-quality-control-and-safety-onsite-301185496.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "7uJWqBu8RIU0uufnWl7itfuF0NwyAA90WnE6ZJtdF2pYxTAm5pGegYZphLBB+2nxSas8X0UtzEbMUo0sIURBv3w4DQZX9/NAvJUmV1Kr4z67GKKM16Vnat5GvKhKoUaquQ6WpGyvc9V+NalUYvQCWlKRiVjfBByFXKSLUdYIIrBJoWu9zcRGszY2dskQztUtf3lD2FAgcPHXnjDekpt8w/0ud5vDrCH/6+uXZDChwievXsLu5UPjm24E1C/U37vwlb1th835oUghG+roNBM4ihxUpMDthL0JiP3VbE1XPmGJ81T1L0hXcdq+5nKLNvhfYWTYqQ3Y12mQUrWNcHXdnPCWhVGPGL3ZvzY9pUNTm+c=;4Ne45kFbrL3z/VHWcK4ArA=="
 ---
 

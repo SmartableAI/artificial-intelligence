@@ -501,7 +501,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -705,11 +705,11 @@
       "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
       "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
-      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINKBN28C225",
+      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
+      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -725,7 +725,7 @@
       "type": "article",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
-      "publishedDateTime": "2020-12-02T11:28:00-08:00",
+      "publishedDateTime": "2020-12-02T11:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -748,9 +748,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "AWS AI"
       ]
     },
     {

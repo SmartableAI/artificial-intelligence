@@ -2,6 +2,74 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-24-global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-2223.md",
+      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Stock Price Crosses Above 200 Day Moving Average of $22.23",
+      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $22.23 and traded as high as $25.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html/amp",
+      "publishedDateTime": "2020-11-24T00:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
+      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
+      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
+      "originalUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
       "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
       "excerpt": "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud.",
@@ -1108,100 +1176,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
-      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
-      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359653",
-      "originalUrl": "https://www.entrepreneur.com/article/359653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020.md",
-      "title": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020",
-      "excerpt": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

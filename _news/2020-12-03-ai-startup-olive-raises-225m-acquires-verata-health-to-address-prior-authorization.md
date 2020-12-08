@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/ai-startup-olive-raises-225m
 webUrl: "https://www.fiercehealthcare.com/tech/ai-startup-olive-raises-225m-acquires-verata-health-to-address-prior-authorization"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1924
     height: 1008
     isCached: true
-
-related:
-  - title: "AI construction startup Versatile raises a $20M Series A"
-    excerpt: "San Francisco-based construction startup Versatile is announcing today that it has raised a $20 million Series A. The round was led by Insight Partners and Entree Capital, along with existing investors Robert Bosch Venture Capital GmbH,"
-    publishedDateTime: 2020-12-03T12:03:00Z
-    webUrl: "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/"
-    ampWebUrl: "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/C130761.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "FEXwcN6xv9yPVqdYsY4VWoATYqbdPY0FnD8bPXmr1AcMI/Oj5h7eaYCrVhHc+lcZ+IyR2ySgZkCW6CPpcn225XD6x1hiDETEboftHlUNZfXAzaGZRjKDiidgSIqaVCCMbLPaPynJbPbMX5W/6ODSijCGVWUJF2IKPxHz/EzrFB3OBUnuszeLqUtHJbuKotP8IbwFK3qQ8RT6VbYv6MwnOE1qiRsyAKAaIUZfTI3hVtn0exNtvQVsXDKrfMDmVRM/UFApm/e6wGLu10z1HlzKxEdKt4MEjZkmJCC6yAb5XfKTrCh62+ynvCE55ObEsa3AGp/aEaf+RwHPmr1MK8gm7onHgu1kWOfDY4TU/rOaLY4=;Iqm3+wP+sHwYnnT8XJfPew=="
 ---

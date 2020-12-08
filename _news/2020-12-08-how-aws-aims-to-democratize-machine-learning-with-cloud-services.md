@@ -1,0 +1,41 @@
+---
+category: news
+title: "How AWS aims to democratize machine learning with cloud services"
+excerpt: "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts."
+publishedDateTime: 2020-12-08T03:53:00Z
+originalUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
+webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
+type: article
+quality: 71
+heat: 81
+published: true
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - Machine Learning
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"
+    width: 1922
+    height: 994
+    isCached: true
+
+related:
+  - title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
+    publishedDateTime: 2020-12-07T05:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
+
+secured: "VyP476VEUCVjBbr/KZJUXe4r/rLkBtOxOfiBWRcvA+GaK/928pVXaH4pHaqHQEv9ni9MCkwWZFej59jWJClw4a9DaBQZ7hAACdJEn3hyFTeahiwpiTBX0082hsaheZt/fRlAcwl8HQKm01jqZEJvh0mNFF5+wrewagJhuLyjOpKC/97FVqs+xzTer4E60uDuiy3QUrBGjJ+4uV3KoGEAIxrHB2yYfHXZ+/aHnMFWEcHM1QRCnoKDqiy1Nlngr0KnjYZP4ODCoqOjbc8QZyKZaLX2lZYgSJDaqJdNrzwSEAqnfEFco/1Ku+21fPfYimvnrohh3Cbz560mvKGjQk80jFSI164cgpK9fFy1WYJVcXo=;aLavBevbfuMPsvYmn7EqhA=="
+---
+

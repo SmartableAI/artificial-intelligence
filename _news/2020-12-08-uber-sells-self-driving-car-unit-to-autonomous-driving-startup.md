@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-publishedDateTime: 2020-12-08T00:33:00Z
-originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+publishedDateTime: 2020-12-08T04:52:00Z
+originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 type: article
@@ -105,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EgHrHU4L3R9ioKRgD9G6vCktZUaDbqhbAmI373uha8SKqcEVGn/iHntLdoFDe5nTSl1fXjinipO3vZmMAwSp/eyGesDL6u0jG3WtzDp75RfSb9icd6Q0fT/5inDYoetykSIHs84MxMqX4JsFWIU7kLOjLu91rZVVRsVY7V4hFvwkwJLf5rTIbakPc5XuQuRIK2+wQ/bxunpNXYRgCx5Q5cj7t2YDWAlDpENqcJKDWdF+cZeV1Jq07B2uQZSdkhtT68aEeA0z7rT3LzRqFxU4mobm/ks6hCe+//tP7FCZX3QxrfxVTahre4ttAqYYYaCUY456YqoMTeOvsfwh8jdggpaRlpb6Vhh/p7udbSXnewkFmtBB108HxzBJPWyodQSMwYIefawT91eKgyRJ+K+mfz3jlfnoaNAsYxKn33AiL1wTSVGlvWFqVSadn4FPIhpR6rU/h9d11l8c0MNRPjo6de2eWPws4uGwatqivfJ7eR0YzLBsYS775oj4weyHwKYt/kjGSunv3UYAMxfiPUT2zQ==;OYwhsOoZU+8HBa+WnLEWCA=="
+secured: "ceoZeB2mCf/xEmuAiq+lk4saojSJLkiCLUOXOW7r52QSDDBNQtJCWQgd1VjzyWT1KCijK34azwsBd/KloS5i1Ne5ctc+vWORWNpTUgt9Qyo024HRMrosr7iIY332Y90pxYgbRvahwiGI+v2lJb+b4J5R1gmSlY5Vk6wDXn7YOMUrsDehX461xly8DdvOYrSAGWQfmvRzk82CM44AbYDkBlG6udYoe6NMWSM/xMLS9qgp96y60AkbRpeHt5IJ//5ZrkEJYZJ5+bQ5WT0ETxAkgHwHTducWXzxAUFj+HKB4UAePhDgn6lfO8pIMrt/rc+D/Y2cRwG8CyDdRKt7fZ3d7lIirQD6HXTXCmc+3KJIUMU=;wXSad3G0n7xOuHnRCcNObw=="
 ---
 

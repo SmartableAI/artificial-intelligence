@@ -181,20 +181,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Microsoft Switzerland launches Dynamics 365, more Power Platform modules and additional Azure services from the Swiss data centers."
-    excerpt: "With Dynamics 365 and the Power Platform, Microsoft Switzerland is completing its existing local cloud offering after having launched Microsoft Azure and Microsoft 365 with Teams previously. In addition,"
-    publishedDateTime: 2020-12-03T12:43:00Z
-    webUrl: "https://news.microsoft.com/de-ch/2020/12/03/dynamics-365-and-power-platform-from-the-swiss-data-centers/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/12/MSC17_dataCenter_054-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "98PuO4boJa0prpMQlEKxslIh+D9enn8vnez8GlGZDs/sJEnHSdHAUMnnlBgqnDlkT8Ur4X1Tr3ZDGtXJcEydvWgrjeokCMHpE8kRQFzbWCNnXaeG8P5N9uUsghriwo6mnUzvnK1GBLuOTRTIm/miCWARer3+G4Ryq/uDuAsr8KeGzBvjSVcMtfN3d8xtj9Rm5JrTBdIHF55TZzYBALUzLH0nhZyLnAoppbh+mwnKKcOZztepnLkf4TEJW9Ok9YG+phTvWF3fa2RNkXwVqVl3UD5ETnBTgkBK7gVaQqO78uptuWHG/j5hFzJPus+KNWfX6uUOz3fMg25ugpibdTn9EaoahF6KOAnB87G86giAt4k=;IYpoa3QBNj8SyBL1tcPVzg=="
 ---

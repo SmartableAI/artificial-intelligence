@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
+      "title": "How AWS aims to democratize machine learning with cloud services",
+      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
+          "width": 1922,
+          "height": 994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
       "title": "$50K AI Prediction Contest Launches Today",
       "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/uber-self-driving-car-business-aurora-sale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1174,50 +1218,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source.md",
-      "title": "Fintech startup Valyu.ai signs on integrated marketing consultancy, One Source",
-      "excerpt": "New age fintech startup Valyu.ai, which focuses on the blue ocean Indian market for accrued advanced salaries, and is already working with close to a million of India’s employee base, today announced that they have signed on leading integrated marketing business impact consultancy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source",
-      "originalUrl": "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/afaqs%2F2020-12%2Fa8aabca6-60dc-4966-bb01-f9bf24bc7491%2Fdownload__4_.png?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AFAQS",
-        "domain": "afaqs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

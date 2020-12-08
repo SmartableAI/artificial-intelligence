@@ -34,15 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 21
-  - title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
-    excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
-    publishedDateTime: 2020-12-07T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "bnrnIK1HV67gWyYq6gfjcY1/lrGN7EULeDhoyku2n6KhSBDFLg8s+ZnsyrCSfn/pEN3RPV6NnkheYwsR53DWWq8FUTSv0TujvIFqSIPcppkzDAsCXh6ttDkjC9LdvwZUl3hHi0UxG49GKy6BYLiZ+TxaC9OGrxHSCeGjeH2pClfSuwM25FqBsD8Zghj+sm0yZeJuGd9/y1C1+uG4PbOmYQCZcDwSrGN5OtXIJDizaQ0XxA4guna7Ia7c/m39JkQoUYWoqKEbhu4W9Ju6TW84ZJjSO3KQ/ihqlLWWinSew5IZNbF1EX9OYUET1hOx/kvsRHHf4r6iigkzQgHWKzD/EUU6YEu54ZORa6nc92XxmKDdCIP4iOtMZhDvFlleySz2q+PZXtGnm+y7InCkrgQXMLGCbCY3PhVA1TsRpQSXJXw+B91rt+yEGv+BrTArv7Lk99DGcZYjZmcjsdou9ewpQQz1tG67a4ZUnVMvvNIG4tfkBFdmHYafLDNdHvDVU24wrimB0WGT+d3QGl+THUj4Dw==;t/jpfBlwpIrQ3w+8ILVDFg=="
 ---

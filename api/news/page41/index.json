@@ -2,6 +2,109 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-06-most-health-execs-expect-widespread-implementation-of-ai-in-the-next-5-years.md",
+      "title": "Most health execs expect widespread implementation of AI in the next 5 years",
+      "excerpt": "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL",
+      "originalUrl": "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
+      "title": "America Enters the Era of Technopolitik",
+      "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iExXFozC.O3o/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "publishedDateTime": "2020-11-06T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
       "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
       "excerpt": "This study set out to develop and validate an artificial neural network model that uses AI technology to detect definite radiographic sacroiliitis as a manifestation of AxSpA. \"Conventional X-ray ...",
@@ -1025,91 +1128,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-artificial-intelligence-can-detect-asymptomatic-covid-19-coughs-mit-says-heres-how.md",
-      "title": "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how",
-      "excerpt": "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/coronavirus/article247000912.html",
-      "originalUrl": "https://www.miamiherald.com/news/coronavirus/article247000912.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/coronavirus/article247000912.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html",
-      "publishedDateTime": "2020-11-05T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-ima-life-accelerating-its-digital-innovation-selects-falkonrys-operational-ai.md",
-      "title": "IMA Life, Accelerating its Digital Innovation, Selects Falkonry’s Operational AI",
-      "excerpt": "IMA Life, a world leader in the field of aseptic processing and freeze drying solutions, has partnered with Falkonry, the innovation leader in Operational AI, to accelerate IMA digital innovation using Falkonry Clue and Falkonry Workbench.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
-      "originalUrl": "https://www.automation.com/en-us/articles/november-2020/ima-life-selects-falkonrys-operational-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/3bea4930-9df9-47c5-a341-8e369fc2d89d/Falkonry-Nov5-2020-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

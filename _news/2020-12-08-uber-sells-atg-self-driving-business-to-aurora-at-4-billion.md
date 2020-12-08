@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber Kicks Its Self-Driving Car Unit Out the Side Door"
+    excerpt: "Uber is bailing on its self-driving car unit, the Uber Advanced Technologies Group, and will sell it off to driverless trucking-focused startup Aurora in a deal that could create a combined firm valued at $10 billion,"
+    publishedDateTime: 2020-12-08T04:19:00Z
+    webUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936"
+    ampWebUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ojyy5rpvc3vnm8yyyf7b.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Uber Sells ATG Self-Driving Unit"
+    excerpt: "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),"
+    publishedDateTime: 2020-12-08T04:18:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604029%2Fuber-driver-with-2-passengers-in-her-car.jpg&w=1200&op=resize"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Uber sheds self-driving cars to prioritise profits"
     excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, shedding a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
     publishedDateTime: 2020-12-08T00:30:00Z

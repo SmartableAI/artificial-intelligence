@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-dat
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -184,20 +184,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
         width: 1500
         height: 785
-        isCached: true
-  - title: "Microsoft Switzerland launches Dynamics 365, more Power Platform modules and additional Azure services from the Swiss data centers."
-    excerpt: "With Dynamics 365 and the Power Platform, Microsoft Switzerland is completing its existing local cloud offering after having launched Microsoft Azure and Microsoft 365 with Teams previously. In addition,"
-    publishedDateTime: 2020-12-03T12:43:00Z
-    webUrl: "https://news.microsoft.com/de-ch/2020/12/03/dynamics-365-and-power-platform-from-the-swiss-data-centers/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/12/MSC17_dataCenter_054-1024x682.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "L6C15+Y6ODonTNhSIpEugGPBZJ40SImvnd7TTV2ueB3R4fJEhrGM3TT/7MTfBV2kCBbjUiFl+YuGjknkhmZuBzuYi4UJoxpSuxWkKdPNryopXFWQhvZzs9/7d7cMABY3XvN/Q4JC2TD0owPUXREnRHfOJmriphPmtfJMrpnmm1pwOfvalKOfX5lnnMSzr+YxPMOfUcmLAx0vIJYes09kQw6DNnXBvXOPtXxlRYuSU6utftidsVUFFIi7qN/Rn2mMnbaDcgofu7erZWAWG0RDRscCM73JKX18rTCrwe/IGuz4/49Z+8e+mbCW8s/dB64ji4x/ELj+jvvShP22INgxQySHYvOnlalH92JnVJPi3ITqJQCZnciN03SJCU9DRjpimmru0lYL10SIVpP9QytntfxKqXyDGh9pV3pA1tC7f0ImgBaDL+NMvYFszBcF7erd6I6t1HrzcTmYVRtwIm0OaY5cXYEXJgjiyY/H41S1kSqByQS3W7YlxZYXMnhpncL9o1rU2brGZie+iQX6Ahdyuw==;Qo5m/8oMomlIW1rdEHmVuw=="

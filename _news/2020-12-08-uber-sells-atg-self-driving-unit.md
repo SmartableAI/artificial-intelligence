@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Uber Sells Self-Driving Unit to Aurora, Takes Stake in Startup"
-excerpt: "Uber Technologies Inc. sold its self-driving car division to Aurora Innovation Inc. and took a stake in the startup, creating a larger competitor to the leader in the field, Alphabet Inc.’s Waymo.The deal will value Aurora at $10 billion,"
-publishedDateTime: 2020-12-07T21:38:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
-webUrl: "https://www.bloomberg.com/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
-ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
-cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+title: "Uber Sells ATG Self-Driving Unit"
+excerpt: "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),"
+publishedDateTime: 2020-12-08T04:18:00Z
+originalUrl: "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
+webUrl: "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: The Motley Fool
+  domain: fool.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604029%2Fuber-driver-with-2-passengers-in-her-car.jpg&w=1200&op=resize"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "Uber exits self-driving car sector, sells business to Aurora"
@@ -73,22 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Uber Sells ATG Self-Driving Unit"
-    excerpt: "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),"
-    publishedDateTime: 2020-12-08T04:18:00Z
-    webUrl: "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604029%2Fuber-driver-with-2-passengers-in-her-car.jpg&w=1200&op=resize"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Uber sheds self-driving cars to prioritise profits"
     excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, shedding a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
     publishedDateTime: 2020-12-08T00:30:00Z
@@ -137,6 +127,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Uber Sells Self-Driving Unit to Aurora, Takes Stake in Startup"
+    excerpt: "Uber Technologies Inc. sold its self-driving car division to Aurora Innovation Inc. and took a stake in the startup, creating a larger competitor to the leader in the field, Alphabet Inc.’s Waymo.The deal will value Aurora at $10 billion,"
+    publishedDateTime: 2020-12-07T21:38:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-07/uber-sells-self-driving-unit-to-aurora-takes-stake-in-startup"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
   - title: "Uber abandons dreams of self-driving domination, sells self-driving unit"
     excerpt: "Aurora, one of the nation's leading self-driving startups, will become the new owner of Uber's self-driving division, Aurora announced on Monday. In addition to turning over Uber's self-driving division,"
     publishedDateTime: 2020-12-07T22:07:00Z
@@ -321,6 +322,6 @@ related:
         height: 787
         isCached: true
 
-secured: "IOjauB/3GiH8JjbtjfK/BFhpwKwCSlaLdFcUh500DjURmVreTHRp2N/LIhuDbZEIdFVKWrvVjnB1PDw58c5suTR+akZcUgctjxUbYYTPyOKi5qIOqYTrtYC+kP+9ZTRJq+otAF3rvHpmnBj57FQysIcuTRB2OAoOa+TiKxzUYB5lRleJnCeOWLbfD129/2+au75gshkgVlDPU28pEmQsP4YorTZVxPVvU4xiw1Ne2vCZWFwEQUUsM1dXqEzlyUkzq1m1Y5wVYZ8iOioVEMufF7TeqwN68gcjTkB7eQ+WmpN8yY4yMgrk6mW4R9FGrA9WWlj7biWAc5IpI1/llMf4shQXkB/U7oI/9CeMzZjc97UhOehKSK7+3D4ikWBu9g/87yMsQTC6SNrplq9aXXNFuTbsDoPC7K8L6qgkM21xalet8HhWgPudXi0sRf+yRpSsfw2Nbrptu415635JWzyS42Zigp0dsOzHbw5CqANh0km3WbMfV8vmOj4HNB22PBxRifFGQD+3V+sKK1DEFASdkg==;rc4ojXJO5VUaYw4jRD4zPg=="
+secured: "gTF1cJPda89GXHkhbc3KGDGW9hlu102b1/PbKb73SVZUMUuRPW+yWL8AfVpBhNLgHt7vPKUpkMcJRvsfm+LCX57M9VIO+WNe3TOJ2wGQEoRKLRLbD4sVdaS3sR5v20P13bovr+Iy+QFCDR/fDzlQt93IWZ+vo4vrvszGq/qnXl3n1MQt625mwQc5mlKZQkTQlbh4bAIAE9N96+QZboNYbal4ViOFJR7p/je37zYBbAvc0pKKU7pHnqCC5e8stYCRIW0qwSwClyFskFph5/vmBPjitD+sRlBFZMg507JK2rbB8MK51ylBS12EBkktfAX/5+Cla7ODQVROo1YQrp0wn1mGarsMm0Mp/9PBT4KGCd8=;5dYCqJDoTRefOB0LRIC3rA=="
 ---
 
