@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
+      "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
+      "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png",
+          "width": 797,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "publishedDateTime": "2020-12-01T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-healthcare-process-automation-startup-olive-ai-lands-15b-valuation.md",
+      "title": "Healthcare process automation startup Olive AI lands $1.5B valuation",
+      "excerpt": "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
+      "originalUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg",
+          "width": 725,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T18:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-configuring-autoscaling-inference-endpoints-in-amazon-sagemaker.md",
       "title": "Configuring autoscaling inference endpoints in Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality",
@@ -1139,101 +1235,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-healthcare-artificial-intelligence-requires-data-access-standards.md",
-      "title": "Healthcare Artificial Intelligence Requires Data Access, Standards",
-      "excerpt": "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "originalUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg",
-          "width": 689,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-deepmind-ai-breakthrough-in-protein-folding-will-accelerate-medical-discoveries.md",
-      "title": "DeepMind AI breakthrough in protein folding will accelerate medical discoveries",
-      "excerpt": "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "originalUrl": "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/03/06/4e3a6121-5f6c-42e5-a44e-01592172263b/deepmind-coronavirus-protein-image.png",
-          "width": 1668,
-          "height": 1403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/",
-      "publishedDateTime": "2020-12-01T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

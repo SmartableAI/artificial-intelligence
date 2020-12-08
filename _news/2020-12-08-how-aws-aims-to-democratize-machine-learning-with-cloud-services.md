@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-08T03:53:00Z
 originalUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
 webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterpr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
         width: 1000
         height: 669
-        isCached: true
-  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
-    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
-    publishedDateTime: 2020-12-03T13:42:00Z
-    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 39
-    images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
-        width: 740
-        height: 409
         isCached: true
   - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
     excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."

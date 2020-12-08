@@ -422,20 +422,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "One of Google's leading AI researchers says she's been fired in retaliation for an email to other employees"
-    excerpt: "Gebru, a technical co-lead of Google's ethical AI team, says she was fired by the company on Wednesday."
-    publishedDateTime: 2020-12-03T14:44:00Z
-    webUrl: "https://www.businessinsider.com/timnit-gebru-ethical-ai-fired-google-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI ethics researcher says Google fired her after she criticised diversity efforts"
     excerpt: "Timnit Gebru, who is Black, said on Twitter she was fired on Wednesday after sending an email to colleagues expressing frustration over gender diversity within Google's AI unit and questioning whether company leaders reviewed her work more stringently than that of people from different backgrounds."
     publishedDateTime: 2020-12-04T10:51:00Z

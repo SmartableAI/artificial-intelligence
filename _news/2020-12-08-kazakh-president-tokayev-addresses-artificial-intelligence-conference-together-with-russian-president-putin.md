@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-08T04:53:00Z
 originalUrl: "https://astanatimes.com/2020/12/kazakh-president-tokayev-addresses-artificial-intelligence-conference-together-with-russian-president-putin/"
 webUrl: "https://astanatimes.com/2020/12/kazakh-president-tokayev-addresses-artificial-intelligence-conference-together-with-russian-president-putin/"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://astanatimes.com/wp-content/uploads/2020/12/f39717fb1c42204c0365ab9f4700fb39-2-scaled.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1035
     isCached: true
 
-secured: "a3qB7Jwr79RiGIvPJLRkH0l3rYcAB9q71cvFn+B3n8fEtU17Of9pPHrOEaeGW1i+YCS3wNDKt74jPxqR8fII5/Z5/PSSK4onBxjFVABM4x7290zrco6semQYzK9ucYxVcjnfroq6rIS4TEQEsE5FWotL1tzvHxNAshOI1BXUsdP6oCQrC+YwQ4jsPtFI4eMIrMH/yx6FlYLb85Lx/qcYMjgmn9BE+ZAabSawJEF91hTt1qWsVBnc6ZntAJo3BOht+4ZgxEDLY3HFcvvvYim2Por9pQ4xwP7ekoIJeswMWId8iNGxlz5olrrW16M3fNCVweQA+MGgft+8j7vnhGEkSzetXzpZ+n5kq4dSVP46knU=;BZy7evUTEaKq8QWXxcrm6A=="
+secured: "ciwhkqmuK5dJyca1zfgHpX7svJxhBa1LgTetTmLAd47CbYlFpTwffpFKKzHAKqSf4IwXpXjJiIL2CesVu1vMdgf1YSqpb7VIT6S4YzB2Iv6MqbuN67Qbx8dEac20w6jIMyri94QdVnGHn6WN58HVBU1sbTP712seIjygVNCfrMySfpJ+VlMeHAYVTVoq/jZv1AVaSGaN0FR4/m1E7j836ilGRuIvekgx5ZBex+cm+PKQLOlbmhUXn/uF8v4Qj9bolHOV7KJjMv2O1ywkDNPPcWPf7EJsranW/jvKBdMMvOAUZqaZJmqkf3BeLN1tT0/ncPeJ51Bg9mx42nXgkJPfDYceuAsiyDtl4X61z1TQ3cY1go/8CR8y1DO4LLl1N7s3pTi/bkrst5Jl82IlroTChZEuBqe6Idg81ba3aE1N5robgt4IBh/OqAw+LHeaUEaMJlrNp/uk4UFInfh17P65FrIofP3mYPu6rUBJuZCvtipy444oDqBzqS1ehNrk6vp3dfROK3mer2g8gNSYd6wSyA==;vb6RPEMF20QUg4Oyt5Q6qg=="
 ---
 

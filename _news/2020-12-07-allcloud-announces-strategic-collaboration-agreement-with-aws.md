@@ -27,7 +27,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"
         width: 1922

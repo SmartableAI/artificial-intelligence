@@ -41,20 +41,6 @@ related:
         width: 1199
         height: 935
         isCached: true
-  - title: "IAN, Scale Ventures provide bridge funding to fintech startup Artivatic.ai"
-    excerpt: "Artivatic Data Labs Pvt Ltd, which operates insurance-technology startup Artivatic.ai, has raised capital in a bridge funding"
-    publishedDateTime: 2020-12-03T14:40:00Z
-    webUrl: "https://www.vccircle.com/ian-scale-ventures-provide-bridge-funding-to-fintech-startup-artivatic-ai"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 37
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/10/fundingbhaktiedited.jpg"
-        width: 810
-        height: 506
-        isCached: true
 
 secured: "i7mAtBpEo8iQjmEMGMjPAzP76xuFwKGEyD1AWqPbNQiTCF17esDyKz/bqgwRSK68cWQh4dqASMdXo1NqFKL9Mpga0XpQ7kQtnQigr77yfffRbCmmTWzodHOL3gob8w7Kvtjw/nZtM4o0A/RvsHmCrdqO+tmvMUYwIfmsZV2f4WUFyTYb9XSM/RHEfxiMn48wKTs3ICxqdxkpGsHq490PcJn2w/K4KJN83KbCZs42D7prWzrfAzXhk7jTwBLoQCmSic8IEr2pzA2Qpkygm5MHRrB66Z2qMuh05WCRP7siEOjVNKMFLOsM6ABrwVmTZvg2/cKlYK2C3VtYn8+kwk9oqFWmgV9jviEMn7aEMZaOwes=;ZLtSe3CQuTZZyXQ6ov/3tw=="
 ---

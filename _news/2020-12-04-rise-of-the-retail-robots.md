@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/rise-retail-robots-peter-h-diamandi
 webUrl: "https://www.linkedin.com/pulse/rise-retail-robots-peter-h-diamandis"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1800
     height: 600
     isCached: true
-
-related:
-  - title: "Why soft skills could power the rise of robot leaders"
-    excerpt: "What would the world look like if socially skilled robots stepped into the roles normally reserved for humans?"
-    publishedDateTime: 2020-12-03T13:17:00Z
-    webUrl: "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.html"
-    ampWebUrl: "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-robot.jpg"
-        width: 1920
-        height: 1771
-        isCached: true
 
 secured: "G+NH77qmqdm4fIg8aXAO0g982uqcex6EVmJEx/Lwwxy1J66A8h9O2euL5J7froMUqs7+0dHFv/xZCZUC2dycHTWNGG+tzTNvSbMSBb39RlX75C4OstRY15AOwLkRHPZRHvgJXz68YTB4NpFOP4AIsvYi5kxnJNGoeRnhHgLJCaLXgTeUqp5+TE4sqX79C4b/C4jwghcC8F06jpT9tpm5k0D5wqzRyUp/qIX1ltZmQhClMbVgRD63zd+EP4p35a2j0cb1gDEEmzarf92LY5qk3LLIpZjq/f7cctOjxJS0PMIOW9l8sEHW0UcPL8GPhmY6UFAL4hU/jpDMb3Tih07V5Q4Q83ai9E2RuFsrCDOY5Bo9ZPcfLMMwpVlPo9fgu811SQenXXhVxL4b+fkFgL8wWpj0kUBUkBFS784wCybB2RdGVnJH0Z0wRnqKzYc1J3sx6YtC8xKjt9iobR6io1qTKCyx7QymJAJ/7RpL6/NPfSyrP/fwemrFvOzEYcJ1Z3tE0tRKGbSE0aCxMAPEqFmClg==;mPJTbotM/5jqfaBJE2lHVg=="
 ---

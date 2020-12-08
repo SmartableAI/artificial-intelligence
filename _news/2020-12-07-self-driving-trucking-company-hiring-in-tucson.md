@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers"
-    excerpt: "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte"
-    publishedDateTime: 2020-12-03T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc85171be22ff9f9a86dc61%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D5250%26cropY1%3D441%26cropY2%3D2859"
-        width: 1200
-        height: 563
-        isCached: true
-  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T04:52:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-269524/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Impassioned Debate: Self-Driving Cars Parking Head-In Versus Nose Out"
     excerpt: "Human drivers aren't sure whether to park heading in or via backing in, which turns out to be an issue for self-driving cars too."
     publishedDateTime: 2020-12-06T16:17:00Z
@@ -73,33 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project"
-    excerpt: "Company executives once said having cars that can drive on their own would be a salvation for their business. But the effort turned into a legal and financial headache."
-    publishedDateTime: 2020-12-07T21:05:00Z
-    webUrl: "https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 73
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/08/business/07uber1/merlin_170959995_b634aab6-e554-453e-8d5c-67de425816c3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "3 Self-Driving Car Stocks to Own for 2021"
-    excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
-    publishedDateTime: 2020-12-07T15:47:00Z
-    webUrl: "https://stocknews.com/news/tsla-nvda-goog-3-self-driving-car-stocks-to-own-for-2021/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
 
 secured: "LBJIRxi79QtdQJSwaJK0i6TWzmlxPR3NmdmD927InctIqvT0p60sReTPv7mKsNf8Ai5PFc02nqz4NBpVjQ42KxlLMmPD/pnk4ZN+xROnHM3mVG7Fi0Q4257jSJLUiCFvgXnuJJn5748aAhfpp8n609LxAsBU4j07VM3D9+R8KcGABCvXnjLLz6zp2juI0BdKUmKN6nxL+CNklgsKRwCw0rQ1v4B26L0UNpcsmsFxOEWBHH+kZFCtGpxLg/HBKywwNYytbjuFCnWohcmXAnEdEFUAyU6OnLp/pFukuU5A4qN4CwMFFBhCyInSsVV29ul0IxDZxqkv8ql38s3Rg3wYcAn1q4CkKQF5arRE/YB/CscUKokQ1AVLPjIqtmJ92V9pFLjoHG/eKmf6CLHRYiJlnC94ln9HRHarxqMNOU53z6AYdPArX/CFCIW/LeDAm8tiBJNfevi74Gb/g5/k9Gx5fyQ+eQEjSqngqzz0tUsCZONgYoFbCqbL1CCeDn+hziKkaQ9u6r1VUNk077ojXJiKwg==;HWk7vi7UPjcrTLskDeeWDA=="
 ---

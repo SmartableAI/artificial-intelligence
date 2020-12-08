@@ -7,8 +7,8 @@ originalUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-i
 webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: AFAQS
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IAN, Scale Ventures provide bridge funding to fintech startup Artivatic.ai"
-    excerpt: "Artivatic Data Labs Pvt Ltd, which operates insurance-technology startup Artivatic.ai, has raised capital in a bridge funding"
-    publishedDateTime: 2020-12-03T14:40:00Z
-    webUrl: "https://www.vccircle.com/ian-scale-ventures-provide-bridge-funding-to-fintech-startup-artivatic-ai"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 37
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/10/fundingbhaktiedited.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
     excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
     publishedDateTime: 2020-12-06T21:57:00Z

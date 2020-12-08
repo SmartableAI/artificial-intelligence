@@ -2,6 +2,101 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-11-15-its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows.md",
+      "title": "It’s Managers, Not Workers, Who Are Losing Jobs To AI And Robots, Study Shows",
+      "excerpt": "This is a class of people we did not expect robots to have an effect. Because managers, by definition, supervise other human beings, so we really cannot replace their functions until the singularity occurs with artificial general intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb00928262a4a4cc9aaf465%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
+      "publishedDateTime": "2020-11-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-computer-vision-mobile-app-can-regularly-monitor-diabetes.md",
+      "title": "Computer vision mobile app can regularly monitor diabetes",
+      "excerpt": "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
+      "originalUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
+      "publishedDateTime": "2020-11-15T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-google-previews-tensorflow-lite.md",
       "title": "Google previews TensorFlow Lite",
       "excerpt": "The company announced the developer preview of TensorFlow Lite. The new solution is a lightweight version of TensorFlow, the open-source software library for machine intelligence. “TensorFlow ...",
@@ -1111,101 +1206,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-from-the-data-and-ai-expert-labs.md",
-      "title": "From the Data and AI Expert Labs",
-      "excerpt": "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Last time, we covered the simple formula we use to help",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V2.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T14:58:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-system-brings-deep-learning-to-internet-of-things-devices.md",
-      "title": "System brings deep learning to 'internet of things' devices",
-      "excerpt": "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT). Deep learning is everywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201113154627.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201113154627.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

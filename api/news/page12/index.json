@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-27-brazils-bolsonaro-says-he-will-not-take-coronavirus-vaccine.md",
+      "title": "Brazil's Bolsonaro says he will not take coronavirus vaccine",
+      "excerpt": "Brazilian President Jair Bolsonaro said on Thursday evening that he will not take a coronavirus vaccine, the latest in a series of statements he has made expressing skepticism toward coronavirus vaccination programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
+      "originalUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542607147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ01T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28704L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28704L",
+      "publishedDateTime": "2020-11-26T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research.md",
+      "title": "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research",
+      "excerpt": "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance.md",
       "title": "How AI and big data helped China’s tech giants dominate consumer finance",
       "excerpt": "The aim is to build a much more accurate picture of a user’s credit profile by using a range of online data as opposed to traditional credit scoring.",
@@ -1069,100 +1172,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-ai-automation-promises-to-have-a-big-and-not-always-positive-impact.md",
-      "title": "AI automation promises to have a big, and not always positive, impact",
-      "excerpt": "Just as telephone operators struggled with the automation of switching, AI promises to change global economies for the better, even as it wreaks havoc on individuals' jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "publishedDateTime": "2020-11-25T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
-      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
-      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

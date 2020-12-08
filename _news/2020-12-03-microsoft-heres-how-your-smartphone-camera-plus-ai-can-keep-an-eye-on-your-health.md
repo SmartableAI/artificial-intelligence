@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-your-sm
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -23,19 +23,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-related:
-  - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
-    excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."
-    publishedDateTime: 2020-12-06T14:48:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
 
 secured: "wtKrOvLZDefoWmxZn6v91BpKY3LJHSrfVTjGxXg98U7zi9IsyMekj0pkHPkh+Aqg7es70kOeJ0s+/7h17S6vOZyQil/y00nYPEg1lqnazjbUKP9xaMga8qXEWQSLmo7eE0rxvV6+yH5Omfi9NW5jxyVcdHJRmDPKuxi0Qhn4XSK7KLYN0GFDvarMA3jOc6I9f330Y+SbWoK5vcJbfBk3dJpwcwYeAHchRGLjTy3zlEmGyG6aOAYaOl5n/y2ieTHCQRMGL5nPwYBB+sVBjEH26S+JRbT8dVOEsnNO1klOvtnJhg+9bctsFRzXpQHCQhdhw3/PDETJxEHl+wzfr8J1FJttu8IdlNWXgAIF2QGuz6L0nGls3VlGyZ67BuEzL/qGWY0nRcnCQmF/bCZXwd70xeBi403Xryi+XPRxyn18vLUKpzzOVImmjm6UYK8mGbYsg3h/+EtAfNRl+Rztg+sgjSqH6TKmjLDG29YcExoBSpTExxAvrqYWQcjb3yDXCKV0vS+6qQYJN+a67ubsiK2fUQ==;oqFk401n0/sc4CQ6Qz9dkQ=="
 ---

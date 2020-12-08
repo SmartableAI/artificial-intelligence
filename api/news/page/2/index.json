@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-07-fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source.md",
-      "title": "Fintech startup Valyu.ai signs on integrated marketing consultancy, One Source",
-      "excerpt": "New age fintech startup Valyu.ai, which focuses on the blue ocean Indian market for accrued advanced salaries, and is already working with close to a million of India’s employee base, today announced that they have signed on leading integrated marketing business impact consultancy,",
+      "path": "_news/2020-12-07-widening-the-amazon-outsystems-partners-to-broaden-its-aws-functions.md",
+      "title": "Widening the Amazon: OutSystems partners to broaden its AWS functions",
+      "excerpt": "The latest from OutSystems sees it enter into a new collaboration agreement with Amazon Web Services (AWS) to deliver deeper integrations with AWS services in the OutSystems Cloud. So in terms of who gets what here,",
       "sourceUrl": null,
-      "webUrl": "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source",
-      "originalUrl": "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source",
+      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Widening-the-Amazon-OutSystems-partners-to-broaden-its-AWS-functions",
+      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Widening-the-Amazon-OutSystems-partners-to-broaden-its-AWS-functions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.assettype.com/afaqs%2F2020-12%2Fa8aabca6-60dc-4966-bb01-f9bf24bc7491%2Fdownload__4_.png?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 935,
+          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Capture.jpg",
+          "width": 580,
+          "height": 332,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T04:55:00-08:00",
+      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Widening-the-Amazon-OutSystems-partners-to-broaden-its-AWS-functions?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Widening-the-Amazon-OutSystems-partners-to-broaden-its-AWS-functions?amp=1",
+      "publishedDateTime": "2020-12-07T05:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AFAQS",
-        "domain": "afaqs.com",
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,51 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
+      "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
+      "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
+      "sourceUrl": null,
+      "webUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
+      "originalUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://architosh.com/wp-content/uploads/2020/12/Mozart-angle-L-1.jpg",
+          "width": 1324,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
+      "cdnAmpWebUrl": "https://architosh-com.cdn.ampproject.org/c/s/architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/",
+      "publishedDateTime": "2020-12-07T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "architosh.com",
+        "domain": "architosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -310,7 +352,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -351,49 +393,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g5g.md",
-      "title": "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G",
-      "excerpt": "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/",
-      "originalUrl": "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/",
-      "publishedDateTime": "2020-12-07T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -803,6 +802,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out.md",
+      "title": "The Impassioned Debate: Self-Driving Cars Parking Head-In Versus Nose Out",
+      "excerpt": "Human drivers aren't sure whether to park heading in or via backing in, which turns out to be an issue for self-driving cars too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbf2d4ca741861df005a691%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/",
+      "publishedDateTime": "2020-12-06T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-tesla-cuts-full-self-driving-upgrade-price-by-1000-for-some-customers.md",
       "title": "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers",
       "excerpt": "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars.",
@@ -1197,57 +1248,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-mlcommons-debuts-with-public-86000-hour-speech-data-set-for-ai-researchers.md",
-      "title": "MLCommons debuts with public 86,000-hour speech data set for AI researchers",
-      "excerpt": "If you want to make a machine learning system, you need data for it, but that data isn’t always easy to come by. MLCommons aims to unite disparate companies and organizations in the creation of large public databases for AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/MLCommons.png?w=1024",
-          "width": 1024,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
-      "publishedDateTime": "2020-12-04T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

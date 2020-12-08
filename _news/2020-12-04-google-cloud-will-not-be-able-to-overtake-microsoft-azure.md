@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 244
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils Azure Purview, a new data governance platform"
-    excerpt: "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability."
-    publishedDateTime: 2020-12-03T13:58:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 104
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
     excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
     publishedDateTime: 2020-12-03T16:03:00Z
@@ -115,6 +99,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
+  - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-07T09:18:00Z
+    webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
+    ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 76
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure Synapse Analytics Now Widely Available"
     excerpt: "Azure Synapse Analytics is leaving preview alongside Synapse Studio. Microsoft also announces Azure Purview for data governance."
     publishedDateTime: 2020-12-04T12:48:00Z
@@ -128,6 +128,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-03T19:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
@@ -157,6 +171,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
+    excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."
+    publishedDateTime: 2020-12-06T14:48:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
   - title: "Developing Autonomous Vehicles Faster with End-to-End Solutions from dSPACE on Microsoft Azure"
     excerpt: "CA, December 3, 2020. dSPACE will offer customers its comprehensive solutions for data-driven development of advanced driver assistance systems (ADAS) and autonomous"
     publishedDateTime: 2020-12-03T17:33:00Z
@@ -185,6 +210,15 @@ related:
         width: 1500
         height: 785
         isCached: true
+  - title: "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple"
+    excerpt: "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to USD 5.2 billion by 2024, at a Compound Annual Growth Rate (CAGR) of"
+    publishedDateTime: 2020-12-05T09:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18662314/voice-assistant-application-market-growing-at-a-cagr-31-9-key-player-ibm-google-aws-microsoft-app"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "XL9JlO+YNsRNzIq6ZUMeC4B0nIJfvIKbRQ6fkW6TKZqmsGTZZ85NxxSgGMFhYFIt6ZoilO8/K0rCocHR3YtJR1eSiJ1ZD13lUv4Pj3CYRxiDnNKMFJuc384q03VOZ5nGjo0EA3XhrFZ1P5h1hFbWEz8ZhsW04rweGi+1dE3q1dv97kGV+aYnhzbHBj7Zjgzqd3UA3mviv5y6iihTh1tR+oThj/Z9ivNbxeN2zJoH+h7EPQqYY9xbtYLnTfXpcgYxmEHFAIOjds1tan97HIJ5fFH6TSHr0hWd7rK49+SvRyZS8a4L7a3UT4z1BUDdxZ7+h6ieGIO4kk8YIGhdIbgW+WriGIGKsfuPEQ6rcD8iJfXI1EEyjfMfhAwP6EeBT8NrtIvP9qiWDYBB5p1KkqZ3aQTCbLBmA14byYICgv1tQl9R5HCFSfMX6+kA94fnqGOs8Kf+Q5/ZH17u6CTl9s960ntuaW2V7rQZn+ttwgZpKJnJU5FOz07VeRsz0bTdYqM3jugYwMyUFLYTNDf2jTklXQ==;BnWjQSHHAfTLyTy/xo/oJQ=="
 ---

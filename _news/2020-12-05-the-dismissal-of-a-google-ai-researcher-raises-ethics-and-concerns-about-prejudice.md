@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google employees say AI researcher did not resign, despite what exec claims"
+    excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
+    publishedDateTime: 2020-12-07T23:22:00Z
+    webUrl: "https://www.cnbc.com/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
     publishedDateTime: 2020-12-04T20:58:00Z
@@ -106,22 +122,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47da9ea0-94f2-496c-aaf7-5ae1cba32f18.jpg?source=amp&fit=scale-down&width=2400"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "Google Employees Say AI Researcher Did Not Resign, Despite What Exec Claims"
-    excerpt: "Timnit Gebru’s colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean’s statements."
-    publishedDateTime: 2020-12-07T18:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/google-employees-say-ai-researcher-did-not-resign-despite-what-exec-claims/2765655/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 55
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
