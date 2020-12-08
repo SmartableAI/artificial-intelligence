@@ -8,8 +8,8 @@ webUrl: "https://yourstory.com/mystory/artificial-intelligence-ecommerce-start-u
 ampWebUrl: "https://yourstory.com/mystory/artificial-intelligence-ecommerce-start-using/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-ecommerce-start-using/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.yourstory.com/cs/1/d41dd840668511e9a0813fea67aa9302/connection-3308188340-1607348794138.webp?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
@@ -25,6 +26,6 @@ images:
     height: 279
     isCached: true
 
-secured: "sdh2IMHGjilrvOAjjqjtlmwT9Uv+MDF15K6S5g50PrEotMRApkjegOIkwqmEg/ztGrsxXLT/EzUPkSQsxoYgmI7vQcKI6knoySge7pN8yAIO5HelQP5K+QEI69JBshEdKAXERyKlHG2C1IwHtyy0HMBVKkYXkQcnuTwFPasf3RB9f2S4ApBthlW4EIBYgVpFy4qKiJPys7OymAhvoEhlZLPvIax3bfcj5Pm9GJJSQXHHwiOit3WlOhbQ5gdPtHveYHHNWmyAEQsk4vZCIutHVcv+C+3cAwA0lP0wgp1RF2ExBAR+4N9d9OUCxTMPpbSDLqI3mLo28EJX9Cn2BLj+cLmQ1UAtfmBf09LkF5D+52k=;s0OJqO2CNhoh34LH0Idbrw=="
+secured: "eU2gacWPjQe7jmsAGh+M4Jc1f+G/8GqBwW6wBl7/WeG7hN65o232OBvM+6yVr771Fnz1++aHAMMQpWc0zsHkUs1LWY5eaVf8rAHRzgvrPx6kFoo4zD74VDyyQNCq7AEWyWFPGeYMmHh0tPO4ge6vFRplgXNPJB3sO+9SwtOENI4CsdgftWILHsXjVCWkiGv167D1+ln39JeTJj1d6d+dkij/0wk2IK8DLEWDR1YtwNG7kkhvqjmnyC3FerZ5rCjF1/RJAGNMw7zQygR60lAv4TyZ4X9bAzPemyP0RnwjMevq6FWZD881KJiP3PP06E9/n4WWXaTWkXqx/Pbgqb0p9npiIbRketCB1yYtrQ1TWgHlZYXIdIoK8VpPl24aJiW+AG8AdrZZkv5MTkBaIPN9MfHFaNypKnc9ZuPUO3MWK6/SZrHmcbLXHG06KFzPM8beq5DrE/4L1s3zw6UdOgNwNYssBZf7wtJneBdmCvxuvV0baOyByb4clTgwANAbbQR2pQFPOduuxUaPf0QgjnBBUg==;IMuR6oxw9pnueuzuRWaNIg=="
 ---
 

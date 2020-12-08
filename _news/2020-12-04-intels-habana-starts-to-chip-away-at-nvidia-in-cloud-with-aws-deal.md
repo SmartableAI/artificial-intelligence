@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chi
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS to leverage Habana Gaudi AI processors"
-    excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"
-    publishedDateTime: 2020-12-03T10:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/habana-gaudi-ai-processors-03-12-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/12/Habana-Gaudi-AI-Processors.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "Israeli-made Habana AI processors challenge Nvidia"
     excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
     publishedDateTime: 2020-12-06T13:51:00Z

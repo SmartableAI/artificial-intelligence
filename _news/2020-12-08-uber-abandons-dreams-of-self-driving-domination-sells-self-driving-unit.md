@@ -61,6 +61,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Uber sheds self-driving cars to prioritise profits"
+    excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, shedding a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
+    publishedDateTime: 2020-12-08T00:30:00Z
+    webUrl: "https://www.bbc.com/news/business-55224462"
+    ampWebUrl: "https://www.bbc.com/news/amp/business-55224462"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-55224462"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/4BB6/production/_115928391_e1e56097-5fa9-463d-8fcb-a3e278659d01.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Uber Nears Deal To Sell Self-Driving Air Taxi Unit To Joby: Axios"
     excerpt: "Uber Technologies Inc (NYSE: UBER) is nearing a sale of its air taxi business segment, according to Axios. The discussions with California-based aerospace startup"
     publishedDateTime: 2020-12-03T21:04:00Z
@@ -200,6 +216,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Aurora To Buy Uber's Self-driving Unit"
+    excerpt: "(RTTNews) - Self-driving vehicle technology company Aurora agreed to buy Uber's self-driving unit, Advanced Technologies Group. After the deal,"
+    publishedDateTime: 2020-12-08T02:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aurora-to-buy-uber-s-self-driving-unit-1029871257"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Amazon-backed Aurora is buying Uber's self-driving unit despite its terrible reputation. Its CEO explains why he sees value in the troubled program."
     excerpt: "In exchange for Uber ATG and $400 million, Aurora CEO Chris Urmson said the startup will give Uber a 26% stake and a seat on its board of directors."
     publishedDateTime: 2020-12-08T00:05:00Z
@@ -250,6 +275,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
+  - title: "After Once Touting Self-Driving Cars, Uber Sells Unit To Refocus On Core Businesses"
+    excerpt: "The ride-hailing giant once believed it was crucial to develop autonomous driving technology in-house, and spent billions of dollars on the effort. Now it's letting another company lead the charge."
+    publishedDateTime: 2020-12-07T22:38:00Z
+    webUrl: "https://www.npr.org/2020/12/07/944004278/after-once-touting-self-driving-cars-uber-sells-unit-to-refocus-on-core-business"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 18
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/07/gettyimages-1228125520_wide-ede63d95626a411f7b5dd0e937c7fe20b90b03ab.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "mUDDJinHGGKKXWyrBm2EwCx1vf06fAD9xEcMXpfsuoyCMF7LCqp96MWWrFZR68R5LLdYQGesXp1qjnh+qzKu6rnqrLV0rJcxV+w56NWDbCIVWBJMeB/PzccK0kaGYejkxtDkwuoZDjYo950Zl/6nTiV9QHXjgWzp40742c4aS/w2BG/ae5/+PVhw9O4gZMoewjRWLwKXOBMVHMPSAnABqfFS8+gKKwZbwSsUPCu1rnYltVr5HzXYLEVxeyWZV/wEPUEHN6m3o+Go7YrjO3IIoy6p5dYBZdXMaYAwr3sLwWP4UJC4GwH45fAyO2plYwHNT5vklaDI+poJWYxkD+IJ+ohXndynmu+MeWc0/gRXzhQ=;AXnKD14SOjJk+D+OgQMSCQ=="
 ---

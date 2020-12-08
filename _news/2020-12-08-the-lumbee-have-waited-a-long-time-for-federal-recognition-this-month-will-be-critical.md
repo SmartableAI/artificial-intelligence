@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.mcclatchydc.com/news/politics-government/article24760459
 cdnAmpWebUrl: "https://amp-mcclatchydc-com.cdn.ampproject.org/c/s/amp.mcclatchydc.com/news/politics-government/article247604590.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: McClatchyDC
@@ -38,6 +38,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 40
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/6e5bb225-9df7-4376-887f-68e67e50b930/0987d950-1942-4050-9faf-7081e65b3233/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Lumbee have waited a long time for federal recognition. This month will be critical. | Raleigh News & Observer"
+    excerpt: "The Lumbee Tribe of North Carolina has been seeking federal recognition for more than 100 years. Could Congress include recognition among must-pass legislation this month?"
+    publishedDateTime: 2020-12-07T16:15:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article247604590.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article247604590.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article247604590.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 37
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/6e5bb225-9df7-4376-887f-68e67e50b930/0987d950-1942-4050-9faf-7081e65b3233/1280x720/match/image.jpg"
         width: 1280

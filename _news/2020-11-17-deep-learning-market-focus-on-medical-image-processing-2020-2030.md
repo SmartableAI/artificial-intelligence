@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Nov. 17, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning Market ..."
-publishedDateTime: 2020-11-17T09:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+excerpt: "New York, Nov. 17, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" - https://www.reportlinker.com ..."
+publishedDateTime: 2020-11-17T09:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18400413/deep-learning-market-focus-on-medical-image-processing-2020-2030"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18400413/deep-learning-market-focus-on-medical-image-processing-2020-2030"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18400413"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18400413"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "9U95jVhsdYGfadv82Wq94UMnesUJCpa24RQoVxt65cwMv8yGHNW155+G81gQ8/KfjBoaot2G6gC3H29POdZE5O5UdWlUmvOj2+N17Pn8DciSS+C7jkKZgnNhoF8625pwQZix64slamnY25B0+4BRIBxGw8f/0GvgNkX74ZeAYK7uUWzb8+8F6zrhs6Rj2DYH+b1yOZXi/ty/QZPfcW7+f8QFC3JDnYf3Djy+5OTozcc1Lb3LlnjBE2PF3tFAlae/ZKU4t8FS44fhxmM1EMt/znLfdl+ICcqpUxSsBg3l7+PeFXbHFOhV4q1jBnkhSMoqVG7s+y1b0zMnoduytNeLddBC8Z7bj6VAPSVPtHFvElc=;5BQrtYb+wnZw7Kk04DxJJQ=="
+secured: "L9Djk1usYe1OJmCKSvj1Os99epBUdAsqNMLt5VLAY9tRVFGKSs/Uu2qN5VX6TB8GSHOR0ZYhkftFec62Y4J107MY586VP7y7tR3M2HKscmanUWVHkoQ2QVmj/6wIdLYD4vfGAVWJQSvosK0eOc1YsB63WWR0FEEUIWcjVylmfqTmVqhQ0Ayn3gIg9S0FGDILGbkOIwLYFX9102e/KE2mNSF1juTMHiY0hc22cQpdMk9osKLtCnXSZGy6IxvSRll1EeajqJu0tkxj+qL1S+qRdDxARz9B7yPDZtllY0euKMcoOqWbw8B6QldRoeSEHI/PzKykjP2/nhtsB7sitzDtUCvdMHWpiDxQ7Jz1IdaKRa4=;pUG3GM5vPtJZV/BtlpJZZQ=="
 ---
 

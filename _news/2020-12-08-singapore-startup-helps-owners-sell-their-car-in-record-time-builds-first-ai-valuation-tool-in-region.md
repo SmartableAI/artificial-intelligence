@@ -1,0 +1,37 @@
+---
+category: news
+title: "Singapore Startup Helps Owners Sell Their Car in Record Time, Builds First AI Valuation Tool in Region"
+excerpt: "PRNewswire/ -- Singapore's fastest-growing online car marketplace to buy and sell new and used cars, UCARS is integrating Artificial Intelligence (AI) and cloud computing into its platform together with Huawei to provide consumers with enhanced transparency,"
+publishedDateTime: 2020-12-08T02:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/singapore-startup-helps-owners-sell-their-car-in-record-time-builds-first-ai-valuation-tool-in-region-1029871269"
+webUrl: "https://markets.businessinsider.com/news/stocks/singapore-startup-helps-owners-sell-their-car-in-record-time-builds-first-ai-valuation-tool-in-region-1029871269"
+type: article
+quality: 31
+heat: 31
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Singapore’s 4-month-old diversity hiring startup bags $200k in pre-seed round"
+    excerpt: "Diversely.io, a Singapore-based AI-driven hiring platform, announced that it has raised US$200,000 in a pre-seed round four months after its official incorporation. Helen McGuire and Hayley Bakker founded Diversely with the aim to remove bias from the hiring process."
+    publishedDateTime: 2020-12-07T11:38:00Z
+    webUrl: "https://www.techinasia.com/singapores-diversity-hiring-platform-diversely-bags-200k-preseed"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 29
+
+secured: "R6o2XRGDoJQCN48I0uQCp6vXxmREc52pUbqAXYa7fgxFXOSIjlNkoIoqET4Yu1IWU4cQ3xUTsERzgB+wcYbiS6Z1XmbkriG5nZPhU+SckRIyrYycKMv1tkaVFJCN6WQL+Uj7STmtIFwawJErEwL8rZ5jOl1YwIjiK9OV/zWbwLxMubzg1EWW8vE0bp30DwA/21TropF3bTXfDxhbYk1SwBgDtrDFdiyJj1+U8/aZB/ZSMsrT8PdDYCyHrmFtbnnpoZ+9hdJxSXK1IKZemzYZUk5/hS1wf21F1KSVQdlAyLsHytOXY9rtBXvnZELUzaVlxuTw8hKTslXx1TcbZudMM8k7cC5IR+ACZgkB/iCEa0Q=;ooXMe7HAK85vXbuU/OFGfg=="
+---
+

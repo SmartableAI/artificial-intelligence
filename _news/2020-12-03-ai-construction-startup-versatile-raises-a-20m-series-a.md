@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ultimate.ai scores $20M for a supportive approach to customer service automation"
-    excerpt: "Ultimate.ai, a virtual customer service agent builder, has closed a $20 million Series A round of funding, led by Omers Ventures with participation from Felicis Ventures and existing investors HV Capital,"
-    publishedDateTime: 2020-12-03T10:03:00Z
-    webUrl: "https://techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/"
-    ampWebUrl: "https://techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/Ultimate.ai_founders_Reetu_Sarah_Markus_024.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI startup Olive raises $225M, acquires Verata Health to address prior authorization"
     excerpt: "It's been a big week for health tech startup Olive. First, officials at the 'AI as a service' healthcare platform announced it raised a $225.5 million funding round led by Tiger Global and General Catalyst,"
     publishedDateTime: 2020-12-03T14:09:00Z

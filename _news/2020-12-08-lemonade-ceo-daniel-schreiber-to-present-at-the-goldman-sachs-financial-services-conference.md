@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference"
-excerpt: "Lemonade’s CFO Tim Bixby to present at the Barclays Global Technology, Media and Telecommunications Conference Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U."
-publishedDateTime: 2020-12-07T16:44:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
-webUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
+excerpt: "Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U.S. Financial Services Conference on Wednesday, December"
+publishedDateTime: 2020-12-08T02:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference-2020-12-07"
+webUrl: "https://www.marketwatch.com/press-release/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference-2020-12-07"
 type: article
-quality: 0
-heat: 0
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "PpYaquoYq5TnKtiaHrKG/q70x6xdrvwnzrRcnreF6WRE6bexvYoj0QF7150gSVvSwgSlva0ECL49BQPxNL69KjPKWr2Oy+dcsnFBDgJ6DrgCDfeL9XbjY3/vjwO7yA+2U/90Zp66FXEbQMkcjXRaN1qY4hzH6Oq/9U3H85GnjzP6A1huKoaWOiarLg0O4MmScPYOJmCd8ZEYDaJeHLQA1xnlL1ZtqXChN6EzZdyuGGX5PAfyfCGCl7vaRjlT7AgTqxEE2nu2rFmTj0XOHofcKrb8zzY6glPiCA0Pw6aw8iscfNgoa7khkWJYNPOGgLEka1K4V31DoaSG7VSvu2vA0Efxxk6sUPyjo/9Ul57BJ3o=;SOnnC207FujsjEwu/MjWZQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "b9CLlpa7WQv6hiCQMM9IpPzY3VYjxnu1LuRSDpvBMLUuBbr05JwQhkQtPrdNscfsHGyd3AwvhK6cpzsPCEqP6mGWBTxrd36eiaaYz+TgIeasl8ANEDHEq40IpF7uRRBe2tfS3PljmsPFMdD6MDk31Ot6ubauUGz5nFiddQrEj0jtE9RVWFv4dgnomIufmWWyLUYKofjLFIrTDzwqgyIIE8a/WoAzK61es8hEcHVczFT+lsUS000XToOp4eMZNWYxF25I4xwoCHyAyB0wSJybMIwL9f4qh6gf8yxZ8VBlhoDBOcARPACKaegvrWyClC3aiveDbrLevAQ01vQoQM44TjxsvORENMBNdKHfnkHOxj4=;cDEU7SHoNGxU6j6mzNAUwA=="
 ---
 

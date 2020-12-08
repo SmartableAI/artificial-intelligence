@@ -9,7 +9,7 @@ ampWebUrl: "https://stockhead.com.au/primers/brainchip-leads-the-asxs-top-small-
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/primers/brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Top AI Chip Announcements Of 2020"
-    excerpt: "We talked about the rising demand of AI-based systems on Chips and the year 2020 is no different -- the trend continued."
-    publishedDateTime: 2020-12-03T10:33:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-chips-2020/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/ai-chips.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
 
 secured: "MEBhya5ZiQQtNU9g2Tmrcn6JM/XnklOLHDFiZEfVKI9apFa5L/9xDBS/jgji2EzOZ3etzfDIwCXTlPyBFfrMv444PqMEsjvPSRPxCEj1A6xRvYiAebK8MBhOfQVZDiUtMQIf4k10PJRHpKi7fwuBAuBnCM7g393WkBajqVxAhNRB6Y5TQBdefPd2XVM28TTxgTt6jMDe+5vdrSRlPdyQK9vMfbYdAAgXkitPd9g/WZuQkcbW891OoPwU+ZA49Rbl5JjB8MbzLc1hFNH/CxdE8A9AXqeAzY48DJFDMcl32s+yIolFaLVpJSYGFvmv1LEe6uncStpxibEkJ94S7g0Q/CXKF4t1zd21VZza1/xqN4CYaAouGEd3zRCh0QAf9v5M42BUe+vwATpxIeqzR04TRb7uk67gAYR3m5DGoDs7zD17CxK4xj46v2351DR70p+InJfDBA/nN1VOI/LgNtBdc8/Lf84iiwZ5vwYKCqIi8jlY2tjWCg6rZBw3kafxtcFOTsJ2Tvwvc/6boFS1HAXE7A==;SZ6YEsAOPNqaYuI74VTEqg=="
 ---

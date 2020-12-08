@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "ultimate.ai scores $20M for a supportive approach to customer service automation"
-    excerpt: "Ultimate.ai, a virtual customer service agent builder, has closed a $20 million Series A round of funding, led by Omers Ventures with participation from Felicis Ventures and existing investors HV Capital,"
-    publishedDateTime: 2020-12-03T10:03:00Z
-    webUrl: "https://techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/"
-    ampWebUrl: "https://techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/Ultimate.ai_founders_Reetu_Sarah_Markus_024.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "FEXwcN6xv9yPVqdYsY4VWoATYqbdPY0FnD8bPXmr1AcMI/Oj5h7eaYCrVhHc+lcZ+IyR2ySgZkCW6CPpcn225XD6x1hiDETEboftHlUNZfXAzaGZRjKDiidgSIqaVCCMbLPaPynJbPbMX5W/6ODSijCGVWUJF2IKPxHz/EzrFB3OBUnuszeLqUtHJbuKotP8IbwFK3qQ8RT6VbYv6MwnOE1qiRsyAKAaIUZfTI3hVtn0exNtvQVsXDKrfMDmVRM/UFApm/e6wGLu10z1HlzKxEdKt4MEjZkmJCC6yAb5XfKTrCh62+ynvCE55ObEsa3AGp/aEaf+RwHPmr1MK8gm7onHgu1kWOfDY4TU/rOaLY4=;Iqm3+wP+sHwYnnT8XJfPew=="
 ---
