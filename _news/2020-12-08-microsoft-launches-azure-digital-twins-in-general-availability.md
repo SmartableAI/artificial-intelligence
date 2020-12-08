@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 119
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
         width: 1200
         height: 741
+        isCached: true
+  - title: "Azure Digital Twins is now generally available"
+    excerpt: "Microsoft's IoT platform which allows for the formation and analyzation of digital replicas of real-world places is now generally available, along with key partner solutions for Digital twins."
+    publishedDateTime: 2020-12-08T13:44:00Z
+    webUrl: "https://www.neowin.net/news/azure-digital-twins-is-now-generally-available"
+    ampWebUrl: "https://www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607450787_azure_digital_twins_1_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
     excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
@@ -126,6 +142,20 @@ related:
       - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
         width: 742
         height: 649
+        isCached: true
+  - title: "Microsoft highlights AI innovations at 40th GITEX Technology Week"
+    excerpt: "Azure FarmBeats, an AI solution supporting food security, a key focus at The Hub December 6, 2020; Dubai, United Arab Emirates – opened a socially distanced area ‘The Hub’ as the 40th GITEX Technology Week launched,"
+    publishedDateTime: 2020-12-08T18:14:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2020/12/08/microsoft-highlights-ai-innovations-at-40th-gitex-technology-week/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/12/sayedandHH3LR7122020143330-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "Microsoft announces the general availability of Azure Digital Twins Holistic integration across digital twin technologies will enable users to digitally manage physical spaces, maximize efficiency, support COVID-19 safety and pilot new solutions Solution aims to encompass the entire ecosystem of building and device management technologies with digital cloud technologies Collaboration will support efficient and environmentally"

@@ -70,9 +70,9 @@ related:
   - title: "Uber sells ATG self-driving business to Aurora at $4 billion"
     excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
     publishedDateTime: 2020-12-08T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-atg-idUKKBN28H2RX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H2RX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H2RX"
+    webUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2RX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2RX"
     type: article
     provider:
       name: Reuters
@@ -99,10 +99,10 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T03:29:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
+  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T05:41:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -233,6 +233,22 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/4422/2211336_6_articlelarge_2.53600796.jpg.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Uber ditches effort to develop own self-driving car"
+    excerpt: "Ride-hailing company sells division to startup Aurora but says they will collaborate"
+    publishedDateTime: 2020-12-08T11:36:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/f6cb5a973cc9982871c59330281c398ce77e0325/0_322_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a55af5fd62ab7083c31903ce8735046f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Uber Is Selling Its Self-Driving-Car Unit to Aurora"
     excerpt: "Uber will receive stock in Aurora, a startup working on autonomous vehicle technology. The ride-hailing company will invest $400 million in the business."
@@ -483,6 +499,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2020/12/aurora.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
+    excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group (Uber ATG). ATG’s team and technology will accelerate Aurora’s mission and the delivery of our first product safely,"
+    publishedDateTime: 2020-12-08T17:17:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-edffcc637fa047f8a825a220d2cfac51"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "U+Ut/ZIzOijZ1tgIaeciHC0rpBqj05iB1q/BCvOTJbkjJAbRhDoBHo0K0yVpWi/Ad7sdHIufYrTJKkVvnohZh6dLfPp+QBoLCgrfshoN+XljoR3hV8rEk/FMostdAkejUnAvbRvIuFf2DRg+zJarWMAomZljiEWOpklgzgQhOUCnfhEO4QerBfbpjsaQ+16hYOKSuhBcIBBGjl5hQtZkBP+3RxkDl4kjR03Dmei7bZwGqRWXxwNlbh6mfvT9wQeeHJz2VBRQBFvjCfHdzdPta+EdSHds0P8aZRCljWe0JY+XMMsOv+cR6H52yHCOFnJil8fVYm/g+6gNpG6EDx1d+rh9yRnRasxYoA48Mt6DBkqXdtVyug9IBkCja7RLDpy8NDmugdKl9Zfat5XznXSV3HKzypuTxYZs2IaIsyRmvOzUlQhE8f4Rc2HkCCHvNA3JI5oGQLgaYKzsOflo9MWL229dxO52jYmS+AcRlTHsbAzwQW4PBZ4UiOuPBamYJlTqKymMq4FCs4QKrF6igdT4Xw==;XYQhpDAWvx5yewTdyUU2Lw=="

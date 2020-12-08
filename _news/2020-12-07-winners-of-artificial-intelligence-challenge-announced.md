@@ -57,7 +57,7 @@ related:
   - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
     excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
     publishedDateTime: 2020-12-07T22:01:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/source/GovDelivery/"
     type: article
     provider:
       name: US Department of Defense

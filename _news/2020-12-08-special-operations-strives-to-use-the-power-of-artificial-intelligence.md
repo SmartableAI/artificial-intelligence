@@ -3,8 +3,8 @@ category: news
 title: "Special Operations Strives to Use the Power of Artificial Intelligence"
 excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
 publishedDateTime: 2020-12-07T22:01:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/source/GovDelivery/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/source/GovDelivery/"
 type: article
 quality: 39
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: defense.gov
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
@@ -70,6 +70,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "mGUWYJxKDmHvtAjpau98SEBD8pU8gZQslamvejCkKyUuhAD4L2nWu5qbqTOkXIvwgZ/AWNPYK1qyaSe0ARq2tW0GGAQZ9lM2oSKtmDBZCd2S4iqfmx4vN/8opNgiFuxaOFxINZhniVWADqPl0uk4GmD2hz85zxMNFbOW7dKLs7CNGBH2MNdqN8dSNY0bOQ/OFgnoBHYN01nMLZLkB9UmhhVuOEsJaZrCSGRtpmOEJ+QI+f8exIeXHTJ7Su4xFoGI74bZNOWWLaTzYGP8TSRLBEot1Zq+gHqUIvcO4Es0uTjjHgOXKiuZHNM/rTZLyTlC9V+5exGd9KPsL/wA3Mp2F0yV5KMYglNQUPTD1lhKCQH22NjHzEfhdBnDVwbia/q1G2VZXBo0kgW6m8RUkoJtK4KxdwsLvI+xlW0+iB7Hu33XGrm8IKL/SAOHNFLo3KUd1VCYv4F7U5rGKFEoJutZLs2G6zBvwo7PDdpEc7BznseXwNhGurf3bAOyutcGUMG6VGAJw7MratGJb/pTrkhbaA==;1tmVDA6We09cVIFtD4EtYg=="
+secured: "99G8OaIN7hAbRoWen8vmp1tNFY2P2O1GU1h2+C6QYcw2vuAfmbXZ7KZ99xOm/JOsD4wIURLVZBs52NHs4dwmhkxcFEngJgd0HWjusJFKm5xVsTGAPMOl40jI83BvxMFAiAL8RTNoA+iUX9FifSTjHF+iW2Ycfa4EpbG0njq6xUPQzOBIba5E4t4LzAumOZ44FHoz7+/A2JPUdXX2mUu1w9rOP2Itw81C155Ur29ETl14ZWCidKfQRbKCeWgZ+WhL4m7Q8hg3OTHNTXfxo6XMI5RpCM5r2f6i5OQ3Cu2Z5ZY2y3Itn7lhrqDQlYK8QXivX9gIs7ta9Ogo4clVijeHvOtk/IiIPcNy1h6izKQV49M=;9Ef448qtK158DfGYOoza7A=="
 ---
 

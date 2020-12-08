@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Azure Digital Twins is now generally available"
+    excerpt: "Microsoft's IoT platform which allows for the formation and analyzation of digital replicas of real-world places is now generally available, along with key partner solutions for Digital twins."
+    publishedDateTime: 2020-12-08T13:44:00Z
+    webUrl: "https://www.neowin.net/news/azure-digital-twins-is-now-generally-available"
+    ampWebUrl: "https://www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607450787_azure_digital_twins_1_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
     excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
     publishedDateTime: 2020-12-07T15:59:46Z
@@ -123,6 +139,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
+  - title: "Microsoft highlights AI innovations at 40th GITEX Technology Week"
+    excerpt: "Azure FarmBeats, an AI solution supporting food security, a key focus at The Hub December 6, 2020; Dubai, United Arab Emirates – opened a socially distanced area ‘The Hub’ as the 40th GITEX Technology Week launched,"
+    publishedDateTime: 2020-12-08T18:14:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2020/12/08/microsoft-highlights-ai-innovations-at-40th-gitex-technology-week/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/12/sayedandHH3LR7122020143330-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "Microsoft announces the general availability of Azure Digital Twins Holistic integration across digital twin technologies will enable users to digitally manage physical spaces, maximize efficiency, support COVID-19 safety and pilot new solutions Solution aims to encompass the entire ecosystem of building and device management technologies with digital cloud technologies Collaboration will support efficient and environmentally"
     publishedDateTime: 2020-12-08T14:27:00Z

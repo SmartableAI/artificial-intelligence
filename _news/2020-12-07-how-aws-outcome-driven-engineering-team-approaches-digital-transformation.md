@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-aws-outcome-driven-engi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-aws-outcome-driven-engineering-team-approaches-digital-transformation/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
+    publishedDateTime: 2020-12-08T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
+    publishedDateTime: 2020-12-08T15:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the BMW Group (OTCMKTS: BMWYY) announced a comprehensive"
+    publishedDateTime: 2020-12-08T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EIDRCqh8bAQ9xrvNxeQQia4HabRn6UV/g2lWWufdZD8UvDYGqow8DZ6OnGNiqu4+GcS+RSLF79M9jQeO3qtgaemS+keTRKr/HqWL0tuCix6gEMeuGnqzjeCxs4IedJ5+De60CyKPsV3OFcuqf9/fb6wrWCneLcirNH8E4A0gNnHXq/bKokYDnSMXtPaAMYT/oLYV6Ia6rLPd38K3ep3pSTTn/sUNHJB8q160w/1kTwXTAzafLz396/5VvQseEnPv8G/VFuzpAtI+wnH5JN1xh9yLsvDohO5ko2d83UVAvvqqeZIFcC9quG9iKHdv85cHhk+zTAZKxXVTZfEUBgE8/AQQGXzlOKaKrYv1Kj4EuXlAbo5SLCMI/eIagqIj8XNqkYtAW8RzOw/AzGp2z0htBaGxebIp1vMxRWriz9dISc4R56ctASowO0KYwQ/O/pA4GC7tl25RWpNchftUW2yeRQtHit9CQOkKqwb7S9ng72ew5SMQRU74b01i2FhrwnJXg/hqwrfYlhhsE80cP1RHtA==;mbl1ARPf4FveQXDSEY4Q9Q=="
 ---

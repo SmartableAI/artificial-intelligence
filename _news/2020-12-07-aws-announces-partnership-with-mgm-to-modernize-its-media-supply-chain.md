@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM)"
-publishedDateTime: 2020-12-07T15:38:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
+excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
+publishedDateTime: 2020-12-07T14:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS Cloud Tech to Power MGM Media Supply Chain"
@@ -55,6 +57,17 @@ related:
         width: 768
         height: 433
         isCached: true
+  - title: "Amazon (AMZN) AWS Teams Up With MGM, Bolsters Cloud Clientele"
+    excerpt: "Amazon’s AMZN cloud computing arm — Amazon Web Services (“AWS”) — entered a multi-year agreement with Metro Goldwyn Mayer (“MGM”). As part of the latest collaboration, MGM is shifting library and critical SAP workloads to AWS to make advancements in its core media supply chain and enterprise-wide media distribution platform."
+    publishedDateTime: 2020-12-08T15:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "AWS announces partnership with MGM to reinvent its media supply chain"
     excerpt: "MGM has one of the world’s largest libraries of digital and physical film content. The company focuses on the production, acquisition, licensing and global distribution of its film and television content across all media platforms."
     publishedDateTime: 2020-12-07T17:45:00Z
@@ -81,6 +94,6 @@ related:
       domain: computerweekly.com
     quality: 48
 
-secured: "5dgsBFmbq2yKig1b2CBOXF8tQ1fikzopOa8sLiskDHgbNsCQg5bvvlotFPu1vlhcNl/24bZFRZpe/tE3z/TBj4J8bo/zbvclH5JafPZmodxQFbrnth+Y+Li9tkep2I0AAC6r7UPn1trbseRMZrKfSWt6R1oCZJ03X4KwlFg/avYiNHYpHWBopY6rpiy0myRG3KN8i+2Jsqki4G7C2FT/6TFWecY1DcSq0fwRp/lNec93eGlHx83nWGLQVP0Mm7yZCvLSUOpW731GuZFNt4p2v87DBJe7vQ+9DQfKo3bj0SWuDPtzIYBxtGqSQKQ94DiMyf2TOvbA4VhmSdKC+NwEhVKw/1dVM8Wug9rnKXbmgEg=;FGzH27XqBR/wYMygLoS9uQ=="
+secured: "v3Il/J1pnKjpJsKOuOIhk+RncgxzQP0ec84SiNJ0jn2O4nzByuzhGZ3o91kdXCHBZEIDU5zbdXPT+vmuSXbKCuZwx6LnH4HvQKtV6Uds93rItga9tEhn1pWwHBhbv/hBp4hwhiu0UzlY0H7yS2HzILVPCe4mYwO3TluBwbzo16ShN1sSm22AfcMgsOGrnYBxkFElpinWl1gK6CCpmsLDZxHemmcP88baaTwJP6aILPLJJFpvCA3QQZLmTlPzUCYFCyBP7Eu4qXNH6P4Cftp3drqgJDoVY7hwv7uPimHeFIXRm/PLw6dpPNnPhtlfU8QTENghT0HLHx9gPpP1HcAJKsLaB1fwybYz/VXNdQw93kI=;PDyu4xImOwmjunzR+EA31g=="
 ---
 

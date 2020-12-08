@@ -57,15 +57,31 @@ related:
         width: 768
         height: 433
         isCached: true
-  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM)"
-    publishedDateTime: 2020-12-07T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
+  - title: "Amazon (AMZN) AWS Teams Up With MGM, Bolsters Cloud Clientele"
+    excerpt: "Amazon’s AMZN cloud computing arm — Amazon Web Services (“AWS”) — entered a multi-year agreement with Metro Goldwyn Mayer (“MGM”). As part of the latest collaboration, MGM is shifting library and critical SAP workloads to AWS to make advancements in its core media supply chain and enterprise-wide media distribution platform."
+    publishedDateTime: 2020-12-08T15:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
+    excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
+    publishedDateTime: 2020-12-07T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Media giant MGM signs multi-year deal with AWS to revamp its supply chain processes"
     excerpt: "AWS lands multi-year cloud deal with US media giant MGM that will see it assist the firm with revamping its supply chain and content distribution processes."
     publishedDateTime: 2020-12-07T16:27:00Z

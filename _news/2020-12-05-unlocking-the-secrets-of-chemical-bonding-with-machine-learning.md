@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diving into Deep Learning"
-    excerpt: "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets)."
-    publishedDateTime: 2020-12-08T15:41:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Unlocking the secrets of chemical bonding with machine learning"
     excerpt: "Researchers have developed a Bayesian learning model of chemisorption, or Bayeschem for short, aiming to use artificial intelligence to unlock the nature of chemical bonding at catalyst surfaces."
     publishedDateTime: 2020-12-07T05:16:00Z

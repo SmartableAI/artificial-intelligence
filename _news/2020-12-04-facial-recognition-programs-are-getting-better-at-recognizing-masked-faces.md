@@ -79,6 +79,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Advocates to press Biden administration, Congress on facial recognition curbs"
+    excerpt: "Advocates for privacy rights, civil liberties and racial justice are preparing to press the next Congress and the Biden administration to impose stricter regulation"
+    publishedDateTime: 2020-12-08T17:07:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21165656/advocates-to-press-biden-administration-congress-on-facial-recognition-curbs"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 38
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/12/20201208_AMX_US_NEWS_BIDEN_FACIALRECOGNITION_GET.5fcfb1aa3ae3b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
     excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
     publishedDateTime: 2020-12-06T10:30:00Z

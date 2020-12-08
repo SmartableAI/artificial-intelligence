@@ -40,6 +40,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Voice of OC to Host Live Video Coronavirus Discussion with Orange County’s Top Experts Dec. 10"
+    excerpt: "RSVP now for Voice of OC’s LIVE video dialogue with Orange County’s top Coronavirus experts at 5 p.m. Thursday, Dec. 10."
+    publishedDateTime: 2020-12-08T15:54:00Z
+    webUrl: "https://voiceofoc.org/2020/12/voice-of-oc-to-host-live-video-coronavirus-discussion-with-orange-countys-top-experts-dec-10/"
+    type: article
+    provider:
+      name: Voice of OC
+      domain: voiceofoc.org
+    quality: 12
+    images:
+      - url: "https://voiceofoc.org/wp-content/uploads/2020/12/VOC_ONOC_LIVE_DEC102020.png"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "0I0V0Wo1xVjmesw1sneET+fj1iOvMd9P+rBBVWetRPxrqS6lYAf0eM0wvuv7WVoE3U3FV5/p2JBbkBrK0V/wtNhPqtM3ruo5vj9ohwDCLXZZr6+lj4sh11jq/FEKwNnNns6FUbfT1b65ELtXjbflIiF8KDsREF841XVbbk+30vqSoPZr6OOKCShoY5WlIszvPvjhlyNa+0RTyufhY4bo5ROdzTQcig8is6684UApFNm70VopjnZSYG2CjruMGuLIvHwIht15yIU41Najn17hDsfKYrHhOVXKVTahDPPo7Dbe/EU00agqOBnrGRTglCN/EwCz2XK++LwkM81gQ3qtr7DLfU83FUXHhZq/ns5t4+s=;Q9SprCMcVgK6pEre0rWUzg=="
 ---

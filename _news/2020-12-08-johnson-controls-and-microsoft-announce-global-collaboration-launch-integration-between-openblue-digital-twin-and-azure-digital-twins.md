@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Azure Digital Twins is now generally available"
+    excerpt: "Microsoft's IoT platform which allows for the formation and analyzation of digital replicas of real-world places is now generally available, along with key partner solutions for Digital twins."
+    publishedDateTime: 2020-12-08T13:44:00Z
+    webUrl: "https://www.neowin.net/news/azure-digital-twins-is-now-generally-available"
+    ampWebUrl: "https://www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607450787_azure_digital_twins_1_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
     excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
     publishedDateTime: 2020-12-07T15:59:46Z
@@ -134,6 +150,20 @@ related:
       - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
         width: 742
         height: 649
+        isCached: true
+  - title: "Microsoft highlights AI innovations at 40th GITEX Technology Week"
+    excerpt: "Azure FarmBeats, an AI solution supporting food security, a key focus at The Hub December 6, 2020; Dubai, United Arab Emirates – opened a socially distanced area ‘The Hub’ as the 40th GITEX Technology Week launched,"
+    publishedDateTime: 2020-12-08T18:14:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2020/12/08/microsoft-highlights-ai-innovations-at-40th-gitex-technology-week/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/12/sayedandHH3LR7122020143330-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "qcn2KT1eUWIzuUFx7p9UQvFU2b6yE6YC3htEzUosch4XhiLY31r9OimhrelCPHQ3Y8eTPI12NUaLJd37c11g0OAfD/DKf1KybKaxJLvyimkSx+lApjiNlJBX3JDihr7RW0HwZg0mVMJqomGUlMtiEE9Wmvfit7syIIVA6S0PGDtS6XYVnGpJaOUg/yHfLHooco7YGcUp31gQW/h3mdNxKGoWBQAqfYcxnAkPazcQkHcEGl+7JTrmG0WPmC+77E39PyTECT+Vg02Hc/wvMlWixAzsWdVfGM+KvMifUtR/Bt6oiC7I20AanyyWxJ3qwk+O0zldc3OZaHkAuWGvBxuBliIYKflUG336Zug+nbw5Hn1ViJj0XJCH2reoO5lyOI6grRapaDgQu+3NrGSXdu3yKVIUF7M7/aMA6oeOe6GjlEAlWCtaCjfrXQN75jz97RlEz2sd6dEk894tW/o5U7pIzUvAGfkdybxmmrrSzXVLg5U2sybe2qp83hF2GqGMz7o6QoRuZkRA4P9w8BAZNWA/zg==;hgbTjK2gBsyAjb3k6dkhTA=="

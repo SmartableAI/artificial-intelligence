@@ -26,17 +26,6 @@ images:
     height: 666
     isCached: true
 
-related:
-  - title: "ViaTouch to Showcase and Demo Its Vicki AI Computer Vision Powered Smart Store of the Future at GITEX 2020"
-    excerpt: "(GLOBE NEWSWIRE) -- [GITEX 2020] San Diego-based ViaTouch Media, which is disrupting the retail shopping industry with its advanced software innovations, is demonstrating its VICKI AI Computer Vision powered smart store of the future at the Emirates Telecommunications Corporation (Etisalat) Stand Z1-A10-21,"
-    publishedDateTime: 2020-12-07T07:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8097536/viatouch-to-showcase-and-demo-its-vicki-ai-computer-vision-powered-smart-store-of-the-future-at-gitex-2020"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 16
-
 secured: "Z2m6CyeQUxgZXk0H9G+CgaV3oZiW/fUZcMdjxEKtEDB1Ywp8m0jcUVEXexHEtiEnw8l/moUygjJOO9sfkfjYQma123t/oJviPx5SIXJIklZEC6I5jT8BEKbbEgrJIZjzdiAjEUqqPpRKjxcUKMdAc1oGo0tZKdT40EYj+zqWaT5xHVZTMXQAAFo4dToJVvZAkV190eLc49j+/cmaBLFU4LSEFoFscz2D1N5Fn4KlJBIneWZn+wkr9ZlzsOaIGQ2tRG0SRt0lAmW0yS5YQASf3c1n0AGBfAvRY4NWIPRQc59EfgAaNFu/IwDFsHT3dZsRpizmk6o46ThrJM9Rdx+lGVLDoT1tRkJjdlD08On9csY=;gdIdfoJo/oV8rDag+vPAGw=="
 ---
 

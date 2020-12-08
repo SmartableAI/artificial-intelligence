@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Plans to Open Second Region in Australia"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in"
-    publishedDateTime: 2020-12-08T06:44:35Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
+  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
+    publishedDateTime: 2020-12-08T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
     type: article
     provider:
       name: MarketWatch
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AWS' Outcome Driven Engineering team approaches digital transformation"
+    excerpt: "In a conversation, Sarah Cooper, general manager of Outcome Driven Engineering at AWS, outlines how her group navigates the intersection of digitization, industries and innovation."
+    publishedDateTime: 2020-12-07T11:07:00Z
+    webUrl: "https://www.zdnet.com/article/how-aws-outcome-driven-engineering-team-approaches-digital-transformation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-aws-outcome-driven-engineering-team-approaches-digital-transformation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-aws-outcome-driven-engineering-team-approaches-digital-transformation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the BMW Group (OTCMKTS: BMWYY) announced a comprehensive"
     publishedDateTime: 2020-12-08T09:52:00Z

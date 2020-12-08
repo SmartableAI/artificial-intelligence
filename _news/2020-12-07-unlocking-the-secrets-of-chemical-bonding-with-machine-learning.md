@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/12/201204131313.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201204131313.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Diving into Deep Learning"
-    excerpt: "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets)."
-    publishedDateTime: 2020-12-08T15:41:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Unlocking the secrets of chemical bonding with machine learning"
     excerpt: "A new machine learning approach offers important insights into catalysis, a fundamental process that makes it possible to reduce the emission of toxic exhaust gases or produce essential materials like fabric."
     publishedDateTime: 2020-12-04T17:35:00Z

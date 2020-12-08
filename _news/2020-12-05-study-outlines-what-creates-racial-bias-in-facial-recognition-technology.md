@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Advocates to press Biden administration, Congress on facial recognition curbs"
+    excerpt: "Advocates for privacy rights, civil liberties and racial justice are preparing to press the next Congress and the Biden administration to impose stricter regulation"
+    publishedDateTime: 2020-12-08T17:07:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21165656/advocates-to-press-biden-administration-congress-on-facial-recognition-curbs"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 38
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/12/20201208_AMX_US_NEWS_BIDEN_FACIALRECOGNITION_GET.5fcfb1aa3ae3b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
     excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
     publishedDateTime: 2020-12-04T15:20:00Z

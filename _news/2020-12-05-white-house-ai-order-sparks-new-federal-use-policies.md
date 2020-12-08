@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Trump signing order on principles for U.S. government AI use"
-    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-    publishedDateTime: 2020-12-04T01:09:00Z
-    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28D357"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Trump signs order on principles for U.S. government AI use"
     excerpt: "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making."
     publishedDateTime: 2020-12-04T06:36:00Z
@@ -67,17 +51,6 @@ related:
         width: 876
         height: 548
         isCached: true
-  - title: "Trump signs another executive order on governmental AI development"
-    excerpt: "This time, the order is focused on promoting the use of trustworthy artificial intelligence by the government."
-    publishedDateTime: 2020-12-04T01:14:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/trump-signs-another-ai-executive-order/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/trump-signs-another-ai-executive-order/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Trump signing order on principles for U.S. government AI use"
     excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
     publishedDateTime: 2020-12-04T18:53:00Z

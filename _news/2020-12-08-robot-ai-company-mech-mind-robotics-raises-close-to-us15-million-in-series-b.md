@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed"
-publishedDateTime: 2020-12-08T15:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046"
-webUrl: "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046"
+excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising."
+publishedDateTime: 2020-12-08T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html"
+webUrl: "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html"
 type: article
-quality: 95
-heat: 95
-published: true
+quality: 65
+heat: 65
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg"
-    width: 400
-    height: 274
+  - url: "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg?p=facebook"
+    width: 1500
+    height: 785
     isCached: true
 
-secured: "EoFLQJbPahKOxdYIVeiIkcgtQfKA3vWJolu+biOnlunEl9OeUAMU9N9fIyNQrrCPX4CFxe8R+XoyuRP7ve2CqK2m7Og4zuL/UlOyZygug0/HPTQAKWCKO8kZ7NVyVntYW9TBj+33bgxapVyDZhfJ679VUlIIKIvAcu+nWkUHh8i+fsfSiUrFHK6vvKfuxh3KeEwQwseBi4wthpvoQMzz75K6R7ol9VJByD0vxe4+7uMI1RBtIJ/rIo8OKymKuThgcQRGIU5hbZ5SZJifa76ChEIBqgrTVUp4PPq3I5Ms3dqbo+TPW3jUpxbXXj4Ay1gQH8Af6GN+jkg4d3sBBWV/QqFVGRqrN1NfuEiQZirEyEU=;FIEk+5Go85+hZRtUT/rfpg=="
+secured: "pNwETIoRRedMzMGTHSgFQLw/MqGsc1a6EObX7gbLrowgc5KdeoanSyU0zuK5Es82w5AbjXODy91hoGAFp8W1qGnpC/0gizobt1SyxUbNkwEfPf2lVmhYUDBBAtYtz8PotJ2y5/fPxtUOR/Xp/UGeQ3G2DftMnVsNOirU2W6JezQPe2EhFDcfbVKoxgUeoPwvj7mhAN6QctcbnuTYq4WyH27CAR6r5CnH7zSOvKsHKHASBgw+0HTLcEWeI/3ALXDeIez4LYpu3Qt2y+Fg3NCT9shZa0KgqyEdjh1rwbobKWvtUd8ij83QNDi3qBn1ly4qggP2hDtFzCqyZlNAB4hU1nAsZ21u3ZM79WK/qTCC91s=;UboMGxAfBai4fZKZsuSaBQ=="
 ---
 

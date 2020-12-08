@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Prominent AI Ethics Researcher Says Google Fired Her"
-    excerpt: "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts."
-    publishedDateTime: 2020-12-04T02:08:00Z
-    webUrl: "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/"
-    ampWebUrl: "https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
-    images:
-      - url: "https://media.wired.com/photos/5fc950d9319157d9f1bd0ceb/master/pass/Business-Timnit%20Gebru-1028811892.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Top AI ethics researcher says Google fired her; company denies it"
     excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists."
     publishedDateTime: 2020-12-04T05:52:00Z
@@ -90,38 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit"
-    excerpt: "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn."
-    publishedDateTime: 2020-12-04T08:47:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Top AI ethics researcher says Google fired her over critical e-mail to colleagues; company denies it"
-    excerpt: "Google says Timnit Gebru had threatened to resign unless she was told which colleagues deemed a draft paper she wrote was unpublishable."
-    publishedDateTime: 2020-12-04T02:30:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3112501/top-ai-ethics-researcher-says-google-fired-her-over-critical-e-mail"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3112501/top-ai-ethics-researcher-says-google-fired-her-over-critical-e-mail"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3112501/top-ai-ethics-researcher-says-google-fired-her-over-critical-e-mail"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 89
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/04/9001db7c-35d0-11eb-8d89-a7d6b31c4b8a_image_hires_093654.jpg?itok=JnvzR1Eg&v=1607045821"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Researchers are starting to refuse to review Google AI papers"
     excerpt: "Computer scientists are beginning to refuse to review Google AI papers until Google changes its stance on former ethics co-lead Timnit Gebru."
     publishedDateTime: 2020-12-07T19:01:00Z
@@ -135,22 +87,6 @@ related:
     quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models"
-    excerpt: "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models."
-    publishedDateTime: 2020-12-04T06:20:00Z
-    webUrl: "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/"
-    ampWebUrl: "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
@@ -282,22 +218,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google staff hit out at effort to 'silence' AI ethics leader"
-    excerpt: "More than 400 employees of the US firm signed a letter saying Timnit Gebru's departure was 'a moment of reckoning beyond Google'"
-    publishedDateTime: 2020-12-04T10:33:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/04/google-staff-hit-effort-silence-ai-ethics-leader/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4BqCPWxJu6r_Co_Uapdy2dIiiutx_PFeIfnF6XtRkqB7Pc.jpeg"
-        width: 2394
-        height: 1497
-        isCached: true
   - title: "Google AI Ethics Co-Head Reportedly Sacked for Critical Views"
     excerpt: "A prominent Google AI researcher says she was fired over an email she authored expressing disappointment with how a review of her research was handled internally."
     publishedDateTime: 2020-12-04T20:16:00Z
@@ -394,6 +314,20 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "Google parts with top AI researcher after blocking paper, faces blowback"
+    excerpt: "Google struggled on Thursday to limit the fallout from the departure of a top artificial intelligence researcher after the Internet group blocked the publication of a paper on an important AI ethics issue."
+    publishedDateTime: 2020-12-04T16:02:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/12/google-embroiled-in-row-over-ai-bias-research/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/timnit-gebru-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
     excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
     publishedDateTime: 2020-12-05T05:05:00Z
@@ -426,20 +360,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google's co-head of Ethical AI firing triggers controversy"
-    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
-    publishedDateTime: 2020-12-05T14:31:00Z
-    webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/44/944cc9e0-35fc-11eb-9807-9fa2013d419b/5fc9db821993b.image.png"
-        width: 280
-        height: 350
-        isCached: true
   - title: "More than 1,000 Google employees have signed a letter demanding answers from leadership after a top AI researcher was suddenly fired"
     excerpt: "A petition signed by more than 1,000 Googlers demands that managers explain why they rejected a research paper at the heart of Timnit Gebru's firing."
     publishedDateTime: 2020-12-04T16:55:00Z
@@ -471,20 +391,6 @@ related:
       - url: "https://heavy.com/wp-content/uploads/2020/12/timnit-gebru.jpg?quality=65&strip=all"
         width: 780
         height: 439
-        isCached: true
-  - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"
-    publishedDateTime: 2020-12-07T06:08:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/12/07/592999.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 54
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/12/Google-headquarters.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"

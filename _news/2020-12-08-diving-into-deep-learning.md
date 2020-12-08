@@ -9,8 +9,8 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/div
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Line
@@ -28,30 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the secrets of chemical bonding with machine learning"
-    excerpt: "Researchers have developed a Bayesian learning model of chemisorption, or Bayeschem for short, aiming to use artificial intelligence to unlock the nature of chemical bonding at catalyst surfaces."
-    publishedDateTime: 2020-12-07T05:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201204131313.htm"
+  - title: "Incremental learning: Optimizing search relevance at scale using machine learning"
+    excerpt: "Amazon Kendra is releasing incremental learning to automatically improve search relevance and make sure you can continuously find the information you’re looking for, particularly when search patterns and document trends change over time. Data proliferation is real, and it’s growing. In fact, International"
+    publishedDateTime: 2020-12-08T17:40:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Unlocking the secrets of chemical bonding with machine learning"
-    excerpt: "A new machine learning approach offers important insights into catalysis, a fundamental process that makes it possible to reduce the emission of toxic exhaust gases or produce essential materials like fabric."
-    publishedDateTime: 2020-12-04T17:35:00Z
-    webUrl: "https://phys.org/news/2020-12-secrets-chemical-bonding-machine.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/8-unlockingthe.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1856-1.jpg"
         width: 800
-        height: 415
+        height: 400
         isCached: true
+  - title: "Medical Image Processing Deep Learning Market, 2030"
+    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-04T11:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Researchers present self-learning algorithms for a large number of different imaging datasets"
+    excerpt: "AI-based evaluation of medical imaging data usually requires a specially developed algorithm for each task. Scientists from the German Cancer Research Center (DKFZ) have now presented a new method for configuring self-learning algorithms for a large number of different imaging datasets—without the need for specialist knowledge or very significant computing power."
+    publishedDateTime: 2020-12-07T16:05:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 13
 
-secured: "pjQQZcLS7Z18yzRkZQW5z/Hx3vuyDvEHzS7Nl50xwVTwCgROEYlTh+jTuAwBxnh6DiGgQ1Lcg4PgAj2s93BqzvW7KW+VC94dD8nRv+ErmD+9Q8DLbYb/Z/1tHoGDPxhZjyY0DfcKBzVTYylYEA27U6XbCOOLPAhyHMfbFknpGmz/lJh0jxOTv68y3KR9KFCdGMfepf1YVWThdkfmu06446AD7IffVLrWpmKyCHJwhDIMYBT43RXU16uoK7lpD5U66HguMP0AZ7aXCrw21/Bmyu8wiNEPkTEXjpdRbO/nyUa7RJMaNw9PyNsdGlMAx2MrzHGqfssgnQDGjQC8uuR43PVJIOvY/K74uxdc4pNodTk=;fKCQuabnA9xK58X0R9Cajw=="
+secured: "zyaTTS8xlYb+jqAIufsO+LyC7sshh/Md6bcx65PDuGto6njDoZzfuQFSd+AuGm/oTR988aWjQIbG6YP3p2MV9FB/crCUSY3MZf9fcN76jNq4otppewzbNElBcYrMMI8zS5/qOK1mskTb+2JEFtxJV2YIh97ciZFxs1l4Jhzd4QEcj5bKNWYqMeMFAelu3YdR163cMDphlL8bHCfqpMf7uvxThoBjGOUT1zXjHcrTkA239a/yXpgKGED9jaXuqbSXkk83IMV3yOr42u8MUJw8Tm0YC9Y/8OKghNFKXnL2udN1nYKZRlqp4BXcs9edpWohTbp5NCdaTlQCttgtPfpLGYpL1drsQOoPiuPC3+vtFGK53UZfes9CqaMN0XQ8CM7aYiR4J2rbJlbphNTVDTpAg+3UeAkxeuILHgtI0HDaEvW1It4MWUsaYnY3FwYG64rkD5LIDcfyHaPYDI7NAItBfjHB6DzKi9Gz7xkCuU4QtPnqg3BqCG2wWMaotj9eexErqSDeeAO2zxFG03c/RK3WFA==;Tm6bUXujtCxe87XvfDQmWw=="
 ---
 

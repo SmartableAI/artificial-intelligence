@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models – Jaweb"
-    excerpt: "Following a dispute over some emails and a research paper Wednesday, AI ethics pioneer research scientist Timnit Gebru no longer works at Google. According to a draft copy of the unpublished paper obtained by VentureBeat,"
-    publishedDateTime: 2020-12-04T06:55:00Z
-    webUrl: "https://elmoudjaweb.com/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 53
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/AI-ethics-pioneers-exit-from-Google-involved-research-into-risks.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
     excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
     publishedDateTime: 2020-12-06T16:52:00Z

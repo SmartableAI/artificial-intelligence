@@ -42,22 +42,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models – Jaweb"
-    excerpt: "Following a dispute over some emails and a research paper Wednesday, AI ethics pioneer research scientist Timnit Gebru no longer works at Google. According to a draft copy of the unpublished paper obtained by VentureBeat,"
-    publishedDateTime: 2020-12-04T06:55:00Z
-    webUrl: "https://elmoudjaweb.com/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 53
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/AI-ethics-pioneers-exit-from-Google-involved-research-into-risks.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "598nHgHyq7VwrQ4LN04G2ULugl1hbLbbpQ9UK4Q+zcEWFWjPyo9swcuJsSkPtW7ah0yE5H+SvttCxgru2Mw1OmVl15qwk/zr0S4qCtRcQ8PEqpL2w5DXmWAwEUprJQ5rHge80kMuS+uuQQf0gVSq374kraaNgvTHR+r6btSm9imhvYBdrJfxIUZLzPeRE5zji1BKee7UAf5CB2pxoh3DBZiWhrZ8SCFuPvOE4s8LgF3wVQuBl8iuZ2l8DuPYafGVGZlZ4LLxifRMg1S+9uZdM6/MNAOGnIGt52XIwTpSI/+ZpLUHXUjnUazRkf1KmNtGy6hyOIOEqSk1KAtfHXUrZc5GI93qaeGnwggl2B0LMU4=;V0f55s0Quoqnc+JXv99htg=="
 ---

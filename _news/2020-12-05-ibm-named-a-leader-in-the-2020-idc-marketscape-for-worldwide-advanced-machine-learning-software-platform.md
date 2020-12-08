@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/press-releases/2020/12/02/ibm-named-a-
 webUrl: "https://stockhouse.com/news/press-releases/2020/12/02/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "IBM Named a Leader in the 2020 IDC MarketScape For Worldwide Advanced Machine Learning Software Platform"
-    excerpt: "IBM has a Watson Anywhere approach that brings AI to wherever the data resides —across any cloud —to help companies unearth hidden insights, automate processes, and ultimately drive business ..."
-    publishedDateTime: 2020-12-04T01:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-named-a-leader-in-the-2020-idc-marketscape-for-worldwide-advanced-machine-learning-software-platform-1029857832"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "tseMic98uZ/ilFUCJzrLXEm1wLEk5hhXBYuSKnZtmcJOtk8EEGm5E87cDdyuSvRnxZHwikV9lOv2Wd88Acx1ygjynL80BdN9b9j0kJhFge9nKXElvVM2ZxSHAS9ifpUwp3hxMayPqHTTkrHm05cZYgruCcIIO0JbJGpLbuK3thGfpbhdiVhzZKB6ekrG8XgCw1oVte1lqqBn0wsnUmxS8gB8Kuxe9NaMwZQPn8X0gkadPdLTFjiL/R7cn7FT26jvwzeVwR5K1dQiuNKznq0JyUcRn1TK+2uVLSpxhheU94MGfx95kx5Ld8QRo29LnPO9i75xY0cMwOTBiJGSkYBw41shzvjUuk6s6S/QZhLU5fw=;2+ixhoK6EehcQU694tl3Ow=="
 ---

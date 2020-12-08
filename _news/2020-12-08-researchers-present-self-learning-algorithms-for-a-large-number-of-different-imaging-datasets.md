@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-12-self-learning-algorithms-larg
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.amp"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,49 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Incremental learning: Optimizing search relevance at scale using machine learning"
+    excerpt: "Amazon Kendra is releasing incremental learning to automatically improve search relevance and make sure you can continuously find the information you’re looking for, particularly when search patterns and document trends change over time. Data proliferation is real, and it’s growing. In fact, International"
+    publishedDateTime: 2020-12-08T17:40:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1856-1.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Diving into Deep Learning"
+    excerpt: "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets)."
+    publishedDateTime: 2020-12-08T15:41:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 61
+    images:
+      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Medical Image Processing Deep Learning Market, 2030"
+    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-04T11:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "+qYK+Vl+dGN0YrWwS1CIKw0LBGDE2sYo0QSlRZ/Wd+CKJR/PADyAcRI4ykfCDoy2ZDUJB/VAkyEycGo/pDs7yRU8fNiOKzSw/iTWI+Qea7vGbyGMJz+nBTIhrgL58rlB60dAoXgUOQVOPPu6ElsgE7upqxBmJd+gBJgk5i8SZrz9aNfdedAoravAF6BuWzGHv0LKL0Hh2IMTKruwFA0g5JdeMe4A4xsSagGYzDFYqM0j2lfIK1Cn4Q2oZ9HBr4D8Rg15owPm35G365MuEtkvSo2dEQV2nySGZukC5WG3X/fF2f7S6k1ML9GmrxRrSa8h9ocuZVR04fW8gAavekPwbkG0tYRadIUU8qkde5dAPbR1DoXotENdKImDuGzdhkHbldtsFe9W9I8RjRkAP0v9s3efUFn7aakT3/XvxSwwQXtYCLcXJtF64xJtDyRyZwNJnx+MJoHFjorldLYbCr4mOfcIe5dJDsaNztB7b0B2pUxgGJl5vXBs+j3XqIhirDSc8+fa/kzXmagf6GZ5+5YVjQ==;RAHws3ikksoUFzwPtNlnEg=="
 ---
