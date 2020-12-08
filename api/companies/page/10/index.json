@@ -4,77 +4,144 @@
   "page": 10,
   "value": [
     {
-      "path": "_companies/6sense.md",
-      "title": "6sense",
-      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
+      "path": "_companies/xnor.ai.md",
+      "title": "Xnor.ai",
+      "excerpt": "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xnor.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/xnor.ai/",
       "type": "profile",
-      "name": "6sense",
-      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "website": "https://www.6sense.com/",
+      "name": "Xnor.ai",
+      "overview": "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices.",
+      "website": "https://www.xnor.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/xnor-ai/",
+        "followers": 2109
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/6sense"
+        "url": "https://www.crunchbase.com/organization/xnor-ai"
       },
-      "twitter": {
-        "username": "6senseInc",
-        "url": "https://twitter.com/6senseInc",
-        "followers": 19191
-      },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2016,
       "locations": [
-        "San Francisco"
+        "Seattle, WA",
+        "Seattle, Washington"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Marketing"
+        "Computer Vision",
+        "Machine Learning",
+        "Natural Language Processing"
       ],
-      "heat": 42,
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/677218631294431232/KYGLTebt_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "6sense",
-          "isCached": true
+          "title": "Xnor.ai",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_200_200/0?e=1594857600&v=beta&t=hfVmbjlDPgNiotB-bhVoGUyUkkQCKT6t1s8J11cZ7VA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/actioniq.md",
-      "title": "ActionIQ",
-      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
+      "path": "_companies/yuanfudao.md",
+      "title": "Yuanfudao",
+      "excerpt": "Yuanfudao provides live courses and tutoring through an online platform.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yuanfudao/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/yuanfudao/",
       "type": "profile",
-      "name": "ActionIQ",
-      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
-      "website": "https://www.actioniq.com/",
+      "name": "Yuanfudao",
+      "overview": "Yuanfudao provides live courses and tutoring through an online platform.",
+      "website": "https://www.yuanfudao.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/actioniq"
-      },
-      "twitter": {
-        "username": "ActionIQinc",
-        "url": "https://twitter.com/ActionIQinc",
-        "followers": 1077
+        "url": "https://www.crunchbase.com/organization/yuanfudao"
       },
       "yearFounded": 0,
-      "locations": [
-        "Mountain View, CA"
-      ],
       "topics": [
         "AI",
-        "AI in Marketing"
+        "AI in Education"
       ],
-      "heat": 42,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "url": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xoxhum1birnuyzqlrovp",
           "width": 400,
           "height": 400,
-          "title": "ActionIQ",
+          "title": "Yuanfudao",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zymergen.md",
+      "title": "Zymergen",
+      "excerpt": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zymergen/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zymergen/",
+      "type": "profile",
+      "name": "Zymergen",
+      "overview": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "website": "https://www.zymergen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zymergen-inc-/",
+        "followers": 10307
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zymergen"
+      },
+      "twitter": {
+        "username": "zymergen",
+        "url": "https://twitter.com/zymergen",
+        "followers": 4405
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=658kvYgrJBE"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/975742186871402496/9hiwI9SS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zymergen",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -175,44 +242,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/anomali.md",
-      "title": "Anomali",
-      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
-      "type": "profile",
-      "name": "Anomali",
-      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "website": "https://www.anomli.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/threatstream"
-      },
-      "twitter": {
-        "username": "Anomali",
-        "url": "https://twitter.com/Anomali",
-        "followers": 8727
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anomali",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/avawomen.md",
       "title": "Ava",
       "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
@@ -267,44 +296,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
-      "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
-      },
-      "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 869
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Aviso",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -540,7 +531,7 @@
       "twitter": {
         "username": "labgeni_us",
         "url": "https://twitter.com/labgeni_us",
-        "followers": 2233
+        "followers": 2234
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -811,7 +802,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5239
+        "followers": 5238
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1113,7 +1104,7 @@
       "twitter": {
         "username": "skychainglobal",
         "url": "https://twitter.com/skychainglobal",
-        "followers": 2651
+        "followers": 2652
       },
       "yearFounded": 0,
       "locations": [
@@ -1141,44 +1132,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/squirrelai.md",
-      "title": "Squirrel AI Learning",
-      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
-      "type": "profile",
-      "name": "Squirrel AI Learning",
-      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "website": "https://www.squirrelai.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
-      },
-      "twitter": {
-        "username": "SquirrelAI_Edu",
-        "url": "https://twitter.com/SquirrelAI_Edu",
-        "followers": 448
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Shanghai"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Squirrel AI Learning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/tamr.md",
       "title": "Tamr",
       "excerpt": "With a co-founding team led by Andy Palmer (founding CEO of Vertica) and Mike Stonebraker (Turing Award winner) and backed by investors including NEA, Google Ventures, and GE Ventures, Tamr is transforming how companies get value from their data.",
@@ -1198,7 +1151,7 @@
       "twitter": {
         "username": "Tamr_Inc",
         "url": "https://twitter.com/Tamr_Inc",
-        "followers": 3933
+        "followers": 3932
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1296,7 +1249,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 7726
+        "followers": 7727
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1491,6 +1444,97 @@
           "height": 400,
           "title": "ZenRobotics",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "type": "profile",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
+      },
+      "twitter": {
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2469
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Vectra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bigpanda.io.md",
+      "title": "BigPanda",
+      "excerpt": "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bigpanda.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bigpanda.io/",
+      "type": "profile",
+      "name": "BigPanda",
+      "overview": "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information.",
+      "website": "https://www.bigpanda.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bigpanda",
+        "followers": 5498
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bigpanda"
+      },
+      "twitter": {
+        "username": "bigpanda",
+        "url": "https://twitter.com/bigpanda",
+        "followers": 3052
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1333848252035207168/8T09i7K2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "BigPanda",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE4aaa5HQ_ZOQ/company-logo_200_200/0?e=1594857600&v=beta&t=1nApzJhZx4yTSZSTWAPOlJO0dQc8JhSpc-yfK-ufTtk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

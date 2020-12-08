@@ -4,6 +4,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_companies/affectiva.md",
+      "title": "Affectiva",
+      "excerpt": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/affectiva/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/affectiva/",
+      "type": "profile",
+      "name": "Affectiva",
+      "overview": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
+      "website": "https://www.affectiva.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/722122",
+        "followers": 17739
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/affectiva"
+      },
+      "twitter": {
+        "username": "affectiva",
+        "url": "https://twitter.com/affectiva",
+        "followers": 11198
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Boston, MA",
+        "Boston, Massachusetts"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1280148929808646144/rFMnY8_q_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Affectiva",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/anduril.md",
       "title": "Anduril Industries",
       "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
@@ -23,7 +77,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 6733
+        "followers": 6730
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -76,7 +130,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 13196
+        "followers": 13193
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -132,7 +186,7 @@
       "twitter": {
         "username": "flatironhealth",
         "url": "https://twitter.com/flatironhealth",
-        "followers": 10070
+        "followers": 10071
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -231,6 +285,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
+      "type": "profile",
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
+      },
+      "twitter": {
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6825
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco and Tel Aviv"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Chorus.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/algolia.md",
       "title": "Algolia",
       "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
@@ -250,7 +342,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16472
+        "followers": 16478
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -361,7 +453,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 14406
+        "followers": 14407
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -520,7 +612,7 @@
       "twitter": {
         "username": "insitro",
         "url": "https://twitter.com/insitro",
-        "followers": 2156
+        "followers": 2154
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -672,44 +764,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6081
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/viz.ai.md",
       "title": "Viz",
       "excerpt": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
@@ -732,7 +786,7 @@
       "twitter": {
         "username": "viz_ai",
         "url": "https://twitter.com/viz_ai",
-        "followers": 1488
+        "followers": 1489
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1063,6 +1117,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/korbit.ai.md",
+      "title": "Korbit.ai",
+      "excerpt": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/korbit.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/korbit.ai/",
+      "type": "profile",
+      "name": "Korbit.ai",
+      "overview": "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations.",
+      "website": "https://www.korbit.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/korbit-ai"
+      },
+      "twitter": {
+        "username": "korbit_ai",
+        "url": "https://twitter.com/korbit_ai",
+        "followers": 247
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Montréal, Québec"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1312115717517516801/bg0_nWql_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Korbit.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/aidoc.md",
       "title": "Aidoc",
       "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
@@ -1357,7 +1449,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12446
+        "followers": 12447
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1404,7 +1496,7 @@
       "twitter": {
         "username": "biofourmis",
         "url": "https://twitter.com/biofourmis",
-        "followers": 543
+        "followers": 544
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1615,41 +1707,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/einstein.ai.md",
-      "title": "Salesforce Einstein",
-      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
-      "type": "profile",
-      "name": "Salesforce Einstein",
-      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "website": "https://einstein.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/einstein"
-      },
-      "twitter": {
-        "username": "einstein_ai",
-        "url": "https://twitter.com/einstein_ai",
-        "followers": 142
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce Einstein",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/ekar.ae.md",
       "title": "Ekar",
       "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
@@ -1749,51 +1806,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/grok.md",
-      "title": "Grok",
-      "excerpt": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/grok/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/grok/",
-      "type": "profile",
-      "name": "Grok",
-      "overview": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
-      "website": "https://grokstream.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/grok-llc/",
-        "followers": 225
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/grok"
-      },
-      "twitter": {
-        "username": "grokstream",
-        "url": "https://twitter.com/grokstream",
-        "followers": 568
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Clemente, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 64,
-      "tags": [
-        "AIOPS"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1220041216206819328/s-dBH1Tb_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Grok",
-          "isCached": true
         }
       ],
       "content": "\r\n"

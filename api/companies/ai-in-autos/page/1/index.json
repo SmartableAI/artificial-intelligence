@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6631310
+        "followers": 6631519
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -60,6 +60,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1050081
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 227,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/nvidia.md",
       "title": "NVIDIA",
       "excerpt": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
@@ -79,7 +117,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 64937
+        "followers": 64933
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -143,7 +181,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 60833
+        "followers": 60842
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -196,7 +234,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 12775
+        "followers": 12792
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -235,44 +273,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
-      "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1050093
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 169,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cruise.md",
       "title": "Cruise",
       "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
@@ -292,7 +292,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 16382
+        "followers": 16492
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -355,7 +355,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 6935
+        "followers": 6998
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -410,7 +410,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 8703
+        "followers": 8710
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -464,7 +464,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 7638
+        "followers": 7636
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -518,7 +518,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 2592
+        "followers": 2591
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -571,7 +571,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 9756
+        "followers": 9757
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -747,7 +747,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 2930
+        "followers": 2929
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -789,44 +789,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 16883
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/argo.ai.md",
       "title": "Argo AI",
       "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
@@ -846,7 +808,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 3128
+        "followers": 3134
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -893,7 +855,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3413
+        "followers": 3414
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1162,7 +1124,7 @@
       "twitter": {
         "username": "May_Mobility",
         "url": "https://twitter.com/May_Mobility",
-        "followers": 1947
+        "followers": 1948
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1195,6 +1157,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 16884
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1431,7 +1431,7 @@
       "twitter": {
         "username": "zendrive",
         "url": "https://twitter.com/zendrive",
-        "followers": 2100
+        "followers": 2099
       },
       "size": "51-200 employees",
       "yearFounded": 2013,

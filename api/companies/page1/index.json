@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6631310
+        "followers": 6631519
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9160481
+        "followers": 9160428
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3494803
+        "followers": 3494761
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1551312
+        "followers": 1551309
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -356,7 +356,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 59472
+        "followers": 59498
       },
       "yearFounded": 0,
       "locations": [
@@ -366,7 +366,7 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 338,
+      "heat": 350,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -398,7 +398,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 489954
+        "followers": 489964
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -447,7 +447,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 103512
+        "followers": 103525
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -547,7 +547,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 530607
+        "followers": 530612
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -564,6 +564,44 @@
           "width": 400,
           "height": 400,
           "title": "Salesforce",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1050081
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 227,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
           "isCached": true
         }
       ],
@@ -589,7 +627,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 187690
+        "followers": 187695
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -638,7 +676,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 39370
+        "followers": 39374
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -685,7 +723,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 64937
+        "followers": 64933
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -745,7 +783,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 21296
+        "followers": 21297
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -798,7 +836,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 32875
+        "followers": 32878
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -938,7 +976,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 338,
+          "heat": 350,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -983,7 +1021,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 22102
+        "followers": 22105
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1025,7 +1063,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 58229
+        "followers": 58227
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1082,7 +1120,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 714824
+        "followers": 714813
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -1132,7 +1170,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 60833
+        "followers": 60842
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1185,7 +1223,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 12775
+        "followers": 12792
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1243,7 +1281,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 76481
+        "followers": 76485
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1283,44 +1321,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uber/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/uber/",
-      "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1050093
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 169,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/affirm.md",
       "title": "Affirm",
       "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
@@ -1340,7 +1340,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 8984
+        "followers": 8986
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1399,7 +1399,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 53153
+        "followers": 53151
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1452,7 +1452,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 16382
+        "followers": 16492
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1515,7 +1515,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 6935
+        "followers": 6998
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1570,7 +1570,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 8703
+        "followers": 8710
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1605,44 +1605,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zscaler.md",
-      "title": "Zscaler",
-      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
-      "type": "profile",
-      "name": "Zscaler",
-      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "website": "https://www.zscaler.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zscaler"
-      },
-      "twitter": {
-        "username": "zscaler",
-        "url": "https://twitter.com/zscaler",
-        "followers": 8859
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zscaler",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/rev.md",
       "title": "Rev.com",
       "excerpt": "Rev is a venture-backed internet startup in San Francisco whose mission is to give more people the freedom to work from home. We have created thousands of work-from-home jobs, and we aspire to create millions more. We have built platforms for transcription, video captioning, foreign subtitles and document translation.",
@@ -1662,7 +1624,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 8290
+        "followers": 8289
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1687,6 +1649,71 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhUI4LfQ9Zvg/company-logo_200_200/0?e=1594857600&v=beta&t=3-UHcnQEY8zzp4MZqwo_5R5MSi4_pukcfnctD9s1Vm4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/scale.md",
+      "title": "Scale",
+      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/scale/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/scale/",
+      "type": "profile",
+      "name": "Scale",
+      "otherNames": [
+        "Scale.ai"
+      ],
+      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
+      "website": "https://www.scale.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/scaleai/",
+        "followers": 6279
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/scale-2"
+      },
+      "twitter": {
+        "username": "scale_ai",
+        "url": "https://twitter.com/scale_ai",
+        "followers": 6119
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Scale",
+          "isCached": true
+        },
+        {
+          "url": "https://scale.com/static/global/facebook-card.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Scale AI Facebook Banner",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
           "width": 400,
           "height": 400,
           "title": "logo",

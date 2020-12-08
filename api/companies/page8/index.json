@@ -4,6 +4,159 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/kindred.ai.md",
+      "title": "Kindred AI",
+      "excerpt": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kindred.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kindred.ai/",
+      "type": "profile",
+      "name": "Kindred AI",
+      "otherNames": [
+        "Kindred Systems Inc"
+      ],
+      "overview": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
+      "website": "https://www.kindred.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kindred.ai/",
+        "followers": 5070
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kindred-2"
+      },
+      "twitter": {
+        "username": "kindredai",
+        "url": "https://twitter.com/kindredai",
+        "followers": 1237
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kjKPL53Tgw8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kindred AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/klaritylaw.md",
+      "title": "Klarity",
+      "excerpt": "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/klaritylaw/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/klaritylaw/",
+      "type": "profile",
+      "name": "Klarity",
+      "overview": "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore.",
+      "website": "http://klaritylaw.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/klaritylaw/",
+        "followers": 449
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/klarity"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1024571747549491200/ZM97GgD1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Klarity",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kodiak.ai.md",
+      "title": "Kodiak Robotics",
+      "excerpt": "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kodiak.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kodiak.ai/",
+      "type": "profile",
+      "name": "Kodiak Robotics",
+      "overview": "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry.",
+      "website": "http://www.kodiak.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kodiakrobotics/",
+        "followers": 2386
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kodiak-robotics-inc"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kqCfdWMo13M"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxiRCeA68X4Q/company-logo_200_200/0?e=1594857600&v=beta&t=N0l6Sg5BK9RwrHg3zOe-RkHTvwKYOhcBy1INhqclYTE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/kreditech.md",
       "title": "Kreditech",
       "excerpt": "Kreditech Group’s mission is building better access to credit through technology. Combining non-traditional data sources and machine learning,  the Company is aiming to provide access to better credit and a higher convenience for digital banking services. The product offerings include consumer loans, a digital wallet and a personal finance manager designed to help customers manage their credit score and plan their spending.  Kreditech also offers a “credit as a service” model, allowing partners to integrate its credit products as payment method or funding source.  Founded in 2012 and headquartered in Hamburg, Germany, Kreditech has processed four million loan applications through its subsidiaries. The company is led by David Chan (CEO) and is financially backed by world-class investors including J.C. Flowers, Peter Thiel, and the Worldbank’s IFC.",
@@ -182,7 +335,7 @@
       "twitter": {
         "username": "Lumiata",
         "url": "https://twitter.com/Lumiata",
-        "followers": 1076
+        "followers": 1075
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -442,7 +595,7 @@
       "twitter": {
         "username": "faceplusplus",
         "url": "https://twitter.com/faceplusplus",
-        "followers": 899
+        "followers": 898
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2011,
@@ -811,7 +964,7 @@
       "twitter": {
         "username": "noodleai",
         "url": "https://twitter.com/noodleai",
-        "followers": 1405
+        "followers": 1404
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1347,7 +1500,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2465
+        "followers": 2467
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1428,143 +1581,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGYElcY9GF7Vg/company-logo_200_200/0?e=1594857600&v=beta&t=zP-CryOPddYQZ6jokPGcvBUTEjmN4Bvya15Ef16P2zI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reflektion.md",
-      "title": "Reflektion",
-      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
-      "type": "profile",
-      "name": "Reflektion",
-      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reflektion"
-      },
-      "twitter": {
-        "username": "ReflektionInc",
-        "url": "https://twitter.com/ReflektionInc",
-        "followers": 1444
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reflektion",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/riskident.md",
-      "title": "Risk Ident",
-      "excerpt": "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/riskident/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/riskident/",
-      "type": "profile",
-      "name": "Risk Ident",
-      "overview": "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions.",
-      "website": "https://riskident.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/risk-ident"
-      },
-      "twitter": {
-        "username": "RiskIdent",
-        "url": "https://twitter.com/RiskIdent",
-        "followers": 375
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Hamburg, Germany"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1245226005180157957/66LO2jtY_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Risk Ident",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/robinhealthcare.md",
-      "title": "Robin Healthcare",
-      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/robinhealthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/robinhealthcare/",
-      "type": "profile",
-      "name": "Robin Healthcare",
-      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
-      "website": "https://www.robinhealthcare.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/robin-healthcare/",
-        "followers": 606
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/robin-healthcare"
-      },
-      "twitter": {
-        "username": "robinhealthco",
-        "url": "https://twitter.com/robinhealthco",
-        "followers": 55
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Berkeley, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1194358982015700992/uMrPVJJt_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Robin Healthcare",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
           "width": 400,
           "height": 400,
           "title": "logo",

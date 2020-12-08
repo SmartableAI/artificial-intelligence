@@ -2,7 +2,7 @@
 name: "Korbit.ai"
 overview: "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations."
 type: "profile"
-heat: 32
+heat: 65
 
 website: https://www.korbit.ai/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Korbit.ai"
 
-secured: "hI09CH7jQX+hsSrICYkAs/CcWpiyiRLUZje8aKcTuaPpaPbaUQYUfQLHMwpJnUIIkf5G6fvDKSvwzmvrX5W+QmN2RgJReiwZcQK+f0Qcb9X9sxy02iSL1tmsejl0yh7OyrxS5S7aMiT7MSZMDTL/VqEDydfXJnljkC6u1xLyc0mXpfbzFwkYWyiQc/Ql7DMQWEgMiUwNZ4/EZwU/qZkef4Jf8nIZ3oquuF91gZ7NnMfvii3FO9nV5JiQWPzGhlGfHRtxyTdGVT/kwCjUp/mRu/p4h6T9eIyF8C8LMSrLg8sOWtu2Is4hs+KacQ71PxESAaAPPSPBohonhigYwIG2nsDUpDl5AuJXHR922E3E8J1qdxxkZvfUebq2yNftq8aSCv0/aPxkXTTBVyyR/6atEg==;f3gBRkpAPeQJXEzwlIwUKg=="
+secured: "W07OSOw/tFm+4Z2ujBhy2dTiaqYe7n3IVJ8fRs8enjecr7QjnaW+u4qM/FpTV6rGm3UugLrYO0HHxzXSTh6nmjgcwFvVFM3mIwqnUEH9oMs3w6eycheXw4WULzA/SgI0umqdLTedrQhv+ko0eQ+4ep+qCkSoH7nrhvqPUPoZxWKrFNsha94rs7rkdumK3usuxt7PSLBsazgZ80mbF/02XjLSAZQMdWEv+hh/2+YutcuPP75qAyVycUd9FibJvbnyduw/8bcwiq4uui/2ES27KRrCeatU9kZkmhvGvFkzL8Sec2vwuPj3UXUMOCIntd90SDFuXxgx9YbxnhOf5tuCxKrrI4LRboiwUdWrSm8LOVKlMAYMp7KIb9wHR6p+WmuoW6nZd2m+yVZ8dzeqKbZzAg==;bGvKNBtACirkQ88FhX6dFg=="
 ---
 
