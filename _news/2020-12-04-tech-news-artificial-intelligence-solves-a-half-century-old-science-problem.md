@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artifici
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-solves-a-half-century-old-science-problem-5f914dff-327c-4e3b-9c91-64ff3dc4fb9f"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 651
     height: 366
     isCached: true
-
-related:
-  - title: "'Stunning advance' on 'protein folding': A 50-year-old science problem solved and that could mean big things"
-    excerpt: "The so-called \"protein-folding problem\" has puzzled scientists for five decades, and the discovery this week from the London-based artificial intelligence lab DeepMind has been heralded as a major ..."
-    publishedDateTime: 2020-12-03T23:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/12/03/protein-folding-discovery-major-breakthrough-deepmind/3809693001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3809693001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3809693001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 25
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/03/USAT/dcb849fd-63f8-4bca-8b61-7b364eb808bc-ca_1204NID_Protein_Fold_large_online.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "LOctf0aKT47bi7kbRkD0RjwdHROxdjUQTgluZcx4d9s8p19AOJb/Eco9k8pQBovSEzM8wW/V4tJOj5WKH+nPCDmDbK/uv6xKGa+k1H2Svx6jsA8jAjlFxhnkDY2p+gaAffskoeTfcbfkvnZD8U0567Brv/BmktNizrQ4KaKTfLvlixpJcm4spFQi5Xmux61saRepMWIVuGF5pwgqAB+q40PkOk/81dPP7aSWdefRgaDnQPmrXItsIHbtyv7jrm9Ir435v/WCugBZtFGbiUg8h/NLlTIP601zhYw+/bFe81nLnRrFwi4lUb8VaPlNto/HsoHNL1LnSt6JKfMlfXxCXG+wJjtNQ3o/+Raj7M+Avi4=;buspfVYTukfMPT70L4E8zw=="
 ---

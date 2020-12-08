@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Crooks are smart. Artificial intelligence is smarter."
+    excerpt: "AI can add an extra layer that's hard for fraudsters to beat, says Nuance Communications'."
+    publishedDateTime: 2020-12-04T16:36:00Z
+    webUrl: "https://www.paymentssource.com/opinion/crooks-are-smart-artificial-intelligence-is-smarter"
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/d857e54/2147483647/strip/true/crop/702x369+0+140/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2F7f%2Fc3c0a3734648b4ec6b30a13e4550%2Fsimonmarchand.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NAB turns to artificial intelligence to assess small business loans"
     excerpt: "NAB is working with Rich Data Corp to develop new AI algorithms that will be deployed towards credit decisions."
     publishedDateTime: 2020-12-07T23:18:00Z

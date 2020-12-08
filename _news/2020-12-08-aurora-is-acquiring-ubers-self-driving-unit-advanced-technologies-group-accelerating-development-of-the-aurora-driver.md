@@ -153,22 +153,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Uber CEO: We're not giving up on self-driving after selling off the business"
-    excerpt: "Uber announced Monday it was selling its self-driving unit, Advanced Technologies Group, to Aurora Innovation."
-    publishedDateTime: 2020-12-08T14:50:00Z
-    webUrl: "https://www.cnbc.com/2020/12/08/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/08/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/08/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 71
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105694868-15482534889372i3a3120.jpg?v=1548253563"
-        width: 5760
-        height: 3840
-        isCached: true
   - title: "Uber didn’t sell its self-driving dream — it’s just outsourcing the hard work"
     excerpt: "Uber is selling its self-driving division to autonomous vehicle startup Aurora. It's going to get a stake in company, suggesting it's not giving up."
     publishedDateTime: 2020-12-08T13:57:00Z
@@ -320,6 +304,36 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Uber CEO: We're Not Giving Up on Self-Driving After Selling Off the Business"
+    excerpt: "Uber announced Monday it was selling its self-driving unit, Advanced Technologies Group, to Aurora Innovation."
+    publishedDateTime: 2020-12-08T14:55:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business/2767559/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business/2767559/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business/2767559/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 41
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106807878-1607440153414-gettyimages-1195837048-AFP_1OB182.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Uber Stock Cools Off Following Sale of Self Driving Unit"
+    excerpt: "Uber is cooling off, after it was announced that the company's self-driving unit will be acquired by Advanced Technologies Group (ATG)"
+    publishedDateTime: 2020-12-08T15:05:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2020/12/08/uber-stock-cools-off-following-sale-of-self-driving-unit"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 39
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/app-2941689_1920.jpg?sfvrsn=6cdc006_6"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Pittsburgh mayor releases statement after Uber sells self-driving vehicle division"
     excerpt: "Uber has sold its self-driving vehicle division, Advanced Technologies Group (ATG), to Aurora, which has offices in Pittsburgh’s Strip District.In an announcement made Monday, Aurora said is has acquired ATG’s technology and employees."
     publishedDateTime: 2020-12-08T13:49:00Z
@@ -370,6 +384,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Aurora acquires Uber's self-driving division"
+    excerpt: "Uber will offload its self-driving technology division known as Uber Advanced Technology Group to Aurora, the two companies said in a joint statement Monday. Uber will also invest $400 million in Aurora as part of the deal."
+    publishedDateTime: 2020-12-08T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130312_aurora-acquires-uber-s-self-driving-division"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/uber-self-driving-prototype-in-san-francisco_100585356_h.jpg"
+        width: 1920
+        height: 1187
+        isCached: true
   - title: "Aurora confirms deal to acquire Uber's self-driving unit"
     excerpt: "Pittsburgh-based Aurora will acquire Uber’s Pittsburgh-based self-driving vehicle unit, pushing Aurora to a $10 billion valuation."
     publishedDateTime: 2020-12-07T21:04:00Z
@@ -395,19 +423,33 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Uber Sells Self-Driving Unit to Aurora"
-    excerpt: "Uber Technologies Inc. sold its self-driving car division to Aurora Innovation Inc. and took a stake in the startup, pulling back from its vision for a fleet of autonomous taxis to focus on turning a quarterly profit next year after the pandemic crushed revenue."
-    publishedDateTime: 2020-12-08T13:38:00Z
-    webUrl: "https://www.themiddlemarket.com/news-analysis/uber-sells-self-driving-unit-to-aurora"
+  - title: "Uber sells self-driving unit to Aurora"
+    excerpt: "Uber Technologies sold its self-driving car division to Aurora Innovation and took a stake in the startup, pulling back from its vision for a fleet of autonomous taxis to focus on turning a quarterly profit next year after the pandemic crushed revenue."
+    publishedDateTime: 2020-12-08T15:04:00Z
+    webUrl: "https://europe.autonews.com/automakers/uber-sells-self-driving-unit-aurora"
     type: article
     provider:
-      name: Mergers & Acquisitions
-      domain: themiddlemarket.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://www.themiddlemarket.com/wp-content/uploads/2020/12/366543331.jpg"
-        width: 2200
-        height: 1650
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Uber%20self%20driving%20car%20BB%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Uber to Offload Self-Driving Unit to Amazon-Backed Startup Aurora"
+    excerpt: "The combined company created by the merger of the two autonomous driving businesses is valued at close to $10 billion."
+    publishedDateTime: 2020-12-08T16:21:00Z
+    webUrl: "https://www.cfo.com/ma/2020/12/uber-to-offload-self-driving-unit-to-amazon-backed-startup-aurora/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 24
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-1195837048.jpg"
+        width: 594
+        height: 446
         isCached: true
   - title: "Palo Alto unicorn Aurora Innovation snaps up Uber's self-driving vehicle unit"
     excerpt: "A complex deal between #AuroraInnovation and #Uber will reportedly value Aurora at about $10B when it's done, with Uber making a $400M investment and owning a 26% stake in it. #SiliconValley #startup"
@@ -422,17 +464,17 @@ related:
     quality: 21
   - title: "After Once Touting Self-Driving Cars, Uber Sells Unit To Refocus On Core Businesses"
     excerpt: "The ride-hailing giant once believed it was crucial to develop autonomous driving technology in-house, and spent billions of dollars on the effort. Now it's letting another company lead the charge."
-    publishedDateTime: 2020-12-08T11:46:00Z
-    webUrl: "https://www.wabe.org/after-once-touting-self-driving-cars-uber-sells-unit-to-refocus-on-core-business/"
+    publishedDateTime: 2020-12-07T22:38:00Z
+    webUrl: "https://www.npr.org/2020/12/07/944004278/after-once-touting-self-driving-cars-uber-sells-unit-to-refocus-on-core-business"
     type: article
     provider:
-      name: WABE
-      domain: wabe.org
+      name: NPR
+      domain: npr.org
     quality: 18
     images:
-      - url: "https://www.wabe.org/wp-content/uploads/2020/12/gettyimages-1228125520-c8aacf095b0ac59f990dcb266192ee0ea01f7ff9-e1607431491465.jpg"
-        width: 4452
-        height: 2226
+      - url: "https://media.npr.org/assets/img/2020/12/07/gettyimages-1228125520_wide-ede63d95626a411f7b5dd0e937c7fe20b90b03ab.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Uber abandons effort to develop own self-driving vehicle"
     excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle."
@@ -444,6 +486,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "yfjV4cqbY7eUj+Zf30RPCWmxAUV1ysvoK/BmipHeSrqRK4h6IlOMGNotaDh0oIRiNKat4JhsvRIaiM5dZpVlQuT6Z5F+Pjh3c89ax0KEEIN0j21lCAvDVYHFoVEyfhXGLDK2FaVXwoIw2jVX6gDGUpS7H8UcnQnQh9/OaS/iLcvjLDv/sTXlB4LdkiKAAg1OtHWmxCjGfJCTC/zBJUEFXBINQd6b42F6ZxebJLGZg+bjuGl4DlYaOpOiHHSGZ34LK1GFCGft3Pry6UETERwXzyHlnjTZFXOqka5Xmve1N1ZT4wdTza40F61Hp4EsujL+b6TPC9ideaYI3fwSKcvGTZRMilSgCX1+kknCbJqPEoQ=;b1GZGSK3oUYAXAV33KC3GQ=="
+secured: "GZMNB76Sk246Xus/MEIx2KQfUY+hah8og7asYZh9h+o8UkP9qeCJxpTVWzK8HzbH0IcxIlhvxVQk6VJ7E8C1WkzkkuWdi39T0CrzPhTDJeGTlCXUL4mas4bzzFyIoN+i2KnmPqJoGq9RpxcBAE4QZc+7AsKCLKeodugaQJXEQdqL3oIfBsUxoKVWsCqGttS84a1VLNM0J++NV9szdhenh6bxhAyoLP9toAy0OZPCS4rfci8mbknOgezWZ0vE2yELwtkEN282crH2ZuQMSUL8ZyZaXvpQgqOCqBby1RstehKYdN/Z4T9thWhVzXarFUascrVTfaVor/KNc3a8d+oUQxmxL8w+vYBj2OkSiGZmYIhGo2frIE0MuwoYcO+6E1ukmRxH0VA9U2InA6Xd1+gs62R/jwsnxKG/AcBnrpBwUDFfyvF2lyfZQC3aWRpNlGe6ePJyB2k42HifbYbGl31P2eGlFq8BW0Da7pN3w+l17J/w1JAMVcU/2tdlWwYELD19XdlLafZDRKCY7iqrEfZzEA==;iUBvgloq7b0hKEfurY0s1g=="
 ---
 

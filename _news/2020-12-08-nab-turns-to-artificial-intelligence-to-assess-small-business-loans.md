@@ -38,6 +38,20 @@ related:
         width: 620
         height: 422
         isCached: true
+  - title: "Crooks are smart. Artificial intelligence is smarter."
+    excerpt: "AI can add an extra layer that's hard for fraudsters to beat, says Nuance Communications'."
+    publishedDateTime: 2020-12-04T16:36:00Z
+    webUrl: "https://www.paymentssource.com/opinion/crooks-are-smart-artificial-intelligence-is-smarter"
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/d857e54/2147483647/strip/true/crop/702x369+0+140/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2F7f%2Fc3c0a3734648b4ec6b30a13e4550%2Fsimonmarchand.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aKIW1zN0B+oBlcvTR0/mjeVZwlcQJxL39YW2EvPSg8Wz1WRTcbSS72IR9Gv5MxJjjC5AytYnpNtwzPZ4rARCk8zUP4z0x2HCA0t9BEXhE7XwDjR95W06s0zUfgp5c0W9NCrsF2Y9cx/EIwmkhcPbc+HNRzmSJx6hVD8PAPtvjznEvYVwjiTV23u0iRq3Rwer8g8FfN5XDMa/zFq3FKb2aaGiVX0ChEXH9Jg72SQnSmpnyux8RhVn4YoHwO6tdoAbwdaDP8xxLTdCspfrzVPzt14lq0cZqzZOh5jwlc1yVlIbn5m2Nd+HnmtgaTcjzOkw6d4uxoezFYGlNcKLG1LmA81zgNF6k5Te44EMpkkpYjk=;klsvaMlua1xti4RC9BXhEw=="
 ---

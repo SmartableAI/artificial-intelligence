@@ -410,22 +410,6 @@ related:
         width: 764
         height: 575
         isCached: true
-  - title: "Google embroiled in row over AI bias research"
-    excerpt: "Google was struggling on Thursday to limit the fallout from the departure of a top artificial intelligence researcher, following its decision to block publication of a paper on an important AI ethics issue."
-    publishedDateTime: 2020-12-03T23:07:00Z
-    webUrl: "https://www.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2"
-    ampWebUrl: "https://amp.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47da9ea0-94f2-496c-aaf7-5ae1cba32f18.jpg?source=amp&fit=scale-down&width=2400"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Google researcher says she was fired over paper highlighting bias in AI"
     excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
     publishedDateTime: 2020-12-05T04:03:00Z

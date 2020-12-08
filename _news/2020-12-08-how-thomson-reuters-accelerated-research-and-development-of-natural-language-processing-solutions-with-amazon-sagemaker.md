@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 685
     height: 630
     isCached: true
+
+related:
+  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
+    publishedDateTime: 2020-12-08T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wcGnWSalYBVGwDrvjYE703z/TCfK1MseVsqQ3UvSMhkAFjRlGvr7W/6wR3xnO5G9eWZH5DajRSruGP0sYluOI1my5NpbihkOXRtGkUm2uZlo3csl35rTuhpemEzcYX6RzGsQZFoyfg+SchblVMotE42Grb9ecTSP2urtsaLZ2C1gVNlql5ka85VOldfBj3m9v5SjY3IsOxuXLwOfXGF9b0wdW3mQ4XPkyyCFsoJpY/6pTZ7O8cCf533P2sam6rHX4RgoKy19GTOERzhKKOXAx6EtpPdDDtHuDmw5g8MgfV38AVW+atDzKC6AiCp1N0fekmQ2D4g+UpE3f2EaQGzq4lEqwTLG5rRLSpHyRR+Bp5k=;SAwXGh3Wam2iTDfUXRLvGQ=="
 ---

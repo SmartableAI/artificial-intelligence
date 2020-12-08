@@ -399,22 +399,6 @@ related:
         width: 764
         height: 575
         isCached: true
-  - title: "Google embroiled in row over AI bias research"
-    excerpt: "Google was struggling on Thursday to limit the fallout from the departure of a top artificial intelligence researcher, following its decision to block publication of a paper on an important AI ethics issue."
-    publishedDateTime: 2020-12-03T23:07:00Z
-    webUrl: "https://www.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2"
-    ampWebUrl: "https://amp.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47da9ea0-94f2-496c-aaf7-5ae1cba32f18.jpg?source=amp&fit=scale-down&width=2400"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Timnit Gebru: Google staff rally behind fired AI researcher"
     excerpt: "Hundreds of Google staff have signed a letter backing a leading AI ethics researcher who was sacked by Google. Timnit Gebru says she was fired after sending an internal email that accused Google of \"silencing marginalised voices\"."
     publishedDateTime: 2020-12-04T15:42:00Z
@@ -578,6 +562,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "GXWAFZYBpoRKZrmXN+NtmtFdITZslmZdt0n30cjMtINgDIPnDEFP1sc/h/teg6m5Xs7jCz5XHe6hjBcRb6oDiLLlbFbLKRsMpE6eKi1mp9zOXHiZHT7n51gIYUUT2S4WLKEcmCJoRCqUnwcIMNYzGwmEit1sHao5RE7KF/ldlx2zm/Ja7baqHYbFrJ5mbDTD4vdMAaCG3IzYnpYxmoDDV6wWGATq3q6wxminTCvOcQCfNi1WdZN1LYGhKpK/wrOKclxakvHgG+2REC2NEl4/VZvA4SNF+5s+NLiwISSynIqm2wUppemyEtHyBnsL81um0ASFsiVFKfy/QDX6nsh8G1tGO1lXa4rOdxVUsCAcqJk=;xkOeZqDRcxVSKcRLMEU75A=="
+secured: "mOllrXpC9M/8ZCL2DVcp1a1Rl3yD4Ybwd4o+Qp+MVwMw0qe0c9Cl6ZuUYJ3q6hlo6PtsfqOXh1VeGUcyArqMCKVpKRvEmTbEOMpzCXhA/qC8U3JZGCrKvXAPc3jZ8iM50c84j2l32XFnsOly5M5pTdEJjslePE/V7Mcz82U+oKm8aBqAjNvajqmU2+OOuaW4bd6h3oFU4pcODBNi4rrDqqI0V5oIyq2Yfo+7adu20U0yA/fu5gtLWxZ2hG64U50eL0QJzObsZSy7KidUlPs3EllW+z5SL65SfpzI09Qf/kqLaTQN1IQBbAxLpB3zrRYY0WAGWV0nz7UYmPcZP9AxvsRg3jjRSnRMzaYeX/8iDgbleeZOw6w0qqCC4qQnCBeyBX9WI3tXMbwuOGg17LcwtEoBIS0lzN8y7BVW1Dsey/wwBqH6LTDyeSKNCkhBjSAEc7UeFdaWkBf2NzszHXUn8UIp4/ZwD3FJWj60eYLkfQhOVnFFv67devcMDbpUU6y7YBfxcurJkhgchCB1XMykXg==;l7AiVEj1KOovwG7Vy5ljHg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-08T14:52:00Z
 originalUrl: "https://phys.org/news/2020-12-breakthrough-optical-sensor-mimics-human.html"
 webUrl: "https://phys.org/news/2020-12-breakthrough-optical-sensor-mimics-human.html"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/retina.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1618
     isCached: true
 
-secured: "A81MNHHJWEtTmzpqGIES/dsAztZHr47fXd1oOdojQAg1NnW/e4w0NOT1XHKO0qzUfoX270LwOIojFx+3YrKX18sZpeXgZ+KbBxKCdxUxxE4+JOxoJPcYocTZuepA9jW9poU+sDZ8qhTdUnftP44d2KfxUsVXRuS5/c0k/YQOaXsBx00ZTPNQhDy9JIqs/7I/ogCkOSZf2av43OQRxKHaF3RexiWpp4Bi6XiQP8ygwztKDBtyqAtgLzkzceekXU5le2Mz603S/zSLioln4k/6CmQnlx5s4VKjcjcx2I1VJrM0voyYE9Gnnr8L0p5GoDID0RWQ+QOYVKCY5qfRSv4pCHgeXtKwnYoeuHlhFWhc5Qc=;i7p7laqMKhyz5Ql6mqiHJQ=="
+secured: "EC/y6An1wshWH+fJb+Jg0Nf3p6KL66wDKRJKg827UF6yzB13sZVxQx6soTXP7VHXrR+7wDFSCfkocjTj/MWPytoCDT9UKrOmRZsOilsA6gpfjvx5i2Rcr8S3Qkw9WVeh9Um4UKJTQhvv94Y8YbY8t86PL2k5DQ9ckJCmh0Dl7IeugY4RhhehDsJBkN50FIK4hURseGox+k6BAJeiB8rbZE+b7S12OcQvWJ7GAgzbeOZcTP4/nYVRC3zWRXinfToBDQik2+31MWIgIfiiqasD2T4HkuLeBljFhnC8w0JrBJevlDFXS7UoHjETmyM+zHaSXxsEXXe8W8zS1O/If816VdnjpRHn4bxiG9GdFLIqRlxhi1JtdhBZXInTsJ2MEbU1b8IUGsOl07QufCDON/XwlqBbVDzYAq6G+If7NBp/ob4xhEPARcylxKCV8zt7IJvxz7bq2/wsBWFabwDTfikkP5NYiaF+pjPMtbohkfzZPUC9PwAY9dDmqrNIm0ouiRutTEiT2PJmtQQsAgxTAEoi1Q==;UMyj3o4ZwCCIMiyFSQIrXA=="
 ---
 
