@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 730
         isCached: true
-  - title: "MLCommons Launches and Unites 50+ Tech and Academic Leaders in AI, ML"
-    excerpt: "Benchmarks and Best Practices Align Industry and Research to Drive AI Forward The opportunities ... Dell Technologies, d-Matrix Corp., Facebook AI, Fujitsu Ltd, FuriosaAI, Inc., Gigabyte Technology Co., LTD., Google LLC, Grai Matter Labs, Graphcore Limited ..."
-    publishedDateTime: 2020-12-03T18:55:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/mlcommons-launches-and-unites-50-tech-and-academic-leaders-in-ai-ml/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 56
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_nuclear_war-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "SIt8uvjfwqC7luMBoIlq0Ijtjc7owxSHe0JrguyakNvCKT9iEuTPwDZnTdxZb/UdTMd3xabzPMdpcUZVtEjEgeH2MG+sSXIQq3aZxfkluoyZOHgFDYGKCSFihlrlDCCiD7i3OOd/febpMJjJFzo4d/bd0PxDM2etDzmFrdrQqxe1ikaqjw6oQsJfMjPRq18Mi4OjwIa8OpK2UwAn/nsI68C+Nfm9ek+TBf/UG4SUoFviDu/uAmCIn3rpKJGlFo53djl8UziWGl4VvjgqDPV5IbbTEFEylxiF66HBa7xYyzIkREKm9N+B1SKNypVqm5R+X7Umo/m8CUqPCxczkfm5qxV0+rJuQdMqaXJy1zVMJf0=;dI6z1NxOU+m+Gi/AuaJYHQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Decoding the Booming Adoption of AI in Healthcare Market"
+    excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
+    publishedDateTime: 2020-12-08T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Decoding-the-Booming-Adoption-of-AI-in-Healthcare-Market.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "iSHl+yX8228XczGeTRj2F7tYsDRBkQh+Wd1MqEFEFTOTXOVv9wI/5kzKKb1HrGapi9gAHaxBV4u9YBPiKJBMAs1Q7LzOiX7vTSUgiDiF08+GjEtT/V5SgnLWAhN+145dlndLL6FPnQoOGkqdQ0+spiVNQhRcrgqwq2z+5yYadwsL8LYrKcYucJHyAh9HaZg1V9wngdOu/0nYSJndBMqT84/aRPHe4cLejZdaipR1hkkj04GH7Vo4KuEjxvWbWJtrrN+4p2Uw/wOLK5y3k2+Z9irOpDqf9a3bFryMkuEJYDJDLD6ErUX8tHnLwxLn/FvMBI03uyCSk9CohVGe02q4CG7q6SwpMIW1S109P+r4Tuc=;3uhtYexCWDPFeCSDYcQ22A=="
 ---

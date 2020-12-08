@@ -147,34 +147,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
-  - title: "Developing Autonomous Vehicles Faster with End-to-End Solutions from dSPACE on Microsoft Azure"
-    excerpt: "CA, December 3, 2020. dSPACE will offer customers its comprehensive solutions for data-driven development of advanced driver assistance systems (ADAS) and autonomous"
-    publishedDateTime: 2020-12-03T17:33:00Z
-    webUrl: "https://www.eejournal.com/industry_news/developing-autonomous-vehicles-faster-with-end-to-end-solutions-from-dspace-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 42
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
-    publishedDateTime: 2020-12-03T18:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
 
 secured: "H0KfblzVTJFvFZBteKxGV3MU/FFdaLh+1nLpcdcawfk/ovjrIMlpiNf05IKnDZFIISzhWF6nWw1+uDRDZCYAImQNA8hTnRjaWkq06l3WLpOVgdLPp5CbIlJ0xPPIVqgZZgPBGuc5Vd2tILI1rWBy6aL2wwaEELgRRCmRDviUSKV6ZTrGInu0UDEDB3IJ50bY6RVMMHKKgP6Tt6T8X1nLEmjo8iKynj0gOVno/4KqOWjJVtVQrPQJEGxiCkBjVkU78qNyPIVmLJxs/YmXBu8u8PDj4fxc+tx4YbLKtdvucUvfdLIFBwL53AVJzygfBS6zwAYmOzjD5bLrL4g6eB5cr2gvdkrX/09Y+TbFtMCWu6E1kVtfAMsjvazOARLQwBRfw25yhQ7zyTowwf3PZEoVImH4V+6QtLmJeKGfNlDuH6hMcMlrZ0uL47s8I5xN/I6dJ52DEjKAyFueqQKp7xV90x1NKTK1W2Nc8Nwx+TZBACNsokgfWIhlG4Rq2hTfhqKvKk27VTMiSbkrjF2SNnzW4Q==;h+Xr0AjEMHUoVFnQn4cxxA=="
 ---

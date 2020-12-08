@@ -1,58 +1,26 @@
 ---
 category: news
 title: "Siemens Smart Infrastructure Chooses AWS as Its Preferred Cloud Provider for SAP Environments"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Siemens Smart Infrastructure, a business of the Siemens AG"
-publishedDateTime: 2020-12-03T10:12:00Z
-originalUrl: "https://www.marketwatch.com/press-release/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments-2020-12-03"
-webUrl: "https://www.marketwatch.com/press-release/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments-2020-12-03"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Siemens Smart Infrastructure, a business of the Siemens AG group focusing on energy distribution and intelligent buildings,"
+publishedDateTime: 2020-12-03T07:01:00Z
+originalUrl: "https://www.thedailytimes.com/business/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments/article_26822ddb-7015-5e2d-b7fa-9e73229e908a.html"
+webUrl: "https://www.thedailytimes.com/business/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments/article_26822ddb-7015-5e2d-b7fa-9e73229e908a.html"
 type: article
-quality: 58
-heat: 78
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
-related:
-  - title: "AWS Announces Amazon DevOps Guru"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru, a fully-managed ope"
-    publishedDateTime: 2020-12-03T11:34:00Z
-    webUrl: "https://www.hostreview.com/news/201203-aws-announces-amazon-devops-guru"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 39
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "AWS Announces Plans to Open Second Region in Australia"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
-    publishedDateTime: 2020-12-07T17:13:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201207005969/aws-announces-plans-to-open-second-region-in-australia"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
-
-secured: "vn/6N/VH3NDr4pd6PHTpt1LkYd7Ugr6dIW1zsZElVytNVqn0eyEjdM25OOXOsS4/ZVPSbm+lKAwHpz6ibBjX809EDxqqohq4+jXEj1h1MSrJ2QJ8EUyhXktv34VfsODR4yT0OAJmTFSIkqj+Fs5+Swe2FW9qD2KbV7MzTyrGqOWlUlNqWQiAJTT9PSTxlDHa9SaSifMhuMLcfSPRROTG7J30YTq2G710h9M3xGZp+XmKccCefHJPkbxGvEhvbCYgykDD9cNF2ffBjPS8DVKaf1B1OQW7Mjs81U5iTzursMhSsCiz0EyqvpyJzFJUWcEzHPtq9SJcevUGH0aVy2OGhMb+0KzmgrpFOPjs+85IrXk=;5TnexbKkYoxNfkw55TclBw=="
+secured: "EzdBwRVadS2dDfBtdRYf+vdwHjAM+eUEB4TH8uK2FzlYonUmqxZyrUX9Gw6rJJ4IlzN7nTCuthtdbZZ2DnMNoZNo7yMjjXPHBXeBSwT0SRfI6UhmTveMHb7KG/k8jIu+dv0RTDSz6FMBs2CS+Fr2r+uon7nJxzo9S9lsGOpeSV2VjmboaoqznPufnbA9WDkHkFrrUwIEfc+30y2jMeWFdCYMPm2ZskfHU3khq9Dm9FA58TmUzEYHGF3jrDdUaqDvcvhLMubknVr1we+B4jQnapOU14UwOovWcnVIphqZiKAXtebMBcpZ+nrdzf/xKKbZIqGqNc8BoXcSGySLSp/xNFps8l3mVpBlP1DdL3L3Pig=;mQFdVscRbm0MxR0yarwLww=="
 ---
 

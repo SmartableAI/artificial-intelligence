@@ -57,20 +57,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "'Regulation gap' for facial recognition technology, law expert says"
-    excerpt: "Research released today says the government now has the infrastructure for mass or targeted surveillance using facial recognition technology (FR). Without major intervention any framework to control facial recognition technology \"cannot hope to engender public confidence that its use is fair and lawful\","
-    publishedDateTime: 2020-12-03T17:22:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/regulation-gap-for-facial-recognition-technology-law-expert-says/JIYDV7BLFXGBDB4LKFKAR4UAAM/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/1pSVxqmuiAA6fXgI2NzEXAOtNVM=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6XX3B3HJ3ZMM2JAX5HR2LYAEHY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
     excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
     publishedDateTime: 2020-12-04T17:28:00Z

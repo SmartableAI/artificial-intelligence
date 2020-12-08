@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
-    excerpt: "John Maddison, EVP of Products and CMO at Fortinet“ Enterprises are increasingly looking to integrate both native cloud security and Fortinet’ s enterprise-class cloud security offerings to protect their workloads on AWS."
-    publishedDateTime: 2020-12-03T18:44:00Z
-    webUrl: "https://www.nasdaq.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 21
 
 secured: "0pu9Y81AZmXSfsbkdSCZblnQz/kzRtoUyZrCqa7qfq3OzRVLSp+OmxXSADUs2r611nZ+/9dIwbPIbBsevU6jFn7pI7f8Kc1PE/SM9+RkP1Y/e8b4lEHUBam+1/N3LxszJq+cdW8BYutWxZxV7QNJStyxaqmrC0eY59Ra9ePKh9zEAgV7gGONDXh0Pp081uBZ7A5Yrh+akxo9IgrKto3hc/Pm0DpD1uuta9C0vRdb42S/5ZZy0H/fF/RxRHAW25JMBwFN0aLZx8oJC9P0Muk+wakgaBQvfXquqmTpLacaTVj4GqjcHimlEWpRknXc2B4BOmOl6Q4U03hsVVCBZ60NRrOVCY0EC7jq5kVoBung2vI=;6nQ9jOM1Z33FPwcYGjSBeg=="
 ---

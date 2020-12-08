@@ -127,15 +127,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Elon Musk's Self-Driving Promises May Drive Tesla Off A Cliff"
-    excerpt: "Tesla has successfully positioned itself in the mind of the general public and investing community alike as a key leader in autonomous vehicles."
-    publishedDateTime: 2020-12-03T18:03:00Z
-    webUrl: "https://seekingalpha.com/article/4392823-elon-musks-self-driving-promises-may-drive-tesla-off-cliff"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "4UPL0uWnGAlVnah72jFrKeXfnQelxMOm/M5L0XBEfPtU1T4qDzTgb9G91eU0rEHj5KGS4hBxC7V5fkAWus2hpGzbvZKiVhgacFbNaxDKkki79TDtVsK25hK2/S4rqbfirJ+u/2U2NCgjFYvTmx7tSvP7u4/LozJ4h+FA0h8Iia3C6pGi+cTe4bjtVXlMT1QJc9aJML1+XKHQjfJlpsme2vRO+oqwGx3ioTc1Ku3TlvPiDwQxMjDdPV7PmmjMUrq1nRLUesN+Qb3cTX/VG/sOdYPZ5rrOpYicoDqx+pHw9eiMFGiscK3DVViKG+pw9B+elogr5aDw1qei3WWA/o3djslUfRzeJiv2rkXmeTAoslZchWKTV+cW1C/CTCCaUnmPzW6Pl9KTGvBfxotTPiNTreN64DAK7sFlp/Qrk7LATOTvwa88gsPy/BZue7bAJ8ymxD6ikJBaI7K1St7k8zmjVTmdXPW07ux8WMI1S2RYQdRedqdrCRlfep9z/gvvNUkx5RCrTmFwk0qG4M4yD+d1Nw==;JoOAaTSDOGyHhqg1oayrcA=="
 ---

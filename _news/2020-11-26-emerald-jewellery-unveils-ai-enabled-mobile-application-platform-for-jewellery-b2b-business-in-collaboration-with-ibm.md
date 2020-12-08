@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Emerald Jewellery unveils AI enabled mobile application platform for jewellery B2B business in collaboration with IBM"
-excerpt: "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind"
-publishedDateTime: 2020-11-26T12:30:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
+excerpt: "Coimbatore (Tamil Nadu) [India], November 26 (ANI/BusinessWire India): IBM and Emerald Jewel Industry ... a first-of-its-kind Artificial Intelligence (AI) enabled mobile application platform ..."
+publishedDateTime: 2020-11-26T06:55:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html"
 type: article
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/26/full/20201126114405.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "wJzP9y6tyGZTHfdwCyUMuWr4c6YJnHNRQiOF1zCZsJYhqIZ4xrp+8BtRHSexWPlS7HbywQQXDxMvwb1YIWZx4g7oPeFXT5FSVJoJesXFTxdOmvTUb5JSGwqEeSC8hegdFGv/QISmyWw608XwZQvgwMqJvmVP7xEucm0FoTdu43+WAxNlDtrAM6u9LiwT2rfWDrtlzKpzFtfYxgvXNSPyN91tgixgvGZy6BH1t5cecjg5b/uwpNXB6FV2sicjnqdWXH6P+U2/5mqBP9hTycmH+AViWriNrytgOJ/wASRpCIOf7FqKv7JfGjc0DNxS4wwyTVAPBbAZl0D9k8BP0eGEbzFzqL9RyVtczXSMNEqPoQg=;3NbQ6bZ04d/5QXMvGz0Byw=="
+secured: "i1INMLBgaDymfLcUfZ2qjfUBG4AJ5qcr+cazrznvUPm6b730i11a9fojK/LdLQ0o5alpFQLkVqJz87s2H5U12GSQ7EX6z/eaDdk/2nsaWutlhyyqE1/sKPPbptw2AyEqWp+yZ4pxsKlucARR5ODAgix5rhRvIqPSGjFDn9x7c8QsuUA4MRqAl9m9e6Wi2oUfmutCXM5bVRZvm8u2oP9CaI41nMbY95dYXCh24Jtp6m54leg2R8aFMmi9GhCkdrZCvtf2+ieArqNg859BE2rylG9eY9AWbFJ2S9ft/fAslBTliDY337vUBEhnrqSCfVP0yD0yJGgKkDzdKS0FmZgOsAP/sXOm6kkf2WosuuJSjLE=;2nIOe9Jm/tYZXmB61hpPKg=="
 ---
 

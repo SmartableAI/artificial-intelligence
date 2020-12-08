@@ -107,10 +107,10 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T05:41:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -212,22 +212,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Uber abandons effort to develop own self-driving vehicle"
-    excerpt: "Uber has abandoned efforts to develop its own self-driving car and will instead swap its operations for a minority stake in Aurora, a driverless vehicle start-up backed by Amazon and Sequoia, at a significantly marked-down valuation."
-    publishedDateTime: 2020-12-07T22:01:00Z
-    webUrl: "https://www.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772?shareType=nongift"
-    ampWebUrl: "https://amp.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86e8c8e1-20c3-4609-80ed-8a33c967c72b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Uber Is Selling Its Self-Driving-Car Unit to Aurora"
     excerpt: "Uber will receive stock in Aurora, a startup working on autonomous vehicle technology. The ride-hailing company will invest $400 million in the business."
     publishedDateTime: 2020-12-07T22:34:00Z
@@ -315,6 +299,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
+    excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced"
+    publishedDateTime: 2020-12-08T10:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aurora-is-acquiring-ubers-self-driving-unit-advanced-technologies-group-accelerating-development-of-the-aurora-driver-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "3 Self-Driving Car Stocks to Own for 2021"
     excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
     publishedDateTime: 2020-12-07T15:47:00Z
@@ -376,6 +374,15 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Uber abandons effort to develop own self-driving vehicle"
+    excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle. The ride-hailing company will instead swap its operations for a minority stake in Aurora ..."
+    publishedDateTime: 2020-12-08T10:47:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "+qGrABDPjCgG0U7IgJjZoJt97wRFRv/tBqjCDww977wjaYKkqNxZrhNRm+UojpmxKu9VS7NIt6lrcxl14zwPkBG3rAaRxjahPLG9snJBMYc3Y6nduyxcR5G4xHXpgXZmaGQ/4+d/Vs9R/V1DPCLceqrBeVRokhwsXcXc/e/4fkWIVDAFvGUIn7V3FRD5qOEkzXMrLobN1QBn8zS/9krbJIKJmq2hrEtmuesSJWvtHwnjY8jRBkoYez//ceVo6Id3IiNB+XpTr7lhHc2g2QZFy1klpwWlEOwUR+xsPpx2CNGHPGcMtCNxE3tMYQ1htknSP3m0Wri3R+qr9GLQsUgITpoP1pSFmWfcGLIlQVYM+rw=;C3LjpRW5QfNbCkVmT7N/VQ=="
 ---

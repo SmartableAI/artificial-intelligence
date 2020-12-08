@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -141,34 +141,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
-  - title: "Developing Autonomous Vehicles Faster with End-to-End Solutions from dSPACE on Microsoft Azure"
-    excerpt: "CA, December 3, 2020. dSPACE will offer customers its comprehensive solutions for data-driven development of advanced driver assistance systems (ADAS) and autonomous"
-    publishedDateTime: 2020-12-03T17:33:00Z
-    webUrl: "https://www.eejournal.com/industry_news/developing-autonomous-vehicles-faster-with-end-to-end-solutions-from-dspace-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 42
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
-    publishedDateTime: 2020-12-03T18:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
   - title: "Voice Assistant Application Market Growing at a CAGR 31.9% | Key Player IBM, Google, AWS, Microsoft, Apple"
     excerpt: "MarketsandMarkets forecasts the Voice Assistant Application Market size to grow from USD 1.3 billion in 2019 to USD 5.2 billion by 2024, at a Compound Annual Growth Rate (CAGR) of"
     publishedDateTime: 2020-12-05T09:50:00Z

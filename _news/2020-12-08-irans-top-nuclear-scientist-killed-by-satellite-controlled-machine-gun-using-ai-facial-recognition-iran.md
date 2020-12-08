@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist"
-    excerpt: "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November."
-    publishedDateTime: 2020-12-07T12:00:00Z
-    webUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359"
+  - title: "Iranian nuclear scientist allegedly assassinated via killer robot"
+    excerpt: "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun."
+    publishedDateTime: 2020-12-08T10:32:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Iran says AI and ‘satellite-controlled’ gun used to kill nuclear scientist"
-    excerpt: "Senior commander says weapon ‘zoomed in’ on Mohsen Fakhrizadeh, leaving his wife uninjured"
-    publishedDateTime: 2020-12-07T15:43:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/7e991b77fed0c2dec079f4fc871c2f7b5a521905/105_0_2811_1688/master/2811.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=039fffcd7d7fd15d99fe71b2001b9f8a"
-        width: 600
-        height: 360
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/skyassassination-796x405.jpg"
+        width: 796
+        height: 405
         isCached: true
   - title: "Nuclear scientist killed in Iran by machine gun with ‘artificial intelligence’"
     excerpt: "A satellite-controlled machine gun equipped with “artificial intelligence” was used to assassinate Iran’s chief nuclear scientist, according to officials in the country. Mohsen Fakhrizadeh, who"

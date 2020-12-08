@@ -1,25 +1,49 @@
 ---
 category: news
 title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
-excerpt: "AWS and the BMW Group will jointly develop innovative cloud-enabled solutions and upskill up to 5,000 BMW Group-affiliated software engineers in cloud technologies"
-publishedDateTime: 2020-12-08T08:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18688693/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18688693/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18688693"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18688693"
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the BMW Group (OTCMKTS: BMWYY) announced a comprehensive"
+publishedDateTime: 2020-12-08T09:52:00Z
+originalUrl: "https://www.marketwatch.com/press-release/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry-2020-12-08"
+webUrl: "https://www.marketwatch.com/press-release/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry-2020-12-08"
 type: article
-quality: 28
-heat: 28
+quality: 58
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "a6R/XF1w6gRxU6Ds9QAxoq2CpCOnTYIBF8zLXrLHN6NSFWXyrg3C6HrbPfjKjQ7m+iRLTX7//AeIzQONbdqTod+KLcv22JAQgZDnvCj2pSKfFbnH7PWJ5DQYAb7N02J97Vp3RZQ7AhwKVCqJB1JV6CTfQ0kcy513CIc8sSbSD1MljXlv6nPaTSnt+LIgORcw+Y0ofrHOtasRB3UQVALAeQvQH7pW/Y9T4Ffj7ebYf5kxkp6igW0HLIcHhFfoTAJcAVVHl+XWSv6f6FCyVS4cqZ/V6kpOUT4P09nb+JM1GKiYlKTqAlCYbWndMtBd4IjxQRaM6fFln+FOjDt23NySsk2pX/DIxezwamjvuqPZdKQ=;d4WY6qnXF0Z/ZdD1LsG+rg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AWS Announces Plans to Open Second Region in Australia"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in"
+    publishedDateTime: 2020-12-08T06:44:35Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "uPC5fnd2vXqXnKVyqC20K/guguEiUUCW2Z5Lku7iabk3wEEG7wsND9Pcge9kFyR3GFMP79L7cFM3Z5UUfXmzH2JMj4ryP22uHTOMBgtxmFITrABbCItTBK8qnWlTZbnMm1o3aqXW7VElS3qWrPkPY3LqYv2kEI4bYbne5H69RBRcG92nyBveqUw77fta3fvCjLTY3LQdCIJLVdRIa3xCVEqGTHy+PWX0Fg2GURnNAzUq+OI3a6za+X4yAM9Dy9EpvxqOlWY9JYUF6iCGs5wFWsrzKAK8sP1dsAXtqS/O6UvGelr1QzBdklYjkDqd0CAKO6fVqAuF2lq0Wi2DhKrlwv8qbhizFBvCUP/4JwFyOJA=;y6QvXMiqd88OCvbLWx5Xhg=="
 ---
 

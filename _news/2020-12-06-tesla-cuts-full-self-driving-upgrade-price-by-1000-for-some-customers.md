@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-p
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -127,15 +127,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Elon Musk's Self-Driving Promises May Drive Tesla Off A Cliff"
-    excerpt: "Tesla has successfully positioned itself in the mind of the general public and investing community alike as a key leader in autonomous vehicles."
-    publishedDateTime: 2020-12-03T18:03:00Z
-    webUrl: "https://seekingalpha.com/article/4392823-elon-musks-self-driving-promises-may-drive-tesla-off-cliff"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "NQ4ngiinI0Y4Usgn4GUnk1pkdNV3corTdI9Iq3sRrU0ra8yFAUbH1LRM93euNcFRDOXQy3CRo1IIYedc5uGuyPtHAqb8FFVLjAYuBRgEA8fNHy07SXA94gg+MuggznmHXaZLMxK73VRXZegIzXQtxUgAWwJLJqrYxLLFrnxobjovQKTsoTefsW3SXK8hH+bRxW2mUmgEm2dhtous9kFqV4W2DA4DPpTJC1r8BC9pccQJjkjw7LKB9EEcPy5RoNJ/0eCOjNufIvVgBSD7dQWkbKrdgqS5L26G80DSm1lITxxZ467E9adYhHMHuKnsVDv7P93zt99tHtw9+SO3V4BwMm3gDJop5eZVTY38u6TaL/KglcxW8bz8HjHEWan13D88avioaYt6zy/hb6g7KklzNmP14OR2TA+Naj8W7iGV7V8v/gsDBMx+XSubU6fZoil1XPfldduZHUJeTi2Cj6yzij2xWZBflrzhFZS9AkAuCSu4nMREm6rdGGkbaOlSnaL8C+hxJfoff8hsxt0RA+3H+A==;0Y7hTQxpuh8r/QcpLwvU4A=="
 ---

@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist"
-    excerpt: "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November."
-    publishedDateTime: 2020-12-07T12:00:00Z
-    webUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359"
+  - title: "Iranian nuclear scientist allegedly assassinated via killer robot"
+    excerpt: "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun."
+    publishedDateTime: 2020-12-08T10:32:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Iran says AI and ‘satellite-controlled’ gun used to kill nuclear scientist"
-    excerpt: "Senior commander says weapon ‘zoomed in’ on Mohsen Fakhrizadeh, leaving his wife uninjured"
-    publishedDateTime: 2020-12-07T15:43:00Z
-    webUrl: "https://www.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/7e991b77fed0c2dec079f4fc871c2f7b5a521905/105_0_2811_1688/master/2811.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=039fffcd7d7fd15d99fe71b2001b9f8a"
-        width: 600
-        height: 360
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/skyassassination-796x405.jpg"
+        width: 796
+        height: 405
         isCached: true
   - title: "Iran's top nuclear scientist killed by 'satellite-controlled' machine gun using AI, facial recognition - Iran"
     excerpt: "The killing of Iran's top nuclear scientist last month was carried out remotely with artificial intelligence and a machine gun equipped with a \"satellite-controlled smart system\", Tasnim news agency quoted a senior commander as saying."
@@ -105,6 +89,6 @@ related:
         height: 2702
         isCached: true
 
-secured: "TFTvjBmIF3WMifhJXfknrQvDmB1vCvmXHPKfPI2mpb0Xy+qaG5JdIqoyFLuvBrgKpRZjT2k5rwBwFZqt3yHJC/CLKJ68Owc0eqjAS+tbCkgRHl8ymdwWMSWlWX/BJKt7wMa0so+aZbRbeOP+zRZAKjphA9z6cHNv++r648oDuPbLaFp1lchvO9/prLCeivXCV5h+90ZP1oSzm4Ee7Cz1LSsIOuEV/DcZp+fVofCb2DP7iHZMTFbrHA5RWgOej1npxwQ5aq+tXcWYDaR1iJWgptLJClZtZaorD26GNoGcjLB4tWd5L6ct7ol8XYEQTP2ReBUhBvXlZmHrxvDe9pEdcqt+zsrh5Id/qADV1/4w/fQ=;bWBRudSa7anHB1AwF9v1cw=="
+secured: "n82GFHKkRz9izFCGXXUr9QSO0gqVunrX4rBMjCKIMd35kW7x5aVw+HuWzLj58hLq/NPP4tmXd962OqiGIa5A8MteqYQaLRskeFCssT6rdovaWlcRaODAlUAqg2wpvHnrC329nQU4f1OlYnry4tXBFZBisr2feVfOt+/a7He/iBO35lCfW/RrWcFQQMMtTpgUWcAHzz+vvCatQgtvnO/pt1spE11+nLWy82dNPLdiAHup7mr54XESXNpebvXM/sXGDphm4aLB1Q/4mL6dUhVTkidVgTKNvxL3AoDNr60s6Ga2kQDJvLSOB9xZuDFynRgMNGeSadnDb9QceFjIMl2oV4nw1j3/nzk6BX1fNo4efW3JsM7tyOmXB6sfgX46jpo7wL5syyJveDpM2q3J9eG4tWWxjC1XQ5QRog6J1MQByNIiSc/uRnpo0qu6K09smU6U1Efl287t177mVjGcM9Z/sF426/KNyhMi6br0OJAv265q1XlAVF8Cqh9pZcLuHDAQim2S53lcCvuW+NzMSWpsyg==;S8UrXAW7/fl0JR5wWLhzFg=="
 ---
 

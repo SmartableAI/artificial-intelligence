@@ -54,34 +54,6 @@ related:
         width: 744
         height: 400
         isCached: true
-  - title: "Alinta Energy powers ahead with cloud-based data warehouse and AI infused analytics"
-    excerpt: "Every time an Australian batsman heads to the crease, Alinta Energy’s logo gets an outing. As principal partner of the men’s cricket team Alinta knows quality when it sees it. As one of the country’s leading power generators and retailers,"
-    publishedDateTime: 2020-12-03T18:22:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/alinta-energy-powers-ahead-with-cloud-based-data-warehouse-and-ai-infused-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/12/Alinta-Energy-1024x559.jpeg"
-        width: 1024
-        height: 559
-        isCached: true
-  - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
-    excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
-    publishedDateTime: 2020-12-03T18:27:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/cash-converters-controls-costs-accelerates-access-to-insights-with-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "New data analytics tools aim to help deliver speedier packages, better patient care and more"
     excerpt: "Azure Purview, Microsoft’s new data governance service, means data engineers can just be data engineers, and data scientists can just be data scientists."
     publishedDateTime: 2020-12-03T21:06:00Z

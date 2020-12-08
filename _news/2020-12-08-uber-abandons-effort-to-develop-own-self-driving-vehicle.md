@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Uber abandons effort to develop own self-driving vehicle"
-excerpt: "Uber has abandoned efforts to develop its own self-driving car and will instead swap its operations for a minority stake in Aurora, a driverless vehicle start-up backed by Amazon and Sequoia, at a significantly marked-down valuation."
-publishedDateTime: 2020-12-07T22:01:00Z
-originalUrl: "https://www.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772?shareType=nongift"
-webUrl: "https://www.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772?shareType=nongift"
-ampWebUrl: "https://amp.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772"
+excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle. The ride-hailing company will instead swap its operations for a minority stake in Aurora ..."
+publishedDateTime: 2020-12-08T10:47:00Z
+originalUrl: "https://www.bizjournals.com/atlanta/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+webUrl: "https://www.bizjournals.com/atlanta/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86e8c8e1-20c3-4609-80ed-8a33c967c72b.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    isCached: true
 
 related:
   - title: "Uber exits self-driving car sector, sells business to Aurora"
@@ -107,10 +99,10 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T05:41:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -315,6 +307,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
+    excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced"
+    publishedDateTime: 2020-12-08T10:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aurora-is-acquiring-ubers-self-driving-unit-advanced-technologies-group-accelerating-development-of-the-aurora-driver-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "3 Self-Driving Car Stocks to Own for 2021"
     excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
     publishedDateTime: 2020-12-07T15:47:00Z
@@ -377,6 +383,6 @@ related:
         height: 787
         isCached: true
 
-secured: "j7QXYuo/of1i3e6/MerAgRhVDvF+z6KCrQBir7LxKKmLnxn+jAhXVNbyXkqPoKw4f8m+9u7WmYAitpckmARUdYyHZiAvua66tCUpqcCJbTIdoJY4MUlnl84geA1AJT1tDwtaw42v9pgGpr/CVNOFbzArbjZTdPjXSYVIxaq579IniFvcYQ6Gj52Gn+IylTI18oLg0OY/22VcUmdRKucC6x/SgnZaNSYLDU97QPmpsZX0CAiGv33b6kSszsQS2VxbB/kf+rBd+NqVM3z9xMCkj8a2vnAqQaK0KLcH7FtEwDvdCtvhtN81iYysTWSFt0w0AnLvRVw/yf4ssOW70xlAUNy0BwJAX2SRaVmHotQSTQP2/pO6wGu103J+gdV9E42vdOG97Et4OIQREI4a870mPvJb1mabIk0mCTsvxWyr5B3ktnYA7RwFQntr+RB2jp0uRKelHpYL4mXKkMKbOB7gIUOp5xBi0G54KZQOnwJxNfY25R5Mk7/WUjSnn9oF41jB81q5BR0OofhJtdm3VAxyKQ==;buOx33KP+lNZQF0EnZSTcg=="
+secured: "aC+42/+tjKuCiBD7BDFWbkAeRolj9+Nh5GnY6AmL3xfuteMWvS+e4I+QZ3m+szNUz/rrfd5L+BDMFbaiFV5OH3duCBf6gjG0gQQKe4qLpjh1U3vC/gVa9RFa1SYcOsZ09j0xlWuTRjAUI+HRcQIWn/v+XuyqmiFCPBF/E6Rgywa+xAI3qxBSdIcHlePkvY+nN2WpuBrzc02Max/v1eUWX5zgEBMw1HU0tcuY75wOTjdCTV2u3wrGf+PFnJRsg+x6oTxzZoEDTedW7LaS2N1xr0YIhjPSqKX3QphH0lH3/L/aQ4RRBeUet/IpjfV08R2PqFYCa2LXcS8VMp2V8wgpXODN597TIoj58X2Yjz51KRDqpG4pAwvHMalAIAAd1G+yH0mXWUSceqgl8KcVsUhRj7ezxqc1amPaoiLjmi5roVRxgA6MUVKPA0LqgGCCEyM+ohjU+Vuynsa4c+NifghnMCZJXI8E4QsiVMRISfIs15HMiVOAyqRMzrQ2Hv6dyXpGX0vNAvl1F1QIWdwng++UFQ==;BuIusV7fmZT742q1HKkjqQ=="
 ---
 

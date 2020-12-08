@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-o
 webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the BMW Group (OTCMKTS: BMWYY) announced a comprehensive"
+    publishedDateTime: 2020-12-08T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZfMsFalobjkHcVdHxoNe42zJ84/ITvfcI+22Gf/YGI+V+0LX2mjgDwg1XfNd1yq0uG9ycK4xYLGPfiDLu7L1Kq3t5ffyez+q+IgvnM9DRB9OlSviPEYm9uuOoz2AZiorlJRaPsx7Gw+ENRqurpQ1ICzqI9hIA2/boElzI3CSbU3b3CcJwu+dYYndgMoJTrx5fw51f8ImfucHbQmvrEFTVud3nKfgoHIno1uz3oP/JSlQfRiXoMJT+bXRuOHoHe+ySkbZK/QUOoPtRjKg7djpgCnNqAqVIjnswMp/+JA2GAifigz1L2tJfwD5gnC863PKRCqpIvsZBvLuWXRyxJQ1Qsinq45o6dbP9GLqx+Ub7jM=;CD55kk1/Ie7yhf4uB1S4hg=="
 ---

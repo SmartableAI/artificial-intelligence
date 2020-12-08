@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "UAB startup company receives FDA clearance for liver imaging software"
-    excerpt: "A local early-stage startup has been approved for low-cost, low-risk, non-invasive procedures for patients with chronic liver disease. Andrew D. Smith, M.D., Ph.D.AI Metrics, LLC, a medical imaging startup focused on"
-    publishedDateTime: 2020-12-03T17:13:00Z
-    webUrl: "https://www.uab.edu/news/research/item/11729-uab-startup-company-receives-fda-clearance-for-liver-imaging-software"
-    type: article
-    provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 22
-    images:
-      - url: "https://www.uab.edu/news/media/k2/items/cache/3956bd890746395a0e1474dde8d48373_XL.jpg"
-        width: 900
-        height: 676
-        isCached: true
-
 secured: "JFr6LtCKg3GmWQgVyMVVFu3fVPSe3e24s4/QRdBiU3tmsCsypPfUKjtmJtBpL6xWNOe9pYkH2gtIM/93VrxkjkQ2M6HkHEe7UyfQj+OzZLsjmlDh57oeOI1IzusI8mvND1PZUULOZ0rPrZij0LFmJ5csWk5T1W6RQ4SIm19R+/9U5S8S1T38ioWvDhCP3RhOTDB1nEYYlMXDzs0LkcnBVMnpT1ynmahZtj1Yi9i26ISvGbC1jOeLddxp88vtnCmP902wrUBS1Ku9nteBagQlPeF0Nzjj7hItjbA5LNXtaDI6vs11Db9rjUOyInEAlRZIP44x70GqrWxY4n8jCjTsuwRsAFh896OhOfJ8WaywPk4=;FeCqtN1TyAgodZ6eQdTsww=="
 ---
 
