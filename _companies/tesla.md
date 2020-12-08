@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 537
+heat: 545
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6631618
+  followers: 6632114
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "mZpL4hHLBKVkizu3qyyBv590n7L6IG7O6w5ttY3QtMYR4H9U/aWQCiaHFdjbiYnD7y6fgDi/y/zjx63zu6Y1bbAAzWz+v7kLh5an2a+TARkR4sCtlZvZARS3idsPja9URaTE0AA52h7kEgONJmWmikOXPIAEAH0lmfvnTEMqDGBHsylvpSygKl8NaCR5nVebe+p3f8MV8plH3OhcCvowbbdbRgAO1jrc7FHQl6L9B37dFyT+Db0NByFon1T33Db52fUdntuazKSyXb9IOf6Ebf/wH86d5R1Cwd7t4j6Pn3I3IN4tFTnKIAqmLg6QNgUmKhISeAM8WKc7tHiOboiYfO8VxX9IN9IT2oFU2GIRvS/qjg8ugQ5Y5rTFpOM/8bk0lmQ9IfG5N1Vd22bimFU9DPsy8w9o9c9fH97EgoUq7xM=;NvyQVyWQTMVZXCFJ5dRf9A=="
+secured: "PE9opXt0NOIlqXhJ4TjtvjMNnsyo00TxVGyPL9Hksiv+/eiZQ+J75IsjvQ34IFGmmVYKwLidrM4tV+rvk2ultcApp0a+X0HDSLvD2Cm6fmnBM0C1J6MUBt4UBmBBdOcixnXvtNFeVoWT/aPdWntvlEizOI3HSO+4jVQsNTjoKw1b4YKHWoCyaQOWBEgokV9BeaUEPNqHEEYG1O8eur0S+IhKdqiJ8NuOqlAOwjUjlsmftv1mF+VjiL3p3ppkdjCyu/qWzq1uKZcJ8bEO3EdxTi9Ox2KLxpTA4uw8fOPGeLvAJbaTv6q87eoV/A0wjUZJ+l/szIr4g8+nZCla4cE7AmFX42ALzAzlvN71UGM+WCNQQIu4QEGjLLbCk6AEwp2eLd7yFR6qNzEKMRD5X26CbEP1LddJlic/cOQQMRZ1mUM=;GqMeKhSS43DOXODNJgtGug=="
 ---
 
