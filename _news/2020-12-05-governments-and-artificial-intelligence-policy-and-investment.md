@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump signs order on principles for U.S. government AI use"
-    excerpt: "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making."
-    publishedDateTime: 2020-12-04T06:36:00Z
-    webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
+  - title: "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps"
+    excerpt: "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps."
+    publishedDateTime: 2020-12-07T17:33:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
-        width: 818
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump signing order on principles for U.S. government AI use"
     excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
@@ -57,15 +57,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "White House AI Order Sparks New Federal Use Policies"
-    excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
-    publishedDateTime: 2020-12-04T20:46:00Z
-    webUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+  - title: "Taking AI development and test to the cloud"
+    excerpt: "Many organizations leverage cloud-based HPC resources to develop and test AI models, and then move the production models to on-premises systems — for lots"
+    publishedDateTime: 2020-12-07T09:37:00Z
+    webUrl: "https://www.hpcwire.com/2020/12/07/taking-ai-development-and-test-to-the-cloud/"
     type: article
     provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 19
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 41
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
+        width: 1000
+        height: 669
+        isCached: true
 
 secured: "A+bpdDAqyU/PbFVrsYIHgIW3cAt4m8BYP/oOtvyzz30tcWzrgHqFVX9laEPageigx5tR/Hh3jQ8demR+rsf0MQWfcjCqiXnyl0PRUzBeoVzenN6WG4/WiNcHAvCLYSC1AMKvqxbuKbLq2jB/B1k3g60EeFD/86KKEgKYPVzPvD8/CpMwdXETYFk+owWvwfksKGrxPNSwlHwowBsehcgFnr+HJMjWRnwJKRSZVL+ECSzNvM0PpPkjNvm3AYTX/AFa8zMrDFpOOcpLGolgE2WDZQ0CcPiuANoogQUoWQ+A6TCxZsBPcvJpXyjFdEs9+bAcLg/UpuqYJNQb79f1CoBOmP4F4Bi1AUaedstoykyjtE7FnuwU8+kP/P+MNK+1wX42ROBWHqE8zQ7b9lNLDYo4CnAfqwMd9hMzWXcFjXQzZAUjwL8E2WI94cXxim0plFpSJJxE8nxC2FzpotTz3pxEVgTzx4eiNlfTuat8eG83H83JZy1oh2/0nieJTsYPJQsQG0kFxBqJmgnVnH4lGkWheQ==;TujrTUIAwK+WtRrJbl8czQ=="
 ---

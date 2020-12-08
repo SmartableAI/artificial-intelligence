@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Did Google's DeepMind Just Revolutionize Medicine?"
-    excerpt: "DeepMind has just provided an answer, and it is blowing the minds of researchers. For nearly 50 years, scientists have questioned how proteins know what shape to fold themselves into, and do it repeatedly time after time."
-    publishedDateTime: 2020-12-05T11:50:00Z
-    webUrl: "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F602911%2Fgettyimages-1046071698.jpg&w=1200&op=resize"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Deep medicine: Artificial intelligence is changing the face of healthcare, daily"
     excerpt: "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this."
     publishedDateTime: 2020-12-06T23:41:00Z
@@ -60,6 +44,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "xcXUuMVgbe2AmWS0hRnomGLh1fLcAExMmc1CAPU1LO4CltlZCyzAY+6BCxwqQYsULBx31O7682BkpKLH2Mh/pLi6SBdJpqB+s/rZVoTr471IQ1Ow9mwyyKI7EkXuuR16dyknez5SjLnlOJQ/PjUXQx5JjdV77C+jFJ028PgkGzlvOSCxsDkBvuUWVxcx2+GiH5IgU9EYGNiU4gisyuOBiHms/kG2cLIsmtMdgflMtLn8w6ilHcUo+mrEHtd2gYQjR/W4sXxtotGJG+PRyoHV+FecmN4zusayUSkHGgKxcpuPyvMHKERi6ydmOz0+Pi4EnxkeUZ9VxvrQzaq6+curYTzqo0RjC3fP9egkrA24+FQ=;DksYlZ8MEA2rhmuTNIUJmA=="
+secured: "gtGYkLQzZEzJT89+TfRtjRB86dmDhy+hadmwVBgUIen9oZjH4W7cqsxQTt3V+Bt3zuIkrIMOxxk9rbcPcz73JpLOyTHM6a35wDLmfIc7NlhzuhuZDZ6ldZcnCXVYkwJSsULpSSfAJXcCjTLFA1+lsvJktLIyEnc5k2+JV4XGkiEaoHiN6NrVxvqDjR4oYZjDiWr+tcrMexYmG0273nHtkpA8Jx7fOBbIoTKMt0swXwFNYFjNeyBpVwNmPYZMd9aQNh6k6rmysAWFZifDbr41/MTviq52+8ZimsMtGL6sFTouWhpixfbw2re3uxUeSByBUyZPi/5Fe4fL/kKTh2NAXiTcnZuBcvfd0aPdE9cCLrxVRaQjVUMMvlz0mGPqAS/XZW2MK0Wsn/FV1Og32qgksOi5Esr3PrxB2SP4euCeL8rJFX/3jrESO5kb8PRpfnG9xPxZep/wsNmkkKxQ7tDDvtG682TxgasJWZ4dkKnVnqpqIzH59i+2Csa2M6lZ+/+FbMSD3BE+UysBkggrYB0akQ==;06/qrXRxu5sx9hTFxtGNzg=="
 ---
 

@@ -104,6 +104,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Aurora Innovation Buys Uber's Self-Driving Car Unit For $4 Billion"
+    excerpt: "Dec 08, 2020 (Baystreet.ca via COMTEX) -- Uber's (NYSE:UBER) self-driving unit, Advanced Technologies Group (ATG), is being acquired by start-up"
+    publishedDateTime: 2020-12-08T22:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aurora-innovation-buys-ubers-self-driving-car-unit-for-4-billion-2020-12-08-8197309"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volkswagen expects to sell self-driving cars by 2030"
     excerpt: "The chief executive of Volkswagen expects autonomous vehicles to be ready for sale between 2025 and 2030. Herbert Diess cited the improving performance of computer chips needed in autonomous cars while developments in artificial intelligence are also speeding the process."
     publishedDateTime: 2020-12-06T17:36:00Z
@@ -317,7 +331,7 @@ related:
   - title: "Uber abandons effort to develop own self-driving vehicle"
     excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle."
     publishedDateTime: 2020-12-08T10:47:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+    webUrl: "https://www.bizjournals.com/washington/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
     type: article
     provider:
       name: The Business Journals

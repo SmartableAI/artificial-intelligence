@@ -24,18 +24,18 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI for admin will be a top healthcare investment area for 2021"
-    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
-    publishedDateTime: 2020-12-07T14:50:00Z
-    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
+  - title: "Imagine a world in which AI is in your home, at work, everywhere"
+    excerpt: "The Harvard Gazette featured metaLAB’s AI + Art project, which prompts us to envision how the technology will change our lives, and the Berkman Klein Center’s work on the Ethics and Governance of AI."
+    publishedDateTime: 2020-12-08T14:19:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-12/imagine-world-which-ai-your-home-work-everywhere"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
     images:
-      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/Screen%20Shot%202020-12-08%20at%209.22.01%20AM_2.png?h=d8e02bda&itok=Vi_W27r8"
+        width: 1000
         height: 600
         isCached: true
 

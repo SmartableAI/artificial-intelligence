@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-06-deep-learning-prediction-of-likelihood-of-icu-admission-and-mortality-in-covid-19-patients-using-clinical-variables.md",
+      "title": "Deep learning prediction of likelihood of ICU admission and mortality in COVID-19 patients using clinical variables",
+      "excerpt": "The goal of this study was to develop a deep-learning algorithm (in contrast to previous methods) to identify the top, statistically significant predictors amongst the large array of clinical variables at admission to predict the likelihood of ICU ...",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/articles/10337/",
+      "originalUrl": "https://peerj.com/articles/10337/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dfzljdn9uc3pi.cloudfront.net/2020/10337/1/fig-5-1x.jpg",
+          "width": 547,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic.md",
       "title": "Intelligently connect to customers using machine learning in the COVID-19 pandemic",
       "excerpt": "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,",

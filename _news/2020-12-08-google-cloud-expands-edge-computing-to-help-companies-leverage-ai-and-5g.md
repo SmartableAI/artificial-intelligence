@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/google-cloud-expands-edge-computi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Taking AI development and test to the cloud"
-    excerpt: "Many organizations leverage cloud-based HPC resources to develop and test AI models, and then move the production models to on-premises systems — for lots"
-    publishedDateTime: 2020-12-07T09:37:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/07/taking-ai-development-and-test-to-the-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_643510630.jpg"
-        width: 1000
-        height: 669
-        isCached: true
-
-secured: "jeQCqkDl6fNQ1l8RJtAm7+eGnKO8KnLg6etKyYVsbJw10ceimQdA8DnkGzFe2yZZaCHC+DhdAeIn//Y0pLcrWAqzPy757+vyCaMuebCkI9eICFZ6mQmABYxKgaXOv9+Iz7VhKRVaSnT0mSaR8niENdZSylVSKAydB9R7n+8mjIQAec1z6GF74bzVYEPRETWdbCf9g4a/AyKjau38SkLcYHoVUJWfPm29rVSrRoteCHB72uTyjhZimb3nalFJrnIn+k90xEJCZhXYFeLdlVqa1ObyLU9oeytnC+zBVoAjD20lciZ6YWwhkdqQtGl5Mb2yrpCa7hCLTVsrcz08udoQaWLbY/8klJXGhe9MhtlUM7g=;F5qDtKmaNm2BpSK8JnrJhg=="
+secured: "qX4OyzqR54mQa7eejoD7bGhvkl4Q/6CW7OC1WWAR7ijX/DuW5pEYcQ667F8+ft81IzHI6ZZkFZOezYgn3PMy01Hx8jlV+eHx6hAP8uFSUXs5SVAS05kO93kghqEwszn+fL0ATRNt1XnMyLwQOSRV08ExrJzFY4G6YQn0sQJGKBHLjQ0w00qp8j5dDEATfi+lFIOX5hFD2UGWVXQ4X5TciwdvyL9qkIcRt4oiI+swP8CaOfZtOa3FzcHjvnB9t+bBsZ1qSntasJYci/UCOWBJ7kWk+GzdLZrblTqu9llCWgZkRxL0NFP6YS0ZTabQuBK2rBymsAjujBiYDqknencnE9C1PI9xVYExwClv0Q0soVvNm1fc7Hyy5mDjCASDtSS8cXlT/6THYYHGkgbnJREwTse6mQtUhPmafl4XA4Pq1uGTDBph+XOgP6M2XT1PA1YYgjZNW86twVVNlEYzdSeu5S+Ipi1GfEJI347vPETi8ERgfhq9fK5RPlRCivb86BfaCCXCnxbtO7oOvVYGE2idow==;BxKCF7/B3gNUBw25JlE78Q=="
 ---
 

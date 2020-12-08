@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-learning
 webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/"
 type: article
 quality: 86
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,44 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Diving into Deep Learning"
-    excerpt: "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets)."
-    publishedDateTime: 2020-12-08T15:41:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
+  - title: "Predicting soccer goals in near real time using computer vision"
+    excerpt: "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals."
+    publishedDateTime: 2020-12-08T21:09:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
     images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences"
-        width: 615
-        height: 384
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1389-2-756x630.jpg"
+        width: 756
+        height: 630
         isCached: true
-  - title: "Medical Image Processing Deep Learning Market, 2030"
-    excerpt: "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning Market: Focus on Medical Image Processing, 2020-2030' report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
-    publishedDateTime: 2020-12-04T11:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18648824/medical-image-processing-deep-learning-market-2030"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18648824"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18648824"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "Researchers present self-learning algorithms for a large number of different imaging datasets"
-    excerpt: "AI-based evaluation of medical imaging data usually requires a specially developed algorithm for each task. Scientists from the German Cancer Research Center (DKFZ) have now presented a new method for configuring self-learning algorithms for a large number of different imaging datasets—without the need for specialist knowledge or very significant computing power."
-    publishedDateTime: 2020-12-07T16:05:00Z
-    webUrl: "https://medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-self-learning-algorithms-large-imaging-datasets.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 13
 
 secured: "afbSqUHMt6i1a8S9BLxVTv7vCjuly5cGkgsN+v13V3KyB7000Z6njEThaIFt8a6DlJ7psZD7HtnTpa+vhqRpTNs8Mh46QmE0zmIt0rf2lgD7Ik1o7IZVP10jXa+7ekEG9+JRHyWhVag+n2KfYEySWWDT1I1olRWjyaXN3gifP6uY0aIbGgsGqE+RKIJNVM8PKIvTDIp3xejkAyFqIDsn3DFgxD+WF+DlMIWTDf6Xmd96mK/TjgnMLkrlq3qBBmM0m8pQr2616FM+z9VvWnmCIqidR6piRdM7LpWYPl0ARRGA/QSiXcgDbD9lRW73uUMwAG7zizukguwPF7o1/dXHRJrMIGulofWz3ZGPSyBRtYk=;ys4NqJiF5Zp+V9wRJveZjw=="
 ---

@@ -27,52 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Making An Impact On The Surveillance World"
-    excerpt: "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area."
-    publishedDateTime: 2020-12-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
+  - title: "Healthcare Artificial Intelligence (AI) Market"
+    excerpt: "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ..."
+    publishedDateTime: 2020-12-07T10:05:00Z
+    webUrl: "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised"
+    ampWebUrl: "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: openpr.com
+      domain: openpr.com
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cc69863202e1c1b581ae8%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.openpr.com/T/c/Tc07554095_g.jpg"
+        width: 417
+        height: 455
         isCached: true
-  - title: "Study finds that few researchers thoroughly test adversarial attacks on surveillance AI in the real world"
-    excerpt: "In a new study, researchers find that few adversarial techniques purporting to protect against surveillance AI have been thoroughly tested."
-    publishedDateTime: 2020-12-08T16:55:00Z
-    webUrl: "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/"
-    ampWebUrl: "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/"
+  - title: "Why AI for admin will be a top healthcare investment area for 2021"
+    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
+    publishedDateTime: 2020-12-07T14:50:00Z
+    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all"
+      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "The Coming AI Revolution"
-    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
-    publishedDateTime: 2020-12-04T18:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"
+    publishedDateTime: 2020-12-08T16:36:00Z
+    webUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/"
+    ampWebUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 42
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.insightssuccess.in/wp-content/uploads/2020/03/Article.jpg"
+        width: 900
+        height: 426
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
+    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
+    publishedDateTime: 2020-12-07T12:08:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 11
 
 secured: "AmB9zP2HJ2om+ONaSPkOgKuDKEAxSigMl23allpUUMD9buWV1ZMRjHSx9OeTuyc+u9Lrll2JAdOOBrZIkiYQPKmxHHotYZXrJZprZbygKsftKHTNvjbI1rdcT0KndT8VlgNYRorFWQvrEv/GbRvzsz2Okz+MD/u5Pr5zXv3zmHShQsSBBeScfp4cner9z1kygA6w8IeOTK6XtIxu8x6BoEBHaKRSGJtxNvIphK4rcMN+uRJ6vUGr/aoDkR3o6Q6bXLReQva05EimZQQidqhwZlxhzWsahDDgIYfw/bD7afmsvvvlLmeZEG1p/oDrE0KONLDJSFRNQp8DQ8EyN0ZYTDmSzoT6iC/xXMPWeMn+tvHUEq5scQICBk842yJRH4ZsPJYy4GfJpqUsQwkV7r9giq2uwwkxcO+cM4x5LwusyF4+Vxo9OGSGKhhwyHUEfCRx1ONn69VbXPfbbjuswB3gnFn0E4hMrT41Qe6PrjljufJDCD+rD0GFi/QHt+nFaCGdao4fumhHbPmkyMBtS8GhuA==;0DGsKaJDjgtzJT1yHnYgXg=="
 ---

@@ -18,89 +18,65 @@ topics:
   - AI
 
 related:
-  - title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T07:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
+  - title: "Healthcare Artificial Intelligence (AI) Market"
+    excerpt: "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ..."
+    publishedDateTime: 2020-12-07T10:05:00Z
+    webUrl: "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised"
+    ampWebUrl: "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
+      name: openpr.com
+      domain: openpr.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/c/Tc07554095_g.jpg"
+        width: 417
+        height: 455
         isCached: true
-  - title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
-    publishedDateTime: 2020-12-06T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
+  - title: "Why AI for admin will be a top healthcare investment area for 2021"
+    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
+    publishedDateTime: 2020-12-07T14:50:00Z
+    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 07, 2020 (WiredRelease via Comtex) -- Global Artificial Intelligence of Things (AIoT) Market report provides in-depth research, sales estimates, and growth forecast by ..."
-    publishedDateTime: 2020-12-07T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
+  - title: "Decoding the Booming Adoption of AI in Healthcare Market"
+    excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
+    publishedDateTime: 2020-12-08T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 58
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Decoding-the-Booming-Adoption-of-AI-in-Healthcare-Market.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2020-12-07T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-07"
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"
+    publishedDateTime: 2020-12-08T16:36:00Z
+    webUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/"
+    ampWebUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 42
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A Complete Report on Artificial Intelligence Applications for Smart Cities Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence Applications for Smart Cities Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence Applications for Smart Cities market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-applications-for-smart-cities-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
-    excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
-    publishedDateTime: 2020-12-07T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.insightssuccess.in/wp-content/uploads/2020/03/Article.jpg"
+        width: 900
+        height: 426
         isCached: true
 
 secured: "d5tUKDCfENAMwggsVCC4TuWJs+NFxzTxrFLH2lK7RL+T8FFLQVL53+1b7hcM5Qej994ce+5goopvctVL6XuBoN7XSQHCMsQMhy+jRjIz+L19+QDt+ZW223pzjaq5zBSM2K0l0x/C1e3Td/Va5bGjXthqAJ1oH2qIOrQ2/1PlvRdciVjkbYkyDlhyEHjidJ/D1hkDwN0wjMYvJSym2QY33Wk7PRGmCf4921/TISwQy9U3ih7eLXjMPi+XsWeZadviZUMeaK9MPkejVFRl/EJWzV5GEzqitUCIVxWv3K7iBOcj6Og8ruLbVfUpCF5reCVMxq4cTz8rgxo56rfyYTVYtOOWrVXy/iMJmWy3AEXaP54=;wmA/EsBE67Cc1sMGfAwriA=="

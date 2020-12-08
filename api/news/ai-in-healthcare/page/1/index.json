@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-07-why-ai-for-admin-will-be-a-top-healthcare-investment-area-for-2021.md",
-      "title": "Why AI for admin will be a top healthcare investment area for 2021",
-      "excerpt": "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week.",
+      "path": "_news/2020-12-07-healthcare-artificial-intelligence-ai-market.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market",
+      "excerpt": "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12",
-      "originalUrl": "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12",
+      "webUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "originalUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cdn.openpr.com/T/c/Tc07554095_g.jpg",
+          "width": 417,
+          "height": 455,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T06:50:00-08:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "publishedDateTime": "2020-12-07T02:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +40,52 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
+      "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
+      "excerpt": "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
+      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
+      "publishedDateTime": "2020-12-06T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1303,49 +1338,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
-      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) ha",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201117005699/en/Artificial-Intelligence-Technology-Solutions-Receives-ROSA-Order-from-Large-Construction-Company",
-      "originalUrl": "https://www.businesswire.com/news/home/20201117005699/en/Artificial-Intelligence-Technology-Solutions-Receives-ROSA-Order-from-Large-Construction-Company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201117005699/en/790367/23/RAD_Logo_New_Landscape.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

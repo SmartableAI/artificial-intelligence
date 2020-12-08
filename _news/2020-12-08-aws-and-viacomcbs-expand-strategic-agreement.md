@@ -24,6 +24,31 @@ images:
     height: 565
     isCached: true
 
+related:
+  - title: "ViacomCBS moving broadcast operations to AWS cloud"
+    excerpt: "Amazon Web Services and ViacomCBS have entered into a multi-year deal that places the broadcast operations of the company in the AWS cloud. The agreement, similar to one also recently announced with MGM,"
+    publishedDateTime: 2020-12-08T22:11:00Z
+    webUrl: "https://www.newscaststudio.com/2020/12/08/viacomcbs-moving-broadcast-operations-to-aws-cloud/"
+    type: article
+    provider:
+      name: Newscast Studio
+      domain: newscaststudio.com
+    quality: 39
+    images:
+      - url: "https://www.newscaststudio.com/wp-content/uploads/2019/12/viacomcbs-logo.jpg"
+        width: 1100
+        height: 621
+        isCached: true
+  - title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
+    publishedDateTime: 2020-12-07T05:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
+
 secured: "4oyCcTWAUGgYGAv6X61RZ7mmzYaI7ON5ruuXDY9gId4eBkq1nMt6LXmx20Ahk2waGc3daQXLYY67Iu/1Xz7dGN+0zum4jxuOkPQuRXjcgfDilkyqGTy5zSrVMENa7QqR5IloepMP5iS+vqwyiqPgJldhQcwl/oBsZnOxHpN4Pb/Jm0ZVrKDXUfi5RQQHJjgRgjiWZ84gc2GjzC1OeMbqtxXr/AVLFx7sXyW07sZ1UhFFzWgsHMhCvWLvzVWxlxy5k0V+rGmkGkHg/kvrCM6FZsG2DWjAqTRq1NTPLPn5cLJdwi9Ho7KQBf4WICFceDzAfE0gfSiMZpX3RUurUC39mZGkdma0uXQZTbMS0C7CBMKtgglgz2lwy+pFbFPR7IYYTxrcCssRGxdTRWi7g9RIjYcFiRtQ/UqHR1oKwk4hOv/ZpclzYrCikgMl9UDWGfiTPnAIFyUBVRtDOAL0FO51jkNs9kJDtg3waVhrQ/S1RWfCJL8dWFRdJ0rsUNMqqB8vSpFSNr7Pt6RWQxzEEay9gw==;dCqpFRBIYtdxNF7ECNbx/w=="
 ---
 

@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
+      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
+      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
+      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
+      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "publishedDateTime": "2020-12-08T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020.md",
       "title": "Brainchip leads the ASX’s top small cap AI stocks in 2020",
       "excerpt": "If you’re an investor seeking exposure to AI in the small cap space look no further because we have compiled an extensive run-down of small cap ASX stocks.",
@@ -149,7 +247,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -202,7 +300,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1356,110 +1454,6 @@
       "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
       "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership.md",
-      "title": "South Korea Unveils AI Chip to Maintain Semiconductor Leadership",
-      "excerpt": "South Korea is adding a new artificial intelligence chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global tech market and an upgrade of its industrial capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i91wAuLvp3JY/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "publishedDateTime": "2020-11-24T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-this-ai-chip-claims-to-mimic-the-human-brain.md",
-      "title": "This AI chip claims to mimic the human brain",
-      "excerpt": "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "originalUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CLZPLUtqihEEeJiUsPGteP-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "publishedDateTime": "2020-11-24T03:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

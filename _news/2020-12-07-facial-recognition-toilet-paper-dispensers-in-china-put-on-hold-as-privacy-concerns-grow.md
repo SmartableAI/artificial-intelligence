@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/article/3112836/facial-recognition-toilet-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Privacy, Civil Rights Groups Plan Facial Recognition Offensive"
+    excerpt: "A new administration — as well as swirling national debate about the biometric technology — is behind a push to get lawmakers to re-examine its use in policing and the challenges it presents to privacy and equity."
+    publishedDateTime: 2020-12-08T21:40:00Z
+    webUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html"
+    ampWebUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
+    images:
+      - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
+        width: 944
+        height: 630
+        isCached: true
   - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
     excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
     publishedDateTime: 2020-12-04T12:01:00Z

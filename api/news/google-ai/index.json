@@ -254,21 +254,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-did-googles-deepmind-just-revolutionize-medicine.md",
-      "title": "Did Google's DeepMind Just Revolutionize Medicine?",
-      "excerpt": "DeepMind has just provided an answer, and it is blowing the minds of researchers. For nearly 50 years, scientists have questioned how proteins know what shape to fold themselves into, and do it repeatedly time after time.",
+      "path": "_news/2020-12-06-alphabets-deepmind-ai-has-solved-the-protein-folding-problem-that-could-aid-medicine-research.md",
+      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\" that could aid medicine research",
+      "excerpt": "TL;DR: DeepMind Technologies, a research lab in the UK owned by Alphabet, has developed an AI that can determine the folded shape of a protein in a matter of hours, which would typically require ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
+      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F602911%2Fgettyimages-1046071698.jpg&w=1200&op=resize",
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
           "width": 1200,
-          "height": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -276,16 +276,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
-      "publishedDateTime": "2020-12-05T03:50:00-08:00",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "publishedDateTime": "2020-12-06T03:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "TechSpot",
+        "domain": "techspot.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

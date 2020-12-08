@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-publishedDateTime: 2020-12-08T05:41:00Z
-originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+publishedDateTime: 2020-12-08T04:52:00Z
+originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 type: article
@@ -41,7 +41,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg"
         width: 360
@@ -267,6 +267,31 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
+    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-08T19:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "A day after selling self-driving unit, Uber's offloading air taxi wing to Joby Aviation"
+    excerpt: "The Joby Aviation deal is very much along the same lines as one announced Monday where Uber agreed to sell its self-driving vehicle business to autonomous driving unicorn Aurora Innovation, while also investing in and partnering with it."
+    publishedDateTime: 2020-12-08T19:27:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/08/uber-selling-air-taxi-business-to-joby-aviation.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/08/uber-selling-air-taxi-business-to-joby-aviation.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/08/uber-selling-air-taxi-business-to-joby-aviation.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
   - title: "Aurora acquires Uber's self-driving division"
     excerpt: "Uber will offload its self-driving technology division known as Uber Advanced Technology Group to Aurora, the two companies said in a joint statement Monday. Uber will also invest $400 million in Aurora as part of the deal."
     publishedDateTime: 2020-12-08T15:00:00Z
@@ -296,6 +321,6 @@ related:
         height: 600
         isCached: true
 
-secured: "wnbVNAmxjU1MqnZkz2rdzTUwMpFFxk7RoJss+dHbBBPuxAjPa1sD7lmkUMb2hSyShdfBo4BBQZnA1ndh+/o9geOe78lAZplGr0gQkzfy75tRx6WVRE4meyoMNiJlU2rWbocBG3tDAr/mOiY9wFxiCTpD1uGT1kEapEallQGs7d4HMeIIHcTMJxd2xtUTUXiIc1gkc79FmKclrg27x0d/okuugQE4uEItRSPxYESvkQ2F5Va/8kgS1Hns5L4qk6ltZY+LyZhGGPGQh9r+IaXqHHIPLcNQRdIej59pFcWwA+k1Md/n7cEqRrVBXLqQi8z/D0UomZF7VLtlsheSsPz4H9goK0Za707t1awDPvKtYUA=;P57C0EeSIDh4PP0bMzmlQQ=="
+secured: "UB8bRm2XYRLzvp3gSlEXnggwi2qnhn3XGx9W0Niw3Ri3FKTpd889P9iLkppr+ZVWVrHQzT5ex23c36a5FdNMdAq9Gvv4K1+WLQZGLDHweP7+qcj6Gv0MssFS93bDkEtoIrZ4/rRgtMsOUO7j39H721GRv9LzlVXWPHxHRknGkDAh+gF395U0DKPoZhXVV12a9KFsr2qR/GXEFIKIJtGSDNefnILZO2V7A8BYlz105d7okuPm8NQnvggB1kH+xqjycmvfkJhC3PMEaaaRajbQEXDzwfloXF7hpy9idhSQuYdfr+7Ar4iPpojiYFvm6vR9pQQt0BpecALkHi2c8E+cpo0jpP2hUDav/WvcGBH0ht4=;ackMsFfqcRgyOBjOg5nFoQ=="
 ---
 

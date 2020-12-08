@@ -149,6 +149,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "As a key partner for Azure Digital Twins, Johnson Control's OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+    publishedDateTime: 2020-12-08T21:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873491"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg"
+        width: 400
+        height: 220
+        isCached: true
 
 secured: "qcn2KT1eUWIzuUFx7p9UQvFU2b6yE6YC3htEzUosch4XhiLY31r9OimhrelCPHQ3Y8eTPI12NUaLJd37c11g0OAfD/DKf1KybKaxJLvyimkSx+lApjiNlJBX3JDihr7RW0HwZg0mVMJqomGUlMtiEE9Wmvfit7syIIVA6S0PGDtS6XYVnGpJaOUg/yHfLHooco7YGcUp31gQW/h3mdNxKGoWBQAqfYcxnAkPazcQkHcEGl+7JTrmG0WPmC+77E39PyTECT+Vg02Hc/wvMlWixAzsWdVfGM+KvMifUtR/Bt6oiC7I20AanyyWxJ3qwk+O0zldc3OZaHkAuWGvBxuBliIYKflUG336Zug+nbw5Hn1ViJj0XJCH2reoO5lyOI6grRapaDgQu+3NrGSXdu3yKVIUF7M7/aMA6oeOe6GjlEAlWCtaCjfrXQN75jz97RlEz2sd6dEk894tW/o5U7pIzUvAGfkdybxmmrrSzXVLg5U2sybe2qp83hF2GqGMz7o6QoRuZkRA4P9w8BAZNWA/zg==;hgbTjK2gBsyAjb3k6dkhTA=="
 ---

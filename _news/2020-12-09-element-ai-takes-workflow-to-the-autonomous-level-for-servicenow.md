@@ -35,6 +35,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 37
+  - title: "Canadian-Owned Israeli Artificial Intelligence and Transportation Management Company Sold to Redflex"
+    excerpt: "RoadMetric Ltd's controlling shareholder, Toronto-based Rabbi David Hofstedter announced the recent sale of the company to Redflex Traffic Systems, Inc., an Australian-based company specializing in intelligent traffic management solutions."
+    publishedDateTime: 2020-12-08T18:14:00Z
+    webUrl: "https://www.lelezard.com/en/news-19555772.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "yzQc99/Yb8fbyjeb7fZeY+c/NQee2UkqX3Lz0LF4RwNFDT2PbxEitCTYsl3q+hJ69+1wwkUBSWWoDnjZ7B/jtAi1TZMcH5grL6QJAl1V29/gL1oUthRJaDlfv0q/hXm4Yr1C72hED71Ku+x3xI/EOp8IEoXegptwiZnisF2dh5hQSLZNVAkwoSGunsQGV7NAcjnLJKQkdMdHLMvSaB2pQIdlajVIVUgiwmre5FvbFt8fWbpM5UhzNIWy9v30xTYn2y3jluqJ0P2JlxbWc0c3Ski9wFI9TPUe7PC3oJmcgZA6i/ffr4Gzg9KLLnpVTebf/MJDTEbHYc1m6jpKcC0KGhnoDIsEOOSDKqhXzRkjKY0Z5UrVD7qYhGIt0AWamCilTa9JmPWqZ94oXHTEPx8EdTQBRHudgOGK0zxwMj7rUyXWlGSx0sbdwKchhwnFCjxK12EXJko6zSdaVDGjt+vsKTTUcvppWBTZcW3eaRlN1T5rDE0h3ZPatmh0B+fJOs6OIA6kAYNUKHeIeUSb7xLtzw==;U3UDX3Hgp29epjBYP1ODUA=="
 ---

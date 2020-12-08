@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-06-top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021.md",
+      "title": "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021",
+      "excerpt": "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcb9d7e99411771234c0196%2F0x0.jpg%3FcropX1%3D1189%26cropX2%3D6735%26cropY1%3D0%26cropY2%3D4500",
+          "width": 1200,
+          "height": 974,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/",
+      "publishedDateTime": "2020-12-05T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts.md",
+      "title": "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts",
+      "excerpt": "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
+      "originalUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp",
+      "publishedDateTime": "2020-12-05T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-a-robot-is-now-making-jamba-smoothies-in-a-california-walmart-in-less-than-3-minutes.md",
+      "title": "A robot is now making Jamba smoothies in a California Walmart in less than 3 minutes",
+      "excerpt": "The contactless kiosk uses a robotic arm to retrieve the ingredients and make the smoothie. It's one of Blendid's five kiosks in California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
+      "originalUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc81645037cbd00186137a9?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-training-facial-recognition-on-some-new-furry-friends-bears.md",
       "title": "Training facial recognition on some new furry friends: Bears",
       "excerpt": "A few years ago the pair became mesmerized, like many of us, by an Alaskan webcam broadcasting brown bears from Katmai National Park. They also happened to be seeking a project to hone their",
@@ -45,21 +191,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-05-did-googles-deepmind-just-revolutionize-medicine.md",
-      "title": "Did Google's DeepMind Just Revolutionize Medicine?",
-      "excerpt": "DeepMind has just provided an answer, and it is blowing the minds of researchers. For nearly 50 years, scientists have questioned how proteins know what shape to fold themselves into, and do it repeatedly time after time.",
+      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
+      "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
+      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
+      "webUrl": "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "originalUrl": "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 231,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F602911%2Fgettyimages-1046071698.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,16 +213,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/",
-      "publishedDateTime": "2020-12-05T03:50:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "publishedDateTime": "2020-12-04T20:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,50 +238,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb.md",
-      "title": "Google widely criticized after parting ways with a leading voice in AI ethics – Jaweb",
-      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
-      "originalUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-widely-criticized-after-parting-ways-with-a-leading-voice.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp",
-      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp",
-      "publishedDateTime": "2020-12-04T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elmoudjaweb",
-        "domain": "elmoudjaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AI Ethics"
       ]
@@ -296,7 +398,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -340,6 +442,58 @@
         "AI Ethics",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-the-opportunities-with-ai-and-machine-learning.md",
+      "title": "The opportunities with AI and machine learning",
+      "excerpt": "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -596,6 +750,57 @@
       ]
     },
     {
+      "path": "_news/2020-12-05-governments-and-artificial-intelligence-policy-and-investment.md",
+      "title": "Governments And Artificial Intelligence, Policy And Investment",
+      "excerpt": "Over the last couple of years, it has become increasingly clear that many democratic governments have been taking a closer look at artificial intelligence (AI), both from a policy standpoint and as something to help their economies of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/04/governments-and-artificial-intelligence-policy-and-investment/amp/",
+      "publishedDateTime": "2020-12-04T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience.md",
       "title": "Web Summit: Terminus Group introduces the first AI CITY to global audience",
       "excerpt": "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;",
@@ -698,7 +903,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1033,205 +1238,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-signs-order-on-principles-for-us-government-ai-use.md",
-      "title": "Trump signs order on principles for U.S. government AI use",
-      "excerpt": "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
-      "originalUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D357",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357",
-      "publishedDateTime": "2020-12-03T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
-      "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
-      "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "publishedDateTime": "2020-12-03T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-top-ai-ethics-researcher-says-google-fired-her-company-denies-it.md",
-      "title": "Top AI ethics researcher says Google fired her; company denies it",
-      "excerpt": "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
-      "originalUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 384,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543399867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Z5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28D3JP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP",
-      "publishedDateTime": "2020-12-03T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-aws-panorama-bringing-computer-vision-to-business-masses.md",
-      "title": "AWS Panorama — bringing computer vision to business masses?",
-      "excerpt": "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "originalUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "publishedDateTime": "2020-12-03T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

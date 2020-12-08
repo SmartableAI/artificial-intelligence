@@ -543,6 +543,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-healthcare-artificial-intelligence-ai-market.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market",
+      "excerpt": "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "originalUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/c/Tc07554095_g.jpg",
+          "width": 417,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised",
+      "publishedDateTime": "2020-12-07T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity.md",
       "title": "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity",
       "excerpt": "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development.",
@@ -551,7 +595,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -655,7 +699,7 @@
       "originalUrl": "https://www.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -845,6 +889,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
+      "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
+      "excerpt": "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
+      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
+      "publishedDateTime": "2020-12-06T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come.md",
       "title": "The Guardian view on DeepMind’s brain: the shape of things to come",
       "excerpt": "This is an achievement that answers one big scientific question but raises more fundamental ones for society An image issued by DeepMind of a three-dimensional digital rendering of a protein.",
@@ -1001,6 +1088,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-06-alphabets-deepmind-ai-has-solved-the-protein-folding-problem-that-could-aid-medicine-research.md",
+      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\" that could aid medicine research",
+      "excerpt": "TL;DR: DeepMind Technologies, a research lab in the UK owned by Alphabet, has developed an AI that can determine the folded shape of a protein in a matter of hours, which would typically require ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "publishedDateTime": "2020-12-06T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030.md",
       "title": "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030",
       "excerpt": "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,",
@@ -1009,7 +1148,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1101,152 +1240,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021.md",
-      "title": "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021",
-      "excerpt": "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcb9d7e99411771234c0196%2F0x0.jpg%3FcropX1%3D1189%26cropX2%3D6735%26cropY1%3D0%26cropY2%3D4500",
-          "width": 1200,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/",
-      "publishedDateTime": "2020-12-05T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts.md",
-      "title": "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts",
-      "excerpt": "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
-      "originalUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp",
-      "publishedDateTime": "2020-12-05T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-a-robot-is-now-making-jamba-smoothies-in-a-california-walmart-in-less-than-3-minutes.md",
-      "title": "A robot is now making Jamba smoothies in a California Walmart in less than 3 minutes",
-      "excerpt": "The contactless kiosk uses a robotic arm to retrieve the ingredients and make the smoothie. It's one of Blendid's five kiosks in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
-      "originalUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc81645037cbd00186137a9?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
-      "publishedDateTime": "2020-12-05T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

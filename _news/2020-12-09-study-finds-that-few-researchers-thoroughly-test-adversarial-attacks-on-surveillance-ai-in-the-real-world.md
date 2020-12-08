@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Decoding the Booming Adoption of AI in Healthcare Market"
-    excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
-    publishedDateTime: 2020-12-08T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 58
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Decoding-the-Booming-Adoption-of-AI-in-Healthcare-Market.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "The Coming AI Revolution"
     excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
     publishedDateTime: 2020-12-04T18:21:00Z

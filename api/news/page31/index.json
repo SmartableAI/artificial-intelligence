@@ -2,6 +2,231 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-11-16-would-artificial-neural-networks-implemented-in-clinical-wards-help-nephrologists-in-predicting-epoetin-responsiveness.md",
+      "title": "Would Artificial Neural Networks Implemented in Clinical Wards Help Nephrologists in Predicting Epoetin Responsiveness?",
+      "excerpt": "Compared with linear models, computer assisted tools based on artificial neural networks predict the mean erythropoietin dose required for an individual patient significantly better. Surprisingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/548842_6",
+      "originalUrl": "https://www.medscape.com/viewarticle/548842_6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb.md",
+      "title": "Austria wants ethical rules on battlefield killer robots – Jaweb",
+      "excerpt": "Vienna is embarking on a diplomatic initiative to draw up an ethical framework for the use of killer robots on the battlefields of the future. Foreign Minister Alexander Schallenberg said similar standards should be adopted as those established for landmines and cluster weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Austria-wants-ethical-rules-on-battlefield-killer-robots-–-Jaweb.jpg",
+          "width": 940,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
+      "publishedDateTime": "2020-11-15T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
+      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
+      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
+      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
+      "publishedDateTime": "2020-11-15T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars.md",
+      "title": "Zipper Merging Is A Frenzied Traffic Squeeze Play On Self-Driving Cars",
+      "excerpt": "Zipper merging, whereby cars are shunted into a 2-into-1 lane narrowing, can be especially tough on self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98fb5712aefdbeef1bad5b%2F0x0.jpg%3FcropX1%3D647%26cropX2%3D7309%26cropY1%3D579%26cropY2%3D5033",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-15T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-training-facial-recognition-on-some-new-furry-friends-bears.md",
+      "title": "Training facial recognition on some new furry friends: Bears",
+      "excerpt": "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html",
+      "originalUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/mLYmwT6KaOKcZ5Rrcvt1Da_8caY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5K3O4A4ZYZCEIP3IU3344F66OQ.jpg",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-15T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows.md",
       "title": "It’s Managers, Not Workers, Who Are Losing Jobs To AI And Robots, Study Shows",
       "excerpt": "This is a class of people we did not expect robots to have an effect. Because managers, by definition, supervise other human beings, so we really cannot replace their functions until the singularity occurs with artificial general intelligence.",
@@ -957,255 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape.md",
-      "title": "Researchers investigate why popular AI algorithms classify objects by texture, not by shape",
-      "excerpt": "Google and Stanford researchers investigate in a new paper why CNNs tend to classify objects by texture instead of shape.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/amp/",
-      "publishedDateTime": "2020-11-13T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-ey-india-acquires-ai-startup.md",
-      "title": "EY India acquires AI startup",
-      "excerpt": "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, up-skilling and re-skilling talent.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
-          "width": 412,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms",
-      "publishedDateTime": "2020-11-13T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix.md",
-      "title": "Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix",
-      "excerpt": "If you’re a Formula 1 (F1) fan, have you ever wondered why F1 teams have very different performances between qualifying and practice sessions? Why do they have multiple practice sessions in the first place? Can practice session results actually tell something about the upcoming qualifying race? In this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/F1-WHITE.png",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T18:10:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-we-currently-have-no-smart-cities-by-2025-therell-be-26.md",
-      "title": "We currently have no smart cities — by 2025 there’ll be 26",
-      "excerpt": "For the latest updates follow Cities Today on Twitter, Facebook, LinkedIn ... public security services and more. Artificial intelligence and data-driven solutions are expected to be in high ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/11/14/we-currently-have-no-smart-cities-by-2025-therell-be-26-syndication/",
-      "originalUrl": "https://thenextweb.com/shift/2020/11/14/we-currently-have-no-smart-cities-by-2025-therell-be-26-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/11/14/we-currently-have-no-smart-cities-by-2025-therell-be-26-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/14/we-currently-have-no-smart-cities-by-2025-therell-be-26-syndication/amp/",
-      "publishedDateTime": "2020-11-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features.md",
-      "title": "Alexa now runs on more powerful cloud instances, opening the door for complex new features",
-      "excerpt": "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "originalUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "publishedDateTime": "2020-11-13T15:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

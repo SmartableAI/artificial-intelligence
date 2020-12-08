@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-08-doordash-ipo-how-to-get-a-job-in-consulting-ai-in-accounting.md",
+      "title": "DoorDash IPO — How to get a job in consulting — AI in accounting",
+      "excerpt": "The top finance stories for December 8, including the latest news on how to get a job at FTI Consulting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12",
+      "originalUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce468a037cbd00186142e4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp",
+      "publishedDateTime": "2020-12-08T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot.md",
+      "title": "Iranian nuclear scientist allegedly assassinated via killer robot",
+      "excerpt": "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/skyassassination-796x405.jpg",
+          "width": 796,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/",
+      "publishedDateTime": "2020-12-08T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-bmw-develops-ai-powered-big-data-hub-with-aws-to-boost-manufacturing-efficiency.md",
       "title": "BMW develops AI-powered big data hub with AWS to boost manufacturing efficiency",
       "excerpt": "BMW has developed a data hub with Amazon’s cloud computing division, in a sign of how companies are using “big data” to boost efficiency.",
@@ -153,51 +256,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
-      "title": "How AWS aims to democratize machine learning with cloud services",
-      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
-          "width": 1922,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance"
       ]
     },
     {
@@ -355,7 +413,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/uber-self-driving-car-business-aurora-sale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -484,6 +542,58 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-researchers-are-starting-to-refuse-to-review-google-ai-papers.md",
+      "title": "Researchers are starting to refuse to review Google AI papers",
+      "excerpt": "Computer scientists are beginning to refuse to review Google AI papers until Google changes its stance on former ethics co-lead Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/",
+      "publishedDateTime": "2020-12-07T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -748,57 +858,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops.md",
-      "title": "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps",
-      "excerpt": "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
-      "publishedDateTime": "2020-12-07T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-07-ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study.md",
       "title": "IBM OpenPages with Watson can deliver a 218% return on investment, finds Forrester study",
       "excerpt": "The modern enterprise evolves to develop an integrated governance, risk and compliance (GRC) framework. Using a structured approach to manage GRC programs creates efficiencies by aligning technology with business objectives so that the organization can effectively manage risk and operate effectively",
@@ -997,49 +1056,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
-      "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
-      "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "originalUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "publishedDateTime": "2020-12-07T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-07-juniper-networks-acquires-datacenter-network-automation-startup-apstra.md",
       "title": "Juniper Networks acquires datacenter network automation startup Apstra",
       "excerpt": "Juniper Networks acquired Apstra, a startup specializing in datacenter network automation, for an undisclosed sum.",
@@ -1087,6 +1103,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain.md",
+      "title": "AWS Announces Partnership with MGM to Modernize its Media Supply Chain",
+      "excerpt": "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1140,58 +1208,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-why-ai-for-admin-will-be-a-top-healthcare-investment-area-for-2021.md",
-      "title": "Why AI for admin will be a top healthcare investment area for 2021",
-      "excerpt": "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12",
-      "originalUrl": "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

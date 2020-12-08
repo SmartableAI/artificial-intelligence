@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-08-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
-      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
-      "excerpt": "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed",
+      "path": "_news/2020-12-09-exceedai-raises-4m-seed-round-pairing-marketing-teams-with-an-ai-companion.md",
+      "title": "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion",
+      "excerpt": "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046",
+      "webUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/",
+      "originalUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg",
-          "width": 400,
-          "height": 274,
+          "url": "https://www.geektime.com/content/images/2020/12/pasted-image-0.png",
+          "width": 1077,
+          "height": 658,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T07:39:00-08:00",
+      "ampWebUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/",
+      "publishedDateTime": "2020-12-08T13:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,7 +41,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Marketing"
       ]
     },
     {

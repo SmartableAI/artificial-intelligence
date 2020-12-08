@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Why It Will Be a While Before AI Is Managing Your Data Center"
+    excerpt: "While hyperscalers already use AI to improve operations, most other data centers aren’t integrated enough to make it work."
+    publishedDateTime: 2020-12-07T18:37:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/why-it-will-be-while-ai-managing-your-data-center"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/data%20center%20illustration%203%20getty.jpg"
+        width: 2022
+        height: 1483
+        isCached: true
+
 secured: "WKL5fPvFFXWdV+O+xx/f2gN+EuSRXbmwUf6o4bJWtRYl2BrESEGouEDZzTaeXjUamdIRHfz+brGEvSmoX1JY5IzPmk/ESWfQA0BTlAtdy6nZLxzl+fMr+ftPYXKj5EKaYPzsfnm1Wp0B0TtIhtx5y0xg4Fk8HHhttjFegpXdQnjJrjrm4fNu2iBUFgjl0LjnL4DlE8E8gsI1DTpyTDvf9dM93L4A/g0KURsJtxt8rIbgc0NA59YR/yLPt9t0TKO9QaT6wT8XI/df2ICKpiPEgIR0oO3s83ISF/DTp4E2/wg8nQLgPTb8pf+zx/JWbTG2yQ7MMPy72to+RMPqugnvhXNjoRMEb4vNNO2UKecYo5s=;RbvnWCOI9KY7pyxEye9K3g=="
 ---
 

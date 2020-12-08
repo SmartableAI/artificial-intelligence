@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
+      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
+      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
+      "publishedDateTime": "2020-12-08T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-baidu-apollo-gets-green-light-for-fully-driverless-road-tests-in-beijing.md",
       "title": "Baidu Apollo gets green light for fully driverless road tests in Beijing",
       "excerpt": "AutoX announced the roll out a fleet of autonomous RoboTaxis in downtown Shenzhen, representing the first time such vehicles have been deployed in China without safety drivers or remote operators.",
@@ -53,7 +106,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/uber-self-driving-car-business-aurora-sale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -708,51 +761,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
-      "title": "7 Machine Learning Stocks for a Smarter Future",
-      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "publishedDateTime": "2020-12-01T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
       "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
       "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
@@ -793,6 +801,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
+      "title": "7 Machine Learning Stocks for a Smarter Future",
+      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
+      "originalUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
+      "publishedDateTime": "2020-12-01T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1357,49 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-artificial-intelligence-could-put-milton-keynes-on-a-par-with-san-francisco-and-singapore.md",
-      "title": "Artificial intelligence could put Milton Keynes on a par with San Francisco and Singapore",
-      "excerpt": "MK has the world’s largest fleet of autonomous delivery robots and was the UK partner for a three-year trial of driverless autonomous vehicles. In the last year alone, Santander’s has begun its £150m investment into a new innovation centre in Central ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "originalUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.miltonkeynes.co.uk/webimg/T0FLMTI3MzE2ODA2.jpg",
-          "width": 532,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milton Keynes Citizen",
-        "domain": "miltonkeynes.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

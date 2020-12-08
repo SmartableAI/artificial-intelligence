@@ -22,22 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Seoul Fintech Lab to Hold Online Meet-up With Singapore Fintech Association on December 10"
-    excerpt: "Seoul Fintech Lab holds the online ‘Seoul Fintech Meet’ with Singapore Fintech Association. The online meet-up focuses on networking and thus is held on an online platform tha"
-    publishedDateTime: 2020-12-04T06:35:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-south-korea-financial-technology-f6a6ac9947d44bd9be99bfa0bd4465f1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "W9PUEA9TONV53N/ARXwFFFdo4+1EmtohVwK+Yi/lHPo4IJPzEBOq3HNDURYcpeuMrpJ+7ptmTtXFbH3vk8FqXOdn6+GGMFBLs+LWLhJlcHeOwR2kFEXLuzGXiEQk5tMaVxTNbW5gbgDusMGK7Uaogk8pxYsYxqzwnChhQGCom4YJp6EAR0sIJZf9zfi7WWyFklmVZ4hTGfzIw0riJ0VPUDNTTnXWXsPjoJ6lPl2RqMeeHcXOXzIjbOpse9KmpYTz4sQ4ypzKn+bHMGI17Zr9YXJT7ekkOmiK8mjns7smiXW6Cc7xp4VzROhiux+RCKhhQFm+tUNi0wCcQrUsXT3SyctEY5durRs6CLi3YcG3Abk=;X+oZGrPueP9LqbpnkExERA=="
 ---
 

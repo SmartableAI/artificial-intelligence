@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-08-predicting-soccer-goals-in-near-real-time-using-computer-vision.md",
+      "title": "Predicting soccer goals in near real time using computer vision",
+      "excerpt": "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1389-2-756x630.jpg",
+          "width": 756,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T13:09:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-huawei-worked-on-facial-recognition-system-to-surveil-uighurs-new-report-claims.md",
       "title": "Huawei worked on facial recognition system to surveil Uighurs, new report claims",
       "excerpt": "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -158,7 +211,7 @@
       "originalUrl": "https://www.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1378,49 +1431,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-houston-airports-add-facial-recognition-tech-to-arrival-process.md",
-      "title": "Houston Airports Add Facial Recognition Tech to Arrival Process",
-      "excerpt": "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_530657836.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "publishedDateTime": "2020-11-23T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

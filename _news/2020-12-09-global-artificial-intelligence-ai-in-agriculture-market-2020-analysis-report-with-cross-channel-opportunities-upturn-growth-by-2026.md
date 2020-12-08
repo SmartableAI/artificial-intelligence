@@ -27,34 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity"
-    excerpt: "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development."
-    publishedDateTime: 2020-12-07T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity-2020-12-07"
+  - title: "Healthcare Artificial Intelligence (AI) Market"
+    excerpt: "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ..."
+    publishedDateTime: 2020-12-07T10:05:00Z
+    webUrl: "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised"
+    ampWebUrl: "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: openpr.com
+      domain: openpr.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/c/Tc07554095_g.jpg"
+        width: 417
+        height: 455
         isCached: true
-  - title: "Artificial Intelligence in Automotive Market by Size, Growth, Opportunity and Forecast to 2026"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
-    publishedDateTime: 2020-12-08T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-by-size-growth-opportunity-and-forecast-to-2026-2020-12-08"
+  - title: "Why AI for admin will be a top healthcare investment area for 2021"
+    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
+    publishedDateTime: 2020-12-07T14:50:00Z
+    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
+  - title: "Decoding the Booming Adoption of AI in Healthcare Market"
+    excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
+    publishedDateTime: 2020-12-08T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 58
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Decoding-the-Booming-Adoption-of-AI-in-Healthcare-Market.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
+    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
+    publishedDateTime: 2020-12-07T12:08:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 11
 
 secured: "iqDwuonGuwzKUzqdZrBA6wXCs3emoZPn//Xt3zM19dFxG0BtTpD7+UdTPdLKPFJMp44/c3ELkW9ij8ChF4JZPyIo3I05EnQQte6WjLUSSjL9QGT9u37UpTuKv4yrEdL3CC3ZwNjSWodF+0xx9vfGfnRKW0HyQnsinF0C7L5bj5ndPSd1UxT9EKB8ogWJSv4khdYlKBldSUIeO26bUOelaQGngbzR/Nltbcisnt12stLV61pEvigZfX/94geRO82y/0PAc/45kwGqU3sIXY4Fh/lvPXMgyendVz+zhY1UipbZgNqNpL8Ss5Bvz75zdeLBp8emikJz8TV8z+VaqLFNq2MWa1e3yRwsklfTt3XBelPlAd1dohtKGsn0anwIkXqjE6CktxW7nN9+9hsmmQ0J7kqYQFdgt68qxuqK11xUFjNW4KIG6H4wrm5OsYRaGswQnENYm7pz0maKeGZLdDygQfj2cA0FPpIsdbjFSzaV2Y6xVQsUcSN0u4GPHfeiSI2GkFZ6FVH6GsAlgGv0v+jNtA==;DMtXs3vHCOp4/pzxA6tFQA=="
 ---

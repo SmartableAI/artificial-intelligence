@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-sma
 webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Crooks are smart. Artificial intelligence is smarter."
-    excerpt: "AI can add an extra layer that's hard for fraudsters to beat, says Nuance Communications'."
-    publishedDateTime: 2020-12-04T16:36:00Z
-    webUrl: "https://www.paymentssource.com/opinion/crooks-are-smart-artificial-intelligence-is-smarter"
+  - title: "The opportunities with AI and machine learning"
+    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
+    publishedDateTime: 2020-12-04T22:05:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
     type: article
     provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 37
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/d857e54/2147483647/strip/true/crop/702x369+0+140/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2F7f%2Fc3c0a3734648b4ec6b30a13e4550%2Fsimonmarchand.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "NAB turns to artificial intelligence to assess small business loans"
-    excerpt: "NAB is working with Rich Data Corp to develop new AI algorithms that will be deployed towards credit decisions."
-    publishedDateTime: 2020-12-07T23:18:00Z
-    webUrl: "https://www.afr.com/companies/financial-services/nab-turns-to-artificial-intelligence-to-assess-small-business-loans-20201204-p56kmk"
+  - title: "SURVEY REPORT: Artificial Intelligence, Machine Learning and the Future of Telecoms"
+    excerpt: "Telecoms operators are increasingly looking to Artificial Intelligence (AI) and Machine Learning (ML) to make their networks more dynamic and responsive to the different demands on their operations. As the technology promises to offer communication service ..."
+    publishedDateTime: 2020-12-05T06:28:00Z
+    webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 48
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.4182%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_no_label_no_age_social_wm/344e1599b7dd2be0c82a4a370495ef29c800cc7b"
-        width: 1200
-        height: 628
+      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/04/tw_mwl_sl_undr_blk@3x.png?fit=1075%2C616&#038;ssl=1"
+        width: 1075
+        height: 616
+        isCached: true
+  - title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
+    excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
+    publishedDateTime: 2020-12-07T15:17:00Z
+    webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 38
+    images:
+      - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
 
 secured: "Sh+mmR8l30D4fUKFbWL5Cg3+5RsGQ7Egkt/vmwbN7E7u6PPKkmjlfW+CA1/vvHo/iFlGghbZfqzRiLxUPGS9R2Hs8iM52E/sv8SvpkMsR239Mxqdc4Ro/GpAEZkSI4OAzLHsYdyI1wIAS/zAbxZbb6gHVIaf07i9kSN0ypR56ImT/sbH4mIvOfEoFrpkzRSemXdyx6/KOL9ureveUuLUhjK6tImbkZm6nAIwLjSIv9X4cc0UDXtAz9rd+f7qMv0ECWVmFfTryfl+88wwJEMaQzUrF6k4jgT+NP0IBeQRguTkr/sM9Cw11nK/qF/6JkNOSVF3fUn3LfU+fYAohTuwXWpy530PUmA5d6s0+3XbG7w=;7ORohKRdhdCbtihIsyeVJQ=="

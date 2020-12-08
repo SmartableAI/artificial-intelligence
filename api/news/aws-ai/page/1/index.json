@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
+      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
+      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-predicting-soccer-goals-in-near-real-time-using-computer-vision.md",
+      "title": "Predicting soccer goals in near real time using computer vision",
+      "excerpt": "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1389-2-756x630.jpg",
+          "width": 756,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T13:09:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
       "excerpt": "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its",
@@ -51,59 +149,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning.md",
-      "title": "Incremental learning: Optimizing search relevance at scale using machine learning",
-      "excerpt": "Amazon Kendra is releasing incremental learning to automatically improve search relevance and make sure you can continuously find the information you’re looking for, particularly when search patterns and document trends change over time. Data proliferation is real, and it’s growing. In fact, International",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1856-1.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T09:40:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     },
     {
@@ -263,51 +308,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
-      "title": "How AWS aims to democratize machine learning with cloud services",
-      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
-          "width": 1922,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-aws-expands-think-big-ato-aiml-rapid-adoption-programs.md",
       "title": "AWS Expands Think Big, ATO, AI/ML Rapid Adoption Programs",
       "excerpt": "Amazon Web Services is ramping up offerings for its public sector partners with the expansion of its Think Big for Small Business, AI/ML Rapid Adoption and Authority to Operate on AWS programs",
@@ -353,21 +353,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
-      "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
-      "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
+      "path": "_news/2020-12-07-aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain.md",
+      "title": "AWS Announces Partnership with MGM to Modernize its Media Supply Chain",
+      "excerpt": "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "originalUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -375,14 +375,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "publishedDateTime": "2020-12-07T07:30:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T07:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

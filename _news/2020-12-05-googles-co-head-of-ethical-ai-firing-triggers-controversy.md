@@ -7,7 +7,7 @@ originalUrl: "https://www.postguam.com/business/technology/googles-co-head-of-et
 webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,33 @@ images:
     isCached: true
 
 related:
+  - title: "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager."
+    publishedDateTime: 2020-12-04T08:24:00Z
+    webUrl: "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528"
+    ampWebUrl: "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp"
+    cdnAmpWebUrl: "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp"
+    type: article
+    provider:
+      name: Jezebel
+      domain: jezebel.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Raleigh News & Observer"
+    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
+    publishedDateTime: 2020-12-05T05:12:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article247617745.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article247617745.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article247617745.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 48
   - title: "Google AI boffin claims she has been fired"
     excerpt: "Google denies itTimnit Gebru, one of the best-known AI researchers today and co-lead of an AI ethics team at Google, said she was fired for sending an email to \"non-management employees that was inconsistent with the expectations of a Google manager."
     publishedDateTime: 2020-12-04T10:27:00Z

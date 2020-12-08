@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
+      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
+      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-oceania-treats-climate-change-like-a-machine-learning-grand-challenge.md",
       "title": "OcéanIA treats climate change like a machine learning grand challenge",
       "excerpt": "Oceanographers and AI researchers are working together for OcéanIA, a four-year project to understand oceans and the impact of climate change.",
@@ -54,21 +99,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning.md",
-      "title": "Incremental learning: Optimizing search relevance at scale using machine learning",
-      "excerpt": "Amazon Kendra is releasing incremental learning to automatically improve search relevance and make sure you can continuously find the information you’re looking for, particularly when search patterns and document trends change over time. Data proliferation is real, and it’s growing. In fact, International",
+      "path": "_news/2020-12-08-diving-into-deep-learning.md",
+      "title": "Diving into Deep Learning",
+      "excerpt": "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets).",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/",
+      "webUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
+      "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1856-1.jpg",
-          "width": 800,
-          "height": 400,
+          "url": "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences",
+          "width": 615,
+          "height": 384,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +121,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T09:40:12-08:00",
+      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
+      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
+      "publishedDateTime": "2020-12-08T07:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -101,8 +137,8 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     },
@@ -147,51 +183,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
-      "title": "How AWS aims to democratize machine learning with cloud services",
-      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
-          "width": 1922,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance"
       ]
     },
     {
@@ -366,6 +357,58 @@
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-the-opportunities-with-ai-and-machine-learning.md",
+      "title": "The opportunities with AI and machine learning",
+      "excerpt": "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1031,51 +1074,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
-      "title": "7 Machine Learning Stocks for a Smarter Future",
-      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817",
-      "publishedDateTime": "2020-12-01T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-in-the-cloud.md",
       "title": "Amazon debuts Trainium, a custom chip for machine learning training in the cloud",
       "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
@@ -1232,6 +1230,50 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
+      "title": "7 Machine Learning Stocks for a Smarter Future",
+      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
+      "originalUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
+      "publishedDateTime": "2020-12-01T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1398,51 +1440,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-veritone-aiware-supports-nvidia-cuda-platform-for-gpu-aiml.md",
-      "title": "Veritone aiWARE Supports NVIDIA CUDA Platform for GPU AI/ML",
-      "excerpt": "Veritone aiWARE announced that it now supports the NVIDIA CUDA platform, which will enable organizations to run intensive artificial intelligence (AI) and machine learning (ML) tasks on NVIDIA GPUs, Veritone reported on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
-      "originalUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2020/11/30/08/5d/27/de/b1/be/83/d4/technology_2020118.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

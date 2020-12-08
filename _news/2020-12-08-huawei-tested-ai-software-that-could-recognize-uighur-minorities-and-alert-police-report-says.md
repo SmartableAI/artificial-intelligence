@@ -76,6 +76,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Huawei Tested Facial Recognition System That Identifies Uighurs, Report Claims"
+    excerpt: "Human rights groups say the Chinese government has deployed a network of invasive surveillance technologies to track the Muslim ethnic group in the country."
+    publishedDateTime: 2020-12-08T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcfef0de1a692d0d7afa0fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D244%26cropY2%3D3754"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Huawei tests facial recognition system to track ethnic minorities, send 'Uighur alerts' to Chinese authorities"
+    excerpt: "It shows how \"terrifying\" and \"totally normalised\" the discriminatory technology has become, a video surveillance expert says."
+    publishedDateTime: 2020-12-08T22:38:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2020/12/huawei-tests-facial-recognition-system-to-track-ethnic-minorities-send-uighur-alerts-to-chinese-authorities.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2020/12/huawei-tests-facial-recognition-system-to-track-ethnic-minorities-send-uighur-alerts-to-chinese-authorities.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2020/12/huawei-tests-facial-recognition-system-to-track-ethnic-minorities-send-uighur-alerts-to-chinese-authorities.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 39
+    images:
+      - url: "https://www.newshub.co.nz/home/world/2020/08/uighur-model-s-texts-video-sent-from-inside-chinese-detention-system-released-by-family/_jcr_content/par/image.dynimg.768.q75.jpg/v1596671492969/BBC-GHAPPAR-FAMILY-merdan-ghappar-handcuffed-china-facility-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
 
 secured: "dLnbA+Ql80pr5HYfQ6SNXooJY02uISDhxW5vhiP9JFUNHxTSnSunMHltfIjEwH8Gn7KhKTfA1bAICsJW8I7EFbNvJtSSzppYFH/i756C+a8/PLZDMtx/3zY0AEcCWVD+D2GrFV2O4RdzQyW7UUWeig2YKWPDgVsjbFdc3g1FilivjFcRgvSfM4+QhfcWOHfO2tmxs8nYuzqgKF31Om26GNjhPBub1IkK6WRDQuKomCbl9C7x5XYWCO4qLeUYnoWyLl79qY9VZd2sR7aYjuam1iRdQq7d+QjZZRBmCYMAFjIKG7wl9E/Kc/Mum3vypvooeOF4DHAP9oGkeZKR3H61EQUS98P6XYPwUSYbUF69eWwR0ULATTRiIuzdxYkAr1elUaF+HPLxDy/xBOWVX1G729+zwnxAG6bqEwy6x73KUs5ARopcmO60Rj5X0Drzc8RnquqlCNjade+38zEgUWydV3s3oPtvmvB5uA6kJKGzxYtAbx+kygzMltzshAXxVSMzQkXYW2lS2H4tE2+/l1d6Ug==;hOT6xYY14UjWadaTkayaUg=="
 ---

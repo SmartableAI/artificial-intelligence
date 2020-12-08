@@ -35,7 +35,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg"
         width: 360
@@ -105,10 +105,10 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T05:41:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T04:52:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -263,6 +263,31 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
+    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-08T19:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "A day after selling self-driving unit, Uber's offloading air taxi wing to Joby Aviation"
+    excerpt: "The Joby Aviation deal is very much along the same lines as one announced Monday where Uber agreed to sell its self-driving vehicle business to autonomous driving unicorn Aurora Innovation, while also investing in and partnering with it."
+    publishedDateTime: 2020-12-08T19:27:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/08/uber-selling-air-taxi-business-to-joby-aviation.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/08/uber-selling-air-taxi-business-to-joby-aviation.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/08/uber-selling-air-taxi-business-to-joby-aviation.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
   - title: "Aurora acquires Uber's self-driving division"
     excerpt: "Uber will offload its self-driving technology division known as Uber Advanced Technology Group to Aurora, the two companies said in a joint statement Monday. Uber will also invest $400 million in Aurora as part of the deal."
     publishedDateTime: 2020-12-08T15:00:00Z

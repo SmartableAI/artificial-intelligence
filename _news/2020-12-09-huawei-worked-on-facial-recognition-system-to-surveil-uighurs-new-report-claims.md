@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uigh
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
 type: article
 quality: 99
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Huawei Tested Facial Recognition System That Identifies Uighurs, Report Claims"
+    excerpt: "Human rights groups say the Chinese government has deployed a network of invasive surveillance technologies to track the Muslim ethnic group in the country."
+    publishedDateTime: 2020-12-08T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcfef0de1a692d0d7afa0fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D244%26cropY2%3D3754"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Huawei tested AI software that could recognize Uighur minorities and alert police, report says"
     excerpt: "An internal report shows how the face-scanning system could trigger a “Uighur alarm” if it detects someone resembling a member of the Uighur minority group, sparking concerns that the software could further fuel China’s brutal government crackdown."
     publishedDateTime: 2020-12-08T15:36:00Z
@@ -79,7 +93,23 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Huawei tests facial recognition system to track ethnic minorities, send 'Uighur alerts' to Chinese authorities"
+    excerpt: "It shows how \"terrifying\" and \"totally normalised\" the discriminatory technology has become, a video surveillance expert says."
+    publishedDateTime: 2020-12-08T22:38:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2020/12/huawei-tests-facial-recognition-system-to-track-ethnic-minorities-send-uighur-alerts-to-chinese-authorities.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2020/12/huawei-tests-facial-recognition-system-to-track-ethnic-minorities-send-uighur-alerts-to-chinese-authorities.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2020/12/huawei-tests-facial-recognition-system-to-track-ethnic-minorities-send-uighur-alerts-to-chinese-authorities.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 39
+    images:
+      - url: "https://www.newshub.co.nz/home/world/2020/08/uighur-model-s-texts-video-sent-from-inside-chinese-detention-system-released-by-family/_jcr_content/par/image.dynimg.768.q75.jpg/v1596671492969/BBC-GHAPPAR-FAMILY-merdan-ghappar-handcuffed-china-facility-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
 
-secured: "+SwbhzgT9v2muB+lMxcIBj4PUtiNb0734ChZO3kfKD6tQte09MEbZhpPzbRKoGmYXoghR7m157qffvAqSBjhZCUvHgCLrYkL4P2eNLpge6MnIYSfmIOje1/MF/rPCc4yLAdjoxDsrxbWIjodBeFyosafUCzVr6a4JUfKOlF1vE7PCiDAAoJSeMa+Mos5KBYIkeH0SEwGGkbxIBMzQLd8RNzDbAH0Nvo4pSavNmMJaF1w/5LUFxBoDSVdCoc1r8HAgVT7gx2yFmREMNaowsJ40475mBrK9roFkMOUoXyaC7SlYo0qEdYeKSoOdgmmtnhFdcff6+FvhtVBZLiIKIay0bJ1/+bo2pB7N37r+L57W90=;/z20cQvwDoJn9aedmdpoZg=="
+secured: "NGHyTwpsmDYc9HCiCmlUhkPmCqOeDuRnqCM9cCm1XgBv8YyfrjBV6y9bBUKlVOGaUnOVuA7CCMosgbxi/O7icm5vG//aXv9mOlraAskEhAqvUxCaqNuCpom9UckeCT+o+GJjhc8uEPpxSc06KJzt2kt4/cssdK9ogna1J9c2o2idCM9hJM4qK35qlS5NNo1TyKNt39/VwsgRnPg0pMlY1OEm+XripBT20ak8nxaUQ7xuGxYNEDjYmPahimRsy5M7Bgd2G4egLQ7eBYA8bLB7KIqFzpg1iO55htdZUJN0kE1316mnIo5RahNplCcP5rmvauR10JeOSzZYL9EEAxzj92G54Q4eXeRQMMJiRsrnI8gSxzMei0uXk2uZHa/AjIg4vN6ws+mE3d5s6FCMUIgTRSeKLxztwWlyBdQqYT91hM/6+1vi4Eamh1PWr6gbAq+WHMI17XdulR6XET2iMbY5fJghdYCELviR9JmPYJoxX1AtTZJ6XOoE+Cn9YCDAIc4bdfaqf2QARvAeNPtc7ojyyw==;oJmonO/yea+nNf97/+WHmg=="
 ---
 

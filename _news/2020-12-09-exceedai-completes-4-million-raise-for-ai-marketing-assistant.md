@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/exceed-ai-completes-4-million-r
 webUrl: "https://www.insidermonkey.com/blog/exceed-ai-completes-4-million-raise-for-ai-marketing-assistant-897966/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 658
     isCached: true
 
-secured: "rTjmHYUCyKx+TkuxBksdrxmFAEQwWD7GovrM9bHQVU6pC3SUxXNxKTKDLRW0tlKPVT8UNC8i73fSom+AL4EHJyRlSepM7dDNTtV4ijnl2Dq1qIe0ShnMOd7oSHFI0e9jNB7ZRqOQlzxcbhM0hHX8a+4S2ElcrfMbLYG+gv4IU032pQKPXMuYlt0Ud/NZDEA8htujOXGuax1YmcrjzTHsH1RFxR2g1oL76RuHzgp+H0HVwdgqac3dzr0Bct6No8KrX3G10EKB2+BFlRC7EfrPkjELrQAPIBuhU1rOZkllmviWVaDe4t714sEXS4AanifUpM4X/ZuOuMt2FlCZ0QxH2b8v+BaNeRZm/EIKf2yqU4Q=;RUmoUc0Y8UNua9oCxSrkVA=="
+related:
+  - title: "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion"
+    excerpt: "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,"
+    publishedDateTime: 2020-12-08T21:43:00Z
+    webUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/"
+    ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 73
+    images:
+      - url: "https://www.geektime.com/content/images/2020/12/pasted-image-0.png"
+        width: 1077
+        height: 658
+        isCached: true
+
+secured: "qdB8N/bkl+dn1Iu0VyqJS7pNIHmPL3QCF2cyFrlKUog5GE5AaFnnhgZpElGYjQw5Id97zczW0seA5sEQDQTz3raRa69xjM0jvc/V/jzuebxPrajXYaNWYpwbkKt3bEKH2CiSzik6SuhbGP8xA03fY+Q/2d9HLBLUzX8Nsa6CCyN5Ivsy8sRJSK9saUiuvYZ9RQtq9SndPQQ9gfJ6YO0H8cu45/mOaKYdzkQheh0A7W+DL2iCAm+OpmPgc8iIDHkqKXitNnjHUf6TQwboj/00TxrYuzampdENS3vKQJrIWtObr03WzmfWx5fahLrw2qLSTBwEqcwwEjGdpuEwN3Qq4MSUM3XkmudkPrsY7mdZNNFIi2zeOtWACmW1FwGZlb4rz16595laAkcCPJIosOTp+uFhfdXczdjFrfEpQUKcRbQi1ahfLZONrfQpICDJdcurrK7Nw0RtlDrbBzCMSj7pe0bFioWObuqufE9dh6y5+BdmN/MFR0beSiFIEsupvJ186thEsKV2DOBiGrmmACbIGg==;dPMje752mMLUEKeCUAiDYQ=="
 ---
 

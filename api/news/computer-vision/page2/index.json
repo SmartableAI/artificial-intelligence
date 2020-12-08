@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-24-houston-airports-add-facial-recognition-tech-to-arrival-process.md",
+      "title": "Houston Airports Add Facial Recognition Tech to Arrival Process",
+      "excerpt": "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_530657836.jpg",
+          "width": 940,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
+      "publishedDateTime": "2020-11-23T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-facial-recognition-software-is-learning-to-identify-bear-and-cow-faces.md",
       "title": "Facial recognition software is learning to identify bear and cow faces",
       "excerpt": "Nowadays almost everyone uses facial recognition in some form or another -- maybe it's to get into your iPhone, or when social media platforms suggest tags in photos. But if you thought humans had the monopoly on facial recognition software, think again.",
@@ -1327,58 +1370,6 @@
       "ampWebUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
       "publishedDateTime": "2020-11-11T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-training-facial-recognition-on-some-new-furry-friends-bears.md",
-      "title": "Training Facial Recognition on Some New Furry Friends: Bears",
-      "excerpt": "Mr. Miller said. Could artificial intelligence used for face recognition be harnessed to discern one bear face from another? At Knight Inlet in British Columbia, Canada, Melanie Clapham was pondering the same question. Dr. Clapham, a postdoctoral ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/science/11SCI-AI-BEARS/11SCI-AI-BEARS-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
-      "publishedDateTime": "2020-11-11T10:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",

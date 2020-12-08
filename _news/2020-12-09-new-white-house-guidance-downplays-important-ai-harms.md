@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brookings.edu/blog/techtank/2020/12/08/new-white-house-g
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2020/12/08/new-white-house-guidance-downplays-important-ai-harms/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 4200
     height: 2800
     isCached: true
+
+related:
+  - title: "White House AI Order Sparks New Federal Use Policies"
+    excerpt: "President Trump signed an executive order (EO) on Dec. 3 that sets forth guidelines for the use of artificial intelligence (AI) technologies for Federal civilian agencies, and a roadmap to implementing those guidelines that will out-last the current administration set to depart on January 20."
+    publishedDateTime: 2020-12-04T20:46:00Z
+    webUrl: "https://www.meritalk.com/articles/white-house-ai-order-sparks-new-federal-use-policies/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "6fpHCNpuPysYIqEkICGhtX05VurXCesKDqNeF5+UcsZx9qViGKJqE05igAIqwedsSyKtTmcQ/zPkkDBGqiukSYG9dunzyZfiqgPUjE0eKqTgplgFnabyZNs7xDjBFntLVLHJgoNDtcSlwDAfTyf+rLUZlfVz+oLpCovSFQHit36ClmIQJZWxFn658vnJT5K1+lfuu/TlWiRZa8QAvEa6FT52oIDgE/aUJbTXa7Qu5sAjJbetEfqP9WBltZwByi1m4wL2Sr0QUZL0GxuueEkUTocPdiWtk34Gh0+3Ozo6IBA7mK6ZryDvwYOTPyoGfV85M8oj7vOZDcOeNWwfr9Tf6JMUr4iFVQreRvWQlPl/0bg=;NJrQWojB7aZRtgcOObvuSQ=="
 ---

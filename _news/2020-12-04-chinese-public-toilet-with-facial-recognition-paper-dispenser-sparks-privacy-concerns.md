@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Privacy, Civil Rights Groups Plan Facial Recognition Offensive"
+    excerpt: "A new administration — as well as swirling national debate about the biometric technology — is behind a push to get lawmakers to re-examine its use in policing and the challenges it presents to privacy and equity."
+    publishedDateTime: 2020-12-08T21:40:00Z
+    webUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html"
+    ampWebUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
+    images:
+      - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
+        width: 944
+        height: 630
+        isCached: true
 
 secured: "MggfIWGr6GgOtABWaCamDKsuBtyLgDHYoFJtc983EwR/zEEeMrm0M6lYyzm4rMpg6yM9PcGpOPKGJpVexOHrjPE6NNQhWB1N1q2dRDv371yJ+BOaCcLxLqARE+3ffayjLRkwePGtwCpnuP1vN7vRCb283TbSWA/sMYjtWmzLfmhBcHnFboOefqyF6VSuj8dnlK6Mq6QHrwx0WBGDJkVALgaM6CWMBvURtNsogTXp4Pmv/tgWivpb6kPo7994nJW5u3pgSNLdwH3TkT3JQFKEbHcCvWiTqXas1rv6ymIyQayt+5aWf5GJQxAyiJG2cWchKeRfPmKJkqpINnPe9dzF6v5rYoJKTwXx17OAGou3BA8=;O3xdAbUk3ZLME1wzj2crfw=="
 ---

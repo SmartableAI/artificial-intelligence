@@ -3,8 +3,8 @@ category: news
 title: "Uber abandons effort to develop own self-driving vehicle"
 excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle."
 publishedDateTime: 2020-12-08T10:47:00Z
-originalUrl: "https://www.bizjournals.com/charlotte/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
-webUrl: "https://www.bizjournals.com/charlotte/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+originalUrl: "https://www.bizjournals.com/washington/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+webUrl: "https://www.bizjournals.com/washington/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
 type: article
 quality: 4
 heat: -1
@@ -94,6 +94,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Aurora Innovation Buys Uber's Self-Driving Car Unit For $4 Billion"
+    excerpt: "Dec 08, 2020 (Baystreet.ca via COMTEX) -- Uber's (NYSE:UBER) self-driving unit, Advanced Technologies Group (ATG), is being acquired by start-up"
+    publishedDateTime: 2020-12-08T22:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aurora-innovation-buys-ubers-self-driving-car-unit-for-4-billion-2020-12-08-8197309"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Full interview with Uber CEO and Aurora CEO on sale of self-driving unit"
     excerpt: "Uber's self-driving unit, Advanced Technologies Group (ATG), is being acquired by its start-up competitor Aurora Innovation, the companies announced Monday. The deal, expected to close in the first quarter of 2021,"
     publishedDateTime: 2020-12-08T14:45:00Z
@@ -347,6 +361,6 @@ related:
         height: 450
         isCached: true
 
-secured: "U+Ut/ZIzOijZ1tgIaeciHC0rpBqj05iB1q/BCvOTJbkjJAbRhDoBHo0K0yVpWi/Ad7sdHIufYrTJKkVvnohZh6dLfPp+QBoLCgrfshoN+XljoR3hV8rEk/FMostdAkejUnAvbRvIuFf2DRg+zJarWMAomZljiEWOpklgzgQhOUCnfhEO4QerBfbpjsaQ+16hYOKSuhBcIBBGjl5hQtZkBP+3RxkDl4kjR03Dmei7bZwGqRWXxwNlbh6mfvT9wQeeHJz2VBRQBFvjCfHdzdPta+EdSHds0P8aZRCljWe0JY+XMMsOv+cR6H52yHCOFnJil8fVYm/g+6gNpG6EDx1d+rh9yRnRasxYoA48Mt6DBkqXdtVyug9IBkCja7RLDpy8NDmugdKl9Zfat5XznXSV3HKzypuTxYZs2IaIsyRmvOzUlQhE8f4Rc2HkCCHvNA3JI5oGQLgaYKzsOflo9MWL229dxO52jYmS+AcRlTHsbAzwQW4PBZ4UiOuPBamYJlTqKymMq4FCs4QKrF6igdT4Xw==;XYQhpDAWvx5yewTdyUU2Lw=="
+secured: "59Ijc8CMOyRAwnVJ0xf0mAPyayHTFjkGzxzXBxPrr4tS0Lk+JOuvzxJn//ppDnShaCKdwnrwzV1bv+ljM3pUGKdUmIo/R/bEpwu+uGC80I+FdHIJoozdGN2sV/Ywks+EP4f9VOeiHfk9o4nCn1yOsJrd1qRrxxfqjbqfluOgIrG+9SzEhtXPIZlt+BUqqqKMWkfWiY1IoDmji6YS8+ImF//7eyHLjhVwgU9LlmDv16WVBhNeHM0KwmPwutC/amAtLVSFsv3plY9DBnmHVQN0tcxYghtkX0470XAJaWIyBkkZs+mk7D04s9w3v2LIUf5UYshePs5gD1ALTYsbmJXF3qpkVcNGPfKLbNbuemt/p/wOiwNb5APpS55d+AUFDBAZss4f9hdO3sWlyNrQq0LduecJrwTkqgrfuouq0oyFppkEb1UUQKeahpn4UgKBDKqmDCXafimoMsFX3O0xqV1m2BRVtSrU5raHifX1fGaPA8wqgTHqtZ2xGJW0R5+rS900ssW972QhApX3Bz1CW4HJNA==;d+Vvivg4urzCc8iIp3G1yg=="
 ---
 

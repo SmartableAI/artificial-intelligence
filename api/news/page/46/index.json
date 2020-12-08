@@ -2,6 +2,241 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
+      "title": "AWS launches next-gen GPU instances for machine learning",
+      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
+      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-how-the-2020-election-could-impact-us-initiatives-to-address-algorithmic-bias.md",
+      "title": "How the 2020 election could impact US initiatives to address algorithmic bias",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Although AI algorithms ... including Facebook, Twitter, and Zoom ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-2020-election-could-impact-ai-bias-policy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/how-2020-election-could-impact-ai-bias-policy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ee137ac3f73700d4a30a7f3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
+      "title": "Brainome launches product to optimize machine learning development process",
+      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "publishedDateTime": "2020-11-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
+      "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
+      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-covid-19-has-accelerated-digital-transformation-with-ai-playing-a-key-role.md",
+      "title": "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role",
+      "excerpt": "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
+      "publishedDateTime": "2020-11-04T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-microprocessor-and-gpu-market-worth-1382-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality,",
@@ -944,239 +1179,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-cops-used-previously-undisclosed-facial-recognition-system-to-identify-protestor-accused-of-assault.md",
-      "title": "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault",
-      "excerpt": "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806",
-      "originalUrl": "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yjypjxtf9ngcamplpfpi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp",
-      "publishedDateTime": "2020-11-03T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point.md",
-      "title": "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point",
-      "excerpt": "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa19f6ab1b1b304006898b3%2F0x0.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
-      "publishedDateTime": "2020-11-03T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-google-wins-new-patent-that-would-sport-automatic-object-recognition-in-videos.md",
-      "title": "Google wins new patent that would sport automatic object recognition in videos",
-      "excerpt": "Google have previously taken out a patent that would see the Mountain View-based company capable of identifying faces in YouTube videos, but now they've gone a step further by securing a patent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/2/5/25565_02_google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos.jpg",
-          "width": 600,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
-      "publishedDateTime": "2020-11-03T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-google-acquires-deepmind-an-ai-development-company-for-400-million.md",
-      "title": "Google acquires Deepmind, an AI development company for $400 million",
-      "excerpt": "Google has reportedly purchased Deepmind, a company specializing in Artificial Intelligence based out of London, England. The purchase is worth a reported $400 million USD, although that figure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/3/5/35093_1_google_acquires_deepmind_an_ai_development_company_for_400_million_full.jpg",
-          "width": 800,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
-      "publishedDateTime": "2020-11-03T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-artificial-intelligence-creates-a-bad-christmas-song.md",
-      "title": "Artificial intelligence creates a (bad) Christmas song",
-      "excerpt": "The \"neural karaoke\" project from the University of Toronto is a demonstration of what artificial intelligence ... day be able to drive around in her self-driving car while she schedules an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/5/5/55272_01_artificial-intelligence-creates-bad-christmas-song_full.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/55272/artificial-intelligence-creates-bad-christmas-song/amp.html",
-      "publishedDateTime": "2020-11-03T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
