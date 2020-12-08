@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
+    excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
+    publishedDateTime: 2020-12-07T23:03:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6482467002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6482467002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "92VeomVu9aHuPi3CJV+E1Xs0FEtX/Bd2CNc9iQEv8Sh9PZK8212bY+a9bHzKJxj2Y7ISrfV17G2h0UBplvhCOyE4oHj/VWWJCGmUxz9MI3vbpW5vx9cLhGT5HD9dzByFMFwGuDussV7iewhyzJOY4bYa4qWDEW3M1bRILnrvs+Mv7QnF5p37gTYE+eunwPHBowWyQUeyKi8M4Kd7tCPJbv0Rzdf/zMyl3od63tZCkoXOusjWDdeV6wtYrVOVJSV7Ymu2YPcrNVDM88kG3Quu+PUKG6UxXoaCsPvQFnrp53nia/Wx+siLBMROjbmdPGG3Il+QygGn6mhF1zNNm/SYivY0qlqwgtoRSkaH/4CRjIkJ0FmNmTep6ZrzGofMAPfnH5MXxLx66B4ggpJbJu049A6lLeJ9tpgEqKkpHLHyyqsUf4cKuDtn0f1NaiFl/Cr3UQdWbUYBoUsQhLqXG81QcqHkPvubGSvULVSeGuuCNIDKwLiPfyPdnbMmDOgWaoU3IWMkKp7Cf9KAxahk5gCfvg==;AhzuswRmwcN1MG6l2pJ4gQ=="
 ---

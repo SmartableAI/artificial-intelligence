@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/siemens-smart-infrastruc
 webUrl: "https://www.marketwatch.com/press-release/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments-2020-12-03"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AWS Announces Plans to Open Second Region in Australia"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
+    publishedDateTime: 2020-12-07T17:13:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201207005969/aws-announces-plans-to-open-second-region-in-australia"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "vn/6N/VH3NDr4pd6PHTpt1LkYd7Ugr6dIW1zsZElVytNVqn0eyEjdM25OOXOsS4/ZVPSbm+lKAwHpz6ibBjX809EDxqqohq4+jXEj1h1MSrJ2QJ8EUyhXktv34VfsODR4yT0OAJmTFSIkqj+Fs5+Swe2FW9qD2KbV7MzTyrGqOWlUlNqWQiAJTT9PSTxlDHa9SaSifMhuMLcfSPRROTG7J30YTq2G710h9M3xGZp+XmKccCefHJPkbxGvEhvbCYgykDD9cNF2ffBjPS8DVKaf1B1OQW7Mjs81U5iTzursMhSsCiz0EyqvpyJzFJUWcEzHPtq9SJcevUGH0aVy2OGhMb+0KzmgrpFOPjs+85IrXk=;5TnexbKkYoxNfkw55TclBw=="
 ---

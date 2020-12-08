@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-releases-new-benchmar
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-releases-new-benchmarks-progress-on-loihi-neuromorphic-computing-chip/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Breeding neuromorphic networks for fun and profit: The new reproductive science"
+    excerpt: "The most expedient way to produce the algorithms you need for a new class of computer that works like the brain, its engineers are discovering, is through a Darwinian exercise in natural selection."
+    publishedDateTime: 2020-12-08T00:49:00Z
+    webUrl: "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 70
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/03/60022ec6-a5ae-46f8-bf4f-e2249e59ba3c/190226-neuromorphic-12-12x9.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "L3HluJ4zmVfzTo0S6WXTAR9Dw5WYaPMPEFuEHZFbHcfIm4HRuuGA93IxwnE77sCx6c6D4MLwQOEaWGZne2VKCPnX5k7vsmE941g3ogx4w9VI8FFvZWDzz8hR5odddumoDYgUSCiXqlgjRx1opVvOcTEtO/6AUJakHzGSuCN0NYqDqPpQ6YqbmlWzMLTDvtFeaihXWTd85C9hkmOLQRNo40LTyb3+XmuHzMAxZcQiKg39QjZnuqATpJ/47QavgPZ8yd01IJOqnNRqO0DxpYtSLCZa/oSTIqodakqkd4UlQWnPVpvFSDggJ9370K1MrnCUvavsa9jBsAq41mJwIqrvSRPlST1t2TNpFEslYo7D0dsi//1nCcRCr1WSCYaZRTKojrJ7Lek4yd3/5JXmbIMKGy9YI4BU9SMQS9f2OZXvuaHUKcv8Rz4gTa+AMA+y23NNl78+1vNg+GKTWeFKMh9bvkGPXVLig9AJRqCRA9cYAaiIHUwlWrm8+sKzow8yzmQvZS1ZFwqn+TgYMsM3MbsGxg==;hfhchLY++ZmK8HRVXNWHZQ=="

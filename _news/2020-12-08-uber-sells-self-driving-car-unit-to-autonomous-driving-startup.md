@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
-excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-publishedDateTime: 2020-12-07T22:47:00Z
-originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
-webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
+title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
+excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+publishedDateTime: 2020-12-08T00:33:00Z
+originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 type: article
@@ -105,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BQp3bR16W49udTvMxBctDfrqyf4K2OtEhyKg7LvWiuA6WgYKaOowVqo8wnqIh03NlOwIaf6EpKvqX9jPajJnEkCpcVL75jG1Z73Z2JHSnQ/N4KDFe7X2bBtYTPTftqTBRCT1tiR6TGZ4xg1axGy4sHoY+YiHcqUozlhMcSDfxaLd8lQGaAOyJLZzhpCwdXDYmsAjXNgHJFdUPT9R9LKBAxswV5Oa0dQoaigSTmDUJkux8F5512KCJqiSQ+3NgsJh+mULuERsec/NIwgcSi8UzMEc4bVnyssUWvAZQUfXtY5S6Z5iGyRWLbbkwRaf+yBl2F8hetLLZRtYBxBxNUuhsmsw1ssykn/6TKlxImQmZH4=;LLh5uOQtwnY/ZUNnOlYJXw=="
+secured: "rL95hZHH+wXQhHkTZE7ipNa4NyxVTo7SBwStLCXOPb/oUHoepySro5nCyYsEXYXbVhD6KIU0ERhpfsE8/SZw7iqNx2kj9EInUxQ6eVTx7mEjXuUtDtiMV/p/JmUkfRQQ9AzGCY5Dp9W50fbJZuJhEonyVZMS63J+wvAL99cfsO+cShdZhA5fbWww4HrBHrHkkkARZzA3hUHzkVNo712nU9yD4fMZSt61COthNDlrtDrPiBuPOve0Tkoab0Z9lNLHCnBAHZfR47xsug/Pi0cqRXAMfHahG9xcRxG9LXolhaDUlclF09/FG4uAu0GA3jY6ZUI+KY8UpNDsKfpdL1cDczjKdNn55BYMrWlu1cF/11U=;wz2jvJGtDvtRnNpHATyStQ=="
 ---
 

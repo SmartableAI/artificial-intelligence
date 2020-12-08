@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcea9ea964f1397d45a037c%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 960
     isCached: true
 
-secured: "YyTHKoecJTW5636w+tr0cW7SDT0GUWOgTy2wRkuT3d36DtpfWXsLoV23fHqipEVGZG8buGaa/FD9T2oJ8BQ6x+DRcmrgxKzJA6hF2elcz6L2tNUKuzhE6s+7Ihx3eKITsPhJkirm2nfyN+nPWIRYungoGEGrSn3ja4NbgqkIRRp9ocx6w87kL9kRl1GfpjXegia+kKl1SYa0VGUjJmPqEJeTV1DUw7FOsMvvp9yJt5jFBLJg2ICVUQO5sfR5ooAzNjNeVUbf5CImopZpvmGT5JR9nmx6eGptaZWxgmSkQsyUBgQ98EndxKvuPUi2N6KaSat3WdmvWNoi6TRQiKljpuqXbleJfRUs/RRW26i7tBw=;orbxPbJG8LosKdJE6kTnyQ=="
+secured: "yQbNm/E55EK7IRn/JXo8QcJWH5KeQXKokJW4SixuWf/2vRWmFYpjU1z3rGYHf5Ktfs/8wTaL3DTDHXcvi5VlZ6fF3uqfO8Z08ynkbN9pKO4yvpRHh8lqwkHCSKaA7bzyfGPMgFoKNmZV6KKMxGa0n1KAkDV6XQYGl2mF/LlwykyPocP1JER9ZeEriWvIiSmKU6StUv3AiALdth8yemWRhAYoVcfm5FQpOBoStiYMMcTpyxwVG1EEEJNvsFWbyDxWHaxJ6b24GK1JlIRwSjVfTjdYBITCXGfgYPIUxdzBADmGGbUfaZdjY2brOiHh7y9O02zL799czgOkiP6HrtQkxg0Fi32H+qfGwpC9Q1dy4aHFmfzr7s5h4tVfdhZBcpTS5Bk+dKIxwIAJDWV7V1yxif8STt/KevmS9zMQKq0yhuT25J+1IMQJTxDTx1DeuTwM3uLoGBt14KSdKBcffpWVJ/zpyb6pCCOqk44mgB5Kg51eaUbG9zSZDut0l2ZWQ7hfOzoiiHdZu2Sn6naykZ306Q==;icUPKxmVhblLjBqvHgbDyg=="
 ---
 

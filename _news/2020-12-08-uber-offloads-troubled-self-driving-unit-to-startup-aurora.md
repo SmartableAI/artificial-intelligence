@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber sells ATG self-driving business to Aurora at $4 billion"
+    excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
+    publishedDateTime: 2020-12-07T23:56:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2RX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2RX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61JR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Uber Nears Deal To Sell Self-Driving Air Taxi Unit To Joby: Axios"
     excerpt: "Uber Technologies Inc (NYSE: UBER) is nearing a sale of its air taxi business segment, according to Axios. The discussions with California-based aerospace startup"
     publishedDateTime: 2020-12-03T21:04:00Z
@@ -180,6 +196,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Amazon-backed Aurora is buying Uber's self-driving unit despite its terrible reputation. Its CEO explains why he sees value in the troubled program."
+    excerpt: "In exchange for Uber ATG and $400 million, Aurora CEO Chris Urmson said the startup will give Uber a 26% stake and a seat on its board of directors."
+    publishedDateTime: 2020-12-08T00:05:00Z
+    webUrl: "https://www.businessinsider.com/aurora-ceo-chris-urmson-explains-buying-uber-atg-self-driving-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Aurora confirms deal to acquire Uber's self-driving unit"
     excerpt: "Pittsburgh-based Aurora will acquire Uber’s Pittsburgh-based self-driving vehicle unit, pushing Aurora to a $10 billion valuation."
     publishedDateTime: 2020-12-07T21:04:00Z
@@ -217,6 +247,6 @@ related:
       domain: bizjournals.com
     quality: 21
 
-secured: "hRaKPhJ64FQ140ux2LB2P4oqis1EoBTGbcfJ7Nu+N2KyjiHCKRl6iIsJ1UlFlsQchkWGD7r/AbCjXIoY02N+Bg4slGqgYZc0TBcsjR0FeZ1EwdtbE62gmVJTOoPVxFrPSc6YDJwRy7gxf4oGpvgKBD3vnsIAXSlJHnnGBJQXb+4LzszAx1Ohsuwul/9txGysUM0YrwufZxhdftF6NQVKtah0fGmDuh1ActL+jXhOPfClKM0T9pahsZSxAYErUqrP0rgQFjtXYuUojjC7zWyw4u4xiolWNjUvS48BP1QTsfXxmL1zh5X9mq1rqA1cXRL7iN6gwU/rZZReroOoTRMxhXsdNsi5esKV+wcMTkgjrqY=;5E/UvjoU9qxlir6iMTdMcQ=="
+secured: "UvNWEfu4gseLLS7jBn3HpuZRjOgTZswoewZ2aqiCHHS10ZpCj47pV6seZoo5AzYuYj5wJ3R+MwAvRktGwJaZHbD8vHY1UeJB+7I2mFNceimuvRPq1mwUfVnih9W1p+6Ij+WrZNzItDRf4ldXkHvGABpnaR+uJDFAqFAsqqYdi+y3cexpsummV+VWEoodRGkdzbsyvXrnz0+iXVBsu7RUg3inGnsEsVz5UdJtXx5AK6HtDc/XiejMhvOSii64dNj8jBnbGcNBlQh8NWj9dzAuaZpy1NHJGZRlgSqv8lH3qlkD8GPvZVB54dfhRn2LZuoXr7s3iuz9y+9X4UOAzdnrBzNJnhnYKQSxa7zFVkQun/2TmY8MlGEkVxAK1LTZ9+JptByB6UhaGgr+0eNRUOQYldkVWsuAHdUJlyX4mWl+zg6mJS3p98ctWR+1EGwRnuSfIITuw1bvuJbOzhsFiCk5N3/e+BLkV/OLhTi3bKXGFrkhRb2MDxTFC7hxgwYV9PSHQJyJ3or3Q5U+afUliz5HFw==;KPMobXn4rft+xclxZbkrdA=="
 ---
 

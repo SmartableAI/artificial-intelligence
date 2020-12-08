@@ -47,10 +47,10 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-07T22:47:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
+  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T00:33:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -105,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zuaoV+OTQrSDJ6jMO9mn8DbG2VOVqftsp0Ja3UQSS/5j0wN2K/buBnPTrF+MEGwduAg5gQpPfLTPT2Z1ROMCKQa5ZeZvLfdUB4mCSKaBdj0DTbitv2UAU482OxXJoKFdtzDQ1bPbJR0zWwe8tzxgPWLPJpqX+DkBnwHCP5m1OMPCBk9pGBk9r7Ceny8RjI9tJROxexDfBTnbxJq9safpK7AO1kKvB0y/jf4PLYjVnb3uWp07+Lq2RdXJyog7Sa4mLS8ui7ZefgX7Rs/ZoehEKqE0Ubbvd9zwbAIR+M63Tm4+XYJZkE7aLE08GN/ZvX/l0IG1RqthMwZA+MNZArKk0YvQPL84lKGIx8KKvMUu9/s=;OJoT19UDxBzPdu+NJ2q1lA=="
+secured: "XPhznbAet4X4ca3D4NeBgXULWRXyHYMlPRbhOf870GeFs2t0Sq8IM76PjX177SkWBCuG3GAl7muI/DLzPAUJdk8tRjpq80CU1TnkNsjXjFV0KKRMVlXNEp4ShXx7tptacmLy7fk+w1iSJ1xYGQHrJM7q50t8KrNw0Ztb9DOR5yn9XGU03tfzOx98xa7g76zg992qczJy68upzZc6C1kRMCzvqvA/m39dKuXr0zLZh0MTTqTqNa0mfU0Ut6nKoNtE0U7lEDb/cTf+IJrVaVdhcm/Nf93zUdHwVx8oU9B3zHOt74v3+zMYstewvm5rrBgWFOpKYeNiKfWJJrIOP/t1vklPjxdhynT8buVFkY2ZkMPCyQWf8IsD9Axd3+1S+c+QyjG5QdiR+86SWcDGH2cgQhgCiZ1Y+mmsMF/qxu/iqoYzSHqDtl034dzZFTtmuTe/Osem+PasxtO1wN2BCrHSY0q8nFhyVtHN3FN/AA04cYueks4kxPDWhYRzWV7d96WskuzL3nTje9SzQ/3WmxXE9g==;iCZZnjd3erwL4hz04lUg0A=="
 ---
 

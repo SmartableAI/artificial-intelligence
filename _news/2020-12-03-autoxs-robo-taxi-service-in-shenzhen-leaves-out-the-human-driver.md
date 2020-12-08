@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc8a0d2f52c2bbdc27a5f2e%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Self-driving robotaxis are taking off in China"
-    excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
-    publishedDateTime: 2020-12-03T08:52:00Z
-    webUrl: "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "gh+NtDLmcnSjh3oRRwuZBE+EWfG8R6N84Pg6VnGBlpLSk7q88gGdGGcZPfj42xZQdizJGjF8k7FYS/dkjCBNYnmRfV6oX18cRWNRSxMUcLPeaEmhWd0m2S4+Nh7VOgs2A0/0D+ww3R3SIs3X7Q/JG25/oAVUrUORKb3LmbfyZm8hzoxHZD/HaTKsr3icREht4Mdb+Jrtpm1qReQeqo+3FNyztVotTtVkJWDTYqHQxAwLaX6i7FJsN7q92EcBJgnLYLIP1py9Q/i6FgafIGQKL1bzGb6OYNGwnHUId6UBSU4IeNyh0p0X/x+ZKsAv1kjby6Y3GTDOpjN1WLgICIR5P7GgczMlg/iA21GWgGGCuq1rQeBmOhGD7z4Uts5cAfT2dF2rd1bjU/4+v0nqnYz6uAyGYJkKc44xiWuCRCT91yE3CjwcFhvHlHvEuRqPXqMDmdJe/8pFUElRg/i5bTJus7B5PJDHElSIFm7s5s/qbtK2UZ+AgXbA9TQ1fBXsw+pdtWRIt3q1L/afnT4MGLXFaA==;25xrVtBDQMpWwZpQYSLpaQ=="

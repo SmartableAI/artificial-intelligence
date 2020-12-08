@@ -116,34 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
-    excerpt: "This “ Artificial Intelligence Market ” research report delivers various aspects of industry including market growth projections, developments strategy, and prevailing dynamics. The report includes in-depth insights of Artificial Intelligence market size,"
-    publishedDateTime: 2020-12-03T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size 2020 Future Analysis by Growth Segments, Opportunities and Challenges, Forecast to 2026"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Natural Language Processing"
-    publishedDateTime: 2020-12-03T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-future-analysis-by-growth-segments-opportunities-and-challenges-forecast-to-2026-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2020-12-07T13:36:00Z

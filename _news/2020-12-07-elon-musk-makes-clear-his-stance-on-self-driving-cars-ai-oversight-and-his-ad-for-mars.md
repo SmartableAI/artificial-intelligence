@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artif
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://i.insider.com/5f7f581be4029f0018760573?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
+    excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
+    publishedDateTime: 2020-12-07T23:03:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6482467002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6482467002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
     excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
