@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-    publishedDateTime: 2020-12-04T04:03:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
-        width: 1200
-        height: 741
-        isCached: true
   - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
     excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
     publishedDateTime: 2020-12-07T15:59:46Z
@@ -167,6 +151,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "Iz45Anyajx3982Tl7unWM3NK78tJid65olOhJJD5IXUU2UTrNBCyiDm0T9X1ExvJRK3FBNMruX3NXuQBq35EpZMMPCuUEXZRGqSGv1HFRd5wm05EWhSZ55qKblysiv9EcWwQmmFVSd2yrBvDbyydK7e+5ewQtkKdyeVQcl5gE3fUGVjlRmrSv2vE8fKEruzJvHaXi3jpebWGmvCc1SMFeUaoMmDo/Taq1Kkb4c1mLN0s4maJHgZ0FRwGrD8eM1cYDl/RnWyFH4pdsLOlAiQRJgJuhIVThimjXRzDxPAbd+D8bp36baUakPqyO+WAGuEchtaqE5MUy58/WRVjstkdpFLWTZe88BYD5vq6FF3C6UA=;Ve1TIbSPjxoascV53MI+Kg=="
+secured: "Y4g3wWZ8U6gkX6AhvNGoJlIRrw6cYIbrwNpUnTC7v0gqbhAY9pcYySxdNNoz841R5OhlcoDSaqQuF0e3WE7OcZVF/zKwiDKOFvIdvCH1b0jGyt1W99wUJaAdRo76o0in1pAJGi4t68U4cK6lkH21xUK/J7NfiTHixWE6IPqXapN7X7H438d/8HGhT8h9xcakCD8eKjr46y5i/KtXK3vSJIBnj8QTW5qQfZsi5KkzXvGPjgbN3DSui6jO+i2C5jPtvptOFOJwagtGxWu9V8ErS5e4OdmIsCDfBMiJiNBfmQzVHMqyNm3bbNvEnPX/ofEZf8GNKi320Y/vHrQvtT5i4800Sm13NuJJ3u8HkUPUBWVm8mko/xGfsdgA56AatucIDQGBQlodAEsbaS7uJbZlbyWq6hg029hhDOeXcMFypci/fqywGzHB5+xZpzTuc5lyACKVNtOCRfEy83DOKdWwRhXoVGvYlekZoJv5iQT7NVQIrQbCyGafysRO7dCsguTOVd91s3TMNUVfa+yvVV/5Gg==;hZecTiEnpjrTvEi+6zltPg=="
 ---
 

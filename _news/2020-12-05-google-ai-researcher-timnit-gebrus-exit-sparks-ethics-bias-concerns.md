@@ -59,22 +59,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Google AI ethicist says she was fired because of an email"
-    excerpt: "Timnit Gebru, a co-leader of Google's Ethical Artificial Intelligence team, said late Wednesday that she'd been abruptly fired from the search giant over an email she sent to colleagues.  Gebru, a prominent AI researcher,"
-    publishedDateTime: 2020-12-04T04:10:00Z
-    webUrl: "https://www.cnet.com/news/google-ai-ethicist-says-she-was-fired-over-email/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-over-email/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-over-email/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/NRbhh9G4Y623_7Q5lbnFTCVARak=/1200x630/2020/12/03/14a3a964-d103-4c59-b0ad-0715ff21614d/gettyimages-1028811892.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Researchers are starting to refuse to review Google AI papers"
     excerpt: "Computer scientists are beginning to refuse to review Google AI papers until Google changes its stance on former ethics co-lead Timnit Gebru."
     publishedDateTime: 2020-12-07T19:01:00Z

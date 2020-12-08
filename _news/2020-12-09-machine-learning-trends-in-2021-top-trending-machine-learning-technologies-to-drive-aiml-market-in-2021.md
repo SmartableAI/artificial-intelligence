@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-08T18:03:00Z
 originalUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html"
 webUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg"
@@ -26,6 +27,6 @@ images:
     height: 265
     isCached: true
 
-secured: "8GfLBD6xibZ/GHY6OkUxJIlk4ONo3sD3sGH9liGEkkvxZTvNjtyg8Kvh5zJ96AYT66Qx1mHujT2s6dyD0Bw8qvGfeSGVJ4LlSZqZP9vhW7CZ/Fi+A2DdKklTi+eIY3jjqmQtr0LyeLL8vq/F62WOnV3e8XPLgt/9vL/ILn+kqeXm1t7FmPjyiz8JhokQvye/Oam2udD6P4Zd94WLmZ7RhF23pxDOD/I6WJSLBLTXM/RlbINrBD7BrAJMFFzBvHRYgX3D46/0O1ixjBxW7Q7xZ3uOoBfhihH+U20+G51orRwUs5d0Feb94TqdiaH3d6UmjWtRhP99+Enb1nHjSkuCAmTV4R+DPI+LXxMnJm3AcOc=;YrtzS7m3J8GGdukMGZ77vw=="
+secured: "X+2wIj3k+I5wuUCbsuXmZYNqsUFHVnFiSS+pNWSbqeJl9rkeKHSDBfoQU3O1i7ghB19LcxtPgszStNwG1XvMuTrBavNlT1vMGm0Tvat1XG/h58RWLFCzXKQq7sz21+uWH0Wv1TKRfkBK+hbYrpsRxkG0SqOnI+9IOjawYPJBmXwtJi9YhUZT7Vf23iA1qxMCJoCbc9JuK2wa5tJivzAlrKSeyqpGqPshubD5DMNzqDDCPKqLeRbMy0h9LaRq1cywNPEEuJtGrta8uf6fCGRd6w443VFqAM8PDjsRamy2cIQlm8L7Vsx2XhqKaM3BlLAOCHXhqPFXzh2O4lhSHMSbwQ6auijpeikxWHiDn35ABq+wvmooIc34i2t9Y222QZtVPsaJnlttQmGrXBK5S7lVfanjgFIQRZWPIkA+BYFpvIQsN/7HjTJm6nudr7MoulEpxP4jomkzuV/RetN8Ah8Ao6qipGxRcHIGaAEfPyPIrHo8dlIvNcdqBZjxdSvtVWQgo6MjW48YE4b+t3YzGXcR9w==;EEpl16Slix957JHEq+O3PA=="
 ---
 

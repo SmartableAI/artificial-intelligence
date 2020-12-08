@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/huawei-tested-face-recognition-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/huawei-tested-face-recognition-that-set-off-alarm-for-uighur-muslims-report/"
 type: article
 quality: 88
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei worked on facial recognition system to surveil Uighurs, new report claims"
+    excerpt: "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,"
+    publishedDateTime: 2020-12-08T19:34:00Z
+    webUrl: "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Huawei tested facial recognition that ID'd Uighur Muslims, set off alarm: report"
     excerpt: "The Chinese tech giant Huawei and artificial intelligence company Megvii developed and tested facial recognition software that triggered alerts whenever the technology detected Uighur Muslims, according to an internal document obtained by researcher IPVM and provided to The Washington Post."
     publishedDateTime: 2020-12-08T18:18:00Z
@@ -65,6 +81,6 @@ related:
         height: 960
         isCached: true
 
-secured: "M0K0ds05Q0CvtXqTyOnH4edtJJPHN6qnI4422kAS4pLfkvjc960S9EeJz0OhXPUOr2aEy1Z5ePKf0SgK5X3Yk5s971HH4jrVMr8zClrpPnHn975O52zkgIO6I+HNinvEIXzQOwdDHTMZ8qi83XqC2+i6ADnoBLbdyqJhZobBZT3M3xMow1NdDR18rz9xTh8GU0AW9GHR0gPOxu1egJwhvpXoKoChNBbWKS0ZNNLNTXAz5CVhCetmByhtxn+jEgowa21G7qWj3nk2GUUqc3evbo8jSBCnFTp/tfQzAXdOLhjs5qiCn8C+wD2mCAZxrpBtOSm+hJ1/wIQAT8koTV3PA7aeSthD1P/6nqSrMgmrMTo=;7C/WRr4n7tV0uN2IsQ7HxQ=="
+secured: "dYXwqWEJpLvazlWbgQf1d096W1//CIWol77/E8LfZNIqS8waLKQk4iElz3HYvrp6ZeHWTNNv7a5VO0xM/ADc7lB0BHUhvmzgEYocqBFAaC/EscYyXBefA6CgY11bbEE8SYiLaHI1n10KH2JT+nd2yvlZVhl1VAjCqciUXXArKsj36fhT8/Kz8zihUB5xWp/Ejxi/1jkA6Ke9ZpmtapmceZzVBjTuiJMsyAigoA6RQTLk8lCg3e+APaM+3ylTIV1JwwCXZG4bVHPloQvlEHEQtHjmDc8dZFGawShoIdC1PpUljrn+w1PGF4njgC9DPt/AWS/P1vCyKeB7XlWpCuzLYhwTBec8hpiiVQHAU9KNEJUgQdJUPcZtW5R/OGBWE853+nRxZdTx+dHZUnXIBIPlHCjW8NST3cstTswAVTNqvbPD11t5l04dlwhe2Qwl0Gqlw+HD5tn3C2o0Cr4jV1R053urrmHhZlOca3pFRkGgnfd5P2r8qqBuSFThbCWGFZWYjXEn8kAM0/DsPvaL+On1PA==;tW+tCLDKVLxHVFvD4Srg4Q=="
 ---
 

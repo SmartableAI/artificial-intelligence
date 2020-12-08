@@ -6,9 +6,6 @@ publishedDateTime: 2020-12-04T04:51:00Z
 originalUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment"
 webUrl: "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Marketing Interactive
@@ -25,6 +22,6 @@ images:
     height: 455
     isCached: true
 
-secured: "O2SdJ8EBf6mRwA7UKqsOYXGO8xRnSe255mLcynCx8rjV/BKENUJRcLQuKuXHuBR1MJH5NGUwtBsGxeNg9DNr+fib/Bm/wbpXS9E3KKk+6JHrxCo3NBMRacm+ZjkzmtlcawO1M5h9qB3gU+iQgw+hdPFlbdybaAO5sYtLLcP3OWEmJiMmnWD1hxy7WGiB5OZGtLmygBah61b/NNHlX2D8ZQMhTv0DxX6M0M0/1qeUsRiUafxF5UG0/UOSd25dxkWCpepG3e8ClGOwdTSPQRvCTbaaqm5lP2+N05rYAz0N+lxpWXbgdkcX7DynQvhK8lsMjblq79wvpWGh26M5zHkm7ldpqCayC7R90f2iOZuILiY=;jhnBnH3D9gP3+wTuV4arJA=="
+secured: "NDYcH5gmbodhdrZJvK/9UnLOUC0kXef3Ar9pmJL6S7UK6c9RvlXe4Nd2vvQAxXnzNGHRSYnHiUpreN9lf9owAO68NyhQufdtoIsPmuo2s3edLtPhl9ud1kNQ/3hu+PKEwgqQYwsljWGZ6e85Zjzn/UtNoV6mGrj4nHIGQ/Rjv0FKjKF2bveBU24gkMy7Du+NP9uUYGGtkQOJGNzxv8Esy4UGyYkuEa9GWFqfy3n1sgT5WS+1Svc+sy98OUdBaTU/g6db0KnMxasnIhxvXWyehnE7Y/iNIEIOkgpkokNIr68mExQIoOjDinLQUyXYVzr+ZHKL8MN8daAZ31iLHRzbgFiQg7msr0lkWD49zUK89YI=;Y/3MjcTu1FDXXYHj5FrQng=="
 ---
 

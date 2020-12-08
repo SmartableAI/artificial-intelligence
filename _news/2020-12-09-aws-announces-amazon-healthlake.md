@@ -1,24 +1,32 @@
 ---
 category: news
 title: "AWS Announces Amazon HealthLake"
-excerpt: "Amazon HealthLake enables healthcare organizations to store, transform, and analyze all of their data in the cloud Cerner, Ciox Health, Konica Minolta Precision Medicine,"
-publishedDateTime: 2020-12-08T18:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18699523/aws-announces-amazon-healthlake"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18699523/aws-announces-amazon-healthlake"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18699523"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18699523"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible service"
+publishedDateTime: 2020-12-08T18:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-amazon-healthlake-2020-12-08"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-amazon-healthlake-2020-12-08"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
@@ -78,6 +86,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ROKKC591c4LzOduO+Msl43Ohx7d+6rKkplraUOHBuMT8yUgxOvyw/PfN/LUq+KeuHMjArmP6xz3dHcPkYw6Cr/EHD1KBLlF0qYro9btmzvtTkZGNg679yZaA1ZJBBM2hyqxSqD84X6o+ZUiJAlR3nnRYA5l1zH1KogzH2xpP2hd+QrZZ26HXjgLjQOEOsjYRz39bw332Hk9oDMYszgMOCW2KaoVo682T2ZoQq/ZcENQPalC1oomCemDmaDwSEQC1H/mqfi7rkOIzSKwj72r5Gr6PDM3xukHu1EOfk3ayMcm3QpbqYxScK6ESccjdh59PYZtTlOs7KsZPOTGrEjzBXUkkXGLBUes3VK8oKe6RyzI=;1iarG1u9drErvNL20d3KDg=="
+secured: "KzylM2Dg6VWiuTUYJPm/FvVxQNY1oKpgLB0b20c5Pil+KkLhYoFvaGR2gG46KmjpAtHWnve1M1yXif6aKd+fSuxc1iFp9QySGyckbWiAUCTNc//jtFqQg3zcjeXyt4dHyUIboH3r2ays9aFNqIN/DYkzVE1dG1lnXuLVN8Pm2vEzEdakccbbEyRfT9PXUJsrq/NLuUDF6M07SoDpG4shPvugfAM9FfulYptGFDrpWoTqDesDYm8Ue5li3+oYqk9AqfzU1m6BbP86isYTisaWlX71mZCz6WoWuSEJKS0VySJHlB+9Vwe9D1dyY4ZxJOfUKbiWKKhC6JFvSXTfsm8xRLbxs2yhEEFlKEA6/2C0+L8=;PKrlcc2Y7KamXpVss0py4A=="
 ---
 

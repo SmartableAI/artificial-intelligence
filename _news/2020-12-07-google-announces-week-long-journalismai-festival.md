@@ -2,26 +2,26 @@
 category: news
 title: "Google announces week-long JournalismAI Festival"
 excerpt: "Google on Monday announced a week-long JournalismAI Festival to help address key challenges such as using artificial intelligence (AI) to understand, identify and mitigate newsroom biases and increase audience loyalty."
-publishedDateTime: 2020-12-07T15:03:00Z
-originalUrl: "https://www.dailypioneer.com/2020/technology/google-announces-week-long-journalismai-festival.html"
-webUrl: "https://www.dailypioneer.com/2020/technology/google-announces-week-long-journalismai-festival.html"
+publishedDateTime: 2020-12-07T00:00:00Z
+originalUrl: "https://www.imdb.com/news/ni63119670/"
+webUrl: "https://www.imdb.com/news/ni63119670/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-announces-week-long-journalismai-festival-2020-12-07.jpg"
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
     width: 1000
-    height: 800
+    height: 1000
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: sify.com
     quality: 39
 
-secured: "83H0Z3e6TvH0UXCe5EV7O/ubE/BgWrto6BCc73wQswRwXUl8gemYREhcvUoMVQioU3oz3yIc6oJ22fXAnrdpSU4R0cILwlORLZsQXXYx4AsV4LpLTmCUmbN4m6xra0hZ0k8qiQyJXdvRoRoUcl+s+grXsBn6+28dvoA1gjNn/mGv/rpM9eX+/02WBRXBLTnGrePHWK8ffjk1EeaYFAbnW5Kyms4uXgepdawGjW7UL9fAA/PgYOHoANahVZwUX3vtXAh1NLXrASFG+TAywEYJGbETgob3LUbFxtUhB/7d8D0esvRg8dBWvvkC7uqLn63pa0U8js778Yyuy85ck7utmvh5uaRh6C/3CZdZh9h+ahM=;hEoen4YEXWWNZQlNbWI9Xg=="
+secured: "cW5R0hgvN9ydklaB1JgYWDMRzuVjXp6nPnKfEXlykvCMLpaKrk8RB2OsCA9SmYlpMSFMKZgIAFMbHOqaDygBGBzALrQZQLHBWsADCtjGsD4uRHiGo+u90JYGlxJP/KT5dQgwG5iSEl+IgAQ6TJCbpwI54ZtuQ7NGi9Camyq7/nVLbK3DJkiYZqEmZrW2fBNWemdnE+lKnzWdiQN/wD46bvHzfO8XFLepGozNAXc3EWPOJpX9+B6xf0/39YM054aWv5czTjXKqKeN4PVkeo9W9q/jC49KMgD5NEFnS6NODF7M9RyQ4J8k1C+BZCuH5YPUxjqVV2//jzZmgmM0g+rkaOOYZuc5RxYzkuEdgFnq4vw=;7ifnRHMQWjADv+zibXX+zg=="
 ---
 

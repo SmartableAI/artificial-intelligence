@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei worked on facial recognition system to surveil Uighurs, new report claims"
+    excerpt: "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,"
+    publishedDateTime: 2020-12-08T19:34:00Z
+    webUrl: "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report"
     excerpt: "The Chinese tech giant Huawei and artificial intelligence company Megvii developed and tested facial recognition software that triggered alerts whenever the technology detected Uighur Muslims, according to documents obtained by IPVM and provided to the Washington Post."
     publishedDateTime: 2020-12-08T17:42:00Z
@@ -65,6 +81,6 @@ related:
         height: 960
         isCached: true
 
-secured: "pKEFyWvripD+YqVu4O0Ti8RC2Jd8P82UYH6M0w0jyuPBHYsxTjmTP94kHikyK09Xiym/pEyJQudvR0YVWlgqvIJol3Ej1hcTPGPz4RCLqIyydrvoL1AZPzEyc5ElTew0hTQUnzdukd5fKw3WY4vvh1/V51OxrhjWRfUFS4ISrBVi9WIBB0N7SzLk1YbBA/55XDDiiMbR9Px4GRH3teWzuLhj7jr2FZar8gDcdGLcN7mOckwVHf+FBX7e1H9/gayHJEj/q+a1lkUhy7OXODUhQx09yYLFiSkdXg8n+Mei/aH2dF6NkYyCKccD18y0s/sykz+qXtddG2dqSqMdBHIYfc8P5c005u039/fRVJVUE+I=;I0fn5d3jF3WINIMwURPNWA=="
+secured: "6aeSDAVJoUlqj4ZjwxV1+CDOSj1QbDkEu7UGqMQWbYG8gpHaQycLpqQZmbxDlIQXlXRuIIIg/I55nq2SV8Am/AB9onP68XJ/zfIHI11JgMporFNcInPXVlIsQMXyZtUhrR5RbLQ4rVo4Q+/qyvZcVVdfDqoBoWCGcskKmfshkPEBnr8XBuRwRrWEAdZIjv0MzzmHD3uT+SnxO9yO1wJ7cYIfwI/RwBDEJvH+wuWJps2MEp+BjTc8RLFwMxIkHtZB4jI8sm1N0P6Ob4kmqzTTaa6GgdVbbpuVXuCAxLm4V9nkHaL/vM7iuzGfnrZ6JJyzji7bazApKSOrcG1Pr/RFYU+VxQXTxVbZ4JqbHcaO4dZiHuHznnNEaC2bzYnp1EgCSKHqMFf2yKRyutzWVmUg1hi2t+FJ9+SiXRa8XzrWbxQJGG5l2fDGrzvOsEw+xADwPelMGK9YrHC2uPoUbSSs4jRvC5QOsZi7AG70/fDi1/4l8B1KHuNMSrM9lS78dT1llCBXBd9GEsXikChvODsihA==;93EdPKSlurLFInXRVcuuWg=="
 ---
 

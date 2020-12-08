@@ -8,8 +8,8 @@ webUrl: "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-
 ampWebUrl: "https://architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/"
 cdnAmpWebUrl: "https://architosh-com.cdn.ampproject.org/c/s/architosh.com/2020/12/simplemachines-inc-debuts-mozart-ai-chip-disrupts-ai-chip-landscape/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://architosh.com/wp-content/uploads/2020/12/Mozart-angle-L-1.jpg"

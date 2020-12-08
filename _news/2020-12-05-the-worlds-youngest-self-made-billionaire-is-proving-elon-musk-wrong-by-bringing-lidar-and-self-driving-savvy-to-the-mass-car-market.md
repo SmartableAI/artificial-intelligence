@@ -61,38 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Uber Sells Self-Driving Car Division and Takes a Stake"
-    excerpt: "Uber sells its self-driving car unit to Aurora Innovation and takes a stake in the startup as it shifts its focus back to profitability in the wake of the pandemic."
-    publishedDateTime: 2020-12-08T11:42:00Z
-    webUrl: "https://www.thestreet.com/investing/uber-self-driving-car-division-sale-aurora"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/uber-self-driving-car-division-sale-aurora"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/uber-self-driving-car-division-sale-aurora"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/GN9TPWem-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
-    excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
-    publishedDateTime: 2020-12-07T23:03:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6482467002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6482467002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
     excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
     publishedDateTime: 2020-12-06T20:44:00Z

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-    publishedDateTime: 2020-12-04T04:03:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
-        width: 1200
-        height: 741
-        isCached: true
   - title: "Azure Digital Twins is now generally available"
     excerpt: "Microsoft's IoT platform which allows for the formation and analyzation of digital replicas of real-world places is now generally available, along with key partner solutions for Digital twins."
     publishedDateTime: 2020-12-08T13:44:00Z
@@ -167,6 +151,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "Zb/J1bu6fOoLcT9FO82MVnFvwSynBgajZJTnjrJ0vberTBhLBHcnZoHhQFqQH6PTq2OxUhUrlTPRCIDxQSHYuOV2J4PyTHPoJuTye6Aam3oYhYXq3bsqqSAsfATxyjQSOs683Bna72+Bzig7tBi/1x5nddHe+fi2D969Tu4r49J9Otjbyf87+I+d0nHKI/87DmYd9fkoBmv5p8qcK/nODgG5AuyarCPYmDcCqSFQcSwUWQx4/qwNPVWHNpLuVy0a9Ag9cDsdNZPq29xk4EhwqXjz5zwEg1YZQW6mXYyQaIlrGsDCmHigmQR1LGhCb/joKtqnF4DrZPtK4j9W5xYwEcYPE3+R4xPA/RxhiwZVJNY=;gPu0V5o/yV7kOYLy1pr3kQ=="
+secured: "4fkGNkwwFhrwe4iQtqYejy4kLUyZ0wVIhWhGDuiPakPdSjknpkNbZ6VhqxYhHIFpGQVpIrXfqEHguS/ZNCTItn4wi4ayXGXG49qkUuI07WKo7cVlP6RZJm9wmoDirjwPXVfY9qnQ95P0cjXVa9ormv9Bjl9Bj4+1KqoqjvhjUfzzVtxdcxzbayyRShwEQKVAJ2eie8la/N1VWxFTqRzzmbuJwOSU1XLbkFowJLdSw/eVTvWcd9sL0P6IHqswxVHeBRMJT+SnB5+IEfTFmJdlh+TlUZJSmHGxC3/QiZDmdsoWer6ERTmksWafSKbgzL/yYCjikMZaI68J/Icpuzv+esHge0wncHP2c4kWXcCmRnqqX0cAmwjLg/gsInGFN3+DdJL1nowf3ii2lp6dQG1wUTFhOVHXFyxo1u/BZSJ3cRZiB9Q2BNcWCTAxEBEM6knfY1nn0p+iK/Pbb7Z9upUFeDCP5MzV+Cw9E2gwmmV6niSmuX1p0J7jH2N5zlver0D3f80lMcjDIFbNedtYezQvUA==;EY8AE4cSX3PVsPCAiAXl2A=="
 ---
 

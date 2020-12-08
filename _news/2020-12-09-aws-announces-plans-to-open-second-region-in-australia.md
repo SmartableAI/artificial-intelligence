@@ -68,16 +68,19 @@ related:
         height: 630
         isCached: true
   - title: "AWS Announces Amazon HealthLake"
-    excerpt: "Amazon HealthLake enables healthcare organizations to store, transform, and analyze all of their data in the cloud Cerner, Ciox Health, Konica Minolta Precision Medicine,"
-    publishedDateTime: 2020-12-08T18:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18699523/aws-announces-amazon-healthlake"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18699523"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18699523"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible service"
+    publishedDateTime: 2020-12-08T18:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-amazon-healthlake-2020-12-08"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ap2OarBbySUlN2Uvgt7vXGXG0cISJtaFdyhyzgGC78/W8b8jeiiRQppAzk1E0LBOr3gTRNIn7bq7oKxbKSSoLWBHBaTvLjaHM4IrWfGMTu5nBs8VHpEmkdnI5dneGSDUBzwoIRjeBGA2r3hdssH4Dy3b7w7uILb46MTmDgGA0Dv+39g9rAojUcyG7iD8V13S5FHIHCfIxlKkB7O/C+YkG+g1HpnHt9XsUcWhBhVNx3pwRLfDtK+i82r+M52b+Wy0us4C/SvkhmJOG23NzxTmJRo0PGo/vweBlPYKEbsrQcLJw0vAM7nQmGK/AfGRbjkXwochOv1iQPh/+nqVSv7o/FAS1eoTcQwOP5k8AgmiVeA=;7LPrV0YFXjUHZPJndTASdA=="
 ---

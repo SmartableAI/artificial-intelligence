@@ -30,48 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Chips Market Report Future Prospects, Growth, Outlook and Forecast 2020-2027"
-    excerpt: "This report predicted drivers, restraints, challenges, and opportunities pertaining to the target product's market. The objective of the study is to define market sizes of different segments and countries in previous years and to forecast the values to the next Five years."
-    publishedDateTime: 2020-12-04T04:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-report-future-prospects-growth-outlook-and-forecast-2020-2027-2020-12-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T07:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
-    publishedDateTime: 2020-12-06T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025"
     excerpt: "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been"
     publishedDateTime: 2020-12-04T11:49:00Z
@@ -100,57 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 07, 2020 (WiredRelease via Comtex) -- Global Artificial Intelligence of Things (AIoT) Market report provides in-depth research, sales estimates, and growth forecast by ..."
-    publishedDateTime: 2020-12-07T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
+  - title: "Voice Recognition Market widen Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2020-12-07T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-widen-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2020-12-07T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A Complete Report on Artificial Intelligence Applications for Smart Cities Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence Applications for Smart Cities Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence Applications for Smart Cities market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-applications-for-smart-cities-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
-    excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
-    publishedDateTime: 2020-12-07T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -170,6 +86,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Computer Vision Market Size, Share, Business Trends, Increasing Demand, Growth, Forecast 2023"
+    excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for computer vision stood at over USD 9,"
+    publishedDateTime: 2020-12-04T12:00:00Z
+    webUrl: "https://www.dcvelocity.com/articles/48238-computer-vision-market-size-share-business-trends-increasing-demand-growth-forecast-2023"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 28
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/89b71c25-6d63-44fc-88c9-d7760606ee76.jpg?crop=true&height=430&t=1607020726&width=640"
+        width: 600
+        height: 339
+        isCached: true
   - title: "Artificial Intelligence for Automotive Market 2020 Global Analysis, Opportunities, Key Applications and Forecast to 2026"
     excerpt: "Wiseguyreports.Com Adds 'Artificial Intelligence for Automotive-Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025' To Its Research Database <p>This report has been prepared based on extensive research and analysis of the latest dominating trends in the market."
     publishedDateTime: 2020-12-08T14:04:00Z
@@ -184,15 +114,6 @@ related:
         width: 278
         height: 333
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
-    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
-    publishedDateTime: 2020-12-07T12:08:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 11
 
 secured: "tzqzkybMTSajFrpmC3gTk3DqFGKMxKKal22LkWjYxf1B/xf1AZ/cUChCFSwXYoMNwJRFIPMusXL9J5hAP2B6nXldhlbUsv0ZZgHFQhEDC5EdofX+Tp4QilLrDttoWIy3gY3dwJOOcgtKLIl1CYJ0Qb4l0cFlwchzXPzzq6j7R2TSJafDbY72QtTIIFQgCMilOT7kSJimVs0xlOfqL7Amdbs09PYVEsQe93Uc5VF/eBeXKNVbo/o1apql1Dn5OhpqbzW6jFTqDY7WHZiCMxbLbFMBfowZv8u1ryD/5hsSaRqoMBtZhUYT/2tUOrqoUYzCWBgNTKejuIkvxtMcwetutKnFHXO16uwrIRZ+/xHwrdE=;Ojb4MsznuKAJDXAQ59VkHg=="
 ---

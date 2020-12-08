@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei worked on facial recognition system to surveil Uighurs, new report claims"
+    excerpt: "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,"
+    publishedDateTime: 2020-12-08T19:34:00Z
+    webUrl: "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report"
     excerpt: "The Chinese tech giant Huawei and artificial intelligence company Megvii developed and tested facial recognition software that triggered alerts whenever the technology detected Uighur Muslims, according to documents obtained by IPVM and provided to the Washington Post."
     publishedDateTime: 2020-12-08T17:42:00Z

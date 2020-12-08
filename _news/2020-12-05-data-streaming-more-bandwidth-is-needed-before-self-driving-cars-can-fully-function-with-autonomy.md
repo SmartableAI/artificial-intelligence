@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/data-streaming-more-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/data-streaming-more-bandwidth-is-needed-before-self-driving-cars-can-fully-function-with-autonomy/"
 type: article
 quality: 60
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Automated model refresh with streaming data"
-    excerpt: "In today’s world, being able to quickly bring on-premises machine learning (ML) models to the cloud is an integral part of any cloud migration journey. This post provides a step-by-step guide for launching a solution that facilitates the migration journey for large-scale ML workflows. This solution was"
-    publishedDateTime: 2020-12-04T03:32:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automated-model-refresh-with-streaming-data/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1505-1-509x630.jpg"
-        width: 509
-        height: 630
-        isCached: true
 
 secured: "9Ei1x38l/CeY0XJHTq/+o8ZcAKn9x87VAQ18ZxAXLr/VGDtCPfxeEIgyCG/2rpXouRNDb77sLqqIt+2QKbssbljBainXywV6jCu4fUlzuMoYNXJ/mwa10PSm+ZKgJZ1G2+TpdL0lOktuaOUe5ps1ZvZvNbQFfi1raT0ZHZ2hhPiW/1i8RUGIzFKl9biFe5XHp3BGe1pUF7FK63TPgAvbzjb9XCoQjifqnEvtqK4GsJQwQwSGISmXWmx4mQbVftyJMCHLBtuEzxtk4UyksOrRoEfYeDNhXeNWzSI8mBe85fQazYsMmh0f9pQv4IXbHcIrkI9yAZV2VFn2vSLBA6Q+5SxPcauPVYMiW8Rl9PQkIO8=;ryF88HvowXRZac5rgk3Fag=="
 ---

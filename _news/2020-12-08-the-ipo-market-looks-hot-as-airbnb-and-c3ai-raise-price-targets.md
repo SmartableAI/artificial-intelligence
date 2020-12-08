@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "I, IPO: C3.ai brings artificial intelligence to Wall Street"
+    excerpt: "C3.ai brings artificial intelligence to Wall Street originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com. Investment Disclosure: The information and opinions expressed herein were prepared by Renaissance Capital's research analysts and do not constitute an offer to buy or sell any security."
+    publishedDateTime: 2020-12-08T19:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 82
   - title: "Artificial Intelligence Firm C3.ai Raises IPO Price Range"
     excerpt: "The initial public offering market in 2020 remained hot Monday with enterprise artificial intelligence company C3.ai raising its pricing to between $36 and $38 per share. The Redwood City, California-based company previously had a debut range between $31 and $34 per share."
     publishedDateTime: 2020-12-07T15:08:00Z

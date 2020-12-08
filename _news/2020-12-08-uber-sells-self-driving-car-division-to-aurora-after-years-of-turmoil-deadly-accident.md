@@ -27,37 +27,211 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'"
-    excerpt: "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space."
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp"
+  - title: "Apple Shifts Leadership of Self-Driving Car Division to AI Chief"
+    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-08T19:51:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Elon Musk reveals Tesla's plan to be at the forefront of a self-driving car revolution – and why he wants to be buried on Mars"
-    excerpt: "Tesla CEO Elon Musk sat down with Axel Springer CEO Mathias Döpfner for an interview during his visit to Germany."
-    publishedDateTime: 2020-12-05T18:00:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
+  - title: "Uber Gives Up on the Self-Driving Dream"
+    excerpt: "The ride-hail giant invested more than $1 billion in autonomous vehicles. Now it’s selling the unit to Aurora, which makes self-driving tech."
+    publishedDateTime: 2020-12-08T06:15:00Z
+    webUrl: "https://www.wired.com/story/uber-gives-up-self-driving-dream/"
+    ampWebUrl: "https://www.wired.com/story/uber-gives-up-self-driving-dream/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/uber-gives-up-self-driving-dream/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/5fca3ba6b6a3a800199b68d0?width=1200&format=jpeg"
+      - url: "https://media.wired.com/photos/5fce7c5336f8a02c47d79209/master/pass/Business-Aurora-Uber-AV-1195837073.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Uber is getting rid of its self-driving car operation."
+    excerpt: "Uber, which spent hundreds of millions of dollars on a self-driving car project that executives once believed was a key to becoming profitable, is handing the autonomous vehicle effort over to a Silicon Valley start-up,"
+    publishedDateTime: 2020-12-08T11:13:00Z
+    webUrl: "https://www.nytimes.com/2020/12/08/business/uber-is-getting-rid-of-its-self-driving-car-operation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/08/business/uber-is-getting-rid-of-its-self-driving-car-operation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/business/uber-is-getting-rid-of-its-self-driving-car-operation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/07/business/07uber3/merlin_131842880_4c07396b-2357-409b-8c04-d97ca929e404-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Uber Kicks Its Self-Driving Car Unit Out the Side Door"
+    excerpt: "Uber is bailing on its self-driving car unit, the Uber Advanced Technologies Group, and will sell it off to driverless trucking-focused startup Aurora in a deal that could create a combined firm valued at $10 billion,"
+    publishedDateTime: 2020-12-08T04:19:00Z
+    webUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936"
+    ampWebUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ojyy5rpvc3vnm8yyyf7b.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Uber sells ATG self-driving business to Aurora at $4 billion"
+    excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
+    publishedDateTime: 2020-12-08T03:39:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2RX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2RX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61JR"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T05:41:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+    ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-269524/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project"
+    excerpt: "Company executives once said having cars that can drive on their own would be a salvation for their business. But the effort turned into a legal and financial headache."
+    publishedDateTime: 2020-12-07T21:05:00Z
+    webUrl: "https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 73
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/08/business/07uber1/merlin_170959995_b634aab6-e554-453e-8d5c-67de425816c3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Uber didn’t sell its self-driving dream — it’s just outsourcing the hard work"
+    excerpt: "Uber is selling its self-driving division to autonomous vehicle startup Aurora. It's going to get a stake in company, suggesting it's not giving up."
+    publishedDateTime: 2020-12-08T13:57:00Z
+    webUrl: "https://thenextweb.com/shift/2020/12/08/uber-didnt-sell-its-self-driving-dream-its-just-outsourcing-the-hard-work/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/12/08/uber-didnt-sell-its-self-driving-dream-its-just-outsourcing-the-hard-work/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/08/uber-didnt-sell-its-self-driving-dream-its-just-outsourcing-the-hard-work/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/uber-aurora-car-ev-self-driving-autonomous-track-future-buyout-sale-tesla-796x449.jpg"
+        width: 796
+        height: 449
+        isCached: true
+  - title: "AI Chief John Giannandrea Takes Over Apple Car Project"
+    excerpt: "Apple is continuing work on developing some kind of autonomous vehicle product, and the project is under new leadership. Apple"
+    publishedDateTime: 2020-12-08T19:01:00Z
+    webUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/"
+    ampWebUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 57
+    images:
+      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
+        width: 1600
+        height: 1022
+        isCached: true
+  - title: "Uber abandons dreams of self-driving domination, sells self-driving unit"
+    excerpt: "Aurora, one of the nation's leading self-driving startups, will become the new owner of Uber's self-driving division, Aurora announced on Monday. In addition to turning over Uber's self-driving division,"
+    publishedDateTime: 2020-12-07T22:07:00Z
+    webUrl: "https://arstechnica.com/cars/2020/12/uber-sells-self-driving-project-to-startup-aurora/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 53
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Press-Aurora-Chris-2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Apple's AI and Siri chief John Giannandrea now overseeing Apple Car development"
+    excerpt: "Apple has moved its Project Titan self-driving car division to fall under the leadership of artificial intelligence chief John Giannandrea, who also leads Apple's Siri and machine learning teams."
+    publishedDateTime: 2020-12-08T20:33:00Z
+    webUrl: "https://appleinsider.com/articles/20/12/08/apples-ai-and-siri-chief-john-giannandrea-now-overseeing-apple-car-development"
+    ampWebUrl: "https://appleinsider.com/articles/20/12/08/apples-ai-and-siri-chief-john-giannandrea-now-overseeing-apple-car-development/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/08/apples-ai-and-siri-chief-john-giannandrea-now-overseeing-apple-car-development/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 53
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/39234-75054-0-61861-19850F2E-98AD-4978-8646-AEDA7E4B2DF5-xl-xl.jpg"
         width: 1200
-        height: 600
+        height: 800
+        isCached: true
+  - title: "Uber Is Selling Its Self-Driving-Car Unit to Aurora"
+    excerpt: "Uber will receive stock in Aurora, a startup working on autonomous vehicle technology. The ride-hailing company will invest $400 million in the business."
+    publishedDateTime: 2020-12-07T22:34:00Z
+    webUrl: "https://www.barrons.com/articles/uber-is-selling-its-self-driving-car-unit-to-aurora-51607379694"
+    ampWebUrl: "https://www.barrons.com/amp/articles/uber-is-selling-its-self-driving-car-unit-to-aurora-51607379694"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/uber-is-selling-its-self-driving-car-unit-to-aurora-51607379694"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-269555/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Uber selling off division working on self-driving vehicles"
+    excerpt: "Self-driving vehicle technology company Aurora will acquire the employees and technology behind Uber’s Advanced Technologies Group, and Uber will invest $400 million in Aurora and acquire a 26% stake in the company."
+    publishedDateTime: 2020-12-08T14:11:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 44
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tXZUGrfOm13ZGtY6h8scw8JGCWc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LT4MVAKYQ2WKPRMDVPXHODQAVE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Uber Sells Self-Driving Car Division and Takes a Stake"
     excerpt: "Uber sells its self-driving car unit to Aurora Innovation and takes a stake in the startup as it shifts its focus back to profitability in the wake of the pandemic."
@@ -75,33 +249,47 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "The world's youngest self-made billionaire is proving Elon Musk wrong by bringing lidar — and self-driving savvy — to the mass car market"
-    excerpt: "Elon Musk thinks lidars are too expensive for consumer cars, but Luminar has convinced Volvo that it's cracked the code to slashing lidar prices."
-    publishedDateTime: 2020-12-05T03:48:00Z
-    webUrl: "https://www.businessinsider.com/luminar-elon-musk-austin-russell-lidar-volvo-cars-2020-10"
+  - title: "Uber Stock Cools Off Following Sale of Self Driving Unit"
+    excerpt: "Uber is cooling off, after it was announced that the company's self-driving unit will be acquired by Advanced Technologies Group (ATG)"
+    publishedDateTime: 2020-12-08T15:05:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/news/2020/12/08/uber-stock-cools-off-following-sale-of-self-driving-unit"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 39
     images:
-      - url: "https://i.insider.com/5f7f581be4029f0018760573?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/app-2941689_1920.jpg?sfvrsn=6cdc006_6"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
-    excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
-    publishedDateTime: 2020-12-06T20:44:00Z
-    webUrl: "https://www.newsy.com/stories/volkswagen-may-sell-self-driving-cars-as-soon-as-2025/"
+  - title: "Aurora acquires Uber's self-driving division"
+    excerpt: "Uber will offload its self-driving technology division known as Uber Advanced Technology Group to Aurora, the two companies said in a joint statement Monday. Uber will also invest $400 million in Aurora as part of the deal."
+    publishedDateTime: 2020-12-08T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130312_aurora-acquires-uber-s-self-driving-division"
     type: article
     provider:
-      name: Newsy
-      domain: newsy.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://cdn.newsy.com/images/videos/m/1607266233_Vw4xEy.jpg"
-        width: 640
-        height: 360
+      - url: "https://images.hgmsites.net/hug/uber-self-driving-prototype-in-san-francisco_100585356_h.jpg"
+        width: 1920
+        height: 1187
+        isCached: true
+  - title: "Uber sells self-driving unit to Aurora"
+    excerpt: "Uber Technologies sold its self-driving car division to Aurora Innovation and took a stake in the startup, pulling back from its vision for a fleet of autonomous taxis to focus on turning a quarterly profit next year after the pandemic crushed revenue."
+    publishedDateTime: 2020-12-08T15:04:00Z
+    webUrl: "https://europe.autonews.com/automakers/uber-sells-self-driving-unit-aurora"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Uber%20self%20driving%20car%20BB%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Kpm+kgWTEnlLYLnl6pP951CGguYvzBfzy1WWQHFqiNll4SobLoycmLaOtHjXWIKKYkie3eIq+NFYVzJ0mtIjCEiCwdAIFKtVrX8p4Df3EQcoTzowlxbz15/jzVxGpUAb5t01JCIpoUbZKD5M5gMfj9n602tCstNe4OrZFBVm/GLxV6S0TxYnHVe2zFAaKDQOB/vvaC1uE85HMrZnE1deQ19/SZGpt5NsgEyv2dl06mV0kIHod5vHkD3Uoe38XJ9ZlIX8d+VkpaXWpu6RNVgRGBJUrimrpZKLScxON+ZENa6kZGbqqv5ysG82L9PSUp5L2nsfHpitJr5Hz8W10Bcjkfy1O1N7QeyQwmEMmS/BQXxTATYWVm4dcxbLBZ0GaVPbGBDCeRomxY1Bj31MVJw//6qkD3+GVoJvMl+AtVq0ljWMg3Pm8tSea6wkFRpbLNGpWqeeIjuT+HwsI3hjBwG2ZT5X6Qo7G7j+1oBVNDBnwF08V04tM7LE0SLN0hC+HnyjF2Q8iJqOUBVArrFdMJfdsg==;ugdRjxHflZV6ccsI9xoJwg=="

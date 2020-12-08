@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/12/g18696163/artificial-intel
 ampWebUrl: "https://amp.benzinga.com/amp/content/18696163"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18696163"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "CEExQNEMkmnD3bFJ+8Y2JUy8YsFtHyNGIPoiyy8lvaCRL1s/pwPPIgsJdDV3CCa/z5TDsF4tYGfAPrVdq/U8oHgoBJ4mHsfRg6rgus7YXD8r93I99HOAXpz7cE6bQQq2rZbzlV7LmjaUQo9v6l4UYA03MropFpb6BxYlsMkRLfQmysnSLoYddIPjLGhlsBYK2VOFaVctycEWKH6iCPg9C+A7v6TBE/1JlChUJxl963GYoY2fftQoZUKtFKNHRBeRYKXJIZy2CayPQDehXrAT/GqzJXe57+iKQu8clRS34WXU3WwXr6FLJoulvQfnki6w/aS/IbOxvAuYx37jhoCLvbyEBBBDWa0ixkZQzy5cMDE=;ji70goAqb/RMYE8NcZtT7A=="
 ---
