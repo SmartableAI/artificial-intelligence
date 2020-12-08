@@ -7,7 +7,7 @@ originalUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2435883/res
 webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2435883/researchers-marines-explore-trust-in-human-machine-teams/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here Are the Top 10 Most Influential Research Papers on Neural Machine Translation"
+    excerpt: "Slator’s neural machine translation research retrospective covers the decade’s top 10 most influential research papers."
+    publishedDateTime: 2020-12-08T10:56:00Z
+    webUrl: "https://slator.com/machine-translation/here-are-the-top-10-most-influential-research-papers-on-neural-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 35
+    images:
+      - url: "https://slator.com/assets/2020/12/Here-Are-the-Top-10-Most-Influential-Papers-on-Neural-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "NPS Researchers, Marines Explore the Trust Factor in Human-Machine Teaming"
     excerpt: "Trust in autonomous systems to do what they are designed to do, and meant to do, is paramount before these systems can be confidently employed as an operational capability. In an era of Great Power"
     publishedDateTime: 2020-12-07T15:39:00Z

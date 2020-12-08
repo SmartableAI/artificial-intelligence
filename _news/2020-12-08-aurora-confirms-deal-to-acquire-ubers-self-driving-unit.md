@@ -374,9 +374,9 @@ related:
         height: 787
         isCached: true
   - title: "Uber abandons effort to develop own self-driving vehicle"
-    excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle. The ride-hailing company will instead swap its operations for a minority stake in Aurora ..."
+    excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle."
     publishedDateTime: 2020-12-08T10:47:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+    webUrl: "https://www.bizjournals.com/charlotte/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
     type: article
     provider:
       name: The Business Journals

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Luminar CEO Dismisses Elon Musk’s Critiques of Lidar for Self-Driving"
-    excerpt: "Luminar Technologies develops lidar technology that helps autonomous vehicles drive themselves. Austin Russell, Founder and CEO, Luminar Technologies, joined Cheddar to discuss his company’s decision to go public."
-    publishedDateTime: 2020-12-03T20:03:00Z
-    webUrl: "https://cheddar.com/media/luminar-ceo-dismisses-elon-musk-s-critiques-of-lidar-for-self-driving"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/bc567955-0d28-49a7-a05a-9b82da6ebf76.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
     excerpt: "Self-driving car company Luminar Technologies LAZR (LAZR) went public on Thursday through a Special Purpose Acquisition Company (SPAC), making founder Austin Russell a billionaire at the age of 25. Russell joins a short list of people who have amassed a billion-dollar fortune before the age of 30 ( link )."
     publishedDateTime: 2020-12-06T08:51:00Z

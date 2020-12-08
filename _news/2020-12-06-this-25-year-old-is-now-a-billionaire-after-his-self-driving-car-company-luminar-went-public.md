@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Luminar CEO Dismisses Elon Musk’s Critiques of Lidar for Self-Driving"
-    excerpt: "Luminar Technologies develops lidar technology that helps autonomous vehicles drive themselves. Austin Russell, Founder and CEO, Luminar Technologies, joined Cheddar to discuss his company’s decision to go public."
-    publishedDateTime: 2020-12-03T20:03:00Z
-    webUrl: "https://cheddar.com/media/luminar-ceo-dismisses-elon-musk-s-critiques-of-lidar-for-self-driving"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/bc567955-0d28-49a7-a05a-9b82da6ebf76.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uM5QAtEl4VAjVgt1148j1xnj2NqEhfNJxXFOHUTTkDRxMu5b0Dde5qH7txQKM0FuGcKS7/WDVZ8pYwjNPCPQuVGGfwIU9Tyz7tSRioK6an4eEyjsBW+f6fc+tnVSb6VH3wiru8FcqG4MkIjFLjYJvTzS9BscPgZOwTdI43QeIGX3LZmpxdCw7GDM4/Cry+N/ej6ezy08Nc0HSWXyc5l8jhlv1KM2B2unyE8iIWFpHa4S4qr74bzS65FgcgsvuQjECDFRA1LJUoskhrDuMLATP5A0Y63wrLG8Yz+C9H+8wIJGkQvloILXiPhioAG1rxDlZeXLBixMr8NH1QokIZAT+DvDe/mPBKxsI5kc7BQjaWE=;mVNG/RnyQ1kVuAneL6c0fg=="
 ---

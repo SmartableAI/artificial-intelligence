@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Uber abandons effort to develop own self-driving vehicle"
-excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle. The ride-hailing company will instead swap its operations for a minority stake in Aurora ..."
+excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle."
 publishedDateTime: 2020-12-08T10:47:00Z
-originalUrl: "https://www.bizjournals.com/atlanta/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
-webUrl: "https://www.bizjournals.com/atlanta/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+originalUrl: "https://www.bizjournals.com/charlotte/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
+webUrl: "https://www.bizjournals.com/charlotte/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
 type: article
 quality: 4
 heat: -1
@@ -383,6 +383,6 @@ related:
         height: 787
         isCached: true
 
-secured: "aC+42/+tjKuCiBD7BDFWbkAeRolj9+Nh5GnY6AmL3xfuteMWvS+e4I+QZ3m+szNUz/rrfd5L+BDMFbaiFV5OH3duCBf6gjG0gQQKe4qLpjh1U3vC/gVa9RFa1SYcOsZ09j0xlWuTRjAUI+HRcQIWn/v+XuyqmiFCPBF/E6Rgywa+xAI3qxBSdIcHlePkvY+nN2WpuBrzc02Max/v1eUWX5zgEBMw1HU0tcuY75wOTjdCTV2u3wrGf+PFnJRsg+x6oTxzZoEDTedW7LaS2N1xr0YIhjPSqKX3QphH0lH3/L/aQ4RRBeUet/IpjfV08R2PqFYCa2LXcS8VMp2V8wgpXODN597TIoj58X2Yjz51KRDqpG4pAwvHMalAIAAd1G+yH0mXWUSceqgl8KcVsUhRj7ezxqc1amPaoiLjmi5roVRxgA6MUVKPA0LqgGCCEyM+ohjU+Vuynsa4c+NifghnMCZJXI8E4QsiVMRISfIs15HMiVOAyqRMzrQ2Hv6dyXpGX0vNAvl1F1QIWdwng++UFQ==;BuIusV7fmZT742q1HKkjqQ=="
+secured: "U+Ut/ZIzOijZ1tgIaeciHC0rpBqj05iB1q/BCvOTJbkjJAbRhDoBHo0K0yVpWi/Ad7sdHIufYrTJKkVvnohZh6dLfPp+QBoLCgrfshoN+XljoR3hV8rEk/FMostdAkejUnAvbRvIuFf2DRg+zJarWMAomZljiEWOpklgzgQhOUCnfhEO4QerBfbpjsaQ+16hYOKSuhBcIBBGjl5hQtZkBP+3RxkDl4kjR03Dmei7bZwGqRWXxwNlbh6mfvT9wQeeHJz2VBRQBFvjCfHdzdPta+EdSHds0P8aZRCljWe0JY+XMMsOv+cR6H52yHCOFnJil8fVYm/g+6gNpG6EDx1d+rh9yRnRasxYoA48Mt6DBkqXdtVyug9IBkCja7RLDpy8NDmugdKl9Zfat5XznXSV3HKzypuTxYZs2IaIsyRmvOzUlQhE8f4Rc2HkCCHvNA3JI5oGQLgaYKzsOflo9MWL229dxO52jYmS+AcRlTHsbAzwQW4PBZ4UiOuPBamYJlTqKymMq4FCs4QKrF6igdT4Xw==;XYQhpDAWvx5yewTdyUU2Lw=="
 ---
 

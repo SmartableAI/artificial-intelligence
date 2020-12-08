@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-08T10:30:00Z
 originalUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
 webUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Decoding-the-Booming-Adoption-of-AI-in-Healthcare-Market.jpg"
@@ -57,6 +58,6 @@ related:
         height: 422
         isCached: true
 
-secured: "wsTzn1GmpbrJhaMa2hzhgDHVHsPwNOPYMPtaSGP6w1heE+caH1lfB2j0Y8abuaiHflKACOqGltIqvIiZagx+kO0IVXhmuoPL2P/xXPNUte+JeZTQNeP+o/rNPOlqf1/xNEN43tj8GFYnDni4WR5NKdPXpjBwhMbRVM/Jebta2KDPP25o0Nv+oAWV9ZO7oESf0eTu71QCZlSWhfbcBLVC3QpVR70uCGn5iHza21EfvmAYtfwEMTanwLl1D/x81no7RWaoZC1IsOF3kSn83+U8g4GeCigWJ5wECKwOcJvtKP8BcvM8MmLFPbaG9TXCVSS7HaS0pKMTT7am9pcIOG1K1VdUhGCG11gwM3pqBUlNjk0=;V4asLlRjRwSRQ1EjNuFwPw=="
+secured: "AmB9zP2HJ2om+ONaSPkOgKuDKEAxSigMl23allpUUMD9buWV1ZMRjHSx9OeTuyc+u9Lrll2JAdOOBrZIkiYQPKmxHHotYZXrJZprZbygKsftKHTNvjbI1rdcT0KndT8VlgNYRorFWQvrEv/GbRvzsz2Okz+MD/u5Pr5zXv3zmHShQsSBBeScfp4cner9z1kygA6w8IeOTK6XtIxu8x6BoEBHaKRSGJtxNvIphK4rcMN+uRJ6vUGr/aoDkR3o6Q6bXLReQva05EimZQQidqhwZlxhzWsahDDgIYfw/bD7afmsvvvlLmeZEG1p/oDrE0KONLDJSFRNQp8DQ8EyN0ZYTDmSzoT6iC/xXMPWeMn+tvHUEq5scQICBk842yJRH4ZsPJYy4GfJpqUsQwkV7r9giq2uwwkxcO+cM4x5LwusyF4+Vxo9OGSGKhhwyHUEfCRx1ONn69VbXPfbbjuswB3gnFn0E4hMrT41Qe6PrjljufJDCD+rD0GFi/QHt+nFaCGdao4fumhHbPmkyMBtS8GhuA==;0DGsKaJDjgtzJT1yHnYgXg=="
 ---
 

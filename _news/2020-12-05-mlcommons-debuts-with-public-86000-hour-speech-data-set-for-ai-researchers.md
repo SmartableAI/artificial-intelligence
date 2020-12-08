@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-data
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1024
     height: 730
     isCached: true
-
-related:
-  - title: "Creators of MLPerf Launch MLCommons Consortium for Machine Learning Benchmarks, Metrics, Datasets, Models and Best Practices"
-    excerpt: "Today, open engineering consortium MLCommons launched an industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. MLCommons will focus on: Benchmarks and Metrics – that deliver transparency and a level playing field for comparing ML systems,"
-    publishedDateTime: 2020-12-03T20:17:00Z
-    webUrl: "https://insidehpc.com/2020/12/creators-of-mlperf-launch-mlcommons-consortium-for-machine-learning-benchmarks-metrics-datasets-models-and-best-practices/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 7
 
 secured: "lY5R/sHA1ieK3vV7/FxDWrsBkfr7ycs0mmD0/8ASLH8mFw+zp1Xb4X7R5qjaXqLFWtRzZN6rTGK1pumZkLTYaSEPv8uKUWd85ON0C0zuxNYMWCYbFiXwHHXWq7KZSuC0P5s2bTgg0KyaBSGSjLEwN+117iRm2xUAEF9yFTMDYkbxq1r4qkAyZkQ2XkrS1+bcknlUHIZwrudjUvbLYUczX7P1XZSRhv8xWCaVs3JI5wqRks4836ItiCXkOBREtu8Y/Ufnn0hOh/LxAwWoUPnmFjv8k+M1RisoopFnw1HCBEEwjSrjp54YdUbP7psWdqsccFyQwO0eM+vfyM8LQ+TAygaurM30H1P33PeGfSHOLzVsKb6qnKiVfZU6yuEeGh6dL2qnnegqjdWyrn8lQk+EHn+VeRKypZ+W69Y4PZQnKr6027+dHO133RHGpreYbmxQ4udAa3GpRg8K0GbwlkMu2Ka+hg3iLS5EXj5aZqZEAHwQhAe3xkSWnIFs5n4y4A+9bd6NgpWb30mTTRsVrVoq2A==;K7wZiNLso9Hko/WFzcRxYg=="
 ---

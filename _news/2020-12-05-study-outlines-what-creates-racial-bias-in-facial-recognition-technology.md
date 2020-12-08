@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Advocates to press Biden, Congress on facial recognition curbs"
+    excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
+    publishedDateTime: 2020-12-08T11:39:00Z
+    webUrl: "https://www.rollcall.com/2020/12/08/advocates-to-press-biden-congress-on-facial-recognition-curbs/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 39
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
     excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
     publishedDateTime: 2020-12-04T15:20:00Z

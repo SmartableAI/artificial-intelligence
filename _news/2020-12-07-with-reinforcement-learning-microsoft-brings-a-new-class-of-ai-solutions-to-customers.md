@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 741
         isCached: true
-  - title: "Microsoft’s Nudge service leverages AI to speed up completion of pull requests"
-    excerpt: "Microsoft says it's using an AI service -- Nudge -- to accelerate pull requests in software development projects."
-    publishedDateTime: 2020-12-03T20:13:00Z
-    webUrl: "https://venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/"
-    ampWebUrl: "https://venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
     excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"
     publishedDateTime: 2020-12-04T17:03:00Z
@@ -101,34 +85,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-03T19:35:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Microsoft launches Azure governance tool to map data"
-    excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."
-    publishedDateTime: 2020-12-03T19:47:00Z
-    webUrl: "https://www.itnews.com.au/news/microsoft-launches-azure-governance-tool-to-map-data-558568"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-12-03T160900Z_1_LYNXMPEGB21EC_RTROPTP_4_MICROSOFT-CLOUD.JPG"
-        width: 1000
-        height: 666
         isCached: true
   - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
     excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."

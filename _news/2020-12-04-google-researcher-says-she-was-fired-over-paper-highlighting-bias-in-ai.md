@@ -419,38 +419,6 @@ related:
         width: 764
         height: 575
         isCached: true
-  - title: "Google’s star AI ethics researcher, a Black woman, says she was fired for a critical email"
-    excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
-    publishedDateTime: 2020-12-03T20:38:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 66
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA5YUVRVUYI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Google AI ethicist says she was fired after challenging company on diversity"
-    excerpt: "The co-leader of Google's Ethical Artificial Intelligence team is leaving. Timnit Gebru had criticized Google over its treatment of Black workers."
-    publishedDateTime: 2020-12-03T20:15:00Z
-    webUrl: "https://www.latimes.com/business/technology/story/2020-12-03/google-ai-ethicist-says-she-was-fired-after-challenging-company-on-diversity"
-    ampWebUrl: "https://www.latimes.com/business/technology/story/2020-12-03/google-ai-ethicist-says-she-was-fired-after-challenging-company-on-diversity?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2020-12-03/google-ai-ethicist-says-she-was-fired-after-challenging-company-on-diversity?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 58
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/080966e/2147483647/strip/true/crop/2304x1505+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F72%2F53b243554314ab301dc53a0b90dc%2F3064066-fi-google-walkout02-jlc.JPG"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Google embroiled in row over AI bias research"
     excerpt: "Google was struggling on Thursday to limit the fallout from the departure of a top artificial intelligence researcher, following its decision to block publication of a paper on an important AI ethics issue."
     publishedDateTime: 2020-12-03T23:07:00Z
@@ -636,34 +604,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 48
-  - title: "What a top AI ethics researcher had to say about algorithmic bias—before she was fired"
-    excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
-    publishedDateTime: 2020-12-03T20:26:00Z
-    webUrl: "https://www.fastcompany.com/video/what-a-top-ai-ethics-researcher-had-to-say-about-algorithmic-biasbefore-she-was-fired/tLswTdKo"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 46
-    images:
-      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
-        width: 1280
-        height: 722
-        isCached: true
-  - title: "What one of Google's top AI ethics researchers had to say before the company pushed her out"
-    excerpt: "Computer scientist Timnit Gebru was abruptly fired from Google's Ethical AI lab. Here are a few highlights from her session at the Fast Company Innovation Festival just a few months ago."
-    publishedDateTime: 2020-12-03T20:50:00Z
-    webUrl: "https://www.fastcompany.com/video/what-one-of-googles-top-ai-ethics-researchers-had-to-say-before-the-company-pushed-her-out/tLswTdKo"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 44
-    images:
-      - url: "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/tLswTdKo/poster.jpg?width=720"
-        width: 1280
-        height: 722
-        isCached: true
 
 secured: "E9J5RQrWn5WAkXASD8/T7xtu2j4cud73cI/r4FJYigKYvgD/HBqkAx8cOb+rgflLp/aVDJg1NWTGRySHkVAtKx54by6qc9TeHQFDnrhCb5HbH1pusi4Zv7d3XyqoRKkPPp3fen3/xYPAiIJHA18+9hoEGtRTqDA8SCmatedn6fM7bFLSWByIPxFduvFP8EeRRZ09ZNNNzAqDFUSmvd56Rt1syr/1iGeJ4Z5vHafAuDr0Svb8iXK+AlIFbNdnDMGiuRggQ3d4LN9X2+USthJYtJLzJbu7al8MuSgAm328JJ5CkDPcPriDoByt4Kx2Jd4kYo6fMWPaRbA9U+OJ2xMEbHEo4UHSWVI/7O00P5imP5B7w8qmzFNuXZpHbgTG2w4bz8OWniwvJ5X5kqxZt2YE6bRpIiwBg69DGLj9YqJmCZLNQAENE9LzUwIYPPwtJeHk/DHoYL2CFk/zx9wUllHf6Mp9W6l+zltooEzb1tiR4lc4LoM9U2HvlkIYKzV726g1LYMtu/5GQ8cf/XwnFpvIcw==;8W+L5B5R83Z+cK2VHDFgXQ=="
 ---

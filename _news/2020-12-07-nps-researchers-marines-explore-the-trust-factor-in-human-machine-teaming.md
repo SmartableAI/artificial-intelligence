@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here Are the Top 10 Most Influential Research Papers on Neural Machine Translation"
+    excerpt: "Slator’s neural machine translation research retrospective covers the decade’s top 10 most influential research papers."
+    publishedDateTime: 2020-12-08T10:56:00Z
+    webUrl: "https://slator.com/machine-translation/here-are-the-top-10-most-influential-research-papers-on-neural-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 35
+    images:
+      - url: "https://slator.com/assets/2020/12/Here-Are-the-Top-10-Most-Influential-Papers-on-Neural-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Researchers, Marines Explore Trust in Human-Machine Teams"
     excerpt: "In an era of Great Power Competition, where those who can field autonomous capabilities fastest have a distinct advantage, researchers at the Naval Postgraduate School are exploring many fundamentals"
     publishedDateTime: 2020-12-04T22:45:00Z

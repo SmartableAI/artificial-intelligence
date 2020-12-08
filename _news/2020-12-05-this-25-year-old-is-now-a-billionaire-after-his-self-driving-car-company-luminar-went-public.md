@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-bill
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
     quality: 37
     images:
       - url: "https://media.nbcnewyork.com/2020/12/106805877-1607016848777-Luminar_Austin-1873.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Luminar CEO Dismisses Elon Musk’s Critiques of Lidar for Self-Driving"
-    excerpt: "Luminar Technologies develops lidar technology that helps autonomous vehicles drive themselves. Austin Russell, Founder and CEO, Luminar Technologies, joined Cheddar to discuss his company’s decision to go public."
-    publishedDateTime: 2020-12-03T20:03:00Z
-    webUrl: "https://cheddar.com/media/luminar-ceo-dismisses-elon-musk-s-critiques-of-lidar-for-self-driving"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/bc567955-0d28-49a7-a05a-9b82da6ebf76.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
         height: 675
         isCached: true
