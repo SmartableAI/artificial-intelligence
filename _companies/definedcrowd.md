@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1661
+  followers: 1660
 
 size: 51-200 employees
 yearFounded: 2015
