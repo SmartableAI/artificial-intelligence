@@ -91,22 +91,6 @@ related:
         width: 1280
         height: 878
         isCached: true
-  - title: "A Top Google AI Researcher Says She Was Fired Because of Email Over Racial Bias"
-    excerpt: "Timnit Gebru is a prominent AI researcher who says she was fired by Google. It's sparked a firestorm of concern about racial bias in big tech."
-    publishedDateTime: 2020-12-04T15:50:00Z
-    webUrl: "https://heavy.com/news/timnit-gebru/"
-    ampWebUrl: "https://heavy.com/news/timnit-gebru/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/timnit-gebru/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 55
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/12/timnit-gebru.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
     publishedDateTime: 2020-12-06T19:01:00Z

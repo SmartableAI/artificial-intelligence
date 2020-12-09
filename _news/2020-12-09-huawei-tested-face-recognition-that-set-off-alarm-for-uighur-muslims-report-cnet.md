@@ -113,6 +113,17 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Huawei worked on a facial recognition system to identify Uighurs in China, says report"
+    excerpt: "In today technology news, we covered about the Huawei worked on a facial recognition system to identify Uighurs in China, says report"
+    publishedDateTime: 2020-12-09T08:43:00Z
+    webUrl: "https://www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 31
 
 secured: "qK6FXXcE1703uVEEG2BX/NqbSLbwl562BVUO79LzIFn5IhgG3DsXFl64R58/qNceBpE/7FsW3z5KjSYoEwscZvRXJr2A62TUVCML1ZswZTqz0mayF9JZ+/6mjUMjdfa5gkLnbIlfZW63CDD+hAfKsVA2dcOvgazg0MRP808SZR7GyORolzvA9zJYfvmMQoNdV1VMHCrhlBee9D9zqScObdSVudasFcEibaAu4I8Gjx0GAbLZl6yTJjd0V5GC1MKhFhhbD8rMGLYJHATvfcnr8e19pldS/2bLnxGCd8buqpK0zsCgGyV8MZtseYdxhZkdR0hUN19Yq6VVTRMK+LHOp/1oTpBfvDPSR35njX8GTyoQ3Yp6mI/v+XxWALJPqygFTJgA2S0GPlIE0C+Fd7M741jCWh8ZsjWcTseMLt0wo2MLL+Q9b1g640e7Fo9f6ELJeLwVL2oAMWwEjGIA6KkpUB01qANcoTFP6WU65AOMDPEAUK5B3NVGGMTnUNskALp1Shi/gLuWvvU78ER8/y5anQ==;xym/VPzCNwwJgYB6tuIScw=="
 ---

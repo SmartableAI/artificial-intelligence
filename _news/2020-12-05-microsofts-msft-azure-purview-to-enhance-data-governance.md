@@ -122,19 +122,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "As a key partner for Azure Digital Twins, Johnson Control's OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+  - title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
     publishedDateTime: 2020-12-08T21:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873491"
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg"
+      - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
         width: 400
-        height: 220
+        height: 221
         isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "Microsoft announces the general availability of Azure Digital Twins Holistic integration across digital twin technologies will enable users to digitally manage physical spaces, maximize efficiency, support COVID-19 safety and pilot new solutions Solution aims to encompass the entire ecosystem of building and device management technologies with digital cloud technologies Collaboration will support efficient and environmentally"

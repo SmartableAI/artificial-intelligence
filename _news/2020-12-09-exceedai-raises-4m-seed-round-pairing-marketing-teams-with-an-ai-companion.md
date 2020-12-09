@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-    excerpt: "Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital, the B+ round raised almost US$15 million, bringing the total amount raised across all rounds to approximately US$40 million."
-    publishedDateTime: 2020-12-09T00:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=389513"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 65
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Exceed.ai Completes $4 Million Raise for AI Marketing Assistant"
     excerpt: "Exceed.ai, a startup for nurturing marketing leads, has announced the completion of a $4M seed round. Funds will be used to enhance the AI"
     publishedDateTime: 2020-12-08T18:27:00Z
@@ -59,7 +45,7 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664249"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664249#!"
     type: article
     provider:
       name: Techinasia

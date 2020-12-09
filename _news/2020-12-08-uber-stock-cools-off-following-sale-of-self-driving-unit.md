@@ -295,6 +295,20 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
+    excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-09T08:32:00Z
+    webUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 38
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
     excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
     publishedDateTime: 2020-12-07T23:03:00Z
@@ -310,20 +324,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
-    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
-    publishedDateTime: 2020-12-08T19:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
     excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
@@ -393,6 +393,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Uber%20self%20driving%20car%20BB%20web.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Uber moves on from self-driving cars"
+    excerpt: "Uber, which once set its sights on being a pioneer in the autonomous vehicle space, has sold its driverless car unit to a start-up."
+    publishedDateTime: 2020-12-09T08:08:00Z
+    webUrl: "https://www.linkedin.com/news/story/uber-moves-on-from-self-driving-cars-4988620/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFUIhXv-z9CCQ/storylineheaderimage-shrink_400_400/0?e=1607594400&v=beta&t=ZhwXlOH5c8Z64TlS1wKXBMN1g8CrPMuq9qWdOJTHj7I"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "uCt1HPaALN/Zhq6UuQHQ9hG5sccBLC2k3RduUV0zs/ifrZkykt4T+3NOzeBJk3s9V+wVyqMwQhhEgthZP9Kb7pJkKLQxJOyfVUAPeD0mBEBYCwjBwLW7OfA7XeGx9HMnMf+hnkeFcmYDUUKbKbXOX/V3VobzO7/Fg4/rFUiW3F86GJaRZ0KJ6IuTxbP4eMEanWReO0mEEajbpZgmS7t7jV2pUXy6fWfyxrLC1D+Il4wA2M5zyrO4Cg4ORBh5JsV0swS3i4cZNeYZSvAUIuda24dHLZ9Ffk6L9UA74bzadWFeONSlugq/BxUQNiBWaq2o0d+B8GQuubhY5cT/ANFXbXh8xxyFeWMp9P9rIh5qoqE=;KPwJzxzuepIU0DSg6riuRw=="

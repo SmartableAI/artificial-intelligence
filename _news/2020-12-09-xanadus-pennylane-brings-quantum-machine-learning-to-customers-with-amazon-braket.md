@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Xanadu's PennyLane brings Quantum Machine Learning to Customers with Amazon Braket"
-excerpt: "PRNewswire/ - PennyLane, Xanadu's open-source software for differentiable quantum computing is now integrated with Amazon Braket, a fully managed"
-publishedDateTime: 2020-12-08T22:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
-webUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
+excerpt: "Xanadu is working with Amazon Web Services to deliver an integrated programming framework for variational quantum computingTORONTO, Dec. 8, 2020"
+publishedDateTime: 2020-12-09T08:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/xanadu-s-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-1029875400"
+webUrl: "https://markets.businessinsider.com/news/stocks/xanadu-s-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-1029875400"
 type: article
-quality: 33
-heat: 33
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "j5N1Y0RXSWMRz9t4DcXlPkm5OW4u/pWqNUIEOssRdc4SfdxxQmXLXzCI4DF39WUsikV+XAPXUVc7MMOOF+0Djm5eVIXTBUC9BLG8OYtB1MACt4ufqh1fhcxOVY4bUTugrQJUPPZeFmf99IFYCg+3v2uXxO3qNvNXAwpYAOgwfREOQ0sfZByVhO7iQT33z0t+TD0B/fG4Ozzcgb1xMm/8w5eBV5zBhiQ01hzBm0Qc/fuCimEe084w3wieehJl9nUoY/Ew3eSrlLzKfW0NH14RdI3MSlslG7FBwrEycDbCqdsYWOEv8Jf25HvdGUNevfa6IxpgSpf0pOoe3FKvtfonYwzVJv60/YH1Re0AOld29JY=;xDzmsaJaMOmQWF1OVca3LA=="
+secured: "VhSb0n3zjPjBmYLYCUKpQRCzpIB+vwtcBfcKo0ZDUUrbc0vhc1hcgOVU9SBeq9goJGv2CLueSFn+by8Fk2TWjs6wGateVjaFJeOCJJI2arly7CtdEdRRYhOJ/kMkTaFbY4nBtCnMEYhbZk6Ob2fwp1dsi8GD6/r4peKKVtclKOTDDOt0ge4gOus7cce8aPtKn6l3IVFHkdrKxTLABNXyMRmWawcVgRcDmlkj0aD7rsyWbUPvHvA0jHqli7Moj5h+t7SVeocGLNOSHMcvRvWYlxZIpy/Pyk9o8bLW+AZ8SiOZ1+iKLpQR8fLFHdhQbWEDjPtEyaOYfYroliFOop6ZLBam+QA0ivPiA4RdngxWTK8=;Jj5ethLd9Jlfiij5yOzX+Q=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expecte
 webUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MarketWatch
@@ -42,20 +42,6 @@ related:
       - url: "https://menafn.com/updates/pr/2020-12/07/G_18389f72-7image_story.jpeg"
         width: 256
         height: 337
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2020-12-08T12:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "SROcUaJTJNj9kHIETWHt7RWwxzpf45eKBVC3/crq8u1rLhagg7mxJq9Ko9gC/yV24LkGXV9RiKrFCym08h5BpxmClSnLik0Z+nSuRXura9wwouUC6JfptPIWIIdIumoOH33HHD6W7TJVr9u/D/YexQcTwzXKZz6Rvd9GMJvMhSF2fKKlJZ3OTbF37YKPKIHwfE1V0YSzQqTcaX89jDRLeoq76dCCWV/F6wxhuRChdUq5eiII8/bup/FPNT3oI6facrux4aeAPz430BNDa8KjsWP2mVXxNrtNF5Va38wWZ+1oJblY7Zo/H45u8JK1kfWSWEjBn0jSwcFouKx35S7bWLchFTcs7isLgfIaXSLF6aM=;teWVsqKT1VuxOBWnVLRmhg=="

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "As a key partner for Azure Digital Twins, Johnson Control's OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
 publishedDateTime: 2020-12-08T21:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873491"
-webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873491"
+originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
+webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
 type: article
 quality: 52
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg"
+  - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
     width: 400
-    height: 220
+    height: 221
     isCached: true
 
 related:
@@ -151,6 +151,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "kfOh4x/O7Cu4VKVcvDqf1D6NCcB/7z5TMbtM3mmrEKltn9kHEO5KpnLnMfKlBQhe3N/AnemKPNARuMpe7iD8XGVgoG2cmjyYkk/Ma1yEK1D71DHe0gtceHFdu86eWl3TybIBZOk0jZ3L7sm3GSYupZRroNZlPkT6B9lrDsSxhnN7+FWSRvMC9pc8WWAZSW1tyLa8KBafkUwMKFUkWlpzFH4siJBK0MhC/KfpGV1toTtb08wLbrNWSnHF14Io9RJv4XBhV4MX3hhRGSGTUaHm7OcAOGC16rWO9N3XIqbCabrfXb8KTPFXEMFJ2qWK3qu93TJHj9p3k5Sgb1w2evMa08QBN7lnyDNxj1lZM45CxUM=;Q5kirSp7Bdd5aj42OH25aw=="
+secured: "HcO17D2qPOhUmd/FH0Nfw/h9p+BUB4WfcZvMmLXeYSOFgoLexE7ktACf5XSY2G1yd6AsEQsNsuSr7QGo+oQK6u9Pfaqsw7/EZM2kYut0oo1q4Dr0F0J70Mf1sA1uTSqCvxf2xypnJcn4HZn8jP6Rbs/oTMB8Z6k4tIBRGrP25PeflRoixXFM0U486QHAMqvP1bh/I3SmcL0Q/Iuagrioqao0E3WRRkrfp00SzEwJDld9AX9ZYOYQ74NJFf5TjtccEFfzMg3Zd0N56aGUME8CA5SMEryDXujTdLb7OnPo9neF/zKUfpfFPIjZ3yekVTU/YbvxCQULdyPrCpgDwvQJjOVJkSrIwPWgYBj0qf39CHU=;ihAAiWocSRlR+ZoP7fyMNQ=="
 ---
 

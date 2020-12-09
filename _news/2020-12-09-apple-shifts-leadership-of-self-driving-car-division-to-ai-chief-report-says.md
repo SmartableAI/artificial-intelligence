@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Apple shifts leadership of self-driving car division to AI chief, report says"
-excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
-publishedDateTime: 2020-12-08T19:40:00Z
-originalUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
-webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+publishedDateTime: 2020-12-09T08:32:00Z
+originalUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+webUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,9 +17,10 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
     width: 800
     height: 600
     isCached: true
@@ -394,7 +395,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Uber moves on from self-driving cars"
+    excerpt: "Uber, which once set its sights on being a pioneer in the autonomous vehicle space, has sold its driverless car unit to a start-up."
+    publishedDateTime: 2020-12-09T08:08:00Z
+    webUrl: "https://www.linkedin.com/news/story/uber-moves-on-from-self-driving-cars-4988620/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFUIhXv-z9CCQ/storylineheaderimage-shrink_400_400/0?e=1607594400&v=beta&t=ZhwXlOH5c8Z64TlS1wKXBMN1g8CrPMuq9qWdOJTHj7I"
+        width: 400
+        height: 267
+        isCached: true
 
-secured: "w0zEUjeSxWqbtw8kyAoZEO8UbdQ4fe1IX0m+ZqakkfVWt4chuFa0ciXIUsRVU5P/sA8IuwM2bo92zSKuNzz8LCBObmxBhHzkubSeMe7cMovS1Ij+OkPLTD3lpi0Dp+HBxFmDVL8VkyhZLaqrU7h/NYZgcemj3pzGU693Hss5KPcXpqLZHmGXPRemQ3Qp56IUlz87cgzqkI7hccRc2dOiMBzNi687CiHw5WZOmxujbAyh4j4yT+/uhwjh7lmbqNL+3v4j+RCmAU3yd68QLAId7j4EaVTkXh/1t0T9RFGif+cRmoOSdS84HUhF14DajO1J08JqfovrszI3Xa2HoBhdnh2yXH6ZwKyN245+I99diUDvaq5Kd6w6Hm4OcCEZK33htPhORJZIb/iWEdFjIOx69nOXdOMpa4a5hjqn3zeryshIa/XUrGkuuRsRifhrqGvHKjfgLJvOgsdsrySOxU2D+aoldCcO7KRFNBx2HsH3UMCT5CGzyDgnnzL+gar0Ee3ga0rCTqonYecPNhtGV/iXNQ==;x5qs4D03de+b8H52IwA8bw=="
+secured: "ZejI4tJ9Jh+IchSE9FXOdViVvDpOnyVaLuPlBRCxE010SbDfJDTF7hw2xpj/zChESPPVmkS6x93tKICbqm0KPsd3DUnSYU33g/mBJgYACHh+ubksJ0cWYlEH1Ip9VMz5IYEQidw2RH7hxdyawxyF2+87Tc+VQAMdDnrFOpZw+yoomjyQUBHbcEMy+wiGuVSHU5xVNHUBcKafxxG470Nftta6MYZbvi2JPLq9aaiifiNEE7vPZk+Sd5DWZVeWPUQWCEIj/vpkxdKCvhe1cCCSk92iGZ++FyIADB1Cwx7GqZQWxInRWmq+n1pALReN3cEzCmmoHYD+HhVeE2X0ID8hX5I1Dpff62nli/un7wlpa5w=;KvIFJOigCzgSAfz6S1EGFw=="
 ---
 

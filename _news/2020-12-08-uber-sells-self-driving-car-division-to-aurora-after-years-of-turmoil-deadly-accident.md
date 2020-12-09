@@ -312,16 +312,16 @@ related:
         height: 1280
         isCached: true
   - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
-    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
-    publishedDateTime: 2020-12-08T19:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+    excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-09T08:32:00Z
+    webUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 36
+    quality: 38
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
         width: 800
         height: 600
         isCached: true
@@ -393,6 +393,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Uber%20self%20driving%20car%20BB%20web.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Uber moves on from self-driving cars"
+    excerpt: "Uber, which once set its sights on being a pioneer in the autonomous vehicle space, has sold its driverless car unit to a start-up."
+    publishedDateTime: 2020-12-09T08:08:00Z
+    webUrl: "https://www.linkedin.com/news/story/uber-moves-on-from-self-driving-cars-4988620/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFUIhXv-z9CCQ/storylineheaderimage-shrink_400_400/0?e=1607594400&v=beta&t=ZhwXlOH5c8Z64TlS1wKXBMN1g8CrPMuq9qWdOJTHj7I"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "Kpm+kgWTEnlLYLnl6pP951CGguYvzBfzy1WWQHFqiNll4SobLoycmLaOtHjXWIKKYkie3eIq+NFYVzJ0mtIjCEiCwdAIFKtVrX8p4Df3EQcoTzowlxbz15/jzVxGpUAb5t01JCIpoUbZKD5M5gMfj9n602tCstNe4OrZFBVm/GLxV6S0TxYnHVe2zFAaKDQOB/vvaC1uE85HMrZnE1deQ19/SZGpt5NsgEyv2dl06mV0kIHod5vHkD3Uoe38XJ9ZlIX8d+VkpaXWpu6RNVgRGBJUrimrpZKLScxON+ZENa6kZGbqqv5ysG82L9PSUp5L2nsfHpitJr5Hz8W10Bcjkfy1O1N7QeyQwmEMmS/BQXxTATYWVm4dcxbLBZ0GaVPbGBDCeRomxY1Bj31MVJw//6qkD3+GVoJvMl+AtVq0ljWMg3Pm8tSea6wkFRpbLNGpWqeeIjuT+HwsI3hjBwG2ZT5X6Qo7G7j+1oBVNDBnwF08V04tM7LE0SLN0hC+HnyjF2Q8iJqOUBVArrFdMJfdsg==;ugdRjxHflZV6ccsI9xoJwg=="

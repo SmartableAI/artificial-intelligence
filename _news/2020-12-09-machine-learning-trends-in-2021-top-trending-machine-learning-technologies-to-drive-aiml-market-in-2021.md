@@ -7,7 +7,7 @@ originalUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-lea
 webUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 400
     height: 265
     isCached: true
+
+related:
+  - title: "Assembly Machine Market latest Trends and New Technologies Research Forecast to 2025"
+    excerpt: "Assembly Machine Market Trends covers the companies' data including Growth potential analysis, Industry segmentation, Business trends, Growth drivers, Price trend analysis. The Report also Gives Detail Analysis on Market concern Like Assembly Machine Market share,"
+    publishedDateTime: 2020-12-09T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/assembly-machine-market-latest-trends-and-new-technologies-research-forecast-to-2025-2020-12-09?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "X+2wIj3k+I5wuUCbsuXmZYNqsUFHVnFiSS+pNWSbqeJl9rkeKHSDBfoQU3O1i7ghB19LcxtPgszStNwG1XvMuTrBavNlT1vMGm0Tvat1XG/h58RWLFCzXKQq7sz21+uWH0Wv1TKRfkBK+hbYrpsRxkG0SqOnI+9IOjawYPJBmXwtJi9YhUZT7Vf23iA1qxMCJoCbc9JuK2wa5tJivzAlrKSeyqpGqPshubD5DMNzqDDCPKqLeRbMy0h9LaRq1cywNPEEuJtGrta8uf6fCGRd6w443VFqAM8PDjsRamy2cIQlm8L7Vsx2XhqKaM3BlLAOCHXhqPFXzh2O4lhSHMSbwQ6auijpeikxWHiDn35ABq+wvmooIc34i2t9Y222QZtVPsaJnlttQmGrXBK5S7lVfanjgFIQRZWPIkA+BYFpvIQsN/7HjTJm6nudr7MoulEpxP4jomkzuV/RetN8Ah8Ao6qipGxRcHIGaAEfPyPIrHo8dlIvNcdqBZjxdSvtVWQgo6MjW48YE4b+t3YzGXcR9w==;EEpl16Slix957JHEq+O3PA=="
 ---

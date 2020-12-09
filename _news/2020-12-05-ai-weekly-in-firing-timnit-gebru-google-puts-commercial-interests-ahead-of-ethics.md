@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -113,22 +113,6 @@ related:
       - url: "https://images.outlookindia.com/public/uploads/articles/2020/12/5/Untitled_design_(30)_550_550.png"
         width: 550
         height: 367
-        isCached: true
-  - title: "Timnit Gebru: Google staff rally behind fired AI researcher"
-    excerpt: "Hundreds of Google staff have signed a letter backing a leading AI ethics researcher who was sacked by Google. Timnit Gebru says she was fired after sending an internal email that accused Google of \"silencing marginalised voices\"."
-    publishedDateTime: 2020-12-04T15:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-55187611"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-55187611"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-55187611"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/18299/production/_115796989_gettyimages-1028811892.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Hundreds of Google workers condemn firing of AI scientist Timnit Gebru"
     excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"

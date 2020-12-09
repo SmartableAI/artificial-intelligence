@@ -112,17 +112,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Facial Recognition Programs Are Getting Better at Recognizing Masked Faces"
-    excerpt: "While fabric face coverings certainly pose challenges to facial-recognition technology, U.S. government researchers say that improving software specifically intended to account for obscured features has reduced the error rate and made it easier to identify people whose faces are partially concealed."
-    publishedDateTime: 2020-12-04T15:20:00Z
-    webUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/"
-    ampWebUrl: "https://reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/12/04/facial-recognition-programs-get-better-at-recognizing-masked-faces/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
   - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
     excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
     publishedDateTime: 2020-12-06T10:30:00Z

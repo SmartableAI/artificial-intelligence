@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2020-12-07/web-summit-ter
 webUrl: "https://www.bloomberg.com/press-releases/2020-12-07/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience"
 type: article
 quality: 65
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Web Summit: Terminus Group introduces the first AI CITY to global audience"
-    excerpt: "The Web Summit, with its network HQ in Lisbon, held its conference online this year, between December 2 to 4, due to the COVID-19 pandemic. The Web Summit is recognized as one of the pre-eminent meet ups in the industry;"
-    publishedDateTime: 2020-12-04T15:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/web-summit-terminus-group-introduces-the-first-ai-city-to-global-audience-2020-12-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "V6ikvCMWV7SowyYpyY6pWBm4ix5QOjTfpFni3SUZOIGGquCmnMNe2lHLAacuRDIUTtmkHwTzJKerMfyjjvejfMW1wYfDzRmxYxtkcy8JXWXCgMpzHekCyyqtDfDt2Ix1f0KzoKw28+0XMtelD/lpNDTVVJh7q3plk3p3iQH+ieaPGQSgbQPNoDh/ZrJNKz6VB6lbP3n9qRSDj0lR9KFJD1NVt7U/zu6Day414rEPUJP5TsRO3/vTiTyX/j5Aae1o9xOr9SXmtb/ksBVU/uSNUG3R4uDn4ClrJOdA7DUstLF6psXGTcgTSMUU/exGPuWoFmpsH6B9rsyWQszxuLnbU6WdOvvA9sV21mwC3jJz0MU=;qV87Y4NCqL3od9xowjtJiQ=="
 ---

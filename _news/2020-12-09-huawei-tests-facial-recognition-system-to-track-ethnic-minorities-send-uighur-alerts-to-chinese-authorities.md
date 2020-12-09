@@ -105,6 +105,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Huawei worked on a facial recognition system to identify Uighurs in China, says report"
+    excerpt: "In today technology news, we covered about the Huawei worked on a facial recognition system to identify Uighurs in China, says report"
+    publishedDateTime: 2020-12-09T08:43:00Z
+    webUrl: "https://www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 31
   - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report - CNET"
     excerpt: "The Chinese government has frequently used surveillance technology to oppress the minority population."
     publishedDateTime: 2020-12-08T19:39:00Z
