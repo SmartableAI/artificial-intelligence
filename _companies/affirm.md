@@ -2,7 +2,7 @@
 name: "Affirm"
 overview: "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products."
 type: "profile"
-heat: 147
+heat: 168
 
 website: https://www.affirm.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Affirm"
   url: "https://twitter.com/Affirm"
-  followers: 9025
+  followers: 9026
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
 
-secured: "+WHqR1b3WYvzhu2bBCNgY/AQUzNhcwmEo71Ft+8xMSH6NUmDSstVCh8UK+tBUVM7kq522OmlY02gQrY5lqR+U2fQZpNBHLPmlPJ/e7P7FVK7vObZ6Wcd0lh27Q3Trj+g2YveqgCfYdbH5pkT4X7MagivdRu709ktXlbAYAvmb8vNoOtkj3x5W/9/vXIzMSfqOpNUAnUZayWucr5pcapqe4UwJwqE4qRpL7SAK2kGzvrajZd8IcNdGYL+LHVHwaZFLnCKn8e8ygNUbG/npWuMSxonHamb2EVKGYKTSqomRZBrP3/DkHXMI+x4hTUwvhU94Y2xEYog2idZsYEPH6AmVhYjK9IWpmb0P9MMgJ0b+/4hP1GQOZ6f23tV2bS0w22rticdLqzCqHo0my+23+THcKpMy6aCPQbPvqdNxPGfv98=;pzDBKv84fabpiRTiiWbA4A=="
+secured: "4A+mUDBrGwY9q3uouxFIHwDsreH+5mwplVVJGEgogbLEBT/eKHtFntIXwr9HyAbK3Zm2hu1tBSVvPKODUoJasavLNa9c35FprvEbyqKHbxuc6kklP6m5xx/8pP/yet6A+rpy+iqjwohDHOJ6mtZmV0E/cHp8GIKRsq3sn6u+H3WPqFbO0LCOfEOIAQUrgdZEh0A8ZqE6Jkgohxhb4rNloSpjMlANMvfEDJNC830zFeddowqxo4ynFdoWRrnQIo/dIyJvbL0rrFNeC38ee/5V7ItB9p1raMo1Oyh7QwN2JAZA+s16ZhAvoD2FJ7/vHFO45iivO4uBeD+BXXl9sDZ5F5LdKaqZRLk8KLJMa5yaB5YKDXmhTs7W0VaCziMq520o/u6DvJrNeiAQkcA/sTQ135J9R3FUgEMG8Cq8K64v8A8=;SJ86xCH5JzPztI3ELGi8SA=="
 ---
 

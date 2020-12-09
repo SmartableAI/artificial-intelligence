@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bigpanda"
   url: "https://twitter.com/bigpanda"
-  followers: 3051
+  followers: 3050
 
 size: 51-200 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tD2IuyH4CCxmlUEroB0BoAQJ/WKaAZE0T6MuvjzDv3WwRP+gD2Wdatj9Vixqf0KBFq+Tr30tpZXjLWJEXe9SQN6mKt0tR8JBmczFycxxQZ3ilD4hSs21w3g5DvQ9HBwY/avlK8A9y5Dg1pXAlBxf7Kili6helpxBHkXT2f4ck97gUgDS0R3d1cC2/eAKJk2GkPskV8ZuMHA9ESsoI8144yZUOs87JlDscE/eveeeSPwArOAuybyoyuU1k832JwmtPmRR0ExfUutEGMphZf1MUdyjexzDp0hzrDaYMqqWPEQ9NM3zI121LG13Kh8aG/MkcFSisYoZQby70xbVsKQgHOXl8VpVF8CcMOdaxSvxHrnVtJKgOfeLns1tqNnYHkc+U1W97T8zAFUqwErZrrmFWGtt/CmUxXsJAPjUlPTpXVk=;ZJdM99vLioaVTNaH9YgoBA=="
+secured: "pba4TNcs1CU4SzvLAvTCQ2OztpD1za6J7YOhLy9+cJLIaAwgjeUbx9Qgnqt00KvDMOL2ETMSOFWRrftm791E0dru589E/G3UucXS04YguvzLFY2gsDkUMyatZW+alpoaK5+0I6StE/2WxuEt9+R31S9sSVG28OYZw/y1Z15+IEGz1labEEZuiEFtoGavTm2vPTtnSaCdpwKrqYYBA1KB4QaruuQPkQGMmkD8naNIusio3Zq8GqkyQ72lr9+fDygdftg3B0mVqhH42FhsRi7UsMLf72YGj7aEOb8oxXvs9NPD4V3RnBNew7xaMZJ8dGf4JOCeMM8YkPws5YZWMElyN0l9CiKBwSGTiRU5gMVR4zx3GCWqKUo+3MnaMLeonHw/Vlk8oT+t6sO3MbSa53FEX9DI9ZOstpxYHcQvtZ1Vlh8=;dPtBHyEEUKtzPWD/s3Uf/w=="
 ---
 

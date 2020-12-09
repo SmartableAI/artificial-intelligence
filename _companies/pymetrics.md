@@ -2,7 +2,7 @@
 name: "Pymetrics"
 overview: "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free."
 type: "profile"
-heat: 18
+heat: 41
 
 website: https://www.pymetrics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pymetrics"
   url: "https://twitter.com/pymetrics"
-  followers: 3410
+  followers: 3408
 
 size: 51-200 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Vc2ThFu9iNsokJfM3IGA8H0yezoFBQDCYGDCeri3S1jx7VoP0jd1g2H19fMe5EwUf4njbGT4wUCRJypmG/mtNUbw1SxeNE4GVO8ebkh3kD36uBlJfHCa0T87deoDShemwtYAV8UUuucDQT8ZOAEWhey2LOFhjEDmLvNK/x/hrEwAp9Y71U5mw5npaP4175P2lqOKEs+1OOKcnBjfhA1yXnhuIKt1Gj5VZRTPdPvLrETkLZ+cof+2oxX1Kim0FimOnANM1fasIZd32Wdp6caxjO4Fku8KtJMLGaP8kV7GakdI8NxKsYXt0O5fu+McMNm5ALmb/KqmBas8kSH8tXeJ6OF4428YWgk8jSuxKNdh2ytegdZl6/EzLtDK9+Ai+LHqNqfKd1XG6e/PZu2HrK8d2FJn9zT72C9ANFEM+pPqUC8=;lZME3CG8P65bZNCMTp7u6Q=="
+secured: "h+q8t+E+HB1c7eDJmUXY4KrwUE95o/2hVevvseVcGLZoTxUkn0ZgiwF3R9SsL105oyb8OY6Erx0ta9YiaDZgJhbJuoi/pRXYW4mjAYYic04F1ZKaFs1vzbk7PBSIhjXU/I3wc17kwrHWcmnVR5tq3d8+0ZAj6g35Jo5idZrLKRkINwKM+BdrHWnTzVBPTT0SeslmaFBaNllDEXBMpkkSf1jnO/H3LkPub1TyVjtuID2KTm4KwY7xVZB6gB6XoW1PM2hHL1r+TVQn8zO9ffcPWoQCiljk4GGWi4aDTzEJN6dxhbqEnJzvtILhU4dQ32SYhHoME+CjXf2phMWcCYKayLTyhxiewe6lHpLobCnw4ofs4GSeekEcSQLBS/86LnHLyape/DgPs5XFBitqrytR6h8NxzWBQX3EkUhFfMllkqE=;8TmFxsHYFcYZYHMf0PGDEQ=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Iris.ai"
 overview: "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG"
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://iris.ai/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "theirisai"
   url: "https://twitter.com/theirisai"
-  followers: 2903
+  followers: 2902
 
 locations:
   - London, England
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=rgmchbwHKHE"
 
-secured: "4weWiKIKbL2paOBW5XzZy+Rk2AH2A7noiLXWQu3J0coYbCFVWqQpsokZpk1VudEUysM0VvPiCBoUyNZhNNJnukDmb+Z7TDzQcywdTmNtABulA2izKVQ92aczpGXfsRnPrBAYeXXT6zZMOpCvN/Kr+DFllBB3kxTFcsHAsD0fwtovrdlCTUzCjH9Pn/Ll57Qh/EVM+4jOnLMttCQX0HNgP9seAoS+nCXrxKt8Yz7Gp8FmyK1mGJGKoj10ZP0QkMIRMqMuPXji0mU+Ra4uh72OoL1tz7mOuZybEiIZNbcsPZyCygYeSV6DfoKl8nqWh610NcosB8WzdRnbJF7b1OgJlL6DEGQYBqtLRQmb5K0sEtScpR5ZnEfgFPQKRQ5yKFc7xRMgUs+x2hQucEIIrBUtzX5qaDAuc/mCMuaMfkQK4xo=;bGsDGIljT2/FPNZbBpgffA=="
+secured: "xkjh93NqnSGzNq5P7UmAChPbF6NScUKZZAwRD8FvR3ogxEHTMBCdO9Wzb8lp7M5MPylCivUFptn94ZMilVyZfS+DT30Gag/ROOatuOyCjomrNa2mVi/X3rU9Wv89pruTfTQ5egeh9t4SgzOkod8eg8dGrodfsL+xZu735dgVXDzFx4z6C/ez4isvEPU9wHfXaGyj6+W5GoibqJB1YmCyY1z50Qv5kQjTB+WAF3Tl17+9k+nEBBnr0QEx7ix98aKbIBuKiqqr/HC2EqefoCKA0iT8NPMjFD1QRK9nE5IL28y3EGj/Tc27Ve7zNO80NfWQxhFebkJ2MbtIsmqKRkz8hEXbeO58sG5qxdxqG/2tPlFgRqnyq2PFeB2OWEPg610yv5IGXlBXyjyYbtWC6Vh6ab6wJjkqFe+OLFnWon15sIA=;khzN05nOLEu6FCdoBVW/zA=="
 ---
 
