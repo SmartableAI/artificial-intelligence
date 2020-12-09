@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -20,33 +20,32 @@ topics:
   - AI
 
 related:
-  - title: "Element AI Takes Workflow to the Autonomous Level for ServiceNow"
-    excerpt: "Element AI Takes Workflow to the Autonomous Level for ServiceNow On November 30th, ServiceNow announced an estimated $510 million acquisition of Montreal, Canada based startup, Element AI.  Co-founded by Dr."
-    publishedDateTime: 2020-12-08T18:55:00Z
-    webUrl: "https://www.enterpriseirregulars.com/167569/news-analysis-servicenow-gets-serious-about-ai-with-element-ai-acquisition/"
+  - title: "NOW Stock: This “Missing Link” Cloud Company Just Acquired an AI Startup"
+    excerpt: "(NYSE: NOW) is making headlines this week following its acquisition of a new artificial intelligence (AI) start-up, Element AI, which it expects to boost its AI capabilities. Element AI is an AI-based IT services company that was founded to help non-tech companies build AI services."
+    publishedDateTime: 2020-12-07T15:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07?amp"
     type: article
     provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 37
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2020/12/@rwang0-@servicenow-@element_ai-clean.png"
-        width: 1074
-        height: 540
-        isCached: true
-  - title: "Canadian-Owned Israeli Artificial Intelligence and Transportation Management Company Sold to Redflex"
-    excerpt: "RoadMetric Ltd's controlling shareholder, Toronto-based Rabbi David Hofstedter announced the recent sale of the company to Redflex Traffic Systems, Inc., an Australian-based company specializing in intelligent traffic management solutions."
-    publishedDateTime: 2020-12-08T18:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-19555772.html"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "NOW Stock: This “Missing Link” Cloud Company Just Acquired an AI Startup"
+    excerpt: "If your goal as an investor is to own businesses that can make you a lot of money quickly, then you must focus your attention and dollars on scalable technology businesses, like NOW stock."
+    publishedDateTime: 2020-12-08T21:16:00Z
+    webUrl: "https://investorplace.com/2020/12/navellier-template-2/"
+    ampWebUrl: "https://investorplace.com/2020/12/navellier-template-2/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/navellier-template-2/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 56
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://investorplace.com/wp-content/uploads/2019/08/cloud1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "Rno7jG94+oqzFyXULG4spuOFBwpgX83nc+3YByR9Kv1QQ2dB23bs5u83yWI+IooCrVcg5kh0Vpltm3r+CpJQHnsMiFlcX7+TQOxuvkch33e+aS6YNU6R3e+h6nUKU8jxwOLL5wxKlnh2pFZHiFJRUnSjhD48XlfHfQAXf/fTl2mdOR9wssf8K4I7NxWKvWtMfjk7sh4aa7xc9/4XErw1ewqRYtuVi0tN+NwHglBD+wkAs+T7XTwqSf111uxfe/9z0P0hGLFgpZScgMwy3Mc2cIFvTZJ7g0ZzSGs0jFI/3gw2VZ0e50KnLmlru8OoktKwr5JGRzBNEzvoaJMj8qNRR+A7UwYm9u6jIT4Zgmr/Zq8=;zoDVE2Q09bd1BH1Ecxk/Nw=="

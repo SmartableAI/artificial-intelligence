@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 119
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft Azure Synapse Analytics Now Widely Available"
-    excerpt: "Azure Synapse Analytics is leaving preview alongside Synapse Studio. Microsoft also announces Azure Purview for data governance."
-    publishedDateTime: 2020-12-04T12:48:00Z
-    webUrl: "https://winbuzzer.com/2020/12/04/microsoft-azure-synapse-analytics-now-widely-available-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 69
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
     excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."

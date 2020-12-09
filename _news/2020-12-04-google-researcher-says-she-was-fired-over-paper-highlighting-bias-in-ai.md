@@ -191,20 +191,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Google AI ethics co-lead says she was fired for raising concerns over ethics"
-    excerpt: "The co-leader of Google’s Ethical AI team claims that she was fired over an email she to colleagues. In her message to the Brain Women and Allies listserv, Dr. Timnit Gebru criticized the company for retracting a research paper on AI bias,"
-    publishedDateTime: 2020-12-04T13:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/google-ai-ethics-co-lead-says-she-was-fired-raising-concerns-over-ethics/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 51
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GoogleAndroid.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "E9J5RQrWn5WAkXASD8/T7xtu2j4cud73cI/r4FJYigKYvgD/HBqkAx8cOb+rgflLp/aVDJg1NWTGRySHkVAtKx54by6qc9TeHQFDnrhCb5HbH1pusi4Zv7d3XyqoRKkPPp3fen3/xYPAiIJHA18+9hoEGtRTqDA8SCmatedn6fM7bFLSWByIPxFduvFP8EeRRZ09ZNNNzAqDFUSmvd56Rt1syr/1iGeJ4Z5vHafAuDr0Svb8iXK+AlIFbNdnDMGiuRggQ3d4LN9X2+USthJYtJLzJbu7al8MuSgAm328JJ5CkDPcPriDoByt4Kx2Jd4kYo6fMWPaRbA9U+OJ2xMEbHEo4UHSWVI/7O00P5imP5B7w8qmzFNuXZpHbgTG2w4bz8OWniwvJ5X5kqxZt2YE6bRpIiwBg69DGLj9YqJmCZLNQAENE9LzUwIYPPwtJeHk/DHoYL2CFk/zx9wUllHf6Mp9W6l+zltooEzb1tiR4lc4LoM9U2HvlkIYKzV726g1LYMtu/5GQ8cf/XwnFpvIcw==;8W+L5B5R83Z+cK2VHDFgXQ=="
 ---

@@ -25,38 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Making An Impact On The Surveillance World"
-    excerpt: "Numerous states are adopting sophisticated AI surveillance technologies -- some legitimate, some violating human rights and some of which fall into a gray area."
-    publishedDateTime: 2020-12-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/04/how-ai-is-making-an-impact-on-the-surveillance-world/amp/"
+  - title: "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion"
+    excerpt: "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,"
+    publishedDateTime: 2020-12-08T21:43:00Z
+    webUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/"
+    ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Geektime
+      domain: geektime.com
+    quality: 73
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cc69863202e1c1b581ae8%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.geektime.com/content/images/2020/12/pasted-image-0.png"
+        width: 1077
+        height: 658
         isCached: true
-  - title: "Study finds that few researchers thoroughly test adversarial attacks on surveillance AI in the real world"
-    excerpt: "In a new study, researchers find that few adversarial techniques purporting to protect against surveillance AI have been thoroughly tested."
-    publishedDateTime: 2020-12-08T16:55:00Z
-    webUrl: "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/"
-    ampWebUrl: "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/"
+  - title: "Exceed.ai Completes $4 Million Raise for AI Marketing Assistant"
+    excerpt: "Exceed.ai, a startup for nurturing marketing leads, has announced the completion of a $4M seed round. Funds will be used to enhance the AI"
+    publishedDateTime: 2020-12-08T18:27:00Z
+    webUrl: "https://www.insidermonkey.com/blog/exceed-ai-completes-4-million-raise-for-ai-marketing-assistant-897966/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/08115121/Exceed-AI.png"
+        width: 1077
+        height: 658
         isCached: true
+  - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
+    excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
+    publishedDateTime: 2020-12-09T02:33:00Z
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-665964#!"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "iSHl+yX8228XczGeTRj2F7tYsDRBkQh+Wd1MqEFEFTOTXOVv9wI/5kzKKb1HrGapi9gAHaxBV4u9YBPiKJBMAs1Q7LzOiX7vTSUgiDiF08+GjEtT/V5SgnLWAhN+145dlndLL6FPnQoOGkqdQ0+spiVNQhRcrgqwq2z+5yYadwsL8LYrKcYucJHyAh9HaZg1V9wngdOu/0nYSJndBMqT84/aRPHe4cLejZdaipR1hkkj04GH7Vo4KuEjxvWbWJtrrN+4p2Uw/wOLK5y3k2+Z9irOpDqf9a3bFryMkuEJYDJDLD6ErUX8tHnLwxLn/FvMBI03uyCSk9CohVGe02q4CG7q6SwpMIW1S109P+r4Tuc=;3uhtYexCWDPFeCSDYcQ22A=="
 ---

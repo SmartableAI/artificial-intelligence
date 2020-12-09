@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Azure Synapse Analytics Now Widely Available"
-    excerpt: "Azure Synapse Analytics is leaving preview alongside Synapse Studio. Microsoft also announces Azure Purview for data governance."
-    publishedDateTime: 2020-12-04T12:48:00Z
-    webUrl: "https://winbuzzer.com/2020/12/04/microsoft-azure-synapse-analytics-now-widely-available-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 69
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/11/Azure-Synapse-Analytics-Microsoft.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
     excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
     publishedDateTime: 2020-12-08T14:18:00Z

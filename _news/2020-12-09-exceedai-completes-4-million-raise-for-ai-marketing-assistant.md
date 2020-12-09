@@ -44,12 +44,26 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-665964"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-665964#!"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "The Coming AI Revolution"
+    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
+    publishedDateTime: 2020-12-04T18:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "qdB8N/bkl+dn1Iu0VyqJS7pNIHmPL3QCF2cyFrlKUog5GE5AaFnnhgZpElGYjQw5Id97zczW0seA5sEQDQTz3raRa69xjM0jvc/V/jzuebxPrajXYaNWYpwbkKt3bEKH2CiSzik6SuhbGP8xA03fY+Q/2d9HLBLUzX8Nsa6CCyN5Ivsy8sRJSK9saUiuvYZ9RQtq9SndPQQ9gfJ6YO0H8cu45/mOaKYdzkQheh0A7W+DL2iCAm+OpmPgc8iIDHkqKXitNnjHUf6TQwboj/00TxrYuzampdENS3vKQJrIWtObr03WzmfWx5fahLrw2qLSTBwEqcwwEjGdpuEwN3Qq4MSUM3XkmudkPrsY7mdZNNFIi2zeOtWACmW1FwGZlb4rz16595laAkcCPJIosOTp+uFhfdXczdjFrfEpQUKcRbQi1ahfLZONrfQpICDJdcurrK7Nw0RtlDrbBzCMSj7pe0bFioWObuqufE9dh6y5+BdmN/MFR0beSiFIEsupvJ186thEsKV2DOBiGrmmACbIGg==;dPMje752mMLUEKeCUAiDYQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techent.tv/2020/12/04/antiprohense-research-wimi-hologram-
 webUrl: "https://techent.tv/2020/12/04/antiprohense-research-wimi-hologram-cloud-attract-more-and-more-attention-of-the-capital/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 719
     height: 374
     isCached: true
-
-related:
-  - title: "Antiprohense Research: WIMI HOLOGRAM CLOUD Attract More and More Attention of the Capital"
-    excerpt: "Antiprohense, a market research organization in Hong Kong, recently released a research report 'WIMI HOLOGRAM CLOUD Attract More and"
-    publishedDateTime: 2020-12-04T12:50:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/antiprohense-research-wimi-hologram-cloud-attract-more-and-more-attention-of-the-capital-301186503.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "Zb/nCXEa3t0pfcbVYLJmAJtAqYjqH6L0pcB8BJwh44woFFhzOBHV7NK7ONXbPYMyfmZwADppn//ogg1WrBKMJv73FYdGw8nQC3CY+sbMcGbWG+kaEJtKuL0j/CgZTA2lEuSdKTvvmwecvr7ZT8JXsR+WVypum4Gy3k7YaSm/yzjkQGSrs6WzOeqHwcNWZVm0lySyws0awLs5DB+UnfIdqUCFqi5Y2qKlnLJ2UBD91+t8HzkI7C225QC8b6OPG9qDIQMqLRTyLMRcqXUNqy7x2MhY5Ih7glvC9KD7i70sqF6yQtlxGcNJKXbaLucy6g5nqqOSK5owQYJginCJ1ifKpm5pb5/CDnFtPshD+1QqrgY=;xrXse2Mht3FnGrCyHpENKg=="
 ---

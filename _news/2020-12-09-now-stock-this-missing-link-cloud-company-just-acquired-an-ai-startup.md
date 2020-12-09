@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2020/12/navellier-template-2/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/navellier-template-2/amp/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,30 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "NOW Stock: This “Missing Link” Cloud Company Just Acquired an AI Startup"
+    excerpt: "(NYSE: NOW) is making headlines this week following its acquisition of a new artificial intelligence (AI) start-up, Element AI, which it expects to boost its AI capabilities. Element AI is an AI-based IT services company that was founded to help non-tech companies build AI services."
+    publishedDateTime: 2020-12-07T15:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "ServiceNow to snap up Canadian AI startup"
+    excerpt: "ServiceNow has announced that it will acquire Element AI, a Canada-based artificial intelligence (AI) company with deep AI capabilities. According to ServiceNow, the acquisition will significantly enhance its commitment to build the world’s most intelligent workflow platform,"
+    publishedDateTime: 2020-12-06T11:50:00Z
+    webUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup"
+    ampWebUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 37
 
 secured: "q3HM1pCkgjUtERajISHR3FqYwy9PR34lie1DMJawklYSLGvEkEhis43jgmkuyOaTFwQuM0VJTKyjvpMoIqM+GpSQpZGUfNsVVBPSVUfCFveyDEJU8jjMebMt+7lc0TubTSLETrLRaxB/TC6FDQjnU91qMR/52KkZyCEZGi/kn43j4+2zzmGl/ygfofqQBx7RIw/dLoHdIAH35aKdyUWPSOGIlpGWKrF+aHb3rAyXoeWwJ4a5qQbo14Zrm0lrWBEeKLkJb53bZD7yRbDs+YXnwnq1nEWXoUmUM15/OtBScywN0/y4tCfTrgXFd8gXVlNSescCAG5N3zhuRDlGBOlAgewq+YKbEO8XGYO+cBuY9TU=;s6/dEEI07OldxrHJ4bwVlg=="
 ---

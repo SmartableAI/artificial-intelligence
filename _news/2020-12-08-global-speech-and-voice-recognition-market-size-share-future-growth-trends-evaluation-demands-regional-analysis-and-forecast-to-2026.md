@@ -30,89 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning Industry Analysis, Size, Market share, Growth, Trend and Forecast to 2025"
-    excerpt: "Summary A New Market Study, titled \"Machine Learning Market Upcoming Trends, Growth Drivers and Challenges\" has been"
-    publishedDateTime: 2020-12-04T11:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-industry-analysis-size-market-share-growth-trend-and-forecast-to-2025-2020-12-04"
+  - title: "3D Sensor Market Expected to Grow at CAGR 24.73% and Forecast to 2025"
+    excerpt: "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with"
+    publishedDateTime: 2020-12-08T21:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market 2020 Growth Probability, Key Vendors and Future Scenario Up To 2027"
-    excerpt: "The global Deep Learning Chipset market garnered revenue around USD 6.4 Billion in 2019 and projected to reach USD 35.2 Billion in 2027, with at a compound annual growth rate of 24% throughout the estimate period from 2020 to 2027."
-    publishedDateTime: 2020-12-04T14:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2020-growth-probability-key-vendors-and-future-scenario-up-to-2027-2020-12-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market widen Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2020-12-07T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-widen-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Computer on Module Market 2020-2025: Adoption of CoMs for Robotics, Artificial Intelligence, Smart Electronics are Projected to Drive Growth"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. The global computer on module market grew at a CAGR of around 7% during 2014-2019."
-    publishedDateTime: 2020-12-04T11:33:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=387357"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Computer Vision Market Size, Share, Business Trends, Increasing Demand, Growth, Forecast 2023"
-    excerpt: "The computer vision technology landscape continues to undergo relentless transformation, concurrently creating new application opportunities. In 2017, the global market for computer vision stood at over USD 9,"
-    publishedDateTime: 2020-12-04T12:00:00Z
-    webUrl: "https://www.dcvelocity.com/articles/48238-computer-vision-market-size-share-business-trends-increasing-demand-growth-forecast-2023"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 28
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/89b71c25-6d63-44fc-88c9-d7760606ee76.jpg?crop=true&height=430&t=1607020726&width=640"
-        width: 600
-        height: 339
-        isCached: true
-  - title: "Artificial Intelligence for Automotive Market 2020 Global Analysis, Opportunities, Key Applications and Forecast to 2026"
-    excerpt: "Wiseguyreports.Com Adds 'Artificial Intelligence for Automotive-Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025' To Its Research Database <p>This report has been prepared based on extensive research and analysis of the latest dominating trends in the market."
-    publishedDateTime: 2020-12-08T14:04:00Z
-    webUrl: "https://menafn.com/1101247049/Artificial-Intelligence-for-Automotive-Market-2020-Global-Analysis-Opportunities-Key-Applications-and-Forecast-to-2026"
+  - title: "Robot Software Market Expected To Grow At A CAGR Of 47.3% by 2027 | Furhat Robotics, ABB, AIBrain, Brain Corp, IBM"
+    excerpt: "The robot software market is anticipated to record a CAGR of 47.3% over the forecast period i.e. 2019-2027. <p>The global robot software market is segmented by robot type into industrial and service robots,"
+    publishedDateTime: 2020-12-08T10:46:00Z
+    webUrl: "https://menafn.com/1101247664/Robot-Software-Market-Expected-To-Grow-At-A-CAGR-Of-473-by-2027-Furhat-Robotics-ABB-AIBrain-Brain-Corp-IBM"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 12
+    quality: 47
     images:
-      - url: "https://menafn.com/updates/pr/2020-12/07/G_2a43fbc9-1image_story.jpeg"
-        width: 278
-        height: 333
+      - url: "https://menafn.com/updates/pr/2020-12/07/G_18389f72-7image_story.jpeg"
+        width: 256
+        height: 337
         isCached: true
 
 secured: "tzqzkybMTSajFrpmC3gTk3DqFGKMxKKal22LkWjYxf1B/xf1AZ/cUChCFSwXYoMNwJRFIPMusXL9J5hAP2B6nXldhlbUsv0ZZgHFQhEDC5EdofX+Tp4QilLrDttoWIy3gY3dwJOOcgtKLIl1CYJ0Qb4l0cFlwchzXPzzq6j7R2TSJafDbY72QtTIIFQgCMilOT7kSJimVs0xlOfqL7Amdbs09PYVEsQe93Uc5VF/eBeXKNVbo/o1apql1Dn5OhpqbzW6jFTqDY7WHZiCMxbLbFMBfowZv8u1ryD/5hsSaRqoMBtZhUYT/2tUOrqoUYzCWBgNTKejuIkvxtMcwetutKnFHXO16uwrIRZ+/xHwrdE=;Ojb4MsznuKAJDXAQ59VkHg=="

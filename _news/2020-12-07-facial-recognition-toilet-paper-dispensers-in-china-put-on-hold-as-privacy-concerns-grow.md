@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/article/3112836/facial-recognition-toilet-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
         width: 944
         height: 630
-        isCached: true
-  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
-    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
-    publishedDateTime: 2020-12-04T12:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "FWkJg1l8vt+wpWhy2aXYGa0ZTeV+pqUmteC1wG3/SYB6FmvCXTCxzZ9DmRycUgcnFXsK2Zf8DLbFc1PC9npJtkVcKHgdlncpk3wxN/AyDwmJIF3oEfMDDdF5LsY6MycgIUxSl8ev58RvalB1w3/gQ6LxDtmBFgo+Un4YamU9neRSB2SL4LZOz3oQQJ34YxzM8qUzAS6+c4U3EqDHH4Za325wgpaLNsvlQDj3oMzC65WIOTcWM7xUHoFG5peSeb7DxEgGZo1b7/eLNrhCm+U8vGIut/UTAwsA7AbpPCytHy2WJ1euX+XL6v4MJXzOdNcGlRU30Ij8seYC4JwXSAlkH8Cfx9oXfdkj39eEUUZiyYJnEZ7ZCL0QslL1UfTBJCj54x235b+YfB43opW8CwLLxjqEGbqfCb4MqYkkGEH9JFWlIW+wpz1yhe6jc8QyFmyf6rd/+OGRq6kPoWUrdEMt3D+wkbjd1Q+VYspduJCYcEwBiEmQi48iQF1FkEcHaEDqwu+pB3fpOCMCMifR+pl6sw==;o+NHT1TWttG+OpkmiLJ9Xw=="

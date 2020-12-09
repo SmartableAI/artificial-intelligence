@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market widen Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2020-12-07T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-widen-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aK4qGDx37YZDtznr8miglqAK2LY2xX5fPh1X3reu7PggVctTZCO3x+fkniBRhZlbg5v5a3hCyxTt9u85O2P3g6hyYGOPVIe7w300E274SWOVRooPVzpZ2IErHl6nF63obOphiG5snDvQ8rsmP4u2m40vBX4TpdDO6Z6FClsjRxl38xfLVZ1YqtgEbL5Atoe5zP1fZ5ImVXgHMYTUq28//F44LAkzNpzGySG4PCiaJnGG2AcFIbMhB5W4pCjwc0Ve9fbGvMLBiQhZkpIFk0CKr9pp5NnhcK0FOYMP8kf97Bdb+oQUfG5uipzXwqdxsTqv1nH+BKoJY3VeqkI9nXi4yJYWBomJ/4j6T8cyURCpOFo=;oo9EfPHTByx5rRt0yLIizA=="
 ---

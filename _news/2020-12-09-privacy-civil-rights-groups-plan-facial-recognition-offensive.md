@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chinese public toilet with facial recognition paper dispenser sparks privacy concerns"
-    excerpt: "People are required to scan their face in front of the intelligent dispenser which then gives each person a limited amount of toilet paper to reduce waste at a public toilet in southern China."
-    publishedDateTime: 2020-12-04T12:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9017797/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9017797/amp/Chinese-public-toilet-facial-recognition-paper-dispenser-sparks-privacy-concerns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 52
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/04/11/36441950-0-image-a-21_1607080492014.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "29gAIEvulpMAIcHQHJJxf7kdiAkFtQLmzkzlOQbb9eLQ+qtfb+6mCioAoZwXpY5+bDYkpA+hQJvq8+yu4hQy6TY3+ZVXyG0l/QXoTiF0A3LnRK2LVe4lrq0KTYCqYNbNl7wvipOBz0Qo8K5jIFWOLZFigDew6M2xpbMoktwkTMRfxG1d8OBalgPjh29QwgnjMgAsgTy3HVyWZ/WjUhreHIFqgCq4CygzPqFofifXnPytXPh3T8JjNBosny7Vr3d5TvXAgdEusgg4gmwRFaJJRmT6MMvlN4F+1zSJspo0W9q2PRHjij/vUpXlFMvzhsGUU2pnBJ4AYuGOOEb0XzRiDp3W+5ziclxsxvYweof1qA8zDrx3jWoreVC5X8vUIJeKErtR248U7t7wVvP2FO6rJGyMWA8jCgYboVNMwH+rHCe0KSQNFhAvHhg9RDbXJPcgyAc/b2cjGZXFfyB/fm5VWMlyIGNLzaCV84iQCaNFugzdq55c8XZOPTxTP1jULHkDvKA2MTuAC42ZuRBkkXNO7g==;3gsaAchu2wHuDs7UAA1mCw=="
 ---
