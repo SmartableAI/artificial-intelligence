@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Columbia researchers find white men are the worst at reducing AI bias"
+    excerpt: "Columbia researchers find evidence that differences in gender among engineers plays a role in introducing bias into AI algorithms."
+    publishedDateTime: 2020-12-09T21:14:00Z
+    webUrl: "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/"
+    ampWebUrl: "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all"
+        width: 1200
+        height: 554
+        isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
     publishedDateTime: 2020-12-07T23:22:00Z
@@ -53,22 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-05T10:41:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 74
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702"
-        width: 1024
-        height: 702
-        isCached: true
   - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
     publishedDateTime: 2020-12-06T03:17:00Z
@@ -84,22 +84,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
         width: 1280
         height: 878
-        isCached: true
-  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
-    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
-    publishedDateTime: 2020-12-05T05:05:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 68
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
-        width: 764
-        height: 575
         isCached: true
 
 secured: "4ui1RinX76Byj39eXojgc0px9gg6UDnI6F1/T408aH6fkwlhBP8FaSe0D4NMmeMSYVQACxacun2IzyBmEpRUZZOpmt49NUQoYDy5YsyLpPGb9Rn8C0/84IFbdLuuVTLGPfVLZahVzVH5k6a6j9+Y6EaVSuVuIyVIDlpwBFJ3g4anCc9LKEJ4nEyV2I/8Jiv3m0mF1tANvPrq536m05PKBVeNyfrJAh+JXSAmZ+CfTYDvN+E81Ki8nIUoVa6NtkgVdNvm2Xt/tNT4MoO4+5q3ZcWHidtbBRDM3yBPh5hZ6I7cfDinA5HGGdko0VHbIhTWEaA+HuDB9japwXntUBKGyCUvbVRT0cVYOq3AQtJzyrk15tbA7b9YFXKrEEAsocfZ2dAPb6YmvB3YzBa9ZMnK+S/oXLIPnH1wOnHuy3va8yCkhen/i39OuDCrZAuFW/5meSvxTRdamAIcOKaHvngLPBwnvjMIv5y7hm8dGNB/0oogiUOuVH6yGrLhV5/n1WQIFS4KpsUQUSal9pYBRbfNkg==;lGBi+klCAozg4x51T7elWw=="

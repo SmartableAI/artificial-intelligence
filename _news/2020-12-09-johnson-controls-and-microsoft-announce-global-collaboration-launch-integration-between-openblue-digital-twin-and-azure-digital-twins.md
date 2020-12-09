@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
 publishedDateTime: 2020-12-09T12:47:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
 type: article
 quality: 22
 heat: -1
@@ -56,6 +56,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607450787_azure_digital_twins_1_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft doubles its money after backing C3.ai as it goes public"
+    excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
+    publishedDateTime: 2020-12-09T17:45:00Z
+    webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
+        width: 4000
+        height: 2667
         isCached: true
   - title: "Microsoft launches effort to fight corruption with AI and other emerging technologies"
     excerpt: "Microsoft's Anti-Corruption Technology and Solutions (ACTS) initiative will aim to stamp out corruption using new high-tech tools."
@@ -116,22 +132,6 @@ related:
     quality: 76
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Doubles Its Money After Backing C3.ai as It Goes Public"
-    excerpt: "The two companies announced a partnership in 2018 to promote C3’s software running on Microsoft’s public cloud."
-    publishedDateTime: 2020-12-09T18:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 74
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -226,6 +226,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "4RRRhZiVrWvDzbAnblKPDgOi7bY1wiTrjd/qlc6002H+leWk6kHy8i3c96Xbn82724eNOonA8pFe9n1Hx3sh7lBd5eIR/sp2pg1Qa6zftgBH3yvonQjZcE6Y179jw10ZyYWT2e2qLGWpueboIIgQcEktw3SR5GV06jKtInY3RqdsXWmknSR+e+FmBoldIMkIWaY1ifcz/Nd//eCxjKNowKAL7SO7xSKuyY3RPCw2oHKps7cAnl5K3oInibdQIZ6+AIlZvpW9JUh4wm2lYB4pwjd9jiU3WkTHASRWLTkzGdKomx+Zxvf4Vb4EMKqiEpbOBifH8v2WUSD4RpuKkVJi2Ps8bVw0CGq3wrtBToU3W8U=;kfkdYcYWC2HZfFbiXDAbQQ=="
+secured: "WC/qEhHfLyKfMDtjGb8HbWdWVoHfTV42awWiOWBf07UB/HlP//wBv0CmsGNXEoy4rsDvaiySTP0sS0wBZtocFZ4rJI+nVw9WbePYs47MuzUcvzv7eHZxQEHziPCmNiI6hz7KfqazngEjOZDqLZke+8FOEc0IkBlIiAK0/19KNtn8A3vipV53SwuGEpHzBrCyCE9sRF6JTMNfVm0Q82zyUyA6MMVFvCly4PTnwUwGgCvJXSUgaToSWFmlcMqdKvW6a3PzmhOnJKTsuKyXIeoXwPtWWRzQhmmzTqx5o9TPY9UFJJOvOu8kbCZxXZc2Ar5g1A9f/Dgqxyc1ZJjxvSgVqeSLvpTjHq1ksSCcuWuG5Vo=;KTDWzFtfM5eS0EKpxUmrww=="
 ---
 

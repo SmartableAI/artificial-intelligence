@@ -39,17 +39,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Raleigh News & Observer"
-    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-05T05:12:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article247617745.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article247617745.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article247617745.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 48
 
 secured: "ENVrYnGYQkXXTY8daLwmynySE1iL/Y2MGxuD7PpIQcp8w2f+kVEQ+r0aMojfY6G48g+HjM61FaHs3G5s7KNOHxsG9t9Z3156+AqZMZVVPqss5HBRuMN9E5E15H107hqb9UFDcXP4jDr63Rxx5x//yHTgO6VGQQhn4VzZExElfBS8uMZ6RhMDw+gWtgT1pltUcipembwFT2ok8dSNjA8ZMe8ZI/bXQsWLzYItbJma1A20UCvmeTEHK9/sd/dGvew6X/CPOjmktRXEgkyiQZlO8Cwisea0siQqYSdkRrakl2Kol1tvgHq5CSmZnhk1lxCYjD5h+7mb5RwvQT9LSFfHeEwFFLNjqviIAQvkkU9eoa8=;gtQwuHjb7Qx0y71bBuzhVg=="
 ---

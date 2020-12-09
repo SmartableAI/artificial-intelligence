@@ -7,7 +7,7 @@ originalUrl: "https://www.actuia.com/english/launch-of-a-new-e150-million-europe
 webUrl: "https://www.actuia.com/english/launch-of-a-new-e150-million-european-instrument-to-support-companies-in-the-artificial-intelligence-sector/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-12-09T22:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "IPwe joins European Digital SME Alliance Focus Group on AI - recognized as Top 100 Artificial Intelligence Innovators in the EU"
     excerpt: "IPwe has joined the SME Focus Group on Artificial Intelligence, made up of innovators and service providers focusing efforts on AI technology to benefit SMEs across Europe. Backed by the European DIGITAL SME Alliance,"
     publishedDateTime: 2020-12-09T13:17:00Z

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Columbia researchers find white men are the worst at reducing AI bias"
+    excerpt: "Columbia researchers find evidence that differences in gender among engineers plays a role in introducing bias into AI algorithms."
+    publishedDateTime: 2020-12-09T21:14:00Z
+    webUrl: "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/"
+    ampWebUrl: "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all"
+        width: 1200
+        height: 554
+        isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
     publishedDateTime: 2020-12-07T23:22:00Z
@@ -58,38 +74,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-05T10:41:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 74
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702"
-        width: 1024
-        height: 702
-        isCached: true
-  - title: "The dismissal of a Google AI researcher raises ethics and concerns about prejudice."
-    excerpt: "Leading artificial intelligence scientist Timnit Gebru helped improve Google’s public image as a company that elevates black computer scientists and questions the harmful use of AI technology. But internally,"
-    publishedDateTime: 2020-12-05T05:05:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/the-dismissal-of-a-google-ai-researcher-raises-ethics-and-concerns-about-prejudice/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 68
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-130.jpg"
-        width: 764
-        height: 575
         isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"

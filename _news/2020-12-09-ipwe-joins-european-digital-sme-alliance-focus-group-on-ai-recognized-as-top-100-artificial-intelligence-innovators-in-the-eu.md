@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-12-09T22:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Launch of a new €150 million European instrument to support companies in the artificial intelligence sector"
     excerpt: "On the occasion of the Lisbon Websummit, the European Investment Bank (EIB) and the European Investment Fund (EIF) announced the launch of a new financing facility in the form of a co-investment instrument ofup to €150 million to support artificial intelligence companies across Europe."
     publishedDateTime: 2020-12-07T17:55:00Z

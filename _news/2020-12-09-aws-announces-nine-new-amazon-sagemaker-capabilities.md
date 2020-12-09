@@ -1,28 +1,24 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
-publishedDateTime: 2020-12-09T11:13:00Z
-originalUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
-webUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+publishedDateTime: 2020-12-08T18:17:00Z
+originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: wallstreet online
+  domain: wallstreet-online.de
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo"
@@ -133,6 +129,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "VeR/57b2s+8WLwtvD2Hl4hB0o/BIISCrzbjW4Fk2Vu2Hm7x8m2c1xMWiUFTUznzPm6p7kA6GqxEnodZOXBcuGon+ibU699odAA1elEPpxu6fC0yueDBLKEDCM7LX+bSgseRhRmon2BndMt25IopmlplS+5CXIR10vlj8NBD2tt8CtnAII02Sk4pNzKifY4pZcqVWHCq9MQzuWwKNis9LSA/jphZqviAThhEkMAR9/o95foI4H9Ozf1jsvfDcFygfHPqJ4wEhlW1ExAD5Xj3ndK8V5vs1YeGDJmk0wnqUQ1kCFvT8eio6JXbhZ5SX6bWJPmgInpAd2dXmOrFe5vbuAXV/YZ98Vwi5RUKe7zzYMdw=;embHD6YrAwAMAXC9a/nmHg=="
+secured: "FzeOBOhhGy3Buhcso91aN5Jf7leeiCdKrpgToJwCUV8beEjZ2Bkt49I/DjR1fbDKrVrfH85w0f8CVOEHiFNhnf+SC8xDRPce9Zl2Z71ZiejvUPoeN159tYGRlKxYzeo+/7fb2I5qO/dnNjL0R4GFUf4cWz3uff2hfpK+rGMM354+x4WeeHnrtTPgTA42J3mLyFT4WpZDkimxNjDVB9nvNEfsrWxeVV5NC2HA/WszGoP9I5H2MegPh4mC5fN30zN/yBb5FCC44gxz57+I78Gl6lrascCyOghgF+2oqVUDybj3l2Ca98L8nGmlAsIGu2Ltd47W8VSRuuPkEUoOTIaJjBXfNs9VaFWI5QYh8Y+f9c0=;yywZUgOn6TsvEE3w83N2tQ=="
 ---
 

@@ -115,19 +115,16 @@ related:
         height: 385
         isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
-    publishedDateTime: 2020-12-09T11:13:00Z
-    webUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+    publishedDateTime: 2020-12-08T18:17:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: wallstreet online
+      domain: wallstreet-online.de
     quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
     excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
     publishedDateTime: 2020-12-08T12:00:00Z

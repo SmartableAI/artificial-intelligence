@@ -167,7 +167,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/innovations-in-natural-language-processing-from-ibm-to-help-enterprises-better-understand-the-language-of-their-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -425,7 +425,7 @@
       "originalUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -662,24 +662,33 @@
     {
       "path": "_news/2020-11-26-emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm.md",
       "title": "Emerald Jewellery unveils AI enabled mobile application platform for jewellery B2B business in collaboration with IBM",
-      "excerpt": "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence (AI) enabled mobile application platform powering the B2B business of Emerald Jewellery in India.",
+      "excerpt": "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html",
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/26/full/20201126114405.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T23:00:00-08:00",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html",
+      "publishedDateTime": "2020-11-26T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "Business Standard",
+        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null

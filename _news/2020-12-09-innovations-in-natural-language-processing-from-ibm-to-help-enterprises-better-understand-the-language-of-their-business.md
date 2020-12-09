@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/innovations-in-natural-la
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/innovations-in-natural-language-processing-from-ibm-to-help-enterprises-better-understand-the-language-of-their-business/"
 type: article
 quality: 94
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 990
     height: 448
     isCached: true
+
+related:
+  - title: "What are the Advantages of IBM Power Systems for Your Business?"
+    excerpt: "Technology never stands still, and neither does the business sector. When these two worlds collide, it is vital that you are aware of everything that is taking place to drive growth, innovation, and success."
+    publishedDateTime: 2020-12-09T22:58:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/What-are-the-Advantages-of-IBM-Power-Systems-for-Your-Business-144317.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "alhSM1gp8UgzWpbtQp6dabcunHB4vRvR2w1aAWsuxTIpqb/dRD98OvFuxD6wvCa1rufzHlBdow7BNPru2aFenwLx7MHf9EZG7KUo6zc3nDUgc15gMmlxiuK+rvy+0d5x3+GvuCNNlH/GhgPF7hcM3RCDg4zYVG3qF6z2ipC+HX4Q94MCPx4v/qqEWCZSl4cbtXnRCD7PiqS+4ShBwjGdg38efLojI8In96dVTD0qU8jmo5q/8dcj3JHLB/0mLh5eoJI1r9r7oMJ0glbTuq0EovK0yY2+JEgnim2hA862OWt751/h+C1ezfYwfxFfDzDBREjnP2n+SjEIVBDuhVLial7X5efa8Z8tUOlra7WjafA=;ppg60VVbwi98i+xrB/QaFA=="
 ---

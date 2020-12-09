@@ -45,12 +45,12 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664685"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666145"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 49
+    quality: 47
 
 secured: "SKsxYojteMLppXsut9gxxME7rawFVDQWPWAmgA6BGu9kFzDBwCwl55vIoFP+C8Qbc6PyzI3jLToTWZAoT7gsOusk8eFHJAPSzYe7dInQoKB5RNws6lFG59Zq0H8wohat+S5HTv+pcej1Qe0jiVdusT4+bmcRszg4XvwNreut8CSdGTsYLpdByZllucUP46zXh1vpzAu7zr3WzFuU7DfeHHTML2TNFWgI2206XFQX9RojKdI5lwNI88F84IzjOPzJ471MLlh04oyY2uJV2pBbOLDOQlV1nDvHIfVTiS1V1DGO8EHme0ZYoyW0cxOuVveVsQyEyhva1uUN8NRCaYP4b+OnljytuWj19kLnbt/Mz0bZfO1hlV9x797hzFT5ApGdSlUIGHy+BizQD9fOQrwGHrPT1rXYCYmpC/GCCFLje4tTULGuAHvM/kQ031hrjem1tP4BLnGMp8fY5XFJ3vGyd0zSv/QhEbfjUcPGpMY4srQEkaeZyO5eIKcPR+xuLhiAbwwcRM+LRYzRIcBdGF4yzw==;NepMwb5QX8RbkHoIJMz7zQ=="
 ---

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
+title: "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-publishedDateTime: 2020-12-09T18:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+publishedDateTime: 2020-12-09T22:50:00Z
+originalUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+webUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
 type: article
-quality: 50
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655"
+    width: 6271
+    height: 4181
     isCached: true
 
 related:
@@ -54,7 +58,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Watch CNBC's full interview with C3.ai CEO Thomas Siebel"
+    excerpt: "Thomas Siebel, CEO of C3.ai, joins \"Squawk Alley\" to discuss the company's public debut. The market will do what the market will do, says Siebel. This is a financing event for C3 to enable us to meet the needs of rapidly expanding demand for what we do."
+    publishedDateTime: 2020-12-09T22:02:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/09/prowatch-cnbcs-full-interview-with-c3-ai-ceo-thomas-siebel.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106808683-1607532026099-2020-12-08T183156Z_1175983302_RC26JK9J1U2V_RTRMADP_3_HEALTH-CORONAVIRUS-VACCINES-CDC.JPG?v=1607532093"
+        width: 1840
+        height: 1232
+        isCached: true
 
-secured: "Uhd3UOTzFI5fZx7uvKATTmSAmFnh81YJHYNo+6ngEQcfWz6X73lKAu1IX6quYmHCMo4VTDas7QW2eQTGsjewfi0zHtqxEcnzMUzhhNJmxpFmCj5bpQ2dlP7wIbu/H4DYy1Js9s1Ved6ElWlFj69s3SsCSnT2YXsdJLzjV2YgmAjm5SDD/ITRRu1hn3VNkoP7WtFO3YXtLNLUyRIutXsfbtfkkuzkF8TsLXtQ6YmsVtZ7/FCZFsmq+GDKcxVg9Z0Ts6eBdbKZ1eobZsLVcLePP5DLOiACdoEOlNC+Thdd83DuTw+bH7AUs71TWx3WMQw227pWgXoWCV8AIcK52SA8FFVA/1NFY3KkHf9iynqUJm+MoEljxghPw+Oj5KIUl9dNi/0zWhRdJFXwcjQOFwMhuxJ8BxUXheW0eE3jx7xYMWSclrfgFjmOz69yPrNIx/bX/Ya1WN/WgbwUATOJ08fKkN/1z1k/pf9oS7aLddlYU9XP6z8cKhaeN5PaVFXNoMfTosKHy7IOrHPJ/OicD4ZFdQ==;aPQt+VSj/yRyeMO4Pnz8mg=="
+secured: "PXuLJ4E2+c3FqSWLv5a539faWCXsz22k3tNyUrPlMyxQFcznVSzLHNYmpg6kXpLeD0oGepj12p/+jWR9TdPXnxSSOfOqCPqZJki5pJj6uEimSQxzsD6gvqTFP4dAVdxRPGz+J8o7sqXOJzM8UJCHADONEMcwLH3a/XWLODu5CXKmaQqLrXJEEOX1aOTMXaW+vYA/9YVYC/Zc68a1BxiS0o+j+HaWakvPehP9bOW+8I5mrGoMX9g36LocxTkUfLZeW3ch1tWpxkrIfk/4PGwghLoIOjy2vcBq/jWvHFHoeHn2thXs+paiJP3OGhWBlT+lO8LvzHALOTBvJc/C0bHd7Z7Gr6Q2co1qR8d32ePsMWQ=;rnqiDxPQPciXRY4Z7IKs3Q=="
 ---
 

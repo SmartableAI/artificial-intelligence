@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Emerald Jewellery unveils AI enabled mobile application platform for jewellery B2B business in collaboration with IBM"
-excerpt: "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence (AI) enabled mobile application platform powering the B2B business of Emerald Jewellery in India."
-publishedDateTime: 2020-11-26T07:00:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html"
+excerpt: "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind"
+publishedDateTime: 2020-11-26T12:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "vLXaZ8SsjLrIz+Pcg+bUpSmrDm9HkzGIbz8Xcs3vhAn0CRCJK23ZXSDNPVavekRlQPkZmWDMTpPkfglJQo7iJJMWKmBpoejbB045PWSdRuxC77CnkG1030Se5lCUFvWWiS+AqWNHoCJOhFS2IlRzt1nB7v/moT5QVkNiehnLWRoZooj2ehS26DHJjYJWo+fq2hVRDZ65aDZdXlrb/aFvKix2VIWLtY+SWFCr2L+kc9zl3PMBoilmHeegYXg4y33aEm3omw352VyVSWzH7CrQdURe4JMJ2ceX7ksOAmbbXBVjPYZFUtbBTonqnlTuMiq0XGZAI5XxVCZZun0WZuJUwk2utIvkffnD2ieiax22lpg=;NxIb1Wu1cEIInP9jhYj/mA=="
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/26/full/20201126114405.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "CW8CvHX8Vy7I4VasQicBcMd9JneAg5emlp1PdcH7ui5z+0qchKOehPsGERkfDABNnWHmjhCBcerV5PyHx+gxDJkZ8aw1Mpf2q/f6JRt/TlaNH4LcPgeiWDy0C7Bsk3Paj35WLiSAJLzhW6NKSh9ryxi5IdvT8hbYKPe7agxJNdWKzUirpB/49IbVqNXmyzivu1q6JxaqBjzDXHJ8jQlJxiy8qNLl7IgElwo0v8kRcijXcvjxz9cImrPtVjoHxVBTWxT9lbDsE9Op/ySrOlukAqsj/Czs7DBst+H/4Xe/pPgoW6n1zy6WPuVoVPEJr/zva4XtPmKs8BwkLPGpiK6vh7r+gLrZ/iMbDd05rg0BCeI=;LD1I3X8BnUEr/PR4S2UCPg=="
 ---
 

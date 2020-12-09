@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Microsoft Doubles Its Money After Backing C3.ai as It Goes Public"
-excerpt: "The two companies announced a partnership in 2018 to promote C3’s software running on Microsoft’s public cloud."
-publishedDateTime: 2020-12-09T18:50:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+title: "Microsoft doubles its money after backing C3.ai as it goes public"
+excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
+publishedDateTime: 2020-12-09T17:45:00Z
+originalUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
 type: article
-quality: 74
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/12/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
+    width: 4000
+    height: 2667
     isCached: true
 
 related:
@@ -203,9 +207,9 @@ related:
         height: 553
         isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+    excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
     publishedDateTime: 2020-12-09T12:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
     type: article
     provider:
       name: Associated Press
@@ -226,6 +230,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "5i1G+yAY4b2ICeeouSdMQghQT7M4+aEl43MNw0bB1+TNwPSFhYXO+14Md74kGNgNRsKFQBhdNhUfIH3RaO8jkmxSoYn4miNT3YPZCHa9CUiA9uKlzpKV7GzFVHGTtwWXkO6hvL2S/bQj09Ly9x6p1aR0YrneAlHT2LRdXASKp6uQidCpa/kqHEf6hvkHnBN8eK12kFKDD8pWYPAPh6S4JWU0GYodO2tFEBDERODuzpcfENv3HP5PqfNuSCgMKvPFapIlaUwH570vlFn3KomIjt0xHbVQHNoga/sUGy+iEVjPChkrA6YuELFXrKQWKujX4fPeAMyFL+OS39nIlMUPTQAoFQgT8ZIvkDGG3MJ5FsA=;kVb9C+3pH2WqFOtyN3viKQ=="
+secured: "N3veQzU7vOyk298Y8zhGtrskLwDCcavgT/Scj4hltpwlp5Csgyo3mWg9N92BHTLa7jWFmB0+5E0VIZtJ4rLpgOYcfAPGzQYUGUr7HS2Wme+JO+fMEm/yV8ILZGICRmTDG1Y3KXMXYlAm1pOo6kMkOLfUz1buSL1E1Y9oD0KyI1mrMpNyD15VpP4WERWcMsPT70I+jK9uP6dzbYaLC+FN/anYJ2VTsVWQ9gTVuaeFUhL5wyi05ELOtkQKtw/+LEBniYOpFwH4YSTtI3o9iagzQxTUOYqEuScdh9k162ZTTs7pv6GEetMtUlSYGC+r84pB/v9mZQ2T0foOacjhIc5Jxm8bK9iLMnE/K7jHt2+YsQM=;6Z4b/qdlAB48L8iQhr43Tg=="
 ---
 

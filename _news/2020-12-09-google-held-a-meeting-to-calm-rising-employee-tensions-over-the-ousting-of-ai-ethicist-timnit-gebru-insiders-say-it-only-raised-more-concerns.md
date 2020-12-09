@@ -76,6 +76,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Sundar Pichai apologizes for how Google handled the 'departure' of AI ethics researcher"
+    excerpt: "While Pichai did not say AI ethicist Timnit Gebru was fired as she has claimed, in an internal memo sent to staff he pledged to investigate the events to led to her exit and 'work to restore' their trust."
+    publishedDateTime: 2020-12-09T22:15:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9036345/Sundar-Pichai-apologizes-Google-handled-departure-AI-ethics-researcher.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9036345/amp/Sundar-Pichai-apologizes-Google-handled-departure-AI-ethics-researcher.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9036345/amp/Sundar-Pichai-apologizes-Google-handled-departure-AI-ethics-researcher.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 66
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/09/21/36654970-0-image-a-2_1607549856966.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Google's co-head of Ethical AI firing triggers controversy"
     excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
     publishedDateTime: 2020-12-05T14:31:00Z
@@ -103,6 +119,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZ3Aizn7yjA/article-cover_image-shrink_600_2000/0/1607288835258?e=1613001600&v=beta&t=yFaZdaMkH8ewkqKLh90qZeD8-Pp4ajVI4-3bbx-Vdpw"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google CEO says company will review AI scholar’s abrupt exit"
+    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google"
+    publishedDateTime: 2020-12-09T22:38:00Z
+    webUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "4Uvl+PdY6vGXjz/ROScMI8KNbpycsUnHon7LQy13ue7WOdl3fsnvYbH7CQvMHkKbUBCe85/Oz7PAv3F7mOmlRlY+1ALms033lE2T00FKEMRe7zw8sxY0iOe8gfEApNmYkmWjiQr3nr4xroakYmnD2cX6wzqkFbi2hhaQaTW38XJZQmZbbg1kmsZEPehnOFc9CNUMSycDw6kHcGu8wtuaRnmk61iBUMG2PoLKhnrvr/8LggnmsFvKB0unRSwuqru5mVMAOUEB/U5tbuWeIZEGhvzLbV/UCRKvMBiW7ENbPvXlxAvZknUlSSwQ+q27LxhC1/VHJ+zsWGN95+kCfdY8Bv6MHms0u6kSeZl3VorGjfRFRg+35t46CcDCsK5cGAcmwrgiv8ipKU2t1/wgRSfd3KdryASonx7q3KghU+Xd15QMRE2u9AaL9F7XxMo4tv9du2sSHguzajLaGRw/VOix+1J2SOBrs5bXPlmZZ4LGTWHqT3ZjaEjDtVOn5KaVEg9t89s0qk/KfwVLexRZ9Da1pg==;1/AArfW4EKP0o9q8Tfl1iw=="

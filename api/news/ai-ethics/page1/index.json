@@ -10,7 +10,7 @@
       "originalUrl": "https://www.engadget.com/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -219,7 +219,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -260,49 +260,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-ai-ethics-scholars-exit-adds-to-googles-employment-practices-woes.md",
-      "title": "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes",
-      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and",
-      "sourceUrl": null,
-      "webUrl": "https://www.insurancejournal.com/news/national/2020/12/07/592999.htm",
-      "originalUrl": "https://www.insurancejournal.com/news/national/2020/12/07/592999.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.insurancejournal.com/app/uploads/2016/12/Google-headquarters.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurance Journal",
-        "domain": "insurancejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -454,6 +411,50 @@
         "AI Ethics",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
+      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
+      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wivb.com/science/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "originalUrl": "https://www.wivb.com/science/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wivb.com/wp-content/uploads/sites/97/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280",
+          "width": 1280,
+          "height": 878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wivb.com/science/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/science/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "publishedDateTime": "2020-12-04T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIVB-TV",
+        "domain": "wivb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
       ]
     },
     {

@@ -7,8 +7,8 @@ originalUrl: "https://www.insurancejournal.com/news/national/2020/12/07/592999.h
 webUrl: "https://www.insurancejournal.com/news/national/2020/12/07/592999.htm"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Insurance Journal
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Raleigh News & Observer"
-    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-05T05:12:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article247617745.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article247617745.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article247617745.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 48
   - title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
     publishedDateTime: 2020-12-06T12:49:00Z

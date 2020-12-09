@@ -27,6 +27,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
+  - title: "AI Newcomer SambaNova GA’s Product Lineup and Offers New Service"
+    excerpt: "During the last couple of years the roll out of AI-specialized chips and systems has steadily gained steam. Today, for example, SambaNova, announced"
+    publishedDateTime: 2020-12-09T21:48:00Z
+    webUrl: "https://www.hpcwire.com/2020/12/09/ai-newcomer-sambanova-gas-product-lineup-and-offers-new-service/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-09-at-2.50.56-PM-675x380.png"
+        width: 675
+        height: 380
+        isCached: true
   - title: "SambaNova unveils purpose-built AI machine"
     excerpt: "SambaNova Systems Inc., an artificial intelligence hardware startup that has raised more than $456 million in venture funding, today is introducing its long-anticipated computing platform optimized for AI workloads."
     publishedDateTime: 2020-12-09T15:24:00Z
