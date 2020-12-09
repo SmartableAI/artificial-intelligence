@@ -26,83 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity."
-    publishedDateTime: 2020-12-05T04:10:00Z
-    webUrl: "https://edition.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
+  - title: "Google will investigate the controversial exit of a top AI ethicist"
+    excerpt: "Google CEO Sundar Pichai has pledged to investigate the departure of a top AI ethics researcher, according to a company-wide memo Axios obtained. Pichai also apologized for how Google handled Dr. Timnit Gebru's exit."
+    publishedDateTime: 2020-12-09T20:55:00Z
+    webUrl: "https://www.engadget.com/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 101
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fb5e9b210-1614-11ea-9fee-f891d28bb48a&client=amp-blogside-v2&signature=f9d4ac23559133c63b810b38c30aa9fb7f00b2f8"
+        width: 600
+        height: 350
         isCached: true
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in"
-    publishedDateTime: 2020-12-05T17:41:00Z
-    webUrl: "https://www.wktv.com/content/news/573302281.html"
-    ampWebUrl: "http://www.wktv.com/templates/AMP?contentID=573302281"
-    cdnAmpWebUrl: "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=573302281"
+  - title: "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru"
+    excerpt: "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist."
+    publishedDateTime: 2020-12-05T17:12:00Z
+    webUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400"
+    ampWebUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
     type: article
     provider:
-      name: WKTV
-      domain: wktv.com
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 73
     images:
-      - url: "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg"
-        width: 640
-        height: 380
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics – Jaweb"
-    excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity."
-    publishedDateTime: 2020-12-05T03:37:00Z
-    webUrl: "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics-jaweb/?amp"
+  - title: "Google's co-head of Ethical AI firing triggers controversy"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
+    publishedDateTime: 2020-12-05T14:31:00Z
+    webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 69
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 56
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-widely-criticized-after-parting-ways-with-a-leading-voice.jpg"
-        width: 1100
-        height: 619
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/44/944cc9e0-35fc-11eb-9807-9fa2013d419b/5fc9db821993b.image.png"
+        width: 280
+        height: 350
         isCached: true
-  - title: "Google researcher says she was fired over paper highlighting bias in AI"
-    excerpt: "A well-respected Google researcher said she was fired by the company after criticizing its approach to minority hiring and the biases built into today’s artificial intelligence systems."
-    publishedDateTime: 2020-12-05T04:03:00Z
-    webUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html"
-    ampWebUrl: "https://www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/consumer-reviews/sns-nyt-google-researcher-timnit-gebru-20201204-6odgtgfn3rdyxc6beovsqm7cgm-story.html?outputType=amp"
+  - title: "The Future of AI Ethics Hangs in the Balance"
+    excerpt: "DeepMind Claims to Revolutionize Medicine But Questions Remain  Google's DeepMind unit is good at feeding the AI hype machine, because after all, its very future depends on it. But judging how Google treats the future of AI Ethics,"
+    publishedDateTime: 2020-12-09T12:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-ai-ethics-hangs-balance-michael-spencer-"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 57
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://www.courant.com/resizer/8OO_bJ19hF6ZfozqJsofSlGtLXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V5B3XJ5BH5BBNINZPR3G2OVVLQ.jpg"
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZ3Aizn7yjA/article-cover_image-shrink_600_2000/0/1607288835258?e=1613001600&v=beta&t=yFaZdaMkH8ewkqKLh90qZeD8-Pp4ajVI4-3bbx-Vdpw"
         width: 1200
-        height: 900
+        height: 600
         isCached: true
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
-    publishedDateTime: 2020-12-06T16:52:00Z
-    webUrl: "https://www.kitv.com/story/43009713/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics"
+  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
+    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
+    publishedDateTime: 2020-12-09T02:39:00Z
+    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
     type: article
     provider:
-      name: KITV
-      domain: kitv.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20138709_G.jpg?lastEditedDate=1607119757000"
-        width: 500
-        height: 333
+      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dAoe9Pd1ov0YeykvdjL4tggXJs6wVAfyNxDwsVGeI/LCWbEP5QRLO9ym9vJvsMNnPn7OmVcn85OleFICrGp0VeMItvxnsYq5grnEyv2Dk8JboNY+3TcWN6uNayQe6ivygANKsvZjw3DI0RE/+yueRT+UopeD89+HUaU90t63NbINzU5Um3OS1jqfvcKm7E/gGPYTowWO36h53nHWl6mJSOASwXXeYQWlnkwCCQawu2yY0Y+pYHz/d3qxiK7CyRi9APnrzu8rftWdJv2X+rsWe/z2BljuonomhDHHB/sORIDcHvm9Ii9YBhynO3zWMvnYtHPDscRMq2CEtE9xUNaAejK7IhupOH8dmX2l2Z2CMWA=;MUTHRRp9AZWzrryKw5RqNw=="

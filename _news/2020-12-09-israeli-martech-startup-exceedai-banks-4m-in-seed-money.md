@@ -3,10 +3,10 @@ category: news
 title: "Israeli martech startup Exceed.ai banks $4m in seed money"
 excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
 publishedDateTime: 2020-12-09T02:33:00Z
-originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666087"
-webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666087"
+originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664685"
+webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664685"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -53,6 +54,6 @@ related:
         height: 658
         isCached: true
 
-secured: "oKdLEQajgzHEbQ7fX9hkYh+GxVmc3ea2xS80hBuNkzZTj8Yc7PiNak1cOlJ1ezaaRGu5/volcifceJt5/MVZ4UeogTmhKfsj4IZcEpZAJ2e6GJ776HBUWlorl8WMQ09IUWg05GN//7PJC/Jlsy5ZwlqR8PPUoCyzVhGcJeLYj0vnA41HqRWtxHQVqNkNGwMKpeJh0+BcVnl1+LgIITsPGWsHLY06XxLIu5jRUGsypzh/oHZhcynLOZtYX9gKQwyGCWWB2bFkpede/WiFFE0DlxjWvygfp8hJ66pl+yWDGuPo68aH2QL3lEcWyWnT73cvMaFDy5N5TLutgrj8j13LuJDyAQljSkQsP1XWJ2AChK5k76LSHV9RkDmzThgamEaJCXlIflEomW3eLM3AfI3n5DmlghxqVANIkRqsXWpjP0lD8kBoruxcWnWPi7xkLSMosW9uBEs9am+a32tVB/MsiCbwNgAm80Sa9jSYk48cyaSkt4N0WOG9F/SlwVGNuXEiDJLaL7UNyrdEFJXTViI9jA==;JJ2HYFb2vrQvTeNRo2x66A=="
+secured: "N9FC818TZPM94BebRATUfEJw+rDnfxsNcBqcQRWt4xTY7dVIuwGtZppd/sx15oK4MRMYt66Im/6Cv5HWkNPgvG4/GbdWw9mL7FkbHY+f4x+YHU6rfrdyWXiMaJG0z8qrqEGyAPzBUH/XR1uDiwdM2Q68yHSqc6lmm4ROG/I1Zu26bFETnnn2UTYTtCsb5DTs9wBFQ61JxqqxHkVUP6KeTdNpY/A0iN8UsaxYn1Ft48P/wLfXQWNFE+yQIg5ZVxpYTuzPoyTuNumTBbana97BFP0vRC/YbwkscIU1cowLG+V1ETVCEjfRfDl7EEBnT+fuvM8wFNLJBYLrGKuStKO6ZcA9XaauFV27LV1o5geWVyV2W4TrZ+y+EPp6Dzbcm1k0ngg3Fo9aK2db7n1tagQr4ijmAdJqThmjd7Pd6h/uFlDvWkCelj1nUNNRUrlolVM7A+0Lkw2Z/XmlOHinSYNX+eozM5t4QSC4S5zLFc+fHa/PafUIVRkivhRs5vp7kKWpwdR1kWjXmOCftr3Hltkz+Q==;c3Q1p1k+zyq9xaX5UgegRQ=="
 ---
 

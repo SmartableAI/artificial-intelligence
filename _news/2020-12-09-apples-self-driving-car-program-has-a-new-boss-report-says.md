@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/apple-self-driving-car-program-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-program-project-titan/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 300
         height: 212
         isCached: true
-  - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
-    excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
-    publishedDateTime: 2020-12-09T15:59:00Z
-    webUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 19
 
 secured: "e+46GrBpr/s7boGubmoixNSIpwLuIuNbXWgYWviknM9Q/LOmIa+knYsoA2M1+cOWulak9px4LvE/N2eNtnLhVpKZvTRK+i/oOeCMTBFS11JVaiJvr5STu23v+AYgJjjy2KVyhfefDli2aCFwTq15I8sMszUbWbIifBJ4eCG3XHgd0Yy0hzXT9rCgIspZm5Fh91BKgGqPdgNTItOipoeQF5UsJwsDe0oLQ1WbDMBah8TibVsHJAoL9woaeG2geue5vycae9H8sDjvsk0++05o/YCap9BDpKhd21lSOSjfoLM5JnnUmTknMeNFQvrtoKGe+PjGH+9OIPaRTtqswFlEZMr3MyqVuaZox8GWZv1327E/mF2TaKlqKSLp5ZAyvQmXd17JVeDRTKxrSjrQqyA52fgXok0NBCZ0vw9F3ObvgRd8sJEv8WOOSegoH+GILF1KjJExw3+cvSOjZheIZpgddWaztzg/jMqX4uaT6/qhI27BSnzimU4y1zz0y1TXf8H2os68cuUD+HeYepOPnuRxVQ==;kB0JjlKgHbUMz1QQQu57KA=="
 ---

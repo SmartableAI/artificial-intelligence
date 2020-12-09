@@ -8,7 +8,7 @@ webUrl: "https://www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-br
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/amp/"
 type: article
-quality: 94
+quality: 96
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
@@ -62,22 +63,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607450787_azure_digital_twins_1_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Microsoft doubles its money after backing C3.ai as it goes public"
-    excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
-    publishedDateTime: 2020-12-09T17:45:00Z
-    webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
-        width: 4000
-        height: 2667
         isCached: true
   - title: "Microsoft launches effort to fight corruption with AI and other emerging technologies"
     excerpt: "Microsoft's Anti-Corruption Technology and Solutions (ACTS) initiative will aim to stamp out corruption using new high-tech tools."
@@ -122,6 +107,22 @@ related:
     quality: 76
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Doubles Its Money After Backing C3.ai as It Goes Public"
+    excerpt: "The two companies announced a partnership in 2018 to promote C3’s software running on Microsoft’s public cloud."
+    publishedDateTime: 2020-12-09T18:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -230,6 +231,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "jgx9OloMj6FJnt5+kDdbYnmgnmzhDySPua9r9t2XC5fXfPko3dQHVFSdhwB6EAePZroceaC1o4vk40QKFRf70WK1HtZHVOwrYNhW4uYNIOF3b1IYGMdIR71LdX+VGZdjwqyKTwD5MNhn863bxCdJo8Ju0atY/5VlbH96D2gyOaPwwFZCesUYWQz9XBYezOtq4z8QiMIDSOil+9i7OYduq2ozVA8ibouo8GkVLZJwZFxCkOz1pB6md4XmmYLU77sZq1InnRXn57CqxWd4yj6iQTJWTyJRSVQ15g8vr6QX49ZYhdHWd5PIwfTqWDVqOJtUJlG1PyxXDIEigc/V+doqCOFJzoOkVt/VFQNm4qwDH0k=;xtd6ieAJkjdjFnqtAI1Rqw=="
+secured: "Zu6W2fZuIERVlfpGf/nckZTQ5SujcoCa8uAfkwjjNfSLOUSdm7Dm8uUVyvfNEI4NYizjPcQd5OhB187h3ZAVGuxYiHyqcXyM9ck83IMTPkpchaXncR3m13rKfp2fedr+PTRrYbI1C2A1jvprM+M2l+ZaapVemKWl0qBZkErzetAglEZSsgSGPa9y88A4oziq/+qWDitovnJk+6Fyycu81hxUI+khBj0Ak0sb+megzipaq9TiiKhQaM4CClKajs841/VnKvsgfi5JlgninXE1jyhQDUMFtMUoe3CU0m9UIDpRYsJI665g3JvEnlcEzwUu6wu7GX4IObmABvtW68GI3LFIMEPL8fRpzAlfKfcU27Xl6r8kXF/mXpjQSuVR2xcLkW6//sEBZQKaQe9w6SDtzqvq8TckAS2tPDZj7qiV14lBM+lrR602mWpAsD5jnwTDmOgCLjR+lGXu4GFR7SzDAkjLf1rAFjGx+Zr7LKGGAg1pOtxsxnaBK1gQFj3Gh1zosXaB8gRXHqbLorp1HBrqyw==;VMaRHQqTSyGAcB8xkgyn7g=="
 ---
 

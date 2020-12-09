@@ -57,22 +57,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft doubles its money after backing C3.ai as it goes public"
-    excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
-    publishedDateTime: 2020-12-09T17:45:00Z
-    webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "Microsoft launches effort to fight corruption with AI and other emerging technologies"
     excerpt: "Microsoft's Anti-Corruption Technology and Solutions (ACTS) initiative will aim to stamp out corruption using new high-tech tools."
     publishedDateTime: 2020-12-09T17:54:00Z
@@ -113,7 +97,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 94
+    quality: 96
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
         width: 630
@@ -132,6 +116,22 @@ related:
     quality: 76
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Doubles Its Money After Backing C3.ai as It Goes Public"
+    excerpt: "The two companies announced a partnership in 2018 to promote C3’s software running on Microsoft’s public cloud."
+    publishedDateTime: 2020-12-09T18:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2020/12/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -226,6 +226,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "72MC1kNEl7U92KpTp7EagV9Jvbfx4qEpEdXCcV6nUmy5YYcpFwAWJBYncr8gp9sr3DgsL1Ne3CIYtJjU+SqH1Lei/aFu30FLSfAzR++qitcgls7DhZ24+smf2aeiAxLXbRPqa1ZxaWCe4esdpzklT6QmRsuCJlq50EEUCZFqpxA1ImElPn3wt6dJj+RQWpNvdpuy0tuPJqRpsm8VFkpUGRdzp5FLLsByDRFTWHURmXSptAC81fkREOYRaE5i0bffO8g9hT8o468a+wlnnvjCrI6yghiQK2A6W3Epih6KFdfs/Bz1/3Gg20vBpaka2jfwwpURbz0Xxk1Gt54JgE41s6IME7ZQhubjlCJoN4Ii3Ko=;EZT6RGKJfUDG0/oH11t+rg=="
+secured: "Mkab+WAEy16w+urJWsWRXwCYXiORZaj191SA/eytxfpPIGu5CHf8Q0hAktQ/pUP2Frwk9TmW0AIT9aELPWlPUM0CAsEpNHB/2a56mPLr+izi831/sqDg14M75NP9wa0PQg1hRXsdYdPtksgdDcX4soCCfLNmtqo+cVWRu07NGkDKvaIWU3s+/1he9AGjUdfIwFMxrCYH01AeLvOmT3IpJlWfddHmnbYiIP9fXfsyyhTNrwVHUdJMAQr9tCHsciGG8X79+U6Tx8RIR9nPd9oi2Hrc5Wx8Ae+bS24AcNYnWHdNwVtwJmYDtjIXgFT8TNwAENHcw33boFuMNjbKsihu+0ZAhw0hvAkrY0yoedrxtLTsIYCd6Fc3iBfBx/eZMaR+5R4I+FhfdL9GED3fs1xPBeD2JOkuiIZAuHtRiMmYmzUM7qSCvkH3MW4weT1OzU+TDaQ548AkiuDuGftPOA6pQHI2HrpgXG526GBWoSnth4FFHm6ezVkj1mXHY0ic1oeb16fGBWSycg3K0LaRKQ2hXA==;pmA95v++SI0SopVwmKmkCg=="
 ---
 

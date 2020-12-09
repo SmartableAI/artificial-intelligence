@@ -58,6 +58,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Software firm C3.ai skyrockets 174% after $651 million IPO"
+    excerpt: "The firm sold 15.5 million shares at $42 each. C3.ai previously expected to price shares between $36 and $38 before the Tuesday IPO."
+    publishedDateTime: 2020-12-09T19:38:00Z
+    webUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://images2.markets.businessinsider.com/5fd11710240ebd00126bdf8b?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
   - title: "I, IPO: C3.ai brings artificial intelligence to Wall Street"
     excerpt: "C3.ai brings artificial intelligence to Wall Street originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com. Investment Disclosure: The information and opinions expressed herein were prepared by Renaissance Capital's research analysts and do not constitute an offer to buy or sell any security."
     publishedDateTime: 2020-12-08T19:15:00Z
@@ -165,6 +181,6 @@ related:
       domain: fxstreet.com
     quality: 17
 
-secured: "rPfIopElh4wQz5bTKHRJQwtBjn16MJemY85y56qgyIcWX8MU7sihHO2wvV0yt2DtvdnGsEDoKdgEDg7aK13zowMH+A/AbAnXRqVak2+vKmM7IBH0Klqg2/UdMLmAkdF5zXhv7J5KdtykbjEUfh8yr9ylWa2La0Kfix5n4jF4BAqMBlB36hctDJT3EQ1oed0vY7RK7QmCAK2wsRRPz3vrk2hosYdo2LqlkWOW2BJIY16WuO32gN0/JThz7DJz+6zcnUXWxDi4Tb4HPoQCPZh6OiPIgqGwDPbI/zWAi1dtBfAO214HJ7qeMvVL5xc0Away5Z6LRrocUazIz5+ZI2KdE+H6h3XBy09ilNGrIAUsvEI=;KQXRmTN/WTRnvDCuP0frdA=="
+secured: "3nFqsINLN4F7oRry4G5ZQjw+ov/BSJCxiuTkFZFyGZNAMj+quyjWYlKEu2alflsCLMJOyMjKOJ3Le0Gv0VuhB88DucpSjKh9PNMlCqvDHYZhxmenxrNcuYiJIDY/ERA4DyknJdB1cY7ieYGJ+Pe92+MFwmmMW9xZwDmu1BTLxFf2azk5aAWpqDPL1RP/32awIgBFzMP1xnx3DEMYh3UaD09PlHxN1suTY5ZfeQVMUwiDYFZjGkcvvmB9gpyA+EhvuRgF4Jm6692k5TyjjeteEHg1pSM/eVXpZ5smA1YGaWs2Hqb6qphP7oG7gq9e6FXjs2t1leQNQhQV4Yb4rMFzJ7gHMEhCgZD1vQ2KaU/54Ytyb4ayOp3FVIuK3RMTti9OGbd32SmQRD9MfMzA/1QnGGgfXro2P7QJ9T5Gqk4qOOByHb5hjsy2N2LfhSKx4xS+/SDGEV4WufCHWQ5HLiLCGPkWq9OCcAXa+cJyRSOGJBfNUaL9BW91kK0hyiApJa6OKKa5j/L50NU97ADW3qcLCg==;PDXwZ2ElP5nRLDqniUmtiQ=="
 ---
 

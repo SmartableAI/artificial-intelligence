@@ -54,6 +54,22 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "GM’s Cruise putting driverless cars on San Francisco streets for first time"
+    excerpt: "The company said it will test cars without a driver in the Sunset District, a neighborhood on the western edge of the city."
+    publishedDateTime: 2020-12-09T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 57
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OXYHJQPIYI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
     excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
     publishedDateTime: 2020-12-09T17:00:00Z

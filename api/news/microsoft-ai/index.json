@@ -151,40 +151,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-07-enterprise-ai-software-maker-c3ai-raises-range-to-36-to-38-ahead-of-574-million-ipo.md",
-      "title": "Enterprise AI software maker C3.ai raises range to $36 to $38 ahead of $574 million IPO",
-      "excerpt": "The article Enterprise AI software maker C3.ai raises range to $36 to $38 ahead of $574 million IPO originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo",
-      "originalUrl": "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo?amp",
-      "publishedDateTime": "2020-12-07T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-07-north-america-ai-chipsets-market-2026-a-usd-26-billion-revenue-opportunity.md",
       "title": "North America AI Chipsets Market 2026 – A USD 26 Billion Revenue Opportunity",
       "excerpt": "According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size will be around USD 25 billion by 2026. The North America AI chipsets market growth is driven by increasing investments in the regional datacenter infrastructure development.",
@@ -1423,6 +1389,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-ipo-preview-c3ai-files-for-100-million-us-ipo.md",
+      "title": "IPO Preview: C3.ai Files For $100 Million U.S. IPO",
+      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo",
+      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
+          "width": 619,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo",
+      "publishedDateTime": "2020-11-24T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

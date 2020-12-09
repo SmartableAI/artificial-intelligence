@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-18-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
+      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
+      "excerpt": "Today's news further advances IBM's Hybrid Cloud and AI strategy and strengthens its AI-powered automation capabilities. With the acquisition of Instana, IBM will help companies overcome the challenge of managing application performance across multiple teams,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-test-post.md",
       "title": "Test post",
       "excerpt": "The post Test post appeared first on Watson Blog.\n",

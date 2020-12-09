@@ -39,6 +39,20 @@ related:
         width: 2022
         height: 1483
         isCached: true
+  - title: "This Former Facebook Engineer is Using AI to Make Everyone a Genius at Work"
+    excerpt: "Former Facebook engineer Deon Nicholas is now at the helm of Forethought, which uses AI to make customer service agents better at their jobs."
+    publishedDateTime: 2020-12-09T19:16:00Z
+    webUrl: "https://www.inc.com/alexa-von-tobel/episode-71-deon-nicholas-forethought-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 35
+    images:
+      - url: "https://www.incimages.com/uploaded_files/image/1024x576/deon-nicholas-pano_453974.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "WKL5fPvFFXWdV+O+xx/f2gN+EuSRXbmwUf6o4bJWtRYl2BrESEGouEDZzTaeXjUamdIRHfz+brGEvSmoX1JY5IzPmk/ESWfQA0BTlAtdy6nZLxzl+fMr+ftPYXKj5EKaYPzsfnm1Wp0B0TtIhtx5y0xg4Fk8HHhttjFegpXdQnjJrjrm4fNu2iBUFgjl0LjnL4DlE8E8gsI1DTpyTDvf9dM93L4A/g0KURsJtxt8rIbgc0NA59YR/yLPt9t0TKO9QaT6wT8XI/df2ICKpiPEgIR0oO3s83ISF/DTp4E2/wg8nQLgPTb8pf+zx/JWbTG2yQ7MMPy72to+RMPqugnvhXNjoRMEb4vNNO2UKecYo5s=;RbvnWCOI9KY7pyxEye9K3g=="
 ---

@@ -2,29 +2,28 @@
 category: news
 title: "Google AI researcher’s exit sparks ethics, bias concerns"
 excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-publishedDateTime: 2020-12-04T20:58:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-webUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+publishedDateTime: 2020-12-05T10:41:00Z
+originalUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+webUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
 type: article
-quality: 76
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
-  - Facebook AI
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
-    width: 1280
-    height: 878
+  - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702"
+    width: 1024
+    height: 702
     isCached: true
 
 related:
@@ -103,18 +102,7 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Charlotte Observer"
-    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-04T22:24:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article247617745.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
 
-secured: "JpCmv2VutDu6WEXMTgGz8gzBa8jUA7mAMxJf/b4emJ3vSQ7jMSVLrE+iYQbG22NuuerYoISGZEpXYMVvwnYtgjw/MRz735OP7MSVInkFwX+WwLmOe+OcsFi5u9F6wkFWT9kXyeSRSQnaWz9y/XALcLU1OGqsBYuOYMLRnyp4Ow7lawab2KKYytcXxzYf67/EUR2NRGGJ0lufRHGTIx1Xs15EJgEW/Uw+DY4hGREBlEH2hYvaFow+eBrNFlocEWyFRVdgFkOVQE7oiaonoTGwLuMphWt5VqpwVGCYj5853w9Tak8q742PrdxXF/Gbfl3IOD0fcsuRBZAstx0/iljEeSECxqlvaOtUCZAhztSGD52tcj4JBT6CRytA6aZtD7YqFAnboCC2leTxdmACJk49hRJrMzMLLFnq95z80CxX9bOVEToupiAyFlNWLDx/cnzqnmg5Iyx78ksMuuG0S8TvvhK9i7G1jZ34ny8jRJOLREYcre0KuPh42HFaqIGh7mjEm4yG5Ql42HhK0jmNyZQDEA==;isvxmBeu9LVzBi+wMleuZA=="
+secured: "8ak/yTMDS/OmvrrMpqKi5gf8ewDBqF0J1xGEQMlS7IL082PAeU7fKifj8llB2QPRUm/szRNA8T8GST38oEUfhE+XXCA9LN/s4901xBrnIxKbG8ILoO6AdeaZ3ub/ODbs93EN+1lth8XRPmn5kLeEozfq+34s/i7/MO06yQI9DSp8h/6Px7Im82qCo4SJAPlXNlHBQMFMmgF9ABoVeetfv16+GaRpIts5EsS23NulyURuENQ1qb15IdVmKPpa9mfv7r44ebm/0EfkRHvpK3avCcq3MOmgOQB1d2OXt1P/q5Dx+QsakCGHUiOyvcKtiovwJ7RAlw4fyC/2JYqUeZJdjG7QScUrK7akUoaSdowyKy0=;e2cZhvYvMtsUH/R4jtjgEQ=="
 ---
 

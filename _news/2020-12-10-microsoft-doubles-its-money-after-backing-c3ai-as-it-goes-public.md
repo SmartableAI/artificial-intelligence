@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Microsoft doubles its money after backing C3.ai as it goes public"
-excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
-publishedDateTime: 2020-12-09T17:45:00Z
-originalUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+title: "Microsoft Doubles Its Money After Backing C3.ai as It Goes Public"
+excerpt: "The two companies announced a partnership in 2018 to promote C3’s software running on Microsoft’s public cloud."
+publishedDateTime: 2020-12-09T18:50:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/microsoft-doubles-its-money-after-backing-c3-ai-as-it-goes-public/2770525/?amp"
 type: article
-quality: 104
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
-    width: 4000
-    height: 2667
+  - url: "https://media.nbcnewyork.com/2020/12/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -103,7 +99,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 94
+    quality: 96
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
         width: 630
@@ -230,6 +226,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "whGQwjWXV7HigRM8636jJisMSRkepZnWmFntlrMaUzKi7LbgbYP5c2lVtqzNUIjnzdoevC4ZHUMprAA3Fvu3EnB86pVm9qFz+wUYLzsHfPMyfSTq9YpAhAPCc/YONFapAxevhs7Yh969uWGhW5JrJv/ospo8B0yzzr5HXoKNzQWys5UoooK+FH2Qlfh2uaBvYUCZw+g94M7bPsXv5EZMjhL5oRJEEUmmE3YTRCDE40aylgI7UpvtEwk38ZtYxfcH2jAYElZLDolAyIWlt+wgCAe6m/7zasJwzkmJLXPOyrg45jHngV2kqfUyqD1h2jP7p6Ad4HOxSCAFqs6KLbpT53yDt/NUERZoeC26vXx4w/w=;/7Y/SLv71JqXFRC88Qbsew=="
+secured: "5i1G+yAY4b2ICeeouSdMQghQT7M4+aEl43MNw0bB1+TNwPSFhYXO+14Md74kGNgNRsKFQBhdNhUfIH3RaO8jkmxSoYn4miNT3YPZCHa9CUiA9uKlzpKV7GzFVHGTtwWXkO6hvL2S/bQj09Ly9x6p1aR0YrneAlHT2LRdXASKp6uQidCpa/kqHEf6hvkHnBN8eK12kFKDD8pWYPAPh6S4JWU0GYodO2tFEBDERODuzpcfENv3HP5PqfNuSCgMKvPFapIlaUwH570vlFn3KomIjt0xHbVQHNoga/sUGy+iEVjPChkrA6YuELFXrKQWKujX4fPeAMyFL+OS39nIlMUPTQAoFQgT8ZIvkDGG3MJ5FsA=;kVb9C+3pH2WqFOtyN3viKQ=="
 ---
 

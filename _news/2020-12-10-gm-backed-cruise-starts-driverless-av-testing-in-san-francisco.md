@@ -68,7 +68,23 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "GM’s Cruise putting driverless cars on San Francisco streets for first time"
+    excerpt: "The company said it will test cars without a driver in the Sunset District, a neighborhood on the western edge of the city."
+    publishedDateTime: 2020-12-09T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 57
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OXYHJQPIYI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "NWKr6rxn5N/eeAKqRt/Ibp/y7Xk+NnXLOCZV4pYGPOJOQ9msSHQgLnwZIqoP6/cUqvHb/YGduTvYjYHOy6sADjoiw4RcbR/hvwWz4e5ekbqmGwdjnNDrcdSvkjB6BDIq5c1SnQqz1cgGaEhmapJuJ2qkNYAFFhLe8WeF95i9vNLP8/aujvF1ddNNJop1nS+EzIigtS8/v9v+SLuUbG+akDq6qzVg0LgLLF1F6MxGmlvC9mwnAL8HUt9MDYICxuoRXVJF8JGzjOUaZudcgcd36+H2RuTma6DIkwfdDJuFyoV1C+5HWQYKhDBYt7Eu8jVCiZCC9XNRSf3MwyMaFXlfN0nYzmPst2vloInLyTFUg48=;tou8DVEMhez1xi38BFOBOA=="
+secured: "Nq7K1awKJ/RrhrvV7J63sgeMpaHGqEPJd3YhLFfXrjUTa0PDqV9DJgUaQaRR3O9e8aFb/4mzAo+TaH1cBiJ5NfDsM0B6SCVkrxcdRvJxJj2aCHWz0E5tkpWe5hcCTPmbUXqimNrgbNWpXQqMC9vU1tDYaoswWhdFiUDFMJEssWLJyIc2AxvY0QILuGrQicG73prVLlwE9HwGlRJbjyoOh8CunH3PjA8vSFHLG2gF5t1n9H72nHPwQRu2zBg62mOMVqM/Fs3U55J5utycB/ffSXpplksNDHkimmlji/pNKFSYbgOYXApVeL8AuEjolRbnCc77J2VFoUQmFA98xlcnKAa15K5dhNgSUt224BoyFvs5DITxO6M07f+LHBEtuNokWNByF43tk9ztKTk/QX2UPN+t6S3t7dmHysmdqtYPzAorxIm7oNGKvyuvpog+2N2Cgr2h4loVgfeeFym8lNl063jM1W8wnY2659F+2aBHfXYOB8MTUBDzg8DlTcgGgOGcZWMU/oLfDILN5ZwVVBdNWg==;B0HYCMvXOACc6AfXDbDNSg=="
 ---
 

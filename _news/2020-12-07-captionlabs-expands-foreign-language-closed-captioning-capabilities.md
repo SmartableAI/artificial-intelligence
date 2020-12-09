@@ -44,6 +44,20 @@ related:
         width: 703
         height: 469
         isCached: true
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
+    publishedDateTime: 2020-12-09T20:36:00Z
+    webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 24
+    images:
+      - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
+        width: 730
+        height: 945
+        isCached: true
 
 secured: "+X8Ef6XhYRY4U6h99n/laN4w31Wq2SQlMAdk6Q9vhpnia00+OYpb/m0mA92H3O2w5gMh3OZ4flo8LSAQZztYxCHb/GC5UQqz9HsqEP35s+0Aotfzv2fM+1FDdzZ+jZF9E94aCLihs3eGANHlpzvK1cpA/3oMXpjkFQ1fBy/lKU7H/Oz3RLnAjE0zrS6LhvKPggmRnF6GY3tEmE9fJ68ijDVZUwq+AkKSmt6epDWNsPMX8YClyQTAkIcrH/8437J/+qCtscTrWN8tCVCCKdv2ePUqel5HnNWNefLnv/E+vDJS9102F4r/DYMJXUhp+wfJI+/N5nziBAHE9SClPdLjNNYgIE3Q5sahDMXEtIH1/3M=;dZMROhhXHERpYnAQxY0EPQ=="
 ---

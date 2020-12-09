@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethi
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: VICE
@@ -29,86 +29,6 @@ images:
     width: 5760
     height: 3235
     isCached: true
-
-related:
-  - title: "Google is facing a mounting rebellion from its employees over the dismissal of AI ethics researcher Timnit Gebru"
-    excerpt: "Dr. Timnit Gebru says she was fired, whereas Google says she resigned. Google employees have now publicly backed Gebru's version of events."
-    publishedDateTime: 2020-12-08T14:27:00Z
-    webUrl: "https://businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google employees dispute company's claim that AI researcher Timnit Gebru resigned"
-    excerpt: "A group of employee organizers at Google on Monday responded to the departure of Timnit Gebru, a star artificial intelligence researcher who said she was fired last week after co-writing a research paper critical of the company's AI systems."
-    publishedDateTime: 2020-12-07T21:01:00Z
-    webUrl: "https://www.cnet.com/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 82
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/FxPoIKH-bQ1gv2HCASbpaQQQZ_A=/1200x630/2020/12/03/dd71df12-2ccc-4ddd-b925-f3a7752267bd/gettyimages-1028811898.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru"
-    excerpt: "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist."
-    publishedDateTime: 2020-12-05T17:12:00Z
-    webUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400"
-    ampWebUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 73
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence Scholar Timnit Gebru’s Exit From Google Sparks Ethics, Bias Concerns"
-    excerpt: "Gebru was instrumental in improving Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-05T04:22:00Z
-    webUrl: "https://www.outlookindia.com/website/story/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-artificial-intelligence-researcher-timnit-gebrus-exit-from-google-sparks-ethics-bias-concerns/366283"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 63
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2020/12/5/Untitled_design_(30)_550_550.png"
-        width: 550
-        height: 367
-        isCached: true
-  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
-    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
-    publishedDateTime: 2020-12-09T02:39:00Z
-    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-    images:
-      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "E3betraSXaapO7temxREA09fZoRyg9/ikfO8XVJPULkFAGAmbyOXxT9pXUqlq3sVxkY4R3s0I7LIJNklyv1jOqpMaQrdiUuSU/5dVNN6h4NeFi3Qwrlu8wMkwcvVRZir69Kb5Z8+aTOXh1u5OGhc2uQpyvm3QTwB+nHLA+AgXwoBUoBA8ef4m+X33V5xiWBdxK+mEjVKC6DrVBphbSxGvDQIk4v5rVKNbdrvJySuGqgiZST4TiQyQRSSlcN1SiOtUVr/IdCzuGrTsipTxHse+QoSTQP27ICRVQ300OPSOT8QXZsj7aDIymVRxYSdfdRQmLINEZZLd4z0W70e1AKZmqO8t1ghbR38VFvBZIISjn8=;AcCtr52k9x3l6/x7Wj28cQ=="
 ---

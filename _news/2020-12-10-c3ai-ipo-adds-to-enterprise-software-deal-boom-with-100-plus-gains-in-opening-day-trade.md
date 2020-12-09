@@ -27,18 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise AI software maker C3.ai raises range to $36 to $38 ahead of $574 million IPO"
-    excerpt: "The article Enterprise AI software maker C3.ai raises range to $36 to $38 ahead of $574 million IPO originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com."
-    publishedDateTime: 2020-12-07T12:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo"
-    ampWebUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-raises-range-to-%2436-to-%2438-ahead-of-%24574-million-ipo?amp"
+  - title: "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
+    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range."
+    publishedDateTime: 2020-12-09T19:14:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 61
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYf_ilbSSPwk/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Tom Siebel's C3.ai soars in U.S. market debut"
+    excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
+    publishedDateTime: 2020-12-09T18:01:00Z
+    webUrl: "https://www.reuters.com/article/c3-iot-ipo-idUSKBN28J2MH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2MH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2MH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
 
-secured: "wkG6pghwZ84tC3+fLZr4ZnsEc/SfIN64lx7i6cW06eJDQhzq7uQEZriq7zN3ZvoEgRBwVeBP1/f67K3fgsIw/PrMYTC6RV+rfT6jggFud8jonMV8juO8gdmbjU6znMY6fPqLUR/abDSntnicjp4/8xku2LoDcFwmGfOy+ga9PMXS1dySfcsCWBdYHcHB3+0JrXDJusFJLVVLs4SC70JVomPcycrO0BpBkMTBbg9y2LSntYFNRW75fXigzFdeeb9bsl9wtRldKDDD6j8FK235smGqvTMHF2aFy7JIH74t8VKnz08AXAgMHk02aO2GIZKJSgDX5UaAATnXrn4Kx4GABj1RXIln5RHFsSBsHsuHwdE=;DFBikyrOG1aLYfwB31qYnw=="
+secured: "Uhd3UOTzFI5fZx7uvKATTmSAmFnh81YJHYNo+6ngEQcfWz6X73lKAu1IX6quYmHCMo4VTDas7QW2eQTGsjewfi0zHtqxEcnzMUzhhNJmxpFmCj5bpQ2dlP7wIbu/H4DYy1Js9s1Ved6ElWlFj69s3SsCSnT2YXsdJLzjV2YgmAjm5SDD/ITRRu1hn3VNkoP7WtFO3YXtLNLUyRIutXsfbtfkkuzkF8TsLXtQ6YmsVtZ7/FCZFsmq+GDKcxVg9Z0Ts6eBdbKZ1eobZsLVcLePP5DLOiACdoEOlNC+Thdd83DuTw+bH7AUs71TWx3WMQw227pWgXoWCV8AIcK52SA8FFVA/1NFY3KkHf9iynqUJm+MoEljxghPw+Oj5KIUl9dNi/0zWhRdJFXwcjQOFwMhuxJ8BxUXheW0eE3jx7xYMWSclrfgFjmOz69yPrNIx/bX/Ya1WN/WgbwUATOJ08fKkN/1z1k/pf9oS7aLddlYU9XP6z8cKhaeN5PaVFXNoMfTosKHy7IOrHPJ/OicD4ZFdQ==;aPQt+VSj/yRyeMO4Pnz8mg=="
 ---
 

@@ -29,65 +29,81 @@ images:
     isCached: true
 
 related:
-  - title: "Driving into the future from autonomous to AI"
-    excerpt: "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society."
-    publishedDateTime: 2020-12-07T15:54:00Z
-    webUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
+  - title: "Google will investigate the controversial exit of a top AI ethicist"
+    excerpt: "Google CEO Sundar Pichai has pledged to investigate the departure of a top AI ethics researcher, according to a company-wide memo Axios obtained. Pichai also apologized for how Google handled Dr. Timnit Gebru's exit."
+    publishedDateTime: 2020-12-09T20:55:00Z
+    webUrl: "https://www.engadget.com/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fb5e9b210-1614-11ea-9fee-f891d28bb48a&client=amp-blogside-v2&signature=f9d4ac23559133c63b810b38c30aa9fb7f00b2f8"
+        width: 600
+        height: 350
         isCached: true
-  - title: "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps"
-    excerpt: "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps."
-    publishedDateTime: 2020-12-07T17:33:00Z
-    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/"
-    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
+  - title: "Google fired a prominent AI ethicist, and her former colleagues are up in arms"
+    excerpt: "Google just can't help alienating large swaths of its employee base. More than 1,530 (and counting) Google employees have signed an open letter decrying the company's summary firing of the prominent artificial intelligence expert,"
+    publishedDateTime: 2020-12-05T20:46:00Z
+    webUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
+    ampWebUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Mashable
+      domain: mashable.com
     quality: 83
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg"
+      - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Peering into the Future: A Vision of Marketing and AI"
-    excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
-    publishedDateTime: 2020-12-09T06:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/peering-future-vision-marketing-ai-martin-waxman-mcm-apr/"
+  - title: "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru"
+    excerpt: "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist."
+    publishedDateTime: 2020-12-05T17:12:00Z
+    webUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400"
+    ampWebUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 73
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Google's co-head of Ethical AI firing triggers controversy"
+    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
+    publishedDateTime: 2020-12-05T14:31:00Z
+    webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
+    type: article
+    provider:
+      name: The Guam Daily Post
+      domain: postguam.com
     quality: 56
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/44/944cc9e0-35fc-11eb-9807-9fa2013d419b/5fc9db821993b.image.png"
+        width: 280
+        height: 350
         isCached: true
-  - title: "Library tools transform from analog stacks to artificial intelligence"
-    excerpt: "In March 1987, new shelving installed by library staff, UAB students and volunteers provided storage for more than 200,000 printed volumes in Mervyn"
-    publishedDateTime: 2020-12-07T15:43:00Z
-    webUrl: "https://www.uab.edu/reporter/campus/retro-spectives/item/9343-library-tools-transform-from-analog-stacks-to-artificial-intelligence"
+  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
+    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
+    publishedDateTime: 2020-12-09T02:39:00Z
+    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
     type: article
     provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
     images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/4e0e0929a9e28d6dc11af73535d78609_XL.jpg?t=-62169984000"
-        width: 900
-        height: 674
+      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "nELLP8xuJ71V1NDxs3icNhBPRh/JRDpMp/ZAAtqWXbV6PykGWdkOGYc9omjPS6cb3tZWalUrJoiwonLi8eQuvGcaJEyTxkvfpY59vDa2uJBl+GpO38Tt1cF6YDhsc9JMyloXsMJSu3BMSi/zpiY0342v+9dWtup74k3dMQi3f6i6d51petDPZkz8k6iVoTDcuY0QdN+RIdRZE2jw76EkpMJ1omJaUBg4MR5wK7kwuXUJjGUloXMdCaRa1Hr1W3s3RKGRuwtGRlNYwNv+Ansn4m8WPRk7AHmDPUxjsJjUylRztyZRkF1MC9x6jZpa9hwM5uKiC5FtdFkkXy89Y1KqylK2MBFpQwnaofO1jAXPGb16fWLklqODHgcoVdlsX3unFmFXY3k5s8EX/7MY+Ro4zVnwWtRaVH5QYpzf2nMh6teK60bq0SBoKjhp1/X8vqAR7fN3/XSwHI3kmyxfmow1OoW5iVTEoQjnyJLaYSBtitCqKJTJe6IdQvz4cuEfSkXYILaGYxgI3usEZzMguYPoXQ==;oOf1pPLYS/893KvRSYySlQ=="

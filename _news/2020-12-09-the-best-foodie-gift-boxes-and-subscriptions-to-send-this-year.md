@@ -14,7 +14,7 @@ provider:
   name: CNET
   domain: cnet.com
   images:
-    - url: "/assets/images/organizations/cnet.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -27,6 +27,6 @@ images:
     height: 279
     isCached: true
 
-secured: "I4uLwSyWtBxosXKELCz6e+2AxNBgPmio0ghpFXdxELmQzIgzjY8RqiumpC2sMs1WLH8FW9fEybWBXX7Qv9cM89GR5d0IH/bEayin4YUdMXYIkeFLsqWB6uwRN5cr3O9o5FI3DRKk/twHflVW2DQt8GTUQI7OHW7gjP/xwF1RB4wEruKZ9wuQlhFTJ+m1sGYBcq/v3PbkSi4rDrqA4lWIXt4TwHqYPwylTBADQK6x+XT/O05uidsGIhQno7P5Vhpfhi4LvCvH40tOnT/TMQPyMRdBkTiFdH8QdGEdpQyxoR92FosLr64c3ARPW2UHA486i0enZnCYPGcrXlwJrq6q3x+Iah7DEZ1w6W1gcKHBXAk=;8lrvD+xJd/0IvAsZvaDrcw=="
+secured: "dC/ZXi1rIT4fZTjho7Jt/zxpwYLoePH6XanK2YYeNMKDTN/f5uy35o0SMLVdkBNOtFsD+iVxeWjJ/ajWKnrbGntOpYunzY2yXGsykEQrnOWTejYDDzre3m2vW1b5FaQ0IDrP7C3InOGsX6DldW8KlmVXc84lmaLXSi5xfk/d61bHgBtlQUHJe1yjvl3XRFhlhFuO1/L4t6qWrHoTgMYsTKgyB/yPUhG9zzzkuetRCA3WHDIEfSwM9s+sW+s+h6FKjrBkavT6jQLSqs6TbYSp/mgaasnV80zF8TssDldIpvjnSbWSwgnm74SEZKpUuKp8Qczg0TX6IFbZHrKh9GsGn4dqcAlzjXco0/puVhj6PjVGRYThfhEem4v2Pur9Tlp3W8NpNjlka9w/KUN8p9H6/xPXbZ2IC8rScAhZE5+02txzOC/rgWgQVgQger3iSoXJDv3Qp4/mXdYnFOi+JkzLvWaFqLeWajzc2VY2cZKp2ayoiwZGKD9zQ9E0UF1z29ZVffiFfoqddMmoFnFck/17sEY1LklISDp+Z93+l65LpB4=;VhfoEmfA+e4Q89uXDDN0UQ=="
 ---
 

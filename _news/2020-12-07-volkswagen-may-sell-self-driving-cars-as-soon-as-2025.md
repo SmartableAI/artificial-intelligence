@@ -25,52 +25,104 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'"
-    excerpt: "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space."
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp"
+  - title: "Here’s How You’ll Get Paid To Ride In A Self-Driving Car"
+    excerpt: "There are some intriguing (and surprising) ways that people will get paid to go riding in self-driving cars, and here are the Top 5 most likely means."
+    publishedDateTime: 2020-12-09T16:17:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a30cd9c66718cf61faaf9%2F0x0.jpg%3FcropX1%3D2033%26cropX2%3D7408%26cropY1%3D611%26cropY2%3D4256"
         width: 1200
-        height: 600
+        height: 814
         isCached: true
-  - title: "Elon Musk reveals Tesla's plan to be at the forefront of a self-driving car revolution – and why he wants to be buried on Mars"
-    excerpt: "Tesla CEO Elon Musk sat down with Axel Springer CEO Mathias Döpfner for an interview during his visit to Germany."
-    publishedDateTime: 2020-12-05T18:00:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-interview-axel-springer-tesla-accelerate-advent-of-sustainable-energy?amp"
+  - title: "The Impassioned Debate: Self-Driving Cars Parking Head-In Versus Nose Out"
+    excerpt: "Human drivers aren't sure whether to park heading in or via backing in, which turns out to be an issue for self-driving cars too."
+    publishedDateTime: 2020-12-06T16:17:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/5fca3ba6b6a3a800199b68d0?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbf2d4ca741861df005a691%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "The world's youngest self-made billionaire is proving Elon Musk wrong by bringing lidar — and self-driving savvy — to the mass car market"
-    excerpt: "Elon Musk thinks lidars are too expensive for consumer cars, but Luminar has convinced Volvo that it's cracked the code to slashing lidar prices."
-    publishedDateTime: 2020-12-05T03:48:00Z
-    webUrl: "https://www.businessinsider.com/luminar-elon-musk-austin-russell-lidar-volvo-cars-2020-10"
+  - title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
+    excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
+    publishedDateTime: 2020-12-08T14:43:00Z
+    webUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711"
+    ampWebUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
     images:
-      - url: "https://i.insider.com/5f7f581be4029f0018760573?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/npdx86ustilwtcpfwyfc.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
+    excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
+    publishedDateTime: 2020-12-09T11:00:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article247682450.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article247682450.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article247682450.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 34
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/dce6238c-6f50-4100-9d7f-edf6a2efbade/35066603-c806-448c-82bc-cc1715a7acfa/1280x720/match/image.jpg"
+        width: 1202
+        height: 720
+        isCached: true
+  - title: "3 Self-Driving Car Stocks to Own for 2021"
+    excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
+    publishedDateTime: 2020-12-07T15:47:00Z
+    webUrl: "https://stocknews.com/news/tsla-nvda-goog-3-self-driving-car-stocks-to-own-for-2021/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
+  - title: "Self-driving trucking company hiring in Tucson"
+    excerpt: "The company designs and tests self-driving trucks in Tucson. \"We need CDL drivers, we need testing engineers, we also need mechanical engineers and techs and HR folks.\" That's not counting the more than 100 jobs they're adding."
+    publishedDateTime: 2020-12-07T09:14:00Z
+    webUrl: "https://www.kgun9.com/rebound/hiring-during-coronavirus/self-driving-trucking-company-hiring-in-tucson"
+    type: article
+    provider:
+      name: KGUN 9
+      domain: kgun9.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/5b4462b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F8fd%2Ff0fe4276ab8344079f404f1ac9c377b7%2F8fd1778b75314c8099ff1086f326205e%2Fposter_48756ffaf2564f11bda0af0eaa71dfae.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
+    excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
+    publishedDateTime: 2020-12-09T15:59:00Z
+    webUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 19
 
 secured: "92VeomVu9aHuPi3CJV+E1Xs0FEtX/Bd2CNc9iQEv8Sh9PZK8212bY+a9bHzKJxj2Y7ISrfV17G2h0UBplvhCOyE4oHj/VWWJCGmUxz9MI3vbpW5vx9cLhGT5HD9dzByFMFwGuDussV7iewhyzJOY4bYa4qWDEW3M1bRILnrvs+Mv7QnF5p37gTYE+eunwPHBowWyQUeyKi8M4Kd7tCPJbv0Rzdf/zMyl3od63tZCkoXOusjWDdeV6wtYrVOVJSV7Ymu2YPcrNVDM88kG3Quu+PUKG6UxXoaCsPvQFnrp53nia/Wx+siLBMROjbmdPGG3Il+QygGn6mhF1zNNm/SYivY0qlqwgtoRSkaH/4CRjIkJ0FmNmTep6ZrzGofMAPfnH5MXxLx66B4ggpJbJu049A6lLeJ9tpgEqKkpHLHyyqsUf4cKuDtn0f1NaiFl/Cr3UQdWbUYBoUsQhLqXG81QcqHkPvubGSvULVSeGuuCNIDKwLiPfyPdnbMmDOgWaoU3IWMkKp7Cf9KAxahk5gCfvg==;AhzuswRmwcN1MG6l2pJ4gQ=="
 ---

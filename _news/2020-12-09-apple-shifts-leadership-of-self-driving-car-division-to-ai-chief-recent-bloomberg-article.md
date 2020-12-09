@@ -119,6 +119,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple Allegedly Discussing Apple Car With Automotive Suppliers, TSMC Working on 'Self-Driving' Chips"
+    excerpt: "Though there haven't been many rumors about the Apple Car in recent months, work on the project is still ongoing. Following news from"
+    publishedDateTime: 2020-12-09T18:19:00Z
+    webUrl: "https://www.macrumors.com/2020/12/09/apple-car-tsmc-chips/"
+    ampWebUrl: "https://www.macrumors.com/2020/12/09/apple-car-tsmc-chips/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/12/09/apple-car-tsmc-chips/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 29
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
+        isCached: true
   - title: "Apple Makes Changes To Self-Driving Vehicle Leadership Team: REPORT"
     excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
     publishedDateTime: 2020-12-09T16:00:00Z

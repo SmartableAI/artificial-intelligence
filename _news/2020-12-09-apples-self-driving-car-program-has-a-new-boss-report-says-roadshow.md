@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
-    excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
-    publishedDateTime: 2020-12-09T15:59:00Z
-    webUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 19
 
 secured: "L0i8Cgk6fFydjsLBpkDbd3fEm/j/J3VR6sl5vgCN1vJ3pu4j0ahB7ihlpPs+9qKASNbo8EekQXNhrDy/EpyIS0U1ryR1imEYl6xlex9I3HUKt/+y9ThEuFh6uisp4N+E33yeHSqqFxPhqsseG1Rfe1BEXTexMccH5nxhItuLQYifz13gm+yBniG94Y41Ez8kX2BBNqf5lKDLElrg5cIFPciY28EHxyQQ8xGKfen08oHTOesGKr9Kqy1EPJOCo0wJpTfMn8T3RbcWGOU+hKa/G9zIREXblusuq21ilH4TQsR2YPbIm38nh/SsFCuHs3zPl+oVMZhL34n2TDfRUHsYCjLt+Ut/dyaYK7Rc1GIaV52Doa/LmybIHBplqGykR/xblkpJhh8LSJckhle025vEGs+14ohdBUVLOhvDCzE8449Osi1cNkTKHYFpgHD/JuHcSLRlu0xyXWFiGarW1Iq9ggWQcUqH1ePlVjWV5m0uFaORW9iojdkcBzy2FHQc8AX1Uwpt5Gcnd5IzJLCBaXbgCQ==;YLVPU8HjUm6e+AKrviQ8oA=="
 ---

@@ -52,6 +52,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Software firm C3.ai skyrockets 174% after $651 million IPO"
+    excerpt: "The firm sold 15.5 million shares at $42 each. C3.ai previously expected to price shares between $36 and $38 before the Tuesday IPO."
+    publishedDateTime: 2020-12-09T19:38:00Z
+    webUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://images2.markets.businessinsider.com/5fd11710240ebd00126bdf8b?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
   - title: "Artificial Intelligence Firm C3.ai Raises IPO Price Range"
     excerpt: "The initial public offering market in 2020 remained hot Monday with enterprise artificial intelligence company C3.ai raising its pricing to between $36 and $38 per share. The Redwood City, California-based company previously had a debut range between $31 and $34 per share."
     publishedDateTime: 2020-12-07T15:08:00Z

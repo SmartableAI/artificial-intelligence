@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The world's youngest self-made billionaire is proving Elon Musk wrong by bringing lidar — and self-driving savvy — to the mass car market"
-    excerpt: "Elon Musk thinks lidars are too expensive for consumer cars, but Luminar has convinced Volvo that it's cracked the code to slashing lidar prices."
-    publishedDateTime: 2020-12-05T03:48:00Z
-    webUrl: "https://www.businessinsider.com/luminar-elon-musk-austin-russell-lidar-volvo-cars-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/5f7f581be4029f0018760573?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
-    excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
-    publishedDateTime: 2020-12-06T20:44:00Z
-    webUrl: "https://www.newsy.com/stories/volkswagen-may-sell-self-driving-cars-as-soon-as-2025/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 24
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1607266233_Vw4xEy.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "R4PmDqi0Qr91F97B2JT8RLw28RKRyuMjeysKVrK83YPK7KmdC+YPwjhqAGtvDDsedJsGwan1BTNm2ENJZhxgk4QBVA9gqZmZM/MicUTIGmCcZ39Y3k/C44dWyCz3eBSXSL2bpgn5vQmCQcHINWX8E6EPcswW71pH6K1GgprBgLI0tg394uqeu8a4WT9+jkpAepg61Xc/e2krGBd5S37CFgDE4GkmhzAhsmHUf/PAUvNuObp0bY9Kz2Ui8JLmNbwe0LzEjDNLwKVhczR4hToNHnLafWzBFtGSokufiPVNNz3nCYlogXaCDs8BUgNYb5oXBZOpgzCcTLZ+x7mdDLvzQ3Ngplf9PdwwRp95GueTBGRlT022XVrHxwuxB7qXFWKVXFnPzwW6f2KOQMNQpvRaIIHuVA6qfIn3R6IJYEhXiycLx9Q5BllBkXAD5D56Z/iwORcZwFT5THIUpJo3YpL3freWAgt1Cnt6egx/WgyvlUIwJzGYzeTcsZCCzkvxezTymSRBVtIWqBooUILp5UUFaw==;7LM7PDkJ7rKgFX0JLzULAQ=="
 ---
