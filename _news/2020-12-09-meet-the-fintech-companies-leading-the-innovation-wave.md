@@ -39,6 +39,20 @@ related:
         width: 1199
         height: 935
         isCached: true
+  - title: "FINX: Investing In Disruptive FinTech Innovators"
+    excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
+    publishedDateTime: 2020-12-09T18:07:00Z
+    webUrl: "https://seekingalpha.com/article/4393861-finx-investing-in-disruptive-fintech-innovators"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
+        width: 635
+        height: 450
+        isCached: true
   - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
     excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
     publishedDateTime: 2020-12-06T21:57:00Z

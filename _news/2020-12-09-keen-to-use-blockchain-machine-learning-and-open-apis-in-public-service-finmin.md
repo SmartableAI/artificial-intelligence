@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T15:41:00Z
 originalUrl: "https://www.thehindubusinessline.com/economy/keen-to-use-blockchain-machine-learning-and-open-apis-in-public-service-finmin/article33291560.ece"
 webUrl: "https://www.thehindubusinessline.com/economy/keen-to-use-blockchain-machine-learning-and-open-apis-in-public-service-finmin/article33291560.ece"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Business Line

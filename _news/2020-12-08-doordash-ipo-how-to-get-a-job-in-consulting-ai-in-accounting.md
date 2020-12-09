@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/top-finance-stories-of-the-day-for-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "DoorDash, C3.ai skyrocket in public market debuts"
+    excerpt: "Haters gonna hate, IPOs gonna pop. That’s the story today as richly valued DoorDash and C3.ai, two American technology unicorns, saw their values skyrocket after they began trading today. DoorDash shares are up just under 83% to $186."
+    publishedDateTime: 2020-12-09T18:05:00Z
+    webUrl: "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/"
+    ampWebUrl: "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-187869847.jpg?w=1024"
+        width: 1024
+        height: 722
+        isCached: true
 
 secured: "yGtxj07X3uKAyheH7FsTTSXtRHMTcgJZfMXfFUBVARKpEUPkSuXx7rrhQWYtwqoXklp4J8rz9fkuYH6SAhXBUw6hji/VyO0ZL2+pk3bGan19FSx6NqDcrUIVoVRo/eUSqRMFG950tYI/m0WSXmw/vsu0sCLnvRpDXX4dokxJI6wN+pr425+UcEx7d1quYzeQ2hXPJkONPLLNG+ydA8/zv7S1Qr1XnWg94BKYfvsr/8OngxWLKOssncNlDr2CRgC0gddiWxqg8+Pj8OTwnZ1PJ98NBxgeK+AtfXcrrFf6g00wd0/YKwlcz85paue252drVuFiqXQ7QMG8xr4/1Yeh9dA8gr095PLJ9k/ZYhQRwCHrq8K+Z2vH48PyPxRtnnpYR7i5on3r2Gr6d8XFO0y7EUDupJZc+qOxSOvfHHqTcoYWQjWr9amvVYDpOpu53eIpvihOu2JSWWTAJt7ybG/ONw3ntYav5P3xD5XJiGCTCdFAIQdE72vlM1WBhKI0xxjoR0cdUi5Mf/6zOyXTun50pw==;rpFo9oixc7oKVXGJJreUAg=="
 ---

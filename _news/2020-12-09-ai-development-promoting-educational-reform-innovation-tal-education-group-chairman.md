@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T14:32:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cultural-preservation-beijing-f065048c92f563f9b61fa93f966abe47/gallery/bd994b0d6b720453900911bd8ad09ea4"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cultural-preservation-beijing-f065048c92f563f9b61fa93f966abe47/gallery/bd994b0d6b720453900911bd8ad09ea4"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Associated Press

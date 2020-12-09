@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/einblick-emerges-from-ste
 webUrl: "https://www.prnewswire.com/news-releases/einblick-emerges-from-stealth-with-6-million-in-seed-funding-to-launch-first-visual-data-computing-platform-301189097.html"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2700
     height: 1413
     isCached: true
+
+related:
+  - title: "Einblick Introduces Visual Data Computing Platform, Announces $6 Million in Seed Funding"
+    excerpt: "Einblick, a visual data computing platform provider, based on years of research at MIT and Brown University, announced it has secured $6 million in Seed funding along with launching its visual data computing platform."
+    publishedDateTime: 2020-12-09T17:26:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Einblick-Introduces-Visual-Data-Computing-Platform-Announces-6-Million-in-Seed-Funding-144294.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 15
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vqAkVflVKuWiLmc6g1x89yxEUtgovyH/VJ/bH3tYXdJc+H8hcFdrJ2mMYZewqWLL+34UsWArAkNPOlxjVNFCx+CoLRu74OmmMCUvH+5Vys20xqFPbW3uNjXAOHZffFkIqTz9zDYkw1H1AMX5Poag8jQsOoqu42u2AHpVtx0KMQjTdH2cJQNWkAgwoGnZFoHx6o4GwVRtugwn/b06l6s+Fum8tj37yPuQA0OVclXOogX3oVBtHP7/j/Lgbu5+cnEH23N75fud7vhiHSAdsfgsKtrVPxMebNmwp6/lWoBp/UpVKZRyBeQ27DdkDvazKcE7xRdvW6hB3NQfRwJA2A/8G/DaUpmuAsH5EdCXdI6Wz4M=;x4Ds93Aqps9r5bMTZCce5w=="
 ---

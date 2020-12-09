@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T14:00:00Z
 originalUrl: "https://www.retailgazette.co.uk/blog/2020/12/how-to-create-a-digital-in-store-retail-experience-for-less-with-mobile-computer-vision/"
 webUrl: "https://www.retailgazette.co.uk/blog/2020/12/how-to-create-a-digital-in-store-retail-experience-for-less-with-mobile-computer-vision/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Retail Gazette

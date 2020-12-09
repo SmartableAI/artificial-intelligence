@@ -7,7 +7,7 @@ originalUrl: "https://localnews8.com/money/2020/12/07/self-driving-robotaxis-are
 webUrl: "https://localnews8.com/money/2020/12/07/self-driving-robotaxis-are-taking-off-in-china/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 263
     isCached: true
-
-related:
-  - title: "Self-driving robotaxis are taking off in China"
-    excerpt: "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality."
-    publishedDateTime: 2020-12-04T23:41:00Z
-    webUrl: "https://www.phillytrib.com/self-driving-robotaxis-are-taking-off-in-china/article_c9624501-d890-571e-9aaf-25a40605a260.html"
-    type: article
-    provider:
-      name: Philadelphia Tribune
-      domain: phillytrib.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/7/fd/7fd33e9f-59b6-5939-afa4-db0a68f6d490/5fcbdcafa72bb.image.jpg?resize=1197%2C630"
-        width: 1197
-        height: 630
-        isCached: true
 
 secured: "3w3dL8mLn2RQ9hp2kX4R+VRaxYRnRc7BGJPZRwfTjq0VktF3H65+y3+zh9SaTO/Dt9Gt64DA7PsmtjfT6ywvWV61NOjpXgC+xB3BsDO/83pDpF7z+Dq4TJblwvZnP+3E5nneDxytqpJ1zW27aNodsCYwWWlUPHpDuGZu0E17S9fd5D4EG+RzSk/sSdr9ooqBCAXWx1H/q2cUXt6paSVXykJHHrX9swZo+3X1e2WeQRLpOIshLuZkDpA4sl8WbLXUx0GsnJIME/oZRz1dZr2hurDRbieHot3Q3RnnWQpyQPf6vreFrC+rOQYYLOJrKpY+GFo6bpKSxF5Qy9NcdkKJ/3T11znmVvaXKBhjJ59nvB69QZeU4IHUv8hXvGltKxSv++pxzBWoacgTe3sNLtdx/wFJTFPfUV1JDrmqYwdbX4ZghXl6ThD/lbANNWY5XUL2oqnOEKQSASG51E/ZPJ/x7Gi9yC9hXT+fTQlq9mnF5a8t/vTwv0m/MrS2WmzS4JzqScDJ6yXXXZjPCAqgApqtfg==;VEcxIUlsjaOVnwt2CmIPHA=="
 ---

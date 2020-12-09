@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T15:03:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-business-industry-regulation-corporate-news-north-america-5d93e5a55293370f3fe0fd4868c6fed7"
 webUrl: "https://apnews.com/press-release/accesswire/technology-business-industry-regulation-corporate-news-north-america-5d93e5a55293370f3fe0fd4868c6fed7"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Associated Press

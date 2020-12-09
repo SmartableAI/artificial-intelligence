@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T15:12:00Z
 originalUrl: "https://yourstory.com/2020/12/wizikey-hottest-startups-2020-report-fintech-ecommerce-saas-logistics-edtech-lead"
 webUrl: "https://yourstory.com/2020/12/wizikey-hottest-startups-2020-report-fintech-ecommerce-saas-logistics-edtech-lead"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Your Story

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-o
 webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS announces Amazon Forecast Weather Index to provide 14-day predictions"
+    excerpt: "Amazon Web Services Inc. today announced the release of the Amazon Forecast Weather Index, which will help developers increase predictive accuracy of machine learning models by including local weather information into demand forecasts for retailers and service providers at no extra cost."
+    publishedDateTime: 2020-12-09T18:27:00Z
+    webUrl: "https://siliconangle.com/2020/12/09/aws-announces-amazon-forecast-weather-index-14-day-weather-prediction/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/umbrella-801918_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "AWS Announces Amazon HealthLake"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible"

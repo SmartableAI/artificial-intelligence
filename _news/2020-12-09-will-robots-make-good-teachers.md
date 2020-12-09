@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T13:37:00Z
 originalUrl: "https://exclusive.multibriefs.com/content/will-robots-make-good-teachers/retail"
 webUrl: "https://exclusive.multibriefs.com/content/will-robots-make-good-teachers/retail"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MultiBriefs

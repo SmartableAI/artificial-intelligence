@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
 type: article
 quality: 101
-heat: 171
+heat: 151
 published: true
 
 provider:
@@ -46,38 +46,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google AI ethicist says she was fired for an email, 1,400 Googlers sign letter supporting her"
-    excerpt: "Google's Ethical Artificial Intelligence team, said late Wednesday that she'd been abruptly fired from the search giant over an"
-    publishedDateTime: 2020-12-05T01:59:00Z
-    webUrl: "https://www.cnet.com/news/google-ai-ethicist-says-she-was-fired-for-an-email-1400-googlers-sign-letter-supporting-her/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-for-an-email-1400-googlers-sign-letter-supporting-her/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-ethicist-says-she-was-fired-for-an-email-1400-googlers-sign-letter-supporting-her/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 76
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/NRbhh9G4Y623_7Q5lbnFTCVARak=/1200x630/2020/12/03/14a3a964-d103-4c59-b0ad-0715ff21614d/gettyimages-1028811892.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Top artificial intelligence ethics researcher says Google fired her"
-    excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company’s diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest"
-    publishedDateTime: 2020-12-05T02:52:00Z
-    webUrl: "https://nypost.com/2020/12/04/top-artificial-intelligence-ethics-researcher-says-google-fired-her/"
-    ampWebUrl: "https://nypost.com/2020/12/04/top-artificial-intelligence-ethics-researcher-says-google-fired-her/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/04/top-artificial-intelligence-ethics-researcher-says-google-fired-her/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/google-denies-firing-AIguru.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
     excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in"

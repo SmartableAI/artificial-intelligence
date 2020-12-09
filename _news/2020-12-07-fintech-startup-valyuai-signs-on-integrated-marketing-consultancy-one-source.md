@@ -7,7 +7,7 @@ originalUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-i
 webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "FINX: Investing In Disruptive FinTech Innovators"
+    excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
+    publishedDateTime: 2020-12-09T18:07:00Z
+    webUrl: "https://seekingalpha.com/article/4393861-finx-investing-in-disruptive-fintech-innovators"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
+        width: 635
+        height: 450
         isCached: true
   - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
     excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."

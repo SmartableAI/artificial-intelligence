@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T16:42:00Z
 originalUrl: "https://www.bloomberg.com/opinion/articles/2020-12-09/google-s-firing-of-timnit-gebru-shows-it-can-t-stop-being-evil"
 webUrl: "https://www.bloomberg.com/opinion/articles/2020-12-09/google-s-firing-of-timnit-gebru-shows-it-can-t-stop-being-evil"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Bloomberg

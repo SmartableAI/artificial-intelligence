@@ -55,6 +55,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "FINX: Investing In Disruptive FinTech Innovators"
+    excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
+    publishedDateTime: 2020-12-09T18:07:00Z
+    webUrl: "https://seekingalpha.com/article/4393861-finx-investing-in-disruptive-fintech-innovators"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
+        width: 635
+        height: 450
+        isCached: true
 
 secured: "i7mAtBpEo8iQjmEMGMjPAzP76xuFwKGEyD1AWqPbNQiTCF17esDyKz/bqgwRSK68cWQh4dqASMdXo1NqFKL9Mpga0XpQ7kQtnQigr77yfffRbCmmTWzodHOL3gob8w7Kvtjw/nZtM4o0A/RvsHmCrdqO+tmvMUYwIfmsZV2f4WUFyTYb9XSM/RHEfxiMn48wKTs3ICxqdxkpGsHq490PcJn2w/K4KJN83KbCZs42D7prWzrfAzXhk7jTwBLoQCmSic8IEr2pzA2Qpkygm5MHRrB66Z2qMuh05WCRP7siEOjVNKMFLOsM6ABrwVmTZvg2/cKlYK2C3VtYn8+kwk9oqFWmgV9jviEMn7aEMZaOwes=;ZLtSe3CQuTZZyXQ6ov/3tw=="
 ---

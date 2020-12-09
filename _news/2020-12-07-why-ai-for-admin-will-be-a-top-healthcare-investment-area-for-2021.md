@@ -45,6 +45,15 @@ related:
         width: 417
         height: 455
         isCached: true
+  - title: "Healthcare Artificial Intelligence (AI) Market To Gain A 51.9% CAGR By 2023"
+    excerpt: "Healthcare Artificial Intelligence (AI) Market – Overview The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market."
+    publishedDateTime: 2020-12-09T15:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023-2020-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
   - title: "Decoding the Booming Adoption of AI in Healthcare Market"
     excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
     publishedDateTime: 2020-12-08T10:30:00Z

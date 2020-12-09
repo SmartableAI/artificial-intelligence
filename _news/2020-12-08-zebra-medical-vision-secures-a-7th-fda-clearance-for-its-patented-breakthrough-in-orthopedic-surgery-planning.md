@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/zebra-medical-vision-secures-a
 webUrl: "https://www.bakersfield.com/ap/news/zebra-medical-vision-secures-a-7th-fda-clearance-for-its-patented-breakthrough-in-orthopedic-surgery/article_cc330883-9486-509e-a284-e38b5b0b724f.html"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA clears Zebra Medical Vision’s X-ray modeling AI for orthopedic surgery planning"
+    excerpt: "The artificial intelligence developer Zebra Medical Vision has received its seventh clearance from the FDA for its programs, the latest enabling X-ray images to be used in place of CT scans for certain aspects of orthopedic surgery planning."
+    publishedDateTime: 2020-12-09T16:00:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/fda-clears-zebra-medical-vision-s-x-ray-modeling-ai-for-orthopedic-surgery-planning"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 33
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1607530013/spine3_0.jpg/spine3_0.jpg?8_B5sbaaVyr7x_MXl12Q8tIJPqigC5_6"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Zebra Medical Vision Secures a 7th FDA Clearance for Its Patented Breakthrough in Orthopedic Surgery Planning"
     excerpt: "Zebra Medical Vision secures a 7th FDA clearance for its patented breakthrough in orthopedic surgery planning."
     publishedDateTime: 2020-12-09T00:21:00Z

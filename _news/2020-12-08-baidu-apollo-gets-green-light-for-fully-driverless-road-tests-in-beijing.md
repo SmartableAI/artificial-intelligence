@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-t
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true"
 type: article
 quality: 83
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -40,6 +40,36 @@ related:
       - url: "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg"
         width: 1024
         height: 538
+        isCached: true
+  - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
+    excerpt: "General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic taxi service that would compete agains"
+    publishedDateTime: 2020-12-09T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
+    excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
+    publishedDateTime: 2020-12-09T17:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/gm-backed-cruise-starts-driverless-av-testing-san-francisco"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruiseSF-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "sCSyhkJlgInjFJkXYI4oz5IMiAdbW3yiE5adD2unV5NQj28morSd7X1Vi3jVbeN3W1p7cCEnoE3XxJLOuXiDmr1Si2PZlKQrFLy2Qj+aP0PwJG9/ZZSq3zJhU+Szi2kilsb59J8iU9b5geLBfCkD6YAdpUK1hM4F8AtSOJpD7XJ9fuCrWRh6ZzkyVvO1OyBwDKx6nVONgiNJeZUXRqc3/BJeutGNDqVlH4Ifmf+lCCnkQx8rHAof+OuEBuuL4cK1opnwEXJ3Zp9Y5j73F5aSVsknwKcMFmuxyUDPjAeOnY9TxEVI27TgQJEPwDLrcHsJnFemmIy5fALXhypvD7fK8gXhGXaUDG2Ijz1JDCc7RMVLH/+0wDFEFpxtKGgKE5fFbtb6euqjaX0EZ1PWtgF/0bwnlMq6GIW5oQY/oHYEVI9kSjklgzqcznayXtmEqyVOv9WQAn2CELjyUkd94l48phyDaMlv3vhgAfgFfIwdMii2WI2bArZRQ9mA5sNp+JPRHocICUfF8KtUwsioKUIWhA==;D96Ck+4gi86LexgZdT9F7w=="

@@ -110,6 +110,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "C3.ai Soars 138% From IPO Price to Start Trading at $100"
+    excerpt: "The IPO for C3.ai, the artificial-intelligence-software provider, was priced at $42 a share. C3.ai ( AI) - Get Report, an artificial intelligence software provider, began trading Wednesday on the New York Stock Exchange at $100 a share,"
+    publishedDateTime: 2020-12-09T17:48:00Z
+    webUrl: "https://www.thestreet.com/investing/c3ai-ai-stock-trading-debut-nyse"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/c3ai-ai-stock-trading-debut-nyse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/c3ai-ai-stock-trading-debut-nyse"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/7E6sbUJ2-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Airbnb, DoorDash And Billionaire Tom Siebel's C3.ai Are Upsizing Their Public Market Debuts, Revving Up Biggest December For IPOs Ever"
     excerpt: "Amid a red-hot market for tech IPOs, six firms are on track to raise roughly $9 billion in offerings slated for this month."
     publishedDateTime: 2020-12-07T15:47:00Z
@@ -142,6 +158,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "IPO mania! DASH, ABNB, and AI all in play this week"
+    excerpt: "The food-delivery company raised nearly $3.4B by selling 33M shares at $102 each, a 25%+ premium from the firm’s initial price range of $75-$85, making it the third-largest IPO of the year. Needless to say,"
+    publishedDateTime: 2020-12-09T16:51:00Z
+    webUrl: "https://www.fxstreet.com/analysis/ipo-mania-dash-abnb-and-ai-all-in-play-this-week-202012091651"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 17
 
 secured: "Yi/CabDFFqoJRQSxXozS8ujxeKFWHJN6bSDABoFf74OvQzOs58C/EEsQ8q3aW9SsE5Cvlfqzw9kfyFUUagO/I+ya/oh1+p6G5xJL1VKXKpeWWEcMt9T4p0qNXytA1Ok9urb5SQNzhFTHOhOKHh8nNy97TRTmYS55md+o8uDsbwTamiHCGHqMJ4r1mssmFQ7B/CQ4wgmp3Nv09Ri8Ah0VBNupmpBGmb9hMPhVKZQpFj1FIseyexwFWezRUituH7G37q9RRv9j9LZLsKgl4SVCKtFG9LOyr7t+j3EyOEpLstsap0GWUeaDIJygRx2oaY+DXas8ob1SWwEvoVUBrGIg0DxTvy6HAOYbJMec8NG6R1o=;wA19bf69cz37q8u4BC4kVw=="
 ---

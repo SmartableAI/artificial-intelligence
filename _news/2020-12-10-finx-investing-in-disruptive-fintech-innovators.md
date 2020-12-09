@@ -1,0 +1,75 @@
+---
+category: news
+title: "FINX: Investing In Disruptive FinTech Innovators"
+excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
+publishedDateTime: 2020-12-09T18:07:00Z
+originalUrl: "https://seekingalpha.com/article/4393861-finx-investing-in-disruptive-fintech-innovators"
+webUrl: "https://seekingalpha.com/article/4393861-finx-investing-in-disruptive-fintech-innovators"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Seeking Alpha
+  domain: seekingalpha.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
+    width: 635
+    height: 450
+    isCached: true
+
+related:
+  - title: "Fintech startup Valyu.ai signs on integrated marketing consultancy, One Source"
+    excerpt: "New age fintech startup Valyu.ai, which focuses on the blue ocean Indian market for accrued advanced salaries, and is already working with close to a million of India’s employee base, today announced that they have signed on leading integrated marketing business impact consultancy,"
+    publishedDateTime: 2020-12-07T12:55:00Z
+    webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
+    type: article
+    provider:
+      name: AFAQS
+      domain: afaqs.com
+    quality: 52
+    images:
+      - url: "https://images.assettype.com/afaqs%2F2020-12%2Fa8aabca6-60dc-4966-bb01-f9bf24bc7491%2Fdownload__4_.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 935
+        isCached: true
+  - title: "Meet the Fintech companies leading the innovation wave"
+    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
+    publishedDateTime: 2020-12-09T05:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
+    excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
+    publishedDateTime: 2020-12-06T21:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 20
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/08/Praia-de-Sa%CC%83o-Rafael-Albufeira-Portugal-dan-gold-unsplash-600x418.jpg"
+        width: 600
+        height: 418
+        isCached: true
+
+secured: "q+v3HZkXxpDuOzRh0bwcngoSaE/9Zuu/dTpkMnF1RyN8Vzhk5uxdeS2VADCg1W8PvtxrDB7Swx4JOEbp86FwWqcM7madrwlVVPYGe6DAWMyF5yLcXNrQmd/jZeS92Mt71gznGu67ULAdVkb2R2HnkUoA6WLaJp88pDskA04MQV6v8jWG2QTbFTQVkKpv2M5VDOLPU4EW1wK7qzPoNtU7SG+lPIMVEohfqQ99PNkW2weddGt1xxtzlo5FOJbbmx96mN8t10nnDAGqdoCoXgTZA28ac/nBsHvrExgn4AAYoGAqSCwli4tc05TYWnKH2rMWkFK7HWGXf9XhhC7q+tceh+haBVc1UFiCZ5WDGgvKoUk=;ZK5Ky1vGH8z4iauSuurUZw=="
+---
+

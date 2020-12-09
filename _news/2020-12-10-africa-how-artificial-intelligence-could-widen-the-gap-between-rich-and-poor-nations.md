@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T16:05:00Z
 originalUrl: "https://allafrica.com/stories/202012090829.html"
 webUrl: "https://allafrica.com/stories/202012090829.html"
 type: article
+quality: 12
+heat: -1
+published: false
 
 provider:
   name: AllAfrica.com
@@ -14,6 +17,31 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Africa: How Artificial Intelligence Could Widen Gap Between Rich & Poor Nations"
+    excerpt: "Opinion - New technologies like artificial intelligence (AI), machine learning, robotics, big data, and networks are expected to revolutionize production processes, but they could also have a major impact on developing economies."
+    publishedDateTime: 2020-12-09T06:02:00Z
+    webUrl: "https://allafrica.com/stories/202012090139.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 35
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+  - title: "Artificial Intelligence in Africa"
+    excerpt: "Don’t miss our final Global Cougs Speaker Series of the semester! This time it’s artificial intelligence in Africa! Darlington Akogo, Founder of KaraAgro AI and minoHealth, will be speaking about the application of AI in African healthcare and agriculture."
+    publishedDateTime: 2020-12-09T07:00:00Z
+    webUrl: "https://news.wsu.edu/announcement/artificial-intelligence-africa/"
+    type: article
+    provider:
+      name: Washington State University News
+      domain: wsu.edu
+    quality: 19
 
 secured: "GTw6gXjS2CKlAnPTH0igiK1/fVRZR7xuTy//NOJBtvvfbqiW8awcN0BWI43qUmOaxojtkW+pNU9FW5eBA3nrUx1qVci/yYTq/Yqit7+ZTYZJWrfVo61+eFZ9i9RmL8mxlzcnYI0tOmcFJpPdPIcPFq7fN52AhyxmSKCeoMlOuuUZaAuoHIJnxuBarbLUPcCmJkRTIW8diswkg+TvPT8yO58WHj1Z0GbXCVo81SMe5tYwAMzNb1Y9XEmhRE7DM2Cefdhx9BAFoA7TD8LVnEZ2docjv8gDB9GR7nOaE8msUadqqWCwje2DrABuvsg7pe32CYLtcyPJLvYY5pqLRV7HWszO2fGybXxvLzoiTnbmdO0=;NjkrJfpSF710BHc679URNg=="
 ---

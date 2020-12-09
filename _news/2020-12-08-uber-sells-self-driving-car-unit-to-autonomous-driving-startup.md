@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-publishedDateTime: 2020-12-08T05:41:00Z
-originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+publishedDateTime: 2020-12-08T04:52:00Z
+originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 type: article
@@ -689,6 +689,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Uber sells self-driving cars to focus on profits"
+    excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, abandoning a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
+    publishedDateTime: 2020-12-09T16:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-55224462"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 4
   - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
     excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group"
     publishedDateTime: 2020-12-08T14:23:00Z
@@ -718,6 +727,6 @@ related:
         height: 450
         isCached: true
 
-secured: "kLxhDFEDk9CKnzyGJrsq4pBQNvCxijCv5q4mncwtnQxch/QEn27TS3qugHOfBNwrxbjFDYD4//b+8KbpFxfAF0JNT+ONBZ39kOODv3tVRqadNauOR1R8KMjGlEotLMEcmPtIfgl7QJWtolFl+b/LrBNOEFh0EZOafKjjO928szK2QlxZpm9HM9tKVGDK+43zT6pDzeEsNgr9Y8Gb1Oq+9Pten7I+qsWl2ZzXxOiw9GYde8y6hEDJCnV2s3YXHNgIu4d9j6qKRjRvBx5flrzYeQyrnDZFhb5LfTmD/Ehzr755PmK/PuD2TBo5CFUo26qM9ItZOyKFzOmNAKg5uu0ZIdVmICrqgyveJQzx/hFuacU=;Tqyh7Lc3ZzKK7jDb8l6THg=="
+secured: "wR9OYXWHlUaF19C2LWip/u4vmGuIkvVvD8eeSSpCXuny5v2Wv6RS9filPUidMKs8iIW6EC9aHkLxkH+rX63E2wlWotm+AsQNrzILfzOAP1LTKKvv+V66vRfYl9rbd4pjOE5MSwpk5wmLiWetlZsaoh3opfY7ngEyfvMcsB2VVf80do0Rvnvfw2KB28ijHdIPYxEltFXeWzIugGOgBgU/cUTpAtxxBlrN0a/j+/vJfhGBW3BcmuKWdc3h8AF1f1fro9yia7Ffbw0qvHIghqepyJ6nyIFgIL4wiqFDC1qvmvJdjX38eO6ByziHV3Ha1OQAxKj/Z6g96e6fhglP07meHyu2mSplF4ZQkcNtv8Htmu0=;7cNNxPxYZSRoE7ClxhB4HQ=="
 ---
 

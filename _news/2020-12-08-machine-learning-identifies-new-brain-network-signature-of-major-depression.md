@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Machine learning identifies new brain network signature of major depression"
-excerpt: "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between different parts of the brain in people with major depressive disorder—even when different protocols are used to detect these brain networks."
-publishedDateTime: 2020-12-07T19:02:00Z
-originalUrl: "https://medicalxpress.com/news/2020-12-machine-brain-network-signature-major.html"
-webUrl: "https://medicalxpress.com/news/2020-12-machine-brain-network-signature-major.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-12-machine-brain-network-signature-major.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-machine-brain-network-signature-major.amp"
+excerpt: "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between different parts of the brain in people with major depressive disorder -- even when different protocols are used to detect these brain networks."
+publishedDateTime: 2020-12-08T08:28:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/12/201207142315.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/12/201207142315.htm"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/64-machinelearn.jpg"
-    width: 874
-    height: 321
-    isCached: true
 
 related:
   - title: "Machine Learning Identifies Brain Signature of Depression"
@@ -44,6 +40,6 @@ related:
         height: 360
         isCached: true
 
-secured: "Sbn1M24fN5epx7KcFz3iNH4JaiucdQ9fTG7W4AP8BdG+cnwWz87/rmPKcuQMXgwJ75efdPzpsuxxHA7GJb25G9zew8qjaHIIE7x1b24DSuJWJ7Nrw5jIcg+jX0FihcVs5rra/8XS0+pb7X4xrVfqdljXy9asrZN211cKlk6/UakZWDQ78NbGaVZuiVjbXL/nkVpdSKsHX7I+m4TTYjpKCjI7OyqKJWq6mVwNnVlcfbNtjvMoZfGwU6D1A5RtqI/6xSVium0B0R3dX2nRmRwVbrkNjBeEORKObbrkrIvcdJjY2H0rkf+Qp5QmOa0ziAFkp94UY2suqx/m/pUMiJZSxM4YUOhvUU0GofcohHz+Vp1qlIqZ3ngY+UeoZG3BKL941a3Xvfh+T0wx8NbPkk6FKqA/FY52HQfFWp4SFqX5wlWajSygvJEwPP/TbUkkKsulDpaw0AovF7RNcqtlELcf4F8fT2r1EmCC9CpnPEI01Ru7/nK7sJ6BJhXSj2sag53RgC0yexer919khX7bTNCALw==;meLV8N6yR23FzE2yijxXhg=="
+secured: "+itA/Wih+XV5z1WJrh6FxP3Pjei1Mk2WoFCbS4/VQ0buoypCYLCYI3r6LywwquPAffDSorD03ygQtxSFD9QGrN+n/N14QxJ1viwsP1rKSToGbTlTJtdT73iaPmsFdsGN00R8w1496xj7mouH+hOFtbkL7rskRR2q1T16np5bsEeZ1Ypb8qF2v+M/wQrn/8FXADRzVfWbVt2bvoGONNs0sNM18JyDM8hfRCObtzdxduY1eekSZOOrZJO7jZEjKXJZWnqgfTN5ciuYMem3mA5qr82+EILMXjk2ch5B7pSN8cqQZ/q/vyilB1hh6jjDG0YXmt1V/o//xpZfyzjl+/Vy+vaDtzrtpXb5umqWKXlR4K8=;K08aWA8cIyTQtoL4UFEX1A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Makes Changes To Self-Driving Vehicle Leadership Team: REPORT"
+    excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
+    publishedDateTime: 2020-12-09T16:00:00Z
+    webUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 4
 
 secured: "j4wdD9LCUt612E1sR5mCGIdQMHBczbK/Pul5hQ65qqAvDfDrBEAkYbBm2Ol0IHcgbImjr7x51lQv3QtRbd8YceI9hxRUvcDUqz7rg7WiAIB2UAo3ZvwZt7kAN2yAEq0bI25tuSxSNt6jNWtHNXre4X4KlrMGVD9eCVd4CxiJmYGI5pclDK7mmkBuQ6Wbfhz/+D9f5H57imWy43pxdh3ypIHsSRYRqFRNFqaSjwXFmnx2cX8yYrHrF31g96bRwwlqrDid7jZMciLsKuMpsbW9XH0A41gkFu6tCHgNVfE2t65GWXHv00bAgHyt/+SgboBKUu9CTB9nGc4e9gpLSAbknVPqhBQFTTwRPQKtncy0ncBp0XRP/AiRhxFNT/08NM27YxAEl/36SXzZuC5pNPSHZkS7V02bYHDlWZ64SQFRLUeTLM1mGViN4PMKt1IZ7aSCUHDDmI59HyjGIQ7J8Ps5Hu3RdwMQ+8b8yCPE05FqpkCYZVh9pRHZ8RwSYtqKdHKyLqHcBPaUq/S1CV5NvFaLIg==;kuNAQoRZkDIblDjg1iFgrg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T16:39:00Z
 originalUrl: "https://baltimorebrew.com/2020/12/09/in-praise-of-a-priest-whose-voice-thundered-for-the-unheard-and-homeless/"
 webUrl: "https://baltimorebrew.com/2020/12/09/in-praise-of-a-priest-whose-voice-thundered-for-the-unheard-and-homeless/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Baltimore Brew

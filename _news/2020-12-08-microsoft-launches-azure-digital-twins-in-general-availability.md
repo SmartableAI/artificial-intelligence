@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 119
-heat: 209
+heat: 259
 published: true
 
 provider:
@@ -47,6 +47,38 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft doubles its money after backing C3.ai as it goes public"
+    excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
+    publishedDateTime: 2020-12-09T17:45:00Z
+    webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
+        width: 4000
+        height: 2667
+        isCached: true
+  - title: "Microsoft launches effort to fight corruption with AI and other emerging technologies"
+    excerpt: "Microsoft's Anti-Corruption Technology and Solutions (ACTS) initiative will aim to stamp out corruption using new high-tech tools."
+    publishedDateTime: 2020-12-09T17:54:00Z
+    webUrl: "https://venturebeat.com/2020/12/09/microsoft-launches-effort-to-fight-corruption-with-ai-and-other-emerging-technologies/"
+    ampWebUrl: "https://venturebeat.com/2020/12/09/microsoft-launches-effort-to-fight-corruption-with-ai-and-other-emerging-technologies/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/microsoft-launches-effort-to-fight-corruption-with-ai-and-other-emerging-technologies/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
+        isCached: true
   - title: "With reinforcement learning, Microsoft brings a new class of AI solutions to customers"
     excerpt: "The post With reinforcement learning, Microsoft brings a new class of AI solutions to customers appeared first on The AI Blog.\n"
     publishedDateTime: 2020-12-07T15:59:46Z
@@ -60,6 +92,22 @@ related:
       - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/12/reinforcement-learning-sberbank-coins_1200x630-1024x538.jpg"
         width: 1024
         height: 538
+        isCached: true
+  - title: "Microsoft initiative will use AI to sniff out bribes, theft and other government corruption"
+    excerpt: "Microsoft unveiled an initiative to use artificial intelligence other technologies to detect government corruption, calling it \"an urgent global issue that can and must be solved.\""
+    publishedDateTime: 2020-12-09T18:46:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 94
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
@@ -76,6 +124,20 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
+    excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
+    publishedDateTime: 2020-12-09T16:02:00Z
+    webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 69
+    images:
+      - url: "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg"
+        width: 6000
+        height: 4001
         isCached: true
   - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
     excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."
@@ -129,6 +191,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2020/12/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool.jpeg"
         width: 993
         height: 675
+        isCached: true
+  - title: "Microsoft and Johnson Controls Report Collaboration on Launch Integration Between Azure Digital Twins and OpenBlue Digital Twin"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Johnson Controls (NYSE: JCI) have announced a global collaboration to"
+    publishedDateTime: 2020-12-09T16:45:00Z
+    webUrl: "https://www.financialbuzz.com/microsoft-and-johnson-controls-report-collaboration-on-launch-integration-between-azure-digital-twins-and-openblue-digital-twin/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 26
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/12/shutterstock_1405194650.jpg"
+        width: 1000
+        height: 553
         isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."

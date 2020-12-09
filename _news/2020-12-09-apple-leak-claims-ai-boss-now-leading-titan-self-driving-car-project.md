@@ -123,6 +123,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Makes Changes To Self-Driving Vehicle Leadership Team: REPORT"
+    excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
+    publishedDateTime: 2020-12-09T16:00:00Z
+    webUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 4
 
 secured: "BFViL7ZyChS4NWRRo7oCt8+XOwvWn8eEVgqLFkxmuYRewU9D5ezJfVulwdx8nO2e0m55IoaPxhK9BCULKqRI2TCuWGvS0XgrHRosniO51broZQQA1JS88Cw10t/4sieZTxSfoQMLaCMhwrA8FMzc0O98zDBdKBWInIg4GjJiaiX0eqiRgOhdJGyrGMoDu6JGGr3rBca1y7mLKBn3jHJX4aT8WMXkd1L/9lAAZ5h8DxEvJXE7SjpQ/7ljHsxHgs8v03lQgYaMnnOeILVUA0e6t+XQneqUlZJaBiIo2bJ4qCv2VRt93/x6DF/Qn2jhq49nEBvhO77kbHdVCfMLT6qZ7I2OgsMfSHo+a0kVuQhuID+7j0SrirgQb2epgaedT490t0HK1NyDaRw5Xi+3z367JB2mu+c+MfSEoa1q30CGLK6YRNx1HvNiL5p+zWK4wkPGN1+Dp4viuWXtrohYqSpKkS7xhKChPNtP9G5vxNX951PE8f2jDandx6ZBAZVqniEkKzsQaLE4uAXy3amNzJ5oSA==;i4iq+tgezXAu3OK8RFPaLg=="
 ---

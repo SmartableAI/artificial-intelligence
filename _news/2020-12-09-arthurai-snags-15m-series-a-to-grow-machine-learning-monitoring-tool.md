@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T15:39:00Z
 originalUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/"
 webUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

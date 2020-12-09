@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Qlik Debuts Qlik Sense Enterprise SaaS on the AWS Marketplace"
+    excerpt: "Qlik is expanding its relationship with Amazon Web Services (AWS), debuting Qlik Sense Enterprise SaaS in the AWS Marketplace. AWS customers can now purchase Qlik's modern data analytics platform, with Qlik's unique associative engine and artificial intelligence (AI),"
+    publishedDateTime: 2020-12-09T15:32:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Qlik-Debuts-Qlik-Sense-Enterprise-SaaS-on-the-AWS-Marketplace-144287.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 19
+
 secured: "jla+xYLV4CmmaW5W3rlWhuoQ/c7Q5nLWJaBXK0Mwj8Lm4AUl7x0wvKaNPltANXW4RkMKL5LGSeU1cqQO5ocyF4+rV+pefm64zopW4FtmgJXR7NWoGUPhhhaKMT8cA4DUh/IqMP+UzynHI8Zr1OmlcK/eJvdUWYxWy/tEKjTqgURp1MMYlCtO4w1q1WS5rHVZtJz4HZC5Qu9MWqN3naKAGeI+BNaaPthktSaQegU003cV9T6mxypAGTc6KmBmLK1wcjYFTCQZlCNPmQA/6qWEIi1IC/jYmipiRLr89AqtYLuPHIMv/PqC25r4C5rSQ/fBF04FWS5vjiqN8y3i2sq5PEsz8+LsQMxRmYmLZidbbxA=;wGMi+ju7eJPLVPE14zW37g=="
 ---
 

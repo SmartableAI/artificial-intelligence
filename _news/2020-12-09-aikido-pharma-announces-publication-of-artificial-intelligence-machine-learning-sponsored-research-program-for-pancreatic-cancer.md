@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T14:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning-sponsored-research-program-for-pancreatic-cancer-301189567.html"
 webUrl: "https://www.prnewswire.com/news-releases/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning-sponsored-research-program-for-pancreatic-cancer-301189567.html"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: PR Newswire

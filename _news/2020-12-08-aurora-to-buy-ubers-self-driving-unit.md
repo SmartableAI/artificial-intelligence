@@ -135,10 +135,10 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T05:41:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
+  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T04:52:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -687,6 +687,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 4
+  - title: "Uber sells self-driving cars to focus on profits"
+    excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, abandoning a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
+    publishedDateTime: 2020-12-09T16:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-55224462"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 4
   - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
     excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group"

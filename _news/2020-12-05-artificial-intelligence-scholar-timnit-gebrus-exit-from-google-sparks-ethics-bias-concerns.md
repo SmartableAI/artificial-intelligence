@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics"
-    excerpt: "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else."
-    publishedDateTime: 2020-12-04T23:05:00Z
-    webUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/"
-    ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Google is facing a mounting rebellion from its employees over the dismissal of AI ethics researcher Timnit Gebru"
     excerpt: "Dr. Timnit Gebru says she was fired, whereas Google says she resigned. Google employees have now publicly backed Gebru's version of events."
     publishedDateTime: 2020-12-08T14:27:00Z
@@ -75,21 +59,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google AI Researcher Timnit Gebru’s Exit Sparks Ethics, Bias Concerns"
-    excerpt: "Furor over Timnit Gebru’s abrupt departure is the latest incident raising questions about whether Google has strayed so far away from its original “Don’t Be Evil” motto that the company now routinely ousts employees who dare to challenge management."
-    publishedDateTime: 2020-12-04T23:33:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/12/04/timnit-gebru-google-ai-researcher-exit-ethics-bias-concerns/amp/"
+  - title: "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’"
+    excerpt: "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms."
+    publishedDateTime: 2020-12-08T18:45:00Z
+    webUrl: "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
+    ampWebUrl: "https://www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 74
+      name: VICE
+      domain: vice.com
+    quality: 80
     images:
-      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2020/12/timnit_gebru_google_1028811898.jpg?w=420"
-        width: 420
-        height: 280
+      - url: "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh"
+        width: 5760
+        height: 3235
         isCached: true
   - title: "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru"
     excerpt: "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist."
