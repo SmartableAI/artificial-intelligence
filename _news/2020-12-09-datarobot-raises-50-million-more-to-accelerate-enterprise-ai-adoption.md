@@ -78,6 +78,6 @@ related:
       domain: venturebeat.com
     quality: 41
 
-secured: "rUVA/RKdERnZj5/55SHRDNy0XQfgC0yW6rj7wPcg8AWMqagaZ1SpgMA5WoYbo2bukUhP45h/b51XmIC0shH7qMAcHx02R2CV+48h+AY9vuB6wELgyrReq0GciOQRev/A24HFU5oHpmZVfrfCaW4aaBqM2nmqEOdtEs2dweki35roe9xrI070Vl4sgDZ8CFJA4Xwp9BywLZwL+AsK57Ao5VyGECIQlHm26GDRPyTJjWNm1RrOhnSvC9HxPmJ/n+bQRTHuxjQf+vjfe6vOrdAdNXNL+yXD0bfUFYCAr9WA0qiODDDy0MCxPxEjLnLNxMZcOtEC1xA9cpTiQ7GXNyJ8DgNPwB4Bpzg0l58KMePtJbg=;Bep440E5wQ69DZe77ZsU2w=="
+secured: "qhhYzFTfy9u+ibOxg7SFlB5ZYSSvXW1jmjhEOEKz+kFb4YYzwDW66QWiHJgSYX+yVrGqwqjO9J1tYrpfEao+fFE/HFwyfj+0NyRWfWUzVchwX/Xfiikwkk0EfYtVX1xS+ikyKWey/qsvU5PPL/6aNzMOaamNwTV8TRzdI+vfxZJaZIlKL1Bgd1xvTdxSBWcHUsHIHlUEfXal90oxDNC8eSHCGvISwQXUK+qfrfRymkSXWPGurP38iUVuKT+MzDcsnihuKWnvq/aJXD7fMPOn5TUUAAbLZHD3ulqf+F9b7mZNh3JidbQeERVYDSk/jDHi/n6grSozJy+cyOuBuV+yTDaVPIDgekpF5BLB+HNnlvw=;J7qKj/S1cHziYCP77iP9Fg=="
 ---
 
