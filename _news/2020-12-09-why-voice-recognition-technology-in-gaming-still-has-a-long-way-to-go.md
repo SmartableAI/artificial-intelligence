@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police use of facial recognition technology soars in Minnesota"
-    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
-    publishedDateTime: 2020-12-04T20:44:00Z
-    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Police Use of Facial Recognition Technology Soars in Minnesota"
     excerpt: "The growing popularity of facial recognition among local law enforcement in Minnesota has renewed public debate about how, when and why the powerful technology is deployed."
     publishedDateTime: 2020-12-07T13:26:00Z

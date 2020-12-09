@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
-    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
-    publishedDateTime: 2020-12-04T19:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "9ggfdqUnCM+llo5gG2EccM0023HK0jHlBP6Kebz1Vcu30jiy26fPeXbmV2VHl8TKtiQ5sXLAW0KZUpxvNZtrQt6CHPAe2yjSJi0mKCjHl0CGd4wVtpxC3NBkJAdJd+ck0KB1EsbtXCrRuri6warA+QWt2tXr+NBB4Lyerg6RS9j3snkt3nRbrk+qPjeusdW8JWiH0Tt+0zfzouWKslPkGjwyRPlJASY8Y9Q+GeaOZMMHQeQUe5JUnXMZtMUM1bEiA+uqQUaJ01hQ9GWL1CMcvGWiCAjf9EFfhpQ+kkDHXrFmseRIIpUQBmA04YnzVZs+cAZbuabTTJ9o9Bl/MOUE5kNGznF6EmoygB0jdR8+yvjFg/0biJU9a57nhLQd+TRgR1dPUzsBJKRcPfPWca2AmFy8AwA/UBr4n8jaQNVCy8XTbrV25SEP/4LAuSPm650RsLkM6/AlNY8WWJmLYqd67r2ZYx0g1dzXm/n2QA47IFve4cMIJwLEQKx5XuaYDi+rvhRbqmMNMrg54tjTGer4vA==;BYcG5xuiSPv5V7RSR9QnqA=="
 ---

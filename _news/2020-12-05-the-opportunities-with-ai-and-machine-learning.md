@@ -7,8 +7,8 @@ originalUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-w
 webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Microsoft
@@ -29,59 +29,50 @@ images:
     isCached: true
 
 related:
-  - title: "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps"
-    excerpt: "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps."
-    publishedDateTime: 2020-12-07T17:33:00Z
-    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/"
-    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
+  - title: "SURVEY REPORT: Artificial Intelligence, Machine Learning and the Future of Telecoms"
+    excerpt: "Telecoms operators are increasingly looking to Artificial Intelligence (AI) and Machine Learning (ML) to make their networks more dynamic and responsive to the different demands on their operations. As the technology promises to offer communication service ..."
+    publishedDateTime: 2020-12-05T06:28:00Z
+    webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 48
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/04/tw_mwl_sl_undr_blk@3x.png?fit=1075%2C616&#038;ssl=1"
+        width: 1075
+        height: 616
         isCached: true
-  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
-    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
-    publishedDateTime: 2020-12-07T22:01:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+  - title: "A smarter business with Hybrid Cloud and AI"
+    excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
+    publishedDateTime: 2020-12-05T01:30:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
     type: article
     provider:
-      name: US Department of Defense
-      domain: defense.gov
+      name: The Star
+      domain: thestar.com.my
     quality: 39
     images:
-      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
-        width: 1280
-        height: 853
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
+        width: 620
+        height: 422
         isCached: true
-  - title: "Winners of Artificial Intelligence Challenge Announced"
-    excerpt: "Naval Information Warfare Systems Command announced the winners of its second annual prize challenge in the Artificial Intelligence Applications to Autonomous Cybersecurity Challenge series Dec. 7."
-    publishedDateTime: 2020-12-07T15:09:00Z
-    webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2436651/winners-of-artificial-intelligence-challenge-announced/"
+  - title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
+    excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
+    publishedDateTime: 2020-12-07T15:17:00Z
+    webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
     type: article
     provider:
-      name: United States Navy
-      domain: navy.mil
-    quality: 37
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 38
     images:
-      - url: "https://media.defense.gov/2020/Jul/26/2002464378/1460/1280/0/200730-N-ZZ999-0001.JPG"
-        width: 1274
-        height: 1280
+      - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
+        width: 1024
+        height: 577
         isCached: true
-  - title: "Promote the deep integration of artificial intelligence and rare earth industry"
-    excerpt: "At present, artificial intelligence vision technology has been landed and applied in rare earth permanent magnet products, 3C shells and other industrial fields. Baotou, as the gathering place of rare earth permanent magnet industry,"
-    publishedDateTime: 2020-12-09T02:06:00Z
-    webUrl: "https://news.metal.com/newscontent/101339868/Promote-the-deep-integration-of-artificial-intelligence-and-rare-earth-industry/"
-    type: article
-    provider:
-      name: Metal
-      domain: metal.com
-    quality: 15
 
 secured: "GrNtLi8bgTzPTHvNfF6zdDkgl8ydJlhxwfUAySLyZ2AlQ2Gl2skdppKcRN17DNGb5X5Ea4wMxPL2C4JiwWO9cPAs85gvsMmTOde82CoIrieAKHW5slDON7ZjpTCmnPTmHv6bg7B7atFTELpXTPdPcuO3+32O5tz4/uxSofGQ8KB1uPx5TMZWuhwDJw5dBXJIo+AKwrlvMvereUsZYxo5NaQtZZJgRyRuIqAXT202OXiyN6X+BOMtI75ZioAkJW8VTW5PNekhSv5GvNHP6hxs8wn5HhfIu16uveZWR/mONKMNWX/xZyY+kf+tDMkaA8OKUpjkVp2IDMxszl+fQkxlMZIOdugVO86wW5nH7hMTm9k=;j6lb9dcpheOuhDzK8Ex8AA=="
 ---

@@ -329,6 +329,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Uber flogs off self-driving start-up"
+    excerpt: "Aurora Innovation snaps it up in a $10 billion dollar deal Taxi outfit Uber Uber has flogged off its self-driving arm to Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon."
+    publishedDateTime: 2020-12-09T11:15:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/52023-uber-flogs-off-self-driving-start-up"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/228d8a62a65064425861d142b798fd9a_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Palo Alto unicorn Aurora Innovation snaps up Uber's self-driving vehicle unit"
     excerpt: "A complex deal between #AuroraInnovation and #Uber will reportedly value Aurora at about $10B when it's done, with Uber making a $400M investment and owning a 26% stake in it. #SiliconValley #startup"
     publishedDateTime: 2020-12-07T19:13:00Z

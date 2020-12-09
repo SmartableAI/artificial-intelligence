@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterpr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
 type: article
 quality: 83
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,57 +30,64 @@ images:
     isCached: true
 
 related:
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
+  - title: "Driving into the future from autonomous to AI"
+    excerpt: "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society."
+    publishedDateTime: 2020-12-07T15:54:00Z
+    webUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "Peering into the Future: A Vision of Marketing and AI"
+    excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
+    publishedDateTime: 2020-12-09T06:19:00Z
+    webUrl: "https://www.linkedin.com/pulse/peering-future-vision-marketing-ai-martin-waxman-mcm-apr/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Future of AI Ethics Hangs in the Balance"
+    excerpt: "DeepMind Claims to Revolutionize Medicine But Questions Remain  Google's DeepMind unit is good at feeding the AI hype machine, because after all, its very future depends on it. But judging how Google treats the future of AI Ethics,"
+    publishedDateTime: 2020-12-09T12:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-ai-ethics-hangs-balance-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
     quality: 54
     images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZ3Aizn7yjA/article-cover_image-shrink_600_2000/0/1607288835258?e=1613001600&v=beta&t=yFaZdaMkH8ewkqKLh90qZeD8-Pp4ajVI4-3bbx-Vdpw"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
-    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
-    publishedDateTime: 2020-12-07T22:01:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+  - title: "Library tools transform from analog stacks to artificial intelligence"
+    excerpt: "In March 1987, new shelving installed by library staff, UAB students and volunteers provided storage for more than 200,000 printed volumes in Mervyn"
+    publishedDateTime: 2020-12-07T15:43:00Z
+    webUrl: "https://www.uab.edu/reporter/campus/retro-spectives/item/9343-library-tools-transform-from-analog-stacks-to-artificial-intelligence"
     type: article
     provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 39
-    images:
-      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Winners of Artificial Intelligence Challenge Announced"
-    excerpt: "Naval Information Warfare Systems Command announced the winners of its second annual prize challenge in the Artificial Intelligence Applications to Autonomous Cybersecurity Challenge series Dec. 7."
-    publishedDateTime: 2020-12-07T15:09:00Z
-    webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2436651/winners-of-artificial-intelligence-challenge-announced/"
-    type: article
-    provider:
-      name: United States Navy
-      domain: navy.mil
+      name: Kaleido Scope
+      domain: uab.edu
     quality: 37
     images:
-      - url: "https://media.defense.gov/2020/Jul/26/2002464378/1460/1280/0/200730-N-ZZ999-0001.JPG"
-        width: 1274
-        height: 1280
+      - url: "https://www.uab.edu/reporter/media/k2/items/cache/4e0e0929a9e28d6dc11af73535d78609_XL.jpg?t=-62169984000"
+        width: 900
+        height: 674
         isCached: true
-  - title: "Promote the deep integration of artificial intelligence and rare earth industry"
-    excerpt: "At present, artificial intelligence vision technology has been landed and applied in rare earth permanent magnet products, 3C shells and other industrial fields. Baotou, as the gathering place of rare earth permanent magnet industry,"
-    publishedDateTime: 2020-12-09T02:06:00Z
-    webUrl: "https://news.metal.com/newscontent/101339868/Promote-the-deep-integration-of-artificial-intelligence-and-rare-earth-industry/"
-    type: article
-    provider:
-      name: Metal
-      domain: metal.com
-    quality: 15
 
 secured: "FxYPZqByaEpPT7AmIlA/+IHxT9XednHjM8Qx/igkmXHBqRhWyo9m6uBjMIjL+N3YdiYtb7jAKp7ydloAoqF7HE0/9sC5tu38pWU3SL/CQUPvxrkgvG7bRgmpIIVgomlpR5i4i8CU+F8lcYKKJWb+Ij28A9NinRcnEERr9rHn52LUYKvl0r3LgN8YV/A2yORClC6zEwfbsNXfS0qs8cnyZIRTPOpX/h+e/ZcLlwwCZc7Yq5m0yXfyDr6w8nxRGCJu5XiGzZDILpJAH6j5Iih6MS/dRDeJkDVWrssQgsNL5hie7f6Xqx9nsyPDVGar3q0VMlA8T0+tBj7rlPHuAxxENsSGMYvLzr/He7eeVV4mZjPEnQj/xbJtO3jdCphWeISv3C3kFz8mggtXgU25a8G7EM0ku78egj7cwGzuFIGnC9kpwFLuDbZ8aNZORdgf1pg4Lz/CGiZj1dKId9VMA42nlXs3ARLmBOefpqioqiNji/iXfDNcInPylwNWuCjFbFQdA6YuiApilYohAgo1VefkHA==;qFvuJZiO08ofuiMzcnXUrg=="
 ---

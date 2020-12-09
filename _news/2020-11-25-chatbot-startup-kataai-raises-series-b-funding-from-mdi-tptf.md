@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Chatbot startup Kata.ai raises series B funding from MDI, TPTF"
-excerpt: "The startup plans to use the fresh funds to extend its business and services to the commerce, healthcare, and insurtech industries."
-publishedDateTime: 2020-11-25T12:21:00Z
-originalUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-662955"
-webUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-662955"
+excerpt: "Kata.ai, a conversational AI startup, said it has secured an undisclosed amount of funding in a round led by the Trans-Pacific Technology fund and MDI Ventures. The Indonesia-based startup plans ..."
+publishedDateTime: 2020-11-25T00:00:00Z
+originalUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-663946"
+webUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-663946"
 type: article
 
 provider:
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "44O7OGoqNlC0c10OzdpVsvJKn/9aaKosZvC0u5/S+n0jwFurf1+nIp5exEPyeEcTIntFexBufEQ6vaXpuDQtb+9QOWqkCTSgzivPAQ0pyMujl7bBwVrj2uDST7w8vKqwj2hoGGpvQsK1Fe60oaj5mK39bX4t7DmjI8flN2VlEG1YR0CaCveZFctRPUU9RC5yKvhRfHarBy9M80tOVYCG2pE40reY1dX+Ek2GInYW98yt1L7gHpJaBf+yTVCv7Akk3IKKxGC5keNAT8pUC7zCZslSxl081XbMimSJDCOAJDFH4I27LHmdBF/vRmpY9R6UWA3gar3iMPuHZbsQIk/gDZYuEpSVw1RVH25yr/e5QCpAyqlHPPdNf42ssYXWs8jbKxz2BdJPfALXTvYIsxTSJEgqPKccRYvZ3/+V9UoCYTrJVreCyvBiMXoe6DadBhxI4GSz7l/+NmQT/wDRfh0hrH81WOU7Zd8t4zHaR92oH9NIM6pToGyttJKHIee03Vwi0i0VLIiPoUy/VJs/oIOBfw==;P5U0e6kUvN68Rsu26vt6VA=="
+secured: "xd9oinIlZdCGAE85qyYTQN6Q7HC/xRkwU/UOjmSNONvCZ69d2W9JNPJzU/pym93nsBfe8F6nlsIQJlU8XRvBQS7Zqe6/FKPskB+08W/kxDzL7VS85eBtLmxZpmeLTVdLnWDq9EOxsLPlTaQg0iwBEH2EK/h2q1dXyRbokH2+I4AiZzPctsixDGngPfl+lJENL6HMiGyYtL2m67w9IEpxwru2o9sJRmVmY5cr77x+aKMLfkD5SODLDzZSECxy1PHch7JUh5Cyo5LB+ohapTxHFjkRWWLMBnoIDpI9c+CnlBDSXIzWe63QgRx6FxtN7rnwnHDtHVuxPn2rASnFNuQOlTGBvyMr3BU2zvBJaYaF+z8=;YxnXGs/y2xvjWjn1+WKPUg=="
 ---
 

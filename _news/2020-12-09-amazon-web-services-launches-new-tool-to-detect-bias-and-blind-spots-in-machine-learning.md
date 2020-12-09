@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/01c6135/bdd58deb-6632-49c0-a970-b8b52a87742e/3/Sagemakerclairfy-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "Intel releases new machine programming tool to detect bugs in code"
-    excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
-    publishedDateTime: 2020-12-04T20:43:00Z
-    webUrl: "https://sdtimes.com/ai/intel-releases-new-machine-programming-tool-to-detect-bugs-in-code/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/12/5fc9481252123.image_.jpg"
-        width: 1396
-        height: 783
         isCached: true
 
 secured: "ZfcKP1xRRKrYvRdQ8hnYYd8P7c6/b5JQZkOVDU/+kEojburSbj/psAyOGJZ4xY+bq0ffgf2WlHHUIT+6NPhisVK155TWJRqSSGrWMkfXs8RIwdhUCwx7+me7Zuf1ipVKGLprBreWpx4zLmiQmybPHdOs2+qIFqLH1o7pAxW4MQDUZ5HlkNV73ijU5yFB5sN7S39HwF78zwzJcZv91LqS3CPiWVrftGryp09zAgGIQlci98grFb9wYQOjh8RjuZsL0mr9tBgp+ry3BNlaavsnWfOMLiD+jAo2QMHnuMMyENHzfm09BsO9SLxsvS6Upi9LWaS0y/O1fRMPli8Vhta8cQj2uyvBoO7f3XwVpEz7RYGN2mykHYclI4yWOMgH2ENhMbmsggUDZsi2s3SLvi7J0hWGv/gE9aeWV209JUNuvf8u9iFeSa9TLgkzlrwmcqp626S+M1TfNuc8LVg3LSmAqUfz2d0r+pxt8XVKQJpTjSnqFD2Eo3tE6Yuq9PzdvmaZlWXOFMmEBLqzj4fRXPoK1A==;GbkR6Og+woSG1eHsylG8CA=="

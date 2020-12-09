@@ -42,20 +42,6 @@ related:
         width: 630
         height: 323
         isCached: true
-  - title: "Intel releases new machine programming tool to detect bugs in code"
-    excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
-    publishedDateTime: 2020-12-04T20:43:00Z
-    webUrl: "https://sdtimes.com/ai/intel-releases-new-machine-programming-tool-to-detect-bugs-in-code/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/12/5fc9481252123.image_.jpg"
-        width: 1396
-        height: 783
-        isCached: true
 
 secured: "FYQjlqtJnyD+otSzJ9iSaNCe5kl8y+RHCJfDu10i2WOOBoJpO/kfVE72iQKWJWuv9Dw9/Au1/sifkAa2zulWFNYyJNTfF+tnudJVq39I5MFd2KqtCVyRpZKmZ1fimE4+s85ccg3s70XQ2wg676Lge3KHS2tMUvLmU83DeeSiu7KgEApbDMPr9l0zkm0tNfQhXlUgIgpXDIUBVNKIhON5fOPFhCLM/ajhf+JHn3XNMBuDc++MGMi7ITFkQhcOhZ9LRe0DLmy7RvRPfhrUdoo3twruqAoB9pi5ti5NwCUqmO5g3ViiELaxy9Upiys49jl+9Rn+b/iBGGrwILJSn9dhlzfJoiIZf6m//SFIvj6UZQw=;mET4RBRGfj8r+ESY6yVSKg=="
 ---

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
-publishedDateTime: 2020-12-08T18:58:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
+publishedDateTime: 2020-12-09T11:13:00Z
+originalUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
+webUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -123,6 +119,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "KcSr34jzVEyRpyNWucL/4ZN6qa3p5pskkgOnimg8L564BzQVROCMaQh1hPyBPogzq5tR/6ktxz4cp1xV7F0tzdgeGZdh7sQ4BWybpxsBiPT0bx0LwS/4Y7ckWhuwEJm/zNAbHr+usWaKQPy+FlFlM5ApDNg6sbfvypQZzwpRZ0r8J3eFJSWOQdeTuBfainR/zBhIcrEdluKrL+Ftpi0SOmlJcsNUrkThv6HQbruVjFqyZwVt7eMPKjOYXXmBHnj375fWeBIclkSRtAAot1DW5bDbjOJe9gMfjizdAAsDTVmCRIRyx+5aVQG9aAbbNvXQ43tGFuBCbtwgMx6VSukzI01WCJ13eooL8j5zHkzxgO0=;I5G+keM08OHzwoADOf5iNw=="
+secured: "VeR/57b2s+8WLwtvD2Hl4hB0o/BIISCrzbjW4Fk2Vu2Hm7x8m2c1xMWiUFTUznzPm6p7kA6GqxEnodZOXBcuGon+ibU699odAA1elEPpxu6fC0yueDBLKEDCM7LX+bSgseRhRmon2BndMt25IopmlplS+5CXIR10vlj8NBD2tt8CtnAII02Sk4pNzKifY4pZcqVWHCq9MQzuWwKNis9LSA/jphZqviAThhEkMAR9/o95foI4H9Ozf1jsvfDcFygfHPqJ4wEhlW1ExAD5Xj3ndK8V5vs1YeGDJmk0wnqUQ1kCFvT8eio6JXbhZ5SX6bWJPmgInpAd2dXmOrFe5vbuAXV/YZ98Vwi5RUKe7zzYMdw=;embHD6YrAwAMAXC9a/nmHg=="
 ---
 

@@ -31,6 +31,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 29
+  - title: "Singapore AI firm NextBillion.ai clinches top prize at start-up competition and gets $250k in grants"
+    excerpt: "SINGAPORE - Local artificial intelligence (AI) start-up NextBillion.ai was crowned the winner of Enterprise Singapore's start-up competition Slingshot on Wednesday (Dec 9).. Read more at straitstimes."
+    publishedDateTime: 2020-12-09T12:45:00Z
+    webUrl: "https://www.straitstimes.com/business/singapore-ai-firm-nextbillionai-clinches-top-prize-at-start-up-competition-and-gets-250k-in"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/12/09/yq-slingshot-09122021.jpg?itok=nb4-096y"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "R6o2XRGDoJQCN48I0uQCp6vXxmREc52pUbqAXYa7fgxFXOSIjlNkoIoqET4Yu1IWU4cQ3xUTsERzgB+wcYbiS6Z1XmbkriG5nZPhU+SckRIyrYycKMv1tkaVFJCN6WQL+Uj7STmtIFwawJErEwL8rZ5jOl1YwIjiK9OV/zWbwLxMubzg1EWW8vE0bp30DwA/21TropF3bTXfDxhbYk1SwBgDtrDFdiyJj1+U8/aZB/ZSMsrT8PdDYCyHrmFtbnnpoZ+9hdJxSXK1IKZemzYZUk5/hS1wf21F1KSVQdlAyLsHytOXY9rtBXvnZELUzaVlxuTw8hKTslXx1TcbZudMM8k7cC5IR+ACZgkB/iCEa0Q=;ooXMe7HAK85vXbuU/OFGfg=="
 ---

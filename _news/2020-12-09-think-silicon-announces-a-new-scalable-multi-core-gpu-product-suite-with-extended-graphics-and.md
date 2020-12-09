@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and ..."
-excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is"
-publishedDateTime: 2020-12-08T19:03:00Z
-originalUrl: "https://omaha.com/business/consumer/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and/article_22f2dae9-94cf-5a6c-9811-48710a78eaea.html"
-webUrl: "https://omaha.com/business/consumer/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and/article_22f2dae9-94cf-5a6c-9811-48710a78eaea.html"
+excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA® pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
+publishedDateTime: 2020-12-09T11:11:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-europe-corporate-news-materials-industry-8a4fdfa7aa5c0ddf4cbdbf028b3497a0"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-europe-corporate-news-materials-industry-8a4fdfa7aa5c0ddf4cbdbf028b3497a0"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J3LHhaSAELWcUbLiezUn6Wlf9scKrfJZp8cxaPFFlJbSvKsS2AhLpKdvVttW9r10rPe5wY6pHG6xJ/SWIi0V3hbQhHp10Mb5eJd5GM0stW2eAy9daPFAtUDcDRO10lW3ojY0xaAm/J7zXmiuidHPSHiwMqPS38ex4ezmy4OqCqiFU39qS4RH0RDCkyC5G98mr5uyC5Qqu5vNcKJKdIsl06pDGoe7xfVYaEzy09Pb+HNYe26BkGqSNACxutyvxWX/5DlYGP1LpgZknWfKHFBQboufegStmeLYt0yLRHZFQI17n9ViNI2vBTkq4qtLZ5BXqdjDliHxF+ksXaBR+jb/k7T3P4yM5LwLo414/X/f2cU=;E2kmDwF7xd0BWCu4b/oaVA=="
+secured: "Dwvezu8cr+dmP5X9YZuTDpvObUyG5aEfN4MLxDgum50xvm1Afxm11gzP5lAzqSgRoaRD+4ZBeOSpXaZ7hk5e90I1SSPeQZcHHXnC0msX+xiO9q8awq17bkiTeNXHCgzKhvneguFpiKROqQ5n4AJMtxUOiNS+0CZLQXuRgydKgXlTl5tvkSL40AAJxqMyu2i7Ox/M9M8lKPqrFa2HKWcVYhCkxk+7shJrk6D/Yj/k58Msi83W+YVCdmf5onL5UkXiBLWYXSkE9Soc1tFgwSsLctzr/B7LR4gCY/AUBNXAoxULvhGAelWfXR/Z5+sueZ0GKTGF2m7CZtO4YEb2wc0oV075ysQazehSQzyWbu9ZNeg=;Ad1m2reKXs8Aeqz485S9Lg=="
 ---
 

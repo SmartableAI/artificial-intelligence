@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-t
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Baidu is testing its robot axis without a safety driver in Beijing"
+    excerpt: "Baidu has just received permission to test its autonomous taxis with no security drivers on the streets of Beijing. A first for the Chinese capital. The company has been testing its robot axis in China since 2018,"
+    publishedDateTime: 2020-12-09T12:31:00Z
+    webUrl: "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/"
+    ampWebUrl: "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 74
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "sCSyhkJlgInjFJkXYI4oz5IMiAdbW3yiE5adD2unV5NQj28morSd7X1Vi3jVbeN3W1p7cCEnoE3XxJLOuXiDmr1Si2PZlKQrFLy2Qj+aP0PwJG9/ZZSq3zJhU+Szi2kilsb59J8iU9b5geLBfCkD6YAdpUK1hM4F8AtSOJpD7XJ9fuCrWRh6ZzkyVvO1OyBwDKx6nVONgiNJeZUXRqc3/BJeutGNDqVlH4Ifmf+lCCnkQx8rHAof+OuEBuuL4cK1opnwEXJ3Zp9Y5j73F5aSVsknwKcMFmuxyUDPjAeOnY9TxEVI27TgQJEPwDLrcHsJnFemmIy5fALXhypvD7fK8gXhGXaUDG2Ijz1JDCc7RMVLH/+0wDFEFpxtKGgKE5fFbtb6euqjaX0EZ1PWtgF/0bwnlMq6GIW5oQY/oHYEVI9kSjklgzqcznayXtmEqyVOv9WQAn2CELjyUkd94l48phyDaMlv3vhgAfgFfIwdMii2WI2bArZRQ9mA5sNp+JPRHocICUfF8KtUwsioKUIWhA==;D96Ck+4gi86LexgZdT9F7w=="
 ---

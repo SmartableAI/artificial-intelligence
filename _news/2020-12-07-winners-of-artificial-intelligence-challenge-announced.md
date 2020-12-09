@@ -7,7 +7,7 @@ originalUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2436651/win
 webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2436651/winners-of-artificial-intelligence-challenge-announced/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,61 +22,6 @@ images:
     width: 1274
     height: 1280
     isCached: true
-
-related:
-  - title: "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps"
-    excerpt: "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps."
-    publishedDateTime: 2020-12-07T17:33:00Z
-    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/"
-    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
-    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
-    publishedDateTime: 2020-12-07T22:01:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 39
-    images:
-      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Promote the deep integration of artificial intelligence and rare earth industry"
-    excerpt: "At present, artificial intelligence vision technology has been landed and applied in rare earth permanent magnet products, 3C shells and other industrial fields. Baotou, as the gathering place of rare earth permanent magnet industry,"
-    publishedDateTime: 2020-12-09T02:06:00Z
-    webUrl: "https://news.metal.com/newscontent/101339868/Promote-the-deep-integration-of-artificial-intelligence-and-rare-earth-industry/"
-    type: article
-    provider:
-      name: Metal
-      domain: metal.com
-    quality: 15
 
 secured: "tXDFvlysIoS4WcTahgg+rFqnng2K/JfGzvyWt//HfHg/v29uN8TIcIdwZ7WxAnGpNcftuJnUDM4Owztmq580ikyalgY/ff0M2QnABVI8REzf4LdvsUn/C9yjlIJWAlt7o3iD57CjxubC4ETkb7eRUE/nk66G9KJKJYTXD/C703kjBk7t5wgcFSr6ZYsSebsbqS/gq+rnr5oNTEFZbtYAz7WRGOFVgQNoamuD632ALYymcHdVTS1xcObpAozJ7imR1/NBTEEq6MewMRrdYviy9h7twCqoFUpT8dFLiYMht/N11Z8eacJ13DX+3OA0YhfPJ7cGfxCM8FdMSeZFFXqoLNeGqR8fOqUq3fQ5hyj1c8k=;/GY7Xdh1HUCLjypTKCBCgw=="
 ---

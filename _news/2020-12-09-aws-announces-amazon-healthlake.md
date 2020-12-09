@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS Announces Amazon HealthLake"
-excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible service"
-publishedDateTime: 2020-12-08T18:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-amazon-healthlake-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-amazon-healthlake-2020-12-08"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible"
+publishedDateTime: 2020-12-09T12:40:00Z
+originalUrl: "https://apnews.com/article/business-technology-amazoncom-inc-products-and-services-financial-services-52fe1d61fe98458eac324f735d215d56"
+webUrl: "https://apnews.com/article/business-technology-amazoncom-inc-products-and-services-financial-services-52fe1d61fe98458eac324f735d215d56"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -100,6 +96,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KzylM2Dg6VWiuTUYJPm/FvVxQNY1oKpgLB0b20c5Pil+KkLhYoFvaGR2gG46KmjpAtHWnve1M1yXif6aKd+fSuxc1iFp9QySGyckbWiAUCTNc//jtFqQg3zcjeXyt4dHyUIboH3r2ays9aFNqIN/DYkzVE1dG1lnXuLVN8Pm2vEzEdakccbbEyRfT9PXUJsrq/NLuUDF6M07SoDpG4shPvugfAM9FfulYptGFDrpWoTqDesDYm8Ue5li3+oYqk9AqfzU1m6BbP86isYTisaWlX71mZCz6WoWuSEJKS0VySJHlB+9Vwe9D1dyY4ZxJOfUKbiWKKhC6JFvSXTfsm8xRLbxs2yhEEFlKEA6/2C0+L8=;PKrlcc2Y7KamXpVss0py4A=="
+secured: "LQQYy/gsUqFqbwjsoR7vg4nuw8yRIH+tskDoHffN1UNpTeVKlcHYxvOYU1gkmiN+GUSClhNQBsmIcvrsjomkzSP0M+1EwB5XjCsHQn6JQD/AgkDmgAvEUVOZ5zR/NjjgRJK9FT4IUi8q130xQojw5IVFMNE0Nx2Ig+fFvu88Ps1T8ioOFT5Nq5Vcpx69tBhOxmpXTjXAkmUq/dtRUDkaelUMl7nyM2YQXONd7WvFmbJCza5jdv4YBy0sPAuorbA9NS7CTfPzXBG/l0siaLkEPenjNGre+36XTCm8xoIidwxq+iN0ixDph1aNkUpo28/2mnjBcLxdHe3Xmu5fVlVRj91aXfSEVe3YLEQX+GnP+s4=;bWVo1e/AqTKdYPWYzvNpqQ=="
 ---
 

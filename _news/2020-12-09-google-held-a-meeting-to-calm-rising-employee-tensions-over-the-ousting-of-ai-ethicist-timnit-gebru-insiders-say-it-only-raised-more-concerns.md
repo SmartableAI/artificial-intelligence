@@ -124,38 +124,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "Hundreds of Google workers condemn firing of AI scientist Timnit Gebru"
-    excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
-    publishedDateTime: 2020-12-04T19:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "More than 1,200 Google workers condemn firing of AI scientist Timnit Gebru"
-    excerpt: "More than 1,000 researchers also sign letter after Black expert on ethics says Google tried to suppress her research on bias"
-    publishedDateTime: 2020-12-04T19:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/04/timnit-gebru-google-ai-fired-diversity-ethics"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "4Uvl+PdY6vGXjz/ROScMI8KNbpycsUnHon7LQy13ue7WOdl3fsnvYbH7CQvMHkKbUBCe85/Oz7PAv3F7mOmlRlY+1ALms033lE2T00FKEMRe7zw8sxY0iOe8gfEApNmYkmWjiQr3nr4xroakYmnD2cX6wzqkFbi2hhaQaTW38XJZQmZbbg1kmsZEPehnOFc9CNUMSycDw6kHcGu8wtuaRnmk61iBUMG2PoLKhnrvr/8LggnmsFvKB0unRSwuqru5mVMAOUEB/U5tbuWeIZEGhvzLbV/UCRKvMBiW7ENbPvXlxAvZknUlSSwQ+q27LxhC1/VHJ+zsWGN95+kCfdY8Bv6MHms0u6kSeZl3VorGjfRFRg+35t46CcDCsK5cGAcmwrgiv8ipKU2t1/wgRSfd3KdryASonx7q3KghU+Xd15QMRE2u9AaL9F7XxMo4tv9du2sSHguzajLaGRw/VOix+1J2SOBrs5bXPlmZZ4LGTWHqT3ZjaEjDtVOn5KaVEg9t89s0qk/KfwVLexRZ9Da1pg==;1/AArfW4EKP0o9q8Tfl1iw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/uber-self-driving-car-business-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-self-driving-car-business-aurora-sale/"
 type: article
 quality: 74
-heat: 344
+heat: 354
 published: true
 
 provider:
@@ -318,6 +318,20 @@ related:
       - url: "https://img.chdrstatic.com/media/5903fef4-ae06-4514-855e-19b396fe5c34.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Uber flogs off self-driving start-up"
+    excerpt: "Aurora Innovation snaps it up in a $10 billion dollar deal Taxi outfit Uber Uber has flogged off its self-driving arm to Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon."
+    publishedDateTime: 2020-12-09T11:15:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/52023-uber-flogs-off-self-driving-start-up"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/228d8a62a65064425861d142b798fd9a_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Uber to Offload Self-Driving Unit to Amazon-Backed Startup Aurora"
     excerpt: "The combined company created by the merger of the two autonomous driving businesses is valued at close to $10 billion."

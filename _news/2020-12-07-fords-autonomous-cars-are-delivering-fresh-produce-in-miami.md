@@ -61,6 +61,22 @@ related:
         width: 847
         height: 490
         isCached: true
+  - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
+    excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
+    publishedDateTime: 2020-12-09T11:00:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article247682450.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article247682450.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article247682450.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 34
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/dce6238c-6f50-4100-9d7f-edf6a2efbade/35066603-c806-448c-82bc-cc1715a7acfa/1280x720/match/image.jpg"
+        width: 1202
+        height: 720
+        isCached: true
 
 secured: "jokhspm10D/H4GL3lCNFbwyIqgxpIq5oV28Zm+OpSgFFKr0cJUCxMiwf6xWA0Bbp4nhqi2hN8+zAuJiQQUng1Q+7t5ER0K2cnYLgw/koNtje93pvTysQDrNqAn8iJg8pFZ6kChhkkn8tqyBxyAZFl5xOQF0s7CWBmukeb+frDDb6+SZVj5Ut7JHRubaWmmkxvDIqTpFdiztb22Nro6pnEn0WlzV3XMitxSU8RIl0f3cW0L4pHHcz9lHWHYrjo34+xQdumHlca0OJjzU2jPAX/Pszo8JP726P2mWLOlOtXNdjNNWj87dqLxQTJWnqddsAyqoyHkPu5oYyzMmMGfcxNIrJ6TTGTqc5Rkxc9sueyyfgJZnl7H+Z/ESZwc6olBXjePrEs7ybPEnMIe58n2du/Fia8M79DHeBfxeQImrNevXGCDEi5/D4CK1yeBQlTPL+AQv7xKYvBQP3yX9tu4s9zIAya8kRsgBoWETc1TS40+8Vo7efStX54zrT94+piOVDdbNhIjteO849qfoYCGUScQ==;2NczsSmoNTvVGlCswnl++Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehustle.co/12072020-lidar/amp/"
 cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12072020-lidar/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
-    excerpt: "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30"
-    publishedDateTime: 2020-12-04T20:52:00Z
-    webUrl: "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://images.mktw.net/im-268636/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public"
     excerpt: "Self-driving car company Luminar Technologies LAZR (LAZR) went public on Thursday through a Special Purpose Acquisition Company (SPAC), making founder Austin Russell a billionaire at the age of 25. Russell joins a short list of people who have amassed a billion-dollar fortune before the age of 30 ( link )."
     publishedDateTime: 2020-12-06T08:51:00Z

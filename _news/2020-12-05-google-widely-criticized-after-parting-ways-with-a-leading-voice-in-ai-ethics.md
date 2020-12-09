@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
 type: article
 quality: 101
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/NRbhh9G4Y623_7Q5lbnFTCVARak=/1200x630/2020/12/03/14a3a964-d103-4c59-b0ad-0715ff21614d/gettyimages-1028811892.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google AI Ethics Co-Head Reportedly Sacked for Critical Views"
-    excerpt: "A prominent Google AI researcher says she was fired over an email she authored expressing disappointment with how a review of her research was handled internally."
-    publishedDateTime: 2020-12-04T20:16:00Z
-    webUrl: "https://www.thestreet.com/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://content.jwplatform.com/thumbs/4bz7IJgq-720.jpg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Top artificial intelligence ethics researcher says Google fired her"
     excerpt: "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company’s diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest"

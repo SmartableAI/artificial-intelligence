@@ -86,20 +86,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
-    publishedDateTime: 2020-12-08T18:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Amazon SageMaker Neo features to run more models faster and more efficiently on more hardware platforms"
     excerpt: "Amazon SageMaker Neo enables developers to train machine learning (ML) models once and optimize them to run on any Amazon SageMaker endpoints in the cloud and supported devices at the edge. Since Neo was first announced at re:Invent 2018, we have been continuously working with the Neo-AI open-source"
     publishedDateTime: 2020-12-09T01:27:55Z
@@ -113,6 +99,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         width: 768
         height: 385
+        isCached: true
+  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
+    publishedDateTime: 2020-12-09T11:13:00Z
+    webUrl: "https://apnews.com/article/science-business-technology-sports-amazoncom-inc-ad288b03ae9742c783825b50c5c7a074"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
     excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and scale all steps of the end-to-end machine learning workflow."

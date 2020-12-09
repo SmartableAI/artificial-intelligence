@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
-publishedDateTime: 2020-12-08T21:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
-webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
+title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
+excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+publishedDateTime: 2020-12-09T12:47:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
 type: article
-quality: 52
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
-    width: 400
-    height: 221
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -130,6 +126,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Addenbrooke’s to be first hospital to use Microsoft AI cancer treatment tool"
+    excerpt: "Microsoft has announced that Addenbrooke's Hospital in Cambridge will be the first hospital in the world to use its InnerEye AI tool"
+    publishedDateTime: 2020-12-09T12:09:00Z
+    webUrl: "https://www.information-age.com/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool-123493044/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 51
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/12/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool.jpeg"
+        width: 993
+        height: 675
+        isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "Microsoft announces the general availability of Azure Digital Twins Holistic integration across digital twin technologies will enable users to digitally manage physical spaces, maximize efficiency, support COVID-19 safety and pilot new solutions Solution aims to encompass the entire ecosystem of building and device management technologies with digital cloud technologies Collaboration will support efficient and environmentally"
     publishedDateTime: 2020-12-08T14:27:00Z
@@ -140,6 +150,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "HcO17D2qPOhUmd/FH0Nfw/h9p+BUB4WfcZvMmLXeYSOFgoLexE7ktACf5XSY2G1yd6AsEQsNsuSr7QGo+oQK6u9Pfaqsw7/EZM2kYut0oo1q4Dr0F0J70Mf1sA1uTSqCvxf2xypnJcn4HZn8jP6Rbs/oTMB8Z6k4tIBRGrP25PeflRoixXFM0U486QHAMqvP1bh/I3SmcL0Q/Iuagrioqao0E3WRRkrfp00SzEwJDld9AX9ZYOYQ74NJFf5TjtccEFfzMg3Zd0N56aGUME8CA5SMEryDXujTdLb7OnPo9neF/zKUfpfFPIjZ3yekVTU/YbvxCQULdyPrCpgDwvQJjOVJkSrIwPWgYBj0qf39CHU=;ihAAiWocSRlR+ZoP7fyMNQ=="
+secured: "4RRRhZiVrWvDzbAnblKPDgOi7bY1wiTrjd/qlc6002H+leWk6kHy8i3c96Xbn82724eNOonA8pFe9n1Hx3sh7lBd5eIR/sp2pg1Qa6zftgBH3yvonQjZcE6Y179jw10ZyYWT2e2qLGWpueboIIgQcEktw3SR5GV06jKtInY3RqdsXWmknSR+e+FmBoldIMkIWaY1ifcz/Nd//eCxjKNowKAL7SO7xSKuyY3RPCw2oHKps7cAnl5K3oInibdQIZ6+AIlZvpW9JUh4wm2lYB4pwjd9jiU3WkTHASRWLTkzGdKomx+Zxvf4Vb4EMKqiEpbOBifH8v2WUSD4RpuKkVJi2Ps8bVw0CGq3wrtBToU3W8U=;kfkdYcYWC2HZfFbiXDAbQQ=="
 ---
 

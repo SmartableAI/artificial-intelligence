@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google AI Ethics Co-Head Reportedly Sacked for Critical Views"
-    excerpt: "A prominent Google AI researcher says she was fired over an email she authored expressing disappointment with how a review of her research was handled internally."
-    publishedDateTime: 2020-12-04T20:16:00Z
-    webUrl: "https://www.thestreet.com/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/google-ai-ethics-co-head-reportedly-sacked-for-critical-views"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://content.jwplatform.com/thumbs/4bz7IJgq-720.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
     excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in"
     publishedDateTime: 2020-12-05T17:41:00Z

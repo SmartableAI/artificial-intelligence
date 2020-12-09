@@ -35,15 +35,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 10
-  - title: "Socure Wins American Financial Technology Award for the “Best New Data and Data Services Technology” From WatersTechnology"
-    excerpt: "Socure, the leader in Day Zero identity verification, today announced that it has won the “Best New Technology Introduced over the Last 12 months – Da"
-    publishedDateTime: 2020-12-04T19:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201204005433/en/Socure-Wins-American-Financial-Technology-Award-for-the-“Best-New-Data-and-Data-Services-Technology”-From-WatersTechnology"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "KLAHnEwjZHxFEhEemRTGyKBRExskBLp1k5SQB1dBPX/r6vEe+tGB4qXIVzTtI0HFBPl7dcsVsF3gNG57+OYe1X9iniuMLfhMIxNsfmVU4p8UMYQlC8e8BxvnH4StW9a3K+kh8XqCTZxhziUSnJRgVnSMu1CAJiGFXEeN0STUuJ6WSeoZsl/tejxEecKHfFOl8v0No1SlB3K5tZtl7S9xPP0zHbSp0Am/CoWGbrq21+ysEKFsr8HeorL4kZDVHSWRFJoQ2Q5RrKrgVMpyuDGwVMS0XcHCtpY43fctxDA55n86W/FlN3LxcZ7lhpjQzo0V/ti/jPWU4PjRiS6aW+IkfMSdbjM5Z9/czgdTd605qR0=;53qdDEyvQ1ZHjiEwG1emmw=="
 ---

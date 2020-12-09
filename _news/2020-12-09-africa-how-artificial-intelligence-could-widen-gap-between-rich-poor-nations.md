@@ -24,6 +24,17 @@ images:
     height: 664
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Africa"
+    excerpt: "Don’t miss our final Global Cougs Speaker Series of the semester! This time it’s artificial intelligence in Africa! Darlington Akogo, Founder of KaraAgro AI and minoHealth, will be speaking about the application of AI in African healthcare and agriculture."
+    publishedDateTime: 2020-12-09T07:00:00Z
+    webUrl: "https://news.wsu.edu/announcement/artificial-intelligence-africa/"
+    type: article
+    provider:
+      name: Washington State University News
+      domain: wsu.edu
+    quality: 19
+
 secured: "ygmeeJ3GwoX0LzHHfq27zn9ISka5DYSGpa4JAkEBwCX3m7QczkYSLBvpd1+XvAhFnzuW4O1qdSwDtWQJakHVlADbGatIsui+kgR1fJlVxFyyPUEDvr+jgCIwQW9f0Xv7fVnzCpA7rJHOm5vpyf84kn17tMwTRoxnQttQkfF81gHUnw9uiz/lg5y/GlktlkMAV6Ez1gCqbrtET+COuAhCtUgT24UEBFuk5AoOtzGYEO0i/omRrURs8eRyXJb+J0K2EuFh1ipwlKrkcIWLus+OJUq5rcirMzmSu+DxYq8lmnuThejb173U9UPiV/v9GDyJIuuGZ5Ai+BItJw8HQAu1U7h/OqU9+uIYNeexN889+Eg=;eOnDSBq3t4nvUQAaLQTuAA=="
 ---
 

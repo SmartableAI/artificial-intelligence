@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Mojo Vision and Menicon Announce Joint Development Agreement on Smart Contact Lens Products"
-excerpt: "Mojo and Menicon will conduct various feasibility studies on production, manufacturing; will explore potential longer-term working relationship Mojo Vision, the"
-publishedDateTime: 2020-12-09T01:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18705936/mojo-vision-and-menicon-announce-joint-development-agreement-on-smart-contact-lens-products"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18705936/mojo-vision-and-menicon-announce-joint-development-agreement-on-smart-contact-lens-products"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18705936"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18705936"
+excerpt: "Mojo Vision, the Invisible Computing company, and Menicon, Japan’s first and largest contact lens manufacturer,"
+publishedDateTime: 2020-12-09T10:00:00Z
+originalUrl: "https://www.financialbuzz.com/mojo-vision-and-menicon-announce-joint-development-agreement-on-smart-contact-lens-products/"
+webUrl: "https://www.financialbuzz.com/mojo-vision-and-menicon-announce-joint-development-agreement-on-smart-contact-lens-products/"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "5PjvcsfsgoYQzAmMTEgydOJ4CRV75Pk6AtaPBQYBX+LwbXorAvw+464zJ7fxitsDW34Z7+CFuhfdlwwCE0gjj/1xFh3MsCZpWf/YrdF3BWrlJt+eGrEnH1zfi7J30vymy3tT4Y5gUNdc573Xh1u6w3sQeL3XQc+rOKh1y2cT4OUaBEFa78KiV0beBoDPc6jD96jVPzUx/EWA5KqkvMYGRPLNcH5lsKrU52OuwRPHHZE4/Q8AGGYtEm8eyeRU0MfVCzMdhutid2k3LcoPEEUWA9wC8inMa2uBDe0oa2mXlBqNvrF9U+Bjp0zhnKKcaphPELl/HMud6yr7Q8y2kFMzl87gzPZZap4Fq8GDt1WTo10=;vF8Mc8mUZ8tuY/+naKdX6g=="
+secured: "odOTEyISrmqFZdGyMXoQHpIV+luV2t/2wJ0qGCASHf7rSZPd6kjDqtJAHS/g9n+ET+SRlkE7nj8uz469/SprUPY238ZFHO1J29PHVC2KtMEVn8gZ/KQU55EBXHAKVsA6KlZyJwO0oU2j5h83i8YW/W4pUdzvk1ZWh0kFtPcvrvkdlLfIsdQJfU9t1APcb15EUP6OzdqtVMBEa++8jL3yii1QBmv6tnCNvbEnPSddFxk14HBw1sjkBW8x+1PO5UUuSfq/U8CqAHILQfdOIaUPmZHw1xEHLRpygyr0EdnQpEFVANpyRFjl1nmfHVhc1mskb3HrLax1xH8Q34jKfrZmTfo8v+BF83PN+dxA1xuXfWc=;58WjIMD1UazzzXb7nPkFaQ=="
 ---
 

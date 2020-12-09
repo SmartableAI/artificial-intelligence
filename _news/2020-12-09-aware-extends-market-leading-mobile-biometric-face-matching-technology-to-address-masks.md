@@ -2,32 +2,28 @@
 category: news
 title: "Aware Extends Market-Leading Mobile Biometric Face-Matching Technology to Address Masks"
 excerpt: "(GLOBE NEWSWIRE) -- Aware, Inc., (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today introduced Knomi version 2.13, a market-leading mobile biometric software product offering face-matching technology that directly addresses individuals that are wearing masks with no sacrifice in ease of use or performance."
-publishedDateTime: 2020-12-09T00:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aware-extends-market-leading-mobile-biometric-face-matching-technology-to-address-masks-2020-12-08-9184445"
-webUrl: "https://www.marketwatch.com/press-release/aware-extends-market-leading-mobile-biometric-face-matching-technology-to-address-masks-2020-12-08-9184445"
+publishedDateTime: 2020-12-09T12:17:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-biometrics-products-and-services-f37ae69cd55b8703b06c9c196c5b7d91"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-biometrics-products-and-services-f37ae69cd55b8703b06c9c196c5b7d91"
 type: article
-quality: 46
-heat: 46
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "jzDI8o3xG2PqMpaPiksjRPS5hpUelvTTdPNAeupkEVf7lNEALrNMMO9it77Zhbd2ylvLe/EWH63Bs2Q67eoXsUD4qIotQoxCAWiVVlEKDjfPIC7PkEkvBi0xRziOUAHS72OPPI5N8PIumQUnh7euV7yAHTpMUqL7TfX4bqtjWo8QTh0OIjqkZnqSBhVea/QA+gNaVV0yCAeHOLz2nXJ+IIiDJ/f2+h6ds9vR6ZP3BNoR6rlgahw4SNNMgqqJBl9hTe66PXwJFd/kki4VmEr6ZisgwBHuEsC5dp2iAzK1vM/PDXSXpakTjkOI9zAzvYDOgENLIyr9g4kSDsWMlXXcitFDQGk4pFwQCOq96X3jIRU=;rochq/kGNlXQRjnvTAVpIg=="
+secured: "33uOr/t4tpxgUkJxRFWUM9f5sJCALHTExULMpu4SQKHTOw+24IgA3h8g/+dy9DxQSExwEBlebM00zaUfZ3pcbYIuLpdX1/R+XyLFmbZK1xhg2k26L410w5PWcw8bQoZd2r56PeAo2dfLxbg6t0h0b2MwGwMXxoxWi/NekUmhF1v5SLvMWAHGSDU/VF3dLC/WS4UMjfUC76sim1p5nsbO3yTrx1g/tFG7yWlllYjtXsllAD/XR7JBPPVyuBzGlYAut5nKsYZkaUPWaquZptAZeydmhaQzqW6gLSeRKono5OXkJvz3LzCDxPPrAM8izUiGmqKeaeX8niQY9hHZGNKNusyrjEFJX4lYFRGQerk+KGU=;oie4rwc8hZbtq+CTHTUI2w=="
 ---
 

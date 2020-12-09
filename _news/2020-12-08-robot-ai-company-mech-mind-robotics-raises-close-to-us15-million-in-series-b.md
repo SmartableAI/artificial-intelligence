@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-    excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising."
-    publishedDateTime: 2020-12-09T07:13:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b--836916027.html"
+    excerpt: "PR Newswire BEIJING, Dec. 9, 2020 BEIJING, Dec. 9, 2020 /PRNewswire/ -- Fast-growing Chinese AI indu"
+    publishedDateTime: 2020-12-09T12:41:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-09/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 65
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 95
     images:
-      - url: "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg?p=facebook"
-        width: 1500
-        height: 785
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "JVa6AlIQR0CrEyq7TCrh6qo6bc8+v+oY/UlmbwRQ8eOAP8UABElnPe3/uENE4XXM9gEdG21a4/ieVFuXa1GtbICXlD64yj5BHRSdHet6lFZYnfyoMNKHA3EHqqqpTKiH560ztSjCcmku9kb03u8SGS/QpWAoneVNAMZqSAZcy6QcN8ntAR0QHYeyWn6VnwAx71l+OVWv7GiQqVvzp6SLb7O7bcFNIVRu5wEdTuj5yrdHSCBju0FeF1bZhQ7aIB2UBzbMkI446EkTYN4PoxjpkwI1kuCMqVLCSKdKwqaA9GGTy5rXCA6ZBA7XezW9zIJwc3Cd/mSvp7c6euoJdnxHtmAhLiVXLZ28bUgUsczZxRQ=;+27ur1zXmMbWHQcfHgSe+A=="
