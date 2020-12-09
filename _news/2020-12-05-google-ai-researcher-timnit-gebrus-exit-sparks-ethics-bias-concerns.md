@@ -155,6 +155,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
+    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
+    publishedDateTime: 2020-12-09T02:39:00Z
+    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "LeHbYQcUQoo0+tBdoiR+KXGxHdVpE2VDD5REpmXZvdjzhcutt6fUeiZeCkSfl/6uvaThV/Ofz6uu0EAad2nKToGFHvskc/l1GEkUZZE2zVHdjgmZ+mZw15e2zQxCmnTZdT1/pwIgZR0Zl9gtfk1AkKmdj6Jdq5vnnA+4gWqUnVweRuI8p0iV2iJt6SQdKp+chZ21ULOUny0puPJW4IbQ0fuXiPpU0p7DkUSw0WwSmbqjYYYpAPjCtE6D945TKkRY7bDVGand+MsvUbG8ZmwowAp3gvUbUeXzG58KxPwjtZ3evma+GoUplYRkXL1tRWR8UoklCQqIkhGdIpOH++wfwaQWWqmK0T/gcd3bL22OavFyNFasK7fTF9aVnZArr+GMpGh8iRbSeY/8vefOhqe822khTIs/2hyNhFcm5IxlAAg0SfDuK+EXOah7V8entq7AzifSDXPxCzIR9jI+opSnfhEm2ApdSIAt/ANjeXdZYnrhq6ksdAWSwok5vhmJXLHGtZcVgK5Ep59HL+2zidZuFw==;39rw3Eqwa0aYNiRzq/bQ1Q=="
 ---

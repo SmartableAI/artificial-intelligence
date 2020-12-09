@@ -205,20 +205,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI ethics researcher says Google fired her after she criticised diversity efforts"
-    excerpt: "Timnit Gebru, who is Black, said on Twitter she was fired on Wednesday after sending an email to colleagues expressing frustration over gender diversity within Google's AI unit and questioning whether company leaders reviewed her work more stringently than that of people from different backgrounds."
-    publishedDateTime: 2020-12-04T10:51:00Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/google-fired-ai-diversity-black-ethics-b1766141.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 49
-    images:
-      - url: "https://static.independent.co.uk/2020/12/04/09/PRI173083165-2.jpg"
-        width: 4923
-        height: 3392
-        isCached: true
 
 secured: "E9J5RQrWn5WAkXASD8/T7xtu2j4cud73cI/r4FJYigKYvgD/HBqkAx8cOb+rgflLp/aVDJg1NWTGRySHkVAtKx54by6qc9TeHQFDnrhCb5HbH1pusi4Zv7d3XyqoRKkPPp3fen3/xYPAiIJHA18+9hoEGtRTqDA8SCmatedn6fM7bFLSWByIPxFduvFP8EeRRZ09ZNNNzAqDFUSmvd56Rt1syr/1iGeJ4Z5vHafAuDr0Svb8iXK+AlIFbNdnDMGiuRggQ3d4LN9X2+USthJYtJLzJbu7al8MuSgAm328JJ5CkDPcPriDoByt4Kx2Jd4kYo6fMWPaRbA9U+OJ2xMEbHEo4UHSWVI/7O00P5imP5B7w8qmzFNuXZpHbgTG2w4bz8OWniwvJ5X5kqxZt2YE6bRpIiwBg69DGLj9YqJmCZLNQAENE9LzUwIYPPwtJeHk/DHoYL2CFk/zx9wUllHf6Mp9W6l+zltooEzb1tiR4lc4LoM9U2HvlkIYKzV726g1LYMtu/5GQ8cf/XwnFpvIcw==;8W+L5B5R83Z+cK2VHDFgXQ=="
 ---

@@ -36,6 +36,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
+    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter."
+    publishedDateTime: 2020-12-09T02:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YbKoqDzKD0/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Artificial Intelligence Firm C3.ai Raises IPO Price Range"
     excerpt: "The initial public offering market in 2020 remained hot Monday with enterprise artificial intelligence company C3.ai raising its pricing to between $36 and $38 per share. The Redwood City, California-based company previously had a debut range between $31 and $34 per share."
     publishedDateTime: 2020-12-07T15:08:00Z

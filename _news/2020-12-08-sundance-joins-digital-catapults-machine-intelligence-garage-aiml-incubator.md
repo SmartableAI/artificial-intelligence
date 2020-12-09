@@ -7,7 +7,7 @@ originalUrl: "https://www.eejournal.com/industry_news/sundance-joins-digital-cat
 webUrl: "https://www.eejournal.com/industry_news/sundance-joins-digital-catapults-machine-intelligence-garage-ai-ml-incubator/"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator"
-    excerpt: "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques."
-    publishedDateTime: 2020-12-04T09:20:00Z
-    webUrl: "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/"
-    ampWebUrl: "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/"
-    cdnAmpWebUrl: "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/"
-    type: article
-    provider:
-      name: Global Mining Review
-      domain: globalminingreview.com
-    quality: 73
-    images:
-      - url: "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Sundance joins AI Catapult"
-    excerpt: "Sundance Multiprocessor, the embedded module specialist, has joined Digital Catapult’s Machine Intelligence Garage business incubator, in a move that will"
-    publishedDateTime: 2020-12-04T09:08:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/sundance-joins-ai-catapult-2020-12/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/12/04082505/F43DFEC3-7FC8-4683-8B3A-5F57CA2EBEAD.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator"
     excerpt: "Move will accelerate and deepen Sundance's AI/ML knowledge and expertise, and facilitate ongoing development on various AI/ML projects including the ARISE robotic underground mining surveyor"
     publishedDateTime: 2020-12-04T17:04:00Z

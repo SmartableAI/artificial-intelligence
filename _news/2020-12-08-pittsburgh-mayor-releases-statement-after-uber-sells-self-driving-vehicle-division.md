@@ -210,6 +210,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Uber Tosses It Flying and Self-Driving Cars To Focus On Its Past"
+    excerpt: "It took Uber a decade to evolve from just another shared economy startup to a tech powerhouse pioneering on such bleeding-edge technologies as flying cars and autonomous driving. But after a brutal year of plummeting revenue,"
+    publishedDateTime: 2020-12-09T00:19:00Z
+    webUrl: "https://observer.com/2020/12/uber-sell-self-driving-flying-car-focus-on-ride-sharing-food-delivery/"
+    ampWebUrl: "https://observer.com/2020/12/uber-sell-self-driving-flying-car-focus-on-ride-sharing-food-delivery/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/12/uber-sell-self-driving-flying-car-focus-on-ride-sharing-food-delivery/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 44
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2018/08/flying-car.png?quality=80&strip"
+        width: 1516
+        height: 869
+        isCached: true
   - title: "Uber CEO: We're Not Giving Up on Self-Driving After Selling Off the Business"
     excerpt: "Uber announced Monday it was selling its self-driving unit, Advanced Technologies Group, to Aurora Innovation."
     publishedDateTime: 2020-12-08T14:55:00Z
@@ -324,6 +340,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
+  - title: "Uber sells self-driving unit to Aurora, with plans to keep Pittsburgh presence"
+    excerpt: "Uber‘s self-driving unit is under new ownership, but it will be heading to a familiar name for Pittsburgh. Aurora Innovation is acquiring Uber Advanced Technologies Group (Uber"
+    publishedDateTime: 2020-12-08T23:58:00Z
+    webUrl: "https://technical.ly/pittsburgh/2020/12/08/uber-atg-aurora-acquisition/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 20
+    images:
+      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2020/12/Uber-ATG-self-driving-cars.jpg"
+        width: 680
+        height: 453
+        isCached: true
   - title: "After Once Touting Self-Driving Cars, Uber Sells Unit To Refocus On Core Businesses"
     excerpt: "The ride-hailing giant once believed it was crucial to develop autonomous driving technology in-house, and spent billions of dollars on the effort. Now it's letting another company lead the charge."
     publishedDateTime: 2020-12-07T22:38:00Z

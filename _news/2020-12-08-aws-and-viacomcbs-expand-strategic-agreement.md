@@ -7,7 +7,7 @@ originalUrl: "https://tvnewscheck.com/article/top-news/256729/aws-and-viacomcbs-
 webUrl: "https://tvnewscheck.com/article/top-news/256729/aws-and-viacomcbs-expand-strategic-agreement/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "ViacomCBS Migrating Entire Broadcast Footprint to Amazon’s AWS Cloud (EXCLUSIVE)"
+    excerpt: "ViacomCBS has inked a broad, multiyear agreement with Amazon Web Services under which the media conglomerate will put its entire global broadcast TV operations into the AWS cloud. The companies"
+    publishedDateTime: 2020-12-08T14:07:00Z
+    webUrl: "https://variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/"
+    ampWebUrl: "https://variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 54
+    images:
+      - url: "https://variety.com/wp-content/uploads/2020/09/viacomcbs-logo.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "ViacomCBS moving broadcast operations to AWS cloud"
     excerpt: "Amazon Web Services and ViacomCBS have entered into a multi-year deal that places the broadcast operations of the company in the AWS cloud. The agreement, similar to one also recently announced with MGM,"
     publishedDateTime: 2020-12-08T22:11:00Z

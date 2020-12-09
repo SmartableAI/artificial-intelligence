@@ -47,6 +47,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Apple leak claims AI boss now leading Titan self-driving car project"
+    excerpt: "Apple’s Project Titan, the codename for the autonomous driving division we’ve been hearing about for years, recently underwent a big change in leadership, according to a new report."
+    publishedDateTime: 2020-12-08T23:19:00Z
+    webUrl: "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/"
+    ampWebUrl: "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/apple_logo_main_uns.jpg"
+        width: 1440
+        height: 800
+        isCached: true
   - title: "Uber Gives Up on the Self-Driving Dream"
     excerpt: "The ride-hail giant invested more than $1 billion in autonomous vehicles. Now it’s selling the unit to Aurora, which makes self-driving tech."
     publishedDateTime: 2020-12-08T06:15:00Z
@@ -189,6 +205,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Uber Sells Self-Driving Division to Startup Aurora"
+    excerpt: "Self-driving vehicle start-up Aurora bought Uber's Advanced Technologies Group (Uber ATG), which works on self-driving technology. Uber is investing $400 million into Aurora. The Aurora Driver (s"
+    publishedDateTime: 2020-12-09T02:31:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 46
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/selfdrivingtruck-1024x561.jpg"
+        width: 1024
+        height: 561
+        isCached: true
   - title: "Uber Is Selling Its Self-Driving-Car Unit to Aurora"
     excerpt: "Uber will receive stock in Aurora, a startup working on autonomous vehicle technology. The ride-hailing company will invest $400 million in the business."
     publishedDateTime: 2020-12-07T22:34:00Z
@@ -297,6 +329,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
+    excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
+    publishedDateTime: 2020-12-09T01:35:00Z
+    webUrl: "https://www.jsonline.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/6482467002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6482467002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "A day after selling self-driving unit, Uber's offloading air taxi wing to Joby Aviation"
     excerpt: "The Joby Aviation deal is very much along the same lines as one announced Monday where Uber agreed to sell its self-driving vehicle business to autonomous driving unicorn Aurora Innovation, while also investing in and partnering with it."
     publishedDateTime: 2020-12-08T19:27:00Z
@@ -308,6 +356,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
+  - title: "'Apple Shifts Leadership of Self-Driving Car Division to AI Chief' -Recent Bloomberg Article"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2020-12-08T23:47:00Z
+    webUrl: "https://www.benzinga.com/news/20/12/18701672/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief-recent-bloomberg-article"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Aurora acquires Uber's self-driving division"
     excerpt: "Uber will offload its self-driving technology division known as Uber Advanced Technology Group to Aurora, the two companies said in a joint statement Monday. Uber will also invest $400 million in Aurora as part of the deal."
     publishedDateTime: 2020-12-08T15:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "ta3DS2RiUKjejX5eqOX7yPCAwurZSz8bp7Re5RPweXFQvW7FglwR61Jv5ZDFEbxi1cHCTadatsWzjNgCu6mVqSaPya9TImXE7qtA3y6eV03TlCWp2DW50ZNt/I9HpkXVRWLSD1rxSN5d222woaHtpDa4Qebx6sjrOgR3QWDzlWLcwP6pPPCRp78FfvBODxp2ASVqP6J+J1wNa5ucfkl/ANjBs2AQbSvG8FdcrqnWeskbUXa8/VYcbh3tdWi2eJbVg1XieTQ44kngZrGzoAcHZsoJMrNNbXx+IdAYGwFtJEm1lqjdRerwppNvOocge5oKehDhseU5QVf7ZPvnjYhLVM2dPOq+jc6McKpN2YO8iSNrWqUhI/EXgGYBYkFJ4tldmEvQSG5f40Sy0HUmpBf/jsxC2y17TPDt8ejEw9CNluZ88c3clx4CYx0jkvP/ScbVcjcoLCfguWSWdJE8LMWKTNnYVsx6jzMw5z8j5pjVn0s+PW3hLPFbpJNfrGdGyaQ4+ou8KIbY8SoAhEh3vU2YMw==;0juDP9TsglUWsj0ZOWrqQQ=="
+secured: "H5wljk3r3i5od6a76GbtZLZnm3CKc52VD6j9rZHKn/i1JK2zPuKHe4nKYHAe6emPXwnnb55hcnTpVmG0S+9fyG2TTO7IVJuMNF9S6lXKgoFi0sS90FwXnh/Gif779kHFcqeO3IPpz05Px0Mdv5X4J3s8KK2mWWuhsAhWe1LksajXcO2yUOlFPiMb9s8qaxpLPO7bfSVQH1d1YhqyEP7yyJl0+9PIeEML2WB7vqjCja7qUZsTi5Peb62MwGZ0A8Wvw1rawJKAlgUlSCDVxeFyzum3ibGpov2tXKoDLMmU6vgoBLgUUxRxpY9CstmvoALQeiKOJEiHddZ+TFheWNpk8h9P6Cy/VQ8YBmJOzpcyH9M=;Qmx41KrjYH5kFavq/VGuKQ=="
 ---
 

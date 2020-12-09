@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-08T22:32:00Z
 originalUrl: "https://www.businessinsider.com/ai-artificial-intelligence-ceo-databricks-ghodsi-vaccine-oil-fintech-2020-12"
 webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-ceo-databricks-ghodsi-vaccine-oil-fintech-2020-12"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.insider.com/5fcfc794240ebd00126bdbb2?width=1200&format=jpeg"

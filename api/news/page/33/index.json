@@ -2,6 +2,154 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
+      "title": "Computer vision app allows easier monitoring of diabetes",
+      "excerpt": "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201113124045.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201113124045.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon.md",
+      "title": "Amazon begins shifting Alexa’s cloud AI to its own silicon",
+      "excerpt": "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC).",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
+      "originalUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-a-covid-19-surge-of-depression-and-anxiety-is-being-treated-by-robots.md",
+      "title": "A Covid-19 surge of depression and anxiety is being treated by robots",
+      "excerpt": "Robots can't do that yet ... Investment in U.S.-based, AI-powered digital health start-ups it has tracked since 2011 are above $10 billion, with investment in mental/behavioral health AI reaching ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "publishedDateTime": "2020-11-13T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-speech-and-voice-recognition-market-opportunity-assessment.md",
       "title": "Speech and Voice Recognition Market Opportunity Assessment",
       "excerpt": "The Speech and Voice Recognition report provides CAGR values along with its fluctuations for the specific forecast period. The Speech and Voice Recognition report has been generated by taking into ...",
@@ -1053,147 +1201,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-keybank-battles-push-payment-fraud-with-machine-learning-other-tactics.md",
-      "title": "KeyBank Battles Push-Payment Fraud With Machine Learning, Other Tactics",
-      "excerpt": "The Digital Fraud Tracker explores the threat of APP fraud and the use of data analytics and pattern recognition to identify and counter digital schemes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
-      "originalUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/Hero-1-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
-      "publishedDateTime": "2020-11-13T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip.md",
-      "title": "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip",
-      "excerpt": "Amazon has also said that “Rekognition,” its cloud-based facial recognition service, has started to adopt its own Inferentia chips. However, the company did not say which chips the facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/",
-      "publishedDateTime": "2020-11-13T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery.md",
-      "title": "Australia Post using machine learning to tell you when to expect a delivery",
-      "excerpt": "It will give customers a two-hour window for when a delivery will arrive, although it has mapped it down to plus or minus 15 minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "originalUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "publishedDateTime": "2020-11-13T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -35,18 +35,18 @@ related:
         height: 540
         isCached: true
   - title: "Canadian-Owned Israeli Artificial Intelligence and Transportation Management Company Sold to Redflex"
-    excerpt: "RoadMetric Ltd's controlling shareholder, Toronto-based Rabbi David Hofstedter announced the recent sale of the company to Redflex"
-    publishedDateTime: 2020-12-08T22:02:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/canadian-owned-israeli-artificial-intelligence-and-transportation-management-company-sold-to-redflex-843863521.html"
+    excerpt: "RoadMetric Ltd's controlling shareholder, Toronto-based Rabbi David Hofstedter announced the recent sale of the company to Redflex Traffic Systems, Inc., an Australian-based company specializing in intelligent traffic management solutions."
+    publishedDateTime: 2020-12-08T18:14:00Z
+    webUrl: "https://www.lelezard.com/en/news-19555772.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Rno7jG94+oqzFyXULG4spuOFBwpgX83nc+3YByR9Kv1QQ2dB23bs5u83yWI+IooCrVcg5kh0Vpltm3r+CpJQHnsMiFlcX7+TQOxuvkch33e+aS6YNU6R3e+h6nUKU8jxwOLL5wxKlnh2pFZHiFJRUnSjhD48XlfHfQAXf/fTl2mdOR9wssf8K4I7NxWKvWtMfjk7sh4aa7xc9/4XErw1ewqRYtuVi0tN+NwHglBD+wkAs+T7XTwqSf111uxfe/9z0P0hGLFgpZScgMwy3Mc2cIFvTZJ7g0ZzSGs0jFI/3gw2VZ0e50KnLmlru8OoktKwr5JGRzBNEzvoaJMj8qNRR+A7UwYm9u6jIT4Zgmr/Zq8=;zoDVE2Q09bd1BH1Ecxk/Nw=="

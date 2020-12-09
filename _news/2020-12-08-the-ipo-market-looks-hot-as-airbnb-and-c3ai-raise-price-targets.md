@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
+    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter."
+    publishedDateTime: 2020-12-09T02:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YbKoqDzKD0/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "I, IPO: C3.ai brings artificial intelligence to Wall Street"
     excerpt: "C3.ai brings artificial intelligence to Wall Street originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com. Investment Disclosure: The information and opinions expressed herein were prepared by Renaissance Capital's research analysts and do not constitute an offer to buy or sell any security."
     publishedDateTime: 2020-12-08T19:15:00Z

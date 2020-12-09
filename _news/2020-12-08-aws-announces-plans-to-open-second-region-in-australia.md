@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-o
 webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: MarketWatch
@@ -29,32 +29,18 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its"
-    publishedDateTime: 2020-12-08T18:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
+    publishedDateTime: 2020-12-08T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "How Thomson Reuters accelerated research and development of natural language processing solutions with Amazon SageMaker"
-    excerpt: "This post is co-written by John Duprey and Filippo Pompili from Thomson Reuters. Thomson Reuters (TR) is one of the world’s most trusted providers of answers, helping professionals make confident decisions and run better businesses. Teams of experts from TR bring together information, innovation, and"
-    publishedDateTime: 2020-12-08T14:01:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/08/tr-1-685x630.gif"
-        width: 685
         height: 630
         isCached: true
   - title: "AWS Announces Amazon HealthLake"
@@ -66,6 +52,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
+    publishedDateTime: 2020-12-08T15:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and the BMW Group (OTCMKTS: BMWYY) announced a comprehensive"
+    publishedDateTime: 2020-12-08T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

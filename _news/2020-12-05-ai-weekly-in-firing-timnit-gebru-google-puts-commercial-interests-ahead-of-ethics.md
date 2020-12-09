@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/04/ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
+    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
+    publishedDateTime: 2020-12-09T02:39:00Z
+    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "x3bJAaVjVr57hFDHXTgahQ/4zzPVv7WZmx8TmgE2Td3WQnfnr1Z30xoofrmhUaF440fBYz9vYPM+RS39v2GQ67V7NCoHOnR6xXYCEtrOS6ZKeVpy9sxt8oOviH8EZO/8lmLTsDVhgp4yjj6xQ83XGXhWWX3+QruWjYf6dhmN6IsqhRDOhzRhlQDD31ZqU0JF7Yd/32A3BIsbvZMpnBns96irCj1mgxTRXQ1tMOrm6NGD1RP/IKNhrcGoqI3VC34xJZL6dMF7IZwJiXl5AC4XwiAyjDMYWPC1V48gpRJ0sNfx9GdbePawyJr1UG+4Sm4HEi7qGUEqJYZkw6HHqmIk9e+fRpYuYidtQvpmyvm24qfdaUd/GFrvOYOTun9Y/N20XyDuzCadse0GxP2jwNvGT1PAekP4pR5DhVn5c97baZxTpjuVSDY7Y3b5XyMpx84Zx5lcFBL81hIVcUSA+e0xVRbTY5DksN0LTslYWz1tSiqOD6z5rbJxjuw5h0Uj1ownFzJrAtlwy2vEqzm8+B+AcQ==;Ui1mPGGwomTPyZZKlLPYFg=="
