@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/standard_chartered_bank.jpg"
-    width: 800
-    height: 455
-    isCached: true
-
-secured: "pK8ifuGlO4D3OPnf0Az7g9PumQjB3480YHkYWUu9sVW4gdCJbwrOxy1ytAXP77QcSu/H98DZuCT9OxhLjYDAgTLriHsGNoVzKSOds/Q06pLyR48EZJZa2B5T/boPMi9f3hgwuSdkQMFZK24er4K++CHIpcgT6pDmZwzG4qL9D6teR/uXjMxEkF5gBRJcuNCj2II88ZJ0F5Mq1vzz3ovI7WwvHEJepTU054dHktdUldnS4B/xEhESkGoKrp/qwMG7WIuBe/Gifbtq6GrwGFXQMk+YQHc6qFdrUPmjA3aD8Mj54K+3FTpAcxFj5ZP6WB0ZPxjp+moIdsMLqPTPYc3k1nbsN34YSp1Bn7tP2gvurWQ=;CdD91ZY3Ch9QY2VWDENzKA=="
+secured: "pbLmm9eer9mFqJJ+u+UvaoXseTGJwPH14bQZ3yebfkLHJCWNt2pCmH8e9UvasxTlaZBm4bAhVqxrDZ2Lsc3xxm+97KXj/UcGYbloP5Il9WPGseFx4pJi8ZRHyD3NzhfT9llnD60krdYmt8bYHOBVqUL5kZRcLA3olhfBAKZ0uedY0zektvUeXe9rwIF+GdJaIUa0etBHdwbYstgQfE2pzEFMEjIurf7f64c9VFOoPa3tutGfsN3EmbhIaXWDdf2g7WAq8fDNnF/u9Nn69PcMckQSjAROZZmsh6GIMLkLJOGAEiyaiAWolqIoHZLpZGv+Nm297vx0efx5wOFIyE9nw91kFWzNPV6wliAxZaswon8=;DkjzgRwu4+9S/bYo092Yaw=="
 ---
 

@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Another U.S. Multinational Company Licenses OneBridge's Machine Learning SaaS Solution"
-excerpt: "CIM will be implemented commencing in January 2021.\" \"The adoption of CIM by this Client provides further validation of the high value our solution brings to the management of pipeline operations,\" added Brandon Taylor,"
-publishedDateTime: 2020-12-08T21:08:00Z
-originalUrl: "https://www.marketwatch.com/press-release/another-us-multinational-company-licenses-onebridges-machine-learning-saas-solution-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/another-us-multinational-company-licenses-onebridges-machine-learning-saas-solution-2020-12-08"
+title: "Another U.S. Multinational Company Licenses OneBridge’s Machine Learning SaaS Solution"
+excerpt: "(TSXV:OSS) (OTCQB:OSSIF) (the “Company” or “OneSoft”) is pleased to announce that a division of a Fortune 100 company (the “Client”) has entered into a multi-year agreement with the Company’s wholly owned subsidiary,"
+publishedDateTime: 2020-12-09T15:03:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-industry-regulation-corporate-news-north-america-5d93e5a55293370f3fe0fd4868c6fed7"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-industry-regulation-corporate-news-north-america-5d93e5a55293370f3fe0fd4868c6fed7"
 type: article
-quality: 61
-heat: 61
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "tswRtFdy0bHA4NEUS3xA8Mwk22wg52Lah+vYL0/fL0Nhw1HSPB9yi/1kdX3Q/erBPJLNtdDSzFyrr5MNFzP2B2tN56cyXm5s7fmT266AdRVnYIAizGYCnXpk+BahHO+KMmIac4Zg43gi7PS7sTS7Q7Q71MSt9pD0IovPagbACq8Hu8m2DumCM2O+fGmEUjO4Qfzjpy1AZLBRObfNG1RbWxlQMpL9El5+1MhyV62puOFbBXHTWgslyIFQepsxKteUbyQR1ymJazrgV+0p8qLl5rwRc/uVHo8tCzGAP2ggNKYrO+lLBDaxVmHfJSRwhe5Lnr/AL5RWo3aCtlE3QD1sNX77GE574gRZQcxN8OnVCKM=;Ei+btT6SYdN+mseeJPBuNw=="
+secured: "vP3kzl+8Fj8LB0O+/SMQBbxANWLH1n5KA081upy6h4cnXWIAVJcfMJMEGbdRrX+8EdnwujIfRhNcXabeL3YoricHcFHhv3OFiE/cob6mFUUyKUvAJD3jIey+M8dQHq63BCKq3XAkV4QCQofjSddi5DQHwtlddqW8TRFjeTzUzBx+uVHOq1D1ntjwzAh5wj5lJRWVl/TqkslO2V0ETuoPpXINEEE85zD3iLH0vPCpf79wRhDEmfDlHBFZBzUGltNHtgv66N0p3Jlsp7ygDphHLl9oV98c17PqrOtpxZlTxZA2XRiS74pyf8OECic4wwLhQjm+DcJFq/KBddLmCcVGAHkhuXGXnYhWz1qfB3dz09w=;m5YuIajAdZrvxrak+II3sQ=="
 ---
 

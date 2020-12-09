@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "3Tr+GVQmRhZB3M7MezWG2FfzovFB+MZQVsPcmfYJMiDusV4Vfgc9dPIIQAkDzm6rgqThXsl5bZcA9yAKBEvo/aZkpMiG48xsCvTcHXRi8eke8KzSC/2Po3bREYVAp6s1Ofjd0dB2ZPtxJ9Jm4wVfVQ2OcIq9YP2JecbVL/g1AlHUTJ4i+GeVctf7NbjoudlCBUYH0ePO9FucnHOXeRil+LIJjD30Mot8/pemUWeBmWkmpS3phbGZf86kL6SvUE+ktkrn3EP6Qr8QTjkSnJPNP8+43d/sOLSGMq8GJk+ZcihJ36qauNbIN7LKJJhiI6jSqvNjvJfVA8G/R7NT7JHJSQ0YdvS5P+Fn8tUSqpmSkGY=;AjYK7uG+YMoUzfcfAjkENg=="
+secured: "JAEDZnX3dYKDmzvQOBZY3L4U+rWOVhPZQoypcPkMfo0WKvIspfihq9/1QnMqMwHtpDsgvjsueiiW8Wfptnb29poclUPVTGj4lo0GdDAanb1IqKWVxj/pxk5JKVQol9g7bCGQ6kgBZcfHrOzPWySSM0j5epISHAZPrHC9x42JRprweJpG5TqWaK2naw3t0wHe006yQ+RwndBvhYQ/cZllSibZBUdGqhqC0ZXOQEMeZta0R5JoGX49zrlW+1KItImxAL+AmJQXvTMZjVyC9uWVc74uCZBbvSOVgEVMnRe3KLFUfFYAvStzqOafA2xZXHPoNqfRM6tBcrHiBf1AWAiUti17aFxVq7Ik34HDoorNnqgjlmqNfn9erndvBMjebGUyJPs1RQiuZOBOla2v/NLdoRBFWftVR3rp5ktMRD9hRnIuPWRffcnfy9PdZSq8YEpSuGkYBJvig+1SY/Jm9dHs6B5fYE+p7672PmZvL7ZtNbqE/cuH0sPlO0C7cZ3JGY+XpIjuYoDbg/M2H9xsDTStQw==;LOYVOuGiSJczJg1zBEdDPA=="
 ---
 

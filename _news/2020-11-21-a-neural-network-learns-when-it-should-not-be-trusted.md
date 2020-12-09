@@ -19,12 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg"
-    width: 1500
-    height: 1000
-    isCached: true
-
-secured: "qPox7QHJz5V+FjTovBzw/5uk3GWlwbKmy8MQaX0YG+na+XCAZrhFmQSef2I+x8/2ub5uJbId3Ffn3jaOGqwNV+oD39gS2MuGo7KdC08M0rsRfn0TG517/hsLwsLcO04PvJT3MmSUFQlp9KMR2IeY4rljebeFAwSlO4TH9GbrBXbJM5Q3jJcxrlWqUnv/ZMNaxQqBNcPBnW/LAKbjYWnp/VeuRUvG/sEMmak3SOL3h4VWbuTTicohd2YKsdbpHqEY5dLzJvytt2xsaJ7KSHwdWp75Ht9fmJHYhk8SzNuKbq4VVZ9+7N1NQP7Rgzk5ZrEqQwuavX/gMAfMnuHJWPs0ol/frgmKTI4gBx2Mlgqq4yI=;jit2v1ZCfq/vykOFrrL7Rg=="
+secured: "QtexKyRUvAD+suwu1vd86EpfYRFtB8redW5fTixJhxJ8X1KcSGC7w7FEqgXBChI7puVHj00H5r0Hoyz7TH11RSAxcxGuqbAczxZeaH4d+R0SqMpOvKWDQlgI2IIlMn8fuoPvrmL6r1MLCghYXiaBpJVIqScXA5KlCtpn3pCREw24Lpw4mbc1MVYpQm7zHOiOlLwlZOESOSWKCzrq9/6o7GndBaRHn9wD2cxxrQrrJLNZwW4zlcItMzIAYD1S8BuBJZ/81HN72RvWl8rw20RHHza5p+EoQgyGR7ZLf9FmP/3Ka59TN9QgKNWJFSgov3mbu3TwTtdGF6p20p/0V25JxptEgzPWh6iodjZTcwQpdvM=;Jv+1uKPIzOFWx1JlQpMhAQ=="
 ---
 

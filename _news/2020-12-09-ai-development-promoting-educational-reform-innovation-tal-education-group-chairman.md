@@ -3,28 +3,18 @@ category: news
 title: "AI development promoting educational reform, innovation: TAL Education Group Chairman"
 excerpt: "TAL Education Group Chairman and President Bai Yunfeng on Monday said that the integration of artificial intelligence and education was moving towards the in-depth field of educational ecology, promoting the innovation and reform from educational concept to teaching technology."
 publishedDateTime: 2020-12-09T14:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cultural-preservation-beijing-f065048c92f563f9b61fa93f966abe47"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cultural-preservation-beijing-f065048c92f563f9b61fa93f966abe47"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cultural-preservation-beijing-f065048c92f563f9b61fa93f966abe47/gallery/bd994b0d6b720453900911bd8ad09ea4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-cultural-preservation-beijing-f065048c92f563f9b61fa93f966abe47/gallery/bd994b0d6b720453900911bd8ad09ea4"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
   name: Associated Press
   domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
   - AI in Education
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "/UNj/OM1VVEBzHdnmQO6vq/InLQmI1shx9lAs7apTFMcvGJcGC3ag+MWkC5OJyZ52V/W0BjJB5n3OKhtC241Cyw2q1XyYImZ9dedN+blBoTu6lD9FSLWSVcymaFQE2/evxIQ77b6ej8JsICbJ4lAQZFPSEGev8MIIyYZXrTECI9kf1TQv5byFiZnaus0382WNHlwewUVuiQveR45xiCJo+pEShli1PnmGMHAvLhlaKbe0Yi5Vp/SVDO46xx+fmsCxT4dRCfuT76MLzckC0potQw+dxQj1vYIr7+m2es628VBeuGaezs+FAZqqp0VtCGkwRdrYs0TBO4ZvvKcWR4dNEoxh2P8Gk1XhXRIa4740rY=;erVdQSmDKacOBzQaX8J94A=="
+secured: "dIcUXGIu0oafHeyfZRYuQZTOC8YtqwSfbo9GtIZoKUGHP4mTPR6ENpgAO2wV+idM9KHI7gjjXxZxnCrV6UlbLSn5rlPDxIwfTqpXFqUiYLGXfjUM5uELFbenDBfJJbIzHVdkq/Bv4EbTQj81jXzc5f35SSaZj4TDGIQzSLAHh/0WJPyFRxS151Tbjqbc27hio/5nyPb6KFuS1c5Xv0tJwGzxcYTjohmXFpce4Ffiui6xc/eKV9BK9BOUad7pAw6ZZOZJ2NwZj3iGD875szf175iDqsb5Hz6HeVtw1I5dZLT4DNJvVAtkWbJY3ibf+r6ZC3at3RDRMUhSZ1h+72jkLURMteq/nu7ALIJ3XWWDm84=;XwMbwYEKQvCKmAMI95MfJw=="
 ---
 
