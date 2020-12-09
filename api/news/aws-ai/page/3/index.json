@@ -2,6 +2,126 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-18-using-transformers-to-create-music-in-aws-deepcomposer-music-studio.md",
+      "title": "Using Transformers to create music in AWS DeepComposer Music studio",
+      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched a Transformer-based model that iteratively&nbsp;extends your input melody up to 20 seconds.&nbsp;This newly created extension will use the style and musical motifs found",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/Using-Transformers-2-1.jpg",
+          "width": 800,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T11:39:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall.md",
+      "title": "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall",
+      "excerpt": "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance",
+      "originalUrl": "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities.md",
+      "title": "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities",
+      "excerpt": "INDIANAPOLIS , Nov. 18, 2020 (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18424642",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642",
+      "publishedDateTime": "2020-11-18T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
       "title": "Today’s data science roles won’t exist in 10 years",
       "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
@@ -1315,153 +1435,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
-      "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
-      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T12:55:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
-      "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T10:17:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-aws-to-set-up-data-centre-region-in-hyderabad-invest-rs-20761-cr.md",
-      "title": "AWS to set up data centre region in Hyderabad, invest Rs 20,761 cr",
-      "excerpt": "Amazon Web Services (AWS) on Friday announced setting up of its second data centre region in India in Telangana that will be operational by mid-2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html",
-      "originalUrl": "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2020/11/AWS_IANS_ED.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp",
-      "publishedDateTime": "2020-11-06T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-amazon-aws-unveils-redshift-ml-to-bring-machine-learning-to-more-builders.md",
+      "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
+      "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/67005e73-7204-4f99-ab6e-f7386f61aaa0/amazon-aws-2020-redshift-ml.png",
+          "width": 1929,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "publishedDateTime": "2020-12-08T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-amazon-web-services-launches-new-tool-to-detect-bias-and-blind-spots-in-machine-learning.md",
+      "title": "Amazon Web Services launches new tool to detect bias and blind spots in machine learning",
+      "excerpt": "A new feature from Amazon Web Services will alert developers to potential bias in machine learning algorithms, part of a larger effort by the tech industry to keep automated predictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/clarify-2-630x323.png",
+          "width": 630,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
+      "publishedDateTime": "2020-12-08T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
       "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
       "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
@@ -308,6 +414,51 @@
       ]
     },
     {
+      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
+      "title": "How AWS aims to democratize machine learning with cloud services",
+      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
+          "width": 1922,
+          "height": 994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-aws-expands-think-big-ato-aiml-rapid-adoption-programs.md",
       "title": "AWS Expands Think Big, ATO, AI/ML Rapid Adoption Programs",
       "excerpt": "Amazon Web Services is ramping up offerings for its public sector partners with the expansion of its Think Big for Small Business, AI/ML Rapid Adoption and Authority to Operate on AWS programs",
@@ -353,21 +504,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-07-aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain.md",
-      "title": "AWS Announces Partnership with MGM to Modernize its Media Supply Chain",
-      "excerpt": "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ...",
+      "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
+      "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
+      "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07",
+      "webUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "originalUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -375,23 +526,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T07:10:00-08:00",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "publishedDateTime": "2020-12-07T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1269,164 +1411,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-configuring-autoscaling-inference-endpoints-in-amazon-sagemaker.md",
-      "title": "Configuring autoscaling inference endpoints in Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/26/Configuring-autoscaling-inference-1.jpg",
-          "width": 800,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T17:50:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas.md",
-      "title": "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS",
-      "excerpt": "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues.md",
-      "title": "What’s around the turn in 2021? AWS DeepRacer League announces new divisions, rewards, and community leagues",
-      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. The action is already",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/30/ML-1878-1-1-752x630.jpg",
-          "width": 752,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T16:02:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

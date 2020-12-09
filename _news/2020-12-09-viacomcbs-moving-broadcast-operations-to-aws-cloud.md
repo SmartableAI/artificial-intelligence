@@ -39,16 +39,7 @@ related:
         width: 1000
         height: 565
         isCached: true
-  - title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
-    excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
-    publishedDateTime: 2020-12-07T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
-secured: "kqp2sUFcWGDaW6kdFPFJ5O8C7EFNskkXw1caSr98SwSiZrLe6Me002MBVurNWa7ogtODHa3BEGncJncUf3jzdM83n78yQhflJMXMm3A5yc/VNv2enVGQZmokBfyj7JFICGp6tCC56/7OGtW/+X1uj/4orWcbWYBYh/uL/i+sCWtIR0UujC2AJ1j5WVHQENY4xI8FxWrAqQXVhqmol0bm1CTg9YHEVkOO3jZzBcdC//3z2SKfyPWwW6/IUtsz/ngOLAkpTZMmtEbfXN7FdbU6RtqkaiK5tdNEmqyWCkz8p5TZaFvTmpHvPCobD4kDm2Ma2o2ZnhnvNBLK4ZV8Mg6KoEVB12122OuDKLel0KwlyRk=;CAahru4HzWVJNT4Ws+dhuw=="
+secured: "31z1KUdVs6lhAmv8UqE4hwU7chZoU4vfzz4JstRAe+h5VPc2wtT6TWniSmOCb916P4tmSungKapP+K4Vg9nMiNjc+XhX/wZk6sGV6ouV9AaiWBUIInHFZJLZiX2Y3j/v99KVlHkAFU9aQoOhvdbwnf9U9q8w1cuTM7PhcKTA+sdMx5wJp3xHT58xI/r6Mki2u5k4IM5uBnt3FRvhFLDuLo+Ymc9reqH7pPsR9AzuxNl9jduyJWp0+rccVBvoxe6V1FS20w8UO2eg2ngGkOIZ6/KvQvdBJF/TcICWeC3/Hxj4HVTqc4xuNKj4TbBRSDnT6ru5lodA7pmFOq1ZpgZGWVx5WUtk5l3jtOYDlM6f30RvaXc8AE0XA47lk1zmlPEq48LODw192g9iGxY0uRX9CSuvfLPpzECY41zXAISXUyQMc6eDNj3CFwMovEJS4rLIt0sFGhm4bKL5N9iUnYp5HMgUlwtzoEAEPobvyAdPolmqXawpWjWDoEUhticwL2yiH9OCsNoTkUMC/WFK9QmIiA==;ICQCLJBc2RAQnnhk62HYnQ=="
 ---
 

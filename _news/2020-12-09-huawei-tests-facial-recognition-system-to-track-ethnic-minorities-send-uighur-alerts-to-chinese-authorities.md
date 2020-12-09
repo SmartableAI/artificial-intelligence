@@ -105,6 +105,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report - CNET"
+    excerpt: "The Chinese government has frequently used surveillance technology to oppress the minority population."
+    publishedDateTime: 2020-12-08T19:39:00Z
+    webUrl: "https://www.newsoneplace.com/40384221911/cnet-huawei-uighur"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 13
 
 secured: "w9xyRES3vcWdwI7iaMbeocCTCMpAGIAeXgV0IlfKftwADs/nmU1uXtiOEL4a2TjCx6nz5L4sgC/r5WmvkLUl8BnpLfgU/60GAe+xo3b6zfKSMmNJtc82XNEMgdhciZNHnTKAsDLoOM/okEo5ymqx23QMywdFF8mWCC3c1Ei0h8Cc825FYEtnjTrv0e7s0j40yUYVJgORknruTpPHFbf6YmM2JPBqOmOvpd7HoD/o2FMj6fIuPrQsZgg2QOSHqpUV52jBxXVKtZgusHuD/BrXYlf/3rH2us8fLNWldo4GaWLbxYflmPfQ9FFQqC3oTK3NXyxbqusu+vZYDs2a0lS+5185pvck57j8W/48hfXAeKo=;+e/Z+u8U7v+Tl6vDC9Z8iQ=="
 ---

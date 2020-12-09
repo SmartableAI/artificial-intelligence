@@ -120,6 +120,17 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Top nuclear scientist was murdered using smart gun, AI and face recognition, says Iran"
+    excerpt: "In today technology news, we covered about the Top nuclear scientist was murdered using smart gun, AI and face recognition, says Iran"
+    publishedDateTime: 2020-12-08T09:59:00Z
+    webUrl: "https://www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 46
 
 secured: "nVVO3Mz+cN7694ul4f0Rotg4i3AZ/DPx0UiAkK28Y4rUUNlVfgElNeTN9bnN+ExF0W5BZnhQegIkkn87mn3GnjCuMzx9krVQP5z+3G5UpSNxaT/wVU0RacnwScDuXUGDkuD38MEFozuWX1f6RxI+IRE7yjdkEnoE+K+WVr2EpJNow/oBtJZx6yiS+s1G5lTQKWMoQKTzi3970j1QBgmBruwep1iD6mG/e9YUQOEMicmBOn2kFlxRkA7EI4ziHW9Hec1PxAqhnLnLyc2tWAdRiNazEf2ux7BqtVZtwknusqdNOnw5hSUUx+99fJP8Ft5zkWUOvzllGLP7rSEpA6YVoFxhR3z7IqT69SQlAVPvlGELFHr1Og98wwbR8b3w/e6gjz7+lrRm4xhBP/WFUiksANExIEocbJRyDbrYGYkPBTVFhuiTbe71BRtIqru1i4dAd6pgDu/7BX9iUF1WeboqmswFe86yxl3lxu4XshHkC0fYJM1ZxFJ1PRVq8QCNMvwYOSiDxs7IxdzqdXuBMljpRA==;/OBhqdFPigA1VOs15xujuw=="
 ---

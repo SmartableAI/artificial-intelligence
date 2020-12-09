@@ -105,10 +105,10 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T04:52:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
+  - title: "Uber Sells Self-Driving-Car Unit to Autonomous-Driving Startup"
+    excerpt: "As part of the deal for the unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
+    publishedDateTime: 2020-12-08T05:41:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -247,6 +247,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "VW CEO Expects Self-Driving Cars On Roads Between 2025-2030"
+    excerpt: "Volkswagen chief executive Herbert Diess expects to see fully self-driving cars on public roads anywhere between 2025 and 2030. According to Reuters, Diess recently told Wirtschaftswoche that improvements in computer chips and advancements in the area of artificial intelligence are speeding up the development of autonomous driving technologies."
+    publishedDateTime: 2020-12-08T22:36:00Z
+    webUrl: "https://www.carscoops.com/2020/12/vw-ceo-expects-self-driving-cars-on-roads-between-2025-2030/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/vw-ceo-expects-self-driving-cars-on-roads-between-2025-2030/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/vw-ceo-expects-self-driving-cars-on-roads-between-2025-2030/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/12/vw-ceo-expects-autonomous-cars-2025-2030-2-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Uber Stock Cools Off Following Sale of Self Driving Unit"
     excerpt: "Uber is cooling off, after it was announced that the company's self-driving unit will be acquired by Advanced Technologies Group (ATG)"
     publishedDateTime: 2020-12-08T15:05:00Z
@@ -317,6 +333,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hcD21kG6F97oleq2A+zOJDhZbzm1MUGN2YzKHcP5oKvsSn05DuK++Ku0cHqoz0YkVpXBwlTSBY55o8cjtXPBj0eBfbX8Yduff38NYUdL2lDk0W61F8Yq0YZR2xNQitx4v/1Sr3eTQhjaUfpspdDdKUeM4J8EqOoXJY2EPZKM6bqy3FsxxLdFs9DGcC0qNjBugz3T7CKG3oRpCCwkEjHGrpy3RyfpC8+a1uY3tbhCOetd2H+iBL1h1koWgKR+WdzBRj9N4qloWtoyxqXcsf6TeysXlfJtWCyMKXv4ePteGskHBaI5vc6AW4r7GL/FnwRsAR5kxbVkhLYM1KVOd8B0Byd0Er0nw3GGcJmcW4pn4AY=;h6Q5kVzjbjupHCM7BEG5bg=="
+secured: "w0zEUjeSxWqbtw8kyAoZEO8UbdQ4fe1IX0m+ZqakkfVWt4chuFa0ciXIUsRVU5P/sA8IuwM2bo92zSKuNzz8LCBObmxBhHzkubSeMe7cMovS1Ij+OkPLTD3lpi0Dp+HBxFmDVL8VkyhZLaqrU7h/NYZgcemj3pzGU693Hss5KPcXpqLZHmGXPRemQ3Qp56IUlz87cgzqkI7hccRc2dOiMBzNi687CiHw5WZOmxujbAyh4j4yT+/uhwjh7lmbqNL+3v4j+RCmAU3yd68QLAId7j4EaVTkXh/1t0T9RFGif+cRmoOSdS84HUhF14DajO1J08JqfovrszI3Xa2HoBhdnh2yXH6ZwKyN245+I99diUDvaq5Kd6w6Hm4OcCEZK33htPhORJZIb/iWEdFjIOx69nOXdOMpa4a5hjqn3zeryshIa/XUrGkuuRsRifhrqGvHKjfgLJvOgsdsrySOxU2D+aoldCcO7KRFNBx2HsH3UMCT5CGzyDgnnzL+gar0Ee3ga0rCTqonYecPNhtGV/iXNQ==;x5qs4D03de+b8H52IwA8bw=="
 ---
 

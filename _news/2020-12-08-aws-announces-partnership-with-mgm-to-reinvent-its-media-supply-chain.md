@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-    excerpt: "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ..."
-    publishedDateTime: 2020-12-07T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS Cloud Tech to Power MGM Media Supply Chain"
     excerpt: "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms."
     publishedDateTime: 2020-12-07T15:30:00Z
@@ -71,20 +57,6 @@ related:
         width: 768
         height: 433
         isCached: true
-  - title: "How AWS aims to democratize machine learning with cloud services"
-    excerpt: "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts."
-    publishedDateTime: 2020-12-08T03:53:00Z
-    webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 73
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"
-        width: 1922
-        height: 994
-        isCached: true
   - title: "Amazon (AMZN) AWS Teams Up With MGM, Bolsters Cloud Clientele"
     excerpt: "Amazon’s AMZN cloud computing arm — Amazon Web Services (“AWS”) — entered a multi-year agreement with Metro Goldwyn Mayer (“MGM”). As part of the latest collaboration, MGM is shifting library and critical SAP workloads to AWS to make advancements in its core media supply chain and enterprise-wide media distribution platform."
     publishedDateTime: 2020-12-08T15:36:00Z
@@ -96,6 +68,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
+    excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
+    publishedDateTime: 2020-12-07T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Media giant MGM signs multi-year deal with AWS to revamp its supply chain processes"
     excerpt: "AWS lands multi-year cloud deal with US media giant MGM that will see it assist the firm with revamping its supply chain and content distribution processes."
     publishedDateTime: 2020-12-07T16:27:00Z
@@ -107,15 +93,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 48
-  - title: "Damco Solutions announces partnership with omni:us to enable AI-powered transformation of the claims journey for insurance companies"
-    excerpt: "Damco Solutions Inc., leading technology solutions and digital services company, has announced the partnership with omni:us, an Artificial Intelligence as a Service (AIaaS) provider to fast-track insurers adoption of data-driven cognitive claims management."
-    publishedDateTime: 2020-12-07T14:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/damco-solutions-announces-partnership-with-omni-us-to-enable-ai-powered-transformation-of-the-claims-journey-for-insurance-companies-1029869543"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
 
 secured: "73Whm9T/1h5zst8uzbT60jFXV0pVrvTPvkkAb497DNqMrrefkfmIynEiyA+F6U2f0EZ2PHP2z2mmN4/otmVzNWY76qnC9iGZGkqKBECPaAnKPTEOWnQBWv9gzniy01RoOkStqWzRZ+eR85pQFdRWHsx4uuSj60KRuR682rsepd87TZHyKbJPQLkTSXxXlrcdPMpflTeiICwNeGOGNiX4tcVJSbaBpkGxjwlMFmHpTpju/fJ85uJzA98k7f2bNdp3tNvQyX3VVWsUyRxV5RcDQB0iwJSDbf2JduQiDcVGEKSS1OnzHo398IGUHQ3xy/WYgMTv+QOhwC+VyDIJgH7TvP//HVC7vCan2OZmrUr9ndq/ejClEd2VHhNqFYXfy0MXngP0zlAJufGg4JR/g7WcTgRkMhlhAO5b5xpVoa4ju62WZHeBkBLRGjEBfqyQgDj4DtiTD0deVwhfIlyS2T4w+KMu94fncnklOSewusDH81yML9uJN2ToprVw/qH8rn91fLu6AftmnkkfaTik+opFog==;aJMaRlTr48ER+/N0GDtkog=="
 ---

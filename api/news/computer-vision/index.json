@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users.md",
+      "title": "Logitech Circle View Doorbell with facial recognition is made for Apple users",
+      "excerpt": "Logitech has introduced Circle View Doorbell, a new video doorbell for connected homes. This device was designed exclusively for use with Apple HomeKit, the first wired video doorbell to feature",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
+      "originalUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/logitech_circle_view_doorbell_main.jpg",
+          "width": 1440,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
+      "publishedDateTime": "2020-12-08T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-predicting-soccer-goals-in-near-real-time-using-computer-vision.md",
       "title": "Predicting soccer goals in near real time using computer vision",
       "excerpt": "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -306,7 +358,7 @@
       "originalUrl": "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1378,59 +1430,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring.md",
-      "title": "Deep learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring",
-      "excerpt": "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
-      "originalUrl": "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
-      "publishedDateTime": "2020-11-24T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

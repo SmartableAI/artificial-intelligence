@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-ma
 webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: SiliconANGLE
@@ -27,97 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-    excerpt: "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ..."
-    publishedDateTime: 2020-12-07T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
+  - title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
+    publishedDateTime: 2020-12-07T05:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS Cloud Tech to Power MGM Media Supply Chain"
-    excerpt: "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms."
-    publishedDateTime: 2020-12-07T15:30:00Z
-    webUrl: "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "MGM leverages AWS for its supply chain"
-    excerpt: "Film studio MGM has reached a multi-year deal with Amazon Web Services to power its media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms. The new MGM media supply chain will use AWS compute,"
-    publishedDateTime: 2020-12-08T08:43:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 74
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/12/bond.jpg"
-        width: 768
-        height: 433
-        isCached: true
-  - title: "Amazon (AMZN) AWS Teams Up With MGM, Bolsters Cloud Clientele"
-    excerpt: "Amazon’s AMZN cloud computing arm — Amazon Web Services (“AWS”) — entered a multi-year agreement with Metro Goldwyn Mayer (“MGM”). As part of the latest collaboration, MGM is shifting library and critical SAP workloads to AWS to make advancements in its core media supply chain and enterprise-wide media distribution platform."
-    publishedDateTime: 2020-12-08T15:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "AWS announces partnership with MGM to reinvent its media supply chain"
-    excerpt: "MGM has one of the world’s largest libraries of digital and physical film content. The company focuses on the production, acquisition, licensing and global distribution of its film and television content across all media platforms."
-    publishedDateTime: 2020-12-07T17:45:00Z
-    webUrl: "https://siliconangle.com/2020/12/07/aws-announces-partnership-mgm-reinvent-media-supply-chain/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/mgm-logo.png"
-        width: 960
-        height: 720
-        isCached: true
-  - title: "Media giant MGM signs multi-year deal with AWS to revamp its supply chain processes"
-    excerpt: "AWS lands multi-year cloud deal with US media giant MGM that will see it assist the firm with revamping its supply chain and content distribution processes."
-    publishedDateTime: 2020-12-07T16:27:00Z
-    webUrl: "https://www.computerweekly.com/news/252493244/Media-giant-MGM-signs-multi-year-deal-with-AWS-to-revamp-its-supply-chain-processes"
-    ampWebUrl: "https://www.computerweekly.com/news/252493244/Media-giant-MGM-signs-multi-year-deal-with-AWS-to-revamp-its-supply-chain-processes?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252493244/Media-giant-MGM-signs-multi-year-deal-with-AWS-to-revamp-its-supply-chain-processes?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 48
-  - title: "Damco Solutions announces partnership with omni:us to enable AI-powered transformation of the claims journey for insurance companies"
-    excerpt: "Damco Solutions Inc., leading technology solutions and digital services company, has announced the partnership with omni:us, an Artificial Intelligence as a Service (AIaaS) provider to fast-track insurers adoption of data-driven cognitive claims management."
-    publishedDateTime: 2020-12-07T14:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/damco-solutions-announces-partnership-with-omni-us-to-enable-ai-powered-transformation-of-the-claims-journey-for-insurance-companies-1029869543"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "wGcoaLWpgqWSqtc4hpXu4PqffOSgerLSZu4a8hyMmm7NX/56wB79QO8+Vr47dhSumezXOIw/uJ3JR0+tXtXMBlsrqENUFgkiYr2Xd6bxTDUKLGjyeJ2AaMSlV/HMaGIjaXi+dH96fcTT94pgeqMXkDnaTmc84J2FCvdLQrtC2m2kN+eW5fKaV6eRq9dnBlM6y1MF/c78wOJBPt15EBEU532gGAOX166XRS48cHgHKaoAfJcaw3PCFNfTxDzqC8vSS8slsvQYULy43rvbjtN+KsIf684VQiyw/re2kuNX5v86PUgerwRZE6CIrPKFG3Smxz4kfyrEjK5fCVDeiDz4qtBXG3QILv0Tdt0wDdUN97A=;2O9IVuh8atxUVVkK650BtA=="
 ---

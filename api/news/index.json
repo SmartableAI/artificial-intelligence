@@ -2,6 +2,164 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-amazon-aws-unveils-redshift-ml-to-bring-machine-learning-to-more-builders.md",
+      "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
+      "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/67005e73-7204-4f99-ab6e-f7386f61aaa0/amazon-aws-2020-redshift-ml.png",
+          "width": 1929,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "publishedDateTime": "2020-12-08T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-amazon-web-services-launches-new-tool-to-detect-bias-and-blind-spots-in-machine-learning.md",
+      "title": "Amazon Web Services launches new tool to detect bias and blind spots in machine learning",
+      "excerpt": "A new feature from Amazon Web Services will alert developers to potential bias in machine learning algorithms, part of a larger effort by the tech industry to keep automated predictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/clarify-2-630x323.png",
+          "width": 630,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
+      "publishedDateTime": "2020-12-08T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users.md",
+      "title": "Logitech Circle View Doorbell with facial recognition is made for Apple users",
+      "excerpt": "Logitech has introduced Circle View Doorbell, a new video doorbell for connected homes. This device was designed exclusively for use with Apple HomeKit, the first wired video doorbell to feature",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
+      "originalUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/logitech_circle_view_doorbell_main.jpg",
+          "width": 1440,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
+      "publishedDateTime": "2020-12-08T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-exceedai-raises-4m-seed-round-pairing-marketing-teams-with-an-ai-companion.md",
       "title": "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion",
       "excerpt": "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,",
@@ -204,7 +362,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -257,7 +415,7 @@
       "originalUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -513,8 +671,8 @@
       "title": "Cisco unveils revamped Webex experience, including noise cancellation, AI-powered gesture recognition",
       "excerpt": "Cisco announced a bevy of new features within its Webex portfolio on Tuesday, as the company ramps up its efforts to compete with rival collaboration players such as Zoom, Slack, Google Meet and Microsoft Teams.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -531,8 +689,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
       "publishedDateTime": "2020-12-08T09:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -863,6 +1021,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-08-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
+      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
+      "excerpt": "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg",
+          "width": 400,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-simon-says-ai-tool-turns-text-transcript-into-video-editing-platform.md",
       "title": "Simon Says AI Tool Turns Text Transcript Into Video-Editing Platform",
       "excerpt": "Video creators can now use a browser-based text editing program called Simon Says Assemble to assemble rough cuts of video pieces. Simon Says is building on its AI-based transcription tools to enable the text-based video assemblies.",
@@ -1047,202 +1257,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g.md",
-      "title": "Google Cloud expands edge computing to help companies leverage AI and 5G",
-      "excerpt": "Google Cloud expands its edge computing services by partnering with 200 developers to put their applications closer to enterprise customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/Google-Cloud-Next-2017-teleprompters-Novet-e1607429164239.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g/amp/",
-      "publishedDateTime": "2020-12-08T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate.md",
-      "title": "Google’s Look to Speak taps gaze-tracking AI to help users with impairments communicate",
-      "excerpt": "Google released an Android app called Look to Speak that enables users to select prewritten phrases to communicate using only their gaze.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
-      "publishedDateTime": "2020-12-08T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
-      "title": "Machine Learning Identifies Brain Signature of Depression",
-      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-identifies-brain-signature-of-depression-343725.jpg?v=11012306",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
-      "publishedDateTime": "2020-12-08T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-tech-startup-aifi-debuts-largest-hybrid-unmanned-store-in-shanghai.md",
-      "title": "Tech Startup AiFi Debuts Largest Hybrid Unmanned Store In Shanghai",
-      "excerpt": "California-based tech start-up AiFi has just debuted its fourth and largest autonomous store in Shanghai. Founded by Steve Gu and Ying Zheng, the company specializes in autonomous computer-vision technologies applied into stores of all scales and sizes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/",
-      "originalUrl": "https://www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcf61508239ccb68f7579d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/amp/",
-      "publishedDateTime": "2020-12-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

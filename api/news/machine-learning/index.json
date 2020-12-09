@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-amazon-aws-unveils-redshift-ml-to-bring-machine-learning-to-more-builders.md",
+      "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
+      "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/67005e73-7204-4f99-ab6e-f7386f61aaa0/amazon-aws-2020-redshift-ml.png",
+          "width": 1929,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "publishedDateTime": "2020-12-08T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-amazon-web-services-launches-new-tool-to-detect-bias-and-blind-spots-in-machine-learning.md",
+      "title": "Amazon Web Services launches new tool to detect bias and blind spots in machine learning",
+      "excerpt": "A new feature from Amazon Web Services will alert developers to potential bias in machine learning algorithms, part of a larger effort by the tech industry to keep automated predictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/clarify-2-630x323.png",
+          "width": 630,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
+      "publishedDateTime": "2020-12-08T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
       "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
       "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
@@ -183,6 +289,51 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
+      "title": "How AWS aims to democratize machine learning with cloud services",
+      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
+          "width": 1922,
+          "height": 994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1308,138 +1459,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-7-machine-learning-stocks-for-a-smarter-future.md",
-      "title": "7 Machine Learning Stocks for a Smarter Future",
-      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01",
-      "originalUrl": "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp",
-      "publishedDateTime": "2020-12-01T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-deep-learning-model-predicts-the-risk-of-developing-breast-cancer.md",
-      "title": "Deep Learning Model Predicts the Risk of Developing Breast Cancer",
-      "excerpt": "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430.jpg?v=11002122",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430",
-      "publishedDateTime": "2020-12-01T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-shrinking-massive-neural-networks-used-to-model-language.md",
-      "title": "Shrinking massive neural networks used to model language",
-      "excerpt": "Deep learning neural networks can be massive, demanding major computing power. In a test of the “lottery ticket hypothesis,” MIT researchers have found leaner, more efficient subnetworks hidden within BERT models.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-model-language-1201",
-      "originalUrl": "https://news.mit.edu/2020/neural-model-language-1201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-BERT-Lottery-01-Press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

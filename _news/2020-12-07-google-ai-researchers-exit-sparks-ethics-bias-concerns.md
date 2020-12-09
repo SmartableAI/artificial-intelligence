@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google head of ethical AI fired over research paper"
-    excerpt: "Timnit Gebru was sacked after the company requested she retract an AI ethics paper she had co-written with six others"
-    publishedDateTime: 2020-12-04T07:14:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2020-12-04-google-head-of-ethical-ai-fired-over-research-paper/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 76
-    images:
-      - url: "https://lh3.googleusercontent.com/qpmg794AYZk9vzYYHel_o7R4E3JGKNPbi_g1It4Hq5n1_-tRTqSB_H-AHnSRKbDsj8hCo5_St4h0p2bakg6Jsb3ev3TNiDc=s1000"
-        width: 1000
-        height: 652
-        isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
     publishedDateTime: 2020-12-04T20:58:00Z

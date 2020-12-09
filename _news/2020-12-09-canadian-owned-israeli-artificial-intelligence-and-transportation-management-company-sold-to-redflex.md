@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Canadian-Owned Israeli Artificial Intelligence and Transportation Management Company Sold to Redflex"
-excerpt: "RoadMetric Ltd's controlling shareholder, Toronto-based Rabbi David Hofstedter announced the recent sale of the company to Redflex Traffic Systems, Inc., an Australian-based company specializing in intelligent traffic management solutions."
-publishedDateTime: 2020-12-08T18:14:00Z
-originalUrl: "https://www.lelezard.com/en/news-19555772.html"
-webUrl: "https://www.lelezard.com/en/news-19555772.html"
+excerpt: "RoadMetric Ltd's controlling shareholder, Toronto-based Rabbi David Hofstedter announced the recent sale of the company to Redflex"
+publishedDateTime: 2020-12-08T22:02:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/canadian-owned-israeli-artificial-intelligence-and-transportation-management-company-sold-to-redflex-843863521.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/canadian-owned-israeli-artificial-intelligence-and-transportation-management-company-sold-to-redflex-843863521.html"
 type: article
-quality: 24
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -51,6 +50,6 @@ related:
         height: 540
         isCached: true
 
-secured: "Xb0Rg5FySFHa8SyVXK+pfbKJ+wcwlQyO4rASN1sEU5oG3u4xxcv/Z5/axBfWOmeQwa6UbZvK4R+444n1ACmRsTVM0hK+BswEaVdMa2iFycxvNEgUiZ/OMsgG664kGoVMVyM64TXg9ixrMRzmSHaRJPaOlf5b8SZkanWOxEqJzlG2A8o+J3rrIiHGvj66zz6vdy1WPWY6Vq44uDwEDCZcCPEC4sEqdfDFIovDFxFztE4173HPmQ+m7IkKORh6Rzj0DwEXndiOqPX5zxT4i2isOKU36F9744z5A5XVZw88JexXUGX/662TW4z1hI1JVtEtY7olrNGOdnBq06e/sK1Yv5741lgZ3/jEqUxx5/L4qjI=;/AR8Z5Y70o4ROHjmrcGd4A=="
+secured: "zJhGHYiQigK/iupfsz22U13fh5UftxdNOlzpFiLqyC4RkLB/KNSxc2Dy1hD+m2yIRPsZKICyVEtEwRa5YHFTEbs0g3m+UYC/hBmxCGTwn6G2iQDmVnzNNufHuQspJ1sdWBdqLW6B7euomV5jsQyNynqNKKZ/2LGAWe81JNaYP9AWG8RvXE7ub3NCpAOvoGo1czZD06p4ksSvm2FAFUJgyd2P9RMinQ8YJNG7f3gYlafXx9lrlcxkzgzBc6/cYrqASMrgLp/F2Iur2w3DqByYVTDlzkKS/M8FZrdChKgfetd31SoyCBwCiAtaMmBzbGpgaYQcNGUTE9gn5wxGGvHdtt34iM8BwdiOK3JiTutOz5A=;57LezsCKobwF+ma51KzUPA=="
 ---
 

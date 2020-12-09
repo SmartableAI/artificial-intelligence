@@ -25,22 +25,6 @@ images:
     height: 1366
     isCached: true
 
-related:
-  - title: "Startup wants to give biometric face scrapers digital dead ends to chase"
-    excerpt: "A small shop of AI coders and photographers have a new use for their GAN-made portfolio of faces. The company says its Anonymizer app creates red herrings to throw face scrapers off a"
-    publishedDateTime: 2020-12-04T17:02:00Z
-    webUrl: "https://www.biometricupdate.com/202012/startup-wants-to-give-biometric-face-scrapers-digital-dead-ends-to-chase"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
-        width: 1640
-        height: 800
-        isCached: true
-
 secured: "AYResjyp38iVSI6FtcZauxgIl3E/tEUESGRy8i3IrCLiKrKEza1YNIvC1aeN7MTMiIUfE3qzP4vJjxT+41303yBqTUJwbOHUc23Q5Fi1XiLagCRu56CWMRuQ5TVcBvNuzceUzTbRYeHPh2Ht9CgBpbvMgcIqZ0r7Mzp0y+ppyBArHHRFOvB1fvNlw6aZI3KytqW/0s/1fR0r4hJtukWZllQVY4nQLftW2ZhqhEvxhZQDeC0uRfMLrZzRD3wyFbb4oGvbkJP8gYXNweICBBpzA50g3agPkGgiCk3WG3zxbuQXgEB0kh9BTq5fjHnZbfhnHXssCoy3JifNvJ+407IeecjuBvS+y5hBoypO0XW0+VoArvjO2S2ubUd/kJXghSzj9k3hr94MscHPItILeSNI5qm3S5ohdtvlmBRqy408SrXk6IKdZ2i3pQOBoCV6CM7pOT5+3d+kKvDSJn5xYNwcDM+if8Ww/YU4bVffkxiIpxKvizCBtRvu2p7UHDnJtaLvHLYde/SGiTuRzoovzCleog==;hg/XoCo5Cic1IiT0sICR1w=="
 ---
 

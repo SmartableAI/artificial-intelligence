@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Breakthrough optical sensor mimics human eye, a key step toward better AI"
-excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
-publishedDateTime: 2020-12-08T20:50:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/osu-bos120820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/osu-bos120820.php"
+excerpt: "Researchers are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
+publishedDateTime: 2020-12-08T23:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/12/201208163005.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/12/201208163005.htm"
 type: article
-quality: 38
-heat: 38
+quality: 50
+heat: 60
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
+  - AI in Robotics
 
 related:
   - title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
@@ -40,6 +39,6 @@ related:
         height: 1618
         isCached: true
 
-secured: "Ce4n+7mPig37Z1uANPcqlvMOJB81aXY1Y4rwR6UyiHU5GD1zOMvcCHEm0yh6lI0ydGt3pHMlhl0gfHZ5Qn08SseestmLM2Ke/hmMqYEFRYeeNSK3IybxswNmIx5wfgwe8+V17Po8UFmLwFhSHX+TLJU8AMW5qutmvwrtRqx2LxMx1wXYBU7NA6fGdl//i1dbrZqjmuH0kihRm4zWoVYGD0J41uOFSqIjiGWsyQ0Z+Sad9YbD+/X9szWk2gv9E9wkIx76BGSoLJt95FfVgOD7d2eVraojZhXr88yXTU2pSetTeD5JBA8xNkOApFnXmAWH7HvQlM+uO65dno6qeiKbzxlKdUXURzBcFDdMKUfBM9g=;2o0HMOOOtPn0P8K+68/EJw=="
+secured: "/V2Dif4gv+YKD4rWtdHQMGZQJ0J3Z2vRSAH96I5FNckgbfC47J5cwIi96E6Er2sSvj3LU/ofgWYF9wt/1ezOpvcf7f1MmYe5We7qJsGdw90P1VkGdLInuj33K+YW3KA/qNmTNC3ZyIPRWKJsC2F9fm79PUPHT3KpP3d6JY+NasMK7caKpI4HAAI8Hne5RvyX0VooL6pSdLlK/2UAMnMio4FEQJjSVbfiC+7WEtjfn+zinwwGLfVngUObf4aKE+yteARHpf2JKwPoYAC/rJWpk1m1gF8I+NTpCQC2fjFo1XJzmjoiPwhMbv6lbHRRH+soad8E2Z4kkSoqqBLauuguc0VynVgGAyMBkSQjcrU3fQA=;sNgD+sIHQiat1a9pVT2Y6w=="
 ---
 

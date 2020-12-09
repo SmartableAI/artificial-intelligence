@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Police Use of Facial Recognition Technology Soars in Minnesota"
+    excerpt: "The growing popularity of facial recognition among local law enforcement in Minnesota has renewed public debate about how, when and why the powerful technology is deployed."
+    publishedDateTime: 2020-12-07T13:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21165359/police-use-of-facial-recognition-technology-soars-in-minnesota"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 39
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/12/16x9/20201204_AMX_US_NEWS_POLICE_USE_OF_FACIAL_RECOGNITION_MS.5fce2d25738ae.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Advocates to press Biden, Congress on facial recognition curbs"
     excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
     publishedDateTime: 2020-12-08T11:39:00Z
@@ -64,6 +78,20 @@ related:
       - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Face Recognition Software Shows Improvement in Recognizing Masked Faces"
+    excerpt: "A new study of face recognition technology created after the onset of the COVID-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces. The findings,"
+    publishedDateTime: 2020-12-08T22:41:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/face-recognition-software-shows-improvement-in-recognizing-masked-faces/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/12/20ITL015_facemask-studyDoubleRow.png"
+        width: 1544
+        height: 732
         isCached: true
   - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
     excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."

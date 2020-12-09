@@ -2,30 +2,30 @@
 category: news
 title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
 excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
-publishedDateTime: 2020-12-08T14:43:00Z
-originalUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711"
-webUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711"
-ampWebUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
-cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
+publishedDateTime: 2020-12-08T12:00:00Z
+originalUrl: "https://www.gizmodo.com.au/2020/12/knight-rider-had-the-best-trick-for-faking-a-self-driving-car/"
+webUrl: "https://www.gizmodo.com.au/2020/12/knight-rider-had-the-best-trick-for-faking-a-self-driving-car/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/12/knight-rider-had-the-best-trick-for-faking-a-self-driving-car/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/12/knight-rider-had-the-best-trick-for-faking-a-self-driving-car/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Jalopnik
-  domain: jalopnik.com
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/npdx86ustilwtcpfwyfc.jpg"
-    width: 800
-    height: 450
+  - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/12/09/npdx86ustilwtcpfwyfc.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "9jcIN+Syq1PWpmmS7kMy+SOzlStQGaCD7XvtEDvFHeaQNUI4V+2NhuIHFtC63ytBrbb+3Q/s8NrVkiGAlY3X2LuDdL3U6XU2uks6rFiqEQPzMRq9kWDFuvL57B3vPwIi/lVJCfV9rxJzATLavGVL8Sw0Sp8aDSU1BslOZpSEE1k2Vi9jcTGYvER2iC8wpLTXb1GKrjBt5oLYPZZmKIYgTqVB3NLYRc4QIyn1ze4qgA0aywfRnbDpLcJO2cVrTpQaIyFCfcGUr/uhw8JEkrc7gx4bNVqOcN+W3uh2iHlhbYbRWZnwa7aKfRco/7r6tnW0K/CmlFtb+9hX6wroc58DfdFIDWfnGtui/ddtp4ClhLJLCKtMpJU76hK2MYHch6+vO65H62h4jmp/9UlEliq9mYhR9iQxVBd+PBDEOui1IDVY2HAnEX2arqY4X0UVZZl8UOzPIMhOm9ses73NsZihDDygH0nS+xYKg+VHP8RgHmUoeZcOCKTPQ2x/8kIPVkqQ0R7QltQh1VYIPt3xlRhnng==;Izdp2suSrVYNASco3f2cKA=="
+secured: "4TMdPJx/EcG/DhbU2TWaX3Ak6nyYr19zF66mav5Vde/OJaY7FAVEcxKfNpyiPCF0z2yUYLnP/htYWYp7qrdr0L+Rwcc2brklT8Ve7A60tjy5pTFDU8pyjFTIhMjlFMbnc2AQRibkTs8uHKo7HMKxSse+7ohalSUS111fkevqYHl1MsBZMflgVEg+c0H+hXZQ9iSgo5pF4eOwxKM0aL3VOWNu6pyK2iYe96WfTeEgnvtJSrf1jZNkRFCVFB0DSsLMw/eHBbA6kJbPjqEqeUYAPF3XsOsbhe0YfQ9oZ3KBDPd6OgpIfkzNTaQ+wTMnEHwLQJgd4/TVbX7Fl0dK297Ad8qWAb5i8HqjhjGR+mnDKx0=;eVWYBWaOT4Ym8vbL37tDMQ=="
 ---
 

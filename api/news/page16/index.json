@@ -2,6 +2,308 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-11-25-amazon-lex-launches-support-for-latin-american-spanish-and-german.md",
+      "title": "Amazon Lex launches support for Latin American Spanish and German",
+      "excerpt": "&iexcl;Amazon Lex lanza soporte para espa&ntilde;ol para Am&eacute;rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/LexLanguage_DE.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T17:32:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex.md",
+      "title": "How Xpertal is creating the Contact Center of the future with Amazon Lex",
+      "excerpt": "This is a joint blog post with AWS Solutions Architects, Jorge Alfaro Hidalgo and Mauricio Zajbert, and Chester Perez, the Contact Center Manager at Xpertal. Fomento Econ&oacute;mico Mexicano, S.A.B. de C.V. (FEMSA) is a Mexican multinational beverage and retail company headquartered in Monterrey, Mexico.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/How-Xpertal-1.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T17:29:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai.md",
+      "title": "UC Berkeley researchers detect ‘silent speech’ with electrodes and AI",
+      "excerpt": "AI for detecting speech without sound may have applications for a range of technologies and for people who cannot produce audible speech.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/",
+      "originalUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/EMG-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai/amp/",
+      "publishedDateTime": "2020-11-24T16:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud.md",
+      "title": "DoNotPay, the AI lawyer for your inbox, now lets you report businesses for tax fraud",
+      "excerpt": "Here’s a cool one: DoNotPay, the legalese-trained email crawler that scours your inbox for ways to save you money (or earn you payouts from class action lawsuits), now helps you collect government tax fraud bounties.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/24/donotpay-the-ai-lawyer-for-your-inbox-now-lets-you-report-businesses-for-tax-fraud/amp/",
+      "publishedDateTime": "2020-11-24T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-microsoft-sas-in-deal-to-provide-sas-cloud-on-azure-in-sydney.md",
+      "title": "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney",
+      "excerpt": "Clunies-Ross said in a statement: \"Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation. \"It represents a ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html",
+      "originalUrl": "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg",
+          "width": 375,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-ai-can-run-your-work-meetings-now.md",
+      "title": "AI Can Run Your Work Meetings Now",
+      "excerpt": "The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head ... like interpreting body language from other people on-screen or figuring out if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
+      "originalUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/master/pass/business-ai-workplace-optimization-edit-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp",
+      "publishedDateTime": "2020-11-24T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-youtubes-new-ai-experiment-automatically-adds-chapters-to-videos.md",
       "title": "YouTube’s new AI experiment automatically adds chapters to videos",
       "excerpt": "The days of having to suffer through an overly long and cringe-worthy YouTube intro are nearly behind us. YouTube has announced a new test that is using machine learning to automatically apply",
@@ -911,273 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
-      "title": "Binarized neural networks show promise for fast, accurate machine learning",
-      "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
-      "originalUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/november2320.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
-      "publishedDateTime": "2020-11-24T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices.md",
-      "title": "Syxsense Announces New Support for Amazon Web Service (AWS) Linux Devices",
-      "excerpt": "Syxsense, a global leader in SaaS IT and security management solutions, extends support of its cloud-native, real-time architecture to Amazon Web Service",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-garuda-capital-acquires-minority-stake-in-hong-kong-fintech-startup-finlink.md",
-      "title": "Garuda Capital acquires minority stake in Hong Kong fintech startup FinLink",
-      "excerpt": "This acquisition comes after FinLink raised US$2.5 million in a seed round led by PF Ventures and Garuda Capital in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/garuda-capital-acquires-minority-stake-hong-kong-fintech-startup-finlink?comments=true",
-      "originalUrl": "https://www.techinasia.com/garuda-capital-acquires-minority-stake-hong-kong-fintech-startup-finlink?comments=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-artificial-intelligence-could-put-milton-keynes-on-a-par-with-san-francisco-and-singapore.md",
-      "title": "Artificial intelligence could put Milton Keynes on a par with San Francisco and Singapore",
-      "excerpt": "MK has the world’s largest fleet of autonomous delivery robots and was the UK partner for a three-year trial of driverless autonomous vehicles. In the last year alone, Santander’s has begun its £150m investment into a new innovation centre in Central ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "originalUrl": "https://www.miltonkeynes.co.uk/news/people/artificial-intelligence-could-put-milton-keynes-par-san-francisco-and-singapore-3045700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.miltonkeynes.co.uk/webimg/T0FLMTI3MzE2ODA2.jpg",
-          "width": 532,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milton Keynes Citizen",
-        "domain": "miltonkeynes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-this-ai-chip-claims-to-mimic-the-human-brain.md",
-      "title": "This AI chip claims to mimic the human brain",
-      "excerpt": "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "originalUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CLZPLUtqihEEeJiUsPGteP-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "publishedDateTime": "2020-11-24T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-preludedx-announces-partnership-with-americas-choice-provider-network.md",
-      "title": "PreludeDx™ Announces Partnership with America's Choice Provider Network",
-      "excerpt": "PRNewswire/ -- Prelude Corporation (PreludeDx ™ ), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed an agreement to become a provider in the America's Choice Provider Network (ACPN).",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "publishedDateTime": "2020-11-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

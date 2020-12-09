@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uigh
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report - CNET"
+    excerpt: "The Chinese government has frequently used surveillance technology to oppress the minority population."
+    publishedDateTime: 2020-12-08T19:39:00Z
+    webUrl: "https://www.newsoneplace.com/40384221911/cnet-huawei-uighur"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 13
 
 secured: "NGHyTwpsmDYc9HCiCmlUhkPmCqOeDuRnqCM9cCm1XgBv8YyfrjBV6y9bBUKlVOGaUnOVuA7CCMosgbxi/O7icm5vG//aXv9mOlraAskEhAqvUxCaqNuCpom9UckeCT+o+GJjhc8uEPpxSc06KJzt2kt4/cssdK9ogna1J9c2o2idCM9hJM4qK35qlS5NNo1TyKNt39/VwsgRnPg0pMlY1OEm+XripBT20ak8nxaUQ7xuGxYNEDjYmPahimRsy5M7Bgd2G4egLQ7eBYA8bLB7KIqFzpg1iO55htdZUJN0kE1316mnIo5RahNplCcP5rmvauR10JeOSzZYL9EEAxzj92G54Q4eXeRQMMJiRsrnI8gSxzMei0uXk2uZHa/AjIg4vN6ws+mE3d5s6FCMUIgTRSeKLxztwWlyBdQqYT91hM/6+1vi4Eamh1PWr6gbAq+WHMI17XdulR6XET2iMbY5fJghdYCELviR9JmPYJoxX1AtTZJ6XOoE+Cn9YCDAIc4bdfaqf2QARvAeNPtc7ojyyw==;oJmonO/yea+nNf97/+WHmg=="
 ---

@@ -106,6 +106,17 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Top nuclear scientist was murdered using smart gun, AI and face recognition, says Iran"
+    excerpt: "In today technology news, we covered about the Top nuclear scientist was murdered using smart gun, AI and face recognition, says Iran"
+    publishedDateTime: 2020-12-08T09:59:00Z
+    webUrl: "https://www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 46
   - title: "Iran says top nuclear scientist killed by 'artificial intelligence' machine gun"
     excerpt: "The satellite-controlled weapon 'zoomed in' on Mohsen Fakhrizadeh's face before firing 13 rounds, an Iranian official said."
     publishedDateTime: 2020-12-06T21:42:00Z

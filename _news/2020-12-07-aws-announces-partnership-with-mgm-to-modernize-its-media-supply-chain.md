@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-excerpt: "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ..."
-publishedDateTime: 2020-12-07T15:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
+excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
+publishedDateTime: 2020-12-07T14:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
 type: article
-quality: 84
-heat: 154
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -60,20 +56,6 @@ related:
       - url: "https://www.tvbeurope.com/wp-content/uploads/2019/12/bond.jpg"
         width: 768
         height: 433
-        isCached: true
-  - title: "How AWS aims to democratize machine learning with cloud services"
-    excerpt: "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts."
-    publishedDateTime: 2020-12-08T03:53:00Z
-    webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 73
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"
-        width: 1922
-        height: 994
         isCached: true
   - title: "Amazon (AMZN) AWS Teams Up With MGM, Bolsters Cloud Clientele"
     excerpt: "Amazon’s AMZN cloud computing arm — Amazon Web Services (“AWS”) — entered a multi-year agreement with Metro Goldwyn Mayer (“MGM”). As part of the latest collaboration, MGM is shifting library and critical SAP workloads to AWS to make advancements in its core media supply chain and enterprise-wide media distribution platform."
@@ -111,16 +93,7 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 48
-  - title: "Damco Solutions announces partnership with omni:us to enable AI-powered transformation of the claims journey for insurance companies"
-    excerpt: "Damco Solutions Inc., leading technology solutions and digital services company, has announced the partnership with omni:us, an Artificial Intelligence as a Service (AIaaS) provider to fast-track insurers adoption of data-driven cognitive claims management."
-    publishedDateTime: 2020-12-07T14:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/damco-solutions-announces-partnership-with-omni-us-to-enable-ai-powered-transformation-of-the-claims-journey-for-insurance-companies-1029869543"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
 
-secured: "IyCEOHcrZHDXM5PjrxZv/BA/bahQAQy4tnYYEM/BfvMeGrLyefDlthvQGoV7HMO2GRln1uJoGMGwCRBYRjLFWzEbrlNFQsnYVYy5dUr4Zi8ynjip6Dx2ueaig3QwsItV1IE1l14amMeFcm3l/mU3ZlRM/G3dd7LQnZ0eEix3nWoRW6JUyC9CLbO2/Nh9jXmtu/j4MXds//PvEg4V1gY7t+j3aBLRrntSqS1PXmJkJr4buxeCnR8ck9dYjBHfLls8o95KHUAOrzq00c+Qt/9XmTHqQryTDGcg6MlHYgMFb8wCRFlDhmcFxIg0SPfuwZJaC505GPndxNa2QuWdCMn5Y+VkSwGAJH6R4ivc2iwVZL8=;jSSFHyLVa4pjMI39NPIaxw=="
+secured: "Rhw/rICEvWmytkQTZYXVfTb1uuecscOUtQmGG9v7FLVRx9EdWwrSz194i/yL0uN03/OnXvh4XTxKi+vMxI6oOy+56LFVQQhB+v7nW7TvTpr2+c/MYyZI36R/onsSUPt6XHekdBGzXY186idAUuIzD9hEB15eNq/e8sEB33zZOljHEBY7udiywupyldOzEaLYw0GFyy4URQJBvmDLrD0fp/CyZjNdDiXqOQDIsl55AiMXOhr0UVmTOBjJmjTIv6m7KtRWAJCHSKkEVxq/zibR4Qxog2Fw7roAYlsbkWqPvEa+IBeNMmQ2q2JFMavCZEQ1cLD6E+Xcmm8Kgu9RxpuHe7FR16WbfS/SDnD4Ox9gc/s=;k/U26cbRWsYrUQOUGrGtqw=="
 ---
 

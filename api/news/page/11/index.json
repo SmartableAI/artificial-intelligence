@@ -2,6 +2,285 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-01-shrinking-massive-neural-networks-used-to-model-language.md",
+      "title": "Shrinking massive neural networks used to model language",
+      "excerpt": "Deep learning neural networks can be massive, demanding major computing power. In a test of the “lottery ticket hypothesis,” MIT researchers have found leaner, more efficient subnetworks hidden within BERT models.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/neural-model-language-1201",
+      "originalUrl": "https://news.mit.edu/2020/neural-model-language-1201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-BERT-Lottery-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-ai-and-position-sensing-drive-robotics-expansion.md",
+      "title": "AI and Position-Sensing Drive Robotics Expansion",
+      "excerpt": "Advancements in artificial intelligence and improved positional awareness have driven an expansion of robotics use in a variety of application areas",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
+      "originalUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chemengonline.com/wp-content/uploads/2020/12/che_1220_hires-12-fig-2.jpg",
+          "width": 600,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Magazine",
+        "domain": "chemengonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027.md",
+      "title": "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027",
+      "excerpt": "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-tag-aws-reinvent-2018.md",
+      "title": "Tag: AWS re:Invent 2018",
+      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "originalUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat.md",
+      "title": "How Mark Kelly used conversational AI to help win a Senate seat",
+      "excerpt": "Mark Kelly's campaign has engaged with hundreds of thousands of constituents, replicating in-person conversations with AI chatbot exchanges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/",
+      "originalUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/MarkKelly_Senate.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/",
+      "publishedDateTime": "2020-11-30T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-veritone-aiware-supports-nvidia-cuda-platform-for-gpu-aiml.md",
+      "title": "Veritone aiWARE Supports NVIDIA CUDA Platform for GPU AI/ML",
+      "excerpt": "Veritone aiWARE announced that it now supports the NVIDIA CUDA platform, which will enable organizations to run intensive artificial intelligence (AI) and machine learning (ML) tasks on NVIDIA GPUs, Veritone reported on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
+      "originalUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2020/11/30/08/5d/27/de/b1/be/83/d4/technology_2020118.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese.md",
       "title": "Amazon Transcribe streaming adds support for Japanese, Korean, and Brazilian Portuguese",
       "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy to add speech-to-text capabilities to your applications. Today, we’re excited to launch Japanese, Korean, and Brazilian Portuguese language support for Amazon Transcribe streaming. To deliver streaming transcriptions",
@@ -902,299 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks.md",
-      "title": "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks",
-      "excerpt": "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "originalUrl": "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/",
-      "publishedDateTime": "2020-11-30T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-qa-with-zeta-global-president-of-data-cloud-on-ai-and-consumer-scoring.md",
-      "title": "Q&A with Zeta Global President of Data Cloud on AI and consumer scoring",
-      "excerpt": "Insider Intelligence spoke to Neej Gore, EVP and President of Data Cloud at Zeta Global about using AI for predictive modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/interview-with-zeta-global-evp-and-president-of-data-cloud-2020-11",
-      "originalUrl": "https://www.businessinsider.com/interview-with-zeta-global-evp-and-president-of-data-cloud-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc4fa9a50e71a0011557e89?width=1200&format=jpeg",
-          "width": 931,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-how-ai-is-influencing-the-evolution-of-the-telecommunications-industry.md",
-      "title": "How AI Is Influencing The Evolution Of The Telecommunications Industry",
-      "excerpt": "AI has helped the telecom sector redefine customer experience, bringing forth new opportunities but also complicating business models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb432b0c5dac00077006bd%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-is-the-pandemic-spurring-a-robot-revolution.md",
-      "title": "Is the Pandemic Spurring a Robot Revolution?",
-      "excerpt": "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
-      "originalUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2019/07/automation-retro-robot-toys-shutterstock-175821860.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-ten-workforce-skills-for-finance-employees-to-complement-ai.md",
-      "title": "Ten Workforce Skills For Finance Employees To Complement AI",
-      "excerpt": "After delivering a number of talks on embracing servant leadership as a CFO, audience members commented positively on how future workforce skills, such as servant leadership, would complement artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
-      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
-      "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
-      "originalUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
-      "publishedDateTime": "2020-11-30T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
