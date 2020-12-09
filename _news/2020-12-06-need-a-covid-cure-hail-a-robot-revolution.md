@@ -7,7 +7,7 @@ originalUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure
 webUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure-all-ask-a-man-who-makes-robots/408118/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021, according to an annual survey produced by Newsweek magazine. The national news publication recognized 400 skilled nursing facilities out of more than 10,"
+    publishedDateTime: 2020-12-09T10:30:00Z
+    webUrl: "https://urbanmilwaukee.com/pressrelease/covid-19-action-plan-earns-luther-manor-national-recognition/"
+    type: article
+    provider:
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 24
+    images:
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2018/02/Art-Keup-CFO.jpg"
+        width: 703
+        height: 469
+        isCached: true
 
 secured: "LDcCU73RwntQHOZSrbg8IoIX6prc2I/FNha3H8w/XeNhDctgoKLBrleeqvx8IChANBnfF4hfwrtZNsPDX+DySVZ7kXg/ehyukiu8oFPk03d8KSadxQFxBSMO/u0DN8yohTL6/H3tqYwaRTZuHm7CMcQEHMaYTb2LUODsIzc1bj+rdtGiNcwJQvqMJoUijRLRJ4rRB/e1hI3hf/XPb2Me+m0o4q+qKqwwiIy8y2jKxhABorTrhOv6q2jwL1z+vaJ3JUzH6AHBZsSNIW+sUf6CsOlPmkpaSDFw4ZDxpZbaeBjidYtDXahlaosC9TLPWG8wfuHL0OQnNrvpiNJ9tn6druDqPmHkS0Km0SWAYiUP9aX+xU9MtlEKn3BQZi8fgOR051MIviU5i6cZdV2z06QicZJE688PALrV92qRGAHXdjbxBNvDYN9CkjIK77m+deAXFexqJ3tQYdUfZ9SarCR/+p0Ce+4Dm606imgdAarpy4tmTsoGzZbttmKn9W4uLhXf57pp5CivxeiA9cvaZAz3ig==;iEPHzOqbVIaetSAF0YNfSA=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Government to seek advice on facial recognition tech laws"
-    excerpt: "A new report has raised serious concerns over a \"regulation gap\" determining how the government uses facial recognition."
-    publishedDateTime: 2020-12-04T18:43:00Z
-    webUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/politics/2020/12/government-to-seek-advice-on-facial-recognition-tech-laws.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 59
-    images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2020/04/coronavirus-questions-raised-over-efficiency-of-nz-s-rapid-surveillance-testing/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1587108354714/getty-COVID-GENERIC-1120.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Police use of facial recognition technology soars in Minnesota"
     excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
     publishedDateTime: 2020-12-04T20:44:00Z
@@ -71,61 +55,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Advocates to press Biden, Congress on facial recognition curbs"
-    excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
-    publishedDateTime: 2020-12-08T11:39:00Z
-    webUrl: "https://www.rollcall.com/2020/12/08/advocates-to-press-biden-congress-on-facial-recognition-curbs/"
+  - title: "Why Voice Recognition Technology in Gaming Still Has a Long Way to Go"
+    excerpt: "Voice recognition is one of the hottest trends around right now, with gaming among the industries to be taking a particular interest. Many experts believe voice recognition could become a central part of games in the near future,"
+    publishedDateTime: 2020-12-09T05:14:00Z
+    webUrl: "https://mightygadget.co.uk/why-voice-recognition-technology-in-gaming-still-has-a-long-way-to-go/"
     type: article
     provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
+      name: mightygadget.co.uk
+      domain: mightygadget.co.uk
+    quality: 24
     images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Face Recognition Software Shows Improvement in Recognizing Masked Faces"
-    excerpt: "A new study of face recognition technology created after the onset of the COVID-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces. The findings,"
-    publishedDateTime: 2020-12-08T22:41:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/face-recognition-software-shows-improvement-in-recognizing-masked-faces/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/12/20ITL015_facemask-studyDoubleRow.png"
-        width: 1544
-        height: 732
-        isCached: true
-  - title: "Study Outlines What Creates Racial Bias in Facial Recognition Technology"
-    excerpt: "Dr. Alice O’Toole and fellow researchers described the underlying factors that contribute to deficits in facial recognition accuracy and offered a guide to assessing the algorithms as the technology improves."
-    publishedDateTime: 2020-12-04T17:28:00Z
-    webUrl: "https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/"
-    type: article
-    provider:
-      name: University of Texas at Dallas
-      domain: utdallas.edu
-    quality: 38
-    images:
-      - url: "http://www.utdallas.edu/news/files/facial-recognition-750-2020-12.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Advocates to press Biden administration, Congress on facial recognition curbs"
-    excerpt: "Advocates for privacy rights, civil liberties and racial justice are preparing to press the next Congress and the Biden administration to impose stricter regulation"
-    publishedDateTime: 2020-12-08T17:07:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21165656/advocates-to-press-biden-administration-congress-on-facial-recognition-curbs"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 38
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/12/20201208_AMX_US_NEWS_BIDEN_FACIALRECOGNITION_GET.5fcfb1aa3ae3b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://mightygadget.co.uk/wp-content/uploads/2020/12/voice-recognition-canva.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "/yVz2IXC8wnaZNRJpvU4/ILdujqV8WVqjzgM0t1B5UZyDi/S00mGw7Fr2XDZnRMhRkWtth9WFl6eYT5XyZx5xDN/4/3PfIQp19K4stJ2lSNrqYUkRO3Pj9BcUqb9OXVQwua/vsxXvb0g1lwyZ4ga0QZw2YJliM5xHQtsphMKdXmFQxD1t5ulDBXrJ404JbFVl5t7AW2xGmiV7v2uJ5b72LL8pJzXtV0lFD6EASmhDeb1Lj/XAA0XfCpBAvemN5kyEBL4dgIcZkuUs4WCZ4V4xAqKfFQUbIwL4BXFhRYZgx7vIkGlnFGwWdgVtkoILgpi7OsNlgOKJmhyGA39FUTT2WeS0hhz2JTIO6qqylDkYyM1da7wp2o5HxSMQOyERPmt+OF/DIRFiXgaUBfLxRuWp2iQiClNfmRU/Fbb7QbZwZmS3FswqnI2YDYYbUL/DFK6NXf1lpZJ9K1dG4s2xmjxpFC9TeriUJV+g1utur80oiW3CSHS3+bBAW5JUk+ewQKihNDeyjp8cTCLwkFVGQHhmQ==;plKPKmY3BMUFCybCzZCoLA=="

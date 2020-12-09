@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-development-pro
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-development-promoting-educational-reform-innovation-tal-education-group-chairman-1029874215"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Promote the deep integration of artificial intelligence and rare earth industry"
-    excerpt: "At present, artificial intelligence vision technology has been landed and applied in rare earth permanent magnet products, 3C shells and other industrial fields. Baotou, as the gathering place of rare earth permanent magnet industry,"
-    publishedDateTime: 2020-12-09T02:06:00Z
-    webUrl: "https://news.metal.com/newscontent/101339868/Promote-the-deep-integration-of-artificial-intelligence-and-rare-earth-industry/"
-    type: article
-    provider:
-      name: Metal
-      domain: metal.com
-    quality: 15
 
 secured: "6y9U2WQAu0qdqRR7oDxhijSXZw0MAXtM8ObLQfpjkv+A9k4p+K54Y5VECBBNYSAMDnjtnnICe8rvGpY4pblFue0wQsXEFXniypSikS0qzS6uIm+SIGkI9l60vuoOHt1uTtvZhqZ37ddd5cVWKGa5T8cMfy8Dg0RS5Zl0bSgJ3yRhbjG4QrKn1pC4BKIw/IDIPv1ox33xdPdBxJsJ2bhl3njfCR7cZpfg9wgrZoxk/R92PQiN2WyjavgrChVrd6PvERDr0zfsxBT07fTvMlWqRhii2sk5uPLb65Lzd/F26jSFSwqpAnKaNw7AvXDaaaTZpDO825oNl9dxO6PuwFRYg6JANAmMvhu99wXVZjlH31o=;Lt2Vfm6c8dtzrHD6KnIKPg=="
 ---

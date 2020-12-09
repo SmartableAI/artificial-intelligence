@@ -43,20 +43,6 @@ related:
         width: 744
         height: 400
         isCached: true
-  - title: "Here's how 4 litigation financiers are thinking about data and analytics — and why some players think it's an industry prime for disruption"
-    excerpt: "\"If you're going to watch Jeopardy, you should bet on IBM's Watson computer,\" said Will Marra, an investment manager at Validity Finance. \"The AI is there. But it's not there yet for commercial ..."
-    publishedDateTime: 2020-12-04T18:46:00Z
-    webUrl: "https://www.businessinsider.com/litigation-funders-data-lawsuits-underwriting-science-artificial-intelligence-legal-tech-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/5fca59cb037cbd0018613d8e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "jBwPzC9M9PvnWE8Vk0wnaxzQAQeoimnoZaTk7viyr1JxKtqfMlbyDn+HI0hzZtgL8I/1sRwm+DcPvSEfzqJRoyD7y34hYA3oEtVfvGfEMfsN7uGP3NdfOlFQg2EudHrrhT9X9t1v++fNCGkc85ZciL+Wge0CSyQKzZ9ni/vi+KPltU/didp0T9t/tkAdBqF3M9b75v/xEbPwnRN9gv4mtCtBVVojOM2efgeZlPjiukwjnk/6bPK7auPo0jy7Flz4sKpkoeHDMG4MRxCYuDNuObbJqNpny8w4ciTH/NSCVzh/N1SbMj64ZGPFq1uxFLW3AV5kJuIngCITe31A3qTSIbpVCXYnXkmcGFoZoXm0gNc=;83b1GyXWkuVCP9xldK7ZCA=="
 ---

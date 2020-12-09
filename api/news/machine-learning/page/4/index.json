@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-19-machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc.md",
-      "title": "Machine Learning Market Checkout the Unexpected Future 2027 Key Players – IBM Corporation, Microsoft Corporation, SAP SE, Dell Inc",
-      "excerpt": "The Global Machine Learning Market provides an investigative study that offers detailed information about the Machine Learning market that is beneficial to the business strategists and new players of the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-stem-cell-imaging-through-convolutional-neural-networks-current-issues-and-future-directions-in-artificial-intelligence-technology.md",
       "title": "Stem cell imaging through convolutional neural networks: current issues and future directions in artificial intelligence technology",
       "excerpt": "2 Inclusion Criteria 1. Articles contain the keywords “artificial intelligence”, “machine learning”, “deep learning,” “convolutional neural network,” “induced pluripotent stem cell,” “hematopoietic stem cell,” “biomedical imaging ...",
@@ -1352,6 +1299,50 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-keybank-battles-push-payment-fraud-with-machine-learning-other-tactics.md",
+      "title": "KeyBank Battles Push-Payment Fraud With Machine Learning, Other Tactics",
+      "excerpt": "The Digital Fraud Tracker explores the threat of APP fraud and the use of data analytics and pattern recognition to identify and counter digital schemes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
+      "originalUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/Hero-1-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
+      "publishedDateTime": "2020-11-13T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

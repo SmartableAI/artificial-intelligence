@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/pwc-5-tactics-that-i
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

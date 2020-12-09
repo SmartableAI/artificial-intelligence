@@ -73,17 +73,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
-    excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"
-    publishedDateTime: 2020-12-04T17:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
     excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."
     publishedDateTime: 2020-12-06T14:48:00Z

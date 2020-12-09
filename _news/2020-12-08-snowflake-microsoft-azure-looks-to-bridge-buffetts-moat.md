@@ -71,17 +71,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Microsoft's (MSFT) Azure Purview to Enhance Data Governance"
-    excerpt: "Azure Purview — that is aimed at improving data governance for enterprises. The data management solution is currently available in preview. Azure preview has three main functionalities — data discovery,"
-    publishedDateTime: 2020-12-04T17:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-purview-to-enhance-data-governance-2020-12-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-07T09:18:00Z

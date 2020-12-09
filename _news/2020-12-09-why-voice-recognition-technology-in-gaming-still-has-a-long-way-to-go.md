@@ -7,7 +7,7 @@ originalUrl: "https://mightygadget.co.uk/why-voice-recognition-technology-in-gam
 webUrl: "https://mightygadget.co.uk/why-voice-recognition-technology-in-gaming-still-has-a-long-way-to-go/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ images:
     width: 2240
     height: 1260
     isCached: true
+
+related:
+  - title: "Police use of facial recognition technology soars in Minnesota"
+    excerpt: "County records show that facial recognition searches by local law enforcement have nearly doubled from 2019 to 2020."
+    publishedDateTime: 2020-12-04T20:44:00Z
+    webUrl: "https://www.startribune.com/police-use-of-facial-recognition-technology-soars-in-minnesota/573294251/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://stmedia.stimg.co/ows_b838e9fe-2048-4b18-a9a2-365ada9dd395.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Police Use of Facial Recognition Technology Soars in Minnesota"
+    excerpt: "The growing popularity of facial recognition among local law enforcement in Minnesota has renewed public debate about how, when and why the powerful technology is deployed."
+    publishedDateTime: 2020-12-07T13:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21165359/police-use-of-facial-recognition-technology-soars-in-minnesota"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 39
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/12/16x9/20201204_AMX_US_NEWS_POLICE_USE_OF_FACIAL_RECOGNITION_MS.5fce2d25738ae.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
+    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
+    publishedDateTime: 2020-12-06T10:30:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
+        width: 2176
+        height: 1578
+        isCached: true
 
 secured: "oML3yKcoGKltw40pIkZkU7jdU4fxw0bPq+jaPU54xJ9oSoY9dGPSuo+F8xGNmCYQ76gR0/Oq9goOdCimkcUIiV7lDfu0IQf1OnCDJTAPbifGrBpxPbP4I5w6uOimxVA3gVtz1IGbQgrbfoc4qD1aeQr1t2zlC+nhiQ2+nye/CGj2CjyFjhpwqdltdQbJklkbRdVnHprxvzHM26ouqY7r1JBPCdfRozCrmZkPOXvK4G0efaGtTnypvNjAwM9JAWBAGAMrArkVzLHSS/FVSCiybtEHMQADWC4Y0AXJGq547S5q7nNoVTtpyM0qBO0CwdvnYbY6VVmXvQRDFGiZCqGnqrGl20QQeTEVl+DDOE1pIysQm9h11uaIeVlXjmgxW+p5NlQDZPzdFiIfDiKI8wH07jiPOPppzs4FNBv2DQJdSr8djAc+kizBLdkwxzffhM9ARevO+8rdERq9pKqnJIOAcqmaUfgTyr2SweLm87T7KZwJ8pKFX1+CPSjm58ZaAH3GCrjSqa4u00RVKYcDfGAkcQ==;9eFt1xEetfGJaTSSSJ8Big=="
 ---

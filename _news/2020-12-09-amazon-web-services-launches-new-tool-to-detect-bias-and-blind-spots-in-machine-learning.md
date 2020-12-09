@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS' new tool is designed to mitigate bias in machine learning models"
+    excerpt: "AWS has released SageMaker Clarify, a new tool designed to reduce bias in machine learning (ML) models. Announcing the tool at AWS re:Invent 2020, Swami Sivasubramanian, VP of Amazon AI, said that Clarify will provide developers with greater visibility into their training data,"
+    publishedDateTime: 2020-12-09T08:29:00Z
+    webUrl: "https://www.computing.co.uk/news/4024690/aws-mitigate-bias-machine-learning"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 56
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/01c6135/bdd58deb-6632-49c0-a970-b8b52a87742e/3/Sagemakerclairfy-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Intel releases new machine programming tool to detect bugs in code"
     excerpt: "Intel’s newly released ControlFlag is a machine learning programming system that autonomously detects errors in code."
     publishedDateTime: 2020-12-04T20:43:00Z

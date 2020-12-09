@@ -55,6 +55,24 @@ related:
         width: 1000
         height: 565
         isCached: true
+  - title: "ViacomCBS to migrate broadcast operations to AWS cloud"
+    excerpt: "Amazon Web Services and ViacomCBS entered an agreement that makes AWS the preferred cloud provider for ViacomCBS's global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
+    publishedDateTime: 2020-12-09T10:39:00Z
+    webUrl: "https://www.telecompaper.com/news/viacomcbs-to-migrate-broadcast-operations-to-aws-cloud--1364979"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
+    excerpt: "(NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS the preferred cloud provider for ViacomCBS’s global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
+    publishedDateTime: 2020-12-09T09:13:00Z
+    webUrl: "https://www.financialbuzz.com/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 11
 
 secured: "31z1KUdVs6lhAmv8UqE4hwU7chZoU4vfzz4JstRAe+h5VPc2wtT6TWniSmOCb916P4tmSungKapP+K4Vg9nMiNjc+XhX/wZk6sGV6ouV9AaiWBUIInHFZJLZiX2Y3j/v99KVlHkAFU9aQoOhvdbwnf9U9q8w1cuTM7PhcKTA+sdMx5wJp3xHT58xI/r6Mki2u5k4IM5uBnt3FRvhFLDuLo+Ymc9reqH7pPsR9AzuxNl9jduyJWp0+rccVBvoxe6V1FS20w8UO2eg2ngGkOIZ6/KvQvdBJF/TcICWeC3/Hxj4HVTqc4xuNKj4TbBRSDnT6ru5lodA7pmFOq1ZpgZGWVx5WUtk5l3jtOYDlM6f30RvaXc8AE0XA47lk1zmlPEq48LODw192g9iGxY0uRX9CSuvfLPpzECY41zXAISXUyQMc6eDNj3CFwMovEJS4rLIt0sFGhm4bKL5N9iUnYp5HMgUlwtzoEAEPobvyAdPolmqXawpWjWDoEUhticwL2yiH9OCsNoTkUMC/WFK9QmIiA==;ICQCLJBc2RAQnnhk62HYnQ=="
 ---

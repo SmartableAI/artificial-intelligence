@@ -9,7 +9,7 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/div
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Unlocking the secrets of chemical bonding with machine learning"
-    excerpt: "A new machine learning approach offers important insights into catalysis, a fundamental process that makes it possible to reduce the emission of toxic exhaust gases or produce essential materials like fabric."
-    publishedDateTime: 2020-12-04T17:35:00Z
-    webUrl: "https://phys.org/news/2020-12-secrets-chemical-bonding-machine.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/8-unlockingthe.jpg"
-        width: 800
-        height: 415
-        isCached: true
 
 secured: "zyaTTS8xlYb+jqAIufsO+LyC7sshh/Md6bcx65PDuGto6njDoZzfuQFSd+AuGm/oTR988aWjQIbG6YP3p2MV9FB/crCUSY3MZf9fcN76jNq4otppewzbNElBcYrMMI8zS5/qOK1mskTb+2JEFtxJV2YIh97ciZFxs1l4Jhzd4QEcj5bKNWYqMeMFAelu3YdR163cMDphlL8bHCfqpMf7uvxThoBjGOUT1zXjHcrTkA239a/yXpgKGED9jaXuqbSXkk83IMV3yOr42u8MUJw8Tm0YC9Y/8OKghNFKXnL2udN1nYKZRlqp4BXcs9edpWohTbp5NCdaTlQCttgtPfpLGYpL1drsQOoPiuPC3+vtFGK53UZfes9CqaMN0XQ8CM7aYiR4J2rbJlbphNTVDTpAg+3UeAkxeuILHgtI0HDaEvW1It4MWUsaYnY3FwYG64rkD5LIDcfyHaPYDI7NAItBfjHB6DzKi9Gz7xkCuU4QtPnqg3BqCG2wWMaotj9eexErqSDeeAO2zxFG03c/RK3WFA==;Tm6bUXujtCxe87XvfDQmWw=="
 ---

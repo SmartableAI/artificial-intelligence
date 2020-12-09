@@ -9,7 +9,7 @@ ampWebUrl: "https://variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadca
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -55,6 +55,24 @@ related:
         width: 1100
         height: 621
         isCached: true
+  - title: "ViacomCBS to migrate broadcast operations to AWS cloud"
+    excerpt: "Amazon Web Services and ViacomCBS entered an agreement that makes AWS the preferred cloud provider for ViacomCBS's global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
+    publishedDateTime: 2020-12-09T10:39:00Z
+    webUrl: "https://www.telecompaper.com/news/viacomcbs-to-migrate-broadcast-operations-to-aws-cloud--1364979"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
+    excerpt: "(NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS the preferred cloud provider for ViacomCBS’s global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
+    publishedDateTime: 2020-12-09T09:13:00Z
+    webUrl: "https://www.financialbuzz.com/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 11
 
 secured: "s/w0Lws8jIVonpfIAtK1NLxa9qW6VeGpPR15ccG0HA2qgbwseL8op4hFv9AvXNvMiGHUhkF3JOrW208vMfDd+eXfNmV4irwKcLeNvrqxa4hhDX7jRhRbVrZo9QBRnsRIAXAnw8V/gzy76w6AKLYILWdnsvvBPKLl+or9gvbibNLptGYIZmNjOWo8uE8a4xb0t8xf16ViR347VpnZ/rUbXIQe1DdR3wd9lKU1eKBWyrsfQjao5/AAd4Mrpjv5y/OUX6atA4hlc0stLZBfR5mcxeRSYo9lI+Qjpvpv6KeXRlPrlcDRR/f+Lav+gkgtDfHiSFJcyVrasho40J0RJ9WyfjowXCWU1UElj410o/s4Td7fRaeRoFQe9u/fs37U+fgIrFtC5Joj5PkvTGFn+9uF4yIt6H+qtuWMEQJ0TK8ocf117Hz718jYzgA82NOhQk5gOYzYcG3kV+wkwo51iD/cJm5IjjJppKqIGHPwnoGByhRhTsJwsf5w3hBmsXkmyxajOUdcE/XbW1KEqgurBWnfVw==;E3ZpQnnCAMQcO5ykzOhvRw=="
 ---

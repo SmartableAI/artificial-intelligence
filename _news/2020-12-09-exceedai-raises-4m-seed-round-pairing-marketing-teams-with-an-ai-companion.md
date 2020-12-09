@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -45,26 +45,12 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664249#!"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-662417#!"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "The Coming AI Revolution"
-    excerpt: "By H.P Bunaes, CEO and founder of AI powered Banking. There is a revolution in AI coming and it’s going to render legacy data and model governance practices obsolete. The revolution will manifest in three ways: Automated machine learning platforms like DataRobot,"
-    publishedDateTime: 2020-12-04T18:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-coming-ai-revolution/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 39
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-67.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "SKsxYojteMLppXsut9gxxME7rawFVDQWPWAmgA6BGu9kFzDBwCwl55vIoFP+C8Qbc6PyzI3jLToTWZAoT7gsOusk8eFHJAPSzYe7dInQoKB5RNws6lFG59Zq0H8wohat+S5HTv+pcej1Qe0jiVdusT4+bmcRszg4XvwNreut8CSdGTsYLpdByZllucUP46zXh1vpzAu7zr3WzFuU7DfeHHTML2TNFWgI2206XFQX9RojKdI5lwNI88F84IzjOPzJ471MLlh04oyY2uJV2pBbOLDOQlV1nDvHIfVTiS1V1DGO8EHme0ZYoyW0cxOuVveVsQyEyhva1uUN8NRCaYP4b+OnljytuWj19kLnbt/Mz0bZfO1hlV9x797hzFT5ApGdSlUIGHy+BizQD9fOQrwGHrPT1rXYCYmpC/GCCFLje4tTULGuAHvM/kQ031hrjem1tP4BLnGMp8fY5XFJ3vGyd0zSv/QhEbfjUcPGpMY4srQEkaeZyO5eIKcPR+xuLhiAbwwcRM+LRYzRIcBdGF4yzw==;NepMwb5QX8RbkHoIJMz7zQ=="
 ---
