@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,50 +25,6 @@ images:
     width: 1024
     height: 577
     isCached: true
-
-related:
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "SURVEY REPORT: Artificial Intelligence, Machine Learning and the Future of Telecoms"
-    excerpt: "Telecoms operators are increasingly looking to Artificial Intelligence (AI) and Machine Learning (ML) to make their networks more dynamic and responsive to the different demands on their operations. As the technology promises to offer communication service ..."
-    publishedDateTime: 2020-12-05T06:28:00Z
-    webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 48
-    images:
-      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2019/04/tw_mwl_sl_undr_blk@3x.png?fit=1075%2C616&#038;ssl=1"
-        width: 1075
-        height: 616
-        isCached: true
-  - title: "A smarter business with Hybrid Cloud and AI"
-    excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
-    publishedDateTime: 2020-12-05T01:30:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
-        width: 620
-        height: 422
-        isCached: true
 
 secured: "/KO9OQaJMHrwvlTITGnl97ESE9Wg1bUQhF/L2z5FIGOXL4/eqfbFN9TsBgEALloiJ402hHWUGcQmW6576XQVk425ekeLLyAZ26poFnNulvqI3/+dNu2u3BhAcXwPxXXhPqEM1Yo3rqgmbBsax4BkhggeS1ANodG7d5DV4t3kf0NSbD2T5fXf30YQImBSzM2NIs4jh2UhhHUXMcwEooLAU4XWsSsBWNtOtEjDrd6N0ELi1/OpYx5z2yImp9ZUHxHGZNlMhoJ4RlEexLaZQjzSOWpwLIrmfNJfthTrG89NozxurSa5o+GvINoHS5RBHDPLu8zlFoeabPlq7B8/Tek+qoDAq8GPATViHj4o0+lsCeMVurakzvu9Z5cG1ZQHPg2VCVHJYz+P70wPdB0G3ZdYLwESo3UhKORWrN7eVAJLGNIeq2GY5k0+Yaae4/RT/c1Yuv2SnrcnlbCXDu8k2TxHwaHR5HWujplxqukti1Mv10T98FG3Ik+6Nr4W/yxstFWVxO8A0C0AXRW9Hws4GVAkFg==;hf/ng06sAXUMBTAPP+b8Gw=="
 ---

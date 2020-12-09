@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work.md",
+      "title": "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work",
+      "excerpt": "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/",
+      "originalUrl": "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg",
+          "width": 472,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-microsoft-launches-azure-digital-twins-in-general-availability.md",
       "title": "Microsoft launches Azure Digital Twins in general availability",
       "excerpt": "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available.",
@@ -1381,49 +1433,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative.md",
-      "title": "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative",
-      "excerpt": "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
-      "publishedDateTime": "2020-11-24T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "IPwe joins European Digital SME Alliance Focus Group on AI - recognized as Top 100 Artificial Intelligence Innovators in the EU"
-excerpt: "IPwe has joined the SME Focus Group on Artificial Intelligence, made up of innovators and service providers focusing efforts on AI technology to benefit SMEs across Europe. Backed by the European DIGITAL SME Alliance,"
-publishedDateTime: 2020-12-09T08:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ipwe-joins-european-digital-sme-alliance-focus-group-on-ai-recognized-as-top-100-artificial-intelligence-innovators-in-the-eu-1029876060"
-webUrl: "https://markets.businessinsider.com/news/stocks/ipwe-joins-european-digital-sme-alliance-focus-group-on-ai-recognized-as-top-100-artificial-intelligence-innovators-in-the-eu-1029876060"
+excerpt: "IPwe has joined the SME Focus Group on Artificial Intelligence, made up of innovators and service providers focusing efforts on AI"
+publishedDateTime: 2020-12-09T12:06:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ipwe-joins-european-digital-sme-alliance-focus-group-on-ai---recognized-as-top/article_aee26743-da87-5adc-bb4f-4c7933e1635e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ipwe-joins-european-digital-sme-alliance-focus-group-on-ai---recognized-as-top/article_aee26743-da87-5adc-bb4f-4c7933e1635e.html"
 type: article
-quality: 34
-heat: 34
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
@@ -37,6 +33,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hqH+F7z/OZ+7qsDebpz2ERiCFfkUo5R49ptpWClYW/hPJZXg1Z1fuEz/ofBhFVsl3yC2dqvxb5k2a4Yp7eOcnss1BrBz/pXrKT1rLNoIo86a26KJkZIUoGJ5C7jxEGRuP0BbmNZJ5XcCx6GSg0ugZoyUpI3nqMQeOPm+McXdrOCzfk6Hbx5/qg20EHJe5wBXmcnIDZSBzCReM/mEddhLvOwa4NtsG+v5VWYOBu8ECjZZuJbTLdlaYsYiBa5VQbPffroLfGtwKK6r7LP5zvpyRM6gdPIIsFvKD4HCTfF+QNK/DjoD3s6I0YYgb6/3mFlbO0T6sjdYDBMr0oSk0ROAc5EkJkB8qc4CPHC3NMNEMqY=;E7VbsX/Pmy/m0T/ztWLY7g=="
+secured: "rzEuUCbD7felHHh4ctn4/vBgebStc2g4SdN9SwMYdQNajcS57T56rGEWQw3KYEqC+2TgGUcTuKWgbEygdb79zEb10/rt+FRHwC+yWjMDtgHjm8ByXw/6pctMdrohPV1Dm0SovpmlhZ2f5KTfZrIkUGGGhItX2C4dqNMVBiaSd5ehlnGBDT8yugOeuruHCfPdyNQBGl2xXDZ9UjqZM3S/2/eh3ew5dYIRH28VyMGDX2WkgLUs87hU74tbN8mshxgujpdD/+HqU9OGvUJuHesnp6Ldd03pUDnPtxaGA/1lfqoYZmivFTjyaj7ouMKbzoXKDQSxvyYaQO32UfpGJ/oC3RfVpB6cNX2JqNm1yF2YE7WvCKxhKlbGMi9dguRVhrLU3CfQnjW3uni4+GPwgYWn87nPvsuHkCPBCdA98sQ1DuCKho+RXCIyjMbd9uNjJzh3eogTXcAO2EYbJuPQykxwKV6BPpW1z6oIKFmHT8yRXXpdS6QCwBL3GkhNkmZOetM+MPDgGQyDMfAFPv1EtuqGig==;QCikCPEa4tfgCpg/55Pqzg=="
 ---
 

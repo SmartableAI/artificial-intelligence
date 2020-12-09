@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers, Marines Explore Trust in Human-Machine Teams"
-    excerpt: "In an era of Great Power Competition, where those who can field autonomous capabilities fastest have a distinct advantage, researchers at the Naval Postgraduate School are exploring many fundamentals"
-    publishedDateTime: 2020-12-04T22:45:00Z
-    webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2435883/researchers-marines-explore-trust-in-human-machine-teams/"
-    type: article
-    provider:
-      name: United States Navy
-      domain: navy.mil
-    quality: 24
-    images:
-      - url: "https://media.defense.gov/2020/Jul/26/2002464378/1460/1280/0/200730-N-ZZ999-0001.JPG"
-        width: 1274
-        height: 1280
-        isCached: true
   - title: "NPS Researchers, Marines Explore the Trust Factor in Human-Machine Teaming"
     excerpt: "Trust in autonomous systems to do what they are designed to do, and meant to do, is paramount before these systems can be confidently employed as an operational capability. In an era of Great Power"
     publishedDateTime: 2020-12-07T15:39:00Z

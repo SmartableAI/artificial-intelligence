@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ups-and-downs-cognitive-computing-watson-amel
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ups-and-downs-cognitive-computing-watson-amelia?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 450
     isCached: true
 
-secured: "lg/lBbxlF4pSs6TAEzZQGn96NGoCAjregw0z/MnGsXCx0X/SttkMLXLG17eiY/Mu7YFIhXmoZ9oXRO2qe8UBso9igYlNFxPVICIXsBA7go7NIzTWnp9oB86FLC+bVzg6tOwFswNeaj3iGSps/UyXlrgE2oEJOHLylzTO9kiay7Cw9fTDXVHa615GOMQNieELs70yrTZXzqA3eT+oX5jlRY8fDg4e5IHgSHIdL3XYec1wQWmc7DSp0JvqjXx32GYAau+3GSwnzatr8fTaFoT9u+fCPTXwWhAxQm6qzA/eMM5XubZUSELVWBrP9LYQxKqa1X9J6QwRC1QKIDiQCalKEXRh5Fs6TOYuD/bFZCr9yiU=;SNpxnYxOIplc3etC8nOEPA=="
+related:
+  - title: "IBM adds Watson tools for reading comprehension, FAQ extraction"
+    excerpt: "IBM said it is adding reading comprehension, the ability to extract information from FAQ documents, support for new languages and intent classification models to Watson. The new f"
+    publishedDateTime: 2020-12-09T13:29:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/86607c3e-229f-4a89-9471-5d819a17eebe/ibm-reading-comprehension.png"
+        width: 1353
+        height: 663
+        isCached: true
+
+secured: "pSqRO3OjYgGF6ujOY5oXknHm8Hh4Qc0Lc5WDnL7udUqnx9G3pdarv57qgMMRK5bGb/+yFudeYiXN5yIYzw5iLylbFR+D4xKTdKFsRkAX2Y5Qofv1G15JB/gD2AOWg/SjKGEAj+fpGyWnKLE9OGg6kIhqKHxOBlcCWRH02azHKLuLyJncis4n4Krl5PIRfQRwrPTrO+LNyS2kRjRfbAwT4RCDNV87enhhUHRQcB3lfogyz6m7mC4qxKP+/MNLw6Brrc7V4Ica8WVwf4kzZXSJofCyskbPaItlDAFqpxpl5BXEM4LhwsNipqxn+eUuf1Qa4PZsNMEgNVmhi/m60XP6ngz+SUh+IRTVXtPO2x/BX70PoxnbqR1rnVjTJPjymhpBl55GKDj+uWloGZKBBj4zW3SCApxwnlKZHMN6rxl+sd+a1cX2Xh2HAT5F/HTKyPF5bPO+I83nVahQSrMj2djMdc2TDJRDTv03htEnH1ESE5SbOldXsbjo9YF8yJ3VwK7GAV/+EMrXG9G+pbVeg+NyYQ==;yBr9yuHJ/zTJekYdur/olQ=="
 ---
 

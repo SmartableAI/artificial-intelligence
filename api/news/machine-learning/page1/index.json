@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-ionqs-roadmap-quantum-machine-learning-by-2023-broad-quantum-advantage-by-2025.md",
+      "title": "IonQ’s roadmap: Quantum machine learning by 2023, broad quantum advantage by 2025",
+      "excerpt": "IonQ's roadmap for trapped ion quantum computers: rack-mounted modular quantum computers by 2023 and broad quantum advantage by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ionq-roadmap-graphic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
+      "publishedDateTime": "2020-12-09T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-amazon-aws-unveils-redshift-ml-to-bring-machine-learning-to-more-builders.md",
       "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
       "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
@@ -168,7 +220,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -494,7 +546,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1433,40 +1485,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-quicklogic-and-sensiml-launch-hacksterio-climate-change-challenge-contest.md",
-      "title": "QuickLogic and SensiML Launch Hackster.io Climate Change Challenge Contest",
-      "excerpt": "QuickLogic Corporation, a developer of ultra-low power multi-core voice-enabled SoCs, embedded FPGA IP, and Endpoint AI solutions, today announced that it has joined forces with SensiML™ to spearhead an initiative to aid in the creation of new and innovative technological solutions to the global climate change crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/quicklogic-and-sensiml-launch-hackster.io-climate-change-challenge-contest-2020-12-01",
-      "originalUrl": "https://www.nasdaq.com/press-release/quicklogic-and-sensiml-launch-hackster.io-climate-change-challenge-contest-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

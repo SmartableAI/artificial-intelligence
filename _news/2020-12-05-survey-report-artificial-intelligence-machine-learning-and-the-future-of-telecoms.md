@@ -7,7 +7,7 @@ originalUrl: "https://www.mobileworldlive.com/survey-report-artificial-intellige
 webUrl: "https://www.mobileworldlive.com/survey-report-artificial-intelligence-machine-learning-and-the-future-of-telecoms"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 1075
     height: 616
     isCached: true
-
-related:
-  - title: "The opportunities with AI and machine learning"
-    excerpt: "A notable discussion with two of the most prominent scientists in machine learning. Dr. Chris Bishop and Professor Yoshua Bengio will talk about what they are excited about in AI today as well as the challenges and frontiers in the algorithms."
-    publishedDateTime: 2020-12-04T22:05:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/video/the-opportunities-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/12/954inChlPxE.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "A smarter business with Hybrid Cloud and AI"
-    excerpt: "They do this by adopting artificial intelligence (AI), cloud-based remote collaboration tools and seeking data-driven insights to fast-tracking innovation and transforming business operations. IBM's Catherine Lian: Globally,"
-    publishedDateTime: 2020-12-05T01:30:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg"
-        width: 620
-        height: 422
-        isCached: true
-  - title: "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\""
-    excerpt: "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c"
-    publishedDateTime: 2020-12-07T15:17:00Z
-    webUrl: "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 38
-    images:
-      - url: "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg"
-        width: 1024
-        height: 577
-        isCached: true
 
 secured: "IC3epRP7vJqFMfJL2RXdaNdjB84410RnpnHFsf1IfFfl/pszw+O+OzXZWGWwZdyOLkOV9OX+bURPMdwSpic2JjOLlyYgPSaf1oWrlk3DEw9CqtHxSDYdEwZ0ZCJ8XjqPwFyO3Z6cg9UIVdi3aBAseZDf+3YT+uUTPDrdDIGojbD6haXF4c7fBBA4m8TmFbTCKvk/PSPwPY+1n4ZhY8Qm91Ct4Zlyyu6Xl0/X41m+ko/g1HfZXAirLTgYgDHpcmxwaSn1FSJVn+79QvujMrtZW499Lew/pb8vOOYEVXbN5nkduD6H024prNWJ+bnKxD/4an0RkXWXdLiTpt5S1PcNpRO0WB7Ub4uuOti8XoqzBik=;MYaXkkO/sLLEfIl1fZmqnQ=="
 ---

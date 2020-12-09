@@ -25,20 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Need a COVID Cure? Hail a Robot Revolution"
-    excerpt: "Nuro's Dave Ferguson has a plan for your roads, groceries, COVID concerns and just about everything else, and it starts with robots."
-    publishedDateTime: 2020-12-06T07:58:00Z
-    webUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure-all-ask-a-man-who-makes-robots/408118/"
+  - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
+    excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
+    publishedDateTime: 2020-12-09T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
     type: article
     provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
-    images:
-      - url: "https://www.ozyassets.com/ozy-prod/2021/12/gettyimages-1215119616-copy.jpg?width=1200&height=630"
-        width: 800
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "CaptionLabs Expands Foreign Language Closed Captioning Capabilities"
+    excerpt: "For over 15 years, CaptionLabs has been ranked as one of the top closed captioning companies in the world by customers and"
+    publishedDateTime: 2020-12-07T00:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18666980/captionlabs-expands-foreign-language-closed-captioning-capabilities"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18666980"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18666980"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "K/QyhxzT+AS1YYLXsqmGTYtB+CZrNZs8ESQUMjdEePbdZ9wKVcYqfFuKB6JhE6Z6VaymA48XBTnHDK+n+OGmnntVNjevSq4No+cvlGQrqhEFuaCv0HRvz4n+5SVAgP4/w26cZwLFW8Tez/FnkFk5NcSozfzNQoDlgQbp8bpO3d2x46D47wG5uIaR/9gqXIlSRsiHriMUX1psKJ0lL8X3XJpZrDYvAuRKetxOFvT/dnEMEMy+8kzzHAFqCfb60hmcJi2kzl9eetfLGnSzo+HLRZOdkubJ9M0marOaYcYXpVnc3bwdJpRsSSZdHKS6Kyq4ISwH+eDQ2NzFt3bMACU6HSLSSPMIjbWCbvz7Ri6XXAY=;7m/XYRTkPtL/765XVLFAbA=="
 ---

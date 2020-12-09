@@ -2,6 +2,359 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work.md",
+      "title": "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work",
+      "excerpt": "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/",
+      "originalUrl": "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg",
+          "width": 472,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-artificial-intelligence-just-revealed-a-potential-concern-for-covid-vaccine-makers.md",
+      "title": "Artificial Intelligence Just Revealed a Potential Concern for COVID Vaccine Makers",
+      "excerpt": "Machine learning and artificial intelligence are solving problems that we never thought possible. Just this week, a unit of Alphabet -owned Google -- DeepMind -- used the approach to solve a mystery about how proteins fold that had vexed scientists for 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603651%2Fcovid-19-vaccine-vials.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/",
+      "publishedDateTime": "2020-12-09T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker.md",
+      "title": "Adobe launches AI tools to track omnichannel, spot anomalies quicker",
+      "excerpt": "The goal of the AI tools is to combine data from repositories as wide ranging as point-of-sale to website and apps to call center and loyalty programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "originalUrl": "https://www.zdnet.com/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/24c56ea5-52a7-49da-8d14-642dda076668/adobe-call-center.png",
+          "width": 3176,
+          "height": 1996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "publishedDateTime": "2020-12-09T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ionqs-roadmap-quantum-machine-learning-by-2023-broad-quantum-advantage-by-2025.md",
+      "title": "IonQ’s roadmap: Quantum machine learning by 2023, broad quantum advantage by 2025",
+      "excerpt": "IonQ's roadmap for trapped ion quantum computers: rack-mounted modular quantum computers by 2023 and broad quantum advantage by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ionq-roadmap-graphic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
+      "publishedDateTime": "2020-12-09T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ibm-adds-watson-tools-for-reading-comprehension-faq-extraction.md",
+      "title": "IBM adds Watson tools for reading comprehension, FAQ extraction",
+      "excerpt": "IBM said it is adding reading comprehension, the ability to extract information from FAQ documents, support for new languages and intent classification models to Watson. The new f",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/86607c3e-229f-4a89-9471-5d819a17eebe/ibm-reading-comprehension.png",
+          "width": 1353,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
+      "publishedDateTime": "2020-12-09T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ibm-announces-new-ai-language-explainability-and-automation-services.md",
+      "title": "IBM announces new AI language, explainability, and automation services",
+      "excerpt": "At its AI Summit, IBM announced a number of new machine learning-powered products and services across its portfolio of cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/amp/",
+      "publishedDateTime": "2020-12-09T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-facebook-ai-predicts-slo-county-will-pass-8000-covid-cases-in-3-weeks-heres-why.md",
+      "title": "Facebook AI predicts SLO County will pass 8,000 COVID cases in 3 weeks. Here’s why",
+      "excerpt": "Facebook is predicting that San Luis Obispo County will pass 8,000 coronavirus cases in coming weeks. Facebook Artificial Intelligence Research, or FAIR, is a part of Facebook’s Data for Good effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sanluisobispo.com/news/coronavirus/article247694575.html",
+      "originalUrl": "https://www.sanluisobispo.com/news/coronavirus/article247694575.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404784001/bbd7cc30-f59c-4155-a093-1496ea43962e/82702fe2-e576-4c5b-828b-d9586c139d30/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sanluisobispo.com/news/coronavirus/article247694575.html",
+      "cdnAmpWebUrl": "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/coronavirus/article247694575.html",
+      "publishedDateTime": "2020-12-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SanLuisObispo",
+        "domain": "sanluisobispo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-ai-bots-revolutionizing-the-finance-and-banking-space.md",
       "title": "AI Bots Revolutionizing the Finance and Banking Space",
       "excerpt": "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,",
@@ -97,7 +450,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2025-2020-12-09?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -718,7 +1071,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -760,6 +1113,57 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-the-best-foodie-gift-boxes-and-subscriptions-to-send-this-year.md",
+      "title": "The best foodie gift boxes and subscriptions to send this year",
+      "excerpt": "There are countless curated food and booze gift boxes to choose from in 2020, but not all are created equal. This year has required a healthy mix of calm, cunning and creativity to say the least. At the risk of belaboring a well-worn point,",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.cnet.com/news/best-food-gift-baskets-to-send-by-mail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -823,7 +1227,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -865,420 +1269,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table.md",
-      "title": "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’",
-      "excerpt": "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table",
-      "originalUrl": "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh",
-          "width": 5760,
-          "height": 3235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table",
-      "publishedDateTime": "2020-12-08T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-ruining-our-lives.md",
-      "title": "The trouble with AI: Why we need new laws to stop algorithms ruining our lives",
-      "excerpt": "Ethical guidelines are the only tool to date to control AI systems. They're not doing much for our rights, finds a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
-      "originalUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/4f4c61fa-86b7-4529-b079-3600abdc6ea8/thumbnail/1200x675/14bdca55e9ff64c6339770573420cf2f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
-      "publishedDateTime": "2020-12-08T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-getting-started-with-the-amazon-kendra-google-drive-connector.md",
-      "title": "Getting started with the Amazon Kendra Google Drive connector",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To simplify the process of connecting data sources to your index, Amazon Kendra offers several native data source connectors to help get your documents easily ingested. For many organizations,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/07/ML-1811-1.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T09:39:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition.md",
-      "title": "Cisco unveils revamped Webex experience, including noise cancellation, AI-powered gesture recognition",
-      "excerpt": "Cisco announced a bevy of new features within its Webex portfolio on Tuesday, as the company ramps up its efforts to compete with rival collaboration players such as Zoom, Slack, Google Meet and Microsoft Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/f1cdb0b1-e45b-4d77-8edb-9941bef8c0d7/reaction-dark-1024x576.png",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "publishedDateTime": "2020-12-08T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-how-glaxosmithkline-launched-16-virtual-assistants-in-10-months-with-watson-assistant.md",
-      "title": "How GlaxoSmithKline launched 16 virtual assistants in 10 months with Watson Assistant",
-      "excerpt": "GSK is a global pharmaceutical company that researches, develops, and manufactures innovative pharmaceutical medicines, vaccines, and consumer healthcare products. A company that prides itself on customer service, GSK was dependent on expensive call centers to provide 24/7 support. But about 20% of incoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launched-16-virtual-assistants-in-10-months-with-watson-assistant/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launched-16-virtual-assistants-in-10-months-with-watson-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/gsk-lead-space-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T08:56:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world.md",
-      "title": "Study finds that few researchers thoroughly test adversarial attacks on surveillance AI in the real world",
-      "excerpt": "In a new study, researchers find that few adversarial techniques purporting to protect against surveillance AI have been thoroughly tested.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/",
-      "publishedDateTime": "2020-12-08T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ai-development-promoting-educational-reform-innovation-tal-education-group-chairman.md",
-      "title": "AI development promoting educational reform, innovation: TAL Education Group Chairman",
-      "excerpt": "TAL Education Group Chairman and President Bai Yunfeng on Monday said that the integration of artificial intelligence and education was moving towards the in-depth field of educational ecology, promoting the innovation and reform from educational concept to teaching technology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-development-promoting-educational-reform-innovation-tal-education-group-chairman-1029874215",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-development-promoting-educational-reform-innovation-tal-education-group-chairman-1029874215",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1360921/Bai_Yunfeng_Chairman_President_TAL_Education_Group_delivers_a_keynote.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that.md",
-      "title": "Can AI help you binge books? BingeBooks is a new service to do … exactly that",
-      "excerpt": "The pandemic has been terrible for many industries, but the book industry has gotten a rare reprieve in an otherwise dismal past decade. Locked in homes and forced to socially distance from others, us humans have more time on our hands and more need to connect to characters than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/08/can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/08/can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/08/can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that/amp/",
-      "publishedDateTime": "2020-12-08T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

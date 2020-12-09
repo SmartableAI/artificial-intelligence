@@ -89,17 +89,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Charlotte Observer"
-    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-04T22:24:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article247617745.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
 
 secured: "Ck0kHDPZyrl5nm1OEFmD6ohUCewXMFBwaeR24sTKidlIaJOrc2mEZeAYKddSNmERzA1OIAeXsfFx1a76jVXjCqAWhsz2Y/ki4urhVjpVYQHV+vXxLbdVUsRNQ1QrSpq/28h5sjK77UGaEOmYxWTCrRhTso60Aev9Qje4rG/59lpOMbIcY/A5284GlLjreurq5AWSo0RHsPMkpV0PIxiBqHbRY2yYP32OA2ejEYiZ5ESp7KPChjwSuwmRi+FgbCayaEU8gZBbIM8A/x7q9+og9Xkk4CQNJBHkwTt/ttcpRmjLmFkLjjGOvst8hKt+pXOhrpk3L3yGB2XNR1trddVba5kqgjUyNIaBZKqWa3/TSLcUgNsdw7b8zUFpBnQViagZfqQV07f6Vxro5Wa/fJvC4Quo1T3xICIQiOKnH8MI396cw69AD6chPg1NnKaSC0/d5uli7PoM7Saw/eCGF0U7ABJUAtz3iPCgDPP/Lya4sT+W6TGajD5nvwoZBvThXRybhUxnqPxfiu7Hx/+b43nKbg==;9UHh2Hx3dkqxz33aPhocjA=="
 ---

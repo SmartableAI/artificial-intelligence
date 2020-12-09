@@ -90,6 +90,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
+  - title: "C3.ai Prices IPO at $42-Share, Above Estimated Range"
+    excerpt: "C3.ai, the artificial-intelligence-software provider, priced its IPO at $42 a share, above its latest estimate of $36 to $38."
+    publishedDateTime: 2020-12-09T13:51:00Z
+    webUrl: "https://www.thestreet.com/investing/c3ai-prices-ipo-above-estimated-range-at-42-share"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/c3ai-prices-ipo-above-estimated-range-at-42-share"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/c3ai-prices-ipo-above-estimated-range-at-42-share"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/ovyBpuoH-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Airbnb, DoorDash And Billionaire Tom Siebel's C3.ai Are Upsizing Their Public Market Debuts, Revving Up Biggest December For IPOs Ever"
     excerpt: "Amid a red-hot market for tech IPOs, six firms are on track to raise roughly $9 billion in offerings slated for this month."
     publishedDateTime: 2020-12-07T15:47:00Z

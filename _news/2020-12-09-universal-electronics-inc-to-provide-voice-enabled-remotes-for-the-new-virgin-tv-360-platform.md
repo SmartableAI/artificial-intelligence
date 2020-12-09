@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Universal Electronics Inc. to Provide Voice-Enabled Remotes for the New Virgin TV 360 Platform"
-excerpt: "Universal Electronics Inc. (UEI) (NASDAQ: UEIC), the global leader in universal control and sensing technologies"
-publishedDateTime: 2020-12-09T10:01:00Z
-originalUrl: "https://www.financialbuzz.com/universal-electronics-inc-to-provide-voice-enabled-remotes-for-the-new-virgin-tv-360-platform/"
-webUrl: "https://www.financialbuzz.com/universal-electronics-inc-to-provide-voice-enabled-remotes-for-the-new-virgin-tv-360-platform/"
+excerpt: "Universal Electronics Inc. (UEI) (NASDAQ: UEIC), the global leader in universal control and sensing technologies for the smart home, has been selected to provide voice-enabled remote controls to Virgin Media for its new Virgin TV 360 platform."
+publishedDateTime: 2020-12-09T14:26:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-ea7e60b4f87144f6bc4969fe5d08c953"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-ea7e60b4f87144f6bc4969fe5d08c953"
 type: article
-quality: 0
-heat: 0
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "RUEJAu62Sal9flWcY1yH/k2iNqt6A3/mBcjIsQs9ldDQAr0gTmv6d/Dn3Sc+F2ioy3XYMmDFJIOwEy9XJYDBa19FZLWrAsbsk3pDzS9q0Lh6irZCg/xjpyH/S5CEYz+XhCPzKaUG/zeY9Dfn76wNRg8u9dJIe8tAbchy8idQTa2bOK6AYHcOFECK3Y5SD42MjjpduhHLrzdMDqVp/o5PflH7mzSgQ6opkU5FHjE+RcqqbfLrlNY7xv+fxAMZ3aJZKVbB/aDsG5uR3MbwMKISKvGv+3gc9WIuZZoN/cDsavJkas7KBupaHvtbA/gW11whIgViiMLv5E77WGW/Kwu7F5NpvtcgqsGY9ZLiIDMNw60T00/bBmlbaml9dIeWz9Ymh/JXDhgJtLn6CYbC1UpQ/OgUdS6Hg5fpMA+DY9K1RzAb625pBGt7GBIpt36w3adckZJJ3zMsF5pVOefkUisjGWbXq7l+JnxilHFSGCMvJhJVBJdQ6+EhsaH4wjXSbf7d01lXhy/oqH+oegZJ5O6JqA==;mgsnEapM7oGO6HJqm+Lbbw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+fEG1hKfsZ24jhewrZGcKs2daq+KRxfzLxq7d3ePQI3/IIFhUMrm2y20oPj1a73cd30ya0i/wYBtjLEtKwUoph//PLXqyC0Vt54uqvnrtPBt2wu8Q1tfhsfInzTBCqRkZKlnpjifgHAzDTDSymXOrtPiHjTiVho6L+skZkKq9EtSSjIwm3zBctYArubey8qJ44adksQR08h3AU/3uOmlkWvow9pkba7/BAu7sawAC6g3lKoODETIOdrz2Q2j2+xkCXShpuyQnvWumTY5EG3Cp75DhN82JFGTZic1UCiJ22gUKuh9RxrsM6mYeZJI4EUHWkLra8YkfJbK7NFBNvxrFBkSXgXrJ+/ac7S2bYOq4b8=;2OZ0s3A+nJZBjeMre9m2Bg=="
 ---
 

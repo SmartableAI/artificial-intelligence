@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts"
-    excerpt: "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters."
-    publishedDateTime: 2020-12-05T14:38:00Z
-    webUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp"
+  - title: "Artificial Intelligence Just Revealed a Potential Concern for COVID Vaccine Makers"
+    excerpt: "Machine learning and artificial intelligence are solving problems that we never thought possible. Just this week, a unit of Alphabet -owned Google -- DeepMind -- used the approach to solve a mystery about how proteins fold that had vexed scientists for 50 years."
+    publishedDateTime: 2020-12-09T14:33:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 77
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603651%2Fcovid-19-vaccine-vials.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Need a COVID Cure? Hail a Robot Revolution"
+    excerpt: "Nuro's Dave Ferguson has a plan for your roads, groceries, COVID concerns and just about everything else, and it starts with robots."
+    publishedDateTime: 2020-12-06T07:58:00Z
+    webUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure-all-ask-a-man-who-makes-robots/408118/"
+    type: article
+    provider:
+      name: OZY
+      domain: ozy.com
+    quality: 54
+    images:
+      - url: "https://www.ozyassets.com/ozy-prod/2021/12/gettyimages-1215119616-copy.jpg?width=1200&height=630"
+        width: 800
+        height: 450
         isCached: true
   - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
     excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
@@ -54,6 +68,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 51
+  - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
+    excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
+    publishedDateTime: 2020-12-08T02:26:00Z
+    webUrl: "https://www.datanami.com/2020/12/07/mit-machine-learning-reveals-covid-19-vaccines-may-be-less-effective-for-racial-minorities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_vaccine_covid.jpg"
+        width: 1000
+        height: 429
+        isCached: true
 
 secured: "DIWZAp7NA9t74UzkXQjWg9JsvszqhfnZvc6rgQvqLmO/Yma0VgnoVP7tUBVQXX5JncAVKud5ka5akhzXQivFZYRqsjJ6orQl6hi1asNab4S19o1pk1X7jfrL7CJRQBY14vqW2pj4L9KvqfOmMaOFdJIepHuop3X6GK6wppfYIBx+rhFDMFhSziTBrLd0HN8L7XssOYECISkugHGAHTGl6rVFHVCxfCWK0KU3JNmifqXCn6hqynrziqw2Pp2dk2X+1dXkBVEOY5nYZhoPc+nSUCBMyP7zMrp9I+v1griKYsPapms58l0fFaOmHOdZO6ZSoFdkuYJmxiSSa9w1Zi/dRWIkECWB0hnLu7PU47acoJGlxuMtQIb0B5/fRD2+W6O8B5405aLJPVzglZvVY5IuYHxgiW94wuf+IBTjOY5oFwir0t18SddIpNGJTI38zWqhZ1InQi6v8yTgnohN1DVpUyjfWKMvds6JmIxQsavmZWFskNmzc0hb1JXSFmqFZZLXq5vppGFY9RZlXqPpJMIAMg==;2AOmM8+hhMoT48X+an8QCg=="
 ---

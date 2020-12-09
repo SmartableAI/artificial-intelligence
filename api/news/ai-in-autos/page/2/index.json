@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-25-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
-      "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
-      "excerpt": "Nearly 60 per cent of about 650 passengers WeRide surveyed say they use the company’s robotaxi service for regular commutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "originalUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/25/fe2fa526-2ee0-11eb-be20-200ca6256645_image_hires_161521.jpg?itok=wVzItpX0&v=1606292129",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "publishedDateTime": "2020-11-25T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-artificial-intelligence-could-put-milton-keynes-on-a-par-with-san-francisco-and-singapore.md",
       "title": "Artificial intelligence could put Milton Keynes on a par with San Francisco and Singapore",
       "excerpt": "MK has the world’s largest fleet of autonomous delivery robots and was the UK partner for a three-year trial of driverless autonomous vehicles. In the last year alone, Santander’s has begun its £150m investment into a new innovation centre in Central ...",
@@ -1487,6 +1435,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
+      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
+      "excerpt": "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
+      "originalUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
+      "publishedDateTime": "2020-11-14T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

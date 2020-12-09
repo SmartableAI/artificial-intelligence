@@ -7,7 +7,7 @@ originalUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure
 webUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure-all-ask-a-man-who-makes-robots/408118/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 action plan earns Luther Manor national recognition"
-    excerpt: "Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021, according to an annual survey produced by Newsweek magazine. The national news publication recognized 400 skilled nursing facilities out of more than 10,"
-    publishedDateTime: 2020-12-09T10:30:00Z
-    webUrl: "https://urbanmilwaukee.com/pressrelease/covid-19-action-plan-earns-luther-manor-national-recognition/"
+  - title: "Artificial Intelligence Just Revealed a Potential Concern for COVID Vaccine Makers"
+    excerpt: "Machine learning and artificial intelligence are solving problems that we never thought possible. Just this week, a unit of Alphabet -owned Google -- DeepMind -- used the approach to solve a mystery about how proteins fold that had vexed scientists for 50 years."
+    publishedDateTime: 2020-12-09T14:33:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
     type: article
     provider:
-      name: Urban Milwaukee
-      domain: urbanmilwaukee.com
-    quality: 24
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
     images:
-      - url: "https://urbanmilwaukee.com/wp-content/uploads/2018/02/Art-Keup-CFO.jpg"
-        width: 703
-        height: 469
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603651%2Fcovid-19-vaccine-vials.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI, machine learning playing a key role in fight against COVID, say experts"
+    excerpt: "At KnowDis Machine Learning Day, experts say AI models could quickly narrow down the list of candidate drug molecules, which might possibly bind to the protein, modify its behaviour, and provide therapeutic benefit."
+    publishedDateTime: 2020-12-07T04:30:00Z
+    webUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid"
+    ampWebUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 72
+    images:
+      - url: "https://images.yourstory.com/cs/5/803961002d6d11e9aa979329348d4c3e/FI-1585834113618.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
+    excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
+    publishedDateTime: 2020-12-05T14:30:00Z
+    webUrl: "https://www.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP.html"
+    ampWebUrl: "https://m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 51
+  - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
+    excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
+    publishedDateTime: 2020-12-08T02:26:00Z
+    webUrl: "https://www.datanami.com/2020/12/07/mit-machine-learning-reveals-covid-19-vaccines-may-be-less-effective-for-racial-minorities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_vaccine_covid.jpg"
+        width: 1000
+        height: 429
         isCached: true
 
 secured: "LDcCU73RwntQHOZSrbg8IoIX6prc2I/FNha3H8w/XeNhDctgoKLBrleeqvx8IChANBnfF4hfwrtZNsPDX+DySVZ7kXg/ehyukiu8oFPk03d8KSadxQFxBSMO/u0DN8yohTL6/H3tqYwaRTZuHm7CMcQEHMaYTb2LUODsIzc1bj+rdtGiNcwJQvqMJoUijRLRJ4rRB/e1hI3hf/XPb2Me+m0o4q+qKqwwiIy8y2jKxhABorTrhOv6q2jwL1z+vaJ3JUzH6AHBZsSNIW+sUf6CsOlPmkpaSDFw4ZDxpZbaeBjidYtDXahlaosC9TLPWG8wfuHL0OQnNrvpiNJ9tn6druDqPmHkS0Km0SWAYiUP9aX+xU9MtlEKn3BQZi8fgOR051MIviU5i6cZdV2z06QicZJE688PALrV92qRGAHXdjbxBNvDYN9CkjIK77m+deAXFexqJ3tQYdUfZ9SarCR/+p0Ce+4Dm606imgdAarpy4tmTsoGzZbttmKn9W4uLhXf57pp5CivxeiA9cvaZAz3ig==;iEPHzOqbVIaetSAF0YNfSA=="

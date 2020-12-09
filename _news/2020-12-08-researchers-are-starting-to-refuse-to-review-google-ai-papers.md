@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -90,17 +90,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns | Charlotte Observer"
-    excerpt: "Artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-04T22:24:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article247617745.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article247617745.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
 
 secured: "maedinQeJUdJ0maSpfA0DDy0/5F2TlDzyWMWCq8DnJvGDSMQEpUA4TWSBFIsHxfTgh6WR8cxjHjSlgNzoJkd9WX8V8Txn99zF2yCzMdLiy+IzKUhI4v4NUAb/o7uKXciQsIBE03kkhTgs7eOdS93T7ABek7Idx0hShrnmEml59S8Dwp7lmjL77KPCz7tZ0tenS3G0mpgh3vuUsvCgWGUKr5HKpCuUQOT08oTAArIGsnrnshMqrgM15ODsYtM6J3aHx/LsMhlOm80i4IoThx0dbSGYrIQYU1qbjnJ3m/Shcm8gkdLqqy3NetERQ8wYsGl1j6w6zroVlJPXE0e4BL7P5x/XApwrbEZjGbeEfiJfr8g4sITj8NQeBUI0Vz4eRi508lpopfbPaM/fJ4INyz4lTpElArYIXd6cQbdIaOPC+Xz8zPTIl250K+fcrjYDI8TW/BUmkezft8GZztH9F7s+420loYKrWw0FAERizCHneli7IrXCDmGUZ0dZEmzwlmBgRfLVVSaHmBlR2VCpgex/Q==;TyespcgsMDsk30iBUWE5UQ=="
 ---

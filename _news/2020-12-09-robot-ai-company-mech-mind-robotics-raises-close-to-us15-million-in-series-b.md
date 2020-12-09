@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-excerpt: "PR Newswire BEIJING, Dec. 9, 2020 BEIJING, Dec. 9, 2020 /PRNewswire/ -- Fast-growing Chinese AI indu"
-publishedDateTime: 2020-12-09T12:41:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-09/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-09/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b"
+excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
+publishedDateTime: 2020-12-09T11:34:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
 type: article
-quality: 95
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 274
         isCached: true
 
-secured: "6aVLs8a3G0Uk6aFZm+c8LnvUYDei+6PhsEQfmbN56V7tcEujNVPV/ASFyKUyAcMu6FRQns/1YqVmcQB7zfQg+nfo+YLNbtMQo+y6q0TTwjwdrlRYpKiwqU8xublJe/VR66B41piNxl7BCt6zMG8qeNmwYDNSUUiza9OetVofKgsHsCbje2utR8ZyDCC9n5yriWhOo/yNzTqoBesUhRNLw8JEJ6Vk1nV9ahYcJeICiLMJl/0ZUWJI2pCFLuo3h4001zLv2AVpmxE2ZM0c5ZDw7HKQBeBSyJn3p6C8YAsAFf3TiDHe8OIYbtNEEC0KLRij6YV2nwfnZXZekTvTyfkSmzQFqXNQVoxUF3li8Eo95tc=;ylCfDxNqmLDGKJkT7ywkkw=="
+secured: "aAm7WZ1v22p4N0SRrFIZ6dkN5KF4DNxAsDn95Ak1z+DBBu3Zkscu7suQiYOv9LNUSsE+3T+MIdMUOmLYHEoD5NqbdZYV0jkcqOe/rUxxytE2VYHcdPTTPw5O7AxvsNvoBbfRJ1fDeta0acHDADSil+wcr8qzw3hSisSG1aLKydQshaDJEN+ap9gcfZjZg8i5W2BtjsrQ7qefBmGOl7gXhs+HK5e+kKi80IILXc0C9Lriz39QtkFJS3pu7hiz1brxoeMvMmr55N65snN4pCLDUofUo8VnL/alZhZddBwZHPToCZz6K0JB6iuNAXKxBAmJi0YkEegGSutrETsMd3jWCws3CXIRu8Yky6/IU+GSfjs=;KiZT2W5aXiN5Be8bGaM5Gg=="
 ---
 

@@ -2,6 +2,317 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-02-ai-budgets-expected-to-expand-in-2021-despite-pandemic.md",
+      "title": "AI budgets expected to expand in 2021, despite pandemic",
+      "excerpt": "The pandemic motivated many businesses to look for new efficiencies and revenue sources, with many turning to AI as the solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/",
+      "originalUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/world.investmentsGettyImages-1201627478.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/ai-budgets-expected-to-expand-in-2021-despite-pandemic/amp/",
+      "publishedDateTime": "2020-12-02T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-ai-transcription-sucks-heres-the-workaround.md",
+      "title": "AI transcription sucks (here's the workaround)",
+      "excerpt": "For now, I'm still paying for people-powered transcription services. Speech to text has been a huge challenge for AI developers, and it's a puzzle that's being closely watched in a variety of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "originalUrl": "https://www.zdnet.com/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/02/4ba7f352-6d24-4a68-896b-e379d872c0aa/sound-wave.jpg",
+          "width": 1280,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-transcription-sucks-but-heres-a-workaround/",
+      "publishedDateTime": "2020-12-02T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-this-company-uses-ai-to-outwit-malicious-ai.md",
+      "title": "This Company Uses AI to Outwit Malicious AI",
+      "excerpt": "Security researchers had devised a way to attack a Proofpoint product that uses machine learning to identify spam emails. The system produced email headers that included a “score” of how likely a message was to be spam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/company-uses-ai-outwit-malicious-ai/",
+      "originalUrl": "https://www.wired.com/story/company-uses-ai-outwit-malicious-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fc6d91f1e74aa94c3b19aa6/master/pass/Business-AI-1203770609.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/company-uses-ai-outwit-malicious-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-uses-ai-outwit-malicious-ai/amp",
+      "publishedDateTime": "2020-12-02T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-nanorobotics-market-share-current-and-future-industry-trends-2020-2027.md",
+      "title": "Nanorobotics Market Share Current and Future Industry Trends, 2020-2027",
+      "excerpt": "Selbyville, Delaware Global Nanorobotics Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Nanorobotics Market Report also covers top key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-why-enterprises-are-turning-from-tensorflow-to-pytorch.md",
+      "title": "Why enterprises are turning from TensorFlow to PyTorch",
+      "excerpt": "The deep learning framework PyTorch has infiltrated the enterprise thanks to its relative ease of use. Three companies tell us why they chose PyTorch over Google’s renowned TensorFlow framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
+      "originalUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.amp.html",
+      "publishedDateTime": "2020-12-02T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission.md",
+      "title": "Genesis Therapeutics raises $52M A round for its AI-focused drug discovery mission",
+      "excerpt": "Sifting through the trillions of molecules out there that might have powerful medicinal effects is a daunting task, but the solution biotech has found is to work smarter, not harder. Genesis Therapeutics has a new simulation approach and cross-disciplinary team that has clearly made an impression:",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/",
+      "originalUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/04/biotech-molecules.jpg?w=1024",
+          "width": 1024,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/amp/",
+      "publishedDateTime": "2020-12-02T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
       "title": "Review: DataRobot aces automated machine learning",
       "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
@@ -310,6 +621,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
+      "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
+      "excerpt": "The online meet-up ′ 10X Extension in Luxembourg ′ held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:  Andy Choi,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-massachusetts-lawmakers-pass-state-wide-police-ban-on-facial-recognition.md",
       "title": "Massachusetts lawmakers pass state-wide police ban on facial recognition",
       "excerpt": "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement.",
@@ -608,8 +962,8 @@
       "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
       "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
-      "originalUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
+      "webUrl": "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ",
+      "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -854,345 +1208,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-announces-five-new-capabilities-for-amazon-connect-helping-customer-service-representatives-offer-more-personalized-efficient-and-effective.md",
-      "title": "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Experiences for Customers ...",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201201006059/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201201006059/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-the-cambrian-ai-explosion-ramps-up.md",
-      "title": "The Cambrian AI Explosion Ramps Up",
-      "excerpt": "There's been a lot of news lately on the AI chip front, so I wanted to share a short synopsis of what has been happening for anyone who may be distracted by the holidays. I will flesh these stories out further before my annual Cambrian AI Explosion blog in January here on Forbes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/12/01/the-cambrian-ai-explosion-ramps-up/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/01/the-cambrian-ai-explosion-ramps-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6c58acb4eb492d180f4ef%2F0x0.png",
-          "width": 902,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/12/01/the-cambrian-ai-explosion-ramps-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/01/the-cambrian-ai-explosion-ramps-up/amp/",
-      "publishedDateTime": "2020-12-01T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility.md",
-      "title": "Waymo self-driving cars set out for Ohio snow at new testing facility",
-      "excerpt": "Alphabet's Waymo division is ready to take on the Buckeye State as it announced on Tuesday a new facility in East Liberty, Ohio, to house its self-driving car prototypes. There, Waymo plans to put its Waymo Driver system to work on driving a car entirely by itself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/Sy2VeNw5UQrGG1C43PGSDFmjVNk=/2020/12/01/90826b96-460e-4aab-b8bc-35016493224a/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "publishedDateTime": "2020-12-01T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images.md",
-      "title": "Nvidia introduces AI for generating video conference talking heads from 2D images",
-      "excerpt": "Nvidia researchers created AI for recreating and manipulating talking heads in video conferences from a singe 2D image.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nividia-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "publishedDateTime": "2020-12-01T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-scale-ai-hits-35b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza.md",
-      "title": "Scale AI hits $3.5B valuation as its turns the AI boom into a venture bonanza",
-      "excerpt": "Scale AI, the four-year-old data labeling startup, has discovered that selling the picks and shovels needed to develop and apply artificial intelligence is big business. The company, which created a visual data labeling platform that uses software and people to label image,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
-      "publishedDateTime": "2020-12-01T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-7-tremendous-changes-artificial-intelligence-brings-to-the-education-sector.md",
-      "title": "7 Tremendous Changes Artificial Intelligence Brings to the Education Sector",
-      "excerpt": "Have you considered the role of AI in education as more academic institutes discover its virtues in the coming years?",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
-      "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/AI-in-education.jpg",
-          "width": 1000,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
-      "publishedDateTime": "2020-12-01T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
-      "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
-      "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/aws-logo-reinvent-2017.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
-      "publishedDateTime": "2020-12-01T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

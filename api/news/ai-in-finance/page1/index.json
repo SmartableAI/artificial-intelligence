@@ -99,7 +99,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -368,24 +368,33 @@
     {
       "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
       "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
-      "excerpt": "The online meet-up '10X Extension in Luxembourg' organized by the Seoul Fintech Lab on November 26 was ended in great success.",
+      "excerpt": "The online meet-up ′ 10X Extension in Luxembourg ′ held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:  Andy Choi,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success",
-      "originalUrl": "https://www.businesswire.com/news/home/20201202005390/en/Seoul-Fintech-Lab-Online-Meet-up-in-Luxembourg-Ended-in-Success",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-luxembourg-8afdce6dafdd4e50bde62e324b88706a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T07:29:00-08:00",
+      "publishedDateTime": "2020-12-02T00:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

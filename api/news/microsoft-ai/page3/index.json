@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-13-cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025.md",
+      "title": "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025",
+      "excerpt": "Cognitive Services are a set of machine learning algorithms ... Google, Inbenta, Ipsoft, Microsoft, Nokia, Nuance Communications, Qualcomm Technologies, SAS, Softweb Solutions, TCS and Verbio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18351935",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18351935",
+      "publishedDateTime": "2020-11-12T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency.md",
       "title": "Cognitive Engine Technology Can Help Public Safety Agencies Boost Transparency",
       "excerpt": "This capability leads to better and faster decision-making. A key enabling technology for this kind of analysis is a cognitive engine, which are AI applications that can process unstructured data from multiple sources so users — public safety agencies in ...",

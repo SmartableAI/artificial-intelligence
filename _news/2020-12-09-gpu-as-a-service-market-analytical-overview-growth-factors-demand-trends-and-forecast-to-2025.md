@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-
 webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2025-2020-12-09?tesla=y"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 278
         height: 333
         isCached: true
+  - title: "Surgical Robots Market Report, Size, Future Growth, Demand, Trends and Top Players Analysis Forecast to 2025"
+    excerpt: "According to the latest research report by IMARC Group, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025”, the global surgical robots market is currently witnessing strong growth."
+    publishedDateTime: 2020-12-09T14:15:00Z
+    webUrl: "https://www.medgadget.com/2020/12/surgical-robots-market-report-size-future-growth-demand-trends-and-top-players-analysis-forecast-to-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "10jXlAFHqCYaCCzYM/s4ftx1GLtb7pOd2BCmQzLQxAmjxo0/9jjWE4odFLDtZGIzp161Ai/ft4eACnr03PbvE3dYKtxBpUkeIkAN2rUAN4WLRZbVxN3qPdeZAc2WV9PMIZKj3BOD4+sfPuPDZ7sGW/t47H5pbqeJhRKesmkGq7l/lCxoPsEitmDpQX9rN0QcupIUEoonx0s9KWeqZZsVhtTewQJJZzRN6u3vk845MHEDXWwtuvSnp0hM32v0IAVYSirrytfN3mUjmhN4yt+owjIgsyKRSMTpNWcfe3wWRzAb55o/yKbdSkOJdd2feLCgMLDKzNRXJzMDRCjMkGvSNmrjda/B2RHkbsjUUvPsZqU=;tVeaaMd5J/EYDDbf85xDaw=="
 ---

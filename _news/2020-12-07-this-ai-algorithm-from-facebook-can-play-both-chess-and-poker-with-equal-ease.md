@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook AI predicts SLO County will pass 8,000 COVID cases in 3 weeks. Here’s why"
+    excerpt: "Facebook is predicting that San Luis Obispo County will pass 8,000 coronavirus cases in coming weeks. Facebook Artificial Intelligence Research, or FAIR, is a part of Facebook’s Data for Good effort."
+    publishedDateTime: 2020-12-09T12:00:00Z
+    webUrl: "https://www.sanluisobispo.com/news/coronavirus/article247694575.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/coronavirus/article247694575.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/coronavirus/article247694575.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 53
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404784001/bbd7cc30-f59c-4155-a093-1496ea43962e/82702fe2-e576-4c5b-828b-d9586c139d30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook, other partners using artificial intelligence to forecast future COVID-19 trends"
     excerpt: "Along with publicly available data, Facebook and partners like Carnegie Mellon are trying to forecast COVID-19 cases two weeks out so local governments respond."
     publishedDateTime: 2020-12-08T01:39:00Z

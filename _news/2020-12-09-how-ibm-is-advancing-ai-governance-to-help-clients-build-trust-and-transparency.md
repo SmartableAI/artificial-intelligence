@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "Ping An Uses Artificial Intelligence to Detect Greenwashing and Assess Impact of Climate Risk Disclosure Transparency on Financial Performance"
-    excerpt: "PRNewswire/ -- Natural Language Processing (NLP) technology, used to analyze language from company disclosures, can help to detect potential \"greenwashing\""
-    publishedDateTime: 2020-12-08T11:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ping-an-uses-artificial-intelligence-to-detect-greenwashing-and-assess-impact-of-climate-risk-disclosure-transparency-on-financial-performance-301188241.html"
+    excerpt: "PRNewswire/ -- Natural Language Processing (NLP) technology, used to analyze language from company disclosures, can help to detect potential “greenwashing” by high emission companies, according to the latest report from the Ping An Digital Economic Research Center (PADERC),"
+    publishedDateTime: 2020-12-08T12:11:00Z
+    webUrl: "https://apnews.com/article/science-business-technology-financial-services-shanghai-9a7da48b12c1e4721550cd51ec9da0ab"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 3
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "/1G20kt7VSQw9y1r3nYtdLrdAk4c/LKnEfz1ebieKEdP6aRUN5Jvtv69NUxGVgXKHzB5bEAe1TcPq5ZYzq/iMMT9NUjh/GXBFz35rJ/8oF5IIdHTAcwjpTyWMHydsbzKV7qWvEm6/w+1XWToMsJgiFtUl6vqOdvzmDcYzDU9MjhuI3FqGnCMnK9S6/QeEHYDr8yhhUEze35FTZDCsSyFkGfQ0jj5+AjQpqqrHOMU3WrErAYfGqjicoXD+yW1wS9j9hNAZFC1TKHgNd1NuEqwvfldDcJ6SjG/o+h+tJ/7i0jbpCAZxUpaoDEcMJGdVqCHdy7Ptq6e6rx7tASF4hZh+KmGcRJ0z5MioJdq+buFq0I=;dv/7pKtuN9yzoal3CHV27Q=="
