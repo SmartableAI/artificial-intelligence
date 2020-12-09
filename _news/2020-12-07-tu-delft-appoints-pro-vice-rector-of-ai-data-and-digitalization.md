@@ -24,19 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Russia will keep paying attention to healthcare digitalization, says Putin"
-    excerpt: "At the same time, Putin stressed that digitalization in healthcare is not just important to correctly diagnose patients but also to minimize bureaucracy"
-    publishedDateTime: 2020-12-04T14:26:00Z
-    webUrl: "https://tass.com/society/1231503"
-    ampWebUrl: "https://tass.com/society/1231503/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1231503/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 37
-
 secured: "LSihPrNl0rFBAnsBJe/gB942dGz1dn5d3rPd/ISThxTbcpLHoGD1Pw0aveLg9/TagecxhAPzfpFI+tiuY204Ln2rcqpI6aRoHZGfddkU5K5s8y9NCwZkbEjYET5OG2VYmMfoQgTgZHg0ZvYkCYmhtvf9hHZ5sVcLazAHNAG9MVYRNjXjqqMgNKRPKdiA9JFsQxY+pD2Lz7hI0R4rKXyOUq/ODRHLlIiFWaFMvW9xfdXp3CmS9h0Kxg/ZQ2LZd3t9ooEKMF6nerrafPA2rmIh3rO3PPzlLwR2x0Fubxv2cNhGuLsJzCQ+VY0WmEjuvW/PzTIRUlEG0HEtu+83TzGeOQakHNFd9dCyLKN7TfFdhcc=;s+AVCGC9tXXHHVEeN51DEQ=="
 ---
 

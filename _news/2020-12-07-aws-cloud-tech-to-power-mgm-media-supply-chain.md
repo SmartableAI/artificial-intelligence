@@ -54,6 +54,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
+    excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
+    publishedDateTime: 2020-12-07T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS announces partnership with MGM to reinvent its media supply chain"
     excerpt: "MGM has one of the world’s largest libraries of digital and physical film content. The company focuses on the production, acquisition, licensing and global distribution of its film and television content across all media platforms."
     publishedDateTime: 2020-12-07T17:45:00Z
@@ -79,15 +93,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 48
-  - title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2020-12-07T15:56:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "8PHDasXudxld6db/Qtwi/OITj/0RPC7XegKYe7mcfPynSZI93ZlhUzkS2S8n2p8pBqHKoEyDgQK50E3nozetYe7x+xkuGPyl6uBtHuGEjsBQe8vuma29bQ48R6mo2Z0K762QhqQBqW3AXiysiPwFlLuagPS5GsUza1WemENDiEKb1WyjATxh0E+0D8P7m8s90ghynvInzzKL3JczaC63npO7vOO8LCjX+thF3OvW/v9hWQZCU1cA4KMV2GTxy1p5Hp7OpDEh92zudsTT9K/Kf3WGCYa9yaESAGIHC/nCYfN5tal4In7NPnqBndpruSeF2YNy5Jne/WMAQpow8rPaMXtzmwcmlF5P30JmUoZ/yWN+sHpUeQgq7pxEzOjImkOw4gIerEwOdSjPvCIgC2v7BII3IKRDdz1IMo2V50R4ty95zdG+q2En0UR8F0c9KvvfEJju2avicFs5sTy2Q9QPmTro3GhnUc8oALIdH9kyw5z9nLn4b0cCUuNR6R0u3GAZqU3Cm016KF2PotmOr6bl/A==;0b02Jid6FsQRhwHVtBSutw=="
 ---

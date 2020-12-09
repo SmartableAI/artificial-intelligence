@@ -184,15 +184,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Google researcher says she was fired over paper highlighting bias in AI"
-    excerpt: "Timnit Gebru, who was a co-leader of Google’s Ethical AI team, had expressed exasperation over Google’s response to efforts to increase minority hiring and draw attention to bias in artificial intelligence."
-    publishedDateTime: 2020-12-04T14:54:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/12/04/google-researcher-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "/J1ud5viK+e6uiogWcNs9Vsxh0L+DtHwpHVxvICCGU0O1714jtxWJfQWU7oyJYQqv0nMKwi8+wP/0QcTwTw5B+T2O9nFzfhUSM6lGs0qIZzhn54J+Uqepr0TZTK184rQABcCqN8GvcUNjCd+RQmmu+cgZ68yM33W9tPsXXjzTUkJuVp3RKQ2w1X8n8pXPCswsHO24HbI4zBrUZPniikWZI4mEejmmx3s6NrgHPNtaOSI+VJSjh0oFBT+AxXZU2bvIibHgSBVTYO9mpN3VUO/liIDwNYt/cc+i8OYZV8ueOxAIXCRTkc7o9LcVN9BGabJJsyGwxyMk4jOmHKYm+t+SoAdkvUhnfkDXQTjLojPRI6EylkBveyWZ8HcgRz9xaY2GF/xkKaGxx7HuLSDquMNGlQu5T2rHyxrAKhKGRLg4DSoNIRkOzNqEsgpvbsZ89jXgtLtKG5N4NCIH2WIIkrXWUHh8llSyaBTAZQgd+cIGd/6uuVHIXU+Kn6Zh8BvR6AyLpaI8mjwOb+zSJbqLYCYbA==;ys1AZ4B8jw39es60itImwg=="
 ---

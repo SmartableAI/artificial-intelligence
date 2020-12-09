@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Solving SA's medical fraud problem through AI and machine learning"
+    excerpt: "Medical malpractice litigation costs South Africa millions of Rands every year and drives up the cost of healthcare. However, electronic record-keeping and AI can help fix this"
+    publishedDateTime: 2020-12-09T06:46:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/211289.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 56
+    images:
+      - url: "https://biz-file.com/c/2012/589427.jpg"
+        width: 625
+        height: 325
+        isCached: true
 
 secured: "k+UZiyR7cGs7ekzSYJanbCiXneFALqkpVlBQgWcEGd/IKlH180mgM/teVBOnXOrcx9rJCz4oMwHq3NvQK48+RM35b8wbrm6gUrrrFdj/df7OYrYqOrRBzCFWkO5QJa4lM33rJF+RxVsHq4Vc2+d99ke7NY0+vJHDWxMmXaTPxTatzpUtoHcbH5xrPENF2N2uSvJbytLP3pPYf7xFdXxDoXFBAciFpRct96ep+MOT+xyiGCGG8SkWsZEiO8NKOB74Wpp/TS0beWOso1CKo8xmMOoiqhLi6qRaz7HeB7qFTzmY397pXUBpAJ2q2GKD7rG2UVLy0DnNTyVBFRsBUnM984/6/yGoa4ilicyx7dlH/Cl5KjTxcJ7+SMv42+XAOQb5JcxT5ohg7bDACWzyFffdPTaRySvZNc2bddzq7LfLAldKCLiGl6jy4t/OE44oMf9PuuQ/qk0HUIg9XpGK92DzMufl0R7efmQlE+ovpyCUEcLABOlf72ksvk9dxksn0zVWF3YQJMnyrZ71cmxwN9yaUA==;qjt0qpPsiPfIi+V5lkgdlQ=="
 ---

@@ -41,10 +41,24 @@ related:
         width: 1077
         height: 658
         isCached: true
+  - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
+    excerpt: "Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital, the B+ round raised almost US$15 million, bringing the total amount raised across all rounds to approximately US$40 million."
+    publishedDateTime: 2020-12-09T00:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=389513"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 65
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-665964#!"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-664249"
     type: article
     provider:
       name: Techinasia

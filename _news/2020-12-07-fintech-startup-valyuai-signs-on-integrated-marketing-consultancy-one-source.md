@@ -7,8 +7,8 @@ originalUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-i
 webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: AFAQS
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the Fintech companies leading the innovation wave"
+    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
+    publishedDateTime: 2020-12-09T05:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
     excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
     publishedDateTime: 2020-12-06T21:57:00Z

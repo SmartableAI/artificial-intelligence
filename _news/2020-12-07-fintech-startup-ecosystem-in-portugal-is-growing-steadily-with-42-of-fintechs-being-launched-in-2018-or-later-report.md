@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 935
         isCached: true
+  - title: "Meet the Fintech companies leading the innovation wave"
+    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
+    publishedDateTime: 2020-12-09T05:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "i7mAtBpEo8iQjmEMGMjPAzP76xuFwKGEyD1AWqPbNQiTCF17esDyKz/bqgwRSK68cWQh4dqASMdXo1NqFKL9Mpga0XpQ7kQtnQigr77yfffRbCmmTWzodHOL3gob8w7Kvtjw/nZtM4o0A/RvsHmCrdqO+tmvMUYwIfmsZV2f4WUFyTYb9XSM/RHEfxiMn48wKTs3ICxqdxkpGsHq490PcJn2w/K4KJN83KbCZs42D7prWzrfAzXhk7jTwBLoQCmSic8IEr2pzA2Qpkygm5MHRrB66Z2qMuh05WCRP7siEOjVNKMFLOsM6ABrwVmTZvg2/cKlYK2C3VtYn8+kwk9oqFWmgV9jviEMn7aEMZaOwes=;ZLtSe3CQuTZZyXQ6ov/3tw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html"
 type: article
 quality: 101
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -187,15 +187,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Google researcher says she was fired over paper highlighting bias in AI"
-    excerpt: "Timnit Gebru, who was a co-leader of Google’s Ethical AI team, had expressed exasperation over Google’s response to efforts to increase minority hiring and draw attention to bias in artificial intelligence."
-    publishedDateTime: 2020-12-04T14:54:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/12/04/google-researcher-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "A6qSDse8B5BYwvTk3vAziifQ6GZ8OYSppBjd9vnxLbydspktkCZfgQtoRqBYBEDK8AhboZkkOKFrUeDvfEZkfQpX5zYWGCqSLVrCv9oXN9ZLh+Rh69MYIwYh+uyN00Biu48UclA7KVhbgz9D22ifEaurfELfD0ndDroz7QjFmTY+lJM+szTnG2oygZmGrrrZvjEFBjXEN9e3/EJTZ3UJbarZJ+Lw4w0dlEpDBSUAcon8rbUD2ctdsAu1hfTyvkICw0YLC+O0Y/5EEC8cQcPlp64ZWktysRQ9i73WxOPo3MCfnyMvx+v9pNLll1qjOeQaos3A1fNufqw4H8p5NIg65qN3xFgIxIYANCRw5DwCpjWVTUjZqFRgtuIFr5tF5ZGYxEI4yMbX2SZLig91SCvUtg3whsS+hNNZnAd/lOyiP1TPvDKbCHLeaVTFwfga9c0BA0aGd4N18zSpbhpwtnUVvkz/NB/kulSAOqugQW2eElhmilNPlTXTHivJtANJO7LmLKGtuucmSMGjCu3PqiTICg==;uoBh6fAFsUtVcki0RVWubw=="
 ---

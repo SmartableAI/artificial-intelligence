@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-12-07T15:56:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain"
-webUrl: "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain"
+excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
+publishedDateTime: 2020-12-07T14:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS Cloud Tech to Power MGM Media Supply Chain"
@@ -88,6 +94,6 @@ related:
       domain: computerweekly.com
     quality: 48
 
-secured: "JeygxJy4GTvwxeRFr2ipEHGPlv9D6sDhzPHEXTu7XxDiO73rF0k7xHZemrNgBjBUZkxkyEEUBJoiPEW2qDvaGD/8yFBmBJroGaHojgATNslV+L6wzJchMBDW2X7Qsy+e6ZeK3BRHh7HuiYfI+98Xiy2PbAYw7AqJT0xsEPTWfIbC6UcoGPOGhJyVIxWzVFnnowHXioD3w4d4vwqE3dOmENgq1UALhJKtszR+/l7oZbS05KznKgRyqr8ZtYdOs1VUP0bu3S25YogI+a2uQLa7GpXCGAJiV9RUS4tZsPf5xMEad+dYbYXnx4eColseDxmicql62chivayxJN2aRHehY8eerOdQmVe/dK50NjuGza8=;qNdMZA1br9PGJX++3cJJow=="
+secured: "9Cpj/4QP5OV+GrusEeOXSOAipqezlMlJfWXih+e6njVp7WRwNnGaxuQbk2R9FI1pOzJLdy5ZAilkNbMwCYmuZRXf1SAm7jwgmZQwlIqO34WWMlIhjDOXEgEFTgQqopBKQ94ohV9npBRmyDYp9I6BgUzNONRVC11GFHPwCiqOz2C4TohhGjOZL8h6KlaFzQxLAzHjUVy53fddPZ35AE54LbMfts1645brmPVlOu9DS3E1c4I9/yBVyPAsI0z+SSRqMmq62SLOhA8Vxtmb2+GZyqAwoHUpbefULK0iHOmfFmnxOdXuNp88tdFxCqRedXoPZ+NgIMu94+ChZHn93HKLbzTPC48GKRPiba3db+jnR9A=;DjQbkmAcwNms68xaLUsd5w=="
 ---
 

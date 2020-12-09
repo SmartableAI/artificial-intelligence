@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-pwc-5-tactics-that-increase-your-chance-of-winning-with-ai.md",
+      "title": "PwC: 5 tactics that increase your chance of winning with AI",
+      "excerpt": "A new report finds that the uncertainty of the pandemic forced executives to rely on artificial intelligence to map out multiple scenarios to find a way forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/pwc-5-tactics-that-increase-your-chance-of-winning-with-ai/",
+      "publishedDateTime": "2020-12-08T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo.md",
       "title": "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo",
       "excerpt": "Various machine learning (ML) optimizations are possible at every stage of the flow during or after training. Model compiling is one optimization that creates a more efficient implementation of a trained model. In 2018, we launched Amazon SageMaker Neo to compile machine learning models for many frameworks",
@@ -275,7 +326,7 @@
       "originalUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -308,51 +359,6 @@
         "AI in Robotics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
-      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
-      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     },
     {
@@ -458,59 +464,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
-      "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
-      "excerpt": "As machine learning moves into the mainstream, business units across organizations will find applications for automation, and AWS is trying to make the development of those bespoke applications ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1085999578.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
-      "publishedDateTime": "2020-12-08T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -668,6 +621,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models.md",
+      "title": "AWS announces SageMaker Clarify to help reduce bias in machine learning models",
+      "excerpt": "As companies rely increasingly on machine learning models to run their businesses, it’s imperative to include anti-bias measures to ensure these models are not making false or misleading assumptions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Screenshot-2020-12-08-083749.png?w=1024",
+          "width": 1024,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/",
+      "publishedDateTime": "2020-12-08T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1180,58 +1186,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-08-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
-      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
-      "excerpt": "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg",
-          "width": 400,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-simon-says-ai-tool-turns-text-transcript-into-video-editing-platform.md",
       "title": "Simon Says AI Tool Turns Text Transcript Into Video-Editing Platform",
       "excerpt": "Video creators can now use a browser-based text editing program called Simon Says Assemble to assemble rough cuts of video pieces. Simon Says is building on its AI-based transcription tools to enable the text-based video assemblies.",
@@ -1264,6 +1218,48 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response.md",
+      "title": "Christopher Nolan Trashes HBO Max, Gets Trashed By Twitter In Response",
+      "excerpt": "HBO Max, have finally come together - to make fun of While many filmmakers are (understandably) unhappy with the fact that their films are going to hit theatres and HBO Max simultaneously, Nolan had an amusingly dismissive take,",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/itamblyn/status/1335692328854556674?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1335692328854556674|twgr^|twcon^s1_&ref_url=https%3A%2F%2Fventurebeat.com%2F2020%2F12%2F07%2Fresearchers-are-starting-to-refuse-to-review-google-ai-papers%2F",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2020/12/08/christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

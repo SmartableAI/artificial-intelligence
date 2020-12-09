@@ -1,17 +1,17 @@
 ---
 category: news
 title: "A neural network learns when it should not be trusted"
-excerpt: "Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety, such as in autonomous driving or medical diagnosis."
-publishedDateTime: 2020-11-21T06:55:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201119144511.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201119144511.htm"
+excerpt: "Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety, such as in autonomous driving or medical diagnosis. These networks are good at recognizing patterns in large ..."
+publishedDateTime: 2020-11-20T18:14:00Z
+originalUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
+webUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
+  name: news
+  domain: mit.edu
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "BnXEzH3+CsenwWWDMMJGZPHOdD8bS6qwBA710ufaNMxRnWDcDTCkvfpk8l9EioZFlg5Rk6k3fSFcQiSi9+GjDvMj6fEanGLupR2hD6LvfPksINpBCgYlfR/jiKRqj6ljExffDjMYkZkl6tCaNWJ5z9ZLy7utM3ElsO5ekIdZznJUYuKn7sqw0GYH0sEHNx+rvruOauUCWzvS1J+EjJxpysGAbXySI6JO8FpUbAXU0nbVGZrKPEyg9bjsJYz9JdlFm8HL20LXLIe/o38DZfcbhq7YjfGpn8js0SVAeRiRiuX4UFOzdh8m6tbiM+ghCNVEF6k0uWl1LvvuFNXhakklTPxBv8n//a+j5RM/l6KRTGo=;GG7Xl/PREwoO1+KcC/gSjA=="
+images:
+  - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg"
+    width: 1500
+    height: 1000
+    isCached: true
+
+secured: "8aKBAhHu3Va7gmWI53MlwLNYeLWoYsbQpj8RcghnBiuCumoql6XNF2xbYbBbkqjIC8Mmfv9RwgHD8aAgctBF01GpWdcrrpcTf/XH27vwOFhON0VoLvNTsj6+krUvBJ06FQQHzyU9/HyqysOJNqE2EiQ/u88KhLfESR0TKE0pDX+8RvDZF9AHjhqHVdbPjHKExVoPHRSITCxDJY1Tnirxs4czwhJ/9nSxcC7jjWoclP8HlNpE86Y56NEppS3rSjRsmo0/heGNQnfHCPYc1GTMVo2btNViZYU2wiCFHrRJjnr1zMB3DMmok69kimzBjfq+fZD8B2EakHExOC+ArMcDD0HU0t4f8Y20fqFhBXKegvc=;mfd07Hb8EBxScC9seVfy9A=="
 ---
 

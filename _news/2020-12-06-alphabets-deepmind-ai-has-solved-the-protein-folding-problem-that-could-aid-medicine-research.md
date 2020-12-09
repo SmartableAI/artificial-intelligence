@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-sol
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://lh3.googleusercontent.com/99D5_HPiGnU-LKhafnXMi6e3PFuFjX_YsOWm7gL8l28AJAo4eTbaa_PqD5ASfKlKcH-6Hhnf8cct_FKvzS8C=w400-h210"
         width: 254
         height: 210
+        isCached: true
+  - title: "Solving SA's medical fraud problem through AI and machine learning"
+    excerpt: "Medical malpractice litigation costs South Africa millions of Rands every year and drives up the cost of healthcare. However, electronic record-keeping and AI can help fix this"
+    publishedDateTime: 2020-12-09T06:46:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/211289.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 56
+    images:
+      - url: "https://biz-file.com/c/2012/589427.jpg"
+        width: 625
+        height: 325
         isCached: true
 
 secured: "5JWBiLgcaAsNl5hG7xLnDiiUBha2JihOSYd1NFVAs/0XaawcMJ0/zPCrrUDfpqyaIWj1xU4lVAokjZAzI2wx9PVKdtOu5/l2DAVmC1JmrceVaSLP2CQrG704fEHozTu/HHlyCJP5mvQwetCVz9mvWdfH+HEEYjxef5bqDI71SlifPBqs+YNLM0d333nGOvRqxNTJ51P3lh1vWLelJ+iTe7KcvKlOPSGdYkEnsvxTlPVKijv4rvEGjBwoOQ1Q5o3s2XJqu1hJndQjIQGY2Fv2JeV+GKcIsKf3LiDf0Q7DBD6j/3LcBiQdbEF11AXymzm1QbnEkMLEfdgL6B46C9vkct7OgB0eP1RELBxGnVbdJD4=;7z/xqHmz1GuF2IOGoS3CQw=="

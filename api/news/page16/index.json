@@ -133,6 +133,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-25-freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale.md",
+      "title": "Freshworks Taps AWS ML-AI to Deliver Predictive Customer Support at Scale",
+      "excerpt": "Incorporating AWS’s machine learning and artificial intelligence services more closely into our systems and processes allows us to intelligently resolve support requests and provide even better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "originalUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2018/10/smart_machine_artificial_intelligence_concept_web.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership.md",
       "title": "South Korea Unveils AI Chip to Maintain Semiconductor Leadership",
       "excerpt": "South Korea is adding a new artificial intelligence chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global tech market and an upgrade of its industrial capabilities.",
@@ -1166,57 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-admed-unlocks-answers-to-health-questions-with-watson-assistant.md",
-      "title": "AdMed unlocks answers to health questions with Watson Assistant",
-      "excerpt": "It can be challenging to communicate accurate scientific information, especially in times where the COVID-19 pandemic is by far the most searched topic on Google, impacting everything from our news to the economy. Having so much information available also leads to the rapid spread of all sorts of misinformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/Watson_Blog_Healthcare_Leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T10:20:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the Fintech companies leading the innovation wave even in the aftermath of a global pandemic"
+    excerpt: "In a year that has been fraught with challenges for many, leading companies including Amazon Pay, PayU, HAPPY, WazirX, CashRich, and TransUnion CIBIL came together to celebrate global"
+    publishedDateTime: 2020-12-09T06:42:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/meet-the-fintech-companies-leading-the-innovation-wave-even-in-the-aftermath-of-a-global-pandemic-120120900373_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/meet-the-fintech-companies-leading-the-innovation-wave-even-in-the-aftermath-of-a-global-pandemic-120120900373_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/meet-the-fintech-companies-leading-the-innovation-wave-even-in-the-aftermath-of-a-global-pandemic-120120900373_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 31
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/09/full/20201209103031.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "There are 529 Fintech focused Startups in Israel and they’ve Secured Over $3 Billion in Investments"
     excerpt: "There are reportedly 529 Fintech focused startups in Israel and they've secured over $3 billion in investments."
     publishedDateTime: 2020-12-07T11:29:00Z

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-02-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
-      "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
-      "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism's cloud-first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/blue-prism-intelligent-automation-now-available-in-aws-marketplace-301183474.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/blue-prism-intelligent-automation-now-available-in-aws-marketplace-301183474.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1346299/Blue_Prism_scaleatspeed_aws.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
       "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
       "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
@@ -641,6 +598,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-25-freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale.md",
+      "title": "Freshworks Taps AWS ML-AI to Deliver Predictive Customer Support at Scale",
+      "excerpt": "Incorporating AWS’s machine learning and artificial intelligence services more closely into our systems and processes allows us to intelligently resolve support requests and provide even better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "originalUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2018/10/smart_machine_artificial_intelligence_concept_web.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020.md",
       "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
       "excerpt": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners.",
@@ -1075,6 +1076,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-aws-launches-ml-dev-service-in-sydney-region.md",
+      "title": "AWS launches ML dev service in Sydney region",
+      "excerpt": "Amazon Web Services (AWS) has launched Amazon SageMaker Studio, an integrated development environment for machine learning (ML), in its Sydney region. The service allows users to build, train and deploy ML models through a web-based visual interface for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
+      "originalUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
       "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
       "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
@@ -1422,58 +1467,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
-      "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
-      "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg",
-          "width": 727,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T15:26:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

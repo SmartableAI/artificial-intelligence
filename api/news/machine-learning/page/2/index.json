@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-12-01-quicklogic-and-sensiml-launch-hacksterio-climate-change-challenge-contest.md",
-      "title": "QuickLogic and SensiML Launch Hackster.io Climate Change Challenge Contest",
-      "excerpt": "QuickLogic Corporation, a developer of ultra-low power multi-core voice-enabled SoCs, embedded FPGA IP, and Endpoint AI solutions, today announced that it has joined forces with SensiML™ to spearhead an initiative to aid in the creation of new and innovative technological solutions to the global climate change crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/quicklogic-and-sensiml-launch-hackster.io-climate-change-challenge-contest-2020-12-01",
-      "originalUrl": "https://www.nasdaq.com/press-release/quicklogic-and-sensiml-launch-hackster.io-climate-change-challenge-contest-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-7-machine-learning-stocks-for-a-smarter-future.md",
       "title": "7 Machine Learning Stocks for a Smarter Future",
       "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
@@ -1045,6 +1011,50 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale.md",
+      "title": "Freshworks Taps AWS ML-AI to Deliver Predictive Customer Support at Scale",
+      "excerpt": "Incorporating AWS’s machine learning and artificial intelligence services more closely into our systems and processes allows us to intelligently resolve support requests and provide even better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "originalUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2018/10/smart_machine_artificial_intelligence_concept_web.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]
