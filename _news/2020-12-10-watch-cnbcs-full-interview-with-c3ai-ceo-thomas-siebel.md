@@ -71,6 +71,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Tom Siebel Is Back: An Interview With the CEO and Founder of C3.ai"
+    excerpt: "The legendary software entrepreneur talks about the outlook for artificial intelligence software and growth prospects post-pandemic."
+    publishedDateTime: 2020-12-10T00:56:00Z
+    webUrl: "https://www.barrons.com/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-271074?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "FTKCFDz/slJk1m08PGSTAYLGSqY86CuyN2dlsW8e19ghzSmLAWWV3AWVVsDXQrwFsd3l6zlnfZdxacYQPYY1gp8AaPLHEWopJ1lijN621kIEGEMVqEKXIj7HZs72kGv8PoEE6ARU2lINO0XImaNG4Ihsa5da7Ketv0veDaqN9s+8rIoZV+IrvJUdo0jqYe4dKsU+rDGouIxzfiXutpMvjwgEBGG3R0SLK+S7U8A163UGGhfvgkoMx6tlWxf6C0CujpuWMOi6Nc6wCwlOi/H2vJkMliomsqEB+30rSf9Hb3+VPBc3f9CUdrxK67QCwnnL+42XsFf4mHb/WtDHYMPBIF1Or6eK6+Q9LC3Z+tU1vG8=;Q9QiDAbNfRGW51FEm7tAaw=="
 ---

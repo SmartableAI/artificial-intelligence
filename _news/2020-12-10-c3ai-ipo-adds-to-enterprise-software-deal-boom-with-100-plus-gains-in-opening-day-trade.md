@@ -72,6 +72,22 @@ related:
         width: 1840
         height: 1232
         isCached: true
+  - title: "Tom Siebel Is Back: An Interview With the CEO and Founder of C3.ai"
+    excerpt: "The legendary software entrepreneur talks about the outlook for artificial intelligence software and growth prospects post-pandemic."
+    publishedDateTime: 2020-12-10T00:56:00Z
+    webUrl: "https://www.barrons.com/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-271074?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "PXuLJ4E2+c3FqSWLv5a539faWCXsz22k3tNyUrPlMyxQFcznVSzLHNYmpg6kXpLeD0oGepj12p/+jWR9TdPXnxSSOfOqCPqZJki5pJj6uEimSQxzsD6gvqTFP4dAVdxRPGz+J8o7sqXOJzM8UJCHADONEMcwLH3a/XWLODu5CXKmaQqLrXJEEOX1aOTMXaW+vYA/9YVYC/Zc68a1BxiS0o+j+HaWakvPehP9bOW+8I5mrGoMX9g36LocxTkUfLZeW3ch1tWpxkrIfk/4PGwghLoIOjy2vcBq/jWvHFHoeHn2thXs+paiJP3OGhWBlT+lO8LvzHALOTBvJc/C0bHd7Z7Gr6Q2co1qR8d32ePsMWQ=;rnqiDxPQPciXRY4Z7IKs3Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106808683-1607532026099-2020-12-08T183156Z_1175983302_RC26JK9J1U2V_RTRMADP_3_HEALTH-CORONAVIRUS-VACCINES-CDC.JPG?v=1607532093"
         width: 1840
         height: 1232
+        isCached: true
+  - title: "Tom Siebel Is Back: An Interview With the CEO and Founder of C3.ai"
+    excerpt: "The legendary software entrepreneur talks about the outlook for artificial intelligence software and growth prospects post-pandemic."
+    publishedDateTime: 2020-12-10T00:56:00Z
+    webUrl: "https://www.barrons.com/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-271074?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "PBlSM/yGHIXAWzj+yLD0yyLsDLLsjGkQvNxZh6BcVf1TdEmD1Vt+pwHA/2Ahaa9qnlnBvXwSyvDv3X5jVA/U3XAMLUcEyIE4Ztl8ksa1IYcexKAtftAXtCrbQsLzdqLikIDoDtps1ZZeHaA7hSb8vh56IpemuPg/Yn9O9+K5FGvgLMOIQYRLlu9HvgKbBi3H7KXShA7dzEX9EgL6S8n27AXIlRoTg8hS1HV+QTOJPwR/iLMqsh994o68cC3BZ15gCsUDMg8JeuJ57XBM0n+3rLWcO0y3E+uqkRhrYEjWMFHb4o2jukcFL1RaIzXodJnHmz4eAkM4MkJzLJx7xCBcArQPtFMAGu8PAtH4Aers5yLNBgpABR+KFtwPnto1OLLrWECMW81M5CgCgH9n9ohBUAIhwphWoVPkBL5XEDEb6o9hUhzoFpH9IqKFlzVHLzarttptIJUlAuUq7InHXOZawgnBZhHJpWXF32D9sUFSSSWaMV/qrr0suyzzFvpLkaYlBI3n1Y2DbUQvacYsv44sQA==;uAAAoWXI9kNpnbzLRenxhQ=="

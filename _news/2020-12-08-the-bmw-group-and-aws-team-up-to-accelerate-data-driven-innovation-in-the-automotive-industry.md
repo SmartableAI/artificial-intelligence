@@ -1,25 +1,31 @@
 ---
 category: news
 title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
-excerpt: "AWS and the BMW Group will jointly develop innovative cloud-enabled solutions and upskill up to 5,000 BMW Group-affiliated software engineers in cloud technologies"
-publishedDateTime: 2020-12-08T08:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18688693/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18688693/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18688693"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18688693"
+excerpt: "AWS and the BMW Group will jointly develop innovative cloud-enabled solutions and upskill up to 5,000 BMW Group-affiliated software engineers in cloud technologies SEATTLE--(BUSINESS WIRE)--Today, Ama"
+publishedDateTime: 2020-12-08T10:41:00Z
+originalUrl: "https://digitalproducer.com/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry/"
+webUrl: "https://digitalproducer.com/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry/"
+ampWebUrl: "https://digitalproducer.com/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry/amp/"
+cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/the-bmw-group-and-aws-team-up-to-accelerate-data-driven-innovation-in-the-automotive-industry/amp/"
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: digitalproducer.com
+  domain: digitalproducer.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "r2+RyyiRX/mrKnLCnuZYmzh5ewIikdvQjrUvGAG+ngSFV6UCy7SSV/nYqH4P04TthmL0SCo0542eG0BxdLYXdijkRzOg++9dbmPGEVOJnMUUXqpYoSU3lygDYoOTtG5ZOSjvOLmJHGs/0x+4PyzKoyng8WbJwgy+f3BYCGk3Zxzun8l5AX+Y/u+NU0JXYNyTsC9/DDaDdA4dxYY5F/pwOJiSElNOE2SyCML162S3Rf5a7a35xYQmkHomqGvheyMu4kA0v9FHyE4E8beNUkr8dZEL1KMLsPXpgwPlk0H6pvRsZx5dLEWKzsR2uylZFWoV76kKcKfzh+dL+FvkJ/U+/3pBhE2Xg+sX/EwnPTr3dMI=;dhpI4nYjR+KOYLYXV9q/sg=="
+images:
+  - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+secured: "wH0y9t4c3SrFRGQlyMrsZGwONG2eYV1xbhd257yMGTtSZa8EmPlDH5cUOB47DWeos2fB2cGVhy12zvowjWKqBKruFFJHP/SIZGZUDLzQUk/AIjpCcpWwOwfQBEVRha7+/IZljUjilmE+XlWNss5NIaHnSKG8HPWlHmhXRo/AS7AC9qqPlSGzHKVehqWH5OBGHzH9notFJ5HnbnNLbtSBKzyVtn/9Kqh4SUVCVBqPQvK4SUlnmJCtJPmJyNRqhPT1K56Uyol4xcpFKz8PmO+PSiX8sCX+xx890mvWm49E/uZ4zORzsKiEVwqY2p5oUxW83MBkNrfLNtQIYDL62qadpmQioohh/ue9ybvwgodCz4I=;COf3auJDodG+C4YNSjwjPA=="
 ---
 

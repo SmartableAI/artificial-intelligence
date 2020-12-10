@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predict
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Artificial Intelligence Inventions in 2020"
-    excerpt: "The inventions in artificial intelligence, robotics, Internet of things, virtual and augmented reality, and big data are thriving the pace of invention in 2020. Despite the COVID 19 outbreak, they provide a promising outlook in the coming decade."
-    publishedDateTime: 2020-12-05T08:45:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-inventions-in-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Global Artificial Intelligence-based Cybersecurity Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
     excerpt: "Global Artificial Intelligence-based Cybersecurity Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players,"
     publishedDateTime: 2020-12-07T10:40:00Z

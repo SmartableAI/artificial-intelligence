@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 974
         isCached: true
-  - title: "Top 10 Artificial Intelligence Inventions in 2020"
-    excerpt: "The inventions in artificial intelligence, robotics, Internet of things, virtual and augmented reality, and big data are thriving the pace of invention in 2020. Despite the COVID 19 outbreak, they provide a promising outlook in the coming decade."
-    publishedDateTime: 2020-12-05T08:45:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-inventions-in-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Better Security, Privacy and Performance: Fortress.AI Launches New Device to Revolutionize Home and Small Business Cybersecurity"
     excerpt: "SANTA MONICA, CA / ACCESSWIRE / December 8, 2020 / Fortress.AI is ready to revolutionize cybersecurity for homes and small businesses worldwide with a small, easy-to-use device that plugs in between a modem and a router."
     publishedDateTime: 2020-12-09T11:31:00Z

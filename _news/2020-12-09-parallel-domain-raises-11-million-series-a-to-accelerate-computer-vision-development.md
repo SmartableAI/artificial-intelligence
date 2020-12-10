@@ -76,6 +76,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
+  - title: "Review: DataRobot aces automated machine learning"
+    excerpt: "Read Martin Heller take a look at how DataRobot’s end-to-end AutoML suite fares amongst automated machine learning platforms on Information Weekly: Data science is nothing if not tedious, in ordinary practice. The initial tedium consists of finding data ..."
+    publishedDateTime: 2020-12-08T21:16:00Z
+    webUrl: "https://ctovision.com/review-datarobot-aces-automated-machine-learning/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 39
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
 
 secured: "juMkP1yxLG6zTondAHd9vFWDDzpx7WMED1teYOOhtu1h0li+kHCv9Ng9/QrS7WvBcAPCO8K5lANFx4N2YNJjDRLLKbBrzElYcv8hIA5/9VZfbn3R5+WEvmxbBMPnV4UbBt+Nrh/dNMHcKn8NdsISvMZTvCzhKvxhScuY/dWRmtPzILIqQTGV4s2O/JDS4Ful2Q8Qho7i2ycZXSCdjKpgFaj49yQBNA3XUJ/+xxy76ToZGbymVPxNjymZB1idR/bjaH0ytpNc6dFBAXJHaTxbeL3+CDVIQ3LketyZuqpB54mbHw0rbItc8G3ROXc+yLTuMivnRVPqavqHtXUgONIp6qb8H0CMJmJ/0wYfpenIwjo=;GdS6Ydfckmr7DG3f44vycQ=="
 ---

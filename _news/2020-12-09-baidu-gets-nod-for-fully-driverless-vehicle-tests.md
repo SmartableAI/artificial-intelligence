@@ -52,6 +52,20 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Cruise says it’s started driverless testing—I’m skeptical"
+    excerpt: "Cruise has been testing its self-driving cars for more than 2 million miles. But like other companies with advanced self-driving technologies, Cruise has to decide when and how to make the leap from testing prototypes to releasing a commercial product."
+    publishedDateTime: 2020-12-09T23:29:00Z
+    webUrl: "https://arstechnica.com/cars/2020/12/cruise-says-its-started-driverless-testing-im-skeptical/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Cruise-car-in-San-Francisco-streets-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
     excerpt: "General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic taxi service that would compete agains"
     publishedDateTime: 2020-12-09T18:16:00Z
@@ -115,6 +129,6 @@ related:
         height: 600
         isCached: true
 
-secured: "TLZj4aaax3OzBaNxDHOip0efD4NVpFGmfkiAZwP6FvUSQzOg8moKQsW5/OMe33RcwuPJC3YyCVzbOZklhGwojvqJ5Yj2zZw3wP0zajqucPxsw+tBAE2+n9IoT8e8BZpd1TXmbx8rLfUorG62HHXlxyU03JkUB3dbD82cmUzq6D8msdkZQ4wcGIIodvWfob0h/umSBbYiJyHgahIi8/tPurbQhBzBwsrZF/JNYtoeb8+4bMSO5rf78Y800MOiyYbFlXOmH6BiyRmkCbcBl2q1OsydrgRzZuBsCqEmOrHSbuBL7jr0OScFR8z5hQTp9gYdOnWcpbprthXDtXNXwbvoe6itVDDzWL96o0kYYU8Jm8s=;2vIG4PXVqr+oqrwDd7CbWA=="
+secured: "HwZSYl1OgxImY7T62N+9+A5rgBvrU5ea+g6nVdyavhChslNzmwtUqlySY71pSN/k+x/f1W3/99hs0Ha6SkGsqeg6oNXurTBNBPIT2zM2DhlWgpe56i4Dxdb8Zt28cV6K/Z0gLQr2HjjNj+sSG3WaDYbTlkFC+yuN2TPAmCC0Kaa5f8EXE8T7ayF7ZSfENkIkT9uez3MEknpQHXdcE+uaviM2erClOBP6ZdGTQAWsPs8kWmgibcL3Gl7OmqTP9ZG4WDUi3jCPLxNkpoJK+rmkGe1RuDtkilzbNhhH83TyNYrFTn8QsYxdzB9EqtkC4oMEZ3KLTT1uyixOjuwwwG+dvB1kkwzeALRklu2OaZFExWZWT89rQljy8yZE307d5d81oLg10OYtmTqp6OrLKA0dbJqBRR9fDeg9F823sm3t5wiEhBRjwle+c7oeOGM1P77l0Ih21L/RNKMN6aaNDz8c2nhS0+g4/6HmlO2V8Hnh7/5kfMs6BcG1n1G0jlnz+xbO6c9ZykMxWNSiW+ECUKZOug==;8WPTwndzddNAI3sM8BdRBg=="
 ---
 

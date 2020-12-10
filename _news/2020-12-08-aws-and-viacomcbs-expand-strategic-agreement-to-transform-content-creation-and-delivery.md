@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AWS Announces Amazon HealthLake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible"
-    publishedDateTime: 2020-12-09T12:40:00Z
-    webUrl: "https://apnews.com/article/business-technology-amazoncom-inc-products-and-services-financial-services-52fe1d61fe98458eac324f735d215d56"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS Announces Plans to Open Second Region in Australia"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
     publishedDateTime: 2020-12-08T17:23:00Z

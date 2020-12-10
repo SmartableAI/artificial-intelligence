@@ -128,6 +128,20 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 31
+  - title: "Huawei Accused Of Testing Racist Facial Recognition Software To Help China Track Muslims"
+    excerpt: "In another black mark against Huawei’s name, the Chinese-owned tech titan is now being accused of testing a facial recognition tool which could spot oppressed Uighur Muslims and alert authorities of their presence."
+    publishedDateTime: 2020-12-09T23:16:00Z
+    webUrl: "https://www.channelnews.com.au/huawei-accused-of-testing-racist-facial-recognition-software-to-help-china-track-muslims/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 30
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/huawei-logo-1-784x487-1.jpg"
+        width: 784
+        height: 487
+        isCached: true
   - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report - CNET"
     excerpt: "The Chinese government has frequently used surveillance technology to oppress the minority population."
     publishedDateTime: 2020-12-08T19:39:00Z
