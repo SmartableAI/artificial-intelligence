@@ -43,22 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Tesla reduces Full Self-Driving Package price for EAP owners"
-    excerpt: "Driving Package by $1,000 for owners of the Enhanced Autopilot package. The Full Self-Driving Package, also known as FSD, is Tesla’s bundle of advanced driver-assist features that also includes the promise of eventually enabling complete autonomous driving in the near future with upcoming software updates."
-    publishedDateTime: 2020-12-05T16:30:00Z
-    webUrl: "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/"
-    ampWebUrl: "https://electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/05/tesla-reduces-full-self-driving-package-price-eap-owners/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
     excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
     publishedDateTime: 2020-12-09T11:23:00Z

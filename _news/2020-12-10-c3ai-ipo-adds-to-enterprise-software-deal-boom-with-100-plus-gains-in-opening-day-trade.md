@@ -3,8 +3,8 @@ category: news
 title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
 publishedDateTime: 2020-12-09T18:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 type: article
@@ -85,6 +85,6 @@ related:
         height: 413
         isCached: true
 
-secured: "Q+BGkitpy6u3BXg9r5xGb2XEkEeZfjohcLQpTGuoQe16gHkO7EeCj6aKYZFX8ZLCp91lYHCEv1m6JtLSDWlsIeOWRA/eIntaqWvSusobQa/mw5cumFw87n352D2iUjT7uLAAs8lOcSwHKm77rdo/p/DHgiJduVN8JhmCJ23olD80bDfrXlpqQWzarKeRZXc1WJU5sxr4XeKMcxlYBUiYic9CeD9JabXEktswRnLi81UVAJKmG8fWYwqodExM+Im/Dj56eVZQ63YkVYMkrCZRG/YbhTC1qVROPrEzXg6eHNlczAQv5mugyuAGruKxYDa8SPqeAYmv31DVX5Ubs4H+fmtqKrUIXL8WVkNss+adMCY=;m672B3/ItnSVNT1OJz+Uew=="
+secured: "PB9q0k2jBpmqhbM9k9AOasSnvqq7sH1quL8yiTyb8sJMQvyKdhV0x64u1NoecYzRytvgFWaKGjjjsil5OkKKAbfROOAQWKdk0iAq4IJ5lwvrrcP7AIA3SLQcsFSCTU4FXjyZycoEhv4ittPT9bo9hyvQ8yboIdkvqXtCQjtHDht/E0fWEnRiogjVGLjTNxmntn8+R0OiTbai/+kOUxhMVZ6O427PyGI8f+U1DHLhCf7KyY0q3tKzzVh4EErhlpLbTS5jlc1hhQQ8WlYxFDMOH0isiy4D7YnWhQl6UBEu5q+6YwGUu1m/RP48N+rgFe9VYx3qjWOpUtRtixmT9vIDnnZIJ+5LTfgN1m6B/L5z/mw=;ONVpxvPcLI/OYqULZAGhhA=="
 ---
 

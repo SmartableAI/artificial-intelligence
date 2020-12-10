@@ -2,6 +2,367 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-11-11-honda-says-will-be-first-to-mass-produce-level-3-autonomous-cars.md",
+      "title": "Honda says will be first to mass produce level 3 autonomous cars",
+      "excerpt": "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-honda-autonomous-level3/honda-says-will-be-first-to-mass-produce-level-3-autonomous-cars-idUSKBN27R0LV",
+      "originalUrl": "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY",
+          "width": 801,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27R0M7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7",
+      "publishedDateTime": "2020-11-11T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-google-wants-you-to-help-train-its-ai-by-labeling-images-in-google-photos.md",
+      "title": "Google wants you to help train its AI by labeling images in Google Photos",
+      "excerpt": "By identifying these objects you’re training AI to do the same. The feature appears in the most recent version of Google Photos. Just tap on the search button in the app’s menu, scroll down, and you’ll see an option to “Help improve Google Photos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update",
+      "originalUrl": "https://www.theverge.com/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/s1iRQ9AAWa3Xr3nsDWfw5zcullY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67770216/google-photos-app-7407.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update",
+      "publishedDateTime": "2020-11-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-impacts-of-covid-19-on-the-global-artificial-intelligence-and-cognitive-computing-market-report-research-industry-2020.md",
+      "title": "Impacts of COVID-19 on the Global Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020",
+      "excerpt": "MarketDesk :The Impacts of COVID-19 on the Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020 has been included in market.biz library. This Global Artificial Intelligence and Cognitive Computing market report has been created in conjunction with primary business specialists,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779",
+      "originalUrl": "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-aws-announces-plans-to-launch-a-second-region-in-india.md",
+      "title": "AWS Announces Plans To Launch A Second Region In India",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company, announced the expansion of its services to include a second infrastructure region in In",
+      "sourceUrl": null,
+      "webUrl": "https://www.hostreview.com/news/201111-aws-announces-plans-to-launch-a-second-region-in-india",
+      "originalUrl": "https://www.hostreview.com/news/201111-aws-announces-plans-to-launch-a-second-region-in-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Host Review",
+        "domain": "hostreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-self-driving-delivery-car-hits-uk-roads-as-government-funds-multiple-ai-vehicle-projects.md",
+      "title": "Self-driving delivery car hits UK roads as government funds multiple AI vehicle projects",
+      "excerpt": "Meanwhile, the government has also backed another self-driving car initiative to get cars traversing a nine-mile route between Oxford’s main railway station and Oxford Parkway station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1358726/Tech-news-self-driving-car-UK-government-artificial-intelligence-autonomous-ont",
+      "originalUrl": "https://www.express.co.uk/news/science/1358726/Tech-news-self-driving-car-UK-government-artificial-intelligence-autonomous-ont",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Kar-go-1358726.jpg?r=1605081124767",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1358726/Tech-news-self-driving-car-UK-government-artificial-intelligence-autonomous-ont/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1358726/Tech-news-self-driving-car-UK-government-artificial-intelligence-autonomous-ont/amp",
+      "publishedDateTime": "2020-11-11T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
+      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
+      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence.md",
+      "title": "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security and Artificial Intelligence (AI) offerings of both companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-check-out-bandais-mind-controlled-robot-prototype.md",
+      "title": "Check out Bandai’s mind-controlled robot prototype",
+      "excerpt": "Researchers at NeU, a joint venture between Tohoku University and Hitachi, have developed a prototype toy robot controlled directly by the mind, in collaboration with toy giant Bandai. This robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "originalUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "publishedDateTime": "2020-11-10T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
       "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
       "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
@@ -804,397 +1165,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-british-newscaster-speaking-style-now-available-in-amazon-polly.md",
-      "title": "British Newscaster speaking style now available in Amazon Polly",
-      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T13:02:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-smart-user-friendly-security-products-for-your-whole-home.md",
-      "title": "Smart, user-friendly security products for your whole home",
-      "excerpt": "Wire-free security cameras from Arlo deliver simple, intuitive protection with hassle-free installation and advanced features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
-      "originalUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/UpIi-TLPbJIddDdIJbH6ISGxoSE=/1200x630/2020/10/30/f460341c-8f82-446e-8ec7-7734f54fa322/cnet-arlo-s61-customarticle-native-drivers-1333x750-r1-pro4spotlight.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally.md",
-      "title": "Speech and Voice Recognition Market Is Expected To Generate US$ 43 billion revenue By 2030, Globally",
-      "excerpt": "The Global Speech a nd Voice Recognition Market Share, Trends, Analysis and Forecasts, 2020-2030 provides insights on key developments, business strategies, research & development activities ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-1029788891",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-1029788891",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Speech-and-Voice-Recognition-Market-Is-Expected-To-Generate-US-43-billion-revenue-By-2030-Globally-1029788891",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Speech-and-Voice-Recognition-Market-Is-Expected-To-Generate-US-43-billion-revenue-By-2030-Globally-1029788891",
-      "publishedDateTime": "2020-11-10T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
-      "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
-      "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
-      "publishedDateTime": "2020-11-10T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-how-ai-and-video-analytics-can-revolutionize-utilities-security.md",
-      "title": "How AI And Video Analytics Can Revolutionize Utilities’ Security",
-      "excerpt": "What keeps CIOs up at night is the thought of how a physical and cyber-attack on any remote location could cripple and perhaps force a Utility to shut down to recover.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaf5fade18ffd893e954be%2F0x0.jpg",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
-      "publishedDateTime": "2020-11-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
-      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "publishedDateTime": "2020-11-10T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-apple-event-live-coverage-apple-silicon-macs-announced-full-transcript-of-event.md",
-      "title": "Apple Event Live Coverage: Apple Silicon Macs Announced! [Full Transcript of Event]",
-      "excerpt": "Apple's virtual \"One More Thing\" event kicks off today at 10:00 a.m. Pacific Time, with Apple expected to debut its first Mac",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=5AwdkGKmZ0I",
-      "originalUrl": "https://www.macrumors.com/2020/11/10/live-coverage-november-2020-apple-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5AwdkGKmZ0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts.md",
-      "title": "NLP vs. NLU vs. NLG: the differences between three natural language processing concepts",
-      "excerpt": "While natural language processing (NLP), natural language understanding (NLU), and natural language generation (NLG) are all related topics, they are distinct ones. At a high level, NLU and NLG are just components of NLP. Given how they intersect, they are commonly confused within conversation, but in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/inline_diagram-1024x515.jpg",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:26:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "Natural Language Processing"
       ]
     }

@@ -2,6 +2,360 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
+      "title": "Brazil trials facial recognition with retired public servants",
+      "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "originalUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "publishedDateTime": "2020-11-30T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-ai-approach-could-solve-the-problem-of-roi-for-content.md",
+      "title": "AI approach could solve the problem of ROI for content",
+      "excerpt": "Every company has to be a media company, too. But figuring out what content marketing to produce - and measuring its impact - is a constant problem. An AI service from InPowered could offer an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "originalUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/28/3abcb41d-e908-4445-b0c3-81f96343775b/uncertainfuture.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "publishedDateTime": "2020-11-30T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-csi-partners-with-featurespace-for-anti-money-laundering-solution-to-combat-financial-crime.md",
+      "title": "CSI Partners with Featurespace for Anti-Money Laundering Solution to Combat Financial Crime",
+      "excerpt": "To empower its customers in the fight against financial crime, Computer Services, Inc. (CSI) (OTCQX: CSVI), a provider of end-to-end fintech and regtech solutions, has partnered with Featurespace™, a leading provider of Enterprise Financial Crime prevention software,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-corporate-news-north-america-b5e23f59d9714e4d92f9d9b8ca23e799",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-corporate-news-north-america-b5e23f59d9714e4d92f9d9b8ca23e799",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "originalUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-how-to-productionalize-your-ai-initiatives-for-success-vb-live.md",
+      "title": "How to productionalize your AI initiatives — for success (VB Live)",
+      "excerpt": "Join this VB Live event for a look at each primary AI operating model and leave with a firm grasp on best practices and next steps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/business-collaboration.GettyImages-654774714.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-to-productionalize-your-ai-initiatives-for-success-vb-live/amp/",
+      "publishedDateTime": "2020-11-30T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-deep-learning-predicts-womans-risk-for-breast-cancer.md",
+      "title": "Deep learning predicts woman's risk for breast cancer",
+      "excerpt": "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg",
+          "width": 1280,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp",
+      "publishedDateTime": "2020-11-30T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-bull-of-the-day-baidu-bidu.md",
+      "title": "Bull of the Day: Baidu (BIDU)",
+      "excerpt": "After peaking above $270 in 2018, Baidu (BIDU) shares have been stuck in bull market purgatory, spending most of the last 18 months under $140. That punishment could be ending soon as the company reinvents itself and recovers from government restrictions on its advertising revenues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
+      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bull-of-the-day%3A-baidu-bidu-2020-11-30?amp",
+      "publishedDateTime": "2020-11-30T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029.md",
+      "title": "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029",
+      "excerpt": "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-computer-aided-creativity-in-robot-design.md",
       "title": "Computer-aided creativity in robot design",
       "excerpt": "RoboGrammar is a new system that automates and optimizes robot design. The system, developed at MIT, creates arthropod-inspired robots for traversing a variety of terrains. It could spawn more inventive robot forms with enhanced functionality.",
@@ -829,402 +1183,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
-      "title": "Tesla could widen release of 'self-driving' software in two weeks",
-      "excerpt": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "originalUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
-          "width": 716,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28806A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A",
-      "publishedDateTime": "2020-11-28T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video.md",
-      "title": "Kamua’s AI-powered editor helps marketers embrace vertical video",
-      "excerpt": "Kamua is an AI-powered video editing platform that helps creators automatically transform landscape videos into a vertical format.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/AutoCrop-ScreenShot.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/amp/",
-      "publishedDateTime": "2020-11-27T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-restoring-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments-through-blockchain-data.md",
-      "title": "Restoring Credibility Of Machine Learning Pipeline Output Challenged In Study Of Real World Deployments Through Blockchain Data",
-      "excerpt": "Challenges to the credibility of Machine Learning pipeline output. How the performance of such ML models are inherently compromised due to current practices. How such problems can be cured by using the quality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
-      "originalUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc1b29874a9b53e956d3b8c%2F0x0.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
-      "publishedDateTime": "2020-11-27T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-t-tops-in-use-of-facial-recognition-technology.md",
-      "title": "T tops in use of facial recognition technology",
-      "excerpt": "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79454171/79454171.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
-      "publishedDateTime": "2020-11-27T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation.md",
-      "title": "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. In this post, we demonstrate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T13:41:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products.md",
-      "title": "Dyson plans £3 billion investment in robotics and AI to create new products",
-      "excerpt": "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/",
-      "publishedDateTime": "2020-11-27T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
-      "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
-      "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017",
-      "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-96392/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-turing-test-at-70-still-relevant-for-ai-artificial-intelligence.md",
-      "title": "Turing Test At 70: Still Relevant For AI (Artificial Intelligence)?",
-      "excerpt": "Yet Turing was already thinking about the implications of this category. In his paper, he described a framework to determine if a machine had intelligence. This essentially involved a thought experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc13a7e83db52b0eb53bf56%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D518%26cropY2%3D2487",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-27T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -225,7 +225,7 @@ related:
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
     publishedDateTime: 2020-12-09T23:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai?via=indexdotco"
+    webUrl: "https://www.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
     type: article
@@ -334,6 +334,6 @@ related:
         height: 641
         isCached: true
 
-secured: "eCoZBWy+ipY0nZoUhurPa4Qfcq/hxIbpDl+cH4gaxMvjHTpoMIo8MFEH6CATaxqHJFADwI8TpdgWttf5QDPzW4Jci9URM51ThGOh9qShBZ9cTTVlcsFv4m3V57SUi1iJi/wwWP85pIxPO1X5uqnIZDCJwNWt+FP8tD0ocAf5QQtAwy8iHW9LcKRTrSEYlXVi6huQlKeHywqEr8pB2YHZq2pTeyslZOIyf/yACwpYWnKw0cakiwCjNqLYyXAEPTJlvIQLFwL4L9834q+Mar5tZdzSvqkvH/MLLZZ/lzVmNM/Bjw6KxZLiZRBM/TbTil4khQaFU/DxCsYctX/OXpEUpd2d0yKRtb1pB/pxzEuhQUs=;ICIPndEYKx4vxiQcfiezWQ=="
+secured: "KzJlPergn58yLYDX9p27ArB/20RSu3ny9aI0+fut5P635DrjLUzwQ1dgN31DO95hSEI7nYrXFgoT6LeIyCw59/KE/mr4ixDJ3ITWz/dVLfM1BKQooUj2mLbbn+ctcQC4R1A9Hx/+RJjBkFkcEzjbN0kfDyHsDj9fMDnI7WNe8DMa8jECEG2L9LvgIVhQmkf9JCmdV8i+lZ3i2SKqaSnaMvGiL9zS6VCdRWOqYaBKRU5RYLWjd71BN3cYL35njo1IhN6TR4+04rdinYmcIc04E+CrxPtg/RNYE8mA2vlkLwSBPNoA2JCYWcZOZ9NRk7fDKIkcNco7Lu+ozozDm/hIDQ0NCFBrHYkSnDr96CWTcYjtjH5nzHjMgBlgm8IVpaoZJWvo5MriXsUvR2EGmruy7L2fCLuJhQ6FNFavSITvWjg8lB5pMilOmEPLUNbr1BkgAMoOViMKkRKmmJO76jLqVOvGO2RE5WJc8WrLVQA5h09uDnYT1H3NP0lWzx0HE3pwzLR3rq9xxSgN5jPu43FyoQ==;gqV1fjfcseRjHJR1Mrq6VQ=="
 ---
 

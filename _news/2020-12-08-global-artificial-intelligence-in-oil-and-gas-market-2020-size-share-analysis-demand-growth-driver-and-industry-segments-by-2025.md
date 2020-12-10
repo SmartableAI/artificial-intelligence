@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence-based Cybersecurity Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
+    excerpt: "Global Artificial Intelligence-based Cybersecurity Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players,"
+    publishedDateTime: 2020-12-07T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Qff4u/pb3nWbQAJGCWxL8hiIMBXgA6vUbp/n8jGEFfdbOAxqnK1YDDnb4kNXYwG6u9LRBx/W2LKSb8yKnmiLaIsWzstiB5jt2XoBkNvLqJIwmq/OtTsleNinhsPCV/pp0wyFI2IE4LQN1/rdHReoeds7Qu29zRi5sAk49+pvJxmkV0ST3wfLBSh8qrVOoW8lYOvl5oQfJJ5XgQbMRYaBrpzUaCX2Y1EHBMCw+b9ZL0IT/FX6LrvG7GZm/e7muOBnOqxLgfJK94pLZWJBQgtDeuk8EthLj+q+FRxUrDUqgVdqUe5wJQD54/2jHuX2HEQ6tHcwiv6h4iHYZX5QYppp/4gG/azXrBal+cLnFKO6SAY=;Mwli6LacasnYvRSE+/8Rhw=="
 ---

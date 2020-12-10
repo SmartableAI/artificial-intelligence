@@ -38,6 +38,22 @@ related:
         width: 990
         height: 498
         isCached: true
+  - title: "IBM Launches New Innovative Capabilities for Watson"
+    excerpt: "IBM announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses. Developed by IBM Research, the new capab"
+    publishedDateTime: 2020-12-10T06:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html"
+    ampWebUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 59
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
+        width: 300
+        height: 240
+        isCached: true
   - title: "IBM Launches New Innovative Capabilities for Watson; Leading Global"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by"
     publishedDateTime: 2020-12-09T17:16:00Z

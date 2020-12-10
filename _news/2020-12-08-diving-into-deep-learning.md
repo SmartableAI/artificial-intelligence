@@ -9,7 +9,7 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/div
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "How Machine Learning Is Enhancing Fraud Detection"
+    excerpt: "Machine learning has been instrumental in solving some of the important business problems such as detecting email spam, focused product recommendation, accurate medical diagnosis etc. The adoption of machine learning (ML) has been accelerated with increasing processing power,"
+    publishedDateTime: 2020-12-10T07:13:00Z
+    webUrl: "https://customerthink.com/how-machine-learning-is-enhancing-fraud-detection/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 41
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/technology-2818664_1280-pixabay-technology-computer.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "zyaTTS8xlYb+jqAIufsO+LyC7sshh/Md6bcx65PDuGto6njDoZzfuQFSd+AuGm/oTR988aWjQIbG6YP3p2MV9FB/crCUSY3MZf9fcN76jNq4otppewzbNElBcYrMMI8zS5/qOK1mskTb+2JEFtxJV2YIh97ciZFxs1l4Jhzd4QEcj5bKNWYqMeMFAelu3YdR163cMDphlL8bHCfqpMf7uvxThoBjGOUT1zXjHcrTkA239a/yXpgKGED9jaXuqbSXkk83IMV3yOr42u8MUJw8Tm0YC9Y/8OKghNFKXnL2udN1nYKZRlqp4BXcs9edpWohTbp5NCdaTlQCttgtPfpLGYpL1drsQOoPiuPC3+vtFGK53UZfes9CqaMN0XQ8CM7aYiR4J2rbJlbphNTVDTpAg+3UeAkxeuILHgtI0HDaEvW1It4MWUsaYnY3FwYG64rkD5LIDcfyHaPYDI7NAItBfjHB6DzKi9Gz7xkCuU4QtPnqg3BqCG2wWMaotj9eexErqSDeeAO2zxFG03c/RK3WFA==;Tm6bUXujtCxe87XvfDQmWw=="
 ---

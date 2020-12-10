@@ -1,42 +1,70 @@
 ---
 category: news
 title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
-publishedDateTime: 2020-12-09T12:46:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
+excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
+publishedDateTime: 2020-12-09T14:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
 type: article
-quality: 23
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
-    width: 1262
-    height: 660
-    isCached: true
-
 related:
-  - title: "CaptionLabs Expands Foreign Language Closed Captioning Capabilities"
-    excerpt: "For over 15 years, CaptionLabs has been ranked as one of the top closed captioning companies in the world by customers and"
-    publishedDateTime: 2020-12-07T00:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18666980/captionlabs-expands-foreign-language-closed-captioning-capabilities"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18666980"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18666980"
+  - title: "Moraine Valley Grad's Written Work Receives National Recognition"
+    excerpt: "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College."
+    publishedDateTime: 2020-12-10T08:25:00Z
+    webUrl: "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition"
+    ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 59
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984"
+        width: 701
+        height: 526
+        isCached: true
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
+    publishedDateTime: 2020-12-09T20:36:00Z
+    webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 24
+    images:
+      - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
+        width: 730
+        height: 945
+        isCached: true
+  - title: "Englewood Health Receives National Recognition as Pandemic Hero of the Year by The Leapfrog Group"
+    excerpt: "Englewood Health has been awarded the Leapfrog Pandemic Hero of the Year Award by The Leapfrog Group, an independent"
+    publishedDateTime: 2020-12-08T21:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18699539/englewood-health-receives-national-recognition-as-pandemic-hero-of-the-year-by-the-leapfrog-group"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18699539"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18699539"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 24
+    quality: 11
 
-secured: "pCcfRLnPCZgLVcmBsZTGSYWuCPD5TCywp7Ycm0IJf4/YYibCgo9UYc+J29NyCa1QPzwbWnbxrkMTaHe2jKnFzgbaXewEn0PtimjflySMvgAVr2f9n+bd2T1HRkJ3LmrzdSeNZMDgqfxWFbZf3AVx1EQDU4sRvnAKo4ABrJlP/pPuac8lFH74vCJuVI++iaGSDNLaNHpFxF+05OcOIoNm04+A1/Yb9QAuFiopvdUH8u+FyM6XJf89/6fySlOX3dX/51GB395cXcurgaHrapVtLwsQD5B348dQ9e/vPcNjz4GsSnCigaL9LkXNNlmKE7Qoqc2mJrKMFxUa1WExjs/nl8AwmM7tp+y38iTYo65fNkc=;Ug6uO/akfGw31ze5tdXZHw=="
+secured: "HOo/x1UErnL5/3kQZvECsomTEZ27C3KyJpU6oE1WcJnu9+E9gIBk/wdvhDAQ5njzuB4v/YNV+6XNhNaFfRVoupDJC9rF3jd7545n2n56udRXudgZJ8QmRzQAfJT0I8ictjVfofv1Q+TkIyN7sMUhcYxEIc13p7d1V/n1lI0njeA9kAcN7lHn3m9EdoNs/3iUqhRVxJ3RFHrf3okkDLQz4KKWiNbz1/WHLl++/rUcbX4HnrcRqN7KqosNNHlRHYUrAwZxS08Wom41TnPfdOHkygmAKBUi08Qk2DjERYAbR0ym3JsxAcXen9TVyq+xox51MwbPwdwB90dgopbs6ROVPK6f+kDLh9+L46zPBr3oWug=;xFWpQHF/qZeLWl+0gLyq3A=="
 ---
 

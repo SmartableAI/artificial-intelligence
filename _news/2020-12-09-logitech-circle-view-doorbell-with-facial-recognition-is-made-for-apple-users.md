@@ -32,19 +32,14 @@ images:
 
 related:
   - title: "Co-op is using facial recognition tech to scan and track shoppers"
-    excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance tech in the private sector"
-    publishedDateTime: 2020-12-10T06:19:00Z
-    webUrl: "https://www.wired.co.uk/article/coop-facial-recognition"
+    excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
+    publishedDateTime: 2020-12-10T06:00:00Z
+    webUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/PBR6lDegxqE/crop/1440/0.5235602094240838/f/wired-facialrecognition-coop.jpg"
-        width: 1440
-        height: 753
-        isCached: true
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 19
 
 secured: "kljquLEksKFkWpJAIBHGkiiCaFx/kdqfRRoYzDRH1KU2DOh/62kSsw4Lcuvzy6Yg0Rh7BIQiV7BHL1DfKyWksERNee4BsTxltZIexR2xZf2MStWD9n5Z23PbCFHlxO2UJIyWlLlw3bQeJahlNHtW0gt8Owy3snU2lAlYUU1E8/96WIQCsFaolnXEheSz29dWYsxJlth6gHP8EtTm29h21HkLC4uDSuNdcpqsOWd2k10/LP5jYdVS2PYCVdFjP8zVn6fOU3aeVEsrwIofnS7EHRW3klS4P84/OrVajCxS9FdQ8oxyCzAfFLBqH3hF2waQ33NK0HXVaWrVegu/B3k71gh4WJeqIa9/t9WQXAPndMAoBTLPJJaCF03mpl57epQKwGZZfbSAJD8bwtIf9zFRlEKJUobeJDN0fOGsjCmiJiGsOvc0FLjNi0bvFrDiCND445XskPXzyDSuePwYzG3CfX/92FVHSlmLrHj5LcCRW19lcawtiKwaHNZHrPIiVmMtnYaJna3NY6sbjbPpfctTVg==;HoUOfAkoNZwzmME7CzhjyQ=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Co-op is using facial recognition tech to scan and track shoppers"
-excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance tech in the private sector"
-publishedDateTime: 2020-12-10T06:19:00Z
-originalUrl: "https://www.wired.co.uk/article/coop-facial-recognition"
-webUrl: "https://www.wired.co.uk/article/coop-facial-recognition"
+excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
+publishedDateTime: 2020-12-10T06:00:00Z
+originalUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
+webUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: newsoneplace.com
+  domain: newsoneplace.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://wi-images.condecdn.net/image/PBR6lDegxqE/crop/1440/0.5235602094240838/f/wired-facialrecognition-coop.jpg"
-    width: 1440
-    height: 753
-    isCached: true
 
 related:
   - title: "Logitech Circle View Doorbell with facial recognition is made for Apple users"
@@ -42,6 +36,6 @@ related:
         height: 937
         isCached: true
 
-secured: "lJ6GDv5Nq1yqAuICLL9570uVJ9OB/qDy04qlTATlUi8fTWwctVN09IxItY4GzJWManQaSEiHRJykin8phG643NvQpLkNhBHQO/bpeavwcnOKtow0P8C+9zjhwQH/JYZIaIZdB3v5+RP/JXue+b1pfC5vidpBS6x5P2gLrufGHjmve9qlKqKgs8v+3IwbwKnDGMNFZpAjTl//wvpnHkng9/SgElnX7EWPJyNOob0qeu7L3LJGS3cSE8k+kewy2ZLSq4BTudb0owuzDsQCCPSvIhyWWXd6ePSowHeXj677nmjG/kTNz3CFFroz5l38bznV0QJICIMCUzThMfA8FCB4Knq1tYRPTNgbBkEhRMBUyjI=;HlVMUdxswb6TW4Rie4w+/A=="
+secured: "e26S7RPIKvd3ruWTNiwsMpRytG0mHndgCM6/3jMQcXk1YZTOhOYPFUzLmvO+YGPfbURTaYRfapHIi1XQ+O6FGvX/fzPakQ1kz409YJKqQ5CadtBZgs9vZYrTiAknVSux4IMR2j1lLH03VkUa+ZFX5DVjePOAqZv+nIMJTvD1fsqX1g7dH7HOEWJIQxuaiZvgwSgUMu531nDGZjEkuMurjPuv3GUOyxgN2O8yokTc4CAsHkQl7aVCJkuIU0EHIN75j+Qp5JTu/XpvFyv+MtrbuCii9CWU72kKyy3WBqsuxcCEnFD0ujVefCbdgVvr1HizcUPP5BrY7BKF+nMTWkItFVru6PZdbZIj2ncwFHTLZQ8=;jxKzRoj605sMeDYIpj5F3w=="
 ---
 

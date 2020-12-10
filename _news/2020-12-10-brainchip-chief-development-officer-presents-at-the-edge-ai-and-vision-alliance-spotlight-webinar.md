@@ -1,18 +1,20 @@
 ---
 category: news
 title: "BrainChip Chief Development Officer Presents at the Edge AI and Vision Alliance Spotlight Webinar"
-excerpt: "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced that the company’s Chief Development Officer Anil Mankar will present about using neuromorphic processing to take AI to the Edge in a free 30-minute webinar organized by the Edge AI and Vision Alliance December 17 at 9 a."
-publishedDateTime: 2020-12-09T22:54:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201209006008/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar"
-webUrl: "https://www.morningstar.com/news/business-wire/20201209006008/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar"
+excerpt: "Efficient Edge AI Applications through Neuromorphic Processing BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance"
+publishedDateTime: 2020-12-09T23:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18723847/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/b18723847/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18723847"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18723847"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -36,6 +38,6 @@ related:
         height: 675
         isCached: true
 
-secured: "rLpwSkyj3cslYlErTAXeNerq6vvuvEGSp2mPilg2WWjFnvHT7bq1gv7LexOO9Fv8fYCdDsSXe55JBYxcWpb6jBqlrZ1l1TB8mZ1Mj1bzA1VC6auQn5+NyJHle1MqYcTw8wMXoNqQK4hLcePaIiOmO5/Xywi0fqwhGfFyKdlGT+qee5krRtDAD+zy1VWkV01FxDsbZSjiUYQydw0W5dusSwgnoNYJ3Lrp/YSxHE8tMw9TdvVTGTHteEcwfQzGxU+Sj4saB7q3ccovjcVEmiYkORf0oLXn0gMRA8NmZc13P/NH/6IYML0adtDByxSFRuRnwhZS4hc6eQVhwwGmoGH6/oyTJr6uNlyxPsZbZNiJhQo=;MjbBHOvPuD14NbtIoC/Wdg=="
+secured: "MIPexdDkF92cAxb2N3RObccpm9zxy//Fe8XviC2CG16mEJ6GVhFGEqNP6XGlSLx7R48lM3qmNuJCJUY/qKRkvLMeT3ZNgX/H8GgwP9tXnTL8UE0U9fgQLFmMisQ8bZgG63mEtucx2WAS6OrM8u3LKZAisBdPsVNBdt70h++/gHTgYijEkP0pLTIl+T0Zg0OP6VPt4iPo44ivutnF4dk9ip2IW4LvrgtMvmzKcgPCJxPQzu3PedMVLnubjBRk48fw02zIwO9mXmJopuW6jdfk8sEj/GBHViTjqUW9XZMyL2JTqF/mrDRABU4358G2+WRWZX6SmQJIJXWry9kZPFgaEi2T0ZYFk4O+Jpb3EjxIhpg=;J0ydM4oijfo/lIdLh8AJHg=="
 ---
 

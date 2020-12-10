@@ -59,6 +59,15 @@ related:
       name: HPCwire
       domain: hpcwire.com
     quality: 3
+  - title: "SambaNova Systems Ushers in New Era of Computing with Availability of SambaNova DataScale Built for AI"
+    excerpt: "SambaNova Systems, the company building the industry’s most advanced systems platform to develop and deploy next-generation artificial intelligence (AI) and data-intensive applications from the data center to the cloud and the edge,"
+    publishedDateTime: 2020-12-10T08:43:00Z
+    webUrl: "https://www.financialbuzz.com/sambanova-systems-ushers-in-new-era-of-computing-with-availability-of-sambanova-datascale-built-for-ai/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 1
 
 secured: "9XYjGX8ZXYrvkGXOZqKhUuxb4xF62WjJ1OSBw/BAJ04fAJeRNp+wqRkKMbdSyfIr+tbY6QZQzKa+8qSkw0tCOWcgwceH8m4Jt9JosGh43T/PBIv2d8TnfGfRwitwQThPnS4CMkyMOn+HPAtlgiF3xIljaJ8gi0JGQGyMb3yNENvAzPkL/u3H+0Bej+xyBBf/FO2sXZIlEkwtVt1LTR+cJhtqOUag9ZBfoeXCoWoJQxMMjoG+8EbE8wAGGjN45kk0fOoEWTwM3LyqO7+LRmBG+PxrRCQqUB5yzbW36ugPeiCVuEfMYA8DSY7DV70ZdDhzniZD6tMnK8VgpikGmDUtRshGOokxMTFshA10hfX935g=;pqInBr7dW2HXjYe3eKmz+A=="
 ---

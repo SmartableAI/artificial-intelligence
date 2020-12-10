@@ -37,6 +37,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Ooona announces technology co-operation with Y Translator"
+    excerpt: "New agreement makes Y Translator's AI-assisted speech recognition and translation processing easily accessible to Ooona customers"
+    publishedDateTime: 2020-12-10T08:39:00Z
+    webUrl: "https://www.arabianindustry.com/broadcast/news/2020/dec/10/ooona-announces-technology-co-operation-with-y-translator-6472908/"
+    type: article
+    provider:
+      name: arabianindustry.com
+      domain: arabianindustry.com
+    quality: 4
 
 secured: "k78M0l2qKEJyXLfySDoh5Oc5Kv3RIITz1QV5832jkOd3Vtmh94ZxppAqTI8vd6026fS4Gf3UNI+1f9Zjaf4dZNRtyzkhejtvUTWvCeIFEiJkLRiFvn8VarHuzWfphw3esfHPrbjTWsb3wSVKyGWivCpGRRmNTmP5/pQJ0xDmSnnRJDy29q28yqxVXZz4yHYFNDXYE4A1fkH12KoPpYvVgnILVNbkuWJ2aJe5HN1ViqsqyRvfdpO2rGcthNtlDs7mkFNxs8UWVHuSs86X2lpB7w0hUQTkCnzuH3qbLRdkgB63Z9d1ZN/wzEcjqGzJm5zjg4hZF1hSn9p+4g2a5xOYcMGPYzAqCTFcxPuID5sJp+w=;aH6j6UuWJWISNG76lziRtw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-art
 webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence-based Cybersecurity Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
+    excerpt: "Global Artificial Intelligence-based Cybersecurity Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players,"
+    publishedDateTime: 2020-12-07T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -58,15 +58,6 @@ related:
         width: 278
         height: 333
         isCached: true
-  - title: "Surgical Robots Market Report, Size, Future Growth, Demand, Trends and Top Players Analysis Forecast to 2025"
-    excerpt: "According to the latest research report by IMARC Group, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025”, the global surgical robots market is currently witnessing strong growth."
-    publishedDateTime: 2020-12-09T14:15:00Z
-    webUrl: "https://www.medgadget.com/2020/12/surgical-robots-market-report-size-future-growth-demand-trends-and-top-players-analysis-forecast-to-2025.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "tzqzkybMTSajFrpmC3gTk3DqFGKMxKKal22LkWjYxf1B/xf1AZ/cUChCFSwXYoMNwJRFIPMusXL9J5hAP2B6nXldhlbUsv0ZZgHFQhEDC5EdofX+Tp4QilLrDttoWIy3gY3dwJOOcgtKLIl1CYJ0Qb4l0cFlwchzXPzzq6j7R2TSJafDbY72QtTIIFQgCMilOT7kSJimVs0xlOfqL7Amdbs09PYVEsQe93Uc5VF/eBeXKNVbo/o1apql1Dn5OhpqbzW6jFTqDY7WHZiCMxbLbFMBfowZv8u1ryD/5hsSaRqoMBtZhUYT/2tUOrqoUYzCWBgNTKejuIkvxtMcwetutKnFHXO16uwrIRZ+/xHwrdE=;Ojb4MsznuKAJDXAQ59VkHg=="
 ---

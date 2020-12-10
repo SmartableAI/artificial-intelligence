@@ -2,6 +2,388 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-11-19-deep-learning-global-markets.md",
+      "title": "Deep Learning: Global Markets",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T20:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version.md",
+      "title": "Google TensorFlow ML framework gets an Apple M1-optimized version",
+      "excerpt": "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
+      "originalUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/Apple_Events_-_Special_Event_Stream_-_Apple-33-1.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/",
+      "publishedDateTime": "2020-11-18T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-white-house-issues-guidance-for-federal-agencies-on-ai-applications.md",
+      "title": "White House issues guidance for federal agencies on AI applications",
+      "excerpt": "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
+      "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
+      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept, Transport for NSW ran a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "publishedDateTime": "2020-11-18T18:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-ibm-buys-apm-startup-instana-to-boost-ai-automation.md",
+      "title": "IBM Buys APM Startup Instana To Boost AI Automation",
+      "excerpt": "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
+      "originalUrl": "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg",
+          "width": 399,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates.md",
+      "title": "NVIDIA Studio Driver November 2020 Update Brings Support For Eight New GPU-Accelerated Creative App Updates",
+      "excerpt": "Needless to add, the AI-accelerated RTX Tensor Cores combined with these features should significantly reduce tedious, repetitive work. Keyshot 10 claims rendering speeds are up by 23 percent than the previous version. The platform offers one-click GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
+      "originalUrl": "https://appuals.com/nvidia-studio-driver-november-2020-update-brings-support-for-eight-new-gpu-accelerated-creative-app-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.appuals.com/wp-content/uploads/2019/02/MW-FP470_nvidia_20170629195436_ZH.jpg",
+          "width": 890,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "appuals.com",
+        "domain": "appuals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast.md",
+      "title": "AWS Inferentia Gathers More Steam With Alexa, Snap, Anthem, And Conde Nast",
+      "excerpt": "Amazon also shared that its computer vision platform, Rekognition, has also started leveraging AWS Inferentia. According to the company, this has allowed it to perform object classification with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb70ffff04424766f6fc478%2F0x0.jpg",
+          "width": 626,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/amp/",
+      "publishedDateTime": "2020-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-fintech-exploiting-ai-and-blockchain-technology.md",
+      "title": "Fintech Exploiting AI and Blockchain Technology",
+      "excerpt": "AI Cultivating Superior Traders Some fintech startups are already encouraging the use of AI in the retail sector, and it’s suggested that combining such technology with hands-on experience will produce ‘enhanced traders.’ As financial institutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://cloudtweaks.com/2016/07/fintech-exploiting-ai-blockchain-technology/",
+      "originalUrl": "https://cloudtweaks.com/2016/07/fintech-exploiting-ai-blockchain-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudtweaks.com/wp-content/uploads/2016/01/A.I-Robot-Brain-1-e1452530668694.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud",
+        "domain": "cloudtweaks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
       "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
       "excerpt": "Pharmacists documented cognitive services on Palm-based devices with ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT, version 2.02 (ASHP, Bethesda, MD ...",
@@ -837,383 +1219,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-this-sushi-restaurants-secret-ingredient-is-ai.md",
-      "title": "This sushi restaurant's secret ingredient is AI",
-      "excerpt": "The next time you order sushi from your favorite Japanese restaurant, you might have artificial intelligence to thank in addition to the sushi chef. A popular Japanese conveyor belt sushi chain, Kura Sushi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "originalUrl": "https://www.cnet.com/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pJieP5G0Ks-HlaiuTfNXHWVZ2nI=/2020/11/18/d43123b2-0758-450b-a89d-992a32c13a3b/screen-shot-2020-11-18-at-10-53-13-am.jpg",
-          "width": 1052,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-sushi-restaurants-secret-ingredient-is-ai/",
-      "publishedDateTime": "2020-11-18T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech.md",
-      "title": "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech",
-      "excerpt": "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/israel-emirates-regulato-int/israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech-idUSKBN27Y1QX",
-      "originalUrl": "https://www.reuters.com/article/israel-emirates-regulato-int/israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech-idUSKBN27Y1QX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX",
-      "publishedDateTime": "2020-11-18T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors.md",
-      "title": "How The Trevor Project uses AI to help LGBTQ+ youth and train its counselors",
-      "excerpt": "To better serve its mission of reducing suicide among LGBTQ+ youth, The Trevor Project turned to natural language processing (NLP).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-13-at-1.12.14-PM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/amp/",
-      "publishedDateTime": "2020-11-18T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-free-webinar-on-the-booming-global-ai-based-learning-market.md",
-      "title": "Free Webinar on the Booming Global AI-based Learning Market",
-      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18433212",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212",
-      "publishedDateTime": "2020-11-18T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-human-rights-watch-once-again-calls-for-ban-on-killer-robots.md",
-      "title": "Human Rights Watch Once Again Calls for Ban on “Killer Robots”",
-      "excerpt": "Sir Nick Carter, suggested that these robots and other autonomous platforms could fill roles that reduce the dependency on human soldiers, he didn’t actually suggest that these would be “terminator” style fighting machines.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-“killer-robots”-172813",
-      "originalUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-“killer-robots”-172813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/D574%20%281%29.jpg",
-          "width": 1600,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-%E2%80%9Ckiller-robots%E2%80%9D-172813?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-%E2%80%9Ckiller-robots%E2%80%9D-172813?amp",
-      "publishedDateTime": "2020-11-18T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-meowtalk-alexa-developers-app-to-translate-cats-miaow.md",
-      "title": "MeowTalk: Alexa developer’s app to translate cat’s miaow",
-      "excerpt": "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693",
-      "publishedDateTime": "2020-11-18T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
-      "title": "IBM acquires Instana for its AI-powered app performance monitoring",
-      "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-abacusai-raises-another-22m-and-launches-new-ai-modules.md",
-      "title": "Abacus.AI raises another $22M and launches new AI modules",
-      "excerpt": "AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/",
-      "originalUrl": "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Founder-Collage2.jpg",
-          "width": 2048,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/amp/",
-      "publishedDateTime": "2020-11-18T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-an-eye-for-an-ai-optic-device-mimics-human-retina.md",
+      "title": "An eye for an AI: Optic device mimics human retina",
+      "excerpt": "If our artificial intelligence is able to think like a human brain, why do we feed it data like a normal computer? Scientists are addressing this question by considering the sensory input we human receive and have developed an optical device inspired by the working of the human eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
+      "originalUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2020/12/GettyImages-1170535570-crop-b37093d.jpg?quality=90&resize=960,413",
+          "width": 960,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
+      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
+      "publishedDateTime": "2020-12-10T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC Focus",
+        "domain": "sciencefocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-c3ai-on-ipo-using-nvidia-gpus-and-competitive-strengths.md",
       "title": "C3.ai on IPO, Using Nvidia GPUs and Competitive Strengths",
       "excerpt": "CEO Tom Siebel joined TheStreet to discuss the company's trading debut, its use of Nvidia GPU's and its biggest competitive strengths in comparison to rivals.",
@@ -53,7 +96,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2025-2020-12-09?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1434,50 +1477,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025.md",
-      "title": "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025",
-      "excerpt": "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
-      "originalUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/3/T303620719_g.jpg",
-          "width": 687,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
-      "publishedDateTime": "2020-11-26T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

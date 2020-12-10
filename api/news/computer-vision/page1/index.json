@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
+      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
+      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "publishedDateTime": "2020-12-10T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
       "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
       "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
@@ -1406,59 +1449,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-privacy-in-china-the-growth-of-facial-recognition-technology-in-the-private-sector-raises-concerns-about-security-and-identity.md",
-      "title": "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity",
-      "excerpt": "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/26/7c41750e-2eee-11eb-be20-200ca6256645_image_hires_183447.jpg?itok=rHFj5_nA&v=1606386899",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "publishedDateTime": "2020-11-26T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

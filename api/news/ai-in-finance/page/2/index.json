@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-19-zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals.md",
+      "title": "Zest AI Inks Deal With Freddie Mac To Boost Mortgage Approvals",
+      "excerpt": "Freddie Mac, the company created by the U. S. government in 1970 to fund mortgages and increase home ownership, will start using fintech company Zest AI to help assess the risk of people defaulting on their mortgages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb59f592272b224af5ca66e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/amp/",
+      "publishedDateTime": "2020-11-18T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech.md",
       "title": "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech",
       "excerpt": "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September.",
@@ -1295,50 +1347,7 @@
         "AI",
         "Machine Learning"
       ]
-    },
-    {
-      "path": "_news/2020-11-03-fintech-ai-training-courses-for-zain-bahrain-employees.md",
-      "title": "FinTech, AI training courses for Zain Bahrain employees",
-      "excerpt": "FinTech is a 21st-century business model and a brand-new language, with the evolution of AI showing an upward growth trend, we encourage all our staff to take a leap of faith, learn and embrace this new concept because it here to stay.\" Altajer said the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/FinTech_AI_training_courses_for_Zain_Bahrain_employees-SNG_188946077/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/FinTech_AI_training_courses_for_Zain_Bahrain_employees-SNG_188946077/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }

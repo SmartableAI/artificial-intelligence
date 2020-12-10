@@ -374,7 +374,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -513,6 +513,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
+      "title": "Driving The Next Generation of AI",
+      "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
+      "originalUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1613001600&v=beta&t=Wz2Px5Ibh7-7pHdKOJ9TuY-fGNj1_adkVDYZ23zdZsE",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-autonomous-agents-market-growing-at-a-cagr-54-key-player-oracle-ibm-sap-aws-sas.md",
       "title": "Autonomous Agents Market Growing at a CAGR 54% | Key Player Oracle, IBM, SAP, AWS, SAS",
       "excerpt": "The global Autonomous Agents Market size is expected to grow from USD 345 million in 2019 to USD 2,992 million",
@@ -614,6 +666,50 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-ibm-named-a-leader-in-security-analytics-by-independent-research-firm.md",
+      "title": "IBM Named a Leader in Security Analytics By Independent Research Firm",
+      "excerpt": "Security today announced that it was recognized as a leader in The Forrester Wave™: Security Analytics Platforms, Q4 2020 report. Released today, the report evaluated 11 of the top Security Analytic providers,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-6ee3d6b09a48e449bd41e51add14073e",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-6ee3d6b09a48e449bd41e51add14073e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1327,92 +1423,6 @@
         "name": "Reseller News",
         "domain": "reseller.co.nz",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-free-webinar-on-the-booming-global-ai-based-learning-market.md",
-      "title": "Free Webinar on the Booming Global AI-based Learning Market",
-      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18433212",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212",
-      "publishedDateTime": "2020-11-18T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ibm-acquires-instana-builds-out-application-monitoring-tools.md",
-      "title": "IBM acquires Instana, builds out application monitoring tools",
-      "excerpt": "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
-      "publishedDateTime": "2020-11-18T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

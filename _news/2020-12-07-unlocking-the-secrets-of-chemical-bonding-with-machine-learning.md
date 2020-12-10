@@ -39,6 +39,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "How Machine Learning Is Enhancing Fraud Detection"
+    excerpt: "Machine learning has been instrumental in solving some of the important business problems such as detecting email spam, focused product recommendation, accurate medical diagnosis etc. The adoption of machine learning (ML) has been accelerated with increasing processing power,"
+    publishedDateTime: 2020-12-10T07:13:00Z
+    webUrl: "https://customerthink.com/how-machine-learning-is-enhancing-fraud-detection/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 41
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/technology-2818664_1280-pixabay-technology-computer.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GaCLmmdKm0a/F92Zg99yBPEG6WmA+J80mnsvHNi8YQM5N/55MBEQmDLx5tYA30dRAmvUOqxsVKthpGClutMk0iM0VDKv/S9+ZT+13pBPzbXY2MqiyWr0+BkHb98gn8i6vNLGCMpqebyXy9c4wRwfM+f9pWNrT7ipPFtnxXnQRr8wK7sdB/8phfk9fTJotkx+sXblOY88Gf1rnocWnmz5ekq/fIW/bmNhz/C+ro767iyNiDBmsYrtROj/NKMNh5UK0Uz9M2G9YWyiWBaSQuHGIfwFdbRnqj0lmmLOZmJ2p37o1/qD7byoKcYn3BL7iDsaKSgCT0lmhzZCklqJq0Tsxi1NbgNVRplJvay0TrdDsgs=;QWPWiFzJusgAaUpBH5OVBg=="
 ---

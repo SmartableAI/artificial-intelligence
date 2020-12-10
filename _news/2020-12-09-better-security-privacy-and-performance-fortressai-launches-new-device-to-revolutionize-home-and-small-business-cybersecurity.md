@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/accesswire/technology-business-sm
 webUrl: "https://apnews.com/press-release/accesswire/technology-business-small-business-corporate-news-products-and-services-9bcda06a8fec078814dffeb46169bbcc"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 20 Predictions Of How AI Is Going To Improve Cybersecurity In 2021"
-    excerpt: "In 2021, cybersecurity vendors will accelerate AI and machine learning app development to combine human and machine insights so they can out-innovate attackers intent on escalating an AI-based arms race."
-    publishedDateTime: 2020-12-05T16:56:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/05/top-20-predictions-of-how-ai-is-going-to-improve-cybersecurity-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcb9d7e99411771234c0196%2F0x0.jpg%3FcropX1%3D1189%26cropX2%3D6735%26cropY1%3D0%26cropY2%3D4500"
-        width: 1200
-        height: 974
-        isCached: true
-  - title: "Global Artificial Intelligence-based Cybersecurity Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Global Artificial Intelligence-based Cybersecurity Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players,"
-    publishedDateTime: 2020-12-07T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deloitte Technology Acquisitions List: 17 AI, Cloud and Cybersecurity Buyouts"
     excerpt: "Deloitte acquisitions list involving cloud, AI (artificial intelligence), cybersecurity, workforce digitalization and analytics companies."
     publishedDateTime: 2020-12-05T17:28:00Z

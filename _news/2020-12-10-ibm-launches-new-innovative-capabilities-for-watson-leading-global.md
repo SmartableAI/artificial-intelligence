@@ -39,6 +39,22 @@ related:
         width: 990
         height: 498
         isCached: true
+  - title: "IBM Launches New Innovative Capabilities for Watson"
+    excerpt: "IBM announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses. Developed by IBM Research, the new capab"
+    publishedDateTime: 2020-12-10T06:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html"
+    ampWebUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 59
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
+        width: 300
+        height: 240
+        isCached: true
   - title: "SD Times news digest: NativeScript joins the OpenJS Foundation, IBM Watson updates, and Dynatrace enters cloud security market"
     excerpt: "NativeScript has joined the OpenJS Foundation as an incubating project. According to the foundation, incubating projects are projects in the process of completing its on-boarding checklist. NativeScript is an open-source mobile framework that was developed by Progress."
     publishedDateTime: 2020-12-09T16:46:00Z

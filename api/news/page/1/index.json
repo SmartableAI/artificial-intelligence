@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-an-eye-for-an-ai-optic-device-mimics-human-retina.md",
+      "title": "An eye for an AI: Optic device mimics human retina",
+      "excerpt": "If our artificial intelligence is able to think like a human brain, why do we feed it data like a normal computer? Scientists are addressing this question by considering the sensory input we human receive and have developed an optical device inspired by the working of the human eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
+      "originalUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2020/12/GettyImages-1170535570-crop-b37093d.jpg?quality=90&resize=960,413",
+          "width": 960,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
+      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
+      "publishedDateTime": "2020-12-10T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC Focus",
+        "domain": "sciencefocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
+      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
+      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
+      "publishedDateTime": "2020-12-10T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
+      "title": "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
+      "excerpt": "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-this-ai-powered-growth-tools-helps-in-getting-instagram-followers.md",
+      "title": "This AI-Powered Growth Tools Helps In Getting Instagram Followers",
+      "excerpt": "What is SocialMeep? SocialMeep is an AI-powered Instagram growth and automation tool that gets you real, organic Instagram followers. SocialMeep helps you increase your brand or business reach allowing you to grow your audience and revenue. Along with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361367",
+      "originalUrl": "https://www.entrepreneur.com/article/361367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607585356-MyPost77.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361367",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361367",
+      "publishedDateTime": "2020-12-09T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
       "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
       "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
@@ -103,6 +292,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020.md",
+      "title": "Grimes, Serena Williams, Gwyneth Paltrow Talk AI, Ventures And Pivots At Web Summit 2020",
+      "excerpt": "An all star cast debated the promise and perils of AI at Web Summit 2020 which featured insights from Deepak Chopra, Mark Cuban, Ridley Scott, Palmer Luckey, Elad Gil, Garry Tan, Nicole Quinn, Gwyneth Paltrow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd1af982273372e528d8ebf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
+          "width": 959,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
+      "publishedDateTime": "2020-12-09T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1012,250 +1252,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ionqs-roadmap-quantum-machine-learning-by-2023-broad-quantum-advantage-by-2025.md",
-      "title": "IonQ’s roadmap: Quantum machine learning by 2023, broad quantum advantage by 2025",
-      "excerpt": "IonQ's roadmap for trapped ion quantum computers: rack-mounted modular quantum computers by 2023 and broad quantum advantage by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ionq-roadmap-graphic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
-      "publishedDateTime": "2020-12-09T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ibm-adds-watson-tools-for-reading-comprehension-faq-extraction.md",
-      "title": "IBM adds Watson tools for reading comprehension, FAQ extraction",
-      "excerpt": "IBM said it is adding reading comprehension, the ability to extract information from FAQ documents, support for new languages and intent classification models to Watson. The new f",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/86607c3e-229f-4a89-9471-5d819a17eebe/ibm-reading-comprehension.png",
-          "width": 1353,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/",
-      "publishedDateTime": "2020-12-09T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ibm-announces-new-ai-language-explainability-and-automation-services.md",
-      "title": "IBM announces new AI language, explainability, and automation services",
-      "excerpt": "At its AI Summit, IBM announced a number of new machine learning-powered products and services across its portfolio of cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/amp/",
-      "publishedDateTime": "2020-12-09T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-facebook-ai-predicts-slo-county-will-pass-8000-covid-cases-in-3-weeks-heres-why.md",
-      "title": "Facebook AI predicts SLO County will pass 8,000 COVID cases in 3 weeks. Here’s why",
-      "excerpt": "Facebook is predicting that San Luis Obispo County will pass 8,000 coronavirus cases in coming weeks. Facebook Artificial Intelligence Research, or FAIR, is a part of Facebook’s Data for Good effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sanluisobispo.com/news/coronavirus/article247694575.html",
-      "originalUrl": "https://www.sanluisobispo.com/news/coronavirus/article247694575.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404784001/bbd7cc30-f59c-4155-a093-1496ea43962e/82702fe2-e576-4c5b-828b-d9586c139d30/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sanluisobispo.com/news/coronavirus/article247694575.html",
-      "cdnAmpWebUrl": "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/coronavirus/article247694575.html",
-      "publishedDateTime": "2020-12-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SanLuisObispo",
-        "domain": "sanluisobispo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-ai-bots-revolutionizing-the-finance-and-banking-space.md",
-      "title": "AI Bots Revolutionizing the Finance and Banking Space",
-      "excerpt": "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-the-finance-and-banking-space-nid-214809.html",
-      "originalUrl": "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-the-finance-and-banking-space-nid-214809.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/2l804abO.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
