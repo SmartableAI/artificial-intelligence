@@ -1,33 +1,23 @@
 ---
 category: news
 title: "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference"
-excerpt: "Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U.S. Financial Services Conference on Wednesday, December"
-publishedDateTime: 2020-12-08T02:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference-2020-12-07"
-webUrl: "https://www.marketwatch.com/press-release/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference-2020-12-07"
+excerpt: "Lemonade’s CFO Tim Bixby to present at the Barclays Global Technology, Media and Telecommunications Conference Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U."
+publishedDateTime: 2020-12-07T16:44:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
+webUrl: "https://www.morningstar.com/news/business-wire/20201207005965/lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference"
 type: article
-quality: 44
-heat: 44
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "b9CLlpa7WQv6hiCQMM9IpPzY3VYjxnu1LuRSDpvBMLUuBbr05JwQhkQtPrdNscfsHGyd3AwvhK6cpzsPCEqP6mGWBTxrd36eiaaYz+TgIeasl8ANEDHEq40IpF7uRRBe2tfS3PljmsPFMdD6MDk31Ot6ubauUGz5nFiddQrEj0jtE9RVWFv4dgnomIufmWWyLUYKofjLFIrTDzwqgyIIE8a/WoAzK61es8hEcHVczFT+lsUS000XToOp4eMZNWYxF25I4xwoCHyAyB0wSJybMIwL9f4qh6gf8yxZ8VBlhoDBOcARPACKaegvrWyClC3aiveDbrLevAQ01vQoQM44TjxsvORENMBNdKHfnkHOxj4=;cDEU7SHoNGxU6j6mzNAUwA=="
+secured: "94RMl1RFdwRMIJ5QfWdwlxiFPAaguxcvdRfkBs/h1LvmODptv+d43YdBy9eEjSfBURRNorvopAJpvd8MGLB9Ea5NSc4p7LkceD7ZrDt0ZOhMRVSmEjXFAvqQ1/BxuJCtd5qss2/otydSvw4L+Ao8QBfUTxFSVNgVZ4Xcwr8vrvmk8eN3sU465qS/dTdKRkDFdKxnHqPz2cTekDVdL1AutR+44BymU6AsvcT5yzZq368RXBo2FZ2wTg0R4GvrBEbZorJwEXp3UwpnsfjS2xZlKWoxz5af1OzdPF/WzK3BC7b5Y2LDwf1na9SZljV581CT2+0Eg3iG9JVdI4mZKDObZ38baQUCtmegOagyjIzVnXk=;84cOVMHWepd2mXAntgn5+g=="
 ---
 

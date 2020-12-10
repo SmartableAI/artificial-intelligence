@@ -15,6 +15,7 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - Microsoft AI
 
 secured: "m6Q1i0ywEWSv2e+lmxCmrp6yc3OlKPLT5THbpDV3UpOMy0ZCAmL0yXkpdDJnnreFKIDUZ8S982gCi1WkrU+olKR0miZtk32DnKE1AJ779ZFH+38dQ3+CUP6RQtr4l76g9kv53YN9rEtmhr0uwoecKPcGPk2Kt86pTJwgVeFhfDfyJBq2qKhSYJCMK0szfTS67zktguJ2hg5snLOv4fOhG7nwVDoeGek6mKJnwuwoqFwfmTOt3HarEQWb7/gqpgQi1TpKIcXrICHARweCpABD0mfcijS2q3y3q6l4tjBAMjkbdy7s7RUAy2/g3KgEyv/Ic1Nm5np6chbXmTj2G6XoKmHXQrY0Ty1CWtaELDI4lDQ=;TYNjh9fnKemmorpMey0ERA=="
 ---

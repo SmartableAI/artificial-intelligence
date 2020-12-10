@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-sol
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Did Google's DeepMind Just Revolutionize Medicine?"
-    excerpt: "DeepMind has just provided an answer, and it is blowing the minds of researchers. For nearly 50 years, scientists have questioned how proteins know what shape to fold themselves into, and do it repeatedly time after time."
-    publishedDateTime: 2020-12-05T11:50:00Z
-    webUrl: "https://www.fool.com/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/05/did-googles-deepmind-just-revolutionize-medicine/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F602911%2Fgettyimages-1046071698.jpg&w=1200&op=resize"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How AI and machine learning can solve the problem of medical fraud"
     excerpt: "Data analytics, AI and ML can help develop a digital audit trail to protect healthcare providers against fraudulent medical malpractice claims, says Shiraaz Joosub, healthcare sales executive at T-Systems SA."
     publishedDateTime: 2020-12-08T09:13:00Z

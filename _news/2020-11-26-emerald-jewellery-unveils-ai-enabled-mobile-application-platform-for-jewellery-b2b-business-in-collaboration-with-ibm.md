@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Emerald Jewellery unveils AI enabled mobile application platform for jewellery B2B business in collaboration with IBM"
-excerpt: "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind"
-publishedDateTime: 2020-11-26T12:30:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-120112600471_1.html"
+excerpt: "IBM and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence (AI) enabled mobile application platform powering the B2B business of Emerald Jewellery in India."
+publishedDateTime: 2020-11-26T07:00:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20201126/3664405.html"
 type: article
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/26/full/20201126114405.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "2T3c5rFI/m6PctaMIj7MFP007TVjt3LXhAup5HQXUdTmzuiErdenfoSUFza6uKuzT+7wfhXgpd7PPyTQQD6qvL2g8KUMJIo1V3f+yYBntmpTD6I70NzlmEop5WVO+Mg0l/H2DKw3tIfoskKF2T3JdWdUgczLholhiCMzbwbDNjh6DjQdNY4d3hTik/CRkLPWKfvKfevOqEqCQIPIhtva14RrZqGleOwyX9rdYepGYpIJdl1GCxtPbJQK0a5uIIX5nR/0ob94DEXbK9BdxcJTwLjWMaiyoskATQMZycILBgwq9CgCuH+orqECs+HJgFXFIE93ad0zUIpVoF1/MZ89oCO5brTAVHx5UqhFtW2wQ55X6eAZB41zm+oeMlpRb+bnMjRo+yjOPuRKASEcdphMurrE8LIiAOg0SMRBAd/5OVH5hmYLyEwl84wvMwPwlOnstOqHfkpnMSFQ18cWZr3nc4vXLrHFhAoY+6mxJCWqt4qqqeqJ9o/Qe6BO8W8uhpYcM/muefXfM/Py8fdbT6amzA==;c6x4Rqy7+lFnkQdJmpOvFw=="
+secured: "Z6sby8tysxv0oqOsEnCCsKQf0t0tJl2g9ViRwoO7n3qs3+Opbww9mg8kVN8ta/id8F4+DtHaEdCouVa97AG6Zq2epgXrYaMhR2IydRZQh6zpThClqJHa++C+5lsQKRolSCEfcRqHrLdvZv9GyztRWNFlx8uGlvrLeC0oyEAUbVn+tusS5hvOwkulPwJb+XdpZE0kNGFlQlG8vi9c8FuQ8DVmzsAQCB254NrNLOKtN3/qXTVNotcuPd+luTJdl7qhogi4c13RxtpixEqrB9m1YNJa1nE5hReG/uFDoWK1yRrvE2yK7kfZlv6KHZrUA82n2pUQ7NDhpEFmWPqwUVahCgWqEHnA3GZ6/2eFy0AXrRQ=;/1z4SuPW5N9xEFViOxbnSA=="
 ---
 

@@ -78,6 +78,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
+    excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
+    publishedDateTime: 2020-12-10T04:44:00Z
+    webUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483"
+    ampWebUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google CEO apologizes for handling of AI researcher Timnit Gebru's departure"
     excerpt: "Google CEO Sundar Pichai on Wednesday apologized for the tech giant's handling of the departure of Timnit Gebru, a star artificial intelligence researcher who left the company last week. In an email to employees,"
     publishedDateTime: 2020-12-09T20:31:00Z

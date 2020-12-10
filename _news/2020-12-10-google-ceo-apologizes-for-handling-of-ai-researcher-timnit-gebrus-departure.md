@@ -78,6 +78,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
+    excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
+    publishedDateTime: 2020-12-10T04:44:00Z
+    webUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483"
+    ampWebUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
     publishedDateTime: 2020-12-07T23:22:00Z

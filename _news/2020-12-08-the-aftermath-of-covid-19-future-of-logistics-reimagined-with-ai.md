@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/361169"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361169"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "NUS researchers derive optimal drug combination against COVID-19 using AI"
+    excerpt: "NUS researchers found that the optimal drug therapy was a combination of the drugs remdesivir, ritonavir, and lopinavir at specific doses."
+    publishedDateTime: 2020-12-10T04:57:00Z
+    webUrl: "https://www.connectedtoindia.com/nus-researchers-derive-optimal-drug-combination-against-covid-19-using-ai-8689.html"
+    type: article
+    provider:
+      name: Connected To India
+      domain: connectedtoindia.com
+    quality: 38
+    images:
+      - url: "https://prod-c2i.s3.amazonaws.com/articles/promo_large/xxhdpi/16075764185fd1ab6294860.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "rc6aAsCkWDzHVJTCzvazeePgYHqktcjXOqI7IYuquC/T05//ZenvsuuoYsWFXyg1nh2QLeMwz7clEq99ZhvUjRyMZeiNeerG6EnRCXoMQsCoAHpsA1Ii90gW85L+MutjGxuKOKKMfYMctyLYrIaA5x43ZSrfPiSZfMD0FRDvIc3XZc0EuKMBhCf8Xpy0GLq7jYHSzgpHVZxJDZIrtEXZFkK3kAhEXZzM2OycsUbN/9DtQHc6dqnw43HdGm2hjQFAdIUOkVJMzeCcxQzXc5EuI376vQ6+LPPe49kt5aOXWOFv3CxbIpvVMOqq+iNImvyMl4aDL2VLbcjQxOtSRDwFQ20sRNjHFaD5MJV1RvVfZ2/TZwW7cwRnSRO7plSDgYPTVzvWQatP/+QjDZUSo9HRYeiTqZ0KbBlX3IyqutJ8i1kvMO+SvsErq/ljxNf+O6/MrOIrWjMYHTvqnTsu7BH1TadoELCS6wImT+4BeCBqrgA9XZtOkJHwa3F6HrYQxyn1ORkllG/XK8/Dqmz63+EFcg==;4kApQz0+fXGOJr0qXesqhg=="
 ---

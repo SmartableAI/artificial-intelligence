@@ -79,6 +79,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
+    excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
+    publishedDateTime: 2020-12-10T04:44:00Z
+    webUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483"
+    ampWebUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
     publishedDateTime: 2020-12-07T23:22:00Z
@@ -289,6 +305,6 @@ related:
         height: 641
         isCached: true
 
-secured: "3EeR0hDuO0RpCUQ5WeGX84gvSiULstJKp+8+IOKKVtS40V2MVm/bOPRp/kqi+kp2gqMF4DnFl4d13m2+bbWbM5qTItCYH0/SlYJj7E2DP9Go6JYSyiOsaG7QGXvaSAwWIZghKF4T2D5Jla94DZLBqnZhNXuNB0umlBI0s1+5/9zNXu8mcHXdxu29D8CIpzHGNvnlyr7oZRvzJ0E9HVRzYTrmmWyxEnz9yVn+DxKtHaoSUDzR+8liVGLGqocqNEWEuutuxTn9yQ7F/PQiTDVRP4jcG1xzuYPq+XTQbl/d+4FKn3zEsqUzvqnFPmJLtVrCZFZ8RcjBfjlGd75AiYVgHx/NddeZBSV6zJrBBluirww=;95mYJVcygezB3E33eRuSwQ=="
+secured: "DeYnQQ91zoknDkQSU+4tR0KY0LzhgPmoDb3vRX3CSoPe6pG6A1OxWgu8M5urJ69l3FpjZhT7uNyBPmRhRhay+QLi6wRk2zFSLXUUoZ8Xa9clgTboKEKX0Z3F1tWrlLkA5Eujq+88x49DpeFxV6F66OfoRLd5Zdy7lY9g4K9+pWnQS16yo77vD0Zyz9FA2UFbFrW2Qgh/JMdeHO2uZmU5YgOJ5yudrR+wHof24FYNONSk4xYrIKOc6t0tqkYqoNGTwPuygDGufgxCzjSKgPCXUED/j6Td76YfqC/NHiDSMiUCzW47hxKJl25PT3iBe7EV4ryykjVF9JXHKpyL1A6pnGyiazCHO0uLMbV98LKuKEtNxIeite3GbOdZSD2dBMLeS+tIVbzDiFyD3AhPFgTrRETaXS85jq8Qq81ZG1AliYzjKDnvnlG5JwXQltCm3PtE+3og7wAFmgloZH3bILJwh6HcVSeBKJ/0E1y/OZ4W24zNDiNT23X0zQx/CKNH/b+wYR1g3S9LqxrYU2N6vebILw==;IDHPjt7Rs3EtQNjKJzQdjQ=="
 ---
 

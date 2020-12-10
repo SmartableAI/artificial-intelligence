@@ -164,6 +164,20 @@ related:
         width: 742
         height: 649
         isCached: true
+  - title: "After Two-Year Preview, Microsoft Launches Azure Digital Twins"
+    excerpt: "Microsoft's Azure Digital Twins service for modeling physical environments is now generally available over two years after being released as a preview."
+    publishedDateTime: 2020-12-09T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/12/09/microsoft-launches-azure-digital-twins.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 54
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENConcreteBallRow.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft highlights AI innovations at 40th GITEX Technology Week"
     excerpt: "Azure FarmBeats, an AI solution supporting food security, a key focus at The Hub December 6, 2020; Dubai, United Arab Emirates – opened a socially distanced area ‘The Hub’ as the 40th GITEX Technology Week launched,"
     publishedDateTime: 2020-12-08T18:14:00Z

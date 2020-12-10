@@ -35,6 +35,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "NUS researchers derive optimal drug combination against COVID-19 using AI"
+    excerpt: "NUS researchers found that the optimal drug therapy was a combination of the drugs remdesivir, ritonavir, and lopinavir at specific doses."
+    publishedDateTime: 2020-12-10T04:57:00Z
+    webUrl: "https://www.connectedtoindia.com/nus-researchers-derive-optimal-drug-combination-against-covid-19-using-ai-8689.html"
+    type: article
+    provider:
+      name: Connected To India
+      domain: connectedtoindia.com
+    quality: 38
+    images:
+      - url: "https://prod-c2i.s3.amazonaws.com/articles/promo_large/xxhdpi/16075764185fd1ab6294860.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "uJ2yYfSE1frzLRW4vfUTmZetcCRtrUC+Rrl3wjubSO706zEJYwtJdAVpbeHjQQ5RfMvuph3VhAlpAXakVpi6NobIcjmZwOC7MEoP7sWSCbrLj/nCZBRPmdrH6nzTOo7vD64QbIBrEIQN01VOfkAOMj4b5cLxPWm7OvRgz7WewReX/a77CWil7Zw80VewKfk3otpvraAW17K+b1PFrK/Nkmd2BQ1Xe4GUV8cJM1S8i/r16drlaNWLwFmaWyoCGHW5nepg0zPAuf5nV7ogiSUWRdczwCC2nYGkDOBWlonxIMEFedakYrthlNfF7BhE4j5j63aqQNgSrOy4IhDu2iPHvIAg/ebWeJgSyWsahZ+YPlJ6LMDWng6zwXTHMWqx7bm2Ub1WEebyYcejbbeDs+rXg160JvFypJEpM5JYX5Tb5FP12OoJI3cob2zpyB93rnmdSz2SO+qsI2WdsY0/b6MGjt52ai3TxFz5wRD+nJTwI2OjWfF1t0F2aAqwcp4pn+CkzPZtq/MutAsuJzXyQgoxbQ==;ir1mMpRNjX/d5fOqcRJKsg=="
 ---

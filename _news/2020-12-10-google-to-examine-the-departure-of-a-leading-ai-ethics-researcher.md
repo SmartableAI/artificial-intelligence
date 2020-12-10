@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fb5e9b210-1614-11ea-9fee-f891d28bb48a&client=amp-blogside-v2&signature=f9d4ac23559133c63b810b38c30aa9fb7f00b2f8"
         width: 600
         height: 350
+        isCached: true
+  - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
+    excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
+    publishedDateTime: 2020-12-10T04:44:00Z
+    webUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483"
+    ampWebUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
@@ -289,6 +305,6 @@ related:
         height: 641
         isCached: true
 
-secured: "agk8Y0VT6lYybqo7k4/eeEVjedBiNGb5ftdlgh1QJiWhlxW4jkzCyyhDeXw5HREJc636wOaO7CjwvcikptMr0VVpQDZ3JIsr1eGFHLVfuTf/QHIrjtt7hKT0knik+IKtfuHx0eAkhQjRbXAR8oY/TYqzle98uHbYChT1BTwduz0O/QFeA9ANrXsI2bPjlS3rF3BlbiphMrpScCtkc8mohe7C+ZfnxsynS43Lh3FV4VTfdOt9rjaHm4xST6vmN2fRn+ztFSkAS831CygRL+C7J3x7E+SHXpv40pGe/nV2dLsoPIA+WcLv55Y+ar9VRY23VKFuk3ie00QOUcSiKFXlK1bt/B811QGNs1XTPq+U+qs=;Vfd6DEN61Uyj9klofU37YA=="
+secured: "zeImg1ftK69FlcCPH9/Mcm++yi8CWAFhIqAIxw6+1uhZyf/TXj/FSdppyCehVlBOYxOei5q+vPHRM+NVpY9ZyzgiOlz2B4zx8n+dbWN3uqrq9gQrq6rJeiyof+S9krw3HdCkrjHu89qKR8VBUTp7QHpFul+8KbXMUCwHcbfXhWyFRuXPKvuv45gNm21IgPCUf15yfyVof/xs9sIoQCjTgH2BYkXOElYCtX3wTwaQeKLB9Bkn832JEq2wJXEnwLdL2eWHO4IkieeHVBQErezx19HpmgSQo3f84WLf6C21BcHsSiDnxwGTKOxtWxI4QT/UdARxrtJ/N6AauMffIfi53Yrf3HcnIBjma0u5rlHvi6MEK+lcskTqXC8BND+u+y1dDnNDWC8IljxklLNqbT/Jd3PjcSsUIUZps8lbunT6FQbY4IzXxcbNf91O3fOjJWBi1pXuEVjYwcubPeSpLlG/bQspGpXkVPhK727Znt/RwX9N9j+GRrzj5aLsOVnmy4gW0GSK3ijLt/vV/sq8o4t0Qw==;e9v3DrK3I6ezMqRZfLp3VA=="
 ---
 

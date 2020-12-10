@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Google CEO says company will review AI scholar's abrupt exit"
-excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company"
-publishedDateTime: 2020-12-10T01:20:00Z
-originalUrl: "https://www.wftv.com/news/technology/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/IIXXPOFKSDQM5ELNDH6NZQSFA4/"
-webUrl: "https://www.wftv.com/news/technology/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/IIXXPOFKSDQM5ELNDH6NZQSFA4/"
+excerpt: "LM Otero/AP Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have “led a more respectful process."
+publishedDateTime: 2020-12-09T18:14:00Z
+originalUrl: "https://www.chron.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
+webUrl: "https://www.chron.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
+ampWebUrl: "https://www.chron.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: WFTV
-  domain: wftv.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.wftv.com/resizer/fj2-Qh-QwNYKN6xNueCCRnEDpgs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/VOZTXGDLJEHYRHFZHU77WPX4EM.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -39,7 +40,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
+    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
+    publishedDateTime: 2020-12-06T12:49:00Z
+    webUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 32
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
 
-secured: "pvwVoqQunk+8qe/ErSJPbYbU3XvsSmgmiNfBHzJ2wkX0t0MEODiQngaIZMmcMi8pGcFfYOoHxM3TzGK3G6wkcQevi06s2gQTspYlfitVCSPGzH/DomsRIOmkr+ZUIuy3qqEyH+7QR3PXySfzgOTGp3cnLM1NjeboOObJxZ5FS/m3cyZFtjBEbRUlrRRcb8eHX+XrNysKFdSKz+YXukJOmIGTOn9nXOCzEu+DmS3mpkUQzhpDYKrIJ5VjkrrE4oscb4FUhTL84uSejFav2fO4i0KHC3tz+XJDGGvHlQYWw43Af2F+FvddvR0GD6eJ5SjbKkqtmo1Y7iC2LIG3F1/tcD3WwEuRe7ccB8LjnHqa1A8=;9plqj1VxZvcPJBVL/AL6xA=="
+secured: "FYtHf2Yf1Zn2SL7koThsANxFp+1/LesFsNvEqhqNaTrB6d0hh3G4MCcle0KeGEQl8NLmGMI+Dmid8pyxvgq4d4u9xQ3HHvtjmVRsb6ZZEaSnHNBI6rZFUdDaA5fBTwpkP2VeN+KzTES1LfYq065Of6l3xDhaLKe1Jpwf+o+U8vp39qLDsDaSiueXb8Aa5xL+Ef6ktLfC2ZhcyPQfZAdX4wpgiAc9fXVhtK0v6qSDu43QkZI5G2CX5CxCTDSaHTuRKS6pms556+Evrsz6gLy9NCobyiBRnaTQwkjva3emPf56nq2+07kxbZrQLIp7UFrjRKYkGL4kXmE8ybWDHmbXSjfN6RaUSF9gjsX+tHQ4xRs=;HsbMRf3WV95I0o8Vb8Sl2Q=="
 ---
 

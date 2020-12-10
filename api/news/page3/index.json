@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-08-christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response.md",
+      "title": "Christopher Nolan Trashes HBO Max, Gets Trashed By Twitter In Response",
+      "excerpt": "HBO Max, have finally come together - to make fun of While many filmmakers are (understandably) unhappy with the fact that their films are going to hit theatres and HBO Max simultaneously, Nolan had an amusingly dismissive take,",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/itamblyn/status/1335692328854556674?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1335692328854556674|twgr^|twcon^s1_&ref_url=https%3A%2F%2Fventurebeat.com%2F2020%2F12%2F07%2Fresearchers-are-starting-to-refuse-to-review-google-ai-papers%2F",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2020/12/08/christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-microsoft-launches-azure-digital-twins-in-general-availability.md",
       "title": "Microsoft launches Azure Digital Twins in general availability",
       "excerpt": "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -551,7 +593,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/361169",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1162,58 +1204,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-researchers-can-use-qsim-to-explore-quantum-algorithms.md",
-      "title": "Researchers can use qsim to explore quantum algorithms",
-      "excerpt": "A year ago, Google’s Quantum AI team achieved a beyond-classical computation by using a quantum computer to outperform the world’s fastest classical computer. With this, we entered a new era of quantum computing. We still have a long journey ahead of us to find practical applications, and we know we",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
-      "originalUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
-      "publishedDateTime": "2020-12-07T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
