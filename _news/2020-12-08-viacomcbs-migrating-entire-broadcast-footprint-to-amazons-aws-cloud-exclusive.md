@@ -9,8 +9,8 @@ ampWebUrl: "https://variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadca
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/streaming/news/viacomcbs-amazon-aws-broadcast-migration-1234848434/amp/"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Variety
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations"
+    excerpt: "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud."
+    publishedDateTime: 2020-12-08T16:17:00Z
+    webUrl: "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg"
+        width: 434
+        height: 244
+        isCached: true
   - title: "AWS And ViacomCBS Expand Strategic Agreement"
     excerpt: "Amazon Web Services and ViacomCBS announced that AWS is preferred cloud provider for ViacomCBS’s global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
     publishedDateTime: 2020-12-08T15:23:00Z

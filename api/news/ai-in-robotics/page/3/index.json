@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving.md",
+      "title": "How The Rick And Morty Butter Robot Is Cooking Up Chaos This Thanksgiving",
+      "excerpt": "Founded by Carnegie Mellon alums on a mission to make robots more fun, the scrappy startup acquired the assets of the defunct ... Since sentience is considered years away on the AI roadmap by many industry experts, I pressed Hanchar to explain how they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb57b1a4edfc0fbe1001009%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1054%26cropY1%3D52%26cropY2%3D645",
+          "width": 1054,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "publishedDateTime": "2020-11-18T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient.md",
       "title": "Neural’s guide to the glorious future of AI: Here’s how machines become sentient",
       "excerpt": "Welcome to Neural’s guide guide to the glorious future of AI. What wonders will tomorrow’s machines be capable of? How do we get from Alexa and Siri to Rosie the Robot and R2D2? In this speculative science series we’ll put our optimist hats on and try to answer those questions and more.",
@@ -1344,61 +1396,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
-      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
-      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
-          "width": 392,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "publishedDateTime": "2020-11-11T23:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

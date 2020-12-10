@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan to invest in AI matchmaking to boost plummeting birth rates"
+    excerpt: "The Japanese government will invest in artificial intelligence (AI) to bring single citizens together -- and, perhaps, help stabilize falling birth rates.  As reported by the Japan Times, the Cabinet Office intends to allocate ¥2 billion ($19 million) to local authorities that run dating programs for residents."
+    publishedDateTime: 2020-12-08T01:21:00Z
+    webUrl: "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/06/5d643143-e310-4b2b-adac-f0b03698f080/thumbnail/1200x675/e952a56a8c0f88eb8e5a1ebbbef0053b/japan-takes-the-first-step-towards-a-dig-5f030bbce0a7442b5c9e38c9-1-jul-06-2020-21-40-56-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Love match: Tokyo to help fund Japanese AI cupid upgrades-report"
     excerpt: "The Japanese government plans to step up efforts to stem the country's tumbling birth rate by helping to fund more sophisticated artificial intelligence matchmaking systems, media said on Monday."
     publishedDateTime: 2020-12-07T11:54:00Z

@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Google CEO says company will review AI scholar's abrupt exit"
-excerpt: "LM Otero/AP Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have “led a more respectful process."
-publishedDateTime: 2020-12-09T18:14:00Z
-originalUrl: "https://www.chron.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
-webUrl: "https://www.chron.com/business/article/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
-ampWebUrl: "https://www.chron.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Google-CEO-says-company-will-review-AI-scholar-s-15789347.php"
+title: "Google CEO says company will review AI scholar’s abrupt exit"
+excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees"
+publishedDateTime: 2020-12-09T21:35:00Z
+originalUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
+webUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
+ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: myhighplains.com
+  domain: myhighplains.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -40,21 +41,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Exit of Black AI scholar at Google raises concerns about ‘research censorship,’ bias"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and questions harmful uses of AI technology. Now s"
-    publishedDateTime: 2020-12-06T12:49:00Z
-    webUrl: "https://www.wraltechwire.com/2020/12/06/exit-of-black-ai-scholar-at-google-raises-concerns-about-research-censorship-bias/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 32
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
 
-secured: "OE7tQocAcy2abZud1NFiP3C48/dX1XUhfutT2IM+wAeNpjiRAAEXaZRg4ZAj36RREH8SKTko870qvaAjuJaa2/PxwWeu8kO3IA+7qFaubcAZkl0elhJ7LwdpwxKuWn3KXXwSc+loNY5ZZp0BA4dYyonz7WbF4JOuiUE0Qy6hp7mLzIGEN40qHcgvJA/OCj1qOS//K26cvqN131wFOvdLAiUx1DYgFQZGpO9iB9VHeSreGdzaDJWIdUB5pSu57GgW7lPMBVpcTiC2occ4atKYqON1XsE98H2txptdXqXCt/3vhINGpp2cwE677kFK4cy9AB5heY/LCuZktZqdGIlkZL+1qJzjVrMLybNISUNa6Sg=;9rhCNWeom4J+fYXqb1iYDQ=="
+secured: "ZMq4udgOXjUfAJkRaIbygiA7V7uQEUjCGOn7Ic91agj4ylLnzhfE1zLpxXwSlITBpu0zXNB/ASRIaWW4NrK/DvCdmkFjHaLCk1irBdbLs3CZ2sdrphhhYiQ3yHQG3Q2BT8TAcr5SFXk2q5iDM6nn8/+OGQjLyoito4qlpIm9t0LeusJa3aOjZ13vdu0wxfH0ETRXtZ2sOq3lhOnxNyDvpVrhGggDZtyE+wWYHDiAQJDvYpMHLrIx+TeCrI7tYleyVdXUWd+pXdtWBWacYqjR9mWTaY5NSJ16DZuLPNxQLF6rdzwLBEP7R7v6/RP8A8dhcu+at5/Sef+B/4yXx7VIzxin3nNKENNxDt2MPw24NjM=;bjHSePdOaJiUaNamptX9Xw=="
 ---
 

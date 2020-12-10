@@ -2,6 +2,103 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-13-computer-vision-puts-a-focus-on-hygiene.md",
+      "title": "Computer Vision Puts a Focus on Hygiene",
+      "excerpt": "And AI technology and Computer Vision layered onto a business’s existing video camera system is likely to be the quickest route to that goal—for a fraction of the cost of manual monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
+      "originalUrl": "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip.md",
+      "title": "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip",
+      "excerpt": "Amazon has also said that “Rekognition,” its cloud-based facial recognition service, has started to adopt its own Inferentia chips. However, the company did not say which chips the facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/",
+      "publishedDateTime": "2020-11-13T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
       "title": "New Orleans Police Department using facial recognition despite years of denial",
       "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",

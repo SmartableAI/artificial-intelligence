@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
+      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
+      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
+          "width": 392,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "publishedDateTime": "2020-11-11T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-pope-francis-pray-that-robots-dont-turn-against-us.md",
       "title": "Pope Francis: Pray that robots don’t turn against us",
       "excerpt": "“Artificial intelligence is at the heart of the epochal change we are experiencing. Robotics can make a better world possible if it is joined to the common good.",
@@ -1382,49 +1437,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-museum-exhibit-explores-being-human-in-the-age-of-ai.md",
-      "title": "Museum exhibit explores being human in the age of AI",
-      "excerpt": "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black and set up a harrowing tour through the landscape of artificial intelligence in the exhibit “Uncanny Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
-      "originalUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinij.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01-2.jpg?w=1024&h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
-      "publishedDateTime": "2020-11-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -71,17 +71,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
-    excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
-    publishedDateTime: 2020-12-05T14:30:00Z
-    webUrl: "https://www.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP.html"
-    ampWebUrl: "https://m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
 
 secured: "GPqhGXYR56tmscZzhakznbQyZZkoNVjWcQHqL2uZbzry7GSq15dPj4fLcEKLn2Bgh14pxdF22ws3vOgSSoOxwYPwKcdidPgv74GAnwJFtM6HUbEiuDyepZXizAPQ2MhhuKFr+wcCgSg3O5KjuBLapuvTz9V+Reh3KgFLG1ORc5ENea39TW9f8aFf8AUDBqoHfV/iYFEJLnL//Z6k+0b++eWZWyjbkdPpcf+jL3WQxLspRW7cAR3OPZ6C/3PICI6mASO5QSm8NEDURZdv7A7fnQzQdy1pb6EHuvdcKZS3/FAKL3Ux4lJK1G6BZcah3Y0qahVsn4oKU4SJYtDtayFHtjdCgd/xb8dqMkeH6SWcUfEgusxtDhTSsz4WWRyKQPI3Mud43+jzZSHoRejfS12EuwxTSRZGIbYzJUUBrGzUAMOUsoLRpIDDvo5qMfG62OQQm+VAQt48mcObZHqJ3Y4RFfuPMkutG3nMEvwudN4sJ4CLDrfVdJ1RL+EgLCJAbZJT7pqr7uoB3fID3XmSs3tNQg==;zPuyA8ZoRyifPeJz/qqFeA=="
 ---

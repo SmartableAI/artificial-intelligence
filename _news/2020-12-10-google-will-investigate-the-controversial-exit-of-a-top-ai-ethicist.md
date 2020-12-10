@@ -223,6 +223,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Google will investigate what led to AI researcher's exit, CEO says"
+    excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
+    publishedDateTime: 2020-12-09T23:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/9cb5da72017a928d275551e1df3ff7a5f76a61f1/0_138_2144_1286/master/2144.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=678c03d06bc89eb6dfbdf15dbd462c19"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"
     publishedDateTime: 2020-12-07T06:08:00Z
@@ -275,6 +291,20 @@ related:
       - url: "https://CNNWIRE.images.worldnow.com/images/20138709_G.jpg?lastEditedDate=1607119757000"
         width: 500
         height: 333
+        isCached: true
+  - title: "AI scholar's abrupt exit from Google: Pichai apologises, says company will review"
+    excerpt: "Google CEO Sundar Pichai has apologised for how a prominent artificial intelligence researcher's abrupt departure last week has seeded doubts in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have led a more respectful process."
+    publishedDateTime: 2020-12-10T06:36:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2020/12/10/ai-scholars-abrupt-exit-from-google-pichai-apologises-says-company-will-review.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 34
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/5/10/sundar-pichai-google-assistant-ap.jpg"
+        width: 760
+        height: 443
         isCached: true
   - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
     excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."

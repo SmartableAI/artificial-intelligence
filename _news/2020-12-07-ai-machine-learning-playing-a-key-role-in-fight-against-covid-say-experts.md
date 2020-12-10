@@ -57,17 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI, machine learning to play key role in fight against Covid-19, say experts"
-    excerpt: "Industry expert explained that a special type of AI called Deep Learning can help answer the question of which existing drugs can modify to the viral proteins active in the replication of the coronavirus."
-    publishedDateTime: 2020-12-05T14:30:00Z
-    webUrl: "https://www.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP.html"
-    ampWebUrl: "https://m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/science/ai-machine-learning-to-play-key-role-in-fight-against-covid-19-say-experts/story-DEAAmk3P1HLZzrwurcghWP_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 51
   - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
     excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
     publishedDateTime: 2020-12-08T02:26:00Z

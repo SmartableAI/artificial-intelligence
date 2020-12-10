@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-09-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-02-higher.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.2% Higher",
+      "excerpt": "Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) traded up 0.2% during mid-day trading on Tuesday . The stock traded as high as $48.63 and last traded at $48.55. 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-0-2-higher.html/amp",
+      "publishedDateTime": "2020-12-09T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-gpu-as-a-service-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2025.md",
       "title": "GPU as a Service Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2025",
       "excerpt": "Request a sample Report of GPU as a Service Market Analysis Report at:  The increased demand for GPU systems from crypto miners is also proliferating the market growth. GPUaaS market players are strategically developing customized products for miners,",
@@ -430,7 +473,7 @@
       "originalUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -884,6 +927,52 @@
       ]
     },
     {
+      "path": "_news/2020-12-09-machine-learning-trends-in-2021-top-trending-machine-learning-technologies-to-drive-aiml-market-in-2021.md",
+      "title": "Machine learning trends in 2021: Top trending machine learning technologies to drive AI/ML market in 2021",
+      "excerpt": "Machine learning is going to revolutionized the industries in the coming years, in 2020 we have seen tremendous growth in the Machine learning and AI technologies. In 2021 machine learning will drive many business including medicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
+      "originalUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg",
+          "width": 400,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newstrack India",
+        "domain": "newstrackindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-getting-started-with-the-amazon-kendra-google-drive-connector.md",
       "title": "Getting started with the Amazon Kendra Google Drive connector",
       "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To simplify the process of connecting data sources to your index, Amazon Kendra offers several native data source connectors to help get your documents easily ingested. For many organizations,",
@@ -1090,6 +1179,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-09-viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations.md",
+      "title": "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations",
+      "excerpt": "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "originalUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg",
+          "width": 434,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "publishedDateTime": "2020-12-08T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-can-ai-help-you-binge-books-bingebooks-is-a-new-service-to-do-exactly-that.md",
       "title": "Can AI help you binge books? BingeBooks is a new service to do … exactly that",
       "excerpt": "The pandemic has been terrible for many industries, but the book industry has gotten a rare reprieve in an otherwise dismal past decade. Locked in homes and forced to socially distance from others, us humans have more time on our hands and more need to connect to characters than ever before.",
@@ -1122,152 +1254,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live.md",
-      "title": "New hybrid architectures are unlocking the power of data and AI (VB Live)",
-      "excerpt": "Learn how upgrading your technology stack can help your business unlock new AI capabilities in this VB Live event.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/developers_collaborating.GettyImages-1159379139.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/amp/",
-      "publishedDateTime": "2020-12-08T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-diving-into-deep-learning.md",
-      "title": "Diving into Deep Learning",
-      "excerpt": "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets).",
-      "sourceUrl": null,
-      "webUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
-      "originalUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
-      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/",
-      "publishedDateTime": "2020-12-08T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-simon-says-ai-tool-turns-text-transcript-into-video-editing-platform.md",
-      "title": "Simon Says AI Tool Turns Text Transcript Into Video-Editing Platform",
-      "excerpt": "Video creators can now use a browser-based text editing program called Simon Says Assemble to assemble rough cuts of video pieces. Simon Says is building on its AI-based transcription tools to enable the text-based video assemblies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcec54e8e259f4221d14aeb%2F0x0.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/amp/",
-      "publishedDateTime": "2020-12-08T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

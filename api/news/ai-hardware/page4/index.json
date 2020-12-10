@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-05-intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.md",
+      "title": "Intel's Iris Xe Max GPU to take on Nvidia's GeForce MX350, RTX 2080 in notebook PCs",
+      "excerpt": "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
+      "originalUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg",
+          "width": 1199,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
+      "publishedDateTime": "2020-11-04T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
       "title": "AWS launches next-gen GPU instances for machine learning",
       "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",

@@ -43,6 +43,20 @@ related:
         width: 400
         height: 265
         isCached: true
+  - title: "10 Fascinating Healthcare Technology Trends for 2021"
+    excerpt: "Technology advancement in the healthcare industry is molding the world to a better future. Advancements, for example, AR/VR, Artificial Intelligence, Robotics, 3D printing, and Nanotechnology are reforming the operations of healthcare companies."
+    publishedDateTime: 2020-12-10T06:20:00Z
+    webUrl: "https://www.analyticsinsight.net/10-fascinating-healthcare-technology-trends-for-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/healthcare_future.jpg"
+        width: 2185
+        height: 1234
+        isCached: true
 
 secured: "Z/f+esHldRNtCYC+clcJTnUfu7GOngTfMET0lC72RvbSbwGkkVvJwmB99fthmf8dt9TKjzfegEhbnva4t20CZmkOuPk17D6BwNI0eM5mZc3LAoNVQzDboubPxMxnpiscJNFKuEFL6m7J9MbN8AyuUKjhyy1kYnztfUDdmj0AAyez/f4vEsi5SAhXHdtAjllb1tFSFPVnaA5bJu7tJA1T9idgb6F2x6dGpG8LDAk5T0aYajfmLeMKWQwu02BPkTLzv990xVQ+WaiLe9EVkVtoNvCli6l73UvNC8YFa9ZqEcr61cvrP8NX/+iygPKVUajmefE9T25SkRaon7NhI6Mda3npwsD63kiRiaOYVf1b+bY=;H0f2p+XDp+o6fEPZNbB2bQ=="
 ---

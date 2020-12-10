@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla reduces Full Self-Driving upgrade price by $1,000 for Enhanced Autopilot owners"
-    excerpt: "Driving for most customers, those who purchased Enhanced Autopilot will now be able to upgrade for $5,000. The reason for the change is not known."
-    publishedDateTime: 2020-12-05T14:56:00Z
-    webUrl: "https://www.neowin.net/news/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners"
-    ampWebUrl: "https://www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-reduces-full-self-driving-upgrade-price-by-1000-for-enhanced-autopilot-owners/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 82
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
     excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
     publishedDateTime: 2020-12-09T11:23:00Z

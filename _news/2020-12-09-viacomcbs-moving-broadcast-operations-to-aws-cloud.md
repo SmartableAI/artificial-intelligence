@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations"
+    excerpt: "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud."
+    publishedDateTime: 2020-12-08T16:17:00Z
+    webUrl: "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg"
+        width: 434
+        height: 244
+        isCached: true
   - title: "ViacomCBS Migrating Entire Broadcast Footprint to Amazon’s AWS Cloud (EXCLUSIVE)"
     excerpt: "ViacomCBS has inked a broad, multiyear agreement with Amazon Web Services under which the media conglomerate will put its entire global broadcast TV operations into the AWS cloud. The companies"
     publishedDateTime: 2020-12-08T14:07:00Z

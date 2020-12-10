@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
-    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
-    publishedDateTime: 2020-12-06T10:30:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 36
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
-        width: 2176
-        height: 1578
-        isCached: true
   - title: "Why Voice Recognition Technology in Gaming Still Has a Long Way to Go"
     excerpt: "Voice recognition is one of the hottest trends around right now, with gaming among the industries to be taking a particular interest. Many experts believe voice recognition could become a central part of games in the near future,"
     publishedDateTime: 2020-12-09T05:14:00Z
