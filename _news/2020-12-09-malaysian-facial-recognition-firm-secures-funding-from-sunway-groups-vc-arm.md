@@ -3,8 +3,8 @@ category: news
 title: "Malaysian facial recognition firm secures funding from Sunway Group’s VC arm"
 excerpt: "Wise AI works as a digital identity enabler focusing on facial recognition tech tailored for Southeast Asian faces."
 publishedDateTime: 2020-12-09T09:57:00Z
-originalUrl: "https://www.techinasia.com/malaysian-facial-recognition-startup-secures-funding-sunway-groups-vc-arm?ref=recommender-666181"
-webUrl: "https://www.techinasia.com/malaysian-facial-recognition-startup-secures-funding-sunway-groups-vc-arm?ref=recommender-666181"
+originalUrl: "https://www.techinasia.com/malaysian-facial-recognition-startup-secures-funding-sunway-groups-vc-arm?ref=recommender-661459"
+webUrl: "https://www.techinasia.com/malaysian-facial-recognition-startup-secures-funding-sunway-groups-vc-arm?ref=recommender-661459"
 type: article
 quality: 46
 heat: 46
@@ -22,6 +22,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "/8CxJCrL3xoAbLP8ZXSfqZp57L6bs/iakQ3AEFKWU/0U31eAyR+hAsn+Ma6mBbwWJyRDu5wYOpGG2CMI0m8H6RgcVpF1+nOWtoK2C46+WAmeWdjFFnix+wJvgQA85A6eGc+vGHcZnfJgPjIIGsN7CaSzVtyzYIkwPdZBVgKcIrQ4V2xybTqio6/4CAFLbC4glpIF1IDYtJyJJa2VBxcqpOOjVwyI7R8Eo5W3pXbOCMcvmD/kwUT9lt/qioqZUzOPsHnCdvsJiTRdqlF9LUoVHWh3IsGda4soTjF50DPWSFon4VvPq/Y3Hfju2OLCrYw29UKGdEGrPH011LQR+SzGHOQiRlcsWuh0IlSDIgLBpwgcTPVqL3MqTfHL96hZA3GGC+RDpSYhEINUMm+h4sKozrrNVuydobVvveUMMKWRDcOZOlRPa799tQ4KhutgSfJQtNFPVB1CNf6dkGp2BrQPne2s2U2IGhijQPQf4Z59CZ2ikWfqdZAHbb8HYVPZRz959tD5A7mW42WIszGA76QGKg==;WaMMw5uaKbZmDT+A1vbI9Q=="
+secured: "/Bkd59dxBU7GbRKaIu24He2HmyICf8tusCNfK6x2VaQ/T147m7BVNWiqXcmB2i54VvzxSf+9nX2fL9qDi5Zt+5mvSWEnEMXJPyB7b+R3BkBlPbVECHDSBVtJkTKrYmXRZ26ItrNmjMcr9Dv2hk+vNuEyDoqNpTeakQnDBBAbQVXnqrdm537TUXZm8jh3NpQ2sN5DnTHk9B+QTV/ekTPJIKeu7n+axarnU4H3qdHUFXA3UwF10Le21fIfy7B0lnVO7T7f0S/6fbIiZbiTRRNoNfr9JwnTz/ckZuUCRS3Kr5+WyA5BeUyomohRfs/BwvCcK6BvBubuOMIH4d3YcF6E4fah4eS7GTOt3VouOioVxRYbkRJkTeuCq7qUSKvQa7KRUc5iOyQpiI8941VQYEggzkJWFyWQ2xHwDAjAdbmgLkje6K4FMNroKEOo0BKjecGBF714qW9Gzcv+NNoLByCjAFkrlZeWeZRLKOMUlY2CMjWk0dSx9aUdMR2hImFqAyXV+L8l5kT7ykaa5SEbqEabpg==;9v3iJBOqXr1QMI3hJseDAQ=="
 ---
 

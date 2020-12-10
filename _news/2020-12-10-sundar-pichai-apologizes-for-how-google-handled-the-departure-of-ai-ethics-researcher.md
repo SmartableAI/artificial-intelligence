@@ -187,22 +187,6 @@ related:
         width: 5760
         height: 3235
         isCached: true
-  - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-06T03:17:00Z
-    webUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 71
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
-        width: 1280
-        height: 878
-        isCached: true
   - title: "Deep learning software tools to the rescue of medical research"
     excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
     publishedDateTime: 2020-12-10T16:45:00Z

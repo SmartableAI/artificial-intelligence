@@ -3,10 +3,10 @@ category: news
 title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
 excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
 publishedDateTime: 2020-12-03T21:13:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+originalUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "ZJ2YA+BzfaY6zNnvEJFSSpGbkyTTd7MkmsEvzBsAE2kp8oivrpW1M8JWlzHfsH4BztFhR0AgXBKwTSJlp5eVNnGaM2AWCkA3DjmuTLWHeDsN9I4P1itZB74P4eYMSfFmRsuwJyuij3MMJ+7xiUwaoisOZXQTHk+Ytj2lumdSybrvI89xNgpAQm9qNzXo1koCyqBDSALs2ffD5C9SdNQ9WaBRWgZHc04UDkj4pL7pqFLWSO4GLraqns7avfCZPk5cedaQP1g1K+TZt13VIVHID9mf+u3/88DLIO9J6EcdBjGE8nnh+uDgP3xLTfQYFuQ1wK57tjVGd+KOKtzCGqf0YhDqmL3uzMyRc0mMkLUae43Og0j+HpMoHjapPwv2orawMvdUsqTLyKYJHZUgm7saZbUh7yZEEPtO7xHqptOOrjPE3+oVWgEB6D0lnXIy+k4aYNzy7xcwtyH9QssSpO+v2DhrKUIQtlCQX3+nERRqVQxiD1ZEauou306ojmBaOk7gWvC3BvuIDwvRjzzKHtN2mQ==;v9as9tKqi8dKpiP+EFU2+w=="
+secured: "ppuHy8xwL51bk7ZawynQ6rQ9FU+5F/Qvp8HsJHYHQT4V2R/greyg/+PPQIIJJg43i1hbYZkY2hLKhHsgO5e1uXf9JnoNuWeicwH8rPmunlFXBiGaiT0hWXrnMVl27Fwuc+2lAxz8ZLkrfZUcJlfiPs8bEOQIKPuDX9b3Y9I8XeWFw+yOzZ9oWKn/sekdz0ZBoUmq8+ntbie+V7iHz+/U0/lWFYtjk/54crv/aewzEUbTrs6/pAu/ODBNTXb9xWaOADSmmX3W7YgoEZGxq/j7ApJBmQIU0B/9fZZfuybMky3BiFpTUMHeaLR/8I65oZ8jgfj8MoZ0EQh4z8eZtHRo8dc5BZ30xKVjk48Ns2QVKr2MBOt6/EdciHIv1wV8qvieiPzKHGU+OJTdYBdpO2mvCGlO7UoHAkfom58YLS+lFoitGUS51LKqcGD+eYj+AhlPhg1btoyo2UC6EQqkiTSZtrdp7T23rJ2Qu38LHv8RK5TUjxFBl8htBIV4xi69zyDFCcePxERje8Ho5pvIRKRXUQ==;JBfusENthQGeuNyvwYglmQ=="
 ---
 

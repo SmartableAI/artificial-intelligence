@@ -24,6 +24,19 @@ images:
     height: 1414
     isCached: true
 
+related:
+  - title: "LabTwin, the First Voice-Powered Smart Assistant for Scientists, Achieves ISO 27001 Certification"
+    excerpt: "LabTwin, creator of the world's first voice-powered smart assistant for scientists, today announced the company has achieved"
+    publishedDateTime: 2020-12-10T19:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18734687/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18734687"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18734687"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
+
 secured: "vMH7C81VOm1WDXWw/LgJeh88qKhpFZPxgRrBa2a9dfDzCJhP3qoWKCgav4JXu05umv0ZiwlS+0NJ9B9/J+eJY0fzmpWm8lqcb2ulWP6ttosKJ2xkqgZXvpxkRMAq9+sz6bVQG0MfCINi/PCTgfO4s5xpiWiyLczxr4FTH8gU9FK4JpL451NDQwessGVL5kDHzsP8QgskxagGTTgzHnYqNJYOV7vy/7KBNK6ONUwkMvYVg3ubrxW0wu9iI7nrLTfBbdUKcXKJpRsN59wWsIJdFpHOfWtX6ReKOKNHcHCYFwBwa9rI4GPPF9X0Q/BLF6OeUHVxEYa9n0tTVohmwhOIacbaSW3Eoc2MwKAVnL2AZAI=;E6jweqORfVPs9UsPrJSn3A=="
 ---
 

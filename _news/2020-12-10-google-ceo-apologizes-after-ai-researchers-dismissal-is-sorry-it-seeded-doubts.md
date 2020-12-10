@@ -39,6 +39,17 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Google CEO Says Company Will Review Abrupt Exit Of AI Scholar Timnit Gebru"
+    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company heaquartered in Mountain View."
+    publishedDateTime: 2020-12-10T20:49:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/timnit-gebru-google-ceo-sundar-pichai-review/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/timnit-gebru-google-ceo-sundar-pichai-review/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/12/10/timnit-gebru-google-ceo-sundar-pichai-review/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 37
 
 secured: "RHAJZaV6f4yFEESFANjNwEwNbrxEiHE3egVHGTsx3D1W4Bma5XQ8i32PfRlwlAvnhner5XKRWajtb+6nJzUzgXU/opETNS76nF8YH96wV7K4VKRzGta1nJDQchVwyEfom0YgDWI6dK6apiRJv4gmCdJvhlWcxgL/We7ltCX+DpcGLSb/MeX0AWy2rJu9tH7FZlY/BjogprporgovaL9wXkfM0DZFiYo2FzUdwNQCGsJZ+tSVm5D9QQD2rw1WOK43CoJRkHj6ZLxSHVcMXUo/Nvrz58XKTYrTa4k4rhTong3NPTausxHK34Ai7vWdY19MjDKO84bd5oFaZmzeOfQ7D9JHFCcXJatNWezMg6KAijU=;VWoRR+w/ZhnHsQKvweUEUQ=="
 ---

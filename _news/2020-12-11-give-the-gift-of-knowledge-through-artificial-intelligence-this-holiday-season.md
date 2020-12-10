@@ -8,8 +8,8 @@ webUrl: "https://www.cbs8.com/article/news/local/zevely-zone/give-the-gift-of-ar
 ampWebUrl: "https://www.cbs8.com/amp/article/news/local/zevely-zone/give-the-gift-of-artificial-intelligence-to-your-kids-this-holiday-season/509-2d259041-ca81-435c-a0d0-e20ee1aca7cb"
 cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/local/zevely-zone/give-the-gift-of-artificial-intelligence-to-your-kids-this-holiday-season/509-2d259041-ca81-435c-a0d0-e20ee1aca7cb"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.cbs8.com/assets/KFMB/images/929a66e6-6714-42c1-ba3b-466ffe3653e7/929a66e6-6714-42c1-ba3b-466ffe3653e7_1140x641.png"
@@ -26,6 +27,6 @@ images:
     height: 641
     isCached: true
 
-secured: "JiubToOgTi7oanq+o80f8oJmsnSI028iXMpUb/Q6u2kXinOLb6aiT+LudNBJtMK+P4r+1mknaRDJHSnUAy+sD+Zb2dNlZZtJukfY5nZF28SWAudOMNlye49A049HvvJL4n3UHeDHm5a1Om4QfXfCp4TUtahGl1OmanzVjS8vNl0ds+JV2Ji+C2aGE0vNHZ+ydJ70emD+SsxHIwdz+Bmi0MvMkO4SzHFMp92OJeW55W3WAmbjCMqh+Yx31qH2OaDRPYZO+L8oxmbcc6W7dDWASK0edFbS5InM2xOCXnNQHks7v92Kf2mNleJ9MEA3UwWl2JPtwH5xzkHnH+xCNh2DMs0ry80+asUB+AiYKbUqrpI=;FlrzKgVTSGJsvQ9fRtmJ9Q=="
+secured: "oWbjYpmP0dPDIynoVqPYTmVCZDzqVHaOu1m5OuvgJwe62h+O+iyom+cQzZXxKphBl9ZDp3Rr/G6b0ACfNHxYRycRUUDcTUf/b6498jYp2pvvtwnF7oQ481O+Oz5hAiW53qwu9bXeND4IrWYRKFnDplR0v9tgixynXduwIhGFvVQaR081bpjJSC6euRdzcEXm0DPV6VXmgtt3ZMCixkccis5oa232pV6VJmkZDVaQGDoL+Wu0SY8idv57EKDHNyyqsVSTVyi/v81/APIcFGmMSHuYm+6RmksjiuDwouRMuKW69rYJj7ybWGswCv5/2LpOQTye3ZRJ0ew/T2wP89SKu9aOkd7IgpjurifqbCwSE5MtOeEcTk6kCHkM4kPbtobK2dWzub4hb35oeyt3A+C4ZIBfRwUxSIv4RzgRt9MfqToytYaqULwqx4OuBpo5/81YKoTfDB9TDZfnWH7QE09Wtd5AQ+bTyUVXU44h/UKre2auac2x7f835uFNCy3yVK+/Ij8laOrRX4Z/PjSs8LzYGQ==;bnbvNmtQRCGiMNqmpNTc8A=="
 ---
 

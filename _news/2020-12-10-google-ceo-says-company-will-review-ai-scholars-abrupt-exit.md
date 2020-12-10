@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google CEO Says Company Will Review Abrupt Exit Of AI Scholar Timnit Gebru"
+    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company heaquartered in Mountain View."
+    publishedDateTime: 2020-12-10T20:49:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/timnit-gebru-google-ceo-sundar-pichai-review/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/timnit-gebru-google-ceo-sundar-pichai-review/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/12/10/timnit-gebru-google-ceo-sundar-pichai-review/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 37
   - title: "Google CEO apologizes after AI researcher's dismissal, is sorry it 'seeded doubts'"
     excerpt: "Pichai sent an email to employees Wednesday apologizing for the way that the company handled the dismissal of AI researcher Timnit Gebru earlier this month, Axios reports."
     publishedDateTime: 2020-12-10T02:06:00Z
@@ -39,6 +50,6 @@ related:
         height: 720
         isCached: true
 
-secured: "nrtYGp6/UQvIYEyx3GWoqTRxJM3PSSturw/yMQvcgbJXRyAPnj30E8EghCOdgRwBZn/sPC6C0GyPLe00brmRutc6CRxF0vBKtN0TmEFXJoExkoPow2YkvRyYwaCVU6GwmlDQUjofOPlCcq1jUdayHmG2FNvWWpFlZ2E3NSUw9Z9Br56/5CFyiOU3Kloa01NOnYAL01L44hufCe2RIvlf45qSDK4Qe68FJDdMrUaGPHPfY4Wl63QdHcFF5zVho0WT1dw6x9ZBN9ZLQU3Vm9CoM2waVrqNHwnGn9gvhX0C+NPKJfEZEwWrv90zlbUBaECz/4TOaIp69WPErOVtm+Is3705Vy8cDdebosTPEV6h1uM=;eIkN1TERvjiNuBpe7Lgr6g=="
+secured: "0COgec2fYa/T9spMcEjcjFzkk1ffpMHjGbJjRdKXhPPhwuC10UBTdYkxU8+KSTlqUqSHxcxpzsO7wjAVbK46oIqD344opyPgrhCj6paF6cTEBAMkMWU27pMvaNy2/S8ZjI332GD6ce/N1zZhdKVVOZ9MBDleuG+5eJUeMqD1Vv14EqA7jSjHQKiCYC/XNUjCAY2r6murkljX9xs4Rle25djh/YWr5ioJetuTh4eaGyr3t4GzqH+hJAwKcpusbVbeqHdE+BdcS9JC2lTh1Z58HXR4PlJYff3GLNyMePeD83hk5uBTxLWY2qt6kzBIkOrhfOvRhnA89E1PLl35PvOgBV//xptwAQFC5e/VIT8DtUY=;ZqhYo9t+06ZHKxZYDfnLAg=="
 ---
 

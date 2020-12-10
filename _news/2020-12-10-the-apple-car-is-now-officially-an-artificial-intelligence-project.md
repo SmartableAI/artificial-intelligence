@@ -9,8 +9,8 @@ ampWebUrl: "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-ar
 cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: iDrop News
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Places AI Head in Charge of Project Titan"
+    excerpt: "This week, there were some developments in the evolution of Project Titan—it has a new supervisor, and also, reportedly, a supply deal."
+    publishedDateTime: 2020-12-10T20:50:00Z
+    webUrl: "https://nationalinterest.org/blog/techland/apple-places-ai-head-charge-project-titan-174211"
+    ampWebUrl: "https://nationalinterest.org/blog/techland/apple-places-ai-head-charge-project-titan-174211?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/techland/apple-places-ai-head-charge-project-titan-174211?amp"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 59
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-12-08T115333Z_2040025643_RC2ZIK97VI9K_RTRMADP_3_APPLE-ADVERTISING%20copy.jpg"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Move AI Projects from Pilot to Production"
     excerpt: "Artificial intelligence (AI) and machine learning are transformative technologies, but they’re also relatively new to some enterprises."
     publishedDateTime: 2020-12-09T17:38:00Z

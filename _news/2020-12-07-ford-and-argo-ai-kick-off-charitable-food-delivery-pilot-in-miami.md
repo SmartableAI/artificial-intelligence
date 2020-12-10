@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charita
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://i2.wp.com/www.techdigest.tv/wp-content/uploads/2020/12/Screen-Shot-2020-12-07-at-14.34.51.png?fit=847%2C490&#038;ssl=1"
         width: 847
         height: 490
+        isCached: true
+  - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
+    excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
+    publishedDateTime: 2020-12-10T18:17:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/miami-nice-ford-and-argo-use-self-driving-tech-keep-fresh-food-kids"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 18
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/cruiseSF-MAIN_i.jpg"
+        width: 792
+        height: 514
         isCached: true
 
 secured: "OgiAccztUFqF5OgljDhsnZIxB1Rag61l0HsL12nSC0nr+ZMI8PoGpQJrmFfiC4zl5JuMjugPkh7ekoFCyVC6PUTEv8A1MI1tCnnYOGgzVUZXTob77AGVLCxFRf8N5ZYEMj5z8vGsPSR3NG69EFiEgg7ZuNLqldn7kUbjuH0Oytu7Tbyfb00HskJHgS0ULfbXK3jqsbV94nZjBnZZ/gUWxw0aDtzjSgnpqc0BZLIGvzibH96Byub1/vuCObpoMS89STwSd/nMRY58zjfSfPzjNfbuMPOcdAtukVk3l5Vy9GuvcDIur6JiQd/kZ0ac/ETe1XvL31VQeWsIoBwpHvgkr6txzNs1Z50ZCpraxL7kNeSJjjxJr53a6oJAjW8Cqz2KhwoXb//3KBnvT0VvuMrCDxA570favlyc+bojoYkeZjbG9DvaJlPo4Gex6XwdNSznE6D7cETiFGlx7SQcn1ND/zS0w2ZZg/BxUHpUU3NxFweSDyB9JtUm3rRpe8iPM1zP6HBDB7Pe8mTvkLNJKcBX5g==;pmRZxUT8Z20K8xLhrKR7lw=="

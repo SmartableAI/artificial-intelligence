@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
+    publishedDateTime: 2020-12-10T20:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS announces Amazon Forecast Weather Index to provide 14-day predictions"
     excerpt: "Amazon Web Services Inc. today announced the release of the Amazon Forecast Weather Index, which will help developers increase predictive accuracy of machine learning models by including local weather information into demand forecasts for retailers and service providers at no extra cost."
     publishedDateTime: 2020-12-09T18:27:00Z

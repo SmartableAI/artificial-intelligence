@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -174,22 +174,6 @@ related:
       - url: "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh"
         width: 5760
         height: 3235
-        isCached: true
-  - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-    publishedDateTime: 2020-12-06T03:17:00Z
-    webUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/prominent-google-ai-ethics-researchers-ousting-sparks-ethics-bias-concerns/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 71
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/12/AP20339793092004.jpg?w=1280"
-        width: 1280
-        height: 878
         isCached: true
   - title: "Sundar Pichai apologizes for how Google handled the 'departure' of AI ethics researcher"
     excerpt: "While Pichai did not say AI ethicist Timnit Gebru was fired as she has claimed, in an internal memo sent to staff he pledged to investigate the events to led to her exit and 'work to restore' their trust."

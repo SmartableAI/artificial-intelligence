@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021, according to an annual survey produced by Newsweek magazine. The national news publication recognized 400 skilled nursing facilities out of more than 10,"
+    publishedDateTime: 2020-12-09T10:30:00Z
+    webUrl: "https://urbanmilwaukee.com/pressrelease/covid-19-action-plan-earns-luther-manor-national-recognition/"
+    type: article
+    provider:
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 24
+    images:
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2018/02/Art-Keup-CFO.jpg"
+        width: 703
+        height: 469
+        isCached: true
   - title: "COVID-19 action plan earns Luther Manor national recognition"
     excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
     publishedDateTime: 2020-12-09T20:36:00Z

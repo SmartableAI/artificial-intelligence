@@ -652,6 +652,20 @@ related:
         width: 1150
         height: 630
         isCached: true
+  - title: "Uber is getting out of the self-driving car game"
+    excerpt: "Uber is selling its driverless car subsidiary, Advanced Technologies Group (ATG), to a startup called Aurora Technologies Inc. This move is a major strategic shift from what was once regarded as a top priority by their former CEO,"
+    publishedDateTime: 2020-12-10T19:34:00Z
+    webUrl: "https://knowtechie.com/uber-is-getting-out-of-the-self-driving-car-game/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2020/12/uber-self-driving-car-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Palo Alto unicorn Aurora Innovation snaps up Uber's self-driving vehicle unit"
     excerpt: "A complex deal between #AuroraInnovation and #Uber will reportedly value Aurora at about $10B when it's done, with Uber making a $400M investment and owning a 26% stake in it. #SiliconValley #startup"
     publishedDateTime: 2020-12-07T19:13:00Z

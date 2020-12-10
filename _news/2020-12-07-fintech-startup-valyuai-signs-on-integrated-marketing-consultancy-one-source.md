@@ -7,7 +7,7 @@ originalUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-i
 webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Fintech Boast.ai Secures $23 Million Though Series A Funding Round Led By Radian Capital"
+    excerpt: "Boast.ai, a U.S.-based software innovator whose flagship product automates the complex process of claiming R&D tax credits in the US and Canada, announced on Thursday it secured $23 million through its Series A funding round,"
+    publishedDateTime: 2020-12-10T20:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170139-u-s-fintech-boast-ai-secures-23-million-though-series-a-funding-round-led-by-radian-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170139-u-s-fintech-boast-ai-secures-23-million-though-series-a-funding-round-led-by-radian-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170139-u-s-fintech-boast-ai-secures-23-million-though-series-a-funding-round-led-by-radian-capital/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/igal-ness-benjamin-usd-bills-unsplash-600x400.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Meet the Fintech companies leading the innovation wave"
     excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
     publishedDateTime: 2020-12-09T05:20:00Z

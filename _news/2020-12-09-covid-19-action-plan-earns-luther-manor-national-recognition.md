@@ -25,92 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
-    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
-    publishedDateTime: 2020-12-10T06:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake"
+  - title: "Moraine Valley Grad's Written Work Receives National Recognition"
+    excerpt: "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College."
+    publishedDateTime: 2020-12-10T08:25:00Z
+    webUrl: "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition"
+    ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Patch
+      domain: patch.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984"
+        width: 701
+        height: 526
         isCached: true
-  - title: "Advocates to press Biden, Congress on facial recognition curbs"
-    excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
-    publishedDateTime: 2020-12-08T11:39:00Z
-    webUrl: "https://www.rollcall.com/2020/12/08/advocates-to-press-biden-congress-on-facial-recognition-curbs/"
+  - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
+    excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
+    publishedDateTime: 2020-12-09T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
     type: article
     provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Advocates to press Biden administration, Congress on facial recognition curbs"
-    excerpt: "Advocates for privacy rights, civil liberties and racial justice are preparing to press the next Congress and the Biden administration to impose stricter regulation"
-    publishedDateTime: 2020-12-08T17:07:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21165656/advocates-to-press-biden-administration-congress-on-facial-recognition-curbs"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
+    publishedDateTime: 2020-12-09T20:36:00Z
+    webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 38
+      name: Patch
+      domain: patch.com
+    quality: 24
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/12/20201208_AMX_US_NEWS_BIDEN_FACIALRECOGNITION_GET.5fcfb1aa3ae3b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
+        width: 730
+        height: 945
         isCached: true
-  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
-    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
-    publishedDateTime: 2020-12-06T10:30:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
+  - title: "Englewood Health Receives National Recognition as Pandemic Hero of the Year by The Leapfrog Group"
+    excerpt: "Englewood Health has been awarded the Leapfrog Pandemic Hero of the Year Award by The Leapfrog Group, an independent"
+    publishedDateTime: 2020-12-08T21:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18699539/englewood-health-receives-national-recognition-as-pandemic-hero-of-the-year-by-the-leapfrog-group"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18699539"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18699539"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 36
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
-        width: 2176
-        height: 1578
-        isCached: true
-  - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
-    excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
-    publishedDateTime: 2020-12-10T18:57:00Z
-    webUrl: "https://www.biometricupdate.com/202012/fingers-crossed-for-balanced-federal-facial-recognition-regulation-under-biden"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
-  - title: "Real-time facial recognition and remote biometrics combine in Idemia NSS’ ‘installation of the future’"
-    excerpt: "At the United States Army’s Redstone Arsenal in Hunstville, Alabama, there is a three-mile backup of cars trying to get onto base every morning. The frustration and loss of time for people"
-    publishedDateTime: 2020-12-08T17:28:00Z
-    webUrl: "https://www.biometricupdate.com/202012/real-time-facial-recognition-and-remote-biometrics-combine-in-idemia-nss-installation-of-the-future"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
 
 secured: "K/QyhxzT+AS1YYLXsqmGTYtB+CZrNZs8ESQUMjdEePbdZ9wKVcYqfFuKB6JhE6Z6VaymA48XBTnHDK+n+OGmnntVNjevSq4No+cvlGQrqhEFuaCv0HRvz4n+5SVAgP4/w26cZwLFW8Tez/FnkFk5NcSozfzNQoDlgQbp8bpO3d2x46D47wG5uIaR/9gqXIlSRsiHriMUX1psKJ0lL8X3XJpZrDYvAuRKetxOFvT/dnEMEMy+8kzzHAFqCfb60hmcJi2kzl9eetfLGnSzo+HLRZOdkubJ9M0marOaYcYXpVnc3bwdJpRsSSZdHKS6Kyq4ISwH+eDQ2NzFt3bMACU6HSLSSPMIjbWCbvz7Ri6XXAY=;7m/XYRTkPtL/765XVLFAbA=="
 ---

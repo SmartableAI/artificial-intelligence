@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning"
-excerpt: "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,"
+excerpt: "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,"
 publishedDateTime: 2020-11-30T12:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020"
-webUrl: "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
   - Machine Learning
-  - Microsoft AI
+  - AI Hardware
 
-secured: "m6Q1i0ywEWSv2e+lmxCmrp6yc3OlKPLT5THbpDV3UpOMy0ZCAmL0yXkpdDJnnreFKIDUZ8S982gCi1WkrU+olKR0miZtk32DnKE1AJ779ZFH+38dQ3+CUP6RQtr4l76g9kv53YN9rEtmhr0uwoecKPcGPk2Kt86pTJwgVeFhfDfyJBq2qKhSYJCMK0szfTS67zktguJ2hg5snLOv4fOhG7nwVDoeGek6mKJnwuwoqFwfmTOt3HarEQWb7/gqpgQi1TpKIcXrICHARweCpABD0mfcijS2q3y3q6l4tjBAMjkbdy7s7RUAy2/g3KgEyv/Ic1Nm5np6chbXmTj2G6XoKmHXQrY0Ty1CWtaELDI4lDQ=;TYNjh9fnKemmorpMey0ERA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "08dplDU7LjSLkHrP2Oc5Ph9Bkj/NCf3ZjuypstVtfK+iwdDdE02GEiRWi/7KWHpVwqo1kqAk+DrM8bqD1iEkM+CHFy7AWfOqeCiUMFcs8SlSduz+cgaDb6eF2jUwIBc0UjzfnUT4FpWR1TNBB0eHuA2xSPWWUX/QwctQUo8Q5qlUIjCUT2f7E4GkhNZddu03Yum78oRvLQAP1Xkd0axkolORFJJcliVIDjjxX0p4AeFquSQuk00W1ynEq75sgZVeubbrsjA0KwHPTX7eJbq5uWNtLWjj26MSFBh7fUINiwh2g3Txd1pJME1fECNwhxgv0EFbF69Wwp5gNGVbja8xVgJNYdekw5T4JrTpAfjUKNM=;nopVrcSAkT8CXuiAf1uIxw=="
 ---
 

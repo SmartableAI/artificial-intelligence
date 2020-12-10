@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-
 webUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Arthur Raises $15M for its AI Monitoring Solution to Protect the Integrity of Automated Workflows"
+    excerpt: "Arthur, cofounded by Adam Wenchel, is an AI model monitoring solution that gives teams the confidence that their deployments are performing as expected."
+    publishedDateTime: 2020-12-10T19:53:00Z
+    webUrl: "https://www.alleywatch.com/2020/12/arthur-ai-monitoring-platform-data-science-adam-wenchel/"
+    ampWebUrl: "https://www.alleywatch.com/2020/12/arthur-ai-monitoring-platform-data-science-adam-wenchel/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/12/arthur-ai-monitoring-platform-data-science-adam-wenchel/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 46
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/12/Adam-Wenchel_arthur-ai-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Arthur raises $15M in a Series A round to fill the last-mile gap in the AI software stack"
     excerpt: "The team has seen firsthand that algorithmic bias and data drift are unavoidable, but that AI observability tools can help teams detect and combat these issues, before their models start behaving badly. “Our team has many models in production."
     publishedDateTime: 2020-12-10T14:24:00Z
