@@ -2,246 +2,21 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2020-10-27-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market-insights.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights",
-      "excerpt": "The healthcare industry is expected to benefit from US$ 45 billion in annual cost savings by 2025. For detailed analysis on the Global Artificial Intelligence (AI) in Healthcare Market browse ...",
+      "path": "_news/2020-11-03-the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars.md",
+      "title": "The Near-Miss Quandary Is Unavoidably Messy For Self-Driving Cars",
+      "excerpt": "Near-miss while driving is insidious, including for self-driving cars. getty. Reckless and fleckless drivers. I’m sure you experience their antics and angst-producing driving ac",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook",
-          "width": 1279,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-surveillance-company-harassed-female-employees-using-its-own-facial-recognition-technology.md",
-      "title": "Surveillance company harassed female employees using its own facial recognition technology",
-      "excerpt": "A surveillance startup in Silicon Valley is being accused of sexism and discrimination after a sales director used the company’s facial recognition system to harass female workers. Verkada, which was valued in January at $1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees",
-      "originalUrl": "https://www.theverge.com/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0s0r8ctNcMwFgFaAO7dH-wN2fXE=/0x0:7952x5304/1400x933/filters:focal(3340x2016:4612x3288):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67692463/Verkada_Camera_Indoor.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/26/21535089/surveillance-company-verkada-harassed-female-employees",
-      "publishedDateTime": "2020-10-26T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-artificial-intelligence-market-worth-19061-billion-by-2025-with-a-growing-cagr-of-366.md",
-      "title": "Artificial Intelligence Market worth $190.61 billion by 2025 with a Growing CAGR of 36.6%",
-      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
-          "width": 650,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18064657",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657",
-      "publishedDateTime": "2020-10-26T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-stock-price-prediction-using-artificial-neural-network.md",
-      "title": "Stock Price Prediction Using Artificial Neural Network",
-      "excerpt": "A stock market is a public market for the trading of company stock. It is an organized set-up with a regulatory body and the members who trade in shares are registered with the stock market and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
-      "publishedDateTime": "2020-10-26T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-ai-art-artificial-intelligence-creates-logos-from-scratch-in-world-first.md",
-      "title": "AI art: Artificial Intelligence creates logos 'from scratch' in world first",
-      "excerpt": "Artificial intelligence has until now only been considered as a tool able to augment human creativity. However, as the cutting-edge tech continues its inexorable rise, experts now recognise machine learning as capable of making an impact of its own in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg",
-      "originalUrl": "https://www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-art-artificial-Intelligence-creative-logo-from-scratch-1352533.jpg?r=1603743319354",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg/amp",
-      "publishedDateTime": "2020-10-26T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-dubai-introduces-facial-recognition-on-public-transport.md",
-      "title": "Dubai Introduces Facial Recognition on Public Transport",
-      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
-      "originalUrl": "https://www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/AP20097250765995-scaled.jpg?fit=1200%2C801&ssl=1",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9cef7aa486df619b0da987%2F0x0.jpg%3FcropX1%3D631%26cropX2%3D4938%26cropY1%3D194%26cropY2%3D2711",
           "width": 1200,
-          "height": 801,
+          "height": 701,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -249,299 +24,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
-      "publishedDateTime": "2020-10-26T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates.",
-      "excerpt": "Led by Kohitij Kar, a postdoc at the McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, the study looked at an area called",
-      "sourceUrl": null,
-      "webUrl": "https://infosurhoy.com/news-summary/neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates/",
-      "originalUrl": "https://infosurhoy.com/news-summary/neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoSur Hoy",
-        "domain": "infosurhoy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-microsoft-upgrades-password-spray-attack-detection-capabilities.md",
-      "title": "Microsoft upgrades password spray attack detection capabilities",
-      "excerpt": "Microsoft has improved password spray detection in Azure Active Directory (Azure AD) by doubling the number of compromised accounts it detects using a new machine learning (ML) system. \"This new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/amp/",
-      "publishedDateTime": "2020-10-26T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-mit-csail-upgrades-its-self-driving-boats-to-actually-transport-passengers.md",
-      "title": "MIT CSAIL upgrades its self-driving boats to actually transport passengers",
-      "excerpt": "Meet the \"Roboat II,\" the second iteration of an autonomous boat developed by researchers at MIT's Computer Science and Artificial Intelligence ... Like a self-driving car would on land, it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/boston/inno/stories/news/2020/10/26/mit-csails-self-driving-boats-can-now-transport-p.html",
-      "originalUrl": "https://www.bizjournals.com/boston/inno/stories/news/2020/10/26/mit-csails-self-driving-boats-can-now-transport-p.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-great-promise-but-potential-for-peril.md",
-      "title": "Great promise but potential for peril",
-      "excerpt": "For decades, artificial intelligence, or AI, was the engine of high-level STEM research. Most consumers became aware of the technology’s power and potential through internet platforms like Google and Facebook, and retailer Amazon. Today, AI is essential ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
-      "originalUrl": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2020/09/story_2_shot_2500-945x630.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets.md",
-      "title": "New AI tool that detects star flares could help us find habitable planets",
-      "excerpt": "Scientists have developed an AI system that detects stellar flares, which could help astronomers search for habitable planets.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-26T155118.919-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
-      "publishedDateTime": "2020-10-26T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful.md",
-      "title": "With Robotaxis Still a Distant Dream, Lidar Makes Itself Useful",
-      "excerpt": "The promise of self-driving cars and robotaxi fleets once seemed just around the corner, but reality is setting in. Makers of the underlying technology are pivoting to more realistic ways of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv4bzJModhs0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "publishedDateTime": "2020-10-26T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
-      "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
-      "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
-      "publishedDateTime": "2020-10-26T09:18:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-02T09:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -564,25 +49,26 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-26-techsee-raises-30-million-to-streamline-field-service-work-with-ar-and-computer-vision.md",
-      "title": "TechSee raises $30 million to streamline field service work with AR and computer vision",
-      "excerpt": "TechSee’s cross-platform, AWS-hosted apps employ computer vision to recognize products and issues and streamline warranty registration . For instance, TechSee Live, the company’s call center ...",
+      "path": "_news/2020-11-03-tesla-full-self-driving-feature-now-costs-10000.md",
+      "title": "Tesla Full Self-Driving feature now costs $10,000",
+      "excerpt": "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
+          "url": "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
           "width": 1200,
-          "height": 621,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -590,16 +76,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
-      "publishedDateTime": "2020-10-26T08:48:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "publishedDateTime": "2020-11-02T08:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -615,26 +101,69 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-26-what-will-the-next-ai-killer-app-be-given-covid-19-impacts.md",
-      "title": "What Will The Next AI Killer App Be Given Covid-19 Impacts?",
-      "excerpt": "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions.",
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
+      "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
+      "excerpt": "WABG merges Wipro’s diverse industry experience and comprehensive portfolio of services with AWS’s industry-leading cloud platforms to help organizations worldwide drive business acceleration, enhance customer experience,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/",
+      "webUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201102005498/en/594194/23/Wiprologo1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-ai-may-help-identify-patients-with-early-stage-dementia.md",
+      "title": "AI May Help Identify Patients With Early-Stage Dementia",
+      "excerpt": "Research suggests that how we type, sleep and speak may offer clues of cognitive decline.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "originalUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f95dce16079e862a88df866%2F0x0.jpg",
-          "width": 1200,
-          "height": 919,
+          "url": "https://images.wsj.net/im-253269/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -642,16 +171,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T08:42:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -671,29 +200,38 @@
       ]
     },
     {
-      "path": "_news/2020-10-26-2021-is-the-time-for-ai-to-shine.md",
-      "title": "2021 is the time for AI to shine",
-      "excerpt": "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to.",
+      "path": "_news/2020-11-03-retailers-use-ai-to-improve-online-recommendations-for-shoppers.md",
+      "title": "Retailers Use AI to Improve Online Recommendations for Shoppers",
+      "excerpt": "Companies are getting better at helping customers find what they are looking for—even when they don’t know what they want.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
-      "originalUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
+      "webUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "originalUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 97,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253272/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
-      "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -709,27 +247,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
-      "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
-      "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",
+      "path": "_news/2020-11-03-aws-to-open-data-centers-in-switzerland.md",
+      "title": "AWS to Open Data Centers in Switzerland",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_102120_1.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
+          "width": 440,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -737,13 +273,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
-      "publishedDateTime": "2020-10-26T07:09:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T08:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -753,390 +289,10 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and.md",
-      "title": "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ...",
-      "excerpt": "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
-      "originalUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellensburg Daily Record",
-        "domain": "dailyrecordnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-c3ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai.md",
-      "title": "C3.ai, Microsoft, and Adobe combine forces to re-invent CRM with AI",
-      "excerpt": "Integrate Microsoft Dynamics 365, Adobe Experience Cloud (including Adobe Experience Platform), and C3.ai’s industry-specific data models, connectors, and AI models, in a joint go-to-market offering designed to provide an integrated suite of industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
-      "originalUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
-      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
-      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T05:59:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ai-bias-blame-the-workman-not-his-tools.md",
-      "title": "AI bias: blame the workman, not his tools",
-      "excerpt": "AI empowers efficiency, but it's paramount that developers don't use demographic data to influence outcomes. First it was taking our jobs, now it’s discriminating against our customers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
-      "originalUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aPK9JP79EUu5CqWfrQLTZ7-1200-80.jpg",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
-      "publishedDateTime": "2020-10-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025.md",
-      "title": "Deep Learning Market Emerging Trends, Revenue Estimation, Global Size and Forecast Report to 2025",
-      "excerpt": "Oct 26, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025-2020-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025-2020-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-dont-fear-ai-it-will-lead-to-long-term-job-growth.md",
-      "title": "Don't Fear AI. It Will Lead To Long-Term Job Growth.",
-      "excerpt": "COVID-19 has sped up the automation of many tasks, leading some to fear algorithms will take their jobs. But AI is creating more jobs than it destroys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
-      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8fea71775ffb7b81005705%2F0x0.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
-      "publishedDateTime": "2020-10-26T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark.md",
-      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 Chip Is On Rank 1 In AI Benchmark",
-      "excerpt": "Huawei has officially introduced the Mate 40 series. The lineup is the latest flagship of the brand and is featuring top-notch specifications",
-      "sourceUrl": null,
-      "webUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
-      "originalUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theindianwire.com/wp-content/uploads/2020/10/SAVE_20201026_015401.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
-      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
-      "publishedDateTime": "2020-10-26T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Wire",
-        "domain": "theindianwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-how-the-rainbow-ai-chatbot-is-tackling-domestic-abuse.md",
-      "title": "How the rAInbow AI chatbot is tackling domestic abuse",
-      "excerpt": "But now a chatbot called rAInbow aimed at South African users is trying to turn this tide. It invites users to take part in quizzes and stories in order to help them better understand what is and is not abuse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/technology-54569878",
-      "originalUrl": "https://www.bbc.com/news/av/technology-54569878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08wf5c1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AWS AI",
         "AI"
       ]
     }
   ],
-  "nextPage": 53
+  "nextPage": null
 }

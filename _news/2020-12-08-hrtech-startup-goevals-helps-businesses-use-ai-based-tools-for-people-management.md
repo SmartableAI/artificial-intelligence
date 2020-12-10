@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/12/hrtech-startup-goevals-businesses-ai-m
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/hrtech-startup-goevals-businesses-ai-ml-people-management/amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "This Tech Startup is Using AI to Help Businesses Find the Right Insurance"
-    excerpt: "Finding the right mix of business insurance policies can protect all physical, intellectual, and financial assets of your business during a recession."
-    publishedDateTime: 2020-12-10T10:32:00Z
-    webUrl: "https://www.newsweek.com/amplify/business-insurance-online-2020"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 46
 
 secured: "tOteN+D9y1lX1kr4NxXTHUHOY1SjEzbUGFxO7A7gWt1cqmd5ukEhJIbRfUwjGIlzNdcEJxia7fDus5C65hEoI5RgfoE+wa+5Vc++W+sL1IWR5wZC6bMInf9YBcmaWMxZGHhgPqF+r2Ly6IiCDkeBhjis2ij2BPb10C9WFHk9T9WHrxXpFUlTaVGibK/jXZjYQnFmrrL1ni7LrPP0870uvDx8MGMQL6U0SboWj1eWywWGRxb60DdrEB6n9BD3iCH0P/fBIaghimr2FfmGm+q7rLPvXEM6uFnd6yhOKzfBhHH3cef5PThhH+93V+Pb1tBG6DSyHETZ3P1pMkVsaCOf5keYquOyzPL7H72p2XEGOaK0bvM9dhhxiIkkTss5TR84iPbbTUPoByJ4ib2MT5PYCfUmfCy4Fz3fsmmGx9uMWcRYR18CE9IEZGzPW2sua0C+AEFqBHwBpLvQ+75zdTNb+KD+qudoXz9A/S9zlNRgAY4siopjI8V1eu4eZbnLu2jsaPmpvhIqyLeZlYUBsVLV2Q==;ruHff5qn2R29KqZCNT2dEA=="
 ---

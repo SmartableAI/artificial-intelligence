@@ -1,29 +1,48 @@
 ---
 category: news
 title: "Artificial intelligence finds surprising patterns in Earth's biological mass extinctions"
-excerpt: "Scientists have long believed that mass extinctions create productive periods of species evolution, or ''radiations,'' a model called ''creative destruction.'' However, new analysis provide evidence for different outcome."
-publishedDateTime: 2020-12-10T05:02:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/tiot-aif120720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/tiot-aif120720.php"
+excerpt: "Charles Darwin's landmark opus \"On the Origin of the Species\" ends with a beautiful summary of his theory of evolution: \"There is a grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one;"
+publishedDateTime: 2020-12-10T13:15:00Z
+originalUrl: "https://phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.html"
+webUrl: "https://phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.html"
+ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.amp"
 type: article
-quality: 30
-heat: 30
+quality: 48
+heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/250798_web.jpg"
-    width: 1440
-    height: 1313
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/58-artificialin.jpg"
+    width: 2880
+    height: 2626
     isCached: true
 
-secured: "Ejz6ycL5d6wA7FmdGl2XIH+NAoLLJScS8NHOyOz3k8dHSQw6/PLux3DKV14h9GPU86YI5gErLLKrb+LhYaRlLNL9Q3cMtBTwM59zHkRUvTZxUQAIq3gTtizyNIGSFDOAoLx2r+Y6coPsxfDX5GlC8etfAw6Ah0Hs3gi/Ci+6kWLMenNSXMPxtmjUGXYyaTyyEbMu3jdG3ZP1HODCzv06JCCP9/OACPuDs9r75BIA73XuKh07h/GxnjBejIhkQvkieUu0Ugq+1fOYaAsuywAVSd9QivgetZZkd6T+VspG/XXqW3wkPXmnSGrNhUPXpvIPqpBW3IYzJJq7xD74gT2yn6S50x1lZK3mfZ2VIpKmp80=;h44y6GWcpxDhWoUplb0oiw=="
+related:
+  - title: "AI spots surprising patterns in Earth’s mass extinctions"
+    excerpt: "Charles Darwin's landmark opus, On the Origin of the Species, ends with a beautiful summary of his theory of evolution, \"There is a grandeur in this view"
+    publishedDateTime: 2020-12-10T16:30:00Z
+    webUrl: "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/"
+    ampWebUrl: "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 59
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2020/12/Artificial-intelligence-finds-surprising-patterns-in-Earths-biological-mass-extinctions--e1607617785705.jpg"
+        width: 900
+        height: 821
+        isCached: true
+
+secured: "pHU7b8TnbTzR8Ry9wZxrdOnD2RIO+AZimcVX17HEcnLK8ttwxCMrh0/0ukzVPai8b4YgK+cnQv95Iix/cx/A2fLNkuCKUqt/fEITWkv/v3dzokMhH5eGs/6DtItvgYJj99fg/GjNzLI6AdSBSry2fV8xc5kMRyFfVVVoJxIvpv3A/r1rLPaUaohSOuN4Hn20b8iPDoU+2cFjmz0+GO1m+i50MVwV4mm/ZYUFlnIjcBkKSMkjWvQ6Lrk9dQ6sZOVKeode/agIX80OBNVBOKvqN9SIjB6kIMpUuWYGsV1gZr/PAupxIUoCZ0MQ83vfHvmcgR1ZP8+cGJh7RMSYhvYtLtPlr6UZ+J1AnrliRYQm7do=;AXrLO0ttddHJcSxiNKJuzA=="
 ---
 

@@ -218,6 +218,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Deep learning software tools to the rescue of medical research"
+    excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
+    publishedDateTime: 2020-12-10T16:45:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research-11607614898849.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research/amp-11607614898849.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research/amp-11607614898849.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/12/10/600x338/AI-ke6H--621x414@LiveMint_1607615762859.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
     publishedDateTime: 2020-12-09T23:26:00Z
@@ -330,6 +346,6 @@ related:
         height: 641
         isCached: true
 
-secured: "DSo9Gg0EqIoM67S/8xtdPgxYfKpU+r3ilBgNbxlJ+tnRRTNRhPb4PaGXUd9H/yWpA8E1iyeA4yfXb7ivW/dP2l2AVm+1MZU9FZZxvKb8VxeWS5iDhWIjFPekght2yxNG/8F82vRPIxbjlLq1Tclo0Xulwt76uRh51+FatY6vPj9pajzTLv1mzZVcTZqOcBAmUAfF8kt614cZp57RyRgsGVf7yPlG+zF4YI8WyDz3UWS3W1UvC80xDxfDBry+Zagj+rZlxFm4znwWP5aQVTx7BlR5lEDSVNb8omhmj+Dq0jGjlr8RwhOy2hVtZMXQmHlln7iFRJhMkaVURa0bbSzekdQm08ZzEJKWCviJmT8XUWc=;n8u5bwy4zZfGYdd1HjGohg=="
+secured: "3TQ35X4zKvQ71V+xBecH35tFMzDWexx6t0EiuvEV0IDdqbJ9RzoLE0JcK1N2WNHE9yxuQEJIEMOlRbyd03kaXnrIJshazHqECCDhME4Ip2DWMShmk/FulbIJzOSrMxBkSEsHjvS18K8i+bdl1+cQ7fzAunhnHo0vOEvU0bL3ip4yp5Wtrr2bHrFHBMHD6TJQ9jS7KFmkyLpBYml3C9N6rShZBLeoiQjzU9h+pHwF1r+rygvMK3lqTX+nd5/hmUnCNVTGpEMuHDD8EdoPmLmaWqdJl1V+3YljpNL71aWL709eZvGpj4fBlbcXSc6DuMNHkRyauK9ix+/IYG1/cJIvjdsCFvRw3vbkcj/nr/gJ6VzcI8tcxx04rQaNOSpeKj/wR2bUvomNji+Kko7U0Jy7nc1mM7xlfTlL+r0LZCxyQ2OGG/TjVT6GqVbdFZaTqLCSuybHOmCqvEMTS5qJ2OJ8xUI22ZO4VFfCYvqYtc5lFqtcQOxJgZyLB5nD2TyqAP20IFVjHQA0p9TmcOoftBv9eA==;CcQUVYhRrQW3AXhjByo92g=="
 ---
 

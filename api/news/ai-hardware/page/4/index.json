@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-07-stanford-researchers-developing-fast-portable-covid-19-testing-chip.md",
+      "title": "Stanford researchers developing fast, portable COVID-19 testing chip",
+      "excerpt": "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "originalUrl": "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7713011_110620-kgo-lab-chip-img_Image_00-00-22,27.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "publishedDateTime": "2020-11-06T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live.md",
       "title": "The cutting-edge computer architecture that’s changing the AI game (VB Live)",
       "excerpt": "Large amounts of data, the arrival of industry-standard frameworks such as TensorFlow and PyTorch, and the death of Moore’s Law, are all signs that it’s time for the next generation of ...",

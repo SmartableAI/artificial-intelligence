@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
-excerpt: "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (\"Himax\"), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,"
-publishedDateTime: 2020-12-09T21:13:00Z
-originalUrl: "https://www.marketwatch.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution-2020-12-09"
-webUrl: "https://www.marketwatch.com/press-release/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution-2020-12-09"
+excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor"
+publishedDateTime: 2020-12-10T15:01:00Z
+originalUrl: "https://www.eejournal.com/industry_news/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution/"
+webUrl: "https://www.eejournal.com/industry_news/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution/"
 type: article
-quality: 59
-heat: 69
+quality: 29
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
-  - Google AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "yrSlTIvcy783Lp/Et/8/KtIPi1i8THfJx8071r+KLDNn4EZHGpv4Rr0ScJBbGqe2epr1odw1QopZnOcKUhTKRLZGzkPVWRNbnc7bEcfHdHhop7ZE6NygboirdBPxnz0LbJvaCXurZFPE2meegPpFY903J/73reP72gyvHlml2YnbiyqftxQmIeVtlyXTRJlebxa0CNzhECkk4P9hTsdNKhcG7yMagh9r4S3K4PRKfP311o7qYGptoRBykZDAB5ExKCkCGpOw4VjLPRp0pA++K0gBcfCRT8IwontobMiRiM2/LuPd3N5fx9g1TCwHb8C6pscDKeqAdZEumJIszP8I5580JtjiEeh0BiFaThxMeOU=;a67SzeGzOs6Fv63ctnbdHA=="
+secured: "D0YpZXUXTqPcgg6qNNn4rkR4tr4sC9Idp/K2IJlqcCsZejJ/Poz/61FKQW5H4dzdYtfPXqL+QYs9eHoweuUNYam6kKlDhJl/Uav75beJb3t7zPN9fpb0ohRZJmEdMcE1f599O5+4IKsbKGaOEnpwN/81GBbnstGFeU+v55PPJ2aaMUjJ/1H2peBAPk+XeN1H48LoZR/58+IJXf/HOpYoHE42/N5o+fz90qZhTQDLksyFm8Ouq4K/o8Tn94uP0082Ctdxc+a4Qtt8OY8iIvAvDUKzPZK5xC+XjmSoFvhTv2lFtOrqwUCKbKj5B8mkgnBbC3Hr4tvyV/zA722JB9LKKXLjb+WgN7psTy/8ew4Lxfg=;mALHOJEBImDCAiQMHuKTeQ=="
 ---
 

@@ -206,6 +206,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Deep learning software tools to the rescue of medical research"
+    excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
+    publishedDateTime: 2020-12-10T16:45:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research-11607614898849.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research/amp-11607614898849.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research/amp-11607614898849.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/12/10/600x338/AI-ke6H--621x414@LiveMint_1607615762859.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
     publishedDateTime: 2020-12-09T23:26:00Z

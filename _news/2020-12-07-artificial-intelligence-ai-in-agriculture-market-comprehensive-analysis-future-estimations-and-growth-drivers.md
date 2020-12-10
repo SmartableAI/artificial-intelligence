@@ -34,20 +34,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "Why AI for admin will be a top healthcare investment area for 2021"
-    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
-    publishedDateTime: 2020-12-07T14:50:00Z
-    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
     excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess adoption of automation in revenue cycle operations at health systems and hospitals across the U."
     publishedDateTime: 2020-12-10T13:23:00Z
@@ -84,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Decoding the Booming Adoption of AI in Healthcare Market"
-    excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
-    publishedDateTime: 2020-12-08T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/decoding-the-booming-adoption-of-ai-in-healthcare-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 58
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/Decoding-the-Booming-Adoption-of-AI-in-Healthcare-Market.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
     excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"

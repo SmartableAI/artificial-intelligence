@@ -140,6 +140,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Speech and Voice Recognition Market Trends, Forecast and Competitive Analysis Report 2021-2024 - ResearchAndMarkets.com"
+    excerpt: "Trends, Forecast and Competitive Analysis” report has been added to ResearchAndMarkets.com’s offering. The global speech and voice recognition market is expected to grow with a CAGR of 20% from 2019 to 2024."
+    publishedDateTime: 2020-12-10T15:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-military-affairs-military-benefits-government-and-politics-military-and-defense-0e869ceea0654dbca4908a647e71604f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "6Epy0PEUYUMH3f5mGefC3Y9IlUH4KAoVznY4FjAD9+KuKmJFPv85tEUH9Rigao/Q+h2G1jBpgstXvW9EfGrQbUAqntqPkamqpVEjSvPbiZ+/czORMauUUYW5WImP4duQ8iDaYfeRg9NrVRxrL79XKhTBNk7qC/43Zop4Oz6QYU222ArxGpO5y3bbTEfB27UnWKHQ9u+aq5mwLVfU9udklCp1wE3YDmaBmt7nuftmx2MigCqgQwrW8vorueszOcg1oIGs+duI8AT0LSMi52j7wzndDXB8R5B7FdyYHscS3aTaXywv0RtDQ2CBCBXjGE4mVRrxtRmdNzO2kTenMuN1onsP9d9+Idu8fX79DP9fDlk=;CS7FnH2qrqp1CucwBwKQjw=="
 ---

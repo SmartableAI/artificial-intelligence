@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launc
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launched-16-virtual-assistants-in-10-months-with-watson-assistant/"
 type: article
 quality: 110
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 990
     height: 498
     isCached: true
+
+related:
+  - title: "CIBC introduces Watson-powered virtual assistant"
+    excerpt: "With Canadians using digital banking now more than ever, CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking."
+    publishedDateTime: 2020-12-10T16:44:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85432/cibc-introduces-watson-powered-virtual-assistant"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "gc2MfJ0q0YWY+ctToI3kSCWqN4N3qQqSx8rD7/PFbESxw0JCXvFE8MjEb8abussCX8KsWLK68I62+18DBBoC/1un7lAeRF+Wpd9NGMuBsg0ufcJWllMCLA+4vIuLqmsHbuAdfxh+gzBlTDEg96FbcKeVWdI+8vS403ThFAMPlzPl3qe70oNPCS5hMI6IJXk6moVXqbGiPH0m76t/9M3npFf6jGrfDasSTgmlPyv4xIAjzecArmmKH1FqqWkpiC2dwN2F2GsPALB/AMncqkD6vwulai2Sd4nHN41bB4GA7HI5lzKYT0fXQf2itPzfKAkDuH3MX4jiBIvQBGXkPpFTDxTxRTM4PxKthkN6/ed8ffo=;WEYclgcBT7ccCJ4oVsT1mA=="
 ---

@@ -2,6 +2,448 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-11-19-machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc.md",
+      "title": "Machine Learning Market Checkout the Unexpected Future 2027 Key Players – IBM Corporation, Microsoft Corporation, SAP SE, Dell Inc",
+      "excerpt": "The Global Machine Learning Market provides an investigative study that offers detailed information about the Machine Learning market that is beneficial to the business strategists and new players of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-introducing-google-news-initiative-conversations.md",
+      "title": "Introducing Google News Initiative Conversations",
+      "excerpt": "This year, the way many of us work has changed dramatically. We’ve gone from lunch meetings and large networking conferences to meeting virtually from our makeshift home offices. The COVID-19 pandemic has certainly upended a lot of this, but that doesn’t mean sharing ideas is on hold, too. That’s especially",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GNI-Conversations-Header-2.max-800x800.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "publishedDateTime": "2020-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rachel-malarich-is-planting-a-better-future-tree-by-tree.md",
+      "title": "Rachel Malarich is planting a better future, tree by tree",
+      "excerpt": "Everyone has a tree story, Rachel Malarich says—and one of hers takes place on the limbs of a eucalyptus tree. Rachel and her cousins spent summers in central California climbing the 100-foot tall trees and hanging out between the waxy blue leaves—an experience she remembers as awe-inspiring. Now, as",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
+      "originalUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_3_1.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
+      "publishedDateTime": "2020-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-stem-cell-imaging-through-convolutional-neural-networks-current-issues-and-future-directions-in-artificial-intelligence-technology.md",
+      "title": "Stem cell imaging through convolutional neural networks: current issues and future directions in artificial intelligence technology",
+      "excerpt": "2 Inclusion Criteria 1. Articles contain the keywords “artificial intelligence”, “machine learning”, “deep learning,” “convolutional neural network,” “induced pluripotent stem cell,” “hematopoietic stem cell,” “biomedical imaging ...",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/articles/10346/",
+      "originalUrl": "https://peerj.com/articles/10346/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dfzljdn9uc3pi.cloudfront.net/2020/10346/1/fig-4-1x.jpg",
+          "width": 600,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system.md",
+      "title": "LAPD bars detectives’ use of Clearview AI facial recognition system",
+      "excerpt": "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/",
+      "originalUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailybreeze.com/wp-content/uploads/2020/11/LDN-Z-CLEARVIEW-AI-1.jpg?w=1024&h=446",
+          "width": 1024,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/",
+      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/",
+      "publishedDateTime": "2020-11-18T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Breeze",
+        "domain": "dailybreeze.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes.md",
+      "title": "Go Jauntly applies AI to seek scale via ‘greener’ walking routes",
+      "excerpt": "Unless you’ve been on very extended digital detox, you’ll have noticed algorithms don’t exactly have the greatest reputation these days, saddled as they are with pervasive questions of bias and inequity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GJ-Routesforyou-Mockup4.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
+      "publishedDateTime": "2020-11-18T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing.md",
+      "title": "Financial services companies are starting to use the cloud for big data and AI processing",
+      "excerpt": "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "publishedDateTime": "2020-11-18T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-what-chinas-fintech-market-can-teach-the-world.md",
+      "title": "What China’s fintech market can teach the world",
+      "excerpt": "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
+      "publishedDateTime": "2020-11-18T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-new-electronic-chip-delivers-smarter-light-powered-ai.md",
+      "title": "New electronic chip delivers smarter, light-powered AI",
+      "excerpt": "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers.md",
       "title": "AI helps create the Milky Way’s family tree — tracking eons of galactic mergers",
       "excerpt": "A team of astrophysicists has used computer simulations and an artificial neural network to identify the mergers that formed the Milky Way.",
@@ -747,433 +1189,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace-can-ai-stop-it.md",
-      "title": "Phishing Is A Gateway To Modern Fraud In Today’s Distributed Workplace — Can AI Stop It?",
-      "excerpt": "Remote work is great for business, and employees love it — but how is it impacting your organization’s digital security?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3d440623fec96d105b87f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/amp/",
-      "publishedDateTime": "2020-11-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
-      "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
-      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions, announced today that it has been awarded a multi-year",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling/article_94422afd-d96a-5121-a4f0-fbb54af42ad9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling/article_94422afd-d96a-5121-a4f0-fbb54af42ad9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-apple-releases-forked-version-of-tensorflow-optimized-for-macos-big-sur.md",
-      "title": "Apple releases forked version of TensorFlow optimized for macOS Big Sur",
-      "excerpt": "Apple today released a forked version of TensorFlow, Google’s AI and machine learning development environment, optimized for Intel Macs and Macs powered by Apple’s new M1 chip. By taking ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
-      "publishedDateTime": "2020-11-18T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
-      "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
-      "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg",
-          "width": 1600,
-          "height": 1068,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "publishedDateTime": "2020-11-18T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
-      "title": "Today’s data science roles won’t exist in 10 years",
-      "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "originalUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "publishedDateTime": "2020-11-18T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-4paradigm-named-as-leader-in-the-forrester-wave-paml-report.md",
-      "title": "4Paradigm named as leader in the Forrester Wave PAML report",
-      "excerpt": "Forrester, a leading international market analysis firm, released The Forrester Wave™: Predictive Analytics And Machine Learning In China, Q4 2020 report. 4 Paradigm received the top score in the Current Offering category,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
-      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-did-a-university-use-facial-recognition-to-id-student-protesters.md",
-      "title": "Did a University Use Facial Recognition to ID Student Protesters?",
-      "excerpt": "University of Miami students accuse the campus police of using the software. Administrators deny it, but they had previously touted the capability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "originalUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb307a284aca534b93b08aa/master/pass/Business-University-Miami-Facial-Recognition-AP_20238702097234.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "publishedDateTime": "2020-11-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-cognitive-systems-market-key-players-ibm-accenture-microsoft-intel-hp.md",
-      "title": "Cognitive Systems Market Key Players - IBM, Accenture, Microsoft, Intel, HP",
-      "excerpt": "The Cognitive Systems market report is segmented into following categories; By Type Hardware Software Services By Application Banking Education Government Healthcare Insurance Manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "originalUrl": "https://www.openpr.com/news/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb18422120_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "publishedDateTime": "2020-11-18T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
-      "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
-      "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/23-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
-      "publishedDateTime": "2020-11-18T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

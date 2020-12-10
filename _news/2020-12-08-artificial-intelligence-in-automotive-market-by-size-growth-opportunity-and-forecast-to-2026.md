@@ -56,6 +56,20 @@ related:
         width: 640
         height: 446
         isCached: true
+  - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
+    excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-12-10T15:39:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=390843"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 16
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "E+G2JEs/cXlpkXxscwECxvqsVXSkWkHf+cefOpe382H3RGGjuepXjACqBzVgAqdzLSp/Cy+sREUqUdnnT/0qz7m10A+DrZOn/Hw4KJPnTHlO/Al9s1N/XMT76MNh3aNG6pryHc12+0s0yGWt0YC1/Dm2nUSaiKGR+2bHe7gQAak4wsv5UPXk9fuIN3J/+yqS7AVCQW/ckxZbUtfpcQ2wMt+Nsdip3keowqyxGvNTmdUAqArF/6DHXAdteIZ6QFsg0zf02bx5YL+SSn+ef+sBVQvR/073jxx8s/dFIs5L4T+cmcM3m4fkdkjazqze2iPSCIpauG5t75S7h8anJFABVyYZ4zl0a0TgOqOSBvyRRA8=;XPBJ8DWViGK1PmS/yOlaEw=="
 ---

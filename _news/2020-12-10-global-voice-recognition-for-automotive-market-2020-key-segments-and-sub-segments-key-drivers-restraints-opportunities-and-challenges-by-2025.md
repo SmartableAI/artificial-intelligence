@@ -38,6 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
+    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2020-12-10T08:56:00Z
+    webUrl: "https://www.financialbuzz.com/global-automotive-voice-industry-report-2020-with-focus-on-china-baidu-and-vw-mobvoi-are-gathering-pace-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "t8h975O8iOOT1BJJ5z14S6WxFxZv74J/GtKG4UbCvrJ4vJfX7e0cJL2iMme+8HtYjIfah4xj0B2ZmGSAypvp3nA0IwoiLu0sonJzF8n6GpZyWW2Q1IRINmTzrUwPlrVfG4x/enqzklMawT37BmGk9JIsZ9/50Wf2jCbebuhOqSscmlpRCDv/JIE/ECTxI5PpYCpNiLxHUY40GEaYeldA7t33na4S4Xq/BuSQWMd9jm5YMaGwTFLEP4aHbtWBbM3XlS++1/3v4brIi17V4E78AK3CAFF73cGnu0YYf9dwMoYtclfgUOpXss79lOqp3MkTUys/dtYRv4i41d1hddmIC/4WusnMCa9pQNowMxVrhv8=;AdQgKvKMH2YTLG8O0991IQ=="
 ---

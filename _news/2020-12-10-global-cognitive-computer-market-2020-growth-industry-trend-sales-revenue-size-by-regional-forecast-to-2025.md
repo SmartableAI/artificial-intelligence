@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
+    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2020-12-10T08:56:00Z
+    webUrl: "https://www.financialbuzz.com/global-automotive-voice-industry-report-2020-with-focus-on-china-baidu-and-vw-mobvoi-are-gathering-pace-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "MBusVIPRTYXFkKiQgNmRh8CszUOSnk7tXvk/qmQ5E7a6wrVzFBy91HbMI44d6E+/HOafh6UqoP65OW48eyLyKLFj8JvoS3Zge1CesXDSLxeEe99LMeaEFU9dPaUHDip9Ojh38HaU6bjVtarkZlvOa4PaVkqRO2ef29i++njf1DBRePGIVDDTCzte+MR6frkfAl7EJM5zUnvVnL/hF6Im3/1xE2EpBg64lMSAXjQdhMF4blgerMrAlbFW95cjPplc1BzPgRl2kCJ8JptHZhMvCPcZZ0+nVZfS/XFjr4LhxwT0zKj1LwFFku+3UkJgURH+zsBpf0HuLAKSYAtRiyfCoyAryd72ig//SvinXcZMzVc=;Apin3bL+7jmSTladIVOzYQ=="
 ---

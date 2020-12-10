@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/12/09/21/36654970-0-image-a-2_1607549856966.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Deep learning software tools to the rescue of medical research"
+    excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
+    publishedDateTime: 2020-12-10T16:45:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research-11607614898849.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research/amp-11607614898849.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-software-tools-to-the-rescue-of-medical-research/amp-11607614898849.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/12/10/600x338/AI-ke6H--621x414@LiveMint_1607615762859.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"

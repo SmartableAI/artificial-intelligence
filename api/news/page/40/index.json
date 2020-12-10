@@ -2,6 +2,443 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-11-12-amazon-beefs-up-machine-learning-in-alexa-to-predict-latent-goals-that-arent-directly-expressed.md",
+      "title": "Amazon beefs up machine learning in Alexa to predict ‘latent goals’ that aren’t directly expressed",
+      "excerpt": "Alexa is getting smarter. Amazon's voice assistant in the U.S. can now predict \"latent goals,\" or potential requests that a user doesn't explicitly request. In the example above, when a user asks",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/download-630x472.jpeg",
+          "width": 630,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "publishedDateTime": "2020-11-11T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
+      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
+      "excerpt": "NEW YORK, Nov. 10, 2020 /PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that its No-Code AI platform has been named the winner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-301170180.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-301170180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning.md",
+      "title": "AI research finds a ‘compute divide’ concentrates power and accelerates inequality in the era of deep learning",
+      "excerpt": "The analysis reviews papers accepted for publication at large AI conferences such as ACL, ICML, and NeurIPS in categories like computer vision, data mining, machine learning, and NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-police-in-london-face-legal-action-over-cancelled-trans-rights-protest.md",
+      "title": "Police in London Face Legal Action Over Cancelled Trans Rights Protest",
+      "excerpt": "The organisers of a protest were threatened with arrest, despite being a political group that had taken health and safety measures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "originalUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fabd8931028e5009b2a11cb/lede/1605103070564-2cdrph1.jpeg?crop=1xw:0.8436319765002098xh;center,center",
+          "width": 3574,
+          "height": 2010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.md",
+      "title": "Google launches AI tools for healthcare to streamline document review, analysis",
+      "excerpt": "Google launched new artificial intelligence tools for healthcare providers to search through medical documentation on Nov. 10, according to a Google Cloud blog post. Healthcare professionals can now preview Google's Healthcare Natural Language API and AutoML Entity Extraction for Healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
+      "title": "People suffering depression and anxiety want to reveal their pain — to a robot",
+      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "publishedDateTime": "2020-11-11T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-ibm-and-amd-partner-up-to-accelerate-development-in-cloud-computing-and-artificial-intelligence.md",
+      "title": "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence",
+      "excerpt": "International Business Machines ( NYSE:IBM) and Advanced Micro Devices ( NASDAQ:AMD) today announced a multiyear agreement to bolster security and artificial intelligence (AI). Under terms of the deal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600345%2Fgettyimages-527057922.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "publishedDateTime": "2020-11-11T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "JERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-uipath-rpa-now-available-in-microsoft-azure-marketplace.md",
+      "title": "UiPath RPA Now Available in Microsoft Azure Marketplace",
+      "excerpt": "This enables more sophisticated automations with AI capabilities such as document ... “The power of running UiPath on Azure is unquestionable as we constantly optimize our flexible, agile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released.md",
       "title": "Equitable tech: AI-enabled platform to reduce bias in datasets released",
       "excerpt": "The platform could promote equity in academic admissions, credit score assessment, hiring, academic admissions, and more, according to Synthesized.",
@@ -758,430 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
-      "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
-      "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
-      "originalUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605079273_microsoft_qualcomm_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
-      "publishedDateTime": "2020-11-10T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app.md",
-      "title": "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App",
-      "excerpt": "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg",
-          "width": 300,
-          "height": 232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
-      "publishedDateTime": "2020-11-10T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-31b-valuation.md",
-      "title": "SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation",
-      "excerpt": "This year, more than ever before because of the COVID-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done and entertain themselves. That has created a huge bonanza for cybercriminals,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
-      "originalUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
-          "width": 1024,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
-      "publishedDateTime": "2020-11-10T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-3-ways-conversational-ai-gives-your-organization-a-competitive-advantage.md",
-      "title": "3 Ways Conversational AI Gives Your Organization A Competitive Advantage",
-      "excerpt": "Contact centers are moving to the strategic heart of the business. Here's how the latest advances in conversational AI can help improve CSAT without increasing operational costs, plus a look how leading organizations are already seeing success with Google Cloud CCAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab1e5eb57f27c29d950d15%2F0x0.jpg",
-          "width": 1199,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
-      "publishedDateTime": "2020-11-10T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-raise-2020-how-healthtech-startup-sigtuple-technologies-is-leveraging-the-power-of-ai-in-healthcare.md",
-      "title": "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare",
-      "excerpt": "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures",
-      "originalUrl": "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp",
-      "publishedDateTime": "2020-11-10T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-india-bets-on-ai-tech-to-curb-coronavirus-infections-amid-privacy-fears.md",
-      "title": "India bets on AI tech to curb coronavirus infections, amid privacy fears",
-      "excerpt": "In India, dozens of data-driven solutions have emerged to track people’s movements, check temperatures and enforce social distancing, sparking privacy fears.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
-      "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/11/10/29a1f82c-233c-11eb-8a46-f186a810a22a_image_hires_192345.jpg?itok=91UBDaUj&v=1605007438",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
-      "publishedDateTime": "2020-11-10T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-advanced-computing-in-pharma-medtech-how-cognitive-biases-can-cost-you-millions.md",
-      "title": "Advanced Computing In Pharma & Medtech: How Cognitive Biases Can Cost You Millions",
-      "excerpt": "The life science industry is another example, as three forces are combining to make it vital for these companies to profitably use sophisticated computing technologies: Huge profit opportunity from looming healthcare services shortage: Many experts predict a large shortage of physicians and nurses in the United States over the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.meddeviceonline.com/doc/advanced-computing-in-pharma-medtech-how-cognitive-biases-can-cost-you-millions-0001",
-      "originalUrl": "https://www.meddeviceonline.com/doc/advanced-computing-in-pharma-medtech-how-cognitive-biases-can-cost-you-millions-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/30df55cd/30df55cd-88be-4040-9880-7ca21e28be8d/istock_926295810.jpg",
-          "width": 638,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Med Device Online",
-        "domain": "meddeviceonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-uae-based-fintech-firm-launches-ai-powered-kyc.md",
-      "title": "UAE-based fintech firm launches AI-powered KYC",
-      "excerpt": "Fintech company PayBy has launched an AI-powered Know Your Customer (KYC; also termed Know Your Client) process in the UAE. The KYC is 100% paperless process and takes only 30 seconds to complete, doing away with the need for extensive documents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
-      "originalUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
-      "publishedDateTime": "2020-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-joshai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin.md",
-      "title": "Josh.ai launches a ‘nearly invisible’ Amazon Echo competitor that’s the size of a coin",
-      "excerpt": "In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
-      "originalUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/20_10_13_Josh_AI_3126.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
-      "publishedDateTime": "2020-11-10T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

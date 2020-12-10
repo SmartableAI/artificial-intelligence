@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
+      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
+      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "publishedDateTime": "2020-12-10T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-healthcare-artificial-intelligence-ai-market.md",
       "title": "Healthcare Artificial Intelligence (AI) Market",
       "excerpt": "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1306,49 +1358,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
-      "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
-      "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/23-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
-      "publishedDateTime": "2020-11-18T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

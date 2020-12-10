@@ -3,12 +3,12 @@ category: news
 title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
 publishedDateTime: 2020-12-09T18:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: nbcnewyork.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -84,6 +85,6 @@ related:
         height: 413
         isCached: true
 
-secured: "MAT2BNQsVhGZTGCP7tebdIJniKspyVLixD3OFzE58JqEsDfp8YsuM5UY6iLBce0H8KfoRmyX0m/nDgfyVVEff9JR7o41G6iznbL9uMLGvSY6c4zxchIFsb1HPvh/ygv4lMis8vQsPiOAj/I8WB54sj8KZkOzygczxZ+8AxLhj5a9DrfbzWYuyCTCDS1vj5qBfGJ6GaMAtiBm4v62Jsuq3/uKy7DNbt8x7BCkDwMG4SZjCHMVaLm4hTN6BNHy7e2Pp4FvJnSwKosbT3bJTTRCMPiJqF9HWY7+AWI8SuzLRLT4O2Zdrg15OavEVomfXbdhVKvK6/ZzHZbHDfWOliobICr5bCVomLqUvaf5f990vU0=;ADKSAX/Ueuvu5WbtW/uLTA=="
+secured: "JbKbd97JsQLR3OoDtsEr234b4dACTsfF5nmFKsHK1YclgRlDdXzodMnKqAQz5pLs+pQlg5g8v0soiwSdJi2iTPnFZ9mwKt6lvggPxe4qXL/1zz9uc4K81FTM5ZYv7/3twPJnGQbsZI279D35ROsxiApYjq7TfFdCv25Oj+kAtaM5SaxEFACr8pdTlG5my+/D+c/0rtTa3AJXegfiyMdC1KopN3e7K6oXIQ2SnCNlW7d8WJs0M17XpWAOOpsDTT67QpCgh4oFzJETOnbU7m6J7oycwMx6QGoTkfIYFP4cxG8FfEy6+94W6UtUmKNac7DEnLzFwTr80nqZ6MaGed/15X0cxnG/U7+exc1knuoF+TM=;57Twt2UcjVzMGgJ0ODa8xw=="
 ---
 

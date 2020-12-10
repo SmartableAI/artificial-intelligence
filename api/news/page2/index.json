@@ -2,6 +2,465 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-c3ai-on-ipo-using-nvidia-gpus-and-competitive-strengths.md",
+      "title": "C3.ai on IPO, Using Nvidia GPUs and Competitive Strengths",
+      "excerpt": "CEO Tom Siebel joined TheStreet to discuss the company's trading debut, its use of Nvidia GPU's and its biggest competitive strengths in comparison to rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
+      "originalUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.jwplatform.com/thumbs/7E6sbUJ2-720.jpg",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
+      "publishedDateTime": "2020-12-09T14:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias.md",
+      "title": "Columbia researchers find white men are the worst at reducing AI bias",
+      "excerpt": "Columbia researchers find evidence that differences in gender among engineers plays a role in introducing bias into AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/columbia-researchers-find-white-men-are-the-worst-at-reducing-ai-bias/amp/",
+      "publishedDateTime": "2020-12-09T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision.md",
+      "title": "AI is not yet perfect, but it's on the rise and getting better with computer vision",
+      "excerpt": "It can beat anyone at chess but can't recognize fountains. One professor talks about the promise of AI and computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/1200x675/5c415c0f75141a1795cb279d61b3d614/20201203-aiindiana-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-yet-perfect-but-its-on-the-rise-and-getting-better-with-computer-vision/",
+      "publishedDateTime": "2020-12-09T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-computer-vision-is-the-next-level-for-ai.md",
+      "title": "Computer vision is the next level for AI",
+      "excerpt": "AI is very advanced in some ways, but not in others. An IU professor says there are exciting things on the horizon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/",
+      "originalUrl": "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/770x578/8afd868740035cf629cfc497b4529fd6/20201203-aiindiana-karen.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-why-ibms-ai-fact-sheets-should-be-the-industry-standard.md",
+      "title": "Why IBM’s AI Fact Sheets should be the industry standard",
+      "excerpt": "Every once in awhile an idea comes along that’s so good it makes you wonder why it took so long for someone to think of it. IBM’s AI Fact Sheets is one of those ideas. AI Fact Sheets are a lot like packaged food nutrition labels.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/watson-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
+      "publishedDateTime": "2020-12-09T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-siebel-led-c3ai-more-than-doubles-after-651-million-ipo.md",
+      "title": "Siebel-Led C3.ai More Than Doubles After $651 Million IPO",
+      "excerpt": "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYf_ilbSSPwk/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
+      "publishedDateTime": "2020-12-09T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-general-motors-cruise-just-took-the-humans-out-of-its-self-driving-taxis.md",
+      "title": "General Motors' Cruise Just Took the Humans Out of Its Self-Driving Taxis",
+      "excerpt": "The CEO of Cruise, the San-Francisco-based self-driving company controlled by General Motors , said that it has begun operating autonomous vehicles on San Francisco's streets with",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604343%2Fcruise-car-in-hayes-valley-san-francisco.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
+      "publishedDateTime": "2020-12-09T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-7-in-demand-tech-skills-to-master-in-2021.md",
+      "title": "7 in-demand tech skills to master in 2021",
+      "excerpt": "IT pros who have worked with natural language processing, automation, and machine learning operations will have the most job opportunities in the new year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/27/7c3ec992-c2b8-439b-9dc5-f52cd95459cb/resize/1200x/ac384d0f97025cd688a727e7951b3337/istock-667954440.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "publishedDateTime": "2020-12-09T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-heres-how-youll-get-paid-to-ride-in-a-self-driving-car.md",
+      "title": "Here’s How You’ll Get Paid To Ride In A Self-Driving Car",
+      "excerpt": "There are some intriguing (and surprising) ways that people will get paid to go riding in self-driving cars, and here are the Top 5 most likely means.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a30cd9c66718cf61faaf9%2F0x0.jpg%3FcropX1%3D2033%26cropX2%3D7408%26cropY1%3D611%26cropY2%3D4256",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/",
+      "publishedDateTime": "2020-12-09T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-amazon-unveils-dozens-of-machine-learning-tools.md",
       "title": "Amazon unveils dozens of machine learning tools",
       "excerpt": "Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ML, and more.",
@@ -797,469 +1256,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-amazon-aws-unveils-redshift-ml-to-bring-machine-learning-to-more-builders.md",
-      "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
-      "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
-      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/67005e73-7204-4f99-ab6e-f7386f61aaa0/amazon-aws-2020-redshift-ml.png",
-          "width": 1929,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
-      "publishedDateTime": "2020-12-08T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-amazon-web-services-launches-new-tool-to-detect-bias-and-blind-spots-in-machine-learning.md",
-      "title": "Amazon Web Services launches new tool to detect bias and blind spots in machine learning",
-      "excerpt": "A new feature from Amazon Web Services will alert developers to potential bias in machine learning algorithms, part of a larger effort by the tech industry to keep automated predictions",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
-      "originalUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/clarify-2-630x323.png",
-          "width": 630,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-launches-new-tool-detect-bias-blind-spots-machine-learning/amp/",
-      "publishedDateTime": "2020-12-08T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-innovations-in-natural-language-processing-from-ibm-to-help-enterprises-better-understand-the-language-of-their-business.md",
-      "title": "Innovations in natural language processing from IBM to help enterprises better understand the language of their business",
-      "excerpt": "At IBM, we’ve put a focus on developing and expanding enterprise natural language processing (NLP) capabilities designed to help your businesses unearth insights, answer questions and make more informed decisions – even with a small data set or lack of expertise. While human language is simple enough",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/innovations-in-natural-language-processing-from-ibm-to-help-enterprises-better-understand-the-language-of-their-business/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/innovations-in-natural-language-processing-from-ibm-to-help-enterprises-better-understand-the-language-of-their-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2019/10/2019-0924_151_BlogSeries_NLU_Leadspace_final-01-990x448.png",
-          "width": 990,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T16:00:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency.md",
-      "title": "How IBM Is advancing AI governance to help clients build trust and transparency",
-      "excerpt": "As more and more organizations scale their use of AI, they’re challenged with mitigating the associated risks and building genuine trust in AI decision-making. When it comes to trustworthy AI, we believe that consumers, clients and all stakeholders need to know how AI impacts their day-to-day lives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/AI-governance-leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T16:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users.md",
-      "title": "Logitech Circle View Doorbell with facial recognition is made for Apple users",
-      "excerpt": "Logitech has introduced Circle View Doorbell, a new video doorbell for connected homes. This device was designed exclusively for use with Apple HomeKit, the first wired video doorbell to feature",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
-      "originalUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/logitech_circle_view_doorbell_main.jpg",
-          "width": 1440,
-          "height": 937,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/logitech-circle-view-doorbell-with-facial-recognition-is-made-for-apple-users-08650320/amp/",
-      "publishedDateTime": "2020-12-08T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-exceedai-raises-4m-seed-round-pairing-marketing-teams-with-an-ai-companion.md",
-      "title": "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion",
-      "excerpt": "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/",
-      "originalUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2020/12/pasted-image-0.png",
-          "width": 1077,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/",
-      "publishedDateTime": "2020-12-08T13:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025.md",
-      "title": "3D Sensor Market Expected to Grow at CAGR 24.73% and Forecast to 2025",
-      "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-predicting-soccer-goals-in-near-real-time-using-computer-vision.md",
-      "title": "Predicting soccer goals in near real time using computer vision",
-      "excerpt": "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1389-2-756x630.jpg",
-          "width": 756,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:09:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-oceania-treats-climate-change-like-a-machine-learning-grand-challenge.md",
-      "title": "OcéanIA treats climate change like a machine learning grand challenge",
-      "excerpt": "Oceanographers and AI researchers are working together for OcéanIA, a four-year project to understand oceans and the impact of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/jakob-owens-sxNktWfTkHM-unsplash.jpg?fit=800%2C495&strip=all",
-          "width": 800,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/amp/",
-      "publishedDateTime": "2020-12-08T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
