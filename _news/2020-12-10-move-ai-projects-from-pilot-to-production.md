@@ -40,17 +40,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AI Projects Are Hard to Scale"
-    excerpt: "Gartner research shows only 53% of projects make it from artificial intelligence (AI) prototypes to production. There are two"
-    publishedDateTime: 2020-12-05T19:10:00Z
-    webUrl: "https://www.business2community.com/big-data/ai-projects-are-hard-to-scale-02367573"
-    ampWebUrl: "https://www.business2community.com/big-data/ai-projects-are-hard-to-scale-02367573/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/big-data/ai-projects-are-hard-to-scale-02367573/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 39
 
 secured: "e+H/cE/I3v2J30zRlvQYyC+GTCyz9mziNvyNRNVTUlj5+UMD631H7GNd1w5jWkjrn9SuWTMFKS1fhTiN3YO6lIsCmOxeM8tuAruqz8e8Eu+963Cr4jd6d9bANz3yvkBrbBKDjFNQDM9fZqrCQpolnAYbzhSvosVYiK1T45OZpDQHmvdDfXczQ4JhnFZBHUxhedw5pOf8JtlS4Y/RN1eCjrtaT1n15AugV8TH54PQToS8ZTPgOMd+j5oZq+UIdxEIz4TLfYU9eLafULHx8VTY5DPbUn0yvYpNNSWboOfDcrs8mPT2ETO/mEk8yBRsIT0o/1XmA+ebgq1J0ZGZ3dy5V4jBYXO1rmHmnpuvlIY3XOHSDgZrfpPfYhVM5elrw7jLItH3x4XaoO6Mp/f+onqyRQsNy8sdVk9wiR0hDuMf1trY+U5zmTQAlElaqozkrwe/hdF01ZtUp8/p9BwNHwmPMyNtl6nLUNno3F5fkUjFAmSYmUVgb6IsvHjTkhOYzQtzvIri20TuxRK/vryVo66Ykw==;z4/4G6y1S12a4uk0wIYZ8g=="
 ---

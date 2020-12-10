@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-10T10:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
 type: article
+quality: 31
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,6 +22,22 @@ topics:
   - Microsoft AI
   - AI
   - AI in Sales
+
+related:
+  - title: "Global Voice Recognition for Automotive Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2025"
+    excerpt: "Global Voice Recognition for Automotive Market 2020 by Company, Type and Application, Forecast to 2025 published"
+    publishedDateTime: 2020-12-10T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2025-2020-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MBusVIPRTYXFkKiQgNmRh8CszUOSnk7tXvk/qmQ5E7a6wrVzFBy91HbMI44d6E+/HOafh6UqoP65OW48eyLyKLFj8JvoS3Zge1CesXDSLxeEe99LMeaEFU9dPaUHDip9Ojh38HaU6bjVtarkZlvOa4PaVkqRO2ef29i++njf1DBRePGIVDDTCzte+MR6frkfAl7EJM5zUnvVnL/hF6Im3/1xE2EpBg64lMSAXjQdhMF4blgerMrAlbFW95cjPplc1BzPgRl2kCJ8JptHZhMvCPcZZ0+nVZfS/XFjr4LhxwT0zKj1LwFFku+3UkJgURH+zsBpf0HuLAKSYAtRiyfCoyAryd72ig//SvinXcZMzVc=;Apin3bL+7jmSTladIVOzYQ=="
 ---

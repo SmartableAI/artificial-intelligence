@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-art
 webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com"
+    excerpt: "Focus on Medical Image Processing, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The ‘Deep Learning Market: Focus on Medical Image Processing, 2020-2030’ report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-10T11:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "8GTFUCAGtMk1VU5Q4P9tANF3ID/2BmSAPwQP7melShCUX10GV2QzVQdSWBtadfuKWEeEi3V8NM42+QeJNYC3uyJATkTgzqoNC1q3WB4jRHW3RF1Cfag1+l6RsOTQseqH4yIm2hjbEnOp+kAfhGoxTdACKIo+Ixvk/FCu/ISMp1HNZaZCi5uyXzGEv3w2lR5s3Csk/nrYeqBOZm2lSnegm+3dql8Sb0AfZyBlD3fIBb/ic+LTyxXV2VlA290bzJx2T4xoeFB+gxAp9AatqHKRtxQTOpOp8sq/CKzfsZQUK+gVYTxgICXjJkeanHcD4Qwa0bIosi2VQU/B8xjiNk4RzlNlSLBDcfd2riK0OR8pXQY=;yjJns0ShWk0g6VwINKE8Tg=="

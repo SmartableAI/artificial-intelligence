@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expecte
 webUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 256
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Diagnostics Market Size to Expand at Over 32.3% CAGR through 2026"
+    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
+    publishedDateTime: 2020-12-10T12:17:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136700/artificial-intelligence-in-diagnostics-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "SROcUaJTJNj9kHIETWHt7RWwxzpf45eKBVC3/crq8u1rLhagg7mxJq9Ko9gC/yV24LkGXV9RiKrFCym08h5BpxmClSnLik0Z+nSuRXura9wwouUC6JfptPIWIIdIumoOH33HHD6W7TJVr9u/D/YexQcTwzXKZz6Rvd9GMJvMhSF2fKKlJZ3OTbF37YKPKIHwfE1V0YSzQqTcaX89jDRLeoq76dCCWV/F6wxhuRChdUq5eiII8/bup/FPNT3oI6facrux4aeAPz430BNDa8KjsWP2mVXxNrtNF5Va38wWZ+1oJblY7Zo/H45u8JK1kfWSWEjBn0jSwcFouKx35S7bWLchFTcs7isLgfIaXSLF6aM=;teWVsqKT1VuxOBWnVLRmhg=="
 ---

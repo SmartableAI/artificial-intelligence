@@ -43,20 +43,6 @@ related:
         width: 5760
         height: 3840
         isCached: true
-  - title: "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science"
-    excerpt: "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and"
-    publishedDateTime: 2020-12-05T18:10:00Z
-    webUrl: "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 21
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fbfcbc658-3650-11eb-ab48-f271d195f66f.jpg?crop=1600%2C900%2C0%2C0&resize=685"
-        width: 685
-        height: 385
-        isCached: true
 
 secured: "l6ydWbFx7Kka8y5elATznDjyNvHAG0Jlm56XvFSWdhR9IjOIiruSwN1T3mnCBeX0KnZmHhgld+2LVTFU+BqUBCgg+GrdlPoNj7jsIXpyyAEBY9fQaUafEznJ3leNBHfs4axWSRHB5efqUacLu4RE6JN0wMpPdWu0dyttmKrnPrnDUuH8dr+U+LJNNR+tCudER1C43y/9b65L6eHWyHjqDutmbP0VOfqqhL0ZJsymYF9pL9BqOxawCEhE0NFVhbtjCMHOA19eSiRo/QkFzNqZmK52ukaUQBChDO/9O6Q2aq/ciLqz1N4D/ZQSJKYQoB5PP3wte/8+WKrO5nhmHMTRYxFjxoyhvIdUbIZXQiw7EcZNm6cnzjVBXbGXiR89GXlvYXdkrlpybRKvsI/FK3VTM3iHKVxEG8QyUGwbkwKBRx6EgO1aDS2kguoA5dxe9kBwif1gA505Ma1odfcYfF0DvVBGMEs36Ff8N6yh5uPtTSiNdfBzX7WBkTDCDdWl4b4z4D7T7uB6r3/RVQZscDV/1g==;hnK4UNjszI6hYTjQvuTMqQ=="
 ---

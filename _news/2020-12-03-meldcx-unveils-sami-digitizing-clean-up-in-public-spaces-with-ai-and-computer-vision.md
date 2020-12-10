@@ -1,26 +1,26 @@
 ---
 category: news
 title: "meldCX unveils SAMi® - digitizing clean-up in public spaces with AI and computer vision"
-excerpt: "SAMi (Surface Awareness Management Intelligence) turns manual “clipboard and checklist” cleaning procedures into an efficient, digitally-driven and monitored process: Step 1: Cameras anonymously monitor surfaces,"
-publishedDateTime: 2020-12-02T23:47:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-cc6cb5997a6bf1929dcba31a480ae412"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-cc6cb5997a6bf1929dcba31a480ae412"
+excerpt: "To help businesses meet new hygiene standards efficiently and affordably, meldCX, an enterprise software solution provider, has created SAMi(®) ( a new surface"
+publishedDateTime: 2020-12-02T21:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/ac/8acef392-25fe-5470-b964-e12fc105099c/5fc81d0699c60.image.jpg?resize=400%2C225"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "1bQwL43Tx4kNfVeaxQVwv7Vz2yYAxUUnF1FNcKOlq5dqHmug5ShcViDraGAA0Z6llvD4MDAKWUJqmNWRoRtAKIgtV7JxdMlmrWgorWM8fdsYYSd5Pf3ZT5AKHZpuuAoq/Uex7aRAkS83RjEPxx1Vk4X0XsQGZrCatG9dUoqHUrcVwUcm9YjxvfnofQyje3NeYF7NE19V1m8aVFHeudy95s2bzLvV3vZa7HXhtbY7t04jX5tB+frOFYYioSyfMPZzqcW0i4grXMqnVTYJsWZBjVBUzKrUovyySHxfJfC3rT+KA+vyZGfaJv5tYNQ4C0CBeS2coID8OG04Bx+9lnR3wvCgMW4qhF3H4A8def0XSh0=;Yp/XI6qf63BPD2OhdrSN1A=="
+secured: "dPQqk6w8IpiXiO9M9DbdPzCom5XC4OLUrKrNwmkJhjg4lGloWOthomihjLWofYGjrqCkHCZOHoNxUbsM3E5evAfH8GnhuVH9ShTdkMFzPMMLhHtkZSaJoGNhmLyjrWwbFJU1NMSwWf7ADvbLVyYpmN5WnvNun/7EzTgwUoXJWaR/vQnYKBp93OkeifuupI9H7zj4AwGUN5/ttaaJg4pC5BgWFARyRn/xAOS4kKqQoyjd7u+GafVYhw9Tm0seY8DNQhFc+UtQ4D7aGu4bzlV9zrLYFjZwh8/O7birIlAaIKrC1YHhiiXmwEX6ZSiJMZ1V4891kxDHGxAm5bIhga5wSYfWDhm/RmcbyDJGITKYAQM=;ZOEv89E2cxdMc0kzpR8jkQ=="
 ---
 

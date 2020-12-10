@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-ma
 webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 19
+  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "OutSystems, a global leader in modern application development platforms, today announced it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration will enable OutSystems to deliver deeper integrations with AWS services in the OutSystems Cloud,"
+    publishedDateTime: 2020-12-08T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/outsystems-announces-strategic-collaboration-agreement-with-aws/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 19
 
 secured: "wGcoaLWpgqWSqtc4hpXu4PqffOSgerLSZu4a8hyMmm7NX/56wB79QO8+Vr47dhSumezXOIw/uJ3JR0+tXtXMBlsrqENUFgkiYr2Xd6bxTDUKLGjyeJ2AaMSlV/HMaGIjaXi+dH96fcTT94pgeqMXkDnaTmc84J2FCvdLQrtC2m2kN+eW5fKaV6eRq9dnBlM6y1MF/c78wOJBPt15EBEU532gGAOX166XRS48cHgHKaoAfJcaw3PCFNfTxDzqC8vSS8slsvQYULy43rvbjtN+KsIf684VQiyw/re2kuNX5v86PUgerwRZE6CIrPKFG3Smxz4kfyrEjK5fCVDeiDz4qtBXG3QILv0Tdt0wDdUN97A=;2O9IVuh8atxUVVkK650BtA=="

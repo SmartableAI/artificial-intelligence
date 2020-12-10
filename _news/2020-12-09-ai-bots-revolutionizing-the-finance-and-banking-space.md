@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-
 webUrl: "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-the-finance-and-banking-space-nid-214809.html"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 570
     height: 367
     isCached: true
+
+related:
+  - title: "Using AI to transform the customer experience in banking"
+    excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
+    publishedDateTime: 2020-12-10T12:44:00Z
+    webUrl: "https://www.finextra.com/blogposting/19634/using-ai-to-transform-the-customer-experience-in-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "nWDAuGM9cCL28+QkR2t3RFJW1FpF09pta5CEnhr5cr4iIOwWkQtDqR0LJAwCpiV5mHovXUsseSQ6MiLnkPSAmnJ1evDUwkCvwMrYkDCXTG3xm6UjI935p3tCwYLsr8FiJBvLAC4jIXd6QXMiKtma9PBFIhgtcgupxSsUspcS0vPFmBz22xRu2DmrzZCAu2lrOSg0JkUP8JluvWg0EZZmYElrnINaZ9yxo6O+c1u+giO90BWdQXpBVaOunUQqMBVpn8NXxyGYWAGGYNzSFWCePxgk/Ni+n8BG/5pdVNiUF99LXpq+PozT5UzIFqpZp6q+E/3trdI6V6wrasut0nhRm05wFjzrpv+gnaD0T1WwhEYVm8Kn+STxe6cnpIRJs0RVXUgnKsKqneNSGzpQoGV34yRkjXSLZZJ/D1aMpwfJELYTEokwPAKQYrDmmQSFd5AQ4yza8YVyXQqwd4UKCp7Hm+cdAW45A97bn9gc4SNtf+NrJ5+3KWRFGZL74Q452Zl3G8DP+HQzvAd1hUbSSCOzyQ==;3gjIxUaiBfviqr+qYto+8Q=="
 ---

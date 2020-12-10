@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-ch
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/deepminds-demis-hassabis-used-chess-to-get-peter-thiels-attention.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/106260865-1574433338966gettyimages-1035249058.jpeg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science"
-    excerpt: "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and"
-    publishedDateTime: 2020-12-05T18:10:00Z
-    webUrl: "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 21
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fbfcbc658-3650-11eb-ab48-f271d195f66f.jpg?crop=1600%2C900%2C0%2C0&resize=685"
-        width: 685
-        height: 385
         isCached: true
 
 secured: "z8gdcRov8hiSULuX2PRD5w7i+ZMX7b9ho7OrbduECaF0UsvpI2GfUb04gATAjSgME3untwIsxigaJQpJejN98lteDnbrJQFhB0AL+71T4cbbZ+jfGTBkPDRlfe2mNnN1nKon+7prnuD3/5ibHScHTfDoOFBRxU9DtEqaoNMl0+ElszeHkNe+C2tSTRekasUhAMu+UN5Gg0ifdHRWryxhnzt06F+L61K5667hDJEaCT0msUVl76sQ6iJ5Rk0ulODaP+gVFOqFIuTS/u9KkXK8gED1I+dAwU3k/maievm6L7dYHP73+3vjBcp/a1gsh2RQ0yAsg0LrbYEqIb65Z8cR0C15MTLyGLsAS5+FQ1h08eI=;AanIddliPQ6+W6OVbryJAQ=="

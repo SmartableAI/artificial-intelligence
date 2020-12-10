@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-10T10:30:00Z
 originalUrl: "https://www.gamesindustry.biz/articles/2020-12-10-why-cd-projekt-used-ai-to-localise-cyberpunk-2077"
 webUrl: "https://www.gamesindustry.biz/articles/2020-12-10-why-cd-projekt-used-ai-to-localise-cyberpunk-2077"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Games Industry
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "VP/BlkjhCJx7WVJL28yD4vgh6yNgCT81PnUz5mBq/yuSu+vjl4du/3Eu/sHnwJCeAeRyUliAK7yW55xTx5QHlFuqX2LajLi2IbP8NkseQSc3AKU4r4uYELEl4jPwB8lN2/kbWU6mOqDBnJkteycijMdz1zAdcxlT8FKXWFex4wIUdC9EGkz69fZ6cL2EP2W8EW+Yu6ZCqy6eSOOa3/J6IX1FrHEDt+EbNAq0w4XHw0NN+Qe0Nc+AvR7INIb2XYmh+SiIrYuL12BSfADiw7HcSR5BDkoexMWb28og60B2uomaW0KoNliZxMrtvt3J/Bz7UNY2546EIvc0YRs0pHPf5q5fzlYLXyKWaPvLDGFUx2A1aL73afE+MOqgGri43Jeo33AsLXMpwFkOl9yl3fAMSEFCVKWiCy/hi6sKkJCzbDzNU3EoMNBKRuY1UWD+U31wSCwX/1tP7dg9bFP7eKDf/EiTAGLUXz5OcO0zlZK+f9DSR/4cp1AP2IsKevOOldmzb9nWcSlTAMPN+6CsxYwuBw==;WzyNqqOArf9GGvS2r9ao8A=="
+images:
+  - url: "https://images.eurogamer.net/2020/articles/2020-12-10-10-02/cyberpunk_2077_v_and_johnny_silverhand_uhdpaper.com_hd_3.2230.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "pS0wHAjnf2+9FzIuOiAzZy7oGsVkaJ8wAoK3zB9YZgoc5tyRo9DboZIikEjM7dxVowfLskiitng9zeKc1ID6Z1uaNMBsFW2zC1U8cydp4NzGxlzFN0ASUcbNtHbAq9EvZ6feF1XqKcZPPF9N1ALJdLQsmy7hoynmD5rjswShMRDxPAjP2iPw4hGTJp2/8tSphIOsYewmSzu1thOthENXBNlYLLWBQ1zjGt/x7fux+qW4Dzki+2Auta65o6FKp7hj6J1fQg1NLlHV14SFo5GqUqmMDX3e0A2ZASJvGuGOK0QE1NmKfRwFyEczTm2VzI7xePTTVtL1BPcHUArYWeRd3tIHsPI7bod1q5zxZCXK8uk=;vp1sV7FZDCTd8OI9tp/lbw=="
 ---
 

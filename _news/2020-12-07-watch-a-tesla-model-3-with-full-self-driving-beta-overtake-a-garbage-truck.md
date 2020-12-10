@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers"
-    excerpt: "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars."
-    publishedDateTime: 2020-12-05T18:56:00Z
-    webUrl: "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html"
+  - title: "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update"
+    publishedDateTime: 2020-12-10T01:30:00Z
+    webUrl: "https://www.benzinga.com/tech/20/12/18721086/tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18721086"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 80
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
-    excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
-    publishedDateTime: 2020-12-09T11:23:00Z
-    webUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/"
-    ampWebUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-SElf-Driving-settings-dev-mode-e1607512392614.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_1.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Tesla Makes Full Self Driving More Accessible To Some Customers By Lowering Price"
     excerpt: "Beta continues to impress, with many fans and Tesla owners posting videos of their FSD Beta experiences on social"
@@ -90,6 +74,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/eowt33txcait6ee-1607535782.jpeg?crop=1xw:0.8056066176470589xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
+    excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"
+    publishedDateTime: 2020-12-10T04:52:00Z
+    webUrl: "https://www.benzinga.com/news/20/12/18726576/apple-working-on-self-driving-vehicle-similar-to-tesla-with-tsmc-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18726576"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18726576"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/andy-wang-nfw2a9jgbsw-unsplash.jpg"
+        width: 4709
+        height: 3139
         isCached: true
 
 secured: "U2qyaXfQ6aDgMLFXlUfapYffuGM1KK+n5/8dy7DYCuU+jOE6DP/8qOPMrKoFY9oGis+P2C3b6LfwZglmokBnDsMOJNEfpMwxkHmd0UO3FLhwoqDiDxTA4MWAAG8JoP3tsyLrSH6unW50JYoQA0fl4/vNChOtDZ78ucZVkf+hiyHAikauw5bRvuEoYL8G3lFCCotqZ6ER+587DttIUH6L6nJalFSRXLlJo+J3s2Of1mcvHsOMB3M/Y7HBkVV9aTzD+nds6PySIYebUVVa7c8UHES2domDw9z/aPWGpOxQP4ozT7zZzyJfo4wnSmEUf5yAOhbf2V9ik64WXTvVkINno4V4lGaWHbZsXkbijYBBjfw=;6WSWazrSFOt8fAcDg1u11w=="

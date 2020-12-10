@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Papercup raises $10.5 million to dub videos with AI-generated speech"
+    excerpt: "Papercup, a U.K.-based startup developing speech translation technology for video creators, has raised $10.5 million in venture funding."
+    publishedDateTime: 2020-12-10T10:27:00Z
+    webUrl: "https://venturebeat.com/2020/12/10/papercup-raises-10-5-million-to-dub-videos-with-ai-generated-speech/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "2cG0QoyCt9FUbnV1RT4XxUDOeC+TDT1F6LveNZcP/Eid6Ngve6pRW4l1FGBYvpMSF/3t06YO3EfADxViwDVoAp3MNiw9GhDJ6CGGXXXxrySD5xXzkjDKINlNFXy7vA6GbQbKrIATKP1Z15PGNvWs3uj4Sg9fuj8Sba9PRdSPkhz6iYrp3CQx0vgYea7A5x/K5ZPmUswlXQGfiLNuxShkQQPxDWt3BCj7frhJb2pYiuYVpuMBhD3a0kmKWg16NmtNErfTxWT0zhqv5BMyQUhHySg0YSQc8JTdxB+JazCLhhZV6r75OsROv+rTM87zPZUEHIpnHoBVLdt0cX+c+hNhvuyIlIcF+2n4LdyVEX9q+5Di/WS13zjxpAWLTSJFHemx9zho6My/1xSKU98AVEzAskmY/7yEr7Q/kldCPVlHf9e2B5RUQS6KNnlK94euk1B9ZhkheOJVz6/2aWivVR4kppR0cN0GP+S/zrOjWhq20Ppc+l2+BniyoC7alRHFiE6XjOAB6PNJ5Ct7pfD3BE5JWg==;drudeJZcZmfqS+bpSodZ+Q=="
 ---

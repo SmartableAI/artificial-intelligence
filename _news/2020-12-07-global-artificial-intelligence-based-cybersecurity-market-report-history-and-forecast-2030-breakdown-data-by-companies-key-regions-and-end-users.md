@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com"
+    excerpt: "Focus on Medical Image Processing, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The ‘Deep Learning Market: Focus on Medical Image Processing, 2020-2030’ report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade."
+    publishedDateTime: 2020-12-10T11:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "249Gw2+hTqKphqujx3a5NaVflVpd8mpBCbqM+fpBVVu6BcBClCwN4F4buLjHtkXk5DLBKwTU3eSdj15+2xQx0CF7Wo8ysgLqJ5jkXeJN20PJ7E8Csf2uUGK8OJHTCX9EA3uTpWa18MTdAR0l48YW7Gyafp8GRAO+dkz4zGMmahTpz3Q0+3VuXdfx9HAjYFt5PUe50TlsTnJgptrYfLOOmFWhENX+qbfjZuknCVunFFz8agSRyR155KEArsKDNDAPxq6zAfXZzhfLtaObKkLR6ETUJ0FQspOf6QbxoKxwpRGmnJa3Ef9frFxxy+3OpjhfEni6V4lqa4PiAsmHe8UeoUGxdEdKmVEjrRnzQi8Bck4=;mAcuYIvgPsooLKlj45mB0w=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
 excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."
 publishedDateTime: 2020-12-10T00:14:00Z
-originalUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
-webUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
+originalUrl: "https://omaha.com/business/consumer/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
+webUrl: "https://omaha.com/business/consumer/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a30cd9c66718cf61faaf9%2F0x0.jpg%3FcropX1%3D2033%26cropX2%3D7408%26cropY1%3D611%26cropY2%3D4256"
         width: 1200
         height: 814
+        isCached: true
+  - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
+    excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
+    publishedDateTime: 2020-12-09T11:23:00Z
+    webUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/"
+    ampWebUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-SElf-Driving-settings-dev-mode-e1607512392614.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The Impassioned Debate: Self-Driving Cars Parking Head-In Versus Nose Out"
     excerpt: "Human drivers aren't sure whether to park heading in or via backing in, which turns out to be an issue for self-driving cars too."
@@ -138,6 +154,6 @@ related:
       domain: wlrn.org
     quality: 19
 
-secured: "wAsTrHFwQ3QHhYrJFE6VzWRC/YWmrDcE1WFdzffH91ZCibVdB6BooG/n/tGWc3f6b52eHMSOhmC29Y5+Ja5P/PaclqJhlBe9hBKgH8j7QucwqYHGgZofa4GAqNOlpo8l7O2OcZW5vndSh+p5KvosJFfsApajKxr9M4mipuqU5ARTCK+gG42UJBFUGjriffTXV1Z19KrrWI77YCQ7OwBGk9AhYYUKDhHrPumKUsQPmLtipwQhJeFry4Hu65WF6d7dNPOoS3G/KEI9hU9vA9sYjgzJWP1b6aVaxntluM+3XuLeeCBt3fzsYo5YH5t0Bx9fqxjTOLdxW+zkvpVYKeMxRS8aEOPRkZ3jEhGdv1KBpHk=;LCez8JKDRM1KYIF7SPUiCA=="
+secured: "UnfRJSl1y+35KvDir8yHPXDdioNbKb1UOoqmr+cwuPE8goxGJn5WMfgnktJ7yzYq1ADOi3ziKZzPnlYN2x6uXXKF03F+YAnE3SYz8Yth5YHDn29GhA2JGlQyhqbMooajiV0VBX5SVaVUvXR4ZZQzE0HRDIohxOZJyKyTRcAU8jcCLEeJrj1Ca0IZ8MjodYC/K+3a1THfzEINyUssNcC/vyl8bmhiqHyumdn1rca8BNznygPVaS9RmY8AGD2nA2Ihc0vfttUteXf9AeQG0ylwgBkSckmsE0mOsS9LJqctNUDSpeZDnyvqq+hqr6hDn5Wd4JE3NiIGfqjmSQTgZj1uqrhweDg/y4SrB+69EDDOgJ4=;1ucZNRCPHyQfR3uyhe+0vA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
 publishedDateTime: 2020-12-09T18:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 type: article
@@ -85,6 +85,6 @@ related:
         height: 413
         isCached: true
 
-secured: "JYzYhxxkE5V6/C5K2wnjp24w3EWQQ2acdg89TyunYin/Mw/0KPw1S0rMiJ/N+vOqyVpEjZiuEErLMpWgrUTxYCbevX2dFS68WtuHGvZwGjBc4cSqLqGPZTOv01Z1ZMWcj9amVNNEsPQPyDfI9hGkKx+P0vnv9ZBTAybFn/oUO4eeN8bec0rmqwuDKtqw0elL8QSq7iOkrisTJzn8BJxHpAx66wLaeZ1EIEfqriM4H0t3xEM++w1FXpWKqFyLnZLRyrPNOnwo2KxV+dFo8D8UhDac3Kx7yZt8RkZS0ZaycmrVXm2O79+jELG7s03I2nwiMYLmUhSOKts1wBNUPxTN3fdf/wXacXvrwlfI1NHiPPpHs5vWHPZhwoBoz6h3oShVvCqCGsRyl67XCRHskZ8SdJ7giTn69qV2alcb/OlzxyVyf+/H8AF7YtmH/lpC4LBrq8uwBb03u7HZoYdbgm0nwDVcjo4dUOMm3Vk1/Z2CI6d60rz/OoSXKpourNrun2L13h3U1ewltgFTKNb9JPFF2g==;jR6V1Ny2Opxrl+Msw87f7w=="
+secured: "fqdf23/R5GLv2O62f9FJ1kxKXDdurdblcUKKY30UU+zDY0Xz+qK0f7hnsXu+leh3xHUEBtvtLt2aha4x9xAKCUyqvZY1oLgbEtlUFlL6969P9RtMqggk3CmgRb9rfWHAnjsOLYzy2Ar19ZVxt/BMgj2ubmuqc4n6Wsm4c3quxKz6N/8YgHrJ9EKELu02z10SGV2frLI1AZoUV9WpnhKauogvBHeXUScnvoIPJAsAZiy+XrIy9SzwyaN5CBEgeHiF+yzaVl2TdVCa5zkHYBX9T9NXaDidKHe52kePER1YzsDEh7DNiF/gTwNyUXW/iYTvj8mt/YjV8x/wpEppjPR9OcVBvIO3U7aUOI92ET1H8l8=;znvN8eZL6oG+igkYHylwtA=="
 ---
 

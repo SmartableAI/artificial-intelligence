@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-10T10:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/gft-recognised-by-everest-group-as-a-major-contender-for-system-integration-with-aws-azure-and-gcp-1029880457"
 webUrl: "https://markets.businessinsider.com/news/stocks/gft-recognised-by-everest-group-as-a-major-contender-for-system-integration-with-aws-azure-and-gcp-1029880457"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Business Insider

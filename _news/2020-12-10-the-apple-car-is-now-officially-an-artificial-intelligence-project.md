@@ -9,8 +9,8 @@ ampWebUrl: "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-ar
 cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: iDrop News
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Projects Are Hard to Scale"
-    excerpt: "Gartner research shows only 53% of projects make it from artificial intelligence (AI) prototypes to production. There are two"
-    publishedDateTime: 2020-12-05T19:10:00Z
-    webUrl: "https://www.business2community.com/big-data/ai-projects-are-hard-to-scale-02367573"
-    ampWebUrl: "https://www.business2community.com/big-data/ai-projects-are-hard-to-scale-02367573/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/big-data/ai-projects-are-hard-to-scale-02367573/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 39
   - title: "Move AI Projects from Pilot to Production"
     excerpt: "Artificial intelligence (AI) and machine learning are transformative technologies, but they’re also relatively new to some enterprises."
     publishedDateTime: 2020-12-09T17:38:00Z

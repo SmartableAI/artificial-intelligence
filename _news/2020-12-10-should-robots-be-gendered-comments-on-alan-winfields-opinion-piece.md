@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-10T09:31:00Z
 originalUrl: "https://robohub.org/should-robots-be-gendered-comments-on-alan-winfields-opinion-piece/"
 webUrl: "https://robohub.org/should-robots-be-gendered-comments-on-alan-winfields-opinion-piece/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Robohub

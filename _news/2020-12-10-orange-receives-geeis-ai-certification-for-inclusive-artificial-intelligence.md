@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-10T10:18:00Z
 originalUrl: "https://www.telecompaper.com/news/orange-receives-geeis-ai-certification-for-inclusive-artificial-intelligence--1365205"
 webUrl: "https://www.telecompaper.com/news/orange-receives-geeis-ai-certification-for-inclusive-artificial-intelligence--1365205"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Telecompaper

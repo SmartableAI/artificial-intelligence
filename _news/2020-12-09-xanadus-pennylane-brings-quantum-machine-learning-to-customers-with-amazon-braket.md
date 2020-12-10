@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-08T23:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
 webUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: PR Newswire

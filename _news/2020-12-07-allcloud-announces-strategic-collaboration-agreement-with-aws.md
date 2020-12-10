@@ -33,6 +33,15 @@ related:
         width: 1922
         height: 994
         isCached: true
+  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "OutSystems, a global leader in modern application development platforms, today announced it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration will enable OutSystems to deliver deeper integrations with AWS services in the OutSystems Cloud,"
+    publishedDateTime: 2020-12-08T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/outsystems-announces-strategic-collaboration-agreement-with-aws/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
 
 secured: "TBPBJc26fpZRNdypVzhqniFEZrmIYMb2dRd5vA8giDGwdzAJnoFn43YraAzf8vmwsmASzGKYw2UAdBLKtdeDMQYFq954opCbkC/cxnkBAkFAKj8DLj2chwS8gdbfrXUbpTGfpVT+sttewbLbCb+LoCbytpz4LWCOeVnz+Pp9D4tFJtfn3jsQCAyxm6BThrbsdhXfqlg49sfMlnt7mXS1Y/2QHVcMO6mMv5vL1WOC8pAQq4MfwlDN8gVe2ngx7GB2ZpyHzDl6skIBvCUi9WbHJNVZJ3NCLGnvzgVtcxfCwjNYiieFXSCuk6WbSNYZWTAFiBlubjCka8gosPhaUjjlSh29l+rs2/45egkmTAguKVE=;Mx/CaJKSocvdcp4AYejhbQ=="
 ---

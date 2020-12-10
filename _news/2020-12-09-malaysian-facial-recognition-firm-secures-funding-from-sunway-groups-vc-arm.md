@@ -6,6 +6,9 @@ publishedDateTime: 2020-12-09T09:57:00Z
 originalUrl: "https://www.techinasia.com/malaysian-facial-recognition-startup-secures-funding-sunway-groups-vc-arm?ref=recommender-666311"
 webUrl: "https://www.techinasia.com/malaysian-facial-recognition-startup-secures-funding-sunway-groups-vc-arm?ref=recommender-666311"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Techinasia

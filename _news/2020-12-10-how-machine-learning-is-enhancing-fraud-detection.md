@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Diving into Deep Learning"
-    excerpt: "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets)."
-    publishedDateTime: 2020-12-08T15:41:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
+  - title: "TD Sees Big Role for AI in Fraud Detection, Lending Decisions"
+    excerpt: "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen."
+    publishedDateTime: 2020-12-10T12:28:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
     images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences"
-        width: 615
-        height: 384
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izHoFxqvJ0o0/v0/360x-1.jpg"
+        width: 360
+        height: 250
         isCached: true
-  - title: "Unlocking the secrets of chemical bonding with machine learning"
-    excerpt: "Researchers have developed a Bayesian learning model of chemisorption, or Bayeschem for short, aiming to use artificial intelligence to unlock the nature of chemical bonding at catalyst surfaces."
-    publishedDateTime: 2020-12-07T05:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201204131313.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "Kj3AFjaCz95vhcogiHt05AIGggyaO+04/IkwM4i8x5CkpDPEZiypRvbaZWQeEU6YM8Q7Wn5El8K6xogEfsQsbzzMqQhols0XgIi7xB3c6R9qvBFx8KQXAtbZQmmuyva4ZekC9jilvVQhcdHo86i4NfSzki/IicdveZ62uB+Vm1Ejoi7U9dzL4JxhTjwI/VCRDz5wwbdUqBErTa9X5XXTnPjSWfot4CYh3hB8Ts8u8mxqUlIpQkwDuAMmBZbYWXPeAE38crBA1haJMyYt34H83pKLnCYV302B01t9f9uoTmev/iRerA7QjgZXINnA0OsEnk3G72Vd1AolS/MY4i7NAC4GuM3J35jlLkmCss/m+GE=;l8tI8yaKINFh2hsgbjt/lg=="
 ---

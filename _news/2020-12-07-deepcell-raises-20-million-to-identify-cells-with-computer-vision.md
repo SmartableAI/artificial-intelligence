@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-ide
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Papercup raises $10.5 million to dub videos with AI-generated speech"
+    excerpt: "Papercup, a U.K.-based startup developing speech translation technology for video creators, has raised $10.5 million in venture funding."
+    publishedDateTime: 2020-12-10T10:27:00Z
+    webUrl: "https://venturebeat.com/2020/12/10/papercup-raises-10-5-million-to-dub-videos-with-ai-generated-speech/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "AI-focused Deepcell raises $20M in series A"
     excerpt: "Artificial intelligence (AI)-powered cell capture startup Deepcell Inc. scooped up $20 million in a series A round led by Bow Capital. The funds are earmarked for developing the company’s microfluidics-based technology,"
     publishedDateTime: 2020-12-07T23:19:00Z

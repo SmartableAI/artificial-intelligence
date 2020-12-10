@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Thundercomm launches unparalleled edge computing product TurboX EB5 Edge AI Box"
-excerpt: "Thundercomm, a world-leading IoT product and solution provider, unleashed a new era of edge computing with the launch of TurboX EB5 Edge"
-publishedDateTime: 2020-12-10T06:33:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18726808/thundercomm-launches-unparalleled-edge-computing-product-turbox-eb5-edge-ai-box"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/n18726808/thundercomm-launches-unparalleled-edge-computing-product-turbox-eb5-edge-ai-box"
+excerpt: "PRNewswire/ -- Thundercomm, a world-leading IoT product and solution provider, unleashed a new era of edge computing with"
+publishedDateTime: 2020-12-10T05:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/thundercomm-launches-unparalleled-edge-computing-product-turbox-eb5-edge-ai-box-1029879778"
+webUrl: "https://markets.businessinsider.com/news/stocks/thundercomm-launches-unparalleled-edge-computing-product-turbox-eb5-edge-ai-box-1029879778"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
-secured: "sr4bvCwUm3dIayQG5nF9Ij3e0xP+BA+mGRsrvKaA4ysP1e0hpTLNxc8psh/NJ2s9TA5eYQu1gxRjwlquPRQKC3yaufSJY5ZWEama/svPyBJyIaC7DL+HIecTxORdu4SlIVymodX+jfQo/Kot8QzYc4bWV7V56nTuAIRFsv8+y36r7ou9alZfYpkyyWaEY/hgB9xeiq27ABua7lV6wFBv10LUFNU/yVB8azj38h5TUWG5lIdziLHO1v9YkTDeeY4QSEcx39fD9VVkF6/Ts3fZM+glZFgoPvwliQroJ+pVda3kSZXEoNbIdF6GQGioRy3TXoUOOMULmBCykHK3fvVHsvyy6txGiiBqRavIDfxh6Ac=;vYSUDiXL7nIAPfuyRHZPPw=="
+secured: "PQTQGYsd3oRwIDyuaTfiaGN79fvsZplJmvcnCtzL8GkFunBmwDPb2RYvXEkQ7qzH3EO+naVz7GlN28Z7C8gCBmq/yK0m1UiTdDVxezFG1pqbvxXT1x6s9Zql8SBNQ0ruuFWJpP3ltbpv9zjH0VgD5T5wmsOangkU6Eo/Luh/n9ciOm++GLS+jwVngk/vEs5uI2dOlV7cspYDtOjrtKWoq8PiUxnZQPB7VEczbsdheMFUOe5/jJwX5lxI6/zzAKCgvwYWgjxN4hcA/LfdbXeba6MteTIJzpV/k/Pmpo2gPSLdVdLVN3rTxx9ixAJt3+on7ndEO2SfyW5tYwTycgxlRhd92KxQ0Yedw7PAxklLMhU=;TWTxyKL1RADfz1+rgE3dBQ=="
 ---
 

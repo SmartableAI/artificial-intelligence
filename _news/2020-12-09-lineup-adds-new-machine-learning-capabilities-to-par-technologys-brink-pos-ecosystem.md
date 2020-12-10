@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-restaurant-operators-consumer-products-and-services-artificial-intelligence-4e5f6eb75ae64261867cf0e7cf5d9d12"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aware Extends Market-Leading Mobile Biometric Face-Matching Technology to Address Masks"
-    excerpt: "(GLOBE NEWSWIRE) -- Aware, Inc., (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today introduced Knomi version 2.13, a market-leading mobile biometric software product offering face-matching technology that directly addresses individuals that are wearing masks with no sacrifice in ease of use or performance."
-    publishedDateTime: 2020-12-09T12:17:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-biometrics-products-and-services-f37ae69cd55b8703b06c9c196c5b7d91"
+  - title: "Lineup Adds New Machine Learning Capabilities to PAR Technology’s Brink POS® Ecosystem"
+    excerpt: "“Quality insights are critical for restaurants in today’s fast-changing world, and Lineup’s ability to use machine learning to drive quicker, more informed decisions, make it a wonderful fit for our Brink POS integration ecosystem,” said Stephen ..."
+    publishedDateTime: 2020-12-10T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lineup-adds-new-machine-learning-capabilities-to-par-technologys-brink-pos-ecosystem-2020-12-09"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "v1Zu1cPXiKZsITSzfatF/opwTw09osQ5Zl+xwpUzCvy18MRr70sp0+5UTdBz7Gms0F3QtqWhEMvIcLLvcF2m8KdSEO68GnAUtvCGDlID98wq6clOQ8wNvZUu1G4cxcp9kMePe4q1wVO7iZXHaFxNhAbsSQyYd03+sH+u5BI0vK1+FGk5fXwljjiCFJRYaGm5MVmV0kOy4N5Y8jOj02AwbUQmvKgFiPD+je+V5H3BT7nEzbEIya66q+w51d7YwgWcraA4KGPb5IrwCK3xZtl563jLlPRB0xklskpdhnJuthphh/QQqc/eIY5U7SQHRiODPufYvWJTqFSxcOgiPJ6csrCpGInx7HQ6LVS5Tr3LXlY=;aJ2dIYS8dMofqpAFMeCtBQ=="

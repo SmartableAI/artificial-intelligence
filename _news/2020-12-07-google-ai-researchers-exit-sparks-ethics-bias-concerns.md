@@ -69,6 +69,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "The Dark Side of Big Tech’s Funding for AI Research"
+    excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
+    publishedDateTime: 2020-12-10T12:08:00Z
+    webUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
+    ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
     excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
     publishedDateTime: 2020-12-10T04:44:00Z
@@ -114,22 +130,6 @@ related:
     quality: 84
     images:
       - url: "https://cnet3.cbsistatic.com/img/sHfv3CAeYQrV758An5vV_OdBJ64=/1200x630/2017/03/08/8a0535b3-8d34-4f44-bf11-c81ac80701fe/sundar-pichai-google-cloud-next-2017-7711.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google fired a prominent AI ethicist, and her former colleagues are up in arms"
-    excerpt: "Google just can't help alienating large swaths of its employee base. More than 1,530 (and counting) Google employees have signed an open letter decrying the company's summary firing of the prominent artificial intelligence expert,"
-    publishedDateTime: 2020-12-05T20:46:00Z
-    webUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
-    ampWebUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 83
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
         width: 1200
         height: 630
         isCached: true
@@ -180,22 +180,6 @@ related:
       - url: "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh"
         width: 5760
         height: 3235
-        isCached: true
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in"
-    publishedDateTime: 2020-12-05T17:41:00Z
-    webUrl: "https://www.wktv.com/content/news/573302281.html"
-    ampWebUrl: "http://www.wktv.com/templates/AMP?contentID=573302281"
-    cdnAmpWebUrl: "https://www-wktv-com.cdn.ampproject.org/c/www.wktv.com/templates/AMP?contentID=573302281"
-    type: article
-    provider:
-      name: WKTV
-      domain: wktv.com
-    quality: 73
-    images:
-      - url: "http://media.heartlandtv.com/designimages/WKTV-StoryDefault-640x380.jpg"
-        width: 640
-        height: 380
         isCached: true
   - title: "Prominent Google AI ethics researcher’s ousting sparks ethics, bias concerns"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
