@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
+    excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess adoption of automation in revenue cycle operations at health systems and hospitals across the U."
+    publishedDateTime: 2020-12-10T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Healthcare Artificial Intelligence (AI) Market To Gain A 51.9% CAGR By 2023"
     excerpt: "Healthcare Artificial Intelligence (AI) Market – Overview The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market."
     publishedDateTime: 2020-12-09T15:12:00Z

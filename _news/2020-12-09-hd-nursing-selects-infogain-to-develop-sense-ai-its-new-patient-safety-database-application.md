@@ -1,27 +1,29 @@
 ---
 category: news
 title: "HD Nursing Selects Infogain To Develop Sense AI, its New Patient Safety Database Application"
-excerpt: "HD Nursing has partnered with Infogain, a leading provider of technology solutions, to design, develop and build a secured database application, called SenseAI, to significantly enhance the service levels to the company's acute care customers."
-publishedDateTime: 2020-12-09T13:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/hd-nursing-selects-infogain-to-develop-sense-ai-its-new-patient-safety-database-application-1029877179"
-webUrl: "https://markets.businessinsider.com/news/stocks/hd-nursing-selects-infogain-to-develop-sense-ai-its-new-patient-safety-database-application-1029877179"
+excerpt: "HD Nursing has partnered with Infogain, a leading provider of technology solutions, to design, develop and build a secured database application, called SenseAI, to significantly enhance the service levels to the company’s acute care customers."
+publishedDateTime: 2020-12-09T13:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-nursing-care-corporate-news-6c47a5a39a13ba105e929779d71b360a"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-nursing-care-corporate-news-6c47a5a39a13ba105e929779d71b360a"
 type: article
-quality: 38
-heat: 38
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "JmI5h7HWRd55FbIj1pKESgp3LZmJJjZTWAd9e3D7BnCz6taP1yR0veLQIiuJ3PQsMqgg38FLf6jhj57ECbpL91MUdd9+gfiea3oRCQR57B7vggBroN0xANrCyvMzTexotikXDAatfHMG43JKhboAfYGNj18UgQ9rAlqx0X13QQuX5gkwDzP34YKM6A4ZoaQbuLu6t9K0CqxPa6hoPDa/xN5fPO+krA1iGDI48QneFdnbzfjHIhzxBm8+E92Dd16kNAnhcCGW+Ryj+6Ojvrqkrg1cqlReEk5122aGLyB5jrm+flJilmzltaCWrPi79faHUZ28+alYaeFiyjUGpt2X4Yl6C/eIQ4WSQQXUyUVe30g=;k4hptyAdAuz6DCijVkFV3w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "RtvnK/06ODecm/7MfWZVuHx+qJNgHLIGWKg33yVmI9Cz6ENfo7rcTUP4j2BeZVcPYqfiLkyjlot5xuIt2ppJBZEgsWZ7pBqnBL3oH2fdoiclHU4TTkDWO0uMhd1sajfp1BkzIFcSaYECCb8uGath1YG7EwnNh6MjWQY++zwtVw2te87+vEM0OHvWTIbjRjVqqrGPoOcQMCQlG2Bmx4uCB3FV0rQMa8apm0D0ON3ZiJqZYcvt/fF++OAAkfVMCjDlLNZUWasIXWKjP9jCsVyRyh/1vdN8SR3IabagJUixChmQ4pQNWjb8Rov0accnicRJqOS+JIWsoUmkNTQ9zdvggO7vd6Zq+6SZisZYCoLp45g=;vIyVsxt8jKAyC6uX0XkFuQ=="
 ---
 

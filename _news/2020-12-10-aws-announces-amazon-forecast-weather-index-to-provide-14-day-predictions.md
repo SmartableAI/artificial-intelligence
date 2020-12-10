@@ -81,6 +81,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Australia’s Former Defense Minister Urges Recognition of Artsakh"
+    excerpt: "Australia’s former Defense Minister, Joel Fitzgibbon, used a speech in Parliament to urge national recognition of the Republic of Artsakh as the pathway to a lasting peace,”"
+    publishedDateTime: 2020-12-10T14:56:00Z
+    webUrl: "https://asbarez.com/199078/australias-former-defense-minister-urges-recognition-of-artsakh/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 24
+    images:
+      - url: "https://asbarez.com/wp-content/uploads/2020/12/Joel-Artsakh-feature.jpg"
+        width: 576
+        height: 357
+        isCached: true
 
 secured: "BbaGLWHkhrRpPCUZQbfLvibXGG2QlYQNKmSVPl0GQ6LmxO1SR12DnRDx2A1D5tHL6puG36J3cZaMevwkij0rs3MmqmrNs5Uw0YVrI5Lr5ADZZ8Rm/m2m0YWHN8SKmmRECiz7x5zMZaet/pS0c62G3JUUFWS0r+00wbNxdpgPTvMSsNk5sJd2r+3QIOZQctpace9JxFR49pDdd5/9YQgbduPI9r7F5pN9dcjHrfcgJLznvYr8GK4yGUhzUDCT+ZDzjUw7Dy0/6u1DvCtEIHXeRPiFfRDr0fftac3hGFKV2uowOUnj9Kq94C5ZBrHFma5URef36zYb4japcDMz6GnC5Ktl0ubexkFDyZqhz3cw9lA=;X3KT5PmXSPXOGJ7xnTpGNQ=="
 ---

@@ -222,6 +222,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "The ethics of artificial intelligence"
+    excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
+    publishedDateTime: 2020-12-10T13:28:00Z
+    webUrl: "https://www.swissinfo.ch/eng/machines-and-ethics--artificial-intelligence-switzerland/46213634"
+    type: article
+    provider:
+      name: Swissinfo
+      domain: swissinfo.ch
+    quality: 56
+    images:
+      - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"
     publishedDateTime: 2020-12-07T06:08:00Z

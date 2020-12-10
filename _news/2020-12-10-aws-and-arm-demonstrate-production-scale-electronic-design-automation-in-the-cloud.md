@@ -2,21 +2,27 @@
 category: news
 title: "AWS and Arm Demonstrate Production-Scale Electronic Design Automation in the Cloud"
 excerpt: "(NASDAQ: AMZN), announced that Arm, a global leader in semiconductor design and silicon intellectual property development and licensing, will leverage AWS for its cloud use, including the vast majority of its electronic design automation (EDA) workloads."
-publishedDateTime: 2020-12-10T09:38:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201210005232/aws-and-arm-demonstrate-production-scale-electronic-design-automation-in-the-cloud"
-webUrl: "https://www.morningstar.com/news/business-wire/20201210005232/aws-and-arm-demonstrate-production-scale-electronic-design-automation-in-the-cloud"
+publishedDateTime: 2020-12-10T14:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-6c6a3a905b99431b93018c3c6ea45012"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-6c6a3a905b99431b93018c3c6ea45012"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "The BMW Group and AWS Team Up to Accelerate Data-Driven Innovation in the Automotive Industry"
@@ -36,6 +42,6 @@ related:
         height: 552
         isCached: true
 
-secured: "yfN5ImPbygKVEr7jN2bejv//2J0KApSn2zE7vzrHlUjURoNQz1y7ypXZdspgtGYcEu7K647J5irGCH5yAqAm6usedn1ZMNlIuBJzYvHWGTPC5jbKmU7ZmI20t5HcPsfB5UfjnAwF0fd+TP9PKUJVvRfyd8TeTj7sFsRDSlIk3eu7+F0JvtdXNMWc3Dj8xtJdebxX5u/HXpBs6eZRAjkg1O8a487sDv61F1Qq8+v+Y8icuWbveXMyX0/2fLMtLm3eVb4HRkPpNrNY2sQ9yeeeTRKdGZDen4dnDN4lAzzn85jNegqtGi2RTgsJWk/p6ob7GpbcYSaUU54jIY80qDTyrBdUObUbLVqIkgC9eJ4GNCY=;iRgPpFX5NytMUnRewRmOiQ=="
+secured: "lZqTBIqk1Uvzs3sq+oauK/8q6Sa8UCcBjGj0I8Y4ASl7ifKtYVb14zgmTKeywMes+nYUxMv69gIRMfvVzdsTrcTH3jWEhC7OqTgkHWpnJZBp4uRWqcqJB6LaE8a7hq3S2hzS919uC4tfOlTV99mgTxiKultkU5ktS7lL4jB6Po2L/Gf+6txtGFYic/8F22AjzBSq0MeidBViyBgg+MNpWk88jbF7wLH0/WCqUEeA5QAJKVFIU2KQWC8kKj/K6AS9JEUd4E4gHbD4NAnu+GpNKNxaMM+2PdqAIGcQrorkqG/F6UpA/mk2fU15R5oUVceC1icFMpmzyZe9Ijh12RzV0/uBd1IYGWXjlrV+/lipoZ4=;xm3nHmcI6QTkyP1TS4VZLg=="
 ---
 

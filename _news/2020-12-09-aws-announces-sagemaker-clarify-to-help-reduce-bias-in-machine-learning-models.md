@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/"
 type: article
 quality: 117
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
   - title: "AWS SageMaker gets nine new capabilities"
     excerpt: "Will work to make it easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
     publishedDateTime: 2020-12-09T05:23:00Z
+    webUrl: "https://www.arnnet.com.au/article/685062/aws-sagemaker-gets-nine-new-capabilities/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "AWS SageMaker gets new capabilities"
+    excerpt: "Will work to make it easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
+    publishedDateTime: 2020-12-10T14:20:00Z
     webUrl: "https://www.arnnet.com.au/article/685062/aws-sagemaker-gets-nine-new-capabilities/"
     type: article
     provider:

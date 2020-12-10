@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/9cb5da72017a928d275551e1df3ff7a5f76a61f1/0_138_2144_1286/master/2144.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=678c03d06bc89eb6dfbdf15dbd462c19"
         width: 600
         height: 360
+        isCached: true
+  - title: "The ethics of artificial intelligence"
+    excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
+    publishedDateTime: 2020-12-10T13:28:00Z
+    webUrl: "https://www.swissinfo.ch/eng/machines-and-ethics--artificial-intelligence-switzerland/46213634"
+    type: article
+    provider:
+      name: Swissinfo
+      domain: swissinfo.ch
+    quality: 56
+    images:
+      - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
     excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"

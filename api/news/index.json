@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing.md",
+      "title": "Zebra Medical Vision secures 7th FDA clearance for pre-opt AI bone sizing",
+      "excerpt": "The Israeli startup sets up camp at the FDA. This time providing an alternative imaging solution powered by AI for those without access to CT or",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/",
+      "originalUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/12/owen-beard-DK8jXx1B-1c-unsplash.jpg",
+          "width": 1984,
+          "height": 3051,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/",
+      "publishedDateTime": "2020-12-10T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
+      "title": "Unbiased AI becomes mission-critical in 2021",
+      "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1203529758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
+      "publishedDateTime": "2020-12-10T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-uk-ai-start-up-papercup-raises-8m-in-funding.md",
+      "title": "UK AI start-up Papercup raises £8m in funding",
+      "excerpt": "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "originalUrl": "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img3.s3wfg.com/web/img/images_uploaded/1/f/1566895760_amplifier_audiophile_component_2607311.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "publishedDateTime": "2020-12-10T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sharecast",
+        "domain": "sharecast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
       "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
       "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
@@ -10,7 +148,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -112,7 +250,7 @@
       "originalUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -604,7 +742,7 @@
       "originalUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1103,163 +1241,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-amazon-unveils-dozens-of-machine-learning-tools.md",
-      "title": "Amazon unveils dozens of machine learning tools",
-      "excerpt": "Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ML, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/931c1e72-e9d2-4ba3-a949-81f37789e560/resize/1200x/5f8454c96d426ad2237cb267edaf438d/13016607905898753203226-n.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "publishedDateTime": "2020-12-09T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption.md",
-      "title": "DataRobot raises $50 million more to accelerate enterprise AI adoption",
-      "excerpt": "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
-      "publishedDateTime": "2020-12-09T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work.md",
-      "title": "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work",
-      "excerpt": "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/",
-      "originalUrl": "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg",
-          "width": 472,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

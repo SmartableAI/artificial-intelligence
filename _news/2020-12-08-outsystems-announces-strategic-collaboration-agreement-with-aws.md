@@ -42,6 +42,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
+  - title: "OutSystems partners with AWS for cloud services"
+    excerpt: "Portuguese IT company OutSystems has signed a strategic partnership with Amazon Web Services to accelerate application development and adoption of cloud services at scale, reports Economia Online."
+    publishedDateTime: 2020-12-10T14:16:00Z
+    webUrl: "https://www.telecompaper.com/news/outsystems-partners-with-aws-for-cloud-services--1365191"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "HVLzpfwP3OhOvfq1U9+wu2dqltsfEQV3tjDnShGXuq/OuDISkHU6IJHLrUImLkln8rzsgP7UJaX2sR4jMDMeI7Qq31MoWtaBUfyT9o05A4GodjvHT0Nt/FOS82tzxfl/ZzQ7nabyT/46cgkKdB7sqsKRz9DA0VE2QodyQMekkLF1gOIZ2BjmO7mXFG57CeQTKydb9wn0oDIW4xVXdHtDJfBw99P1/qUyXC4bYMTXWC9piBbZ2JyPsUWdIe3AGpujG+EDnHnvyz9woIjlZ0jXJl+gXpq9YgNWLBLIIFapahonN/Qtc39K878zLX4YZBl6I9jsxfTUg5F1c/7lQ7KH9vnULYg77KEJHiXbSZ8dpUY=;sPxhnhOj+MK6kb8mI5UeYw=="
 ---

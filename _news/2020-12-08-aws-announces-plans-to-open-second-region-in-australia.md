@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-o
 webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Australia’s Former Defense Minister Urges Recognition of Artsakh"
+    excerpt: "Australia’s former Defense Minister, Joel Fitzgibbon, used a speech in Parliament to urge national recognition of the Republic of Artsakh as the pathway to a lasting peace,”"
+    publishedDateTime: 2020-12-10T14:56:00Z
+    webUrl: "https://asbarez.com/199078/australias-former-defense-minister-urges-recognition-of-artsakh/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 24
+    images:
+      - url: "https://asbarez.com/wp-content/uploads/2020/12/Joel-Artsakh-feature.jpg"
+        width: 576
+        height: 357
         isCached: true
 
 secured: "Cy2OXjY+u5g+aIenCjm2owFPw+rg8esciw2lhV0nkNngYyH2OZzXAsx6MDEuOoAQUKydHV4QoykcHZf/X6GSBVAwAVOG8uMxdDjAHwZOY8pDYthpR3ARe9/y1En9TSQ01/KEPvPM5wzs+r3KT5wPcKEl6+k9YYRk2ybA5WPwhW94eav8h3ymEh4QQbT+DELUDRa2E5xtKL3GhCKHCrRYg4WqcMnh9xlDm/pSuzrQfSeCK0LgHlTtvSiRjrNa2Smjmm628iHF1KVtzj7O0tBQqxFpVshFYuZbVFEbU2ehXJfXtHOO0foLNXUowNnDuqD28vr6VxElmlSH1rmDBMXe1LxUyzLBJD8Xzbqq5XrnYDg=;FcHopyGsc6W0GBMjiCrrqQ=="

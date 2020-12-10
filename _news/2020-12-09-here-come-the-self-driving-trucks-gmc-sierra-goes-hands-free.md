@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UK self-driving testing center to simulate real-world scenarios"
+    excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
+    publishedDateTime: 2020-12-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16078/uk-self-driving-testing-center-to-simulate-real-world-scenarios"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "WExG66K3G2kQrgYyMSGEovantvsmrTGcoy6E+kti+L7DAxsH4euIuCrmANcu5+Tr/+BoGg8SXA72qy04+yY8bBQJWDsNOwKzqdIrRpXjUWg9u3gyZdPMxcBNbtk8wHQeGArbd7R8gGl4d31ZLukQR4t8wsgP8/hEMMEETMgvdHvVmQg0EImK1eS2kBxxavnpHK5rDxH7hKN7jx5BvxRRDpUHJjD+k7+nle7Fyk+tfOp1GEHy88OIoNh23wu1qL/mxG95WiLKy7DfIKoUEkJjJYiY6jN36qKOtmh5ZXmivb1hNcLcvwrMbpfNCM7fFigTRtSHekJh9gFjJeuWJ2FSHTKtgxS6dxMOJPbkNLIVdjs=;L+fXles6sBZRwIXZ45PuiQ=="
 ---

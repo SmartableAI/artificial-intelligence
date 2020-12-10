@@ -24,10 +24,26 @@ images:
     isCached: true
 
 related:
+  - title: "UK AI start-up Papercup raises £8m in funding"
+    excerpt: "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages."
+    publishedDateTime: 2020-12-10T13:24:00Z
+    webUrl: "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 59
+    images:
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/1/f/1566895760_amplifier_audiophile_component_2607311.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "London AI startup secures £8m funding for new research"
     excerpt: "A London artificial intelligence startup has announced that it has secured £8m in funding to invest in new research. Papercup secured… | London | Funding | Technology | Technology | Inward Investment"
     publishedDateTime: 2020-12-10T11:34:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research?via=indexdotco"
+    webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research"
     type: article
     provider:
       name: Bdaily Business Network

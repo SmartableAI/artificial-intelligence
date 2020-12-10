@@ -79,6 +79,20 @@ related:
         width: 1100
         height: 621
         isCached: true
+  - title: "Nationwide Selects AWS As Its Preferred Cloud Provider To Deliver Digital Experiences To Customers"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+    publishedDateTime: 2020-12-10T14:51:00Z
+    webUrl: "https://www.hostreview.com/news/201210-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 25
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "ViacomCBS to migrate broadcast operations to AWS cloud"
     excerpt: "Amazon Web Services and ViacomCBS entered an agreement that makes AWS the preferred cloud provider for ViacomCBS's global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
     publishedDateTime: 2020-12-09T10:39:00Z

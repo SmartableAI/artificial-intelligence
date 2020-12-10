@@ -2,20 +2,23 @@
 category: news
 title: "IPwe joins European Digital SME Alliance Focus Group on AI - recognized as Top 100 Artificial Intelligence Innovators in the EU"
 excerpt: "IPwe has joined the SME Focus Group on Artificial Intelligence, made up of innovators and service providers focusing efforts on AI technology to benefit SMEs across Europe. Backed by the European DIGITAL SME Alliance,"
-publishedDateTime: 2020-12-09T13:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-19557038.html"
-webUrl: "https://www.lelezard.com/en/news-19557038.html"
+publishedDateTime: 2020-12-09T08:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ipwe-joins-european-digital-sme-alliance-focus-group-on-ai-recognized-as-top-100-artificial-intelligence-innovators-in-the-eu-1029877143"
+webUrl: "https://markets.businessinsider.com/news/stocks/ipwe-joins-european-digital-sme-alliance-focus-group-on-ai-recognized-as-top-100-artificial-intelligence-innovators-in-the-eu-1029877143"
 type: article
-quality: 6
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -48,6 +51,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KfyIbmU8Xkf/kKxQSFmlx9wWmRfVkmbZlan1YSQRk+dH5mAYojh32A865uHTijgvGR8THIG6krPcihdL0zEAG9dJTf0h3Cu93rr0LW5yXqL0NqG3Q2Os+2c8obv9MbyfSgSc9RXKjXOg9kuZDFBoxMsP+iwNUUOatmF5fuksnRZS5YPkYQJfEJzjRCiAdAZjFJp6hvLmlHBM1Zj+1m4Af+bKu0zFRxDZ8Wfb9OhKcp4c0/Cs6LljSnLAdfhHGUPqDU8PJGNNlNUkeScKI/v2kATXoUNNYuop6tVfypzA2ZjNBEBDtRZuG30eBXBAlpjLyJSmKiYDcMBqoOzfD6FwI/RPPT0IyflStgo1kfov1hw=;4hXAzuNeIhlEhfgcd5iZSA=="
+secured: "SVFgf9Eh7HbR3THpzG+xEjirELPxeaOWkndjpGlHDZXXP9vZj2Gq9DBpotgX6z1w7kD7Y4M8FP51/tIQ7xi3VbvDrdwHQ9/osKrAiuFa03TGYV1tMBw1GeVd7dcboTNx/uXWmo1H28dc+zWESeojlwdRjLs+5ixPqAiT/kc7ktyf+uPwQN7yvJfxOU3KKOR4ybv4TJwI9VnRCk01L5fafDOJO4QXnqsO81SGC82rJWoilcBzKixZ2DGnQ7RAhSDH5cQpi0zXV343gXFv5ijKb8ga5m2Mnx0eh0j/N5pi5BB+Gl+KxKFO52GErfbmumrPBt/ey9faH8sJqVgR3uKXeHxuFf+qxI/WPxsoC1bz+Yo=;wtYlSySp92h0vn0zs5oIsA=="
 ---
 

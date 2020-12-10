@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-ma
 webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
     provider:
       name: Financial Buzz
       domain: financialbuzz.com
+    quality: 19
+  - title: "OutSystems partners with AWS for cloud services"
+    excerpt: "Portuguese IT company OutSystems has signed a strategic partnership with Amazon Web Services to accelerate application development and adoption of cloud services at scale, reports Economia Online."
+    publishedDateTime: 2020-12-10T14:16:00Z
+    webUrl: "https://www.telecompaper.com/news/outsystems-partners-with-aws-for-cloud-services--1365191"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "wGcoaLWpgqWSqtc4hpXu4PqffOSgerLSZu4a8hyMmm7NX/56wB79QO8+Vr47dhSumezXOIw/uJ3JR0+tXtXMBlsrqENUFgkiYr2Xd6bxTDUKLGjyeJ2AaMSlV/HMaGIjaXi+dH96fcTT94pgeqMXkDnaTmc84J2FCvdLQrtC2m2kN+eW5fKaV6eRq9dnBlM6y1MF/c78wOJBPt15EBEU532gGAOX166XRS48cHgHKaoAfJcaw3PCFNfTxDzqC8vSS8slsvQYULy43rvbjtN+KsIf684VQiyw/re2kuNX5v86PUgerwRZE6CIrPKFG3Smxz4kfyrEjK5fCVDeiDz4qtBXG3QILv0Tdt0wDdUN97A=;2O9IVuh8atxUVVkK650BtA=="

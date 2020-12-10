@@ -41,6 +41,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Manufacturers navigate COVID-19 with AI, cloud and robotics, says Google study"
+    excerpt: "Manufacturing firms around the world have responded to the COVID-19 pandemic by accelerating their investments in disruptive digital technologies such as artificial intelligence, robotics and cloud platforms,"
+    publishedDateTime: 2020-12-10T14:52:00Z
+    webUrl: "https://siliconangle.com/2020/12/10/study-manufacturers-navigate-covid-19-ai-cloud-robotics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 65
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-10_074458.png"
+        width: 1024
+        height: 529
+        isCached: true
   - title: "How AI is Helping the Covid-19 Vaccine Roll-Out"
     excerpt: "A dvanced technologies such as artificial intelligence, machine learning, and natural language processing have been deployed in the battle against Covid-19 since the pandemic’s earliest days. It started with the ability of AI to track the spread of the disease in order to limit the number of positive cases."
     publishedDateTime: 2020-12-09T15:14:00Z

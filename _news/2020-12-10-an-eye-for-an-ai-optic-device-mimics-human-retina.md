@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimi
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,15 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough optical sensor mimics human eye, a key step toward better AI"
-    excerpt: "Researchers are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
-    publishedDateTime: 2020-12-08T23:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201208163005.htm"
+  - title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
+    excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive ch"
+    publishedDateTime: 2020-12-09T15:00:00Z
+    webUrl: "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
+    ampWebUrl: "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://sciencebulletin-org.cdn.ampproject.org/c/s/sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/?amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 50
+      name: Science Bulletin
+      domain: sciencebulletin.org
+    quality: 47
+    images:
+      - url: "https://sciencebulletin.org/wp-content/uploads/2020/12/Breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Breakthrough optical sensor mimics human eye, a key step toward better AI"
+    excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
+    publishedDateTime: 2020-12-08T20:50:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/osu-bos120820.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
     excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
     publishedDateTime: 2020-12-08T14:52:00Z

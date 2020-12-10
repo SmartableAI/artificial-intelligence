@@ -36,6 +36,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 4
+  - title: "UK self-driving testing center to simulate real-world scenarios"
+    excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
+    publishedDateTime: 2020-12-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16078/uk-self-driving-testing-center-to-simulate-real-world-scenarios"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "3NNQv2F9zCfKCOssf3/NPcTp55xzaFksk+Jd59s3OZiO4OPlFJh+KhPkAAT+Z4hVit8tOZLVGjlOFTYNsVxrDTd3pHXFNd2LIjj8q67edBXqRRlDglCKmHdloJGsY0EfkDul4ECjpv1V/nRhTnsYwjjcnj7tjgyomClSlDL3YO/Lyca2XBf+IFsyyga6Ty4oJD7Hwkur9adCpektCWJEsNz+N2VclyiYhlCeSalmWntQEA4IjCqu8T8zg6la1cPPmioqdAkEQ4OMQOra0b06EiuFz2huCg7q5BdLiOBhUnArqQM4nd6T2nxvGHHj7DzvaUn6NNt4xAVu52QU6Mr0Rmff2CR9JmKy+vIVth1AV5w=;MORBArcgv9ejGHgBbQTi3A=="
 ---

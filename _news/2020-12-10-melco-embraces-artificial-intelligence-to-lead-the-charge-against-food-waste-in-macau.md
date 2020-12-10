@@ -21,7 +21,7 @@ related:
   - title: "Melco embraces Artificial Intelligence to lead the charge against food waste in Macau"
     excerpt: "Melco Resorts & Entertainment, a global leader in premium integrated resorts, announces that it will be rolling out Winnow Vision, an Artificial Intelligence (A.I.)-powered product to tackle food waste across its properties."
     publishedDateTime: 2020-12-09T09:51:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-lifestyle-greater-china-products-and-services-efe04a3578ac807a9223e287a950da10"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-lifestyle-greater-china-products-and-services-efe04a3578ac807a9223e287a950da10"
     type: article
     provider:
       name: Associated Press

@@ -42,6 +42,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
+  - title: "OutSystems partners with AWS for cloud services"
+    excerpt: "Portuguese IT company OutSystems has signed a strategic partnership with Amazon Web Services to accelerate application development and adoption of cloud services at scale, reports Economia Online."
+    publishedDateTime: 2020-12-10T14:16:00Z
+    webUrl: "https://www.telecompaper.com/news/outsystems-partners-with-aws-for-cloud-services--1365191"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "TBPBJc26fpZRNdypVzhqniFEZrmIYMb2dRd5vA8giDGwdzAJnoFn43YraAzf8vmwsmASzGKYw2UAdBLKtdeDMQYFq954opCbkC/cxnkBAkFAKj8DLj2chwS8gdbfrXUbpTGfpVT+sttewbLbCb+LoCbytpz4LWCOeVnz+Pp9D4tFJtfn3jsQCAyxm6BThrbsdhXfqlg49sfMlnt7mXS1Y/2QHVcMO6mMv5vL1WOC8pAQq4MfwlDN8gVe2ngx7GB2ZpyHzDl6skIBvCUi9WbHJNVZJ3NCLGnvzgVtcxfCwjNYiieFXSCuk6WbSNYZWTAFiBlubjCka8gosPhaUjjlSh29l+rs2/45egkmTAguKVE=;Mx/CaJKSocvdcp4AYejhbQ=="
 ---

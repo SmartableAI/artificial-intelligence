@@ -233,6 +233,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The ethics of artificial intelligence"
+    excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
+    publishedDateTime: 2020-12-10T13:28:00Z
+    webUrl: "https://www.swissinfo.ch/eng/machines-and-ethics--artificial-intelligence-switzerland/46213634"
+    type: article
+    provider:
+      name: Swissinfo
+      domain: swissinfo.ch
+    quality: 56
+    images:
+      - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google AI researcher’s exit sparks ethics, bias concerns"
     excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
     publishedDateTime: 2020-12-06T19:01:00Z

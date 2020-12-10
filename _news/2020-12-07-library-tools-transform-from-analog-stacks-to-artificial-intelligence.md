@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Shaping the Future of IT: AI and AIOps"
+    excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19. So it was"
+    publishedDateTime: 2020-12-10T14:23:00Z
+    webUrl: "https://www.linkedin.com/pulse/shaping-future-ai-aiops-sally-eaves"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGpf2pulOH3pA/article-cover_image-shrink_600_2000/0/1607604022646?e=1613001600&v=beta&t=jbFoibAXbb8vPr5ka1H7ROMTvkfCejcZnB9trZhkpdo"
+        width: 1358
+        height: 600
+        isCached: true
 
 secured: "Ae5+c3YG8UeOD+cRjki+NpAPenyG36fpFfov8KdttIKe9G+CT75St6BofTyuUBhSzSuipyLboCqMi0K0B4E1qGk5wqU9POyq5vFZHvSmB83XzALQC5JXb0QooE+c9jNQbLWwm5/GQvT5iaa85NcqXzM3ZNLZeu5m/HU1YLJo9/f9kG/gDMe+EHf+v4mnX+pmgOaNY9tuo14RU20+8cIBQmbRGle8uB05y5bjhOa/HBaOfNAYQnXijFaUI0UqmaF2QYzQrj5L3bJetWv9JEU3kUfPFJwu2hKlCIem3nyjhKBmowuaRx9/MeplIDd6wyKbs8HmLtsIkdaoBoLbv1jaEgUOkQrmfHZm5lAoPUYL2gs=;MLBMyXR38iiMxTPMjgI8fA=="
 ---

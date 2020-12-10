@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-10-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing.md",
+      "title": "Zebra Medical Vision secures 7th FDA clearance for pre-opt AI bone sizing",
+      "excerpt": "The Israeli startup sets up camp at the FDA. This time providing an alternative imaging solution powered by AI for those without access to CT or",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/",
+      "originalUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/12/owen-beard-DK8jXx1B-1c-unsplash.jpg",
+          "width": 1984,
+          "height": 3051,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/",
+      "publishedDateTime": "2020-12-10T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
       "title": "Moraine Valley Grad's Written Work Receives National Recognition",
       "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
@@ -1397,58 +1440,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
-      "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
-      "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017",
-      "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-96392/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

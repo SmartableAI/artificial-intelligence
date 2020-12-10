@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Shaping the Future of IT: AI and AIOps"
+    excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19. So it was"
+    publishedDateTime: 2020-12-10T14:23:00Z
+    webUrl: "https://www.linkedin.com/pulse/shaping-future-ai-aiops-sally-eaves"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGpf2pulOH3pA/article-cover_image-shrink_600_2000/0/1607604022646?e=1613001600&v=beta&t=jbFoibAXbb8vPr5ka1H7ROMTvkfCejcZnB9trZhkpdo"
+        width: 1358
+        height: 600
         isCached: true
   - title: "Library tools transform from analog stacks to artificial intelligence"
     excerpt: "In March 1987, new shelving installed by library staff, UAB students and volunteers provided storage for more than 200,000 printed volumes in Mervyn"

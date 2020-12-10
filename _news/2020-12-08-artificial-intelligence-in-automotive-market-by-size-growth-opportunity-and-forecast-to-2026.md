@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Improves America’s Food System"
+    excerpt: "Technology is everywhere in the 21 st century, and America’s food system is no exception. Scientists with the USDA Agricultural Research Service’s (ARS) Western Human Nutrition Research Center (WHNRC),"
+    publishedDateTime: 2020-12-10T14:49:00Z
+    webUrl: "https://www.usda.gov/media/blog/2020/12/10/artificial-intelligence-improves-americas-food-system"
+    type: article
+    provider:
+      name: US Dept of Agriculture
+      domain: usda.gov
+    quality: 37
+    images:
+      - url: "https://live.staticflickr.com/65535/50701829953_4e7cd2c93d_z.jpg"
+        width: 640
+        height: 446
+        isCached: true
 
 secured: "E+G2JEs/cXlpkXxscwECxvqsVXSkWkHf+cefOpe382H3RGGjuepXjACqBzVgAqdzLSp/Cy+sREUqUdnnT/0qz7m10A+DrZOn/Hw4KJPnTHlO/Al9s1N/XMT76MNh3aNG6pryHc12+0s0yGWt0YC1/Dm2nUSaiKGR+2bHe7gQAak4wsv5UPXk9fuIN3J/+yqS7AVCQW/ckxZbUtfpcQ2wMt+Nsdip3keowqyxGvNTmdUAqArF/6DHXAdteIZ6QFsg0zf02bx5YL+SSn+ef+sBVQvR/073jxx8s/dFIs5L4T+cmcM3m4fkdkjazqze2iPSCIpauG5t75S7h8anJFABVyYZ4zl0a0TgOqOSBvyRRA8=;XPBJ8DWViGK1PmS/yOlaEw=="
 ---

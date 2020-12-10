@@ -3,11 +3,11 @@ category: news
 title: "London AI startup secures £8m funding for new research"
 excerpt: "A London artificial intelligence startup has announced that it has secured £8m in funding to invest in new research. Papercup secured… | London | Funding | Technology | Technology | Inward Investment"
 publishedDateTime: 2020-12-10T11:34:00Z
-originalUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research?via=indexdotco"
-webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research?via=indexdotco"
+originalUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research"
+webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK AI start-up Papercup raises £8m in funding"
+    excerpt: "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages."
+    publishedDateTime: 2020-12-10T13:24:00Z
+    webUrl: "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 59
+    images:
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/1/f/1566895760_amplifier_audiophile_component_2607311.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Papercup, the UK startup using AI for realistic-sounding voice translation, raises £8M funding"
     excerpt: "Papercup, the U.K.-based AI startup that has developed speech technology that translates people’s voices into other languages and is already being used in the video and television industry, has raised £8 million in funding."
     publishedDateTime: 2020-12-10T09:02:00Z
@@ -49,6 +65,6 @@ related:
         height: 2724
         isCached: true
 
-secured: "I3m9EPeZp2rSn+rBEKmV8eeHo4330FQkcgwwJf57We3HY1MoBfL8m4pWJ7idIb5BH1lEjXIJOx1GBAK0HKdTmSNRtq2HOeGFAXQw1vwNRPhBkAm5xBEWegMy0Vt6m7wEcHsuYFLo5LP0LugkaGZ7uoDdAn4JPqL6A1ZMZxO/lSwvIcSt28CcqJ2C3j98GtVMjM9MVUFDz87aoDeLAqtSvED7XuEvfcueWsnHu/qGyESoYASVNrE4etxb7Ol1IWIqmqb8zM3+0c7y5NLpCuUFppKZG5BbbrKOraBU7seixY97jlTJyFiP4hWgnsaJZFbE0eDD7mUeFnMxuSlWrUwtNnXu9zWtXEqHERO2UVEcdPY=;ujnPEi4iK1DzIDFLeoJXUg=="
+secured: "5E3oZVCN3HvXN9XbgRtLeveenGWXN2UdeHimA/ewV3DpvZKv8l0YgcpOdynudF5sNBimFCFSHEsHhCEWQIqnTa/YPMC2xOVXdTh2J/M4vLp/kTEZV9uzQPgUiKvlPu0WoIhszAiGwiwiiwj296yN7YBxbDwMTuHF9xugltWCwsqx1SMrHzjkpbaFqleqe6q792fZaDAHUBF2+e49M6u4z0PEdK+KWWeDtW7zy03Kaiyt39OkWOv1VEeikjHrc6TXw4Y5X3AgpFpM7CfAHlJD/S0TrS2cWlrZWcdzH/3XjW/U3iWpV58GjkcYJoR9wPQ/COY4ZfsNQNTPPAWnumJzS0cY8vKD3V5OVBQt/jVGfXk=;LZ3qMRVrIxJxd+i5gAi6vw=="
 ---
 

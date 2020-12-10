@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
-excerpt: "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\"), a leading supplier and fabless manufacturer of display drivers and"
-publishedDateTime: 2020-12-09T10:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/g18707978/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/g18707978/himax-and-edge-impulse-launch-the-first-ultralow-power-ai-vision-and-sensor-fusion-solution"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18707978"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18707978"
+excerpt: "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,"
+publishedDateTime: 2020-12-09T09:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
@@ -36,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BVtjf7kXWllvs3oSdIi0FEH5Is7cSPYp+keqAlRz6FmfXo6JtCsfunVlB7VcmM8xox8xiWxenNkZSvzJyWlsHlyr4/2FgnaBITLrdUQysva9yk/kNC03yRC4h4t8W6bRfJkCOBxsRbEnTtdj7AMzQaPiuHJE296aQKMdOywoSVIx8ZTLGrxRSPf3FkvKShbLENU4c7zxZmDNOLPTPvRelmo+pzB2ikL+IWviGwqVG5fzkqTWuYQszQq92PbBO02q+UytzYN+GECdNRZtq+Vr37azgXC0CFt3cRudldg3MJAzz/IIhNMwR7zAl0U3x6t03r7pDO4CYqtzo0PIDfwjqGfs96q9AqQV5LQkTUulVQM=;oDVn/6UQrY0m21W7ndFUzQ=="
+secured: "aH71Bor06Kgj/Itb9ZCs8pdOEa812/uRKShLOpRPe+uua8urKIQImOcbqoGk5l8n+thS4tO0fIveSn1Bx/H+c1A04SEW+2gXAqWZsZTFZMRbOmg1nw1J4o4+jUzQIQpV3ApC8v/t/bcCwzbuCmh4/i9NwLjkN9ABrZrRmpVq6nzhcbHCeVmT/hxzIj5sCi9VkS0BuaArHKrrLv62Y8vwm9XcUHa0+8PamPQCPTu6AC8h1s3C23Q8DETp3B82EciPtKlY14a6hY58TK2hM7EUT4NeK7t49c2DYm0rSnxOcUs9ReQivu5SucUA1/ufVOu7Bvzsp7+HAcW9fL4Xi3LfG7++2cbqTljbakSJxEW0vZc=;aPS35ycG5SHlgyr7AZRMqA=="
 ---
 

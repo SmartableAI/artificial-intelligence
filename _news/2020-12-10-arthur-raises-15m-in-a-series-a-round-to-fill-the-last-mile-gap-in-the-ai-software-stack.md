@@ -1,0 +1,39 @@
+---
+category: news
+title: "Arthur raises $15M in a Series A round to fill the last-mile gap in the AI software stack"
+excerpt: "The team has seen firsthand that algorithmic bias and data drift are unavoidable, but that AI observability tools can help teams detect and combat these issues, before their models start behaving badly. “Our team has many models in production."
+publishedDateTime: 2020-12-10T14:24:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-john-dickerson-computing-and-information-technology-software-9a2bb03228acba33078c95ed3924a4ce"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-john-dickerson-computing-and-information-technology-software-9a2bb03228acba33078c95ed3924a4ce"
+type: article
+quality: 28
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Arthur.ai snags $15M Series A to grow machine learning monitoring tool"
+    excerpt: "At a time when more companies are building machine learning models, Arthur.ai wants to help by ensuring the model accuracy doesn’t begin slipping over time, thereby losing its ability to precisely measure what it was supposed to."
+    publishedDateTime: 2020-12-09T15:39:00Z
+    webUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+
+secured: "j12EIVhY9rN+D5VucC5hVAXkKCyoRnZYo0cBHWXEE7SNb9mIKHPEJORvcE5/hKVq0LT8TWCjtockKAa7eYTXeIzb1FFcEYdLrdsSfaG2YgCBlgD7ks60IM1nS4RCoMx2Xlnjm7N1AiMoHi6V7im7WOq1ucMoSjPUVFsbBp5qSrpKbHrTSiiJX7I1pJ05hBH1bt4SuCKa0EFx6Pk31+VCcg6MBfhHBKFOePpr4JE3OqyirHzzaMnStkDzrPZMjunP2+x9cT3T9kOSeObYHbQkornQUciLi/J4+Qc8z3qERPVfISf9R0YTxvbMaZjcJBBa1vX9pvKY0PsPG4iJbm92v7p8NfYvPnue+FkEVnp+PIs=;mj+UH81SQGUu9wBmiSU/jw=="
+---
+

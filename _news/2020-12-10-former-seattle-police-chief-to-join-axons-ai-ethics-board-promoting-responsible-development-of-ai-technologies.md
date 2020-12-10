@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Former Seattle Police Chief to Join Axon's AI Ethics Board, Promoting Responsible Development of AI Technologies"
-excerpt: "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the"
-publishedDateTime: 2020-12-10T12:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/former-seattle-police-chief-to-join-axon-s-ai-ethics-board-promoting-responsible-development-of-ai-technologies-1029881008"
-webUrl: "https://markets.businessinsider.com/news/stocks/former-seattle-police-chief-to-join-axon-s-ai-ethics-board-promoting-responsible-development-of-ai-technologies-1029881008"
+excerpt: "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the appointment of Carmen Best, former Seattle police chief, to Axon's"
+publishedDateTime: 2020-12-10T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
 type: article
-quality: 63
-heat: 63
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1372650/Carmen_Best.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/6c/16c7b6bf-8b16-5bad-b108-8a4f26143810/5fd21cb3e7110.image.jpg?resize=400%2C288"
     width: 400
     height: 288
     isCached: true
 
-secured: "+kw0XMv4q7p4nIKNhr476NsArIszf5uA/JkO1kJwToI+KvT3TQOWuSuTIq5cv/4T2rPW2di6FNtpxlDwdUhQFZaogJx7nEGhO8khozXMUw3BtCY5d7S0caETRTxE6eAHFyogORUnYNsKRUaDCo6RCyZYgbyGKW7OEjSLezCMy1gZwtWoHMthMd3nqliyK1LNVAtPT3y2gyvrn1p84JxaK3KNuNuw7HLIpJpDE+5prWHr2NKSPKPmszYoR0lVsxYgbce8E45yqvH/i52fg1/uKAMzKgPLVkDqHPG4eSmXYwQ3VbV/K4Kj3hy+sY19M4naju2u911pScW0+8jfmWRScpkd2oC7Z2v8YxooEJrpfnc=;wJFiMAmo74mCDpjnsZcSIA=="
+secured: "tN+fMjxIQsLFDQtv1gXC12t5myrJoRBIFOMM3ksPMvshN4KkhYVoTT0nwVi/EQgrSjTqsMSrlaAZgS03BFiwogRQJakasavS2Bq8Z+ykKfzrPIlo5vAzGtaUT8Ap/fD8KA0bQfUYnQ3WP1q8dnWKWDUx0YKUCyzyP5TEz9qTP2t8jKwlfDHutYBVHBB7a/Ez00XtDALLsSv8ks5IlG5n12q0KTliDWgZ0yRrJ25saPg6vK94V4fq2uWyNsgVj8ta25lYK0SJQgCDRqtxfffUl5NGYmp4nyNLOs4pyNf1x9qVisTaYIQVaIQvX0lo74dLaI0Kafpr5+GIq8JEk1bujvFWDQg5VtCb1WyWNFV772Q=;6hKnaTXsQ5t0zCvyqKRCJQ=="
 ---
 

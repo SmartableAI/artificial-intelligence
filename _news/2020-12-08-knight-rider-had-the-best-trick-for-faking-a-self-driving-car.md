@@ -133,7 +133,7 @@ related:
   - title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
     excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."
     publishedDateTime: 2020-12-10T00:14:00Z
-    webUrl: "https://omaha.com/business/consumer/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
+    webUrl: "https://omaha.com/business/consumer/here-come-the-self-driving-trucks-gmc-sierra-goes-hands-free/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
     type: article
     provider:
       name: Omaha.com

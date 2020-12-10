@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BrainChip Chief Development Officer Presents at the Edge AI and Vision Alliance Spotlight Webinar"
-excerpt: "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced"
-publishedDateTime: 2020-12-10T09:28:00Z
-originalUrl: "https://www.financialbuzz.com/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar/"
-webUrl: "https://www.financialbuzz.com/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar/"
+excerpt: "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced that the company’s Chief Development Officer Anil Mankar will present about using neuromorphic processing to take AI to the Edge in a free 30-minute webinar organized by the Edge AI and Vision Alliance December 17 at 9 a."
+publishedDateTime: 2020-12-09T22:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-collaboration-software-communication-technology-industrial-products-and-services-be7147308ab04d7788e256bbe25d63e3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-collaboration-software-communication-technology-industrial-products-and-services-be7147308ab04d7788e256bbe25d63e3"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Brainchip leads the ASX’s top small cap AI stocks in 2020"
@@ -36,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "43ZHe2Xjeta+BfdIzED5SuA+HLmKE99sBlt0pK0IDPmAdQiy3L/eav9Zs44hpHZJ8prp95e9+CoSsZFHxdao4IABlBodeyr5ZOwlcm9oXjzZBWD4m7kQ2hiMVVFuckPs0T390HqqgL8xAcf3L4dKuUmPEJfMQyi2ZXsaPDiiJDYasq83fpY3lrjQ39kyxCDyo66L3CLzbkabKdzRp5sc4FBCglNHNXEpdOS3NeYqWsSJKL2/CfES81p7xyBxHKyRqXr2il5bgWhSEBVhcFBBXaXDB8DsozvCNDF2/qEm4DKRBQDZ7BeW1mDQMwzFCrK2+ojEOpgrKwnhsHdCV34hf8JKpIov40VcQUOFlLLAiR8=;foI7iGZ/M1L5r4WrTNNb8A=="
+secured: "rgUrlxGmzdMWDLquwLMhs7iuL8S2T5Ac5DYl16jnmfqlTq0lwR5Uummbvf7VeBoyXgyZblQmY8ejo2CNmXXnMG5J3TnMZRayQXWWpVsYT+uCEstLSSInhR+Y0jvP0wEUfIS7QfO5pqAOmyewEiRfRfpqmC8HI/pkHONXi6+u8GKEnu34fv2XbYXmQZDzepLDH2OXPSJ71hYc3u9J/LCyEWcpGvfvDzb/IbaXvRbeIel5szSllNHynEPCehr1GmD0+5vdekIHg6Qgr8HMXHVbRaj/C0R23/7GxRg+tSkVayAbYS1/UOHtKfOsXh73C3gi9iy27DsoXnB+baGoeK37aM/jVRdKJ0GFWTGM3r5qb+8=;WSBZ4iAw4RUqfU7Km0NZbA=="
 ---
 
