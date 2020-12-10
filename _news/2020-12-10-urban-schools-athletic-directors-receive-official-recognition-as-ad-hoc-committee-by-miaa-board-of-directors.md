@@ -8,8 +8,8 @@ webUrl: "https://www.masslive.com/highschoolsports/2020/12/urban-schools-athleti
 ampWebUrl: "https://www.masslive.com/highschoolsports/2020/12/urban-schools-athletic-directors-receive-official-recognition-as-ad-hoc-committee-by-miaa-board-of-directors.html?outputType=amp"
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/highschoolsports/2020/12/urban-schools-athletic-directors-receive-official-recognition-as-ad-hoc-committee-by-miaa-board-of-directors.html?outputType=amp"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZCCV67RLF5DAVN3WPPLDTEYS5U.jpg"
@@ -26,6 +27,6 @@ images:
     height: 2448
     isCached: true
 
-secured: "W+96ofDkRlJ9QDhVxgV9n78NtCZvurHBxz9bg3zvEttzv6JHPqa8iKuA9EASXX3G7bLK5IzTR2JJYjyNdi/sponoXH9eJkC3H52REgfOUZ6v2OVLc8783dGvbsRXFqrSxJS+Hm3ojQI2Rvic7YOx5hi5KrbpPll0p5AAWmiHVZheG8FR8ZVWMYrxT7L4yVr6o5EMfNi35yPqMMHGGFTQ+jojcWtmoMoAz5KGQufLgaBRanR5F/dPC53bgCWOnoSOKCg39iBc3idV1A3PUS1R2FacE4h9wTPFs8PVfBgJ4fTc3zlquPq90JKhVJw9rZPgxLpJprPZ26rih0PZ/myiYkfHFUkiXu3LmjoLItDQpBY=;h8jBdSvF0otwCU1Vqh85CA=="
+secured: "n7rlCb35YOeHOHbqvHtLpoLp3z6PNmPxJYcSAkYIKFt68EYGM/1aiCzFOL6uOnes5cuQo0QIfBMURn8Hl8HavpD/9rONZewwfaBO34B5d2DBVmwPuYzgpbJ9ePtHrjxjZ2Mu4/X/MLXNT7dGyCd/IjyINEgrPDHleW+Gl2XIm1EtmJqnEpc4pecWgClxyrVOLP0t/inHmGv3RwkL5qYg7QkZIn5+TpJE7eG3FMH/iITwX3STQW0PKo9GcPf1SeJgDGmmKmxWtZd6KNHWcnYtevaWVfToVnKsR+2DYNkZLrYWJ3utIW6nOyDG51n9FufVMbWMc40O9/UoPUYsOlhqfIRvaAaWLicLl4V0/1Mj8+dh9+Ek5kfRd1XvtvkPQTsHGbSHgnXnE3WddQB8/DsEIIWMosLRzIZr39dlxV0HxV15VHeoMEkEFaQkMUjKxgigs+UwUTQm8stpEI20BvhWx3Vu9mbxg54cjA9M/S85kM1xTNWfKoQgHnKzsBsc/lJakTg8Ucr424OYkVUk4piQVA==;QYvW/hxJXK478UsLYy3DrA=="
 ---
 

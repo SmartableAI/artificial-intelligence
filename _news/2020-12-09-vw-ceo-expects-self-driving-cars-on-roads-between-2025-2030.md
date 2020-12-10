@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple brings in TSMC to develop chips for Tesla-like self-driving ‘Apple Car’: report"
+    excerpt: "Apple is reportedly working with TSMC, a semiconductor manufacturing and design firm, to develop a semi-autonomous “Tesla-like” vehicle, a new report suggests. Apple Insider reported on Wednesday that Apple’s “Project Titan” may be focused on developing technology that would facilitate the production of self-driving cars."
+    publishedDateTime: 2020-12-09T19:40:00Z
+    webUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/"
+    ampWebUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 52
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2015/08/Apple-6.jpg"
+        width: 634
+        height: 382
+        isCached: true
   - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
     excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
     publishedDateTime: 2020-12-09T08:32:00Z

@@ -1,137 +1,45 @@
 ---
 category: news
-title: "Google CEO says company will review AI scholar’s abrupt exit"
-excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google"
-publishedDateTime: 2020-12-09T22:38:00Z
-originalUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
-webUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
+title: "Google CEO says company will review AI scholar's abrupt exit"
+excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company"
+publishedDateTime: 2020-12-10T01:20:00Z
+originalUrl: "https://www.wftv.com/news/technology/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/IIXXPOFKSDQM5ELNDH6NZQSFA4/"
+webUrl: "https://www.wftv.com/news/technology/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/IIXXPOFKSDQM5ELNDH6NZQSFA4/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFTV
+  domain: wftv.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
+  - url: "https://www.wftv.com/resizer/fj2-Qh-QwNYKN6xNueCCRnEDpgs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/VOZTXGDLJEHYRHFZHU77WPX4EM.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
-  - title: "Google will investigate the controversial exit of a top AI ethicist"
-    excerpt: "Google CEO Sundar Pichai has pledged to investigate the departure of a top AI ethics researcher, according to a company-wide memo Axios obtained. Pichai also apologized for how Google handled Dr. Timnit Gebru's exit."
-    publishedDateTime: 2020-12-09T20:55:00Z
-    webUrl: "https://www.engadget.com/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
+  - title: "Google CEO apologizes after AI researcher's dismissal, is sorry it 'seeded doubts'"
+    excerpt: "Pichai sent an email to employees Wednesday apologizing for the way that the company handled the dismissal of AI researcher Timnit Gebru earlier this month, Axios reports."
+    publishedDateTime: 2020-12-10T02:06:00Z
+    webUrl: "https://www.foxbusiness.com/technology/google-ceo-apology-controversy-dismissed-ai-researcher"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 33
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fb5e9b210-1614-11ea-9fee-f891d28bb48a&client=amp-blogside-v2&signature=f9d4ac23559133c63b810b38c30aa9fb7f00b2f8"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Google fired a prominent AI ethicist, and her former colleagues are up in arms"
-    excerpt: "Google just can't help alienating large swaths of its employee base. More than 1,530 (and counting) Google employees have signed an open letter decrying the company's summary firing of the prominent artificial intelligence expert,"
-    publishedDateTime: 2020-12-05T20:46:00Z
-    webUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence/"
-    ampWebUrl: "https://mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-open-letter-timnit-gebru-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 83
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F12%252F05%252F7c%252Ffc4f223db2594001aedc69cf6735b438.0cd08.jpg%252F1200x630.jpg?signature=yNiDixKdYpR7SbiPRyRdmGhl4kk="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru"
-    excerpt: "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist."
-    publishedDateTime: 2020-12-05T17:12:00Z
-    webUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400"
-    ampWebUrl: "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 73
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Sundar Pichai apologizes for how Google handled the 'departure' of AI ethics researcher"
-    excerpt: "While Pichai did not say AI ethicist Timnit Gebru was fired as she has claimed, in an internal memo sent to staff he pledged to investigate the events to led to her exit and 'work to restore' their trust."
-    publishedDateTime: 2020-12-09T22:15:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9036345/Sundar-Pichai-apologizes-Google-handled-departure-AI-ethics-researcher.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9036345/amp/Sundar-Pichai-apologizes-Google-handled-departure-AI-ethics-researcher.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9036345/amp/Sundar-Pichai-apologizes-Google-handled-departure-AI-ethics-researcher.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 66
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/12/09/21/36654970-0-image-a-2_1607549856966.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Google's co-head of Ethical AI firing triggers controversy"
-    excerpt: "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed \"inconsistent with the expectations of a Google"
-    publishedDateTime: 2020-12-05T14:31:00Z
-    webUrl: "https://www.postguam.com/business/technology/googles-co-head-of-ethical-ai-firing-triggers-controversy/article_3c24b52e-36a2-11eb-8940-dbfe35442905.html"
-    type: article
-    provider:
-      name: The Guam Daily Post
-      domain: postguam.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/44/944cc9e0-35fc-11eb-9807-9fa2013d419b/5fc9db821993b.image.png"
-        width: 280
-        height: 350
-        isCached: true
-  - title: "The Future of AI Ethics Hangs in the Balance"
-    excerpt: "DeepMind Claims to Revolutionize Medicine But Questions Remain  Google's DeepMind unit is good at feeding the AI hype machine, because after all, its very future depends on it. But judging how Google treats the future of AI Ethics,"
-    publishedDateTime: 2020-12-09T12:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-ai-ethics-hangs-balance-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZ3Aizn7yjA/article-cover_image-shrink_600_2000/0/1607288835258?e=1613001600&v=beta&t=yFaZdaMkH8ewkqKLh90qZeD8-Pp4ajVI4-3bbx-Vdpw"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
-    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
-    publishedDateTime: 2020-12-09T02:39:00Z
-    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-    images:
-      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/233eac27-Google-Sundar-Pichai-antitrust.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "KPQvQVtEshJ5xgWbfEKpPXvlp2bobO04UQQg1aIT9Ax3PgIM0a2lY5X+CnxcwBrXcp9i9BIAjJ3sQ7H5c3QYkXLTNwuSZTQqaD81CDmUnlrG2ujrsOBuVjaqTSBYV0y+h6MucdNkxt52wS4oQWaR/sgmbD14wtRks69J57ZyXvYvxYdgkQudbJ/hJqGoVX7Ax5a4W99WNFzAEY5lUDDB7sMMCekdHAfV8SmiYPLL61pvMwJdA7BX0qSod0pUTK/kOu7nZYJ3OwmSwO/yOuTuPaaw/JW7EdfTCd2s0z6Wmj9nm2fptzVhnUnIADM6cToJuOwli8i0QIDRY65FgQ9dBeeJ51/DwZiml2x0BIE6k6E=;kJPSovQnUGkUPdn/4qpkZg=="
+secured: "pvwVoqQunk+8qe/ErSJPbYbU3XvsSmgmiNfBHzJ2wkX0t0MEODiQngaIZMmcMi8pGcFfYOoHxM3TzGK3G6wkcQevi06s2gQTspYlfitVCSPGzH/DomsRIOmkr+ZUIuy3qqEyH+7QR3PXySfzgOTGp3cnLM1NjeboOObJxZ5FS/m3cyZFtjBEbRUlrRRcb8eHX+XrNysKFdSKz+YXukJOmIGTOn9nXOCzEu+DmS3mpkUQzhpDYKrIJ5VjkrrE4oscb4FUhTL84uSejFav2fO4i0KHC3tz+XJDGGvHlQYWw43Af2F+FvddvR0GD6eJ5SjbKkqtmo1Y7iC2LIG3F1/tcD3WwEuRe7ccB8LjnHqa1A8=;9plqj1VxZvcPJBVL/AL6xA=="
 ---
 

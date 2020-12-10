@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving System's Beta Developer Settings Leaked"
+    excerpt: "Fun options like 'California Stop' might not make safety advocates very happy, and what is 'Chiropractor Adjust Skeleton'?"
+    publishedDateTime: 2020-12-09T20:19:00Z
+    webUrl: "https://www.caranddriver.com/news/a34919792/tesla-full-self-driving-leaked/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/eowt33txcait6ee-1607535782.jpeg?crop=1xw:0.8056066176470589xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
     excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
     publishedDateTime: 2020-12-06T19:09:00Z

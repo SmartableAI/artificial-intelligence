@@ -637,6 +637,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Buyer of Uber's Self-Driving Business Targets Autonomous Trucks"
+    excerpt: "Autonomous technology developer Aurora, which just bought Uber's self-driving vehicle business, says its first market-ready product will be an autonomous truck."
+    publishedDateTime: 2020-12-09T22:43:00Z
+    webUrl: "https://www.truckinginfo.com/10132172/aurora-driver-acquires-uber-technologies-autonomous-vehicle-business-division"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 24
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-12/aurora-driver-__-1200x630-s.jpg"
+        width: 1150
+        height: 630
+        isCached: true
   - title: "Palo Alto unicorn Aurora Innovation snaps up Uber's self-driving vehicle unit"
     excerpt: "A complex deal between #AuroraInnovation and #Uber will reportedly value Aurora at about $10B when it's done, with Uber making a $400M investment and owning a 26% stake in it. #SiliconValley #startup"
     publishedDateTime: 2020-12-07T19:13:00Z

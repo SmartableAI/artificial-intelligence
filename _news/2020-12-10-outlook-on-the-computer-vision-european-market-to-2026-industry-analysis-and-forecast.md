@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
-excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2020-12-09T22:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243"
-webUrl: "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243"
+excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
+publishedDateTime: 2020-12-09T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
+webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Launch of a new €150 million European instrument to support companies in the artificial intelligence sector"
@@ -47,6 +49,6 @@ related:
       domain: lelezard.com
     quality: 6
 
-secured: "OCoZiqKrswbwGHwBB1anlke0oY15hL44zLz5CfR3F+Rk5hjiQ+fwVfd4KP21zxrhpReEIzVuftLYLw4JAUy3AQOnqQhIhXfVpmkIzr0LnGj9MdOkvd9bhh5LastgBjfwYIivVGpbJ17rVfSy6SEK5Zcs/UyBGbJSoa1RWsd7YybtMeUUm4Vlx+6Z3uosbhBWb/Wad9rH62Ftrpgu2oiAV7tvrWKZepPKBUaNsfOuiKqRyrfLlInDNBGBQhlHzbA+uuK8RwLrj+ITC5tsSS7Jx1VljrOSlzr0QOStQO/Z25q69f4572yQx61+4+K4KwPXdKR4ET/gElg8HI7LOV9xQJeM2NH+NwNLFK1RYCSb87A=;G0M1L+dbabrPqI3tR6TPqQ=="
+secured: "zRhclrZPi3kX6pH2aKMDK5JyCXiUWUISUb3Gi0obrgjsDDgQVfgX1HcgKEiuFGrN1YGKaCwnhU1G99XJH6Gnc+lMAL9ss3OwegF46TlA4jV7vMipKgg0oQgLXHsncHWfrJSYHzBZMnuCHXke2citfvi4pEsveU//CzdF22wUsM6HXZ6VEQWy6sdO34JKuhrIghQD+5XdlmO9332e5N6SaT8OMKgTGB1qk0uTH3TICtMsuLEqynWDobYC4ZRuqIOgvf/096qlqE6RJHRAM47AakuAZw+AY+ZKf0o7RiEU4UxtztfkcCyXtOL0tDcfeT1RccOHN9BS4MaqdVPI+rgum2UzuxzPn0+a2O5ahB92aFw=;0HkIYL+My5/oJh70WymDaQ=="
 ---
 

@@ -1,33 +1,28 @@
 ---
 category: news
-title: "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade"
+title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-publishedDateTime: 2020-12-09T22:50:00Z
-originalUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
-webUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+publishedDateTime: 2020-12-09T18:00:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
 type: article
-quality: 80
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655"
-    width: 6271
-    height: 4181
+  - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -82,13 +77,13 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.barrons.com/im-271074?width=620&size=1.5"
         width: 620
         height: 413
         isCached: true
 
-secured: "PXuLJ4E2+c3FqSWLv5a539faWCXsz22k3tNyUrPlMyxQFcznVSzLHNYmpg6kXpLeD0oGepj12p/+jWR9TdPXnxSSOfOqCPqZJki5pJj6uEimSQxzsD6gvqTFP4dAVdxRPGz+J8o7sqXOJzM8UJCHADONEMcwLH3a/XWLODu5CXKmaQqLrXJEEOX1aOTMXaW+vYA/9YVYC/Zc68a1BxiS0o+j+HaWakvPehP9bOW+8I5mrGoMX9g36LocxTkUfLZeW3ch1tWpxkrIfk/4PGwghLoIOjy2vcBq/jWvHFHoeHn2thXs+paiJP3OGhWBlT+lO8LvzHALOTBvJc/C0bHd7Z7Gr6Q2co1qR8d32ePsMWQ=;rnqiDxPQPciXRY4Z7IKs3Q=="
+secured: "txrZAfNgIiscUDhBsv7k1/m8ClbthvkHlKys7h7bJ6fAuRK/r40C8j6HFot4jGKlZcuGhpSWkgpftoe1xkHPyAc0enkdC++tibZihI68WLL+OwNUc/LXtlQ2Jtwc5AfmjSPHBnrTX083PKvgTdWAzK9pFf5LJrXnKB8nB9fz2SgLLLW2expYiMvg1xvOpHRxRCvp3DLIcbXc6KCkxLhF/8flUBTsv3f+dpl/PLZyzRKKTybD2L4r3GYgRulKdAJe30uwbC2YSMLsy/9xNh3eeZdU+ainfWXl+fvnuqCJjuo8F5KPHkKW/bVIX+dMWwO4gHWVFypgASywJoBwOsn5X6uMCDCw6HIGP6Sx+i6wuIU=;HMQmJWLDLs2ipcoSvobyeg=="
 ---
 

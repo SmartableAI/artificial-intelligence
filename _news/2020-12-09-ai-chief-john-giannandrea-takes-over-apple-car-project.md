@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple brings in TSMC to develop chips for Tesla-like self-driving ‘Apple Car’: report"
+    excerpt: "Apple is reportedly working with TSMC, a semiconductor manufacturing and design firm, to develop a semi-autonomous “Tesla-like” vehicle, a new report suggests. Apple Insider reported on Wednesday that Apple’s “Project Titan” may be focused on developing technology that would facilitate the production of self-driving cars."
+    publishedDateTime: 2020-12-09T19:40:00Z
+    webUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/"
+    ampWebUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 52
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2015/08/Apple-6.jpg"
+        width: 634
+        height: 382
+        isCached: true
   - title: "VW CEO Expects Self-Driving Cars On Roads Between 2025-2030"
     excerpt: "Volkswagen chief executive Herbert Diess expects to see fully self-driving cars on public roads anywhere between 2025 and 2030. According to Reuters, Diess recently told Wirtschaftswoche that improvements in computer chips and advancements in the area of artificial intelligence are speeding up the development of autonomous driving technologies."
     publishedDateTime: 2020-12-08T22:36:00Z

@@ -67,20 +67,20 @@ related:
         height: 380
         isCached: true
   - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-    excerpt: "General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic taxi service that would compete agains"
-    publishedDateTime: 2020-12-09T18:16:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
+    publishedDateTime: 2020-12-09T17:06:00Z
+    webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
+    ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: WTEN
+      domain: news10.com
     quality: 59
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "National Digest: GM green lights test of driverless cars as taxis"
     excerpt: "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state."
@@ -127,6 +127,20 @@ related:
       - url: "http://i.ce.cn/english/main/latest/202012/09/W020201209396128618445.jpg"
         width: 800
         height: 577
+        isCached: true
+  - title: "Baidu gets nod for driverless vehicle tests"
+    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
+    publishedDateTime: 2020-12-10T01:05:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Nq7K1awKJ/RrhrvV7J63sgeMpaHGqEPJd3YhLFfXrjUTa0PDqV9DJgUaQaRR3O9e8aFb/4mzAo+TaH1cBiJ5NfDsM0B6SCVkrxcdRvJxJj2aCHWz0E5tkpWe5hcCTPmbUXqimNrgbNWpXQqMC9vU1tDYaoswWhdFiUDFMJEssWLJyIc2AxvY0QILuGrQicG73prVLlwE9HwGlRJbjyoOh8CunH3PjA8vSFHLG2gF5t1n9H72nHPwQRu2zBg62mOMVqM/Fs3U55J5utycB/ffSXpplksNDHkimmlji/pNKFSYbgOYXApVeL8AuEjolRbnCc77J2VFoUQmFA98xlcnKAa15K5dhNgSUt224BoyFvs5DITxO6M07f+LHBEtuNokWNByF43tk9ztKTk/QX2UPN+t6S3t7dmHysmdqtYPzAorxIm7oNGKvyuvpog+2N2Cgr2h4loVgfeeFym8lNl063jM1W8wnY2659F+2aBHfXYOB8MTUBDzg8DlTcgGgOGcZWMU/oLfDILN5ZwVVBdNWg==;B0HYCMvXOACc6AfXDbDNSg=="

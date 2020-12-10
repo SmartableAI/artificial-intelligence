@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "tKh01Bo6n0w7iiC+D7Al0K/ZE4SHnPnp7LzsY3OajBluK+m9y1sw+EISNSaWQl1EUa7TxlNMlMOvwl1YvgRpNkJvrBI+2XRtTP/eWmKm7ADfiknJNGKTsSLwg3OrctgzA4eHZtT+qH2Sj2Kxb679VMPWCVUqVK6qNgPilbz0nLNe7dKFXk4acox5kiquJrLl/mYbIevOvFeJ+go4x236OPJU2NwBA1FFb5OjFnZ+9b0ijnvle1cp7DWRa+Q3kzTB3rMzqY2KFU5PO3NuQuINzBCEGGLYnblSO0+x1kzrsPkeZm7vAROIgmY5tJmWD7HOoSCzjqOlw8Z+sNcJA27Gi2o32F7a3I6vKvWloc4aI595PoOUO8Vt2EqaghT7Zb5BtIIdogo9Z77+4YVCK2EcwCR1WRXUsCgjiN+5Zrjvv6uFLaFfPiZEnynOQeQvmYtQOlZxovovM5xz3j9jCr/fTxFaP6JGrfVQ7dPFj0AUgP5DC9RezHUOC8A7Q7zzle+PmJ2vI3PMrUzfxMEu7O6skw==;p0FzCvd1NHNs0Cx2d3SJ2Q=="
+secured: "zW3A550m9Np3qK4lTbrM2Ga2bNnU8yAzotfzohfbJrdtG/3hjqs3dLH58E6KGJjmOrdkLeppYAnCfhFdZaIG9hQ1j7T2EDkIQz0NNErCijjfeG0dxe2TkQu6RNMihxTLRTmBE41APnmi6tj1Lh2t+Y8uQyneHJoCW6MMsbNxNj9gZy9GasH5b/HN4MeNZdmdfGmpGdrQD1jweVog6OnO/K2J4iFEAGC2K4BaAMNDXVvhY1aJzvR+bGT1HL13Tjm5P2TysDC6GWfbgAkR2D+k6lQsosdCJ1XsAZC78b8iaTEYQMOxC+MfztRcnp0f8QZP+buHDGHgQH9/9iYIbJGt8uPkRXmsAlJ3aRrgMb5dDzQ=;VxIo5kG/qRkjiN1/y/QEKA=="
 ---
 

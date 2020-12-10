@@ -1,29 +1,29 @@
 ---
 category: news
 title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-excerpt: "General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic taxi service that would compete agains"
-publishedDateTime: 2020-12-09T18:16:00Z
-originalUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html"
-webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/2020/12/09/37e032a4-3a49-11eb-aad9-8959227280c4_story.html?outputType=amp"
+excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
+publishedDateTime: 2020-12-09T17:06:00Z
+originalUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
+webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
+ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
+cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -114,6 +114,20 @@ related:
         width: 800
         height: 577
         isCached: true
+  - title: "Baidu gets nod for driverless vehicle tests"
+    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
+    publishedDateTime: 2020-12-10T01:05:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
     excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
     publishedDateTime: 2020-12-09T17:00:00Z
@@ -129,6 +143,6 @@ related:
         height: 600
         isCached: true
 
-secured: "OuYh4+LlwPuNC24XnzpP8QvakS/kzNONGShcEhkf/NlfJHe2pTepHMMIo9m+VIyawrKX12xL79seRjw2fxEY7RiD0b3F1b0pTgIPJzxoPTWeTrqT9ZiJPvBRWTyx3JqZL8Wtd0OxY0AMymXNgLZFFdDx4D4AnASok1wu3yDYU7AHThxQkUOl3LN70IRAse9g6V9s+3kAt4YY0c02NYULRHBVYfZ6OCIcKnGhOYtrIait28s2AZ8etG7vdi+BDTc7IXoN9wmgc7ZEUay7XfDXU5E5dD0C4PW1unD8nd3sMjgI9aLQy9SDtkapb29noTYzDEqKri2OquP5B7pQFJQOwVN6eg/2buNGmFyigV/8tDY=;r/V3dcnExdTJXNvyLID/mw=="
+secured: "IjYEGdXJLGD3MgTwYmEz7Q6A0R1ikkUS2HmN1OVXpOd3rSWstwT0HU9Tf6c6hoXa21Fqfm96dJugK8YAdIOdMGGzZ7OBExRVM8KkPynyX9N0pca58cnDLwTlt+QUspLWILAKqi/LAXusxkrv0xMRAk+HcKjfHou7kLVsjGMcukyw/cUdjVOtlO+BtFx+xo4cacZa4oFlvcgbhs4/x1xOuXkA2sdNkyc8/X87wpPFpU/2f1inCaB8vT6Mes5IxNSohPv2+v6ikVVKk9bAQJKMJYCjb9Pb4BA+roqyvNJEl+VPLyVHeEpui6iivceSduTRSZZclUYslR3TZdQrDBtRC4ZiAFf3ucZueXI5v1GV7uA=;fffKVhprPlBUHloeuMdZ4Q=="
 ---
 

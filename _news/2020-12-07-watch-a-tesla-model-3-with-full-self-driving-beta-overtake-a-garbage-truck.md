@@ -107,6 +107,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla Full Self-Driving System's Beta Developer Settings Leaked"
+    excerpt: "Fun options like 'California Stop' might not make safety advocates very happy, and what is 'Chiropractor Adjust Skeleton'?"
+    publishedDateTime: 2020-12-09T20:19:00Z
+    webUrl: "https://www.caranddriver.com/news/a34919792/tesla-full-self-driving-leaked/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/eowt33txcait6ee-1607535782.jpeg?crop=1xw:0.8056066176470589xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "U2qyaXfQ6aDgMLFXlUfapYffuGM1KK+n5/8dy7DYCuU+jOE6DP/8qOPMrKoFY9oGis+P2C3b6LfwZglmokBnDsMOJNEfpMwxkHmd0UO3FLhwoqDiDxTA4MWAAG8JoP3tsyLrSH6unW50JYoQA0fl4/vNChOtDZ78ucZVkf+hiyHAikauw5bRvuEoYL8G3lFCCotqZ6ER+587DttIUH6L6nJalFSRXLlJo+J3s2Of1mcvHsOMB3M/Y7HBkVV9aTzD+nds6PySIYebUVVa7c8UHES2domDw9z/aPWGpOxQP4ozT7zZzyJfo4wnSmEUf5yAOhbf2V9ik64WXTvVkINno4V4lGaWHbZsXkbijYBBjfw=;6WSWazrSFOt8fAcDg1u11w=="
 ---

@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
-    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-12-09T22:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast-1029879243"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
+    publishedDateTime: 2020-12-09T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "IPwe joins European Digital SME Alliance Focus Group on AI - recognized as Top 100 Artificial Intelligence Innovators in the EU"
     excerpt: "IPwe has joined the SME Focus Group on Artificial Intelligence, made up of innovators and service providers focusing efforts on AI technology to benefit SMEs across Europe. Backed by the European DIGITAL SME Alliance,"
     publishedDateTime: 2020-12-09T13:17:00Z

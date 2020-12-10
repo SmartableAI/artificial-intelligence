@@ -1,23 +1,23 @@
 ---
 category: news
 title: "AIkido Pharma Announces Publication of Artificial Intelligence-Machine Learning Sponsored Research Program for Pancreatic Cancer"
-excerpt: "PRNewswire/ -- AIkido Pharma Inc. (Nasdaq: AIKI) (\"AIkido\" or the \"Company\") today announced the publication of positive results from its"
-publishedDateTime: 2020-12-09T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning-sponsored-research-program-for-pancreatic-cancer-301189567.html"
-webUrl: "https://www.prnewswire.com/news-releases/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning-sponsored-research-program-for-pancreatic-cancer-301189567.html"
+excerpt: "AIkido Pharma Inc. today announced the publication of positive results from its Artificial Intelligence/Machine Learning Sponsored Research Program in the field of Pancreatic Cancer. The full article is available at:  (See Nature."
+publishedDateTime: 2020-12-09T15:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning"
+webUrl: "https://www.nasdaq.com/press-release/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning"
 type: article
-quality: 20
-heat: 20
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "EpZnkF516GaBLlPibZYDeU3A9VRwEp7kiF/ObgGzXPgulOYXA8SrNaTzjchnkjRMwJiWs8hzjatvVCzDHHDHF9ZDe69s2S97wzTPZ3zziTCPiImnz1s9I335aP1Yjhzx38X5KZryO+2YuE/1AyRjAeCu2NEYlG0H3tS/xxMKsSxQbFbMeV6zWXvl+ewxd/oOI7NrsS3cHP9UYwZt+0Db9rRI9lNo3CKh1AfCSEXk8LE3kypVsTipcgi/i6U837S6qHsbAHNAmdyeba/ZsqOuSkfu95S5D3U3cEhkhLOcsltQQQ2trZW424YCckz3DznyCUITDX5J7T5BqoW75whoJ3z2zfgLH6qvuWoEiSOsX5E=;1r7ut9TwbuzOByUWcallTA=="
+secured: "A2QGIDFzuzZrC0IuasW9sPlqXKbnlW0ERM0U0/M/ue3JNFhuoo2nyWkjkxfM9JdibeEYpfLtc3BClSqdx1qWNHwzqKxzoe4OZvef7TCVzy1zdmG2jVWY6n6G0LH1RAsZrZ8v6mSZixA5qm0r6WThvkPx5a7sbOZNOqt0GmUje/G1bYJec1m+w4DcJy7lp60uBI4m6VnjYpXW6IE8GeO1kCPXfGaqV50Fm+yMtgZ+BhyTr1SrGrI8FWwiDlRPrDmwkz2Mnk2BAW/8hO4JxBfH880foa4Dq+tnHnaqnDP/ROVDXQ6DP70wF4/JhTCHm/+/9xyhK386tb7KluJpHlBWCiQLXTdz9Hyp6Tkp6ZJfW9E=;9RNMMoHD9F2M6TNQpRMNig=="
 ---
 
