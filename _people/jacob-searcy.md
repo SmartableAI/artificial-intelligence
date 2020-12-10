@@ -14,14 +14,14 @@ website: https://datascience.uoregon.edu/jake-searcy
 twitter:
   username: jakesearcy
   url: https://twitter.com/jakesearcy
-  followers: 68
+  followers: 69
 
 linkedin:
   url: https://www.linkedin.com/in/jacob-searcy-28819b51/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Bgzrdc8AAAAJ
-  citations: 139182
+  citations: 139249
 
 topics:
   - AI
