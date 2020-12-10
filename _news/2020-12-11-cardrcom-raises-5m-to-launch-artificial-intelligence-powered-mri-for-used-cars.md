@@ -1,10 +1,10 @@
 ---
 category: news
 title: "CarDr.com Raises $5M to Launch Artificial Intelligence-Powered ‘MRI for Used Cars’"
-excerpt: "CarDr.com’s artificial intelligence-powered (AI) used car inspection is the first of its kind. CarDr.com’s proprietary On-Board Diagnostic (OBD) scanner pulls 300+ vehicle diagnostic data ..."
+excerpt: "The used car market in the U.S. is worth $89 billion, and continues to grow every year. But even with 41 million used"
 publishedDateTime: 2020-12-10T16:41:00Z
-originalUrl: "https://omaha.com/business/consumer/cardr-com-raises-5m-to-launch-artificial-intelligence-powered-mri-for-used-cars/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
-webUrl: "https://omaha.com/business/consumer/cardr-com-raises-5m-to-launch-artificial-intelligence-powered-mri-for-used-cars/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
+originalUrl: "https://omaha.com/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
+webUrl: "https://omaha.com/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
 type: article
 quality: 46
 heat: 46
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "1qmhT6OqamfaBdKFO1nr6HkK6eU1SmPHnnJJtKqoxxgQRA5vdQRk22OoweKbnzs0RRg8QnKxdzbX0TIe1+yUjymJ0sex9/gMtatrPXzAdgMbEoS/LAFIlOFXQnsWHc35eZoeqdj6pgQv1LXDwLdlIiACUZoBDLiStuIa+It4K4JBkOtTs6rBAVCxhOQTOaPsddDNHDwnH28Bu5hwMnQFg1GzSaYIIdho1lgVAgV3DWULRgVDwhf9X/ujBVryPGV2prMbk9nsbiqi6Tg8Hzi+Lm1e6Bc75lHV3M+9Av2Yt8kupj4XWD7RjomLqBiehGaZn4+pcC1VdwFkmD4pE3pwQ64h+bMVEjsqldSt9X3Yga0=;DnUQ3rCpDOktXxgn4ickjQ=="
+secured: "JTgrqpo6oInUDaSKujPW1bl9/+8wG8nJMCWXEU2PWY2dtI/V+rap0Ko6+F0zqDRsMXnCftER1HvB/bTFdln9PRXLZg6+Wg0BUmusQNhKHlzy3iG5uLAPFK81uBwhAGeCkvO80c222fOvusuUKpJWpQN3tn1U2EXvPEk2tpg3mrEEPaV/d2P8dJ4PcJx6ynmtbUd7e9srlrTZgfb15LOxksUYLqTHWJ6sZawjYJJ/mvF5f4FDqqxuQM7amLUBiGZk7KnEUCnIsYJiwzZF4BBfqfWfz32a0nkfnmdym8xjLD87gvJgCp4jysRLX7FRDW2AGx0RwpCZ7a/2nvybc53GL4N8BDLg9muvbOt6OoyHxqA=;pMjkOAcDHrXRkNVWw6ReTw=="
 ---
 

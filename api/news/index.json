@@ -2,6 +2,197 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws.md",
+      "title": "AI and machine learning influence becomes more apparent with latest analytics releases by AWS",
+      "excerpt": "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Rahul-Pathak.png",
+          "width": 3774,
+          "height": 2120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice.md",
+      "title": "New York City Council votes to prohibit businesses from using facial recognition without public notice",
+      "excerpt": "New York City Council today passed a sweeping privacy law for commercial establishments that prohibits retailers and other businesses from using facial recognition or other biometric tracking without notice.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/",
+      "publishedDateTime": "2020-12-10T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-study-details-first-artificial-intelligence-tool-to-help-labs-rule-out-covid-19.md",
+      "title": "Study details first artificial intelligence tool to help labs rule-out COVID-19",
+      "excerpt": "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv's new AI-COVID software.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/8-researchersp.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp",
+      "publishedDateTime": "2020-12-10T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study.md",
+      "title": "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study",
+      "excerpt": "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T13:40:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives.md",
       "title": "Save the bees, save the world: How ApisProtect uses AI and IoT to protect hives",
       "excerpt": "Not be an alarmist, but if bees go extinct it’s likely that coffee would become a rare and expensive luxury commodity. And I don’t want to live in that world. Luckily, ApisProtect today announced its entry into the US market where it will provide its unique AI-powered hive monitoring system to beekeepers and farmers.",
@@ -207,58 +398,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.md",
-      "title": "Deere's farm version of facial recognition is coming to fields in 2021",
-      "excerpt": "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?v=1607525192",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html",
-      "publishedDateTime": "2020-12-10T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -571,7 +710,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -674,7 +813,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-businesses-get-their-rd-tax-credits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1103,144 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-an-eye-for-an-ai-optic-device-mimics-human-retina.md",
-      "title": "An eye for an AI: Optic device mimics human retina",
-      "excerpt": "If our artificial intelligence is able to think like a human brain, why do we feed it data like a normal computer? Scientists are addressing this question by considering the sensory input we human receive and have developed an optical device inspired by the working of the human eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
-      "originalUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2020/12/GettyImages-1170535570-crop-b37093d.jpg?quality=90&resize=960,413",
-          "width": 960,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
-      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
-      "publishedDateTime": "2020-12-10T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
-      "title": "Moraine Valley Grad's Written Work Receives National Recognition",
-      "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
-      "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition",
-      "publishedDateTime": "2020-12-10T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
-      "title": "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
-      "excerpt": "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

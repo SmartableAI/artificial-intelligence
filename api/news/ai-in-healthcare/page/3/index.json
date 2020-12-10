@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
+      "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
+      "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "originalUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "publishedDateTime": "2020-11-04T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-artificial-intelligence-and-cognitive-computing-market-major-technology-giants-in-buzz-again.md",
       "title": "Artificial Intelligence and Cognitive Computing Market - Major Technology Giants in Buzz Again",
       "excerpt": "Healthcare, Retail & Consumer Goods, BFSI, Security, IT & Telecom & Others Regional Analysis for Artificial Intelligence and Cognitive Computing Market: North America (Covered in Chapter 6 and 13), United States, Canada, Mexico, Europe (Covered in Chapter ...",

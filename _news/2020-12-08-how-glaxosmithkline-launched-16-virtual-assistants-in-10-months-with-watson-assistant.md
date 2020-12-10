@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launc
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launched-16-virtual-assistants-in-10-months-with-watson-assistant/"
 type: article
 quality: 110
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study"
+    excerpt: "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest"
+    publishedDateTime: 2020-12-10T21:40:14Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 118
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg"
+        width: 1024
+        height: 558
+        isCached: true
   - title: "CIBC introduces Watson-powered virtual assistant"
     excerpt: "With Canadians using digital banking now more than ever, CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking."
     publishedDateTime: 2020-12-10T16:44:00Z

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
+      "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
+      "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png",
+          "width": 797,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
+      "publishedDateTime": "2020-12-01T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera.md",
       "title": "AWS announces Panorama a device adds machine learning technology to any camera",
       "excerpt": "AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision enabled super-powered surveillance devices.",
@@ -567,24 +620,15 @@
     {
       "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
       "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
-      "excerpt": "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,",
+      "excerpt": "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a",
+      "webUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "originalUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -592,8 +636,8 @@
       "publishedDateTime": "2020-11-30T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -603,10 +647,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI",
-        "Machine Learning",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
@@ -1346,50 +1389,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale.md",
-      "title": "Freshworks Taps AWS ML-AI to Deliver Predictive Customer Support at Scale",
-      "excerpt": "Incorporating AWS’s machine learning and artificial intelligence services more closely into our systems and processes allows us to intelligently resolve support requests and provide even better ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
-      "originalUrl": "https://www.cxotoday.com/press-release/freshworks-taps-aws-ml-ai-to-deliver-predictive-customer-support-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2018/10/smart_machine_artificial_intelligence_concept_web.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

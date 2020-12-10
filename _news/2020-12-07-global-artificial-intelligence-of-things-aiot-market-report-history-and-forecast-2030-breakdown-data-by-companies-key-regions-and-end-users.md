@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Complete Report on Artificial Intelligence Applications for Smart Cities Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence Applications for Smart Cities Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence Applications for Smart Cities market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-applications-for-smart-cities-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
     excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
     publishedDateTime: 2020-12-07T16:25:00Z

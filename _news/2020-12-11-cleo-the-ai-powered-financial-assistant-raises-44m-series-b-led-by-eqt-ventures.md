@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHbs2q3T07MUg/article-cover_image-shrink_720_1280/0/1607434134366?e=1613001600&v=beta&t=hiKGckgozuY61nDEpFa9y0f7HruuMm_GrqqpV5faiFY"
         width: 540
         height: 720
+        isCached: true
+  - title: "Financial Wellness and Advice App Cleo Nets $44M In Series B"
+    excerpt: "A financial wellness app founded in London, targeting Gen Z, has raised $44 million in a Series B funding round, according to a TechCrunch report. Called “Cleo,” the “financial assistant” was founded in 2016 and today combines a chatbot and account aggregation with tips on spending responsibly."
+    publishedDateTime: 2020-12-10T21:21:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/financial-wellness-and-advice-app-cleo-nets-44m-series-b"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 24
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/digital-dollar-sign.jpg"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "fGe7aZBcUUqM1BSHW8Z4QU1OxOOPzRyoBsJrYQd5NmO/37MnQztncseVWK2RtJJkp4QFhddmpqyAGoRUMEZIAsFgj8+++IVyHCra22UTySeArCF1OWsF6rfEO6wYU1i2VzL1xItQja7gFgEoqL2eedspIgeiAecfYXqMDnxAfZXpyu7lbdt5Iqef07ZjH273kCvpmATXNZ9sMZjwDo3y2k++VuugL1QFe5IG4G/jKEf9jpUWaD6UQ7Gwr6wPn/iAMYseO+HfE/KsOFogi4qjePwDSzv/+GoinnPMdVghTaQqp7zZsT/wNbuGL8nscFpHpnUc9YG2u4szb4wI0+b5QjFG0XHLhiuOqUpyGpDmiiVLuKb5aCtTXt5x1cWu5fhXwcJujOTG5RJyDZs8QdNPYwu/n18dEXrzvF1eWlV2qZBaNCji5FMP5R4iRsJi5cGd+KoukUiWooLN3mRiLsiqyaWdHe43utaapT/2jNoq/yqCxFjIRGIiDZOxSTuprffCR2rxEAeMXQzsInZMJkPjVQ==;wa9rdhgJS5mp+sZzP+LvnA=="

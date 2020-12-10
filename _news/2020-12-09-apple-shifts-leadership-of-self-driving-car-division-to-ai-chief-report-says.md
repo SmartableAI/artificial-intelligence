@@ -122,6 +122,22 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Self-driving cars now navigating SF streets"
+    excerpt: "After five years and 2 million test miles driven in all sorts of conditions, San Francisco-based company Cruise has launched its self-driving electric car without a driver behind the wheel for the"
+    publishedDateTime: 2020-12-09T19:09:00Z
+    webUrl: "https://www.kron4.com/news/self-driving-cars-now-navigating-sf-streets/"
+    ampWebUrl: "https://www.kron4.com/news/self-driving-cars-now-navigating-sf-streets/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/self-driving-cars-now-navigating-sf-streets/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 44
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2020/12/Screen-Shot-2020-12-09-at-12.03.11-PM.png?w=1280"
+        width: 1280
+        height: 689
+        isCached: true
   - title: "Apple Allegedly Discussing Apple Car With Automotive Suppliers, TSMC Working on 'Self-Driving' Chips"
     excerpt: "Though there haven't been many rumors about the Apple Car in recent months, work on the project is still ongoing. Following news from"
     publishedDateTime: 2020-12-09T18:19:00Z

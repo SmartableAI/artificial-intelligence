@@ -1,20 +1,22 @@
 ---
 category: news
 title: "NOW Stock: This “Missing Link” Cloud Company Just Acquired an AI Startup"
-excerpt: "(NYSE: NOW) is making headlines this week following its acquisition of a new artificial intelligence (AI) start-up, Element AI, which it expects to boost its AI capabilities. Element AI is an AI-based IT services company that was founded to help non-tech companies build AI services."
+excerpt: "Stock Market News, Stock Advice & Trading Tips The growing cloud-based IT services company, ServiceNow Inc. (NYSE:NOW)"
 publishedDateTime: 2020-12-07T15:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07"
-webUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07"
-ampWebUrl: "https://www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/now-stock%3A-this-missing-link-cloud-company-just-acquired-an-ai-startup-2020-12-07?amp"
+originalUrl: "https://markets.businessinsider.com/news/stocks/navellier-template-2-1029875293"
+webUrl: "https://markets.businessinsider.com/news/stocks/navellier-template-2-1029875293"
 type: article
-quality: 66
-heat: 86
-published: true
+quality: 46
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -36,18 +38,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "ServiceNow to snap up Canadian AI startup"
-    excerpt: "ServiceNow has announced that it will acquire Element AI, a Canada-based artificial intelligence (AI) company with deep AI capabilities. According to ServiceNow, the acquisition will significantly enhance its commitment to build the world’s most intelligent workflow platform,"
-    publishedDateTime: 2020-12-06T11:50:00Z
-    webUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup"
-    ampWebUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
 
-secured: "e4xbbz+W4mcyBeFx6RBXiD7TIhgqgfdwjs6LHAtfMtaBwTnmzuC/UH7TO55bCVshfpyuII7T3KvJHcAJcXQGpjw/KN1GZ2q+bSMoiP9pFHMoowYMLX8pRebSg3Xy1I+0UR/R/btOpF3I8wt7M2PSPmiqVL+mHkTkqgFKZuVgWetxFgh0Mb2sAyuizrTL88Zp5+lAshSoh/s+POepFfR9QRBmfyTjtkwUmkXxg8RvaOg/yM0iuLyQSko35ZpCVoE1PNIqfuKJza2ZGrJx98kVvL4vxh1m/XgOdLrd5xTJER9VQ4w3m0y8YznpuIGmFelrNE2RBHdVEMEZexQYjgpLy5KZfjKUlGlQbENBVeIYQSI=;BGwMGI5hIIs3cDqfxsnlBQ=="
+secured: "pauScrD9nEpbYjw4JDLkSYVThIsI/xPDnEKJpc90GGy89inENh1kfPyfZKk6b4aa3neFbyeX+Th8S5srWmqDMFzza9JiZLqdn7CCejbeH4A5zICbX6GWL7sHgS4FqV6lKMHgjzd3RvLKpQ29mFlUJhOPNF6iMlhiqNbWCJ6WjIA12kq0YJgxCiMx820ETqW/b5CiLD3f4SXT8pfsptPBHrn6RKO5BFAa5Pfy7fc9ZKz1saWyspKbnO3Y8pHWBQJ1FmD+33VzUKgoxpBiwuzIxFNS0Gz2vQX3HX6vSMxtUFkLoh/HcsacLRpC+1/Hf+WX0VGxtJR1mxg7JaPjH6JW6Sj2/hATMZQCnlt7vanDBGmvGMI5rZUfCAEGU9FGaYLgjj0q37tJV3EyEQBw2sHThqE6+OjN3nEo51MX0yoM2twyke2FGVXnvE7T4Z/I2ecYn7tkYA8z92cuP9jEdNA7MhPx9YX8Ct8WKTw19Dhn54Iqu+UihR8NSgUNV20MZr+VeSpu2AQmH1oh3QvEiE4SBw==;rAd/I1Fk2ww3tc53mPL19A=="
 ---
 

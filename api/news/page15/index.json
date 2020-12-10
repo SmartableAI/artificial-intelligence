@@ -2,6 +2,239 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-30-is-the-pandemic-spurring-a-robot-revolution.md",
+      "title": "Is the Pandemic Spurring a Robot Revolution?",
+      "excerpt": "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
+      "originalUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2019/07/automation-retro-robot-toys-shutterstock-175821860.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
+      "publishedDateTime": "2020-11-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-ten-workforce-skills-for-finance-employees-to-complement-ai.md",
+      "title": "Ten Workforce Skills For Finance Employees To Complement AI",
+      "excerpt": "After delivering a number of talks on embracing servant leadership as a CFO, audience members commented positively on how future workforce skills, such as servant leadership, would complement artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
+      "publishedDateTime": "2020-11-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
+      "originalUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
+      "publishedDateTime": "2020-11-30T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
+      "title": "Brazil trials facial recognition with retired public servants",
+      "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "originalUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
+      "publishedDateTime": "2020-11-30T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-ai-approach-could-solve-the-problem-of-roi-for-content.md",
+      "title": "AI approach could solve the problem of ROI for content",
+      "excerpt": "Every company has to be a media company, too. But figuring out what content marketing to produce - and measuring its impact - is a constant problem. An AI service from InPowered could offer an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "originalUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/28/3abcb41d-e908-4445-b0c3-81f96343775b/uncertainfuture.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "publishedDateTime": "2020-11-30T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-csi-partners-with-featurespace-for-anti-money-laundering-solution-to-combat-financial-crime.md",
       "title": "CSI Partners with Featurespace for Anti-Money Laundering Solution to Combat Financial Crime",
       "excerpt": "To empower its customers in the fight against financial crime, Computer Services, Inc. (CSI) (OTCQX: CSVI), a provider of end-to-end fintech and regtech solutions, has partnered with Featurespace™, a leading provider of Enterprise Financial Crime prevention software,",
@@ -47,24 +280,15 @@
     {
       "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
       "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
-      "excerpt": "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,",
+      "excerpt": "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a",
+      "webUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "originalUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -72,8 +296,8 @@
       "publishedDateTime": "2020-11-30T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -83,10 +307,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI",
-        "Machine Learning",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
@@ -942,265 +1165,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people.md",
-      "title": "Recommended Reading: Using AI to create alarmingly realistic fake people",
-      "excerpt": "Fake personas on the internet are nothing new, but completely fake people that appear to be alarmingly real in photographs or animations are becoming increasingly common. To better understand how easy this process can be,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
-      "originalUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F928edd90-1a6b-11e9-9dad-12cf547e46df&client=amp-blogside-v2&signature=220b66291da6c89be2fc4f03e86d407a461807b3",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
-      "publishedDateTime": "2020-11-28T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai.md",
-      "title": "Emily Murphy, Administrator Of The GSA Shares Her Thoughts On AI",
-      "excerpt": "Being recently thrust into the news, Emily Murphy, Administrator of the GSA might have rather been known for the impact she has helped make on the GSA's use of AI and automation to change the way the government procures and uses technology services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc25de1572d1ce489ed7e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2400%26cropY1%3D271%26cropY2%3D1621",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
-      "publishedDateTime": "2020-11-28T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025.md",
-      "title": "Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2020 to 2025",
-      "excerpt": "Global Artificial Blood Market is estimated to reach $10.73 billion by 2025; growing at a CAGR of 20.3% from 2017 to 2025. Artificial blood, also known as synthetic blood substitute or blood surrogate is a substance used as a replacement to biological blood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025-2020-11-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-blood-market-is-estimated-to-reach-1073-billion-by-2025-growing-at-a-cagr-of-203-from-2020-to-2025-2020-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-28T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
-      "title": "Tesla could widen release of 'self-driving' software in two weeks",
-      "excerpt": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "originalUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
-          "width": 716,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28806A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A",
-      "publishedDateTime": "2020-11-28T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video.md",
-      "title": "Kamua’s AI-powered editor helps marketers embrace vertical video",
-      "excerpt": "Kamua is an AI-powered video editing platform that helps creators automatically transform landscape videos into a vertical format.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/AutoCrop-ScreenShot.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/amp/",
-      "publishedDateTime": "2020-11-27T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

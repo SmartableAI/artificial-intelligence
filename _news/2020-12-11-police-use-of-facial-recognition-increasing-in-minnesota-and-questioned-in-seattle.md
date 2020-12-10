@@ -40,22 +40,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Facial recognition: What to know about the Massachusetts police reform bill’s restrictions on the controversial tech"
-    excerpt: "The bill would limit most government agencies' use of facial recognition, a technology that has sparked fears of privacy violations and racial bias."
-    publishedDateTime: 2020-12-06T10:30:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/12/facial-recognition-what-to-know-about-the-massachusetts-police-reform-bills-restrictions-on-the-controversial-tech.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 36
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MB7WOSFZ5NDATGIURQGKWKKPIY.jpg"
-        width: 2176
-        height: 1578
-        isCached: true
   - title: "Why Voice Recognition Technology in Gaming Still Has a Long Way to Go"
     excerpt: "Voice recognition is one of the hottest trends around right now, with gaming among the industries to be taking a particular interest. Many experts believe voice recognition could become a central part of games in the near future,"
     publishedDateTime: 2020-12-09T05:14:00Z
@@ -71,6 +55,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "U5opyGJN8NLY2IasEa7PJeiRlcIDauzlRGlAMcszBq/3UhoEHLX5Q42tpovPft/mTgb6Klz2bhUB5x/NSa4wsmo6ORyGyATTVv9ehIJ0o/jCUoVp3nzGZxZvJBzH8sYEOtV+WTC6+Wm56+7ZijSe02RpsW+VIAwTdUaesBXyuRauk2kyfCBvyFAIKuzKMi1L3F0QSXDDUK76hW3N50T9rUGevAaP3XMuTMR/zd5moDUl9iwrQc907OhrQjB8qnWi1o2xEsm89TB7Vukv06SA9T7hbCV1unn+MHX4N3H5ji/UI47lMYzCoWn+Us+jMYUwiSW9ELnypUMX6fHQzmaRbfNxKMU2zExdjYR5YIze+mk=;7ioyx9PPjxl+p3WBN1FT7g=="
+secured: "bNwCkn5i6Zl2ht/IJPmHpOwIlQ8XHjltACPVolLt2E3jT7GIR5eV9noP4WuPgdR3zvLNVOO1dt/agBQ7sKt6XW8B6M0VHoEtXOuDUATbk0tokVXDwviApndswKILS9mhQpxM1R9hszY+BcpSN5KxFA39ug2ow8l0MRjA5tUnUR6Kc0H9kVr5qN+Dt+qjPI0aWy/I6Rd6yMEUkDOBrnvYAJTboA7cU8ZMdgUFsX07cm3Qe4oJQRGbAdCJ2x9/43ULZFLYQsE8fTeYgRS4dJbbCaslgXM99enVYKGmD8mM7s0lVa4rs1d1ziYfEOs9X3sIrMQZFYne4/nvgZGWR0v8vtY8Y0Em6cbvEsxMLMrUuj2zTmE17RxUSATtQE+Z6bSVf/Wcpt2fQCTZ37mSEDXoVw06uE+mveLVFxDAjkIqhgyA4KEpV0TZQwPutW7edLLEaSuJ3uJmkE9MnLMEfPePiBkWwnoMMEgoGHNKjeLB3SwyU/Il1azxvDysdU5wFVAdvEcllOX4q9DxNxmCjF/CCw==;vORCgy9E5xnKs502rBl8bA=="
 ---
 

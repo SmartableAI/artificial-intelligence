@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-18-savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.md",
+      "title": "Savvy enterprises can mimic success of cognitive AI in healthcare",
+      "excerpt": "Cognitive technologies are being deployed to solve the world’s biggest challenges. AI-based bots are working side-by-side with humans to increase quality and efficiency. Here’s how enterprises can put cognitive AI to work in their organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
+      "originalUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
       "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
       "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
@@ -1308,49 +1352,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
-      "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
-      "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "originalUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
-      "publishedDateTime": "2020-11-04T21:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

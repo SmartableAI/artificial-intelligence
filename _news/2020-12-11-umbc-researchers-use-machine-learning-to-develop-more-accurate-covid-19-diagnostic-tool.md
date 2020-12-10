@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/uomb-uru121020.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-12/uomb-uru121020.php"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "NUS researchers finds best combination of available therapies against COVID-19"
-    excerpt: "Researchers from the National University of Singapore have utilised a ground-breaking AI platform to find an optimal combination of available therapies against COVID-19. The research team identified the drug combination from over 530,"
-    publishedDateTime: 2020-12-10T15:53:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/nuos-nrf121020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251258_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "qZtTFigsp38M4yX72W4f8C7S7bdqO1jPXtncfmPDXVtZprH+SxzJU03+UHOfWmOlhNQwXxg6l5iiK8yu+2Fs0bNRff8YKSA1K144x+UOGx9x6JTfRC6IESSz3Sby6aopCiGjNxBSiEFW+9NO8q/QIRPhpq5JcsvvMbB6v8A3KeklSdN0YD0Y5lfWcUqGsmmQYHRp+VwLzr3HWFKGAfxbt72zlfuJD1ALEXFByfjvzpYK0NlMw6c+SgLY9XEOEpk4lrv7kudtLssLNq99LIhYWXTUfSW6+dxq0eWdRSJieAguIl6QhtCec7f4HKTabW63uneE9RD0jZU1WvSwPlaUiLR17NSGnt5s42H5p1aWfUs=;O8VM4EKY6HRClHeczx3pUQ=="
 ---

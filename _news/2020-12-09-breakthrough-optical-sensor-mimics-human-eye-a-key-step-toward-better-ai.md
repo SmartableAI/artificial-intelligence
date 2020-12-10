@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Breakthrough optical sensor mimics human eye, a key step toward better AI"
-excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
-publishedDateTime: 2020-12-08T20:50:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/osu-bos120820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/osu-bos120820.php"
+excerpt: "Researchers are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
+publishedDateTime: 2020-12-08T23:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/12/201208163005.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/12/201208163005.htm"
 type: article
-quality: 38
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "An eye for an AI: Optic device mimics human retina"
@@ -72,6 +70,6 @@ related:
         height: 1618
         isCached: true
 
-secured: "L0vX7GBYlOgzEmcPOTGpk21NOSCOCtR5LJE5EriPIXv0MXR39IZnZntlaNlSs5zAhy3lJFwk/wceD7oF4j0zcja5fxFQjnde7rv0ouIQxaj9ZZz2fnpTh8tZqZ/WXNMGyBGxmzPITFLVJbkRlyhN6uihFm1GbO6xnglFtyI+gGoqrIl/aN/p0uzxcFZpWcEFqBsfL5E0JBojrfpkCN8LZJXFMZ+3U7/uJVcO/vysPb9BXBCXZCGTZdOW4G3+hZmiJT/3ns6J+HW2r+oPlRTiTzkk318DNeDQX5R1NS9eGnPggQjNiNzVPqEP6vONNJdzIPdBree+L5Zr8FwsEfeCTNTZMaCn0X6lJVItpvRbqBY=;TXhuZntBKBxWAU1xBhY6TA=="
+secured: "0ZGn6bxpc50o5hN5bRcJHphe4Z/cBkbNjy0S1c80DbTEPEDjJys7TVnhCen7tytD30ywc4EWy4R1jTwMbmAcye/KAE4l1eUkIa/FZdgfHZ52wml6F3MOhJZpp+oSThvGMjvxVDEV7kb65J+iGHcCxEFBJ3V497Wl+H+0UeJ4woozx/wLx141AoEmOYMhgnJ8igbmvtFG2LwmbkDY3BpHpnRKAynrzmUKay8gMNYEIGwYuzH6sIMnmzK+uhSdAh9f8HeqPs1ZsIMDwj0vVcb4S1isLKgpv7BjCmo1x6xqJo2H0dfRFAVuYbQLCb8eUW9rtss+gbyBF25+7iTqbMh60latSX6WFpNp4L3TQqF4x5I=;+rH/m372rY3knWzJRqGWuw=="
 ---
 

@@ -2,31 +2,21 @@
 category: news
 title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
-publishedDateTime: 2020-12-08T15:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
+publishedDateTime: 2020-12-08T04:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
+webUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
 type: article
-quality: 61
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AWS Announces Plans to Open Second Region in Australia"
@@ -114,6 +104,6 @@ related:
         height: 357
         isCached: true
 
-secured: "j6FgzMq83idsG5Sd1a8YKRF7FLfYus1NgLpEEDupHydJ7ZYMCMwqLdpRFWg5IicW9vLhAjV1BGB5DvwQDbwK5ABx39pDU+9Zzgxv2PzVoTWqLQprPSd4JZg0kDOAazMJOoAABMRYJSKcBEPyIBbP5rT9oARkUeLdBudBzA5iUxTBm2mT1OpEMTE0+aBXa3/jFyFkIRSC5Hu/z82SXsq5736pRa/9nt0BpoVJvNh7QEWgx0Jx4aUVDhROYXCkWymBfl/1dIOxRZ/I6SBeXNYmwe1vRmvN4CTOUyEQFphzGl5agirbLjdzcxmTCUzuxOWZXIk7cGxw7ro32d+Oc0+MAHLg3dIslG8IHTGaMoqoyY4=;NICjojAbH8cdwAAfPu5Efw=="
+secured: "ZR/lNJQZcN8W5TzU0T80uq+gGNVXRFrHv48E97TMHVIB2lc3OOb8Djc9l5WZV3Qb196Vo4c8HZlMENGE5ABiySjhzaunNhOIclvC1bqLrCViAq2kBnhkdgYk3jPa1agitZnOMDpkZ/nDtPxhQoCzB7wgMTlIsvZgiHfRmbAeeloaWsFq6r7vRXbLhbaxXEnOjfS5vTExjV6O40OCDcdu4vNwP5ZWyDF59/aWlntRXL5/YoZBG2GOCqso1snaZ+1b+wd91El+J4B8u3ut3vEJ6w7PAW2A7CZnKhMT7bpSHX54ThAeLr1x1wzaB0kq2NGxwyM7dS5ziF/BIE6zIxmqcwCUMpofpK0MNeQ9ubC41mw=;h4cj+MJKDlxt163ajNI0iw=="
 ---
 

@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Complete Report on Artificial Intelligence Applications for Smart Cities Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence Applications for Smart Cities Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence Applications for Smart Cities market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-applications-for-smart-cities-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence-based Cybersecurity Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
     excerpt: "Global Artificial Intelligence-based Cybersecurity Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players,"
     publishedDateTime: 2020-12-07T10:40:00Z

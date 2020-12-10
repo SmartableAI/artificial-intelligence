@@ -2,27 +2,23 @@
 category: news
 title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
 excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
-publishedDateTime: 2020-12-09T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
-webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
+publishedDateTime: 2020-12-10T00:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18724021/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18724021/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18724021"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18724021"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "IPwe joins European Digital SME Alliance Focus Group on AI - recognized as Top 100 Artificial Intelligence Innovators in the EU"
@@ -49,6 +45,6 @@ related:
         height: 450
         isCached: true
 
-secured: "zRhclrZPi3kX6pH2aKMDK5JyCXiUWUISUb3Gi0obrgjsDDgQVfgX1HcgKEiuFGrN1YGKaCwnhU1G99XJH6Gnc+lMAL9ss3OwegF46TlA4jV7vMipKgg0oQgLXHsncHWfrJSYHzBZMnuCHXke2citfvi4pEsveU//CzdF22wUsM6HXZ6VEQWy6sdO34JKuhrIghQD+5XdlmO9332e5N6SaT8OMKgTGB1qk0uTH3TICtMsuLEqynWDobYC4ZRuqIOgvf/096qlqE6RJHRAM47AakuAZw+AY+ZKf0o7RiEU4UxtztfkcCyXtOL0tDcfeT1RccOHN9BS4MaqdVPI+rgum2UzuxzPn0+a2O5ahB92aFw=;0HkIYL+My5/oJh70WymDaQ=="
+secured: "+UYZfrrC5djzZqh6A0Y0rMj4UtcABxzKBioupLREulhFO3hOU4rVYg9aIipnRLukca3oELYta+W1GUYtj56Ff4OjBvMPEzQ49ZMpyavq34moLJXKtW9ILDAZMQ/khXedrJYg5Y5oJwKBTGGLpjV2kkPZPw7Kc8MS5LdmRt3XhGaApplmjeRUvl2Ud/6IrEv5d9Et3JDTCe4rZVWBSUdJQsLXw0UCICzsgMpkLWgbhSA1Zccw6hvWx/Z7O4+zb0TgFTqUOT7Hh7KaJjFJq2KQlc3SOZ2iUFLOmPAzkL4me/12l/zA3NmLLxmvEZ1fbk6uOUeHGpjLaCQs65SQS0WJXuglhaTlYMes+bJCfi9o90Y=;4w+DRlPoBNjhgCbTMCVPrQ=="
 ---
 

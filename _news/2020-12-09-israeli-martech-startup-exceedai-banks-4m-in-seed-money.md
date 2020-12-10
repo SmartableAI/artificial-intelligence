@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-09T02:33:00Z
 originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-663700"
 webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-663700"
 type: article
-quality: 49
+quality: 47
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 related:
@@ -65,6 +64,6 @@ related:
       domain: geektime.com
     quality: 22
 
-secured: "mHpJD2Kd5zJLNItZPONfOkxaFulhj5nwzdizeeHJxVa6tLTxVy9eYqpa4MkmqpT/6vISH8ewrQL9Uo2zmHmjPO544Rmrv2FtIE4pRIvqvhsPII2CYnCYr0oU7kFLFccwynMApwsExgQB2FWxIBEG/9maAsqwi2cXR9iMH0OZaA2+slPBso0WZLHPpSVC5jTPTTEnT1pwK6Gmc/MRTqHWXdxQo4t/YaIqvSbQ5+OL9oIG5H6m3F1QJU7TESPfjJNONbISNtNlukk95L3mzX53tADJiriwV/fs2YOjbaT/h3rMslUIAyPgpBOpWR3KQFGaqgBlFh2U8AlGi/bsrU+Udaff2EVJPeaPExLYUbVXtaYNKV7M6ZtDFjsGyzSi0CzDG965Ylr2OU8II3x/fEI483pvi+UKkeqnbx88F/ofdpBcEyEASutixJ4rjBZes6xCQvUFtkG/39XFzbeZGX3x9Rfjfm/d/7n+O+E9c8j+oIhtTfBMaXKxsqtukIEGKOW0Oq2ZtPdEwe1z7YnZMi3odw==;Dlfeq1biO0cciFUe99QEFw=="
+secured: "lPmTfxJhCUq+rYx/xS+/4XVKpKXjMJNVM3WVrgr4XUuDpNHjptQvReCGjcSOxYGuZzV/aUaj6EFQDKMmdxj+9qspVwBqo06AI7unCCkHUj8phF5Rf8BbzLgmUrvdor/hFsQ5jhO923hl7BsMRnaC6UWgvb2RCKJj4VdCO+d6UTs53NQbSFyONO1N4Xd/RTC3S857QJjtLbBbGlvqRjbYEvqQ6PkANb09H+oq8M87BnzH0k3fUVyqIflBfX6E5eWGeC8WjwPz9DkgfN17OF396Is784U+K3sySM18/Btnq7IbE9HmCOGE4vgGXDareBwB4Fwc5Y1MP+nCnVEIpb31XFgMbBD/fAoB8qhz8HrYWCZDGTMr86oC6oLUU0tR0mYqTyA/HUfWU/aHuuKh93/7+MbdC0ifXBjjqhsSEK8n1V82s81PnBous9NriXXjvtle6Ha+QE25Q9PL5Tz4cosMRaM5IJSS0BUrim7j9VW9w8B0msuMIZ/fsZa49y8oFJfmzLmxZ5C1IiYdoxmbAOt/hQ==;V5GaTJy2he9XyAQsM6SpcQ=="
 ---
 

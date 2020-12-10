@@ -72,6 +72,20 @@ related:
         width: 540
         height: 720
         isCached: true
+  - title: "Financial Wellness and Advice App Cleo Nets $44M In Series B"
+    excerpt: "A financial wellness app founded in London, targeting Gen Z, has raised $44 million in a Series B funding round, according to a TechCrunch report. Called “Cleo,” the “financial assistant” was founded in 2016 and today combines a chatbot and account aggregation with tips on spending responsibly."
+    publishedDateTime: 2020-12-10T21:21:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/financial-wellness-and-advice-app-cleo-nets-44m-series-b"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 24
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/digital-dollar-sign.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "SKsxYojteMLppXsut9gxxME7rawFVDQWPWAmgA6BGu9kFzDBwCwl55vIoFP+C8Qbc6PyzI3jLToTWZAoT7gsOusk8eFHJAPSzYe7dInQoKB5RNws6lFG59Zq0H8wohat+S5HTv+pcej1Qe0jiVdusT4+bmcRszg4XvwNreut8CSdGTsYLpdByZllucUP46zXh1vpzAu7zr3WzFuU7DfeHHTML2TNFWgI2206XFQX9RojKdI5lwNI88F84IzjOPzJ471MLlh04oyY2uJV2pBbOLDOQlV1nDvHIfVTiS1V1DGO8EHme0ZYoyW0cxOuVveVsQyEyhva1uUN8NRCaYP4b+OnljytuWj19kLnbt/Mz0bZfO1hlV9x797hzFT5ApGdSlUIGHy+BizQD9fOQrwGHrPT1rXYCYmpC/GCCFLje4tTULGuAHvM/kQ031hrjem1tP4BLnGMp8fY5XFJ3vGyd0zSv/QhEbfjUcPGpMY4srQEkaeZyO5eIKcPR+xuLhiAbwwcRM+LRYzRIcBdGF4yzw==;NepMwb5QX8RbkHoIJMz7zQ=="
 ---

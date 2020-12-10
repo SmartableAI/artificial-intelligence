@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
-    publishedDateTime: 2020-12-08T15:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
     publishedDateTime: 2020-12-10T20:03:00Z
@@ -113,6 +99,15 @@ related:
         width: 576
         height: 357
         isCached: true
+  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
+    publishedDateTime: 2020-12-08T04:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "Cy2OXjY+u5g+aIenCjm2owFPw+rg8esciw2lhV0nkNngYyH2OZzXAsx6MDEuOoAQUKydHV4QoykcHZf/X6GSBVAwAVOG8uMxdDjAHwZOY8pDYthpR3ARe9/y1En9TSQ01/KEPvPM5wzs+r3KT5wPcKEl6+k9YYRk2ybA5WPwhW94eav8h3ymEh4QQbT+DELUDRa2E5xtKL3GhCKHCrRYg4WqcMnh9xlDm/pSuzrQfSeCK0LgHlTtvSiRjrNa2Smjmm628iHF1KVtzj7O0tBQqxFpVshFYuZbVFEbU2ehXJfXtHOO0foLNXUowNnDuqD28vr6VxElmlSH1rmDBMXe1LxUyzLBJD8Xzbqq5XrnYDg=;FcHopyGsc6W0GBMjiCrrqQ=="
 ---

@@ -91,6 +91,20 @@ related:
         width: 800
         height: 391
         isCached: true
+  - title: "Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time"
+    excerpt: "Businesses are increasingly using machine learning (ML) to make near-real time decisions, such as placing an ad, assigning a driver, recommending a product, or even dynamically pricing products and services. ML models make predictions given a set of input data known as features, and data scientists easily"
+    publishedDateTime: 2020-12-10T22:19:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-streaming-ingestion-with-amazon-sagemaker-feature-store-to-make-ml-backed-decisions-in-near-real-time/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/Architecture-Chart.jpg"
+        width: 800
+        height: 416
+        isCached: true
   - title: "Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger"
     excerpt: "Machine learning (ML) has shown great promise across domains such as predictive analysis, speech processing, image recognition, recommendation systems, bioinformatics, and more. Training ML models is a time- and compute-intensive process, requiring multiple training runs with different hyperparameters"
     publishedDateTime: 2020-12-09T19:40:00Z
@@ -143,6 +157,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "T3t3cVokr73w4jFkiXLcc2jopsabWaPhP0MDCH0J6uts4Z71e31YZJngAFT9swG5rFeKuoHRl2VFOfp6ge3tDUFg8zsmMhwq8qlbBVU932nvbw0ulTFKe7pA8lkItT3qDcE/0X8ZG/8hNERQN5yX5zs7FNtjEFkt5Y1oGowl5Tfwk3ApMhLTp7pl4TEpc5UmDSoWO+h/y35BRWgc9EGCupeCSJaLrNJxcvK37yh/Wl4xMZ3mjNaX8x2Mrhb9pMRIwlnNcXwZ1jdOb0jW2JBGh9/t/ykz1b1RFwpEGjEMTI8+DgXtfi/4a8xZMHpkWd/dc64QGneUXIzV5C0Jtr2ktJFGNS9+QJSzj3zaXmj0geg=;mtkhwNFENv4Z5uTNEiJ1LA=="
+secured: "RjzfvnLvU4koRl+qQ3WpNlPzZbBUU5v0oRDreO57BbA8J8FBMIyafzjrsNvezfc5+haWiDZM8rIDjYmtBo9NmOjPkc+JCIQhg1DmcwXBvs5QOTLZ0f4WPP+wb39ZhCKbCWP7mPwkiqcvt8q/VrptSSebc8PF7+SG/wiahe9yJAGa/ymn/sStI8DT1m4COABv4y1Ug/D3AibGq+Wuqod0LM6wY7+OSCl458P5s8Wh3esvHFvtGP9XIfeQYzTGPe7SPUTG7Ab6ataoHTDYRHf2LW90JriP4YB5vO8xH3uFHxzwEvtyYseMb3hpB0236jl2FFDVKnfKbJXqmXte2P41ZUD0iAKwOxq1w9v2nEceAec=;1Aexqf6pYNfFdy+moAi/Yg=="
 ---
 

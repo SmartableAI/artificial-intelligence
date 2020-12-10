@@ -2,6 +2,259 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-09-the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-ruining-our-lives.md",
+      "title": "The trouble with AI: Why we need new laws to stop algorithms ruining our lives",
+      "excerpt": "Ethical guidelines are the only tool to date to control AI systems. They're not doing much for our rights, finds a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "originalUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/4f4c61fa-86b7-4529-b079-3600abdc6ea8/thumbnail/1200x675/14bdca55e9ff64c6339770573420cf2f/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "publishedDateTime": "2020-12-08T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-machine-learning-trends-in-2021-top-trending-machine-learning-technologies-to-drive-aiml-market-in-2021.md",
+      "title": "Machine learning trends in 2021: Top trending machine learning technologies to drive AI/ML market in 2021",
+      "excerpt": "Machine learning is going to revolutionized the industries in the coming years, in 2020 we have seen tremendous growth in the Machine learning and AI technologies. In 2021 machine learning will drive many business including medicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
+      "originalUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg",
+          "width": 400,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newstrack India",
+        "domain": "newstrackindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-getting-started-with-the-amazon-kendra-google-drive-connector.md",
+      "title": "Getting started with the Amazon Kendra Google Drive connector",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To simplify the process of connecting data sources to your index, Amazon Kendra offers several native data source connectors to help get your documents easily ingested. For many organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-google-drive-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/07/ML-1811-1.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T09:39:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition.md",
+      "title": "Cisco unveils revamped Webex experience, including noise cancellation, AI-powered gesture recognition",
+      "excerpt": "Cisco announced a bevy of new features within its Webex portfolio on Tuesday, as the company ramps up its efforts to compete with rival collaboration players such as Zoom, Slack, Google Meet and Microsoft Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/f1cdb0b1-e45b-4d77-8edb-9941bef8c0d7/reaction-dark-1024x576.png",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
+      "publishedDateTime": "2020-12-08T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world.md",
+      "title": "Study finds that few researchers thoroughly test adversarial attacks on surveillance AI in the real world",
+      "excerpt": "In a new study, researchers find that few adversarial techniques purporting to protect against surveillance AI have been thoroughly tested.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/study-finds-that-few-researchers-thoroughly-test-adversarial-attacks-on-surveillance-ai-in-the-real-world/amp/",
+      "publishedDateTime": "2020-12-08T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations.md",
       "title": "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations",
       "excerpt": "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud.",
@@ -958,246 +1211,6 @@
       "provider": {
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-japan-to-invest-in-ai-matchmaking-to-boost-plummeting-birth-rates.md",
-      "title": "Japan to invest in AI matchmaking to boost plummeting birth rates",
-      "excerpt": "The Japanese government will invest in artificial intelligence (AI) to bring single citizens together -- and, perhaps, help stabilize falling birth rates.  As reported by the Japan Times, the Cabinet Office intends to allocate ¥2 billion ($19 million) to local authorities that run dating programs for residents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "originalUrl": "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/06/5d643143-e310-4b2b-adac-f0b03698f080/thumbnail/1200x675/e952a56a8c0f88eb8e5a1ebbbef0053b/japan-takes-the-first-step-towards-a-dig-5f030bbce0a7442b5c9e38c9-1-jul-06-2020-21-40-56-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "publishedDateTime": "2020-12-07T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science.md",
-      "title": "Breeding neuromorphic networks for fun and profit: The new reproductive science",
-      "excerpt": "The most expedient way to produce the algorithms you need for a new class of computer that works like the brain, its engineers are discovering, is through a Darwinian exercise in natural selection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "originalUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/03/60022ec6-a5ae-46f8-bf4f-e2249e59ba3c/190226-neuromorphic-12-12x9.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "publishedDateTime": "2020-12-07T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain.md",
-      "title": "These Three Companies Will Build Drones To Carry The Air Force's \"Skyborg\" AI Computer Brain",
-      "excerpt": "The Air Force ... the Skyborg systems is an exciting development for this program, which already promises to have a significant impact on the future of aerial combat. The artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/the-war-zone/34351/glitzy-air-force-video-lays-out-skyborg-artificial-intelligence-combat-drone-program",
-      "originalUrl": "https://www.thedrive.com/the-war-zone/38015/these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.thedrive.com/wp-content/uploads/2020/06/skyborg-top-1.jpg?quality=85",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
-      "title": "$50K AI Prediction Contest Launches Today",
-      "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcea9ea964f1397d45a037c%2F0x0.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
-      "publishedDateTime": "2020-12-07T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b.md",
-      "title": "Uber sells self-driving unit Uber ATG in deal that will push Aurora’s valuation to $10B",
-      "excerpt": "Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon, has reached an agreement with Uber to buy the ride-hailing firm’s self-driving unit in a complex deal that will value the combined company at $10 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-2410b/ar-BB1bIk7S",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 644,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/aurora-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
-      "publishedDateTime": "2020-12-07T13:05:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
-        "domain": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
         "images": null,
         "publishers": null,
         "authors": null

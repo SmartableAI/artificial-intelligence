@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorfl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/"
 type: article
 quality: 136
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/28/ML-1214-5.jpg"
         width: 800
         height: 391
+        isCached: true
+  - title: "Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time"
+    excerpt: "Businesses are increasingly using machine learning (ML) to make near-real time decisions, such as placing an ad, assigning a driver, recommending a product, or even dynamically pricing products and services. ML models make predictions given a set of input data known as features, and data scientists easily"
+    publishedDateTime: 2020-12-10T22:19:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-streaming-ingestion-with-amazon-sagemaker-feature-store-to-make-ml-backed-decisions-in-near-real-time/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/Architecture-Chart.jpg"
+        width: 800
+        height: 416
         isCached: true
   - title: "Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger"
     excerpt: "Machine learning (ML) has shown great promise across domains such as predictive analysis, speech processing, image recognition, recommendation systems, bioinformatics, and more. Training ML models is a time- and compute-intensive process, requiring multiple training runs with different hyperparameters"

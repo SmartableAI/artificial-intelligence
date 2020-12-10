@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study"
+    excerpt: "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest"
+    publishedDateTime: 2020-12-10T21:40:14Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 118
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg"
+        width: 1024
+        height: 558
+        isCached: true
   - title: "How GlaxoSmithKline launched 16 virtual assistants in 10 months with Watson Assistant"
     excerpt: "GSK is a global pharmaceutical company that researches, develops, and manufactures innovative pharmaceutical medicines, vaccines, and consumer healthcare products. A company that prides itself on customer service, GSK was dependent on expensive call centers to provide 24/7 support. But about 20% of incoming"
     publishedDateTime: 2020-12-08T16:56:13Z

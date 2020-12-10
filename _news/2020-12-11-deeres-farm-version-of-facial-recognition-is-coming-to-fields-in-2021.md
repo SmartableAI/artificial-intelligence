@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Deere's farm version of facial recognition is coming to fields in 2021"
+title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
 excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-publishedDateTime: 2020-12-10T19:25:00Z
-originalUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-webUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+publishedDateTime: 2020-12-10T21:34:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
 type: article
-quality: 89
-heat: 139
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?v=1607525192"
-    width: 4000
-    height: 2667
+  - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -45,60 +41,37 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
-    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
-    publishedDateTime: 2020-12-10T06:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake"
+  - title: "Facial recognition for pigs: Is it helping Chinese farmers or hurting the poorest?"
+    excerpt: "Automation is revolutionising China’s pork farms but leaving independent farmers behind"
+    publishedDateTime: 2020-12-10T05:00:00Z
+    webUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
+    ampWebUrl: "https://amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/cb36871bd72eb922a49fde8efc75ce5f973722c2/0_118_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba290cb07840b1868e3d0f069eb081a0"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Privacy, Civil Rights Groups Plan Facial Recognition Offensive"
-    excerpt: "A new administration — as well as swirling national debate about the biometric technology — is behind a push to get lawmakers to re-examine its use in policing and the challenges it presents to privacy and equity."
-    publishedDateTime: 2020-12-08T21:40:00Z
-    webUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html"
-    ampWebUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+  - title: "Chris Lynch: The dangers of police facial recognition software"
+    excerpt: "It has been reported New Zealand police are setting up a multimillion-dollar facial recognition system that could identify people from live streaming CCTV. RNZ reported this could push the country into new territory for tracking citizens. Facial ..."
+    publishedDateTime: 2020-12-09T22:52:00Z
+    webUrl: "https://www.newstalkzb.co.nz/opinion/chris-lynch-the-dangers-of-police-facial-recognition-software/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 39
     images:
-      - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
-        width: 944
-        height: 630
+      - url: "https://www.newstalkzb.co.nz/media/22974006/facial-recognition-system.jpg?width=635&height=395&mode=crop"
+        width: 635
+        height: 395
         isCached: true
-  - title: "City Council to ban sale of facial recognition data by businesses"
-    excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
-    publishedDateTime: 2020-12-10T19:44:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/city-council-ban-sale-facial-recognition-data-businesses"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 41
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Co-op is using facial recognition tech to scan and track shoppers"
-    excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
-    publishedDateTime: 2020-12-10T06:00:00Z
-    webUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 19
 
-secured: "CDSX3LZr3DYSDPUWMi56FrkUWYeQYDJtMAjHOBLec5AtjXt/gatQX5gJPB2TfmR0aHVCzkwNsjVNMwQCI4X0VY5tNRDh29BUBts/BTLAnZJX5chqUp7vrIlR+mgR8vTmAbHE6BcHCQenyJoGxYjLNwSsUvChdMaovpy5dTIthPTcEkleDf+t2HByAGl3olrFuhnLSSZg2ufiXfJMQB0OfzcouC5ggb3XmyDEECkx1IOHWoDp23OnoNTwqFwc6vajx+Z6y5BDruxvFPnmQenmerxfYJ6FOKp39+KA3Oi91OfARbTFbs+XIwDAgS3XfISXIXdKKaVv2yNERa4jy5BcUOJY1jaHoQC5p+3g+9txH9I=;qt0sWrW9qUo4zfTUWLY1fA=="
+secured: "4Uc2fgGS/hE3IQlTu6Tex19yWZPKPuz1hf7pKcxFLD67HBbZ7Upt8gFFo3+Y8dhFi0lE/z1mv3JxOT/Cp/LW0SmpNAqY5madftWcSn3Q7SnExaJGCZRes96FFVkdaK9BI8UMZGwRwe0ifIYeBZOnq06aRywBu+bDbFvu/pIRo70OiYug06BvW8UGg6mkPNFinBs5FGiM0jiLh2wLeWp5LFi83VsMvt7k0bCWjqdlcagUlc2FO3ych2jzXZjZ166iX1rciKQj93KQnQ8+bv3ZdHTU60X5Ln0sICeO5ofz+Cs3SIUwW4opf5f9kwX+SkUYyRY3KHiaBYaUQm1YEy/IRzeW9FjdTKtvFVDkJEJ+vMI=;+W/rndamy5vnqb69oGyD0g=="
 ---
 

@@ -49,7 +49,7 @@ related:
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 49
+    quality: 47
   - title: "The week that was in Israel's innovative startup ecosystem"
     excerpt: "As we move closer towards the end of this very unique year and enter the Christmas season, Israel's high-tech ecosystem continues to provide global value across industries in this week's"
     publishedDateTime: 2020-12-06T16:45:00Z

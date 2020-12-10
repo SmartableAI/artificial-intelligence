@@ -24,18 +24,15 @@ topics:
 related:
   - title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
-    publishedDateTime: 2020-12-09T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
+    publishedDateTime: 2020-12-10T00:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18724021/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18724021"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18724021"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 31
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Launch of a new €150 million European instrument to support companies in the artificial intelligence sector"
     excerpt: "On the occasion of the Lisbon Websummit, the European Investment Bank (EIB) and the European Investment Fund (EIF) announced the launch of a new financing facility in the form of a co-investment instrument ofup to €150 million to support artificial intelligence companies across Europe."
     publishedDateTime: 2020-12-07T17:55:00Z

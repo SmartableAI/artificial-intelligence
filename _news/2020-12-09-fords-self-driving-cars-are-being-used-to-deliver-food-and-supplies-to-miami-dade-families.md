@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta hesitate to pass a garbage truck almost like a human"
+    excerpt: "We get to see a new interesting behavior from Tesla’s Full Self-Driving Beta in a video showing the system hesitate to pass a garbage truck almost like a human. You can watch the video below. Over the last few months,"
+    publishedDateTime: 2020-12-09T18:54:00Z
+    webUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/"
+    ampWebUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 81
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-Driving-passing-garnage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
     excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
     publishedDateTime: 2020-12-09T11:23:00Z
@@ -133,7 +149,7 @@ related:
   - title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
     excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."
     publishedDateTime: 2020-12-10T00:14:00Z
-    webUrl: "https://omaha.com/business/consumer/here-come-the-self-driving-trucks-gmc-sierra-goes-hands-free/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
+    webUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
     type: article
     provider:
       name: Omaha.com

@@ -2,6 +2,250 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-01-deepminds-ai-makes-gigantic-leap-in-solving-protein-structures.md",
+      "title": "DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures",
+      "excerpt": "D structure of proteins, such as this one of the SARS-CoV-2 spike protein, has long been a goal of biology. Credit:  An artificial intelligence (AI) network developed by Google AI offshoot DeepMind has made a gargantuan leap in solving one of biology’s grandest challenges — determining a protein’s 3D shape from its amino-acid sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/deepminds-ai-makes-gigantic-leap-in-solving-protein-structures/",
+      "originalUrl": "https://www.scientificamerican.com/article/deepminds-ai-makes-gigantic-leap-in-solving-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/DE927AB5-186E-4F06-BED8749F7012DB18.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat.md",
+      "title": "How Mark Kelly used conversational AI to help win a Senate seat",
+      "excerpt": "Mark Kelly's campaign has engaged with hundreds of thousands of constituents, replicating in-person conversations with AI chatbot exchanges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/",
+      "originalUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/MarkKelly_Senate.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/",
+      "publishedDateTime": "2020-11-30T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-veritone-aiware-supports-nvidia-cuda-platform-for-gpu-aiml.md",
+      "title": "Veritone aiWARE Supports NVIDIA CUDA Platform for GPU AI/ML",
+      "excerpt": "Veritone aiWARE announced that it now supports the NVIDIA CUDA platform, which will enable organizations to run intensive artificial intelligence (AI) and machine learning (ML) tasks on NVIDIA GPUs, Veritone reported on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
+      "originalUrl": "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://executivegov-media.s3.amazonaws.com/2020/11/30/08/5d/27/de/b1/be/83/d4/technology_2020118.png",
+          "width": 272,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese.md",
+      "title": "Amazon Transcribe streaming adds support for Japanese, Korean, and Brazilian Portuguese",
+      "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy to add speech-to-text capabilities to your applications. Today, we’re excited to launch Japanese, Korean, and Brazilian Portuguese language support for Amazon Transcribe streaming. To deliver streaming transcriptions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T13:10:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion.md",
+      "title": "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion",
+      "excerpt": "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
+      "originalUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=hp_lead_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-265924/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
+      "publishedDateTime": "2020-11-30T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-raytheon-intelligence-space-and-c3ai-form-alliance-to-accelerate-military-ai-adoption.md",
       "title": "Raytheon Intelligence & Space and C3.ai Form Alliance to Accelerate Military AI Adoption",
       "excerpt": "Faster availability of AI will improve military readiness Business Wire REDWOOD CITY, Cali",
@@ -936,239 +1180,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-is-the-pandemic-spurring-a-robot-revolution.md",
-      "title": "Is the Pandemic Spurring a Robot Revolution?",
-      "excerpt": "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
-      "originalUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2019/07/automation-retro-robot-toys-shutterstock-175821860.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-ten-workforce-skills-for-finance-employees-to-complement-ai.md",
-      "title": "Ten Workforce Skills For Finance Employees To Complement AI",
-      "excerpt": "After delivering a number of talks on embracing servant leadership as a CFO, audience members commented positively on how future workforce skills, such as servant leadership, would complement artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b24deb13c5b56bae01eff%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/30/ten-workforce-skills-for-finance-employees-to-complement-ai/amp/",
-      "publishedDateTime": "2020-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
-      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
-      "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
-      "originalUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
-      "publishedDateTime": "2020-11-30T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
-      "title": "Brazil trials facial recognition with retired public servants",
-      "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "originalUrl": "https://www.zdnet.com/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/",
-      "publishedDateTime": "2020-11-30T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-ai-approach-could-solve-the-problem-of-roi-for-content.md",
-      "title": "AI approach could solve the problem of ROI for content",
-      "excerpt": "Every company has to be a media company, too. But figuring out what content marketing to produce - and measuring its impact - is a constant problem. An AI service from InPowered could offer an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "originalUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/28/3abcb41d-e908-4445-b0c3-81f96343775b/uncertainfuture.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
-      "publishedDateTime": "2020-11-30T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

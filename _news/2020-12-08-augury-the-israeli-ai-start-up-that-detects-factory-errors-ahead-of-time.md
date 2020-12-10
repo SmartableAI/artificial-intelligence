@@ -34,7 +34,7 @@ related:
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 49
+    quality: 47
   - title: "Israeli-made Habana AI processors challenge Nvidia"
     excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
     publishedDateTime: 2020-12-06T13:51:00Z

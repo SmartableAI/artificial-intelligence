@@ -3,8 +3,8 @@ category: news
 title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
 excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."
 publishedDateTime: 2020-12-10T00:14:00Z
-originalUrl: "https://omaha.com/business/consumer/here-come-the-self-driving-trucks-gmc-sierra-goes-hands-free/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
-webUrl: "https://omaha.com/business/consumer/here-come-the-self-driving-trucks-gmc-sierra-goes-hands-free/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
+originalUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
+webUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a30cd9c66718cf61faaf9%2F0x0.jpg%3FcropX1%3D2033%26cropX2%3D7408%26cropY1%3D611%26cropY2%3D4256"
         width: 1200
         height: 814
+        isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta hesitate to pass a garbage truck almost like a human"
+    excerpt: "We get to see a new interesting behavior from Tesla’s Full Self-Driving Beta in a video showing the system hesitate to pass a garbage truck almost like a human. You can watch the video below. Over the last few months,"
+    publishedDateTime: 2020-12-09T18:54:00Z
+    webUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/"
+    ampWebUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 81
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-Driving-passing-garnage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
     excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
@@ -154,6 +170,6 @@ related:
       domain: wlrn.org
     quality: 19
 
-secured: "uo739TZeSrGlJjpjiIMqejwldCFdkc3Rw/3mUpME4nuUmqWPTpAUUizea4XtDThIZMzuRbv6N/hSH181ExebuHGDLrAcRkqvakEj9w4R++istPmeOS1uk0uoS23CaNWPgnKqOIRLfXsxprYvoyopXocRtkMGWn/AKnx+odNWKaez5E3mxx5SSymUnWgyjPjxV8Yq76xmnajYKLSsCiyx3XAQzCf0MD+0XGw/vedJZl+ydPKl0V7n9BavRnqFy5BOy8Uew0JtF4vhA7S+WviG5scJ+d46nN38SgFT+50ZSLyjG59Tk1DhgdlUNTSoAu3dfT05XbFMx8c0hkPMC78D26oVAoNX3zA6h6rqvR9RW6o=;WKQjMTzMCSFGQW8sp1hy6Q=="
+secured: "71yu5s4z4BGu0Hj3OZgN8vuccboG7SwRdqFQniOb2kFHmG1CvA33mlZVUxfmk87t0Gf+3lKpqwrupZLNoTHR2y/YtUJVzXJyqb/08Jixhp90Ma/C5vmdf5lC4nVjkne6nrnWFlxe1k6ZJouu29oe4DqZMWjujiPGDm5zNMM+Q5r0R+KhWxGVvzTmfFw66pnk4WfZ1as7u6PVq+uXEBqCVwFiY0asWaoT9nbIfewGjFxAfNWb6CSctpHndZ2xX11aet9PumbbL64NuM29qkJXYoK0qcpBmy2YGnGiOLE6qCJ1FEb5i2RNA87C6sOetmSiDW2fIMsmuS6mnElv70g7IpdjPuJ3+SWa20GjzqWICE0=;1b1D7crUuOWvjGQIF2mo1A=="
 ---
 

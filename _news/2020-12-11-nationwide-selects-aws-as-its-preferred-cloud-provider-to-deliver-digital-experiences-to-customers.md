@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
-    publishedDateTime: 2020-12-08T15:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS announces Amazon Forecast Weather Index to provide 14-day predictions"
     excerpt: "Amazon Web Services Inc. today announced the release of the Amazon Forecast Weather Index, which will help developers increase predictive accuracy of machine learning models by including local weather information into demand forecasts for retailers and service providers at no extra cost."
     publishedDateTime: 2020-12-09T18:27:00Z
@@ -113,6 +99,15 @@ related:
         width: 576
         height: 357
         isCached: true
+  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
+    publishedDateTime: 2020-12-08T04:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "mZVrkPGbzxmTlllguLo+cAUAlYPdqKXSMe5Pne2NQOD/H8ATlKkCEdyCslHzPZ/7YlDLuCXT/GNUQJ+0yEo2kS1M7s8uxdxmDNTsq0WKFlUKEALQChtD0drZPHI0W3m+p29L168RFT2hgxEmtgMvcuemJM9t9K62jNtw8Vo3b6tRFeNr6MTM6HMJjtYfMZjf08pZHyA3nZkny6I8uFq48LdheOQNsGpvDmgE8aBC1gHVCCifTXUnRN4tMDApyjUsaBSWM22kdE9szVWPSWkW88FMIJcB7i10pEVYamGms6JBTeLa5cDDl8wlD/jA1DrcYLMfDd6Pf9LLEdkyujXhDVMbemHoR+RZFLm5XYlX+MI=;p3+7WnezPRWf0XhCn12N1g=="
 ---

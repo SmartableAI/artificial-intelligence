@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/08/expansion-into-enterprise-and-
 webUrl: "https://siliconangle.com/2020/12/08/expansion-into-enterprise-and-vertical-markets-drives-aws-reinvent-machine-learning-announcements-reinvent/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,50 @@ images:
     width: 764
     height: 367
     isCached: true
+
+related:
+  - title: "AI and machine learning influence becomes more apparent with latest analytics releases by AWS"
+    excerpt: "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure."
+    publishedDateTime: 2020-12-10T22:35:00Z
+    webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 60
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Rahul-Pathak.png"
+        width: 3774
+        height: 2120
+        isCached: true
+  - title: "On how to become a robotics and data analytics company"
+    excerpt: "I recently met with Eric de Groot of RevelX (author of “DARE: A Mindset for Innovators in the Digital Age”), who concluded with a statement that Fugro is a very interesting case study. From a geotechnical company,"
+    publishedDateTime: 2020-12-07T15:08:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-become-robotics-data-analytics-company-pawel-michalak"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEqi0QKZgGQsA/article-cover_image-shrink_600_2000/0?e=1613001600&v=beta&t=C8RzwL98f8-mAAFRYIxdGI26dVCiWoKk6M59ZYCfdhA"
+        width: 744
+        height: 400
+        isCached: true
+  - title: "Cognitive Analytics Market widen to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2020-12-07T17:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-widen-to-witness-high-growth-in-near-future-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VlREB17NlWAzGaWUWV5zWLdl83/tBSLmsGBEMV3iEZCEiI/kHXXcK3xGmlKTQfDKb2c4197nJOUBLZH0jg9YVqvNRYRAbrpj5YlEtkDANkrGoLr9BA/oXoGHh/0Gy/Ypx7k+5gf8/s0mHqQWj3KMEWTGZEDxCW1SQ4q2lbr8sNXvNRaRROwu4ogL/3mqpmTfUlYiZfNVwa+ak+TImfjd01MgxkD4BZPdSdDsk1iij0cBo5NJWGVY+pR0QbnJLXzBAsidHUBnAZlQ+D7E09oaDu9t2+3yrASISs5Cp4CmbSrsoW3ESmKNtSeWAHJN5rMt09pHfFZSb8p0EZwY/VvN+5OwwJj23mj1cspP2viQhEJDTHFnhVjqbO2q3bN2+6RPiprSbA616fojQ38qt+KbWgerRJw8Yhcl3Mg81OH5ZfXRqFegj3Oh5J5tSqumpTjtvbs7pYv+wEz48XBfUDYfQuG+CgmMNLv4U+LaKyNtVDJIMdf1bwJUN/YSDse1ui5pzWIBRRDEkmWsZPSm5Z/iaQ==;FTFpBd6vdKdwPkNhg9Fj/w=="
 ---

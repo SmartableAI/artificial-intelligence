@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning"
-excerpt: "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,"
+excerpt: "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,"
 publishedDateTime: 2020-11-30T12:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a"
+originalUrl: "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020"
+webUrl: "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
   - Machine Learning
-  - AI Hardware
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "08dplDU7LjSLkHrP2Oc5Ph9Bkj/NCf3ZjuypstVtfK+iwdDdE02GEiRWi/7KWHpVwqo1kqAk+DrM8bqD1iEkM+CHFy7AWfOqeCiUMFcs8SlSduz+cgaDb6eF2jUwIBc0UjzfnUT4FpWR1TNBB0eHuA2xSPWWUX/QwctQUo8Q5qlUIjCUT2f7E4GkhNZddu03Yum78oRvLQAP1Xkd0axkolORFJJcliVIDjjxX0p4AeFquSQuk00W1ynEq75sgZVeubbrsjA0KwHPTX7eJbq5uWNtLWjj26MSFBh7fUINiwh2g3Txd1pJME1fECNwhxgv0EFbF69Wwp5gNGVbja8xVgJNYdekw5T4JrTpAfjUKNM=;nopVrcSAkT8CXuiAf1uIxw=="
+secured: "BzHkWm3M51TmCJ9ZznrLNYp/ynbOg9md7CoAa4x/0nkH29FmaIKA9Ep6D7laKGu8DXuHsgaQzbbNe2bpoJu4GTlXtsYRe1x9qjQEhiLRuV0tekABDG+03wDhaVfBGeSSL+YeREqDl/W/gsZ03nNWCii2ZJj/6CjuryQC2s5thO5beUft46q/kRZupaINTthpphrt6vv0zPX2q2TAILyH3CjQOBwk+jE8XNSM8RP1cQ//FwXds+5ZGGTdGqlHhIk+RRqz5gO9TIujPcxCgZOaT20vd+F5tpTq2XvlXlWUADKQ8XpvpeCTpcgkRqN+bbam4dYaXq2QLlN62Yok43a8iSCEWqEon7P4J5aa36RMszU=;cCPOq2z8oopYMnPUKV7nqA=="
 ---
 
