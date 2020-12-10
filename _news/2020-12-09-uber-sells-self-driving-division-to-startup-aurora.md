@@ -709,6 +709,15 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 4
+  - title: "Uber to sell self-driving car division"
+    excerpt: "Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by litigation and a fatal crash. Uber will take a 26% stake in Aurora and invest $400 million in the Silicon Valley-based startup that makes software for autonomous vehicles and lists Amazon among its investors."
+    publishedDateTime: 2020-12-10T17:16:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2020/uber-to-sell-self-driving-car-division/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 4
   - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
     excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group"
     publishedDateTime: 2020-12-08T14:23:00Z

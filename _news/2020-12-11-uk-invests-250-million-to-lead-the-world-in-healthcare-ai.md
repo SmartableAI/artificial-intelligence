@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -59,21 +59,7 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "The race to the top among the world’s leaders in artificial intelligence"
-    excerpt: "As revenues and research output soar in the field of AI, global competition between the United States, China and Europe heats up."
-    publishedDateTime: 2020-12-09T15:32:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-03409-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 44
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03409-8/d41586-020-03409-8_18652628.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
-secured: "34fYjXDPLKhTMe97M1xRlm+iOrpzWA4dKNjtGe/gu+cRfyMF/xBxGKVZTAEQfqYCf6qmVNpl3ftyGyjeQypj4Mwhwfa32jQMAyLa/ymXl5YG+jx/Xt89bVg1xJiLKf/rPrIcrv3GZsHg7fJHyPXxA6kRncZgUwpcFrGtAXbAdkp+rzJh4YRQNIsFCzsVHaCJtvnBfRmskrDm7+hZ8GBSmMAyO/i6+Vh4kaNfuo1QBYnxry+eBZne4PZ9bIfRYHXZ2dR2vKwptrrJkAm1cZbWFEkjaNE47TEk7nSGwRNsJwlcnNCUgG5w7T8M8xcihi/9C4MZXIF88G6dFbLpjGiN1ihsSF2q6houW8437BE5aKY=;zck5tdOaBhzNH1+FOtCbaQ=="
+secured: "bIDDa/BaPASk3Lxh23A0LUkLB+6QJ9E7npKYLB1hHVQkftEUdb1RvxveIOc4tRmEY1gbCR8LTBVQCb8OyR1ThHK5ECnbat7I7T1Xov4tM70fgvOxGbzm518GAk1iqc9/vyiUQhyv9c9hTzppEi1coyF56Jlfapoyr/lD68GSEKRNHf1p1hdSts/zhaIYuo7uiGKmw0u02yDax7h77i+hFa9q6QpYyEs2XxfIW2i0EeMFSmkItUbhESMC5xVcLcAHG8lhTOiSEiAa697RhhVEz5qiZua63tNfRp+QShqz1o9iBxyxO0m7mcEh6cAVJZlYheANXk5rPrBfRBOIymWu+p6SC5H6ERgmYfKKH2/vEAPmJEYOTSIHI7RQRRMu33uYmLOly+aHXz/ovxJDuGsV4WYzW8LyVd2xScqDQ35uU54IunV1EGKEjGRhw0UhbOb5/DgUNFt71ZfzWj+Oo4wXYJ+DQy/WUzay98tz/nDo6CiwbdGvrjhcXg3Pg9PKhCK+F2JlI14gAZVaLqhuPCfQyQ==;Rf3e5bHKkS7YITToBP7aWw=="
 ---
 

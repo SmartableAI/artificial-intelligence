@@ -105,6 +105,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Barca star Griezmann cuts ties with Huawei over reports of facial recognition surveillance"
+    excerpt: "BARCELONA’S WORLD CUP-winning footballer Antoine Griezmann says he is ending his sponsorship contract with Huawei over reports the Chinese telecoms giant was involved in the surveillance of Uighur Muslims."
+    publishedDateTime: 2020-12-10T18:00:00Z
+    webUrl: "https://www.the42.ie/antoine-griezmann-huawei-uighur-muslims-5295619-Dec2020/"
+    ampWebUrl: "https://www.the42.ie/antoine-griezmann-huawei-uighur-muslims-5295619-Dec2020/?amp=1"
+    cdnAmpWebUrl: "https://www-the42-ie.cdn.ampproject.org/c/s/www.the42.ie/antoine-griezmann-huawei-uighur-muslims-5295619-Dec2020/?amp=1"
+    type: article
+    provider:
+      name: The42.ie
+      domain: the42.ie
+    quality: 49
+    images:
+      - url: "https://img2.thejournal.ie/article/5295619/listing/?width=600&version=5295628"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Huawei worked on facial recognition project to track Uyghurs: Report"
     excerpt: "Huawei worked with another Chinese technology company called Megvii on a facial recognition system to track and monitor Uyghur minorities, said a new report from IPVM, a leading video surveillance information source."
     publishedDateTime: 2020-12-09T10:17:00Z

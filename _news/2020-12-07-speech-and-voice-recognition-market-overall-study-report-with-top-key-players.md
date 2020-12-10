@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-overall-study-report-with-top-key-players-2020-12-07"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
+    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
+    publishedDateTime: 2020-12-10T18:14:00Z
+    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 11
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "uFJ7S4QVpqQwWhVd8PeGf5OhLnCn/Td6BY9+E+/tRZcrzqIDrMC8oB8A1jBa5FSBoGltl35IjFSTxLVKaVec946Yan3Hxj8SdLBgPIMFyRqHxxbQ6Y3NVNiGDRWVFkdytKFt8duydeZjI8KTQyX/PjKwTTX0g9sKngv2b7NZHE91q5EBis/SRZIPeEg8J0pwGkXrn52RgU1DexG2PBoP9OgVC/bag4HgPZxSY2h2/ji/MwswjxX3MZTYZZPIJJHENqrFKAcj9e0r9tFs3+9w7aMlZPwJsch4fYmdQHSs4TKRLbiGImLn5rjpWklHanQBJ2iDCxgZUFnGWEzwdvqqkizmQWH6JIJ+Hpe2BhtavFg=;T1fseR8P2CpsRPf9r7tBiQ=="

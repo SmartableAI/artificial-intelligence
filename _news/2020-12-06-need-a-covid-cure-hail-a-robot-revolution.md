@@ -57,6 +57,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AI platform finds best combination of available therapies against COVID-19"
+    excerpt: "A team of researchers from the National University of Singapore (NUS) has utilized a ground-breaking artificial intelligence (AI) platform to derive an optimal combination of available therapies against SARS-CoV-2,"
+    publishedDateTime: 2020-12-10T18:42:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-ai-platform-combination-therapies-covid-.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-12-ai-platform-combination-therapies-covid-.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-ai-platform-combination-therapies-covid-.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd21d91d80dc.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
     excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
     publishedDateTime: 2020-12-08T02:26:00Z

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-10-threat-stack-unveils-machine-learning-capabilities-in-the-threat-stack-cloud-security-platform.md",
+      "title": "Threat Stack Unveils Machine Learning Capabilities in The Threat Stack Cloud Security PlatformⓇ",
+      "excerpt": "Threat Stack, the leader in cloud security and compliance for infrastructure and applications, today announced ThreatML ™, its new machine learning engine that enhances security observability for the Threat Stack Cloud Security Platform Ⓡ,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-software-industry-security-products-and-services-information-technology-e2923a6f850048ddbc4353f864b1ee1a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-software-industry-security-products-and-services-information-technology-e2923a6f850048ddbc4353f864b1ee1a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
       "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
       "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",

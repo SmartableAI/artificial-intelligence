@@ -29,12 +29,12 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666087"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-663700"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 47
+    quality: 49
   - title: "Israeli-made Habana AI processors challenge Nvidia"
     excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
     publishedDateTime: 2020-12-06T13:51:00Z

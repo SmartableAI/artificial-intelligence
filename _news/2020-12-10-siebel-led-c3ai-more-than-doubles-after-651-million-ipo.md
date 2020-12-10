@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade"
+    excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
+    publishedDateTime: 2020-12-09T22:50:00Z
+    webUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655"
+        width: 6271
+        height: 4181
+        isCached: true
   - title: "Tom Siebel's C3.ai soars in U.S. market debut"
     excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
     publishedDateTime: 2020-12-09T18:01:00Z
@@ -70,22 +86,6 @@ related:
       - url: "https://images.barrons.com/im-271074?width=620&size=1.5"
         width: 620
         height: 413
-        isCached: true
-  - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
-    excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-    publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 50
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "hDfZSzOCv8g9sQ+sqUdeCeycfYiN0hi4yHPZ5LpuHkMWNJH181p8/5zwZxjJdN5IGV9IDhZ+nMZ7n4mqO2k2roSF5zPTnCrABvCAPF/7PJerQrHXJHfl5+Lu2yTGC/PTolLvxFXABlyvkDZpi3dF6yJx99f0kLYjaykdKawj6dLZ0TFDs6L0+aKKySvxYTIqE/7J0GRYjt2k9ufwQIvTONB+aCd/segcu8Khx6Zb3NIbiP2fysJl65K9jQBMHpqzw3TuUdNvBg8LzmbkVMAGyWRAFCv/eCCIZOb+4s6Gdax3mAFQSJieg7zN9Ei8D3DmPWjDOZTo/6vXnygmw9ReUjsUeeIkwaiFRSae1i2QcDqeqI+Cuo1gr6lvYVjtoeaGjXcwXn9iylENxI9WbG3+UqoT5r1usvXtf8lVALz6pLwg19Tz4tCA0zcSyCP5YKdunPgNfnxKmacHetaW1ajjohYriQDCAcZN4FCBTqtIIBbInkpLVdLvidlZEcD4+dvtpU++dbWxS6mw2OpVgSf1iQ==;wNNeFnx8nKTInzRY+Vn1MQ=="

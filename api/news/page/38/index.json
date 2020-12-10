@@ -2,6 +2,213 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-11-13-how-google-built-its-ai-powered-hum-to-search-feature.md",
+      "title": "How Google built its AI-powered Hum to Search feature",
+      "excerpt": "Google's new Hum to Search feature identifies songs from humming or whistling. Here's how it works behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
+      "publishedDateTime": "2020-11-12T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
+      "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
+      "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html",
+      "originalUrl": "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/11/blue-and-white-binary-code-technology-background-picture-id459150233-100866365-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-ultimate-python-and-ai-certification-bundle-discounted-97.md",
+      "title": "Ultimate Python and AI certification bundle discounted 97%",
+      "excerpt": "This bundle includes courses on AI in Python, data wrangling and visualization, a Keras boot camp, an introduction to Python, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "originalUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/27/e9daa63b-a3ce-43fb-b035-5f07df27d40a/resize/1200x/38106f4b0c3857ab2f1a06bbdd779cad/sarinyapinngam.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
+      "publishedDateTime": "2020-11-12T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-bickey-russell-finds-inspiration-from-his-native-bangladesh.md",
+      "title": "Bickey Russell finds inspiration from his native Bangladesh",
+      "excerpt": "Welcome to the latest edition of “My Path to Google,” where we talk to Googlers, interns and alumni about how they got to Google, what their roles are like and even some tips on how to prepare for interviews.Having spent his childhood between London, Milan and Dhaka, Bangladesh, Bickey Russell began",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "originalUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mptg_x_1.0.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "publishedDateTime": "2020-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-snap-to-acquire-israeli-startup-vocaai-for-70mn-report.md",
       "title": "Snap to acquire Israeli startup Voca.ai for $70mn: Report",
       "excerpt": "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,",
@@ -1009,199 +1216,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
-      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
-      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
-          "width": 392,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "publishedDateTime": "2020-11-11T23:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030.md",
-      "title": "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030",
-      "excerpt": "Pune, Maharashtra, November 12 2020 (Wiredrelease) Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into meaningful change. It’s not post ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eturbonews.com/1647357/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030/",
-      "originalUrl": "https://www.eturbonews.com/1647357/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T22:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
-      "title": "Databricks launches SQL Analytics",
-      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
-          "width": 3838,
-          "height": 2004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "publishedDateTime": "2020-11-11T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-cognitive-systems-market-study-an-emerging-hint-of-opportunity-ibm-accenture-hp-microsoft.md",
-      "title": "Cognitive Systems Market Study: An Emerging Hint of Opportunity | IBM, Accenture, HP, Microsoft",
-      "excerpt": "Cognitive Systems market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Cognitive Systems market will be able to gain the upper hand as they ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101116409/Cognitive-Systems-Market-Study-An-Emerging-Hint-of-Opportunity-IBM-Accenture-HP-Microsoft",
-      "originalUrl": "https://menafn.com/1101116409/Cognitive-Systems-Market-Study-An-Emerging-Hint-of-Opportunity-IBM-Accenture-HP-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134028",
-          "width": 640,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

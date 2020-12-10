@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-adobe-is-making-pdf-documents-more-accessible-to-screen-readers-with-new-ai-powered-liquid-mode.md",
+      "title": "Adobe Is Making PDF Documents More Accessible To Screen Readers With New AI-Powered ‘Liquid Mode’",
+      "excerpt": "Adobe on Thursday published a blog post in which the company explains how they made reading PDFs on mobile devices have been made more accessible to screen readers such as Apple’s VoiceOver with a new technology they call Liquid Mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/10/adobe-is-making-pdf-documents-more-accessible-to-screen-readers-with-new-ai-powered-liquid-mode/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/10/adobe-is-making-pdf-documents-more-accessible-to-screen-readers-with-new-ai-powered-liquid-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd267ba0da6f1321ae8221a%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/10/adobe-is-making-pdf-documents-more-accessible-to-screen-readers-with-new-ai-powered-liquid-mode/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2020/12/10/adobe-is-making-pdf-documents-more-accessible-to-screen-readers-with-new-ai-powered-liquid-mode/amp/",
+      "publishedDateTime": "2020-12-10T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-the-new-laws-of-robotics-building-on-asimovs-science-fiction-legacy-in-the-age-of-ai.md",
+      "title": "The new laws of robotics — building on Asimov's science fiction legacy in the age of AI",
+      "excerpt": "Way back in 1942, science fiction writer Isaac Asimov created the Three Laws of Robotics. Now, an AI expert has expanded that list in a bid to ensure the robotics revolution works for humans, not against them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
+      "originalUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/da758a2d6f4454e05854a74f2abb1c4b?impolicy=wcms_crop_resize&cropH=420&cropW=745&xPos=0&yPos=229&width=862&height=485",
+          "width": 745,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/12947424",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12947424",
+      "publishedDateTime": "2020-12-10T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-how-ai-and-machine-learning-moved-forward-in-2020.md",
+      "title": "How AI and machine learning moved forward in 2020",
+      "excerpt": "AI and machine learning saw several steps forward in 2020, from the first beta of GPT-3, stricter regulation of AI technologies and conversations around bias.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/how-ai-and-machine-learning-moved-forward-in-2020/",
+      "originalUrl": "https://sdtimes.com/ai/how-ai-and-machine-learning-moved-forward-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-AI.jpg",
+          "width": 660,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy.md",
+      "title": "Salesforce claims its AI can spot signs of breast cancer with 92% accuracy",
+      "excerpt": "Salesforce says it developed an AI system -- ReceptorNet -- that can spot signs of breast cancer with 92% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "publishedDateTime": "2020-12-10T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
       "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
       "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
@@ -10,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -113,7 +311,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -363,7 +561,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -403,7 +601,9 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -950,7 +1150,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1042,205 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach.md",
-      "title": "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach",
-      "excerpt": "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/tech/20/12/18721086/tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach",
-      "originalUrl": "https://www.benzinga.com/tech/20/12/18721086/tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_1.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18721086",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086",
-      "publishedDateTime": "2020-12-09T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-making-sense-of-your-health-data-with-amazon-healthlake.md",
-      "title": "Making sense of your health data with Amazon HealthLake",
-      "excerpt": "We’re excited to announce Amazon HealthLake, a new HIPAA-eligible service for healthcare providers, health insurance companies, and pharmaceutical companies to securely store, transform, query, analyze, and share health data in the cloud, at petabyte scale. HealthLake uses machine learning (ML) models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-lineup-adds-new-machine-learning-capabilities-to-par-technologys-brink-pos-ecosystem.md",
-      "title": "Lineup Adds New Machine Learning Capabilities to PAR Technology’s Brink POS® Ecosystem",
-      "excerpt": "“Quality insights are critical for restaurants in today’s fast-changing world, and Lineup’s ability to use machine learning to drive quicker, more informed decisions, make it a wonderful fit for our Brink POS integration ecosystem,” said Stephen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lineup-adds-new-machine-learning-capabilities-to-par-technologys-brink-pos-ecosystem-2020-12-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/lineup-adds-new-machine-learning-capabilities-to-par-technologys-brink-pos-ecosystem-2020-12-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-to-examine-the-departure-of-a-leading-ai-ethics-researcher.md",
-      "title": "Google to examine the departure of a leading AI ethics researcher",
-      "excerpt": "Google says it will examine the departure of a prominent Black female researcher in the field of ethics in artificial intelligence, whose recent, sudden exit has angered thousands of the company's employees and others in the tech and academic communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209162431-01-timnit-gebru-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
-      "publishedDateTime": "2020-12-09T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

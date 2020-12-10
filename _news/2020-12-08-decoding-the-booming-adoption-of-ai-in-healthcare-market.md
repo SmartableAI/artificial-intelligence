@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The race to the top among the world’s leaders in artificial intelligence"
-    excerpt: "As revenues and research output soar in the field of AI, global competition between the United States, China and Europe heats up."
-    publishedDateTime: 2020-12-09T15:32:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-03409-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 44
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03409-8/d41586-020-03409-8_18652628.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "AmB9zP2HJ2om+ONaSPkOgKuDKEAxSigMl23allpUUMD9buWV1ZMRjHSx9OeTuyc+u9Lrll2JAdOOBrZIkiYQPKmxHHotYZXrJZprZbygKsftKHTNvjbI1rdcT0KndT8VlgNYRorFWQvrEv/GbRvzsz2Okz+MD/u5Pr5zXv3zmHShQsSBBeScfp4cner9z1kygA6w8IeOTK6XtIxu8x6BoEBHaKRSGJtxNvIphK4rcMN+uRJ6vUGr/aoDkR3o6Q6bXLReQva05EimZQQidqhwZlxhzWsahDDgIYfw/bD7afmsvvvlLmeZEG1p/oDrE0KONLDJSFRNQp8DQ8EyN0ZYTDmSzoT6iC/xXMPWeMn+tvHUEq5scQICBk842yJRH4ZsPJYy4GfJpqUsQwkV7r9giq2uwwkxcO+cM4x5LwusyF4+Vxo9OGSGKhhwyHUEfCRx1ONn69VbXPfbbjuswB3gnFn0E4hMrT41Qe6PrjljufJDCD+rD0GFi/QHt+nFaCGdao4fumhHbPmkyMBtS8GhuA==;0DGsKaJDjgtzJT1yHnYgXg=="
 ---

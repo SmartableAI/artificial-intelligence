@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uigh
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
 type: article
 quality: 99
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVY3YLBVAMI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Barca star Griezmann cuts ties with Huawei over reports of facial recognition surveillance"
+    excerpt: "BARCELONA’S WORLD CUP-winning footballer Antoine Griezmann says he is ending his sponsorship contract with Huawei over reports the Chinese telecoms giant was involved in the surveillance of Uighur Muslims."
+    publishedDateTime: 2020-12-10T18:00:00Z
+    webUrl: "https://www.the42.ie/antoine-griezmann-huawei-uighur-muslims-5295619-Dec2020/"
+    ampWebUrl: "https://www.the42.ie/antoine-griezmann-huawei-uighur-muslims-5295619-Dec2020/?amp=1"
+    cdnAmpWebUrl: "https://www-the42-ie.cdn.ampproject.org/c/s/www.the42.ie/antoine-griezmann-huawei-uighur-muslims-5295619-Dec2020/?amp=1"
+    type: article
+    provider:
+      name: The42.ie
+      domain: the42.ie
+    quality: 49
+    images:
+      - url: "https://img2.thejournal.ie/article/5295619/listing/?width=600&version=5295628"
+        width: 600
+        height: 400
         isCached: true
   - title: "Huawei tests facial recognition system to track ethnic minorities, send 'Uighur alerts' to Chinese authorities"
     excerpt: "It shows how \"terrifying\" and \"totally normalised\" the discriminatory technology has become, a video surveillance expert says."

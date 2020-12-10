@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera.md",
+      "title": "AWS announces Panorama a device adds machine learning technology to any camera",
+      "excerpt": "AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision enabled super-powered surveillance devices.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/AWS-Panorama-Appliance.jpg?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/",
+      "publishedDateTime": "2020-12-01T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-in-the-cloud.md",
       "title": "Amazon debuts Trainium, a custom chip for machine learning training in the cloud",
       "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
@@ -1329,59 +1382,6 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020.md",
-      "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
-      "excerpt": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T18:32:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

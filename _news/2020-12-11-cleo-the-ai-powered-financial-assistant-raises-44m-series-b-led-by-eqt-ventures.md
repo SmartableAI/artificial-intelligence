@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 113
 published: true
 
 provider:
@@ -76,6 +76,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yqW/Xu7yzfFXjmyJHPysxvn1DtGgweNTgjaoCO1J1bIFm+ITpfNdYDTegfEAxcSfw/bFB7XL+/cWDj68ILlfrbGhPJmrh//+MLxtpSI02/RCCrmkW+MPrEez4AjLkngcMrunZ19KG6vxlJdieUzJ+SSti8cwU8fddglCCwzBqGPB8wzddOTbY+F5jLb7asj19c7PotWKQKkouobmzge97Y5MZimvqQFM9lv58Zds4pJ0NZZn1XNtE0dLfiEztjJoVY3HvZWsuX3ECVco89ZlMWUwvzhG+DPrRJEMayEsQ7GPVvpS46BLhMyrtakfIgCNZow1Os3uEY2fC3a+fKePs4imslsp2fqZXL4Td1U8tTo=;jkbXyCDeyGrSeIfl2CDhzA=="
+secured: "fGe7aZBcUUqM1BSHW8Z4QU1OxOOPzRyoBsJrYQd5NmO/37MnQztncseVWK2RtJJkp4QFhddmpqyAGoRUMEZIAsFgj8+++IVyHCra22UTySeArCF1OWsF6rfEO6wYU1i2VzL1xItQja7gFgEoqL2eedspIgeiAecfYXqMDnxAfZXpyu7lbdt5Iqef07ZjH273kCvpmATXNZ9sMZjwDo3y2k++VuugL1QFe5IG4G/jKEf9jpUWaD6UQ7Gwr6wPn/iAMYseO+HfE/KsOFogi4qjePwDSzv/+GoinnPMdVghTaQqp7zZsT/wNbuGL8nscFpHpnUc9YG2u4szb4wI0+b5QjFG0XHLhiuOqUpyGpDmiiVLuKb5aCtTXt5x1cWu5fhXwcJujOTG5RJyDZs8QdNPYwu/n18dEXrzvF1eWlV2qZBaNCji5FMP5R4iRsJi5cGd+KoukUiWooLN3mRiLsiqyaWdHe43utaapT/2jNoq/yqCxFjIRGIiDZOxSTuprffCR2rxEAeMXQzsInZMJkPjVQ==;wa9rdhgJS5mp+sZzP+LvnA=="
 ---
 

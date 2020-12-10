@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the
 ampWebUrl: "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 108
+heat: 118
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-216391.jpg?w=1200&strip=all"
@@ -30,6 +32,22 @@ images:
     height: 799
     isCached: true
 
-secured: "ExPa6kV45+R+fCcr+PIx3tSvp7BK65imuZY1tfxoDWj2FxbMarj/x0xcdn3YPFZCKZosJ9N0R7Nd5kC7/u0GJ06VdgM2eXUcgkqCB/RPzH/lMz67yyQ+aA0Y1wbkf6ITntXPmkZoppEZ92M3drbQTPaizY3NKetBvFaF4PmSuh52PZixFeAGJvsc6K7gA44Hj0jMs5L1Ut9IqLdaeFDz+D7dfnsielMRmoCf2qL2a86KrejoU+wK+Kn52wp1IBOXov/pXFa+9W7d9Vh2YPDZgNQHtRh5tzIGdZzFK+K1FFjWKkM9oO0Zew6xLaPQEG4ZiSl0iGRAGA/PA3z3YTL+kpKBL6qaNpwaSgnFx7o+YNQ=;wxXeBsg8PlhPcs4W2t5vgQ=="
+related:
+  - title: "The race to the top among the world’s leaders in artificial intelligence"
+    excerpt: "As revenues and research output soar in the field of AI, global competition between the United States, China and Europe heats up."
+    publishedDateTime: 2020-12-09T15:32:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-03409-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 44
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03409-8/d41586-020-03409-8_18652628.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "1BcmD1Jetj+elbE5TZvA+3xD5AedzRUvI3cBI09hHj1FjhK282x6kD5EykFKU/jsFgXTTVPge3aOdxR5jxSNeAfc/THIx1XuVP5SeAOjJfexvB/1um6itXB1QgMtxE7dT3GF0hUKlnMhAFGZuiqaimSuzu/3piBQ5z6Mump3wytgiDa+JhiVCAaBXijZ1OAf78tzbk6mIrpQqjOzWBkAnPJEQvUxBdiFjSxayyBaSNYXJg7kzbZo1MuuJvl+Cq5hvVt8f/rwWIvu1PlcP2P8rf/czPllUGyAfo4wlxdwhd2Wlr4Lt/3nxf0maPIRvHtSoHQZ0nnI/yHSKiJem+6EvrbdztCHunhMLAJjv8YlKANSEdGB89jcqy4OCwzuKINUh+Wsh0QROXG5hfVsCD3qJOHOJV7ngF/5RR4FOsZ1EtGGjHRl9QW7oxAKDnvuiXi81bx4TFyTGyIUd2R/enzIKYrkVld/6/t59xQo8jkXfKIerRZkA4D0cTe5Cuo7Otj5RkFKLwmLZlPWuBxF762sTw==;YcUA7V1j4EdK1J+yH37D+w=="
 ---
 
