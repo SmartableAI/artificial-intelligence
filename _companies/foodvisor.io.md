@@ -2,7 +2,7 @@
 name: "Foodvisor"
 overview: "At Foodvisor we believe that healthy eating leads to a healthier lifestyle."
 type: "profile"
-heat: 31
+heat: 57
 
 website: http://www.foodvisor.io/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=H77GQBirQkM"
 
-secured: "opIvEzNaKeUF+Mm/jEqqatc9Bkdti/UTwYHr3G2/uo2H01s1T1Dhctnl9RqW0AdCyyNMkA756rQvwoelxWg5L4FSDJrH8l2+2J/w3OLdU/1/YMneZV1DBePBFuoqaUTcT5JrXLhd86/zz09lww8Y/Ry0VwCHQ6vTyqL4v6E2RQHrBbaucoVgoi0eCjIh79w1EMXMbgo8lDf19mHfXJKy5QBSTpRbSslY3UszJI271a+M/wcCFcVDEKKkgPh4ahBwW6VHREB6/fCp2M0V1RzX4KyIZNnb5BZ+Ls+PjpgKKZKjqoQx+1P1fciTimnV6LOIT/3GzIpAEA3n+m8GtjnerYYaQcIDOnEdN0Zj1pEIyFzkzreZJUNQVjxbefqw1C6zr3utwXP9BW///1Mmsw5fd64evgxECXed+jRWkuk7n2U=;V5xcM8T8HiV+yBUpBOj9wg=="
+secured: "tvwRViZoGatay+DOOHHFQxPJczt1JAOPgSjeIZJb5odVxy/MqjNpN4nGgmXwO1AMB0I9eONUciZeukVY6zUJa53URN2lya2Ala9IMQ+Z1iFNtpZx1FgjBzQigtVkb2Io00MVfCUjHi3Y9kgRxAef/431khIS3HBxgq0y1kK6O/Qe1lO7e3Dj5Tz0C3PFCQsKMmaFyRCI1qm0Rlh5wnVI0yPrZfY7YV/abseaW7ZE2rIveSa67kd2KMcDTMuK4Ki9A8FkcMjp6ZmV6DeAr2TsGjNMLdHGYr5JSXq8APVERyeHpArYtoA0TFPmyOeINxNvk/xJ0Mf3lcq7IEsH9b7Vxl5oSjRRSodZaSadtUd8aVMMwrTuo4XxCQ3YTyKn//hNLnTMsDlJBJCzfUwj7APohgaAzoP/rFrQ5mqggHtZ/18=;j8tccljDC6OPH8V4Ct1+Mw=="
 ---
 

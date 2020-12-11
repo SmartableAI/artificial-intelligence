@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "RiskIdent"
   url: "https://twitter.com/RiskIdent"
-  followers: 374
+  followers: 375
 
 locations:
   - Hamburg, Germany
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Risk Ident"
 
-secured: "NHF03rURZIZJFlFKp+DrOzH2psD65yIj+ZOW5ZOs46rvDO3p1ZyRaY5gCqor1W72keFrTLY3Vmle9VAMRwC7IA6D6BsijP111iR8sbUOOuLOn5aXh32o3xFpgVZDdYw/xjJiGh/D4A9208aML4e2E3ODubsksTV7zygRhuAc6gtLYBkQTPRVBLGpWAsDczOIA9gBqWySlTQG+CN98UtKynI49S92M7dX1LoCXsidFtZMhZaN5r2GC6rkA5I91voQwKkqABdnZaXihJn2xjXXxnsVANrJMeDxJy2UeFfVirDFKOMfyjdYGIaqrP5c9lWiolu5BtwMIJZvmIxPkJwaDYfUDubC1peI2fvD7//g9fRdLOlDO1Q94McUWY1mt57OSpNfgHpWZjvG6mm/e5NeeQ==;2IaqTKfxh5SZRgu0reHUTw=="
+secured: "/4s8Dg9HHSflSaO67VpoLqq7+CbcBCzdLWWo0hLeX6CyUIPuhj1JR+MSBm2jNz11WlZPS7jaVeD9YhmWiqGhG9tRluitQN6rSO2dzElDy+J0eo0XmCAT9TMkRzDB7q9660DJErrKgiJPTkxTRV9S38zmsBOKnkfBdZGmaaI1ljgeDPNLfljhLO58Dz9253VLcc1zY7H5pIBiQ3o9XciNslfgqoFVCk3dzeskMsjv8/O2KrjB31T5Q419LGgbvZAon393kBLvfcJ7DUMUYs+UNv/8UzmUyxZ+5SxGgCCYnVJSamNagsHXBGSE/Sjw5Z63jDDU5rDgRKIA2UwI+ul7IgIdsYAZa2Eb1Ps3DZTFd0L4fJvX5s3DHnrslZQSUFMlPDtVnZlnJ2sWGkO3vL2b5A==;FzLlN2hgXvXTiMdSudOk/A=="
 ---
 

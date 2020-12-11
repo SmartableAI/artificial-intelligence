@@ -4,53 +4,35 @@
   "page": 1,
   "value": [
     {
-      "path": "_companies/gong.io.md",
-      "title": "Gong.io",
-      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gong.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gong.io/",
+      "path": "_companies/einstein.ai.md",
+      "title": "Salesforce Einstein",
+      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
       "type": "profile",
-      "name": "Gong.io",
-      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "website": "https://www.gong.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gong-io/",
-        "followers": 27534
-      },
+      "name": "Salesforce Einstein",
+      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "website": "https://einstein.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gong-io"
+        "url": "https://www.crunchbase.com/organization/einstein"
       },
       "twitter": {
-        "username": "gong_io",
-        "url": "https://twitter.com/gong_io",
-        "followers": 5608
+        "username": "einstein_ai",
+        "url": "https://twitter.com/einstein_ai",
+        "followers": 143
       },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
+      "yearFounded": 0,
       "topics": [
         "AI",
-        "Natural Language Processing",
         "AI in Sales"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
-        }
-      ],
-      "heat": 89,
+      "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Gong.io",
+          "title": "Salesforce Einstein",
           "isCached": true
         }
       ],
@@ -91,7 +73,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 72,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
@@ -106,41 +88,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/einstein.ai.md",
-      "title": "Salesforce Einstein",
-      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
-      "type": "profile",
-      "name": "Salesforce Einstein",
-      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "website": "https://einstein.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/einstein"
-      },
-      "twitter": {
-        "username": "einstein_ai",
-        "url": "https://twitter.com/einstein_ai",
-        "followers": 143
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce Einstein",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -161,7 +108,7 @@
       "twitter": {
         "username": "clearbit",
         "url": "https://twitter.com/clearbit",
-        "followers": 3879
+        "followers": 3878
       },
       "yearFounded": 0,
       "locations": [
@@ -301,7 +248,7 @@
           "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
         }
       ],
-      "heat": 31,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1334765466464575488/Xsezxtmb_400x400.png",
@@ -371,7 +318,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 13167
+        "followers": 13168
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -402,6 +349,59 @@
           "width": 400,
           "height": 400,
           "title": "Conversica",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gong.io.md",
+      "title": "Gong.io",
+      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gong.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/gong.io/",
+      "type": "profile",
+      "name": "Gong.io",
+      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "website": "https://www.gong.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gong-io/",
+        "followers": 27534
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gong-io"
+      },
+      "twitter": {
+        "username": "gong_io",
+        "url": "https://twitter.com/gong_io",
+        "followers": 5608
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Sales"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
+        }
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Gong.io",
           "isCached": true
         }
       ],

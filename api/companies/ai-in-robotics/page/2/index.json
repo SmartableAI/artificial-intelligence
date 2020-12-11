@@ -4,32 +4,30 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/vicarious.md",
-      "title": "Vicarious",
-      "excerpt": "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vicarious/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vicarious/",
+      "path": "_companies/softbankrobotics.md",
+      "title": "SoftBank Robotics",
+      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/softbankrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/softbankrobotics/",
       "type": "profile",
-      "name": "Vicarious",
-      "overview": "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today.",
-      "website": "https://www.vicarious.com",
+      "name": "SoftBank Robotics",
+      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "website": "https://www.softbankrobotics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/vicarious-fpc-inc/",
-        "followers": 4815
+        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
+        "followers": 426
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vicarious-systems-inc"
+        "url": "https://www.crunchbase.com/organization/softbank-robotics"
       },
       "twitter": {
-        "username": "vicariousinc",
-        "url": "https://twitter.com/vicariousinc",
-        "followers": 48
+        "username": "sbreurope",
+        "url": "https://twitter.com/sbreurope",
+        "followers": 16504
       },
-      "size": "51-200 employees",
       "yearFounded": 0,
       "locations": [
-        "Union City, CA",
-        "Union City, California"
+        "Tokyo, Tokyo"
       ],
       "topics": [
         "AI",
@@ -37,76 +35,68 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=m6XVt9H2cDE"
+          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
         }
       ],
-      "heat": 50,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1001574414494912514/qQUOEF9F_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Vicarious",
+          "title": "SoftBank Robotics",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/neurala.md",
-      "title": "Neurala",
-      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/neurala/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/neurala/",
+      "path": "_companies/zenrobotics.md",
+      "title": "ZenRobotics",
+      "excerpt": "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zenrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zenrobotics/",
       "type": "profile",
-      "name": "Neurala",
-      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
-      "website": "https://www.neurala.com/",
+      "name": "ZenRobotics",
+      "overview": "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter.",
+      "website": "https://zenrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/neurala/",
-        "followers": 3462
+        "url": "https://www.linkedin.com/company/zenrobotics-ltd/",
+        "followers": 3296
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/neurala"
+        "url": "https://www.crunchbase.com/organization/zenrobotics"
       },
       "twitter": {
-        "username": "neurala",
-        "url": "https://twitter.com/neurala",
-        "followers": 2025
+        "username": "zenrobotics",
+        "url": "https://twitter.com/zenrobotics",
+        "followers": 1500
       },
       "size": "11-50 employees",
-      "yearFounded": 2006,
+      "yearFounded": 2007,
       "locations": [
-        "Boston, MA"
+        "Helsinki"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Robotics",
-        "AI in Autos"
+        "AI in Robotics"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+          "url": "https://www.youtube.com/watch?v=9I-Th926Ly0"
         }
       ],
-      "heat": 31,
+      "heat": 6,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/522407174979350529/coE5Wqh0_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Neurala",
+          "title": "ZenRobotics",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -131,7 +121,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26850
+        "followers": 26846
       },
       "size": "51-200 employees",
       "yearFounded": 2010,

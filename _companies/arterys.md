@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 31
+heat: 50
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "2LWnuneJUHZVAnK7gK5tWNHwHRjwLN5T/XfoOpfqbN5iq8WTHMd+xuJg2ltRYJukUNyCMGkWRd5ukNZ8OLfNtrStVfC1DSNfFaUJB+PaiWMXL41TF4597P/2JECgYrv7J9SVOB3OJcLpgvnEDP6kVkKe7qdTxGMSTirgYPRjq3wXYK2vvHPM3wKt64tkmcdDj92M26iteC7SLchPlCHA88zGF3g07DZlRVxuKmXhzYSEcjnlyXoaiQqPPjqnntCKLFwEqbzHombRG82/JMEVoAcc6/Npqin9ativYrQfhrO5lNQpHV+t4H5OZOPR5Axd3m6pimtoS7qSLPGMcd/ZkdBi8gsjrZTZJNyfcHeqD4ylo9/L58Vmbg+b/9wsqBZIYDZE4WyoU86aZVXf1dIVztI3xVTPsSl8otNiI9YaixM=;Jbdzhrk2P8I7Xev7+1MMpA=="
+secured: "A8RznL1I6vTNwBe7AINRFczV9phiv1r92pVWZ6vNrD70/J9URqciWOPYVIea0sWprLN10A+iEuprScT1z+o8/7jdaLoC54GKEB3VtMfPTNjH8yT40T9PhCY4kaDnR7slbRsLFPDE1ffikRu5Fu56SNbQWbrrntyq3ZKsAOTM6uVVlXKkOQf1ro3TisEX98PxKuKNY3sg1ntOtm2JeZ5lWFAZQI/KwSbqJWzpfE42MZp/KwBXECAPf0ytQ6bScfaVUW9eiJ63teIt/DVSp8mnDTKnnYiN05++BzYJQzbeKZiYmO/mNo9bFtwxDcCSLaqibU9cqM56IHBEd5z1SLrTd1zVnKfGtg67WIKHCUmjhfby7ZbLQxpEeEyL9Emk4gOKnI3yEVbVAzOEDwF6iQ8mIErno35vqvWBkfVDKiybp1w=;IP+YmM6ocSoFXmoTRUIgVg=="
 ---
 

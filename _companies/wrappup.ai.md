@@ -2,7 +2,7 @@
 name: "Wrappup"
 overview: "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe"
 type: "profile"
-heat: 41
+heat: 50
 
 website: http://www.wrappup.ai/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wovsuTYqnC8"
 
-secured: "hAEygzeShbVc7kZxKv24Cs/mUwFSS+J3j7rPuLhxD80ZjYt32K+bOsEtg29C8LJa5CgL008ZsN2LKxbfnkUN2q4iya4u4DtUyOpnpB1E8Cu2iE/fVAc5pb7oMngtU39tiUVBzZkdCASO4btthnPfHtMl6lU12jeAsj6ZKowBdtR0xUDB2pqRbOSeR5MfpVK/IRBghm60/oVRV9jMUOgT4MZ13SyBmE9FLOVccZLhQGSYOaPRzd01v4fvSZbs/LmzhK+hQBhI86zjxlYH+0C0lBvdv0HPUw/uVGpfysem4URh8gx7197RL41SuZAf71hwiVVIVyiArwS1fyzS2/FfsZYbWNcdYz9xcvQ0xxZ/nXd/yTYxbFxFMCBKL7KZO2exTQICN6gfxl2xjRE0a17Bqg==;MchFhLMTCHsfrU0Nz6C0ng=="
+secured: "Sz9b09H1NqpqfoHS+IvYyKtkljglrV3lLBA84Y2yj8mmkP3F4VZcQb7b0hz52bFOh2qQtoxHmI2XBFk68aZLSCRL1Xn4SO6+Xfzk8pMaOTN4pkJcvbbf+WHtuQvDwwfxxO/gmt4m4LQUNYm3AfI8UpiZjnRplMCRvbSPevJULrmayW1WXP7hsY4MXHYlIOuxclY8uZggkOHW7PrX2yIABdwDNbnpVQoaeHrxlVnTOsmI+mizdlfuZlIJukM3a1mnIMfB04OOgh8nuIl+oAz8bJ8GhfUDiTTlp0UNXQrF631oEcAyoOr/qFZDtW9LDxzcX2aGLoSxnsqcXG6mXt+fc4VuKqSdCNZlBKfU/0w4u+keWkW/vIAoxBLsawIk2Smt4v0RY+tcwc0JfqDvIDi+8g==;J8ExHOjlUQax61t96RkOcw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Zebra Medical Vision"
 overview: "We are a next generation medical data research platform that will produce the needed amount of machine learning algorithms to provide scalable diagnostic to the next 1 billion people to join middle class. "
 type: "profile"
-heat: 65
+heat: 87
 
 website: https://www.zebra-med.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=zUD7wsVx7kA"
 
-secured: "u59cZ1pWpZdL0oUpNTIVQ53CMC3/fex9uYx/4ZakRWPLjOfDZDw/pOWHm8NLnDOmOSgYdZZyqlT23GDf6YssMUWYl1PACNsVtg1k5jrAnRVnwO3gJlINroy352vtz7o11gVbKeIAds3CaADUH+yqVsQxPBTzEeFgp06qmW3P8GLr/Hmizb6JJxKsVFiCBldjQ6IhVQ6pN857AX0CQ4rANBk18IgOsrw0Fei+wX6dEG+Ppw8HILErcqvX5pfc9fZOKJ81gRxAeTLvOlpff4tqDDqUYw+QEBpQIrndsuBtesm7DBpamny5D2YjyfVXeKOE+0l3AOHxa4Y+fMOFuv8I7OH0JJq0FcR6tzolY9VYjLpDxwAOs4YBKSS6wS0GtvI6WLTmpFnG6C3LEPNDDUsaMIy8g/g6e0SDw7rZQur2PrI=;qjeeleFYfDfiiPNzf8YZuw=="
+secured: "Re2m4ixenthJzmJh8O4ojvAC8EmcXSVKLGWHMNS3gnhvdYGi0MAem3cXj7SJbwAzKAIMxp/P8APFjMwHv4xT03OCQfSvAuFlIq3hRAViCLxiF85yDjPjy8pOzSfFgUDqOL8yFNc5FRWDSveQCPU9yS+7cySUtTeg4UAVYeuTdrIc9+3vi/bXIMz2dUUBckA74PYA8RJFlTGCXf1oEn3j1PL97IteHVxPSfSiupFmeAufx6bSimH0jg6GvR5OSFs56DKH+rvMBVTgI6qeTDzngrJ+cVFGxhTq9HPvaON8xAPohp2/Nnblb69YIPyvwMUWWxmPikGhkPgWPaLmp8Mk9Q9u1wl+RDFEklZ1xrzs0+ulYBAxTbby2eDIfi5U/5K91nRW2MLVcH1Z12Pxd8qZxjW8YrbZxTBA3yGL8KBvvfg=;AxJtUGWhas78i1YmllPxpA=="
 ---
 

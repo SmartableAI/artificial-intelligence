@@ -2,7 +2,7 @@
 name: "Cyclica"
 overview: "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision."
 type: "profile"
-heat: 58
+heat: 64
 
 website: https://cyclicarx.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cyclica"
   url: "https://twitter.com/cyclica"
-  followers: 1081
+  followers: 1082
 
 size: 11-50 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=UHArUciCDH4"
 
-secured: "PpEr0N9Or0mluZB+EvZURvwCrMGpLu9tTB0abZy+iry/T02NVbdB+uEUsZshg90XIMFfFc1cnl6fXtpvZZxB5X8TF7HdW+Vs0ObGm1uEmmCDg5ZmMn2nvHRe9+gTs0JyM7N4NDeM7bfpjttZXEBqBK7k03Hq7aFwMYvCIBRH/bTq6NpP+tnNRuSPq9uYXuRaw/5/J0Nn9VUwhHS3e1FyJwgAdxnKOePmz/XbHdt9ukaS8rYksy6E7oLNf7+KfkvoJGnRaAUAcRNIn3L2je0CkUj+uFOPjBoGvGJquF7TqxQ27cEXt48gq+7uxWhbqXt2Csk4fJYCa9El/EFCkGyznW5U9PweFqYNFIYJglyK721QngkrRJRnDSbU4j/5F4UIeAx0SlQez1FBAbqRU/2/YDOxKv+E/L7TiZSDcrSq6PU=;gV2pHWNvdwIiPAO215qg1A=="
+secured: "MHlW/jZUyGQ0ukxMyHKC45PixNmiWU1KPEBWcVuI/msmGIRMgkjBj9HG/2P1L9mGKiddbJvRoIa344jOAJOXtndo+TE0a/YijkPsWHhVHhuKh4L7BC9omVFFoBzInyRsBwnA7KHWYustSUx7pB7bVxJ4RcHaSnHFI8Y3nzTJoaO58lmAERNrWkC6qKR7ryLjr6jglZU7f8Z+qLuzSwUl7uB+PJ4nASnK/bWzzJhfFT7G6/Ttw7gkxW5doOzImhgGMDvVLjixkPuTAkGeAVzQFNNb9Q6gYz1KZZJv6OPofjujdyqHkXbrWxyUzlYfuqkTj7koSu2AOVxiGMiXCkUHXMNr/hsHqgnf+SNr+cJ+zYPRih5QMYtfk56X+OWviy/ApCvRE0Fjl4nXKbBUfPmSlse53BMjbRA+KXavSsy5Wbg=;1atVKySDFEPUSKRLrIHTPw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Cognitive Technologies"
 overview: "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps."
 type: "profile"
-heat: 31
+heat: 42
 
 website: https://www.cognitive.ru/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "CognitivePilot"
   url: "https://twitter.com/CognitivePilot"
-  followers: 1180
+  followers: 1181
 
 locations:
   - Tel Aviv-Yafo, Israel
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
 
-secured: "BMAcXZ4I/AH9w4CQ1SGijHUWiCz7lbMSoJbrFv9CxTgj/FuAH0yDRqIR9Grb/0PXG8Jnsmc69RszP6v884I8OzNfUc0QFaTPy+OuOn8Z72bP81+c6FFnucUg3wn54suvtp5eK12QZgIJsNyoZYVNVqARbiVAi6lMrhvl0upOUqenMx5/ozqLHapd1/vM/Un/dzZPqqcn0/idr9j+kOVoKY8v5xMBq2Du7AVpPBewrew9mPFDgVJ8UubYq00E3c/ZQyGDKfhZRGg725HFuWQb1pSXUvj+sQ+7K3ZEWOfANs/Xo++qcDpwjyidqDSrQPTvuYXg4brnSMRmm8hFORdkqo7pRp9mVB8eR+tiw6yo8ZGVCIpX8nkPDn57VTGfg5tXJGtek79IUlEXiyLRfE6x17DyR5cDPicNvnWklI+RiGg=;FL5KXcoj5lzSL8jRUdLTuQ=="
+secured: "dFuwxnENgW1femGCiAhKGo9Rw1UzySisMs2W4vLuj0RYeApnaThepNb0ADfVeS5YGA7iISS9ugfcBMLJPjhYaN0HOMIL1x+iRlFS/wXnlfTAAT2akhMtlE8W0UCtXb05/V/3whnWnchK+vSxGaMkjiqjHIZ7xCUuBZYXwNhnnQAL7ZF484UUg1GDcboWWWb3G203WQH57lW/GtpRQm5bjpqyzqTu+VUYQ9OgHlxLbTpdkauYUnn9K9spMqOJenky00hZPGgTqrJKalKItm+2euGDvKH3F9XBLMiyMW9NYvOeJb9obv6ianjHzfct002vV7DnzgrrA/dmz40SSxwyMHq1H7i4ZXoOcdO5prYa1x8HQn8Y6EaefJyQQyxvMp1LDRD95limoPbNZF6cRA1GQ0w3jyw1Rn69ata8rcFj7zY=;dyniJkueyDh1XaKEzDhYGA=="
 ---
 

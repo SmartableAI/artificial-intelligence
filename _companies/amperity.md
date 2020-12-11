@@ -2,7 +2,7 @@
 name: "Kaskada"
 overview: "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more."
 type: "profile"
-heat: 41
+heat: 64
 
 website: https://amperity.com
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "j8m02qrpE7i1ruh57CX3FhURLjk7JcRBIL69p6vEIj7zh3fsEO3RlFTx37J0UM+41buScUiL0QNj5a9qFEA5HuHf2/dIvcR1tqllb4xzICREzTDnjcg7rEpWn/kWD0gF2L4k0Vanlc5eXDecIQC7w4QPEecZLpk+1mBCd2VUezJnr4MVw5OnfOcZWcSaZtfzROKFCfg28qScHeOeF79DO7mQzh2SIcWVxYj0SbAYZEqU+6AWTJLHNpF11NsNfClUQpF6yDpUowdNB0cddTgFonQBqSEEEqBAG3ZbS5zApM+sg0lVjw0MAGjGkxe9LVq3FLOoTUZidwy0LziBoseFKGuvrX1lglzHugvZFbXum+sQ6VS7pq7aYkNwcPSWG+WMcyKjbs6ZIKzXeefZwlkVgQ==;HSyrN1KsEFhBG847TEbrdQ=="
+secured: "uWp/UIx8xptZJQEcfcgmZqJSTegIWN4nQPWpw88AMUdgufjX9Jg3F4GpxJgR2kZQUjBGcqpmrWz+rE591ukD+p5cblZ8BYk9PWbtVsnm3+0BnseSa1DmWY9WiAVgoXAPzyHy+GXjRa9h8tt+OA/7C27ux97i0ruHJcHpGSzBDp9i61p7bSkFYu5UNICJ7jxNkc0RVPrHK3N5ZVwIKUqlKaZLd4hR+2kmjRO7zlqEDjHkEpXp5sico6xPFxs8kMQLAEdaFZPTgf/BKLo6cIYp5c3oa62jRabWv7tUijx/ndsM4tnK+7bFf+vZmq3+ebtxpOCMLIsaJxi7RU50RcO9wmt/mVbp7buDyf7A+Bwkl/fYK8mciMaAzeMYbW2jXFG/YMpVt2YVdJEajEkU7eVikQ==;v+O/AjIJGeFtcZcnB7kl/w=="
 ---
 
