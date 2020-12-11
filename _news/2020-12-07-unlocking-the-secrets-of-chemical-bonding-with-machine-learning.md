@@ -39,6 +39,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Machine Learning Market Is trending in Key Regions To Reach At Next Level in Coming Years?"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2020-12-11T14:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-trending-in-key-regions-to-reach-at-next-level-in-coming-years-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rounding Up Machine Learning Developments From 2020"
     excerpt: "Here is a roundup of innovations in various machine learning domains such as reinforcement learning, Natural Language Processing, and more."
     publishedDateTime: 2020-12-11T11:32:00Z

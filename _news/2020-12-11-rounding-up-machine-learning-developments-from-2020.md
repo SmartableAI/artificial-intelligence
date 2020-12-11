@@ -42,6 +42,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Machine Learning Market Is trending in Key Regions To Reach At Next Level in Coming Years?"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2020-12-11T14:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-trending-in-key-regions-to-reach-at-next-level-in-coming-years-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Unlocking the secrets of chemical bonding with machine learning"
     excerpt: "Researchers have developed a Bayesian learning model of chemisorption, or Bayeschem for short, aiming to use artificial intelligence to unlock the nature of chemical bonding at catalyst surfaces."
     publishedDateTime: 2020-12-07T05:16:00Z
@@ -52,6 +66,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "x/NKeCg7mgIKcugXDG1nLuYEu99sKSXXIxMlFRAE87GubV4riQOTXTcCjHDjwOyXElyrSrE4VU43zAm+ET4AyBXHT/FO87aijZHFKY7XYAq9O1EhZiFTOqqiRsa8cPkBlrtEpnF+/yUh+/WXrkNTHJPltSpHbvTcmc5s8BqIf7MUKwzKcMX7WmRft/ovmzXoOmIHGoOCQOhySXtt+5B/xITvDFvUhWqFXgJvS/qGq14jC7MxmbdCiiKAiGPR0As5n1cNkeJGRN5ETnRcMnTTIL6KKtwjknG3E+La10NZ8gxqX4ycZMAgUKGF1dUm+49kFSmMc1AEU4OmvuJSS8K6bQFaXaOsnxCcqK5btzohg3Y=;/mVwkngwS47a8dUJwrG54A=="
+secured: "LtU99RhXrbfCz6nbPD/5Mm+ITiWJTGcOZSpbdqW5GQyIu6ZBNZpcF2++VLRxFg0oYin599OeeNW1Otiy3V7ElvcNLmYG53hynanZdK5peksJtiVLLa5ZA8ARei1L+Adevp/jfeSmDyh0QjhQgwBibloqa6VKhKwzZOvhc7NjdNDdd9PUWdrprc4kdeX+dZkVp+87a7xiQE/0Q298s1hgFfH7MTVUHkRc2tOqv19FJj2izhhFkQwwrTs+TUqZLs1M1vICa8+3xUPvy8HdJudXKvHKUr0Tk5shERyoFgyBTpUKFiyaSmOPZCPq2rUdsmHZ+0ycd2fL8wNJ2PxWfaDWIcqTw0BZMd/F8Pp6Vy9/VmCGWRwoO0VIdEqfY69G0gCjtQXV4zAHeORZ/pUCL+NWVGO4ehxfHDGeg4eS8bRtAukBZz7J2sS8KrpgbPrc9frTwuitmXhKepUcRjWDJaU31hTo/ZPVTEhkUJQqMQCwU/p/D9b5AMnCU5H9iVmFCLgtbcJFwOAZjyf06Rn2v7itCg==;krZpMwnFEcMOIih1cNhYYw=="
 ---
 

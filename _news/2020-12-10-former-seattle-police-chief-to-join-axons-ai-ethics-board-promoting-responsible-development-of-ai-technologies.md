@@ -3,8 +3,8 @@ category: news
 title: "Former Seattle Police Chief to Join Axon's AI Ethics Board, Promoting Responsible Development of AI Technologies"
 excerpt: "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the appointment of Carmen Best, former Seattle police chief, to Axon's"
 publishedDateTime: 2020-12-10T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 288
     isCached: true
 
-secured: "G4uZ6f6IFcyWlY+zWEiOM7T9tsdm47zlN9VxTY/RIvj/GYrbjZUQJDrifsgs+m0jIGYAnzAUYrynK4wchQ6s5+KlPrw67WU4HSiVkYEXIULq9fDNL+3UIGvtkC3r8FjjYgKSUsYqIyjzRplJsSSVdDIz3AhyxwcjrLXkPAYvLJwWDv6UAhxZnwVlWO34nhowAS/H0TIR5+JzJOdQ3w7astN7pGfv1+YffyzFFWjgl/EAkC2cTc3rmPDkFGya0m4ozuNCLmahBUjgpJ9QMvfrtDE4IjKW8m2eqf7o07dNliGCh1FyR5se3RU/B+zm9bTn7hKXDWtwBBP8eury8QXKIZ6aCR9VbREQtrw3JCFQWDcru+gTBOb2RFQAgfnQ6Hw9DkdidbqeVIGmHPoi6pTQOaX/s3fzHID0vZ++Wq8yF67MOLLxOHM1MESAVUQABeB066UtXMEfegWu/YYaD/lZlYB9MtLMIySiLSC/AHVECLiNq7lZjFbWVS1oVtZGnNGFpF04SYm7IEfxDKn3/Se0oA==;Hm3l6wIRyHx0wBnRy+rBoQ=="
+secured: "KWED08tfuKgjZ7wxSVPsmyO4N/EeIzuC/E3i+IgY3VAuHYGVO9XW4iTVuYIsc0Zv8bWtj/50j0Krqi3dwx5mdiWtR3gQaJ5yPgLIXJ6444kRJFBkNT0Uw2qQam0GmexHoa3JgfX4yBqpxS8cxqvJvQ6G0Q6OQg1dqWtLQ1ZJQ1oTzQl2YI7JE0jdK3FKbW5aQ+4oTC74MJhtDqRF2Mvtso2czQfk0cSr8JBrvMaanZ1B5Bnd1CtaVbLIAf1NeEpJAMCziv8Zju1S4SYET3DykZWk3n3U3nOJrtktvA+9WNmoyvFs3CrZzhT1jLWLRisHAAPtH17wlALoICHO+ayFypWRapfDdWm/GmhhWYOvjGw=;FwsOUYpmVHXONIW3i27Btg=="
 ---
 

@@ -25,17 +25,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Abaxx Technologies: Canadian Fintech Looking To Disrupt The Global Commodity Supply Chain"
-    excerpt: "Abaxx Technologies will officially be listed on a Canadian exchange on December 15th after a successful RTO transaction with."
-    publishedDateTime: 2020-12-07T19:02:00Z
-    webUrl: "https://seekingalpha.com/article/4393406-abaxx-technologies-canadian-fintech-looking-to-disrupt-global-commodity-supply-chain"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 10
-
 secured: "KLAHnEwjZHxFEhEemRTGyKBRExskBLp1k5SQB1dBPX/r6vEe+tGB4qXIVzTtI0HFBPl7dcsVsF3gNG57+OYe1X9iniuMLfhMIxNsfmVU4p8UMYQlC8e8BxvnH4StW9a3K+kh8XqCTZxhziUSnJRgVnSMu1CAJiGFXEeN0STUuJ6WSeoZsl/tejxEecKHfFOl8v0No1SlB3K5tZtl7S9xPP0zHbSp0Am/CoWGbrq21+ysEKFsr8HeorL4kZDVHSWRFJoQ2Q5RrKrgVMpyuDGwVMS0XcHCtpY43fctxDA55n86W/FlN3LxcZ7lhpjQzo0V/ti/jPWU4PjRiS6aW+IkfMSdbjM5Z9/czgdTd605qR0=;53qdDEyvQ1ZHjiEwG1emmw=="
 ---
 

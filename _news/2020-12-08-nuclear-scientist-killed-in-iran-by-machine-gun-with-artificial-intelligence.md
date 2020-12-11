@@ -117,20 +117,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 46
-  - title: "Iran says top nuclear scientist killed by 'artificial intelligence' machine gun"
-    excerpt: "The satellite-controlled weapon 'zoomed in' on Mohsen Fakhrizadeh's face before firing 13 rounds, an Iranian official said."
-    publishedDateTime: 2020-12-06T21:42:00Z
-    webUrl: "https://www.middleeasteye.net/news/iran-says-top-nuclear-scientist-killed-artificial-intelligence-machine-gun"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 33
-    images:
-      - url: "http://www.middleeasteye.net/sites/default/files/images-story/000_8W74J6%20%281%29.jpg"
-        width: 3577
-        height: 2702
-        isCached: true
 
 secured: "n82GFHKkRz9izFCGXXUr9QSO0gqVunrX4rBMjCKIMd35kW7x5aVw+HuWzLj58hLq/NPP4tmXd962OqiGIa5A8MteqYQaLRskeFCssT6rdovaWlcRaODAlUAqg2wpvHnrC329nQU4f1OlYnry4tXBFZBisr2feVfOt+/a7He/iBO35lCfW/RrWcFQQMMtTpgUWcAHzz+vvCatQgtvnO/pt1spE11+nLWy82dNPLdiAHup7mr54XESXNpebvXM/sXGDphm4aLB1Q/4mL6dUhVTkidVgTKNvxL3AoDNr60s6Ga2kQDJvLSOB9xZuDFynRgMNGeSadnDb9QceFjIMl2oV4nw1j3/nzk6BX1fNo4efW3JsM7tyOmXB6sfgX46jpo7wL5syyJveDpM2q3J9eG4tWWxjC1XQ5QRog6J1MQByNIiSc/uRnpo0qu6K09smU6U1Efl287t177mVjGcM9Z/sF426/KNyhMi6br0OJAv265q1XlAVF8Cqh9pZcLuHDAQim2S53lcCvuW+NzMSWpsyg==;S8UrXAW7/fl0JR5wWLhzFg=="
 ---

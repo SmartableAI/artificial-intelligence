@@ -160,16 +160,14 @@ related:
         height: 385
         isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-    publishedDateTime: 2020-12-08T19:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+    excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
+    publishedDateTime: 2020-12-09T05:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
     type: article
     provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 54
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
 
 secured: "cs1QuX2T4fLafAg+n/PogLIwoXmmQKtfgK5Z6VLqekKC1DzDTU4Iplb2V12aSnKtuX6yTxjFUx0+TfvoTvUUmM3iMyCf34YwrL3qki08+5xqxkGsyCopYRORl+e8GVdoAUdsyK7b28YWL4pKsy9/s5CrGiwD4XFao6OqXrNt9vXitZ02IlafV4PU+1ooxszGNpUN4UsVxV7nF7+TZMpn+bW/cnIKIcP7QnagYx6cH5FcyYikmJDFoh69G/5N2P/V7qEmVcMaHYh+ngTOB+bCdUKcbOFLs1yCCc84UFWRhnFRgLvwmewRycoHK9n6WYnkrAEL5AGglE56kfRr9IPaypF4ywSeo2i+MdRPCF3WV9U=;71m5iRdbv5vmptbOckijaw=="
 ---

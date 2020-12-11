@@ -46,6 +46,22 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Facial recognition's fate could be decided in 2021"
+    excerpt: "A number of lawsuits and legislative measures mean the debate over the use of facial recognition is poised to ramp up."
+    publishedDateTime: 2020-12-11T13:12:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/i8mx0C0pY9FlnIbYSf-cGiOsaeE=/1200x630/2020/12/10/62311dd0-dcb3-4807-a601-9d4b92a337da/gettyimages-1195225361.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
     excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
     publishedDateTime: 2020-12-10T06:16:00Z

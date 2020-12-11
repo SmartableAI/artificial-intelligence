@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 46
-  - title: "Iran says top nuclear scientist killed by 'artificial intelligence' machine gun"
-    excerpt: "The satellite-controlled weapon 'zoomed in' on Mohsen Fakhrizadeh's face before firing 13 rounds, an Iranian official said."
-    publishedDateTime: 2020-12-06T21:42:00Z
-    webUrl: "https://www.middleeasteye.net/news/iran-says-top-nuclear-scientist-killed-artificial-intelligence-machine-gun"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 33
-    images:
-      - url: "http://www.middleeasteye.net/sites/default/files/images-story/000_8W74J6%20%281%29.jpg"
-        width: 3577
-        height: 2702
-        isCached: true
 
 secured: "ZcyKxTCTf9DG6UYq2Wc2zihvTfCrZ0VVL0V4cDYA64KhNSPF9vHPcH0bJXZnJImCtIBunnoJht25n7LIEl+vHgG6i6DGlN84oY1qbYa1lz3G3BEzYxMVPY8NT0oMGRFjO6hKMNgElinYxIq6jhCJIdsABEU4Hzf8rCwlO928qCAFvJTNzS7EQOK8j44uQni0wTmNySiz28FsYvJsfFl8k7G+8hcSxjgRl7RjI36PoSCG81v+XtzhNz0/ciRvFu6h2scM0j5OxS0gInPD0K0sGlox2/koPcgSYODCw5Adau0WNYW+8TqGYThaaGKCX9WRJg09xqrgb8FZ/PnXLesMxCKYzRSSxl6UeEKmY8DfY+Mrrlanm0lHj0s923/oDBNRRWPvA06m+uL+bNDInpJrWNUH9i5oCZ/FuhSVmdljV/s3irE4yR2RwPhfNUje6Qwvi/agEUp/7PzZ53iqIeeudBCJD2j1f18rFHz2WQsc2DrFYk8w81bKkbCBjOeLGfYw9n+KQpiMsYzXaenRNoEX+A==;wif0B3jntOnlxqdrxlb83w=="
 ---

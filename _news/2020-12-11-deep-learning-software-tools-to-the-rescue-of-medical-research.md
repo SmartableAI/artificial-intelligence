@@ -203,6 +203,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Google’s Dismissal Of A Top AI Researcher Shows How Little Progress Has Been Made In Listening To Discrimination Concerns"
+    excerpt: "Timnit Gebru was one of Google’s most prominent Black female employees until last week, when she was dismissed from her role as co-leader of Google’s Ethical AI team. The uproar that followed reveals a troubling situation for many companies."
+    publishedDateTime: 2020-12-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/"
+    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd29ab84acee6910d7ac5c7%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
     publishedDateTime: 2020-12-09T23:26:00Z

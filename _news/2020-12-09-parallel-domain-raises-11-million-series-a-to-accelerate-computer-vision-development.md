@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
-publishedDateTime: 2020-12-09T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
-webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
+excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by F"
+publishedDateTime: 2020-12-09T15:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-1029877903"
+webUrl: "https://markets.businessinsider.com/news/stocks/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-1029877903"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "DataRobot raises $50 million more to accelerate enterprise AI adoption"
@@ -58,7 +56,7 @@ related:
   - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
     excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
     publishedDateTime: 2020-12-09T11:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
     type: article
     provider:
       name: Associated Press
@@ -93,6 +91,6 @@ related:
         height: 422
         isCached: true
 
-secured: "QEV8VgD50VRwHKlVcyI0uxWfN+XV5D6NwMmfymKnDJGaP4owhQc2Z/3DHIiVTz8vhDO/ednn76rEQIHweDs17NPa/UOwwghZUgytMiSjDBpeeYmXXXNgRRPAn/kOOZbXiml2eJslvQEDoN+0nTIuC6TKcJz2s75OxwVD8iVUTbpX0kweFclrC/HOcrMBR+lFS8jCbi4yOfX6cTSIY7iK4iPDK/j6d/8ZyGIURFSbkpaCCRoLlqMtgxCClqr2NRKSvMW56nW5YuTYPxcg+3/DBdebqhDd3xuNkx8xGADEGe0CNFORx0CcgNcLm9VLbwzZZ/FeucwR4nHZzALbH/zskv8R/irUYY6jAlcixKhoraE=;cujaokjUY9CYs3BhqoIw1A=="
+secured: "mYC8nExsvc7GHBtwxc04AkOIGbBnndtWHMFkkJv/sO4D3VTreK94l14l+JB0U0kaRlS3fWj4fM/AZuxBc6cm7H64I0coFgHSA9tBG+heGV0erhlDeWx0Apyincp+b9jnI/v8/iPxwmYQMDFMKcwZmduSpyForCuD1Jz5d+vZygsSyz+xBYVq23eZ2tNwewcO6m5gt/bUrBOUyunLHZyvZryvrhT2ytpNqg97IQB3+fNWBxVacPkfpKmzTjGdkUoyhfv186+ar7bILZ7vJBvzu1zqEREbt7OpG1dOOSzilnPS3O7Nf4+nDWcaRAo3cBwj8/+/+iPNO8MPETBTANSwQRYtMGz/EQKV7HiyXyh8Vyg=;WJXTK80Vi3XJ/aYnxflhUw=="
 ---
 

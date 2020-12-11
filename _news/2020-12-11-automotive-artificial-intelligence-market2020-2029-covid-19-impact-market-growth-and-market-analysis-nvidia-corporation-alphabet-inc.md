@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automotive-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market2020-2029-covid-19-impact-market-growth-and-market-analysis-nvidia-corporation-alphabet-inc-2020-12-10"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026"
+    excerpt: "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak"
+    publishedDateTime: 2020-12-11T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aebBk3Wh+Ut/Pb65X79qRrgFcMOXmZm7c4E2ZMyNtpS8z1FFL3cl7DWFti/3+pDB4ZlRnRQHM78FjZAkyHZ0BmsVwCTO8UZUMLdsxLS8abYoFaSYEqanvXRTtltz6OZxjUC5lCjws+SL8qxUAPkbgwULDz6Nhl3Y82ojEed/8JZ4vOjcksvX0N+KGN86CVaBCbNk7jX3GP1YSoqt9oRbv2JQIGauA2PupcUwYzqZh/2imNgyV+Gt1ErwIoxOTaz/WcfrR50hYnkUvSs3AdaqnhVPvWJcSR/xG57qWYsXravUX2/MP5CYwLKRPcTnOpVnaqqPaDeu+wo390mXVFjSgImfBCK4Et57BYUdtU+C7GM=;BX0g4VIJlKOh58CgAAsaIQ=="
 ---
