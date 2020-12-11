@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
+      "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
+      "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
+      "originalUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
+      "publishedDateTime": "2020-12-03T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-top-ai-ethics-researcher-says-google-fired-her-company-denies-it.md",
+      "title": "Top AI ethics researcher says Google fired her; company denies it",
+      "excerpt": "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
+      "originalUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543399867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Z5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28D3JP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP",
+      "publishedDateTime": "2020-12-03T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-aws-panorama-bringing-computer-vision-to-business-masses.md",
       "title": "AWS Panorama — bringing computer vision to business masses?",
       "excerpt": "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to",
@@ -1124,101 +1228,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-driverless-robotaxis-hit-the-streets-of-chinese-city.md",
-      "title": "Driverless robotaxis hit the streets of Chinese city",
-      "excerpt": "AutoX, a Chinese autonomous vehicle company backed by e-commerce giant Alibaba Group Holding, says it has put driverless robotaxis on the streets of downtown Shenzhen. According to the company, this is the first time in that nation's history an AV fleet has been deployed without safety drivers or remote operators providing backup.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/chinas-first-ever-driverless-self-driving-cars-deployed-on-streets-by-autox/",
-      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/driverless-robotaxis-hit-streets-chinese-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2020/12/autox-nevs.png",
-          "width": 730,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology.md",
-      "title": "Voiceitt, Amazon Announce Collaboration Between Alexa And ‘Superpower’ Speech Technology",
-      "excerpt": "Amazon and speech recognition startup Voiceitt on Thursday announced a collaboration that aims to make Alexa more accessible to people with atypical speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc84bcc28586542449985ff%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/amp/",
-      "publishedDateTime": "2020-12-03T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

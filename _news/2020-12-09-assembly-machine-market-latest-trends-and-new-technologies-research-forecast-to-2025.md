@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning trends in 2021: Top trending machine learning technologies to drive AI/ML market in 2021"
-    excerpt: "Machine learning is going to revolutionized the industries in the coming years, in 2020 we have seen tremendous growth in the Machine learning and AI technologies. In 2021 machine learning will drive many business including medicine,"
-    publishedDateTime: 2020-12-08T18:03:00Z
-    webUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html"
+  - title: "Artificial Intelligence-based Security Market 2020 Disclosing Latest Trends and Advancement Outlook 2021"
+    excerpt: "Click here to get the latest sample PDF copy of updated research 2020 before purchase  Top Companies in the Global Artificial Intelligence-based Security Market are Nvidia Corporation, Intel Corporation,"
+    publishedDateTime: 2020-12-09T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021-2020-12-09-6197241"
     type: article
     provider:
-      name: Newstrack India
-      domain: newstrackindia.com
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg"
-        width: 400
-        height: 265
-        isCached: true
-  - title: "10 Fascinating Healthcare Technology Trends for 2021"
-    excerpt: "Technology advancement in the healthcare industry is molding the world to a better future. Advancements, for example, AR/VR, Artificial Intelligence, Robotics, 3D printing, and Nanotechnology are reforming the operations of healthcare companies."
-    publishedDateTime: 2020-12-10T06:20:00Z
-    webUrl: "https://www.analyticsinsight.net/10-fascinating-healthcare-technology-trends-for-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/healthcare_future.jpg"
-        width: 2185
-        height: 1234
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Z/f+esHldRNtCYC+clcJTnUfu7GOngTfMET0lC72RvbSbwGkkVvJwmB99fthmf8dt9TKjzfegEhbnva4t20CZmkOuPk17D6BwNI0eM5mZc3LAoNVQzDboubPxMxnpiscJNFKuEFL6m7J9MbN8AyuUKjhyy1kYnztfUDdmj0AAyez/f4vEsi5SAhXHdtAjllb1tFSFPVnaA5bJu7tJA1T9idgb6F2x6dGpG8LDAk5T0aYajfmLeMKWQwu02BPkTLzv990xVQ+WaiLe9EVkVtoNvCli6l73UvNC8YFa9ZqEcr61cvrP8NX/+iygPKVUajmefE9T25SkRaon7NhI6Mda3npwsD63kiRiaOYVf1b+bY=;H0f2p+XDp+o6fEPZNbB2bQ=="

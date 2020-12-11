@@ -2,6 +2,108 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-30-qa-with-zeta-global-president-of-data-cloud-on-ai-and-consumer-scoring.md",
+      "title": "Q&A with Zeta Global President of Data Cloud on AI and consumer scoring",
+      "excerpt": "Insider Intelligence spoke to Neej Gore, EVP and President of Data Cloud at Zeta Global about using AI for predictive modeling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/interview-with-zeta-global-evp-and-president-of-data-cloud-2020-11",
+      "originalUrl": "https://www.businessinsider.com/interview-with-zeta-global-evp-and-president-of-data-cloud-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc4fa9a50e71a0011557e89?width=1200&format=jpeg",
+          "width": 931,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-how-ai-is-influencing-the-evolution-of-the-telecommunications-industry.md",
+      "title": "How AI Is Influencing The Evolution Of The Telecommunications Industry",
+      "excerpt": "AI has helped the telecom sector redefine customer experience, bringing forth new opportunities but also complicating business models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb432b0c5dac00077006bd%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
+      "publishedDateTime": "2020-11-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-is-the-pandemic-spurring-a-robot-revolution.md",
       "title": "Is the Pandemic Spurring a Robot Revolution?",
       "excerpt": "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic.",
@@ -309,7 +411,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -1045,110 +1148,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-geek-of-the-week-vulcans-w-andre-perkins-uses-machine-learning-to-help-predict-climate-change.md",
-      "title": "Geek of the Week: Vulcan’s W. Andre Perkins uses machine learning to help predict climate change",
-      "excerpt": "Perkins, GeekWire’s latest Geek of the Week, is now among the well versed, as a machine learning scientist for Vulcan Inc.’s Climate Modeling team. He started the job with the late Paul Allen’s company just over a year ago, after receiving his PhD in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/w-andre-perkins/",
-      "originalUrl": "https://www.geekwire.com/2020/w-andre-perkins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/wandreperkins-630x515.jpg",
-          "width": 630,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/w-andre-perkins/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/w-andre-perkins/amp/",
-      "publishedDateTime": "2020-11-28T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-aides-ties-to-firms-present-biden-with-early-ethics-test.md",
-      "title": "Aides’ Ties to Firms Present Biden With Early Ethics Test",
-      "excerpt": "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
-      "publishedDateTime": "2020-11-28T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

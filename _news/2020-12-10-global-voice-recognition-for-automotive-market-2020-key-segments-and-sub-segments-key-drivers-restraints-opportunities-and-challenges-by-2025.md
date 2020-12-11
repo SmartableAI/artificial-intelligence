@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
-    excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
-    publishedDateTime: 2020-12-10T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
   - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
     excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
     publishedDateTime: 2020-12-10T08:56:00Z

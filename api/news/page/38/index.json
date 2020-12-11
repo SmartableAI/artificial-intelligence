@@ -2,6 +2,111 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
+      "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
+      "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg",
+          "width": 800,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T12:42:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology.md",
+      "title": "Sonos Takes A Step Forward In Internet Radio With SuperHiFi’s AI Technology",
+      "excerpt": "Sonos launched a paid subscription Internet radio service today. It uses AI-based technology from a startup called SuperHiFi that creates lavishly-produced programming automatically and in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad838635844ab493ce3cd6%2F0x0.jpg",
+          "width": 1199,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/amp/",
+      "publishedDateTime": "2020-11-12T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-waymo-throws-shade-at-tesla-and-elon-musk-over-self-driving-comments.md",
       "title": "Waymo throws shade at Tesla and Elon Musk over self-driving comments",
       "excerpt": "Waymo is throwing shade at Tesla and Elon Musk over comments that the latter has made about the usefulness of the former’s self-driving technology. There are dozens of high-profile companies working on solving self-driving and just as many different approaches,",
@@ -1143,101 +1248,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft.md",
-      "title": "How YOOX NET-A-PORTER Is Using Artificial Intelligence To Revive Artisan Craft",
-      "excerpt": "PORTER team worked with The Prince via The Prince’s Foundation to create a unique year-long apprenticeship to cultivate the next generation of luxury fashion artisans, informed and guided by customer shopping data and AI analysis of millions of images of historically",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
-      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad257d47fbda414135cd72%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D0%26cropY2%3D1152",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
-      "publishedDateTime": "2020-11-12T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
-      "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
-      "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
-      "publishedDateTime": "2020-11-12T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-o
 webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 576
         height: 357
         isCached: true
-  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
-    publishedDateTime: 2020-12-08T04:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "Cy2OXjY+u5g+aIenCjm2owFPw+rg8esciw2lhV0nkNngYyH2OZzXAsx6MDEuOoAQUKydHV4QoykcHZf/X6GSBVAwAVOG8uMxdDjAHwZOY8pDYthpR3ARe9/y1En9TSQ01/KEPvPM5wzs+r3KT5wPcKEl6+k9YYRk2ybA5WPwhW94eav8h3ymEh4QQbT+DELUDRa2E5xtKL3GhCKHCrRYg4WqcMnh9xlDm/pSuzrQfSeCK0LgHlTtvSiRjrNa2Smjmm628iHF1KVtzj7O0tBQqxFpVshFYuZbVFEbU2ehXJfXtHOO0foLNXUowNnDuqD28vr6VxElmlSH1rmDBMXe1LxUyzLBJD8Xzbqq5XrnYDg=;FcHopyGsc6W0GBMjiCrrqQ=="
 ---

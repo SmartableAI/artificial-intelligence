@@ -1,26 +1,28 @@
 ---
 category: news
 title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
-publishedDateTime: 2020-12-09T14:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
+excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
+publishedDateTime: 2020-12-09T12:46:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
 type: article
-quality: 33
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
+    width: 1262
+    height: 660
+    isCached: true
 
 related:
   - title: "Moraine Valley Grad's Written Work Receives National Recognition"
@@ -38,6 +40,20 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/44719/20201210/011135/styles/patch_image/public/shutterstock-243374959___10011018659.jpg?width=984"
         width: 701
         height: 526
+        isCached: true
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021, according to an annual survey produced by Newsweek magazine. The national news publication recognized 400 skilled nursing facilities out of more than 10,"
+    publishedDateTime: 2020-12-09T10:30:00Z
+    webUrl: "https://urbanmilwaukee.com/pressrelease/covid-19-action-plan-earns-luther-manor-national-recognition/"
+    type: article
+    provider:
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 24
+    images:
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2018/02/Art-Keup-CFO.jpg"
+        width: 703
+        height: 469
         isCached: true
   - title: "COVID-19 action plan earns Luther Manor national recognition"
     excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
@@ -65,6 +81,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "HOo/x1UErnL5/3kQZvECsomTEZ27C3KyJpU6oE1WcJnu9+E9gIBk/wdvhDAQ5njzuB4v/YNV+6XNhNaFfRVoupDJC9rF3jd7545n2n56udRXudgZJ8QmRzQAfJT0I8ictjVfofv1Q+TkIyN7sMUhcYxEIc13p7d1V/n1lI0njeA9kAcN7lHn3m9EdoNs/3iUqhRVxJ3RFHrf3okkDLQz4KKWiNbz1/WHLl++/rUcbX4HnrcRqN7KqosNNHlRHYUrAwZxS08Wom41TnPfdOHkygmAKBUi08Qk2DjERYAbR0ym3JsxAcXen9TVyq+xox51MwbPwdwB90dgopbs6ROVPK6f+kDLh9+L46zPBr3oWug=;xFWpQHF/qZeLWl+0gLyq3A=="
+secured: "w9eUPrwp83Hkn75iRx45IL6p91k4lTIPZ676D0CYNTH8p9aAKpaW+Dq3WFLrifgeJOm0D5JDiPeNOdq7ysBFHXD1dniLwwDdTAVGK5Ye/F5/dcgCnfvHXg0HDPdPbwYUMZpv6HCGB9dOMIuwW2OyqCT+gnZuZ4+tpj+SlA5LnJkYBUF7T1CaxZ8EWJn42oa2SusKV/qisTpyJM+qp4aCxrjxFCuRwVkS9UCywHVHDyXN+oLY/vDFeyrdY8dmlfpsA7SoAxkjOsE9UKwz2Xonj6HmzzAmm19QR1u5HK4ElBGjEd0uLEiEeeYNrL/SYoQ1aowNf5R+qOsb5XRth8Ln3t88iIWmBrGfKMIgh7Cjjks=;LkZJJWD3swsTN187FlXO8g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligenc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd21d91d80dc.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Need a COVID Cure? Hail a Robot Revolution"
-    excerpt: "Nuro's Dave Ferguson has a plan for your roads, groceries, COVID concerns and just about everything else, and it starts with robots."
-    publishedDateTime: 2020-12-06T07:58:00Z
-    webUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure-all-ask-a-man-who-makes-robots/408118/"
-    type: article
-    provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
-    images:
-      - url: "https://www.ozyassets.com/ozy-prod/2021/12/gettyimages-1215119616-copy.jpg?width=1200&height=630"
-        width: 800
-        height: 450
         isCached: true
   - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
     excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"

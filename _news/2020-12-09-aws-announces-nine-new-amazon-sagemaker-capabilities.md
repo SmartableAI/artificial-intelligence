@@ -91,6 +91,20 @@ related:
         width: 800
         height: 391
         isCached: true
+  - title: "Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger"
+    excerpt: "At AWS re:Invent 2020, AWS released the profiling functionality for Amazon SageMaker Debugger. In this post, we expand on the importance of profiling deep neural network (DNN) training, review some of the common performance bottlenecks you might encounter, and demonstrate how to use the profiling feature"
+    publishedDateTime: 2020-12-10T23:57:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1883-4.jpg"
+        width: 800
+        height: 359
+        isCached: true
   - title: "Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time"
     excerpt: "Businesses are increasingly using machine learning (ML) to make near-real time decisions, such as placing an ad, assigning a driver, recommending a product, or even dynamically pricing products and services. ML models make predictions given a set of input data known as features, and data scientists easily"
     publishedDateTime: 2020-12-10T22:19:05Z
@@ -157,6 +171,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "RjzfvnLvU4koRl+qQ3WpNlPzZbBUU5v0oRDreO57BbA8J8FBMIyafzjrsNvezfc5+haWiDZM8rIDjYmtBo9NmOjPkc+JCIQhg1DmcwXBvs5QOTLZ0f4WPP+wb39ZhCKbCWP7mPwkiqcvt8q/VrptSSebc8PF7+SG/wiahe9yJAGa/ymn/sStI8DT1m4COABv4y1Ug/D3AibGq+Wuqod0LM6wY7+OSCl458P5s8Wh3esvHFvtGP9XIfeQYzTGPe7SPUTG7Ab6ataoHTDYRHf2LW90JriP4YB5vO8xH3uFHxzwEvtyYseMb3hpB0236jl2FFDVKnfKbJXqmXte2P41ZUD0iAKwOxq1w9v2nEceAec=;1Aexqf6pYNfFdy+moAi/Yg=="
+secured: "gMQBqd3NUfn8vVlU4i2JYIInR61q/XDXZ3lxEOB4zfEiSaPqhnL5vM8LtVWX8SlbtQXkoak7roDIIq/vuI2Ejviq7JKLibXWNw5uloEe7LwrgvprMKDjuH9c1tXRxw6IQ+8naXYQJVPaOBgc0rzeeBfTIAxqkmSJyqtvvOqWrobykYXuzBnq78WqZjz5GmNNOKhUaZsFQurE3MdGiJj07K1zuNTieBmWMSC1u9cReLQa5p068jhTp9QOStu1qf/9xx9kpmYkJoe5py6im4BLtTJ+UYj/WlzJ4qQp8Ipf/8idN8RxFu8ZUyjAoz38Nmeg30rF8zN6swXCrxU52BnTCGTmaJxjcW7Yf+mtmh9932k=;l2XxYHGMSAxIc+nEQLv+Rw=="
 ---
 

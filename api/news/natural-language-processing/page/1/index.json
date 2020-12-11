@@ -99,59 +99,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
-      "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
-      "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back",
-      "originalUrl": "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fd1bc65fd1e340095fd1d46/lede/1607581532554-0001h08jk.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-7-in-demand-tech-skills-to-master-in-2021.md",
       "title": "7 in-demand tech skills to master in 2021",
       "excerpt": "IT pros who have worked with natural language processing, automation, and machine learning operations will have the most job opportunities in the new year.",
@@ -306,52 +253,6 @@
       "topics": [
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-machine-learning-trends-in-2021-top-trending-machine-learning-technologies-to-drive-aiml-market-in-2021.md",
-      "title": "Machine learning trends in 2021: Top trending machine learning technologies to drive AI/ML market in 2021",
-      "excerpt": "Machine learning is going to revolutionized the industries in the coming years, in 2020 we have seen tremendous growth in the Machine learning and AI technologies. In 2021 machine learning will drive many business including medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
-      "originalUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstrack India",
-        "domain": "newstrackindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Autos"
       ]
     },
     {
@@ -1518,6 +1419,111 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029.md",
+      "title": "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029",
+      "excerpt": "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people.md",
+      "title": "Recommended Reading: Using AI to create alarmingly realistic fake people",
+      "excerpt": "Fake personas on the internet are nothing new, but completely fake people that appear to be alarmingly real in photographs or animations are becoming increasingly common. To better understand how easy this process can be,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "originalUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F928edd90-1a6b-11e9-9dad-12cf547e46df&client=amp-blogside-v2&signature=220b66291da6c89be2fc4f03e86d407a461807b3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "publishedDateTime": "2020-11-28T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

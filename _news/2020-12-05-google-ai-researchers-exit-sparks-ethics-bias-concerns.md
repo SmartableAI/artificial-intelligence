@@ -2,28 +2,27 @@
 category: news
 title: "Google AI researcher’s exit sparks ethics, bias concerns"
 excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology."
-publishedDateTime: 2020-12-04T20:58:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-webUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+publishedDateTime: 2020-12-05T10:41:00Z
+originalUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+webUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
+ampWebUrl: "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/"
 type: article
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
-  - Facebook AI
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/12/006987a266a34cd18659ea1a304574fd.jpg?w=1280"
-    width: 1280
-    height: 878
+  - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702"
+    width: 1024
+    height: 702
     isCached: true
 
-secured: "fTj6bVYOfjrLDk1jwYE06qpy/+7WhhGfBWKld4K7wIAUk9muU1pwtrQ5vhsxURHDXoBlR31JZ6iyh31demZGWWqLNaH5StRRXeKzBqCiGGi0Zhg87hgqEga09yFuzoHbXxJG0uDq+MP7qDTpiAgSwswhZZoQ9qns2Afd2mwpq44Otos9jC2vcziND/tf24eeI8VcULGptVo+FRPRCzs5s1KQRt7FvawVeEeSB5EMRXKi1Ui2Vpid3+BF/Orc0gcxoitR+xdwnrAF7r8rXjWq+Jgf28dmW3Kw9QEkgTJsPr8Sp1PR5pLq/qB5bFji/5rQyhR2YktJp6zEQyMx+iq3gbMrsuxHe+0AY4+DAHZh1q8=;XufUIi9F3qPRg3nvRL77yQ=="
+secured: "IBNUemACygvBjmnfbyQPbti1+PiD5E7uzno9snJuSeIsiIc97HWn8DjjmDuNPOfwhHCVzDr96MokBBZbAa+/7U/qbomjjYj/9x4f/93fqRuC5zX4SsFwRHg3QQ+9tJXc80s3OvBYAe4iCSkaT2taM50T4GPmN4xt/WqcQ8Fn5Ejk07L/oGZKdTzwjXy8Z3CwEOfOZvmqr0LYCNpJoCzsW+YptJ1zCmlwie6RJHAMnFDPDZtZoGafjAPeiYEhjF8DCdJGrJcQ5Th0qN+efj9cYbPrHwqDZe1PPd51OFFKqSHZ1RMFtYlHjXj0dmLjcOhtwZyYA8mRQjiHzmFtxvG9anmmhwTxewTztzjqWdG2ktM=;YIZ47gcCkm8I7yCXXx2Tqw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 123
 published: true
 
 provider:

@@ -25,118 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030"
-    excerpt: "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,"
-    publishedDateTime: 2020-12-06T07:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05"
+  - title: "$74.5 Billion Automotive Artificial Intelligence Markets: Machine Learning & Deep Learning, Computer Vision, Natural Language Processing - Global Oppo"
+    excerpt: "The Global Automotive AI Market was valued at USD 2.49 billion in 2019, and is estimated to garner USD 74.5 billion by 2030, at a CAGR of 36.2% during the forecast period, from 2020 to 2030. Artificial Intelligence (AI) is one of the most advancing technologies in computer science."
+    publishedDateTime: 2020-12-10T15:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=390801"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence-based Security Market 2020 Disclosing Latest Trends and Advancement Outlook 2021"
-    excerpt: "Click here to get the latest sample PDF copy of updated research 2020 before purchase  Top Companies in the Global Artificial Intelligence-based Security Market are Nvidia Corporation, Intel Corporation,"
-    publishedDateTime: 2020-12-09T11:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021-2020-12-09-6197241"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) for Security Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Global Artificial Intelligence (AI) for Security Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players, and growth value."
-    publishedDateTime: 2020-12-06T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence of Things (AIoT) Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 07, 2020 (WiredRelease via Comtex) -- Global Artificial Intelligence of Things (AIoT) Market report provides in-depth research, sales estimates, and growth forecast by ..."
-    publishedDateTime: 2020-12-07T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-of-things-aiot-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2020-12-07T13:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
-    excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
-    publishedDateTime: 2020-12-07T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence-based Cybersecurity Market Report, History and Forecast 2030, Breakdown Data by Companies, Key Regions, and End-Users"
-    excerpt: "Global Artificial Intelligence-based Cybersecurity Market report provides in-depth research, sales estimates, and growth forecast by segments, regions and research scope, historical data, key players,"
-    publishedDateTime: 2020-12-07T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-report-history-and-forecast-2030-breakdown-data-by-companies-key-regions-and-end-users-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market Trends, Forecast and Competitive Analysis Report 2021-2024 - ResearchAndMarkets.com"
-    excerpt: "Trends, Forecast and Competitive Analysis” report has been added to ResearchAndMarkets.com’s offering. The global speech and voice recognition market is expected to grow with a CAGR of 20% from 2019 to 2024."
-    publishedDateTime: 2020-12-10T15:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-military-affairs-military-benefits-government-and-politics-military-and-defense-0e869ceea0654dbca4908a647e71604f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 43
 
 secured: "oW7N0FxKrhwMhdvav7V5FEF6rVY3jSH81K4ilrr5MSsdS70baalEoJ6VEJglRqrQgi/WB9k7FkGgzX6AEj0w33bJ3t+L8QjXsc/IIpHHgGCTOz9kqeIf+nYPZB3nSQEuk/PoK9Au54nztdpBSL80d6FQTnDkajyUfYjdrvzz0pnAO66J5oCQiBcrDDzk5lCkRKN9LfZfguI/BnTLTk5thCXrHn8k2DrhrDdWQm7gqLop78TOOmU8iTr3Goh5j6aV6Ij2Cj3hPrXyAPTl7bsB3Vr2aHQhPnuEjyrWdxhChlXWjuFr6dHKqwNTJL9gkE/f3nckpHk/kTuRX2TuS4am9sw2TJdU8xpzGdsxKbWnHpQ=;eGfpvluRm7ezu0I8pAi56g=="
 ---

@@ -73,20 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Need a COVID Cure? Hail a Robot Revolution"
-    excerpt: "Nuro's Dave Ferguson has a plan for your roads, groceries, COVID concerns and just about everything else, and it starts with robots."
-    publishedDateTime: 2020-12-06T07:58:00Z
-    webUrl: "https://www.ozy.com/the-new-and-the-next/in-search-of-a-covid-cure-all-ask-a-man-who-makes-robots/408118/"
-    type: article
-    provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
-    images:
-      - url: "https://www.ozyassets.com/ozy-prod/2021/12/gettyimages-1215119616-copy.jpg?width=1200&height=630"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "GPqhGXYR56tmscZzhakznbQyZZkoNVjWcQHqL2uZbzry7GSq15dPj4fLcEKLn2Bgh14pxdF22ws3vOgSSoOxwYPwKcdidPgv74GAnwJFtM6HUbEiuDyepZXizAPQ2MhhuKFr+wcCgSg3O5KjuBLapuvTz9V+Reh3KgFLG1ORc5ENea39TW9f8aFf8AUDBqoHfV/iYFEJLnL//Z6k+0b++eWZWyjbkdPpcf+jL3WQxLspRW7cAR3OPZ6C/3PICI6mASO5QSm8NEDURZdv7A7fnQzQdy1pb6EHuvdcKZS3/FAKL3Ux4lJK1G6BZcah3Y0qahVsn4oKU4SJYtDtayFHtjdCgd/xb8dqMkeH6SWcUfEgusxtDhTSsz4WWRyKQPI3Mud43+jzZSHoRejfS12EuwxTSRZGIbYzJUUBrGzUAMOUsoLRpIDDvo5qMfG62OQQm+VAQt48mcObZHqJ3Y4RFfuPMkutG3nMEvwudN4sJ4CLDrfVdJ1RL+EgLCJAbZJT7pqr7uoB3fID3XmSs3tNQg==;zPuyA8ZoRyifPeJz/qqFeA=="
 ---

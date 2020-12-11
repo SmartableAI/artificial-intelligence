@@ -41,20 +41,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "IISc researchers working on COVID-19 detection using Raman spectroscopy, artificial intelligence"
-    excerpt: "Raman Spectroscopy is a non-destructive chemical analysis technique which provides detailed information about chemical structure, phase and polymorphy, crystallinity and molecular interactions Researchers at the Indian Institute of Science (IISc),"
-    publishedDateTime: 2020-12-06T07:53:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/iisc-researchers-working-on-covid-19-detection-using-raman-spectroscopy-artificial-intelligence-180725"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/12/2020_12$largeimg_1731193227.jpg"
-        width: 900
-        height: 499
-        isCached: true
 
 secured: "lhOxUFse4U+QS8mPkh8mm/476+57eIeiZk7czRRTk0PxkO0aMrBxbH46+D8GPTwAJh9cX0Jt2yr13vV0IJ3Yyoncm0MNSVyerhmQSV3b4YCy5WDgrK2wHC7h3HjB0XIOYDwY9EOxxY6hUtN29ltkQyqzjm/E/QVsufwLjrJFZbGFifAhm10lDSYe8DBpnWu3pvzrVwtBNyIFEvtgS1QVuqKPrpOpOyO/mbi8ES1pfjg5cCsnsWMb0zrbjNvQZec+RBw+kkFqOixWl0hcxqpc9NGK87Lmcv991cdRBfVN0R6QoMgKPtBhLN3VkOieAg5fTlL6u+Udjwtebr3scJ7TyiJTAj4gcVQ6cApaFP5y2TE=;QVNI/8iYZeTa+NWYMDwV7w=="
 ---

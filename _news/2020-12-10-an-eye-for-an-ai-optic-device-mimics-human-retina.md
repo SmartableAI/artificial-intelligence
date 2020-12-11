@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimi
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 91
 published: true
 
 provider:

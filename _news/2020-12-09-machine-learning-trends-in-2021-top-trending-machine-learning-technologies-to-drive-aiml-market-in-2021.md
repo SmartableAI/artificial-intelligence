@@ -7,8 +7,8 @@ originalUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-lea
 webUrl: "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Newstrack India
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Assembly Machine Market latest Trends and New Technologies Research Forecast to 2025"
-    excerpt: "Assembly Machine Market Trends covers the companies' data including Growth potential analysis, Industry segmentation, Business trends, Growth drivers, Price trend analysis. The Report also Gives Detail Analysis on Market concern Like Assembly Machine Market share,"
-    publishedDateTime: 2020-12-09T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/assembly-machine-market-latest-trends-and-new-technologies-research-forecast-to-2025-2020-12-09?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "10 Fascinating Healthcare Technology Trends for 2021"
     excerpt: "Technology advancement in the healthcare industry is molding the world to a better future. Advancements, for example, AR/VR, Artificial Intelligence, Robotics, 3D printing, and Nanotechnology are reforming the operations of healthcare companies."
     publishedDateTime: 2020-12-10T06:20:00Z

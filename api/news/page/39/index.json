@@ -2,6 +2,101 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-11-12-how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft.md",
+      "title": "How YOOX NET-A-PORTER Is Using Artificial Intelligence To Revive Artisan Craft",
+      "excerpt": "PORTER team worked with The Prince via The Prince’s Foundation to create a unique year-long apprenticeship to cultivate the next generation of luxury fashion artisans, informed and guided by customer shopping data and AI analysis of millions of images of historically",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
+      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad257d47fbda414135cd72%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D0%26cropY2%3D1152",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
+      "publishedDateTime": "2020-11-12T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
+      "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
+      "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "publishedDateTime": "2020-11-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-the-web-is-full-of-junk-health-info-this-startup-wants-to-change-that.md",
       "title": "The web is full of junk health info. This startup wants to change that",
       "excerpt": "an AI-based online platform that collects crowdsourced data about a host of chronic conditions. The idea being that, unlike Facebook groups or Reddit threads, the information shared by patients is ...",
@@ -1073,101 +1168,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-search-results-for-self-driving-vehicle.md",
-      "title": "Search Results For: self driving vehicle",
-      "excerpt": "Artificial Intelligence (AI) and autonomous driving have been developing at breakneck speeds, and that trend will only continue in the near future. Following in this trend, UK-based Imagination ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/search?s=self driving vehicle",
-      "originalUrl": "https://hothardware.com/search?s=self driving vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hothardware.com/hothardware-og-256.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-apples-macbook-air-with-m1-chip-everything-you-need-to-know.md",
-      "title": "Apple's MacBook Air with M1 chip: Everything you need to know",
-      "excerpt": "Get all the specs, new features, pricing, and availability details for Apple's first M1-powered MacBook Air laptop, and find out how it compares to the previously released Intel-based models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
-      "originalUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/5f6122c0-311c-4a3f-bd1b-72f3b13d6df0/resize/1200x/7de716bd6a27732001c743db1c50dcdd/macbook-air-with-m1-features.jpg",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
-      "publishedDateTime": "2020-11-11T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

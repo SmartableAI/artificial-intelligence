@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18734687"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18734687"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -22,19 +22,14 @@ topics:
 
 related:
   - title: "LabTwin, the First Voice-Powered Smart Assistant for Scientists, Achieves ISO 27001 Certification"
-    excerpt: "PRNewswire/ -- LabTwin, creator of the world's first voice-powered smart assistant for scientists, today announced the company has achieved ISO/IEC"
+    excerpt: "PRNewswire/ -- LabTwin, creator of the world's first voice-powered smart assistant for scientists, today announced the company has achieved ISO/IEC 27001:2017 and ISO/IEC 27017:2015 certification. Thi"
     publishedDateTime: 2020-12-10T15:07:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification-301190551.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification/article_3a373eb6-185e-535a-94ee-7f9874e0cf09.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1191511/LabTwin_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "5+AD4X6bJolviYWC2V+k2VRAQ3GeP5f+Qib45kXXL6B5fUmcfxqCfYY7MWex+YRn2EGSIcXDPUj8w40Mlj5v4FukQ+lp1nMj7IscQQ4/qAUef3uUp2FE1ygCX77eKZa2Lb3Lg44uY4igI05DuT270YmsdCcNeAjdDxUYRyplbf1gWAYLrENJ4NlIySWQ4iszSAgKg5mPapttykK1c+6/S38DXm+mGNWyDoyrmYtwNT/9ogdy2wbvgQXhIMeEMSsh7pfF1xO1Lo/o2ejNZiXuUZXvTHcBCIZSr4y25FG1ojbDxnMgEBNqGvNDA5hRGbXkGcWWTpz2al7Rtnax2c6JwI10jWVpxUOLg4wAW44qZbE=;sgUYV5JctDbOqdOFBkhwMQ=="
 ---

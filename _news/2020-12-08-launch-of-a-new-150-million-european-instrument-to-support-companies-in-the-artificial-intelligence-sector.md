@@ -36,15 +36,18 @@ related:
     quality: 34
   - title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
-    publishedDateTime: 2020-12-10T00:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18724021/outlook-on-the-computer-vision-european-market-to-2026-industry-analysis-and-forecast"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18724021"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18724021"
+    publishedDateTime: 2020-12-09T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 31
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "zIrVDcRbV+v+q9kYtu0UZk9G4G1vu8M//nnBzyz0nFBc6m84lhITX4o1BG/UKAOwuFqhQEei1s2GrsPw/1DVdJk5TjxBW81LVg1QvPLegC/+Aua3fkQCsnxsqO6mOPFdduzQKvDCqxywPqureSki8HxrMa+pRZiRQYrJpg2IrI1NLoGkSVFcX+6Uu1tFEqpZgyp1ct1i/SZJXHXsxhS94fgYLpALI8VKLDlqzS0OkwVeT3wm5z1ghAeeRuhUUIkbqIDcXOlTLto8BvofgHBtuiTqO65PFx5KZtOs65/kOnPIrKmfTPP1F9hnc3wsvgJ563QZ6fWQQSd8rnsPW8qp0YcO9sTz8FF/VuZZz8C4As8=;2r+NsUaSJ9JsSgkXtaeX0A=="
 ---

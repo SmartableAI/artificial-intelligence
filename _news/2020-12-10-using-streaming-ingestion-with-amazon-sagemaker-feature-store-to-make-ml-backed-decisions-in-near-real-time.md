@@ -100,6 +100,20 @@ related:
         width: 800
         height: 391
         isCached: true
+  - title: "Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger"
+    excerpt: "At AWS re:Invent 2020, AWS released the profiling functionality for Amazon SageMaker Debugger. In this post, we expand on the importance of profiling deep neural network (DNN) training, review some of the common performance bottlenecks you might encounter, and demonstrate how to use the profiling feature"
+    publishedDateTime: 2020-12-10T23:57:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1883-4.jpg"
+        width: 800
+        height: 359
+        isCached: true
   - title: "Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger"
     excerpt: "Machine learning (ML) has shown great promise across domains such as predictive analysis, speech processing, image recognition, recommendation systems, bioinformatics, and more. Training ML models is a time- and compute-intensive process, requiring multiple training runs with different hyperparameters"
     publishedDateTime: 2020-12-09T19:40:00Z

@@ -39,20 +39,6 @@ related:
         width: 400
         height: 265
         isCached: true
-  - title: "Assembly Machine Market latest Trends and New Technologies Research Forecast to 2025"
-    excerpt: "Assembly Machine Market Trends covers the companies' data including Growth potential analysis, Industry segmentation, Business trends, Growth drivers, Price trend analysis. The Report also Gives Detail Analysis on Market concern Like Assembly Machine Market share,"
-    publishedDateTime: 2020-12-09T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/assembly-machine-market-latest-trends-and-new-technologies-research-forecast-to-2025-2020-12-09?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "C1Mg5jf1wjiHWaESaLP0HRiVS33iyBKlc1l+NAws0EvxDtw31ELs7Sz48+3C1UwwYLw26mA7jMtWHnQyZZkAppGmV4APoJYFOnaJuMzx1ZAVxXv7r30542e8449he7vYgBFoWL4sFUh6bWgfNii6dvGe/x9kMtICGcbMSW1A95ok0l5ndR2SfmgfHqb9bA7mxIUUE8DGWnHfJODqzQf45dKmTzlY5TX2I31C7qEecpOgphel9aS5FpQGBv2lM+lkdT22UrdpEY7War+zQMeoWdIUHog3km2ny0jyjMJfrusaOG9SncnR8voPG/2WO2oqlOISEK0V1ec/xAmSkN0WbVzkIQ6u6GFrsEquzznTXU4=;JY6YD44b66K8qhqDw2ogOw=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -522,21 +522,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations.md",
-      "title": "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations",
-      "excerpt": "Amazon Web Services and ViacomCBS have announced a strategic partnership that will see AWS become the cloud provider for ViacomCBS’ global broadcast media operations. This deal will see the migration of ViacomCBS’ 425 linear TV channels and 40 global data and media centers to the AWS cloud.",
+      "path": "_news/2020-12-08-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
+      "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
+      "excerpt": "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "originalUrl": "https://www.tvtechnology.com/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/otUuP58TKN4bPkNUZ7urJ3-1200-80.jpg",
-          "width": 434,
-          "height": 244,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -544,14 +544,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/viacomcbs-taps-aws-as-cloud-provider-for-broadcast-operations",
-      "publishedDateTime": "2020-12-08T08:17:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T07:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -625,7 +634,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

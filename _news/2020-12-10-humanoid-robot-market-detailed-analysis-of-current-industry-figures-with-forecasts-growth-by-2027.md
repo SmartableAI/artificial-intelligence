@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-de
 webUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
+    excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
+    publishedDateTime: 2020-12-07T16:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Surgical Robots Market Report, Size, Future Growth, Demand, Trends and Top Players Analysis Forecast to 2025"
     excerpt: "According to the latest research report by IMARC Group, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025”, the global surgical robots market is currently witnessing strong growth."
     publishedDateTime: 2020-12-09T14:15:00Z

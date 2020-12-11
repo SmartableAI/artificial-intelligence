@@ -297,52 +297,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-machine-learning-trends-in-2021-top-trending-machine-learning-technologies-to-drive-aiml-market-in-2021.md",
-      "title": "Machine learning trends in 2021: Top trending machine learning technologies to drive AI/ML market in 2021",
-      "excerpt": "Machine learning is going to revolutionized the industries in the coming years, in 2020 we have seen tremendous growth in the Machine learning and AI technologies. In 2021 machine learning will drive many business including medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
-      "originalUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstrack India",
-        "domain": "newstrackindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-12-08-baidu-apollo-gets-green-light-for-fully-driverless-road-tests-in-beijing.md",
       "title": "Baidu Apollo gets green light for fully driverless road tests in Beijing",
       "excerpt": "AutoX announced the roll out a fleet of autonomous RoboTaxis in downtown Shenzhen, representing the first time such vehicles have been deployed in China without safety drivers or remote operators.",
@@ -651,8 +605,8 @@
       "title": "3 Popular Robinhood Stocks That I'll Likely Never Sell",
       "excerpt": "E-commerce, the migration to the cloud, artificial intelligence, streaming TV ... In particular, I think that Waymo, the company's self-driving car subsidiary, will be a major success story ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04",
-      "originalUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04",
+      "webUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501",
+      "originalUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -662,7 +616,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp",
-      "publishedDateTime": "2020-12-04T03:19:00-08:00",
+      "publishedDateTime": "2020-12-04T03:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -830,19 +784,19 @@
     {
       "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
       "title": "Self-driving robotaxis are taking off in China",
-      "excerpt": "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality.",
+      "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ...",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
-      "originalUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
+      "webUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
+      "originalUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -850,23 +804,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
-      "publishedDateTime": "2020-12-02T22:43:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T00:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1413,6 +1358,40 @@
         "Machine Learning",
         "AI in Autos",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles.md",
+      "title": "Volvo Designs Driving Simulator Using Video Game Engine To Train Autonomous Vehicles",
+      "excerpt": "More autonomous vehicle researchers and engineers are turning to video games to enhance the performance and reliability of autonomous vehicles. According to TNW, Volvo has begun to utilize video games to assist in the development of autonomous vehicles and the AI algorithms that will drive them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
+      "originalUrl": "https://www.unite.ai/volvo-designs-driving-simulator-using-video-game-engine-to-train-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

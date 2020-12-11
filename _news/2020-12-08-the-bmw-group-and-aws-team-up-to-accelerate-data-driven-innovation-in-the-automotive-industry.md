@@ -29,18 +29,13 @@ images:
 related:
   - title: "AWS and Arm Demonstrate Production-Scale Electronic Design Automation in the Cloud"
     excerpt: "(NASDAQ: AMZN), announced that Arm, a global leader in semiconductor design and silicon intellectual property development and licensing, will leverage AWS for its cloud use, including the vast majority of its electronic design automation (EDA) workloads."
-    publishedDateTime: 2020-12-10T14:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-6c6a3a905b99431b93018c3c6ea45012"
+    publishedDateTime: 2020-12-10T09:38:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201210005232/aws-and-arm-demonstrate-production-scale-electronic-design-automation-in-the-cloud"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 13
 
 secured: "IyCFScyycP5QyKbEGDZfnZZ0+03igT7hT1+MQgrmWxQ3cKikxeMOH8bEBOfRVbjY/aXWBGyjFdP07wUYnr/x/ufKYpNGGVhbFwgeX+D7cqs/XM9A0DMUCklVeoEysYd+/rqiwXlGRZZ+CRrnO/BDH105jLBNNVSMMtwWqurODwQwf5y8GjjEKCMdcr6UVc0OHg1imnjRJWlbMOX1NaKcwIcDZY+gwVsoMvuHwDKrfcEAzrObyLQzeDCoT0sLg8P/WmZSlVr0hof2EaMRSJmRdPCkhYaaMIvLQBF/5e3sLPN9OpjoYLKwjHrGqlUhUN3U2QCV5Nc8Y2xj2y6MxOhmLKTEi1imaCvSvfObXPYcdvK/dA5KE2HknFK1RKK/hbGi+T6UPbmSw9lBjZ/14DsBDG0DQbMEQNGUWLXgsfxsGArkqpIRuvhV5BlhocHor/egXrlk28IKBt0rXhHvm7apmOfoa/4o1A6tsQhbjyf+ocAxBdIp/RDV+9VAg6Xck1CbftIaaB6C70YgLgyqcZjRLQ==;dWQLQd09tIeJbX1QobAt/w=="
 ---

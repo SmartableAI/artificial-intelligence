@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-pr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "City Council to ban sale of facial recognition data by businesses"
-    excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
-    publishedDateTime: 2020-12-10T19:44:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/city-council-ban-sale-facial-recognition-data-businesses"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 41
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "ancnzyXJKyXZnkKAeft9SDP519T50Dz1KUwbHJDXLX6RSF0+I2p+eMc7f6nc/rFzxaYZ0sIy8IZm3Rv8x7FosDYKz2l7H2zUfgg7eoY8zjhlJy6FyECBSfeipocq4nmK/CmfZUvKzkgexf8Kaa3LG/SpMya3dNF2vEMaRCZxOPHCynsEm1513l5rk2OVI65h7KkXw716RnVtDYbaChM5WePMg1IX036lDam9QM54FGw++o1tQuI+5rcgQVO7T/iZulUaPWoFe118+9liyaRc17CwxCHiKe5SFMkoxf5duhBdxurQSEnz0HO0LuxCvaBpDxetC+QSsAmTa599UtwWFZsrDh7h+voFNUBj0pkBqfM=;TDG4c2WSAW1TMuK6thsaHw=="
+secured: "U37RZEio1+JTef9F6hZFHYaxNtJlsi8BvWuQKElUaAhNV0isWEagDcKkHIN7NSjcTmECYQIIMUg9RlLD9iR8qS11jxhdgtJoSE6fuJ3JIkMvlfn/RKKe1tLzcpWA83HqxyVVatWS4WB31mVgswLfVgpmtoqpBXsz6YESy8Fefd1VhTKtNvB/1NuNKb/FtoEOX3KQ6pXhYsfBlVTuj0dMrT1hvSlUK/NUM/jULwdUz+l3nwmfBPkyz/isQKB2ZRPhmPq8917xN6PWo6KtV5Qpf3QcY0818OlEE49u85DdQLk5ayJaHM6V9TmU9OpvT5gmAY5w9YKRo3cMWTLC2XNcnYMiwkkjSgY25vvBcAscyf0BN7EKbwFRU8TIty4tp/3a22EIXWGpBaoNduIeuwu7zqFWtQVC2lnmg5/9oTsz7LybLjjdMrQHC/KvIzR1muZb54Tdjog+K2J2lcjXP5fwSjF5NmJKahIDEk3u0b1ADgFqMzIR7p9+FBV1jP3mfzZlzPEGxpdu4d6DL/kx7//m5Q==;iF75E6etb1VnfRcu0HNDdA=="
 ---
 

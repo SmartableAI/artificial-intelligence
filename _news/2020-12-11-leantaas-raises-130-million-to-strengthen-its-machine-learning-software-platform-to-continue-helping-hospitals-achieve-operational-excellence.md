@@ -1,23 +1,23 @@
 ---
 category: news
 title: "LeanTaaS Raises $130 Million to Strengthen Its Machine Learning Software Platform to Continue Helping Hospitals Achieve Operational Excellence"
-excerpt: "Insight Partners led the Series D funding round with participation from Goldman Sachs LeanTaaS, Inc., a Silicon Valley software innovator that increases patient access and transforms operational performance for healthcare providers,"
-publishedDateTime: 2020-12-10T16:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201210005159/leantaas-raises-130-million-to-strengthen-its-machine-learning-software-platform-to-continue-helping-hospitals-achieve-operational-excellence"
-webUrl: "https://www.morningstar.com/news/business-wire/20201210005159/leantaas-raises-130-million-to-strengthen-its-machine-learning-software-platform-to-continue-helping-hospitals-achieve-operational-excellence"
+excerpt: "LeanTaaS has announced a $130 million Series D funding round led by Insight Partners with participation from Goldman Sachs."
+publishedDateTime: 2020-12-10T20:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201210005159/en/LeanTaaS-Raises-130-Million-to-Strengthen-Its-Machine-Learning-Software-Platform-to-Continue-Helping-Hospitals-Achieve-Operational-Excellence"
+webUrl: "https://www.businesswire.com/news/home/20201210005159/en/LeanTaaS-Raises-130-Million-to-Strengthen-Its-Machine-Learning-Software-Platform-to-Continue-Helping-Hospitals-Achieve-Operational-Excellence"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "u3//riKaivLZyy+PL7CZED3qoM/ratsN5UWqOEbFnbnGdk7SMkm50TM3pb1Fns9CtktLxp5Dg+EuLaSuOFJHJ+jWC2vV9NMwzJ49L5MVNVHVDsj/cUz0ZxOXj8Uw17GWiHhAlHZaE0jes9UV6PN1VdBW7sGgQluig1jxUdmhcx434fDMGTif9CanSlpjcAkZHy8jz0OADE8Zd45i8l3Qp+etFtrPMC+EBzFQT9jPFemRMGRMjR5V+C6X52OrUKlIIUgcZMwK0ZAFtcL4wavPGkhD4CPQPr0NFsSpVD4YNYtR9TV3pwQl2Of/rmbr3jSQsPgvfgNONSwpz7xuKaT53PY9qDD35eLKmipXCjbSN9U=;SLiZNRp8oLz1NJmZ55YF/A=="
+secured: "jzZy4VxFl2YiWaIEn3kCa6BDDNw8XA0zVNvK0yaIoDRvV5oa7Ft6td8Ynh/B6Hi7xtx31XDJE6VxKHsJv5pC1oUbV18Q+NZjm9kAgWbpCXRfXay3dyUEuPbohVwd6e61xRE8rsiCiGp3SO239DaFA3E6NS9y9+ADiYhy4M8YjIAr278cBOxQQL0qogI0v0B9ci/uQ9zPznTU+urSH9i1H0evup7MaatWUy210es6mFI6OHQyKoUXU3PG3q1NZwHFlDSIrklpYklRcUS9dDTvIPY85gKgGcgxHL+LXREdQw2pPtEUdnegbpBJ5gQtSa27vrFPAbRCxmjsNhiZBBtEPZn+3wOgv1g46l42CaF7b1w=;V1Ge9yMI3p1V0WCboLOiGg=="
 ---
 

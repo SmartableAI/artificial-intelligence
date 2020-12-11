@@ -1,0 +1,48 @@
+---
+category: news
+title: "Top events in India's online gaming sector in 2020; Lessons from building an AI startup"
+excerpt: "India’s online gaming sector gained tremendously from the coronavirus lockdown, and continued to grow throughout the year."
+publishedDateTime: 2020-12-11T00:37:00Z
+originalUrl: "https://yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking"
+webUrl: "https://yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking"
+ampWebUrl: "https://yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking/amp"
+type: article
+quality: 49
+heat: 49
+published: false
+
+provider:
+  name: Your Story
+  domain: yourstory.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/online-gaming-1595435856946-1607505784322-1607615611987.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+    width: 800
+    height: 400
+    isCached: true
+
+related:
+  - title: "Entrepreneur Ashwini Asokan on building AI startup Mad Street Den and lessons from her journey"
+    excerpt: "In this episode of 100x Entrepreneur Podcast, Ashwini Asokan, Co-founder and CEO, Mad Street Den, talks about how she built her AI startup."
+    publishedDateTime: 2020-12-10T00:12:00Z
+    webUrl: "https://yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup"
+    ampWebUrl: "https://yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 45
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagejkss-1607521477536.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+
+secured: "r1vxgVMvNzaCuAXvWHjKgAWxHGa9JxzlNMHUeGyI1os8V+9GphnlQder6WJCTno07zF58N7mxraJUN8vb9WxMgfDwy5RBxpy8gS1qFW0btKoejuTKhU9ICgLp7WZYCQQPuE63oUdvcAINZV9efZ6U3YbOh0H54vnLCSaN4QLoh/BNkcGBXzj9BHU3zROV5zvSwc3dEgURu4RHx7hf/zFUlyv73YQALaVx54V3mpdC89xK6jMSYl1nsEq/ImGo8+HBfCwTnUmVweeBIhpzTsxr71isPjuvwQYZoYkDHmtSTqTP5nDcH0EtDzfSP7bKhGeLPVtbqrhQwzlBcQjRxn42wJfRDw/4nQoCNbKvdEifk4=;nchabFgPPAwZoNoVv+xP1w=="
+---
+

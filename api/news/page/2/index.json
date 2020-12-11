@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-uk-ai-start-up-papercup-raises-8m-in-funding.md",
+      "title": "UK AI start-up Papercup raises £8m in funding",
+      "excerpt": "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "originalUrl": "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img3.s3wfg.com/web/img/images_uploaded/1/f/1566895760_amplifier_audiophile_component_2607311.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
+      "publishedDateTime": "2020-12-10T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sharecast",
+        "domain": "sharecast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
+      "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
+      "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izHoFxqvJ0o0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "publishedDateTime": "2020-12-10T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
+      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
+      "excerpt": "Powered by IBM Watson, clients can use it to complete banking transactions and get answers to questions with easeTORONTO, Dec. 10, 2020 With",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg",
+          "width": 400,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-45m-to-scale.md",
+      "title": "Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale",
+      "excerpt": "The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which is why real-time captioning startup Ava",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
+      "originalUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/AvaApp_Meeting0.png?w=1024",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
+      "publishedDateTime": "2020-12-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-an-eye-for-an-ai-optic-device-mimics-human-retina.md",
       "title": "An eye for an AI: Optic device mimics human retina",
       "excerpt": "If our artificial intelligence is able to think like a human brain, why do we feed it data like a normal computer? Scientists are addressing this question by considering the sensory input we human receive and have developed an optical device inspired by the working of the human eye.",
@@ -10,7 +208,7 @@
       "originalUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -53,7 +251,7 @@
       "originalUrl": "https://patch.com/illinois/evergreenpark/moraine-valley-grads-written-work-receives-national-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -96,7 +294,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -187,111 +385,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-facial-recognition-is-running-amok-in-china-the-people-are-pushing-back.md",
-      "title": "Facial Recognition Is Running Amok in China. The People Are Pushing Back.",
-      "excerpt": "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back",
-      "originalUrl": "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fd1bc65fd1e340095fd1d46/lede/1607581532554-0001h08jk.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-why-big-tech-wants-some-facial-recognition-rules.md",
-      "title": "Why Big Tech Wants (Some) Facial Recognition Rules",
-      "excerpt": "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1141,101 +1234,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption.md",
-      "title": "DataRobot raises $50 million more to accelerate enterprise AI adoption",
-      "excerpt": "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
-      "publishedDateTime": "2020-12-09T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-arthurai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool.md",
-      "title": "Arthur.ai snags $15M Series A to grow machine learning monitoring tool",
-      "excerpt": "At a time when more companies are building machine learning models, Arthur.ai wants to help by ensuring the model accuracy doesn’t begin slipping over time, thereby losing its ability to precisely measure what it was supposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/",
-      "originalUrl": "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

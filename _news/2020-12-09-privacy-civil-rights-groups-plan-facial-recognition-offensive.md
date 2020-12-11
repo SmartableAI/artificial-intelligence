@@ -28,22 +28,73 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition toilet paper dispensers in China put on hold as privacy concerns grow"
-    excerpt: "Toilet paper dispensers that were equipped with facial recognition in a public toilet in China’s Dongguan city have been suspended after citizens raised concerns."
-    publishedDateTime: 2020-12-07T06:11:00Z
-    webUrl: "https://www.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    ampWebUrl: "https://amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
+  - title: "Deere's farm version of facial recognition is coming to fields in 2021"
+    excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
+    publishedDateTime: 2020-12-11T00:11:00Z
+    webUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 80
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/07/68a4a102-384d-11eb-9b80-f4f1a4017c77_image_hires_133734.jpg?itok=ExfGxa4B&v=1607319464"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?v=1607525192"
+        width: 4000
+        height: 2667
         isCached: true
+  - title: "Facial Recognition Is Running Amok in China. The People Are Pushing Back."
+    excerpt: "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ..."
+    publishedDateTime: 2020-12-10T06:48:00Z
+    webUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 70
+    images:
+      - url: "https://video-images.vice.com//articles/5fd1bc65fd1e340095fd1d46/lede/1607581532554-0001h08jk.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2020-12-10T06:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "City Council to ban sale of facial recognition data by businesses"
+    excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
+    publishedDateTime: 2020-12-10T19:44:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/city-council-ban-sale-facial-recognition-data-businesses"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 41
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Co-op is using facial recognition tech to scan and track shoppers"
+    excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
+    publishedDateTime: 2020-12-10T06:00:00Z
+    webUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 19
 
 secured: "29gAIEvulpMAIcHQHJJxf7kdiAkFtQLmzkzlOQbb9eLQ+qtfb+6mCioAoZwXpY5+bDYkpA+hQJvq8+yu4hQy6TY3+ZVXyG0l/QXoTiF0A3LnRK2LVe4lrq0KTYCqYNbNl7wvipOBz0Qo8K5jIFWOLZFigDew6M2xpbMoktwkTMRfxG1d8OBalgPjh29QwgnjMgAsgTy3HVyWZ/WjUhreHIFqgCq4CygzPqFofifXnPytXPh3T8JjNBosny7Vr3d5TvXAgdEusgg4gmwRFaJJRmT6MMvlN4F+1zSJspo0W9q2PRHjij/vUpXlFMvzhsGUU2pnBJ4AYuGOOEb0XzRiDp3W+5ziclxsxvYweof1qA8zDrx3jWoreVC5X8vUIJeKErtR248U7t7wVvP2FO6rJGyMWA8jCgYboVNMwH+rHCe0KSQNFhAvHhg9RDbXJPcgyAc/b2cjGZXFfyB/fm5VWMlyIGNLzaCV84iQCaNFugzdq55c8XZOPTxTP1jULHkDvKA2MTuAC42ZuRBkkXNO7g==;3gsaAchu2wHuDs7UAA1mCw=="
 ---

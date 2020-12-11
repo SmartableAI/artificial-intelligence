@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/environment/2020/dec/10/facial-recogniti
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -30,52 +30,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Facial Recognition Is Running Amok in China. The People Are Pushing Back."
-    excerpt: "The convenience is made possible by facial recognition software and cameras ... Lao Dongyan, a Tsinghua University law professor, has been another prominent voice in raising public awareness of potential data breaches. Earlier this year, she sent a ..."
-    publishedDateTime: 2020-12-10T06:48:00Z
-    webUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 70
-    images:
-      - url: "https://video-images.vice.com//articles/5fd1bc65fd1e340095fd1d46/lede/1607581532554-0001h08jk.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
-    excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-    publishedDateTime: 2020-12-10T21:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Chris Lynch: The dangers of police facial recognition software"
-    excerpt: "It has been reported New Zealand police are setting up a multimillion-dollar facial recognition system that could identify people from live streaming CCTV. RNZ reported this could push the country into new territory for tracking citizens. Facial ..."
-    publishedDateTime: 2020-12-09T22:52:00Z
-    webUrl: "https://www.newstalkzb.co.nz/opinion/chris-lynch-the-dangers-of-police-facial-recognition-software/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22974006/facial-recognition-system.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
-        isCached: true
-
-secured: "F9t4JczbrXtaYtEFpFYRLYIoT5GjyrSpC4BgG9Ec9pVSVu1MK+YeSNj3aLLvdXKU+9bEcwn7/F5rRUsBeafXMUMVau+GQdIiErT83u4Lt5RPzkr2MeP5+8Z+tGJUL4uECKQYX4t98/Ma5XwgU2AbDzqcvyO2M9Ev3ZqLIufGmxtWkngB+WGxgIfrPOKbOtzW9zFJeVZVN+H3Kp8I9vDl5Mw+EwNCC63gmtjiBmeAzINVm55XeGUPd1m5dzblDXsJVzcLyfo82/I+tWMgwYFRum6gxsfS53yI2edqmTts/0eqNBreFz3pBk2UBBqgHtkAFFBNFuPJK2myHCX5+wWI3/4gLJhTCgMdvFIss5sf7NE=;ZcWlWl0/V/YwWSJiCzmCdg=="
+secured: "WU/5AKbE0W+tMXRSMNbalmSSU+mW5P2HT2WcjcJ6U429wJAGje9nfIHfMPyd7AhkIc2/KidT9r3zH+Kf7fCLfjrf63Pw6Ue/qGXKA4XTvoDBamMakqheQTiKS3tW709gQXzgcBtAbdSEkP82xNuQGIp+eMZIijodEWAFSfa1foBjPUBSd6NXgpfC6DTdfmS/7h6G/QPCVI/Z+LH+g0aJE/vTPLwRQZoCdFEXBDisfzFwPF/CDIOCbb7kDqoX/DmssIdG7klXUE3JHHGovkR/0EhW7iY/++0Q17IWoVRthSsIYNw28AvoWPImGv4VbdaA4hmfTKBA/0R5oBz/0f6YLeoR6HaJE0Xewixz/ViyfwgYwJB1Uq5rXahl1EpNbSv6W5/fom/pa9GFo3yrg4/AArbcpRucFSw6SOcQEMNSpocdbDhKi9ahLyY9lX5XEqN6vJW7kcp8gd/ur5MSLVosruUZ9YxPVlCzoakX/eTaBurG7TEiObZErNiMbMgK2M1+dAj7ESiVRFiPhMgnfoSDKQ==;IMKYDQQzgqzjV1xVtgM4Rw=="
 ---
 

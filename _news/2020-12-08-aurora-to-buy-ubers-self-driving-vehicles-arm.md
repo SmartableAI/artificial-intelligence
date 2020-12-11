@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Aurora to buy Uber’s self-driving vehicles arm"
-excerpt: "Uber is selling off its autonomous vehicles development arm to Aurora as the ride-hailing company slims down after its revenues were pummeled by the"
-publishedDateTime: 2020-12-07T21:36:00Z
-originalUrl: "https://apnews.com/article/business-dara-khosrowshahi-coronavirus-pandemic-033868dbde749e5e01def41172302574"
-webUrl: "https://apnews.com/article/business-dara-khosrowshahi-coronavirus-pandemic-033868dbde749e5e01def41172302574"
+title: "Aurora to buy Uber's self-driving vehicles arm"
+excerpt: "SAN RAMON, Calif. (AP) —"
+publishedDateTime: 2020-12-08T02:09:00Z
+originalUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12"
+webUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12"
+ampWebUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12?amp"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Uber sells self-driving unit Uber ATG in deal that will push Aurora’s valuation to $10B"
@@ -760,6 +760,6 @@ related:
         height: 450
         isCached: true
 
-secured: "H3gSIvCNlBkwCegNECZOir3d2tqN6h40WUTlKngbRo9JtEwiw4p6E3qzWDb1ulZy4tE1FNyaPjLjY7ARTClQQpENNTClzmZVud/dFeVOsEfiRCxw79YY5UPVYqCEGtACFXSJKsK3haIAWw0X2DkCps7+XBWQh6T+HH/hxaS50zHv2Odcy0Tf8+ji8Y/qy2FRGjbCvqsO7lTCB7DwiTJhOXo1eeOe3SDE/Dd0jv8V85s9a6bVfpNDtnJiMJhsJjKkSJ5hzsoAG9zavQRBkY4JwiATnoHRwU8Bih1rB5i+vS2tAuR0pYNoWuucbMqm2vIt0YL2oOu+ettG5awm7onNQNIsV6p4o/dEShYqDltDDgQ=;74Ni8ikx5UaplesBPLr8VQ=="
+secured: "c47zhXPasgtzK9TAn6ZpgNuFWvElOWLPxUtEqMDOVxF7CYCEC1Bda70QYGLumYtodjIZm7PkZkulMpIf/YP6yg5+DC1DKzKe5CtGVIKsbTPEDC2Q1vgusw3whJ8KjSuI5z3J2xUtkmv/aWTynnmuuqpXIXq0RvS1oLUe6a5BiSii+5nj+GfUAYIqzFD//N36dqfExd79fah5UBruMZsgfvoLZq5BKvuBuMSTz8icVqWPUNYMWvDlSXY2OWxS0Z0VZJdK7CO/HEXtlvzLX2rmfD71Wqcpo8+xUnxAoNrILBE1bwn99ZEl2sMYcon0ioZueR2LtXkHhXuIIYqO9roqgaI1e8KKXodH6ZXVoiOhK9g=;EneSZpuN8zzuml+N7Tu/3g=="
 ---
 

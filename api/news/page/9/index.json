@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-04-driverless-robotaxis-hit-the-streets-of-chinese-city.md",
+      "title": "Driverless robotaxis hit the streets of Chinese city",
+      "excerpt": "AutoX, a Chinese autonomous vehicle company backed by e-commerce giant Alibaba Group Holding, says it has put driverless robotaxis on the streets of downtown Shenzhen. According to the company, this is the first time in that nation's history an AV fleet has been deployed without safety drivers or remote operators providing backup.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/chinas-first-ever-driverless-self-driving-cars-deployed-on-streets-by-autox/",
+      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/driverless-robotaxis-hit-streets-chinese-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2020/12/autox-nevs.png",
+          "width": 730,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology.md",
+      "title": "Voiceitt, Amazon Announce Collaboration Between Alexa And ‘Superpower’ Speech Technology",
+      "excerpt": "Amazon and speech recognition startup Voiceitt on Thursday announced a collaboration that aims to make Alexa more accessible to people with atypical speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc84bcc28586542449985ff%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2020/12/03/voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology/amp/",
+      "publishedDateTime": "2020-12-03T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-veritone-achieves-aws-public-safety-disaster-response-competency.md",
       "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
       "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has ach",
@@ -626,6 +721,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
+      "title": "Self-driving robotaxis are taking off in China",
+      "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
+      "originalUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
       "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
       "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ...",
@@ -699,58 +837,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
-      "title": "Self-driving robotaxis are taking off in China",
-      "excerpt": "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
-      "originalUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
-      "publishedDateTime": "2020-12-02T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1083,101 +1169,6 @@
         "AI in Autos",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
-      "title": "Driving The Next Generation of AI",
-      "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1613001600&v=beta&t=Wz2Px5Ibh7-7pHdKOJ9TuY-fGNj1_adkVDYZ23zdZsE",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture.md",
-      "title": "Halliburton Advancing Digital Supply Chain in Another Collaboration with Accenture",
-      "excerpt": "Halliburton Co., the largest Lower 48 completions expert, is accelerating its digital supply chain and extending it into manufacturing in another",
-      "sourceUrl": null,
-      "webUrl": "https://www.naturalgasintel.com/halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture/",
-      "originalUrl": "https://www.naturalgasintel.com/halliburton-advancing-digital-supply-chain-in-another-collaboration-with-accenture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.naturalgasintel.com/wp-content/uploads/2020/12/3-halliburton-site-20201202.png",
-          "width": 540,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Natural Gas Intel",
-        "domain": "naturalgasintel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

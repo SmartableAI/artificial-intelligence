@@ -213,6 +213,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Aurora to buy Uber's self-driving vehicles arm"
+    excerpt: "SAN RAMON, Calif. (AP) —"
+    publishedDateTime: 2020-12-08T02:09:00Z
+    webUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "Uber Sells Self-Driving Unit to Aurora, Takes Stake in Startup"
     excerpt: "Uber Technologies Inc. sold its self-driving car division to Aurora Innovation Inc. and took a stake in the startup, creating a larger competitor to the leader in the field, Alphabet Inc.’s Waymo.The deal will value Aurora at $10 billion,"
     publishedDateTime: 2020-12-07T21:38:00Z
@@ -552,20 +563,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Aurora to buy Uber’s self-driving vehicles arm"
-    excerpt: "Uber is selling off its autonomous vehicles development arm to Aurora as the ride-hailing company slims down after its revenues were pummeled by the"
-    publishedDateTime: 2020-12-07T21:36:00Z
-    webUrl: "https://apnews.com/article/business-dara-khosrowshahi-coronavirus-pandemic-033868dbde749e5e01def41172302574"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Uber sells self-driving unit to Aurora"
     excerpt: "Uber Technologies sold its self-driving car division to Aurora Innovation and took a stake in the startup, pulling back from its vision for a fleet of autonomous taxis to focus on turning a quarterly profit next year after the pandemic crushed revenue."
     publishedDateTime: 2020-12-08T15:04:00Z

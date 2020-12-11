@@ -1011,6 +1011,42 @@
       ]
     },
     {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "originalUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-microsoft-azure-databricks-receives-fedramp-ato.md",
       "title": "Microsoft Azure Databricks receives FedRAMP ATO",
       "excerpt": "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO).",
@@ -1399,49 +1435,6 @@
       "provider": {
         "name": "KMWorld Magazine",
         "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure.md",
-      "title": "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure",
-      "excerpt": "DENVER, July 13, 2020 /PRNewswire/ -- Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1149155&cat=PRN",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1149155&cat=PRN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg ",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

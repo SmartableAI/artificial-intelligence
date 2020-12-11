@@ -99,15 +99,6 @@ related:
         width: 576
         height: 357
         isCached: true
-  - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and ViacomCBS (NASDAQ: VIAC) announced an agreement that makes AWS"
-    publishedDateTime: 2020-12-08T04:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "mZVrkPGbzxmTlllguLo+cAUAlYPdqKXSMe5Pne2NQOD/H8ATlKkCEdyCslHzPZ/7YlDLuCXT/GNUQJ+0yEo2kS1M7s8uxdxmDNTsq0WKFlUKEALQChtD0drZPHI0W3m+p29L168RFT2hgxEmtgMvcuemJM9t9K62jNtw8Vo3b6tRFeNr6MTM6HMJjtYfMZjf08pZHyA3nZkny6I8uFq48LdheOQNsGpvDmgE8aBC1gHVCCifTXUnRN4tMDApyjUsaBSWM22kdE9szVWPSWkW88FMIJcB7i10pEVYamGms6JBTeLa5cDDl8wlD/jA1DrcYLMfDd6Pf9LLEdkyujXhDVMbemHoR+RZFLm5XYlX+MI=;p3+7WnezPRWf0XhCn12N1g=="
 ---

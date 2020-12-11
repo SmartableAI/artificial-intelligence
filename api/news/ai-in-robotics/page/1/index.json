@@ -105,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -285,52 +285,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-machine-learning-trends-in-2021-top-trending-machine-learning-technologies-to-drive-aiml-market-in-2021.md",
-      "title": "Machine learning trends in 2021: Top trending machine learning technologies to drive AI/ML market in 2021",
-      "excerpt": "Machine learning is going to revolutionized the industries in the coming years, in 2020 we have seen tremendous growth in the Machine learning and AI technologies. In 2021 machine learning will drive many business including medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
-      "originalUrl": "https://www.newstrackindia.com/newsdetails/2020/12/8/1-Machine-learning-trends-in-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstrackindia.com/static/galleryimages/images1/9094.small.Manohar-Lal-being-presented-with-a-memento_400x262.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstrack India",
-        "domain": "newstrackindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Autos"
       ]
     },
     {
@@ -1408,6 +1362,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-new-system-optimizes-the-shape-of-robots-for-traversing-various-terrain-types.md",
+      "title": "New system optimizes the shape of robots for traversing various terrain types",
+      "excerpt": "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/newsystemopt.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
+      "publishedDateTime": "2020-11-30T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
