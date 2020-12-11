@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bluehexagonai"
   url: "https://twitter.com/bluehexagonai"
-  followers: 361
+  followers: 360
 
 size: 11-50 employees
 yearFounded: 2017
