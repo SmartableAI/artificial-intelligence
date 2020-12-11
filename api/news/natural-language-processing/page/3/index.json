@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
+      "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
+      "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg",
+          "width": 800,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T12:42:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-meet-olivia-the-first-ntts-voice-in-australian-english-for-amazon-polly.md",
       "title": "Meet Olivia: The first NTTS voice in Australian English for Amazon Polly",
       "excerpt": "Amazon Polly is launching a new Australian English voice, Olivia. Amazon Polly turns text into lifelike speech, allowing you to build speech-enabled products. Building upon the existing Australian English Standard voices, Nicole and Russell, Olivia is the first Australian English voice in Amazon Polly",
@@ -1428,49 +1482,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-samsung-will-shut-down-s-translator-soon.md",
-      "title": "Samsung Will Shut Down S Translator Soon",
-      "excerpt": "Samsung has announced plans to shut down S Translator. The outdated language translation service will reach its end of life on December 1, 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
-      "originalUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Samsung-Logo-2019-AM-AH-1.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
-      "publishedDateTime": "2020-11-03T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Forrester: Artificial Intelligence Software Growth Will Fall Below Current Investor Projections"
-excerpt: "PRNewswire/ -- According to Forrester (Nasdaq: FORR), the overall artificial intelligence software market — despite ballooning to $37 billion by 2025 —"
-publishedDateTime: 2020-12-10T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/forrester-artificial-intelligence-software-growth-will-fall-below-current-investor-projections-301189876.html"
-webUrl: "https://www.prnewswire.com/news-releases/forrester-artificial-intelligence-software-growth-will-fall-below-current-investor-projections-301189876.html"
+excerpt: "PRNewswire/ -- According to Forrester (Nasdaq: FORR), the overall artificial intelligence software market — despite ballooning to $37 billion by 2025 — will fall below current investor projections of $150 to $200 billion for the same time period."
+publishedDateTime: 2020-12-10T15:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/forrester-artificial-intelligence-software-growth-will-fall-below-current-investor-projections-1029882048"
+webUrl: "https://markets.businessinsider.com/news/stocks/forrester-artificial-intelligence-software-growth-will-fall-below-current-investor-projections-1029882048"
 type: article
-quality: 25
-heat: 25
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "http://mma.prnewswire.com/media/462315/Forrester_Research_Logo.jpg?p=facebook"
-    width: 2456
-    height: 1286
-    isCached: true
 
 related:
   - title: "Forrester: Artificial Intelligence Software Growth Will Fall Below Current Investor Projections"
@@ -36,6 +34,6 @@ related:
       domain: benzinga.com
     quality: 25
 
-secured: "BptDlm90m1LImV1gTz84/x28gkM2pykdqVN7tyQ38f+99euLJSyEDYNaHP2VWDjn09UBwroTV2xcDuSTfAkaLrCZNLVdlZEzVqZTNe+bmeETK5i2CslzFay/c7CiLoqfMJ3jo9UfHZqGwmTfcEfvshZ2XhEEBnL5GUsAPVOMhrgN3US3gQP4XSAczlJczVZhHo75yKlWr4CSxQvkhy2n31GaRD4f9oV0hli31TrGhUToWtSI6Y1eXEQQdGbsSCca5hfevbGwlFMDm2Cp0Ee4WuHJCg22UAQxlJ0dph60VAqB5teEzSH7u+mnQkaVtD5+g7hQl+sXsBl76tmAzXo5c77PBl+lRSXjYlp9BuwOTHM=;ullx5hiHMULI6PqNwMXjuA=="
+secured: "iNE9SLbYQPvemyVCI0Y2n74uh3Mb+/5lCAfpJfTtpteekpbWJs+sexJ1iSgzxR2JkMgbX+H9+c56E4DvoXxyhNq7x23jgMyPF21wnXZKvpixHa5Ozgt1wJuPyud/jy8tWIWm4xVDF3/stNjxikCA5UR9x1f6ai087cwai4SW9zvMRyo3mBEzsjXUD/Z5TEjymuJVviTEs1ljJ8Bi6iok614EiUL9GGbNeVrEYwLrRIGbWaGWZs4aEMGutavwQVakl5tcuTEyt8/qy4JkL/Ws5xJf2PoUFdpwxeoGcdbqD0O/VAvZmMjcRX70YKojJDnXfHLBXNnzVh1rqMAb3QoMRkSA3O9CmGIJphBUewaccT8=;O1SE3MvM+iM65u7OIAiuNQ=="
 ---
 

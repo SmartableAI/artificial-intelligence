@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
+      "title": "Unbiased AI becomes mission-critical in 2021",
+      "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1203529758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
+      "publishedDateTime": "2020-12-10T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-uk-ai-start-up-papercup-raises-8m-in-funding.md",
       "title": "UK AI start-up Papercup raises £8m in funding",
       "excerpt": "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages.",
@@ -594,7 +646,7 @@
       "originalUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -785,7 +837,7 @@
       "originalUrl": "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1087,7 +1139,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1233,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption.md",
-      "title": "DataRobot raises $50 million more to accelerate enterprise AI adoption",
-      "excerpt": "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
-      "publishedDateTime": "2020-12-09T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Israeli martech startup Exceed.ai banks $4m in seed money"
 excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
 publishedDateTime: 2020-12-09T02:33:00Z
-originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666335#!"
-webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666335#!"
+originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565"
+webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565"
 type: article
 quality: 49
 heat: -1
@@ -39,20 +39,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Israeli-made Habana AI processors challenge Nvidia"
-    excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
-    publishedDateTime: 2020-12-06T13:51:00Z
-    webUrl: "https://en.globes.co.il/en/article-AWS-to-offer-Israeli-made-Habana-AI-processors-1001351972"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg"
-        width: 800
-        height: 392
-        isCached: true
   - title: "The week that was in Israel's innovative startup ecosystem"
     excerpt: "As we move closer towards the end of this very unique year and enter the Christmas season, Israel's high-tech ecosystem continues to provide global value across industries in this week's"
     publishedDateTime: 2020-12-06T16:45:00Z
@@ -65,6 +51,6 @@ related:
       domain: geektime.com
     quality: 22
 
-secured: "3KlL5nMQNynwnoM5fkniTTBN/XYnk4wSU7564V7qINkmF+JH/s1bcZxIYyJ7vDqP9zxQqn9hXMFCjXhUTEJUcQ+xCJ2GLm22D16Qkab1jveZoETRnXhCD8nEPPMkQntMcuTmWMdcO0ypRUG8oneDrYFEGTsjFlk5BrgIthadQHPre+hfwV3Zh8e4gVmO4+r043GabdMunYgTO6o/ATEHOVVb3lZQ0XkiyrfcfIzflrrk+BeqHi+VE9gB5a6HHGXaypR84xwyC5cOTQW3p+5FSewM/0Eo1tJ7d575t6ytIlnsokpTO+F70ScXnaCUNnJC5AR6ufWoqNShz7fZSjhCjIXuxPtTKwXI36jmsXHq8ikfOUyCswK9p379BrSJjFDxdnh5UIhEPGPjLdQA3O9N+cAc82aE0uyz3np4pbc0kFS0em23EMCzB0dV92DeUx0INEEUoiFWs26PtsoBqJP8fGCZVwSo/9T67VVeai8Id7+wYwoL4xT9nVdys85KRt00zznGjsu42liNUR1HhGWv7g==;Ro5adtFX7SI8HhqUdzBeQQ=="
+secured: "J0O0bxDelGWUHyu3VB7/bPTbIC3/pvyoMmoMi5UOc+mAMbxzPNlpiWzAkuEWfYsUqxbNDS3HK4UiQeDEZ7vtGuyiDxO2mtq7cKY0lY11L/3BGC7mgPllPSyOxM59IT5WwYW+dvbzeOkr8iuk6Wrq3S7Mpyqf1qUf1Vz0yNReAUVcJmxGqIu17b9RWrktsbGBxREmCgovvjBMwHoh0yJnARKAm/CIMld5oq5HnUKBZ0V4DhL2u+lHnLcgq2JHW47JudFbUc7CX5qH/O4WxIowCAZsA6wR8Nj2y0TsGB45uzSqXOtxH4DE75cf81ZBkQCIdFLlHegYZue0cCd3moP9e99AfkPayfUVT5zrciN0gnas28Pj/+UHL8XGUJ2Ev0vBUhLW7hnpY5P4KP8mJZyfVmDTb6FBM7MtQvIkFb5G0WdDuaVs2OkEp6TFiM10pbzY2DihFQj/6aJVMkNf71y4Wcpp5RjRcBtkt69BWHWkHALLIhX4yMui4mvYzdp67nxV3aXC5PNYlCcx/SkEJGIAXQ==;4khSQ0/khJgx4i0HSf7JoA=="
 ---
 

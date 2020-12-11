@@ -139,8 +139,8 @@ related:
         isCached: true
   - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
     excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T04:52:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
+    publishedDateTime: 2020-12-08T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
     ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
     type: article
@@ -757,6 +757,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LHEAukByVCyGAKT2MWzfIbkt95JYb6WbocIU+7qZlnVMzOA/ZOhKVs7dU9UY3/FPmoOPKjW/5dgHrylbIUF1EKbA1yusLW6a8ub9K0weY8dQDoiV0qYy210JsHwit5eIOVxQfx1rh/+Yjub4s0OX54ChVi5Gj5kvmpDgWlhIRADrcLZlwtr127dpn1IoYkGFc3xAcqw2SiMfMWLZPT+M0WLaWHCNn/h17hTiLGTUnTT1cjzCB2KUmZxn2hpTZdRwlaMIBwVWmF5abwcO171a2egtozPbQdLtY5Bok6Er/cieY2Y03uhiFzDAR1EpIPQ6pp0mMe2a/upA8kt/dXojQAR9txq44Hrp8hySdIiDVwo=;5A7pFg+yRn0IZSIrG2CS6A=="
+secured: "AxamFbBO0xwzUzi2bvogXPl5o+HJwPDL3mlzoZvZLpUsThSqw/ZAfH3XHtrdDwtMSXFeROnPEJUabHvEKDHaDec9r/HpYepryF93mh+DOHsJN0Rz1i57MloyzSHlhA3sEGCr+QQu8KscL+ZwV7JZwsUiBxDF2W0gmJQMvGrX17bDvvS68chbOrc7r0arvCb1rmjdp6H2XMZKSnaF/H23e5CghWCyQ/5kGK5vDUb6n2UzGg1mJshrcOodBqDrWReGuXFlDdoi5I8zcLZsOhQ9js830no2EP/eBpXTeP1vYYj02M8oU0jsJTK0+bzuAAQyP5BiAaglS4Q7ghWGCOhHm/5qvStDJ5BhYJkeWvmBdAQz/jP5cwzlTPo4j2VeH5s+kixIKvdTfgzO42SljUKGYTQPoIfL6cwxtvBQEwgYZKGth83wmgCL5DqRBRNjWwJRtxqbs18qkrXWsFFORxY3uj7K4lybdMS1xDGR9Tro3z/vBtgecQJhxqdBgkM669SGboOqi42mNLJNcbC0wNp8Ag==;WM7yg3l7DdAjbthfHviScw=="
 ---
 

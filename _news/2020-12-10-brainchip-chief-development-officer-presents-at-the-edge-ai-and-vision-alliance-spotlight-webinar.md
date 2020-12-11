@@ -1,24 +1,28 @@
 ---
 category: news
 title: "BrainChip Chief Development Officer Presents at the Edge AI and Vision Alliance Spotlight Webinar"
-excerpt: "Efficient Edge AI Applications through Neuromorphic Processing BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance"
-publishedDateTime: 2020-12-09T23:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18723847/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18723847/brainchip-chief-development-officer-presents-at-the-edge-ai-and-vision-alliance-spotlight-webinar"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18723847"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18723847"
+excerpt: "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced that the company’s Chief Development Officer Anil Mankar will present about using neuromorphic processing to take AI to the Edge in a free 30-minute webinar organized by the Edge AI and Vision Alliance December 17 at 9 a."
+publishedDateTime: 2020-12-09T22:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-collaboration-software-communication-technology-industrial-products-and-services-be7147308ab04d7788e256bbe25d63e3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-collaboration-software-communication-technology-industrial-products-and-services-be7147308ab04d7788e256bbe25d63e3"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Brainchip leads the ASX’s top small cap AI stocks in 2020"
@@ -38,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Enix1NXI/zXodIakII27oHVbj1eoc2hAkaE8QxS7r2sMAFt8UaaruJSDWFQirO5g8QxEx5r0g9IMaJgVPA+jesKBpt7ijDwALT8lcipsfLdI5k8AQ+SgzqtKTjdfLnpFokDH3uWuGvjY9bR9l4WfBBPz2+TKIBtTgb1f0zRQuzdPrCjNoIXRF5v/xy/M+9tnfgZul/YDuHU8lcSrMx9xTWO6tA9osRk+YnRMzdGmVqACpbyVk0b27bj+SkesgMPtHtX6sXoDg+IIk1O8k7MbRJUo/p6FaBLttv4MWbTSnaENhFbJ4xtKPuA0seW0HH+aQ2SkKHyc6KQSyBaBhEY4kHuZymfMeZCccFKHJQG2eSg=;sdC+tj6rDM3qpdEB3DY/sw=="
+secured: "4w4QKj79F9rxKUTsXlNL6icBVUpEokYYReWA+s/lFA7yL2xwr3fTC3Kd2WQrK5ggFxmaPI/JB8CFsuRSYMEzXEJZcQ/Q7MYMKQB41YKhEXQ1CxBxH6IZunGVEoNtZ9gD1I7wAOzZ3Z+PT6PDHzELqsBarvpnrHJeahRoMhvH4bzcR39JHrwxkx+wMpznZjwR7eASY8KGuXisawbnoX61Po3A3vBHK6T6UQ8TdACm26jxWqORTDOhhqNefMP7Oh5R9y3B9o/0rON8ZWldeUJVhiPWnjo1LSuSLPlGcFIdprcUyWDj7m0B/IrIVR4Dp7tJ3Wf75s/bjlKoCpnUfCpLe8xbnYUqZ6KJpUXCOUIb4ik=;GQHVQfgLX2IKDiLDbEtVOA=="
 ---
 

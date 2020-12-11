@@ -57,6 +57,20 @@ related:
         width: 744
         height: 400
         isCached: true
+  - title: "Expansion into enterprise and vertical markets drives AWS re:Invent machine learning announcements"
+    excerpt: "This prompted AWS to devote an entire keynote to the subject during this today’s re:Invent conference, and the result was a set of announcements that reinforced AWS’ significant commitment to the machine intelligence space."
+    publishedDateTime: 2020-12-08T23:59:00Z
+    webUrl: "https://siliconangle.com/2020/12/08/expansion-into-enterprise-and-vertical-markets-drives-aws-reinvent-machine-learning-announcements-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/AWS2-1.jpg"
+        width: 764
+        height: 367
+        isCached: true
 
 secured: "jBwPzC9M9PvnWE8Vk0wnaxzQAQeoimnoZaTk7viyr1JxKtqfMlbyDn+HI0hzZtgL8I/1sRwm+DcPvSEfzqJRoyD7y34hYA3oEtVfvGfEMfsN7uGP3NdfOlFQg2EudHrrhT9X9t1v++fNCGkc85ZciL+Wge0CSyQKzZ9ni/vi+KPltU/didp0T9t/tkAdBqF3M9b75v/xEbPwnRN9gv4mtCtBVVojOM2efgeZlPjiukwjnk/6bPK7auPo0jy7Flz4sKpkoeHDMG4MRxCYuDNuObbJqNpny8w4ciTH/NSCVzh/N1SbMj64ZGPFq1uxFLW3AV5kJuIngCITe31A3qTSIbpVCXYnXkmcGFoZoXm0gNc=;83b1GyXWkuVCP9xldK7ZCA=="
 ---

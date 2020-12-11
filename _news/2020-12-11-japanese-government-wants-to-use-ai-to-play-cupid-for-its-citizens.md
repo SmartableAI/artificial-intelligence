@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/japanese-government-wants-to-us
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

@@ -2,31 +2,21 @@
 category: news
 title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
 excerpt: "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ..."
-publishedDateTime: 2020-12-08T15:26:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery-2020-12-08"
+publishedDateTime: 2020-12-08T14:12:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
+webUrl: "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery"
 type: article
-quality: 61
-heat: 131
-published: true
+quality: 11
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "ViacomCBS Taps AWS as Cloud Provider for Broadcast Operations"
@@ -61,20 +51,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Expansion into enterprise and vertical markets drives AWS re:Invent machine learning announcements"
-    excerpt: "This prompted AWS to devote an entire keynote to the subject during this today’s re:Invent conference, and the result was a set of announcements that reinforced AWS’ significant commitment to the machine intelligence space."
-    publishedDateTime: 2020-12-08T23:59:00Z
-    webUrl: "https://siliconangle.com/2020/12/08/expansion-into-enterprise-and-vertical-markets-drives-aws-reinvent-machine-learning-announcements-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 42
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/AWS2-1.jpg"
-        width: 764
-        height: 367
-        isCached: true
   - title: "AWS And ViacomCBS Expand Strategic Agreement"
     excerpt: "Amazon Web Services and ViacomCBS announced that AWS is preferred cloud provider for ViacomCBS’s global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
     publishedDateTime: 2020-12-08T15:23:00Z
@@ -103,6 +79,34 @@ related:
         width: 1100
         height: 621
         isCached: true
+  - title: "AWS And ViacomCBS Expand Strategic Agreement"
+    excerpt: "Related Story Sean Trcalek Named VP-GM Of KATC ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications ..."
+    publishedDateTime: 2020-12-09T18:28:00Z
+    webUrl: "https://tvnewscheck.com/article/256729/aws-and-viacomcbs-expand-strategic-agreement/"
+    type: article
+    provider:
+      name: TV NewsCheck
+      domain: tvnewscheck.com
+    quality: 39
+    images:
+      - url: "https://media.tvnewscheck.com/wp/content/uploads/2019/12/ViacomCBS_building.jpg"
+        width: 1000
+        height: 565
+        isCached: true
+  - title: "Nationwide Selects AWS As Its Preferred Cloud Provider To Deliver Digital Experiences To Customers"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+    publishedDateTime: 2020-12-10T14:51:00Z
+    webUrl: "https://www.hostreview.com/news/201210-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 25
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "ViacomCBS to migrate broadcast operations to AWS cloud"
     excerpt: "Amazon Web Services and ViacomCBS entered an agreement that makes AWS the preferred cloud provider for ViacomCBS's global broadcast media operations. As part of the strategic agreement, ViacomCBS will migrate operations for its entire broadcast footprint,"
     publishedDateTime: 2020-12-09T10:39:00Z
@@ -122,6 +126,6 @@ related:
       domain: financialbuzz.com
     quality: 11
 
-secured: "ip1Ep6iM8iwZ9B31J9y3JPl/raeNK+N+Z0Bjgom7nwbVccz827bPmpQK05nnS3h4o7ogOPgcXXDndIBJC5WJ3/inrrTg6IRz+K7BM/3WggBBW5gp1N7HKhK78V/Vf4wFkQuzrwCCdonmGrCu127K9/pr4aQZoA+LsprLwZTqoP5/uioHPBFQh9mc8gneDdrNbPxa3EEX1mNCKMHCfSspClvNfzvdbJoqevqyepIlNVbv05qrBV5mbyZoVj7IjNvAwHJ2B7A01oiyRaQx0I1jm2dwnnrjBb4b6YNDKORJx38u2X+vxMItSeMdT7Oh+X4W/Q7f2+drXvXignbXZawJDLt8vWZsDh3z8ZYwo0FiPic=;bJMeL4+OAo05VFgWJRqGEQ=="
+secured: "bamLhXA2b/N3RsYbEd6sv4Vr3rUp1Od55AcrABMIQw2W47485Cq2RQy7L+0zkH/CnkXdPfANFuE2DoVkZQPscnDwFp6BoYnEftmM9MeCYvU6ky3QlbCC2iLGZAaMfT2ZKf6wi7GLKuWWNNARUzXPb+xBaPaOXkOXBltUIfIWPFcqLgfTJHJ4HsBJVrzKFRQCIjHLlU+L6FtRc03IU7x9DVcriVkBFvFx9wzbcRYn8EsVX1ph4CKSoABF2XNNHJQmLLGxnjfpwTnOpoP+yPldBz031OyypbW4rxwGy12khtNtUiisE/g38vbT8gxpXRtAjfeOwjHEXZHmBNiAJrU9MUcOlI8VZCHT+woHKIXG97g=;92Ehou+HljikvSoFtbqgLw=="
 ---
 

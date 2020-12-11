@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 935
         isCached: true
+  - title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
+    excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
+    publishedDateTime: 2020-12-11T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rising-trends-technology-and-demand-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meet the Fintech companies leading the innovation wave"
     excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
     publishedDateTime: 2020-12-09T05:20:00Z

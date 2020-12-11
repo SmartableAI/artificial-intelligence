@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "Self-Driving Farm Tractor Rolls Into Service at California Vineyard"
-    excerpt: "Self-driving, battery-powered vehicles aren’t just for Teslas on the highway. Electric muscle now comes to the farm. Don Ford reports. (12-10-20)"
+    excerpt: "An Alameda County winery has become the first customer to try out a major new improvement in high-tech farm equipment: the world's first autonomous."
     publishedDateTime: 2020-12-11T02:11:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/amp/"
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/tractor-autonomous-northern-california-electric-self-driving-winery-farm/"
     type: article
     provider:
       name: CBS Local
       domain: cbslocal.com
     quality: 24
+    images:
+      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2020/12/Monarch-Tractor.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "BeMXXNJ9RCzxyK5czvc3giD35MKuUFe8kr8cG7IMzEWIIGsdBeXB2eYpPtoyoBU8p+nR0tIs1xkBbgH166J+rZMHu6Luo4dtdP6NY3A+zSA7NR/ybARExygtv6jf00Rdb/YB+3BUc7o/e0b4BiPn7bPqRPCXU6quUZf8LMNravSJBRbgbAZeB2iTOSrM25xaQKXHHU+KECjxg0mY9IH6I532GPJZJElVgyibEU7ShhoUGJTiUYWG7ycewT5ii/tN7zlKYD3A9zUlemc/94RaG6SmBkTqig4juOdwI3+zEoWBtROcA6BOyaKgfgcDNBR0w/IDqjJGTaAJo2+SFe7yzGuSW8BMIr8Y6WmE6iYgBgI=;4FAWxs+fksxC6A9aui4gGQ=="
 ---

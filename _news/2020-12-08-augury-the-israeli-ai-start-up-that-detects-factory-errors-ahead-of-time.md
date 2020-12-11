@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/health-science/augury-the-israeli-ai-start-up-th
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/augury-the-israeli-ai-start-up-that-detects-factory-errors-ahead-of-time-651452/amp"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,26 +29,12 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666335#!"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Israeli-made Habana AI processors challenge Nvidia"
-    excerpt: "AWS says that Habana's Gaudi AI processors deliver up to 40% better price performance than current graphics processing chips (in other words Nvidia's). This is a dramatic improvement in the fast growing AI computer resources consumptions market in which every percentage improvement translates into a great deal of money."
-    publishedDateTime: 2020-12-06T13:51:00Z
-    webUrl: "https://en.globes.co.il/en/article-AWS-to-offer-Israeli-made-Habana-AI-processors-1001351972"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg"
-        width: 800
-        height: 392
-        isCached: true
   - title: "The week that was in Israel's innovative startup ecosystem"
     excerpt: "As we move closer towards the end of this very unique year and enter the Christmas season, Israel's high-tech ecosystem continues to provide global value across industries in this week's"
     publishedDateTime: 2020-12-06T16:45:00Z

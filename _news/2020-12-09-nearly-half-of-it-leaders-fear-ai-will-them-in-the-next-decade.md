@@ -37,6 +37,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Artificial visual system of record-low energy consumption for the next generation of AI"
+    excerpt: "A joint research led by City University of Hong Kong (CityU) has built an ultralow-power consumption artificial visual system to mimic the human brain, which successfully performed data-intensive cognitive tasks."
+    publishedDateTime: 2020-12-11T05:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/cuoh-avs121020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/251257_web.jpg"
+        width: 1440
+        height: 1275
+        isCached: true
 
 secured: "m/SjiJi5IL39zqM75QSagrQl1bXgGOxDuhbXcdj82GSED1nMBsauJqsZUvlVBjF6PgBFb/6EcYJzKsP4RXCPH5vgrrpZBU7n2kU63nDnpqP477AzjhbLOye7HvP3z8yh+M3iwe9zKpVNdJ8BXxnXCo3+vntUmsQ/ow7kGyRlgUMTv6reQNSB3+y23exIuiltUmkRBIqcqiWgZlkNohlyxuythJle0bmdlvMq4sfdPgS2Hx0TJmp3hmwJQ2gut0IcyByyPUs3qh0GQy5aUPo7tAkVHoNox+bFjE2O77zVJwnREUZy1ILJApaCM10haug5wtXwxPsw7wOh0GeYtJyXVORM+q9IkyDHEcm7yhrkok9iw0yJ5xpz7gW8AWyEYUHC721nKvNfFV5wc4WMrd9rFD8gzlqRLfpZglMvzfkztBctl1KJ74Sd/bN3OTsWgaLZco7/HaEeA4tvNqqu6gw4C1Y07Wnc8UX9TyUh1zMrJdSsIzh8I2dV2PygOFz9IISPsH60f4DE0qU0OCE4YchOyA==;kYIf09O0zo+ukZ7ExPdKnw=="
 ---

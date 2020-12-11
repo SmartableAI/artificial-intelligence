@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-09-datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption.md",
+      "title": "DataRobot raises $50 million more to accelerate enterprise AI adoption",
+      "excerpt": "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2020-12-09T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-arthurai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool.md",
       "title": "Arthur.ai snags $15M Series A to grow machine learning monitoring tool",
       "excerpt": "At a time when more companies are building machine learning models, Arthur.ai wants to help by ensuring the model accuracy doesn’t begin slipping over time, thereby losing its ability to precisely measure what it was supposed to.",
@@ -546,7 +598,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2025-2020-12-09?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1217,57 +1269,6 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-the-best-foodie-gift-boxes-and-subscriptions-to-send-this-year.md",
-      "title": "The best foodie gift boxes and subscriptions to send this year",
-      "excerpt": "There are countless curated food and booze gift boxes to choose from in 2020, but not all are created equal. This year has required a healthy mix of calm, cunning and creativity to say the least. At the risk of belaboring a well-worn point,",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.cnet.com/news/best-food-gift-baskets-to-send-by-mail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

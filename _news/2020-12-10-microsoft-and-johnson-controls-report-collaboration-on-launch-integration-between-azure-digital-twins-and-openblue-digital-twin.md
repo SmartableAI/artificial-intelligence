@@ -149,17 +149,6 @@ related:
         width: 6000
         height: 4001
         isCached: true
-  - title: "GITEX 2020: Microsoft shines a spotlight on AI innovation"
-    excerpt: "Microsoft has showcased an array of AI solutions at GITEX Technology Week 2020 US software giant, Microsoft, has highlighted the transformative potential of Artificial Intelligence, at the 40th anniversary edition of GITEX Technology Week."
-    publishedDateTime: 2020-12-06T14:48:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/94915-gitex-2020-microsoft-shines-a-spotlight-on-ai-innovation?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
   - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
     excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
     publishedDateTime: 2020-12-08T14:18:00Z
@@ -215,6 +204,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2020/12/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool.jpeg"
         width: 993
         height: 675
+        isCached: true
+  - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
+    excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
+    publishedDateTime: 2020-12-11T05:32:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-is-going-big-on-reinforcement-learning-heres-how/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/Screenshot-101.png"
+        width: 957
+        height: 597
         isCached: true
   - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"

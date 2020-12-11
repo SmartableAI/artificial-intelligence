@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Self-Driving Farm Tractor Rolls Into Service at California Vineyard"
-excerpt: "Self-driving, battery-powered vehicles aren’t just for Teslas on the highway. Electric muscle now comes to the farm. Don Ford reports. (12-10-20)"
+excerpt: "An Alameda County winery has become the first customer to try out a major new improvement in high-tech farm equipment: the world's first autonomous."
 publishedDateTime: 2020-12-11T02:11:00Z
-originalUrl: "https://sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/"
-webUrl: "https://sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/"
-ampWebUrl: "https://sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/amp/"
-cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/5030808-self-driving-farm-tractor-rolls-into-service-at-california-vineyard/amp/"
+originalUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/tractor-autonomous-northern-california-electric-self-driving-winery-farm/"
+webUrl: "https://sanfrancisco.cbslocal.com/2020/12/10/tractor-autonomous-northern-california-electric-self-driving-winery-farm/"
 type: article
 quality: 24
 heat: -1
@@ -19,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2020/12/Monarch-Tractor.jpg?w=1024"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Elon Musk moves his foundation to Texas from California"
@@ -38,6 +42,6 @@ related:
         height: 209
         isCached: true
 
-secured: "z46bS1TCTBfwkchNZEpw1Kp2ZAu1kazPVxfrgzo9P4SfK16nT4pUyDlnrN4MGiPOUir9XzJaYKwLk8+So1/LgkgNHh/b2XthpHsOhmyGhXMO/IyzyIFwhk7hzCmk+wg2BUa0jHu/iBcIyun9Onx7ZpXuw7Bw2XAZ3GjMjwEolP3HD4FnORPzG8tjFC8lScoIGRDRMBu8epURkrTYRFJKShSgObbPEXB+MIZH+f9mDof7BvRa7CK5WEaTZRMEYoYOnnJNb8tV9ZkiddpO9JrXIWwXH6MejwGHggxnGxKa206oo01Ssl1TuXJN8cBBWWqncmorKDsmvhk5VntQknBsgSJmXZxozd4Gu9H7+fKb9Pnq+OjDy7mWx6gKqZwG7DKm/IWP32qKTRA3ri/7iIWkGBbx0HFJaBmg4MogtxRXMabZZGPXVOkaZGKEx35FoeO8aFXkH1bHOpzoo2rvO1GDRZNXTuOZMzS+Mfhinha4OW29yjPEhYk6eMHYC2FackJQO2je183Tv21qJbQmpqaBxA==;u+6w9j8sM7csL2/Ktbu17g=="
+secured: "dAzFZJHi064EONkQ4vdC8HT1Ea3/GjpMnyx96PZ3he042t6YKbJ1Cu9nsBIJasUj5TkqBv2Dzgj5GzwqqkugPWXDJ8nSHf5f9LSvff1/JUcgnL4317YQYmwXvppeKFGemDPZZw5cJzvo2iMT2908zuvSUeHHTVdh6ko1khYsNnwq8t/mUUoSFQ6Kotk9KZxToxL4apdsP5DnW/KoLsPzysm4gX6E3gUChs5GLV2hnDYi8gTI7fU1HJrOCnVkqg8PqHCOljWevGbACXKvK1EVC4OeNqpim/uyLySAw0/5i7WxADIUjEUUkzhSo9BsbPGit/iD4qwKmeXnjty9PX5c9xZVAl/oacGSljpGcX/kDHU=;cet8JUHjRUUlN3Ev9cTGow=="
 ---
 

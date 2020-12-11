@@ -43,6 +43,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Cambridge Quantum Computing veröffentlicht wissenschaftliche Grundlagenpapiere zum Thema „Meaning Aware\" Quantum Natural Language Processing"
+    excerpt: "PRNewswire/ -- Cambridge Quantum Computing (CQC) gab heute bekannt, dass es auf früheren Fortschritten in der „bedeutungsbewussten\""
+    publishedDateTime: 2020-12-11T05:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-veroffentlicht-wissenschaftliche-grundlagenpapiere-zum-thema-meaning-aware-quantum-natural-language-processing-843425070.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "G6doWKj1ymgH23ZsVriDCfkdBc2BvV3KIYownlnx+YSOUTsw14GdeY82hdhc0UJln3kf6q3Jp9jGgwD0e+iMqXw9SwkTR7DSkSArDXd6fWoy1R6e71/edX+1gZRvYB5HWxQJL7pGFA+qxf0IAvXUoxMFcJUSqajYRMTLXcOGDTp/YxS/KiSLHylOcIZsAn0D5hl5QO90d20YMs+yAuEOV3VMBSUF+MXyptqSXBZ98utlj0kaOomh8F8wSm8nqfFeRM+7w7R4wlLYzs1eXfy1vI0E8+XcYd3+FuX4+bpZz/qzcOsecErHKAL5LhDnJA7+04nksNUl2achUi8W9XXc4+RWsCgRipNqyCiZVn4XCr4=;Igu9pELHogCrwTEBxz9PAg=="
 ---

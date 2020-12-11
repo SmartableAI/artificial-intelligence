@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-10T13:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
 webUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
 type: article
-quality: 78
+quality: 58
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Healthcare Artificial Intelligence (AI) Market"
@@ -94,6 +88,6 @@ related:
       domain: arnnet.com.au
     quality: 11
 
-secured: "kymDHbHUUdoTmKVDz65u/tcH413JdFx/Y3f9pscXkDJmo7/0r5ukByGHSwCWWyPdWNspTDEv2775Hv7HoJo9l2zS6IOAVrFg14djJys2mhyE/tuHEWtCPFx0hr2qNsc3ynnwuj9Y5e3JIConWSdO8v8pehPMaOmA+vxszQ6kD6VluXdC9vJYOqAvoQt750nQNR49lpfDaHoxxH04e9LmPcgq4deQdGkCPHcfBrt7GhMnkByP7NOBU3wNBkPl+woatShVEshqgNzLLt6iQO22gSqskqxzeB2k7vJ7hsGl6WL+zIWr6J6OBpGHJVSejXEl2STS4Xff3tb7ajsUxJasKq9iF7zczQ/JPmjZVp7VccY=;Du7R0JHho+KzESDvZVHAyQ=="
+secured: "S3gc+8fNE7kb26Whgvc3s3kaVZKVv8jPTxYPGiaTuVcYXEPb7UIIkDzNvh6ZcQD3JxyCa6XDlJCUmNpCmYCeVpWsrElvvOdSTqJc8Rtmbe6H+LZ9w/9+ck7J648JWWq8J6jM+JV3N0u9SIm+bnsGTlKhrJn+X51OY/rB8SImSwUpL5qMyz3mAplfPzmSa449rDp8PCMGVPUVQFx/RZhylow7NS4IWFtMykiTZEGyCqnceUk5TT7btJX5Y9G/6x+6eDDHTQalHTgu/l1IFlcIcJ+uLKxgrtInFHQtM4B1BMsmDt4FUWWe+MXMDbCpxaEuGwf1EnvOXHvn4tKFy3VCT5xdv7n30AgXrWKPzRyqPM0=;zR+rT8NoI4oDexB1WHTdTg=="
 ---
 

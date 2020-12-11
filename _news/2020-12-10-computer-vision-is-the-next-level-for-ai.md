@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/videos/computer-vision-is-the-next-le
 webUrl: "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 49
+  - title: "Artificial visual system of record-low energy consumption for the next generation of AI"
+    excerpt: "A joint research led by City University of Hong Kong (CityU) has built an ultralow-power consumption artificial visual system to mimic the human brain, which successfully performed data-intensive cognitive tasks."
+    publishedDateTime: 2020-12-11T05:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/cuoh-avs121020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/251257_web.jpg"
+        width: 1440
+        height: 1275
+        isCached: true
 
 secured: "iL0kuH8XTPTxBzLAeUFV2lEWxpVDpYogw2OaXr5YTlWnkeGxg6H50ykMCetOubWixDDQ55YsW1K5kDbW9Rb32XfyIWBZKGrcQpNtMwgwnRxzs/Zb3f812uwZwj7vX1E1AWkb4Fu8GNrVc6gYbozO0PoFFMDFdm43oAv4e5W6kc3z9jUbfGzjJ6Tw+o+CO/Li3bL82z/5n/Fz0LSBDk9PaduiJsrWUowWL2JywRHTXHWyBtCBNi8fUbwqOaahBDGSZ1t8tD90hEvOa7G9iTKKQThJNzHx0K+EVmfMjGxIWikf91kbpuDaADPEy9hngyQoCJTjbgR8fn2SFkU+CiXUrlWIQrw11GAljew7NnjLY1WVgej74cz5lofW6wiG1hLjxha5LKxkJjj4ydRZFaHAyheLdRIMKwy//iwq6UJTGSj7sVK+9SFnQF4iMba+BqY9ENIV4HEj70IYsSbUr7yNJNotPWKh3Auq3pl1J/tX4bl/oeWzYYyVM2NH79zy7X3UT7VCLh9R+1cqykNHwbiCqw==;gHEqurDyLgGpJs2saBekLA=="
 ---

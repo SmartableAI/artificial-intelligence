@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
+      "title": "Houston implements facial recognition technology at airports",
+      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "publishedDateTime": "2020-11-20T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-can-artificial-intelligence-give-elephants-a-winning-edge.md",
       "title": "Can artificial intelligence give elephants a winning edge?",
       "excerpt": "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.",
@@ -1121,57 +1164,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-fireeye-acquires-respond-software-for-186m-announces-400m-investment.md",
-      "title": "FireEye acquires Respond Software for $186M, announces $400M investment",
-      "excerpt": "The security sector is ever frothy and acquisitive. Just last week Palo Alto Networks grabbed Expanse for $800 million. Today it was FireEye’s turn, snagging Respond Software, a company that helps customers investigate and understand security incidents,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
-      "originalUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1175886963.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/19/fireeye-acquires-respond-software-for-186m-announces-400m-investment/amp/",
-      "publishedDateTime": "2020-11-19T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

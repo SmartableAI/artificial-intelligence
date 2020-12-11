@@ -39,20 +39,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
-    excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess adoption of automation in revenue cycle operations at health systems and hospitals across the U."
-    publishedDateTime: 2020-12-10T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market Is Expected To Grow From USD 2.1 Billion In 2018 To USD 36.1 Billion By 2025, At A CAGR Of 50.2%"
     excerpt: "Increasingly large and complex data set available in the form of big data and growing need to reduce the increasing healthcare cost drive the growth of this market. The AI in healthcare market is expected to grow from USD 2."
     publishedDateTime: 2020-12-09T21:37:00Z
@@ -67,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
+    excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess adoption of automation in revenue cycle operations at health systems and hospitals across the U."
+    publishedDateTime: 2020-12-10T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
     excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"
     publishedDateTime: 2020-12-08T16:36:00Z

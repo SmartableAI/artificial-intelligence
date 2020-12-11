@@ -105,6 +105,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Apple Reportedly Developing Self-Driving Vehicles"
+    excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
+    publishedDateTime: 2020-12-11T05:10:00Z
+    webUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info"
+    ampWebUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Fapple-reportedly-developing-self-driving-vehicles-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1125
+        height: 750
+        isCached: true
   - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
     excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
     publishedDateTime: 2020-12-09T11:00:00Z
@@ -184,6 +200,6 @@ related:
       domain: wlrn.org
     quality: 19
 
-secured: "HNL2rz5V70+gP87QbUzQZNGsoh9b2V0ffvl1985Zv7MIPmqsoOcT5W47X1gtCiaS8baWFWCR/AuObpudQRG8445jrmJWeEVBZCRsP2W0Sw0YJVpxM9/OqrAridxRva8YQTelI3nu2pE8uuJMIkleY7b4v6Scn+ZGPVTsb0nC5bEsd1an8PvygviIKSLFO0PDpuE4GwlGcivNJRCt+nspqooFZ/rwBwoqek5B2QKK6p/KwUwc02LZ9De+9xtvbt1Fbmzr9JrSLSWUFV4LOrHc1Hazh4r7pQn/wsFbZX0NCPUTyIouZ78o1mjan7HiPLVaklj/cfJT4v6Ct3VTvAnpdicN9F+E9jbpY6kufI1gOI0=;KzwrAvDLuDaju6JhFDvkow=="
+secured: "isieGG7D/r5izlEk50cI3jcMkY+OQotmC+QucDVtSQCbtOi7OMiZuur+SNbmYpnYGEYgYoiIf02edM888PEcgswv5o5Bs09Fy40+FfsG5EZDE9L3cEPEUAEYzI8YBbeo/sGXvZb0k7RHi5Nlqt4ztB8hM/sR/95Xb/CyfTIeF2ECyK/4VHf8l0wmR7dZ4yh5nVDcfSaFy+UqbbQv3OMuDG6i+rqZIYTtdXZwDEjOTuwRhAdk1mGfc6nC0tOD8f1uGbFrksJo4OiYNkSCkojn5tzGOe73wj+SNbXS2OSwNCHOvvpPB0Fm2DKjO7klIiLA4Y7y6J1SI9DAimfdDBWfFRrrY+HsZ0HZfjZF+OG0lA6gqct6hvYMNZgIz9OSuOnhoh2GJ4ABReSZDs7hP7igKKLEjoVJyEsJJhl7z2RbnopoO5ypyyYLFYwjOGFMyQy5bZu2T/znQbKYGbvluiTXkW09gGLPWkSRLjLETiORDDinyr3657aMg13JGM2wKQZ8uSp+OnrOF15OTXSdOO3SOA==;mSkT5Q3XD17LaW14dBokhg=="
 ---
 

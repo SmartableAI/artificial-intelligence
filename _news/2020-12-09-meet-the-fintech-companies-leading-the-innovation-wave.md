@@ -55,6 +55,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
+    excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
+    publishedDateTime: 2020-12-11T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rising-trends-technology-and-demand-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FINX: Investing In Disruptive FinTech Innovators"
     excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
     publishedDateTime: 2020-12-09T18:07:00Z
