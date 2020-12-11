@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "TubularLabs"
   url: "https://twitter.com/TubularLabs"
-  followers: 3901
+  followers: 3900
 
 locations:
   - Mountain View, CA
