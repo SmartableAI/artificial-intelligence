@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-07-what-to-consider-when-using-bert-and-gpt-models-for-nlp.md",
+      "title": "What to consider when using BERT and GPT models for NLP",
+      "excerpt": "Last time on the NLP blog series, we explored how BERT and GPT models change the game for NLP. BERT and GPT models have a lot of exciting potential applications, such as natural language generation (NLG) (useful for automating communication, report writing, summarizations), conversational assistant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/what-to-consider-when-using-bert-and-gpt-models-for-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WatsonBlog_BERT_NLP_2000x1006_WDDE_1361-1-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T10:18:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-apples-2021-chip-strategy-will-create-a-massively-parallel-universe.md",
+      "title": "Apple’s 2021 chip strategy will create a massively parallel universe",
+      "excerpt": "Apple's Macs will soon march into data centers, equipped with multi-core CPU, GPU, and AI capabilities in tiny, power-efficient form factors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/m1die.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
+      "publishedDateTime": "2020-12-07T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-researchers-can-use-qsim-to-explore-quantum-algorithms.md",
+      "title": "Researchers can use qsim to explore quantum algorithms",
+      "excerpt": "A year ago, Google’s Quantum AI team achieved a beyond-classical computation by using a quantum computer to outperform the world’s fastest classical computer. With this, we entered a new era of quantum computing. We still have a long journey ahead of us to find practical applications, and we know we",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
+      "originalUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
+      "publishedDateTime": "2020-12-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-the-ipo-market-looks-hot-as-airbnb-and-c3ai-raise-price-targets.md",
       "title": "The IPO market looks hot as Airbnb and C3.ai raise price targets",
       "excerpt": "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish.",
@@ -1083,153 +1239,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-elon-musk-makes-clear-his-stance-on-self-driving-cars-ai-oversight-and-his-ad-for-mars.md",
-      "title": "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'",
-      "excerpt": "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "publishedDateTime": "2020-12-06T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
-      "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
-      "excerpt": "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
-      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
-      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/",
-      "publishedDateTime": "2020-12-06T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Maverick",
-        "domain": "dailymaverick.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come.md",
-      "title": "The Guardian view on DeepMind’s brain: the shape of things to come",
-      "excerpt": "This is an achievement that answers one big scientific question but raises more fundamental ones for society An image issued by DeepMind of a three-dimensional digital rendering of a protein.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8a26ed77d257e90b7ce9d029bcc177b229e8b7d/0_122_1570_942/master/1570.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f0cd84e57ee8363af039f3d9b3db4f8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "publishedDateTime": "2020-12-06T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

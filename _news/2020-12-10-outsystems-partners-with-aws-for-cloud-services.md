@@ -33,15 +33,6 @@ related:
         width: 1922
         height: 994
         isCached: true
-  - title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
-    excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
-    publishedDateTime: 2020-12-07T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
   - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
     excerpt: "OutSystems, a global leader in modern application development platforms, today announced it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration will enable OutSystems to deliver deeper integrations with AWS services in the OutSystems Cloud,"
     publishedDateTime: 2020-12-08T08:47:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI, machine learning playing a key role in fight against COVID, say experts"
-    excerpt: "At KnowDis Machine Learning Day, experts say AI models could quickly narrow down the list of candidate drug molecules, which might possibly bind to the protein, modify its behaviour, and provide therapeutic benefit."
-    publishedDateTime: 2020-12-07T04:30:00Z
-    webUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid"
-    ampWebUrl: "https://yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/ai-machine-learning-play-key-role-fight-against-covid/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 72
-    images:
-      - url: "https://images.yourstory.com/cs/5/803961002d6d11e9aa979329348d4c3e/FI-1585834113618.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
     excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
     publishedDateTime: 2020-12-08T02:26:00Z

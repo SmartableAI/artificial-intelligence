@@ -2,19 +2,19 @@
 category: news
 title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
 excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
-publishedDateTime: 2020-12-11T18:52:00Z
-originalUrl: "https://www.indystar.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
-webUrl: "https://www.indystar.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
-ampWebUrl: "https://amp.indystar.com/amp/3889402001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3889402001"
+publishedDateTime: 2020-12-11T20:19:00Z
+originalUrl: "https://www.dispatch.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+webUrl: "https://www.dispatch.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+ampWebUrl: "https://amp.dispatch.com/amp/3889402001"
+cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3889402001"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Columbus Dispatch
+  domain: dispatch.com
 
 topics:
   - AI Ethics
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sdVtuySuZKjHIuFbFdKvpFi/AeF4OcN/QiH8tX0vt4iSHv4dfGeKWgn8FTFduG6cLrBmdQfygaKKM7EiLdbvpr3/2v4L8UU0+p/BM8ALatNtie9hGGZc2sYMeMCQeT/Fq4KJu0Rs4AGb3SMNQFGblvDBUjkFxJVDPAItSJ1eddF1jZ7BupwKKJRajwUlfXUpHgKim6+2UGOXH4g8SaQcIOZupf677ZYEWtzKm7uSjYPN6bDkCuu3fEvctGg611RtBxOiPMEYWMPYEy6REwBxzaooa3/fm2roFE4s6a5s38yrIg1pLjH8Fe72C/zl9APUR1+pZGPezKikfEFtE+45+V+38LxzvwzVNyncTowNYUE=;mcvfZIdbvj3FgRMogz3C8A=="
+secured: "EZjzkbqjuWjCIVKO4xmlRzixIenC4jD8i7nyi8gYzXUbpRAaZhSU+HoECdHI3lwk3baI9f+0Up77DEg9zq+qpYv664G1DtUocR878IDWZz8OAmfnFaEeeAAH8PDB0UL4KKLV2bc2eFFP42sXyQqOKWRGaHyl/5JoAXCK89eyDfSJHtfVHhaDO1ON3qMhA47jCY8XlkJVEUkrE3zTSyh8/c14Jt9Ftxq8QIxYVjE3ZezX8ZhffPBhStv8b6yAHYKR0lJIcrhpfCxZcpjAfxIMP6zaZgNFcHUYVnpCIlrEUROvGW6dypDotmsmkkYAM1g29BAIFXtGxF4DqbEaQoxvCNqzKRd9I0VfmBv++eTr92g=;yF9paxMioslH4q3COhj+sA=="
 ---
 

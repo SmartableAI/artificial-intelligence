@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -280,6 +280,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZ3Aizn7yjA/article-cover_image-shrink_600_2000/0/1607288835258?e=1613001600&v=beta&t=yFaZdaMkH8ewkqKLh90qZeD8-Pp4ajVI4-3bbx-Vdpw"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google to Review AI Scholar's Abrupt Exit"
+    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have “led a more respectful process."
+    publishedDateTime: 2020-12-11T19:15:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21206514/google-ceo-says-company-will-review-ai-scholars-abrupt-exit"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/12/16x9/AP20344843690299.5fd38ec0b2c5f.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
         isCached: true
   - title: "AI scholar's abrupt exit from Google: Pichai apologises, says company will review"
     excerpt: "Google CEO Sundar Pichai has apologised for how a prominent artificial intelligence researcher's abrupt departure last week has seeded doubts in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have led a more respectful process."

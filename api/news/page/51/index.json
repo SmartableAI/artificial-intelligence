@@ -2,6 +2,153 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-11-04-cops-used-previously-undisclosed-facial-recognition-system-to-identify-protestor-accused-of-assault.md",
+      "title": "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault",
+      "excerpt": "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806",
+      "originalUrl": "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yjypjxtf9ngcamplpfpi.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp",
+      "publishedDateTime": "2020-11-03T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point.md",
+      "title": "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point",
+      "excerpt": "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa19f6ab1b1b304006898b3%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
+      "publishedDateTime": "2020-11-03T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-google-wins-new-patent-that-would-sport-automatic-object-recognition-in-videos.md",
+      "title": "Google wins new patent that would sport automatic object recognition in videos",
+      "excerpt": "Google have previously taken out a patent that would see the Mountain View-based company capable of identifying faces in YouTube videos, but now they've gone a step further by securing a patent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/2/5/25565_02_google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos.jpg",
+          "width": 600,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
+      "publishedDateTime": "2020-11-03T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-google-acquires-deepmind-an-ai-development-company-for-400-million.md",
       "title": "Google acquires Deepmind, an AI development company for $400 million",
       "excerpt": "Google has reportedly purchased Deepmind, a company specializing in Artificial Intelligence based out of London, England. The purchase is worth a reported $400 million USD, although that figure ...",
@@ -1035,144 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-is-giving-up-on-shelf-scanning-robots-in-favor-of-humans.md",
-      "title": "Walmart is giving up on shelf-scanning robots in favor of humans",
-      "excerpt": "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "originalUrl": "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "publishedDateTime": "2020-11-03T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-ai-godfather-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
-      "title": "AI godfather Geoff Hinton: “Deep learning is going to be able to do everything”",
-      "excerpt": "There’s going to have to be quite a few conceptual breakthroughs...we also need a massive increase in scale.\" On neural networks’ weaknesses: \"Neural nets are surprisingly good at dealing with a rather small amount of data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "publishedDateTime": "2020-11-03T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-drops-plans-to-use-robots-for-tracking-inventory.md",
-      "title": "Walmart drops plans to use robots for tracking inventory",
-      "excerpt": "US company Walmart Inc said on Nov 2 that it has dropped its plans to use roving robots to scan shelves and keep track of inventory, squashing the world's largest retailer's years-long efforts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/03/walmart-drops-plans-to-use-robots-for-tracking-inventory",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/03/walmart-drops-plans-to-use-robots-for-tracking-inventory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/11/03/923013.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

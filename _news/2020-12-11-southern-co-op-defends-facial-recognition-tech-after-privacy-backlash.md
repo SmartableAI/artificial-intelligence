@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
+    excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
+    publishedDateTime: 2020-12-11T12:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/privacy-groups-supermarkets-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 39
+    images:
+      - url: "https://assets.infosecurity-magazine.com/webpage/og/f75bcb1d-1277-4a9c-b182-ead88c13f2ae.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Advocates to press Biden administration, Congress on facial recognition curbs"
     excerpt: "Advocates for privacy rights, civil liberties and racial justice are preparing to press the next Congress and the Biden administration to impose stricter regulation"
     publishedDateTime: 2020-12-08T17:07:00Z

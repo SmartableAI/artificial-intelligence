@@ -1,26 +1,28 @@
 ---
 category: news
 title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
-publishedDateTime: 2020-12-09T14:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
+excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
+publishedDateTime: 2020-12-09T12:46:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
 type: article
-quality: 33
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
+    width: 1262
+    height: 660
+    isCached: true
 
 related:
   - title: "Moraine Valley Grad's Written Work Receives National Recognition"
@@ -79,6 +81,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "zv0ysPuWr68j8p8n73sX7efEuxEX3EovAsmxgxz9AEMT4VEo4H5Kkz5K/zLLWSdsGFUd4RwpyfojVJyyAto0AgrXZL5o3UtZhWXpHf2iIOyYys0ov3qHXtj/JRYaOXbqhYdts41bMp3vVo0VULij4UMyEIP/pTQAxPyqvNA0epyaDGG/mPLAjCNBkmGAVyJq4d8lOvkUmt/r2GuiC2oDYIUR6cpM30Bo8mfc1SVgwdAuXDeBNiANJju49hD8vGQigFpyrR/Gxg3CQC8MkoA8ddOBxfNrJHbP2757MSq5QBs1SBfU7Sz+MqaP4DcC/QyWylflR2htu38exBrKjLxBHDEPx7vHYKN7F8rqgDetzjg=;DZCzAuX03htN6qjgxRJBmQ=="
+secured: "7PqhWMkCARSydjX9+QO6SMtA0GHLMJDTzjPXSojmij69+rOluzdIQiOQWyggWWw+D27wr/HP4fep0PLFxxetmp3Ff84fGki2UCH497NKDEKORV1fPbTwv9afTsHsW8FpZ7krkJDAgfcRZwWeSxkeZiyzl3JMiOEzPzNEn/we+aXt4vYxuGp0CYxmCg1Us7ilpq7Q4oUZe7kbgYx7Ry8un5ORfb75fOP7KPEmNjjQgBlk+JyAllmQ0GiwXFFVJ1MxD6uc7DtSS87Pocl6CjD/qYrL96sWbSJ4P923J0LgeMkiuOL2NK6vZnOY34byhCIzxC7HAvz/OD1qLU9j6vGNjCTFShBSplriVFmnQoJAe08=;SmtPNzLSk5UfBXj7BhGOUA=="
 ---
 

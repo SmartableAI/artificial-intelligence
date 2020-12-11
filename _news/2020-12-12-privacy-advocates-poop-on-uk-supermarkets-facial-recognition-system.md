@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-u
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
+    excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
+    publishedDateTime: 2020-12-11T12:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/privacy-groups-supermarkets-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 39
+    images:
+      - url: "https://assets.infosecurity-magazine.com/webpage/og/f75bcb1d-1277-4a9c-b182-ead88c13f2ae.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Southern Co-op defends facial recognition tech after privacy backlash"
     excerpt: "The retailer was responding to criticism from Privacy International, which wrote an open letter demanding reassurrances from the business after learning facial recognition had been introduced in 18 st"
     publishedDateTime: 2020-12-11T15:40:00Z
@@ -104,6 +118,6 @@ related:
         height: 229
         isCached: true
 
-secured: "x+ej8boRpTLG9l3RvwM8eZOMAgkWKjasxtkxQx454gnTL89utTSrbZAnbaYwskyppLIL2JNptehbqA16m1f2teJAPpNJiCILywD6JBZso/yS7azM11NwmAvGSbWaPnQIpudSSkeVqo2v3S1dDBsHODdDy241yyGIkBshGmtWVaQjlPkW95HACpQYmxNkXIzeXed2fxXThucz5t7jyP+sMekgMQOoA8sj1yEGlU6fFrv4SrHRm6IqsRpkMyRh4tVgyhWgidHIsrYOS04yj161MIJNeopUXwsflqHV/XZvBl6vq3B7q4XIo+zIBOYl9IK+FbSEOdgaYt9cqmdq066Wbw1G+zEkxZiQgSG+19W8Z/Y=;kc/K/Jq02EvQ2q78BwUI2A=="
+secured: "/HtABgaTUovIE6EcV8EEYpxSgG1Sv+G91o84Vt3kelGg9rnaZaJ/s4OdCZb77/kiWDed+Tb0VtrAFB7/K628XMw9zHIZiYNrI3JU25gHYWNQA68rNq6jz5cUhW+8hxsIC71L4aHOwXrilLYndXxwnH2rSMPPiyrU+QpcuojW3UbP7+cTFZAnt+TzuuegOhJknmUWX7lb94XQgDeLWEwIDcADvwPwvm5cYUMFMn2lbiQPPCiH7tZXMco+HGm2LaSOuq5+khhKgOtU0kEP8UF9GHGMrFwifDoLonhIzaUr23qsnx9w39HEQCEXjvR7IQGXssY3mb+MxFOCOEXrVlmlPqYNkcF2j9kfTm6O2rM5A1bMG8ilONBD6qTcdmmOOO6wXLljGQhGRgTgSrmOI+ah6aDGFWT8di1cP6WU0v3KdwnZoSgO4aTlCR74/m4awUwjTB/HbbvY6o3DSKJIi8+QTtMrt4gXTL7MnCmatEPHNxtvY/+hpCLkAfndXsE3t64as8h/CvTaYkAcBTIN11Q9VA==;qkMRh3+IrJXidk4BUVtjIA=="
 ---
 

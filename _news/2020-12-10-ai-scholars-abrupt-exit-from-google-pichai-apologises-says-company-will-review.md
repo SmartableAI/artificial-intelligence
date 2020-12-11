@@ -291,6 +291,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google to Review AI Scholar's Abrupt Exit"
+    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have “led a more respectful process."
+    publishedDateTime: 2020-12-11T19:15:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21206514/google-ceo-says-company-will-review-ai-scholars-abrupt-exit"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/12/16x9/AP20344843690299.5fd38ec0b2c5f.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
     excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
     publishedDateTime: 2020-12-09T02:39:00Z

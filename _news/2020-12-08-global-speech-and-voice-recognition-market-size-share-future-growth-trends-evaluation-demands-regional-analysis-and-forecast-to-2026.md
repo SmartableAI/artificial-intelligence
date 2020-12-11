@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Speech Recognition System Market Analysis 2021, Growth Opportunities, Trends, Forecast to 2021"
-    excerpt: "Global “ Automotive Speech Recognition System Market ” forecast 2020-2026 gives a dynamic review of the market size, including definitions, division, applications, key suppliers, market drivers and Automotive Speech Recognition System market shares."
-    publishedDateTime: 2020-12-07T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-speech-recognition-system-market-analysis-2021-growth-opportunities-trends-forecast-to-2021-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
     excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
     publishedDateTime: 2020-12-07T13:36:00Z

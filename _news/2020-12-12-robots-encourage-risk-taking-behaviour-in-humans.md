@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2020-12-robots-risk-taking-behaviour-hum
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-robots-risk-taking-behaviour-humans.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "'The robot made me do it': Robots encourage risk-taking behavior in people"
+    excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
+    publishedDateTime: 2020-12-11T20:43:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201211100646.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "'The robot made me do it': Robots encourage risk-taking behaviour in people"
     excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviours. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
     publishedDateTime: 2020-12-11T14:52:00Z

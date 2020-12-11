@@ -2,6 +2,152 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-11-30-computer-aided-creativity-in-robot-design.md",
+      "title": "Computer-aided creativity in robot design",
+      "excerpt": "RoboGrammar is a new system that automates and optimizes robot design. The system, developed at MIT, creates arthropod-inspired robots for traversing a variety of terrains. It could spawn more inventive robot forms with enhanced functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/computer-aided-robot-design-1130",
+      "originalUrl": "https://news.mit.edu/2020/computer-aided-robot-design-1130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-robotgrammar-02-Press.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december.md",
+      "title": "Terminus Group unveils milestone AI CITY on Web Summit 2020 in December",
+      "excerpt": "Participants coming from different countries such as China ... of Bjarke Ingels Group (BIG), are going to discuss how the AI CITIES are designed with the future in mind, enabling the cutting-edge technologies and people thrive together. The AI CITY ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/11/30/terminus-group-unveils-milestone-ai-city-on-web-summit-2020-in-december",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/",
+      "publishedDateTime": "2020-11-29T19:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-how-machine-learning-is-allowing-thousands-of-students-to-sit-exams-at-home.md",
+      "title": "How machine learning is allowing thousands of students to sit exams at home",
+      "excerpt": "His tech business allows tens of thousands of students to remotely sit exams at the same time, with each needing just a laptop, a webcam and an internet connection. The firm's software uses machine learning (ML),",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-54881746",
+      "originalUrl": "https://www.bbc.com/news/business-54881746",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6776/production/_115668462_gettyimages-1187635164.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-54881746",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-54881746",
+      "publishedDateTime": "2020-11-29T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-biden-aides-ties-to-consulting-and-investment-firms-pose-ethics-test.md",
       "title": "Biden Aides’ Ties to Consulting and Investment Firms Pose Ethics Test",
       "excerpt": "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors.",
@@ -1079,161 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-ai-weekly-the-state-of-machine-learning-in-2020.md",
-      "title": "AI Weekly: The state of machine learning in 2020",
-      "excerpt": "If there was anything surprising in the report, it’s that only 16% of respondents said their companies have moved deep learning projects beyond a pilot stage. (This is the first year McKinsey ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/business_meeting.GettyImages-558270869.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/ai-weekly-the-state-of-machine-learning-in-2020/amp/",
-      "publishedDateTime": "2020-11-27T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
-      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
-      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
-      "publishedDateTime": "2020-11-27T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer.md",
-      "title": "Volvo thinks gaming tech can help make self-driving cars safer",
-      "excerpt": "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
-      "originalUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Polestar_wordmark_pos.png",
-          "width": 3003,
-          "height": 1363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
-      "publishedDateTime": "2020-11-27T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

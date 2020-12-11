@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-de
 webUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Service Robotics Market Analysis Covering Current and Future Growth, Trend, Feasibility and Regional Outlook to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2020-12-11T20:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-analysis-covering-current-and-future-growth-trend-feasibility-and-regional-outlook-to-2026-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025"
     excerpt: "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based"
     publishedDateTime: 2020-12-11T11:25:00Z
