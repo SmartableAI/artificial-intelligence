@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Naturi Naughton Joins CreditRich AI App to Help Millennials Raise Their Credit Score"
-excerpt: "Naturi Naughton has partnered with a new artificial intelligence fintech app aimed at helping millennials raise their credit score. The startup company behind"
+excerpt: "Naturi Naughton has partnered with a new artificial intelligence fintech app aimed at helping millennials raise their credit score. The"
 publishedDateTime: 2020-12-09T12:38:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/naturi-naughton-joins-creditrich-ai-app-to-help-millennials-raise-their-credit-score/article_9d30cb77-4f33-5a1d-842c-69993d89ff82.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/naturi-naughton-joins-creditrich-ai-app-to-help-millennials-raise-their-credit-score/article_9d30cb77-4f33-5a1d-842c-69993d89ff82.html"
+originalUrl: "https://www.prnewswire.com/news-releases/naturi-naughton-joins-creditrich-ai-app-to-help-millennials-raise-their-credit-score-301189139.html"
+webUrl: "https://www.prnewswire.com/news-releases/naturi-naughton-joins-creditrich-ai-app-to-help-millennials-raise-their-credit-score-301189139.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/80/e80e1bbc-b92b-53f8-9be1-0702e9296ff8/5fd0d93e82ad9.image.jpg?resize=305%2C400"
-    width: 305
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1361028/Naturi_Naughton.jpg?p=facebook"
+    width: 2388
+    height: 1249
     isCached: true
 
-secured: "EmBuD7zJo5LpSfKtaSDOo0LfQnFZQ92PRgV78yefYo3PmSJ6pRT2gq6zLEKVAySSvzGTHUWFlOCNLPYkI2qHFMsVQB1SVOQgGHSbtQncjkTE5LRP842Ju0POCsea+Bvu1cKFaFkllPGDvLG9TreFAtXD+lDlbWi+yXORBWrMbbA8FJFp+rdi7HLZi8BX3vVQfgYPguv/h4BvIRthm5ZCb9HxYGbhCBBziK6/qmezItc8HjrFKMicHXl7oVoUHOUUPLm8+7ZwVWBdAlo3cwK9Gy1AggPf4RfbzIFZngvVpbo/Zrt9G/aBUYfMZj8RDdMVxrdridstFCC5FoJZjivIoOLo56zSL2Hyw8uPffx8pp85nMbpAqGi104gzYhzNuCOKnNF/xOS68DxWuWQpFhzADHnSMuNZa2hsznvYKWCqtMZk/vqayilG1MSf4KDHYdP+aJHVo6x6yW6b/IlhtRryGMiOd/htzDOW533tWP8tvaKHKocq0LZGvligQudhb3Y79r8AbU86EQN3QFiS7yg8A==;SEhGFa8JFEjzIoUtAUmquA=="
+secured: "3dTsFmgAyHzi6P1owTgkdoDZrGSKEodg/6hDHDh9qQXFc51aRVUAqURjWR6Ku6+PAqGhz6XvgP2RpP7JHfztdfXyEQpj5fy5dpn3ZuoOfBjZHP93c1c+AbSf8t+0cXd2+KbFhKrRvrN+rvh+dmEZJyAvi53/rxlbGVkqEaRCwo9cGcWyrzXC7HQEdU6IfB8vQcKPFWGcGmsJPqarfXKb4IIsuuJ1fe2U4Gt6MUR90M42BBRfHGY1T3ozE4J7wY7tmcYNKoKV+U+z3HCAO2kFBPZ43q7OlygMsfzpNd4lDErl5zUrBu86q1MgjEFApyeijvp1wJmdBws+piEVXj9wvVwx8URYbJQc+NbKQfzrzJQ=;BDM5gNZZ5OzQ4d5TFsmIcw=="
 ---
 

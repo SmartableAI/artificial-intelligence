@@ -59,20 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Meet the Fintech companies leading the innovation wave"
-    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
-    publishedDateTime: 2020-12-09T05:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "FINX: Investing In Disruptive FinTech Innovators"
     excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
     publishedDateTime: 2020-12-09T18:07:00Z
@@ -100,22 +86,6 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Beh-11.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
-    excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
-    publishedDateTime: 2020-12-06T21:57:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 20
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/08/Praia-de-Sa%CC%83o-Rafael-Albufeira-Portugal-dan-gold-unsplash-600x418.jpg"
-        width: 600
-        height: 418
         isCached: true
 
 secured: "KyjNOYGVrPb2Q6gO+EhqhcZZeFkEUB2Ru2qcNRzDnjwX5ZWneXHuJexPXaz/zOE8G8OOBMqYPu2R8y8Bm8pEWxmJTdzxgJzUin6hKrkW8pQao5qYXa4Jlm/d9pyFE0QBLCth+Z4G07LtL/NiW6oXmavtiIYMuqoC0c66VTWPGtmAwd9Dsfkn1qz62f7y4mADKcj0vIccJtkaakeGee9iaTFOQtv/gUi+sLIVfcZrwacSTAH5/IbQW7AWOqsm6xt9sdBmtLuwqfXgV/gN8/IjCaytDkf6C8lwzc+4gSX0uJ5VgBn2djTRjQEOLj+N+TYSRd2JIbPcp4A3xVDefEaP44XApbVr6KtrNWgXsAp8Q5Q=;NrZtR8K37paFF0aasGBICw=="

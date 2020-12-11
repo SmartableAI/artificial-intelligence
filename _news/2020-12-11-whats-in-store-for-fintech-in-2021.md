@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meet the Fintech companies leading the innovation wave"
-    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
-    publishedDateTime: 2020-12-09T05:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "FINX: Investing In Disruptive FinTech Innovators"
     excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
     publishedDateTime: 2020-12-09T18:07:00Z
@@ -97,23 +83,7 @@ related:
         width: 635
         height: 450
         isCached: true
-  - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
-    excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
-    publishedDateTime: 2020-12-06T21:57:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 20
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/08/Praia-de-Sa%CC%83o-Rafael-Albufeira-Portugal-dan-gold-unsplash-600x418.jpg"
-        width: 600
-        height: 418
-        isCached: true
 
-secured: "BK2IfdOQAdnN7j8HhICpSXXw1vbJQSQkOVbsAa6MqB8yd5LCTn3J8bRTd7JVvBpmyCiK9Sx7t7ZiibGKtYB46KfCn9wZNB7EFhpph2fi+eldhXtwNm9vIsCMv7ODYxrcR1b0cywQcUgsvBRncDi/o/LELXWN7l0Kgrz6dl73nEMDt1RP/oMPYLbrTaYIXQdR2Y2BcHgIpOjxToU5uxY3A8dafnxd4y5lCUzupAnyHhfEEnNIJZMEA6ZC7Q4Xf0zfmzytbRx5VAO8htMw2MjECbcSY0C/1Du9QWz+EbgyWfosUwe2qFZ+oW3WQzTrW72ysLQA5YY19i4TtbsS5zgghGTZ3hp4fPtQVQ+xDheEEtY=;ySbTYSKg3LQDt2BqH5MNKw=="
+secured: "fEDd+y2rxC7LFpNBhPCUKBh3Gi1u4urwlxn1KXvXZlWr8LHcBuAHBywDkKv+vTN0Ipmo5SklTGl/m2iCG3jhM2Mdv3tCGCzyg58fKMYWwp5gux8PIAUUp/OC91A1h1xpl2Fia1gPLDNb9CHXo3PuElM/UJVbOoVOYLrhWoN8Jj1G9nGamvLfue5QNdHYZ4ytzWmvi6jtbkEdUEu2n/7z+mw8gYIIXOMl759U6LHtkUBEWXEv/kGE54eYh4zBqGCUuLCCf9okNS+clSX8ub4sskwcFDERvxllp2bWgqV593OLcfdH5kAx3j9E1iWJSeZyKWdike5PEx/ZtpWrqP/XDpB91kVZos8ljNqScPCrlakwVbqX9wB/pK3x3+Xg7molCXoSjdc5kuLWh3/SeyXOIpN1b6eYZCXof3bwTQ0rTofs+CsykF1RfmRio0iA/qmzE/bHaXnrOpXNWwFU3+GWR/uZYbEbvUZnK/2ZW4zqxN4CL/ubqayeu5X3N6g7ieEAdWBa+ep12MC1xGfVCudl3g==;WvG1Sa5d3vRdjo9nC8psJA=="
 ---
 

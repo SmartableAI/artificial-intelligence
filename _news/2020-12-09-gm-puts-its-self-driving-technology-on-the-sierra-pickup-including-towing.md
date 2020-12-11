@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/6494726002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6494726002"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,24 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
-    excerpt: "GMC's pickup will get Super Cruise driver-assistance, as GM joins Ford in expanding semi-autonomous driving to the high-volume truck market"
-    publishedDateTime: 2020-12-09T15:07:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/12/09/gmc-sierra-hands-free-self-driving-pickup/6497996002/"
+  - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
+    excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
+    publishedDateTime: 2020-12-11T10:11:00Z
+    webUrl: "https://www.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    ampWebUrl: "https://amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
-  - title: "UK self-driving testing center to simulate real-world scenarios"
-    excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
-    publishedDateTime: 2020-12-10T13:40:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16078/uk-self-driving-testing-center-to-simulate-real-world-scenarios"
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 73
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google's self-driving vehicles coming to Central Ohio test facility"
+    excerpt: "Waymo is moving into the Transportation Research Center in East Liberty for a multi-year testing program for its self-driving cars and trucks. “This will be an exclusive, first-of-its-kind testing environment for the Waymo Driver,"
+    publishedDateTime: 2020-12-08T17:21:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.html"
+    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
 
 secured: "3NNQv2F9zCfKCOssf3/NPcTp55xzaFksk+Jd59s3OZiO4OPlFJh+KhPkAAT+Z4hVit8tOZLVGjlOFTYNsVxrDTd3pHXFNd2LIjj8q67edBXqRRlDglCKmHdloJGsY0EfkDul4ECjpv1V/nRhTnsYwjjcnj7tjgyomClSlDL3YO/Lyca2XBf+IFsyyga6Ty4oJD7Hwkur9adCpektCWJEsNz+N2VclyiYhlCeSalmWntQEA4IjCqu8T8zg6la1cPPmioqdAkEQ4OMQOra0b06EiuFz2huCg7q5BdLiOBhUnArqQM4nd6T2nxvGHHj7DzvaUn6NNt4xAVu52QU6Mr0Rmff2CR9JmKy+vIVth1AV5w=;MORBArcgv9ejGHgBbQTi3A=="
 ---

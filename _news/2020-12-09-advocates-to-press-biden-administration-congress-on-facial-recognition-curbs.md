@@ -54,6 +54,20 @@ related:
         width: 1920
         height: 1005
         isCached: true
+  - title: "Trial of facial recognition system at Co-op stores sparks alarm among privacy advocates"
+    excerpt: "Privacy groups in the UK have expressed concerns over the use of facial recognition system at some stores of grocery chain Southern Co-Op. The face-based surveillance system, provided by facial recognition start-up Facewatch,"
+    publishedDateTime: 2020-12-11T08:08:00Z
+    webUrl: "https://www.computing.co.uk/news/4024833/trial-facial-recognition-op-stores-sparks-alarm-privacy-advocates"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 31
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/5be1b0b/6e4ac7c4-611c-4735-93c2-6a4196e216a5/2/co-op-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "T/KEAUyf6nAZJrRSczMCjKXFHL/FPUPMMuj2jEkni3vA/wqwwBIzWLyozlR5AX6TL5OMnmr1Tq/6bMNMTNw+jhhSYeZV3yVaq6XQrVx+z2Cq1kKCccbVwslsWWvMT7vsHmDLhBwmFFM1tBHQqDx1wM0QERLDJkfw2q6XY89LVzgqjaQRH4x4rD4c5qIyqDwlpXnjot7eKEwj0mQSK8AQkkli3IiAdY+iQ8EXhWyChigyVoMs7LFWdwzddSa2/pTarMknslrg7YWafEAFAxeqXXRkQQRUF70uSu8ncHHLNs9sBuNQ3HlseeZUc3qE7fczPsXNzBVXCOYQ/WimIZoGHLMgTzrSqPz0JCpUu0Y+GJsKNVO+If0tqOyZB7iQx0EGTbF0zTclvc07eKIR1t+am7v04V6jKLuA7kRIUK/CkIex4IFkWgrNEikN9Od+YqavOU+80gR7VdcFpxkAmbFpaPfWc9eLCwd6849/QsaIxO/hanFgs2w58G7K8DaA5RDy/24ZI4Dn/iiSRFDoizgSxw==;E/7AwbJLXya9wlwKRC6a+A=="
 ---

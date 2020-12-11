@@ -7,7 +7,7 @@ originalUrl: "https://voiceofoc.org/2020/12/voice-of-oc-to-host-live-video-coron
 webUrl: "https://voiceofoc.org/2020/12/voice-of-oc-to-host-live-video-coronavirus-discussion-with-orange-countys-top-experts-dec-10/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "Coronavirus | IISc researchers working on COVID-19 detection using Raman spectroscopy, artificial intelligence"
-    excerpt: "Traditionally a chemist’s tool, Raman spectroscopy has found numerous applications in biomedicine, especially in disease diagnosis.”"
-    publishedDateTime: 2020-12-06T18:31:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/iisc-researchers-working-on-covid-19-detection-using-raman-spectroscopy-artificial-intelligence/article33262680.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/iisc-researchers-working-on-covid-19-detection-using-raman-spectroscopy-artificial-intelligence/article33262680.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/iisc-researchers-working-on-covid-19-detection-using-raman-spectroscopy-artificial-intelligence/article33262680.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 37
-    images:
-      - url: "https://www.thehindu.com/sci-tech/science/maroog/article33262679.ece/ALTERNATES/LANDSCAPE_615/IISC"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "lhOxUFse4U+QS8mPkh8mm/476+57eIeiZk7czRRTk0PxkO0aMrBxbH46+D8GPTwAJh9cX0Jt2yr13vV0IJ3Yyoncm0MNSVyerhmQSV3b4YCy5WDgrK2wHC7h3HjB0XIOYDwY9EOxxY6hUtN29ltkQyqzjm/E/QVsufwLjrJFZbGFifAhm10lDSYe8DBpnWu3pvzrVwtBNyIFEvtgS1QVuqKPrpOpOyO/mbi8ES1pfjg5cCsnsWMb0zrbjNvQZec+RBw+kkFqOixWl0hcxqpc9NGK87Lmcv991cdRBfVN0R6QoMgKPtBhLN3VkOieAg5fTlL6u+Udjwtebr3scJ7TyiJTAj4gcVQ6cApaFP5y2TE=;QVNI/8iYZeTa+NWYMDwV7w=="
 ---

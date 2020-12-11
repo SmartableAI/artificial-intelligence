@@ -27,35 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Israel’s Fintech Ecosystem Is Helping Usher in a New Era of Global Finance"
-    excerpt: "The rise of the global Fintech sector and Israel’s role as a major player in the field has never been more apparent. Although the industry has been thriving for the last decade, the last few years in particular,"
-    publishedDateTime: 2020-12-06T20:01:00Z
-    webUrl: "https://www.algemeiner.com/2020/12/06/israels-fintech-ecosystem-is-helping-usher-in-a-new-era-of-global-finance/"
+  - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
+    excerpt: "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?"
+    publishedDateTime: 2020-12-11T10:03:00Z
+    webUrl: "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/"
+    ampWebUrl: "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/"
     type: article
     provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2017/12/bitcoin.jpg"
-        width: 720
-        height: 360
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2cbb4abc4e6125bd76adf%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "There are 529 Fintech focused Startups in Israel and they’ve Secured Over $3 Billion in Investments"
-    excerpt: "There are reportedly 529 Fintech focused startups in Israel and they've secured over $3 billion in investments."
-    publishedDateTime: 2020-12-07T11:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
+  - title: "Meet the Fintech companies leading the innovation wave"
+    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
+    publishedDateTime: 2020-12-09T05:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
+    excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."
+    publishedDateTime: 2020-12-06T21:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169941-fintech-startup-ecosystem-in-portugal-is-growing-steadily-with-42-of-fintechs-being-launched-in-2018-or-later-report/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 30
+    quality: 20
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Surfing-Israel-Ocean-Wave-Water-Beach-600x495.jpg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/08/Praia-de-Sa%CC%83o-Rafael-Albufeira-Portugal-dan-gold-unsplash-600x418.jpg"
         width: 600
-        height: 495
+        height: 418
         isCached: true
 
 secured: "IdAveSgNHsLrlhI4Nb0KHSQINUd6s6S6Wjm4QYk9kbsNNYMzFbxpgoFVTayOfijGVgytZH22y3OyOuuf0IFYCBagb+MDgndnXo3ByAgmS2Y6zaPBRg3+fmp6Yj0o+N61pp+75T8y0EUgEJK85axCa4+U0saX4gX6p2QRSzFg3sImxSAxI/PKP/5vThugRNFNvWVKrVXd7SmtJ/m94H36KRP6sU94R40VSD8MQ1RlvHmLsvxBlu1VUef+YLbxWCT7nKmYY+h2HWojFKBufnrATf3MUV4QX01IJdKAQcFqrGmQMck22RDVUvMKitUVkXu+V17AniuRRDskcQe+OXJTawV0psWtQU3hwWNgqkqZt+8NSfGq8qMzCwommuBVjJz76fwicZb/uN+NCCLKVS1Fghvk1tB7+3QH/zqmbKLSJpaoLfvFXaNKnYrNfhDckZQJICHhDnyvfxMwnZVVws/rYpdgWreFDhET/Qrm4MX32rPbXmy43cEomisiih/6NaiZlSZoqzC2lq0H7oPMdQ5ahQ==;+Ol5wBgV3Xkt3g0v7mtj6g=="

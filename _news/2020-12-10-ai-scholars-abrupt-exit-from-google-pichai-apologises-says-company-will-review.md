@@ -261,17 +261,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Google AI researcher’s exit sparks ethics, bias concerns"
-    excerpt: "The furor over the abrupt departure of a prominent artificial intelligence scholar from Google is the latest incident raising questions about whether the tech giant has strayed so far away from its original “Don’t Be Evil” motto that the"
-    publishedDateTime: 2020-12-06T19:01:00Z
-    webUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/"
-    ampWebUrl: "https://www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-ai-researchers-exit-sparks-ethics-bias-concerns/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "The Future of AI Ethics Hangs in the Balance"
     excerpt: "DeepMind Claims to Revolutionize Medicine But Questions Remain  Google's DeepMind unit is good at feeding the AI hype machine, because after all, its very future depends on it. But judging how Google treats the future of AI Ethics,"
     publishedDateTime: 2020-12-09T12:54:00Z

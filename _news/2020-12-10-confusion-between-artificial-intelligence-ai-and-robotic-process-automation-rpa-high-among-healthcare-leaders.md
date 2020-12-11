@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
-excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess adoption of automation in revenue cycle operations at health systems and hospitals across the U."
-publishedDateTime: 2020-12-10T13:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
-webUrl: "https://markets.businessinsider.com/news/stocks/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-1029881126"
+excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey"
+publishedDateTime: 2020-12-10T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html"
+webUrl: "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html"
 type: article
-quality: 58
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook"
+    width: 1440
+    height: 754
+    isCached: true
 
 related:
   - title: "Healthcare Artificial Intelligence (AI) Market"
@@ -48,6 +50,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
+  - title: "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented"
+    excerpt: "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,"
+    publishedDateTime: 2020-12-11T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Study Reveals Growth Factors and Competitive Outlook for Future"
     excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
     publishedDateTime: 2020-12-11T07:24:00Z
@@ -71,6 +87,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
+    excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2020-12-11T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-ai-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -102,6 +132,6 @@ related:
       domain: arnnet.com.au
     quality: 11
 
-secured: "iz027rVfU4l5XhVWHRrGEiTEhO34vpW1+30sw93x6mXms493RPtC+qxghCoHQF1dPcopo+DS6ZKoso3GxfOfrimrd2zQoE6O0upMwmipRKPsE1Yzm0ujKQuyNf5nK8dQ/PGTU8Lag9HmIrYwxPSLbBynNANwiYnWH7c996tcaaPsgHlSBmVLLeYRDQETlG8YdZR2ixJeIFN25JMCegL2NFeG0Nasy0vPw+LSbrSN1aQeNeC9BtiuiAvPq+MCrD9NCv7ZyM23Rk6bpWl7ruk6uOfZ3jlVM1U5205RjYDCWoXquzixwTGpb13TkYXYhUYcN7TXm7XMrtVQFqaYEbtwN8GoFV02Bo6KweAOC7bAZZo=;jo8ylyjcEFh1GWAObiUzpQ=="
+secured: "MnuB2bbsg54K//gbSfIBY0XKqtxWLEF7hLrE0p8Zcq3Do/d2omqnMFcapj12yAh7LuMNki7v0T53dL/cabg61avWYCBK2q1623GdYgf9y4mdn6QFSeRXOOIRRyU82MIOHvPX5DeLuuigtZNnaL/jyvsfH4GoOJkc3QIJuxkQGPNWXRDBznHVEFczL10otzdvewudD0yEt9px/Fu4GNvKiUhWB0GBbaEmU5zY45ADRU8NPlLOCveEPbAdQ0uPTxk1uR3x9wylCqWq381zi/U8CZE6qkNIS0/qdufq4Eg/TVUDigRoM0Myr8hdROEPqxfRGpBb1CmAvADBeZEQXoHRNWzm3M2+RUnEUrlvWhpXzGQ=;QObhmqTT28X7IaY1gSHrOw=="
 ---
 

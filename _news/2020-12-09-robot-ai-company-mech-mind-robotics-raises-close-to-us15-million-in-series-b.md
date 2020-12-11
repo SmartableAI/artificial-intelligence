@@ -3,8 +3,8 @@ category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
 excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
 publishedDateTime: 2020-12-09T11:34:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524"
 type: article
 quality: 65
 heat: -1
@@ -56,14 +56,19 @@ related:
         height: 274
         isCached: true
   - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by F"
-    publishedDateTime: 2020-12-09T15:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-1029877903"
+    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
+    publishedDateTime: 2020-12-09T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Parallel Domain raises $11 million to generate synthetic data for AI model training"
     excerpt: "Parallel Domain, a startup developing a platform for synthesizing AI model training data, has raised $11 million."
     publishedDateTime: 2020-12-09T15:04:00Z
@@ -88,6 +93,6 @@ related:
         height: 422
         isCached: true
 
-secured: "aAm7WZ1v22p4N0SRrFIZ6dkN5KF4DNxAsDn95Ak1z+DBBu3Zkscu7suQiYOv9LNUSsE+3T+MIdMUOmLYHEoD5NqbdZYV0jkcqOe/rUxxytE2VYHcdPTTPw5O7AxvsNvoBbfRJ1fDeta0acHDADSil+wcr8qzw3hSisSG1aLKydQshaDJEN+ap9gcfZjZg8i5W2BtjsrQ7qefBmGOl7gXhs+HK5e+kKi80IILXc0C9Lriz39QtkFJS3pu7hiz1brxoeMvMmr55N65snN4pCLDUofUo8VnL/alZhZddBwZHPToCZz6K0JB6iuNAXKxBAmJi0YkEegGSutrETsMd3jWCws3CXIRu8Yky6/IU+GSfjs=;KiZT2W5aXiN5Be8bGaM5Gg=="
+secured: "XM60P9Gs7/U0Ja3N+2wjW5tcb72OnRZST22s5nAEQ0qWnr0JceXJbictSF5kyiMvGmAHwIukcuhrBv2lRWIdENREoyEVnpFgnAmfY2TIjXtTz1Wc1LXDd7inYMyCEWNMvY+DOW8xT9m8xbBnyCX/1JoZT1re0/3INTadgArgBuEkoEfPFV+tXsF8GmQUl9pfpoREQi6btyf/LkeeZpeQRE3Hccv3makSe/LBhBXg65vuwefQDFUafpQRf2XHsL30tr3jSlYYYQyZ8M5/QcJEry3BqJagN06TViArMBpsaqhnd5jVCF1ryQ8EcoytJ8PIKSn+sdfnKCHbBuYGFr4GBZzwFlFjDHmJOXxRh1JC63Q=;fPotgugyrKUGUB4O9UYXYg=="
 ---
 

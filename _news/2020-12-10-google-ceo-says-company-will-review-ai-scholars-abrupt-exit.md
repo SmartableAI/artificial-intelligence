@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Google CEO says company will review AI scholar’s abrupt exit"
-excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google"
-publishedDateTime: 2020-12-10T05:11:00Z
-originalUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
-webUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
+excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees"
+publishedDateTime: 2020-12-09T21:35:00Z
+originalUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
+webUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
+ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: myhighplains.com
+  domain: myhighplains.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/8b192c17a1084a91989f34d07ff2265d/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -50,6 +53,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Qxw7GL1DcyjdB9JyDyzDKuNqIETW8OLO8pi0PbgdZ9LAhWS8j8rCgsKk1hln4p7sMFtnsmBb9a+XUf3BEvW8EMF2bR5+gJd1msezOkLzo4TXw5ORQv+JLc7oIYFZcklivH9pLMz9bIyogBZEdcX6CDjQ9raECzxdsrIG2vQpoTUYnXpS+r4WN0ODRBJdH5TtuXOGQxKi+Au7ePoyP9kvHXF7IX8LbKJ3WIARYZ7rFY4Tv/tsUCQ1rTw9OVhtaXlQPmGFGLm6JHwkoWBJJVmrqFFoRMk2wopKNngpEmEHHERjjeedajw0D4Utj4zVc5CaHfq9jgAPv4TFzZzd4zGF3ZBltM2a+4L7K6T2pGDaW4k=;31uPU+f/lXq0EiXzK1TrmA=="
+secured: "YYp7QK0FCv/f7IWQl2m/NQQuAAIDSLnTavCgTB29EX+z+totScFJ6cVI1lJqNKusmGgcK8Zljml0yyhvEwV7iQBgCsqQNwWeO0fIlKg1IqGKB/ZEdCHFcz97uZTnjjZy4gkADRbP+tmPd11VxVkSdsWEjLh8OPfx71hHBL7rL1VquEti/F61R6HBdFHgLyIXqerHKA56m6f39hiYUGC25D+l3xqGjh6QreNw5tWPgxQK7a+0IZoplpjI1Sgnw1jQVFbdFPPp6AGK/CpOyyOpHfPt6cV/D0FvHnubMoa1ZSbnrtfOnLXKnAfvOYFG+KyhzDFiOcAicV+uQdgNrHBrtWa+pOULKPk9Bj6qIi1oRmA=;KFY+SJr8Bq2DRSgz4JMcXw=="
 ---
 
