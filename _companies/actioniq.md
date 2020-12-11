@@ -2,7 +2,7 @@
 name: "ActionIQ"
 overview: "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration."
 type: "profile"
-heat: 77
+heat: 41
 
 website: https://www.actioniq.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActionIQinc"
   url: "https://twitter.com/ActionIQinc"
-  followers: 1079
+  followers: 1080
 
 locations:
   - Mountain View, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "ActionIQ"
 
-secured: "HuBWLQGmD8oIJhwhEcduGEcAiXGBRLCN4b/egugj9lGO7qJkCazHsf4Fo75aekoMlJKNq/G6myHTYSk5WegKfVi6NhXk/OEJP8VS0hkhsEruYNLKSWQHzI6T1UaydmIDV1GG6SB8Sq6haeWAw/m0Ya8jzSoITNSn5sjCg/FD6KqGlLE4oiPcKL+eXzPwPnravXHmCajL8PXSObMhGkHaZTCWgXgb8AS2ESnffzhDHWIju12fqpx0pGG7zH9Ja0BsD3HyhXgDvm1ItGyl20O+p4Js4/ZuTuy387M5Uq66KruNEtXjR6dHtUrwDUn/XEmKnlG8BlwnEQzFLzLyl2KJcGqUvQDvJxClzTc66Zg6HJzlZa1svn0modR0AFp/iztajkGgo6McoIGR++EjKBN8q+oCRqnCZSX0RRelaEJaMoU=;dPwL6TTAUlhhswO1zx9IFA=="
+secured: "lT77nkfXZi35S5Q3NuUNAgsC/Dnjx9ZclMTqEr3rfFGk0HBmLih30/peYwgGw0dipWGfl9WQWeHOZEZt8IGOURfhfkXPDMpqTa4arNouMm+oc4oEtVUmtF26HXVDPJjVfuKZJ2jhXyaIH+b+CNxtpWdNyGkqw6oERk2nkGELo2Po7VSpl12iID/j7IwoBTjP53uCUhAtMc+E2e8rYpbpHFK3C+ewidjlf63mXBzKb+XjxVN3wJQGE5IUBnZja42WaGySGSJdg6yr3B2W9pmkJCRESOSd4TLLLLPJhSSBfAulJADBbdqI+NcvaQlAjjOJQEiTG5VWBbVcVSQP5sQyhcdfZ4Y94zdmDaG0NpBe5DjwjNJXhHE8uJUooX30/eNpBQ4ntsFYa5MYxhV+laiaQ2BgqGdTIu9JN7ov6V+jLNk=;yuS8TgYbRfPyF+JJV9Cg5w=="
 ---
 
