@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence finds surprising patterns in Earth's biological mass extinctions"
-excerpt: "Scientists have long believed that mass extinctions create productive periods of species evolution, or ''radiations,'' a model called ''creative destruction.'' However, new analysis provide evidence for different outcome."
-publishedDateTime: 2020-12-10T05:02:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/tiot-aif120720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/tiot-aif120720.php"
+excerpt: "Charles Darwin's landmark opus \"On the Origin of the Species\" ends with a beautiful summary of his theory of evolution: \"There is a grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one;"
+publishedDateTime: 2020-12-10T13:15:00Z
+originalUrl: "https://phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.html"
+webUrl: "https://phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.html"
+ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-patterns-earth-biological.amp"
 type: article
-quality: 30
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/250798_web.jpg"
-    width: 1440
-    height: 1313
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/58-artificialin.jpg"
+    width: 2880
+    height: 2626
     isCached: true
 
 related:
@@ -42,6 +43,6 @@ related:
         height: 821
         isCached: true
 
-secured: "I47tLUyvLSOtx6GtmX/zsjEPKRuTUJRx+EfRfjxGPDkGclS4huuJpHSOxpLKqZKWI3f+pGLcjhBAf94EMm8vvlG4IDtETOGSKZGNWabgGSQOEXV394FjUT4sK8Z2UgXaEH85SZyIDCfGoiMJGYNRoAMz8aSshDpAtjYxqbuujiPa37YL/8Slsbyqdv0RK0XP+uPz9RZHYP4PCPuiM1j6cgOmY4ykYX1KKyvUkc5wbWhTopk9qCRaQyq39r38eqXPUKy9gOuZoi+grc4/5qLobGPacazlrPCllxwgJO0woZmGA3YbPH6h2E/78EQAmwfPM47BXABnYSPf3luzvlutRtUtiQM86HzJ30ZnXZRBJxM=;040Tf8QyFptT0vUB7UyReQ=="
+secured: "uVy1OuDmfOOeMZ/PnQLZDAqWs08ijFf1r4VR0HDeZUGiVCb/FWI9fESnMh1jwezoEerv6j3q/A91d95UJSpYAHW4RDyFz4hfH4ni4cjQElx/OB7CVOynIR6iTif1kGZUMMZK/84QIfiDwQmllFKXpcdIlerG9pgQA16PtqdJz8YZWF+5DuuL6K+PexjlksGDNMC09WA6n257BZKpykqTRCEFbAZIc0VJn2hQHSX2Hq6an4EeKXee2h3veUWdZUgKoJzfqWWuyeXhsDQ1BNqTBTDROLGVijhEmDoO6wyzzHW9uh3CZgfIwgdpBVw5JNhnkBqLRvnfgHu2rjVXLuw5vL97v5hphIhP9Z6tbXDv4fQ=;tz1e2u0d2DiOoP0RnJcw8Q=="
 ---
 

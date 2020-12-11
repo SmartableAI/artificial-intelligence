@@ -160,20 +160,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
-    excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
-    publishedDateTime: 2020-12-06T20:44:00Z
-    webUrl: "https://www.newsy.com/stories/volkswagen-may-sell-self-driving-cars-as-soon-as-2025/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 24
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1607266233_Vw4xEy.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
     excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
     publishedDateTime: 2020-12-09T15:59:00Z

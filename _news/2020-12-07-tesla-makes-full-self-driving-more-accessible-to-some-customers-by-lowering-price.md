@@ -75,22 +75,6 @@ related:
         width: 4709
         height: 3139
         isCached: true
-  - title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
-    excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
-    publishedDateTime: 2020-12-06T19:09:00Z
-    webUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
-    ampWebUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Tesla-Model-3-Full-Self-Driving.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "EuBMxneXWbUtQ2/ZDZjoNLqAUMcYXF6OA6ajgBnoMPT7OHen9F+3C0U4TJxWHv3R2rBOnrpSZLNM39xP55oiH1eaSMVcVmPi+OHq4mY+Bt9spvkhUwCG/qIi3p8+lC7kOwMiVwgkUt6jFVGOt6a5sQW9zL3e/n3YDxNEB3IAGP/jq14yDY6toa5Q2VcoOYrTfp83k85jfaN08sxBxJLN2/ROU7QT38ancCfMkGHFCCVxalWWUmbW7fvuo5YsqYdJgXxPMWJWL6eNuyD1YoLQaqNSy1vozGL1THfQ8ojoc/FCcF+wlHHgEfS7K26pnEiaZ9LfS6Q3UCK0af4mSwDajWZZrkBwVsAVBjsTIWEeITyEn120+uJdFJNEXu2oJitwLgqOd194dcYQaSfD7r5n2iqmVAk1/4U0o/sVh0Vfim716wpRwqgv7MyLhkK6oztzXmrJJnNmBSjRuvrEYhv+BesFLKRR5lKZioJr0K3BnX8SuQt6AgR147P0vCAqmhnBpP+Gc9HCcDRDmxgGKEMAbA==;Ksn0hAJmyHjdxucB9Aa0Vw=="
 ---

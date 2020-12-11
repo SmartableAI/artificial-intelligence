@@ -2,27 +2,29 @@
 category: news
 title: "Artificial intelligence improves control of powerful plasma accelerators"
 excerpt: "Researchers have used AI to control beams for the next generation of smaller, cheaper accelerators for research, medical and industrial applications."
-publishedDateTime: 2020-12-11T10:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/icl-aii120820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/icl-aii120820.php"
+publishedDateTime: 2020-12-11T12:01:00Z
+originalUrl: "https://phys.org/news/2020-12-artificial-intelligence-powerful-plasma.html"
+webUrl: "https://phys.org/news/2020-12-artificial-intelligence-powerful-plasma.html"
+ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-powerful-plasma.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-powerful-plasma.amp"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/250998_web.jpg"
-    width: 1440
-    height: 1080
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/59-artificialin.jpg"
+    width: 2880
+    height: 2160
     isCached: true
 
-secured: "t1lyg3rrXUEvvJoxt37UcxqX2/vDQ5JXjhmQcNGBEUaIYOg+cepOMgziWxHjL1EwxwGw0WEsf5vlCjnwlztf6Tx0AkV0JamonG0J0McWy3QMC6PMaXBQYCAZ+b/jo2kUGIMjVFtQEWXWQYTb3hsj2GUK9QMJhccnNKYIhhNibOugJXZY3xizdjFwgEY7K96wv3CRN0Vv6DOcnHDJ/hU/wHPAdQbG4TN6TQKl+Zlp/uF4suVkHpzwzm9sSrK8MeEELNIvhF2Nq8jJxxqIOUZARGx48JpvmRO4HVf5g46wqcLUMMJO451WAmvtPucfTwVtkZMYH5rLHYaZESJM8pj+LMDVw0IDLGL6SBiGH83jbb4=;3P/K0t5YxeYE+mzmnijEqA=="
+secured: "TQND7j/RQ/nXmuxSjgxDECaFGT0EI2Id5TunPtkhaBhPL+IJBGgSbYKmTr227HC465D9dTZAH+FNVS2YatFd/pnIKR34Gg5iT2Z620tHBxMe9ALX+XusvwF2OYui99tbQMYI41dzZtesGwlPuuPps4Cn+UUFTzTBCGRaj9l4NvVSuGhMkDUlTz8uUP+v6jDTt1UvD9wp5ygNlA4OsNnegXKunT7xegxv9iEhMcYRLLz8di6w2ZGCGiqh66ilWldcZZzWZlpnEH/JovLpH1f+R29aM3lf5pVq+O0FE75+N0M5iAwHWI/pENR3XbCOkY1yOoWeaS+1rdpgNgmlEF1JBdB4sTBD5N0zyuDPsTehwog=;rZPWyYX+0/idltEQW3K1WA=="
 ---
 

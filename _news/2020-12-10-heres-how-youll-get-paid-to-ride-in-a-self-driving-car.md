@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -149,20 +149,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/5b4462b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F8fd%2Ff0fe4276ab8344079f404f1ac9c377b7%2F8fd1778b75314c8099ff1086f326205e%2Fposter_48756ffaf2564f11bda0af0eaa71dfae.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
-    excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
-    publishedDateTime: 2020-12-06T20:44:00Z
-    webUrl: "https://www.newsy.com/stories/volkswagen-may-sell-self-driving-cars-as-soon-as-2025/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 24
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1607266233_Vw4xEy.jpg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
     excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."

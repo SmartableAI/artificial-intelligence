@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 11, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
+    publishedDateTime: 2020-12-11T11:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
     excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
     publishedDateTime: 2020-12-10T10:01:00Z

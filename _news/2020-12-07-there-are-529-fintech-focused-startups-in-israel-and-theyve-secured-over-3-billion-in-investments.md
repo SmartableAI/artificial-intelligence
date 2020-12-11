@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintec
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 495
     isCached: true
-
-related:
-  - title: "Israel’s Fintech Ecosystem Is Helping Usher in a New Era of Global Finance"
-    excerpt: "The rise of the global Fintech sector and Israel’s role as a major player in the field has never been more apparent. Although the industry has been thriving for the last decade, the last few years in particular,"
-    publishedDateTime: 2020-12-06T20:01:00Z
-    webUrl: "https://www.algemeiner.com/2020/12/06/israels-fintech-ecosystem-is-helping-usher-in-a-new-era-of-global-finance/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2017/12/bitcoin.jpg"
-        width: 720
-        height: 360
-        isCached: true
 
 secured: "E7a6RywkNYIeSDecV3bBjt6ixNajRI8U4aS1B5ZYS3uWxKgTTgFXXRLvcYGFM2hsv9h6rmqlBqZ7hashAjJhIe1Fbj/QUpDkekuJUT9bn3qeYNp+30zUVu9DBF5HAh4ct21sknBeNTwDr3evJyQp9pObignWHkiEDqIJ8kx/Hu18Y7fK1SYbITsafRgsB6qcZ86egN7CO7oG6o0Ii7E99myB3Ls1O6st6Ige4WI1xM3YSH3BDoLNf9FESE5/pV7TWvdrchNRZjteyQNeq85UYRiqri5aB3iUi2FVur5dQTMhuSiIhbZIOqGHgSmllWpMcikLEd5OkBhj/Wfm5lESM4uy6ORMEEWRpvBYB42V7mVlYZanAMwP69oV89jh0mDOS7sZVmIFhxmaiYSCTM704AR2Og8+BBC6EAzjOfamQ7TfVQnwjcU2mS8rjhlx/Lv3mWojGIYpyfQv9GRSCke6H7grWzoG3bLa8xRr2TtZFKiJDfsjEHCbdF9h+ycWDmPLRGOvxsc6A//c95/1VQMnoQ==;Xp0zKmnskRMkoD16XadZKQ=="
 ---

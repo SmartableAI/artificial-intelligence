@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Peering into the Future: A Vision of Marketing and AI"
-    excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
-    publishedDateTime: 2020-12-09T06:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/peering-future-vision-marketing-ai-martin-waxman-mcm-apr/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Shaping the Future of IT: AI and AIOps"
     excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19. So it was"

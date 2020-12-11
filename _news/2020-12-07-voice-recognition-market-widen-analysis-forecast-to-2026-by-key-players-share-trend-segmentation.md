@@ -29,61 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market Overall Study Report with Top Key Players"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2020-12-07T12:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-overall-study-report-with-top-key-players-2020-12-07"
+  - title: "Facial Recognition Market Inclinations and Development Status Highlighted During Forecast Period"
+    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
+    publishedDateTime: 2020-12-11T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Emotion Detection and Recognition (EDR) Market Anticipated to Reach 18.0% CAGR by 2027"
-    excerpt: "Selbyville, Delaware The report for Emotion Detection and Recognition (EDR) Market offers an assiduous analysis"
-    publishedDateTime: 2020-12-08T21:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-anticipated-to-reach-180-cagr-by-2027-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Market 2020 Booming Strategies of Top Companies, Progression Status and Business Trends to 2025"
-    excerpt: "The contemporary development prediction report titled Global Voice Recognition Market 2020 by Company, Type and Application, Forecast to 2025 offers complete guidance which provides an investigation of the most recent market patterns like market development openings,"
-    publishedDateTime: 2020-12-10T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-booming-strategies-of-top-companies-progression-status-and-business-trends-to-2025-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
-    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
-    publishedDateTime: 2020-12-10T18:14:00Z
-    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 11
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "xXMLmQ1uQFfL5Tx52AOyrOVxtmdNlysQ9w76S6ASowU1gZi6oEl0ole0g85xw031wgE9XDFAO8THPdSedVUlARerwIU4KZID3Y7WrRzFYtc2ui9JNRIkZB8d8F2MQyfztS0U2r9B+vhTgnonqILsDEyPlo7raQYjFFCsuuFGoBxbD67Q8+Hjen+dYeqbl6X+C3ciEEaiUiVrbkJcmd463HYAXE/wnYSYrE/SXjIfEOWV0q2rhCePPS0rowKVCSiiFfxnUB7PXLISc3BrW+Dwq/HifLIORSJjhxwlf+yMdaWto2zZ5/WV+6qJ0inDl57GCt+S/rTRvpi0gBmFhuT2FCxlA06nv/rX4Q3aubw/58Y=;P3kUswXqCQqJL4hDMtRytA=="

@@ -150,20 +150,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Volkswagen May Sell Self-Driving Cars As Soon as 2025"
-    excerpt: "VW CEO Herbert Diess said developments in computer chips and artificial intelligence are helping self-driving car technology."
-    publishedDateTime: 2020-12-06T20:44:00Z
-    webUrl: "https://www.newsy.com/stories/volkswagen-may-sell-self-driving-cars-as-soon-as-2025/"
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 24
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1607266233_Vw4xEy.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
     excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."
     publishedDateTime: 2020-12-10T00:14:00Z

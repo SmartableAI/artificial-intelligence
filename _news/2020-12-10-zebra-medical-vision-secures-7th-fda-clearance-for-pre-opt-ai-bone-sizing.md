@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fd
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Medical imaging startup gets FDA clearance for Liver Surface Nodularity software"
-    excerpt: "AI Metrics, LLC, a medical imaging startup focused on leveraging artificial intelligence to improve patient care, has received United States Food and Drug Administration 510(k) clearance and CE mark clearance for the company's Liver Surface Nodularity software."
-    publishedDateTime: 2020-12-06T20:25:00Z
-    webUrl: "https://www.news-medical.net/news/20201205/Medical-imaging-startup-gets-FDA-clearance-for-Liver-Surface-Nodularity-software.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201205/Medical-imaging-startup-gets-FDA-clearance-for-Liver-Surface-Nodularity-software.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201205/Medical-imaging-startup-gets-FDA-clearance-for-Liver-Surface-Nodularity-software.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Digital_illustration_of_liver_in_colour_background-Liya_Graphics_0fff2ea2f60c4e71b4991068b748916f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "FDA clears Zebra Medical Vision’s X-ray modeling AI for orthopedic surgery planning"
     excerpt: "The artificial intelligence developer Zebra Medical Vision has received its seventh clearance from the FDA for its programs, the latest enabling X-ray images to be used in place of CT scans for certain aspects of orthopedic surgery planning."
     publishedDateTime: 2020-12-09T16:00:00Z

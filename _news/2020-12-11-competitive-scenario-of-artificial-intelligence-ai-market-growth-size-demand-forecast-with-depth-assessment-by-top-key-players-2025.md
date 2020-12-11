@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in space exploration Market Report to Share Key Aspects of the Industry with the Details of Influence Factors"
+    excerpt: "AI in space exploration Market is valued approximately USD 2 billion in 2018 and is anticipated to grow with a"
+    publishedDateTime: 2020-12-08T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-space-exploration-market-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
     excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey"
     publishedDateTime: 2020-12-10T13:00:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/videos/computer-vision-is-the-next-le
 webUrl: "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -29,29 +29,89 @@ images:
     isCached: true
 
 related:
-  - title: "Nearly half of IT leaders fear AI will them in the next decade"
-    excerpt: "Two-fifths of IT leaders (41%) believe that artificial intelligence (AI) will make them redundant within the next 10 years. Trend Micro’s research found that only 9% of respondents were confident AI wouldn’t replace their job within a decade,"
-    publishedDateTime: 2020-12-09T15:50:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358067/nearly-half-of-it-leaders-fear-ai-will-them-in-the"
+  - title: "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising"
+    excerpt: "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative."
+    publishedDateTime: 2020-12-11T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 49
-  - title: "Artificial visual system of record-low energy consumption for the next generation of AI"
-    excerpt: "A joint research led by City University of Hong Kong (CityU) has built an ultralow-power consumption artificial visual system to mimic the human brain, which successfully performed data-intensive cognitive tasks."
-    publishedDateTime: 2020-12-11T05:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/cuoh-avs121020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 96
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251257_web.jpg"
-        width: 1440
-        height: 1275
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd299ba7aaefd66c9fe94fb%2F0x0.jpg"
+        width: 1199
+        height: 634
         isCached: true
+  - title: "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion"
+    excerpt: "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,"
+    publishedDateTime: 2020-12-08T21:43:00Z
+    webUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/"
+    ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 73
+    images:
+      - url: "https://www.geektime.com/content/images/2020/12/pasted-image-0.png"
+        width: 1077
+        height: 658
+        isCached: true
+  - title: "AI Bots Revolutionizing the Finance and Banking Space"
+    excerpt: "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,"
+    publishedDateTime: 2020-12-09T10:48:00Z
+    webUrl: "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-the-finance-and-banking-space-nid-214809.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 71
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/2l804abO.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Peering into the Future: A Vision of Marketing and AI"
+    excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
+    publishedDateTime: 2020-12-09T06:19:00Z
+    webUrl: "https://www.linkedin.com/pulse/peering-future-vision-marketing-ai-martin-waxman-mcm-apr/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Exceed.ai Completes $4 Million Raise for AI Marketing Assistant"
+    excerpt: "Exceed.ai, a startup for nurturing marketing leads, has announced the completion of a $4M seed round. Funds will be used to enhance the AI"
+    publishedDateTime: 2020-12-08T18:27:00Z
+    webUrl: "https://www.insidermonkey.com/blog/exceed-ai-completes-4-million-raise-for-ai-marketing-assistant-897966/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 54
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/08115121/Exceed-AI.png"
+        width: 1077
+        height: 658
+        isCached: true
+  - title: "Using AI to transform the customer experience in banking"
+    excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
+    publishedDateTime: 2020-12-10T12:44:00Z
+    webUrl: "https://www.finextra.com/blogposting/19634/using-ai-to-transform-the-customer-experience-in-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "iL0kuH8XTPTxBzLAeUFV2lEWxpVDpYogw2OaXr5YTlWnkeGxg6H50ykMCetOubWixDDQ55YsW1K5kDbW9Rb32XfyIWBZKGrcQpNtMwgwnRxzs/Zb3f812uwZwj7vX1E1AWkb4Fu8GNrVc6gYbozO0PoFFMDFdm43oAv4e5W6kc3z9jUbfGzjJ6Tw+o+CO/Li3bL82z/5n/Fz0LSBDk9PaduiJsrWUowWL2JywRHTXHWyBtCBNi8fUbwqOaahBDGSZ1t8tD90hEvOa7G9iTKKQThJNzHx0K+EVmfMjGxIWikf91kbpuDaADPEy9hngyQoCJTjbgR8fn2SFkU+CiXUrlWIQrw11GAljew7NnjLY1WVgej74cz5lofW6wiG1hLjxha5LKxkJjj4ydRZFaHAyheLdRIMKwy//iwq6UJTGSj7sVK+9SFnQF4iMba+BqY9ENIV4HEj70IYsSbUr7yNJNotPWKh3Auq3pl1J/tX4bl/oeWzYYyVM2NH79zy7X3UT7VCLh9R+1cqykNHwbiCqw==;gHEqurDyLgGpJs2saBekLA=="
 ---

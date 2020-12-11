@@ -87,6 +87,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "An AI proposition is now 'table stakes' for fintech startups"
+    excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
+    publishedDateTime: 2020-12-11T12:35:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37137/an-ai-proposition-is-now-table-stakes-for-fintech-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "KyjNOYGVrPb2Q6gO+EhqhcZZeFkEUB2Ru2qcNRzDnjwX5ZWneXHuJexPXaz/zOE8G8OOBMqYPu2R8y8Bm8pEWxmJTdzxgJzUin6hKrkW8pQao5qYXa4Jlm/d9pyFE0QBLCth+Z4G07LtL/NiW6oXmavtiIYMuqoC0c66VTWPGtmAwd9Dsfkn1qz62f7y4mADKcj0vIccJtkaakeGee9iaTFOQtv/gUi+sLIVfcZrwacSTAH5/IbQW7AWOqsm6xt9sdBmtLuwqfXgV/gN8/IjCaytDkf6C8lwzc+4gSX0uJ5VgBn2djTRjQEOLj+N+TYSRd2JIbPcp4A3xVDefEaP44XApbVr6KtrNWgXsAp8Q5Q=;NrZtR8K37paFF0aasGBICw=="
 ---

@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "1 Fintech Stock to Buy Before 2021"
+    excerpt: "Several different next-gen fintech stocks have thus done very well in 2020. One such intriguing name posting impressive growth metrics heading into 2021 is Chinese fintech OneConnect Financial Technology (NYSE: OCFT)."
+    publishedDateTime: 2020-12-11T12:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Meet the Fintech companies leading the innovation wave even in the aftermath of a global pandemic"
     excerpt: "In a year that has been fraught with challenges for many, leading companies including Amazon Pay, PayU, HAPPY, WazirX, CashRich, and TransUnion CIBIL came together to celebrate global"
     publishedDateTime: 2020-12-09T06:42:00Z

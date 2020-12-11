@@ -7,7 +7,7 @@ originalUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-i
 webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
 type: article
 quality: 52
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "An AI proposition is now 'table stakes' for fintech startups"
+    excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
+    publishedDateTime: 2020-12-11T12:35:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37137/an-ai-proposition-is-now-table-stakes-for-fintech-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "xySVLcDqTtsRt3VRk15LjaHDN2N81EW4LgtHoiPRAkgYrex/huHVXeYuWhYNKwyV0Nj2mZg6AoS8aowkCK1B8rd5xyg6lKeCFg0eGsQkOfeckXIaZShReHOvLJkRdjuU9DSl9t4aB+vGmDoF0ZdpdDGrC3PJ8AOa6jwVxP//sHMZQJCYeArjCfmwRrJku5PpULsbf2ZqbFn3NQtNxy+ss4EcavS+zROycpKKJ9nyDoeR/uSpFM3CokUSPBIwmxbcqDZw6nWsVtgzWl+TPzOurZu1Ei5JsCNC9cbfMxCINwBfy9Mr5q5jua6qLPL9YILnNu4SsK1mnoflSeHoYCBNk5SKTWkfjsBzjFjeolPOKLFMN1E6GgE7syWrEDRB38xrdYKxWqThnEE1uC0/rqk32xo3lkMRa30DTGhKhXSsnB+++MMQdLUG6QNBLeMdViN/1an6NjkAY9MYcm/7UnJsKuujCPxpO76hJPelRtEep/Z8W9vDEorXECnN/ab+q5yQESDgwUNaLTH1Yn5KVIYjWw==;6+NLE3qWE9xVLwc9KfSFZg=="
 ---

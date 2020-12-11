@@ -39,6 +39,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Rounding Up Machine Learning Developments From 2020"
+    excerpt: "Here is a roundup of innovations in various machine learning domains such as reinforcement learning, Natural Language Processing, and more."
+    publishedDateTime: 2020-12-11T11:32:00Z
+    webUrl: "https://analyticsindiamag.com/rounding-up-machine-learning-developments-from-2020/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/machine-learning-developments.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "GaCLmmdKm0a/F92Zg99yBPEG6WmA+J80mnsvHNi8YQM5N/55MBEQmDLx5tYA30dRAmvUOqxsVKthpGClutMk0iM0VDKv/S9+ZT+13pBPzbXY2MqiyWr0+BkHb98gn8i6vNLGCMpqebyXy9c4wRwfM+f9pWNrT7ipPFtnxXnQRr8wK7sdB/8phfk9fTJotkx+sXblOY88Gf1rnocWnmz5ekq/fIW/bmNhz/C+ro767iyNiDBmsYrtROj/NKMNh5UK0Uz9M2G9YWyiWBaSQuHGIfwFdbRnqj0lmmLOZmJ2p37o1/qD7byoKcYn3BL7iDsaKSgCT0lmhzZCklqJq0Tsxi1NbgNVRplJvay0TrdDsgs=;QWPWiFzJusgAaUpBH5OVBg=="
 ---

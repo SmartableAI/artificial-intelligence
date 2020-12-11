@@ -205,6 +205,22 @@ related:
         width: 993
         height: 675
         isCached: true
+  - title: "Johnson Controls and Microsoft Corporation announce global partnership and integration between OpenBlue and Azure Digital Twins"
+    excerpt: "Johnson Controls, the globally renowned provider of smart and sustainable building solutions, and Microsoft Corp., the multi-national company for software and computer solutions, have announced"
+    publishedDateTime: 2020-12-11T11:00:00Z
+    webUrl: "https://www.sourcesecurity.com/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 46
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/remote-monitoring-security-surveillance-for-businesses-in-pandemic.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
     excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
     publishedDateTime: 2020-12-11T05:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18721086"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/andy-wang-nfw2a9jgbsw-unsplash.jpg"
         width: 4709
         height: 3139
-        isCached: true
-  - title: "Watch A Tesla Model 3 With Full Self-Driving Beta Overtake A Garbage Truck"
-    excerpt: "Driving suite of autonomous technologies is arguably the closest thing currently available to full autonomy, so it’s interesting to see how it performs in a real-world scenario. During this video, a Model 3 equipped with the system approaches a garbage truck on the road that’s traveling slowly and stopping frequently."
-    publishedDateTime: 2020-12-06T19:09:00Z
-    webUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/"
-    ampWebUrl: "https://www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/watch-a-tesla-model-3-with-full-self-driving-beta-overtake-a-garbage-truck/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Tesla-Model-3-Full-Self-Driving.gif"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "iEONwnKiZIm6qX2L6s1rUDIkbBIwQpIWNaplYj98REgLfQwgGc14kFKmIVDE6Y/2y3d9wrzQShiwIrKyRdbKmBM/3jbfKb/pwxseDq484o7xqCkDcs8hXs0GZ2BHSwJwN38k8S0AqL20mqHVybYbB36azOJGYmcB0M4VV0ZubJBkRSmctGB3jKGWc03KskhwcWY3mTwDfYBn2uLDbqlDSB/5TyoKPonayeOpwrB2UwOrWdTDj7OuZlsSUexVtA4gvIJLiiRZ1Yu79H3AvV3DZxKBO152/szuCYGTUwRXy/fg0d+d0T+7IutLDXdSX4jCfr9ZZtiVLGNfuRiVNrrqCQi5WO/BdCM2HXxmbdn7UOfhlYUSai1wg1SU5aZaeOQGGnWMHIfqOHGWSXQOeCmDct5cHOYd5BfATgcWSAzaleeg4lZWK+E1OCEUG99WZqy147F6p5E22p0rRu1u1S28E0KLSxeTe9w0cnryEwRsAubBFQqf0NopkqeyUJc5GKIsh2e+Pmr89oXTv561UYW6+g==;v2vOaDQ7cxkOu1S1jGQ85w=="

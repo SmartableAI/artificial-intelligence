@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "1 Fintech Stock to Buy Before 2021"
+    excerpt: "Several different next-gen fintech stocks have thus done very well in 2020. One such intriguing name posting impressive growth metrics heading into 2021 is Chinese fintech OneConnect Financial Technology (NYSE: OCFT)."
+    publishedDateTime: 2020-12-11T12:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Meet the Fintech companies leading the innovation wave even in the aftermath of a global pandemic"
     excerpt: "In a year that has been fraught with challenges for many, leading companies including Amazon Pay, PayU, HAPPY, WazirX, CashRich, and TransUnion CIBIL came together to celebrate global"
     publishedDateTime: 2020-12-09T06:42:00Z
@@ -78,6 +89,6 @@ related:
         height: 418
         isCached: true
 
-secured: "He/R+rKucYeGX+63rc9mDpEEogezMoZVOyx9OBiGp3Eo/OYSfPSyWCoa8EJ+wPBPK5zwzUbgpWIQYZGoHKl6Io0rTWdm1KmB7Yl6Ua/VQFCDbczy3syWKK+B4Zs4/54Z/xMoK5n9+ao/y0oUusBErkYVYXZTDcz7714vFUtwo0hOLzPoxMcn5Vif2IsbtLL5pt7INbo3cOuuuoWSiW0y+cENU+NyJuq0MWDL50BHnZaUoQXiaUaReMESM8Hg1gG1GPUWNwrzigdnJzl0C9L80ZjLS8HIBpnK11Dhnqe931xJ2pNAVtSJudu9AhhVKs8HlUKHk8RBW3hptz7wRQN1bTj6rvKtrRYhakllTFbQljI=;f2VxPOevbEyOZPdeIAEJuA=="
+secured: "3Cyk33XmNNuHkLCVU6vVKQMiX64whOrkmJe7EE8/+cIlaV1ABG+jreHdWUxLN4etqNZ537/yyhMtnGye3dpJr/PH2x93gM3DD5lptV2OeJ0A0I6YU/4lVKlLymTe9Y2+ysCLWJI8sauFsBlHJ0rYnUi981ncvlgd+PtdN3JnyIg5rBwhE1CHgqH68Xw5XuH48EaRQy6FjWcuK+j0b2AZ4LePJqgB/E+b93Vpgf+CG/sTY434HDT337nKO2iGktKzj/bOZi91sTA31/TjXC+PywkgiVclb1DoXaQBFpkpGQSvEcL6VleJR9fJhrMDNoeC7Tmq02rSM5bkN0FR6mDZfHHv4DNkiqQ1ju1xY95W/RGofPJAH69wtU5F/4xf2bH8ZixPkegYnLCo0ssUpecaAT2ViHWtqzR3N6ujY3f8IzcUWL8lSLfI8tqPEPoWOfNz+KtgRi1gpM+J9au2nuLSddHjphtfNxbiUJwiYHVful2MhJgGhqu1O6VW4T/Lg2HFVTkTf+a184qd+vz1yEDdOA==;JoawmiofGsjoHllUJiJmFg=="
 ---
 
