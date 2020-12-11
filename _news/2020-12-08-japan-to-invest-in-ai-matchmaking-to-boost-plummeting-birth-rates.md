@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-match
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543681109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60OD"
         width: 827
         height: 545
+        isCached: true
+  - title: "To boost birth rate, Japan's government considers AI to match spouses"
+    excerpt: "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence."
+    publishedDateTime: 2020-12-11T18:56:00Z
+    webUrl: "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Japan Boosts AI Funding To Match Lonely Hearts"
     excerpt: "Japan is seeking to boost its flagging birthrate by funding the use of artificial intelligence to help match lonely hearts, an official said Monday. Although it might not conjure thoughts of romance,"

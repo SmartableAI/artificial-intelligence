@@ -159,6 +159,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler"
+    excerpt: "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying"
+    publishedDateTime: 2020-12-11T17:39:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg"
+        width: 800
+        height: 326
+        isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
     excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
     publishedDateTime: 2020-12-08T12:00:00Z
@@ -169,6 +183,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "8EPeuQ4tQC7pol4qH+nZC/6yD71/kNP+sehEUts6f8SjvN+78ydgzJGROQ0HyDtsLaZe3JVqMLtARqjKAG/jELLmuorMNCGltFW/euDndpB5kn4UQ1vFcTyCOS9lmQcZIk7PDzQ/gjt+onKxL0i6k3yQrlhbgDdtqlverzEro7saHcaWvpZ+SeDrE8zW34X0XVk94yxWXpXL+G/+vuZeAkq/OxsPABjd9RQ5gYrZ0oJa2PGXE3xX+QfOwCt+wXBgF3e15B9ZYiWSa/Vszf7g3cMjx/GWyP9DxNqInUm3YzyrkZ+jC/zQcVPSmS5DqfLi7MNIIYEz3rfPfewj1yLgQN4VEeMGnrx3qp3U9wsC0j0=;YAycUUuRY8EWTbNyRLiOPw=="
+secured: "zdnOVVh33pMlE7fRxl/5OKQl6NHl4l+xv7g/wZGtx0HNammyMeqTJW/sunJ620tI2/nyi2YAwAoBjMDwrDe/ZCgrHma7V6tigAFN1UPmsnwV5jATgrtvVMnEEmOx/hkyp25+9aJa0mVpdns6bgd+OsSmS7fVhh4qm38VwbLTckKGjtgqlh9lStMxAw1ubzKRyOnAxipiXZAqLxALKyaR7f4fxR1i6ffyxv/BQFyeF6FpoodaCTPT9cZuyyTlFmZ6RqRKfaC9ajczpY6CaKy2Q8go3Y09YO5/iCjARfRk1UdadStNyHOKkvQIOsQ45ATmQtI8NKKwp9pDYm/7Gijo3yhp/FsnMfErVtjReQVQa+8=;8Pjegm0ICXKfpvYmuQrBgA=="
 ---
 

@@ -54,20 +54,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Cruise says it’s started driverless testing—I’m skeptical"
-    excerpt: "Cruise has been testing its self-driving cars for more than 2 million miles. But like other companies with advanced self-driving technologies, Cruise has to decide when and how to make the leap from testing prototypes to releasing a commercial product."
-    publishedDateTime: 2020-12-09T23:29:00Z
-    webUrl: "https://arstechnica.com/cars/2020/12/cruise-says-its-started-driverless-testing-im-skeptical/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Cruise-car-in-San-Francisco-streets-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
     excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
     publishedDateTime: 2020-12-09T17:06:00Z

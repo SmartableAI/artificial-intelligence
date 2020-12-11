@@ -57,20 +57,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
-    excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
-    publishedDateTime: 2020-12-10T18:17:00Z
-    webUrl: "https://www.autonews.com/mobility-report-newsletter/miami-nice-ford-and-argo-use-self-driving-tech-keep-fresh-food-kids"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 18
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/cruiseSF-MAIN_i.jpg"
-        width: 792
-        height: 514
-        isCached: true
 
 secured: "VscAK4D+LbgpTg1MWQajHMA2Caczenp94Wk11g6rauhbrpBqFhe6p/mdk5Uw8GunLvQRr6Ig/3vM+hf48ycYBtGAtwa2aBrOZcp6FcF0A2OmiWoILNqWudq720F+xTWs5LwmNftBn122g53jDWJDnxhc9aDCqtf3K6/gjh9Ap1v3c78RIBQQ4gwtwUrcuiuYf9dSipWqS4zD/AbWsnCueLTmWFxG+4xKwuTEDx4rjP2pErTA1z1GTpkPvpmGSrzQIkjLkfV7JGaDvaGZyiZO3OlkOq3jk2A7rrB9IJHm5tFgoyr0xFZ8foAEZuuAMIB8cJFzVqL9by2E2WkXT+TX4kPa0AN2Pn9+v52j8IUmT/c=;PYdkSEqMzqs8QUfDq2issw=="
 ---

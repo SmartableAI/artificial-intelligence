@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla expands in-house Self-Driving testing to Phoenix"
+    excerpt: "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”"
+    publishedDateTime: 2020-12-11T17:37:00Z
+    webUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/"
+    ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update"
     publishedDateTime: 2020-12-10T01:30:00Z
@@ -42,6 +58,36 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_1.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
+    excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
+    publishedDateTime: 2020-12-11T10:11:00Z
+    webUrl: "https://www.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    ampWebUrl: "https://amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 73
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cruise says it’s started driverless testing—I’m skeptical"
+    excerpt: "Cruise has been testing its self-driving cars for more than 2 million miles. But like other companies with advanced self-driving technologies, Cruise has to decide when and how to make the leap from testing prototypes to releasing a commercial product."
+    publishedDateTime: 2020-12-09T23:29:00Z
+    webUrl: "https://arstechnica.com/cars/2020/12/cruise-says-its-started-driverless-testing-im-skeptical/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Cruise-car-in-San-Francisco-streets-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
     excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"
@@ -59,6 +105,56 @@ related:
         width: 4709
         height: 3139
         isCached: true
+  - title: "GM puts its self-driving technology on the Sierra pickup, including towing"
+    excerpt: "Super Cruise, GM's semi-autonomous highway driver assist technology, will launch on the Sierra 1500 Denali in late model year 2022."
+    publishedDateTime: 2020-12-09T14:20:00Z
+    webUrl: "https://www.freep.com/story/money/cars/general-motors/2020/12/09/gm-self-driving-technology-sierra-pickup-towing/6494726002/"
+    ampWebUrl: "https://amp.freep.com/amp/6494726002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6494726002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/PDTF/4b846453-50e0-481f-a1c9-1dd2a51ed02d-2022_Sierra_Denali_SuperCruiseTeaser_FINAL.jpg?auto=webp&crop=4266,2400,x1009,y925&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google's self-driving vehicles coming to Central Ohio test facility"
+    excerpt: "Waymo is moving into the Transportation Research Center in East Liberty for a multi-year testing program for its self-driving cars and trucks. “This will be an exclusive, first-of-its-kind testing environment for the Waymo Driver,"
+    publishedDateTime: 2020-12-08T17:21:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.html"
+    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
+    excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
+    publishedDateTime: 2020-12-10T18:17:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/miami-nice-ford-and-argo-use-self-driving-tech-keep-fresh-food-kids"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 18
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/cruiseSF-MAIN_i.jpg"
+        width: 792
+        height: 514
+        isCached: true
+  - title: "UK self-driving testing center to simulate real-world scenarios"
+    excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
+    publishedDateTime: 2020-12-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16078/uk-self-driving-testing-center-to-simulate-real-world-scenarios"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "8SwM2crA84jNILO2P2aKUEeOOHmP8tVaG8A5L2Br+XAzVl/yVkUPR+UzmtDv44pzoQ4/QWNubd8wdxpf/wXUHi8SRpVLjL/mnnI4hsAb90bR1JLNatxr1zFQ2tlOc3QL47lESoya2L2l4+0ch5vKQ0pg9M1l9FMuY18LHJ425Lonla6KueAkRi+c848m1eKb7OnZWkD8K8/+iflet4cTuI1RyDqP7vlbcpd9CI345olxdkm+2chITQ+/Khd4CwydLi1czOamq2jvad/2D57TY5UtLRquhIWyTmgqCvXw7IkzvrsXs1rEzV+UqW21rQgByrrR2FcOcsJiMeaT0fbHJky24s69/IajoM5Yalf2t4R24bke0Z8Ji3wk7XX0u3PbYGVkaniF2IKrF9Oh7F05A9zXk7FNbJUdBrJSEAUQrHQ0gdAx9qowTPKO5HFD5jpjz4iO/S0wA9wwjrukmyIHpUFk20c5XNelneeE41pPv51kmXjuZbFDq60nRoqftBr6vK7sy8HzwqQ+SPDiiDT3Ew==;j5rSjtAGkrxg/DDKfgYyyA=="
 ---

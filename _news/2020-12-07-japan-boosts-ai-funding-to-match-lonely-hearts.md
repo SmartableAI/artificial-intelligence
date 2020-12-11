@@ -56,6 +56,22 @@ related:
         width: 827
         height: 545
         isCached: true
+  - title: "To boost birth rate, Japan's government considers AI to match spouses"
+    excerpt: "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence."
+    publishedDateTime: 2020-12-11T18:56:00Z
+    webUrl: "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "I7/BvbUGMXz/rsjo10lRx8FR9UpOF2PNT/zQ3zTuP8fzQpZjuI+owyMkFhBoNPjwGhZpZEdnYMKCGuFdzMZa6uzycOM1e/ohXeCmw6tIFsJSOh8rBoBYGjGYRv0tLsFsRB/nmXFwAdmhpU/5Gwij4ZWqzbPMrOiE0rFeYPAf66QKDOGXx+IWx0nUJWQmv6/Vmso3FTSlFzU0qaZdZrJJ7t0PrgD6VGnFZ26/4kYTxFWaUo+zHVzIC6d6lCaxZ7+DM0ZBdDH6gKwM8yNhVyVXyNNEqS+oDsnzgHmreNGHaOWvZOyRyVBoaQyAEJmINsXZBEOaNnQprKnh3vlkcWB5BukrmBDwwXdNMbzQLaPP08DKVpRxOOfZXpquWVO2h4eB9gT05GpvULSnHsC41Z9A8HbsSkUbVSgikFN1UhrcP+s42bMzeKPZis13CkA+sKB4F4UsAG6keK91iz6PjRltMmiWtCuO4QdnxrnLDrf/1jWr0tHSy/5WZnBDz+jOXwDnFI0sYCuvmlXei4g7HRn5OA==;uLVLF8UZStsxntySUnCoRQ=="
 ---

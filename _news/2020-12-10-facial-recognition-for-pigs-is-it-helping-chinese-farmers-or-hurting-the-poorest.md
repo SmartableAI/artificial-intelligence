@@ -3,8 +3,8 @@ category: news
 title: "Facial recognition for pigs: Is it helping Chinese farmers or hurting the poorest?"
 excerpt: "Automation is revolutionising China’s pork farms but leaving independent farmers behind"
 publishedDateTime: 2020-12-10T05:00:00Z
-originalUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest?ICID=ref_fark"
-webUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest?ICID=ref_fark"
+originalUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
+webUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
 ampWebUrl: "https://amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "l6LcyaCfwrmcKm9Pvl02BNeGTc5ACeM6sOTtGtOytXYXmp72A5pyAHAtyquu7ORqXRYyxPFCZgCgW+IQll/AUk6v3S9Q545lcEGDBPRzm607s0OgN6+S7LfQ+yM8zLk3RG3jXXoatNAwiJfIc65I/i3jo0Xx9u3L7fqI1rUihxVNpr9P6DVS0unIMuGJaA9K3iTl4Q3vAFPDO7P7Frtgvk0HYYtEMuoP/zyWVxzkD7Yj5fWJ9i5RxdR7ffEQGMoHq7zO0Y+dhvaeOZj6+KyTQqC2haJD0ps4GR7Cu03xu7YMeLqAJfGjaKXLpLjGKF+yJzppJEbumHQpcJUEcvD3/0qZtA9ZNoReS2Hz0FGXzls=;hOBiTCMDkhpDJ02yHXh4SA=="
+secured: "C1crP/YiFcdSYescSRAezK+X3aLIePuuB1QnRpipLBEfOLD5Ee5jH5lHO2KQ/LKWYoqaRZAuTDVLS+CUmhuY+0N+e6pbQcvlT3dcmuTfiWTE0fP686UGfyHbKeWT/skdfscoC2M3YLuE79ZbHSrhIS+4YImWIyhSY8N0IPzt6hhohHB4WvCRSV1Pjgob9QoUvtwsNwnbnfH+MdQ51Z7K2/vg0QMIU2xoiDTEgVPbgFb4GauwGPU5KqfjHTmuVLY5rPqFq//fgBouEPixg16vK/7fvyGoL84kC2Pf7+CSsvSABfFvJeKA9UdNwNhdl6HmN/FAg6vTBi6kL+wIcyOZIR9o8/Kx5oTBClQLg280dO0=;vQ8SaD/VKjKQO/KoTUOmhA=="
 ---
 

@@ -839,49 +839,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-24-preludedx-announces-partnership-with-americas-choice-provider-network.md",
-      "title": "PreludeDx™ Announces Partnership with America's Choice Provider Network",
-      "excerpt": "PRNewswire/ -- Prelude Corporation (PreludeDx ™ ), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed an agreement to become a provider in the America's Choice Provider Network (ACPN).",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
-      "publishedDateTime": "2020-11-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-preludedxtm-announces-partnership-with-americas-choice-provider-network.md",
       "title": "PreludeDx(TM) Announces Partnership with America's Choice Provider Network",
       "excerpt": "Prelude Corporation (PreludeDx(TM)), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed",
@@ -1125,6 +1082,49 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
+      "excerpt": "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

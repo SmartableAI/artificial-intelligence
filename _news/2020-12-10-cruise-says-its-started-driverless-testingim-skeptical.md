@@ -29,123 +29,136 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Apollo gets green light for fully driverless road tests in Beijing"
-    excerpt: "AutoX announced the roll out a fleet of autonomous RoboTaxis in downtown Shenzhen, representing the first time such vehicles have been deployed in China without safety drivers or remote operators."
-    publishedDateTime: 2020-12-08T14:05:00Z
-    webUrl: "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/"
-    ampWebUrl: "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true"
+  - title: "Tesla expands in-house Self-Driving testing to Phoenix"
+    excerpt: "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”"
+    publishedDateTime: 2020-12-11T17:37:00Z
+    webUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/"
+    ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 83
-  - title: "Baidu is testing its robot axis without a safety driver in Beijing"
-    excerpt: "Baidu has just received permission to test its autonomous taxis with no security drivers on the streets of Beijing. A first for the Chinese capital. The company has been testing its robot axis in China since 2018,"
-    publishedDateTime: 2020-12-09T12:31:00Z
-    webUrl: "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/"
-    ampWebUrl: "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 89
     images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg"
-        width: 1024
-        height: 538
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-    excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
-    publishedDateTime: 2020-12-09T17:06:00Z
-    webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
-    ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
+  - title: "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update"
+    publishedDateTime: 2020-12-10T01:30:00Z
+    webUrl: "https://www.benzinga.com/tech/20/12/18721086/tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18721086"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086"
     type: article
     provider:
-      name: WTEN
-      domain: news10.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 80
     images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_1.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "National Digest: GM green lights test of driverless cars as taxis"
-    excerpt: "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state."
-    publishedDateTime: 2020-12-09T21:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+  - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
+    excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
+    publishedDateTime: 2020-12-11T10:11:00Z
+    webUrl: "https://www.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    ampWebUrl: "https://amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 73
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440"
-        width: 1440
-        height: 945
-        isCached: true
-  - title: "GM’s Cruise putting driverless cars on San Francisco streets for first time"
-    excerpt: "The company said it will test cars without a driver in the Sunset District, a neighborhood on the western edge of the city."
-    publishedDateTime: 2020-12-09T20:44:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 57
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OXYHJQPIYI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Baidu gets nod for fully driverless vehicle tests"
-    excerpt: "A passenger gets ready to board an Apollo Go Robotaxi, operated by Baidu, in Beijing. [Photo/XINHUA] Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles,"
-    publishedDateTime: 2020-12-09T03:20:00Z
-    webUrl: "https://en.ce.cn/main/latest/202012/09/t20201209_36095778.shtml"
-    type: article
-    provider:
-      name: China Economic Net
-      domain: en.ce.cn
-    quality: 54
-    images:
-      - url: "http://i.ce.cn/english/main/latest/202012/09/W020201209396128618445.jpg"
-        width: 800
-        height: 577
-        isCached: true
-  - title: "Baidu gets nod for driverless vehicle tests"
-    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
-    publishedDateTime: 2020-12-10T01:05:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
         width: 1200
         height: 630
         isCached: true
-  - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
-    excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
-    publishedDateTime: 2020-12-09T17:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gm-backed-cruise-starts-driverless-av-testing-san-francisco"
+  - title: "Tesla Full Self-Driving System's Beta Developer Settings Leaked"
+    excerpt: "Fun options like 'California Stop' might not make safety advocates very happy, and what is 'Chiropractor Adjust Skeleton'?"
+    publishedDateTime: 2020-12-09T20:19:00Z
+    webUrl: "https://www.caranddriver.com/news/a34919792/tesla-full-self-driving-leaked/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/eowt33txcait6ee-1607535782.jpeg?crop=1xw:0.8056066176470589xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
+    excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"
+    publishedDateTime: 2020-12-10T04:52:00Z
+    webUrl: "https://www.benzinga.com/news/20/12/18726576/apple-working-on-self-driving-vehicle-similar-to-tesla-with-tsmc-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18726576"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18726576"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/andy-wang-nfw2a9jgbsw-unsplash.jpg"
+        width: 4709
+        height: 3139
+        isCached: true
+  - title: "GM puts its self-driving technology on the Sierra pickup, including towing"
+    excerpt: "Super Cruise, GM's semi-autonomous highway driver assist technology, will launch on the Sierra 1500 Denali in late model year 2022."
+    publishedDateTime: 2020-12-09T14:20:00Z
+    webUrl: "https://www.freep.com/story/money/cars/general-motors/2020/12/09/gm-self-driving-technology-sierra-pickup-towing/6494726002/"
+    ampWebUrl: "https://amp.freep.com/amp/6494726002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6494726002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/PDTF/4b846453-50e0-481f-a1c9-1dd2a51ed02d-2022_Sierra_Denali_SuperCruiseTeaser_FINAL.jpg?auto=webp&crop=4266,2400,x1009,y925&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google's self-driving vehicles coming to Central Ohio test facility"
+    excerpt: "Waymo is moving into the Transportation Research Center in East Liberty for a multi-year testing program for its self-driving cars and trucks. “This will be an exclusive, first-of-its-kind testing environment for the Waymo Driver,"
+    publishedDateTime: 2020-12-08T17:21:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.html"
+    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
+    excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
+    publishedDateTime: 2020-12-10T18:17:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/miami-nice-ford-and-argo-use-self-driving-tech-keep-fresh-food-kids"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 39
+    quality: 18
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruiseSF-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/cruiseSF-MAIN_i.jpg"
+        width: 792
+        height: 514
         isCached: true
+  - title: "UK self-driving testing center to simulate real-world scenarios"
+    excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
+    publishedDateTime: 2020-12-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16078/uk-self-driving-testing-center-to-simulate-real-world-scenarios"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "Q7NOnWfgyGJe9v3bEuO+0dpL0kuPSVxjWFddVhTkKLA/9i61lwArwyH8AJzusx4dpriwOrakPktLp4yIcZYi5m4nkYGhidaJQmnwXZ7mp4NPQ7VErvtKCuWstFgviNdhgoOzKeZFDl2lsXuiXbRhaegTn3XzU7ZK0zEKFRsbY3zdLKmn4kJNI9P61Ld/dBrtUCXwlERuOge7Zb4svir6UUiOYxU2zI4zCz4GCUU5d8yNDl2Wrl+16JWAQ/XnR1HSKdQQu7qHG1OkY5t92BbMRphR6qbmO5olUb4+07UmV2xj3OWt0CCw0m6YdQxYwotsXYQ9kP8r4bGSNqOM71DFOXahcmx8OFj7YEMDlg/twlWeUnMAUAcRavVmnnImHebSSHvDtusGp70fWLVCYOccStFVTcFdTtPAt93Fp38zrxPMB59cvWAQjrLcNIR9ht0v8aYS2jIt2sTqsZ3ybE3JIJmNtwPK+uMq7wSHYQxxW1ycOyIp+UILI48YyNXyvgwAo9gSyNSKXOfWy+JoI0OJyw==;mLzK8EgRGOen94TiV97/0Q=="
 ---
