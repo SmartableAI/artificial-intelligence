@@ -81,6 +81,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Boeing tests autonomous, artificial intelligence-enable jets in Australia"
+    excerpt: "In this week’s roundup from the Association for Unmanned Vehicle Systems International, which highlights some of the latest news and headlines in unmanned vehicles and robotics, Boeing makes significant progress in the development of its autonomous systems technology and drones recreate accident scenes for analysis by law enforcement and use in legal cases."
+    publishedDateTime: 2020-12-11T20:49:00Z
+    webUrl: "https://www.vision-systems.com/embedded/article/14188942/boeing-tests-autonomous-artificial-intelligence-enable-jets"
+    type: article
+    provider:
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 38
+    images:
+      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2020/12/Boeing_High_res_Cloncurry.5fd3d8797d94d.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Australia’s Former Defense Minister Urges Recognition of Artsakh"
     excerpt: "Australia’s former Defense Minister, Joel Fitzgibbon, used a speech in Parliament to urge national recognition of the Republic of Artsakh as the pathway to a lasting peace,”"
     publishedDateTime: 2020-12-10T14:56:00Z

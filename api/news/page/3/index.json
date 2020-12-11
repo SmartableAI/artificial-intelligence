@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-10-lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai.md",
-      "title": "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI",
-      "excerpt": "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
-      "originalUrl": "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/03/Lenovo.logo2020.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020.md",
       "title": "Grimes, Serena Williams, Gwyneth Paltrow Talk AI, Ventures And Pivots At Web Summit 2020",
       "excerpt": "An all star cast debated the promise and perils of AI at Web Summit 2020 which featured insights from Deepak Chopra, Mark Cuban, Ridley Scott, Palmer Luckey, Elad Gil, Garry Tan, Nicole Quinn, Gwyneth Paltrow,",
@@ -216,7 +165,7 @@
       "originalUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1252,6 +1201,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021.md",
+      "title": "Artificial Intelligence-based Security Market 2020 Disclosing Latest Trends and Advancement Outlook 2021",
+      "excerpt": "Click here to get the latest sample PDF copy of updated research 2020 before purchase  Top Companies in the Global Artificial Intelligence-based Security Market are Nvidia Corporation, Intel Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021-2020-12-09-6197241",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021-2020-12-09-6197241",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     }
   ],

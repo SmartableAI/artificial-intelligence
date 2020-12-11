@@ -183,6 +183,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "FfFj5AC59t7yqIunRwaJNpCzZ3LXT4fuBiH1/0lAf7TMIenoEJ70s77klT2USiLLQQiq//wRKmOJy+hDBhesYHhmEw4hjRjd6KWgqzOp5RpFqGksduTzOz1aDmednrnnZ2IXrNo5CAbo82qYk3cPN5hhjQCFpNsLAGNZLpATf0j8CFrAu8aMtNITamuoGepTMz6/z0h/T5hAbwd5PeNkuLdeYDjkJ3jxS6ZXAs0U6zBHtB4UiBemlkFMDAXvMOrn62upIf7IpE7R6qgwImy6nEEXc0YQBRTub4k8ZbU7GM3EgmNVBzWygz7EgCeTuSZ/ExE2mdi4IqM3GxDrHWWRn6EnRLPbyvG90B5Fiymv9kc=;S8BuJ3A7ykBKQvfNWd0v8Q=="
+secured: "3kAhVhNZa+D+hB0EzV4fS77lsKJPN8sSMwJWHW/VDfu2UPe/Xs1+z+vUcTQYGdfk1apJ/M3soH2nRqi7qlkKn8Yfl9Y+crUcnWlCm2/rlSHbEw76wBnktqFxvKfmnYWCbVquzTDOTt/5KoJQ/kPHp/C8sbU7ih/E1X40+NGc2M5fuRzU8yZ/STY1730Am/EZhenYBnGRxKt8p/+eKNi9wM0UM8ELXixYWe+Wn2azqtrrza7NgDxSKv9CyMzXavBLCagLQx+5be7KehKeL870TqFNG5Drgc1Gw3J8CgKM3tFhx3XIpFl2yU85t2+Y1wOIOXlft9DBZk2x0bA+qqVa+3h06FlpLXRKGt5JTUxHMlE=;kPWj1qLYjuhHXsbbI8QzrA=="
 ---
 

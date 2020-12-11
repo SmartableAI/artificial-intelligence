@@ -41,22 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Facial recognition toilet paper dispensers in China put on hold as privacy concerns grow"
-    excerpt: "Toilet paper dispensers that were equipped with facial recognition in a public toilet in China’s Dongguan city have been suspended after citizens raised concerns."
-    publishedDateTime: 2020-12-07T06:11:00Z
-    webUrl: "https://www.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    ampWebUrl: "https://amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 80
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/07/68a4a102-384d-11eb-9b80-f4f1a4017c77_image_hires_133734.jpg?itok=ExfGxa4B&v=1607319464"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Advocates to press Biden, Congress on facial recognition curbs"
     excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
     publishedDateTime: 2020-12-08T11:39:00Z
@@ -114,6 +98,6 @@ related:
         height: 229
         isCached: true
 
-secured: "/5+8xIUe7y2K7JPiL47T9NATuaFR2eyN7zuxQinbB+5VthT+32kZzeU0ZSMwtNEYAKeBiQfeutTKZuejB8ya0tkL1zyo9qU2KVvsqxw2XEORfBOBrYPBVQVZ9mc3Ghh5kDt6GlcF2j0JkA/VrK172ojxRtYWMu4vxWWEd9fi6wPQqz5lYuPcNpobRtagOI179VnqtR4qcSzhNrx4iNTcQc0og7gL41W9C0kbNClvhbItvdp2Hfnmi3Rxdj7GASjzP7NTtezs3/sxCGBLcM8Q3k5VXS+syzjW/yfvL/N+hc/UzKtNzFvWMhHtlzoSBVrjWv2lkbHdxkLQSbTwM01XcNDTRxQ5omIny3Mm2NUEJeA=;dSAIiWOg9mNj8DrH99khLQ=="
+secured: "2E6lEY3RnsXAUgBxGBd1QRuOzCMK59SBHQXv+j0tXIoXg9mm9QIpRUFBObC4eVweyU1u3VMVe2fO/rtWmDm3vrIA+5DQkLiUH7OTqw4t9XGQnisKCgQIQwO6zlRuiQi3UEFJx8Q2D9mwH0Ql4hprqzHaCc4ViXBfixGytQ4kmnKzYOCEDOE1kHsV4l5/T0iAtXUdrKLwba15kbaJyIB01bVWiiLo/fmd6spBBIeJLmkG8J5TvSFshxEekVSStUlzIOQrUtac4gyQ+/7S77/Ae9DvC+j5jhltyPxP6uAsK1EuAHlzcLSfAvI5+nYtNfmbDKG7LWvcjvSpHyeAdBDVjenNJ7jkfQRd02hwGfq2zIt8oRiO4tbtaNOO8yB8mBzHGSwU63Aon1f7BFMBF8vPhf05BJCVOsURyX6OTpnV4f2TTmOEmSHaZnF60Ma/BaSmd0LRIYixaV68c2SI6IhsGki16qTKWt7XzZKkpJJ7ZJ5KLmRUVWkcytxlk7g8HfnMV2YnYv5UoSfsL5iqoIn/4A==;pU7nfPnXWhPnxZlckxzK+A=="
 ---
 

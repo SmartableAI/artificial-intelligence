@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-12-robots-encourage-risk-taking-behaviour-in-humans.md",
-      "title": "Robots encourage risk-taking behaviour in humans",
-      "excerpt": "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviours. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,",
+      "path": "_news/2020-12-12-robots-can-encourage-people-to-take-greater-risks-research-shows.md",
+      "title": "Robots can encourage people to take greater risks, research shows",
+      "excerpt": "New research has shown robots can encourage people to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-12-robots-risk-taking-behaviour-humans.html",
-      "originalUrl": "https://techxplore.com/news/2020-12-robots-risk-taking-behaviour-humans.html",
+      "webUrl": "https://www.news-medical.net/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd380055b13f.jpg",
-          "width": 2880,
-          "height": 2160,
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-12-robots-risk-taking-behaviour-humans.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-robots-risk-taking-behaviour-humans.amp",
-      "publishedDateTime": "2020-12-11T08:05:00-08:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
+      "publishedDateTime": "2020-12-11T14:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -304,7 +304,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {

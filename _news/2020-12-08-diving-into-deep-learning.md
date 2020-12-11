@@ -9,7 +9,7 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/div
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unlocking the secrets of chemical bonding with machine learning"
-    excerpt: "Researchers have developed a Bayesian learning model of chemisorption, or Bayeschem for short, aiming to use artificial intelligence to unlock the nature of chemical bonding at catalyst surfaces."
-    publishedDateTime: 2020-12-07T05:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201204131313.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Rounding Up Machine Learning Developments From 2020"
     excerpt: "Here is a roundup of innovations in various machine learning domains such as reinforcement learning, Natural Language Processing, and more."
     publishedDateTime: 2020-12-11T11:32:00Z

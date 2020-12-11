@@ -42,22 +42,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Facial recognition toilet paper dispensers in China put on hold as privacy concerns grow"
-    excerpt: "Toilet paper dispensers that were equipped with facial recognition in a public toilet in China’s Dongguan city have been suspended after citizens raised concerns."
-    publishedDateTime: 2020-12-07T06:11:00Z
-    webUrl: "https://www.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    ampWebUrl: "https://amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3112836/facial-recognition-toilet-paper-dispensers-china-put-hold-privacy-concerns"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 80
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/07/68a4a102-384d-11eb-9b80-f4f1a4017c77_image_hires_133734.jpg?itok=ExfGxa4B&v=1607319464"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Advocates to press Biden, Congress on facial recognition curbs"
     excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
     publishedDateTime: 2020-12-08T11:39:00Z

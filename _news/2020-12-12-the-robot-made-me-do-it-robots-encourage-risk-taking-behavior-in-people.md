@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Robots can encourage people to take greater risks, research shows"
+    excerpt: "New research has shown robots can encourage people to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors."
+    publishedDateTime: 2020-12-11T22:03:00Z
+    webUrl: "https://www.news-medical.net/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Robots encourage risk-taking behaviour in humans"
     excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviours. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
     publishedDateTime: 2020-12-11T16:05:00Z

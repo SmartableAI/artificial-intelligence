@@ -2,57 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-12-03-ai-construction-startup-versatile-raises-a-20m-series-a.md",
-      "title": "AI construction startup Versatile raises a $20M Series A",
-      "excerpt": "San Francisco-based construction startup Versatile is announcing today that it has raised a $20 million Series A. The round was led by Insight Partners and Entree Capital, along with existing investors Robert Bosch Venture Capital GmbH,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/",
-      "originalUrl": "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/C130761.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/",
-      "publishedDateTime": "2020-12-03T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-03-healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026.md",
       "title": "Healthcare Natural Language Processing (NLP) Market Research Report, Growth Forecast 2026",
       "excerpt": "The major vendors in the Healthcare Natural Language Processing (NLP) market aggressively focused on enhancing their contributions to meet the business goal. Request a sample Report of Healthcare Natural Language Processing (NLP) Market Analysis Report at:  Global Healthcare Natural Language Processing (NLP) Market to reach USD XX billion by 2025.",
@@ -103,6 +52,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
+      "title": "Self-driving robotaxis are taking off in China",
+      "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
+      "originalUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -179,58 +171,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
-      "title": "Self-driving robotaxis are taking off in China",
-      "excerpt": "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
-      "originalUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
-      "publishedDateTime": "2020-12-02T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1177,6 +1117,58 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu.md",
+      "title": "Intel Announces Gold Release Of OneAPI Toolkits And New Intel Server GPU",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper as a few weeks ago, Intel announced its gold release of the oneAPI toolkit and its first discrete graphics card for the data center, the Intel Server GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7caa95de0fbc120ad3dbe%2F0x0.png",
+          "width": 626,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/02/intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu/amp/",
+      "publishedDateTime": "2020-12-02T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

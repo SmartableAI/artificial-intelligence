@@ -3,8 +3,8 @@ category: news
 title: "Former Seattle Police Chief to Join Axon's AI Ethics Board, Promoting Responsible Development of AI Technologies"
 excerpt: "PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the appointment of Carmen Best, former Seattle police chief, to Axon's"
 publishedDateTime: 2020-12-10T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/former-seattle-police-chief-to-join-axons-ai-ethics-board-promoting-responsible-development-of-ai/article_c7b4ecd5-0b50-552d-bf1c-7c13fe13e2e7.html"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 288
     isCached: true
 
-secured: "96FuIcAIdvOolpd5QniS8VlDwwhGwetu0OMKt+jb9M/xiWR23QMlhCEhZPNmWI258LOuozdmyu8MWXyCb4D8Pe8QRKNS93CQxOHWLv7Xo329wuuUkeaXcpMUaKZpyPIWAn5gn3H3tbDh6vHnPEMJgtQgP6k4gZwmN7qkVbldbj1SzetoCySvypr4n2x95qFQu0RVJI+zUzxEp7IrPsHyxZidkE2YD+jN0zTjGfHRLSggn5sa4av7qnMUqe5hNfBJKYJts02+PjCka74hWfTVWa7HwAWfVDPh8mxQPSRS0X3Q+gdEUnd51kYODDPUrIe2JamSL5tZXykjCXz0/g1LAgo8nSrja5wWSAc/XeAH7eGHqv684BBrvvjdFnFocKPpk+grdQInYU4Wx6Zej4DZhV6+rr8/RnUX6i+2D568rD1QsJ54qQLNBaJ62AeF2/f31ziSRVIBy6+iaXLYggvPpFylHBv0tT/ElBeIOh7OWED/7QQ20ausiX+bx59K2CVR1l4XmucV7XbKjlzw65AVUQ==;Wwp2e+4LvZzJ0vagpi+UUQ=="
+secured: "tZhFLGKTJUaBs4PkBS+vhRoNIx8bNNbSJOe0OnBlD2D5nMcno4sqQ8ENm6PN6Ee5/nI1cXqt7zl4c/SQ1kMdEZdEsSxsW5JFOSNFTy4d6E9kpJT4a0MABdMyxcxO2bdyHZM2NLZEBCY1U6SRrEWMn7CWPA68A3yyQI/40gij2IEzL4xE8oPLpbaoJ34kCHJ7fre/6OPOw1KGEZBEuJ5ouX2sBGuAAY6/i26eTpgZfJx9F47T9aXms8FlgNLbSCOyA9T9+C49u5rKcm9I//0hmd52hACXcxsJGjKqW8Zx8ZeQG9YCDUbR1EVmyF7Svs4KkdDwBQXAadSID8j2gkXNfjJNrCvopZA/+vCbMLVPJ7g=;IMwGlEhz5HTs1kBtaRHfTg=="
 ---
 

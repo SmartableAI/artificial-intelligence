@@ -267,20 +267,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"
-    publishedDateTime: 2020-12-07T06:08:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/12/07/592999.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 54
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/12/Google-headquarters.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Google to Review AI Scholar's Abrupt Exit"
     excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have “led a more respectful process."
     publishedDateTime: 2020-12-11T19:15:00Z

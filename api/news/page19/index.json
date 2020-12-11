@@ -2,49 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-11-25-aisera-releases-ai-service-desk-for-microsoft-teams.md",
-      "title": "Aisera releases AI Service Desk for Microsoft Teams",
-      "excerpt": "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
       "title": "SK Telecom designs own AI data centre chip for 5G applications",
       "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
@@ -1191,6 +1148,58 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow.md",
+      "title": "AWS Announces General Availability of Amazon Managed Workflows for Apache Airflow",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

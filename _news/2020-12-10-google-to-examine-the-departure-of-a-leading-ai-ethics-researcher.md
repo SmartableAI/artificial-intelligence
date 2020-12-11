@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -252,20 +252,6 @@ related:
       - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI Ethics Scholar’s Exit Adds to Google’s Employment Practices Woes"
-    excerpt: "Prominent artificial intelligence scholar Timnit Gebru helped improve Google's public image as a company that elevates Black computer scientists and"
-    publishedDateTime: 2020-12-07T06:08:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/12/07/592999.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 54
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2016/12/Google-headquarters.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "The Future of AI Ethics Hangs in the Balance"
     excerpt: "DeepMind Claims to Revolutionize Medicine But Questions Remain  Google's DeepMind unit is good at feeding the AI hype machine, because after all, its very future depends on it. But judging how Google treats the future of AI Ethics,"

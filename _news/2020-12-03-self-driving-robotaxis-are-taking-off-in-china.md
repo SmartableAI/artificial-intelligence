@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Self-driving robotaxis are taking off in China"
-excerpt: "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality."
-publishedDateTime: 2020-12-03T06:43:00Z
-originalUrl: "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632"
-webUrl: "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
+excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
+publishedDateTime: 2020-12-03T08:52:00Z
+originalUrl: "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html"
+webUrl: "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KCTV News
+  domain: kctv5.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "0gVfaXI8qim0UhSWjPtWr+fksY2NQKpe3d6YxeU8qHbE1j7X9wcECvhQLmHNddHWFxJMSDP3+Z/YqLT29WqruJGjgVOPSBG3EB8vKUYSFFS2X/KVK/nS7t+k02do/4T10bhqPALjxzonDXM+2r9R0mRJcWj3/DzZJ4GpsRB//VHdst+Dq3xp/CEhcdhjoXfE2x7gym8BvUIwXfAJRfmb+dAnX/7TqHsXPLv5EnAwHlZzEluc25T6WP/1zwJd3aYtuMS2bTHHyidLiWK0TT6RsdmWDxLaq8PFttOz1oasAzrWV/L+WNMx/jb11NQd6R5YSjHqNsjSbNNZDoOGp8o4fAtru8Ko4y0zCGueG1+94JYuNeONOHQbFgm3UBtYSjWhcea6h1Ze8FPx7UPeU7yqnAtosgHcK0Gi50QYoUv0rKedblWCVdBjtj0jGhV06d86FhbDQWL/qY2otczCM6B8saXRWJxSHSIajqAvGLe9OgocPGwRCrjFHO2sdSVZl+O2oWsHtzYNChxdTohSf+DxcQ==;kExd1znmcL6Qekz0EjuqNg=="
+secured: "JL4Yd+VLn00QEf3cakaZLudPeKidADL4OJE91RdTnJWJ8CvrdIr5riwxkFhdTbJ2zlTUIUPTr9nHQRrgZQ7k5Q1werMShkLEZ+HOPBe/lKhSXuJ361hkhWXBM7niyYTUt+wgTnhZ/K21DzMHOuDU1LIkELAm7d6nzKsuhoj9/qrTvHT61QQfnxyXODJqpXQxSYhJKefVI7O5UO6xrTLH+QtRoSUBE8D5PxUF8oU+WKFsNWV9vE06IpG2E4wkv773MazuFUHsrDEH44Zdgja+ZnltqpJeKgkjhQuBiApsbOkTcAlAxpTLVMM8/n7Ev5/daR0Xg/e6vMQ/MbjVgNyqzPXoys4cnHFKmwDDDIAkreo=;oSk4LquO4wZRObXRN/DZPw=="
 ---
 

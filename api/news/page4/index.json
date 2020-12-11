@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-12-09-artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021.md",
-      "title": "Artificial Intelligence-based Security Market 2020 Disclosing Latest Trends and Advancement Outlook 2021",
-      "excerpt": "Click here to get the latest sample PDF copy of updated research 2020 before purchase  Top Companies in the Global Artificial Intelligence-based Security Market are Nvidia Corporation, Intel Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021-2020-12-09-6197241",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-2020-disclosing-latest-trends-and-advancement-outlook-2021-2020-12-09-6197241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-02-higher.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.2% Higher",
       "excerpt": "Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) traded up 0.2% during mid-day trading on Tuesday . The stock traded as high as $48.63 and last traded at $48.55. 27,",
@@ -1260,6 +1208,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live.md",
+      "title": "New hybrid architectures are unlocking the power of data and AI (VB Live)",
+      "excerpt": "Learn how upgrading your technology stack can help your business unlock new AI capabilities in this VB Live event.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/developers_collaborating.GettyImages-1159379139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/new-hybrid-architectures-are-unlocking-the-power-of-data-and-ai-vb-live/amp/",
+      "publishedDateTime": "2020-12-08T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

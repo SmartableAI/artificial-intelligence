@@ -95,6 +95,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Boeing tests autonomous, artificial intelligence-enable jets in Australia"
+    excerpt: "In this week’s roundup from the Association for Unmanned Vehicle Systems International, which highlights some of the latest news and headlines in unmanned vehicles and robotics, Boeing makes significant progress in the development of its autonomous systems technology and drones recreate accident scenes for analysis by law enforcement and use in legal cases."
+    publishedDateTime: 2020-12-11T20:49:00Z
+    webUrl: "https://www.vision-systems.com/embedded/article/14188942/boeing-tests-autonomous-artificial-intelligence-enable-jets"
+    type: article
+    provider:
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 38
+    images:
+      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2020/12/Boeing_High_res_Cloncurry.5fd3d8797d94d.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "40NKs2MOAxVP5RJjJIlRkHUeaqxyHl9qTgTynafApJlac4M8OBBOccDS73i01+Z6wbbnUacSZqgIXU4m2TX2FBdtOnRE5H8iDhBj9m9rU6uQDKPc80utKINWHatxQIXap6Ub8ivuAOkptAjq4SNmIZmr9d3aaTpn00NU34+Eh1PdrdQGMsDqasd/pTCgm2xUguM0w1WP7DHAfhhKtHNNtmWDiB0uwkde/hdqJrVDmwdz7wSIVIV6TVldhJ509UB9CtPuCXDZRG8JZyp9PWleGp17joW9eXzE5a3sDiMWn3fVfUZvLBVHs8xiyVjRqI3YLZvT5snVY/ZhM4RXERI6gARJq1MnIdbxAg7Mu8c2LVYOLcaQGshaEaWdRHNCMyXFaoXYKshZmW4c7AflIcQxzHpXxQ7LMj8xIpXqSX4mWF7cCudpT9qwssZ70TBSHz+cg7YRe5qv8rj2Iy+gOhStG9CO6jD731gTRmZpRCHkPSkh6nZp/vhTqYH4Xd5QxxHd7NgYHwBMpjokt7SyB2Ba+w==;Q0QNuok9OTgYEuzCs7+RoQ=="
 ---
