@@ -107,6 +107,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "TSMC will provide self-driving chips for Tesla like Apple Car – Report"
+    excerpt: "DigiTimes reports that the Cupertino tech giant has partnered with TSMC to produce self-driving chips for Apple Car. As the first company to provide 7nm and 5"
+    publishedDateTime: 2020-12-09T18:25:00Z
+    webUrl: "https://www.ithinkdiff.com/tsmc-provide-chips-apple-car/"
+    type: article
+    provider:
+      name: iThinkDifferent
+      domain: ithinkdiff.com
+    quality: 39
+    images:
+      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-Car-like-Tesla-.jpg"
+        width: 1200
+        height: 445
+        isCached: true
   - title: "3 Self-Driving Car Stocks to Own for 2021"
     excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
     publishedDateTime: 2020-12-07T15:47:00Z

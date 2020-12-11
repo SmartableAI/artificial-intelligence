@@ -1,22 +1,28 @@
 ---
 category: news
-title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
-excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
-publishedDateTime: 2020-12-09T15:59:00Z
-originalUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
-webUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
+title: "TSMC will provide self-driving chips for Tesla like Apple Car – Report"
+excerpt: "DigiTimes reports that the Cupertino tech giant has partnered with TSMC to produce self-driving chips for Apple Car. As the first company to provide 7nm and 5"
+publishedDateTime: 2020-12-09T18:25:00Z
+originalUrl: "https://www.ithinkdiff.com/tsmc-provide-chips-apple-car/"
+webUrl: "https://www.ithinkdiff.com/tsmc-provide-chips-apple-car/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WLRN
-  domain: wlrn.org
+  name: iThinkDifferent
+  domain: ithinkdiff.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-Car-like-Tesla-.jpg"
+    width: 1200
+    height: 445
+    isCached: true
 
 related:
   - title: "Here’s How You’ll Get Paid To Ride In A Self-Driving Car"
@@ -99,20 +105,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "TSMC will provide self-driving chips for Tesla like Apple Car – Report"
-    excerpt: "DigiTimes reports that the Cupertino tech giant has partnered with TSMC to produce self-driving chips for Apple Car. As the first company to provide 7nm and 5"
-    publishedDateTime: 2020-12-09T18:25:00Z
-    webUrl: "https://www.ithinkdiff.com/tsmc-provide-chips-apple-car/"
-    type: article
-    provider:
-      name: iThinkDifferent
-      domain: ithinkdiff.com
-    quality: 39
-    images:
-      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-Car-like-Tesla-.jpg"
-        width: 1200
-        height: 445
-        isCached: true
   - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
     excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
     publishedDateTime: 2020-12-09T11:00:00Z
@@ -182,7 +174,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
+    excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
+    publishedDateTime: 2020-12-09T15:59:00Z
+    webUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 19
 
-secured: "k+4q+NQAoqumBra4WM9Oc+sDi6F8ZRAGjviKsUk0khU0kLXQgujLTxiGSLzQ+oFb/uGf4icOpf1g4Qic4FeMzEOgyuV2KRrg7LxjkRK3qM/SLnoZHUlUfqnKFEyp9MzNoOK43fQo5i3/UGvhCQl8dEC9o+RxHrrPb80V6sw/HsZZqrrhBNoSQcHqSfWoDy9rrS3qdA0rf3XGapILyXIzfp2HdYuJkbKG/C9Wv4zQ4T8dKY6e065/Xlbmz+ZaoEVmkmQTdZaIWY4rv8vXp0ax1Na/Il3ZgX9vM9OdXPrSVFjWr8H1hYlXNiPZXsJ4JBEs81simOeOuz3OzSwmeVcVI3ha5cjUcxDGEROlPNVUruPGT7dbqUKdz15+GwyboW6A0VbiTYjI78lddAWlyqnu9YNQyyAxATvtgpoaLUqsAG3uUNnh4v6nQw0drGHx9CdWzDljK+fgLPJgDLhEcrwZPz8e5FILCrqNUrRslmuZhwCVbpwD2HUxZJdfQHoKjLD0ahj/4hbWFywDaBmo2BDdCw==;LsjHn2u3HqdK8NaN3w9ScA=="
+secured: "HNL2rz5V70+gP87QbUzQZNGsoh9b2V0ffvl1985Zv7MIPmqsoOcT5W47X1gtCiaS8baWFWCR/AuObpudQRG8445jrmJWeEVBZCRsP2W0Sw0YJVpxM9/OqrAridxRva8YQTelI3nu2pE8uuJMIkleY7b4v6Scn+ZGPVTsb0nC5bEsd1an8PvygviIKSLFO0PDpuE4GwlGcivNJRCt+nspqooFZ/rwBwoqek5B2QKK6p/KwUwc02LZ9De+9xtvbt1Fbmzr9JrSLSWUFV4LOrHc1Hazh4r7pQn/wsFbZX0NCPUTyIouZ78o1mjan7HiPLVaklj/cfJT4v6Ct3VTvAnpdicN9F+E9jbpY6kufI1gOI0=;KzwrAvDLuDaju6JhFDvkow=="
 ---
 

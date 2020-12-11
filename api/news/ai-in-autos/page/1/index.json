@@ -148,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -605,8 +605,8 @@
       "title": "3 Popular Robinhood Stocks That I'll Likely Never Sell",
       "excerpt": "E-commerce, the migration to the cloud, artificial intelligence, streaming TV ... In particular, I think that Waymo, the company's self-driving car subsidiary, will be a major success story ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04",
-      "originalUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04",
+      "webUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501",
+      "originalUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?time=1607080501",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -616,7 +616,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-popular-robinhood-stocks-that-ill-likely-never-sell-2020-12-04?amp",
-      "publishedDateTime": "2020-12-04T03:19:00-08:00",
+      "publishedDateTime": "2020-12-04T03:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -784,19 +784,19 @@
     {
       "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
       "title": "Self-driving robotaxis are taking off in China",
-      "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ...",
+      "excerpt": "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality.",
       "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
-      "originalUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
+      "webUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
+      "originalUrl": "https://edition.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html?bt_ee=%2F7EcIymeGxGJmgX3xXLp7WDAlMCgZxnSVajOAHgmiDpgr02csy1UOBD983MgcDAv&bt_ts=1606994793632",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -804,14 +804,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T00:52:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html",
+      "publishedDateTime": "2020-12-02T22:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

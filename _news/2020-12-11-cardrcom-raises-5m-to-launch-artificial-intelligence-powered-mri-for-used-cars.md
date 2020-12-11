@@ -3,8 +3,8 @@ category: news
 title: "CarDr.com Raises $5M to Launch Artificial Intelligence-Powered ‘MRI for Used Cars’"
 excerpt: "The used car market in the U.S. is worth $89 billion, and continues to grow every year. But even with 41 million used"
 publishedDateTime: 2020-12-10T16:41:00Z
-originalUrl: "https://omaha.com/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
-webUrl: "https://omaha.com/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
+originalUrl: "https://omaha.com/business/consumer/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
+webUrl: "https://omaha.com/business/consumer/article_a9da2a2e-97ad-5dae-ba3d-f7b67a65df50.html"
 type: article
 quality: 46
 heat: 46
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "JTgrqpo6oInUDaSKujPW1bl9/+8wG8nJMCWXEU2PWY2dtI/V+rap0Ko6+F0zqDRsMXnCftER1HvB/bTFdln9PRXLZg6+Wg0BUmusQNhKHlzy3iG5uLAPFK81uBwhAGeCkvO80c222fOvusuUKpJWpQN3tn1U2EXvPEk2tpg3mrEEPaV/d2P8dJ4PcJx6ynmtbUd7e9srlrTZgfb15LOxksUYLqTHWJ6sZawjYJJ/mvF5f4FDqqxuQM7amLUBiGZk7KnEUCnIsYJiwzZF4BBfqfWfz32a0nkfnmdym8xjLD87gvJgCp4jysRLX7FRDW2AGx0RwpCZ7a/2nvybc53GL4N8BDLg9muvbOt6OoyHxqA=;pMjkOAcDHrXRkNVWw6ReTw=="
+secured: "dVQ53uZZ60gAPf0LxQyAINCpHL9SgYFosNmH3OYsZPbhCj3uMYfXqmXqMdbPhg3PqPMaa/8y/VJiGpRBtwqdklNfO9NMZB3sioL4CLeSzq9uQZmUkkMW/JKrCAPQLI1BsbuBISyamDeNTXJEsPr6lqJulm+Exxzh89l+O4yQxJjUysFfJ9o/zHufHvEsqlU14h4OU4Mvuq9EpUDMdSgbn7EjSTOFeQQ7S08O6CHLau/YHjGsI9nEAL2gayA9zefY7lBLjCyoLO2GZYfrlv13I7qanmnjx4Hi48XvHzewqYHhbHOfiTG943BJ7A4ov3ZNSR+jxrN6rANPAkSxyTdrd0f60q1OEFx4ujJfRgqUHt4=;wzqu7+Nh56uVT+cUi4M82Q=="
 ---
 

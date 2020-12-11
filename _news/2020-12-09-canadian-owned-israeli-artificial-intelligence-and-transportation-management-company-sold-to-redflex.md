@@ -25,31 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "ServiceNow to snap up Canadian AI startup"
-    excerpt: "ServiceNow has announced that it will acquire Element AI, a Canada-based artificial intelligence (AI) company with deep AI capabilities. According to ServiceNow, the acquisition will significantly enhance its commitment to build the world’s most intelligent workflow platform,"
-    publishedDateTime: 2020-12-06T11:50:00Z
-    webUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup"
-    ampWebUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
+  - title: "Israeli AI startup RoadMetric acquired by Aussie smart traffic company Redflex"
+    excerpt: "The Israeli company develops AI solutions for law enforcement video analysis. And now will enhance Australia's Redflex in two"
+    publishedDateTime: 2020-12-09T05:10:00Z
+    webUrl: "https://www.geektime.com/australian-smart-traffic-company-acquires-israeli-ai-startup/"
+    ampWebUrl: "https://www.geektime.com/australian-smart-traffic-company-acquires-israeli-ai-startup/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/australian-smart-traffic-company-acquires-israeli-ai-startup/amp/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
-  - title: "Element AI Takes Workflow to the Autonomous Level for ServiceNow"
-    excerpt: "Element AI Takes Workflow to the Autonomous Level for ServiceNow On November 30th, ServiceNow announced an estimated $510 million acquisition of Montreal, Canada based startup, Element AI.  Co-founded by Dr."
-    publishedDateTime: 2020-12-08T18:55:00Z
-    webUrl: "https://www.enterpriseirregulars.com/167569/news-analysis-servicenow-gets-serious-about-ai-with-element-ai-acquisition/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 37
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2020/12/@rwang0-@servicenow-@element_ai-clean.png"
-        width: 1074
-        height: 540
-        isCached: true
+      name: Geektime
+      domain: geektime.com
+    quality: 33
 
 secured: "n/ix0f2nOmczGvzB/tQuZ/0L8I53e5kXelM0HwstHhKnFdUy4zPRjjxYEubNz/E6u/q8KlOD4MHsnvFtiqPbGl9N9n4iA+7trrOTTZ4MD+ogAnPAJWZ8cFsRCek+tnwP7Y6ftDfctbOfIYXESkGxuvCZj0zVUmIE6q1BUreuGzwH0tOIs6FZ7BM9LZkAVA5JjDWxHv0cMf0HVFbrBEz14NuXAAvmymxW5tq8ZAYRgw+EKw9UO8SWLRrnhcnIsxOwUdqjL/AYOgYAOyJB5zOb9vOqpyUixJZU+dusbgoH/ECCvSLgXI2IKNyMIIKI/OXHcw587/DpO8KdMFduQDyP5Cg2Xkilo7G5a3K8jbBu/KI=;4IhWHhYf0jlExVRHdpv46A=="
 ---

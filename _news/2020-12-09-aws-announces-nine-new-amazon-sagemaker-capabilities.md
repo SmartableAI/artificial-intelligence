@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-publishedDateTime: 2020-12-08T19:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
+publishedDateTime: 2020-12-09T05:03:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -171,6 +169,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "XIu44e/EaDCNs0/kbUfUgIx/8fY1Ucrj28if1LIWqNuy5YyXYIAgOS7TujO2TCDd6AgNHBqYqRXNhsIpbjDDrF8/GXAL+VAEJbdPCBd49+nQHPbTus7TChAJDk7Nx9GccKXJCP5Rd88qQK17F7P9lJj5hHp6uCaULvuwAVIIbjGIXMz3wLbXrjGhOevfq2brogvaQtveKseAA1Yc0zDNvP2RKhuqoejcLhvQfT3egiO7AWDW1CKzslZ2+VZq7sbw9sB0qRWIsZg7qn549E9ZxwDsFz2r7SAO/k0q4r9rYrXbZDd/Q2CFP59rg+ERRzZYOELwTLnPH1hBtkemLJXLX+YxpxA4o/TLPHkHjXJ1hZg=;r0QlsVilWWI8mcPi9+kg1w=="
+secured: "7Lerih/4GTXVe4AQeVFQThLhshkBi1Ctw0zffD/SuBwjxb9RxHCelMpQjp2Hbw9B0KDnHUnMv+Pzi4qVNO+nAl1zWAy0JN9dgMxgz3IHUdq766YH3reJwinulUZ+vyNZ0z3mvZ08cthItS2QftVXtckvS6zr5v2vQQPlIHKmCfkR0rflrTv41tjVoy3iqnfV9HhM8/zNET2gqWWeNDrrIwpfnMmFI28EBqNEKd//bj3zdA57wgfzLOG9dpFnlWooiZ+spuG6s6OWSzMR8MT7DoKlkt29GD+wFk918P6VKX99rZUHFT017kogKDstEYFEiUgjWyZLTYdZ6IWZcMkyPO6zjJsj0pQ3Kt5gH6nbYxI=;tMkS53MdgPk/wlMpfuJKQg=="
 ---
 

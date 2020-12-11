@@ -95,6 +95,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "TSMC will provide self-driving chips for Tesla like Apple Car – Report"
+    excerpt: "DigiTimes reports that the Cupertino tech giant has partnered with TSMC to produce self-driving chips for Apple Car. As the first company to provide 7nm and 5"
+    publishedDateTime: 2020-12-09T18:25:00Z
+    webUrl: "https://www.ithinkdiff.com/tsmc-provide-chips-apple-car/"
+    type: article
+    provider:
+      name: iThinkDifferent
+      domain: ithinkdiff.com
+    quality: 39
+    images:
+      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-Car-like-Tesla-.jpg"
+        width: 1200
+        height: 445
+        isCached: true
   - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
     excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
     publishedDateTime: 2020-12-09T11:00:00Z
