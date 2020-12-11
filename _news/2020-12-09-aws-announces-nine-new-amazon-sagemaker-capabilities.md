@@ -169,6 +169,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "uwV4cSfxJ3CpwsIa/wKLsYreMJ0iPPme4mRfzLDWUvwrMZ3aSvUTePPQ6YRJPYnbgbLPeM4i5qj4v/B5k7mlKlG8ws5ooX++/ge0xRZUP5GPDxQHXIW6yXlvYvlanX6xzSckoZhwX59FUqt/4DQszgrbd1so0oDfyIbPoSnRW+RLuBF7YXznJFxUpTDVaCP48pmF6qvhgDJdzV+GKW5QEV+6+sO3q9V0ulGrGS6ki2WWfr19yj+q/7qEH/egXCrz3RWEG630QQJWl00IQiq5E+C5i/Er0Ghovz1fRqUaGi73/KvSARTWTWq7nD77nXJv6Im0QUfixaz6e+4uAc0vGdIlsBiNTJcBWodrNdmPfD8=;xSxIdfI1QR74CS9uZaoKIQ=="
+secured: "8EPeuQ4tQC7pol4qH+nZC/6yD71/kNP+sehEUts6f8SjvN+78ydgzJGROQ0HyDtsLaZe3JVqMLtARqjKAG/jELLmuorMNCGltFW/euDndpB5kn4UQ1vFcTyCOS9lmQcZIk7PDzQ/gjt+onKxL0i6k3yQrlhbgDdtqlverzEro7saHcaWvpZ+SeDrE8zW34X0XVk94yxWXpXL+G/+vuZeAkq/OxsPABjd9RQ5gYrZ0oJa2PGXE3xX+QfOwCt+wXBgF3e15B9ZYiWSa/Vszf7g3cMjx/GWyP9DxNqInUm3YzyrkZ+jC/zQcVPSmS5DqfLi7MNIIYEz3rfPfewj1yLgQN4VEeMGnrx3qp3U9wsC0j0=;YAycUUuRY8EWTbNyRLiOPw=="
 ---
 

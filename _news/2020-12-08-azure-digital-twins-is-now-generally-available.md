@@ -239,6 +239,20 @@ related:
         width: 957
         height: 597
         isCached: true
+  - title: "Johnson Controls and Microsoft Launch Global Integration of OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Johnson Controls and Microsoft expand partnership with worldwide collaboration centered on Open Blue Digital Twin and Azure Digital Twins."
+    publishedDateTime: 2020-12-09T17:16:00Z
+    webUrl: "https://www.commercialintegrator.com/control_automation/control-systems/johnson-controls-microsoft-openblue-digital-twin/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 37
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/09/AdobeStock_278828065_Editorial_Use_Only-1.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
     excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
     publishedDateTime: 2020-12-11T13:40:00Z

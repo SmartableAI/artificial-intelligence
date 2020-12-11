@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2020-12-11/study
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2020-12-11/study-san-diego-poised-to-benefit-from-the-rise-of-artificial-intelligence?_amp=true"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 209
     isCached: true
 
-secured: "74Z6V8CT3E8jr9YoQVA/fIFih0MeXopr2vwq183tnAglKFeDJ/q58JxnsuwJXiAwURZOJUT0MubJNIJGKA/4JuCTpKjVO26sXbpYmZgIiqXKv8OAtLDqVUoxeqIGpUhgTCH8yPsezONskxRlwZo9/HXj7BhvR473ftrEEGQsA+CGrEEC3GoW+em2MJyHka/9UjS/an2UAGZyenHYZIN/2o2AdRgCwV2cdmDBER/KoO4bI/hTqQJ+uevQemOmE972/k96d53GZRsChbS1YWvzAri2+Kw8iQNZmgHEKN0+AJ6Wnmk+N5Mvapl/1crMagfYfUNRMNpxRa7/TpcNvR4yf2R2Fo1on2dxOGDDWjuiQeQ=;bj5F8ozuRxBrUD7bCt/SUA=="
+related:
+  - title: "San Diego May Benefit from Artificial Intelligence"
+    excerpt: "Artificial intelligence, a term for technologies that make gadgets and software smart, is expected to become a bigger part of lives thanks to advances in computing power, data storage and high-speed networks such as 5G."
+    publishedDateTime: 2020-12-11T16:33:00Z
+    webUrl: "https://www.govtech.com/fs/automation/San-Diego-May-Benefit-From-Artificial-Intelligence.html"
+    ampWebUrl: "https://www.govtech.com/fs/automation/San-Diego-May-Benefit-From-Artificial-Intelligence.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/automation/San-Diego-May-Benefit-From-Artificial-Intelligence.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1181851309.jpg"
+        width: 940
+        height: 627
+        isCached: true
+
+secured: "ZpGs5No5MVIskKBy5fDrCSAbipunVXcT7mFTPkP3eaw9JzNlWqo+EFsWPMX9LYgQMkdabzwgAi24zBKn1jnRTHGt7eWEMVHZSGTPozbZ6TeYvuJs2GfTY1+5jgG8mSKMOaGUvVPiNvbs8sUjsBkptYpNQRU6CS1Qcv5TqYCAAXlI4kIx5YBlOkTlCC5KuxbtCUyWqMcBAY3mgROG/+zKBl1FIn2w1LlenesOkWHEqRA+mgqWJXHxN2rIeMK0R6yYcwt7ETXUVLLe9O1CzAG0T34WQlqBKUXPX3zPQ08NYJKVN3szqBBAgX5+Da+5XMju3z129koPazpDh1MUkfZJLpoyVbrYeFawqqNSWtiFDN6pUJg/yrurrVOuhy/wePimsF7l9VfYqWRdbZrBnIBe2STKYDWM94SLzJ99sOAoPCXFw/UffPw2lHB/M+IJyhq4rK0m19OitwNyQeNwIl7KO4RIgtpQUV6rLasFsA96Na1oQbOBPq0a6VcuXC4XPwESxIxwc8KF77RdFP/PGMn20g==;ZVl3e8ydXi6HHwrvV9t7mA=="
 ---
 

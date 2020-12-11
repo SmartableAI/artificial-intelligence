@@ -164,15 +164,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Connecting The World Beyond Borders, Proxtera Launches At The 2020 Singapore FinTech Festival"
-    excerpt: "Proxtera is established to realize Business Sans Border (BSB), an initiative of the Monetary Authority of Singapore (MAS) and Infocomm Media Development Authority (IMDA). Proxtera has developed into a global public-private partnership,"
-    publishedDateTime: 2020-12-07T00:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/connecting-the-world-beyond-borders-proxtera-launches-at-the-2020-singapore-fintech-festival-1029867626"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "An AI proposition is now 'table stakes' for fintech startups"
     excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
     publishedDateTime: 2020-12-11T12:35:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/deep-medicine-artificial-intelligence
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/?amp"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: India Education Diary
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 399
     isCached: true
-
-related:
-  - title: "Deep medicine: Artificial intelligence is changing the face of healthcare, daily"
-    excerpt: "Proponents have long argued that the Fourth Industrial Revolution could be the key to finding solutions to some of our most deep-seated medical problems. The unprecedented responses to the coronavirus pandemic have been an exemplification of this."
-    publishedDateTime: 2020-12-06T23:41:00Z
-    webUrl: "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/"
-    ampWebUrl: "https://www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/"
-    cdnAmpWebUrl: "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-12-07-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/amp/"
-    type: article
-    provider:
-      name: Daily Maverick
-      domain: dailymaverick.co.za
-    quality: 84
-    images:
-      - url: "https://www.dailymaverick.co.za/wp-content/uploads/Opinion-Marwala-StatuesTW.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "gtGYkLQzZEzJT89+TfRtjRB86dmDhy+hadmwVBgUIen9oZjH4W7cqsxQTt3V+Bt3zuIkrIMOxxk9rbcPcz73JpLOyTHM6a35wDLmfIc7NlhzuhuZDZ6ldZcnCXVYkwJSsULpSSfAJXcCjTLFA1+lsvJktLIyEnc5k2+JV4XGkiEaoHiN6NrVxvqDjR4oYZjDiWr+tcrMexYmG0273nHtkpA8Jx7fOBbIoTKMt0swXwFNYFjNeyBpVwNmPYZMd9aQNh6k6rmysAWFZifDbr41/MTviq52+8ZimsMtGL6sFTouWhpixfbw2re3uxUeSByBUyZPi/5Fe4fL/kKTh2NAXiTcnZuBcvfd0aPdE9cCLrxVRaQjVUMMvlz0mGPqAS/XZW2MK0Wsn/FV1Og32qgksOi5Esr3PrxB2SP4euCeL8rJFX/3jrESO5kb8PRpfnG9xPxZep/wsNmkkKxQ7tDDvtG682TxgasJWZ4dkKnVnqpqIzH59i+2Csa2M6lZ+/+FbMSD3BE+UysBkggrYB0akQ==;06/qrXRxu5sx9hTFxtGNzg=="
 ---

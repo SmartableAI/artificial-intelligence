@@ -31,8 +31,8 @@ images:
 related:
   - title: "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing"
     excerpt: "PRNewswire/ -- Cambridge Quantum Computing (CQC) today announced that it has built on earlier advances in \"meaning- aware\" Quantum Natural Language"
-    publishedDateTime: 2020-12-10T07:33:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-878485097.html"
+    publishedDateTime: 2020-12-10T07:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
     type: article
     provider:
       name: PR Newswire

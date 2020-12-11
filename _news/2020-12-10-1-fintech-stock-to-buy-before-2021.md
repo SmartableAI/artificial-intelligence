@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -160,15 +160,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Connecting The World Beyond Borders, Proxtera Launches At The 2020 Singapore FinTech Festival"
-    excerpt: "Proxtera is established to realize Business Sans Border (BSB), an initiative of the Monetary Authority of Singapore (MAS) and Infocomm Media Development Authority (IMDA). Proxtera has developed into a global public-private partnership,"
-    publishedDateTime: 2020-12-07T00:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/connecting-the-world-beyond-borders-proxtera-launches-at-the-2020-singapore-fintech-festival-1029867626"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "An AI proposition is now 'table stakes' for fintech startups"
     excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
     publishedDateTime: 2020-12-11T12:35:00Z
@@ -197,6 +188,6 @@ related:
       domain: yourstory.com
     quality: 0
 
-secured: "ypJh/F1NHS56e17Ve3H6NGMLGkTGbS31OktLYOwRCL3SgEIVQokj3N3e7BqVgpQpdUIZvZk5QXB7nGOl+fWPiSbK4HSHTxSIR55L3aUVNTvdF6DLBp4vst0uNrlg8dE3pFlUsSDQ7tq3hkNS7GwPPU5A4RctCFsCqxLBuLqewhIoWJxa/ixoUayvbBzGVGfFAjgVjb2rQTlL5V9SgPDgWzgwRcMHy8G2Ce9h5sqXdtlFfQlLimn0Xfq+njo034VsGkh0Fz80Z89yoiIZanJsLbuP9nzysCi+Pmtpv8KlFlKRnLvNbSD7NnyVOsZH9rkdOhLviIOjKa/ZMTGuQPprNFwT5zOPDRGilqYKK6jsjx8=;nQGQREKxQSByVE/l9ryneg=="
+secured: "xhmjxSuEykgdULaVk5QYPJwaO/gSPNo3jR15Q+iTWCdDzAntm69FosXKeyZKVd5DidMEKCahqoUHZY30vLZa6uRmOplm8rNJKwrKrCohQzc0VhgHJKcBb3AyB6KUqlVI9p8MhbtZ+3dvRPj2OA4h1FYnJ3Hc4f9l2cTDOtm8knPgiD6+zzvu2JMMiZN+WDPws/mFSckvPXkdbyo1WsBz35LSqnqH+cG2WxIhd9HG8x2rVxYVz/KHovZ34/ypdB2xmXqjkvMJIhjw3TY6wPjsUKKHVIaWWVnYRsEmjypoFQFBq/38Andhp7O6pVyQJdjLXK4ZwmZf8+XK1PQ3BVzimNmcTr8FjPDKpdKfI2B3nnFxFimnfIgTgckOJ/wEmvunhxh0/l3mO0xU6gMP5lbRqg5dkJRV83Hl6MRebZ8hgfK9VGcgSKKtRO1oGzaPfIrKvmS3xxh0j0LXG1GS4PAJvYqtN5nzjV/KEuStyIYaKp9dJ7LWGtI04svsXQU2nls2ZTvdClEaiGyywWfkid0cLA==;K/sh3Y8baS56AchiGNwFZQ=="
 ---
 

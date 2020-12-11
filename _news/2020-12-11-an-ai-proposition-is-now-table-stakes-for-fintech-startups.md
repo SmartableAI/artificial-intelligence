@@ -164,15 +164,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Connecting The World Beyond Borders, Proxtera Launches At The 2020 Singapore FinTech Festival"
-    excerpt: "Proxtera is established to realize Business Sans Border (BSB), an initiative of the Monetary Authority of Singapore (MAS) and Infocomm Media Development Authority (IMDA). Proxtera has developed into a global public-private partnership,"
-    publishedDateTime: 2020-12-07T00:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/connecting-the-world-beyond-borders-proxtera-launches-at-the-2020-singapore-fintech-festival-1029867626"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Abaxx Technologies: Canadian Fintech Looking To Disrupt The Global Commodity Supply Chain"
     excerpt: "Abaxx Technologies will officially be listed on a Canadian exchange on December 15th after a successful RTO transaction with."
     publishedDateTime: 2020-12-07T19:02:00Z

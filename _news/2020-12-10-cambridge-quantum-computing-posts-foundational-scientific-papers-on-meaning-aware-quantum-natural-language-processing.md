@@ -2,9 +2,9 @@
 category: news
 title: "Cambridge Quantum Computing Posts Foundational Scientific Papers on 'Meaning Aware' Quantum Natural Language Processing"
 excerpt: "PRNewswire/ -- Cambridge Quantum Computing (CQC) today announced that it has built on earlier advances in \"meaning- aware\" Quantum Natural Language"
-publishedDateTime: 2020-12-10T07:33:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-878485097.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-878485097.html"
+publishedDateTime: 2020-12-10T07:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-computing-posts-foundational-scientific-papers-on-meaning-aware-quantum-natural-language-processing-301190038.html"
 type: article
 quality: 15
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 315
         isCached: true
 
-secured: "D85Eo7mjE6oHvsiuorqDwUtW90Rt3Ie/yp8thBkOzm3wvPxfbjgiJzxcqRaZClRoz56CUscupneEBfXYI/HH4L1dzYbBNJvPCWK86yrAghO3ZjSBPXLM/JA5Y4ewGCSM1gJH2vYdWrzq+WQwNrHDKQyIeKwG0KN/4otjr/ch07kauBI/TomMTCMqlApy49/rqTe0UG6PzO9hwriKosMACdnZAbTrEzSP0PYZHdHS1w5YmfjeaTencvsUF2L9l8EH3dmDF9pXtn7iyWZQxBcKzcbpEOAcTLdLI8LCXzkpS5A4m/LwXI/LKl1NrdLbxeqiLhbzcmdNGU5/ZYcECduEGN8zT1TJVLntzxeZ/6tmjhU=;lRHaBhbbozuw2yY3tbzW7g=="
+secured: "HLQWzsX7rbway9PGUroJzksFW64zlwrCZVXdsMGDNkKauKzabLAeuxeSF9GpwbStbV5clXBxZ8oRWDNNQiMKOc22i42ST3NOCBzZCf1faqfhr8Ts48ihOco1K0ZFnquYyMciuCGz4RGxGhS6SHMgpOU18b4M+9Tq7aUVw8HyFnxYJj2Q6GcRLkcxu9XWpFqlLPQs5ti1hoJk4YhOShbT9dFnTWF3UHrb8XpOv97LRh/ki+aB8d5yciKjpN0z5mSh1PK8gaNrTbuQQE/g3fr2Iz9xCFx+yQAFa6Oj0PpMgT05CbljCjpKBIMuNNhTBn8uYM/iutRBIAqwj/3QYBxk8vc3b3ESY1YZ6GzXilGDAVA=;lzz6ttXcJMeC+DDGVRxM9Q=="
 ---
 

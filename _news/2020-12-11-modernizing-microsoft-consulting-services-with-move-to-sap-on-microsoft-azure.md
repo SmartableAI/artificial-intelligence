@@ -239,6 +239,20 @@ related:
         width: 957
         height: 597
         isCached: true
+  - title: "Johnson Controls and Microsoft Launch Global Integration of OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Johnson Controls and Microsoft expand partnership with worldwide collaboration centered on Open Blue Digital Twin and Azure Digital Twins."
+    publishedDateTime: 2020-12-09T17:16:00Z
+    webUrl: "https://www.commercialintegrator.com/control_automation/control-systems/johnson-controls-microsoft-openblue-digital-twin/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 37
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/09/AdobeStock_278828065_Editorial_Use_Only-1.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
     excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
     publishedDateTime: 2020-12-11T13:40:00Z
@@ -286,6 +300,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "iah1NLBDZACgoJuoLxawJl8rsOx8mjj3BuBVkJ/CxnFf3Oo5i8S8iOdVs3FZlBwANIgIEY/mEhDoVCOl/7F7R+ix0Q3zYgxj2Z8X1mVrj/iVNaihpzaxh4A3i+FZ2y6+hVSRJ99A3o8CvnFzDiZ1F0msq6qV8jPZLMixSWvDA3jN+jOPMLiFOyGdEmBr5JUDqSCK2cNNxayNIzP9xUN7zR2fSmVEJS1VPvP4IlNMw/RdWgs5nh0CJx+gN4yaEd6VH1m4jTMc5wnDpYRwP+GsIt6v+AVzUXmh1gBtqUPiVVtj8el0noQ8dy02Eap7cSuLdty9qwF6C2pxDyvzeDmVBh1M4qKg7aVSS6CojYXUxrU=;G2QaJphIPB86GMtpbh5PlA=="
+secured: "YI/FkEgYtO7QbIisgZA2UO8RS1a0q/t0hCEVIyF39wDWNdufH5oKNpz/xilunckPk8ZtGXQpN3roA5f0c5642mC4tGbJOLECctSSYmuDWp6IyGQWkwyPVFP+QxpiKXjMh64IY8rJvcbAy6cVKw+pkOS9Bmi+e2G8QD3qWw+lefnR/OHGOv6qqy7tT4pn15hMaDRd38IPKbQjtbk7qb5l5PrSFlDUPKfnD4xDRH4gzoPM3Yv49iLxHGWIqneZmmYPvv43+1TgQbDtelhbkOPnR/fcSsyOqFL+MgkZr9Ka0/nbSdB7C9A/WTy1hDEge/LEugprksxK/SDtQTNPe6flPj95jmjOPcQX3sgb+JPxIFzaoJC5ly0MIR0bwEXVqMkFWEpUUUeNWyQk10rxTDNr6NgleCyFX9uu1l5AreFdWXGSnzLEpznrOXu31s365cDi0JfJDUV/p6MlbrgBib35gW72wS0aUGmzfcowRbnnd+FTJHKjyHduROWpYeBHmeiDMCcngnGePfTf+qPVLSqZkg==;UBxx4ZZtvH5LC5CmH5OSuw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18721086"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Makes Full Self Driving More Accessible To Some Customers By Lowering Price"
-    excerpt: "Beta continues to impress, with many fans and Tesla owners posting videos of their FSD Beta experiences on social"
-    publishedDateTime: 2020-12-07T00:05:00Z
-    webUrl: "https://www.benzinga.com/news/20/12/18663378/tesla-makes-full-self-driving-more-accessible-to-some-customers-by-lowering-price"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18663378"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18663378"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tesla-press-conference-featuring-elon-musk-at-2-pm-est-today.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Full Self-Driving System's Beta Developer Settings Leaked"
     excerpt: "Fun options like 'California Stop' might not make safety advocates very happy, and what is 'Chiropractor Adjust Skeleton'?"
     publishedDateTime: 2020-12-09T20:19:00Z

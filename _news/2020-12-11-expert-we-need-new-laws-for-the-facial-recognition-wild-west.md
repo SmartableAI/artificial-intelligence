@@ -3,8 +3,8 @@ category: news
 title: "Expert: We Need New Laws For The Facial Recognition ‘Wild West’"
 excerpt: "A new paper outlines why Congress needs to regulate facial recognition to protect consumers and their \"faceprints.\""
 publishedDateTime: 2020-12-11T13:17:00Z
-originalUrl: "https://www.govexec.com/technology/2020/12/expert-we-need-new-laws-facial-recognition-wild-west/170629/"
-webUrl: "https://www.govexec.com/technology/2020/12/expert-we-need-new-laws-facial-recognition-wild-west/170629/"
+originalUrl: "https://www.govexec.com/technology/2020/12/expert-we-need-new-laws-facial-recognition-wild-west/170629/?%3Foref=GovExecTCO"
+webUrl: "https://www.govexec.com/technology/2020/12/expert-we-need-new-laws-facial-recognition-wild-west/170629/?%3Foref=GovExecTCO"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 915
         isCached: true
 
-secured: "Gl2sFX6i9n/t0a77vCd318wz0i6MMuN56zj//LbZFyXuRNdZm40xYt2hBZjqi7q8b3Yy2VFwImAxJm+x53Xp1G7OIqaxXf9QiAlv5fgG4T9X6H63D/oR/EXkAfZg00aBtcnshRTppk8Oqm925rRtUNGb9o5goSk6g3uZMmXOojCWsOq57JRaUu9Etmp1a8jlcgJns2neuza6masswGcvNH5CD5H9dazXp3o5nlVfT4F2WFMYI8ytyr7Y3R8bZxLve/IuT47gBGwxLYVejhum6XfRNX+x2POfqo+TDcYgLARaXhSpvcNvlSZtyV3fTGgrKRdSkIcI2Ng56N4xvN4QkdQhb37Qjn4qkJ7AHkTXZ8s=;z9Lilm/KDtLginDKOSX2Zg=="
+secured: "eswm64qA/S9Z7wnxx3C41qhnD1I+KRPuEMG8GdQ0GubciTmyaigxljNHezCT4AZMRMg3PWxvI5rUQaRx5Yp+x1pzpVuhwr+WI3V3YzADx3TdZprCHinogSHCwHYyZDCWClVxUxQHX/LMzjOhp/ERxuAK9Hdl//zYyoVc6TEm7WU8fMd+0p4qszqgill8XcsdOWQhPqhVoGe9NSFMguYSaT10norVPjT4teUonAULmM1RlwZN86H8pqOz6jhfY1gp5ctUzQQFI5jTBWE3wJiSWcerplZIWfwhkTEFKcvC3qVT8AZpWkKp6+9XvyF+/5GkcE720fOACZddtXC/0LinQCx7+g1I60/FMa1CeLstfXY=;DHfKGvTlROBkSddwh2BXfQ=="
 ---
 

@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and Video Functionality"
-    excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA ® pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
-    publishedDateTime: 2020-12-08T17:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended"
+    excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA (R) pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
+    publishedDateTime: 2020-12-08T19:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Dwvezu8cr+dmP5X9YZuTDpvObUyG5aEfN4MLxDgum50xvm1Afxm11gzP5lAzqSgRoaRD+4ZBeOSpXaZ7hk5e90I1SSPeQZcHHXnC0msX+xiO9q8awq17bkiTeNXHCgzKhvneguFpiKROqQ5n4AJMtxUOiNS+0CZLQXuRgydKgXlTl5tvkSL40AAJxqMyu2i7Ox/M9M8lKPqrFa2HKWcVYhCkxk+7shJrk6D/Yj/k58Msi83W+YVCdmf5onL5UkXiBLWYXSkE9Soc1tFgwSsLctzr/B7LR4gCY/AUBNXAoxULvhGAelWfXR/Z5+sueZ0GKTGF2m7CZtO4YEb2wc0oV075ysQazehSQzyWbu9ZNeg=;Ad1m2reKXs8Aeqz485S9Lg=="
 ---

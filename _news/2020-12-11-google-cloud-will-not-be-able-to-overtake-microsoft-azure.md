@@ -243,6 +243,20 @@ related:
         width: 957
         height: 597
         isCached: true
+  - title: "Johnson Controls and Microsoft Launch Global Integration of OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Johnson Controls and Microsoft expand partnership with worldwide collaboration centered on Open Blue Digital Twin and Azure Digital Twins."
+    publishedDateTime: 2020-12-09T17:16:00Z
+    webUrl: "https://www.commercialintegrator.com/control_automation/control-systems/johnson-controls-microsoft-openblue-digital-twin/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 37
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/09/AdobeStock_278828065_Editorial_Use_Only-1.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Microsoft and Johnson Controls Report Collaboration on Launch Integration Between Azure Digital Twins and OpenBlue Digital Twin"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Johnson Controls (NYSE: JCI) have announced a global collaboration to"
     publishedDateTime: 2020-12-09T16:45:00Z

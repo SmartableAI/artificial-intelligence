@@ -3,8 +3,8 @@ category: news
 title: "Facial recognition for pigs: Is it helping Chinese farmers or hurting the poorest?"
 excerpt: "Automation is revolutionising China’s pork farms but leaving independent farmers behind"
 publishedDateTime: 2020-12-10T05:00:00Z
-originalUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
-webUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
+originalUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest?ICID=ref_fark"
+webUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest?ICID=ref_fark"
 ampWebUrl: "https://amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "WU/5AKbE0W+tMXRSMNbalmSSU+mW5P2HT2WcjcJ6U429wJAGje9nfIHfMPyd7AhkIc2/KidT9r3zH+Kf7fCLfjrf63Pw6Ue/qGXKA4XTvoDBamMakqheQTiKS3tW709gQXzgcBtAbdSEkP82xNuQGIp+eMZIijodEWAFSfa1foBjPUBSd6NXgpfC6DTdfmS/7h6G/QPCVI/Z+LH+g0aJE/vTPLwRQZoCdFEXBDisfzFwPF/CDIOCbb7kDqoX/DmssIdG7klXUE3JHHGovkR/0EhW7iY/++0Q17IWoVRthSsIYNw28AvoWPImGv4VbdaA4hmfTKBA/0R5oBz/0f6YLeoR6HaJE0Xewixz/ViyfwgYwJB1Uq5rXahl1EpNbSv6W5/fom/pa9GFo3yrg4/AArbcpRucFSw6SOcQEMNSpocdbDhKi9ahLyY9lX5XEqN6vJW7kcp8gd/ur5MSLVosruUZ9YxPVlCzoakX/eTaBurG7TEiObZErNiMbMgK2M1+dAj7ESiVRFiPhMgnfoSDKQ==;IMKYDQQzgqzjV1xVtgM4Rw=="
+secured: "l6LcyaCfwrmcKm9Pvl02BNeGTc5ACeM6sOTtGtOytXYXmp72A5pyAHAtyquu7ORqXRYyxPFCZgCgW+IQll/AUk6v3S9Q545lcEGDBPRzm607s0OgN6+S7LfQ+yM8zLk3RG3jXXoatNAwiJfIc65I/i3jo0Xx9u3L7fqI1rUihxVNpr9P6DVS0unIMuGJaA9K3iTl4Q3vAFPDO7P7Frtgvk0HYYtEMuoP/zyWVxzkD7Yj5fWJ9i5RxdR7ffEQGMoHq7zO0Y+dhvaeOZj6+KyTQqC2haJD0ps4GR7Cu03xu7YMeLqAJfGjaKXLpLjGKF+yJzppJEbumHQpcJUEcvD3/0qZtA9ZNoReS2Hz0FGXzls=;hOBiTCMDkhpDJ02yHXh4SA=="
 ---
 
