@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Hardware Market Size 2020 Top Manufacturers, Industry Share, Regional Analysis, Types and Applications and Forecasts to 2027"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) Hardware Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Artificial Intelligence (AI) Hardware Market Report also covers top key players,"
+    publishedDateTime: 2020-12-11T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hardware-market-size-2020-top-manufacturers-industry-share-regional-analysis-types-and-applications-and-forecasts-to-2027-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Surgical Robots Market Report, Size, Future Growth, Demand, Trends and Top Players Analysis Forecast to 2025"
     excerpt: "According to the latest research report by IMARC Group, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025”, the global surgical robots market is currently witnessing strong growth."
     publishedDateTime: 2020-12-09T14:15:00Z

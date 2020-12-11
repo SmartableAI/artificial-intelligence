@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Impassioned Debate: Self-Driving Cars Parking Head-In Versus Nose Out"
-    excerpt: "Human drivers aren't sure whether to park heading in or via backing in, which turns out to be an issue for self-driving cars too."
-    publishedDateTime: 2020-12-06T16:17:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbf2d4ca741861df005a691%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
     excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
     publishedDateTime: 2020-12-08T14:43:00Z
@@ -200,6 +184,6 @@ related:
       domain: wlrn.org
     quality: 19
 
-secured: "6Vm7WDBU5GHPyYzGsJ6la/WkZburYFRJgv2AXIWc5f5jHUAKtp3TcY2IGquYrBdOfk5cOeea3ljuzC/k64hkG8NROwas8QwKERznCxv4/UWlXNgZH38ptuXSChpO+d84esaxAWLBzf139pMa46Kv5AzayKMrhKq/nC0cUAZEMKPp4z4CqYyXiNCNWJ3g7CXHr/IMEKE1BUaZoOSN0SDKHN0g6d/15paUrJnz3Bkkz5qK3Ti7u+TLfB/uhct2xVZMxxdOlXTt7zl94MzZ3A5ohgNoNm+Os8V7y7gDpZG/aWPg7lPCjEjyjhfoGUhv7k16vyAXL1sQ4PI//4/leX/3uqhfr6lYpAfFa83ugQvf4JQ=;NrSS2YemyhjK0GeWCjq5SQ=="
+secured: "o5Wa2mlaijNC7U104lPeCA42pRnYy4inhgHpZxIf/LQi5PzyGzn2J0lSliLqz7bkbHABDR8QRBjsktAMudQsNb77tj5T8Vlt9E+g5ok3N2gZD7XmhFD2/JlL+P8g8GyF1DxlIsVOUFxX5EhCKuN2458JgQJkt0OEH+jmX5EJj9H7aUAczj/F2W371oOfHrCGBoXcZ9gvoEn/3dZrPqX77k0gwd0+pYXwP4WJrxk0TGtpQ2pT3zAZN9+FsUuzaz7uf/uCiK4lCJCKlTwZiMrmBLW4ayV/9QbklGZ3WSurQMZmul1KnV56jYeeA4wfIs/ozXZac8LJPYG27psKdvGYj3OoIxRqlbvdTC1469mPkBbtxV9LXW3dHMajEZnpwiNN99S4aAXzaRiEyX7uEP9Sty7D5jZPNcAszT+aTNXz6AeURUyFpUHa/btk7FbsdQFnULHvRk8Mwah6k9iLFTDOeidV42/zDHdAHFRevIuYuBkIu1npwb6r6XCW9XHoZRBQaklUlLnkLG7QiyzwwCH68w==;YA21jfVL6jUcl5EUEyC39g=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-11-himax-teams-up-with-edge-impulse-for-ai-chips.md",
+      "title": "Himax teams up with Edge Impulse for AI chips",
+      "excerpt": "Himax Technologies, dedicated to display driver ICs and timing controller (TCON) chips, is set to accelerate the development of AI chips in 2021 through a recent collaboration deal with Edge Impulse,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20201211PD205.html",
+      "originalUrl": "https://www.digitimes.com/news/a20201211PD205.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20201211PD205_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans.md",
       "title": "Smarter Cars: Auto Makers Experiment With Chips That Think Like Humans",
       "excerpt": "Experimental computer chips that try to mimic the way human brains work could accelerate the use of voice and gesture commands in cars, researchers say.",
@@ -1459,59 +1502,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training.md",
-      "title": "Amazon debuts Trainium, a custom chip for machine learning training",
-      "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
-      "publishedDateTime": "2020-12-01T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

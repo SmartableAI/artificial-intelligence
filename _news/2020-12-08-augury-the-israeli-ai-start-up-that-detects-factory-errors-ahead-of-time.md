@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/health-science/augury-the-israeli-ai-start-up-th
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/augury-the-israeli-ai-start-up-that-detects-factory-errors-ahead-of-time-651452/amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Jerusalem Post Blogs
@@ -29,23 +29,12 @@ related:
   - title: "Israeli martech startup Exceed.ai banks $4m in seed money"
     excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
     publishedDateTime: 2020-12-09T02:33:00Z
-    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565"
+    webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "The week that was in Israel's innovative startup ecosystem"
-    excerpt: "As we move closer towards the end of this very unique year and enter the Christmas season, Israel's high-tech ecosystem continues to provide global value across industries in this week's"
-    publishedDateTime: 2020-12-06T16:45:00Z
-    webUrl: "https://www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/"
-    ampWebUrl: "https://www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 22
 
 secured: "bpnAY+hHvxwDWScdMh4vO7ErwR7Xhz5gGuJsmjlI27jgctBf5wqVi8SgjXFtOLzY4RTBp+Z92d8w1FtBSIWmJfV23MD5nlQmBZfrUgwMzh9zjF33AA/EgSvROSslbxH+Fw2WURLPWwP5aKhHEw6GdeVg06qPsuzNxem6F+RNFE3Sn60ToQnDS6FSxyMn97kOyFbvvM8m1kOe5N4WSb6KrGAc1CsVkYz2ENypZo+4B5EKcINFj0t7a2Fvt4gjpNqC6IJ+fxVGuYO2UN3DxsFV94ALx2jajl4fsZvByyHBJ0k1SGpNGKZ4BAmsBkqgKjSH1oL3vPmlEoBW1ByZw+3a9yU+DFoY2da7XLQBpMjdwcPuuQ4U+Prsk2cpiI5bvtvhZyOhD5jIk6DehmvjPnzTIs5Wvs0/h93ceE91sYvAY9sE+aJy/kHXSd0aRUukXYW75ItpKQk8X4MUZvWgZm51eibVGHpZSvfPYkLUITwmtttj9AIiozc8bKBLwn/IhX+FzaBO/FI52Fs5OLCvRPiTvg==;c90Ewq6MHHrWIR9qtqy6tQ=="
 ---

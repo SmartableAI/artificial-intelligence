@@ -48,6 +48,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
+  - title: "Automotive Artificial Intelligence (AI) Market Study Reveals Growth Factors and Competitive Outlook for Future"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-12-11T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market Is Expected To Grow From USD 2.1 Billion In 2018 To USD 36.1 Billion By 2025, At A CAGR Of 50.2%"
     excerpt: "Increasingly large and complex data set available in the form of big data and growing need to reduce the increasing healthcare cost drive the growth of this market. The AI in healthcare market is expected to grow from USD 2."
     publishedDateTime: 2020-12-09T21:37:00Z
@@ -88,6 +102,6 @@ related:
       domain: arnnet.com.au
     quality: 11
 
-secured: "S3gc+8fNE7kb26Whgvc3s3kaVZKVv8jPTxYPGiaTuVcYXEPb7UIIkDzNvh6ZcQD3JxyCa6XDlJCUmNpCmYCeVpWsrElvvOdSTqJc8Rtmbe6H+LZ9w/9+ck7J648JWWq8J6jM+JV3N0u9SIm+bnsGTlKhrJn+X51OY/rB8SImSwUpL5qMyz3mAplfPzmSa449rDp8PCMGVPUVQFx/RZhylow7NS4IWFtMykiTZEGyCqnceUk5TT7btJX5Y9G/6x+6eDDHTQalHTgu/l1IFlcIcJ+uLKxgrtInFHQtM4B1BMsmDt4FUWWe+MXMDbCpxaEuGwf1EnvOXHvn4tKFy3VCT5xdv7n30AgXrWKPzRyqPM0=;zR+rT8NoI4oDexB1WHTdTg=="
+secured: "iz027rVfU4l5XhVWHRrGEiTEhO34vpW1+30sw93x6mXms493RPtC+qxghCoHQF1dPcopo+DS6ZKoso3GxfOfrimrd2zQoE6O0upMwmipRKPsE1Yzm0ujKQuyNf5nK8dQ/PGTU8Lag9HmIrYwxPSLbBynNANwiYnWH7c996tcaaPsgHlSBmVLLeYRDQETlG8YdZR2ixJeIFN25JMCegL2NFeG0Nasy0vPw+LSbrSN1aQeNeC9BtiuiAvPq+MCrD9NCv7ZyM23Rk6bpWl7ruk6uOfZ3jlVM1U5205RjYDCWoXquzixwTGpb13TkYXYhUYcN7TXm7XMrtVQFqaYEbtwN8GoFV02Bo6KweAOC7bAZZo=;jo8ylyjcEFh1GWAObiUzpQ=="
 ---
 

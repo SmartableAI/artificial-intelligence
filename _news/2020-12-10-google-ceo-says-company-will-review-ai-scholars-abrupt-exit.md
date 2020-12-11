@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Google CEO says company will review AI scholar’s abrupt exit"
-excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees"
-publishedDateTime: 2020-12-09T21:16:00Z
-originalUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
-webUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
-ampWebUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
-cdnAmpWebUrl: "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google"
+publishedDateTime: 2020-12-10T05:11:00Z
+originalUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
+webUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: ArkLaTex Homepage
-  domain: arklatexhomepage.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.arklatexhomepage.com/wp-content/uploads/sites/5/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://storage.googleapis.com/afs-prod/media/8b192c17a1084a91989f34d07ff2265d/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -53,6 +50,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ojCQ3aALDweWLEd7GMwAk/Goi6PbrnxKYgM9Ts9zq8+wWACrtzBnQvxxh7voyTWq9WnQX+3e1u8Pm/0SFMaKnm3/6agTGYFDjmW5P3A5u7T1gsyZLbtLYPKMDVbRZazBzoOAekGN9P8fXq+M0P3Vo2yfThERAyx3REBrETmvOVykoxcAcesDkQqkY2J/n5tQdVgB1G8I52KwLcHm1yI4w24/Zr3p6vLh8yNjAjE4vSwncDMWkJFONeur71Gy4Xx87y6oJoxnJS9BxCr2SSov0cYbpnLnM6N8IC857/tYyDOwKToG9GLpHPGNtimJlZD9wVwN6JKY/5PwnmTxGCa0ukqdmZFNXo6CMHwwnPCkADQ=;TErWdou7Tx1iNvSX7orgnQ=="
+secured: "Qxw7GL1DcyjdB9JyDyzDKuNqIETW8OLO8pi0PbgdZ9LAhWS8j8rCgsKk1hln4p7sMFtnsmBb9a+XUf3BEvW8EMF2bR5+gJd1msezOkLzo4TXw5ORQv+JLc7oIYFZcklivH9pLMz9bIyogBZEdcX6CDjQ9raECzxdsrIG2vQpoTUYnXpS+r4WN0ODRBJdH5TtuXOGQxKi+Au7ePoyP9kvHXF7IX8LbKJ3WIARYZ7rFY4Tv/tsUCQ1rTw9OVhtaXlQPmGFGLm6JHwkoWBJJVmrqFFoRMk2wopKNngpEmEHHERjjeedajw0D4Utj4zVc5CaHfq9jgAPv4TFzZzd4zGF3ZBltM2a+4L7K6T2pGDaW4k=;31uPU+f/lXq0EiXzK1TrmA=="
 ---
 

@@ -49,7 +49,7 @@ related:
     provider:
       name: Science Bulletin
       domain: sciencebulletin.org
-    quality: 47
+    quality: 49
     images:
       - url: "https://sciencebulletin.org/wp-content/uploads/2020/12/Breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence.jpg"
         width: 640

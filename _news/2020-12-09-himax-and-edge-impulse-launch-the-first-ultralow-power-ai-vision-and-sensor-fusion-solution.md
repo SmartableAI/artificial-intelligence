@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-tec
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-35629f0b1cca51c5b6f77772643c3709"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Himax teams up with Edge Impulse for AI chips"
+    excerpt: "Himax Technologies, dedicated to display driver ICs and timing controller (TCON) chips, is set to accelerate the development of AI chips in 2021 through a recent collaboration deal with Edge Impulse,"
+    publishedDateTime: 2020-12-11T06:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20201211PD205.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201211PD205_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
     excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor"
     publishedDateTime: 2020-12-10T15:01:00Z

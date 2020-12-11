@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Himax teams up with Edge Impulse for AI chips"
+    excerpt: "Himax Technologies, dedicated to display driver ICs and timing controller (TCON) chips, is set to accelerate the development of AI chips in 2021 through a recent collaboration deal with Edge Impulse,"
+    publishedDateTime: 2020-12-11T06:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20201211PD205.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201211PD205_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Himax and Edge Impulse Launch the First Ultralow Power AI Vision and Sensor Fusion Solution"
     excerpt: "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced a collaboration with Edge Impulse that enables the rapid development and deployment of machine learning (ML) models on the Himax HX6537-A WE-I Plus AI processor and Google TensorFlow Lite for Microcontrollers framework,"
     publishedDateTime: 2020-12-09T09:02:00Z

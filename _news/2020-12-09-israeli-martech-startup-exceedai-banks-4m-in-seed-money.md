@@ -3,8 +3,8 @@ category: news
 title: "Israeli martech startup Exceed.ai banks $4m in seed money"
 excerpt: "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,"
 publishedDateTime: 2020-12-09T02:33:00Z
-originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565"
-webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565"
+originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
+webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
 type: article
 quality: 49
 heat: -1
@@ -39,18 +39,7 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "The week that was in Israel's innovative startup ecosystem"
-    excerpt: "As we move closer towards the end of this very unique year and enter the Christmas season, Israel's high-tech ecosystem continues to provide global value across industries in this week's"
-    publishedDateTime: 2020-12-06T16:45:00Z
-    webUrl: "https://www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/"
-    ampWebUrl: "https://www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-week-that-was-in-israels-innovative-startup-ecosystem/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 22
 
-secured: "J0O0bxDelGWUHyu3VB7/bPTbIC3/pvyoMmoMi5UOc+mAMbxzPNlpiWzAkuEWfYsUqxbNDS3HK4UiQeDEZ7vtGuyiDxO2mtq7cKY0lY11L/3BGC7mgPllPSyOxM59IT5WwYW+dvbzeOkr8iuk6Wrq3S7Mpyqf1qUf1Vz0yNReAUVcJmxGqIu17b9RWrktsbGBxREmCgovvjBMwHoh0yJnARKAm/CIMld5oq5HnUKBZ0V4DhL2u+lHnLcgq2JHW47JudFbUc7CX5qH/O4WxIowCAZsA6wR8Nj2y0TsGB45uzSqXOtxH4DE75cf81ZBkQCIdFLlHegYZue0cCd3moP9e99AfkPayfUVT5zrciN0gnas28Pj/+UHL8XGUJ2Ev0vBUhLW7hnpY5P4KP8mJZyfVmDTb6FBM7MtQvIkFb5G0WdDuaVs2OkEp6TFiM10pbzY2DihFQj/6aJVMkNf71y4Wcpp5RjRcBtkt69BWHWkHALLIhX4yMui4mvYzdp67nxV3aXC5PNYlCcx/SkEJGIAXQ==;4khSQ0/khJgx4i0HSf7JoA=="
+secured: "GYzapMCM08RlST94MwWkctQFixIOfjJxCX0L1TIPXcc0AFIS1E4D9pOOyP6rYa+o+iPv/EbCO8s6M9aNfMiq36oeGMivFRFWPIlZsF1PtoCb1IdujFaxLtJQ7OU4sLJj9tOgnCpKq+NepabzMiC2UT3Dm/kkXYi2Xt4nrhiWdDOP4L9iF3Syg9xSrXJTTRtrcf5ZWC+WFWD4Z3Aouf98Hm/sDeFYGLqHCL8K66Si2RddmL0Ova78KZCPavibpv2wBiyhUDry/L+pTTqQBhg9XhK5Cx8vN52/HcV03R+8ezPp9QLTtP4BgUFo+8JvpjrfMKNLVgRMDmUB/ncGUL41zyHKJWVAwp92U0iJB4kiVQHKt2gF5+3or/y3GjNR5SmVmSZdLIUPPItdehGNSVY5kSwbOqRyHObR5dNYlYymJ65jkHFZRmbv3q8JN+IH9A5eXDReF35OYYYhMLv2KNZKWeYXBY/66jiBNPES880fdexNGHK393gEx2xAQiSafkIuUUao7xAzviABzfoTkzjpUw==;lkHyLCzdfscgcnFP9q9i9Q=="
 ---
 

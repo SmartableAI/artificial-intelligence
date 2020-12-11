@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Hardware Market Size 2020 Top Manufacturers, Industry Share, Regional Analysis, Types and Applications and Forecasts to 2027"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) Hardware Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Artificial Intelligence (AI) Hardware Market Report also covers top key players,"
+    publishedDateTime: 2020-12-11T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hardware-market-size-2020-top-manufacturers-industry-share-regional-analysis-types-and-applications-and-forecasts-to-2027-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mFyXPwSTll4jj0Yve83nGS+8xtDqEMjJmBWBIpXNMoBPY6ZKHg3HOBbnlpypGO7/s+gp8JrLxGn2TRFriwC8BC6HSh2ox7/7dlGjr3q7Fffqtx8HPNQ6cNzrL9KKlgrZU2M+9AgZrLzA14bdmNODncZpD1c+zU22dOOIzvdWWwDzM+z3rxOsyfoMK0UBSvDn9bQ8F3QY4ilHMlpN8TvHnkjLsBUet6Bb+l1kuK0S1d5/eK7jXON7vLszFYHXMQt9kjtBbFxlFljhmYc7AV4CTS8/GaSxj4SNdwWy1JfwT2wjOoZfoV4cFgiQdPZhATdjvBvLDX7E8Xfvmdnwj96sCWpzLwnLkBazI8xX+8YpXshUqoWg/0J8l79dAV8kFAuHdeTQiJ+Pv5wy639jRGnAMBrZCQuW+WGcBDM1qFnhTYCES9P0T63RLRZe8uABvJoYnXEhD1a1ei373J79Hl8L/gDevIJLdUKZQ8Ei6sNId3xNnexsqJYi1axZMvg27IXjG2nHAIBH3QUg4dYoS8dwGg==;V4XkTuJ1gnTtuXZqeaAE3A=="
 ---

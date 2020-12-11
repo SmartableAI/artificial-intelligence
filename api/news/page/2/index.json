@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
+      "title": "FPGA chips are coming on fast in the race to accelerate AI",
+      "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-216391.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "publishedDateTime": "2020-12-10T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing.md",
+      "title": "Zebra Medical Vision secures 7th FDA clearance for pre-opt AI bone sizing",
+      "excerpt": "The Israeli startup sets up camp at the FDA. This time providing an alternative imaging solution powered by AI for those without access to CT or",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/",
+      "originalUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2020/12/owen-beard-DK8jXx1B-1c-unsplash.jpg",
+          "width": 1984,
+          "height": 3051,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/",
+      "publishedDateTime": "2020-12-10T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
       "title": "Unbiased AI becomes mission-critical in 2021",
       "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
@@ -293,7 +390,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -594,7 +691,7 @@
       "originalUrl": "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -677,49 +774,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-ceo-says-company-will-review-ai-scholars-abrupt-exit.md",
-      "title": "Google CEO says company will review AI scholar’s abrupt exit",
-      "excerpt": "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees",
-      "sourceUrl": null,
-      "webUrl": "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/",
-      "originalUrl": "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.arklatexhomepage.com/wp-content/uploads/sites/5/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/",
-      "cdnAmpWebUrl": "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/",
-      "publishedDateTime": "2020-12-09T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArkLaTex Homepage",
-        "domain": "arklatexhomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1139,7 +1193,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1180,59 +1234,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-amazon-unveils-dozens-of-machine-learning-tools.md",
-      "title": "Amazon unveils dozens of machine learning tools",
-      "excerpt": "Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ML, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/931c1e72-e9d2-4ba3-a949-81f37789e560/resize/1200x/5f8454c96d426ad2237cb267edaf438d/13016607905898753203226-n.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/",
-      "publishedDateTime": "2020-12-09T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

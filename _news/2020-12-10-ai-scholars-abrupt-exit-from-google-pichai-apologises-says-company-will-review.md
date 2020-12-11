@@ -286,20 +286,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
-    publishedDateTime: 2020-12-06T16:52:00Z
-    webUrl: "https://www.kitv.com/story/43009713/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 53
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20138709_G.jpg?lastEditedDate=1607119757000"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
     excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
     publishedDateTime: 2020-12-09T02:39:00Z

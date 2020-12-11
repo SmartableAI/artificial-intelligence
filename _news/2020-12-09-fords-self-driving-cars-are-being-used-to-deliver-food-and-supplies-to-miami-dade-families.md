@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Impassioned Debate: Self-Driving Cars Parking Head-In Versus Nose Out"
-    excerpt: "Human drivers aren't sure whether to park heading in or via backing in, which turns out to be an issue for self-driving cars too."
-    publishedDateTime: 2020-12-06T16:17:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/06/the-impassioned-debate-self-driving-cars-parking-head-in-versus-nose-out/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbf2d4ca741861df005a691%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
     excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
     publishedDateTime: 2020-12-08T14:43:00Z

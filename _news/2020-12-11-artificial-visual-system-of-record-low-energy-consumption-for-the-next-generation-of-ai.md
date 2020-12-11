@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-11T05:05:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/cuoh-avs121020.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-12/cuoh-avs121020.php"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/251257_web.jpg"
@@ -49,6 +50,6 @@ related:
       domain: itpro.co.uk
     quality: 49
 
-secured: "EvpF4ri5h8lmBDzmrSZNjsuBsKgY32RfQYYXKTmmVEGJP2vIC8xeEtGrgsFiK61Vhyw3DTIV0jH4FtTAyED/ih1I4NZcFea54IqSgOcqQNVZ+tFI1Q4i22K69FGOtKxthhFZv002A19SbrB07m/NWffLLwh3cmVwtMJhYbExjWRNY8Rn4ceoFqdmaCQegzwkgPMnNRguZuJ48wvBwp69PFfrEchXignEDB18/jz/eTzCA+bmS17SVUFh4iq/BCnRxrgTL9cnS5scHWhkYa8xgeWk8Jr8H8S5Z9x+YXd2dQhkFw++l+eYHvGHN+ws1dQWBIAI7D3rDy6fdu7vx2MHhDcbA4ZdFM6tN8FHClaecBA=;3tsGs/TxseXVW2KjM9jABQ=="
+secured: "Vzlbqsqm5xEVcnkWVTo8hXjtvHlFpbq0siTLTVqpaYwXp/F/tdEHBzdMhego4eHUKA8vJUwAqYyjko8A8zcezDFQwKjY98RcQClrCAmWpxPq1aSE7aQThwz9y7o5BOckYJXpZNUz4p+vaNd5/72UPuM+DSd0o9V3FsjdYvvwm3Jp26DtST2qgSIHUyAdblPdG/d9RgXAO9x6mmhZI2DuMF8f6MIRMpHAZYE8Cpy2beIEKLyFmeVjB8Icr5oVPIm79NrNa9EQ3j+/5hja6rr1bFitdfv9zMKNwnJhnxKgLZVvJ1slh8JChvYCzcsXlgd+8QMDGYXgeY/ZnzU2eO7J2LFaMEjNtH/0Ajfh13It/ST7/iWoRv+hgZkWMhMKxkKO7WLHZzdkxe3o4X86+503TLRla4TzKOSuWyZewgbbWnxjb0BUoJxxrLBSiBcVjMPYqGurdmdtnnJ8NlXoQVVV6RGYBuCVhb8dEiw4BTg4zTdAqcyi1ouizBwKRvQFSGoYqQDB6XuqjVpArYIE3LBrlQ==;cSSP0+UbBX9eTTRjT0sFkg=="
 ---
 

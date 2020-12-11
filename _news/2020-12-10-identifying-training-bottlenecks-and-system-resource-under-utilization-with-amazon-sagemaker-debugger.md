@@ -156,6 +156,17 @@ related:
         height: 385
         isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+    publishedDateTime: 2020-12-08T19:00:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 54
+  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
     excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
     publishedDateTime: 2020-12-08T12:00:00Z
     webUrl: "https://www.morningstar.com/news/business-wire/20201208005335/aws-announces-nine-new-amazon-sagemaker-capabilities"
@@ -163,15 +174,6 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 34
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-    publishedDateTime: 2020-12-09T05:03:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
     quality: 34
 
 secured: "dCad+cVopK+n1ozBSEzYjzgOxvU6gEJidrmtuIrKwO2iGC4WqnZ242U2arkkX4rgqFSP2Z8XeBRdN7+zSQ5Rxv7JUhJ+bgPgl+ZDefXlFE7DXzAHo+lAWy4Gh8ab9+KSCz+0FLDN23IxuVi/p0CI+Oi+Kon10oMku5rkqXntr7seLbe6bUSaLJ7ZNXDUD//+mqq4oQf5jvJ1Stp7ovJXELpoWJ3VzHzcLUy542Ubb8SzDIddoHVUbZwdIc2McF9JJlkgQMt+kAiK3VlieeLxhaEsCGTC6v7nh2nuUdQXmpzyRKd5N9dcwsNGjOQA65lu7dGinNHuuIHOwJ/9lSE5hrNgyn+5nGkSWYK6xIBNAc8=;DfgdkS6tbA+5QiGihgLv+g=="

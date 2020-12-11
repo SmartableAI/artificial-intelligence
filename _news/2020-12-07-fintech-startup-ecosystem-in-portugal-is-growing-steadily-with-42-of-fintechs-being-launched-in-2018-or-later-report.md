@@ -99,6 +99,20 @@ related:
         width: 635
         height: 450
         isCached: true
+  - title: "What’s in Store for Fintech in 2021?"
+    excerpt: "By Scott Donnelly, CEO, CapitalBox What a year it is has been.  It has been tough for many – from small businesses, to big high street retailers. We can’t however ignore the fact that the pandemic certainly forced companies to adapt and learn to be agile quite quickly."
+    publishedDateTime: 2020-12-11T08:16:00Z
+    webUrl: "https://www.globalbankingandfinance.com/whats-in-store-for-fintech-in-2021/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Beh-11.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "i7mAtBpEo8iQjmEMGMjPAzP76xuFwKGEyD1AWqPbNQiTCF17esDyKz/bqgwRSK68cWQh4dqASMdXo1NqFKL9Mpga0XpQ7kQtnQigr77yfffRbCmmTWzodHOL3gob8w7Kvtjw/nZtM4o0A/RvsHmCrdqO+tmvMUYwIfmsZV2f4WUFyTYb9XSM/RHEfxiMn48wKTs3ICxqdxkpGsHq490PcJn2w/K4KJN83KbCZs42D7prWzrfAzXhk7jTwBLoQCmSic8IEr2pzA2Qpkygm5MHRrB66Z2qMuh05WCRP7siEOjVNKMFLOsM6ABrwVmTZvg2/cKlYK2C3VtYn8+kwk9oqFWmgV9jviEMn7aEMZaOwes=;ZLtSe3CQuTZZyXQ6ov/3tw=="
 ---

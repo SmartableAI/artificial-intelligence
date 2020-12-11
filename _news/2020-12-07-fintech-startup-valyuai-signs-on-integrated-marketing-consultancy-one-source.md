@@ -7,7 +7,7 @@ originalUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-i
 webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
 type: article
 quality: 52
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
         width: 635
         height: 450
+        isCached: true
+  - title: "What’s in Store for Fintech in 2021?"
+    excerpt: "By Scott Donnelly, CEO, CapitalBox What a year it is has been.  It has been tough for many – from small businesses, to big high street retailers. We can’t however ignore the fact that the pandemic certainly forced companies to adapt and learn to be agile quite quickly."
+    publishedDateTime: 2020-12-11T08:16:00Z
+    webUrl: "https://www.globalbankingandfinance.com/whats-in-store-for-fintech-in-2021/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Beh-11.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Fintech Startup Ecosystem in Portugal Is Growing Steadily with 42% of Fintechs being Launched in 2018 or Later: Report"
     excerpt: "Fintech startup ecosystem in Portugal is growing steadily with 42% of Fintechs being launched in 2018 or later: report."

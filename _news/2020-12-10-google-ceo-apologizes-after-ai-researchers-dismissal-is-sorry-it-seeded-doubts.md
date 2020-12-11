@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "Google CEO says company will review AI scholar’s abrupt exit"
-    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees"
-    publishedDateTime: 2020-12-09T21:16:00Z
-    webUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
-    ampWebUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
-    cdnAmpWebUrl: "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google"
+    publishedDateTime: 2020-12-10T05:11:00Z
+    webUrl: "https://apnews.com/f574263429a420c95977e6aa8791bb1b"
     type: article
     provider:
-      name: ArkLaTex Homepage
-      domain: arklatexhomepage.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://www.arklatexhomepage.com/wp-content/uploads/sites/5/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://storage.googleapis.com/afs-prod/media/8b192c17a1084a91989f34d07ff2265d/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Google CEO Says Company Will Review Abrupt Exit Of AI Scholar Timnit Gebru"
     excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company heaquartered in Mountain View."

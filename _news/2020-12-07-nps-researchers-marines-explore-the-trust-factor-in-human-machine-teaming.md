@@ -286,20 +286,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google widely criticized after parting ways with a leading voice in AI ethics"
-    excerpt: "By Rachel Metz, CNN Business Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics"
-    publishedDateTime: 2020-12-06T16:52:00Z
-    webUrl: "https://www.kitv.com/story/43009713/google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 53
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/20138709_G.jpg?lastEditedDate=1607119757000"
-        width: 500
-        height: 333
-        isCached: true
   - title: "AI scholar's abrupt exit from Google: Pichai apologises, says company will review"
     excerpt: "Google CEO Sundar Pichai has apologised for how a prominent artificial intelligence researcher's abrupt departure last week has seeded doubts in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have led a more respectful process."
     publishedDateTime: 2020-12-10T06:36:00Z

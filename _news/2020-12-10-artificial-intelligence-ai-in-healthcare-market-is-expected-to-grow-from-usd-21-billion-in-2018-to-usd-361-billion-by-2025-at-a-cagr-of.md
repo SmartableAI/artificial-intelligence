@@ -54,6 +54,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
+  - title: "Automotive Artificial Intelligence (AI) Market Study Reveals Growth Factors and Competitive Outlook for Future"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-12-11T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
     excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey designed to assess adoption of automation in revenue cycle operations at health systems and hospitals across the U."
     publishedDateTime: 2020-12-10T13:23:00Z
