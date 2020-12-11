@@ -2,26 +2,26 @@
 category: news
 title: "Google CEO says company will review AI scholar’s abrupt exit"
 excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees"
-publishedDateTime: 2020-12-09T21:35:00Z
-originalUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
-webUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
-ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
-cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+publishedDateTime: 2020-12-09T21:16:00Z
+originalUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
+webUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
+ampWebUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+cdnAmpWebUrl: "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: myhighplains.com
-  domain: myhighplains.com
+  name: ArkLaTex Homepage
+  domain: arklatexhomepage.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
+  - url: "https://www.arklatexhomepage.com/wp-content/uploads/sites/5/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
     width: 1280
     height: 853
     isCached: true
@@ -53,6 +53,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6LbwWuBRSgg2LM2fcujPqnNSaVQPW/kJOalgm+uY4jujM2gusEopLsj5hLjL6LHdmhxcp+TBDRGll1/Bn87XyzpPmsvokbnZV6aWQfOMd/wnLIz/t8uHqzBr5UEWpLunPkBW4w/fmxSmatusw3kNthTcsdq7jCZN39C9RJdVFwcsRjwEo9hBDx9grlB/xsmB1TQRQnlTAKAoajR2rUegLX8JfSj732R0grj+9SAzt9uXyKGRHSWZphzOZu2CJWBQQl4PwPwskucp1lftGoThDZyHCXdpcHmaMJhZLx+5RZN3llRB80kZvO/F7W5h1c7/IY4mLsHwQPzpMRCjRukGIXHpeTbK22JCQ0Uj9ucFyj3Ut0Jx0F32cefYDp5/ftJ5lF9Bx4xDIE3aGNlYOjT7212RV3fGi28LVbSxSVSNSmPbYF2bZ45zwJMqtsF6RjFfgSM273egAlDUIA1XejsIqBwG/rI2MT7h29dQffmPf5MEHASkQy0bOw7DQZz8g2lEvl6yO8bJsZo+N+Od6ETTtg==;qschtdBDdL+MFzadwNwDeg=="
+secured: "ojCQ3aALDweWLEd7GMwAk/Goi6PbrnxKYgM9Ts9zq8+wWACrtzBnQvxxh7voyTWq9WnQX+3e1u8Pm/0SFMaKnm3/6agTGYFDjmW5P3A5u7T1gsyZLbtLYPKMDVbRZazBzoOAekGN9P8fXq+M0P3Vo2yfThERAyx3REBrETmvOVykoxcAcesDkQqkY2J/n5tQdVgB1G8I52KwLcHm1yI4w24/Zr3p6vLh8yNjAjE4vSwncDMWkJFONeur71Gy4Xx87y6oJoxnJS9BxCr2SSov0cYbpnLnM6N8IC857/tYyDOwKToG9GLpHPGNtimJlZD9wVwN6JKY/5PwnmTxGCa0ukqdmZFNXo6CMHwwnPCkADQ=;TErWdou7Tx1iNvSX7orgnQ=="
 ---
 

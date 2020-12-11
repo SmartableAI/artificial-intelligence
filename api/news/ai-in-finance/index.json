@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally.md",
-      "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
-      "excerpt": "Powered by IBM Watson, clients can use it to complete banking transactions and get answers to questions with easeTORONTO, Dec. 10, 2020 With",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg",
-          "width": 400,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-ai-bots-revolutionizing-the-finance-and-banking-space.md",
       "title": "AI Bots Revolutionizing the Finance and Banking Space",
       "excerpt": "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,",
@@ -1351,6 +1298,49 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-fintech-exploiting-ai-and-blockchain-technology.md",
+      "title": "Fintech Exploiting AI and Blockchain Technology",
+      "excerpt": "AI Cultivating Superior Traders Some fintech startups are already encouraging the use of AI in the retail sector, and it’s suggested that combining such technology with hands-on experience will produce ‘enhanced traders.’ As financial institutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://cloudtweaks.com/2016/07/fintech-exploiting-ai-blockchain-technology/",
+      "originalUrl": "https://cloudtweaks.com/2016/07/fintech-exploiting-ai-blockchain-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudtweaks.com/wp-content/uploads/2016/01/A.I-Robot-Brain-1-e1452530668694.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud",
+        "domain": "cloudtweaks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

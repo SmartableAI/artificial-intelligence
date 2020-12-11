@@ -88,6 +88,6 @@ related:
       domain: computerweekly.com
     quality: 48
 
-secured: "S/COseSu2Yzuw5SgfR68mFD75roXHpw0m5HTR9R/5ZGmGdUkAWRpT9+RrHR+58sWBfaFaWdqNOLM1bDrLdFANOZHK2B1velpcWEfUbU/rxq0SULJyIaqB0HbUYjqRV1hoI8RWAP7tt+wFwrP3vhjbxA1goxjFhdW1QqJY3g+Du+oacZy5v4/TDiinqclDjsnbqxGNstQAhA/xWr9GJpaUFNcBuQ9mo80sLLTmZpiDB5lKGTnsctiShUo4+0bILW44581V8z04gaFk6NbrgeD3uLZuteS0Qu0q6NFxI4A6hRGX0AfvjxbTmF8qvplskO9i+O/2WKg28arEHQmC+Od4PurXW1d0mR4M3HoPqrqDcc=;ZbBLoQcRFCSecSOS3GpWmw=="
+secured: "6qidjCfPnY1sL1JqOkc94YQYWgOGHeMvijBRVeqRAqJHAv2rz3ZnP/yYPW2ujTd1Ks6RkGQEw+QYR5i/+AvSH7pRHFCzma2CCsLEfOSsHR2D2nIpf547hy33sX67ef5PGx7WZzqIkFk4ocD38fhhjlw/lP3rcZgwMlsr+8Hw5EYZomnr4xqgcC9/1IvFl/DXXlj3EsYsh0Qhj1uaqlZsD8sbuS7N/oD4F2WLmKwPqOBmS0fzFW0LR37/2f1zPPAldx5Td1VusS+c9dlnB/zHTMXNMN0ayyE3J1T1mss7Rtx4PVVLCFrAwlzy5clnAneVshsV+ct+eRrYoej0QIiLGc8RWeYqkzvqXvrzs4xRx+Q=;fjTFUncYlocn1hNYZbE4sA=="
 ---
 

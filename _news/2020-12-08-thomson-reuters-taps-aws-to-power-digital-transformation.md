@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS and Arm Demonstrate Production-Scale Electronic Design Automation in the Cloud"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Arm, a global leader in semiconductor design and"
+    publishedDateTime: 2020-12-10T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-arm-demonstrate-production-scale-electronic-design-automation-in-the-cloud-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
     publishedDateTime: 2020-12-10T20:03:00Z

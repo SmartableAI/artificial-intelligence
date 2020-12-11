@@ -3,12 +3,12 @@ category: news
 title: "CIBC launches AI-based Virtual Assistant to help clients bank digitally"
 excerpt: "Powered by IBM Watson, clients can use it to complete banking transactions and get answers to questions with easeTORONTO, Dec. 10, 2020 With"
 publishedDateTime: 2020-12-10T11:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643"
-webUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636"
+webUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636"
 type: article
-quality: 86
-heat: 86
-published: true
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -23,12 +23,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg"
-    width: 400
-    height: 365
-    isCached: true
-
-secured: "2BBJV0y2jhJzSMyMfsF0MyWE1p48+ipLNurEOVoSQzZgQD7x2mdjqrsRIHlgWqbXMQ3jYc4RS4SIVCVV2VYMLJxtRRsUTgDGsGz+BzpXgO2Cyun1tdo0pZLrho3BJu1JKNw/iHD0bc5JbjH82Ca/IiitsNGsaaDHZKXWjxlX6ViIIM6jolrwHUe2hIT3G9IdCsEfkGach+bo76c0IhflKAnr7yY/9t13o+LevEX1XHM4sZ3Pni1hB9+v05SczAjQxznCfcmkb+46giQG3Mm3CzEonljGtLyqBUvZVAoPESdaMbhafegqRkAbyT646wNxtpsKkGUiGO7ks4GGlO71WT4N0ean1E+1y6kWMB5OlqA=;JMbuYXbC6jfirxZP6EunIA=="
+secured: "ysGvgea9TTHYvQQQKmNsmLjGv0jyQvbcVyOsdrElIY55A+5/ahVI119kBIdLR4Su/AoQN7Yuji00aTTREb0oac1rr2vHJtDgxq7Jytp0zojlS05Qh4CzRUP7XmOf/rAv4ImMXcp5pWoEBc71omGXHwJezNgKKjP2VaNLEIyFIss3Jto7CsHZ41uw8w97t21PVaL8ghpeN2iKPpEln0bxHR/PJ0Fo2fKM0HJxAN9GtR5Xlu5/hBiY5caSPq0WPjUOkh+pRKX/H58AHl0M3fLjN45UIZOEx1uqAFzYGGwwvfYUtUJ5egLSXpevtQU95Bbla+xNdr88VwnWB6rJxMvw/U5Z+YbTVZTp7a+iXa6XWHE=;dRX5U8S1k7wyyJkApMQETQ=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "LabTwin, the First Voice-Powered Smart Assistant for Scientists, Achieves ISO 27001 Certification"
-excerpt: "PRNewswire/ -- LabTwin, creator of the world's first voice-powered smart assistant for scientists, today announced the company has achieved ISO/IEC 27001:2017 and ISO/IEC 27017:2015 certification. Thi"
+excerpt: "PRNewswire/ -- LabTwin, creator of the world's first voice-powered smart assistant for scientists, today announced the company has achieved ISO/IEC"
 publishedDateTime: 2020-12-10T15:07:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification/article_3a373eb6-185e-535a-94ee-7f9874e0cf09.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification/article_3a373eb6-185e-535a-94ee-7f9874e0cf09.html"
+originalUrl: "https://www.prnewswire.com/news-releases/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification-301190551.html"
+webUrl: "https://www.prnewswire.com/news-releases/labtwin-the-first-voice-powered-smart-assistant-for-scientists-achieves-iso-27001-certification-301190551.html"
 type: article
-quality: 0
-heat: -1
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1191511/LabTwin_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "LabTwin, the First Voice-Powered Smart Assistant for Scientists, Achieves ISO 27001 Certification"
@@ -31,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "9zzmETvsK1e3tI1NEvHXGAlutPOK5baE4Zn0k7TC7PLtuRdzy6lNRdQ0uY5XlYoc/SVC/DIk4ip/Qr8Z7fGQorIdLwOyHe6hlflnbgA3K1LOzrfnPBah4Ew8ghBIuoQA2i/V3c2ELI6qPmYWZu1kONRRCKGKDPzZOzmCpB+LEaA8vT2PylYyWbXAIejcdW1EksOg6IQrFfdLjtaj0EjndF/QHbeRJJsP4lucVOnqoD8bZ831/7cedmux363zTzn7w/4JdaIf91n9ufRtYqac6a5B8YPlcJXq/Q3/JnBfZuKTRlwbkeIAmBEmZx7roB0m8+MRgx9XxlaA/53483VIf+vCHhJDBH0HoOLZqa/hwddIca+VBtFmSrXLZvKPu7a46qP1F80hQhauaA720GxRCmghhYatFa1gcdjhR+cBmjEKke/8Aynh/ZmzXuC1Z2wWAyv2255JdyWIaF4KOZuhot157zAcpMphbvTjB5BjKcJuLvgcSdmQbkaNTq2O6V4SxoXvkrdSlI5cQVHRwoNmFw==;RzszI+ZksPkDOsd+NH4uiw=="
+secured: "HuI0dn7eflJP5PEEMiH+nAx4brUSZInxFcgYUJDKSz+hZNDUSCWZbtEop0LxL1vqD+YX60aTMWtCzFI0xO8mgGk8QYQRdEYKCoiujmsRfLHnQ1LFR+l2oTFyCUCCHOz8dT20uH5fqRpMlMVtLUJUMFLWnCLfVztkRkn2/WjciKqyIhLDc8kpTa1fvTYNtfsDGwl3s4MJAdcNpM49ZgNc5IL111TVclwVW8bKtwTTKt5KF9wfWi0cxlmIUJD+qNR3mrW5Zm9xt34/irT9qpvlw7v/RqGUXuI+i2ujmcx72e/QSWKzJijfkNAw8WztVbY9tj8cb4yvMLebGsrQygo77AdSfNFUn/AmuGLE0r0og08=;GK9qJTJVQzvFtLqiQ8VvFg=="
 ---
 

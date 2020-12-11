@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS and Arm Demonstrate Production-Scale Electronic Design Automation in the Cloud"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Arm, a global leader in semiconductor design and"
+    publishedDateTime: 2020-12-10T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-arm-demonstrate-production-scale-electronic-design-automation-in-the-cloud-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS announces Amazon Forecast Weather Index to provide 14-day predictions"
     excerpt: "Amazon Web Services Inc. today announced the release of the Amazon Forecast Weather Index, which will help developers increase predictive accuracy of machine learning models by including local weather information into demand forecasts for retailers and service providers at no extra cost."
     publishedDateTime: 2020-12-09T18:27:00Z

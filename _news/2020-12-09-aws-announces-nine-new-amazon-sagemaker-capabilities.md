@@ -2,7 +2,7 @@
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
 excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-publishedDateTime: 2020-12-08T18:17:00Z
+publishedDateTime: 2020-12-08T19:00:00Z
 originalUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 webUrl: "https://www.wallstreet-online.de/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
 ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13248614-aws-announces-nine-new-amazon-sagemaker-capabilities"
@@ -171,6 +171,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "gMQBqd3NUfn8vVlU4i2JYIInR61q/XDXZ3lxEOB4zfEiSaPqhnL5vM8LtVWX8SlbtQXkoak7roDIIq/vuI2Ejviq7JKLibXWNw5uloEe7LwrgvprMKDjuH9c1tXRxw6IQ+8naXYQJVPaOBgc0rzeeBfTIAxqkmSJyqtvvOqWrobykYXuzBnq78WqZjz5GmNNOKhUaZsFQurE3MdGiJj07K1zuNTieBmWMSC1u9cReLQa5p068jhTp9QOStu1qf/9xx9kpmYkJoe5py6im4BLtTJ+UYj/WlzJ4qQp8Ipf/8idN8RxFu8ZUyjAoz38Nmeg30rF8zN6swXCrxU52BnTCGTmaJxjcW7Yf+mtmh9932k=;l2XxYHGMSAxIc+nEQLv+Rw=="
+secured: "XIu44e/EaDCNs0/kbUfUgIx/8fY1Ucrj28if1LIWqNuy5YyXYIAgOS7TujO2TCDd6AgNHBqYqRXNhsIpbjDDrF8/GXAL+VAEJbdPCBd49+nQHPbTus7TChAJDk7Nx9GccKXJCP5Rd88qQK17F7P9lJj5hHp6uCaULvuwAVIIbjGIXMz3wLbXrjGhOevfq2brogvaQtveKseAA1Yc0zDNvP2RKhuqoejcLhvQfT3egiO7AWDW1CKzslZ2+VZq7sbw9sB0qRWIsZg7qn549E9ZxwDsFz2r7SAO/k0q4r9rYrXbZDd/Q2CFP59rg+ERRzZYOELwTLnPH1hBtkemLJXLX+YxpxA4o/TLPHkHjXJ1hZg=;r0QlsVilWWI8mcPi9+kg1w=="
 ---
 

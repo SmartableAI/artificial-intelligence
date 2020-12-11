@@ -1013,15 +1013,24 @@
     {
       "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
       "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
-      "excerpt": "Veritone, Inc.,, the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced it now supports the NVIDIA ® CUDA ® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning tasks on NVIDIA GPUs,",
+      "excerpt": "Veritone, Inc., (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced it now supports the NVIDIA® CUDA® platform, enabling organizations across the public and private sectors to run intensive AI and machine learning (ML) tasks on NVIDIA GPUs,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
-      "originalUrl": "https://www.nasdaq.com/press-release/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning-2020",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-industrial-products-and-services-california-9769e83dd7914167a5e85cf66facf17a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1029,8 +1038,8 @@
       "publishedDateTime": "2020-11-30T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1040,10 +1049,10 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI",
         "Machine Learning",
-        "Microsoft AI"
+        "AI Hardware"
       ]
     },
     {

@@ -2,58 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-11-22-practical-strategies-to-minimize-bias-in-machine-learning.md",
-      "title": "Practical strategies to minimize bias in machine learning",
-      "excerpt": "But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. There are several practical strategies that you can adopt to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/mitigate-ml-bias-parkey.jpg?resize=512%2C454&strip=all",
-          "width": 512,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
-      "publishedDateTime": "2020-11-21T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-22-artificial-intelligence-and-cognitive-computing-market-predicted-to-witness-sustainable-evolution-in-future-microsoft-teradata-ibm-sas.md",
       "title": "Artificial Intelligence and Cognitive Computing Market Predicted to Witness Sustainable Evolution in Future | Microsoft, Teradata, IBM, SAS",
       "excerpt": "Global Artificial Intelligence and Cognitive Computing Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional ...",
@@ -1213,6 +1161,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
+      "title": "Houston implements facial recognition technology at airports",
+      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "publishedDateTime": "2020-11-20T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

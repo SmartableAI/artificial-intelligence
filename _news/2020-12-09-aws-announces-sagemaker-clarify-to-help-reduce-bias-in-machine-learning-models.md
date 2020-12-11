@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/"
 type: article
 quality: 117
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Amazon SageMaker grows ever more powerful as machine learning models head for the edge"
+    excerpt: "Then, Amazon Web Services Inc. released the Amazon SageMaker machine learning service. “Customers saw it was much easier to do machine learning once they were using tools like SageMaker,” said Bratin Saha (pictured),"
+    publishedDateTime: 2020-12-11T01:30:00Z
+    webUrl: "https://siliconangle.com/2020/12/10/amazon-sagemaker-grows-ever-more-powerful-as-machine-learning-models-head-for-the-edge-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Bratin-Saha.png"
+        width: 3774
+        height: 2126
         isCached: true
 
 secured: "fDHjg2/GG1fgA6G8pyG84VsFvbvgeEFQG3jKI6ftRA7+IgLzo2yNlUedf1PCHGHhZTpPQpy2THneimVjNJozGNRjfDAH8rqP92+zutVuPBOs8z0cgB/7FJUtnwx1JMukCca/17o5Edy9xluH9ipIE3tAD+kNNyr33CNhRFXnarZj3QUEHKsjM58N/T6gKO40OdV91ZHGn3khl6HcfTd+KDqZeOBZQF+asZgblRDc0mvqyWddBanCgrRXxvJubjlnUI1aziN8J6nW8R+R4KdlnrT88TiYoPRgJuGYVyXShQXeRK6nNKMer5YBZR6pM7HS5PlI/SgouOTH5NgIUUy58Nw4dGRbMOGgdSUGVEqwj4t4jYMpIvsLJwlT5xFgc12y1sZ9fb6BpWEQncWQfESCRVHc36e/BScx7E9JhZT/oz7uDw75XmQOdtuBz+nnLvV/csiGllgVyZsA+r+UYw4mXXZelMqlALjx8N7vqR3afWBTAn8RWoMZ2XakP4QnaBVfnwCv6FIzGhPB9ZRy6Ss9Dg==;MX9DO+WfNbGQZ+xIfGF6jw=="

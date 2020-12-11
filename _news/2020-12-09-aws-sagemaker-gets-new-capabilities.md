@@ -99,6 +99,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Amazon SageMaker grows ever more powerful as machine learning models head for the edge"
+    excerpt: "Then, Amazon Web Services Inc. released the Amazon SageMaker machine learning service. “Customers saw it was much easier to do machine learning once they were using tools like SageMaker,” said Bratin Saha (pictured),"
+    publishedDateTime: 2020-12-11T01:30:00Z
+    webUrl: "https://siliconangle.com/2020/12/10/amazon-sagemaker-grows-ever-more-powerful-as-machine-learning-models-head-for-the-edge-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Bratin-Saha.png"
+        width: 3774
+        height: 2126
+        isCached: true
 
 secured: "YXcQ4Xf7zl7YtRoPMRPj496ybs+TGBWv3PM5TtJKox9S84Lm1cNdHN76DPwSU8+TKWGP2FGnd3oIs2wC4aTdkcPSAhIBsljgxWQyqqfqWVsj3A2d0BJkXd/peGFf2lDCLO3I4uPNfWuoA8jQeitP8Ak2wIwaDj0qO1Cn+sKTWv1MXMVcUBtMh8nAyYG8hxddaa97vHYJMjvz/3KkCNriTbfv7nRfhFwm3bbyAWrqdnpL10XR94cpQAwj+XWljC0eILidBV2UCmgpTgdOyy2bUMJrUzKkGFxvs1LRLw76lNfXPsqRfQTgbh6P5KFlNjC3qWe7pz3Jqtp5gpEaOq0lUw+SwNEWtSjX+yTAKNEkujzwxzML791jEQcuO/3ls5aTxlNWlRkkU6C/r6WEnjiQUijAQGZu3lcnXKzmeWRf/l5TEWNPYNjbsppg1W0f3ra3utblEmUK92/n6UTwwuKi4jbPAluAO1gtEnuOUVNl7tX1fkjioeFX9gqASCxRN7pRCgnMwBIa3fYerzUFT+fQtQ==;go54vk0dyby9dr/18WcHnQ=="
 ---

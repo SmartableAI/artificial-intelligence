@@ -20,6 +20,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "First Nation Group and NightWare Partner to Deliver First and Only Therapeutic Platform Designed and FDA Cleared to Treat Nightmares Related to PTSD"
+    excerpt: "First Nation Group is pleased to announce a new partnership with NightWare, the creators of the NightWareTM therapeutic platform, to deliver innovativ"
+    publishedDateTime: 2020-12-11T02:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201210005034/en/First-Nation-Group-and-NightWare-Partner-to-Deliver-First-and-Only-Therapeutic-Platform-Designed-and-FDA-Cleared-to-Treat-Nightmares-Related-to-PTSD"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "rl3vuRqpFlE415U4UWJ+r+qU9FAIKj0DX3bOEKVVxGR3gAdJJ8svmG+Kf0FL/QVbwq26ABwu/QYmzJycap+cTcqhPE1joHoKmE7XkT+IC2TxrxgHS4WRVNXJAQSZmRDlv/oAAN2IzgcbUN3xQQzsjoHTT9ghPy38zKVnNEU/p4fWSYoANCKcRG6VTDXgYgQydm8XqdgP0X3yYOZNWdZlL4LEprp5pxUcYSLp5Br3Nst8qIAIPfX+Uc5Ch7dzjk/Mu716HJpFIoSKspddNtWUT8CG96NTSrytoIL30x4fqBR8B0ZZwkbSqH+su6xelSEvsmpggctlJqgtqHJ9f4jZyZgc5FUdvRmmroVsQxFXJYg=;O/pEMmaN1cYvbPcD5ISJPg=="
 ---
 
