@@ -2,92 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-11-24-preludedxtm-announces-partnership-with-americas-choice-provider-network.md",
-      "title": "PreludeDx(TM) Announces Partnership with America's Choice Provider Network",
-      "excerpt": "Prelude Corporation (PreludeDx(TM)), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/preludedx-tm-announces-partnership-with-americas-choice-provider-network/article_f90d1080-8d16-566e-aa8d-ef9e95373dd4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/preludedx-tm-announces-partnership-with-americas-choice-provider-network/article_f90d1080-8d16-566e-aa8d-ef9e95373dd4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-the-secret-to-powering-web-apps-with-full-speech-recognition.md",
-      "title": "The secret to powering web apps with full speech recognition",
-      "excerpt": "A few months ago, I wrote an article on web speech recognition using TensorflowJS. Even though it was super interesting to implement, it was cumbersome for many of you to extend. The reason was ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/?via=indexdotco",
-      "originalUrl": "https://thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/1-22-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/amp/",
-      "publishedDateTime": "2020-11-24T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-i-paid-an-ai-to-get-me-instagram-followers-it-didnt-go-well.md",
       "title": "I Paid an AI to Get Me Instagram Followers. It Didn't Go Well",
       "excerpt": "Influencers and pop stars use AI-powered bots to boost their online presence. But what happens if a non-celeb (like me) uses one?",
@@ -1178,6 +1092,110 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-ibm-takes-the-next-step-with-cloud-pak-for-data.md",
+      "title": "IBM takes the next step with Cloud Pak for Data",
+      "excerpt": "Ever since IBM unveiled Cloud Pak for Data as a cloud ... (Watson Studio); and AI outcomes tracking (Explainable AI (formerly Watson OpenScale). Beyond these building blocks are nearly 30 services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/21/7fd6f1d6-f2f9-4102-9b3d-5c4225480509/ibm-cloud-pak.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
+      "publishedDateTime": "2020-11-23T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-can-we-make-our-robots-less-biased-than-we-are.md",
+      "title": "Can We Make Our Robots Less Biased Than We Are?",
+      "excerpt": "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police officers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
+      "publishedDateTime": "2020-11-23T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

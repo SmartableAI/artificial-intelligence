@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/11/ai-weekly-neurips-2020-and-the-hope-
 ampWebUrl: "https://venturebeat.com/2020/12/11/ai-weekly-neurips-2020-and-the-hope-for-change/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/ai-weekly-neurips-2020-and-the-hope-for-change/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/02/neurips.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "QborrWODcRvXn63tZIQDhjQGYVAkWDPCbZLailZIHK4qmLR8AV/KDsj63bz+3Iv84Vy4dhgQQ9IUq4xjqxL7bmFONRkkGoDceC5NBPX9Lj1VKQtdlSxSWAXFM1F3YA6A3rM7A8PTxCeLQfSTxFr6JLzzicAJ61SGn5GUYqw4uLEb7NEuLjHVnSylSeCtw8gKd1yFfb4UNu/HDBRz7Mkx+5etqKohp8iKRe/FEgtLzTVQpWAEcxIqOIIJDVdKMNmoWYyLIChHl+TaRdRwbg9Tv7vXyzYcyyrd7StOQZdc4TU9elPHyae4d/T/lo2Yu9OBHNh12sj5Vh2eFGkZmp6YZOjbVEqMKpv2Q8ES6SQgjG4=;QsIl4UYtiZSRFm35zoQfvw=="
+secured: "LPQhurubCUkvekgpOtNJSFDlA21bE/hSQkoaKOeosPvrpr4ICdS5dEdE2x0PH3/8BnoPNrsi/quNntxLOHuD91g9+/YRnZYiTrnHeJAlOBgxJ9DH5KzFDEVZVP+VC9REuJ8FcISSo8op96sXhjXk2G/IqPJw+UEP6MBadCB3uGp7pH/1Vzc3OptLLmrtUDThNySZy3XmOQBnaan+M16G9GjTscIPXzllstA2Ac6BCx15gYnC8a6HZs8tZqpFkDgF348AZAd2D3eD1G5P01ED5hxvHWsuX139nPu06qWJIVmvqUh86fMLX2r/0qacczE7lE3kwaNOTeHPzGoW1aw71dWzfTIv7m/Slh+ouTbhP5bthzQEO9fpiq+iCugJkliYSZV1Xbr8vPPQOu+4HLg9V2EwY7genneBGFCSGLxnDjWTN202fVXZYTw57yTl8JJQ3B2pnig0WbqG2xLIfNY7XYskcALHEjScnZ4obfNAMsS1x1TBuFeBDKJYlHgmEtxFwXqxkjyyGDVWhmvJfRLvjQ==;gq4FogJLR93Z2nSsXXyX/g=="
 ---
 

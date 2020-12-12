@@ -74,18 +74,32 @@ related:
   - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
     excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
     publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 50
+    quality: 48
     images:
       - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "C3.ai's stock soared 120% in the AI company's successful IPO, but CEO Tom Siebel says that was never the goal: 'I like to grow software companies'"
+    excerpt: "Tom Siebel says that he's more focused on the opportunity ahead in the AI market than he is on C3's stock market moves."
+    publishedDateTime: 2020-12-09T22:03:00Z
+    webUrl: "https://www.businessinsider.com/tom-siebel-c3-stock-ipo-ai-artificial-intelligence-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: "https://i.insider.com/5fd1369c240ebd00126be099?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "FTKCFDz/slJk1m08PGSTAYLGSqY86CuyN2dlsW8e19ghzSmLAWWV3AWVVsDXQrwFsd3l6zlnfZdxacYQPYY1gp8AaPLHEWopJ1lijN621kIEGEMVqEKXIj7HZs72kGv8PoEE6ARU2lINO0XImaNG4Ihsa5da7Ketv0veDaqN9s+8rIoZV+IrvJUdo0jqYe4dKsU+rDGouIxzfiXutpMvjwgEBGG3R0SLK+S7U8A163UGGhfvgkoMx6tlWxf6C0CujpuWMOi6Nc6wCwlOi/H2vJkMliomsqEB+30rSf9Hb3+VPBc3f9CUdrxK67QCwnnL+42XsFf4mHb/WtDHYMPBIF1Or6eK6+Q9LC3Z+tU1vG8=;Q9QiDAbNfRGW51FEm7tAaw=="

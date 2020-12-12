@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore’s 4-month-old diversity hiring startup bags $200k in pre-seed round"
-    excerpt: "Diversely.io, a Singapore-based AI-driven hiring platform, announced that it has raised US$200,000 in a pre-seed round four months after its official incorporation. Helen McGuire and Hayley Bakker founded Diversely with the aim to remove bias from the hiring process."
-    publishedDateTime: 2020-12-07T11:38:00Z
-    webUrl: "https://www.techinasia.com/singapores-diversity-hiring-platform-diversely-bags-200k-preseed"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 29
   - title: "Singapore AI firm NextBillion.ai clinches top prize at start-up competition and gets $250k in grants"
     excerpt: "SINGAPORE - Local artificial intelligence (AI) start-up NextBillion.ai was crowned the winner of Enterprise Singapore's start-up competition Slingshot on Wednesday (Dec 9).. Read more at straitstimes."
     publishedDateTime: 2020-12-09T12:45:00Z

@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "Singapore’s 4-month-old diversity hiring startup bags $200k in pre-seed round"
-    excerpt: "Diversely.io, a Singapore-based AI-driven hiring platform, announced that it has raised US$200,000 in a pre-seed round four months after its official incorporation. Helen McGuire and Hayley Bakker founded Diversely with the aim to remove bias from the hiring process."
-    publishedDateTime: 2020-12-07T11:38:00Z
-    webUrl: "https://www.techinasia.com/singapores-diversity-hiring-platform-diversely-bags-200k-preseed"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 29
 
 secured: "zoTEHZH70tx6pSc+BHVSvd+Rb44rspT1TJQ/DVrV7RTxbqxzPEI87eqBGp3prtHx5sYWYUuyyqUSfkp0ffWwfKAmPyU4ghvabAcXcXzBYrkHgW2BBmR4arwhZHQ6/M1Cgoa6zFBO6+89Me6rNDfO/HFdgt8nKaBECpSxw17dK9i3PyhWTn69F7y1wh7IHJZ6dom/berhXp07niBla8GvOhSHWjaWsN+/vKBuuaki6TUeLS6BM/C74qU0BM9DCtomBbMwARTZnmSmdSZ5efzXToAGDbsKTzYdP8n2/VkJevBD78ie7oJF5mhFx3svECpM1mtKbKSzagEm4miXkFCfdmmOEGj6gnsLCgmrbvNDUzQ=;ULiCDP9cfQ9QJwabe3BNUQ=="
 ---

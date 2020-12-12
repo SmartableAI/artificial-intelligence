@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-match
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Love match: Tokyo to help fund Japanese AI cupid upgrades-report"
-    excerpt: "The Japanese government plans to step up efforts to stem the country's tumbling birth rate by helping to fund more sophisticated artificial intelligence matchmaking systems, media said on Monday."
-    publishedDateTime: 2020-12-07T11:54:00Z
-    webUrl: "https://www.reuters.com/article/japan-matchmaking-ai-idUSKBN28H19G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H19G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H19G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543681109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60OD"
-        width: 827
-        height: 545
-        isCached: true
   - title: "To boost birth rate, Japan's government considers AI to match spouses"
     excerpt: "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence."
     publishedDateTime: 2020-12-11T18:56:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Japan Boosts AI Funding To Match Lonely Hearts"
-    excerpt: "Japan is seeking to boost its flagging birthrate by funding the use of artificial intelligence to help match lonely hearts, an official said Monday. Although it might not conjure thoughts of romance,"
-    publishedDateTime: 2020-12-07T12:52:00Z
-    webUrl: "https://www.ibtimes.com/japan-boosts-ai-funding-match-lonely-hearts-3096347"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/07/japan-is-seeking-to-boost-its-flagging-birthrate.jpg"
-        width: 1024
-        height: 681
         isCached: true
 
 secured: "alMo+MzI44DM27GDNqqGXFafxSJv7nbaWyBtHWDNAz+4p699ln9GJcVCaz4BZZ8/N4WbD2JydODlz0EbYcuXx3SnF7fCPmcVEEWXRFYUVDP2Uy+zcrH/H4guLQN+V9DBn9X1bTOjA0L2h9bKpk/uQXIVgODbUsqqRFo+kn3ibO3zWK5lUTQoDHtXWyjHsVnmffS+R11lFW1RV7Yzo8U1Dv9OHidW3BmulPJFG/6jZBTSUnYTbsdSV1Kbd3IkUya5tBwys0o0qKur27G7LMLklQrny7TZYvd34kHSHW/q8CkP3CJdV+P/iKVfo3yP0JPjl4fs/rfakWPaArpqghhlYTq7F/klBafi6aa2dMyNTALbGgNQukwL8cIhhyQDuEj2IvrJqAi3P1EGanz7ZWpyCLrR7oZZfFs7nQPIjCa99rZV8eb5jldrZbX2uAQ+UUzCdvEBuzgf0vbgVcCEUiucifV8epxzsjrUMOxGySe5ji8ERqoIfygFePZpMIOCzvFDFb1q8gODRImYCBVGMi4jQw==;3JpQ7vUfBGLIiLnFWF0QOw=="

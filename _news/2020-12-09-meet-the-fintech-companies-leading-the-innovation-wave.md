@@ -68,20 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Fintech startup Valyu.ai signs on integrated marketing consultancy, One Source"
-    excerpt: "New age fintech startup Valyu.ai, which focuses on the blue ocean Indian market for accrued advanced salaries, and is already working with close to a million of India’s employee base, today announced that they have signed on leading integrated marketing business impact consultancy,"
-    publishedDateTime: 2020-12-07T12:55:00Z
-    webUrl: "https://www.afaqs.com/companies/fintech-startup-valyuai-signs-on-integrated-marketing-consultancy-one-source"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 52
-    images:
-      - url: "https://images.assettype.com/afaqs%2F2020-12%2Fa8aabca6-60dc-4966-bb01-f9bf24bc7491%2Fdownload__4_.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 935
-        isCached: true
   - title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
     excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
     publishedDateTime: 2020-12-11T06:36:00Z
@@ -111,22 +97,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/09/full/20201209103031.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "There are 529 Fintech focused Startups in Israel and they’ve Secured Over $3 Billion in Investments"
-    excerpt: "There are reportedly 529 Fintech focused startups in Israel and they've secured over $3 billion in investments."
-    publishedDateTime: 2020-12-07T11:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/169972-there-are-529-fintech-focused-startups-in-israel-and-theyve-secured-over-3-billion-in-investments/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Surfing-Israel-Ocean-Wave-Water-Beach-600x495.jpg"
-        width: 600
-        height: 495
         isCached: true
   - title: "FINX: Investing In Disruptive FinTech Innovators"
     excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."

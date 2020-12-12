@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -90,17 +90,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Billionaire Siebel's C3.ai boosts IPO price range as investors flock to tech stocks"
-    excerpt: "C3.ai, founded by billionaire tech entrepreneur Tom Siebel, said on Monday it expects to raise $589 million in its initial public offering (IPO) after boosting its price range, underscoring the demand for new tech listings."
-    publishedDateTime: 2020-12-07T12:17:00Z
-    webUrl: "https://www.reuters.com/article/c3ai-ipo-idUSL4N2IN2QU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IN2QU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IN2QU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
   - title: "Billionaire Siebel's C3.ai boosts IPO price range as investors flock to tech stocks"
     excerpt: "C3.ai, founded by billionaire tech entrepreneur Tom Siebel, said on Monday it expects to raise $589 million in its initial public offering (IPO) after boosting its price range, underscoring the demand for new tech listings."
     publishedDateTime: 2020-12-07T18:05:00Z

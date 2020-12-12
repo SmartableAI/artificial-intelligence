@@ -2,19 +2,19 @@
 category: news
 title: "Jennifer Lopez Gushes Over Alex Rodriguez and Their 'Four Beautiful Kids' in Billboard Women in Music Speech"
 excerpt: "There is no doubt that Jennifer Lopez is one of a kind! The multi-talented entertainer was honored with the Icon Award during the 2020 Billboard Women in Music virtual event on Thursday. While J.Lo was being praised,"
-publishedDateTime: 2020-12-11T14:37:00Z
-originalUrl: "https://www.wzzm13.com/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-039four-beautiful-kids039-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
-webUrl: "https://www.wzzm13.com/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-039four-beautiful-kids039-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
-ampWebUrl: "https://www.wzzm13.com/amp/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-039four-beautiful-kids039-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
-cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-039four-beautiful-kids039-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
+publishedDateTime: 2020-12-11T12:15:00Z
+originalUrl: "https://www.9news.com/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-four-beautiful-kids-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
+webUrl: "https://www.9news.com/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-four-beautiful-kids-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
+ampWebUrl: "https://www.9news.com/amp/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-039four-beautiful-kids039-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
+cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/entertainment/entertainment-tonight/jennifer-lopez-gushes-over-alex-rodriguez-and-their-039four-beautiful-kids039-in-billboard-women-in-music-speech/603-9a42cf41-7b8c-401f-8385-cd21c94ff83f"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: WZZM
-  domain: wzzm13.com
+  name: 9NEWS
+  domain: 9news.com
 
 topics:
   - Natural Language Processing
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qXp5XUIMsAkLZi5KIlM2c8J4/N1Lh4juenwhT+/j+REKGwCLOkeihEuBmlT9ucw/lfhH36gu2CIyWwwjtmG2mDIb+h9wAqfF+GSxh9nEH1K/rzDRVjutl2VkJ+IsY0PzMctfrpsMXEaFM28PCr0Aa2Y2vIncjBTcwiqroEckC5ILAEnqK7Oiba9uoRZpjydE7MvKBOxbY2VK+Q3F7rCaO9164B/QJtEYOCj35wW0VSVnm0IHuH2ghQe84xrb9uaYhbcQ/dC9y3pOjdt70gwfI4HTMd3K49QCCUq/R9VAspRa+N4RXS+ghIAke5sjfv6i2ZB9RFR5Im9vCAcuntKn3Z8Mqj4ASqmgSy5Q+9FutIw=;Mq4kSB1fDrULfgQfCRpTrQ=="
+secured: "62noEt1MQtIv1twfMN7CjxnmFmD/q5i8oCv9iAMVG/TIFbeAm120wfPIrL/kd6qwCSQxTKIabjsAhas0zsmXf7Mbje2wc/druROlTa5OFvFAFnEL3HiXLWrvEvcQZyg5czMvRRPP7/Tc7hiS3tDufLp64CkME/JwqsVO4LiqquHEF6dTScONsZTN/LtFiv/iWa1uzSQUBQ5AviMlwFKjcRlfzcbslyfpvBVcBYzXMPf4Eze5ONXMz+rK+HNCyfQwZ2AldY/h19d5iD0LRVtVi0dPebW02KGBnoaeSRqt7VO5vj9dtF6W77ywwNhHmrigQg1t6OXJwCV5t5zq5vsKwTKC8kEHh6lnQ1S0XJheGNI=;8QGa+QiHN0C02vz72piHVw=="
 ---
 

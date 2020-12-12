@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-ira
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/07/mohsen-fakhrizadeh-iran-says-ai-and-satellite-controlled-gun-used-to-kill-nuclear-scientist"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist"
-    excerpt: "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November."
-    publishedDateTime: 2020-12-07T12:00:00Z
-    webUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-middle-east-55214359"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ElgdEBrVNK/GnNuNg6/AKXQLDhwcD1E75bS+D8rGYLxRBKCPoc+fRdoQ4Kj+bEtS//lIflCm7Ci0Kvp0JZyLmp1nsl7P3w47rD0ZBClhEjjrgT7bJcJMCt4LypMcsJFZ0hprXln2Jev0sxzZCmdORpO/q/Q/L9O3ekRPTwKYkgk0h4CoImGrf0L0KEZBh9y2/hmkBPJFUpRE7jwleoJT7ZhVVxC5mScyH9YvPO7hJzU5Um5d373+J4QWL91ZwW12kMuEwCitk0zguqXcOVHTZIeiLxynR8fZ6ls1dKruMwyFWDIa/97oNxDcQRQ3tNUthnJdyKP86xoLy0mThIQyB79D1+LtOXQJEjrdb4DQ/joEltKyip69+a9QIR1qUTHu4/LrnYdmpPvzVawG2YKi44NX2Shp8JiwCOQ+fh3hhvNWUfaQ0CNbAUyproN6wSwOqlsdlqXDexGbvdCAJYqGlUOBTV45uoAoYK4kuZZTNu3X2LuKtUkSZL9y0x5IJWnSJDz+atxIPt95HfDdfnri3w==;+OsKuMnFzGCR4qWEb4ux0g=="
 ---

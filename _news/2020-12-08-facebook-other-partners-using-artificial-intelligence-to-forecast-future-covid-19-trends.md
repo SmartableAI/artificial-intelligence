@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This AI Algorithm From Facebook Can Play Both Chess And Poker With Equal Ease"
-    excerpt: "Researchers at Facebook has introduced a general AI bot, ReBeL that can play both chess and poker with equal ease"
-    publishedDateTime: 2020-12-07T12:33:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-algorithm-from-facebook-can-play-both-chess-and-poker-with-equal-ease/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/REBEL_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "/nY86Y9ZYr3ubXiaRFSQTrhO6aQKgyGiBQUrGQQXrSB8OTdzqc95Xkb5dgYluc9V3E8Fcgba6ii30HdaSClNfhi7J5JI2GO0kfBdpAgkAadGP8uSy+o5oPSWHVlbK/PvQPfHkTkM3B73URpDKfuYCSE0nmeb/EbRHVus4l484Wp0sf3ph/7jKO/G1S964Tgx5ehmb7BpPDWyAHEm3GEPpyJxoruHWh4qPyT1qtiQ6fNhGWgbEpWdVvLrxymcBBZSBaFAxjI6Yh0r5vnSFXx1UCywHBAOcxO28xaOF/PjiqJAFiT6eg12oN3GTeaJEWfWkJrUp4BDqhqjoUnY8gvwecPkXaF2uv3NwkKZmk2sDfkktVdDPo4/CYA2zVO68Tp6fMmpBET3Vh+/aKuQUQaNzFAIMLPR+k5vO4RKSmYe/3CcYWR/0JbE1N/VWpj4igceyGEZlt2J7qTQ6EWvQI7cYAwmm+sVpy0R+NEuOqfv8OGSqG7yZLtBMTKPevErVbbtYp8+J+Is9mYWSTwz+zNLiQ==;tWIwFsKuMaN2sqBZESIJTg=="
 ---

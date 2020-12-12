@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -74,18 +74,32 @@ related:
   - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
     excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
     publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 50
+    quality: 48
     images:
       - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "C3.ai's stock soared 120% in the AI company's successful IPO, but CEO Tom Siebel says that was never the goal: 'I like to grow software companies'"
+    excerpt: "Tom Siebel says that he's more focused on the opportunity ahead in the AI market than he is on C3's stock market moves."
+    publishedDateTime: 2020-12-09T22:03:00Z
+    webUrl: "https://www.businessinsider.com/tom-siebel-c3-stock-ipo-ai-artificial-intelligence-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: "https://i.insider.com/5fd1369c240ebd00126be099?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "hDfZSzOCv8g9sQ+sqUdeCeycfYiN0hi4yHPZ5LpuHkMWNJH181p8/5zwZxjJdN5IGV9IDhZ+nMZ7n4mqO2k2roSF5zPTnCrABvCAPF/7PJerQrHXJHfl5+Lu2yTGC/PTolLvxFXABlyvkDZpi3dF6yJx99f0kLYjaykdKawj6dLZ0TFDs6L0+aKKySvxYTIqE/7J0GRYjt2k9ufwQIvTONB+aCd/segcu8Khx6Zb3NIbiP2fysJl65K9jQBMHpqzw3TuUdNvBg8LzmbkVMAGyWRAFCv/eCCIZOb+4s6Gdax3mAFQSJieg7zN9Ei8D3DmPWjDOZTo/6vXnygmw9ReUjsUeeIkwaiFRSae1i2QcDqeqI+Cuo1gr6lvYVjtoeaGjXcwXn9iylENxI9WbG3+UqoT5r1usvXtf8lVALz6pLwg19Tz4tCA0zcSyCP5YKdunPgNfnxKmacHetaW1ajjohYriQDCAcZN4FCBTqtIIBbInkpLVdLvidlZEcD4+dvtpU++dbWxS6mw2OpVgSf1iQ==;wNNeFnx8nKTInzRY+Vn1MQ=="

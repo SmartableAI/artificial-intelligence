@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delive
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Engadget
@@ -29,38 +29,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "Ford and Argo AI kick off charitable food delivery pilot in Miami"
-    excerpt: "Ford and self-driving car startup Argo AI are conducting a pilot in Miami to deliver school supplies to families"
-    publishedDateTime: 2020-12-07T11:09:00Z
-    webUrl: "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/"
-    ampWebUrl: "https://venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/ford-and-argo-ai-kick-off-charitable-food-delivery-pilot-in-miami/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/1_oicU5rThFycr0IEq7Asj3A-e1607120859779.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ford teams up Argo AI team up for self-driving deliveries"
-    excerpt: "Ford and Argo AI have teamed up to use self-driving test vehicles for making contactless deliveries to distance learning students."
-    publishedDateTime: 2020-12-07T14:49:00Z
-    webUrl: "https://www.techdigest.tv/2020/12/ford-teams-up-argo-ai-team-up-for-self-driving-deliveries.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/www.techdigest.tv/wp-content/uploads/2020/12/Screen-Shot-2020-12-07-at-14.34.51.png?fit=847%2C490&#038;ssl=1"
-        width: 847
-        height: 490
-        isCached: true
 
 secured: "jokhspm10D/H4GL3lCNFbwyIqgxpIq5oV28Zm+OpSgFFKr0cJUCxMiwf6xWA0Bbp4nhqi2hN8+zAuJiQQUng1Q+7t5ER0K2cnYLgw/koNtje93pvTysQDrNqAn8iJg8pFZ6kChhkkn8tqyBxyAZFl5xOQF0s7CWBmukeb+frDDb6+SZVj5Ut7JHRubaWmmkxvDIqTpFdiztb22Nro6pnEn0WlzV3XMitxSU8RIl0f3cW0L4pHHcz9lHWHYrjo34+xQdumHlca0OJjzU2jPAX/Pszo8JP726P2mWLOlOtXNdjNNWj87dqLxQTJWnqddsAyqoyHkPu5oYyzMmMGfcxNIrJ6TTGTqc5Rkxc9sueyyfgJZnl7H+Z/ESZwc6olBXjePrEs7ybPEnMIe58n2du/Fia8M79DHeBfxeQImrNevXGCDEi5/D4CK1yeBQlTPL+AQv7xKYvBQP3yX9tu4s9zIAya8kRsgBoWETc1TS40+8Vo7efStX54zrT94+piOVDdbNhIjteO849qfoYCGUScQ==;2NczsSmoNTvVGlCswnl++Q=="
 ---
