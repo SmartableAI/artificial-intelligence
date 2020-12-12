@@ -25,22 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy advocates poop on UK supermarket’s facial recognition system"
-    excerpt: "The Southern Co-op supermarket's use of facial recognition to reduce crime has sparked concerns that it could wrongly flag innocent people as criminals."
-    publishedDateTime: 2020-12-11T17:33:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/11/privacy-advocates-poop-on-uk-supermarkets-facial-recognition-system/amp/"
+  - title: "Facial recognition's fate could be decided in 2021"
+    excerpt: "A number of lawsuits and legislative measures mean the debate over the use of facial recognition is poised to ramp up."
+    publishedDateTime: 2020-12-11T13:12:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: CNET
+      domain: cnet.com
+    quality: 189
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/i8mx0C0pY9FlnIbYSf-cGiOsaeE=/1200x630/2020/12/10/62311dd0-dcb3-4807-a601-9d4b92a337da/gettyimages-1195225361.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deere's farm version of facial recognition is coming to fields in 2021"
+    excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
+    publishedDateTime: 2020-12-11T00:11:00Z
+    webUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
     quality: 89
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-11T164917.563-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://image.cnbcfm.com/api/v1/image/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?v=1607525192"
+        width: 4000
+        height: 2667
         isCached: true
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2020-12-10T06:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Privacy, Civil Rights Groups Plan Facial Recognition Offensive"
+    excerpt: "A new administration — as well as swirling national debate about the biometric technology — is behind a push to get lawmakers to re-examine its use in policing and the challenges it presents to privacy and equity."
+    publishedDateTime: 2020-12-08T21:40:00Z
+    webUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html"
+    ampWebUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
+    images:
+      - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
+        width: 944
+        height: 630
+        isCached: true
+  - title: "City Council to ban sale of facial recognition data by businesses"
+    excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
+    publishedDateTime: 2020-12-10T19:44:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/city-council-ban-sale-facial-recognition-data-businesses"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 41
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
+    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
+    publishedDateTime: 2020-12-12T03:08:00Z
+    webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 41
   - title: "Advocates to press Biden, Congress on facial recognition curbs"
     excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
     publishedDateTime: 2020-12-08T11:39:00Z
@@ -54,6 +125,20 @@ related:
       - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Face Recognition Software Shows Improvement in Recognizing Masked Faces"
+    excerpt: "A new study of face recognition technology created after the onset of the COVID-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces. The findings,"
+    publishedDateTime: 2020-12-08T22:41:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/face-recognition-software-shows-improvement-in-recognizing-masked-faces/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/12/20ITL015_facemask-studyDoubleRow.png"
+        width: 1544
+        height: 732
         isCached: true
   - title: "Southern Co-op defends facial recognition tech after privacy backlash"
     excerpt: "The retailer was responding to criticism from Privacy International, which wrote an open letter demanding reassurrances from the business after learning facial recognition had been introduced in 18 st"
@@ -83,20 +168,29 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trial of facial recognition system at Co-op stores sparks alarm among privacy advocates"
-    excerpt: "Privacy groups in the UK have expressed concerns over the use of facial recognition system at some stores of grocery chain Southern Co-Op. The face-based surveillance system, provided by facial recognition start-up Facewatch,"
-    publishedDateTime: 2020-12-11T08:08:00Z
-    webUrl: "https://www.computing.co.uk/news/4024833/trial-facial-recognition-op-stores-sparks-alarm-privacy-advocates"
+  - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
+    excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
+    publishedDateTime: 2020-12-10T18:57:00Z
+    webUrl: "https://www.biometricupdate.com/202012/fingers-crossed-for-balanced-federal-facial-recognition-regulation-under-biden"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 31
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
     images:
-      - url: "https://www.computing.co.uk/api/v1/wps/5be1b0b/6e4ac7c4-611c-4735-93c2-6a4196e216a5/2/co-op-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
         isCached: true
+  - title: "Gov. Baker seeks to strike proposed facial recognition ban"
+    excerpt: "Gov. Charlie Baker sought to strike a proposal that would have banned police departments and public agencies across Massachusetts from using facial recognition technology."
+    publishedDateTime: 2020-12-10T22:46:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2020/12/10/baker-facial-recognition-ban-police-changes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "2E6lEY3RnsXAUgBxGBd1QRuOzCMK59SBHQXv+j0tXIoXg9mm9QIpRUFBObC4eVweyU1u3VMVe2fO/rtWmDm3vrIA+5DQkLiUH7OTqw4t9XGQnisKCgQIQwO6zlRuiQi3UEFJx8Q2D9mwH0Ql4hprqzHaCc4ViXBfixGytQ4kmnKzYOCEDOE1kHsV4l5/T0iAtXUdrKLwba15kbaJyIB01bVWiiLo/fmd6spBBIeJLmkG8J5TvSFshxEekVSStUlzIOQrUtac4gyQ+/7S77/Ae9DvC+j5jhltyPxP6uAsK1EuAHlzcLSfAvI5+nYtNfmbDKG7LWvcjvSpHyeAdBDVjenNJ7jkfQRd02hwGfq2zIt8oRiO4tbtaNOO8yB8mBzHGSwU63Aon1f7BFMBF8vPhf05BJCVOsURyX6OTpnV4f2TTmOEmSHaZnF60Ma/BaSmd0LRIYixaV68c2SI6IhsGki16qTKWt7XzZKkpJJ7ZJ5KLmRUVWkcytxlk7g8HfnMV2YnYv5UoSfsL5iqoIn/4A==;pU7nfPnXWhPnxZlckxzK+A=="
 ---

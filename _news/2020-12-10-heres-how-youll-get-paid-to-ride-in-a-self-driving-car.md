@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Uber is getting out of the self-driving car game"
+    excerpt: "Uber is selling its driverless car subsidiary, Advanced Technologies Group (ATG), to a startup called Aurora Technologies Inc. This move is a major strategic shift from what was once regarded as a top priority by their former CEO,"
+    publishedDateTime: 2020-12-10T19:34:00Z
+    webUrl: "https://knowtechie.com/uber-is-getting-out-of-the-self-driving-car-game/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2020/12/uber-self-driving-car-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
     excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."

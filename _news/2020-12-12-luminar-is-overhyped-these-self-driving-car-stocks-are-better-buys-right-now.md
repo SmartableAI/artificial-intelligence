@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber is getting out of the self-driving car game"
+    excerpt: "Uber is selling its driverless car subsidiary, Advanced Technologies Group (ATG), to a startup called Aurora Technologies Inc. This move is a major strategic shift from what was once regarded as a top priority by their former CEO,"
+    publishedDateTime: 2020-12-10T19:34:00Z
+    webUrl: "https://knowtechie.com/uber-is-getting-out-of-the-self-driving-car-game/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2020/12/uber-self-driving-car-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
     excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
     publishedDateTime: 2020-12-09T15:59:00Z
@@ -165,6 +179,6 @@ related:
       domain: wlrn.org
     quality: 19
 
-secured: "nvPD/KnvglE5l8/sGi/MmuwVUWmWo+/MoL54EmzhNjfmOD+jkE9mi2jWdpilWVb1aHYEH8GhzL9KKWMojJRVgQ4g5vjZlUKPEMEviCt/Ukq2tbNc0qigdEc7JZibATI9jO+twe+Ge36JvzIJBhZpsLFWgNj+gT1s6IIafqzuzvX3kt+ADZza0mekh9JI0eh029ymiWg9FCJN8igd4IqCWHteJ5Bi7hifLG0ArU2k0RztW7vpihy6Jj6/MTSlk13fcPsRB68T8IkcS5O37aEZGHNQWLiair9fuorCFZD4wBKS/Zwmf5TfVM/RNkXvFN6et1PiaaYM7BMd1mBKUDrfuwKM9NlMPdMt1yvdlaDIHVY=;ldFRzcM2mORbVDasX9iL1w=="
+secured: "bCa1wHriWndXL0kQUIl5afPlvRRvBg53keDZFC0RRyLlWJ8d7wWGcZNlfHBuE/r7g9kvw9kATF80QJlULUSRzIFdAUqIbF28/M2Vj4Z3pKDGsxCk6G6OJMqrLTewNCWYfA/VGAST0beO+72IA6c6wKK0nyuWiOumT0poEydWtynkKA26CUz9Ct74CFpEEnhlIwNzKNh6sHkGGzmoZEUHWV1jA2/PZ9/w+OTrKCabaUFyjfRd05Qk/5XVryuT04bqs1+alpiu3CQRiqUz0jb4YHLpn2QeuT0oT0GH2KYv6mzFSEK+UI3agsy9MeUWeYTCAPcLyO4Hr3LV7OZkGkWuLLFhBPc0UJINhkOcUMTuU/oxiN5EBEgYdEy/wWWPeVyYTkD163E8lnPM1/uIo+XrJVM0Ye2J0RwXc6KCHcPD7ij6ucYCoEMoW2mbbfq0N7mZGS+E1aN0YxmzIRvaY0JnUnlO3gxHDX21YPlnETFrxa4W28fMSH0XiYiJjbN61N93caYGemjVFrHkfJMJAUvTLQ==;VKI9gd5w62acm64MOZUyKA=="
 ---
 
