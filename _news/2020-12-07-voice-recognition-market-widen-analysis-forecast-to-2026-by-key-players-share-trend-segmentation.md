@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Inclinations and Development Status Highlighted During Forecast Period"
-    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
-    publishedDateTime: 2020-12-11T11:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-12-11"
+  - title: "Emotion Detection and Recognition (EDR) Market Anticipated to Reach 18.0% CAGR by 2027"
+    excerpt: "Selbyville, Delaware The report for Emotion Detection and Recognition (EDR) Market offers an assiduous analysis"
+    publishedDateTime: 2020-12-08T21:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-anticipated-to-reach-180-cagr-by-2027-2020-12-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice Recognition Market 2020 Booming Strategies of Top Companies, Progression Status and Business Trends to 2025"
+    excerpt: "The contemporary development prediction report titled Global Voice Recognition Market 2020 by Company, Type and Application, Forecast to 2025 offers complete guidance which provides an investigation of the most recent market patterns like market development openings,"
+    publishedDateTime: 2020-12-10T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-booming-strategies-of-top-companies-progression-status-and-business-trends-to-2025-2020-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

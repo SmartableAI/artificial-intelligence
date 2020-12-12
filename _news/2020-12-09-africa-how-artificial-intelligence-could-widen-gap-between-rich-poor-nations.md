@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Africa"
-    excerpt: "Don’t miss our final Global Cougs Speaker Series of the semester! This time it’s artificial intelligence in Africa! Darlington Akogo, Founder of KaraAgro AI and minoHealth, will be speaking about the application of AI in African healthcare and agriculture."
-    publishedDateTime: 2020-12-09T07:00:00Z
-    webUrl: "https://news.wsu.edu/announcement/artificial-intelligence-africa/"
-    type: article
-    provider:
-      name: Washington State University News
-      domain: wsu.edu
-    quality: 19
   - title: "Africa: How Artificial Intelligence Could Widen the Gap Between Rich and Poor Nations"
     excerpt: "New technologies like artificial intelligence, machine learning, robotics, big data, and networks are expected to revolutionize production processes, but they could also have a major impact on developing economies."
     publishedDateTime: 2020-12-09T16:05:00Z

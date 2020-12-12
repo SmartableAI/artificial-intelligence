@@ -27,124 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market"
-    excerpt: "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ..."
-    publishedDateTime: 2020-12-07T10:05:00Z
-    webUrl: "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised"
-    ampWebUrl: "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 91
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc07554095_g.jpg"
-        width: 417
-        height: 455
-        isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market To Gain A 51.9% CAGR By 2023"
-    excerpt: "Healthcare Artificial Intelligence (AI) Market – Overview The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market."
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023-2020-12-09"
+  - title: "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026"
+    excerpt: "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak"
+    publishedDateTime: 2020-12-11T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
-  - title: "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented"
-    excerpt: "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,"
-    publishedDateTime: 2020-12-11T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
-    publishedDateTime: 2020-12-11T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-12-11"
+  - title: "Automotive Artificial Intelligence Market(2020-2029): Covid-19 Impact, Market Growth and Market Analysis | NVIDIA Corporation, Alphabet Inc"
+    excerpt: "MarketResearch.biz’s deliberately crafted and planned business intelligence report named Worldwide Automotive Artificial Intelligence market 2020 reveals a brief overview of the market’s geographic scope,"
+    publishedDateTime: 2020-12-10T16:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market2020-2029-covid-19-impact-market-growth-and-market-analysis-nvidia-corporation-alphabet-inc-2020-12-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Is Expected To Grow From USD 2.1 Billion In 2018 To USD 36.1 Billion By 2025, At A CAGR Of 50.2%"
-    excerpt: "Increasingly large and complex data set available in the form of big data and growing need to reduce the increasing healthcare cost drive the growth of this market. The AI in healthcare market is expected to grow from USD 2."
-    publishedDateTime: 2020-12-09T21:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-grow-from-usd-21-billion-in-2018-to-usd-361-billion-by-2025-at-a-cagr-of-502-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in space exploration Market Report to Share Key Aspects of the Industry with the Details of Influence Factors"
-    excerpt: "AI in space exploration Market is valued approximately USD 2 billion in 2018 and is anticipated to grow with a"
-    publishedDateTime: 2020-12-08T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-space-exploration-market-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
-    excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2020-12-11T10:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-ai-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
-    excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey"
-    publishedDateTime: 2020-12-10T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook"
-        width: 1440
-        height: 754
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
-    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
-    publishedDateTime: 2020-12-07T12:08:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 11
 
 secured: "iqDwuonGuwzKUzqdZrBA6wXCs3emoZPn//Xt3zM19dFxG0BtTpD7+UdTPdLKPFJMp44/c3ELkW9ij8ChF4JZPyIo3I05EnQQte6WjLUSSjL9QGT9u37UpTuKv4yrEdL3CC3ZwNjSWodF+0xx9vfGfnRKW0HyQnsinF0C7L5bj5ndPSd1UxT9EKB8ogWJSv4khdYlKBldSUIeO26bUOelaQGngbzR/Nltbcisnt12stLV61pEvigZfX/94geRO82y/0PAc/45kwGqU3sIXY4Fh/lvPXMgyendVz+zhY1UipbZgNqNpL8Ss5Bvz75zdeLBp8emikJz8TV8z+VaqLFNq2MWa1e3yRwsklfTt3XBelPlAd1dohtKGsn0anwIkXqjE6CktxW7nN9+9hsmmQ0J7kqYQFdgt68qxuqK11xUFjNW4KIG6H4wrm5OsYRaGswQnENYm7pz0maKeGZLdDygQfj2cA0FPpIsdbjFSzaV2Y6xVQsUcSN0u4GPHfeiSI2GkFZ6FVH6GsAlgGv0v+jNtA==;DMtXs3vHCOp4/pzxA6tFQA=="
 ---

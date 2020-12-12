@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
+    excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"
+    publishedDateTime: 2020-12-08T16:36:00Z
+    webUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/"
+    ampWebUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 42
+    images:
+      - url: "https://www.insightssuccess.in/wp-content/uploads/2020/03/Article.jpg"
+        width: 900
+        height: 426
+        isCached: true
 
 secured: "aebBk3Wh+Ut/Pb65X79qRrgFcMOXmZm7c4E2ZMyNtpS8z1FFL3cl7DWFti/3+pDB4ZlRnRQHM78FjZAkyHZ0BmsVwCTO8UZUMLdsxLS8abYoFaSYEqanvXRTtltz6OZxjUC5lCjws+SL8qxUAPkbgwULDz6Nhl3Y82ojEed/8JZ4vOjcksvX0N+KGN86CVaBCbNk7jX3GP1YSoqt9oRbv2JQIGauA2PupcUwYzqZh/2imNgyV+Gt1ErwIoxOTaz/WcfrR50hYnkUvSs3AdaqnhVPvWJcSR/xG57qWYsXravUX2/MP5CYwLKRPcTnOpVnaqqPaDeu+wo390mXVFjSgImfBCK4Et57BYUdtU+C7GM=;BX0g4VIJlKOh58CgAAsaIQ=="
 ---

@@ -3,25 +3,25 @@ category: news
 title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
 excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv’s new AI-COVID™ software."
 publishedDateTime: 2020-12-10T19:21:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
-webUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
+originalUrl: "https://www.oaoa.com/news/business/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_604df9f2-62ef-5a4a-a347-d4792bdadf4b.html"
+webUrl: "https://www.oaoa.com/news/business/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_604df9f2-62ef-5a4a-a347-d4792bdadf4b.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-    width: 1200
-    height: 630
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 810
         isCached: true
 
-secured: "w3pyasweBn1uJk3eIXWStXJ/Zy2ZqZ1S8QDfqEWanpNLZfdRWNh64LSWWMMQV42RitbuP4IwqqPOTDdASZQTy4oG5F2hH7ka1tIC7Oq5y9mWKsYLy3FKejCsJfn2H12iwQ+BgoszifGpLG2/91wt7o9gy3TmHexkHH/euhbISihKW4J0OE9ISbY9j2oo+Ss3rsKOcy008i7VSVBUgjL0+6hy27Kl/BEhx+tU6Sz36VfCMyjXPzPraKlGlJb0OuL2eIT3UiSd+G8mWqqKzt8Z3pTsOsE+XWIk/Y0y+Z0kwELBM9luu8neojuLHH8Glr8hiNtTa0QGbXi4PbLxDtdTw71lsh/Dg818wG/IuyqebSk=;Cn05eyngJCDTn+DP/0sMhg=="
+secured: "nHhO4e2IflmAqSQXVQa04966FoBRxVDxmGQuCwL6qoMQ0KTJ/AX4XhdJLxoUQaBNwU0feVF5j7Hgn5TPpanNKNIRvoogAOTlpr7nhmNDG36fA0zcjCrifReb3A1egcq+XFA92Q0HNdWrL4W2x6Cb6/HhUZd1xpg4gNG6h8YiuT3Kr7wKPGdTVs8BKxDyhCQbHaQclGBAI8iftw45beAhRWjE0Y/5lBRmL4onbgYmen7tQx/duN5Y5+dE8PV2y28n5krIIEXxJ0IHgHh6//b22JLBJfjQgLfcd45Ossg20pI+VpEuwoyAarMb8rUcLbCwkHbLkzDbGB2J5+zl3ozENmeoD8O/j7y5BUfYTew0hdQ=;H26dih4i3wwNfr28lSzW1g=="
 ---
 

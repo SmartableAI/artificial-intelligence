@@ -140,20 +140,6 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
-  - title: "Self-driving trucking company hiring in Tucson"
-    excerpt: "The company designs and tests self-driving trucks in Tucson. \"We need CDL drivers, we need testing engineers, we also need mechanical engineers and techs and HR folks.\" That's not counting the more than 100 jobs they're adding."
-    publishedDateTime: 2020-12-07T09:14:00Z
-    webUrl: "https://www.kgun9.com/rebound/hiring-during-coronavirus/self-driving-trucking-company-hiring-in-tucson"
-    type: article
-    provider:
-      name: KGUN 9
-      domain: kgun9.com
-    quality: 24
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/5b4462b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F8fd%2Ff0fe4276ab8344079f404f1ac9c377b7%2F8fd1778b75314c8099ff1086f326205e%2Fposter_48756ffaf2564f11bda0af0eaa71dfae.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Here come the self-driving trucks: GMC Sierra goes hands-free"
     excerpt: "Self-driving technology is coming to a pickup truck near you. GMC says it will offer its hands-free driver-assistance feature Super Cruise on its Sierra pickup sometime in 2022. While the Sierra will not be the first GMC product to option the award-winning technology — that honor will go to the Hummer EV in 2021 — the Sierra is by far the highest-volume GM product to receive the technology thus far."
     publishedDateTime: 2020-12-10T00:14:00Z

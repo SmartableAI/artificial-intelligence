@@ -207,6 +207,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
+    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
+    publishedDateTime: 2020-12-11T23:29:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 65
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Deep learning software tools to the rescue of medical research"
     excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
     publishedDateTime: 2020-12-10T16:45:00Z
@@ -222,22 +238,6 @@ related:
       - url: "https://images.livemint.com/img/2020/12/10/600x338/AI-ke6H--621x414@LiveMint_1607615762859.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
-    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
-    publishedDateTime: 2020-12-11T23:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"

@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-pa
 ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
 type: article
-quality: 59
+quality: 65
 heat: -1
 published: false
 
@@ -19,6 +19,9 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
+  - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
@@ -336,6 +339,6 @@ related:
         height: 641
         isCached: true
 
-secured: "b0u7qDKpkSA9AfhACysc+YREm1veSN/N9tV696fc7cflXJf6Ubh50Iu0/WUjVv1C7HmO+xdKAXg8WHqQbmWm5YQztqVGmljU1tw9ICqwFRA7t7b+e7ZGE7V2BTlQ3i77kQkNQzIZm2U2ifkCkjBeB7ZSPxKN25QGorCpOMmgCr07DzJIEIZTCVv8X6l09iRNPN6yqeVQpnVpWHgrV6MBpmBrHU5up17waN/4MC/mQ8vEv48S4RTQgjhnd1gUr06KV1MQ7z2DMZvomytgZYQJXJqnHXY1XZwbgUHZmtt0wSq5BUU5KZ1rNYilNtndWousIAbvS3TKd5AQN+GnquUhRno6BJHZ4ic3/9HvSyB9aus=;DwBu7KQOsvGbvbM562qbkA=="
+secured: "3C5+yUXZLvOuuwp9R9ExvsZHALmldu8/8eKtgFWfP6l4ZDLoLdqnJdwxPkKtPPota69iT6rz5opMRb4p29rrhn1m4jSSwwrLuEathDpR3A39W6zOJcwdixAgisRqqcAo5xlW1wQigUdqJmuPXdL2jv0pmCwpfe0AGewkDXNCNr8ny0GHNyDbYOPMzi0hs3vkJO3Wnz6DsRNgl2cpDqSrlGOnzBGYfZGh9SkihmyWRm20U8uZeQBPLMil82OirGNOyJv+KM3ODV5hf8+2l/4xDZqqKsqr3EaDeGyF0cawPBEvFpLxuwvwpBQ66feEm42POMdzyErVXYrGh6BDVnrHUUSgMxKm7WdDkHDzJDnBu+aliHFPXHxXdanJDM3RaPIY+22pKhihzOQXPTZrBzPLakVLaMl5YjnDlzS0sGe4WatohBsrUp0n+FW1t1d4VD71QRO022gP/Zga8mCENo6hjCxmOdnWjTaGe1XaTJ/5DZPokrSjF09Or1zZUNBR78PWcrOyhXECMDPIYgEJbBNOag==;Fn5h+P5bZfHANveYchfJyQ=="
 ---
 

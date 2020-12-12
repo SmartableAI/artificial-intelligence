@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/936030"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/936030"
 type: article
 quality: 60
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 740
     isCached: true
-
-related:
-  - title: "When newsrooms collaborate with AI"
-    excerpt: "Two years ago, the Google News Initiative partnered with the London School of Economics and Political Science to launch JournalismAI, a global effort to foster media literacy in newsrooms through research, training and experimentation.  Since then, more than 62 thousand journalists have taken Introduction"
-    publishedDateTime: 2020-12-07T11:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/journalismai-festival/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "BYKzSGOXuWbqs7lDArKxQLUOJbcpufK8ygZ9UNB/zGeRBIv8XKAG6QIqY/y5/j8no8t+MzgPu5vCeAzINqljWD5diYglUvPSSIjSFhitfw+7I7xVgZqvgJMJO7MIo1WElqEVw/ISFBOz8ApFlm1Iy0UuEQ4FovrKzVdQiyIf0HUbo3J73irhmBra7S1y8qJd79at3WivcQDFX1njsxEH8S2o4QZJ2LTMK9xXaLrkUgY1/gTakogatGdHOl78Aq35AYgKkoHN8MagrwveTx50WkOo1jI4cfdVP+up+Mby6PP7A4zgmlLIahNnxYCQfrI70YWffTrBl2P/mM8oLuOVOhU1vm9gS52oi0Pa6PcVpW4Fr3PyZwz5+WwEd2RfVYo33hEqP2KoDwl6//FHZDLIMOwuzJI4pXMz/D3qRYZTgG7LyGRhwtKS4D0WcbSVzMgaY/w3SB8Ydaq5lGR1EHSCLbzEE7W+iAjQjPsfDif5UbwakAD3fTcZ15RY3zH6QMhGBBfIEvQaLryn1iSVqzZ5SQ==;w8BtcplNypgmeCldCiT2hg=="
 ---

@@ -29,63 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market"
-    excerpt: "IBM Watson has a substantial vital edge in this area and is an industry leader. Oncology has received the most significant consumer interest in the application of AI diagnosis. Other industry ..."
-    publishedDateTime: 2020-12-07T10:05:00Z
-    webUrl: "https://www.openpr.com/news/2203560/healthcare-artificial-intelligence-ai-market-poised"
-    ampWebUrl: "https://www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2203560/healthcare-artificial-intelligence-ai-market-poised"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 91
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc07554095_g.jpg"
-        width: 417
-        height: 455
-        isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market To Gain A 51.9% CAGR By 2023"
-    excerpt: "Healthcare Artificial Intelligence (AI) Market – Overview The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market."
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023-2020-12-09"
+  - title: "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
+    excerpt: "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,"
+    publishedDateTime: 2020-12-10T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
-  - title: "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented"
-    excerpt: "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,"
-    publishedDateTime: 2020-12-11T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
-    publishedDateTime: 2020-12-11T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Is Expected To Grow From USD 2.1 Billion In 2018 To USD 36.1 Billion By 2025, At A CAGR Of 50.2%"
-    excerpt: "Increasingly large and complex data set available in the form of big data and growing need to reduce the increasing healthcare cost drive the growth of this market. The AI in healthcare market is expected to grow from USD 2."
-    publishedDateTime: 2020-12-09T21:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-grow-from-usd-21-billion-in-2018-to-usd-361-billion-by-2025-at-a-cagr-of-502-2020-12-09"
+  - title: "Service Robotics Market Analysis Covering Current and Future Growth, Trend, Feasibility and Regional Outlook to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2020-12-11T20:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-analysis-covering-current-and-future-growth-trend-feasibility-and-regional-outlook-to-2026-2020-12-11"
     type: article
     provider:
       name: MarketWatch
@@ -95,6 +56,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025"
+    excerpt: "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based"
+    publishedDateTime: 2020-12-11T11:25:00Z
+    webUrl: "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc11826692_g.jpg"
+        width: 564
+        height: 444
         isCached: true
   - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
     excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
@@ -110,45 +87,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
-    excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey"
-    publishedDateTime: 2020-12-10T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html"
+  - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
+    excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
+    publishedDateTime: 2020-12-07T16:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-12-07"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook"
-        width: 1440
-        height: 754
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
-    excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"
-    publishedDateTime: 2020-12-08T16:36:00Z
-    webUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/"
-    ampWebUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
+  - title: "Artificial Intelligence Hardware Market Size 2020 Top Manufacturers, Industry Share, Regional Analysis, Types and Applications and Forecasts to 2027"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) Hardware Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Artificial Intelligence (AI) Hardware Market Report also covers top key players,"
+    publishedDateTime: 2020-12-11T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hardware-market-size-2020-top-manufacturers-industry-share-regional-analysis-types-and-applications-and-forecasts-to-2027-2020-12-11"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
-      - url: "https://www.insightssuccess.in/wp-content/uploads/2020/03/Article.jpg"
-        width: 900
-        height: 426
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Comprehensive Analysis, Future Estimations and Growth Drivers"
-    excerpt: "MarketResearch.biz delivers in-depth insights on the global artificial intelligence (AI) in agriculture market in its upcoming report titled, “Global Artificial Intelligence (AI) in Agriculture Market Trends,"
-    publishedDateTime: 2020-12-07T12:08:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136565/artificial-intelligence-ai-in-agriculture-market/"
+  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
+    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
+    publishedDateTime: 2020-12-11T22:39:00Z
+    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 11
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Surgical Robots Market Report, Size, Future Growth, Demand, Trends and Top Players Analysis Forecast to 2025"
+    excerpt: "According to the latest research report by IMARC Group, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025”, the global surgical robots market is currently witnessing strong growth."
+    publishedDateTime: 2020-12-09T14:15:00Z
+    webUrl: "https://www.medgadget.com/2020/12/surgical-robots-market-report-size-future-growth-demand-trends-and-top-players-analysis-forecast-to-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "Y+ZLLsIbfDgWkHinQWtm5aYeZGnTvFLPBV58Zwu3x1Faci7raHAZhFW6Gs4Qxkqkux8wNXdGxZJ/f2z9xL0nF0bPDDjrMaaJai23NSk6aOp3OYkfuD899JGFHlOq0UHftTDyC3V+zNJ09fU/XHcd855KUevjM0vY/NHPifl1BHihNXdhxadC6sZNleAcdQhr2XZvg9UI1pf5PJR74ZwWuCB3GF/hl+4jAt/4B9T1zZdCT6oOEQwnqLoIR3WU2UPukO9XS9ITPGzZnleDHoDwLmnh94ZqGH1uPhyej77eLwX0cOqXFte6xAqU48mn7pUh0cBvYwNLX4QP3dJIJB9/UHceQrazlnQHF1TtFTVQkf8=;YNyJWcGb5QXK2cpfoNxrKQ=="
 ---

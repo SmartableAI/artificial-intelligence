@@ -119,22 +119,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-07T09:18:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 76
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
     excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
     publishedDateTime: 2020-12-08T14:18:00Z

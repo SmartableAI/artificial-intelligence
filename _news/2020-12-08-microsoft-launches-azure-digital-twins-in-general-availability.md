@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
 quality: 119
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-07T09:18:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 76
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
     excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."

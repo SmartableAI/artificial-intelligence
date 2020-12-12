@@ -189,6 +189,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "f6lXtRrPQSL2EU4xYlUAYZYkUu7r04gCPd8VV26pkX9oVOa7MyisL0D1s6DL/2TkamRj/un/CFW5PKJKf1cXbOJr1Q8hvj+COBZx55k2WP7OAZA8/LzTTBxL2RLKSnxlhI2xZaNTiuvUkLasg1C3SG6Ms/uoLigcFybsXGGuqIa6PF8q+RWcFq9OC8t33kvKByqLbpS1UHbPWE7t7mgDnObCbVIoFc82HjRIzxRSqpHKz938fNNo2D4R1xuOslvGLiPyXqa/vYpew7hZ3xa9L2tyC5m8WJTE1z5vJ9k/Tad1d4tp08Y6iZHpWPrhOydILBNPVfeHw2cXevcJ/Xu3RLRJqnbkoF+7PGjGdzWwyTk=;vtrrMnRlHS+0DrUqEZ5+JA=="
+secured: "OoAbvM7rXJt1Pd/9VBTkofXDIviF5Q1ruhk16fAz+LuNItxWy0EJqj3aNIj/4bQhmAIZbHk8K9i9iv+0hftAoNTJheBMhRyWXSpuN9Jchg9XXRLED/1Yu92PHUc5LcR63SYIrswQtzv/5PCd4/7NbPYyrxX86gcXyfWYV4E0d2rC3cF5vbLh2MEmsnKO3o/WVsaJQ3TF5bwKDNgMC9wMcaSdVDQFEbwzVtqrQjH4IsnXI3bTosMxof10dBNS+BA8QRquhhHrOgDWpMrhsHGJZmF/brpK+NLpoirAaFezTAsYpIIRJv0B2ubthn2ezPgVy1VvqmNgbjM0EJbg6YuvaZbmk6BBc5fte/jTJlR+1eM=;9f6+wcoq+X+mUDKENVOwIA=="
 ---
 

@@ -68,6 +68,34 @@ related:
         width: 564
         height: 444
         isCached: true
+  - title: "Artificial Intelligence (AI) in space exploration Market Report to Share Key Aspects of the Industry with the Details of Influence Factors"
+    excerpt: "AI in space exploration Market is valued approximately USD 2 billion in 2018 and is anticipated to grow with a"
+    publishedDateTime: 2020-12-08T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-space-exploration-market-report-to-share-key-aspects-of-the-industry-with-the-details-of-influence-factors-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
+    excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2020-12-11T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-ai-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
     excerpt: "The latest report entitled Global Artificial Intelligence in Oil and Gas Market 2020 by Key Countries, Companies, Type and Application delivers on the industry- and economy-wide database for the business management that will offer development and profitability for players in this market."
     publishedDateTime: 2020-12-07T16:25:00Z

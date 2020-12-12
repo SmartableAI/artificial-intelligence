@@ -146,20 +146,6 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
-  - title: "Self-driving trucking company hiring in Tucson"
-    excerpt: "The company designs and tests self-driving trucks in Tucson. \"We need CDL drivers, we need testing engineers, we also need mechanical engineers and techs and HR folks.\" That's not counting the more than 100 jobs they're adding."
-    publishedDateTime: 2020-12-07T09:14:00Z
-    webUrl: "https://www.kgun9.com/rebound/hiring-during-coronavirus/self-driving-trucking-company-hiring-in-tucson"
-    type: article
-    provider:
-      name: KGUN 9
-      domain: kgun9.com
-    quality: 24
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/5b4462b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F8fd%2Ff0fe4276ab8344079f404f1ac9c377b7%2F8fd1778b75314c8099ff1086f326205e%2Fposter_48756ffaf2564f11bda0af0eaa71dfae.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
     excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
     publishedDateTime: 2020-12-09T15:59:00Z

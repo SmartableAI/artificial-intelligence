@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Automotive Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2020-12-08T07:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-by-size-growth-opportunity-and-forecast-to-2026-2020-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sIqJZZeWlBa2w3aMMgC0bdZK4OsZRPRwoHmFxnRrSbd0m+YrAlooc+kQITLQxMEW17XjAc3nD5gTHCCJ7+V1LhAQy624oA61rpAhOB4Ir9OulLD4/J5D9YgUmIY25Qna8j9ODBPlUpoVTuhP1Xs3azOibkDKy8ZtIeQAruYbnXs03uvw+c1ilJCsct2VUqUQKNJNhPgfzEJsSZG/481lNhIVSi9WBNdNY0pXhRi6t/oANa4Ive4MeWRxfOARB5QV7Xk+K5H9BNvfvCtqu3rcXliC6pAjb1l7sFxx15pGBQ7F3rC2LFeqI24ICOYO/5LjkyMQegqO7lLy4an3bSkWKDG+F0/lrUOcyQVANLhfsGk=;TH0Sdd52UyYjpN/9wfOY4A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-12-11"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Market widen Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2020-12-07T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-widen-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-07"
+  - title: "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented"
+    excerpt: "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,"
+    publishedDateTime: 2020-12-11T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

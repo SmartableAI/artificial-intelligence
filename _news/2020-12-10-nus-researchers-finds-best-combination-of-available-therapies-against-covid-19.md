@@ -44,16 +44,16 @@ related:
   - title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
     excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv’s new AI-COVID™ software."
     publishedDateTime: 2020-12-10T19:21:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
+    webUrl: "https://www.oaoa.com/news/business/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_604df9f2-62ef-5a4a-a347-d4792bdadf4b.html"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-        width: 1200
-        height: 630
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "knwG61833+7eHw2sVAPLb9C3s1fhpP0K1NJe4kEeyh1ouRB1ER3eob3vvv5Iyy15tRf/VhpwWZ9Ene3WfSqf/U0+qUkbfiYylYRt3JOTrugrKMeGmpwUSoAzGRp2EdnpDNbsfGinIKRVnvoe4f/G8cCr0RSFgJ1OGAdZaByvkiO7P6X40+iDcqcRSFDklwVuNh0b0Qzb15uHvlbnv+zaa6dPR3jU2NwcpByOsL3GjPPLvR0oyf7FKNrgbDmE0v9nv/2o9VBXxE5zoBmaMgV/Amo7Ym1OD0buFl8WvP6j4fI0rr9U/U8DKXKrX3y1+fc9TuxkkXDFZcWlk9wkiwF++64cSIhsAeApYg3OqSitQAlnFRn+khPGKaTKfQM5AyE5vc86PqiyvdRVQF2+lIhO7sPFem0tGBsw3ukg0iX3AR63et6FEXngVxDYtrBizV6O9uLY8UvU2+M12yu2hzU5KxWhkvxzUH5hlMSJe6oEm86omb7697QwS1ZzrC2eZhNOt8hQlEsaWSeDTJk2uwuZUQ==;yRzgMNlhE+CfGHhdDBnt1A=="
