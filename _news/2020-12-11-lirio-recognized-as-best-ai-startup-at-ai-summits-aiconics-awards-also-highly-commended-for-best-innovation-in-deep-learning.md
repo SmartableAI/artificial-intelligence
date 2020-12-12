@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning"
-excerpt: "KNOXVILLE, Tenn. and NASHVILLE, Tenn., Dec. 10, 2020 /PRNewswire/ -- Lirio, a leading behavior change AI company that uses Precision Nudging™ to"
-publishedDateTime: 2020-12-10T19:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114"
-webUrl: "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114"
+excerpt: "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded"
+publishedDateTime: 2020-12-10T19:32:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html"
 type: article
-quality: 35
-heat: 35
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "RlCW0pVSQZut3nov6NsI7j8Zs6+E0BVCQhoL+2nhfq6CpiX7XFuRKH2b5rsRNcIRQEcNr30tYfDcoIT+/jB4S/5i7I5lqKZCYa20goImxOjrZ9kxm68f7fan5AzqyIjCObrUMbfCQLBgA8k2lYjA8dLA1HdVvcNJjnij9QhsGmQJvapka746FlaMfqVLK6aAWK4YaTLpg5i416QfnXP1cBy9xkwcn68ecCjpbogBFNl5P/VrBRfsjn8tZYlF7OggZn6XgUZuVBiJDBVTI6XYy/FYHqMw6dAa5yE4ZooslnjtCb3vQOZIqTWN4zAN/JDMkwkfdQfMumWbCAqhCVLXmv1U0TS+tmcs2XIzkXVHO2k=;r+gW5vpjnNw+wUco0gsQ/w=="
+secured: "GovD5iXuTGtEl4tv3M/De97pr+evmsJO1q4jFyzPjykUvDcShhtAtdqpY5puRslowRuWnllStCHuJOXQ3BJMlnfWXZCeOlaDK8pwVerMcQqWi12vL8DtK9FmKm8kQWTX0E44cGb3S03gvflvjknvOizRdncCzx1BFboepAbSkGyQ+iIKUqZsjEeQrb6NFLlnE5FZSoZnRjmCZyZseST02HdNuD182YaQhfQEMTR635/tVYkeB0I/2wE+CIj5kz2cNxw56hu7YBNvkWWoiJH8RvrEp85suHKg7ZIOv0ebWG0qYWlS6RGHJ8jXpMeVoUiLPYPOnLH1su4JqB6MSuQKQAEyeMEfOktLSxyd5FK1gtPeJ2o86UzketwkA872CLm9vtWzl0vQ5wMHAfykAiFc5KkP9nsTAB+8Fk31I8NW2GTwOANQRo/cShg+NYOa+JtghzFq3SsDV2YDujvRI+/dPexr05I0bPIEdRWOnZEWG6Arq4+qGnNJQGlI72bwPj6icsqrSwFxY1Gz+4OpdVIx7w==;Xx5NuR5y3alrgkC/yVJ0Fg=="
 ---
 

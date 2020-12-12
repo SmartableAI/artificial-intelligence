@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influe
 webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analytics Market widen to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2020-12-07T17:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-widen-to-witness-high-growth-in-near-future-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Expansion into enterprise and vertical markets drives AWS re:Invent machine learning announcements"
     excerpt: "This prompted AWS to devote an entire keynote to the subject during this today’s re:Invent conference, and the result was a set of announcements that reinforced AWS’ significant commitment to the machine intelligence space."
     publishedDateTime: 2020-12-08T23:59:00Z

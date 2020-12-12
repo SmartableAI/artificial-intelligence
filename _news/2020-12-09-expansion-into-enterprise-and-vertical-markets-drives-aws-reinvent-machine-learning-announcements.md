@@ -40,20 +40,6 @@ related:
         width: 3774
         height: 2120
         isCached: true
-  - title: "Cognitive Analytics Market widen to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2020-12-07T17:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-widen-to-witness-high-growth-in-near-future-2020-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VlREB17NlWAzGaWUWV5zWLdl83/tBSLmsGBEMV3iEZCEiI/kHXXcK3xGmlKTQfDKb2c4197nJOUBLZH0jg9YVqvNRYRAbrpj5YlEtkDANkrGoLr9BA/oXoGHh/0Gy/Ypx7k+5gf8/s0mHqQWj3KMEWTGZEDxCW1SQ4q2lbr8sNXvNRaRROwu4ogL/3mqpmTfUlYiZfNVwa+ak+TImfjd01MgxkD4BZPdSdDsk1iij0cBo5NJWGVY+pR0QbnJLXzBAsidHUBnAZlQ+D7E09oaDu9t2+3yrASISs5Cp4CmbSrsoW3ESmKNtSeWAHJN5rMt09pHfFZSb8p0EZwY/VvN+5OwwJj23mj1cspP2viQhEJDTHFnhVjqbO2q3bN2+6RPiprSbA616fojQ38qt+KbWgerRJw8Yhcl3Mg81OH5ZfXRqFegj3Oh5J5tSqumpTjtvbs7pYv+wEz48XBfUDYfQuG+CgmMNLv4U+LaKyNtVDJIMdf1bwJUN/YSDse1ui5pzWIBRRDEkmWsZPSm5Z/iaQ==;FTFpBd6vdKdwPkNhg9Fj/w=="
 ---

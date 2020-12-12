@@ -1,33 +1,31 @@
 ---
 category: news
-title: "The Dark Side of Big Tech’s Funding for AI Research"
-excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
-publishedDateTime: 2020-12-10T12:08:00Z
-originalUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
-webUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
-ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+title: "Google showed us the danger of letting corporations lead AI research – Jaweb"
+excerpt: "Artificial intelligence, more than most other fields of research, is dominated by corporations. Private research labs at Google, Microsoft, and Facebook churn out more top-flight research than most universities."
+publishedDateTime: 2020-12-12T09:22:00Z
+originalUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/"
+webUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/"
+ampWebUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
+cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
 type: article
-quality: 89
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Elmoudjaweb
+  domain: elmoudjaweb.com
 
 topics:
+  - Natural Language Processing
   - AI
+  - Facebook AI
   - AI Ethics
 
 images:
-  - url: "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg"
-    width: 2400
-    height: 1350
+  - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-showed-us-the-danger-of-letting-corporations-lead-AI.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -62,6 +60,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fb5e9b210-1614-11ea-9fee-f891d28bb48a&client=amp-blogside-v2&signature=f9d4ac23559133c63b810b38c30aa9fb7f00b2f8"
         width: 600
         height: 350
+        isCached: true
+  - title: "The Dark Side of Big Tech’s Funding for AI Research"
+    excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
+    publishedDateTime: 2020-12-10T12:08:00Z
+    webUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
+    ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg"
+        width: 2400
+        height: 1350
         isCached: true
   - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
     excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
@@ -223,22 +237,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google showed us the danger of letting corporations lead AI research – Jaweb"
-    excerpt: "Artificial intelligence, more than most other fields of research, is dominated by corporations. Private research labs at Google, Microsoft, and Facebook churn out more top-flight research than most universities."
-    publishedDateTime: 2020-12-12T09:22:00Z
-    webUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 60
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-showed-us-the-danger-of-letting-corporations-lead-AI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep learning software tools to the rescue of medical research"
     excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
     publishedDateTime: 2020-12-10T16:45:00Z
@@ -342,6 +340,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YsXkGhXxEWUtGNgRTKTBltYHEjWkSOzMZR5on7c8zKKWtIDqtqyJUORVXYmQn9VG2/EVxCVBTk+TdaCStmY6IWrBxQjLHfVWciRxk50OblW9kwABQ8xYKYGO8svoEFCYei3sb+UEV0WCKfi4qdzEVjOZXy2eQjxxL2NTKsJFT/dbQkB/QpavneQbwGcETzr8ATX4eZXTpMqE+3PxQit+oXZZuglfK0SvkotIjkExJXaqqfvW69oF6qcr/SpruhvCX5fw1pM5CIwA8YwgJr3jWaKmn3ssxWR89Kc8SlpGL3ZZyHuoub6vRt6AilZC8zhKEaoMMlhyaKLa5P2qX8NLU5+vEl8prf7NVB8YB0JaPS2Lx51Wm7iYk08TXXQ5DWF1YXa1gZ3Y7SeO8WMCo04mlXEPae0/EiKRCTRat0m1/qQmWnjZn6R/Fd6yP4FMx4PmLWSdBaskdHbr9Up/RWEniWIfe7u/X43fiwIQDafLYIo8x+UZ2XvL/jTqbqMHeNu6a4LEP/rffmHeOEXw9RCz7A==;D3AeAOIox1yFwAHZkAujvA=="
+secured: "nBQ6SbXKEHVbxzcPY+WjEFOBJGvwxceqyPy3BPtSq9RgZQ02bgIs0HQdJA28DwIs5lLag++Y+uWfRhcXVloKHXOCtBSXw3mmNCjLCbNmbocJbxc5U4JQ6Nm/UxUB7VzapwCNeXxSG1/UoKnScv5M33UTC0J5kNdmOJuhlzVT2mDjr3tceKZtwleXSuL5eejF6eCjub8gQM1CjUby30xYKZ+j565dXdnv9dadBuaPNfCxa741BGxMhpbD5j+8yxW/2LTcNDU1n+kenl21rSajcRU7uGJivvL52HNZISuaYSnSWgHuzE59jhebOw81KKR2MrWaPPW7W5Q4BhnICaRFiJrjo0nPTt04cbEI3wa47TY=;WqNhI/1gLzPekNeBHV1yDA=="
 ---
 

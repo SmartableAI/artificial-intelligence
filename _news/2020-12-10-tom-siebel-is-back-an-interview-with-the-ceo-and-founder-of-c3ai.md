@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
+    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter."
+    publishedDateTime: 2020-12-09T02:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YbKoqDzKD0/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
     excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range."
     publishedDateTime: 2020-12-09T19:14:00Z
@@ -43,6 +59,33 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Software firm C3.ai skyrockets 174% after $651 million IPO"
+    excerpt: "The firm sold 15.5 million shares at $42 each. C3.ai previously expected to price shares between $36 and $38 before the Tuesday IPO."
+    publishedDateTime: 2020-12-09T19:38:00Z
+    webUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://images2.markets.businessinsider.com/5fd11710240ebd00126bdf8b?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
+  - title: "I, IPO: C3.ai brings artificial intelligence to Wall Street"
+    excerpt: "C3.ai brings artificial intelligence to Wall Street originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com. Investment Disclosure: The information and opinions expressed herein were prepared by Renaissance Capital's research analysts and do not constitute an offer to buy or sell any security."
+    publishedDateTime: 2020-12-08T19:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 82
   - title: "Tom Siebel's C3.ai soars in U.S. market debut"
     excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
     publishedDateTime: 2020-12-09T18:01:00Z
@@ -68,17 +111,33 @@ related:
         width: 1840
         height: 1232
         isCached: true
+  - title: "Artificial-Intelligence Software Company C3.ai Raised Its Expected IPO Price Range"
+    excerpt: "The provider of artificial-intelligence software now expects to sell an offering of 15.5 million shares at between $36 and $38 a share."
+    publishedDateTime: 2020-12-07T19:11:00Z
+    webUrl: "https://www.barrons.com/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 51
+    images:
+      - url: "https://images.barrons.com/im-269385/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
     excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
     publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 50
+    quality: 48
     images:
       - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
         width: 1200

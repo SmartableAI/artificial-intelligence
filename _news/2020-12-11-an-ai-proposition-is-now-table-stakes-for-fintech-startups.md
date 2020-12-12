@@ -150,15 +150,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Abaxx Technologies: Canadian Fintech Looking To Disrupt The Global Commodity Supply Chain"
-    excerpt: "Abaxx Technologies will officially be listed on a Canadian exchange on December 15th after a successful RTO transaction with."
-    publishedDateTime: 2020-12-07T19:02:00Z
-    webUrl: "https://seekingalpha.com/article/4393406-abaxx-technologies-canadian-fintech-looking-to-disrupt-global-commodity-supply-chain"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 10
   - title: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack"
     excerpt: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack Team Wizikey Powered by <<Wizikey Logo>> The Indian startup ecosystem has seen a tumultuous 2020 with a raging pandemic,"
     publishedDateTime: 2020-12-09T15:12:00Z

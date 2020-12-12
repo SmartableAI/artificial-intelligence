@@ -1,33 +1,32 @@
 ---
 category: news
-title: "The Dark Side of Big Tech’s Funding for AI Research"
-excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
-publishedDateTime: 2020-12-10T12:08:00Z
-originalUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
-webUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
-ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+title: "Google showed us the danger of letting corporations lead AI research"
+excerpt: "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind."
+publishedDateTime: 2020-12-12T09:04:00Z
+originalUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
+webUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
+ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
+cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
 type: article
-quality: 89
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Wired
-  domain: wired.com
+  name: Quartz
+  domain: qz.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg"
-    width: 2400
-    height: 1350
+  - url: "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -63,6 +62,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "The Dark Side of Big Tech’s Funding for AI Research"
+    excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
+    publishedDateTime: 2020-12-10T12:08:00Z
+    webUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
+    ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
     excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
     publishedDateTime: 2020-12-10T04:44:00Z
@@ -78,22 +93,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Google showed us the danger of letting corporations lead AI research"
-    excerpt: "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind."
-    publishedDateTime: 2020-12-12T09:04:00Z
-    webUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
-    ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
@@ -342,6 +341,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YsXkGhXxEWUtGNgRTKTBltYHEjWkSOzMZR5on7c8zKKWtIDqtqyJUORVXYmQn9VG2/EVxCVBTk+TdaCStmY6IWrBxQjLHfVWciRxk50OblW9kwABQ8xYKYGO8svoEFCYei3sb+UEV0WCKfi4qdzEVjOZXy2eQjxxL2NTKsJFT/dbQkB/QpavneQbwGcETzr8ATX4eZXTpMqE+3PxQit+oXZZuglfK0SvkotIjkExJXaqqfvW69oF6qcr/SpruhvCX5fw1pM5CIwA8YwgJr3jWaKmn3ssxWR89Kc8SlpGL3ZZyHuoub6vRt6AilZC8zhKEaoMMlhyaKLa5P2qX8NLU5+vEl8prf7NVB8YB0JaPS2Lx51Wm7iYk08TXXQ5DWF1YXa1gZ3Y7SeO8WMCo04mlXEPae0/EiKRCTRat0m1/qQmWnjZn6R/Fd6yP4FMx4PmLWSdBaskdHbr9Up/RWEniWIfe7u/X43fiwIQDafLYIo8x+UZ2XvL/jTqbqMHeNu6a4LEP/rffmHeOEXw9RCz7A==;D3AeAOIox1yFwAHZkAujvA=="
+secured: "/+ecmLxgG1XR0l7aeocR8D4dcOqsdjnpzmVEh6ASU0XTJDWHyc+JN8VH4x0a0xi2NCbcwh/xdwXNBN6pNtN3JZefNaWhM06tTiQG7+ddJaPjzvezdo6Qb3eulX37toC4HeqRv0BDFzZtspMOa6BibKYiyHwdJLyGA3lVIJh75qxT6MGNMPb8D5pvmMmyWwMHQ+nsNMErNn4pmPqs+29dv1ddySC3X796pB+q8DO+DCBFi9knFcAL77gX4tX6fO3xVgmgJb9X6OljG1mzjXYki3/FeFLzVdYKO8NkFJ8DV8K7dS2NgZT8xrT+xFVCfCsubHMSbf7P1D3sBhRqOIz0tMQJ12RPi+urkU++xroSUJQ=;QJdhNv0+CClJ6lWsUiY5LA=="
 ---
 

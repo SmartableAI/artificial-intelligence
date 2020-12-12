@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "AWS announces partnership with MGM to reinvent its media supply chain"
-    excerpt: "MGM has one of the world’s largest libraries of digital and physical film content. The company focuses on the production, acquisition, licensing and global distribution of its film and television content across all media platforms."
-    publishedDateTime: 2020-12-07T17:45:00Z
-    webUrl: "https://siliconangle.com/2020/12/07/aws-announces-partnership-mgm-reinvent-media-supply-chain/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/mgm-logo.png"
-        width: 960
-        height: 720
-        isCached: true
 
 secured: "sEkxGw2y2Tsx9FGmaB0qt9fDASxjQ8kLQIfuLoiMjTn+UD+HbUI2F4k9mgz+lFAc8qoIhOHsDDA5WZk1G+TNklBqJN8QTU7Tg1zOWizlOEp1An1oaMe0bP8Fpnqm0ozLy64ul3ku9dRvzibr8T3tQn5nRldOOg6a4G7rQj6CrSWDFadoXsIcibJOBexEiMui4730spBJbSqDbVBdeB57+/4vtDIoYbUgrvfLAUkHdRDLRvbDMafFcrvYZ7JWyFzppRhuXT5zvAnXUSRbOt6f6XvverZ5noqzDrqceYXySpFreAWAxFQSuaE/SJtN3pxoSvbXV8RZYOqjLzZ1b5D5a0FVZ4QNtPCEeYFw6+P6xS8=;/aMFUo734UA8W233I/a5XQ=="
 ---

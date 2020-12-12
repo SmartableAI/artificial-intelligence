@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Launch of a new €150 million European instrument to support companies in the artificial intelligence sector"
-    excerpt: "On the occasion of the Lisbon Websummit, the European Investment Bank (EIB) and the European Investment Fund (EIF) announced the launch of a new financing facility in the form of a co-investment instrument ofup to €150 million to support artificial intelligence companies across Europe."
-    publishedDateTime: 2020-12-07T17:55:00Z
-    webUrl: "https://www.actuia.com/english/launch-of-a-new-e150-million-european-instrument-to-support-companies-in-the-artificial-intelligence-sector/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 21
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2020/12/BEI-intelligence-artificielle-.jpeg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "kWYGbiHpZ7yhevtsagbf/axdYJw19W671JuVr90u4X+lQfrmGu1lqbW7Z/Zu/yvQ58NOUGN1N3aRShUFGLuHCCn0k6KADKVR9qJG7r4o4DG0gkSxK184yMTsXgerGmFoolukEQniSzMqT7w2tzJxhmrh3wFI2pqtB8ijnjPJlM0qy72yzPqiNSfzlLEi5Z/hRfIz4CTiYbI3NXQD6lWd6lV2BnlVKVrbIwUi6uMDodl7aKuaIiWckFgisX2MPTLEa85NM+77V1uR5Xw3LeXKhJraalnhNJd3g6QmGoIPXSlyTUGEpmqaxDn8xDiZAR1aqyu+Avi4tazWAwgunH4/ZQ45IeQiPrUi1ghtu51U7gA=;TQh5tcXN9zY0cu/0DzDAQg=="
 ---

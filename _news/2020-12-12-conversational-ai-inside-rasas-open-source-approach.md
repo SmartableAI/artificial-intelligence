@@ -3,10 +3,10 @@ category: news
 title: "Conversational AI: Inside Rasa's open source approach"
 excerpt: "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right."
 publishedDateTime: 2020-12-11T23:38:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/conversational-ai-inside-rasas-open-source-approach/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/conversational-ai-inside-rasas-open-source-approach/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
+originalUrl: "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/"
+webUrl: "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "JKWGy2CdzS9q39M2FhZ+vtfPF64OWWw9t1t7fm7AWACLAXH0ElIV/o1OELnrCCAknjvNB/KO0OxXkXINVQBkIyiZ8bpHjkaOE/5zZVbccy/X+8Wwy7r7H2IP7A14qVCHaM16LvxNh2Qx0C1HJfUs+xtwEaR7ZpmdLckQBlne6AniJ6Y0Tv1NVHaxmJXNmFfHd5sMbD25BF3dSuWSvgZeCJKeEogeq13cpwTz3O3Z4itNDrA+7m9gc+r0Uo/VgvN1FQ7z26oPkQZu36JKFlfY51saXqccnMLTLWpXF93B51o4xjc/DvW7M+z7UX3a/JVNrkCNw/E1RK25KkkxPTCjU0wB988uZaalopALfyJFBAk=;cktvVb5/RQr7fVcQzk8kyw=="
+secured: "sNSxM98iOmb/Mi59P/WVl57K0IyGOQFEIWCE0StRszw237vKXI3o6IKZQNDn/oPEv4EODPt3fF7ROeFKOJ2yklX+kr0KvG/8gktvQN0k06JVI0wNC5Gwlz7aHFQv8XfAKfu6LagUjzyhUsAcORsCE8uHgi1nHcfXayJZ8t+OC6caZL8+YVg18xpXTEFmd2YJOaqoYNWMj0W0DUjOt+qvCnXBHlrragB9XdRU8IxBQAttKLpGffiptWBOh80OOqNrYgcBnTl8DcvUAZc1KZG4k8lOhmN8F336i96fG4YRiFXF/KqklDLOS23HqkW5pygyK5OJIEnQVQrEiaJ3B5lnmUT+gzce1ePYsb49u2Z/sI4=;G/fyDkQHyGVI1Rwp7jJbbA=="
 ---
 

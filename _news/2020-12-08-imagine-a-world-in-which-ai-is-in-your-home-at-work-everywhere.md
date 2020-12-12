@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why It Will Be a While Before AI Is Managing Your Data Center"
-    excerpt: "While hyperscalers already use AI to improve operations, most other data centers aren’t integrated enough to make it work."
-    publishedDateTime: 2020-12-07T18:37:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/why-it-will-be-while-ai-managing-your-data-center"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/data%20center%20illustration%203%20getty.jpg"
-        width: 2022
-        height: 1483
-        isCached: true
   - title: "This Former Facebook Engineer is Using AI to Make Everyone a Genius at Work"
     excerpt: "Former Facebook engineer Deon Nicholas is now at the helm of Forethought, which uses AI to make customer service agents better at their jobs."
     publishedDateTime: 2020-12-09T19:16:00Z

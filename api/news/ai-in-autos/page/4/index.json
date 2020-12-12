@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-11-walmart-will-test-self-driving-delivery-services-with-electric-cars.md",
+      "title": "Walmart will test self-driving delivery services with electric cars",
+      "excerpt": "Walmart isn’t about to let rivals like Amazon delve further into self-driving deliveries without offering a response. As CNBC reports, the retailer has teamed up with GM’s Cruise for a self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "originalUrl": "https://www.engadget.com/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F193d73f0-236c-11eb-b7ff-013ec39834de&client=amp-blogside-v2&signature=369c6edefa2e5a90e90fdee66e67efa2adee8edf",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "publishedDateTime": "2020-11-10T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
       "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
       "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",

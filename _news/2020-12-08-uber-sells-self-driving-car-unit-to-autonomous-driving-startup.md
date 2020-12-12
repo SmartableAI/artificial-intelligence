@@ -2,9 +2,9 @@
 category: news
 title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
 excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-publishedDateTime: 2020-12-08T04:52:00Z
-originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=newsviewer_click"
+publishedDateTime: 2020-12-08T03:29:00Z
+originalUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
+webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
 ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
 type: article
@@ -761,6 +761,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4j+GJO9jpU8bB9eQuswes/MvoIMzqSSedR/PyESsenMMujqj38f6YtIgvCpYuES/ni5NEz5GZQ1iWpaoUF7DT5HAv2jm58pzEsZzgz4NsdXJioNDcA0I30QNck5gL0qyiphCS00Dck7MqvRyGgWPwLDgxq1dzlgjTzimGj4n7TIMDdJX0AIZREgKpdCYgzTL4buIKD90q8rZebTpum5xJ3mBiTvPCWSX2YZzwXr2f2aHwPIB/3kyksPDCLa2nS03ynTqevbjxNaQ34pDt5phqW0yUBaIHgRLFUUMgj6AyngY1F60vhb4/rlgtXKx7WJImqrMzY3NbgpjRqHtFQGoD6IiRv+J5JKj6m5spATjgUI=;sTNGdzbjlSOQAnBn53ubbQ=="
+secured: "/xpFbUFYFY0tZccgKbjYkJpTwvv0MYj8ly8NQgvE6ppTj4OBswSQ+Ne4cqMFW5o9Pc27m2/Pyd2aChMG4dUq8rezygFuQ8ldGDrb4MhqlWTjxAGfkLGADUhQcV9AQ+Yq7i4OzxpPiduIQ5W5Tzykk6OnSWgIIpFczFMQSWpeAEaefvgcPI2oLbhM7CdHAgX04zbF1OzRtAnIzDzmUrmdb6aUc9BWCvY1baWVRk/q5D6QNSTH+ThjCLt2vIhZldjTRdhtzSABe11F98LsNKPeGh2Ih6GS7qXP9dogC946ipY5wfXEq12kFAaxuRRvMPkskQKCFxWVXzoUPMhum/I0I6waWWhsLDqxs+xden1S0gs=;/piekcsmXSxYoT/joYsO0Q=="
 ---
 

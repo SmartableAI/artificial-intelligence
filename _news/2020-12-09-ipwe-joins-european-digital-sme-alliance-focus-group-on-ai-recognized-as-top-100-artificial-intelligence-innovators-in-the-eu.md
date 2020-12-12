@@ -36,20 +36,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Launch of a new €150 million European instrument to support companies in the artificial intelligence sector"
-    excerpt: "On the occasion of the Lisbon Websummit, the European Investment Bank (EIB) and the European Investment Fund (EIF) announced the launch of a new financing facility in the form of a co-investment instrument ofup to €150 million to support artificial intelligence companies across Europe."
-    publishedDateTime: 2020-12-07T17:55:00Z
-    webUrl: "https://www.actuia.com/english/launch-of-a-new-e150-million-european-instrument-to-support-companies-in-the-artificial-intelligence-sector/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 21
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2020/12/BEI-intelligence-artificielle-.jpeg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "SVFgf9Eh7HbR3THpzG+xEjirELPxeaOWkndjpGlHDZXXP9vZj2Gq9DBpotgX6z1w7kD7Y4M8FP51/tIQ7xi3VbvDrdwHQ9/osKrAiuFa03TGYV1tMBw1GeVd7dcboTNx/uXWmo1H28dc+zWESeojlwdRjLs+5ixPqAiT/kc7ktyf+uPwQN7yvJfxOU3KKOR4ybv4TJwI9VnRCk01L5fafDOJO4QXnqsO81SGC82rJWoilcBzKixZ2DGnQ7RAhSDH5cQpi0zXV343gXFv5ijKb8ga5m2Mnx0eh0j/N5pi5BB+Gl+KxKFO52GErfbmumrPBt/ey9faH8sJqVgR3uKXeHxuFf+qxI/WPxsoC1bz+Yo=;wtYlSySp92h0vn0zs5oIsA=="
 ---

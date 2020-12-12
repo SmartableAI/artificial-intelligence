@@ -6,9 +6,9 @@ publishedDateTime: 2020-12-10T15:10:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=390801"
 webUrl: "https://us.acrofan.com/detail.php?number=390801"
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
   name: 아크로팬
@@ -19,6 +19,13 @@ topics:
   - AI
   - Machine Learning
   - Computer Vision
+  - AI in Autos
+
+images:
+  - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
+    width: 580
+    height: 387
+    isCached: true
 
 related:
   - title: "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com"

@@ -33,7 +33,12 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 43
+    quality: 65
+    images:
+      - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
+        width: 580
+        height: 387
+        isCached: true
 
 secured: "oW7N0FxKrhwMhdvav7V5FEF6rVY3jSH81K4ilrr5MSsdS70baalEoJ6VEJglRqrQgi/WB9k7FkGgzX6AEj0w33bJ3t+L8QjXsc/IIpHHgGCTOz9kqeIf+nYPZB3nSQEuk/PoK9Au54nztdpBSL80d6FQTnDkajyUfYjdrvzz0pnAO66J5oCQiBcrDDzk5lCkRKN9LfZfguI/BnTLTk5thCXrHn8k2DrhrDdWQm7gqLop78TOOmU8iTr3Goh5j6aV6Ij2Cj3hPrXyAPTl7bsB3Vr2aHQhPnuEjyrWdxhChlXWjuFr6dHKqwNTJL9gkE/f3nckpHk/kTuRX2TuS4am9sw2TJdU8xpzGdsxKbWnHpQ=;eGfpvluRm7ezu0I8pAi56g=="
 ---

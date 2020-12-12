@@ -37,20 +37,6 @@ related:
         width: 768
         height: 433
         isCached: true
-  - title: "AWS announces partnership with MGM to reinvent its media supply chain"
-    excerpt: "MGM has one of the world’s largest libraries of digital and physical film content. The company focuses on the production, acquisition, licensing and global distribution of its film and television content across all media platforms."
-    publishedDateTime: 2020-12-07T17:45:00Z
-    webUrl: "https://siliconangle.com/2020/12/07/aws-announces-partnership-mgm-reinvent-media-supply-chain/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/mgm-logo.png"
-        width: 960
-        height: 720
-        isCached: true
 
 secured: "rw7Iu8CzC6raP+ZsR9L28CSu4/M8poXI1dSRdwh7DbEFb8Xy6O4i6lAPmi/7bL6pFB45Z+K6OwdbJDpiht7c+hYF0TBnPeoY/o6/SGvEc9FU08g1KGew08wguPOIH2VYZcNSvmW47KkDSaUfoWB9O+JEBN5ksqQ79XnDAHY1zNk4i45ncXMs4wauUX0RD4ICaiSmnDtBpmwyaClVQJ9aCXOyjW3K4LlPEcMffNxXrKkFk70tsz194CmVI4oq4MOetNFUPf9dfBKiEWjGgrHzS7zSZkIUCM4+u5BAQvIMD3282c+KpoF2sOdteHhfHNG5uXc4un5Bqlxha+3dYUhDDrXqf7oh2CAwYBbg6MznUfc=;IRjYgD7agKACy3CkTHMMlQ=="
 ---

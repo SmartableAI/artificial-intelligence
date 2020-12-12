@@ -43,6 +43,36 @@ related:
         width: 1353
         height: 663
         isCached: true
+  - title: "IBM Launches New Innovative Capabilities for Watson"
+    excerpt: "IBM announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses. Developed by IBM Research, the new capab"
+    publishedDateTime: 2020-12-10T06:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html"
+    ampWebUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 59
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
+        width: 300
+        height: 240
+        isCached: true
+  - title: "IBM Launches New Innovative Capabilities for Watson; Leading Global"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by"
+    publishedDateTime: 2020-12-09T17:16:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-launches-new-innovative-capabilities-for-watson-leading-global-brands-including-ey-and-regions-bank-use-watson-to-infuse-intelligence-into-workflows-822080923.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1361739/Watson_Assistant_Banking_interaction_widescreen.jpg?p=facebook"
+        width: 1901
+        height: 996
+        isCached: true
 
 secured: "pSqRO3OjYgGF6ujOY5oXknHm8Hh4Qc0Lc5WDnL7udUqnx9G3pdarv57qgMMRK5bGb/+yFudeYiXN5yIYzw5iLylbFR+D4xKTdKFsRkAX2Y5Qofv1G15JB/gD2AOWg/SjKGEAj+fpGyWnKLE9OGg6kIhqKHxOBlcCWRH02azHKLuLyJncis4n4Krl5PIRfQRwrPTrO+LNyS2kRjRfbAwT4RCDNV87enhhUHRQcB3lfogyz6m7mC4qxKP+/MNLw6Brrc7V4Ica8WVwf4kzZXSJofCyskbPaItlDAFqpxpl5BXEM4LhwsNipqxn+eUuf1Qa4PZsNMEgNVmhi/m60XP6ngz+SUh+IRTVXtPO2x/BX70PoxnbqR1rnVjTJPjymhpBl55GKDj+uWloGZKBBj4zW3SCApxwnlKZHMN6rxl+sd+a1cX2Xh2HAT5F/HTKyPF5bPO+I83nVahQSrMj2djMdc2TDJRDTv03htEnH1ESE5SbOldXsbjo9YF8yJ3VwK7GAV/+EMrXG9G+pbVeg+NyYQ==;yBr9yuHJ/zTJekYdur/olQ=="
 ---

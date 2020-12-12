@@ -45,22 +45,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Researchers are starting to refuse to review Google AI papers"
-    excerpt: "Computer scientists are beginning to refuse to review Google AI papers until Google changes its stance on former ethics co-lead Timnit Gebru."
-    publishedDateTime: 2020-12-07T19:01:00Z
-    webUrl: "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/"
-    ampWebUrl: "https://venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/researchers-are-starting-to-refuse-to-review-google-ai-papers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google will investigate the controversial exit of a top AI ethicist"
     excerpt: "Google CEO Sundar Pichai has pledged to investigate the departure of a top AI ethics researcher, according to a company-wide memo Axios obtained. Pichai also apologized for how Google handled Dr. Timnit Gebru's exit."
     publishedDateTime: 2020-12-09T20:55:00Z
@@ -108,6 +92,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Google showed us the danger of letting corporations lead AI research"
+    excerpt: "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind."
+    publishedDateTime: 2020-12-12T09:04:00Z
+    webUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
+    ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
@@ -236,6 +236,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd29ab84acee6910d7ac5c7%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google showed us the danger of letting corporations lead AI research – Jaweb"
+    excerpt: "Artificial intelligence, more than most other fields of research, is dominated by corporations. Private research labs at Google, Microsoft, and Facebook churn out more top-flight research than most universities."
+    publishedDateTime: 2020-12-12T09:22:00Z
+    webUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 60
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-showed-us-the-danger-of-letting-corporations-lead-AI.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Deep learning software tools to the rescue of medical research"
     excerpt: "The force that AlphaGo unleashed is the power of deep learning, a subfield of machine learning. DeepMind, the pioneer of this field, has used it to power face-recognition cameras and voice assistants,"
