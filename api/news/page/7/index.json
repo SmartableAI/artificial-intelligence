@@ -2,6 +2,186 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-07-aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain.md",
+      "title": "AWS Announces Partnership with MGM to Modernize its Media Supply Chain",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20201207005103/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-driving-into-the-future-from-autonomous-to-ai.md",
+      "title": "Driving into the future from autonomous to AI",
+      "excerpt": "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/",
+      "publishedDateTime": "2020-12-07T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-fords-autonomous-cars-are-delivering-fresh-produce-in-miami.md",
+      "title": "Ford's autonomous cars are delivering fresh produce in Miami",
+      "excerpt": "Ford and Argo AI have launched a pilot that uses self-driving cars to deliver fresh produce to Miami-area students learning at home during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "originalUrl": "https://www.engadget.com/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F4b10add0-389c-11eb-b7d7-58c367381a24&client=amp-blogside-v2&signature=24c8c350119fc36ad9047a5f18cf73643e230d9b",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-argo-self-driving-cars-food-delivery-miami-pilot-153007600.html",
+      "publishedDateTime": "2020-12-07T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
+      "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
+      "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "originalUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
+      "publishedDateTime": "2020-12-07T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-juniper-networks-acquires-datacenter-network-automation-startup-apstra.md",
       "title": "Juniper Networks acquires datacenter network automation startup Apstra",
       "excerpt": "Juniper Networks acquired Apstra, a startup specializing in datacenter network automation, for an undisclosed sum.",
@@ -1024,213 +1204,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-alphabets-deepmind-ai-has-solved-the-protein-folding-problem-that-could-aid-medicine-research.md",
-      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\" that could aid medicine research",
-      "excerpt": "TL;DR: DeepMind Technologies, a research lab in the UK owned by Alphabet, has developed an AI that can determine the folded shape of a protein in a matter of hours, which would typically require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "publishedDateTime": "2020-12-06T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030.md",
-      "title": "A Complete Report on Artificial Intelligence (AI) in Security Market in 2021: In-Depth Analysis & Global Outlook by 2030",
-      "excerpt": "The Artificial Intelligence (AI) in Security Market 2020 analysis provides a basic summary of the trade along with definitions, classifications, uses, and trade chain structure. The Artificial Intelligence (AI) in Security market study is provided for the global and regional markets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/a-complete-report-on-artificial-intelligence-ai-in-security-market-in-2021-in-depth-analysis-global-outlook-by-2030-2020-12-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-05T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-tesla-cuts-full-self-driving-upgrade-price-by-1000-for-some-customers.md",
-      "title": "Tesla cuts Full Self-Driving upgrade price by $1,000 for some customers",
-      "excerpt": "Tesla has cut the price of a Full Self Driving upgrade by $1,000, but only for people with Enhanced Autopilot-equipped cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "originalUrl": "https://www.engadget.com/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F3f4f2080-3725-11eb-91e7-4fbce3f7cebf&client=amp-blogside-v2&signature=b785dbde864c2b1a7d76720b76a1279eee6fe894",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-drops-full-self-driving-upgrade-price-for-some-184028591.html",
-      "publishedDateTime": "2020-12-05T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-06-more-than-1500-google-employees-sign-petition-condemning-firing-of-black-ai-ethicist-timnit-gebru.md",
-      "title": "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru",
-      "excerpt": "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-      "originalUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zrxtfs0w2gbmty1jqgis.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400/amp",
-      "publishedDateTime": "2020-12-05T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
-excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
-publishedDateTime: 2020-12-08T14:18:00Z
-originalUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
-webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
+title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
+excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
+publishedDateTime: 2020-12-10T20:19:00Z
+originalUrl: "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/"
+webUrl: "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/"
 type: article
-quality: 54
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
-    width: 742
-    height: 649
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/41/2020/12/vlt-brunier-nuit-1024x1024.jpg"
+    width: 1024
+    height: 1024
     isCached: true
 
 related:
@@ -119,6 +123,20 @@ related:
         width: 6000
         height: 4001
         isCached: true
+  - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
+    excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
+    publishedDateTime: 2020-12-08T14:18:00Z
+    webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
+        width: 742
+        height: 649
+        isCached: true
   - title: "After Two-Year Preview, Microsoft Launches Azure Digital Twins"
     excerpt: "Microsoft's Azure Digital Twins service for modeling physical environments is now generally available over two years after being released as a preview."
     publishedDateTime: 2020-12-09T00:00:00Z
@@ -146,20 +164,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/12/sayedandHH3LR7122020143330-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
-    excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
-    publishedDateTime: 2020-12-10T20:19:00Z
-    webUrl: "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/41/2020/12/vlt-brunier-nuit-1024x1024.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Addenbrooke’s to be first hospital to use Microsoft AI cancer treatment tool"
     excerpt: "Microsoft has announced that Addenbrooke's Hospital in Cambridge will be the first hospital in the world to use its InnerEye AI tool"
@@ -280,6 +284,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "oJFqmmJWxyMHfZJcviraiBGGi7UwZcABMGOV3iJARUK2S1U4P7fNEsZF3RlQ0fW30GMPBVi+LBPueTbphyFNydqLvtzrcoDogCT5UIcZ5tPpgzDfhG9yf27eHlGr9uupJHe15zfzNn1zhL8tStF9TG7bthwUKFpt/QUyyWFmfB3V6T9qtA8AziJJhlkkEV7OadZD9EN6wUPtgq2Fbc6pg6rJWsmyeeCn2NmwP3O+EPFjsY73NlW5k3vtPeRt9Xm0L6JIrOpOFToZXHxw/0eSOsvywOmLhLhkSV8K9ToJhEC5PUTeCVgq6eDyKQNtMIUINJY05gWo+hzqkiZoakl6+3lo488mkUB+9mEZMNT3zt5RhYziGGktV+e0hveonGZg9tT16Thym7Rmss5oSHe5dra2VS7OC6yam15+neJigRFuGkP24Gd7dmcWza1LtQxaeLW7QWuC7LbmUsDTEbNfkDjUX3f5hBurcQ6PH9MsbK+iZ2AdbLrNVwelses3DUEG5D4xHGZuKGv5Ry0rog+aLQ==;wLiooHwQ6v1YhBj51YogmQ=="
+secured: "mDSV46l8pewLHro2nYtU+TMyfso606sZGq/uuasvhrJDZuQ3JGxaYRdYxFp9i4qlLYhGYQQoDKsp+i30L26qfTM8w1JI56GDEBJ0kpDfUUdhbIjuBv1W5s3DHMbdxZRIZ5+oo20tbP51vs7IzE0t8JvP5dsZhf2RABmi6e0/WM40mIYUifNLt2iQdf2tAV0HsHcBmFxUW4D3MDIU+6yCRVWufeNPd44G9Q4ICf7LDTnrLaTP+Mnv4lCzFiWo939+UvcbDbpm8vIO3KPHJEbt/Wz4LeQ29GIjFyDGGqkGq61J36X1zFjusgMa9TgKtkyaOoU3yZa5LhoGkbopMVhjerN4JUw32VreKerlfEqxURc=;nwsdEUUFRKIy6eEGgT67Tw=="
 ---
 

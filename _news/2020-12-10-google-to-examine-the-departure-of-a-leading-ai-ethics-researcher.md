@@ -2,9 +2,9 @@
 category: news
 title: "Google to examine the departure of a leading AI ethics researcher"
 excerpt: "Google says it will examine the departure of a prominent Black female researcher in the field of ethics in artificial intelligence, whose recent, sudden exit has angered thousands of the company's employees and others in the tech and academic communities."
-publishedDateTime: 2020-12-09T23:00:00Z
-originalUrl: "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
-webUrl: "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
+publishedDateTime: 2020-12-10T02:55:00Z
+originalUrl: "https://edition.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
+webUrl: "https://edition.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209162431-01-timnit-gebru-file-super-tease.jpg"
@@ -310,6 +310,6 @@ related:
         height: 600
         isCached: true
 
-secured: "zeImg1ftK69FlcCPH9/Mcm++yi8CWAFhIqAIxw6+1uhZyf/TXj/FSdppyCehVlBOYxOei5q+vPHRM+NVpY9ZyzgiOlz2B4zx8n+dbWN3uqrq9gQrq6rJeiyof+S9krw3HdCkrjHu89qKR8VBUTp7QHpFul+8KbXMUCwHcbfXhWyFRuXPKvuv45gNm21IgPCUf15yfyVof/xs9sIoQCjTgH2BYkXOElYCtX3wTwaQeKLB9Bkn832JEq2wJXEnwLdL2eWHO4IkieeHVBQErezx19HpmgSQo3f84WLf6C21BcHsSiDnxwGTKOxtWxI4QT/UdARxrtJ/N6AauMffIfi53Yrf3HcnIBjma0u5rlHvi6MEK+lcskTqXC8BND+u+y1dDnNDWC8IljxklLNqbT/Jd3PjcSsUIUZps8lbunT6FQbY4IzXxcbNf91O3fOjJWBi1pXuEVjYwcubPeSpLlG/bQspGpXkVPhK727Znt/RwX9N9j+GRrzj5aLsOVnmy4gW0GSK3ijLt/vV/sq8o4t0Qw==;e9v3DrK3I6ezMqRZfLp3VA=="
+secured: "j7i/cqkMQ/amfuJH1a+63gM1jWR2RGzway+4liAO0zwXjMJ8HOG730x74OTstgPvcoMrSthZhEhc/ij3eXKE53ge5siyiuxmqMHxG3HkOq7FJdZIH71ZTRDMU8mzUnVc1kkldm4GcIXEYDuY5vzyRrkwxccg3D+HBWH2ROG43d9htFHUrXncPLoVgvk4m1nC8MT/004HQoF45KUXZrLVl+WFqStO9r1nujf3IhGxoH/FAjNenFtM44gUHyT3jwNFQXKbplcVKc+Mw42PcED+uf0/QXzAFLrAkpcx3kD67WufZ8iZ+F4g4Tik//tVvqUoTdjFNTHneVjq4bSF12kte4oysQe2EVmANkBpm0TcXtQ=;0mWFe54p03JYSIAiFsGXNw=="
 ---
 

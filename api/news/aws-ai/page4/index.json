@@ -2,6 +2,164 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
+      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
+      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
+          "width": 900,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:58:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
+      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
+          "width": 545,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:33:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast.md",
+      "title": "Measuring forecast model accuracy to optimize your business objectives with Amazon Forecast",
+      "excerpt": "We’re excited to announce that you can now measure the accuracy of your forecasting model to optimize the trade-offs between under-forecasting and over-forecasting costs, giving you flexibility in experimentation. Costs associated with under-forecasting and over-forecasting differ. Generally, over-forecasting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/Measuring-forecast-model-accuracy-1.jpg",
+          "width": 661,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T14:04:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
       "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
       "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
@@ -1288,146 +1446,7 @@
         "AI",
         "AWS AI"
       ]
-    },
-    {
-      "path": "_news/2020-11-03-intel-has-acquired-cnvrgio-a-platform-to-manage-build-and-automate-machine-learning.md",
-      "title": "Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning",
-      "excerpt": "It competes with the likes of Databricks, Sagemaker and Dataiku, as well as smaller operations like H2O.ai that are built on open-source frameworks. Cnvrg’s premise is that it provides a user ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173239906.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
-      "publishedDateTime": "2020-11-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
-      "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
-      "excerpt": "WABG merges Wipro’s diverse industry experience and comprehensive portfolio of services with AWS’s industry-leading cloud platforms to help organizations worldwide drive business acceleration, enhance customer experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201102005498/en/594194/23/Wiprologo1.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-aws-to-open-data-centers-in-switzerland.md",
-      "title": "AWS to Open Data Centers in Switzerland",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
-          "width": 440,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

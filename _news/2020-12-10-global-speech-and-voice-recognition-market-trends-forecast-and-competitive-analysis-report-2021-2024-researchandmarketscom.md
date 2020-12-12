@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025"
-    excerpt: "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. The report on Automotive Artificial ..."
-    publishedDateTime: 2020-12-08T05:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence for Automotive Market 2020 Global Analysis, Opportunities, Key Applications and Forecast to 2026"
     excerpt: "Wiseguyreports.Com Adds 'Artificial Intelligence for Automotive-Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025' To Its Research Database <p>This report has been prepared based on extensive research and analysis of the latest dominating trends in the market."
     publishedDateTime: 2020-12-08T14:04:00Z

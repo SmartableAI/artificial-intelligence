@@ -30,8 +30,8 @@ images:
 related:
   - title: "Google to examine the departure of a leading AI ethics researcher"
     excerpt: "Google says it will examine the departure of a prominent Black female researcher in the field of ethics in artificial intelligence, whose recent, sudden exit has angered thousands of the company's employees and others in the tech and academic communities."
-    publishedDateTime: 2020-12-09T23:00:00Z
-    webUrl: "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
+    publishedDateTime: 2020-12-10T02:55:00Z
+    webUrl: "https://edition.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
     type: article

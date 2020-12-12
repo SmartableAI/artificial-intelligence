@@ -2,6 +2,127 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-24-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
+      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
+      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
+      "originalUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
+      "excerpt": "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-aws-launches-ml-dev-service-in-sydney-region.md",
+      "title": "AWS launches ML dev service in Sydney region",
+      "excerpt": "Amazon Web Services (AWS) has launched Amazon SageMaker Studio, an integrated development environment for machine learning (ML), in its Sydney region. The service allows users to build, train and deploy ML models through a web-based visual interface for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
+      "originalUrl": "https://www.reseller.co.nz/article/684686/aws-launches-ml-dev-service-sydney-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
       "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
       "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
@@ -1307,164 +1428,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
-      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
-      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
-          "width": 900,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:58:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
-      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
-          "width": 545,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:33:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast.md",
-      "title": "Measuring forecast model accuracy to optimize your business objectives with Amazon Forecast",
-      "excerpt": "We’re excited to announce that you can now measure the accuracy of your forecasting model to optimize the trade-offs between under-forecasting and over-forecasting costs, giving you flexibility in experimentation. Costs associated with under-forecasting and over-forecasting differ. Generally, over-forecasting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/Measuring-forecast-model-accuracy-1.jpg",
-          "width": 661,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T14:04:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

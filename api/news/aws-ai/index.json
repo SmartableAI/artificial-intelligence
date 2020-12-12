@@ -194,6 +194,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
+      "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
+      "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1572-12.jpg",
+          "width": 800,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:02:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-amazon-unveils-dozens-of-machine-learning-tools.md",
       "title": "Amazon unveils dozens of machine learning tools",
       "excerpt": "Invent, the company announced new capabilities for Amazon SageMaker, the general availability of Amazon Neptune ML, and more.",
@@ -306,8 +358,8 @@
       "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
       "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
-      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?taid=5fd008fdf0e12b00013d96c0",
+      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?via=indexdotco",
+      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -349,9 +401,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -596,6 +648,58 @@
         "name": "TV Technology",
         "domain": "tvtechnology.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-thomson-reuters-taps-aws-to-power-digital-transformation.md",
+      "title": "Thomson Reuters Taps AWS to Power Digital Transformation",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1105,6 +1209,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-04-fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws.md",
+      "title": "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS",
+      "excerpt": "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-aws-panorama-bringing-computer-vision-to-business-masses.md",
       "title": "AWS Panorama — bringing computer vision to business masses?",
       "excerpt": "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to",
@@ -1277,110 +1433,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-veritone-achieves-aws-public-safety-disaster-response-competency.md",
-      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
-      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has ach",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency",
-      "originalUrl": "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-amazons-amzn-latest-ml-services-boost-its-aws-portfolio.md",
-      "title": "Amazon's (AMZN) Latest ML Services Boost Its AWS Portfolio",
-      "excerpt": "This is evident from its latest move, wherein its cloud computing arm Amazon Web Services (“AWS”) introduced five machine-learning services namely Amazon Monitron, Amazon Lookout for Equipment, AWS Panorama Appliance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
-      "publishedDateTime": "2020-12-03T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
-      "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
-      "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T23:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

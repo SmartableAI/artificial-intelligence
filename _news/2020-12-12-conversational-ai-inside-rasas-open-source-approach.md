@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/conversational-ai-inside-rasas-ope
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"

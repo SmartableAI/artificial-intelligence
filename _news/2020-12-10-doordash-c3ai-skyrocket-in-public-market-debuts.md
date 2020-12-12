@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs"
+    excerpt: "Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least."
+    publishedDateTime: 2020-12-12T19:03:00Z
+    webUrl: "https://techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/"
+    ampWebUrl: "https://techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027412766.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "maBSJOe3Hiygyj3iOcXipIdfJUGXPkSF5UFxo5I8MUPoac3n5Rh+Ud+mwEl2b5fmT7bDXb35oO1O+rLQsw6yl3+CxjQIYZon1S1VPc0P2DbkQeDSQUcw4J/2fs+jPiPSurV2MT/G7wbHXgz7yR0PrZxYx9nf25c/KAztVrxlWzifmqOFEVJRl8YVyahT3QS/2K00NTkQj3P9xsRpAwp+6p7fkf9S8Dpl9ulq8Z0HMk4so6Hb1sSdjbfQsE4F73J/I56Z57WskQi9Z6bbF8JuBprDWGNAuoVANt+m9fP/1yFTvpvJKsNTPncAgXIJX+M+d9PJccnsDmK0sYVeDICE3qnhONeGsYIq/6gYQDnaqRM=;ZLwz7qcwEl6/rr52zeQDWA=="
 ---

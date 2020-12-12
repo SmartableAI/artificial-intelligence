@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-12-conversational-ai-inside-rasas-open-source-approach.md",
+      "title": "Conversational AI: Inside Rasa's open source approach",
+      "excerpt": "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
+      "originalUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
+      "publishedDateTime": "2020-12-11T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
       "title": "FPGA chips are coming on fast in the race to accelerate AI",
       "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
@@ -1060,8 +1112,8 @@
       "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
       "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ",
-      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ",
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
+      "originalUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1466,59 +1518,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029.md",
-      "title": "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029",
-      "excerpt": "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T23:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

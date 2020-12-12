@@ -43,6 +43,43 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Manufacturers navigate COVID-19 with AI, cloud and robotics, says Google study"
+    excerpt: "Manufacturing firms around the world have responded to the COVID-19 pandemic by accelerating their investments in disruptive digital technologies such as artificial intelligence, robotics and cloud platforms,"
+    publishedDateTime: 2020-12-10T14:52:00Z
+    webUrl: "https://siliconangle.com/2020/12/10/study-manufacturers-navigate-covid-19-ai-cloud-robotics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 65
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-10_074458.png"
+        width: 1024
+        height: 529
+        isCached: true
+  - title: "How AI is Helping the Covid-19 Vaccine Roll-Out"
+    excerpt: "A dvanced technologies such as artificial intelligence, machine learning, and natural language processing have been deployed in the battle against Covid-19 since the pandemic’s earliest days. It started with the ability of AI to track the spread of the disease in order to limit the number of positive cases."
+    publishedDateTime: 2020-12-09T15:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-ai-is-helping-the-covid-19-vaccine-roll-out-2020-12-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "NUS researchers derive optimal drug combination against COVID-19 using AI"
+    excerpt: "NUS researchers found that the optimal drug therapy was a combination of the drugs remdesivir, ritonavir, and lopinavir at specific doses."
+    publishedDateTime: 2020-12-10T04:57:00Z
+    webUrl: "https://www.connectedtoindia.com/nus-researchers-derive-optimal-drug-combination-against-covid-19-using-ai-8689.html"
+    type: article
+    provider:
+      name: Connected To India
+      domain: connectedtoindia.com
+    quality: 38
+    images:
+      - url: "https://prod-c2i.s3.amazonaws.com/articles/promo_large/xxhdpi/16075764185fd1ab6294860.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "B+NE1lmMTbbzLQxd3yXK/0tpOfyCeGTril9mokz76JE/i3k25cc35TP8dgukNq6vcb1gfAoAYDohRSecXJe+j30YCYuA6CkzdQDtvDlN8zqw4xfigDVbXikbi1gzvecbgSLGCxuItNtOtmXSZ4uKgOabkwsRdSZSv6KsveP1khL49eXfuvfNdeet/aMWLTF94jz3eo72aMAs34zQWecbViRjTfRlJdrlkqD0ZZ6bZCnLyPceMHTgfV8I833w9/V2uc2Cab5fmV29UNWEjTgT67rbxqnzucHF2TZPAIApmVrMbuFJVX6iFWh9kuel6SyxRAacFl0uO98QFon7vck6Id3ZPPo278qzLE54CVJAzSd1D1NS6e1loERUBX4F1p9bBIrvwXmpxAUBLJoXJfQ29zW8/RBp6aTvEa+jzIdqee7/VdbnhaMAyZdIuV5pLB1GljJZO4aE/vhDfqwT22ohd7qPnM/REq2Ls7Hi/amkhlwqnWw76WdJzy8Qlod1NNBOEWr+at03dFIwNniXScBmVQ==;kwt8trCu0MhNSvRViSkmOA=="
 ---

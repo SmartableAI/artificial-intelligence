@@ -59,22 +59,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "Uber Gives Up on the Self-Driving Dream"
-    excerpt: "The ride-hail giant invested more than $1 billion in autonomous vehicles. Now it’s selling the unit to Aurora, which makes self-driving tech."
-    publishedDateTime: 2020-12-08T06:15:00Z
-    webUrl: "https://www.wired.com/story/uber-gives-up-self-driving-dream/"
-    ampWebUrl: "https://www.wired.com/story/uber-gives-up-self-driving-dream/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/uber-gives-up-self-driving-dream/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/5fce7c5336f8a02c47d79209/master/pass/Business-Aurora-Uber-AV-1195837073.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Uber is getting rid of its self-driving car operation."
     excerpt: "Uber, which spent hundreds of millions of dollars on a self-driving car project that executives once believed was a key to becoming profitable, is handing the autonomous vehicle effort over to a Silicon Valley start-up,"
     publishedDateTime: 2020-12-08T11:13:00Z

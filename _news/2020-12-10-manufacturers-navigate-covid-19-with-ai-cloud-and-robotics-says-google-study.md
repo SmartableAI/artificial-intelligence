@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Aftermath Of COVID-19: Future Of Logistics Reimagined With AI"
-    excerpt: "With the waves of disruption slowly settling, logistics firms are now actively on the hunt for creative ways to optimize their operations"
-    publishedDateTime: 2020-12-08T06:33:00Z
-    webUrl: "https://www.entrepreneur.com/article/361169"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/361169"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361169"
+  - title: "Artificial Intelligence Just Revealed a Potential Concern for COVID Vaccine Makers"
+    excerpt: "Machine learning and artificial intelligence are solving problems that we never thought possible. Just this week, a unit of Alphabet -owned Google -- DeepMind -- used the approach to solve a mystery about how proteins fold that had vexed scientists for 50 years."
+    publishedDateTime: 2020-12-09T14:33:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1607409180-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603651%2Fcovid-19-vaccine-vials.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI platform finds best combination of available therapies against COVID-19"
+    excerpt: "A team of researchers from the National University of Singapore (NUS) has utilized a ground-breaking artificial intelligence (AI) platform to derive an optimal combination of available therapies against SARS-CoV-2,"
+    publishedDateTime: 2020-12-10T18:42:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-ai-platform-combination-therapies-covid-.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-12-ai-platform-combination-therapies-covid-.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-ai-platform-combination-therapies-covid-.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd21d91d80dc.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How AI is Helping the Covid-19 Vaccine Roll-Out"
     excerpt: "A dvanced technologies such as artificial intelligence, machine learning, and natural language processing have been deployed in the battle against Covid-19 since the pandemic’s earliest days. It started with the ability of AI to track the spread of the disease in order to limit the number of positive cases."

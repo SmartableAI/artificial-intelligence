@@ -2,6 +2,248 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
+      "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
+      "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP",
+      "publishedDateTime": "2020-12-02T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech.md",
+      "title": "Sight Tech Global is Live! Join top AI technologists and accessibility innovators discuss the future of assistive tech",
+      "excerpt": "Today and tomorrow, from 8 a.m. to 12:30 p.m. the first annual, virtual event Sight Tech Global is streaming on TechCrunch. The event looks at how AI-based technologies are rapidly changing the field of accessibility,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/",
+      "originalUrl": "https://techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/sight-tech-global-1000px-v2.jpg?w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/02/sight-tech-global-is-live-join-top-ai-technologists-and-accessibility-innovators-discuss-the-future-of-assistive-tech/amp/",
+      "publishedDateTime": "2020-12-02T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-wyatt-earp-or-ringo-starr-facial-recognition-meets-its-match-with-old-west-photos.md",
+      "title": "Wyatt Earp or Ringo Starr? Facial Recognition Meets Its Match With Old West Photos",
+      "excerpt": "Amateurs collectors use software to identify famous figures, but experts are skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
+      "originalUrl": "https://www.wsj.com/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-266353/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-software-old-west-outlaw-photos-11606922350",
+      "publishedDateTime": "2020-12-02T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows.md",
+      "title": "US parents now more accepting of robots in children's healthcare, study shows",
+      "excerpt": "The COVID-19 pandemic has forced everyone to be more trusting of robots and AI in healthcare. Tufts professor discusses changes in attitudes toward technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "originalUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/02/b0b14d54-ced1-4968-a198-84015744bb49/resize/1200x/98f2f39d9b8b7d497b578adc563e2d6b/istock-1060861828.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "publishedDateTime": "2020-12-02T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
+      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
+      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
+      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
+      "publishedDateTime": "2020-12-02T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
       "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
       "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
@@ -973,248 +1215,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
-      "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
-      "excerpt": "The online meet-up ' 10X Extension in Luxembourg ' held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:   (Graphic: Business Wire) The meet-up was organized for the purpose of business matching between the startups of the Seoul Fintech Lab that wish to enter the European market and investors and financiers in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success/article_d8343a16-1e9e-543b-bbea-6fca15633df2.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success/article_d8343a16-1e9e-543b-bbea-6fca15633df2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/01/001cdcb4-5558-50ff-9281-772eb269301e/5fc75176aef04.image.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-massachusetts-lawmakers-pass-state-wide-police-ban-on-facial-recognition.md",
-      "title": "Massachusetts lawmakers pass state-wide police ban on facial recognition",
-      "excerpt": "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "originalUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
-      "publishedDateTime": "2020-12-01T22:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video.md",
-      "title": "Google’s AI experiment syncs every ‘Bad Guy’ song cover in an endless video",
-      "excerpt": "We’ve seen some cool AI-based musical experiments from Google’s team recently, including a virtual piano and a voice-to-music converter. The company’s latest experiment is a bit different: an infinite version of Billie Eilish’s hit song,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-02-at-10.33.59-AM-e1606885653487-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/02/googles-ai-experiment-syncs-every-bad-guy-song-cover-in-an-endless-video/amp/",
-      "publishedDateTime": "2020-12-01T21:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-using-cameras-and-ai-to-build-an-automatic-litter-detection-system.md",
-      "title": "Using Cameras And AI To Build an Automatic Litter Detection System",
-      "excerpt": "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "originalUrl": "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system",
-      "publishedDateTime": "2020-12-01T19:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
-      "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
-      "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png",
-          "width": 797,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
-      "publishedDateTime": "2020-12-01T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

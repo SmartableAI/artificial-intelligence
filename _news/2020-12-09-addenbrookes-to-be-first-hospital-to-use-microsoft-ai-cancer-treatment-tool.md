@@ -161,6 +161,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
+    excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
+    publishedDateTime: 2020-12-10T20:19:00Z
+    webUrl: "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/41/2020/12/vlt-brunier-nuit-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
     publishedDateTime: 2020-12-11T14:47:00Z

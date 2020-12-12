@@ -25,103 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Plans to Open Second Region in Australia"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in"
-    publishedDateTime: 2020-12-08T06:44:35Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-plans-to-open-second-region-in-australia-2020-12-07"
+  - title: "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy"
+    excerpt: "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,"
+    publishedDateTime: 2020-12-09T17:02:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: AWS
+      domain: aws.amazon.com
     quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
-    publishedDateTime: 2020-12-08T15:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Australia Post uses machine learning to tell you when deliveries will arrive"
-    excerpt: "Customers are now provided with a two-hour window for when a delivery will arrive."
-    publishedDateTime: 2020-12-10T06:35:00Z
-    webUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
-    publishedDateTime: 2020-12-10T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS Announces Plans to Open Second Region in Australia"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
-    publishedDateTime: 2020-12-08T17:23:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-western-australia-oceania-e58c102140d442969c2e50fc92bfb63c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Boeing tests autonomous, artificial intelligence-enable jets in Australia"
-    excerpt: "In this week’s roundup from the Association for Unmanned Vehicle Systems International, which highlights some of the latest news and headlines in unmanned vehicles and robotics, Boeing makes significant progress in the development of its autonomous systems technology and drones recreate accident scenes for analysis by law enforcement and use in legal cases."
-    publishedDateTime: 2020-12-11T20:49:00Z
-    webUrl: "https://www.vision-systems.com/embedded/article/14188942/boeing-tests-autonomous-artificial-intelligence-enable-jets"
-    type: article
-    provider:
-      name: Vision Systems Design
-      domain: vision-systems.com
-    quality: 38
-    images:
-      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2020/12/Boeing_High_res_Cloncurry.5fd3d8797d94d.png?auto=format&fit=max&w=1200"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Australia’s Former Defense Minister Urges Recognition of Artsakh"
-    excerpt: "Australia’s former Defense Minister, Joel Fitzgibbon, used a speech in Parliament to urge national recognition of the Republic of Artsakh as the pathway to a lasting peace,”"
-    publishedDateTime: 2020-12-10T14:56:00Z
-    webUrl: "https://asbarez.com/199078/australias-former-defense-minister-urges-recognition-of-artsakh/"
-    type: article
-    provider:
-      name: Asbarez
-      domain: asbarez.com
-    quality: 24
-    images:
-      - url: "https://asbarez.com/wp-content/uploads/2020/12/Joel-Artsakh-feature.jpg"
-        width: 576
-        height: 357
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1572-12.jpg"
+        width: 800
+        height: 492
         isCached: true
 
 secured: "BbaGLWHkhrRpPCUZQbfLvibXGG2QlYQNKmSVPl0GQ6LmxO1SR12DnRDx2A1D5tHL6puG36J3cZaMevwkij0rs3MmqmrNs5Uw0YVrI5Lr5ADZZ8Rm/m2m0YWHN8SKmmRECiz7x5zMZaet/pS0c62G3JUUFWS0r+00wbNxdpgPTvMSsNk5sJd2r+3QIOZQctpace9JxFR49pDdd5/9YQgbduPI9r7F5pN9dcjHrfcgJLznvYr8GK4yGUhzUDCT+ZDzjUw7Dy0/6u1DvCtEIHXeRPiFfRDr0fftac3hGFKV2uowOUnj9Kq94C5ZBrHFma5URef36zYb4japcDMz6GnC5Ktl0ubexkFDyZqhz3cw9lA=;X3KT5PmXSPXOGJ7xnTpGNQ=="

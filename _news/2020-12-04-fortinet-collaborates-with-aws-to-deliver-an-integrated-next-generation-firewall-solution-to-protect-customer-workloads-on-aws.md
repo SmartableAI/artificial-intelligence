@@ -1,53 +1,30 @@
 ---
 category: news
 title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to Protect Customer Workloads on AWS"
-excerpt: "John Maddison, EVP of Products and CMO at Fortinet“ Enterprises are increasingly looking to integrate both native cloud security and Fortinet’ s enterprise-class cloud security offerings to protect their workloads on AWS."
-publishedDateTime: 2020-12-03T18:44:00Z
-originalUrl: "https://www.nasdaq.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall"
-webUrl: "https://www.nasdaq.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall"
+excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outposts, AWS Network Firewall and AWS Transit Gateway SUNNYVALE, Calif., Dec. 03, 2020 (GLOBE NEWSWIRE) -- John Maddison,"
+publishedDateTime: 2020-12-04T11:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
+webUrl: "https://www.marketwatch.com/press-release/fortinet-collaborates-with-aws-to-deliver-an-integrated-next-generation-firewall-solution-to-protect-customer-workloads-on-aws-2020-12-03"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Deloitte and AWS Professional Services drive customer cloud migration and app modernization"
-    excerpt: "Deloitte collaborates with AWS Professional Services on cloud migration and app modernization for enterprise and public sector customers."
-    publishedDateTime: 2020-12-04T00:47:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/04/deloitte-aws/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 29
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Fortinet Collaborates with AWS to Deliver an Integrated Next-Generation Firewall Solution to ..."
-    excerpt: "Fortinet Continues to Build Cybersecurity Solutions with AWS Services, including AWS Gateway Load Balancer, AWS Outpost s , AWS Network Firewall and AWS Transit Gateway John Maddison, EVP of Products and CMO at Fortinet “Enterprises are increasingly looking to integrate both native cloud security and Fortinet’s enterprise-class cloud security offerings to protect their workloads on AWS."
-    publishedDateTime: 2020-12-03T19:06:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-consumer-protection-and-advocacy-corporate-news-environment-and-nature-a5a1a206866be5979578930caf0367b0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "8q3SOXlG10l787uDJE4VJLOG2Fk/OeOFo1Dhs5nd39wex60BZ4n8X048Mj8xr27sc31GULwTxwF/iwOSsGHm9tlS1GmGQiaJe0jk+T+9dkUWOW9eHmCiX887u61ql4v2VA8JeSkguvFuhscO7zfRt2R58AjIo6RzJQPopdvQeACA1z4Tk4aXDzMhNJjjNgBTKLE7eC1gSZGQ8kfptiSDchxVSL001V81yDDVRmktKCivjOv4H8yIIBTz7Y4EXJ+duVJFq29D8FeJ77CTGZqSm1GEhnZ8tB0MAjw6F8wtBJA8IH/FuipxI6SJbbDFBAZkL8grHgc981Feww0+kmhg/e2zHLltXsWEHuwC2m8BpGc=;/9rHF8OecVWxWrSZIs9efA=="
+secured: "UH2MgU5JKbGROkm8CslfP1wWPcP/wUwyQ0866sNXUgHpuO4oV2XVA46QVChwTiB8TbGtwb1VpXZBTJjWqkOrlH2CceDM8f+jKlIVnUjw2hV8Ik3WZeWJYNyWyVv2sqSguGY15dRhyqe8yv7MDZaYah7iil0qOKJGVq/atN6lAVfzD6G/pIl6NedKhxHo5ObaeAobaSG1GMTeRP+L+lKyARgtyO0YZeVqMP4Gcpgs47FXCQIvuarLkaYkMin4YsB6QmItG2RYb/TbDNGTX8gQ6gw1DX85mBII+Nf6dLyupqwfott9pcXGQYZ1B2rdZzW7W5jKGrgfDzEpYqq0HQhRhCzdKCFcAWUBxzO0AdtdEug=;LyqzFnxnJv2sivCRZkpWGw=="
 ---
 
