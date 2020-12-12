@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -114,33 +114,17 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Artificial-Intelligence Software Company C3.ai Raised Its Expected IPO Price Range"
-    excerpt: "The provider of artificial-intelligence software now expects to sell an offering of 15.5 million shares at between $36 and $38 a share."
-    publishedDateTime: 2020-12-07T19:11:00Z
-    webUrl: "https://www.barrons.com/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-software-company-c3-ai-raised-its-expected-ipo-price-range-51607367478"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 51
-    images:
-      - url: "https://images.barrons.com/im-269385/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
     excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
     publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
         width: 1200

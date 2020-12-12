@@ -2,6 +2,100 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-11-03-this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon.md",
+      "title": "This supermarket has purchased two robotics firms to take on Amazon",
+      "excerpt": "UK online supermarket Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "originalUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
+      "publishedDateTime": "2020-11-03T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-inside-paramounts-2020-survival-strategy-earn-more-selling-off-films-than-releasing-them.md",
+      "title": "Inside Paramount’s 2020 Survival Strategy: Earn More Selling Off Films Than Releasing Them",
+      "excerpt": "Paramount's strategy to sell off some of its films while theaters remain shut down may be paying off for the studio.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.thewrap.com/inside-paramounts-2020-survival-strategy-earn-more-selling-off-films-than-releasing-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheWrap",
+        "domain": "thewrap.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-a-new-class-is-in-session-how-to-incorporate-ai-in-education.md",
       "title": "(A New) Class Is In Session: How To Incorporate AI In Education",
       "excerpt": "It’s time for schools to reevaluate their approach to teaching kids about a technology that’s only becoming more commonplace.",
@@ -1052,92 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-fintech-ai-training-courses-for-zain-bahrain-employees.md",
-      "title": "FinTech, AI training courses for Zain Bahrain employees",
-      "excerpt": "FinTech is a 21st-century business model and a brand-new language, with the evolution of AI showing an upward growth trend, we encourage all our staff to take a leap of faith, learn and embrace this new concept because it here to stay.\" Altajer said the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/FinTech_AI_training_courses_for_Zain_Bahrain_employees-SNG_188946077/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/FinTech_AI_training_courses_for_Zain_Bahrain_employees-SNG_188946077/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-ibm-watson-gets-a-factory-job.md",
-      "title": "IBM Watson Gets a Factory Job",
-      "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_2.PNG",
-          "width": 800,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

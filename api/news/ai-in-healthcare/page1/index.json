@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-12-is-googles-healthcare-play-a-dark-horse.md",
+      "title": "Is Google's Healthcare Play a Dark Horse?",
+      "excerpt": "Healthcare could be the industry where Alphabet finds its next big product, and the company's strategy is painting a clear picture of where it might materialize. Image source: . As of January 2020, Alphabet had bought more digital health start-ups than any other company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604158%2Fgettyimages-1278542600.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
+      "publishedDateTime": "2020-12-12T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented.md",
       "title": "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented",
       "excerpt": "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,",
@@ -196,6 +248,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-qa-aws-looks-to-support-healthcare-startups-through-tailored-acceleration-initiatives.md",
+      "title": "Q&A: AWS looks to support healthcare startups through tailored acceleration initiatives",
+      "excerpt": "Over the past year alone, Amazon has provided more than a billion dollars in credits through AWS Activate program to help startups grow and scale their businesses, and they are launching a new program called AWS Health Accelerator to address the specific needs of healthcare startups.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/09/qa-aws-looks-to-support-healthcare-startups-through-tailored-acceleration-initiatives-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/09/qa-aws-looks-to-support-healthcare-startups-through-tailored-acceleration-initiatives-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Manpreet-Mattu-Michael-Jackson-AWS-re-Invent-2020.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "AI in Healthcare"
       ]
@@ -1269,101 +1365,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-us-approves-regeneron-antibody-treatment-given-to-trump.md",
-      "title": "US Approves Regeneron Antibody Treatment Given to Trump",
-      "excerpt": "The FDA has approved Regeneron's antibody cocktail treatment for COVID with an Emergency Use Authorization. A Covid-19 antibody therapy used to treat President Donald Trump was approved by the US drug regulator on Saturday for people who aren't yet hospitalized by the disease but are at high risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
-      "originalUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/regeneron_stock_photo_covid_injection_treatment_medicine____Bernard_Chantal___Dreamstime.5fbb5faa14bb3.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-22T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today.md",
-      "title": "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today",
-      "excerpt": "Healthcare has not only been affected by the global coronavirus pandemic, but has simultaneously experienced an accelerated digital transformation. Here we look at the key healthcare trends for 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbb52f70db22d77b12a69f1%2F0x0.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
-      "publishedDateTime": "2020-11-22T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

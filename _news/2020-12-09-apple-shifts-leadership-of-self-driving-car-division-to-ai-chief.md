@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2020/12/Screen-Shot-2020-12-09-at-12.03.11-PM.png?w=1280"
         width: 1280
         height: 689
+        isCached: true
+  - title: "Apple is making self-driving cars"
+    excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
+    publishedDateTime: 2020-12-12T12:23:00Z
+    webUrl: "https://www.esquireme.com/content/50043-apple-is-making-self-driving-cars"
+    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
+    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
+    type: article
+    provider:
+      name: Esquire Middle East
+      domain: esquireme.com
+    quality: 44
+    images:
+      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
     excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."

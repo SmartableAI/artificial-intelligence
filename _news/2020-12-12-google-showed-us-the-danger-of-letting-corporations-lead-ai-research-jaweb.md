@@ -77,6 +77,22 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Google showed us the danger of letting corporations lead AI research"
+    excerpt: "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind."
+    publishedDateTime: 2020-12-12T09:04:00Z
+    webUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
+    ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 89
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
     excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
     publishedDateTime: 2020-12-10T04:44:00Z
@@ -92,22 +108,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Google showed us the danger of letting corporations lead AI research"
-    excerpt: "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind."
-    publishedDateTime: 2020-12-12T09:04:00Z
-    webUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
-    ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google employees say AI researcher did not resign, despite what exec claims"
     excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
@@ -156,22 +156,6 @@ related:
       - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google employees dispute company's claim that AI researcher Timnit Gebru resigned"
-    excerpt: "A group of employee organizers at Google on Monday responded to the departure of Timnit Gebru, a star artificial intelligence researcher who said she was fired last week after co-writing a research paper critical of the company's AI systems."
-    publishedDateTime: 2020-12-07T21:01:00Z
-    webUrl: "https://www.cnet.com/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-employees-dispute-companys-claim-that-ai-researcher-timnit-gebru-resigned/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 82
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/FxPoIKH-bQ1gv2HCASbpaQQQZ_A=/1200x630/2020/12/03/dd71df12-2ccc-4ddd-b925-f3a7752267bd/gettyimages-1028811898.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’"
     excerpt: "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms."
@@ -340,6 +324,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nBQ6SbXKEHVbxzcPY+WjEFOBJGvwxceqyPy3BPtSq9RgZQ02bgIs0HQdJA28DwIs5lLag++Y+uWfRhcXVloKHXOCtBSXw3mmNCjLCbNmbocJbxc5U4JQ6Nm/UxUB7VzapwCNeXxSG1/UoKnScv5M33UTC0J5kNdmOJuhlzVT2mDjr3tceKZtwleXSuL5eejF6eCjub8gQM1CjUby30xYKZ+j565dXdnv9dadBuaPNfCxa741BGxMhpbD5j+8yxW/2LTcNDU1n+kenl21rSajcRU7uGJivvL52HNZISuaYSnSWgHuzE59jhebOw81KKR2MrWaPPW7W5Q4BhnICaRFiJrjo0nPTt04cbEI3wa47TY=;WqNhI/1gLzPekNeBHV1yDA=="
+secured: "cMaLtKOcxFAO+vMvHDQ4deeh0CKfINnFRANUehRFPftywLoCzBVzEdT056hO4Ux3dyr50atXLvBuzD9H0PRlNqgEVt48+r4tWg1bC5XwtRsxEvTqWRvRF3N/KzMRUIpUTI9ORxsMDHd+SEHuWjhImGMXUWFnQvwuv95J43spy4rME03Eurd1P4M+tKCJ+vBVgUGLdrbkfMZRUxbi+192H7Syog1ofrtsyv1YCwSqneyTy+CX0kLtiK4XRd8z2dYHUmPtGXxJSK9qC3BwLBYWXgB1MId607MjVHuNowqbMVxwG9QG7aon5fEr1T9990w/D125QYPIEpUQ6C8m+y9q6X0a4OGGrcxskxvkBvpj6qr7x2A2g3f/mABcLDMx1GhRmUfL3zq51ZvCnWn2hykbkWIsL8tGnQ+5TtfXamgVePSQq8G52sDNBt7t27SiF8hjwhrXshuam/+saKASoQle1JOa3LcukTbANyS+D39ih/9PW04XAXvH/IJyhP9mtB+yyDGOjo+hMNGAYgNXQzJ7wQ==;0eBCaECJeX87mZ6OG7KZUQ=="
 ---
 

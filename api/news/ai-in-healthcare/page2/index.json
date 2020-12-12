@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-23-us-approves-regeneron-antibody-treatment-given-to-trump.md",
+      "title": "US Approves Regeneron Antibody Treatment Given to Trump",
+      "excerpt": "The FDA has approved Regeneron's antibody cocktail treatment for COVID with an Emergency Use Authorization. A Covid-19 antibody therapy used to treat President Donald Trump was approved by the US drug regulator on Saturday for people who aren't yet hospitalized by the disease but are at high risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "originalUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/regeneron_stock_photo_covid_injection_treatment_medicine____Bernard_Chantal___Dreamstime.5fbb5faa14bb3.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today.md",
+      "title": "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today",
+      "excerpt": "Healthcare has not only been affected by the global coronavirus pandemic, but has simultaneously experienced an accelerated digital transformation. Here we look at the key healthcare trends for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbb52f70db22d77b12a69f1%2F0x0.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
+      "publishedDateTime": "2020-11-22T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high.md",
       "title": "Artificial Intelligence and Robotics ETF (ROBT) at a 52-Week High",
       "excerpt": "For investors looking for momentum, First Trust Nasdaq Artificial Intelligence and Robotics ETF ROBT is probably a suitable pick. The fund just hit a 52-week high and is up 96.8% from its 52-week low price of $22.",
@@ -1254,101 +1349,6 @@
         "name": "Ghanaweb.com",
         "domain": "ghanaweb.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-biotech-accelerating-innovation-in-health-care.md",
-      "title": "BioTech: Accelerating innovation in health care",
-      "excerpt": "The answer will likely come from advances initiated by biotech startups, aided by new data processing and artificial intelligence ... generally a new innovative therapy is a long and complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Rafaele-Tordjman_Interview-Stills8_selected.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "publishedDateTime": "2020-11-10T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-artificial-intelligence-technology-solutions-receives-first-auto-dealership-order.md",
-      "title": "Artificial Intelligence Technology Solutions Receives First Auto Dealership Order",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly owned subsidiary Robotic Assistance",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "publishedDateTime": "2020-11-10T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

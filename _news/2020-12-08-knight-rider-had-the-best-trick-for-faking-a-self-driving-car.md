@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Luminar Is Overhyped: These Self-Driving Car Stocks Are Better Buys Right Now"
+    excerpt: "Investors are right in getting excited about the potential for self-driving cars. But these stocks are better bets to take advantage of that potential."
+    publishedDateTime: 2020-12-12T12:12:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604448%2Fsmart-car-road-grid-autonomous-driving-source-getty.jpg&w=1200&op=resize"
+        width: 1200
+        height: 769
+        isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
     publishedDateTime: 2020-12-11T05:10:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-09T02:33:00Z
 originalUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
 webUrl: "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Augury, the Israeli AI start-up that detects factory errors ahead of time"

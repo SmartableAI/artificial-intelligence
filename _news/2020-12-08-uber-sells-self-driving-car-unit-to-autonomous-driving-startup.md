@@ -666,17 +666,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Palo Alto unicorn Aurora Innovation snaps up Uber's self-driving vehicle unit"
-    excerpt: "A complex deal between #AuroraInnovation and #Uber will reportedly value Aurora at about $10B when it's done, with Uber making a $400M investment and owning a 26% stake in it. #SiliconValley #startup"
-    publishedDateTime: 2020-12-07T19:13:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/07/aurora-innovation-buys-ubers-self-driving-unit.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/07/aurora-innovation-buys-ubers-self-driving-unit.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/07/aurora-innovation-buys-ubers-self-driving-unit.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
   - title: "Uber sells self-driving unit to Aurora, with plans to keep Pittsburgh presence"
     excerpt: "Uber‘s self-driving unit is under new ownership, but it will be heading to a familiar name for Pittsburgh. Aurora Innovation is acquiring Uber Advanced Technologies Group (Uber"
     publishedDateTime: 2020-12-08T23:58:00Z
@@ -761,6 +750,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/xpFbUFYFY0tZccgKbjYkJpTwvv0MYj8ly8NQgvE6ppTj4OBswSQ+Ne4cqMFW5o9Pc27m2/Pyd2aChMG4dUq8rezygFuQ8ldGDrb4MhqlWTjxAGfkLGADUhQcV9AQ+Yq7i4OzxpPiduIQ5W5Tzykk6OnSWgIIpFczFMQSWpeAEaefvgcPI2oLbhM7CdHAgX04zbF1OzRtAnIzDzmUrmdb6aUc9BWCvY1baWVRk/q5D6QNSTH+ThjCLt2vIhZldjTRdhtzSABe11F98LsNKPeGh2Ih6GS7qXP9dogC946ipY5wfXEq12kFAaxuRRvMPkskQKCFxWVXzoUPMhum/I0I6waWWhsLDqxs+xden1S0gs=;/piekcsmXSxYoT/joYsO0Q=="
+secured: "VmoRija/n+3GDddU89MzpKK/5fTWpfedFaoJYm21vF+pyGClt+TUWIvjqsME1sz9MyWhCg9mb1oUi5dA/XaQp89pncLQ62cRn5kaCadXDaxJ8ta4G+UrvtFj4vsjD1KdPQS/KT3SW7JNSaba6HzPPynOP1/H6qZzEC2MgVeRKv7kv8lSTNJZC/5Ni3TRVflYA3N2Z/wzd1OubAgSKuR6yD2aRs7kSTdaJfJNqaHqmdU34nl092MI/2syZSyjKBYR6UFAKFAW1YhQ4YxhPre37wPsuf+0slIB3kIAGb0Dqomi8UmI5MrvrxbYG5pG1VxKLruaFftg4T8D7cN5Ux7T2nQyU5EfMvUF9YIgo1kI/0ppvGJol7nnM9/b4gdMTntXc+jucdXEkg/L4TLF/t+ghXvW4UYqHp6DADu2cUimLUbj4IqMiX//LNIowD/FWWGbIKTB5rKiE7hQxjGfJLtDMsa0XceHvLk6taO94r9bxNrXYBqemtR7wAop4jrtevA2u0royzaNRtvfL+rBgkK+VQ==;DveoT9HxhAS0LieUJoxTlQ=="
 ---
 

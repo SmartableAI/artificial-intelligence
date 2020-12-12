@@ -37,6 +37,15 @@ related:
         width: 701
         height: 526
         isCached: true
+  - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
+    excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR"
+    publishedDateTime: 2020-12-09T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-1029877484"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
   - title: "COVID-19 action plan earns Luther Manor national recognition"
     excerpt: "Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021, according to an annual survey produced by Newsweek magazine. The national news publication recognized 400 skilled nursing facilities out of more than 10,"
     publishedDateTime: 2020-12-09T10:30:00Z
@@ -64,20 +73,6 @@ related:
       - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
         width: 730
         height: 945
-        isCached: true
-  - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-    excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
-    publishedDateTime: 2020-12-09T12:46:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
-        width: 1262
-        height: 660
         isCached: true
 
 secured: "PdPJ8T7s/z9S4/skBzG+IIcoNzav0XHd+2iZpqHGOn5t+j+Z6WY+W1stuDOcuqreBRC2P1xZTVybK/cvbPBBTjO6aW+5//xsHstE4wAiQSTgIZP58ovv+lLqyA9CRQI86SE1NPO6QpfXe5PND3LD3vi/+fLQyDgijSODJWIbTouNnSZpMLlRgxPAv8Kd6rXwqws+2/yQuRbU+Bs0c6lS38PJ8IME2ilxrAZW78yvlKB+OsuW8zjffv3H6GBBUWtFYEFnrscgmoMdCpmhV26h6LUqM5qRbJu5OsXST8lyx6m2an7P7xJsTfSoB5HwNl8yVFA1hglydVv8qHZfh709JT6FMXvVk0P1CKRyfB81tM8=;wfvior/bEsdPxOFBf3Z3mw=="

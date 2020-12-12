@@ -676,17 +676,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Palo Alto unicorn Aurora Innovation snaps up Uber's self-driving vehicle unit"
-    excerpt: "A complex deal between #AuroraInnovation and #Uber will reportedly value Aurora at about $10B when it's done, with Uber making a $400M investment and owning a 26% stake in it. #SiliconValley #startup"
-    publishedDateTime: 2020-12-07T19:13:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/12/07/aurora-innovation-buys-ubers-self-driving-unit.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/12/07/aurora-innovation-buys-ubers-self-driving-unit.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/12/07/aurora-innovation-buys-ubers-self-driving-unit.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
   - title: "After Once Touting Self-Driving Cars, Uber Sells Unit To Refocus On Core Businesses"
     excerpt: "The ride-hailing giant once believed it was crucial to develop autonomous driving technology in-house, and spent billions of dollars on the effort. Now it's letting another company lead the charge."
     publishedDateTime: 2020-12-07T22:38:00Z

@@ -138,6 +138,22 @@ related:
         width: 1280
         height: 689
         isCached: true
+  - title: "Apple is making self-driving cars"
+    excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
+    publishedDateTime: 2020-12-12T12:23:00Z
+    webUrl: "https://www.esquireme.com/content/50043-apple-is-making-self-driving-cars"
+    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
+    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
+    type: article
+    provider:
+      name: Esquire Middle East
+      domain: esquireme.com
+    quality: 44
+    images:
+      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple Allegedly Discussing Apple Car With Automotive Suppliers, TSMC Working on 'Self-Driving' Chips"
     excerpt: "Though there haven't been many rumors about the Apple Car in recent months, work on the project is still ongoing. Following news from"
     publishedDateTime: 2020-12-09T18:19:00Z

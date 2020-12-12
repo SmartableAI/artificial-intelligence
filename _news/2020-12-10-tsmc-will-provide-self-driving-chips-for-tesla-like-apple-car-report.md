@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Luminar Is Overhyped: These Self-Driving Car Stocks Are Better Buys Right Now"
+    excerpt: "Investors are right in getting excited about the potential for self-driving cars. But these stocks are better bets to take advantage of that potential."
+    publishedDateTime: 2020-12-12T12:12:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604448%2Fsmart-car-road-grid-autonomous-driving-source-getty.jpg&w=1200&op=resize"
+        width: 1200
+        height: 769
+        isCached: true
   - title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
     excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
     publishedDateTime: 2020-12-08T14:43:00Z

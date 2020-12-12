@@ -3,8 +3,8 @@ category: news
 title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
 excerpt: "Healthcare Organizations Already Using Automation Still Have High Levels of Confusion Between Robotic Process Automation and Artificial Intelligence. SOUTH SAN FRANCISCO, Calif., Dec. 10, 2020 /PRNewswire/ -- Alpha Health,"
 publishedDateTime: 2020-12-10T13:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2/gallery/f792454456c59bfa84a239b02d342365"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2/gallery/f792454456c59bfa84a239b02d342365"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2"
 type: article
 quality: 48
 heat: 48
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "+rMC9McHCB84//ClfE46dkQ9tarAaVM7O+uzTHWCmMOp+BPtrGyL3LcQiG14y74tuprD3/cssMFGhFcYCpyiMTNl75BlBYfOrkb87qH8X9ZQoiZwVn2nyZOc9AeK4/WFMJtjbzVfMAK9G6RpLA7OMfp7r3/dXqEQ2a9KC35wRE6fMuc0ODZfXeLicAN95evcQlRn0iSzY49+2Mv9h4WihB/gQzyMdAyo5e/dhcgDAHA/sAegpDV2tgoqF3tPyk5wthCjwFyRghLQQWTORvT9g6VSdonyzYlBc5GISnqyC1oKffV07GYTYmlVvqIhws5uOQh4G8Ix3s0JYRD7vk+3ydzr1H5N8WYrNyM5V3IjCEU=;3z0E/mEbFIaq16/+avtLgg=="
+secured: "9bnVxouQPKUmVTW3p5ky8qcg03f2DtinIfpg0Zz3vWxUu5mwXZ+3O78wUfhJa/cCAEupM2FFvKLQPOGtfhvAxulxriw/2wI9iemtjJQzTFDqZO1sPQBIcEWIoaEpwva/ti+HGtVotHsvDWW3hP5d46cpUMyyQ9Oz0lyYWDE9sN/GhoRxaEf13HSm87YwGPuQ5B7fbR6fs6/kzP6VV5JBxZMAvqcqH3Ssr6me8id5SH6e0I9siI7N7OosjL2loILYqvxoCdMYBIcz/cSje5SgRkajlaZ7d09GkJwEziFBli+dsJPkGedUIm5GDJO800bSSq0XjzQzjhn5Yt9We0uzBncEAxHBBP1cARF3F2EssQI=;wYw+qy2uGMHjfjLUGLWdIA=="
 ---
 
