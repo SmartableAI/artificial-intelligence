@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "slFWfJUTRwNvHd9aZeueaNjkNtL5Q5TZ+4CY/U3JhAVh0VW6wBhiBTjmepWtooul4H539axnxP9EETqbQaNggeyNnPGC91hiuMgcc384IyczvfXjKo2lcHOWuKfRmsIz10VTpiKKn35bSMnnSRJksiNZ4XEcq9xToHZcQ1q4MPDNNw5BY7esBDZF6XnXT6GleCg4wHUI7/aS3ovIN5HomHFbQl6llq3HsLqQwv9//Xe8yonypRbz4BKs+402DZVijpMGR16HydVgKTmPf7ieOfWaBvtTSA3nPs13CTBd18ehbTDEiBH1IpSewWIWUlR6QLksjB1/OBHsif0b4t5ekY9ddaxMZhvBGW4oSpBFwRfk+CKQKI54s0feMMzWVHt3Gr1/UbWsidt85ojmCs8UOM8oy6ex12lU5D6zUQ7T8ITaubGWqeASsQrAL0IRw98AFPurQXR9KhCzT+FDjbHDE6AFVqMkLKtmwjFSpHl2ehpcHryvTGBXao5A9r5u+d+pxcFNisaacywScwgHT2Hu0Q==;9N4+sAiiRCOpIroXpRPTrQ=="
+secured: "ARLHWdjFKYnAYaCqjUKUYRXbOnpr7mXprR6+iE/eKPHMdbDnfxXr6RTvUIIU1y6pBcxxtfnnJGsjQPPf3pWSST6K0F+k9VAid8gp2QGlM/NZEQuL5hCrWtT+Y0LjkXHYbuH8iWvzcc/X1JCPzrobJoF9z8HpMhICo/e1OPUIGc+l3LNKjRVBYXOtoGxFzcKTIjgbVy9bRRJ7KetlO8L6isF4dsepyzufgZHvb3y2Im0LIC+XTOV4VCBxUZZ0W+xapWSM1AXQXqSvvCJ6s7X35+3vO6K3ZdqwjUQk9AtuvP5AjbgkVTAVe8o16E0AxfN6+KnOZKJmSoNynbKEj5MsxPyNvXxJfHpjyRBtntjrTmQ=;1BouRgYYMBh1F+g2tfvB+w=="
 ---
 

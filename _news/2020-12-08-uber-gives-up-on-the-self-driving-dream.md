@@ -79,54 +79,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Uber Kicks Its Self-Driving Car Unit Out the Side Door"
-    excerpt: "Uber is bailing on its self-driving car unit, the Uber Advanced Technologies Group, and will sell it off to driverless trucking-focused startup Aurora in a deal that could create a combined firm valued at $10 billion,"
-    publishedDateTime: 2020-12-08T04:19:00Z
-    webUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936"
-    ampWebUrl: "https://gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-kicks-its-self-driving-car-unit-out-the-side-door-1845828936/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 74
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ojyy5rpvc3vnm8yyyf7b.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Uber sells ATG self-driving business to Aurora at $4 billion"
-    excerpt: "Uber Technologies Inc is selling its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, the companies said on Monday, in a move that would accelerate the ride-sharing company's goal to achieve profitability."
-    publishedDateTime: 2020-12-08T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-atg-idUSKBN28H2RX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H2RX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H2RX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543739366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB61JR"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Uber Sells Self-Driving Car Unit to Autonomous-Driving Startup"
-    excerpt: "As part of the deal for the self-driving car unit, known as Advanced Technologies Group, or ATG, Uber will make a $400 million cash investment in Aurora Innovation."
-    publishedDateTime: 2020-12-08T03:29:00Z
-    webUrl: "https://www.wsj.com/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167?mod=hp_lista_pos3"
-    ampWebUrl: "https://www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uber-sells-self-driving-car-unit-to-autonomous-driving-startup-11607380167"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-269524/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Uber didn’t sell its self-driving dream — it’s just outsourcing the hard work"
     excerpt: "Uber is selling its self-driving division to autonomous vehicle startup Aurora. It's going to get a stake in company, suggesting it's not giving up."
     publishedDateTime: 2020-12-08T13:57:00Z

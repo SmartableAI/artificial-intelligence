@@ -107,6 +107,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
+    excerpt: "OutSystems, a global leader in modern application development platforms, today announced it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration will enable OutSystems to deliver deeper integrations with AWS services in the OutSystems Cloud,"
+    publishedDateTime: 2020-12-08T08:47:00Z
+    webUrl: "https://www.financialbuzz.com/outsystems-announces-strategic-collaboration-agreement-with-aws/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
   - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
     excerpt: "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ..."
     publishedDateTime: 2020-12-08T14:12:00Z

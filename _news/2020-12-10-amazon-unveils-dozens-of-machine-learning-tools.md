@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-unveils-dozen
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-unveils-dozens-of-machine-learning-tools/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

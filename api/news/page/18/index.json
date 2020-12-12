@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-27-us-states-can-succeed-in-ai-by-looking-at-singapore.md",
+      "title": "U.S. States Can Succeed in AI by Looking at Singapore",
+      "excerpt": "Singapore’s ambitious artificial intelligence strategy is a model that U.S. states can learn from as they create their own road maps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore",
+      "originalUrl": "https://www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore?context=amp",
+      "publishedDateTime": "2020-11-27T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-natural-language-processing-nlp-market-key-findings-latest-technology-industry-expansion-strategies-till-2027.md",
       "title": "Natural Language Processing (NLP) Market Key Findings, Latest Technology, Industry Expansion Strategies till 2027",
       "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
@@ -650,6 +692,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-27-artificial-intelligence-in-healthcare-market-drivers-analysis-share-growth-trends-forecast-to-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Drivers, Analysis, Share, Growth, Trends & Forecast to 2025",
+      "excerpt": "A complete picture of the competitive scenario of Artificial Intelligence In Healthcare Market is depicted by this report. The report consists of a vast amount of data about the recent product and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2196951/artificial-intelligence-in-healthcare-market-drivers",
+      "originalUrl": "https://www.openpr.com/news/2196951/artificial-intelligence-in-healthcare-market-drivers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb26639936_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2196951/artificial-intelligence-in-healthcare-market-drivers",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196951/artificial-intelligence-in-healthcare-market-drivers",
+      "publishedDateTime": "2020-11-26T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025.md",
       "title": "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025",
       "excerpt": "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025.",
@@ -1141,101 +1226,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-the-impact-of-machine-learning-ai-on-advertising-in-a-privacy-compliant-age.md",
-      "title": "The impact of machine learning & AI on advertising in a privacy compliant age",
-      "excerpt": "Sian Williams, Audience Strategy and Planning Director at MediaCom North, explains how AI offers a future of increased automation, faster decision-making and ‘hyper-personalisation’ that will make marketing comms more effective and businesses more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age",
-      "originalUrl": "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/features/sianwilliamsmediacom.jpg?itok=sF0_8wva",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp",
-      "cdnAmpWebUrl": "https://www-prolificnorth-co-uk.cdn.ampproject.org/c/s/www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp",
-      "publishedDateTime": "2020-11-26T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prolificnorth.co.uk",
-        "domain": "prolificnorth.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more.md",
-      "title": "7 big data goals for 2021: AI, DevOps, hybrid cloud, and more",
-      "excerpt": "If you're thinking about your big data for next year, here are some goals you should have in mind. In 2021, corporate big data leaders will be looking to improve data quality and turnaround of big data projects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/03/be6e2ec5-94d4-4af1-8d1e-67cb98f0405b/resize/1200x/2d3d59de9e7a930e590aad9592a89fdb/istock-1140691245.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/",
-      "publishedDateTime": "2020-11-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

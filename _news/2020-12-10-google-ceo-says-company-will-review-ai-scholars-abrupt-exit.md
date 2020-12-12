@@ -9,7 +9,7 @@ ampWebUrl: "https://www.arklatexhomepage.com/news/tech-news/google-ceo-says-comp
 cdnAmpWebUrl: "https://www-arklatexhomepage-com.cdn.ampproject.org/c/s/www.arklatexhomepage.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

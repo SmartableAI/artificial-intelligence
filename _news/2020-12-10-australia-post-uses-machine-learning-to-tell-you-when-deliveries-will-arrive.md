@@ -1,27 +1,31 @@
 ---
 category: news
-title: "AWS announces Amazon Forecast Weather Index to provide 14-day predictions"
-excerpt: "Amazon Web Services Inc. today announced the release of the Amazon Forecast Weather Index, which will help developers increase predictive accuracy of machine learning models by including local weather information into demand forecasts for retailers and service providers at no extra cost."
-publishedDateTime: 2020-12-09T18:27:00Z
-originalUrl: "https://siliconangle.com/2020/12/09/aws-announces-amazon-forecast-weather-index-14-day-weather-prediction/"
-webUrl: "https://siliconangle.com/2020/12/09/aws-announces-amazon-forecast-weather-index-14-day-weather-prediction/"
+title: "Australia Post uses machine learning to tell you when deliveries will arrive"
+excerpt: "Customers are now provided with a two-hour window for when a delivery will arrive."
+publishedDateTime: 2020-12-10T06:35:00Z
+originalUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/"
+webUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/"
 type: article
-quality: 53
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/umbrella-801918_1280.jpg"
-    width: 1280
-    height: 853
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg"
+    width: 770
+    height: 578
     isCached: true
 
 related:
@@ -53,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australia Post uses machine learning to tell you when deliveries will arrive"
-    excerpt: "Customers are now provided with a two-hour window for when a delivery will arrive."
-    publishedDateTime: 2020-12-10T06:35:00Z
-    webUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
     publishedDateTime: 2020-12-10T20:03:00Z
@@ -80,6 +70,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS announces Amazon Forecast Weather Index to provide 14-day predictions"
+    excerpt: "Amazon Web Services Inc. today announced the release of the Amazon Forecast Weather Index, which will help developers increase predictive accuracy of machine learning models by including local weather information into demand forecasts for retailers and service providers at no extra cost."
+    publishedDateTime: 2020-12-09T18:27:00Z
+    webUrl: "https://siliconangle.com/2020/12/09/aws-announces-amazon-forecast-weather-index-14-day-weather-prediction/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/umbrella-801918_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "AWS Announces Plans to Open Second Region in Australia"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
@@ -124,6 +128,6 @@ related:
         height: 357
         isCached: true
 
-secured: "BbaGLWHkhrRpPCUZQbfLvibXGG2QlYQNKmSVPl0GQ6LmxO1SR12DnRDx2A1D5tHL6puG36J3cZaMevwkij0rs3MmqmrNs5Uw0YVrI5Lr5ADZZ8Rm/m2m0YWHN8SKmmRECiz7x5zMZaet/pS0c62G3JUUFWS0r+00wbNxdpgPTvMSsNk5sJd2r+3QIOZQctpace9JxFR49pDdd5/9YQgbduPI9r7F5pN9dcjHrfcgJLznvYr8GK4yGUhzUDCT+ZDzjUw7Dy0/6u1DvCtEIHXeRPiFfRDr0fftac3hGFKV2uowOUnj9Kq94C5ZBrHFma5URef36zYb4japcDMz6GnC5Ktl0ubexkFDyZqhz3cw9lA=;X3KT5PmXSPXOGJ7xnTpGNQ=="
+secured: "Taw3ufACOiegxF14gM/xvbgtL9UEhpjpHD3Ehktg+HV6iSKrGPxhLuQVlWV9hB7f1k9MLJ9/DY3SzBd/4UfLWgiyn6dI2xUqk5dGRpKdatlzeHWjD953Ha4KRhf8x1KT89NkuS0Gh9iEHu/sz3e87VdKf75F6sB3eKMSnis39eOVrE73zfbCsR7mClmgu0R8lNafhJAZdMrdDJ2EWxT7ISBDZgaPGCEftGHbOn/wO1tCPyvuz8Xx3ituSAyQmphG2KIpM2VUBS34bcwsuxrUxSnd9gQ9JtiRCk/ZNl/Qt9V/agiVpNjaLkXCOYw+GzPlRYmbSM6Ns1t9Pv4ht9YCvhpevuSxc30s5vkh1w6WiHo=;3uH6DhihmDzgLi5GO9B43A=="
 ---
 
