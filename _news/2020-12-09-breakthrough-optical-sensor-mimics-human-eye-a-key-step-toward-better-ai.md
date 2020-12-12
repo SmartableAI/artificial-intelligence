@@ -49,7 +49,7 @@ related:
     provider:
       name: ScienceBlog
       domain: scienceblog.com
-    quality: 49
+    quality: 47
     images:
       - url: "https://scienceblog.com/wp-content/uploads/2020/01/pupil_eye_study-ao.jpg"
         width: 800

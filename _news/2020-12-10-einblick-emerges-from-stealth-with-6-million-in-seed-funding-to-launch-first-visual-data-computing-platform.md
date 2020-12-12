@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Einblick Emerges from Stealth with $6 Million in Seed Funding to Launch First Visual Data Computing Platform"
-excerpt: "Einblick, a visual data computing platform provider, based on years of research at MIT and Brown University, today announced it has secured $6 million in Seed funding from lead investor Amplify Partners with participation from top-tier investors Flybridge and Samsung Next."
-publishedDateTime: 2020-12-09T22:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/einblick-emerges-from-stealth-with-6-million-in-seed-funding-to-launch-first-visual-data-computing-platform-1029877631"
-webUrl: "https://markets.businessinsider.com/news/stocks/einblick-emerges-from-stealth-with-6-million-in-seed-funding-to-launch-first-visual-data-computing-platform-1029877631"
+excerpt: "Key driver analysis assists users in finding out what really happened. Einblick's advanced AutoML predictive analytic capability reveals the potential impact of changes in the business by building models quickly and easily. With Einblick, these models are ..."
+publishedDateTime: 2020-12-10T13:44:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/12/09/einblick-emerges-from-stealth-with-6-million-in-seed-funding-to-launch-first"
+webUrl: "https://stockhouse.com/news/press-releases/2020/12/09/einblick-emerges-from-stealth-with-6-million-in-seed-funding-to-launch-first"
 type: article
-quality: 35
-heat: 35
+quality: 5
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Machine Learning
@@ -29,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Einblick Introduces Visual Data Computing Platform, Announces $6 Million in Seed Funding"
-    excerpt: "Einblick, a visual data computing platform provider, based on years of research at MIT and Brown University, announced it has secured $6 million in Seed funding along with launching its visual data computing platform."
-    publishedDateTime: 2020-12-09T17:26:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Einblick-Introduces-Visual-Data-Computing-Platform-Announces-6-Million-in-Seed-Funding-144294.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 15
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Einblick Emerges from Stealth with $6 Million in Seed Funding to Launch First Visual Data Computing Platform"
     excerpt: "Einblick, a visual data computing platform provider, based on years of research at MIT and Brown University, today announced it has secured"
     publishedDateTime: 2020-12-09T13:00:00Z
@@ -58,6 +40,6 @@ related:
         height: 1413
         isCached: true
 
-secured: "qgZAHKQGVXlJPQWlS51B7iI2osO0wD/yQK0rsTA22PH+rPWdeCc1wHAK1dxZTN7y010DR6RN/Oae7UbYTyP96M8S/nHfdqLP8W9JS1lFnFXxBcA1a6Q5yG+sYb76+fqEazU++tgsiy+scNO5UoIyncWzoym910h8ZISUrmbqGpO5zQEPF9y3ec1kQer5AnUVI9jmcgVckJEvdqMt9FzLIS9iLpwRnVkjOwcstRNLXobl/qOLcEpKiqVUqzvNkAF4fgUMj4uh8KFgka1gDQGWr8/cOMGqazceO2fo2lXzpnMQAnr3O3+7FhHgz0LsbRLjTjFhLBHIeFPT0AGxFxrnU6slHlT4J0rq7ZI7L3aVt6Y=;wdGvKDy9b4D2iES7RQ9dZg=="
+secured: "Nyxoz+/tNdfIu7d9hhWBUWd2Hp4krQ0pgQTF/BRof10B5E/B3Tzb6Y03LHQE1qRdt/N7JTPbYdrdg/a3utWL7Igb2F4mreZQEPwChlVSJJsfW/xjSiZUZsqpooIgMqUiMLVyb7hbjdnC262h9IUf4aEVFQF9VRB+uoGwYEWgn48CZ9I0k86N7pHoHPlLtotECh8ZyqmLJk55JIwJ3hJ3LfALfASDc1lHfjEvenCZOTbfBP2wiXxaWIoa7qYt1f6y2T72DuqG7xEiDW7NcS67XcoPhd8HMOMxiDip99V1GqXqS2bozylC+6WMDfTWyv8IgMQrxcJFVpstOwcmlM7BxuYuUKNjGtvURm+LOBlzmB0=;rgVFEcQTaqMneJlbKdDT2w=="
 ---
 

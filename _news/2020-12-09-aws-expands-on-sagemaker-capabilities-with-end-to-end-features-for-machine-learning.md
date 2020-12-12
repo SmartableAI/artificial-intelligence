@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AWS expands on SageMaker capabilities with end-to-end features for machine learning"
-excerpt: "As machine learning moves into the mainstream, business units across organizations will find applications for automation, and AWS is trying to make the development of those bespoke applications ..."
-publishedDateTime: 2020-12-08T20:58:00Z
-originalUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/?tpcc=ECTW2020"
-webUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/?tpcc=ECTW2020"
+excerpt: "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,"
+publishedDateTime: 2020-12-09T02:59:00Z
+originalUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/"
+webUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/"
 ampWebUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/"
 type: article
@@ -119,6 +119,6 @@ related:
         height: 2126
         isCached: true
 
-secured: "/EkQFsAFeHy27Q6zIJKaW7HeF/iIZinAVS+bGbm6yJxbfkmROBmz7R0LXRrnZh6OLCgaz9ni5EMjBuM8Pdd9uzDbdOkCHvRv3WmROxl0kGK2bNQcQCXJXzDjdMWqZU+XwQOQV2Gc78yE21/QYMqEZx/nWx2s7HYxaW5KAA6SiRrbwCoHIglWu51bvssUkXJkN2BJK4rqld7gOWjK7cRTF5QvZyNwfjhxf5yWUiv1kRBtwUqR1qOsdk+s+yIrKZTLZSJYwPGeww+aQise5zIVwFWgZm7PUEAiGDQB910aPXjbmrQWEUN+RkdwBIucTPTawGEhdF/PGmDi5QIvw1LXrY7Gjv+5XC1KfQhqhWYjJNA=;HyJkTI03XwYGVReTEYOQWQ=="
+secured: "wbHdUW8540df+RymQN2yvYMLMkHtI8Mb3qOkk3wO0lf0cNdqM4crj6gwHj+Ssg1g/555igjpvkKiJi8veOSR1UhjLPHyAsOVBaS+P11YvZbCw54+/HHpxH5j0qBHY/zHW8TwYlU3nYkSoLjADHUVSnkng9str7o6Rm3RXjwUSHNypwrrZ0i9rX0sIzMNhJRm2CmXyDBI3c/wVFrpWZUN5KBxR6foTs5KJaOjsSBjaZHopX4V7DJESuZK7WZ21LQ6kxwSHATG5PWGkHDopbZrZnBvRKAhZGxwAI47h49s7dCSYvBrXEzLLke5QBO/4657nj3IJ5Ynm52TxjA+C9wZir0kF9Efb8ofRWuCnUxuCgU=;wKGrCQsigVKdJY0gsWTsNQ=="
 ---
 

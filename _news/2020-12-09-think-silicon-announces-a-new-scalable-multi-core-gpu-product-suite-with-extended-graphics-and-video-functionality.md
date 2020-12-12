@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and Video Functionality"
-excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA (R) pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
-publishedDateTime: 2020-12-08T19:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended-graphics-and-video-functionality-2020-12-08"
+excerpt: "Think Silicon S.A., the leading provider of ultra-low power GPU IP for embedded systems, today announced it is shipping its updated NEMA ® pico XS and NEMA pico XL Multi-Core GPU IP-Series to customers."
+publishedDateTime: 2020-12-08T17:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended"
+webUrl: "https://www.nasdaq.com/press-release/think-silicon-announces-a-new-scalable-multi-core-gpu-product-suite-with-extended"
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Think Silicon Announces a New Scalable Multi-Core GPU Product Suite with Extended Graphics and ..."
@@ -44,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SdhEZW326cNI59VGgWO5fUQq47yQqoumn+w4S6rUxfrpgO/Ln/Q1OTKouvjuHvCZH1uPuOW2rqLwW7zSr2PqIO6d5wHMlBKBlreSU2uOVkcyHIlKbMp36lSeGjT3UBAe38Q4QbguA2yzFFgMcG7hnofDJLevzVMIANGsfP+E8cRcdAwhGfGhjKPRynNA6FQ+Rk5BcmZvH1rLuelupPfCQd+tXVnjRClFoam+obwUPVcs1u0Y+X4Y6i7IWFeDBxQf/AsX0PwBOQxaPQhVJYy2S44t4yWyN6iBNnr7pF1qoSj5QsPm8eusFyfBD9sNEgCVPGjAL0wFPN+XK8YH6bJp/yhH0uZWP4umP+xsEeQqfzA=;chMrc79taFe8PeBD4IGOlQ=="
+secured: "2h0JJKyZb2Gy9/KxV6wGVzRYNzo5a9+FDpAPykGG2C5zCAGa8gi4xQO1jgE1qLX16ZlKLbEEvF/LdU8k4SjC85p+uJo/PsqyOMu8koBstdCo7i0Lu9LhoDI7vlL9gztgLVYXDP7386PSygYCM53oKq49ZYsmlm9qoIGhJ+VWcS765Fs8vVwJcMgy7E5vPxEm6SwuuPVS1vM/qB1BpMXgh2RYDPhrfDIncY2qUVuGd7O8GyoEl25KdTKvNYu/Gq9LybuSE3G/XdLK/ZgxfvD9hsTXV21VEkR1811rX9md+SrwVKFqGDP8Qg+EKkULrHvjgiy0/JyurG/DYNQJTDH7z5pELzKx2uXPHzXBiMYn/eE=;Ar5kVZThe0pwflXpn8zYbA=="
 ---
 

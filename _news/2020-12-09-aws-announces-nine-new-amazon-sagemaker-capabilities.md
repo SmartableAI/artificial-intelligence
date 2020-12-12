@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+publishedDateTime: 2020-12-08T19:40:00Z
+originalUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
+webUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
 
 related:
   - title: "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo"
@@ -183,6 +189,6 @@ related:
       domain: morningstar.com
     quality: 34
 
-secured: "3kAhVhNZa+D+hB0EzV4fS77lsKJPN8sSMwJWHW/VDfu2UPe/Xs1+z+vUcTQYGdfk1apJ/M3soH2nRqi7qlkKn8Yfl9Y+crUcnWlCm2/rlSHbEw76wBnktqFxvKfmnYWCbVquzTDOTt/5KoJQ/kPHp/C8sbU7ih/E1X40+NGc2M5fuRzU8yZ/STY1730Am/EZhenYBnGRxKt8p/+eKNi9wM0UM8ELXixYWe+Wn2azqtrrza7NgDxSKv9CyMzXavBLCagLQx+5be7KehKeL870TqFNG5Drgc1Gw3J8CgKM3tFhx3XIpFl2yU85t2+Y1wOIOXlft9DBZk2x0bA+qqVa+3h06FlpLXRKGt5JTUxHMlE=;kPWj1qLYjuhHXsbbI8QzrA=="
+secured: "f6lXtRrPQSL2EU4xYlUAYZYkUu7r04gCPd8VV26pkX9oVOa7MyisL0D1s6DL/2TkamRj/un/CFW5PKJKf1cXbOJr1Q8hvj+COBZx55k2WP7OAZA8/LzTTBxL2RLKSnxlhI2xZaNTiuvUkLasg1C3SG6Ms/uoLigcFybsXGGuqIa6PF8q+RWcFq9OC8t33kvKByqLbpS1UHbPWE7t7mgDnObCbVIoFc82HjRIzxRSqpHKz938fNNo2D4R1xuOslvGLiPyXqa/vYpew7hZ3xa9L2tyC5m8WJTE1z5vJ9k/Tad1d4tp08Y6iZHpWPrhOydILBNPVfeHw2cXevcJ/Xu3RLRJqnbkoF+7PGjGdzWwyTk=;vtrrMnRlHS+0DrUqEZ5+JA=="
 ---
 

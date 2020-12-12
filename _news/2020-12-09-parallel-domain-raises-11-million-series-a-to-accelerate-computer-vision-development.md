@@ -56,7 +56,7 @@ related:
   - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
     excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
     publishedDateTime: 2020-12-09T11:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524"
     type: article
     provider:
       name: Associated Press

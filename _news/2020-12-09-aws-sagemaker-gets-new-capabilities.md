@@ -42,9 +42,9 @@ related:
         height: 446
         isCached: true
   - title: "AWS expands on SageMaker capabilities with end-to-end features for machine learning"
-    excerpt: "As machine learning moves into the mainstream, business units across organizations will find applications for automation, and AWS is trying to make the development of those bespoke applications ..."
-    publishedDateTime: 2020-12-08T20:58:00Z
-    webUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/?tpcc=ECTW2020"
+    excerpt: "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,"
+    publishedDateTime: 2020-12-09T02:59:00Z
+    webUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/"
     ampWebUrl: "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/"
     type: article

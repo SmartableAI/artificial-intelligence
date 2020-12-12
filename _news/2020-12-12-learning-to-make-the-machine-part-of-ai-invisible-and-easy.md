@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’"
-excerpt: "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms."
-publishedDateTime: 2020-12-08T18:45:00Z
-originalUrl: "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
-webUrl: "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
-ampWebUrl: "https://www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
+title: "Learning To Make The Machine Part Of AI Invisible And Easy"
+excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
+publishedDateTime: 2020-12-11T23:29:00Z
+originalUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
+webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
+ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
 type: article
-quality: 80
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: VICE
-  domain: vice.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Next Platform
+  domain: nextplatform.com
 
 topics:
-  - AI Ethics
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh"
-    width: 5760
-    height: 3235
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
+    width: 1024
+    height: 1024
     isCached: true
 
 related:
@@ -175,6 +171,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’"
+    excerpt: "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms."
+    publishedDateTime: 2020-12-08T18:45:00Z
+    webUrl: "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
+    ampWebUrl: "https://www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 80
+    images:
+      - url: "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh"
+        width: 5760
+        height: 3235
+        isCached: true
   - title: "Sundar Pichai apologizes for how Google handled the 'departure' of AI ethics researcher"
     excerpt: "While Pichai did not say AI ethicist Timnit Gebru was fired as she has claimed, in an internal memo sent to staff he pledged to investigate the events to led to her exit and 'work to restore' their trust."
     publishedDateTime: 2020-12-09T22:15:00Z
@@ -222,22 +234,6 @@ related:
       - url: "https://images.livemint.com/img/2020/12/10/600x338/AI-ke6H--621x414@LiveMint_1607615762859.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
-    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
-    publishedDateTime: 2020-12-11T23:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Google will investigate what led to AI researcher's exit, CEO says"
     excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
@@ -340,6 +336,6 @@ related:
         height: 641
         isCached: true
 
-secured: "E3betraSXaapO7temxREA09fZoRyg9/ikfO8XVJPULkFAGAmbyOXxT9pXUqlq3sVxkY4R3s0I7LIJNklyv1jOqpMaQrdiUuSU/5dVNN6h4NeFi3Qwrlu8wMkwcvVRZir69Kb5Z8+aTOXh1u5OGhc2uQpyvm3QTwB+nHLA+AgXwoBUoBA8ef4m+X33V5xiWBdxK+mEjVKC6DrVBphbSxGvDQIk4v5rVKNbdrvJySuGqgiZST4TiQyQRSSlcN1SiOtUVr/IdCzuGrTsipTxHse+QoSTQP27ICRVQ300OPSOT8QXZsj7aDIymVRxYSdfdRQmLINEZZLd4z0W70e1AKZmqO8t1ghbR38VFvBZIISjn8=;AcCtr52k9x3l6/x7Wj28cQ=="
+secured: "b0u7qDKpkSA9AfhACysc+YREm1veSN/N9tV696fc7cflXJf6Ubh50Iu0/WUjVv1C7HmO+xdKAXg8WHqQbmWm5YQztqVGmljU1tw9ICqwFRA7t7b+e7ZGE7V2BTlQ3i77kQkNQzIZm2U2ifkCkjBeB7ZSPxKN25QGorCpOMmgCr07DzJIEIZTCVv8X6l09iRNPN6yqeVQpnVpWHgrV6MBpmBrHU5up17waN/4MC/mQ8vEv48S4RTQgjhnd1gUr06KV1MQ7z2DMZvomytgZYQJXJqnHXY1XZwbgUHZmtt0wSq5BUU5KZ1rNYilNtndWousIAbvS3TKd5AQN+GnquUhRno6BJHZ4ic3/9HvSyB9aus=;DwBu7KQOsvGbvbM562qbkA=="
 ---
 

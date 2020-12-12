@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-c
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

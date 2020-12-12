@@ -238,6 +238,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
+    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
+    publishedDateTime: 2020-12-11T23:29:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "The ethics of artificial intelligence"
     excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
     publishedDateTime: 2020-12-10T13:28:00Z

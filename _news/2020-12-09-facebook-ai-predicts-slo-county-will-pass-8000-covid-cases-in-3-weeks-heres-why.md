@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.sanluisobispo.com/news/coronavirus/article247694575.html
 cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/coronavirus/article247694575.html"
 type: article
 quality: 53
-heat: 74
+heat: 73
 published: true
 
 provider:
