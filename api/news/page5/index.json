@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-09-huawei-worked-on-facial-recognition-system-to-surveil-uighurs-new-report-claims.md",
+      "title": "Huawei worked on facial recognition system to surveil Uighurs, new report claims",
+      "excerpt": "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "originalUrl": "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur",
+      "publishedDateTime": "2020-12-08T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily.md",
+      "title": "Deep medicine: Artificial intelligence is changing the face of healthcare, daily",
+      "excerpt": "This year has been a great definer. As we waged a battle against an unknown entity, proponents of artificial intelligence (AI) were swift to act. Just last week, DeepMind announced that it has",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "originalUrl": "https://indiaeducationdiary.in/deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/12/UJ-Fountain-Garden-APK_1.jpg?fit=600%2C399&ssl=1",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/deep-medicine-artificial-intelligence-is-changing-the-face-of-healthcare-daily/?amp",
+      "publishedDateTime": "2020-12-08T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models.md",
+      "title": "AWS announces SageMaker Clarify to help reduce bias in machine learning models",
+      "excerpt": "As companies rely increasingly on machine learning models to run their businesses, it’s imperative to include anti-bias measures to ensure these models are not making false or misleading assumptions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Screenshot-2020-12-08-083749.png?w=1024",
+          "width": 1024,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/",
+      "publishedDateTime": "2020-12-08T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-ruining-our-lives.md",
+      "title": "The trouble with AI: Why we need new laws to stop algorithms ruining our lives",
+      "excerpt": "Ethical guidelines are the only tool to date to control AI systems. They're not doing much for our rights, finds a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "originalUrl": "https://www.zdnet.com/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/4f4c61fa-86b7-4529-b079-3600abdc6ea8/thumbnail/1200x675/14bdca55e9ff64c6339770573420cf2f/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-trouble-with-ai-why-we-need-new-laws-to-stop-algorithms-from-ruining-our-lives/",
+      "publishedDateTime": "2020-12-08T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-getting-started-with-the-amazon-kendra-google-drive-connector.md",
       "title": "Getting started with the Amazon Kendra Google Drive connector",
       "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To simplify the process of connecting data sources to your index, Amazon Kendra offers several native data source connectors to help get your documents easily ingested. For many organizations,",
@@ -1027,206 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020.md",
-      "title": "Europe’s funding for deep tech like AI and VR fell 13% in 2020",
-      "excerpt": "As European startups have tried to carve out a competitive edge against the U.S. and China, there has been a big push to promote so-called “deep tech.” And in recent years, there had indeed been a surge in European startups that were developing products based on scientific breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/",
-      "originalUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Europe-e1607356671199.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/amp/",
-      "publishedDateTime": "2020-12-07T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-uber-sells-atg-self-driving-unit.md",
-      "title": "Uber Sells ATG Self-Driving Unit",
-      "excerpt": "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604029%2Fuber-driver-with-2-passengers-in-her-car.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
-      "publishedDateTime": "2020-12-07T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
-      "title": "How AWS aims to democratize machine learning with cloud services",
-      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
-          "width": 1922,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-japan-to-invest-in-ai-matchmaking-to-boost-plummeting-birth-rates.md",
-      "title": "Japan to invest in AI matchmaking to boost plummeting birth rates",
-      "excerpt": "The Japanese government will invest in artificial intelligence (AI) to bring single citizens together -- and, perhaps, help stabilize falling birth rates.  As reported by the Japan Times, the Cabinet Office intends to allocate ¥2 billion ($19 million) to local authorities that run dating programs for residents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "originalUrl": "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/06/5d643143-e310-4b2b-adac-f0b03698f080/thumbnail/1200x675/e952a56a8c0f88eb8e5a1ebbbef0053b/japan-takes-the-first-step-towards-a-dig-5f030bbce0a7442b5c9e38c9-1-jul-06-2020-21-40-56-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
-      "publishedDateTime": "2020-12-07T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

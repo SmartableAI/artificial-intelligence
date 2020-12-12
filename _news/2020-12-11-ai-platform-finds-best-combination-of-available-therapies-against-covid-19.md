@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
-    excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
-    publishedDateTime: 2020-12-08T02:26:00Z
-    webUrl: "https://www.datanami.com/2020/12/07/mit-machine-learning-reveals-covid-19-vaccines-may-be-less-effective-for-racial-minorities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 29
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_vaccine_covid.jpg"
-        width: 1000
-        height: 429
-        isCached: true
 
 secured: "B+NE1lmMTbbzLQxd3yXK/0tpOfyCeGTril9mokz76JE/i3k25cc35TP8dgukNq6vcb1gfAoAYDohRSecXJe+j30YCYuA6CkzdQDtvDlN8zqw4xfigDVbXikbi1gzvecbgSLGCxuItNtOtmXSZ4uKgOabkwsRdSZSv6KsveP1khL49eXfuvfNdeet/aMWLTF94jz3eo72aMAs34zQWecbViRjTfRlJdrlkqD0ZZ6bZCnLyPceMHTgfV8I833w9/V2uc2Cab5fmV29UNWEjTgT67rbxqnzucHF2TZPAIApmVrMbuFJVX6iFWh9kuel6SyxRAacFl0uO98QFon7vck6Id3ZPPo278qzLE54CVJAzSd1D1NS6e1loERUBX4F1p9bBIrvwXmpxAUBLJoXJfQ29zW8/RBp6aTvEa+jzIdqee7/VdbnhaMAyZdIuV5pLB1GljJZO4aE/vhDfqwT22ohd7qPnM/REq2Ls7Hi/amkhlwqnWw76WdJzy8Qlod1NNBOEWr+at03dFIwNniXScBmVQ==;kwt8trCu0MhNSvRViSkmOA=="
 ---

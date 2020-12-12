@@ -7,8 +7,8 @@ originalUrl: "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabi
 webUrl: "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Omaha.com
@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 51
+  - title: "Artificial intelligence at the edge improves manufacturing productivity"
+    excerpt: "Ever since IBM rolled out the world’s first mainframe computer in the 1950s, engineers and manufacturers in information technology (IT) have been pushing the"
+    publishedDateTime: 2020-12-10T19:05:00Z
+    webUrl: "https://www.controleng.com/articles/artificial-intelligence-at-the-edge-improves-manufacturing-productivity/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/12/PLE2012_MAG_Vosesky_Fig-4Slider.jpg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "AWNSf6qMhxhutizLgQKjDkeO1gfJD1pJND+CjIbCxD8ey97YT9VvXTrUe1cu6PqvzSv3ZS3msTD632FGAn4uXhSHk5uO/Mr2ZwyoBVbq+aCFmQOkrH2fGLnw/e+IsvCURI2QuPhAUPGKwoLoG8+zn4vyxHMSafaPEt9pc5fzl0YUi/zqYUp5aXOrmNbEvTqj97h/cJCPfgrtg+4+/GRWq+cNCkKU03U1sxAe3AROH6YWU3JKn/g9TqJGqsCBZDRFJDywQrIOGaY1ASy+M6yDkM1omm22q0jXmFkKjYCIBE+eGprkNPnYEr/MyX3FM65+rM05/Yfq8hPgPIpuH9+pDGDwsSnorBIA5H1BnS8tpPQ=;Gcvi7KDyK0wX0V9HQHFygw=="
 ---

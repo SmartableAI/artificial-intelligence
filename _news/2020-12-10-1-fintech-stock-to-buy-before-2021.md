@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -155,6 +155,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
+    excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
+    publishedDateTime: 2020-12-12T18:47:00Z
+    webUrl: "https://seekingalpha.com/article/4394402-strategic-investor-intel-capital-helps-close-135m-round-for-fintech-pico"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 3
   - title: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack"
     excerpt: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack Team Wizikey Powered by <<Wizikey Logo>> The Indian startup ecosystem has seen a tumultuous 2020 with a raging pandemic,"
     publishedDateTime: 2020-12-09T15:12:00Z

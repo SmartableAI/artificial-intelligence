@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-10-watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study.md",
+      "title": "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study",
+      "excerpt": "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T13:40:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for.md",
+      "title": "AMP Robotics Extends AI Capabilities to Packaging Producers, Improving Infrastructure for ...",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the global",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html",
+      "originalUrl": "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives.md",
       "title": "Save the bees, save the world: How ApisProtect uses AI and IoT to protect hives",
       "excerpt": "Not be an alarmist, but if bees go extinct it’s likely that coffee would become a rare and expensive luxury commodity. And I don’t want to live in that world. Luckily, ApisProtect today announced its entry into the US market where it will provide its unique AI-powered hive monitoring system to beekeepers and farmers.",
@@ -519,7 +614,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -610,6 +705,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-electric-self-driving-tractor-may-just-be-the-future-of-farming-as-we-know-it.md",
+      "title": "Electric, self-driving tractor may just be the future of farming as we know it",
+      "excerpt": "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
+      "originalUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn5.digitaltrends.com/image/digitaltrends/monarchembargo12-8-20tractor-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
+      "publishedDateTime": "2020-12-10T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1058,7 +1205,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1098,152 +1245,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-45m-to-scale.md",
-      "title": "Ava expands its AI captioning to desktop and web apps, and raises $4.5M to scale",
-      "excerpt": "The worldwide shift to virtual workplaces has been a blessing and a curse to people with hearing impairments. Having office chatter occur in text rather than speech is more accessible, but virtual meetings are no easier to follow than in-person ones — which is why real-time captioning startup Ava",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
-      "originalUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/AvaApp_Meeting0.png?w=1024",
-          "width": 1024,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/ava-expands-its-ai-captioning-to-desktop-and-web-apps-and-raises-4-5m-to-scale/amp/",
-      "publishedDateTime": "2020-12-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-nearly-half-of-it-leaders-fear-ai-will-replace-them-by-2030.md",
-      "title": "Nearly half of IT leaders fear AI will replace them by 2030",
-      "excerpt": "Two-fifths of IT leaders (41%) believe that artificial intelligence (AI) will make them redundant within the next 10 years. Trend Micro research found that only 9% of respondents were confident AI wouldn’t replace their job within the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358066/nearly-half-of-it-leaders-fear-ai-will-them-in-the",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358066/nearly-half-of-it-leaders-fear-ai-will-them-in-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816887/itpro/2019/04/artificial_intelligence_head_illustration.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-an-eye-for-an-ai-optic-device-mimics-human-retina.md",
-      "title": "An eye for an AI: Optic device mimics human retina",
-      "excerpt": "If our artificial intelligence is able to think like a human brain, why do we feed it data like a normal computer? Scientists are addressing this question by considering the sensory input we human receive and have developed an optical device inspired by the working of the human eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
-      "originalUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2020/12/GettyImages-1170535570-crop-b37093d.jpg?quality=90&resize=960,413",
-          "width": 960,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
-      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/",
-      "publishedDateTime": "2020-12-10T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

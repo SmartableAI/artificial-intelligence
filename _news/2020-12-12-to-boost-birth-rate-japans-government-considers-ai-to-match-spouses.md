@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Japan to invest in AI matchmaking to boost plummeting birth rates"
-    excerpt: "The Japanese government will invest in artificial intelligence (AI) to bring single citizens together -- and, perhaps, help stabilize falling birth rates.  As reported by the Japan Times, the Cabinet Office intends to allocate ¥2 billion ($19 million) to local authorities that run dating programs for residents."
-    publishedDateTime: 2020-12-08T01:21:00Z
-    webUrl: "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/"
+  - title: "Japanese government wants to use AI to play cupid for its citizens"
+    excerpt: "But if you live in Japan, the government there wants to help you find eternal love -- or at least your future spouse -- by using artificial intelligence.  In a recent effort to find a way to boost Japan's declining birth rate,"
+    publishedDateTime: 2020-12-11T00:23:00Z
+    webUrl: "https://www.cnet.com/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/06/5d643143-e310-4b2b-adac-f0b03698f080/thumbnail/1200x675/e952a56a8c0f88eb8e5a1ebbbef0053b/japan-takes-the-first-step-towards-a-dig-5f030bbce0a7442b5c9e38c9-1-jul-06-2020-21-40-56-poster.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cnet1.cbsistatic.com/img/eNtX_xRJ4XP2HK0tOMkhuY9hrW8=/470x264/2011/08/26/b9b0cac4-f0f2-11e2-8c7c-d4ae52e62bcc/Screen_Shot_2011-08-26_at_1.25.04_PM.png"
+        width: 470
+        height: 264
         isCached: true
 
 secured: "mOOGmAwLIko6u18UIy8bU3PCi0j+ZkeT4yIlfK5u5d1y5NYXFBJXfDDHof5ImlSZHNCCgRUkOiyXQijE0PWtI8Zz3Ao4yZ4/7YG4jxV5SlEVwR0mwp8eIuGmHNu8j0R/Jm6r5WAopeps3Tl3jnfJSIueroRUXpbwp5L6ptx0S/Q5acG2JD8oiA+opLLzS4A6PgSyRIWlWm/x797EMk4BJp8bAfj9DSG3N9DJdJ7FFhzwKBJnu95w4oWBxS6YTTJ4XA5MTk7qT/fRerC8yCyG0AUTwgR8uqF5j2Vn4G+h+RyXBU+zub3M++C9qHHOVeeQ1CZI2DW+I5U4LJBqBXoFp6gBdF7Qp6Rl2uY+DBkWYjnKZSnkhR7NIuPP2Gxis0e5hM98c2qNKHGGUa4blhvwUmfGRnkNwhN4rbWuJVKioRoLw2fI3/SnUnuWGwtHkeQSSylYmSqytQNbMgub1M4n73FoQg4hJg5d/eBPZx+hVlKPb0z2k/PFveuJ4hML8/l7osdFKCGlC2A6hK2U5NexeA==;ad6LaJ1Op8DK9qp8uwcMzQ=="

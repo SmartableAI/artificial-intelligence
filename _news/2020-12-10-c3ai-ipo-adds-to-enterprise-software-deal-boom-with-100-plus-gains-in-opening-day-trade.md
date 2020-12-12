@@ -1,28 +1,33 @@
 ---
 category: news
-title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
+title: "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-publishedDateTime: 2020-12-09T18:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+publishedDateTime: 2020-12-09T22:50:00Z
+originalUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+webUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
 type: article
-quality: 48
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655"
+    width: 6271
+    height: 4181
     isCached: true
 
 related:
@@ -141,6 +146,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mwFuv6Pae6IQ2c8Tl9BXDAOcA8hay3RiTrpsNKZhxWmH0jHRkMfal9NIAlt0xnJSv/PU7I/dWYwOowgAQeNfNeYDTURRT4cR6WpkXNElIWdqH7bUvfSwexXooPl1MJ6C+AlZKkJpgiV8f2/h+01c37qVKq3wehDFBenpE76nCreHks+cs4/e1Hj+SMeqgjcdr6tv2SgAwMZvHsn02LZ6f0MUlmRXU+ro/zoxTQ5zbBQ3gHS0sjLLaH1/HBT/grXurew2XM4G9R2xLKND/KNZVzVkKx9TAOC46O6dMtpT+wB527JkxW9HCHV2CGtvOT+1jG58E6M8UmRjDfjbqW193Hp4HdMp0SNjJNeftyBE6Ew=;hHCqTgA5u0RzGgEk5kGeFw=="
+secured: "vdcMGM/arFITl8/A0PizuUj6jYpvtSBLbfo+8Jn+nex3gN+WYXre3cz0yygYo1XhzSBfUb0fMFpxMTnwoupuGKoHXlJs9pAhFCdgt43rUWBbL809ToLD4xb9+bN4rOrDPZKTyOl9u+CK+E1s+pNzKmcgsyGojASzU9EiWfImXhd2BMeVXyAaEob4iDpS8tRwD2dMta27RRDnNYh9OA9nmufMb83W+o6uUKCIjDaqh388zBbccqmta7jJkR1uLK/X2kCF2EWlAISdbl6Zaz1offHfQ/9iwlmEMMczrtblB2wWUqq4o7l6Dv20y/WdJKTMPPf3pGHfIBk55SmRzJxkr1b0qWjeLhxYFsu1gjiKesU=;KPYvjRgqZpvZuaVmCMCltA=="
 ---
 

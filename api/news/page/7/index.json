@@ -2,6 +2,196 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-07-mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities.md",
+      "title": "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\"",
+      "excerpt": "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
+      "originalUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
+      "publishedDateTime": "2020-12-07T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-deepcell-raises-20-million-to-identify-cells-with-computer-vision.md",
+      "title": "Deepcell raises $20 million to identify cells with computer vision",
+      "excerpt": "Deepcell, a startup developing technologies to identify cells using computer vision, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
+      "publishedDateTime": "2020-12-07T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-3-top-artificial-intelligence-stocks-to-buy-in-december.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in December",
+      "excerpt": "These days, artificial intelligence is showing up in all sorts of new services. There's a reason: The use of AI is growing fast, and businesses putting it to good use are unlocking efficiencies and delivering better experiences to their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603469%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
+      "publishedDateTime": "2020-12-07T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-artificial-network-model-describes-entire-movement-planning-in-the-brain.md",
+      "title": "Artificial network model describes entire movement planning in the brain",
+      "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
+      "publishedDateTime": "2020-12-07T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-simplemachines-inc-debuts-mozart-ai-chipdisrupts-ai-chip-landscape.md",
       "title": "SimpleMachines, Inc. debuts Mozart AI Chip—Disrupts AI Chip Landscape",
       "excerpt": "SimpleMachines and its new AI chip offer exciting option in the inference market, with radical new compiler approach and TensorFlow support.",
@@ -1041,187 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts.md",
-      "title": "Artificial Intelligence, Machine Learning To Play Key Role In Fight Against COVID, Say Experts",
-      "excerpt": "Senior Scientist (Deep Learning and Genomics) at NVIDIA - said larger data sets on genome sequences (DNA arrangement) are being acquired, and this data is being studied for multiple parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
-      "originalUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/artificial-intelligence-machine-learning-to-play-key-role-in-fight-against-covid-say-experts-6194491.html/amp",
-      "publishedDateTime": "2020-12-05T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-a-robot-is-now-making-jamba-smoothies-in-a-california-walmart-in-less-than-3-minutes.md",
-      "title": "A robot is now making Jamba smoothies in a California Walmart in less than 3 minutes",
-      "excerpt": "The contactless kiosk uses a robotic arm to retrieve the ingredients and make the smoothie. It's one of Blendid's five kiosks in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
-      "originalUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc81645037cbd00186137a9?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
-      "publishedDateTime": "2020-12-05T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-training-facial-recognition-on-some-new-furry-friends-bears.md",
-      "title": "Training facial recognition on some new furry friends: Bears",
-      "excerpt": "A few years ago the pair became mesmerized, like many of us, by an Alaskan webcam broadcasting brown bears from Katmai National Park. They also happened to be seeking a project to hone their",
-      "sourceUrl": null,
-      "webUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/",
-      "originalUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denverpost.com/wp-content/uploads/2020/12/SCI-AI-BEARS-2-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/",
-      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/",
-      "publishedDateTime": "2020-12-05T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Denver Post",
-        "domain": "denverpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
-      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
-      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
-      "originalUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702",
-          "width": 1024,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
-      "publishedDateTime": "2020-12-05T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

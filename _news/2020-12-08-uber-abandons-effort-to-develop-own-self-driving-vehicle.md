@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Aurora to buy Uber's self-driving vehicles arm"
-    excerpt: "SAN RAMON, Calif. (AP) —"
-    publishedDateTime: 2020-12-08T02:09:00Z
-    webUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aurora-to-buy-ubers-self-driving-vehicles-arm-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Aurora Innovation Buys Uber's Self-Driving Car Unit For $4 Billion"
     excerpt: "Dec 08, 2020 (Baystreet.ca via COMTEX) -- Uber's (NYSE:UBER) self-driving unit, Advanced Technologies Group (ATG), is being acquired by start-up"
     publishedDateTime: 2020-12-08T22:04:00Z
@@ -138,15 +127,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Aurora To Buy Uber's Self-driving Unit"
-    excerpt: "(RTTNews) - Self-driving vehicle technology company Aurora agreed to buy Uber's self-driving unit, Advanced Technologies Group. After the deal,"
-    publishedDateTime: 2020-12-08T02:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aurora-to-buy-uber-s-self-driving-unit-1029871257"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Self-driving robotaxis are taking off in China"
     excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
     publishedDateTime: 2020-12-08T06:29:00Z

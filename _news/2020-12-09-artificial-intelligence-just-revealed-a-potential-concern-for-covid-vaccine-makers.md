@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligenc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd21d91d80dc.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "MIT Machine Learning Reveals COVID-19 Vaccines May Be Less Effective for Racial Minorities"
-    excerpt: "The last month has been filled with incredible news on COVID-19 vaccines following an astonishing, year-long global effort that has shattered records for"
-    publishedDateTime: 2020-12-08T02:26:00Z
-    webUrl: "https://www.datanami.com/2020/12/07/mit-machine-learning-reveals-covid-19-vaccines-may-be-less-effective-for-racial-minorities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 29
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_vaccine_covid.jpg"
-        width: 1000
-        height: 429
         isCached: true
 
 secured: "r9+ZGyzwrkuZKtECEoHot1imLug7YLyLUtsCNdAsWwfe2ptZSXRpprk36GSJnSC1O4ZMM5FZ7qIm8xJdLniv+4V0CZGNGlmjpW1nzozaxJUihVGC8r50BKbSENAnzYo1rd6NAwjv8wMGOImH8xo6LDyh839fivYSSNrZ4Ee7IbfERNe2Fm2Y+21R24f0/lKvL0gsEPngEeDt94Eabsa0Kvo8PvMRSky5zvT5/RcwMDNfTPkJwjllrxvzJu9zvZfRNO+eD0VCCkwvDEwHe8pVCtsD9PBR/a8SRoSoGRn0xxckw7jc/c52pXp+ooCv5fNFuIhWergPH7JFNJtHL3DfpA3w7axS5pmaWMLKgdbL7bpb0BnG6fW8qsaaIbvfjDeXEPU6UM22nJgmE47pdaPT3e5K//EMeN33SiEmqSmEu+iwGcCX1SgnJlsEisqmCcFtTf2HrcSqPXbEoKe5XjRj/JZwYosP986U13EXArNo9xt+gW3BdaUaKQ6ju4OkPHBZKejrF9ljf9/wT+vt1cbQNA==;k3N6SI16smnw3n3vSTrMdw=="

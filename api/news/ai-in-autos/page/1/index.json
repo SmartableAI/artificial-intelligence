@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-10-electric-self-driving-tractor-may-just-be-the-future-of-farming-as-we-know-it.md",
+      "title": "Electric, self-driving tractor may just be the future of farming as we know it",
+      "excerpt": "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
+      "originalUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn5.digitaltrends.com/image/digitaltrends/monarchembargo12-8-20tractor-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/monarch-tractor-self-driving/?amp",
+      "publishedDateTime": "2020-12-10T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-745-billion-automotive-artificial-intelligence-markets-machine-learning-deep-learning-computer-vision-natural-language-processing-global.md",
       "title": "$74.5 Billion Automotive Artificial Intelligence Markets: Machine Learning & Deep Learning, Computer Vision, Natural Language Processing - Global Oppo",
       "excerpt": "The Global Automotive AI Market was valued at USD 2.49 billion in 2019, and is estimated to garner USD 74.5 billion by 2030, at a CAGR of 36.2% during the forecast period, from 2020 to 2030. Artificial Intelligence (AI) is one of the most advancing technologies in computer science.",
@@ -403,7 +455,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1394,41 +1446,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "publishedDateTime": "2020-11-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

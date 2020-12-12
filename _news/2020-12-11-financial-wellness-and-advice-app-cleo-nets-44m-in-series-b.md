@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "London’s AI enabled Money Management App Provider Cleo Secures $44M via Series B Round"
+    excerpt: "After finalizing a $44 million investment round, UK’s AI-powered personal finance chatbot provider Cleo is asking its customers how it should spend its funds. Cleo’s round was led by EQT Ventures along with participation from existing investors such as Balderton Capital,"
+    publishedDateTime: 2020-12-12T17:59:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170199-londons-ai-enabled-money-management-app-provider-cleo-secures-44m-via-series-b-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170199-londons-ai-enabled-money-management-app-provider-cleo-secures-44m-via-series-b-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170199-londons-ai-enabled-money-management-app-provider-cleo-secures-44m-via-series-b-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 51
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Beefeater-Buckingham-Palace-London-UK-296x300.jpeg"
+        width: 296
+        height: 300
+        isCached: true
 
 secured: "9HueYzbLij/7HYEp1HBUkfDRcfOnHr7HQBQSOTx4CQd6EKIzwcbKAkNjjKfZ+QCT/gUyBpeGRFrGc4UweVcqlXwDhkWeBse6V6jGZ/Y2V+Y12L793f88YzuKR61Dgspn5HxTZVN3PPZ+u3eWuOwGKrUAb2L3550DUhnOknakk1fFNhXAW+5Hl8HoW5r93T7S9/R5RPwQ2RFqQ43ODlm499ghGtHcxjbYNZr16Nd4hK9HSoVxdHu26+xtwiD521YwQ2JvwXwTX1p/U9ItO9vNU3NugnhTIy6y0Gp2DR8uYbjLtyGeCKfeqz9R0yJLkd1X99c+mfXpM8NWIR9Yem/asaI6ARArn8Ra9kLr3b00m5JACaiG/GR5NO7zM00PpfcrAWmSc+EsCMvAfdKk2fdXqb08aPxt99TzELh3BgDVTI6I7S6Ie0MNwv1MbEyvAcWjuth2tWXzGtWjnZb1EuUD6TcwwRVjA9iQcHDFKS+FuC6lzAFATygv/WzyNAUicfAhXOQ5tcKmAkmKxmqhKyB5yA==;S4iwympwQix0toT1kogmVA=="
 ---

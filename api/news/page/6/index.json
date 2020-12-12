@@ -2,6 +2,206 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-08-europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020.md",
+      "title": "Europe’s funding for deep tech like AI and VR fell 13% in 2020",
+      "excerpt": "As European startups have tried to carve out a competitive edge against the U.S. and China, there has been a big push to promote so-called “deep tech.” And in recent years, there had indeed been a surge in European startups that were developing products based on scientific breakthroughs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Europe-e1607356671199.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/amp/",
+      "publishedDateTime": "2020-12-07T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-uber-sells-atg-self-driving-unit.md",
+      "title": "Uber Sells ATG Self-Driving Unit",
+      "excerpt": "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604029%2Fuber-driver-with-2-passengers-in-her-car.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/uber-sells-atg-self-driving-unit/",
+      "publishedDateTime": "2020-12-07T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
+      "title": "How AWS aims to democratize machine learning with cloud services",
+      "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "originalUrl": "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png",
+          "width": 1922,
+          "height": 994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-japan-to-invest-in-ai-matchmaking-to-boost-plummeting-birth-rates.md",
+      "title": "Japan to invest in AI matchmaking to boost plummeting birth rates",
+      "excerpt": "The Japanese government will invest in artificial intelligence (AI) to bring single citizens together -- and, perhaps, help stabilize falling birth rates.  As reported by the Japan Times, the Cabinet Office intends to allocate ¥2 billion ($19 million) to local authorities that run dating programs for residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
+      "originalUrl": "https://www.zdnet.com/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/06/5d643143-e310-4b2b-adac-f0b03698f080/thumbnail/1200x675/e952a56a8c0f88eb8e5a1ebbbef0053b/japan-takes-the-first-step-towards-a-dig-5f030bbce0a7442b5c9e38c9-1-jul-06-2020-21-40-56-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/japan-to-invest-in-ai-matchmaking-to-boost-the-countrys-falling-birthrate/",
+      "publishedDateTime": "2020-12-07T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science.md",
       "title": "Breeding neuromorphic networks for fun and profit: The new reproductive science",
       "excerpt": "The most expedient way to produce the algorithms you need for a new class of computer that works like the brain, its engineers are discovering, is through a Darwinian exercise in natural selection.",
@@ -1007,196 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities.md",
-      "title": "MGM Inks Cloud Computing Deal With Amazon in Search for \"New Revenue Opportunities\"",
-      "excerpt": "The James Bond studio is set to move all of its content to Amazon's cloud and use the tech giant's software to modernize its media supply chain. Metro Goldwyn Mayer has signed a c",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "originalUrl": "https://www.hollywoodreporter.com/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.hollywoodreporter.com/sites/default/files/2020/01/b25_25594_r_rgb_copy-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/mgm-inks-cloud-computing-deal-with-amazon-in-search-for-new-revenue-opportunities",
-      "publishedDateTime": "2020-12-07T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-deepcell-raises-20-million-to-identify-cells-with-computer-vision.md",
-      "title": "Deepcell raises $20 million to identify cells with computer vision",
-      "excerpt": "Deepcell, a startup developing technologies to identify cells using computer vision, has raised $20 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/",
-      "publishedDateTime": "2020-12-07T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-3-top-artificial-intelligence-stocks-to-buy-in-december.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in December",
-      "excerpt": "These days, artificial intelligence is showing up in all sorts of new services. There's a reason: The use of AI is growing fast, and businesses putting it to good use are unlocking efficiencies and delivering better experiences to their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603469%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/07/top-artificial-intelligence-stocks-buy-december/",
-      "publishedDateTime": "2020-12-07T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-artificial-network-model-describes-entire-movement-planning-in-the-brain.md",
-      "title": "Artificial network model describes entire movement planning in the brain",
-      "excerpt": "Every day we effortlessly make countless grasping movements. We take a key in our hand, open the front door by operating the door handle, then pull it closed from the outside and lock it with the key.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201207/Artificial-network-model-describes-entire-movement-planning-in-the-brain.aspx",
-      "publishedDateTime": "2020-12-07T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

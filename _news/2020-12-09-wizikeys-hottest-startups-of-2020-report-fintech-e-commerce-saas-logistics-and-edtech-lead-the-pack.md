@@ -159,6 +159,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
+    excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
+    publishedDateTime: 2020-12-12T18:47:00Z
+    webUrl: "https://seekingalpha.com/article/4394402-strategic-investor-intel-capital-helps-close-135m-round-for-fintech-pico"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 3
 
 secured: "O1m+K4kaaWxEVF8d/mr/E0lgW6PlcAAoibPTS3hS8tOCnp+prwIeUjH/prQPGFid4bcHLibGOCr5C6ekBLY5GHF2tnBt298k1rFWM+GDlC98wyTV7U2+qt7rlxXcjrvNV7ydp6uWbqnvGVHjAmxFO6GlE+OCI7WtzzBobvOgxrm/9Lb6NmKbrVshBajKxrn/vsRKnRPUUPGMzNR8gyCX161JUD2mn0ek3hbXg3yQ/ox3owGpIMt4RnA9iQmU3Dr4gX9IVbAS/RDE9m9RnJz6sK1rAUyJkY+1tFO3P9mZqHGtmE+/Zu3/oXl0yLpFzyQMn69GyjbHG8G7aaDUIXwkEyVZn6b7cSC86HUZk8Xz8XnbF90IFNCehKsyPde24ZzUbW4cAucRsbk1M5tIHOApyqVwwstXfWQUUvtufauJbPZCQ9QXvWNRqJxR4GIHKkdCRwpD30XB9SbyPosxmBC2KvdzOQJrBW3xTpAeNHgaj+LqmJ+bVuXpd4iCDkcWkF7RnR8Kq0s9dXMvF9Bzzcmfkw==;8LWO+O5MpKqS78p5nKGlgw=="
 ---

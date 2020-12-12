@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence at the edge improves manufacturing productivity"
+    excerpt: "Ever since IBM rolled out the world’s first mainframe computer in the 1950s, engineers and manufacturers in information technology (IT) have been pushing the"
+    publishedDateTime: 2020-12-10T19:05:00Z
+    webUrl: "https://www.controleng.com/articles/artificial-intelligence-at-the-edge-improves-manufacturing-productivity/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/12/PLE2012_MAG_Vosesky_Fig-4Slider.jpg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "Wy5GwHJdv22RZ/vKIuVfHWwXa19nUVVl7TH3+79TmgVNUwDEiGnAx9VDkiEMRcZxW8NCsUPo1OTxzq1umfZreDFIW8XBDrsWNLhuh/UFpyChCJVmg8zb5WZade9m6eCHDqb74ArWQsJnda0pfMwpz4CW8/T/ybvielDmWCv/6wVAJjNo5p919H+jiFpXWLrfpuzJfGsIryU0NmWYnfhVco4ssBHAsdrr2gc2sRc7ppjdzk0w+PZjVzdrtSzMFBvcqiDqq8liyS2Pu9FYemmIeOixmK5JJDERJvCONau7d1YEbh2LOyteh6VkQqz3bAFA3I5PHWlQrZ1YJU8XxENEMRGYZYAfI1Uyc66zqV0/rDY=;R8BQLCIdpcw9ZO+yeE/sgQ=="
 ---

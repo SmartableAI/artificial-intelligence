@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
+      "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
+      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
+      "publishedDateTime": "2020-11-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks.md",
       "title": "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks",
       "excerpt": "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets.",
@@ -1392,49 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-blackberry-qnx-to-power-plus-self-driving-trucks.md",
-      "title": "BlackBerry QNX to power Plus self-driving trucks",
-      "excerpt": "Plus have now announced they will be the first automated truck developer to make use of BlackBerry QNX for their next-generation self-driving systems. Plus will license the BlackBerry QNX OS for Safety software for their Class 8 trucks which are expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
-      "originalUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://crackberry.com/sites/crackberry.com/files/styles/large/public/article_images/2020/11/plus_automated_trucks_blackberry_safety_security-16.jpg",
-          "width": 903,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
-      "cdnAmpWebUrl": "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
-      "publishedDateTime": "2020-11-17T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CrackBerry.com",
-        "domain": "crackberry.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

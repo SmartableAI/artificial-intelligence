@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-11-amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for.md",
+      "title": "AMP Robotics Extends AI Capabilities to Packaging Producers, Improving Infrastructure for ...",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the global",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html",
+      "originalUrl": "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-the-new-laws-of-robotics-building-on-asimovs-science-fiction-legacy-in-the-age-of-ai.md",
       "title": "The new laws of robotics — building on Asimov's science fiction legacy in the age of AI",
       "excerpt": "Way back in 1942, science fiction writer Isaac Asimov created the Three Laws of Robotics. Now, an AI expert has expanded that list in a bid to ensure the robotics revolution works for humans, not against them.",
@@ -304,7 +347,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1389,49 +1432,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-ai-and-position-sensing-drive-robotics-expansion.md",
-      "title": "AI and Position-Sensing Drive Robotics Expansion",
-      "excerpt": "Advancements in artificial intelligence and improved positional awareness have driven an expansion of robotics use in a variety of application areas",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
-      "originalUrl": "https://www.chemengonline.com/ai-position-sensing-drive-robotics-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chemengonline.com/wp-content/uploads/2020/12/che_1220_hires-12-fig-2.jpg",
-          "width": 600,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Magazine",
-        "domain": "chemengonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
