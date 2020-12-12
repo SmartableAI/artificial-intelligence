@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "AI in Financial Services"
-    excerpt: "Artificial Intelligence’ and ‘machine learning’ are two of those terms which, until a few years ago, seemed to belong exclusively in outlandish science-fiction movies, in the same league as flying cars and teleportation."
-    publishedDateTime: 2020-12-08T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-financial-services-els-van-de-water"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHbs2q3T07MUg/article-cover_image-shrink_720_1280/0/1607434134366?e=1613001600&v=beta&t=hiKGckgozuY61nDEpFa9y0f7HruuMm_GrqqpV5faiFY"
-        width: 540
-        height: 720
-        isCached: true
 
 secured: "9HueYzbLij/7HYEp1HBUkfDRcfOnHr7HQBQSOTx4CQd6EKIzwcbKAkNjjKfZ+QCT/gUyBpeGRFrGc4UweVcqlXwDhkWeBse6V6jGZ/Y2V+Y12L793f88YzuKR61Dgspn5HxTZVN3PPZ+u3eWuOwGKrUAb2L3550DUhnOknakk1fFNhXAW+5Hl8HoW5r93T7S9/R5RPwQ2RFqQ43ODlm499ghGtHcxjbYNZr16Nd4hK9HSoVxdHu26+xtwiD521YwQ2JvwXwTX1p/U9ItO9vNU3NugnhTIy6y0Gp2DR8uYbjLtyGeCKfeqz9R0yJLkd1X99c+mfXpM8NWIR9Yem/asaI6ARArn8Ra9kLr3b00m5JACaiG/GR5NO7zM00PpfcrAWmSc+EsCMvAfdKk2fdXqb08aPxt99TzELh3BgDVTI6I7S6Ie0MNwv1MbEyvAcWjuth2tWXzGtWjnZb1EuUD6TcwwRVjA9iQcHDFKS+FuC6lzAFATygv/WzyNAUicfAhXOQ5tcKmAkmKxmqhKyB5yA==;S4iwympwQix0toT1kogmVA=="
 ---

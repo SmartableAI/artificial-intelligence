@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Uber sheds self-driving cars to prioritise profits"
-    excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, shedding a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
-    publishedDateTime: 2020-12-08T00:30:00Z
-    webUrl: "https://www.bbc.com/news/business-55224462"
-    ampWebUrl: "https://www.bbc.com/news/amp/business-55224462"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-55224462"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/4BB6/production/_115928391_e1e56097-5fa9-463d-8fcb-a3e278659d01.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Aurora to buy Uber's self-driving vehicles arm"
     excerpt: "SAN RAMON, Calif. (AP) —"
     publishedDateTime: 2020-12-08T02:09:00Z
@@ -163,20 +147,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Amazon-backed Aurora is buying Uber's self-driving unit despite its terrible reputation. Its CEO explains why he sees value in the troubled program."
-    excerpt: "In exchange for Uber ATG and $400 million, Aurora CEO Chris Urmson said the startup will give Uber a 26% stake and a seat on its board of directors."
-    publishedDateTime: 2020-12-08T00:05:00Z
-    webUrl: "https://www.businessinsider.com/aurora-ceo-chris-urmson-explains-buying-uber-atg-self-driving-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://i.insider.com/5fceabbceadd8400183dfa87?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-driving robotaxis are taking off in China"
     excerpt: "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ..."
     publishedDateTime: 2020-12-08T06:29:00Z

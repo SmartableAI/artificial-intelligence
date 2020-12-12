@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-greater-
 webUrl: "https://apnews.com/press-release/business-wire/technology-greater-china-asia-east-asia-china-abc39e07fa994ebd84c3ed6dd28333da"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Huawei CASE Layout and Strategy Research Report 2020: 40+ CASE Indicators and Comparion of CASE Capabilities VS Bosch, Baidu, and Waymo"
-    excerpt: "Layout and Strategy Research Report, 2020\" report has been added to ResearchAndMarkets.com 's offering. Research on Huawei's CASE (Connected, Autonomous, Shared, Electrified): Who is the main rival of Huawei in automotive engagement?"
-    publishedDateTime: 2020-12-08T10:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case/article_b80022b8-6149-5b05-8ccf-9d4f734ea73c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BbovQ4KfmWDB/z56WIdrrRz2nbh0VJcl+zPAFIYM1JSWtVcwVo6IkGDqxl6vbcKDTQfW3KMkgHdbfgcUEhLtxgfd8vWv/Rfv7lghSBQsou9MGImTwIhZDvOT+Tdyz6nSOYsUUNQZbGxBeIzScSKSdM2ZZmrnfyutOb2duE5dc0LeIC6iBKn5CUVO/oCUsiGy7EqxNBJCKT9vd1zA4xOriWMOpHRV7TmTY5LVJMJaCw4tvA95ZV/12PpD8W9AI685s4JXJNXGzLWekftN0FM+EotgTmz0HFj6V0xG9Gw9CFpZdghowFn1cCqq1Bp8MwF5dR24hAK080+SekNSC/95KR5rErbwsUX/1aa+Mt8NXiI=;VcxiYrspQWcdUaOs8XR/6Q=="
 ---

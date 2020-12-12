@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Apple shifts leadership of self-driving car division to AI chief, report says"
-excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
-publishedDateTime: 2020-12-09T08:32:00Z
-originalUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
-webUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+publishedDateTime: 2020-12-08T20:40:00Z
+originalUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
@@ -15,12 +15,11 @@ provider:
   domain: autonews.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
     width: 800
     height: 600
     isCached: true
@@ -312,22 +311,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
-    excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
-    publishedDateTime: 2020-12-07T23:03:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6482467002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6482467002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
     excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
     publishedDateTime: 2020-12-09T01:35:00Z
@@ -431,11 +414,13 @@ related:
     excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
     publishedDateTime: 2020-12-09T16:00:00Z
     webUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/"
+    ampWebUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/amp/"
     type: article
     provider:
       name: Pulse 2.0
       domain: pulse2.com
-    quality: 4
+    quality: 24
   - title: "Uber sells self-driving cars to focus on profits"
     excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, abandoning a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
     publishedDateTime: 2020-12-09T16:54:00Z
@@ -455,6 +440,6 @@ related:
       domain: plantservices.com
     quality: 4
 
-secured: "DLYJjxMJ5vvV3K8rMlMe1WTZA/hzxxXeD5o7sQA1VX+zDNls/djVl+GeHPW64QD/Aw+YwZ1El4qZasFLzmSkg4wXRRiwAegtrW64e1f/XRfZDnfpSRjBu9YQCxMntqba9VBnLzUpRRiX4au7cCxhrnKEHY9UKZAGsdBSRJaLTGmGZjiVEz9Q83segvcQYpi+Y1p98bfDQeTJI6wfWx476vxq5OzwAUl6k+7J76CONwy8yuh94nnGEI4xnbmpg2N6Atpee0oCkzBREz0I0Ja60/qEoD+xcqm+/b5MkfVuXfBqb7Kk7nCrBwp8cdWtb2vhwbwRnHtukMo/SHmISUCU/cWC825CrydVmZ2OCnpcr2pmc5zEBPxMua0YzcNrapmcE4jP8Zzf4mw3370e/7fJaK2DFQNBsNGTlIYgAituIOioIn/b5ViUic1M+JdZno+cKJgw7xqf5pOVSpRcNjsEDMWEGNM0va5NMRj76aqA0Zq0kqxiLr/4hCT0/SZX+GGM693g1Wdn8dgsj0B/MD7rrg==;4aYdDwYbe/rgF05ARhdPMA=="
+secured: "pCwSWMGvgwKIrXND2m4QqpYsZ5M/wHpwhJ0SfZzxPxH9TqwgKcbnYdJQ1J1aWOAC9cFU8sKJO0+wzUbJRyBYYrANbwVsU3C4/8v7kY52t9O+3N864z6PV3iXNUySmvBg4plx63ZpwjSimQHF+f5rzJzYIDBqMdUnDhanBJoD85OcfdSJpdSqRExr2wGK0Bje3Zchwxl+pisI3O/PyniuVd3oMGvw3W8z9jmB2qaFQdGSdjXEbK6EE9QZSWsRw4tIHstpNEj6+NUcI1+avum7gKzNPYitcGDuop/NV9IvRTSU4swLZMnSvCEg4BQdPfUBn7MXoG4hDZNpvYSHwmnd3gFIY2q474OiHQ5LX14AFMg=;0J+04x622WOJwZ6P+UzHaA=="
 ---
 

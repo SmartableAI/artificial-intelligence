@@ -55,6 +55,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Researchers introduce first artificial intelligence tool to detect COVID-19 probability"
+    excerpt: "A study in the Journal of Medical Internet Research introduced Biocogniv's new AI-COVID software that can easily predict the probability of COVID-19 infection. A team of researchers from the University of Vermont and Cedars-Sinai discovered high accuracy in predicting the probability of COVID-19 infection using routine blood tests,"
+    publishedDateTime: 2020-12-12T16:32:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20201212/3673366.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
 
 secured: "D6/YYC3kfQ87ww7u7otzdE9qidHTg+DFzgk1FNZfYO/Ly+aNeUeFv+AgD5ku2TiJZH7+JBS3fQrDKDi8moUa0NZjR+4zkyWEzLyQCTedx9qndZTleQ4Jv7ghYHTyn1qxiGG7jcAX3kE+dGJHqClK6dnZfOFOnWaxXUGwvAgM9Jv04FR7BxDpxzzh/EGtigohsd8Q7vp5AwH48h8JNurxT7tqhjvwOt0noonSrUP6ibl3qQgTpmA3NtrLjHs3bEfQQLbAWl0gcRMLNtaopPcu0sT59KzUoJDj0lXL9wzkkG9PwY+veCo5ebcwp2FGVEJ84ZWtqFNLX4Itqoro+k4b6I7h92dYjBI4qFqTE4JnKRM=;41C3DzlHyNARM1xf/xP/rQ=="
 ---

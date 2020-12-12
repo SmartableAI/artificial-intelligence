@@ -28,7 +28,7 @@ related:
   - title: "Expert: We Need New Laws For The Facial Recognition ‘Wild West’"
     excerpt: "A new paper outlines why Congress needs to regulate facial recognition to protect consumers and their \"faceprints.\""
     publishedDateTime: 2020-12-11T13:17:00Z
-    webUrl: "https://www.govexec.com/technology/2020/12/expert-we-need-new-laws-facial-recognition-wild-west/170629/?%3Foref=GovExecTCO"
+    webUrl: "https://www.govexec.com/technology/2020/12/expert-we-need-new-laws-facial-recognition-wild-west/170629/"
     type: article
     provider:
       name: Government Executive

@@ -5,8 +5,10 @@ excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-
 publishedDateTime: 2020-12-09T16:00:00Z
 originalUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/"
 webUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/"
+ampWebUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/amp/"
+cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/amp/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -306,34 +308,18 @@ related:
         height: 1280
         isCached: true
   - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
-    excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
-    publishedDateTime: 2020-12-09T08:32:00Z
-    webUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-08T20:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 38
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
-    excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
-    publishedDateTime: 2020-12-07T23:03:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6482467002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6482467002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 36
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
     excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
@@ -453,6 +439,6 @@ related:
       domain: plantservices.com
     quality: 4
 
-secured: "TLDXcpxrnF9qi+1ptnteOcSEw0FcBqlEUPmC6oXU419zOluOttjrebdhO14H2JhnqtIxapfQr5MUeqamwJ0EDpwZg/HhjeIHKAj/pSGFVI7soPh+xElPfk2K5+QAFI7W+LtCu8VbUhV/DIZvWxodTPotAyOSpq40k1qQBA6pf6j++XPunYILJxs7SHFK1/2mbjRqFaTrKAOj6BAofFchUwHw4Bt5UGv6eNAbINRe1sMOWreKNooO9LCo4VNmQxNWoioar0/aUHrPsomguUzbnbiCvxwkNLWWUdmo9z89CiKaDRN5w8ijmhbbiFqgz9mSNvGymAe2zUOo0c3HVwiyyPkot2D2ta95cNFmZ/rrhUw=;fd18rU917Z51J+m0wtwGmA=="
+secured: "fmgtqCrwG+zBXGZHRIeCQHPNbdh5LZgVwu5UOpLmDRKbm+yR26jGausnZyMefhPMy09joBH3LJYRkFRiLvqRTRU5rBbTeEmhYOwBtjesIN/oHE8rYK58ywzHIWCTxGIrj76jbr99iSDLLAlYiq2KjdQWIUt7krzcOA1Kd3Vt9NleiKZPmyC51RYLPxjZaamalLofaQQITFY7ngH2Ho1QooyPKCPYYwKe/i7rR9tYpUjfnFE9Fvz9uJyqmHELunkPM4dSFmPY/XA0ELQk7FZmqvY5uDO6ssV57uB3tDvtgBif5jN+kaT17PVdzSFxVzcj1bxnYTC+WipHREwx0duJily0AW4aKN9qJatbE11tL2HtPHr9j63Q4SvtV6kXxDwCh5LUCYCriOWVANex3qdJhqoMCfjpZ/GquiHKtGNugvZnr3c51+K3CZYPI3I1r3hJjKqAg6Z+kD8pDHpTY1fPxNz1CVDLnc8SRz2IDBLv7DgI78gKQFIwc8ZhwU9DtIepycED2UmYjhZzmDW5AK7Q9g==;G+5y5nPAXiPBl5Edsk0KEA=="
 ---
 

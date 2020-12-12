@@ -110,22 +110,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google employees say AI researcher did not resign, despite what exec claims"
-    excerpt: "Timnit Gebru's colleagues and petitioners claim she did not resign, and point to inconsistencies in Google AI Chief Jeff Dean's statements."
-    publishedDateTime: 2020-12-07T23:22:00Z
-    webUrl: "https://www.cnbc.com/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/07/google-employees-dispute-jeff-dean-claim-timnit-gebru-did-not-resign.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1529476983"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google is facing a mounting rebellion from its employees over the dismissal of AI ethics researcher Timnit Gebru"
     excerpt: "Dr. Timnit Gebru says she was fired, whereas Google says she resigned. Google employees have now publicly backed Gebru's version of events."
     publishedDateTime: 2020-12-08T10:59:00Z

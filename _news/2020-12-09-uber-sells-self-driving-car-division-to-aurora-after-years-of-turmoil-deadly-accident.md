@@ -314,34 +314,18 @@ related:
         height: 1280
         isCached: true
   - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
-    excerpt: "Apple has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
-    publishedDateTime: 2020-12-09T08:32:00Z
-    webUrl: "https://europe.autonews.com/suppliers/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
+    excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
+    publishedDateTime: 2020-12-08T20:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-shifts-leadership-self-driving-car-division-ai-chief-report-says"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 38
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Uber sells self-driving car division to Aurora after years of turmoil, deadly accident"
-    excerpt: "Uber is selling its self-driving car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
-    publishedDateTime: 2020-12-07T23:03:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6482467002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6482467002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 36
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple-MAIN.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "A day after selling self-driving unit, Uber's offloading air taxi wing to Joby Aviation"
     excerpt: "The Joby Aviation deal is very much along the same lines as one announced Monday where Uber agreed to sell its self-driving vehicle business to autonomous driving unicorn Aurora Innovation, while also investing in and partnering with it."
@@ -430,11 +414,13 @@ related:
     excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
     publishedDateTime: 2020-12-09T16:00:00Z
     webUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/"
+    ampWebUrl: "https://pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/apple-makes-changes-to-self-driving-vehicle-leadership-team-report/amp/"
     type: article
     provider:
       name: Pulse 2.0
       domain: pulse2.com
-    quality: 4
+    quality: 24
   - title: "Uber sells self-driving cars to focus on profits"
     excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, abandoning a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
     publishedDateTime: 2020-12-09T16:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Financial Services"
-    excerpt: "Artificial Intelligence’ and ‘machine learning’ are two of those terms which, until a few years ago, seemed to belong exclusively in outlandish science-fiction movies, in the same league as flying cars and teleportation."
-    publishedDateTime: 2020-12-08T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-financial-services-els-van-de-water"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHbs2q3T07MUg/article-cover_image-shrink_720_1280/0/1607434134366?e=1613001600&v=beta&t=hiKGckgozuY61nDEpFa9y0f7HruuMm_GrqqpV5faiFY"
-        width: 540
-        height: 720
-        isCached: true
   - title: "Financial Wellness and Advice App Cleo Nets $44M In Series B"
     excerpt: "A financial wellness app founded in London, targeting Gen Z, has raised $44 million in a Series B funding round, according to a TechCrunch report. Called “Cleo,” the “financial assistant” was founded in 2016 and today combines a chatbot and account aggregation with tips on spending responsibly."
     publishedDateTime: 2020-12-10T21:21:00Z
