@@ -135,17 +135,6 @@ related:
         width: 1202
         height: 720
         isCached: true
-  - title: "3 Self-Driving Car Stocks to Own for 2021"
-    excerpt: "New technologies that can bring transformative effects to society can also deliver spectacular returns for investors. Autonomous vehicles are one such opportunity. Currently, Tesla (TSLA), Google (GOOG),"
-    publishedDateTime: 2020-12-07T15:47:00Z
-    webUrl: "https://stocknews.com/news/tsla-nvda-goog-3-self-driving-car-stocks-to-own-for-2021/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
   - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
     excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
     publishedDateTime: 2020-12-09T15:59:00Z

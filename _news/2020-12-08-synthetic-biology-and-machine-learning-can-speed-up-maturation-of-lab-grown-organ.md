@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201208/Synthetic-biology-and
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201208/Synthetic-biology-and-machine-learning-can-trigger-and-speed-up-maturation-of-lab-grown-organ.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Synthetic biology and machine learning speed the creation of lab-grown livers"
-    excerpt: "Researchers at the University of Pittsburgh School of Medicine have combined synthetic biology with a machine-learning algorithm to create human liver organoids with blood- and bile-handling systems."
-    publishedDateTime: 2020-12-07T16:11:00Z
-    webUrl: "https://medicalxpress.com/news/2020-12-synthetic-biology-machine-creation-lab-grown.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-12-synthetic-biology-machine-creation-lab-grown.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-synthetic-biology-machine-creation-lab-grown.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/syntheticbio.jpg"
-        width: 2880
-        height: 2880
-        isCached: true
 
 secured: "SVDP73GOWxmLg/M7bDqsgFBLXaot26CHn6shVT0L62PZg5N9A5LtdN0TUWPeyugt+yCTGLZQOfwS1aQXjei4IULoBvQ9SIpjNmbiHLvgDvWIbkCCBp9EVJIzVGAvQFoTCYeQo4YV9A35WQaE5XhAfApz+JN5rA/v416ygNNvepZt00NnNn2SSg1Yn29PTP4Z63jgdOzsYfrqH90dGw7SMQqvYVt6kydn439eH5YnBvi7rOLsxPlbPtuNCFZHfX6xy/Sri1AEc71V7XLP78yMxFff7v02VylBKe0p6C7OjP+inw4EY2sScp91lcGvh8HvG5evPUGalt6NWUekBPrNfyj+2O05nx5W5GNl6J3wHdD7kmF6vsSLTFpmRzRBReXkg3BkboBki4yg/u1HsTB8bpQ/9db9sAJR6JhUsKoxqthgKlnLanLcnPAk1HK2+WTnkwojjBG6qSydNlfS+hRFkQ+xhkiPAyu9jwkNLO5Gy7mZvpfitWXoZ74vFdKH33Vsj3tI50nJA3aml7bilWOOgg==;FbmVDQDw2BXB4w6GZd5LCg=="
 ---

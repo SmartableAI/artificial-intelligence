@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterpr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,28 @@ images:
     isCached: true
 
 related:
-  - title: "Driving into the future from autonomous to AI"
-    excerpt: "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society."
-    publishedDateTime: 2020-12-07T15:54:00Z
-    webUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
+  - title: "Nearly half of IT leaders fear AI will them in the next decade"
+    excerpt: "Two-fifths of IT leaders (41%) believe that artificial intelligence (AI) will make them redundant within the next 10 years. Trend Micro’s research found that only 9% of respondents were confident AI wouldn’t replace their job within a decade,"
+    publishedDateTime: 2020-12-09T15:50:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358067/nearly-half-of-it-leaders-fear-ai-will-them-in-the"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 49
+  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
+    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
+    publishedDateTime: 2020-12-07T22:01:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Shaping the Future of IT: AI and AIOps"
     excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19. So it was"
@@ -60,20 +67,15 @@ related:
         width: 1358
         height: 600
         isCached: true
-  - title: "Library tools transform from analog stacks to artificial intelligence"
-    excerpt: "In March 1987, new shelving installed by library staff, UAB students and volunteers provided storage for more than 200,000 printed volumes in Mervyn"
-    publishedDateTime: 2020-12-07T15:43:00Z
-    webUrl: "https://www.uab.edu/reporter/campus/retro-spectives/item/9343-library-tools-transform-from-analog-stacks-to-artificial-intelligence"
+  - title: "Promote the deep integration of artificial intelligence and rare earth industry"
+    excerpt: "At present, artificial intelligence vision technology has been landed and applied in rare earth permanent magnet products, 3C shells and other industrial fields. Baotou, as the gathering place of rare earth permanent magnet industry,"
+    publishedDateTime: 2020-12-09T02:06:00Z
+    webUrl: "https://news.metal.com/newscontent/101339868/Promote-the-deep-integration-of-artificial-intelligence-and-rare-earth-industry/"
     type: article
     provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 37
-    images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/4e0e0929a9e28d6dc11af73535d78609_XL.jpg?t=-62169984000"
-        width: 900
-        height: 674
-        isCached: true
+      name: Metal
+      domain: metal.com
+    quality: 15
 
 secured: "FxYPZqByaEpPT7AmIlA/+IHxT9XednHjM8Qx/igkmXHBqRhWyo9m6uBjMIjL+N3YdiYtb7jAKp7ydloAoqF7HE0/9sC5tu38pWU3SL/CQUPvxrkgvG7bRgmpIIVgomlpR5i4i8CU+F8lcYKKJWb+Ij28A9NinRcnEERr9rHn52LUYKvl0r3LgN8YV/A2yORClC6zEwfbsNXfS0qs8cnyZIRTPOpX/h+e/ZcLlwwCZc7Yq5m0yXfyDr6w8nxRGCJu5XiGzZDILpJAH6j5Iih6MS/dRDeJkDVWrssQgsNL5hie7f6Xqx9nsyPDVGar3q0VMlA8T0+tBj7rlPHuAxxENsSGMYvLzr/He7eeVV4mZjPEnQj/xbJtO3jdCphWeISv3C3kFz8mggtXgU25a8G7EM0ku78egj7cwGzuFIGnC9kpwFLuDbZ8aNZORdgf1pg4Lz/CGiZj1dKId9VMA42nlXs3ARLmBOefpqioqiNji/iXfDNcInPylwNWuCjFbFQdA6YuiApilYohAgo1VefkHA==;qFvuJZiO08ofuiMzcnXUrg=="
 ---

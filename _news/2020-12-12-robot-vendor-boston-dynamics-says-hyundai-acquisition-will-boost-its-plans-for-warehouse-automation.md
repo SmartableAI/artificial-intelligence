@@ -41,22 +41,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "Meet Ghost Robotics, the Boston Dynamics of combat bots"
-    excerpt: "Ghost’s quadruped bots are the scary older brother of every other dog robot you’ve ever seen. And with good reason. They’re shipping off to join the military."
-    publishedDateTime: 2020-12-07T15:57:00Z
-    webUrl: "https://www.digitaltrends.com/features/ghost-robotics-military-bots/"
-    ampWebUrl: "https://www.digitaltrends.com/features/ghost-robotics-military-bots/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ghost-robotics-military-bots/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/ghostrobotics2-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "B2In0CC9Zu8gjztm3n+BchgJPWVpZ6HX5yZ0IBLyoxnKkZhtZVRpXIpPWe1fwIaD7MoeNODgMpwZl/V9oB5/mdxjCaaZCFhLHhKb9vHJE5qUsfcS2TnKmzE6dD+FZdTJHwXPQMinT8n9xkeilJvkRP5IhKgBVWtCeUU9P11dqp3YVZdGna70TsJGIPfFGSvQeCa0+9VNzlLJi02ySmoxdIxfjQMNkssNtPMiqeiAMz85ZpdENXRSVXSEUxoO5403VkgcokEfhJ36AjFMHJDDAqxmvUeY9oveLSL8fjvoVtmjDyTsDn8fdszwHVYDFslzjZ9G1AgijjyR/vp6+PKjc5ZCg7+OHi2T47h/N+6Djz4=;BKSURThniYYiGGw/Mg9GOA=="
 ---

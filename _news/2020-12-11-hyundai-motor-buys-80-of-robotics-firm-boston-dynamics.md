@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Ghost Robotics, the Boston Dynamics of combat bots"
-    excerpt: "Ghost’s quadruped bots are the scary older brother of every other dog robot you’ve ever seen. And with good reason. They’re shipping off to join the military."
-    publishedDateTime: 2020-12-07T15:57:00Z
-    webUrl: "https://www.digitaltrends.com/features/ghost-robotics-military-bots/"
-    ampWebUrl: "https://www.digitaltrends.com/features/ghost-robotics-military-bots/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ghost-robotics-military-bots/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/ghostrobotics2-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Robot vendor Boston Dynamics says Hyundai acquisition will boost its plans for warehouse automation"
     excerpt: "South Korean auto giant pays $880 million for majority stake as firm launches Pick and Handle models for logistics tasks."
     publishedDateTime: 2020-12-11T22:02:00Z

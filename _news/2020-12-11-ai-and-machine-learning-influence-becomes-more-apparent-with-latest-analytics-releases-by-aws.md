@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influe
 webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "On how to become a robotics and data analytics company"
-    excerpt: "I recently met with Eric de Groot of RevelX (author of “DARE: A Mindset for Innovators in the Digital Age”), who concluded with a statement that Fugro is a very interesting case study. From a geotechnical company,"
-    publishedDateTime: 2020-12-07T15:08:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-become-robotics-data-analytics-company-pawel-michalak"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEqi0QKZgGQsA/article-cover_image-shrink_600_2000/0?e=1613001600&v=beta&t=C8RzwL98f8-mAAFRYIxdGI26dVCiWoKk6M59ZYCfdhA"
-        width: 744
-        height: 400
-        isCached: true
   - title: "Cognitive Analytics Market widen to witness high growth in near future"
     excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
     publishedDateTime: 2020-12-07T17:29:00Z

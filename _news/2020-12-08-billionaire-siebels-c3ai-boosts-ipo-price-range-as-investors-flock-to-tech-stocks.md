@@ -83,22 +83,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 82
-  - title: "Artificial Intelligence Firm C3.ai Raises IPO Price Range"
-    excerpt: "The initial public offering market in 2020 remained hot Monday with enterprise artificial intelligence company C3.ai raising its pricing to between $36 and $38 per share. The Redwood City, California-based company previously had a debut range between $31 and $34 per share."
-    publishedDateTime: 2020-12-07T15:08:00Z
-    webUrl: "https://www.thestreet.com/investing/ai-firm-c3ai-raises-ipo-pricing-range"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/ai-firm-c3ai-raises-ipo-pricing-range"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ai-firm-c3ai-raises-ipo-pricing-range"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 72
-    images:
-      - url: "https://content.jwplatform.com/thumbs/ovyBpuoH-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "C3.ai Prices IPO at $42-Share, Above Estimated Range"
     excerpt: "C3.ai, the artificial-intelligence-software provider, priced its IPO at $42 a share, above its latest estimate of $36 to $38."
     publishedDateTime: 2020-12-09T13:51:00Z
@@ -130,22 +114,6 @@ related:
       - url: "https://content.jwplatform.com/thumbs/7E6sbUJ2-720.jpg"
         width: 720
         height: 406
-        isCached: true
-  - title: "Airbnb, DoorDash And Billionaire Tom Siebel's C3.ai Are Upsizing Their Public Market Debuts, Revving Up Biggest December For IPOs Ever"
-    excerpt: "Amid a red-hot market for tech IPOs, six firms are on track to raise roughly $9 billion in offerings slated for this month."
-    publishedDateTime: 2020-12-07T15:47:00Z
-    webUrl: "https://www.forbes.com/sites/jonathanponciano/2020/12/07/airbnb-doordash-and-billionaire-tom-siebels-c3ai-are-ipo-revving-up-biggest-december-for-ipos-ever/"
-    ampWebUrl: "https://www.forbes.com/sites/jonathanponciano/2020/12/07/airbnb-doordash-and-billionaire-tom-siebels-c3ai-are-ipo-revving-up-biggest-december-for-ipos-ever/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2020/12/07/airbnb-doordash-and-billionaire-tom-siebels-c3ai-are-ipo-revving-up-biggest-december-for-ipos-ever/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce4dc8d145b3d32f9750bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D382%26cropY2%3D3622"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Artificial-Intelligence Software Company C3.ai Raised Its Expected IPO Price Range"
     excerpt: "The provider of artificial-intelligence software now expects to sell an offering of 15.5 million shares at between $36 and $38 a share."

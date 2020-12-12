@@ -325,20 +325,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NPS Researchers, Marines Explore the Trust Factor in Human-Machine Teaming"
-    excerpt: "Trust in autonomous systems to do what they are designed to do, and meant to do, is paramount before these systems can be confidently employed as an operational capability. In an era of Great Power"
-    publishedDateTime: 2020-12-07T15:39:00Z
-    webUrl: "https://www.marines.mil/News/News-Display/Article/2437025/nps-researchers-marines-explore-the-trust-factor-in-human-machine-teaming/"
-    type: article
-    provider:
-      name: Marines
-      domain: marines.mil
-    quality: 22
-    images:
-      - url: "https://media.defense.gov/2020/Dec/07/2002547115/1140/641/0/130511-M-KS710-013.JPG"
-        width: 962
-        height: 641
-        isCached: true
 
 secured: "E3betraSXaapO7temxREA09fZoRyg9/ikfO8XVJPULkFAGAmbyOXxT9pXUqlq3sVxkY4R3s0I7LIJNklyv1jOqpMaQrdiUuSU/5dVNN6h4NeFi3Qwrlu8wMkwcvVRZir69Kb5Z8+aTOXh1u5OGhc2uQpyvm3QTwB+nHLA+AgXwoBUoBA8ef4m+X33V5xiWBdxK+mEjVKC6DrVBphbSxGvDQIk4v5rVKNbdrvJySuGqgiZST4TiQyQRSSlcN1SiOtUVr/IdCzuGrTsipTxHse+QoSTQP27ICRVQ300OPSOT8QXZsj7aDIymVRxYSdfdRQmLINEZZLd4z0W70e1AKZmqO8t1ghbR38VFvBZIISjn8=;AcCtr52k9x3l6/x7Wj28cQ=="
 ---

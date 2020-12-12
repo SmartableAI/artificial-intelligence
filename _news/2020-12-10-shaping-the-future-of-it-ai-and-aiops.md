@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driving into the future from autonomous to AI"
-    excerpt: "Founder, CEO, & President of Mobileye, Amnon Shashua, explores how transportation technology is going to profoundly transform our society."
-    publishedDateTime: 2020-12-07T15:54:00Z
-    webUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/driving-into-the-future-from-autonomous-to-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Amnon-Shashua_Interview-Still-1_selected-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps"
     excerpt: "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps."
     publishedDateTime: 2020-12-07T17:33:00Z
@@ -61,20 +45,38 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Library tools transform from analog stacks to artificial intelligence"
-    excerpt: "In March 1987, new shelving installed by library staff, UAB students and volunteers provided storage for more than 200,000 printed volumes in Mervyn"
-    publishedDateTime: 2020-12-07T15:43:00Z
-    webUrl: "https://www.uab.edu/reporter/campus/retro-spectives/item/9343-library-tools-transform-from-analog-stacks-to-artificial-intelligence"
+  - title: "Nearly half of IT leaders fear AI will them in the next decade"
+    excerpt: "Two-fifths of IT leaders (41%) believe that artificial intelligence (AI) will make them redundant within the next 10 years. Trend Micro’s research found that only 9% of respondents were confident AI wouldn’t replace their job within a decade,"
+    publishedDateTime: 2020-12-09T15:50:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358067/nearly-half-of-it-leaders-fear-ai-will-them-in-the"
     type: article
     provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 37
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 49
+  - title: "Special Operations Strives to Use the Power of Artificial Intelligence"
+    excerpt: "U.S. Special Operations Command hopes to increasingly use artificial intelligence and machine learning in all aspects of warfare, its commander said."
+    publishedDateTime: 2020-12-07T22:01:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2438076/special-operations-strives-to-use-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 39
     images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/4e0e0929a9e28d6dc11af73535d78609_XL.jpg?t=-62169984000"
-        width: 900
-        height: 674
+      - url: "https://media.defense.gov/2020/Dec/07/2002547643/1280/1280/0/200903-F-LY743-1003C.JPG"
+        width: 1280
+        height: 853
         isCached: true
+  - title: "Promote the deep integration of artificial intelligence and rare earth industry"
+    excerpt: "At present, artificial intelligence vision technology has been landed and applied in rare earth permanent magnet products, 3C shells and other industrial fields. Baotou, as the gathering place of rare earth permanent magnet industry,"
+    publishedDateTime: 2020-12-09T02:06:00Z
+    webUrl: "https://news.metal.com/newscontent/101339868/Promote-the-deep-integration-of-artificial-intelligence-and-rare-earth-industry/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 15
 
 secured: "rmetcuIFsldQ3LF3QOkTVwB0Jttn/ziBQclUOFpMXe9C1saMDejweHc7K7aWxQ8l3+k8E6D5GSaoXfWq8WKnMFZg4yyRPo5EfmmgDfO3xrruI7P6jdl1ivBo33Vs7r38Av2gjmsjik613raauFGg8claRUFniqzOBnqBdXLfV/SyITWvn03QT0yYVI5TCI8dCIfwQoi0cx5OElBJMNWBoSAfRRSszHJziC62KNsJdHsMCZpniP4AyCr6lNoJTwma0DeKTQ3M+AKCbxTQyzayJxy6yZrAyloqxEPdI3zjrAzI3scjJBJkZkH56dKYiODhFJT3IzqEmf6h/LUNMbSmWl/jA4B+pZAk9zR9rQO2F6pLrgGAFO3NqWTERJ0FGHl8zXPzadw3GZg/B2XSBPonxXwbpwGgWsim6FhLg0eP1XcGCpQSbKwj2QU9Qm4eKr+XmQ3MkXJ+Vy/bPf8gCewvOlQ69I9cdgr4qsrcYkNpSueL+JDZpeCmTsjpqJ1SMU16XODqcQJaMvb7QvCHHFuA5w==;20SLWPngdqK07OpYM1rbGA=="
 ---

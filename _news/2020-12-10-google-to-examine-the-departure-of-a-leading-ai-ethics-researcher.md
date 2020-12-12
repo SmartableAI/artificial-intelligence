@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -324,20 +324,6 @@ related:
       - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "NPS Researchers, Marines Explore the Trust Factor in Human-Machine Teaming"
-    excerpt: "Trust in autonomous systems to do what they are designed to do, and meant to do, is paramount before these systems can be confidently employed as an operational capability. In an era of Great Power"
-    publishedDateTime: 2020-12-07T15:39:00Z
-    webUrl: "https://www.marines.mil/News/News-Display/Article/2437025/nps-researchers-marines-explore-the-trust-factor-in-human-machine-teaming/"
-    type: article
-    provider:
-      name: Marines
-      domain: marines.mil
-    quality: 22
-    images:
-      - url: "https://media.defense.gov/2020/Dec/07/2002547115/1140/641/0/130511-M-KS710-013.JPG"
-        width: 962
-        height: 641
         isCached: true
 
 secured: "zeImg1ftK69FlcCPH9/Mcm++yi8CWAFhIqAIxw6+1uhZyf/TXj/FSdppyCehVlBOYxOei5q+vPHRM+NVpY9ZyzgiOlz2B4zx8n+dbWN3uqrq9gQrq6rJeiyof+S9krw3HdCkrjHu89qKR8VBUTp7QHpFul+8KbXMUCwHcbfXhWyFRuXPKvuv45gNm21IgPCUf15yfyVof/xs9sIoQCjTgH2BYkXOElYCtX3wTwaQeKLB9Bkn832JEq2wJXEnwLdL2eWHO4IkieeHVBQErezx19HpmgSQo3f84WLf6C21BcHsSiDnxwGTKOxtWxI4QT/UdARxrtJ/N6AauMffIfi53Yrf3HcnIBjma0u5rlHvi6MEK+lcskTqXC8BND+u+y1dDnNDWC8IljxklLNqbT/Jd3PjcSsUIUZps8lbunT6FQbY4IzXxcbNf91O3fOjJWBi1pXuEVjYwcubPeSpLlG/bQspGpXkVPhK727Znt/RwX9N9j+GRrzj5aLsOVnmy4gW0GSK3ijLt/vV/sq8o4t0Qw==;e9v3DrK3I6ezMqRZfLp3VA=="
