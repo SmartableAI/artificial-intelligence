@@ -9,7 +9,7 @@ ampWebUrl: "https://investmentu.com/abcellera-ipo-stock/?amp"
 cdnAmpWebUrl: "https://investmentu-com.cdn.ampproject.org/c/s/investmentu.com/abcellera-ipo-stock/?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 730
     height: 467
     isCached: true
-
-related:
-  - title: "AbCellera, tapped by Lilly for its COVID-19 antibody therapy, sets IPO terms with $5B valuation"
-    excerpt: "Now, it’s going public in the hope of getting more of its antibody work, which includes areas outside of COVID-19, out to partners."
-    publishedDateTime: 2020-12-07T13:58:00Z
-    webUrl: "https://www.fiercebiotech.com/biotech/abcellera-tapped-by-lilly-for-its-covid-antibody-therapy-sets-ipo-terms-5b-valuation"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 27
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1607352213/Nasdaq-Tower_092614_B.jpg/Nasdaq-Tower_092614_B.jpg?.I9s4nuPOUrPJX3KQtj7p3puS_n83t7S"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "JM+WLuNe7XWglTom68vDEFWmzW9DRl4QEAuDO7XiDbPC8BxgroJjTgrBlbLBVWdca2CPe+ncPtugwiVGnLiDu9ZyDdHZydBOOrvLNOAfpPKGAum/VA6hhOTg8aeg9qJrPt//i5Rct5+bE/Jyx3FIfPLHgpElja1So6EUHBYiam5/nMXxpVBw40EmkGJ2tFmZqv4NzOQP8Jow4M1rKdat33rj3aAhV0iHzrkd+k6ZaFcfFVRkAGt64KoaTP8TP+fmE/aSp/9BHCw0hqzad6WJxAowZYZPLZAjTLoemoCxH0o7n+3JdXQk3LbRQVN8P9a1OFNymrnfJF6oRp/LESunk9017I3RlAhF/x6s8+vya0o5kg6zCnsyd8drC9C41CNvG4hGuHw7hvL4dVgdnIgGO1uzaaS1J5KNiKXdIKj9y64eJU/8EBmn6iKR46S0ljfyT35Isctm3c3xlzVlB23WN0oMA4G9ucbnGmHU+zdPsRCYOvbxWl7MPdNaTdNOSTwL/sEqYoRf1VNwfxLLA0J6Zw==;JIqLeKtaTNR/lpzUrs/drA=="
 ---

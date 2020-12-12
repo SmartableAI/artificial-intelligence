@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Why AI for admin will be a top healthcare investment area for 2021"
-    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
-    publishedDateTime: 2020-12-07T14:50:00Z
-    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "AmB9zP2HJ2om+ONaSPkOgKuDKEAxSigMl23allpUUMD9buWV1ZMRjHSx9OeTuyc+u9Lrll2JAdOOBrZIkiYQPKmxHHotYZXrJZprZbygKsftKHTNvjbI1rdcT0KndT8VlgNYRorFWQvrEv/GbRvzsz2Okz+MD/u5Pr5zXv3zmHShQsSBBeScfp4cner9z1kygA6w8IeOTK6XtIxu8x6BoEBHaKRSGJtxNvIphK4rcMN+uRJ6vUGr/aoDkR3o6Q6bXLReQva05EimZQQidqhwZlxhzWsahDDgIYfw/bD7afmsvvvlLmeZEG1p/oDrE0KONLDJSFRNQp8DQ8EyN0ZYTDmSzoT6iC/xXMPWeMn+tvHUEq5scQICBk842yJRH4ZsPJYy4GfJpqUsQwkV7r9giq2uwwkxcO+cM4x5LwusyF4+Vxo9OGSGKhhwyHUEfCRx1ONn69VbXPfbbjuswB3gnFn0E4hMrT41Qe6PrjljufJDCD+rD0GFi/QHt+nFaCGdao4fumhHbPmkyMBtS8GhuA==;0DGsKaJDjgtzJT1yHnYgXg=="
 ---

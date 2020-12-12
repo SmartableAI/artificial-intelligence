@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Why AI for admin will be a top healthcare investment area for 2021"
-    excerpt: "The AI for healthcare admin space is heating up with consolidation and unicorns emerging all in the same week."
-    publishedDateTime: 2020-12-07T14:50:00Z
-    webUrl: "https://www.businessinsider.com/ai-for-admin-soaking-up-healthcare-ai-spend-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5f80bf664c3b2e0019bba440?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Decoding the Booming Adoption of AI in Healthcare Market"
     excerpt: "The adoption of artificial intelligence in healthcare ensures accurate disease diagnosis and informed decision making. AI-driven technologies such as predictive analytics and machine learning are used for deriving advanced patient outcome and effective patient care."
     publishedDateTime: 2020-12-08T10:30:00Z

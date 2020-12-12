@@ -23,51 +23,58 @@ topics:
   - AI
 
 related:
-  - title: "Deepcell raises $20 million to identify cells with computer vision"
-    excerpt: "Deepcell, a startup developing technologies to identify cells using computer vision, has raised $20 million in venture capital."
-    publishedDateTime: 2020-12-07T14:39:00Z
-    webUrl: "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/deepcell-raises-20-million-to-identify-cells-with-computer-vision/amp/"
+  - title: "UK AI start-up Papercup raises £8m in funding"
+    excerpt: "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages."
+    publishedDateTime: 2020-12-10T13:24:00Z
+    webUrl: "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Sharecast
+      domain: sharecast.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img3.s3wfg.com/web/img/images_uploaded/1/f/1566895760_amplifier_audiophile_component_2607311.jpg"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "Deepcell raises $20 million to identify cells with computer vision – Jaweb"
-    excerpt: "Deepcell, a Silicon Valley startup spun out of Stanford University in 2017 with a novel way to identify cells using AI, today raised $20 million. The company says the funds will be put toward bolstering development of its technology and enabling it to drive a “hypothesis-free” approach to cell classification and sorting."
-    publishedDateTime: 2020-12-07T14:53:00Z
-    webUrl: "https://elmoudjaweb.com/deepcell-raises-20-million-to-identify-cells-with-computer-vision-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/deepcell-raises-20-million-to-identify-cells-with-computer-vision-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/deepcell-raises-20-million-to-identify-cells-with-computer-vision-jaweb/?amp"
+  - title: "London AI startup secures £8m funding for new research"
+    excerpt: "A London artificial intelligence startup has announced that it has secured £8m in funding to invest in new research. Papercup secured… | London | Funding | Technology | Technology | Inward Investment"
+    publishedDateTime: 2020-12-10T11:34:00Z
+    webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 72
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Deepcell-raises-20-million-to-identify-cells-with-computer-vision.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI-focused Deepcell raises $20M in series A"
-    excerpt: "Artificial intelligence (AI)-powered cell capture startup Deepcell Inc. scooped up $20 million in a series A round led by Bow Capital. The funds are earmarked for developing the company’s microfluidics-based technology,"
-    publishedDateTime: 2020-12-07T23:19:00Z
-    webUrl: "https://www.bioworld.com/articles/501026-ai-focused-deepcell-raises-20m-in-series-a"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
     quality: 39
     images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/Dollar-pig-bank.png?height=635&t=1588782533&width=1200"
-        width: 847
-        height: 635
+      - url: "https://bdaily.co.uk/images/uploads/xnr9zCyCZsnKVW5HY0Ng4sHiQy7gXXKQr7XsYNyE.jpeg?w=940&h=430&fit=crop-50-50&s=f70bbaa3c84e204929858820dfb394bd"
+        width: 940
+        height: 430
+        isCached: true
+  - title: "Papercup, the UK startup using AI for realistic-sounding voice translation, raises £8M funding"
+    excerpt: "Papercup, the U.K.-based AI startup that has developed speech technology that translates people’s voices into other languages and is already being used in the video and television industry, has raised £8 million in funding."
+    publishedDateTime: 2020-12-10T09:02:00Z
+    webUrl: "https://techcrunch.com/2020/12/10/papercup/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 37
+  - title: "London AI start-up Papercup gets funding boost to help make video content watchable in any language"
+    excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into"
+    publishedDateTime: 2020-12-10T10:30:00Z
+    webUrl: "https://www.newsoneplace.com/40645471911/ai-london-papercup"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 23
+    images:
+      - url: "https://static.standard.co.uk/2020/12/10/09/Youtubecontent101220.jpg"
+        width: 4086
+        height: 2724
         isCached: true
 
 secured: "V3LjMSoINwScxV6ZyAeZoVzVjFCP2MB8o0qUPTFcgTC9aXOjshoszxEQXYBG1oS2VM+Yt8n/K4LYQcvxCtB32R0fS66A8DWy1B7KgEc0fqkoKjTVaNGXCB8esbdg+kQFJ2VPbXcO1cPBSIPzfLw/YkRzCMGyN+TBHscJkj7qP0BEAckR/vKvjmMKbKrlYUMqu8flt+9p8Gw0BKbASOtEY7j43wSH99Pv96aCDa4lSYsjVy9PevhiwDhOs88/dwdzFX1tF23Lgkh3Bmd5DoaAcnVOSQ11zhpusWHzKECAg3sJ0K23ByqjOv3QEJzuv8FaxOCW72jjZ2Ln6t8Wgotw60G/4ufiyoDnbH67CPFFIliqyWU85IHq8KxRLGQQFguEo4dNbIIawNdhBAtN0UHrjDSDNzsN5IjBnbxPIcA3nVty6zTfocPAjdzbfsqtm4N7uj3UBbwTqc99YVlW1oSeI3LcaqAtiiJ9hwxipCl9aQ6wWjJOkkG/rxcy7QIAiTMXjMo7Fv+zNRE6nRGcjko8ww==;+nG1ZLhQqXGwrY7Rq48umg=="

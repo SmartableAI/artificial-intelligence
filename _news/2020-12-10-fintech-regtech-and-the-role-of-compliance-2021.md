@@ -1,20 +1,22 @@
 ---
 category: news
-title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
-excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
-publishedDateTime: 2020-12-11T06:36:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rising-trends-technology-and-demand-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-12-10"
-webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rising-trends-technology-and-demand-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-12-10"
+title: "Fintech, regtech and the role of compliance 2021"
+excerpt: "The year 2020 has been a year of digital transformation and acceleration to meet the challenges of the COVID-19 pandemic. By necessity and by design firms have implemented the roll-out of technology,"
+publishedDateTime: 2020-12-09T22:38:00Z
+originalUrl: "https://www.reuters.com/article/bc-fintech-regtech-report-2021-idUSKBN28J2AP"
+webUrl: "https://www.reuters.com/article/bc-fintech-regtech-report-2021-idUSKBN28J2AP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2AP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2AP"
 type: article
-quality: 35
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543983841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81DF"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -44,22 +46,6 @@ related:
       - url: "https://media.ycharts.com/charts/983fd8a6dd5087c5cd0b4aeafe8225a9.png"
         width: 720
         height: 387
-        isCached: true
-  - title: "Fintech, regtech and the role of compliance 2021"
-    excerpt: "The year 2020 has been a year of digital transformation and acceleration to meet the challenges of the COVID-19 pandemic. By necessity and by design firms have implemented the roll-out of technology,"
-    publishedDateTime: 2020-12-09T22:38:00Z
-    webUrl: "https://www.reuters.com/article/bc-fintech-regtech-report-2021-idUSKBN28J2AP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2AP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2AP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543983841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81DF"
-        width: 818
-        height: 545
         isCached: true
   - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
     excerpt: "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?"
@@ -88,6 +74,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
+    excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
+    publishedDateTime: 2020-12-11T06:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rising-trends-technology-and-demand-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meet the Fintech companies leading the innovation wave even in the aftermath of a global pandemic"
     excerpt: "In a year that has been fraught with challenges for many, leading companies including Amazon Pay, PayU, HAPPY, WazirX, CashRich, and TransUnion CIBIL came together to celebrate global"
     publishedDateTime: 2020-12-09T06:42:00Z
@@ -174,6 +174,6 @@ related:
       domain: yourstory.com
     quality: 0
 
-secured: "KyjNOYGVrPb2Q6gO+EhqhcZZeFkEUB2Ru2qcNRzDnjwX5ZWneXHuJexPXaz/zOE8G8OOBMqYPu2R8y8Bm8pEWxmJTdzxgJzUin6hKrkW8pQao5qYXa4Jlm/d9pyFE0QBLCth+Z4G07LtL/NiW6oXmavtiIYMuqoC0c66VTWPGtmAwd9Dsfkn1qz62f7y4mADKcj0vIccJtkaakeGee9iaTFOQtv/gUi+sLIVfcZrwacSTAH5/IbQW7AWOqsm6xt9sdBmtLuwqfXgV/gN8/IjCaytDkf6C8lwzc+4gSX0uJ5VgBn2djTRjQEOLj+N+TYSRd2JIbPcp4A3xVDefEaP44XApbVr6KtrNWgXsAp8Q5Q=;NrZtR8K37paFF0aasGBICw=="
+secured: "pIzP4+jvZozpnDINCUUsYwDMrHArm+kZFYDfzalGsS/FfdxWcXbUkLWw5nIZUAgYSemO6T0W8eGoBWa1HxkbzFXjC0m8Gb69I5PhxefATQJ93ZnDqf1ZI17bJkuW4xpYBmpKSRx5mYEMjBzzCu3FHMyMhSnbpkwqdf9EZq4I8D/vxXVKCmnMMUJprL7zt5GmLw5RHlHuUdGKrKbJO3IecJdSCHX3nzP51Vns0LxheuUiUpLaPMIfN/8oBry/yN5D527ChBWJdkG0DraK9B4WJy3G6yVoj7C3BwbUI5UpYeNjzOVG/xBcpEyfJpYdn7abSleUIHVM8pYTbG0U6ZTeFTjZyfX5TfokC00q3h1VhMo=;z5XVFHoWc1Pb7t8Iw6V6lA=="
 ---
 

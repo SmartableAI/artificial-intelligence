@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "PostEra enters a multi-year strategic partnership with Pfizer Inc. to advance machine learning for Drug Discovery"
-    excerpt: "PostEra, a biotechnology company specializing in machine learning solutions for preclinical drug discovery, today announced a strategic partnership with Pfizer Inc. with the goal of accelerating small molecule drug discovery by developing a platform technology based on generative chemistry."
-    publishedDateTime: 2020-12-07T14:15:00Z
-    webUrl: "https://www.nasdaq.com/press-release/postera-enters-a-multi-year-strategic-partnership-with-pfizer-inc.-to-advance-machine"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
-
 secured: "SkVEMcGIAk3I7P92AaxtQGO6gzw0oEsDVGKppXBc9WH55pcvkQIsJvWktjEV/UHqy46SYIh4c9ALwKLw4l7rqeYKXXI8WMprWaRvxZEYXUpMQzRYEjrp33Tt2Ksd7rdIySO3kaOGM+bwGrJpjbpAVf2A3wBtJi7G8GI7dMvIM0Ywb5Yuy618vVl9zKGicZM1md/jOtZq9GBw5I6fS4kdGvAIAqNKRWUVyvgyQTyHA6nZ/Oq2ctEvICxR0MJUUtACd/MKqQ/qsiN8lowWg04Wrmw1mwrCh90ClP2Tfp4pYgQy8owcLBBSRvC02UALZ0CyifZhXVtiHm0cxSNAw8I3jvkBoXNhYCJl1bmxAn5sOME=;gc6zWJ3C3RvHjBRIYcxfMA=="
 ---
 

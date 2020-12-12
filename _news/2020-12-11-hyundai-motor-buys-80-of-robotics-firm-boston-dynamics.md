@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://icdn4.digitaltrends.com/image/digitaltrends/ghostrobotics2-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Robot vendor Boston Dynamics says Hyundai acquisition will boost its plans for warehouse automation"
+    excerpt: "South Korean auto giant pays $880 million for majority stake as firm launches Pick and Handle models for logistics tasks."
+    publishedDateTime: 2020-12-11T22:02:00Z
+    webUrl: "https://www.dcvelocity.com/articles/48360-robot-vendor-boston-dynamics-says-hyundai-acquisition-will-boost-its-plans-for-warehouse-automation"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 40
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202012/boston-dynamics-Screen-Shot-2020-12-11-at-32419-PM.png?height=635&t=1607718708&width=1200"
+        width: 1068
+        height: 635
         isCached: true
 
 secured: "kXXyklmK7Zol1Wp17h0rhRKMVnoRVR/tpYcm3hvuuVG20s1JHA8GHUm8eleumVw9j3oBnmMlM83c7F7XfD1xiuH5GeenhCUOnECJuLv7RTJZv8tJN3UHsyiEfNP5ZMFLWc+adluC1/ioRZf1cCmoo9kpJeos/sKAAtIXGKun0MJoAOCeRI26erM/aCpX/igf8e7j8K0wfGKxt/6CDi1SkELefL514pWU45XCLhFzvut2dnWbrIpNfuFwJJscNxxkD9ozTXFsG9Fob4QhRJDDDvaLrmIBuBILHbeG7BtwSSe7zqp/LsTlEJOeSOeMlYFNiBTWs4TrtKfbI+l3mx+787QHjVGE97yqDW2YsKBV1Kabi+Y5rZCbhCPb+u8L0Q3uchscuQZHop4jX1nlsxk7CoOtLd3TdCyJf4eCYHJRp/52Hj8yjHNrWGOB0Grr/kcmY39i2U0Enk9VTHbTpWeOQcwzQHymiq8jAtxx1vhxatQygRYLZB9dm7MEF645k7890sDNmZSp8ZCX5vAk+KFJng==;j36tOttu6POg1htIUS+tlQ=="

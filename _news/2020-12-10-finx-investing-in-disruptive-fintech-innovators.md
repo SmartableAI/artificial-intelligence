@@ -41,6 +41,22 @@ related:
         width: 720
         height: 387
         isCached: true
+  - title: "Fintech, regtech and the role of compliance 2021"
+    excerpt: "The year 2020 has been a year of digital transformation and acceleration to meet the challenges of the COVID-19 pandemic. By necessity and by design firms have implemented the roll-out of technology,"
+    publishedDateTime: 2020-12-09T22:38:00Z
+    webUrl: "https://www.reuters.com/article/bc-fintech-regtech-report-2021-idUSKBN28J2AP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2AP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2AP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543983841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81DF"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
     excerpt: "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?"
     publishedDateTime: 2020-12-11T10:03:00Z
