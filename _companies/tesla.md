@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6660626
+  followers: 6660951
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -33,7 +33,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1337283677722615813/mRNBJQhh_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png"
     width: 400
     height: 400
     isCached: true

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "persado"
   url: "https://www.twitter.com/persado"
-  followers: 5465
+  followers: 5467
 
 size: 201-500 employees
 yearFounded: 2012
