@@ -18,11 +18,11 @@ website: https://t.co/qaAoprog1k
 twitter:
   username: chrisbishopmsft
   url: https://twitter.com/chrisbishopmsft
-  followers: 5403
+  followers: 5404
 
 googleScholar:
   url: https://scholar.google.com/citations?user=gsr-K3ADUvAC
-  citations: 118639
+  citations: 118812
 
 topics:
   - AI
