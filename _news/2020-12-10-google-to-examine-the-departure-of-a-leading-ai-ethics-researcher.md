@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -262,20 +262,6 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2018/5/10/sundar-pichai-google-assistant-ap.jpg"
         width: 760
         height: 443
-        isCached: true
-  - title: "Google held a meeting to calm rising employee tensions over the ousting of AI ethicist Timnit Gebru. Insiders say it only raised more concerns."
-    excerpt: "Google held a meeting Tuesday with employees to discuss the ousting of Timnit Gebru, a prominent AI ethicist who said she was fired last week."
-    publishedDateTime: 2020-12-09T02:39:00Z
-    webUrl: "https://www.businessinsider.com/google-attempted-quell-unrest-in-meeting-over-ousted-ai-ethicist-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-    images:
-      - url: "https://i.insider.com/5fcfd3b7240ebd00126bdc16?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "3XHfV29XHYvY6MYtOcYdjuxNd8HcC512FrakwcMAH1KxyQhq0r59f4fUeeDTEaKBRUdDq8NShz8dc7lyv4wWjGPxIbyL2eSzh1LT+seI5YE1gHUAgmQDn9IfWq2zVDEoaPLhGfi2QVy3b30udDQo4UGAscUrRfhdMdisxs8BXu0RCU5HIkiYEM3+uijSOJrII6WraqlwWeOwChknA/QaKLE7l+hIESxFfiM2J1sfrypRtcb7wKaL0SQAj/ljbShvRkyRCZY4A006IroinPfEnl04r/yEUqU2NDxumJQdX5USP+AEzYXwWUSG4wgF4fKsFGwb78dTHrqPcMQnYbP+0VoMeGLcj54Y8t7vPE1zyaRSmE6kODq4v10Bw4jjiT3rbW45BKVYUwlbSoohezc4kkiBB+G7Bd6iygaTTIXYXqRFReZG7c75k27zUHou6Ap+soDYc52Kxy4IkqlBD8RZiygT2ux6854J7B9wjttvdtuTTSpdO3lIz47haNuU+Zo9/y/hMshBA0Jd6VTV0xvy+w==;+e06XYoXvYotZuWIZbCbPw=="

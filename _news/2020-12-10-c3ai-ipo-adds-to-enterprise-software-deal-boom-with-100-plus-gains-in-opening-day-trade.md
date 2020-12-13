@@ -1,48 +1,36 @@
 ---
 category: news
-title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
+title: "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade"
 excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-publishedDateTime: 2020-12-09T18:00:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
+publishedDateTime: 2020-12-09T22:50:00Z
+originalUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+webUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
 type: article
-quality: 50
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655"
+    width: 6271
+    height: 4181
     isCached: true
 
 related:
-  - title: "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
-    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter."
-    publishedDateTime: 2020-12-09T02:03:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YbKoqDzKD0/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
     excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range."
     publishedDateTime: 2020-12-09T19:14:00Z
@@ -75,17 +63,6 @@ related:
         width: 790
         height: 395
         isCached: true
-  - title: "Tom Siebel's C3.ai soars in U.S. market debut"
-    excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
-    publishedDateTime: 2020-12-09T18:01:00Z
-    webUrl: "https://www.reuters.com/article/c3-iot-ipo-idUSKBN28J2MH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2MH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2MH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
   - title: "Watch CNBC's full interview with C3.ai CEO Thomas Siebel"
     excerpt: "Thomas Siebel, CEO of C3.ai, joins \"Squawk Alley\" to discuss the company's public debut. The market will do what the market will do, says Siebel. This is a financing event for C3 to enable us to meet the needs of rapidly expanding demand for what we do."
     publishedDateTime: 2020-12-09T22:02:00Z
@@ -131,6 +108,6 @@ related:
         height: 600
         isCached: true
 
-secured: "VDKpN0dvSNwVukDYr9BFlQ95hZiq025XhEINOfEQlMqLfBA1+F86gkEqMyGQNLkkmEukRSWYObPzLHM8/MB3aCSy/RrGnBcpYir15IW77IxNilYUYtiQCOw/uAbSZezB8j9n9uUsNFYpi46RzozAAoLWquPDm+dCYMAQzW+DhufYEigBl1Gylq0u56vkC7IEmt75TstL/XQrHV4XfqMq8CeDxtnYPOO/hnMu6BpHNUiRIn97cTmEnjQh99rUgG30/Zcj+jLZfL1NzOQ1/oItbClrnEVrvSgbR1zQLqac6Yk8IRo2i/vGjL82xakqmuQW5sc4b5/N22d2UK5LJbiBa+zOc0RlpQ0z3rFZroYljRnc29jP62zikaTCk6FZPwFnzZPbKMP9ky630FgzC6Il4prtMn3iyEf3GW1F4cEpr9E44Yj80wBFrMSIbRFKVMciJ793pdBO5UXXPfAdYUhzqFm4LcbbTgsHc90xZ+oxReLVQXoIYAtl4d3DDdeY7JDwx1eLi4O0tdmvx56yMBoEvQ==;MCDjOY8V+46oSbBljeakvA=="
+secured: "Mfw2C/11ax64NwqKifw24xn13jN108YSC8tG3wvAoW66M6t0mSK6DBrFC1+md+BwFuv94Ml26u26EllYzt4R5ENfm7LgTIN+9uGwOHQUdyHC7z+JFwvdZ15mw9rbxNuwMrw+y63YNYgOd1gFnHDYdf4CPBp8J7ZFmP5nMOEABayfNS3eJVHI3e2U80McHJoYfgm6PJvpIKn1rMeAwRwKmIncl3p7WZuspjJG9TNafo0QJ1t/aSqnVh2Yznd5YtZ3HFH226kPmYJZGDst5POBAGhTe7tCzIh7GOEfUCqrYjCDrIv32AKuqQmEYg8jULF21wLassFrBgOZpDSg5Vf3rAIuLvRu8tTdzlV42Bar6MA=;939VCm0as9xkzuf7cxfNFQ=="
 ---
 

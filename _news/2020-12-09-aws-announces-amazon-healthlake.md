@@ -39,20 +39,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Amazon HealthLake helps healthcare providers analyze unstructured medical data"
-    excerpt: "The service is called Amazon HealthLake, and it’s essentially a data lake tailored for the healthcare industry that’s compliant with Health Insurance Portability and Accountability Act that governs the use of medical data."
-    publishedDateTime: 2020-12-09T01:48:00Z
-    webUrl: "https://siliconangle.com/2020/12/08/amazon-healthlake-gives-healthcare-providers-easy-way-analyze-unstructured-medical-data/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/manydata-1-1024x598.png"
-        width: 1024
-        height: 598
-        isCached: true
 
 secured: "LQQYy/gsUqFqbwjsoR7vg4nuw8yRIH+tskDoHffN1UNpTeVKlcHYxvOYU1gkmiN+GUSClhNQBsmIcvrsjomkzSP0M+1EwB5XjCsHQn6JQD/AgkDmgAvEUVOZ5zR/NjjgRJK9FT4IUi8q130xQojw5IVFMNE0Nx2Ig+fFvu88Ps1T8ioOFT5Nq5Vcpx69tBhOxmpXTjXAkmUq/dtRUDkaelUMl7nyM2YQXONd7WvFmbJCza5jdv4YBy0sPAuorbA9NS7CTfPzXBG/l0siaLkEPenjNGre+36XTCm8xoIidwxq+iN0ixDph1aNkUpo28/2mnjBcLxdHe3Xmu5fVlVRj91aXfSEVe3YLEQX+GnP+s4=;bWVo1e/AqTKdYPWYzvNpqQ=="
 ---

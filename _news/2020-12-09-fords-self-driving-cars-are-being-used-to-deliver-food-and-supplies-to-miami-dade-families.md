@@ -167,22 +167,6 @@ related:
         width: 1200
         height: 445
         isCached: true
-  - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
-    excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
-    publishedDateTime: 2020-12-09T01:35:00Z
-    webUrl: "https://www.jsonline.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/6482467002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6482467002"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Apple Makes Changes To Self-Driving Vehicle Leadership Team: REPORT"
     excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
     publishedDateTime: 2020-12-09T16:00:00Z

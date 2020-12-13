@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tom Siebel's C3.ai soars in U.S. market debut"
+    excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
+    publishedDateTime: 2020-12-09T18:01:00Z
+    webUrl: "https://www.reuters.com/article/c3-iot-ipo-idUSKBN28J2MH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2MH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2MH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
 
 secured: "maBSJOe3Hiygyj3iOcXipIdfJUGXPkSF5UFxo5I8MUPoac3n5Rh+Ud+mwEl2b5fmT7bDXb35oO1O+rLQsw6yl3+CxjQIYZon1S1VPc0P2DbkQeDSQUcw4J/2fs+jPiPSurV2MT/G7wbHXgz7yR0PrZxYx9nf25c/KAztVrxlWzifmqOFEVJRl8YVyahT3QS/2K00NTkQj3P9xsRpAwp+6p7fkf9S8Dpl9ulq8Z0HMk4so6Hb1sSdjbfQsE4F73J/I56Z57WskQi9Z6bbF8JuBprDWGNAuoVANt+m9fP/1yFTvpvJKsNTPncAgXIJX+M+d9PJccnsDmK0sYVeDICE3qnhONeGsYIq/6gYQDnaqRM=;ZLwz7qcwEl6/rr52zeQDWA=="
 ---

@@ -2,6 +2,101 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-12-inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds.md",
+      "title": "Inside the world’s first AI-powered satellite — and its fight against clouds",
+      "excerpt": "Intel, Ubotica, and the ESA recently launched the first AI-enabled satellite into Earth's orbit. The team told TNW about their hopes for the mission.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-11-11T104744.768-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
+      "publishedDateTime": "2020-11-12T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending.md",
+      "title": "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending",
+      "excerpt": "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts.",
+      "sourceUrl": null,
+      "webUrl": "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
+      "originalUrl": "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1028612998-6352cfe9c42d690d78be4e1065fa9a1b.jpg",
+          "width": 600,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
+      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
+      "publishedDateTime": "2020-11-12T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthpayerintelligence.com",
+        "domain": "healthpayerintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-5-great-robotics-stocks-that-offer-stake-in-the-new-way-work-gets-done.md",
       "title": "5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done",
       "excerpt": "The new normal is speeding up the entry of robotics into our lives. Here are five robotics stocks to help you power up your portfolio for the future.",
@@ -1108,109 +1203,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-snap-acquired-vocaai-which-makes-ai-based-voice-agents-for-call-centers.md",
-      "title": "Snap acquired Voca.ai, which makes AI-based voice agents for call centers",
-      "excerpt": "With an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in the consumer world — with the app",
-      "sourceUrl": null,
-      "webUrl": "https://voca.ai/",
-      "originalUrl": "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://staging2.voca.ai/wp-content/uploads/2020/04/ebook-times-of-crisis-650.png",
-          "width": 650,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-apples-first-m1-chip-based-macs-are-playing-it-too-safe.md",
-      "title": "Apple’s first M1 chip-based Macs are playing it too safe",
-      "excerpt": "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
-      "originalUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/macm1s.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
-      "publishedDateTime": "2020-11-11T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

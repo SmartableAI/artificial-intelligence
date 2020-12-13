@@ -60,6 +60,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tom Siebel's C3.ai soars in U.S. market debut"
+    excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
+    publishedDateTime: 2020-12-09T18:01:00Z
+    webUrl: "https://www.reuters.com/article/c3-iot-ipo-idUSKBN28J2MH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2MH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2MH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
 
 secured: "zQMf7wRXKetYjVC54mYbfPqDKIUb6d+VPu16XVptekUzO5bGcMWxkjDKxBTideJnioodBNsVSNfo+IpZ443uBtuWeiNReiTS0oSiqbtPCZs9UcqkO0H0oq4TRCtbCA6wuM7mjzaxgTVGyk13p1TIHs+m/rPeVdoahdHLsa2sVU2aWAe6aliIQaZfwcCgerLLXXb94QRMK0U/lP6mqB3gtydpB55ghKhNVM4DciP/wqEMqQ0z4NM84Rdj8/ouWW+0Nelvydn3j+cmaOjQ6eYw4cjkhW454c1H0/Pu3+lZ4ubymFkFWSbcYOBx7/a2Ahk9mFlljyh5l3k5JBKh3YlNncw6gziJYCpDSwieaJw3Db6jJdPLDsO4s99Eu/Z/1FK5ELydvgtAa6/TL2eP5Imgy5OWcgWC1ppT6WfwMwFZIEbhgp7e6emFjoNQFEl1OcvgBrrzJJ4iTyilJlomeigqZppWmNYJ6t98ACv3eUYKTVYWeUL4qBhH/Q9AKogq5HturkGaH3Yj+Cn5KvMZf/Awdw==;Qqq/cjCXhjN8QPoFdq1IkQ=="
 ---

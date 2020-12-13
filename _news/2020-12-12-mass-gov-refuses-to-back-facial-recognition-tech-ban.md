@@ -3,12 +3,12 @@ category: news
 title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
 excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
 publishedDateTime: 2020-12-12T03:08:00Z
-originalUrl: "https://www.law360.com/articles/1337105"
-webUrl: "https://www.law360.com/articles/1337105"
+originalUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
 ampWebUrl: "https://www.law360.com/amp/articles/1337105"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: law360.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Facial recognition's fate could be decided in 2021"
@@ -134,6 +133,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "dHoMDBoTCz1JAqxIaamdJDw7VSUDVXmIuxhLKtvMrieN84mQ5kv7voN52I99pazIWRjDP6aB0S6FEZI6lMaujq/SB1LjzZ1jMrFZujnDzYodz/ci/s64BQLURKZvJWjyrevhfLsmt8dRCPLd9bbwfaeSJvpmXdCxQ21k8n9M4zepwCM9pOhyMLtP1+jBL2MUXKlTCGOmHQ8J1PnhTBfslqqSGNxsyVGktSGr6AcGVJZVXiJ2OQDd6PkGErTNymnVmpep7ix+saFzw1skJbiUVENk1KCQvPtanRFBB0ZLqXVGyHelvswiO6RtpW0Cmr9BHm87Qp+eGAXjd5YblQ8nkCDzi7aE4MgP28krhv3B7fY=;cDZhF6ki09+yt7KtcWj0BA=="
+secured: "HlbuuiJvAW8tMuReGhjkEKguQqoaXWmnb8K7NS+Kaj73OTEZGQyq+zrhnQPpHdIj38gDv31X9Fp1Zhqzq2fvqIgfLVAkKJeryhQaCdEBP/f6WL6xoyTkHxNzRxZruxa4E95lBEfPs0ZXpfk3Ccy7O409pm/E+0U3qCK05QOmWtjwk7VFgK1bcpXFkUNpQVBcy2pRtxMUmc19lNa2cm/EvadVx/DA6VYdgr2/97izRWZgiRWBwnGo61RnEShTw8Q5lxpFjKP+TJVltZDpQ5qJE7L7jwG10M6xv2JBt+Mt2Zxwx+md8ctt/nGcZnGVnZt90FaKXqBcCzNmO0hPDjb1Twbzz8guytgp7lq9m8CenH8=;axnICdLfTEcsQrNK0ICCrA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/why-aurora-is-acquiring-ubers-troubl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-aurora-is-acquiring-ubers-troubled-self-driving-team-2020-12?amp"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Business Insider
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Uber Sells Self-Driving Division to Startup Aurora"
-    excerpt: "Self-driving vehicle start-up Aurora bought Uber's Advanced Technologies Group (Uber ATG), which works on self-driving technology. Uber is investing $400 million into Aurora. The Aurora Driver (s"
-    publishedDateTime: 2020-12-09T02:31:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 46
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/selfdrivingtruck-1024x561.jpg"
-        width: 1024
-        height: 561
-        isCached: true
 
 secured: "o+aEKxVzih5HhgUeGXnWgIrjrYqleA78duuwis5MTP1h0/b5Q2jGiobMIZb4QLq20XMT8XHlCG7zhZe8myPbxAZljZyXz5IKtV6CRlufut4c+TZ3OiIsh6VUFdfSDhGumkayXuHaX8oQbJu3NPPW0B9lkE4gkBdee81a6I1tptXiJjfZQqKkybaa+m/jgvxwn9l7hVxjINxLRcEhR+o+Dxcizv49407DMecrxM6eGJoGEX9hLG0jIwOKD/9bbmjMFjtw1A0ZZvroVgUoewHktwt8X4rCIPDuy69wwzWqnsns6SUUYzxcNYmGtOHUEfT+iinO+bjt4cyK64NQjDu8KmSVkplFKuf50CbnB5S46zhPbaY7ZWcj615RIThV/lMrQogEu4SpgPdodmdEK3M+iHqkwXWC2Nw5phs17Y8DkXrWRQdRdz3+KHI9rwPo5iVsz1TLBkIpIBiCEJoMcfb3MFvsgBeoRVk2N2auqCxsaRxTf52ZcP1wa4f5OQqNJVC7+b8WL6cQ7keXO4bBIdAWTQ==;bcdzSgCoIlmpvV33WI9GPw=="
 ---

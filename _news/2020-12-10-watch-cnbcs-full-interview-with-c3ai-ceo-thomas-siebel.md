@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million"
-    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter."
-    publishedDateTime: 2020-12-09T02:03:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YbKoqDzKD0/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
     excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range."
     publishedDateTime: 2020-12-09T19:14:00Z
@@ -76,17 +60,22 @@ related:
         width: 790
         height: 395
         isCached: true
-  - title: "Tom Siebel's C3.ai soars in U.S. market debut"
-    excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
-    publishedDateTime: 2020-12-09T18:01:00Z
-    webUrl: "https://www.reuters.com/article/c3-iot-ipo-idUSKBN28J2MH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2MH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2MH"
+  - title: "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade"
+    excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
+    publishedDateTime: 2020-12-09T22:50:00Z
+    webUrl: "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655"
+        width: 6271
+        height: 4181
+        isCached: true
   - title: "Tom Siebel Is Back: An Interview With the CEO and Founder of C3.ai"
     excerpt: "The legendary software entrepreneur talks about the outlook for artificial intelligence software and growth prospects post-pandemic."
     publishedDateTime: 2020-12-10T00:56:00Z
@@ -102,22 +91,6 @@ related:
       - url: "https://images.barrons.com/im-271074?width=620&size=1.5"
         width: 620
         height: 413
-        isCached: true
-  - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
-    excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-    publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 50
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "C3.ai's stock soared 120% in the AI company's successful IPO, but CEO Tom Siebel says that was never the goal: 'I like to grow software companies'"
     excerpt: "Tom Siebel says that he's more focused on the opportunity ahead in the AI market than he is on C3's stock market moves."

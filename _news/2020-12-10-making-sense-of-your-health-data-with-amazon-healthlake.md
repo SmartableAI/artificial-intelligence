@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your
 webUrl: "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Amazon HealthLake helps healthcare providers analyze unstructured medical data"
-    excerpt: "The service is called Amazon HealthLake, and it’s essentially a data lake tailored for the healthcare industry that’s compliant with Health Insurance Portability and Accountability Act that governs the use of medical data."
-    publishedDateTime: 2020-12-09T01:48:00Z
-    webUrl: "https://siliconangle.com/2020/12/08/amazon-healthlake-gives-healthcare-providers-easy-way-analyze-unstructured-medical-data/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/manydata-1-1024x598.png"
-        width: 1024
-        height: 598
         isCached: true
 
 secured: "yxJaNugnqom5wCi6VlNzA8c40QzlQtRLh5Cq5TvKA71tlx5ROzRHKXSaKD165v+m5Jyx70DQ82L+sWW4NdggKh6CaBCD5PMd9KMR6eI+P5g9RbwIyJn6vC4oTpXGxPUpS5HDaPnlu/QanEreBHdxlXQi5hhQAtwZniNMnaWob9loIapZLjsYVLwL5Uebse18F+xjc4r/UovprBNSrWvoAJ3nckN4g6QnJxkxGEaNSQAI8QfuwPlJixFUPx+nnTSJp7hIQo/xMQYe1125KBUpEnxZAjJZWnuznFNtruypdDie4Niup8o6vasXw3YKsqPo/cvnOqQdMBlfv9Xqm/jMEeMN00eEosfagt2YaQVnjs8=;OpohTwXlYahXZPdQMUzHfA=="

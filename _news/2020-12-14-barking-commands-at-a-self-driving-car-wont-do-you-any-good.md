@@ -155,22 +155,6 @@ related:
         width: 1200
         height: 445
         isCached: true
-  - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
-    excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
-    publishedDateTime: 2020-12-09T01:35:00Z
-    webUrl: "https://www.jsonline.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/6482467002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6482467002"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 36
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
     excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
     publishedDateTime: 2020-12-09T11:00:00Z
@@ -254,6 +238,6 @@ related:
       domain: plantservices.com
     quality: 4
 
-secured: "LNyWCT+Z2dlkT0D3nRpithEYREMz1LcnnWaI6nV+Hbhx9Gj6c+eCOHdTiKaar2fyROZ32ir/8Uv0bhHoiHO7qgarC8ATgBFmac3y1+/8FKVHCwNh7J8EM+R3Kibqwv3gY1f2cTmF5NTqHNG+qbSdALWMpiEswPRgsmCyUZRg4v42MQioY0NRDnlRuAz/jj3lOg5Mc87KbSn/rXZB0BhVtqK+fRIJjCqBUW0bYEjQHXK7H6/jaUQ5C3ZJPX4J0qYh7HXg6XNIWf69rASZHqweqHIJNbmjYlU9slH7mN0+bXvFwZcSYbXDMx/DNEd3f7Drk93lULSWMhg44zHrnFyqcUs8a1qUFG6Nyb24X4A5AeU=;DMZlJwI+dK0NvwxvNclGPA=="
+secured: "v05s8JsKPVrApIG7L9v0KOmJbglAGA8rW1leFm8mqWz8VP1H9x8Crsc1SieoWVQsJBkdBjzmIYDaaAPlH+FdT+qNoN7CPSTrEd/56blGLWzcFeoCu/OwViei+tEPW6ibNGaGseChTamlxmSZ6/o9DzKO1PHrbh5L1OPM8YxnHiT5lbs46SnfM+2aqKSSHQqDlSAGa4hMo5HPlTZnV76dihR7TBCJorXYU3Z2gi+dzosglC1StIq+xwDzLXxKouXEfdY/9hIELLpqZfhu6eNWinWF5lbFhqnoaiyViZh+nJEIwf0cZEQvAD1u/k1Shv8Ule7D31A01DxZVUjNonsa5x6NS44y1pcKVqqMeHfw6xNzWOtFYanfL8569VoXlSvcYatx+KPgboww+XCqWw7oPVWmHpO6UgAPfP6VF4JGma6X+X45ZfTzlM6aAHDstLX3DfNAGoJn95AGovpe2koqBtzFldUdYYCKSeqKega1vJ4m7Ww9xm6kgfcL96QcCqiFQXS8iI/pBQajavRVnVqUEQ==;xleP5t5mWf654IMtjNTjVw=="
 ---
 

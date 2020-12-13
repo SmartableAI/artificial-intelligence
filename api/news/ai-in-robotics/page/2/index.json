@@ -184,6 +184,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-how-artificial-intelligence-is-bringing-todays-amrs-into-the-future.md",
+      "title": "How Artificial Intelligence is Bringing Today’s AMRs into the Future",
+      "excerpt": "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-new-system-optimizes-the-shape-of-robots-for-traversing-various-terrain-types.md",
       "title": "New system optimizes the shape of robots for traversing various terrain types",
       "excerpt": "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?",
@@ -1336,49 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-let-your-robots-off-the-leash-or-lose-ai-experts.md",
-      "title": "Let Your Robots Off The Leash – Or Lose: AI Experts",
-      "excerpt": "Army experiments, soldiers tried to micromanage their drones and ground robots, slowing their reaction times and restricting their tactics. Can AIs earn troops’ trust?",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/",
-      "originalUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/11/Secu3t_wiring_inj_hi-z_stepper1-300x218.png",
-          "width": 300,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/amp/",
-      "publishedDateTime": "2020-11-19T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
