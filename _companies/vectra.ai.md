@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Vectra_AI"
   url: "https://twitter.com/Vectra_AI"
-  followers: 2474
+  followers: 2473
 
 locations:
   - San Jose, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Vectra"
 
-secured: "oUdJOEoCUbHvOVxXfRiJKHSw7c///Y3tNGizm/FRdBqsk2EOMOB6zSPCoO97W3kEh+x+gcrEbzPaqYaAyXLNXS8cBZZBtt3t43u9rDWnQMd7YAE60UD4LYcXylKUCshatycdbp0CS76fDLPRNielGRlGqCtTTIjsS8wFkKja/1tGtV3j09lcsnoyiJlgZK1jCb1U3r7c75HBwx+wIUoYsDMx5MTagG0Q1k1JgwbuiiJLKhqOFwHTbLOLpNeX6QPRuTbQOREDx1fQY+qJxvZEtsfuiKYjP5iXJBumQWiRCzH7Kpn8Muol/hh7Oo7L7eMwr/bKXp3u7GKkSEKgSWRWMI9whY9qbH0USdTdOGpw4Bpdqv1ov3/zv9dKliLdO89AAvXHN/rvGLG9runREHpt80ZVwdJ274TnUj7bzeFqWXc=;+M6VrrQ4B7NO+AdyPWz7QA=="
+secured: "6xhe3R4fCI9fNf2PpN8q1ZureMa7vprsg/NTfyM8Q8al53ey7NCS0O8RaUHCPumtuw4V4fRQkMfTKbdP/FILsyOLZalC6ahKURLSPD6HqNALQQMeeeixFDFiNpi1QpFWzfzGQdOFZ+OmjMCJjtNN74hhtV7TTsM4zlmS+Q1DcpKWufnKypFIAwo51GP8E+cY8csoK4u5GwGu/ZzTk2dla6ySkaVL8H1HgqrnQIdizlJD7Dp3WPC8sBlgZEfM5xgHN2R+Qgn2fa8fMRFbzcqgCgrG/mVw/WAblmMDtYMZC1Q4pT+1EUf3+vnKmo6zjWl1RqNIkrlFEj7Kfc+Tkqq0PYuoXhPohBrlaVtttNbaqrab0gv8gycj4OqWnkH9tE7Z71yDd58m1TMWdg4DGTvMyhtuYztTDI5ZQohTHn2SgvI=;A9oh82iDfI54FxYuTYptww=="
 ---
 
