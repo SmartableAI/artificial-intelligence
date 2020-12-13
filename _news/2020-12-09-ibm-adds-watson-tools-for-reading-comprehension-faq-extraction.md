@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-r
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "The ups and downs of cognitive computing, from Watson to Amelia"
-    excerpt: "IBM Watson's health initiative underscored the limitations of applied cognitive computing. But can a fresh wave of cognitive, conversational AI solutions like Amelia from IPsoft succeed with a more focused offering?"
-    publishedDateTime: 2020-12-09T11:14:00Z
-    webUrl: "https://diginomica.com/ups-and-downs-cognitive-computing-watson-amelia"
-    ampWebUrl: "https://diginomica.com/ups-and-downs-cognitive-computing-watson-amelia?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ups-and-downs-cognitive-computing-watson-amelia?amp"
+  - title: "IBM creates knowledgeable NLP system and adds AI governance capabilities to Watson"
+    excerpt: "IBM has unveiled a slew of announcements designed to help businesses scale their use of AI. The company also announced the rollout of new capabilities for its Watson platform. IBM researchers have built a hybrid question-answering system called Neuro-Symbolic-QA (NSQA) that for the first time uses neurosymbolic AI to allow an AI system to offer \"and\"/ \"or\" to its recommendations."
+    publishedDateTime: 2020-12-09T19:14:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 115
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-12/shutterstock-gdesrx-141143860.jpg"
-        width: 740
-        height: 450
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "IBM Launches New Innovative Capabilities for Watson"
     excerpt: "IBM announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses. Developed by IBM Research, the new capab"

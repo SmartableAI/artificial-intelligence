@@ -7,7 +7,7 @@ originalUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-runni
 webUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Co-op is using facial recognition tech to scan and track shoppers"
+    excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
+    publishedDateTime: 2020-12-10T06:00:00Z
+    webUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 19
 
 secured: "3KTmlNoFpm8Dt8qzghA9fPhrCD9bl2RArpjRPHAZLrDdx2P97Wb83V32Chvfpny8ICUw3CfdRlcfZBi5AQjnW24IUt9YDzDAyu/tkVz7+6xUHkKwy5GZSncMapLQNfYkkCC/I3JvkShl5jKIL6EGo1hykyLVk6zfDf+hue2zf6K3IrYvmIHSY3Oc9BUOqa2lh76ocre4HcxPg0MUE2Ho6znE9zKcDo8lyejMfpijYg3qTI0vllSUA5vibGKZKLfDMkKMKzTSjtsvdKC5VyR0F9senUmpG2GNPU2WgQL75gpOv77vLvl5RXK14W+0wLzUgZGCwh1dInpywEO6U04tPxdARlTD2elSi7fP027xyqAPgvyt8s/YnNOgwsbMuArQc9wB1WOAo8Ur9/gTq3s5idMFKqDCz39qCv0QOsbkfrXMYlxwryfdIFE1Z+cnI/yRbiUMntX0g7zGExjjrUP5p4f/BrY6WjoNLHGHi+BzSK+ge7iKqCRAP6xunZ1PgpUbMNZ0vVlOILrYSl03pHYaTQ==;mkzfyWKFPCsWsGCrkmcJiw=="
 ---

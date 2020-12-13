@@ -78,20 +78,6 @@ related:
         width: 472
         height: 371
         isCached: true
-  - title: "After Two-Year Preview, Microsoft Launches Azure Digital Twins"
-    excerpt: "Microsoft's Azure Digital Twins service for modeling physical environments is now generally available over two years after being released as a preview."
-    publishedDateTime: 2020-12-09T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/12/09/microsoft-launches-azure-digital-twins.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENConcreteBallRow.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
     publishedDateTime: 2020-12-10T20:19:00Z

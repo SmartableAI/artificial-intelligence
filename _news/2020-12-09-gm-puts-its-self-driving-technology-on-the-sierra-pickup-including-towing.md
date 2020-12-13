@@ -121,6 +121,22 @@ related:
         width: 4709
         height: 3139
         isCached: true
+  - title: "Apple brings in TSMC to develop chips for Tesla-like self-driving ‘Apple Car’: report"
+    excerpt: "Apple is reportedly working with TSMC, a semiconductor manufacturing and design firm, to develop a semi-autonomous “Tesla-like” vehicle, a new report suggests. Apple Insider reported on Wednesday that Apple’s “Project Titan” may be focused on developing technology that would facilitate the production of self-driving cars."
+    publishedDateTime: 2020-12-09T19:40:00Z
+    webUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/"
+    ampWebUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 52
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2015/08/Apple-6.jpg"
+        width: 634
+        height: 382
+        isCached: true
   - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
     excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
     publishedDateTime: 2020-12-10T18:17:00Z

@@ -44,15 +44,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "Breakthrough optical sensor mimics human eye, a key step toward better AI"
-    excerpt: "Researchers are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
-    publishedDateTime: 2020-12-08T23:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201208163005.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
 
 secured: "M4G9uaw9Kq1rDuiuMsMVjzJIWFQx593DAxfSz9WaonzLDasp0uTAOi1hVZRBazJMm+OE4rB8v+AXToGVMZBojHLFILpdYp0nVq/0T4GzS8Gzj7S50Mswj0XkcZfySu41U5XHl2qfZ0QRpeH9bkp+D4b9zdI6kOnUFMY9lyqiXitQsCi9GYQrkXN1jDid2LjJBiolzdQ7y5LAHsHqOY6dtKVkjpQ5xtoEEBi+HEw/pai4I3O3TSjw2av+QONSHpBWbLNKvlh3lPgknsbdyqIuICq/lXnn5SNmAtjjO10q8j/JSB7R4+SIc/8rxYsEbvr5kgZ7nfZYEEuaEypW7mMlkJ0jT2ensNYVrYUDtqwcB0ETXkTvD+Gl5JJRIw33Ikw+a/6ZsksiHeDh40wcZ8Vrmv53Cy3lUrOuBnei0FDr4DF5Earv7Yi/gOnooEJoC7CWC4pTW0EDe+hCVE0SnURnXcr4Qr2gKmFqIy9eUBO9JSKfRQiEq+B1+DyPE6RdoWd3vTTX7pKcjvSNLmmsnNUvEA==;ggYApLNwYgvR8qfPrcCF3A=="
 ---

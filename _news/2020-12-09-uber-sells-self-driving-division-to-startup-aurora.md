@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Aurora Innovations Acquires Uber's Self-Driving Unit"
-    excerpt: "Andrew Hawkins, Transportation Reporter for The Verge joins Cheddar to discuss Uber's deal to hand off its self-driving unit to Aurora Innovations."
-    publishedDateTime: 2020-12-08T23:28:00Z
-    webUrl: "https://cheddar.com/media/aurora-innovations-acquires-ubers-self-driving-unit"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/5903fef4-ae06-4514-855e-19b396fe5c34.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "EBpj9Y28EzmnMa3jDzsLk9F14ZGpH7DeH8cqbQXn2lD9rEx7Q+T/h+CQtuxbdD1HykNsgHg65rb8RzjCyPIhTtr1ep+B+RkwnHUt8ZPqHzuEsjWzIDhuQMn7iYQtIuunGaiv3t/2keFAYFW50bVhPi7VCkkzwwPs+gNRMirl/gPngc8ty7D7hbE6KSxgTILzH9Hv1GppruLWGptWAlHkZRsHZUmjEWXP25e8VR51x1mrJ6mqmjUP2PNeHcp8uaWrYhJhS2RuNzqKdT0LgysGgiX7NOmvFEKr1/3r4J9/0iXdRCRgPqzu61TGxyyeZhZGgSIZsmQwcxBDeYi8riRVc3POtGNeFv5KNCFvMOul2bUHauNXYKc2zF5WjRs+OfuDJGGYfoE8zNmKq5Q9N6XXnkf+dYeQeDJ7Yw7UfEwsuFQBNxnmnSWDl65oAnZ6zL63dglf0SOQrGdBBxhWV3/gE1PHOhli4wFMd9XJE+Ybh6Z8jF/xdP5Cyog5YCvKPx0KpK5bwxTMbLCB32gVcwGiPg==;4LuCmSQ8EdXQ2wjW4hnZVQ=="
 ---

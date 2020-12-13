@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influe
 webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expansion into enterprise and vertical markets drives AWS re:Invent machine learning announcements"
-    excerpt: "This prompted AWS to devote an entire keynote to the subject during this today’s re:Invent conference, and the result was a set of announcements that reinforced AWS’ significant commitment to the machine intelligence space."
-    publishedDateTime: 2020-12-08T23:59:00Z
-    webUrl: "https://siliconangle.com/2020/12/08/expansion-into-enterprise-and-vertical-markets-drives-aws-reinvent-machine-learning-announcements-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 42
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/AWS2-1.jpg"
-        width: 764
-        height: 367
-        isCached: true
   - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
     excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."
     publishedDateTime: 2020-12-12T03:18:00Z

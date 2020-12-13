@@ -27,7 +27,7 @@ related:
   - title: "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025"
     excerpt: "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025."
     publishedDateTime: 2020-12-13T14:58:00Z
-    webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco"
+    webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
     type: article

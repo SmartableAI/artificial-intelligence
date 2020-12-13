@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-aurora-is-acquiring-ubers-troubl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-aurora-is-acquiring-ubers-troubled-self-driving-team-2020-12?amp"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/selfdrivingtruck-1024x561.jpg"
         width: 1024
         height: 561
-        isCached: true
-  - title: "Aurora Innovations Acquires Uber's Self-Driving Unit"
-    excerpt: "Andrew Hawkins, Transportation Reporter for The Verge joins Cheddar to discuss Uber's deal to hand off its self-driving unit to Aurora Innovations."
-    publishedDateTime: 2020-12-08T23:28:00Z
-    webUrl: "https://cheddar.com/media/aurora-innovations-acquires-ubers-self-driving-unit"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/5903fef4-ae06-4514-855e-19b396fe5c34.jpg?crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "o+aEKxVzih5HhgUeGXnWgIrjrYqleA78duuwis5MTP1h0/b5Q2jGiobMIZb4QLq20XMT8XHlCG7zhZe8myPbxAZljZyXz5IKtV6CRlufut4c+TZ3OiIsh6VUFdfSDhGumkayXuHaX8oQbJu3NPPW0B9lkE4gkBdee81a6I1tptXiJjfZQqKkybaa+m/jgvxwn9l7hVxjINxLRcEhR+o+Dxcizv49407DMecrxM6eGJoGEX9hLG0jIwOKD/9bbmjMFjtw1A0ZZvroVgUoewHktwt8X4rCIPDuy69wwzWqnsns6SUUYzxcNYmGtOHUEfT+iinO+bjt4cyK64NQjDu8KmSVkplFKuf50CbnB5S46zhPbaY7ZWcj615RIThV/lMrQogEu4SpgPdodmdEK3M+iHqkwXWC2Nw5phs17Y8DkXrWRQdRdz3+KHI9rwPo5iVsz1TLBkIpIBiCEJoMcfb3MFvsgBeoRVk2N2auqCxsaRxTf52ZcP1wa4f5OQqNJVC7+b8WL6cQ7keXO4bBIdAWTQ==;bcdzSgCoIlmpvV33WI9GPw=="

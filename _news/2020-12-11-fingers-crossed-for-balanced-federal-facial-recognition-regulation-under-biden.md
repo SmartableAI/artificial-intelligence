@@ -85,6 +85,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
+    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
+    publishedDateTime: 2020-12-12T03:08:00Z
+    webUrl: "https://www.law360.com/articles/1337105"
+    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 41
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
     publishedDateTime: 2020-12-11T12:30:00Z
@@ -113,17 +124,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
-    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
-    publishedDateTime: 2020-12-12T03:08:00Z
-    webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
-    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Gov. Baker seeks to strike proposed facial recognition ban"
     excerpt: "Gov. Charlie Baker sought to strike a proposal that would have banned police departments and public agencies across Massachusetts from using facial recognition technology."
     publishedDateTime: 2020-12-10T22:46:00Z

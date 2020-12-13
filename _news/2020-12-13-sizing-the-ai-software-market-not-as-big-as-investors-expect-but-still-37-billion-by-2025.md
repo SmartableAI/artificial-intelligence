@@ -3,8 +3,8 @@ category: news
 title: "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025"
 excerpt: "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025."
 publishedDateTime: 2020-12-13T14:58:00Z
-originalUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco"
-webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco"
+originalUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
+webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 250
         isCached: true
 
-secured: "w/+aYQu+vkuBf0kfNKfgb3Z/eg1Wjt9uHq7zFxCE9qJiJjxeTAbqQjxOKm3Zxpo6ImzNyDIL1ghpBYxoGEo4eGL1a7rmGy4CIz0lXUbN3JxgkNFOgJMc0QkzA6ge6rWKuOd0aEPGkPIVW4ErapSPGV1CvgU3o2B2Zw3/6AD4erXjfqXv3zZ1E39V1VJYUMIFGldTirZyg7MYNN7l/dLWfPzL7QYXjcuSk1pEQ6UAU98yyieMipIMck+OjoDefLnK0M5DgO5drqS7lbWc7jbSuNkCzj7Grq6Mkmq8ycI/ZE0no5CMw/dgdWB12K4PM3OcKWJsDmKfyllxIELqNqPDIru/NFv+l/mmp00ccyKdQbc=;DvURelBDkVngHH9Ib/ISAQ=="
+secured: "3pb8zjPFAMX+nMgMfIBtpbT/ymgvc0vgaSoBrLJ9bNo6kqNSAHvthfEyw/eKDfNOwzTn0tKmslsGbuZzFXfuEdLnINnlFGK3c+1aI/Hsie2zTMlmo4vhhDBgWup61df+ZPkJ+GTj8+C3MZJVBcTj63xe6OG0PPFGtbGl0/6fIiK3FzZ2zGE2kgmasZ0GIaGn9BpjvlSDX0J68S1rLOBSGml1FP8XWP2TZe04D6tQ9ck4ktz7JBvD6JkWMAVXhiq/rs6e2J1OXsIgHI7oBqNfnsNFQfqXLQ/AlKoRhaBxCmHmT/08xC0OXkPLBHRwHL02F3hSgOcdjMiaDLNW6mkCWqCwvR+whM0VQR2irMwEy90=;Q9G5M5PiBPvvPoX5PhGDSA=="
 ---
 

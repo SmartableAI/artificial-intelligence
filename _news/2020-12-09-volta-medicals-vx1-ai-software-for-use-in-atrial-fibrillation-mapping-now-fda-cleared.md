@@ -55,15 +55,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Zebra Medical Vision Secures a 7th FDA Clearance for Its Patented Breakthrough in Orthopedic Surgery Planning"
-    excerpt: "Zebra Medical Vision secures a 7th FDA clearance for its patented breakthrough in orthopedic surgery planning."
-    publishedDateTime: 2020-12-09T00:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201208005854/en/Zebra-Medical-Vision-Secures-a-7th-FDA-Clearance-for-Its-Patented-Breakthrough-in-Orthopedic-Surgery-Planning"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "M+3Rzv/uyQ3QU2grDQAJnlLTyyhwAixldsv50V7QBu6ImlD/0VnT7e+wWSSckrDlQE6Sqk9Twdmfm4uW9Bpri7Ht/FDfeMiksCYX831Dk7Mt3ZQiLX1/kqMwe8lkDdbqEu8GY1dEyfBkMI9smoMGu1ogzOpqZAkR3x7YmEsLBFncbGmYG/QLsBWkD1+ed17UgZnaEn8fQYfQbCxm6DCPkf6K2dZFvL0bB85LoEQH9gyByyVW7CY8m93QLlUqcIsVPbT8CjbxMSv+fOaA8D/5fkIb9tAnUV9IikGVTgBy4Tiawj5yP4Kh/Xs5ZKpMLp65GMvP/5gSEEguZwHnflP/5f9awBjFYLyCXUeOwaSB57g=;W6LkAmHMC8vpPbYUSIpUrA=="
 ---

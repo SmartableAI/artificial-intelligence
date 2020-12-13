@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fd
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 619
         height: 326
         isCached: true
-  - title: "Zebra Medical Vision Secures a 7th FDA Clearance for Its Patented Breakthrough in Orthopedic Surgery Planning"
-    excerpt: "Zebra Medical Vision secures a 7th FDA clearance for its patented breakthrough in orthopedic surgery planning."
-    publishedDateTime: 2020-12-09T00:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201208005854/en/Zebra-Medical-Vision-Secures-a-7th-FDA-Clearance-for-Its-Patented-Breakthrough-in-Orthopedic-Surgery-Planning"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "0s1fiYZjbMsz3KFct1CJD4TRsPFljK4bszY2/ysN1N3NaMWvVrENnsG+35TzQ28zaXsMvvLJxxAssSNlOMfqSjLth5mj4SuKfP5uJryprI3df/hmXdccD8CEVe6ue8sSvnRLZsbezE2eWdNW6WF6CdcCdOYdo/8RCo0L5GVTL4d9JtoFYgJsCWkzP7eUumy210HKJWPyUaTeYf2UfH6jNeFjVJwEU0swtPvjPaKAqh1Lwc7fcOfUN/fNIBUcKtrF/ytvwDxgqYKGD2J8DEnsEM6QtAFCwhatZvIeu7U1sk9RwhpnxtRLYDt2yCtAYUfWshd78RQPqEDi7QXj4C7FSdc8hAIzyXfquKRivQAS3nrf1x9gbPMqrXn5FNEQpb89MT0wPKl1u0VRA3FspeZt4IBkC30W0UinAfHj9PK1IbnGRCcLK+LvzNk0iR5/VnECFb7TXyFM72DjHEAgBgg50KVBOo858PVSRaiRuHClIzcJypz0bPBT6vs0HfCxm5EVtJLWT0aOxm2XddHzko98Ew==;SRRuVQfCj06kJdg61EgyIA=="
 ---

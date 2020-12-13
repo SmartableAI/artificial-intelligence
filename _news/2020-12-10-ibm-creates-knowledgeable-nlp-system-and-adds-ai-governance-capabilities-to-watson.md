@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-creates-knowledg
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/"
 type: article
 quality: 115
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: TechRepublic
@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "How IBM Is advancing AI governance to help clients build trust and transparency"
-    excerpt: "As more and more organizations scale their use of AI, they’re challenged with mitigating the associated risks and building genuine trust in AI decision-making. When it comes to trustworthy AI, we believe that consumers, clients and all stakeholders need to know how AI impacts their day-to-day lives,"
-    publishedDateTime: 2020-12-09T00:00:05Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/12/how-ibm-is-advancing-ai-governance-to-help-clients-build-trust-and-transparency/"
+  - title: "IBM adds Watson tools for reading comprehension, FAQ extraction"
+    excerpt: "IBM said it is adding reading comprehension, the ability to extract information from FAQ documents, support for new languages and intent classification models to Watson. The new f"
+    publishedDateTime: 2020-12-09T13:29:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-adds-watson-tools-for-reading-comprehension-faq-extraction/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 115
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/AI-governance-leadspace-990x498.jpg"
-        width: 990
-        height: 498
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/86607c3e-229f-4a89-9471-5d819a17eebe/ibm-reading-comprehension.png"
+        width: 1353
+        height: 663
+        isCached: true
+  - title: "IBM Launches New Innovative Capabilities for Watson"
+    excerpt: "IBM announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses. Developed by IBM Research, the new capab"
+    publishedDateTime: 2020-12-10T06:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html"
+    ampWebUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 59
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
+        width: 300
+        height: 240
+        isCached: true
+  - title: "IBM Launches New Innovative Capabilities for Watson; Leading Global"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by"
+    publishedDateTime: 2020-12-09T17:16:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-launches-new-innovative-capabilities-for-watson-leading-global-brands-including-ey-and-regions-bank-use-watson-to-infuse-intelligence-into-workflows-822080923.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1361739/Watson_Assistant_Banking_interaction_widescreen.jpg?p=facebook"
+        width: 1901
+        height: 996
         isCached: true
 
 secured: "hSmgXWNeLm0TFVWD4krIX241FfawUSadMnyxcjWoQAKlBhuEUldPPiEL9BQ0tEZTFk1XD+Xfidc0NBDy++qj9sxA9E5MdltEhHuWqzV7Gm+8nyFtF7jyWXfQtDSTY+CvyEM+KN6wge1J9o7uleHdNn9LF6JUlTri2/RWglArkDoBrhI8n4Fn57Zg74sqPg58np//7O8bC6vlSI35bxicunBdWeFaiiu+1JF2gqyePsJm4jNqNCZGOZoJRXC4ctKpOJPTYy6BCuoJYU2302kLVR1XURBsI5HVzEev4M1qX35Iz6TdD9rLSKuX8sGeFgu3PxAPE6GPDxBlyw3B1ur7dwDd2PnWIiFxwqI1joSQGhgC4O+ufvR3TbQ4pN8PgYWgWdwlEKSnnegikwPVuQ0CxvOx5Py83A6Hgc3ArOuBXbNppj14uxVgiUo3T9kQ2MSdxaBlHgWKlGo8a5brs68z/kn46ntZpaFyIw6QAENfpOgznbnfrSgspE+/OTblzZfLqLuAcx7VlCef6oKs4wT72g==;6vKioBF+DAXQJkEKUD7ZBA=="

@@ -55,6 +55,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Co-op is using facial recognition tech to scan and track shoppers"
+    excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
+    publishedDateTime: 2020-12-10T06:00:00Z
+    webUrl: "https://www.newsoneplace.com/40618261911/co-op-facial-recognition"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 19
 
 secured: "6PHGl6vfuyfpid7pUZJ8c+SAOj1F7Lnb7b9bLc4fYdKIrwKeFBozf1ulS4g9eFt3TJTioOiHMuH8clZ/v3cQAJKUWhED5Tq2TgQleLNRKryF2jPSxN2x6wXu0U7ohV4SFMVhIWkqV7/kaCzaXedU379xLRfO+CylLNuPYDNk7FUwddX6tNWtG82jTzvfDKaxdLGqgc1JK7t7LdfAJhBKWqmvuyAywRdDxZ6o2xguUmX1clmMKxllAsVYnd08oAd6XNoDyPqvzlnO+8eUumd1CJh4rCpkFRETEXX4eSiybTmAr5dlBS8B/9SWHPW9ZRylx+UR3r74c2VNLg8jnQvJoTmBFaWrsy+XpzSP9KQxwjo=;lW3oVZtnTdtAX2+JC3dKAg=="
 ---
