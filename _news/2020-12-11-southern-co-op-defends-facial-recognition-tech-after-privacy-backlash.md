@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Privacy, Civil Rights Groups Plan Facial Recognition Offensive"
-    excerpt: "A new administration — as well as swirling national debate about the biometric technology — is behind a push to get lawmakers to re-examine its use in policing and the challenges it presents to privacy and equity."
-    publishedDateTime: 2020-12-08T21:40:00Z
-    webUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html"
-    ampWebUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
-    images:
-      - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
-        width: 944
-        height: 630
-        isCached: true
   - title: "City Council to ban sale of facial recognition data by businesses"
     excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
     publishedDateTime: 2020-12-10T19:44:00Z
@@ -100,31 +84,6 @@ related:
       - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
-    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
-    publishedDateTime: 2020-12-12T03:08:00Z
-    webUrl: "https://www.law360.com/articles/1337105"
-    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 41
-  - title: "Face Recognition Software Shows Improvement in Recognizing Masked Faces"
-    excerpt: "A new study of face recognition technology created after the onset of the COVID-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces. The findings,"
-    publishedDateTime: 2020-12-08T22:41:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/face-recognition-software-shows-improvement-in-recognizing-masked-faces/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/12/20ITL015_facemask-studyDoubleRow.png"
-        width: 1544
-        height: 732
         isCached: true
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
@@ -140,6 +99,17 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
+    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
+    publishedDateTime: 2020-12-12T03:08:00Z
+    webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
     excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
     publishedDateTime: 2020-12-10T18:57:00Z

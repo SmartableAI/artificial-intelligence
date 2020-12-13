@@ -2,6 +2,57 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-12-super-glue-your-consumer-connections-with-ai.md",
+      "title": "Super Glue Your Consumer Connections With AI",
+      "excerpt": "In today's hyper-fragmented, pandemic-influenced world, retailers and marketers alike are struggling to keep up with quickly changing shopping behaviors and media consumption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef33ef244713a0007ed4825%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/",
+      "publishedDateTime": "2020-11-12T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-at-just-22mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps.md",
       "title": "At just 2.2MB, Google’s new speech filtering tech is perfect for mobile apps",
       "excerpt": "Google has plenty of apps on your phone that use speech detection from Google Assistant to Google Translate and Pixel’s nifty recorder app. However, one of the challenges these apps face is separating your voice from other people or background noise.",
@@ -1151,49 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-best-deep-learning-courses.md",
-      "title": "Best Deep Learning Courses",
-      "excerpt": "Learn more. Are you a student or software developer seeking to advance your knowledge of deep learning? By becoming a subject-matter expert, you can position yourself for lucrative opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/money/best-deep-learning-courses/",
-      "originalUrl": "https://www.benzinga.com/money/best-deep-learning-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-money.prod/wp-content/uploads/2020/02/03213635/jjgxjesmxoy.jpg",
-          "width": 900,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

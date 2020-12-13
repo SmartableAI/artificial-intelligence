@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ViacomCBS moving broadcast operations to AWS cloud"
-    excerpt: "Amazon Web Services and ViacomCBS have entered into a multi-year deal that places the broadcast operations of the company in the AWS cloud. The agreement, similar to one also recently announced with MGM,"
-    publishedDateTime: 2020-12-08T22:11:00Z
-    webUrl: "https://www.newscaststudio.com/2020/12/08/viacomcbs-moving-broadcast-operations-to-aws-cloud/"
-    type: article
-    provider:
-      name: Newscast Studio
-      domain: newscaststudio.com
-    quality: 39
-    images:
-      - url: "https://www.newscaststudio.com/wp-content/uploads/2019/12/viacomcbs-logo.jpg"
-        width: 1100
-        height: 621
-        isCached: true
   - title: "AWS And ViacomCBS Expand Strategic Agreement"
     excerpt: "Related Story Sean Trcalek Named VP-GM Of KATC ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications ..."
     publishedDateTime: 2020-12-09T18:28:00Z

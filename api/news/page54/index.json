@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-11-03-how-customers-can-maximise-google-cloud-free-tier.md",
+      "title": "How customers can maximise Google Cloud free tier",
+      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/?fp=2&fpid=1",
+      "originalUrl": "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/?fp=2&fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_154242123_8.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
       "title": "Face recognition, pollution alert in tech upgrade",
       "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",

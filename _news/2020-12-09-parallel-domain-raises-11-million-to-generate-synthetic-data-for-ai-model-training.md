@@ -66,20 +66,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Review: DataRobot aces automated machine learning"
-    excerpt: "Read Martin Heller take a look at how DataRobot’s end-to-end AutoML suite fares amongst automated machine learning platforms on Information Weekly: Data science is nothing if not tedious, in ordinary practice. The initial tedium consists of finding data ..."
-    publishedDateTime: 2020-12-08T21:16:00Z
-    webUrl: "https://ctovision.com/review-datarobot-aces-automated-machine-learning/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
 
 secured: "RNXsMt3am+a+FpnjCh6HnGnAYb/DGiADtChvOLOvx1Y97O60x2C2+WnInmEDGC4wPxe53ZW0emh4EmyLssvgcB6sC+xAhyCS3ntWv2lNEBvH7DzSc79sA5RZ6ns5VTY8cO973WrGlCFfCRMYC7bwgNI4TxVTWOmqZuZOPtHl7JnQQzqiMx6RZ454mED30fUr5SqFMxgpYlT/WhWf/LP4pOpwm9MIyjl8Qi07HzYS1ylsYaSBn2JTILXu8CUfJKS3dZxLABpQzC5V3itXU5c051Nr6hHDYV2qDhx9pKSq2HN5sk8t3Q+Ct6f3dBoytHzawJudA2sos7pjQUUIJ04OgzMBRQ8fSYi0c9w7MNSLHx7qrmEBhBesx5WjdlAkjafOhFeia+TrJ2Lp96SedPyR8a8Spg+pII0RS8NysBdOwlJFk+ZFmIoiNBHzmyJCuxVBTpmj9PDDMasSQGmT0099KKtAgTdRbvjkzyRVk7mEueO/G8IvvRnverXp2EfT+O9eBD7FU10o6sxiITorkrKzaQ==;MqHuAQrfZVH2xw9vGByQdA=="
 ---

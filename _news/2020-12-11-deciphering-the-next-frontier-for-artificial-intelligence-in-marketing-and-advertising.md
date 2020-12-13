@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/decipherin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
 type: article
 quality: 96
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/770x578/8afd868740035cf629cfc497b4529fd6/20201203-aiindiana-karen.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion"
-    excerpt: "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,"
-    publishedDateTime: 2020-12-08T21:43:00Z
-    webUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/"
-    ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 73
-    images:
-      - url: "https://www.geektime.com/content/images/2020/12/pasted-image-0.png"
-        width: 1077
-        height: 658
         isCached: true
   - title: "AI Bots Revolutionizing the Finance and Banking Space"
     excerpt: "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,"

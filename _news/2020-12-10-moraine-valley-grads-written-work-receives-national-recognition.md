@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -69,17 +69,6 @@ related:
         width: 1262
         height: 660
         isCached: true
-  - title: "Englewood Health Receives National Recognition as Pandemic Hero of the Year by The Leapfrog Group"
-    excerpt: "Englewood Health has been awarded the Leapfrog Pandemic Hero of the Year Award by The Leapfrog Group, an independent"
-    publishedDateTime: 2020-12-08T21:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18699539/englewood-health-receives-national-recognition-as-pandemic-hero-of-the-year-by-the-leapfrog-group"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18699539"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18699539"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "3bPeYqG5VH+cvG0eb/2mhERlpsTafBwjLbOP0k9GWWtrtzzMDwpXQDJtm0OLxvCc4MnEEf/JqXQ2URdxOCIT5m3EyVRhjv4oTl2K3ZsDgSPywWI4qM+sSa5g3LWIkfOtT9mSy237eGIhw1Oh8yP/m7KmlvpC9Eua5PYAwFVprRSeqhDd49QcGzKIiNMc4zvImpycNiGiuQLtGNB5fhV5YEm/z+LkqADBOBS8L8dQklxWs/sisBsxTsB2SjSiNoSEm/2YARsOU3rcflo8jlTcfoW9MjIzPxirWNCIuYBC/Od5iXqjxtUcXGh7HHP7HvGGAJqAjvzJo0ues4B2XAhryB9wmzXH1xtYdA3ileTQjlE=;b61S+0pI+wvUemXfrU4ByA=="
 ---

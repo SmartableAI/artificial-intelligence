@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/apple-leak-claims-ai-boss-now-leading-tita
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-leak-claims-ai-boss-now-leading-titan-self-driving-car-project-08650318/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -142,20 +142,6 @@ related:
       - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Apple's SVP of Machine Learning & AI John Giannandrea has been assigned to Oversee Apple's Secretive 'Project Titan'"
-    excerpt: "Patently Apple has been covering the latest Project Titan patents for years, including a granted patent report posted this morning covering another side of LiDAR that was never covered before. While some in the industry have doubted Apple will ever do anything with this project,"
-    publishedDateTime: 2020-12-08T22:34:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/12/apples-svp-of-machine-learning-ai-john-giannandrea-has-been-assigned-to-oversee-apples-secretive-project-titan.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 31
-    images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c026be42af4f6200d-600wi"
-        width: 600
-        height: 298
         isCached: true
   - title: "Apple Allegedly Discussing Apple Car With Automotive Suppliers, TSMC Working on 'Self-Driving' Chips"
     excerpt: "Though there haven't been many rumors about the Apple Car in recent months, work on the project is still ongoing. Following news from"

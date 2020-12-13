@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion Detection and Recognition (EDR) Market Anticipated to Reach 18.0% CAGR by 2027"
-    excerpt: "Selbyville, Delaware The report for Emotion Detection and Recognition (EDR) Market offers an assiduous analysis"
-    publishedDateTime: 2020-12-08T21:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-anticipated-to-reach-180-cagr-by-2027-2020-12-08"
+  - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
+    excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2020-12-10T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -56,22 +56,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Exceed.ai raises $4M Seed round pairing marketing teams with an AI companion"
-    excerpt: "Israeli startup Exceed.ai, which develops an AI-driven platform for automating marketing leads through email, chats, and SMS, announced a $4 million Seed funding round. The investment was led by Glilot Capital and West Fountain Global Fund,"
-    publishedDateTime: 2020-12-08T21:43:00Z
-    webUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/"
-    ampWebUrl: "https://www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/exceed-ai-raises-4m-seed-round/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 73
-    images:
-      - url: "https://www.geektime.com/content/images/2020/12/pasted-image-0.png"
-        width: 1077
-        height: 658
-        isCached: true
   - title: "Peering into the Future: A Vision of Marketing and AI"
     excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
     publishedDateTime: 2020-12-09T06:19:00Z

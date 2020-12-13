@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201211/Robots-can-encourage-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd380055b13f.jpg"
         width: 2880
         height: 2160
+        isCached: true
+  - title: "Robots can encourage people to take greater risks"
+    excerpt: "Even as the scale of interaction between humans and technology increases, a new research has shown that people tend to take more risks when prodded by a robot."
+    publishedDateTime: 2020-12-13T14:44:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/12/2020_12$largeimg_1206175501.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "'The robot made me do it': Robots encourage risk-taking behavior in people"
     excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"

@@ -3,12 +3,12 @@ category: news
 title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
 excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
 publishedDateTime: 2020-12-12T03:08:00Z
-originalUrl: "https://www.law360.com/articles/1337105"
-webUrl: "https://www.law360.com/articles/1337105"
+originalUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
 ampWebUrl: "https://www.law360.com/amp/articles/1337105"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: law360.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Facial recognition's fate could be decided in 2021"
@@ -68,22 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Privacy, Civil Rights Groups Plan Facial Recognition Offensive"
-    excerpt: "A new administration — as well as swirling national debate about the biometric technology — is behind a push to get lawmakers to re-examine its use in policing and the challenges it presents to privacy and equity."
-    publishedDateTime: 2020-12-08T21:40:00Z
-    webUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html"
-    ampWebUrl: "https://www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Privacy-Civil-Rights-Groups-Plan-Facial-Recognition-Offensive.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
-    images:
-      - url: "https://media2.govtech.com/images/20201208-AMX-US-NEWS-BIDEN-FACIALRECOGNITION-GET.jpg"
-        width: 944
-        height: 630
-        isCached: true
   - title: "City Council to ban sale of facial recognition data by businesses"
     excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
     publishedDateTime: 2020-12-10T19:44:00Z
@@ -97,20 +80,6 @@ related:
       - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Face Recognition Software Shows Improvement in Recognizing Masked Faces"
-    excerpt: "A new study of face recognition technology created after the onset of the COVID-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces. The findings,"
-    publishedDateTime: 2020-12-08T22:41:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/biometrics-id-management/face-recognition-software-shows-improvement-in-recognizing-masked-faces/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/12/20ITL015_facemask-studyDoubleRow.png"
-        width: 1544
-        height: 732
         isCached: true
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
@@ -164,6 +133,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "eonfu1g9SmehELfHE+QWKVdbP87DXhqUHI04xO0pIccx+OXxoXUTJh0MSTRJv6o3DTQWzw/wpQSXWPeXZ8YIkSOvVSh/fXm5vj77S+KaQfP6drjVbl4Y12KYQf33fXHNoU5FgFtagg/UylnnLONuqtuMagRcHqzSMXmyD5kx9iMMhky46HA2cUx7nM65Km+QYNbGrYVhH0rd6WwLM8hu6L1kA+l1yOwEhqDdXhK5iZtKiSC1G1x8w/OxsiJJRItIo1Ca6HAk77OhMFSiSOAURtbMIb4eONZoeEXJewTBi1+DBHsZ5jDRJaKM7Gop6CKAZi8vcX1iOO+I9kgXc8NAAr0c2NxzGIr1Gtxqx8Vi8qQ=;qkGxdu3yPQd8SmFKTlpTdw=="
+secured: "m0vmvv8vGqcMYMsEKVVXzW6O4k/8m34p0eeA15Y7Ljno12RhyjSZsFm2vdlzOFVbxyCDkFRp7vB56JPioVBlWjrjLC6TYpwfQl1snDiLUyRFZ6mBFg3H/quT9YJirB0MW6Q4pU6it0msYWWDf0xsZ02+6hs+06AJxw/hYafKEkSBtbCKXhpLrwIJXJfUge70ZcAT0aJx2Nsfr0X5eWrWCdGKsYSvc4F8gnu5qGvfufn+P33oBTLXWAHa6xf8CCbvQ+zp2CluzIt1OSgiO3szxR6OSKlR7AsPL4N/t93L61vZ5i+aMHFk7V2sWW+HEv4ywRJVXpUassPfNEM+Dh80/hr7IRRGrmzWu8GNipxo4L8=;So3j9Jhpx5N1FRBN1SSe6Q=="
 ---
 

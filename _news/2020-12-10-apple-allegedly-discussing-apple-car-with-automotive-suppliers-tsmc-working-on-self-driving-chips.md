@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple's SVP of Machine Learning & AI John Giannandrea has been assigned to Oversee Apple's Secretive 'Project Titan'"
-    excerpt: "Patently Apple has been covering the latest Project Titan patents for years, including a granted patent report posted this morning covering another side of LiDAR that was never covered before. While some in the industry have doubted Apple will ever do anything with this project,"
-    publishedDateTime: 2020-12-08T22:34:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/12/apples-svp-of-machine-learning-ai-john-giannandrea-has-been-assigned-to-oversee-apples-secretive-project-titan.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 31
-    images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c026be42af4f6200d-600wi"
-        width: 600
-        height: 298
-        isCached: true
   - title: "'Apple Shifts Leadership of Self-Driving Car Division to AI Chief' -Recent Bloomberg Article"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2020-12-08T23:47:00Z

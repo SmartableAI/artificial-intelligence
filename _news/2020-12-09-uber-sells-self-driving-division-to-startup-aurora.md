@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Aurora Innovation Buys Uber's Self-Driving Car Unit For $4 Billion"
-    excerpt: "Dec 08, 2020 (Baystreet.ca via COMTEX) -- Uber's (NYSE:UBER) self-driving unit, Advanced Technologies Group (ATG), is being acquired by start-up"
-    publishedDateTime: 2020-12-08T22:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aurora-innovation-buys-ubers-self-driving-car-unit-for-4-billion-2020-12-08-8197309"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Aurora Innovations Acquires Uber's Self-Driving Unit"
     excerpt: "Andrew Hawkins, Transportation Reporter for The Verge joins Cheddar to discuss Uber's deal to hand off its self-driving unit to Aurora Innovations."
     publishedDateTime: 2020-12-08T23:28:00Z

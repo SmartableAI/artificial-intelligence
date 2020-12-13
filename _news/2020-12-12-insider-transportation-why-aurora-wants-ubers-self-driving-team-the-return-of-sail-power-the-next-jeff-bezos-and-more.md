@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-aurora-is-acquiring-ubers-troubl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-aurora-is-acquiring-ubers-troubled-self-driving-team-2020-12?amp"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora Innovation Buys Uber's Self-Driving Car Unit For $4 Billion"
-    excerpt: "Dec 08, 2020 (Baystreet.ca via COMTEX) -- Uber's (NYSE:UBER) self-driving unit, Advanced Technologies Group (ATG), is being acquired by start-up"
-    publishedDateTime: 2020-12-08T22:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aurora-innovation-buys-ubers-self-driving-car-unit-for-4-billion-2020-12-08-8197309"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Uber Sells Self-Driving Division to Startup Aurora"
     excerpt: "Self-driving vehicle start-up Aurora bought Uber's Advanced Technologies Group (Uber ATG), which works on self-driving technology. Uber is investing $400 million into Aurora. The Aurora Driver (s"
     publishedDateTime: 2020-12-09T02:31:00Z

@@ -69,17 +69,6 @@ related:
         width: 730
         height: 945
         isCached: true
-  - title: "Englewood Health Receives National Recognition as Pandemic Hero of the Year by The Leapfrog Group"
-    excerpt: "Englewood Health has been awarded the Leapfrog Pandemic Hero of the Year Award by The Leapfrog Group, an independent"
-    publishedDateTime: 2020-12-08T21:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18699539/englewood-health-receives-national-recognition-as-pandemic-hero-of-the-year-by-the-leapfrog-group"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18699539"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18699539"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "btd0LAdqNCulqS6jxBhmAQNZ5gQCZ0WvBgAQYzi3WtFxUAkb/eJgl09/ynZ5H8Araa1sXAcd6Wwyg9vH+32AS1aDEP5mE6vxcztNVXOUedBoacY9y3wIC7h07MpUS4HxrljYhkSxfEDvQMHBlOk8CPR++xFg5X84DmWQjBpZSBnWS/zsn9rZX78g/mLD2VVj7kheWYTfmmyAOe/aNuzixQ3ZnZF3YJl1BZmcfVEKKDxymPpsjHJC/NO4Fz00MEVp0vr3XwMSk8hMNxAecZZjbveIdeP2/ioFo5/IzFZ10bSIcP4dpX2wqU6924OWn5xfuelTxKAHtL/x3+3YwaeEr8Ag7B0i+2k1KO4IYXSPCZ0=;WnmptVMrlhaF0SDixeam3Q=="
 ---

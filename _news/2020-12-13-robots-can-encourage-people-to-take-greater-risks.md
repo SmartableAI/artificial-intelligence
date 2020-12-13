@@ -1,26 +1,30 @@
 ---
 category: news
-title: "'The robot made me do it': Robots encourage risk-taking behavior in people"
-excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
-publishedDateTime: 2020-12-11T20:43:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/12/201211100646.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/12/201211100646.htm"
+title: "Robots can encourage people to take greater risks"
+excerpt: "Even as the scale of interaction between humans and technology increases, a new research has shown that people tend to take more risks when prodded by a robot."
+publishedDateTime: 2020-12-13T14:44:00Z
+originalUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+webUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+ampWebUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
 type: article
-quality: 47
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/12/2020_12$largeimg_1206175501.jpg"
+    width: 900
+    height: 600
+    isCached: true
 
 related:
   - title: "Robots can encourage people to take greater risks, research shows"
@@ -55,22 +59,15 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "Robots can encourage people to take greater risks"
-    excerpt: "Even as the scale of interaction between humans and technology increases, a new research has shown that people tend to take more risks when prodded by a robot."
-    publishedDateTime: 2020-12-13T14:44:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
-    ampWebUrl: "https://www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/robots-can-encourage-people-to-take-greater-risks-183840"
+  - title: "'The robot made me do it': Robots encourage risk-taking behavior in people"
+    excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
+    publishedDateTime: 2020-12-11T20:43:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201211100646.htm"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/12/2020_12$largeimg_1206175501.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "'The robot made me do it': Robots encourage risk-taking behaviour in people"
     excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviours. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
     publishedDateTime: 2020-12-11T14:52:00Z
@@ -86,6 +83,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "MTxE2AXNJuZtIezbl0P+FHQW8SFvH9k35Nmfx5aNKlYBI3pZvSxxX4Zj2lQ+Mz+1TqCaAKU8Ay6vowRTjXkADYn30RIuxFBc0P9b9HGEILGXagZmWI3i4GcArAfSx6gkhFZhL5EBefE99zL4Irlpcd9NkCpiWSxnwu2OsZh292Yasgq0poogMAwKRk8YK/9UNR7xDYWvKSz1LMU3AHhJf/q4Z8dU7Ky0MwFkjHA2JpjaHhilC44wjbDJMwwr3p5f3cbLmTxHIf8Xd/+9ZdMelDMuQ7fSEdCW9GyMwJSpgACeqPsENbS9n/+stneKduVBuXfspJvgb6rIjE5M85eAym5rgR1FXJgE6JPS1GUO19w=;adyx0Rq7cBNmouEQoHpeWA=="
+secured: "k3LtJo54vM0XE5nWJJpCTra6kpg3UPaMfWiEnGUbKNag31ZwLvJaXWuxyPuJ6WOoUBy5fmPIKoMq9A5hcK7APJ2LTGAproCJNhd1LK9WeZJJLWid4KYasrt/TjTpmngPO83az7Y8PTQbIScFroAEBP3tV+kt6jmuNFjkRT84SQASYh5RHctzsiu6ydO59b4aB0aBG5o8KI5hke9L89dzIrgbf3dJgJIwxAV+XVvyTNDsTew0zVzJO1zyZoCvjRceDtGAiuRMMtrhMz/qxpinWDf+2ZvVMSInotgB9AW4Et8GaLPHssnW/ywKn/xj3xTACQOrjJ264GBoZiXu47XS/ZVVUw0HBRV50o2G12DRWPk=;yfmkYLY/5e+Ke0A4hLoOIA=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-13-sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025.md",
+      "title": "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025",
+      "excerpt": "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco",
+      "originalUrl": "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/11/cb5ab5b0-780a-4e16-afc4-570839d0c3f6/global-ai-software-mkt-by-segment.jpg",
+          "width": 856,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
+      "publishedDateTime": "2020-12-13T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-ai-algorithms-are-slimming-down-to-fit-in-your-fridge.md",
       "title": "AI Algorithms Are Slimming Down to Fit in Your Fridge",
       "excerpt": "Artificial intelligence programs typically are power guzzlers. New research shows how to generate computer vision from a simple, low-power chip.",
@@ -423,7 +474,7 @@
       "originalUrl": "https://www.news-medical.net/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -518,7 +569,7 @@
       "originalUrl": "https://www.businessinsider.com/why-aurora-is-acquiring-ubers-troubled-self-driving-team-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -932,7 +983,7 @@
       "originalUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1086,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1230,49 +1281,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-himax-teams-up-with-edge-impulse-for-ai-chips.md",
-      "title": "Himax teams up with Edge Impulse for AI chips",
-      "excerpt": "Himax Technologies, dedicated to display driver ICs and timing controller (TCON) chips, is set to accelerate the development of AI chips in 2021 through a recent collaboration deal with Edge Impulse,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20201211PD205.html",
-      "originalUrl": "https://www.digitimes.com/news/a20201211PD205.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitimes.com/newsshow/20201211PD205_files/1_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
