@@ -2,6 +2,99 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-11-10-how-to-watch-apples-special-november-2020-event-live-stream.md",
+      "title": "How To Watch Apple’s 'Special' November 2020 Event Live Stream",
+      "excerpt": "The event is slated to take place on Nov. 10 at 10 a.m. PST/1 p.m. EST and will be live-streamed from Apple’s Apple Park headquarters in Cupertino, California. \"One Last Thing\" can be watched live on the Apple Events website on a Mac,",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=5AwdkGKmZ0I",
+      "originalUrl": "https://www.ibtimes.com/how-watch-apples-special-november-2020-event-live-stream-3075670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5AwdkGKmZ0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
+      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
+      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
+          "width": 2400,
+          "height": 1606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-review-google-cloud-ai-lights-up-machine-learning.md",
       "title": "Review: Google Cloud AI lights up machine learning",
       "excerpt": "The feature engineering built into Cloud AutoML Tables is promising, however, and it would be useful to have that sort of service available for other scenarios. The seamy underside of AI has to do with ethics and responsibility (or the lack thereof), along ...",
@@ -1086,94 +1179,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ibm-microsoft-and-the-future-of-healthcare.md",
-      "title": "IBM, Microsoft, and the Future of Healthcare",
-      "excerpt": "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86911.html",
-      "originalUrl": "https://www.technewsworld.com/story/86911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg",
-          "width": 620,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-cyberark-launches-ai-powered-service-to-remove-excessive-cloud-permissions.md",
-      "title": "CyberArk Launches AI-Powered Service to Remove Excessive Cloud Permissions",
-      "excerpt": "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced CyberArk Cloud Entitlements Manager, the industry’s first privilege-based, artificial intelligence-powered service designed to strengthen the security of cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-israel-north-america-66ee2357b36946aab228fec735bd79aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-israel-north-america-66ee2357b36946aab228fec735bd79aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

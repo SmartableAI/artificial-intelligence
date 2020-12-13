@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-dr
 cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OXYHJQPIYI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Baidu gets nod for fully driverless vehicle tests"
-    excerpt: "A passenger gets ready to board an Apollo Go Robotaxi, operated by Baidu, in Beijing. [Photo/XINHUA] Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles,"
-    publishedDateTime: 2020-12-09T03:20:00Z
-    webUrl: "https://en.ce.cn/main/latest/202012/09/t20201209_36095778.shtml"
-    type: article
-    provider:
-      name: China Economic Net
-      domain: en.ce.cn
-    quality: 54
-    images:
-      - url: "http://i.ce.cn/english/main/latest/202012/09/W020201209396128618445.jpg"
-        width: 800
-        height: 577
         isCached: true
   - title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
     excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."

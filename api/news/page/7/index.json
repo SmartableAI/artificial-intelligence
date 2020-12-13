@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-08-these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain.md",
+      "title": "These Three Companies Will Build Drones To Carry The Air Force's \"Skyborg\" AI Computer Brain",
+      "excerpt": "The Air Force ... the Skyborg systems is an exciting development for this program, which already promises to have a significant impact on the future of aerial combat. The artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/the-war-zone/34351/glitzy-air-force-video-lays-out-skyborg-artificial-intelligence-combat-drone-program",
+      "originalUrl": "https://www.thedrive.com/the-war-zone/38015/these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.thedrive.com/wp-content/uploads/2020/06/skyborg-top-1.jpg?quality=85",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
       "title": "$50K AI Prediction Contest Launches Today",
       "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
@@ -1139,57 +1181,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-mohsen-fakhrizadeh-machine-gun-with-ai-used-to-kill-iran-scientist.md",
-      "title": "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist",
-      "excerpt": "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "originalUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/475A/production/_115866281_mediaitem115672686.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-middle-east-55214359",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-middle-east-55214359",
-      "publishedDateTime": "2020-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

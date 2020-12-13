@@ -2,6 +2,91 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-11-07-canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal.md",
+      "title": "Canada's Telus to acquire Lionbridge AI in $919 million deal",
+      "excerpt": "Canadian telecoms company Telus Corp <T.TO> said on Friday its unit Telus International would buy data services provider Lionbridge AI in a C$1.2 billion ($918.55 million) deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
+      "originalUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M1LU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1LU",
+      "publishedDateTime": "2020-11-06T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
+      "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
+      "excerpt": "called an artificial neural network, enables accurate detection of definite radiographic sacroiliitis in people with axial spondyloarthritis, an advance that could be useful for both diagnosis in ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/spinalxray.jpg",
+          "width": 1440,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.amp",
+      "publishedDateTime": "2020-11-06T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic.md",
       "title": "MIT AI analysis of Reddit shows anxiety levels are sky-high since pandemic",
       "excerpt": "The first wave of COVID-19 increased discussions about anxiety and suicide on Reddit, according to a new study by MIT and Harvard University researchers.",
@@ -1050,91 +1135,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
-      "title": "AWS Announces Plans to Launch a Second Region in India",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-prop-25-fails-california-voters-reject-initiative-to-replace-cash-bail-system.md",
-      "title": "Prop 25 Fails: California Voters Reject Initiative To Replace Cash Bail System",
-      "excerpt": "Proposition 25 would uphold a state law passed last year that ended pre-trial detention and cash bail for people accused of most misdemeanors. Those accused of the most violent and serious crimes would remain locked up.",
-      "sourceUrl": null,
-      "webUrl": "https://laist.com/elections/2020/results/proposition-25-cash-bail-replacement.php",
-      "originalUrl": "https://laist.com/elections/2020/results/proposition-25-cash-bail-replacement.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://laistassets.scprdev.org/i/ba451bf8a544f447f40dbf94f2172b0d/5fa18cd6bef47b0008898548-eight.jpg",
-          "width": 974,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LAist",
-        "domain": "laist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

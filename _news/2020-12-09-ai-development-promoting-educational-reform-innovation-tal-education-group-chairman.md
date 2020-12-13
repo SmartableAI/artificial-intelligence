@@ -18,6 +18,22 @@ topics:
   - AI
   - AI in Education
 
+related:
+  - title: "Industry leaders in tech, education and financial services join together in new national council to activate AI for the greater good"
+    excerpt: "On Friday, leading organizations across the U.S. financial services, technology and academic industries announced the formation of a new National Council for Artificial Intelligence (NCAI). The council brings together the Brookings Institution,"
+    publishedDateTime: 2020-12-11T17:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-intelligence-agencies-corporate-news-financial-services-cf80979f68ee3994a359ad5e4129f291"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "dIcUXGIu0oafHeyfZRYuQZTOC8YtqwSfbo9GtIZoKUGHP4mTPR6ENpgAO2wV+idM9KHI7gjjXxZxnCrV6UlbLSn5rlPDxIwfTqpXFqUiYLGXfjUM5uELFbenDBfJJbIzHVdkq/Bv4EbTQj81jXzc5f35SSaZj4TDGIQzSLAHh/0WJPyFRxS151Tbjqbc27hio/5nyPb6KFuS1c5Xv0tJwGzxcYTjohmXFpce4Ffiui6xc/eKV9BK9BOUad7pAw6ZZOZJ2NwZj3iGD875szf175iDqsb5Hz6HeVtw1I5dZLT4DNJvVAtkWbJY3ibf+r6ZC3at3RDRMUhSZ1h+72jkLURMteq/nu7ALIJ3XWWDm84=;XwMbwYEKQvCKmAMI95MfJw=="
 ---
 

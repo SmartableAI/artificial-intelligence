@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-in-the-cloud.md",
+      "title": "Amazon debuts Trainium, a custom chip for machine learning training in the cloud",
+      "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "publishedDateTime": "2020-12-01T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training.md",
       "title": "Amazon debuts Trainium, a custom chip for machine learning training",
       "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
@@ -1366,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-edgeq-raises-51m-in-funding-to-unify-5g-and-ai-in-an-open-and-programmable-platform-to-ignite-edge-networks.md",
-      "title": "EdgeQ Raises $51M in Funding to Unify 5G and AI in an Open and Programmable Platform to Ignite Edge Networks",
-      "excerpt": "EdgeQ Inc, a 5G systems-on-a-chip company, today announced its launch from stealth with $51 million in total funding, including $38.5 million in a Series A round. Backed by renowned investors Threshold Ventures (formerly DFJ),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-communication-technology-jerry-yang-software-0201899cf0bd44e891598e9f4522e2d2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-communication-technology-jerry-yang-software-0201899cf0bd44e891598e9f4522e2d2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-04-driverless-robotaxis-hit-the-streets-of-chinese-city.md",
+      "title": "Driverless robotaxis hit the streets of Chinese city",
+      "excerpt": "AutoX, a Chinese autonomous vehicle company backed by e-commerce giant Alibaba Group Holding, says it has put driverless robotaxis on the streets of downtown Shenzhen. According to the company, this is the first time in that nation's history an AV fleet has been deployed without safety drivers or remote operators providing backup.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/chinas-first-ever-driverless-self-driving-cars-deployed-on-streets-by-autox/",
+      "originalUrl": "https://www.autonews.com/mobility-report-newsletter/driverless-robotaxis-hit-streets-chinese-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2020/12/autox-nevs.png",
+          "width": 730,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-voiceitt-amazon-announce-collaboration-between-alexa-and-superpower-speech-technology.md",
       "title": "Voiceitt, Amazon Announce Collaboration Between Alexa And ‘Superpower’ Speech Technology",
       "excerpt": "Amazon and speech recognition startup Voiceitt on Thursday announced a collaboration that aims to make Alexa more accessible to people with atypical speech.",
@@ -1126,58 +1169,6 @@
         "AI in Autos",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-driving-the-next-generation-of-ai.md",
-      "title": "Driving The Next Generation of AI",
-      "excerpt": "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/driving-next-generation-ai-imtiaz-adam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1613001600&v=beta&t=Wz2Px5Ibh7-7pHdKOJ9TuY-fGNj1_adkVDYZ23zdZsE",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

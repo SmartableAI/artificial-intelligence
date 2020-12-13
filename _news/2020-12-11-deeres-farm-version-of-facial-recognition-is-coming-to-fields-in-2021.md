@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Deere's farm version of facial recognition is coming to fields in 2021"
+title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
 excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-publishedDateTime: 2020-12-11T00:11:00Z
-originalUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-webUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+publishedDateTime: 2020-12-10T21:34:00Z
+originalUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
+webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
+ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?v=1607525192"
-    width: 4000
-    height: 2667
+  - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -138,6 +134,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "cLxmEZmxPndM3Vf80q0HenGw3ZFg4K8omBsWug27p0AHG3CjgwCZ3DJjyE04Qsq8YM0QmVXOHb0egIfAJsTN5R5OC4agmvoS+k4fyDwS+zsqkCIshRDIYZvCPKR55Jhql5L2f51rA89D81IMTDnapp7kYfmY0zXNUENaBoTluoj0/e+YSrJcjA6FJq6vnlSsmoKvP+CRuyOBDhCQVucLG4m9gyXp/UUWurK0W6BwTtHOfHeyV2Aq9mZ2EpvZ/6O5ULu0RVj+4ERmV46MNNF/OdBOVYkvrwfu3+uuETDy2ZBCKhPoVTN8FGlhK8CkEdcMIGcjoJzfP1xGgBBKg+C94t+dnhzVDNJJ80Lc+7t0S2PzjR7x9mkpzIycre7BpefJHquMbmBiqxF+SORsqUKJldRMDjlmgtWukSKXe6RwAcNC3rajXmX9QIFdW7lf1y+O9eai08dv1unmrbIkkFPkAI7xu87XKSt8NdHW2VfCIdjQlBmgIfkl+azzC0tQK0xWhIg/FPF8fDEKugPJGsmTjA==;ja2PgNZ/BpMRIHSVmSLBFQ=="
+secured: "xe8KRRFruE4XXRcH7yj9F0hNuVfYw+WDF0E8cE/r2GuDCbbPTR2Z1AD2eLInpSofF4SrpKWjN7lUvjoi4XxzyfFpH3pFnoiU8gb02uwuILBIfOBU06GDfQx8DledfttaJEeXpHQ3FJ4BvJXt1WHduiBqXMeVtxADsvCdbELo9r7M66BU6fZMiUysJykzmeIpOg+wv0kCCD2gxEI1T7X6wUfyDUMfZErM0v5YZXOOevXtukW09gyuJcNTajggOer+GIyg1WvLFW6HnsLlHqqNu0AnryWC/mc6tMaEU5D0deUuLTuVlXmhvmnSWRUsuW2MLG0AOhuH1vDZYjUJwSDlfd7FwWK7hQvdMCna/hBwVYM=;Te2V0iAeS8VbTwRDABifVw=="
 ---
 

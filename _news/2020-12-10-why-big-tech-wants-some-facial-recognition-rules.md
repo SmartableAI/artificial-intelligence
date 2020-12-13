@@ -45,21 +45,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deere's farm version of facial recognition is coming to fields in 2021"
+  - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
     excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-    publishedDateTime: 2020-12-11T00:11:00Z
-    webUrl: "https://www.cnbc.com/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/10/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021.html"
+    publishedDateTime: 2020-12-10T21:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?v=1607525192"
-        width: 4000
-        height: 2667
+      - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "City Council to ban sale of facial recognition data by businesses"
     excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"

@@ -89,20 +89,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Baidu gets nod for fully driverless vehicle tests"
-    excerpt: "A passenger gets ready to board an Apollo Go Robotaxi, operated by Baidu, in Beijing. [Photo/XINHUA] Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles,"
-    publishedDateTime: 2020-12-09T03:20:00Z
-    webUrl: "https://en.ce.cn/main/latest/202012/09/t20201209_36095778.shtml"
-    type: article
-    provider:
-      name: China Economic Net
-      domain: en.ce.cn
-    quality: 54
-    images:
-      - url: "http://i.ce.cn/english/main/latest/202012/09/W020201209396128618445.jpg"
-        width: 800
-        height: 577
-        isCached: true
   - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
     excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
     publishedDateTime: 2020-12-09T17:00:00Z
