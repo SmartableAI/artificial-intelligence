@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 582
+heat: 526
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6665153
+  followers: 6665539
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "938Q8QxVfa5RbDKQyKcxCqHdToJY6pF2WT6azNyVtVelpz/lNqfY0Lz17KpBcvWLS8VekhsBSfUsjZF5tPVt5DxfQe8OUyhac18xlowUXPgAPWznFq2/q7vwV1sDNi5zVrQsIdeZZ3g7LuvG7eH+HurAO3pE3ltmBtCoWZjC63O7+EVmBUbEEbEQAzEeiV+v6xDlNuYtcJ3/Bjd6qCClWDtimEAHxkluiinncywJLoguJkkmxcDkb5dtXO0q8f3lPri12ZSRXwlBFl8Ql00k0G7IwKP31+GuQuSTmcWNd1cthkcI1aw0gUeErYkXPlCvUKfzfThZYXtKkhSMJAyB1QtwrG6WPgJt5xNLS/zkQqpKU/5F3gYbI7y8Jz/p7Bj6KEc6oV/T5YNLTowhGQ3wXWlGS1gc1Vnu7hnts203KXE=;2I+x2pGKrSmIaAtD1R0B9w=="
+secured: "fig30jjsSD4AWYYNtsMPiHM6Q/BWsL8njijGbecO3TH3HAuIXexmtjeYB5GwFF2z888yoL3u3Lx/AyoV/DD0WH2m20Ws6X0b+CeTtNdRdxqlFXi+/d2vevviGSAzNmm/EL/fTb/NIomz4Me0si7y5RdPNWSy1LRBP/fJzEnJ8dPr8yQLTcieX7JYAwnQ4/NXltNyFo5CAVvsaSUTVyC3O+JvJ5qUtnybnC3WM3qZPhhqwp6XRQT+HH7NlK4+DTrm2q+eOZF/VTuJHEzUZluPfAyvh/0xIk6uqCE78KiuCXmxv0k2k3645woxtGJhUgrb96EnYkhtXnUnG+0vMiW418rF1dCaG1rwMTKsfogFy51PyyVjNIYasIblNPRtvI81zsSFeq9iP5ZhnAds4CMYqKLIU12KS7Sn2k7VYPh0KWo=;KVOwm0AUn//IeNsr+tfrqA=="
 ---
 
