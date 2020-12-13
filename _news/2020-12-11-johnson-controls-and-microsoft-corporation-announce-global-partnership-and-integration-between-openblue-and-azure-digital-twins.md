@@ -83,15 +83,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Corporation (MSFT) Management Presents at UBS Global TMT Virtual Conference (Transcript)"
-    excerpt: "MSFT) UBS Global TMT Virtual Conference December 08, 2020 01:55 PM ET Company Participants Judson Althoff - EVP, Worldwide Commercial Business Conference Call Participants Karl Keirstead - UBS Presentation Karl Keirstead Well,"
-    publishedDateTime: 2020-12-09T05:02:00Z
-    webUrl: "https://seekingalpha.com/article/4393714-microsoft-corporation-msft-management-presents-ubs-global-tmt-virtual-conference-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 5
 
 secured: "LZKB5+2sQ/qqd8s1al3zWYApP1aumkmz7k/TU5xc5M2im9BJ9yG9PMtCspoxx7Lbb/Qs5VFvXGKiF8pCZbfXHG4eMMalkiUWeIJXFKMbJyZC6pwLgmUd0yM81/l9iZ+fKRlDY+27JJxqbFnsyNQ6s7Hz9pRHrWY+44XlbspXYJY8GMlUJVbr2Qtxu+Fs3qHQUQURvgzXIRlLpCmC5MJmqaDquc352pQHzmCtDT5LnSnff4LbWiwdtpoEO85fwGUo7aGdNbHGjdQ50Pt6VnTs+5Q4b4XgWtfsDKIxaq2HbRSC+Gavtr99pdWWhSeqMro7NMWUVoM3e42SBw65/vSa8syVQ0MSW1rc43/rFTbTjUhxbtN2TUkhLnfELiy2AnF/9GBF6wG53ZJYbcg6BxB0AlfKnU5yihPZ8OrNQLyb8NmKvgMQIMvBpnOSLSiMeygA4S489qtnoB5Y/LlR8JPt4ZGqhRbxkhZn8k6yy5SCZyiM77VKGA75EWf8xaoM5ZGbwPqA+MULWI3Ntdkn6Igf2g==;UOopkLzVrgaIEiZZyCuMig=="
 ---

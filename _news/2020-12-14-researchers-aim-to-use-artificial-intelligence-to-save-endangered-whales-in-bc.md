@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Researchers aim to use artificial intelligence to save endangered whales in B.C."
-excerpt: "Researchers are aiming to \"teach\" a computer to recognize the sounds of resident killer whales in order to develop a warning system for"
-publishedDateTime: 2020-12-13T19:59:00Z
-originalUrl: "https://www.thestar.com/news/canada/2020/12/13/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-bc.html"
-webUrl: "https://www.thestar.com/news/canada/2020/12/13/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-bc.html"
+excerpt: "Researchers are aiming to “teach” a computer to recognize the sounds of resident killer whales in order to develop a warning system for preventing ships from fatally striking endangered orcas off British Columbia’s coast."
+publishedDateTime: 2020-12-13T20:33:00Z
+originalUrl: "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c"
+webUrl: "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c"
+ampWebUrl: "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/"
+cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/"
 type: article
-quality: 27
-heat: 27
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: The Vancouver Sun
+  domain: vancouversun.com
 
 topics:
   - AI
 
-secured: "RS5SXRbOs6Rnh7XD1lvc9xvkxWYPZ66gspuueg3nO8Ek8k3MkKSYv7dla6kRjUIMNKZ8lyYG2OdebTNdB0IOUwsAITY/E/EXu8HotwMGsA1TTaijLXtPuvF5UXyPk+tKEfdZVf6yoK8OP2QqOEPC3fwquCwhArBafTFNbDkyXCuXVLajI2DiES+cx3nt1G+1ueOKPTOtzWJ6EitNesCwdhiljOoEn8t78K+5F7lTUf1lw9teu4zgew9qZjwuz8Ycc1ALG5p+wgCOacK2LrWvQsC3YXdvc0vvOz/v4Y8j/7fcBIwIkA44Zi9kF6Q0y3ZvOYZj7+sU3Nuus1ic1td2WPxUXqs15E66iPcqUcPjKvs=;4Pk/8BLMYo3R85wcpQ6UiA=="
+images:
+  - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/12/241629645-whales-w.jpg"
+    width: 1000
+    height: 750
+    isCached: true
+
+secured: "beInQwDQ+a6T/oNOQznS7MCtq9FkD9cqZfM8INzNcF/IJDlP3V65joZ6hw1b3w4HHSyQpN1A/Fqaix23Hq90qLmfGssl6ey1p0xBLBN3zzKli4bj3hhlUMluXjQ08T3tpAkOSt+iuxBGpDQi96HFtMLLJKqmuUp7Zu/C+EbVlmjauI4TL25sNaXT6OZMvcs4I/udMkAr9Zi8JfRxdyhR3Ot8nrdtx6S/rgG53Z8yDiClDRJtnuVwiBrnrwcZ9KLyjhKN8M2ngX/yCuhB1eWe5kT72vi9UubVmeubv/8IsiY8cb+sfz03uHvWRVg2bOdjDN6toPnOHuj/GrypbBA2FC/qG7GrjuRsWSZCYlfGMqY=;QSr2x/WtOJvnWyxHGxkTnQ=="
 ---
 

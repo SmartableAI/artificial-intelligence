@@ -85,6 +85,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
+    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
+    publishedDateTime: 2020-12-12T03:08:00Z
+    webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 41
   - title: "Southern Co-op defends facial recognition tech after privacy backlash"
     excerpt: "The retailer was responding to criticism from Privacy International, which wrote an open letter demanding reassurrances from the business after learning facial recognition had been introduced in 18 st"
     publishedDateTime: 2020-12-11T15:40:00Z
@@ -99,17 +110,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
-    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
-    publishedDateTime: 2020-12-12T03:08:00Z
-    webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
-    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
     excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
     publishedDateTime: 2020-12-10T18:57:00Z

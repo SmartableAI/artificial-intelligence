@@ -63,20 +63,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Peering into the Future: A Vision of Marketing and AI"
-    excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
-    publishedDateTime: 2020-12-09T06:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/peering-future-vision-marketing-ai-martin-waxman-mcm-apr/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "l57gViOvVaCXEoxt9m+7s6dWK2trb47P2yqYD+L8mScvySYtZ/q/GhWDpjglQ32WfWv+0iYjxcDb42FImNHLwB/kJLevBjzHPy2yuL8kEtG8FLJS11y40guE+bbDEXeG2yNEz2P1F7xnCln3/XriWN51jCILv/N8JbXyvgHv+BklfVDPmhh6/bqQhZIeFZHPs9qooDihtF123xd5+trKBabkcLic/waINRqNyeVp1VWiZ31jjikIxPZE7Gg0DT8nfKedhQqs6W50GTXEcqLiszZExF1darvlo3f69DP1JARTNBPD2dBeaqhkSfWj8Rrn708C4C3c+AzamAzNHMMiGF99wxEYclVH+3xviB37DIIk/pQXIuUrR3oxVOvNvEasMxwxDya7On2hI8OIprQb42A6f+Br7AjQTai79tFzloYebdtR8tXxXNNg78TpD+tlN8mycR/AP9c4Mc2YRVveM9q1cDVgRimiSD4cLbUDREZfQh/KTnHHFEoYiOzVY1Ll35EYkwVutmmyLcLvSoh+jA==;di3R1GockSlb94ADedNi/Q=="
 ---

@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures"
-    excerpt: "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,"
+    excerpt: "Cleo, the London-founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,"
     publishedDateTime: 2020-12-10T16:20:00Z
-    webUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020"
+    webUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/"
     ampWebUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/"
     type: article

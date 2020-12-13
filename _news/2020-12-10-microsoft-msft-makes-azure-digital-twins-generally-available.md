@@ -7,7 +7,7 @@ originalUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-g
 webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Corporation (MSFT) Management Presents at UBS Global TMT Virtual Conference (Transcript)"
-    excerpt: "MSFT) UBS Global TMT Virtual Conference December 08, 2020 01:55 PM ET Company Participants Judson Althoff - EVP, Worldwide Commercial Business Conference Call Participants Karl Keirstead - UBS Presentation Karl Keirstead Well,"
-    publishedDateTime: 2020-12-09T05:02:00Z
-    webUrl: "https://seekingalpha.com/article/4393714-microsoft-corporation-msft-management-presents-ubs-global-tmt-virtual-conference-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 5
 
 secured: "Mkab+WAEy16w+urJWsWRXwCYXiORZaj191SA/eytxfpPIGu5CHf8Q0hAktQ/pUP2Frwk9TmW0AIT9aELPWlPUM0CAsEpNHB/2a56mPLr+izi831/sqDg14M75NP9wa0PQg1hRXsdYdPtksgdDcX4soCCfLNmtqo+cVWRu07NGkDKvaIWU3s+/1he9AGjUdfIwFMxrCYH01AeLvOmT3IpJlWfddHmnbYiIP9fXfsyyhTNrwVHUdJMAQr9tCHsciGG8X79+U6Tx8RIR9nPd9oi2Hrc5Wx8Ae+bS24AcNYnWHdNwVtwJmYDtjIXgFT8TNwAENHcw33boFuMNjbKsihu+0ZAhw0hvAkrY0yoedrxtLTsIYCd6Fc3iBfBx/eZMaR+5R4I+FhfdL9GED3fs1xPBeD2JOkuiIZAuHtRiMmYmzUM7qSCvkH3MW4weT1OzU+TDaQ548AkiuDuGftPOA6pQHI2HrpgXG526GBWoSnth4FFHm6ezVkj1mXHY0ic1oeb16fGBWSycg3K0LaRKQ2hXA==;pmA95v++SI0SopVwmKmkCg=="
 ---

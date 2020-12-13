@@ -8,7 +8,7 @@ webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial
 ampWebUrl: "https://www.law360.com/amp/articles/1337105"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Facial recognition's fate could be decided in 2021"

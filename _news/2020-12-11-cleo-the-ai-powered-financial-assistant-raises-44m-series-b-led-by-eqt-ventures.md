@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures"
-excerpt: "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,"
+excerpt: "Cleo, the London-founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,"
 publishedDateTime: 2020-12-10T16:20:00Z
-originalUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020"
-webUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020"
+originalUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/"
+webUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/"
 ampWebUrl: "https://techcrunch.com/2020/12/10/cleo-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/"
 type: article
@@ -62,6 +62,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fGe7aZBcUUqM1BSHW8Z4QU1OxOOPzRyoBsJrYQd5NmO/37MnQztncseVWK2RtJJkp4QFhddmpqyAGoRUMEZIAsFgj8+++IVyHCra22UTySeArCF1OWsF6rfEO6wYU1i2VzL1xItQja7gFgEoqL2eedspIgeiAecfYXqMDnxAfZXpyu7lbdt5Iqef07ZjH273kCvpmATXNZ9sMZjwDo3y2k++VuugL1QFe5IG4G/jKEf9jpUWaD6UQ7Gwr6wPn/iAMYseO+HfE/KsOFogi4qjePwDSzv/+GoinnPMdVghTaQqp7zZsT/wNbuGL8nscFpHpnUc9YG2u4szb4wI0+b5QjFG0XHLhiuOqUpyGpDmiiVLuKb5aCtTXt5x1cWu5fhXwcJujOTG5RJyDZs8QdNPYwu/n18dEXrzvF1eWlV2qZBaNCji5FMP5R4iRsJi5cGd+KoukUiWooLN3mRiLsiqyaWdHe43utaapT/2jNoq/yqCxFjIRGIiDZOxSTuprffCR2rxEAeMXQzsInZMJkPjVQ==;wa9rdhgJS5mp+sZzP+LvnA=="
+secured: "Xpiis1N69ZhA1Mtf2iP5bAbPkzxwO+KZgRIbDdmj9JL4ZvYzDHows6b80ST9aFB+NZDgcW2zE1nbMqcX0Uk9CQlevkW9cxVm8W25OZVrJiojcxLbkAC7jPaC+Ah0jK57dvluQdmqsHe38t9lYnvnm9NA4Y7svbxCc4N++0oOlECummNvPPxf5Ag7/IV6V3jqx78K1fu+VSR6QHoYs/eWLOP8qI01zC/o+2qS17a4/80mONZjpuWWisDuwVN049jjxzZ+6gi4dgo0yUwYNjMnZ1zNIolPE588y7V2xjDR3lwR52bg3LnGrkLjLg3QwO5lWm28/BJr1uZOge0YkA0dIEzNnk6docFNBFv3CLYmCRk=;GFNOhIoE6mq6PZdBf/JnZw=="
 ---
 

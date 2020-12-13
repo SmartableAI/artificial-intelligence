@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/"
 type: article
 quality: 74
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -87,36 +87,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meet the Fintech companies leading the innovation wave even in the aftermath of a global pandemic"
-    excerpt: "In a year that has been fraught with challenges for many, leading companies including Amazon Pay, PayU, HAPPY, WazirX, CashRich, and TransUnion CIBIL came together to celebrate global"
-    publishedDateTime: 2020-12-09T06:42:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/meet-the-fintech-companies-leading-the-innovation-wave-even-in-the-aftermath-of-a-global-pandemic-120120900373_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/meet-the-fintech-companies-leading-the-innovation-wave-even-in-the-aftermath-of-a-global-pandemic-120120900373_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/meet-the-fintech-companies-leading-the-innovation-wave-even-in-the-aftermath-of-a-global-pandemic-120120900373_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 31
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/09/full/20201209103031.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Meet the Fintech companies leading the innovation wave"
-    excerpt: "In a year that has been fraught with challenges for many leading companies including Amazon Pay PayU HAPPY WazirX CashRich and TransUnion CIBIL came toget"
-    publishedDateTime: 2020-12-09T05:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267207097/meet-the-fintech-companies-leading-the-innovation-wave"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1607492104.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "FINX: Investing In Disruptive FinTech Innovators"
     excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/decipherin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
 type: article
 quality: 96
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/2l804abO.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "Peering into the Future: A Vision of Marketing and AI"
-    excerpt: "Well, it's that time of year when digital marketing prognosticators gaze into their crystal balls and make predictions about what the future might bring. So forgive me, if I jump into the fray and make a few pronouncements of my own."
-    publishedDateTime: 2020-12-09T06:19:00Z
-    webUrl: "https://www.linkedin.com/pulse/peering-future-vision-marketing-ai-martin-waxman-mcm-apr/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHpvmZite-ijQ/article-cover_image-shrink_720_1280/0/1607188294504?e=1613001600&v=beta&t=wNv2zgBnbL8MmStmv8uKukfCwv5iKKdNIAx00QW5Ow0"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Using AI to transform the customer experience in banking"
     excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
