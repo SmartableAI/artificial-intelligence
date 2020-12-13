@@ -2,6 +2,154 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-01-cyber-security-cloud-launches-wafcharm-on-microsoft-azure.md",
+      "title": "Cyber Security Cloud Launches WafCharm on Microsoft Azure",
+      "excerpt": "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls.md",
+      "title": "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls",
+      "excerpt": "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/",
+      "publishedDateTime": "2020-12-01T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works.md",
+      "title": "Microsoft teams up with Code.org to teach students how AI works",
+      "excerpt": "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
+      "originalUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
+      "publishedDateTime": "2020-12-01T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026.md",
       "title": "APAC Artificial Intelligence Chipsets Market to hit US$40 billion by 2026",
       "excerpt": "According to the given report, APAC Artificial Intelligence chipsets market registered a remuneration of USD 4 billion in 2019 and is expected to surpass a mammoth of USD 40 billion by the end of 2026,",
@@ -1036,126 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-c3ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite.md",
-      "title": "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite",
-      "excerpt": "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/",
-      "originalUrl": "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/",
-      "publishedDateTime": "2020-11-30T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "publishedDateTime": "2020-11-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity.md",
-      "title": "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity",
-      "excerpt": "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610",
-      "publishedDateTime": "2020-11-30T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

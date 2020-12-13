@@ -137,20 +137,6 @@ related:
         width: 800
         height: 409
         isCached: true
-  - title: "How Thomson Reuters accelerated research and development of natural language processing solutions with Amazon SageMaker"
-    excerpt: "This post is co-written by John Duprey and Filippo Pompili from Thomson Reuters. Thomson Reuters (TR) is one of the world’s most trusted providers of answers, helping professionals make confident decisions and run better businesses. Teams of experts from TR bring together information, innovation, and"
-    publishedDateTime: 2020-12-08T14:01:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/08/tr-1-685x630.gif"
-        width: 685
-        height: 630
-        isCached: true
   - title: "New Amazon SageMaker Neo features to run more models faster and more efficiently on more hardware platforms"
     excerpt: "Amazon SageMaker Neo enables developers to train machine learning (ML) models once and optimize them to run on any Amazon SageMaker endpoints in the cloud and supported devices at the edge. Since Neo was first announced at re:Invent 2018, we have been continuously working with the Neo-AI open-source"
     publishedDateTime: 2020-12-09T01:27:55Z
@@ -180,6 +166,6 @@ related:
         height: 326
         isCached: true
 
-secured: "WwMY9j1manCemjf/7rw/URaBRK3YZDeX/UWMwcgENKjKYmBfzbRgqOB2/xWHVqi9daXkAbicunwBvquw9afOY8vp4j9agijgmSoN0VJNaYvtZy5P4QIIvMxHptqhbmmD/MLzdTOG3lmM96Ov3YJpiRAFFaP+YJ5ozmGLGx0L9wNTlm4quypg2KptTCLKeULRcY+LjB1qmfq2xemzfq1vHMDFDW2yTGwTH6olPhpamUHZ4NIelrQyyHJUb7F5XOEqssFvLW1on68yqEY23c0dUbEVJpoxvQzsR5oWRniRTtpuAv1LGbt+0AmOaDoQkN6DZ4QJb7lf7mdUpXbP/uCdig/QSFa8ev//rooAJNh0SvE=;MAPhg+03t/iIEST2vPai7Q=="
+secured: "6Vs4ab3N6UjXy3zXn0e4efWIUbkKXb1wV6uw24NrMvp4Yw1FcyFLoZjBNRUc+TzrBaJy8hFS6+lup5GdNCOrlNDsWPKYnLGLUtMAhtCA+DqAwhYldJxoR7I7edEtP1HGZbvDweSX1JHJtcSDOSk7TJ+rBrDsfeWD39nWG3ztrax7ZQXrC3Gg6AyMOcmRs3FnoH/dGCC0NSQGpCx27YJ0DPLox4jV0/vKbqofLBdnJGSmOu4MOIf+OFJc8oMP/ZSYHh7srSNZEf6zjjQy9JyvvVw9Kf+FSdOAw54KgZLdfmSILqJ6Qy6XKJMik2gIxYJoJeFtwDJW7m/aPN67hijSXFE2t9fdx41I2CPQ2WGaHhw=;xqAM3Lv678zY2H1BG4LaEA=="
 ---
 

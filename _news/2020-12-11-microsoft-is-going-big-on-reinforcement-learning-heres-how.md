@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Azure Digital Twins in general availability"
-    excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
-    publishedDateTime: 2020-12-08T14:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Azure Digital Twins is now generally available"
-    excerpt: "Microsoft's IoT platform which allows for the formation and analyzation of digital replicas of real-world places is now generally available, along with key partner solutions for Digital twins."
-    publishedDateTime: 2020-12-08T13:44:00Z
-    webUrl: "https://www.neowin.net/news/azure-digital-twins-is-now-generally-available"
-    ampWebUrl: "https://www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-digital-twins-is-now-generally-available/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 104
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607450787_azure_digital_twins_1_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft doubles its money after backing C3.ai as it goes public"
     excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
     publishedDateTime: 2020-12-09T17:45:00Z
@@ -105,33 +73,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
-    excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
-    publishedDateTime: 2020-12-09T16:02:00Z
-    webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
+  - title: "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work"
+    excerpt: "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,"
+    publishedDateTime: 2020-12-09T14:58:00Z
+    webUrl: "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 69
+      name: SD Times
+      domain: sdtimes.com
+    quality: 73
     images:
-      - url: "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg"
-        width: 6000
-        height: 4001
-        isCached: true
-  - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
-    excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
-    publishedDateTime: 2020-12-08T14:18:00Z
-    webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
-        width: 742
-        height: 649
+      - url: "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg"
+        width: 472
+        height: 371
         isCached: true
   - title: "After Two-Year Preview, Microsoft Launches Azure Digital Twins"
     excerpt: "Microsoft's Azure Digital Twins service for modeling physical environments is now generally available over two years after being released as a preview."
@@ -203,36 +157,6 @@ related:
         width: 2300
         height: 1293
         isCached: true
-  - title: "Johnson Controls and Microsoft Corporation announce global partnership and integration between OpenBlue and Azure Digital Twins"
-    excerpt: "Johnson Controls, the globally renowned provider of smart and sustainable building solutions, and Microsoft Corp., the multi-national company for software and computer solutions, have announced"
-    publishedDateTime: 2020-12-11T11:00:00Z
-    webUrl: "https://www.sourcesecurity.com/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 46
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/remote-monitoring-security-surveillance-for-businesses-in-pandemic.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Johnson Controls and Microsoft Launch Global Integration of OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "Johnson Controls and Microsoft expand partnership with worldwide collaboration centered on Open Blue Digital Twin and Azure Digital Twins."
-    publishedDateTime: 2020-12-09T17:16:00Z
-    webUrl: "https://www.commercialintegrator.com/control_automation/control-systems/johnson-controls-microsoft-openblue-digital-twin/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 37
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/09/AdobeStock_278828065_Editorial_Use_Only-1.jpeg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
     excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
     publishedDateTime: 2020-12-11T13:40:00Z
@@ -242,43 +166,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft and Johnson Controls Report Collaboration on Launch Integration Between Azure Digital Twins and OpenBlue Digital Twin"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Johnson Controls (NYSE: JCI) have announced a global collaboration to"
-    publishedDateTime: 2020-12-09T16:45:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-and-johnson-controls-report-collaboration-on-launch-integration-between-azure-digital-twins-and-openblue-digital-twin/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 26
-    images:
-      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/12/shutterstock_1405194650.jpg"
-        width: 1000
-        height: 553
-        isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
-    publishedDateTime: 2020-12-09T12:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "Microsoft announces the general availability of Azure Digital Twins Holistic integration across digital twin technologies will enable users to digitally manage physical spaces, maximize efficiency, support COVID-19 safety and pilot new solutions Solution aims to encompass the entire ecosystem of building and device management technologies with digital cloud technologies Collaboration will support efficient and environmentally"
-    publishedDateTime: 2020-12-08T14:27:00Z
-    webUrl: "https://news.microsoft.com/2020/12/08/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "E37Ff+heyGs8VMKcBvohmg6EHoG/RWe3+chY3pYhK98hMPeOUSYWggA2/yR6tWtvP3zGppgbOjWnhxkv5H1ozz4ZUkFpLCfcT2mJwkARCzHMO9g55gFLhBxTneQihagdicqdtpcfG0vEScz7A6UZvUymdZVa10fZys/6tHtuKVbC44qolXz0+MYSBZfJl/bC1MLVlz0VphyLBiJFJPKYfum0vFFv92SFcPI+0C315mSdQnFR77XNAgElb5HngnRv5dYCdO+hmIauAh+x5rroQMIWYHbzwPJqzB/wg9bN6PHJNbsHnLJhlpw+ilQiuNQMs/kJ0XVV1cW+z7EigngnZZK94/Jvc8JOoplzX4EI2BCms8dI4ERKkKAacnbiPerF/LFSdhsa83xbiC7W0E2mc4TRC37YmcAFyZImZWdHLq1in10/pjTh41hetIXfEdEefwgf7oLnowvdT5HwZ57HYJSZ7aAFHCOy+6eS2PsKAyoy4hQq+aRaZf7lbgculyqadOCbGJBNE8cJaX2IFn9log==;Dp4X97SQlfoB5sVsI8kOFw=="
 ---

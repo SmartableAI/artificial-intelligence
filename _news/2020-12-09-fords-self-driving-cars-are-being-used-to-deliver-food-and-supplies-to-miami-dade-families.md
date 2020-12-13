@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 769
         isCached: true
-  - title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
-    excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
-    publishedDateTime: 2020-12-08T14:43:00Z
-    webUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711"
-    ampWebUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/npdx86ustilwtcpfwyfc.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
     publishedDateTime: 2020-12-11T05:10:00Z

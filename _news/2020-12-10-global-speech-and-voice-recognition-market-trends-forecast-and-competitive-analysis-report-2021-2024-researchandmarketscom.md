@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Automotive Market 2020 Global Analysis, Opportunities, Key Applications and Forecast to 2026"
-    excerpt: "Wiseguyreports.Com Adds 'Artificial Intelligence for Automotive-Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025' To Its Research Database <p>This report has been prepared based on extensive research and analysis of the latest dominating trends in the market."
-    publishedDateTime: 2020-12-08T14:04:00Z
-    webUrl: "https://menafn.com/1101247049/Artificial-Intelligence-for-Automotive-Market-2020-Global-Analysis-Opportunities-Key-Applications-and-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/updates/pr/2020-12/07/G_2a43fbc9-1image_story.jpeg"
-        width: 278
-        height: 333
-        isCached: true
 
 secured: "5yyvr303s4uZiwshYvtXdl4qKskCM5VcN1D65GSUg0XG3zGb5eLgS/K/O/5SX9PUG5bpQDlYYNU2o+168EMoaSdg+tZhbtku5/z1/YhW8+j/d5d2ylT2RpKC7BjYu7c1nbtRenttM6RIHnXmBRoyJHJ5KPzRqDgjF/i6Dxi2Hq8qq8bt5+HGZu2cBTi0wN4jokMtDl+RL//IqblprfrvpebMpD0qVs7lG5kpWmCqJ0HXQsesqFsH4grmq/kyRKFGQv7WEpqN+yqp+KhHNJ6ToLUdHe8OSa64BJ0UG3DrD4WeH/Ts9OESFbSShonl0RaUD2npX3fvR4MhLtQZR7E3PzuI5fDRYnvSa2hnP7FGEfY=;cuYvbnAMwyTX/1OCAmN3+A=="
 ---

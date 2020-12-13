@@ -60,22 +60,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "Uber didn’t sell its self-driving dream — it’s just outsourcing the hard work"
-    excerpt: "Uber is selling its self-driving division to autonomous vehicle startup Aurora. It's going to get a stake in company, suggesting it's not giving up."
-    publishedDateTime: 2020-12-08T13:57:00Z
-    webUrl: "https://thenextweb.com/shift/2020/12/08/uber-didnt-sell-its-self-driving-dream-its-just-outsourcing-the-hard-work/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/12/08/uber-didnt-sell-its-self-driving-dream-its-just-outsourcing-the-hard-work/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/08/uber-didnt-sell-its-self-driving-dream-its-just-outsourcing-the-hard-work/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/uber-aurora-car-ev-self-driving-autonomous-track-future-buyout-sale-tesla-796x449.jpg"
-        width: 796
-        height: 449
-        isCached: true
   - title: "AI Chief John Giannandrea Takes Over Apple Car Project"
     excerpt: "Apple is continuing work on developing some kind of autonomous vehicle product, and the project is under new leadership. Apple"
     publishedDateTime: 2020-12-08T19:01:00Z
@@ -123,22 +107,6 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2015/08/Apple-6.jpg"
         width: 634
         height: 382
-        isCached: true
-  - title: "Uber selling off division working on self-driving vehicles"
-    excerpt: "Self-driving vehicle technology company Aurora will acquire the employees and technology behind Uber’s Advanced Technologies Group, and Uber will invest $400 million in Aurora and acquire a 26% stake in the company."
-    publishedDateTime: 2020-12-08T14:11:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-uber-aurora-autonomous-robot-cars-20201208-yaloe7dclrci7dlx547szf4eoa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
-    images:
-      - url: "https://www.chicagotribune.com/resizer/tXZUGrfOm13ZGtY6h8scw8JGCWc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LT4MVAKYQ2WKPRMDVPXHODQAVE.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "VW CEO Expects Self-Driving Cars On Roads Between 2025-2030"
     excerpt: "Volkswagen chief executive Herbert Diess expects to see fully self-driving cars on public roads anywhere between 2025 and 2030. According to Reuters, Diess recently told Wirtschaftswoche that improvements in computer chips and advancements in the area of artificial intelligence are speeding up the development of autonomous driving technologies."
@@ -272,20 +240,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Aurora acquires Uber's self-driving division"
-    excerpt: "Uber will offload its self-driving technology division known as Uber Advanced Technology Group to Aurora, the two companies said in a joint statement Monday. Uber will also invest $400 million in Aurora as part of the deal."
-    publishedDateTime: 2020-12-08T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130312_aurora-acquires-uber-s-self-driving-division"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/uber-self-driving-prototype-in-san-francisco_100585356_h.jpg"
-        width: 1920
-        height: 1187
         isCached: true
   - title: "Uber sells self-driving unit to Aurora"
     excerpt: "Uber Technologies sold its self-driving car division to Aurora Innovation and took a stake in the startup, pulling back from its vision for a fleet of autonomous taxis to focus on turning a quarterly profit next year after the pandemic crushed revenue."

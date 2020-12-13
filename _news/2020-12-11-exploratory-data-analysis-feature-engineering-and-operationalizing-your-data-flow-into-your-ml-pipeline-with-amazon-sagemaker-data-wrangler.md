@@ -142,20 +142,6 @@ related:
         width: 800
         height: 409
         isCached: true
-  - title: "How Thomson Reuters accelerated research and development of natural language processing solutions with Amazon SageMaker"
-    excerpt: "This post is co-written by John Duprey and Filippo Pompili from Thomson Reuters. Thomson Reuters (TR) is one of the world’s most trusted providers of answers, helping professionals make confident decisions and run better businesses. Teams of experts from TR bring together information, innovation, and"
-    publishedDateTime: 2020-12-08T14:01:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/08/tr-1-685x630.gif"
-        width: 685
-        height: 630
-        isCached: true
   - title: "New Amazon SageMaker Neo features to run more models faster and more efficiently on more hardware platforms"
     excerpt: "Amazon SageMaker Neo enables developers to train machine learning (ML) models once and optimize them to run on any Amazon SageMaker endpoints in the cloud and supported devices at the edge. Since Neo was first announced at re:Invent 2018, we have been continuously working with the Neo-AI open-source"
     publishedDateTime: 2020-12-09T01:27:55Z

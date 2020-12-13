@@ -55,36 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Full interview with Uber CEO and Aurora CEO on sale of self-driving unit"
-    excerpt: "Uber's self-driving unit, Advanced Technologies Group (ATG), is being acquired by its start-up competitor Aurora Innovation, the companies announced Monday. The deal, expected to close in the first quarter of 2021,"
-    publishedDateTime: 2020-12-08T14:45:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/08/full-interview-with-uber-ceo-and-aurora-ceo-on-sale-of-self-driving-unit.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106807819-16074370111607437006-12843773019-1080pnbcnews.jpg?v=1607437009"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Uber CEO: We're Not Giving Up on Self-Driving After Selling Off the Business"
-    excerpt: "Uber announced Monday it was selling its self-driving unit, Advanced Technologies Group, to Aurora Innovation."
-    publishedDateTime: 2020-12-08T14:55:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business/2767559/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business/2767559/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/uber-ceo-were-not-giving-up-on-self-driving-after-selling-off-the-business/2767559/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 41
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106807878-1607440153414-gettyimages-1195837048-AFP_1OB182.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Uber to Offload Self-Driving Unit to Amazon-Backed Startup Aurora"
     excerpt: "The combined company created by the merger of the two autonomous driving businesses is valued at close to $10 billion."
     publishedDateTime: 2020-12-08T16:21:00Z

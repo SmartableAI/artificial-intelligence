@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-24-artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-industry-and-demand-forecast-by-2027.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market Advancements in Technology, Current Scenario of Industry and Demand Forecast by 2027",
+      "excerpt": "Pune, Maharashtra, India, November 24 2020 (Wiredrelease) Allied Analytics –:AI in healthcare market is majorly driven by surge in processing power of AI systems leading to enhanced AI capabilities and application of AI for novel surgeries. Furthermore ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2020-11-24/artificial-intelligence-ai-in-healthcare-market-advancements-in-technology-current-scenario-of-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-north-america-artificial-intelligence-ai-chipsets-market-growth-predicted-at-35-through-2026.md",
       "title": "North America Artificial Intelligence (AI) Chipsets Market Growth Predicted at 35% through 2026",
       "excerpt": "Graphical Research :According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size, By Product (Graphics Processing Unit (GPU), Application-Specific Integrated Circuit (ASIC),",
@@ -1329,40 +1372,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy.md",
-      "title": "Vysioneer, Mary Bird Perkins Cancer Center Endeavor to Make Artificial Intelligence Accessible for Precision Radiation Therapy",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20201110005155/vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20201110005155/vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

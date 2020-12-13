@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-08-googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate.md",
+      "title": "Google’s Look to Speak taps gaze-tracking AI to help users with impairments communicate",
+      "excerpt": "Google released an Android app called Look to Speak that enables users to select prewritten phrases to communicate using only their gaze.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/googles-look-to-speak-taps-gaze-tracking-ai-to-help-users-with-impairments-communicate/amp/",
+      "publishedDateTime": "2020-12-08T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-machine-learning-identifies-brain-signature-of-depression.md",
+      "title": "Machine Learning Identifies Brain Signature of Depression",
+      "excerpt": "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between brain regions in people with major depressive disorder – even when different protocols are used to detect these brain networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/machine-learning-identifies-brain-signature-of-depression-343725",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-identifies-brain-signature-of-depression-343725.jpg?v=11012306",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725",
+      "publishedDateTime": "2020-12-08T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-tech-startup-aifi-debuts-largest-hybrid-unmanned-store-in-shanghai.md",
       "title": "Tech Startup AiFi Debuts Largest Hybrid Unmanned Store In Shanghai",
       "excerpt": "California-based tech start-up AiFi has just debuted its fourth and largest autonomous store in Shanghai. Founded by Steve Gu and Ying Zheng, the company specializes in autonomous computer-vision technologies applied into stores of all scales and sizes,",
@@ -1131,109 +1225,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-the-ipo-market-looks-hot-as-airbnb-and-c3ai-raise-price-targets.md",
-      "title": "The IPO market looks hot as Airbnb and C3.ai raise price targets",
-      "excerpt": "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
-      "originalUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-grn.jpg?w=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/",
-      "publishedDateTime": "2020-12-07T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops.md",
-      "title": "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps",
-      "excerpt": "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
-      "publishedDateTime": "2020-12-07T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

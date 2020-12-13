@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimi
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 48
-  - title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
-    excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
-    publishedDateTime: 2020-12-08T14:52:00Z
-    webUrl: "https://phys.org/news/2020-12-breakthrough-optical-sensor-mimics-human.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 29
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/retina.jpg"
-        width: 2880
-        height: 1618
-        isCached: true
 
 secured: "5uP5i9xoN5rIiSEHhco339VrmtvkXJ9sx1fz7ygU7dlV6G+Y8g5Z7C/INIT70lspkKX6ZfuMqPDfErfOTHVrp7X2vmEu97UABPQ+a1D5/6EF5B8RxRlVge42AUUtmh+bMjJTlMPIADO/kUdRcQ4KZOQO/WqskJHRioyqwTTLSlObUlce5G0LBtuDWpIoMutCr40qQoicNJtJEagpbq6UConYefy1WwqYDtW2EdWwImzjbvzhv+iW4k5bD2Csi16qgWlASNym/e5YOlKTIny0zlP1pCeTn8rYJN/aMGLvrm2zaV27RTkn2Mp49sSuDwK/gA+o5S1sVy/Kh2fb+iR3/1vc7Wna6Nkv1Jtj/Jco3RudrkarWlk8Ljd8NVFzqDWmBTISr4D6ALEC3bSu5sQoJdoHE4bjmdJspAe3KZ7ryAPF+WSGOCCvsDJLYw5UD8tP7xIwjh8xhNn0hyMGy1YAJ26FEU9VEaO3N9h1J1tbVSU78vMs4Tx9mMZe6st0XOotPB1oGXBholXJgvArDWFrxw==;ML/3lMcTH2iVgYL6IofOKw=="
 ---

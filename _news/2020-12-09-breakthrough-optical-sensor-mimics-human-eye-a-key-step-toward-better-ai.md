@@ -55,20 +55,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
-    excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive changes in its visual field."
-    publishedDateTime: 2020-12-08T14:52:00Z
-    webUrl: "https://phys.org/news/2020-12-breakthrough-optical-sensor-mimics-human.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 29
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/retina.jpg"
-        width: 2880
-        height: 1618
-        isCached: true
 
 secured: "0ZGn6bxpc50o5hN5bRcJHphe4Z/cBkbNjy0S1c80DbTEPEDjJys7TVnhCen7tytD30ywc4EWy4R1jTwMbmAcye/KAE4l1eUkIa/FZdgfHZ52wml6F3MOhJZpp+oSThvGMjvxVDEV7kb65J+iGHcCxEFBJ3V497Wl+H+0UeJ4woozx/wLx141AoEmOYMhgnJ8igbmvtFG2LwmbkDY3BpHpnRKAynrzmUKay8gMNYEIGwYuzH6sIMnmzK+uhSdAh9f8HeqPs1ZsIMDwj0vVcb4S1isLKgpv7BjCmo1x6xqJo2H0dfRFAVuYbQLCb8eUW9rtss+gbyBF25+7iTqbMh60latSX6WFpNp4L3TQqF4x5I=;+rH/m372rY3knWzJRqGWuw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604448%2Fsmart-car-road-grid-autonomous-driving-source-getty.jpg&w=1200&op=resize"
         width: 1200
         height: 769
-        isCached: true
-  - title: "Knight Rider Had The Best Trick For Faking A Self-Driving Car"
-    excerpt: "I didn’t grow up on Knight Rider. I was never obsessed with KITT. I never wanted a replica, but I did understand the fascination others had with the car that flew, and talked, and drove itself. How did it drive itself?"
-    publishedDateTime: 2020-12-08T14:43:00Z
-    webUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711"
-    ampWebUrl: "https://jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/knight-rider-had-the-best-trick-for-faking-a-self-drivi-1845825711/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/npdx86ustilwtcpfwyfc.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."

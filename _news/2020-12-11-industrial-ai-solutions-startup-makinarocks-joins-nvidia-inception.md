@@ -2,27 +2,25 @@
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks Joins NVIDIA Inception"
 excerpt: "MakinaRocks today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. MakinaRocks, a startup based in Seoul and Silicon Valley,"
-publishedDateTime: 2020-12-11T08:31:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seoul-industrial-products-and-services-electronic-parts-manufacturing-d4977b4de9a90ff159d03bf02173b574"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seoul-industrial-products-and-services-electronic-parts-manufacturing-d4977b4de9a90ff159d03bf02173b574"
+publishedDateTime: 2020-12-11T06:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
+webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "qTYSDAI/cgpDVb62lSJht81wYmOrTcYh9OSv2DJ0pSx4Y8/obbqBM8or244H6QwkUOenTeRg+42RaS/VDpB5+QtD6YBi7iStf2HSZMUy0I8qFAbu4CHJO7um0akeLulraWkvyT5SBHxoHY+1YOgJ2AHBh2S/Qdqh/60J03pthy8rlVN3tgmc/yjXNvv0aQcdrcfuxxNPqowkBkiRYCoFrA/gWik/4mnXFhIK2cFIXS2u5Jdd4ZRD61r3xukr79o4a6hzTOE/uarsw+Ws68As+8gHU3nTcVJ1074u7zqOc8VCv3bILejPiYdm5JqPI7kcqI7Zk3APIDINExV01Gwh8WH6AeMMplAHi+1iDUmDyE8=;5XXffyBAfoAjG0+osl93DQ=="
+secured: "bXs+z7oI1Zk5TaQSaQuRXkgfRfUIxJJpSWCQKAI0QgrVg269jTyf41LZg2vcTKWBxNVERgxR++FkaBQU3UV1KyixAkhi4IKKIn9bZ9ghYMMD4NBA8f2dnjtP8a7gWglVc9yN0mCDlow1ncMvh/tca2TLYpvb+OY7cRk2//JMsAAMowCZEGrbbFVqddGn7NKEBaEcTUuDMIXGtN5qcZtoznIt4BwX2IsLt0LZ03EpiczW2HktjQTVBv8zse+hFE0afQtORwpRBv1c/KCo8DK5/WdG5b5yGnM+YQ0Yji++1xBRdCtruqJ/DYrOA0PCbHTjNwq/xOu1Vzuo4vZdOfjY8QoZmACHcOWVFRqTs1emIFQ=;CM9qVv5hiTL2oXuM9ug1Nw=="
 ---
 

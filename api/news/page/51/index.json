@@ -2,6 +2,187 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-11-05-museum-exhibit-explores-being-human-in-the-age-of-ai.md",
+      "title": "Museum exhibit explores being human in the age of AI",
+      "excerpt": "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black and set up a harrowing tour through the landscape of artificial intelligence in the exhibit “Uncanny Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
+      "originalUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marinij.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01-2.jpg?w=1024&h=576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
+      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
+      "publishedDateTime": "2020-11-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marin Independent Journal",
+        "domain": "marinij.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.md",
+      "title": "Intel's Iris Xe Max GPU to take on Nvidia's GeForce MX350, RTX 2080 in notebook PCs",
+      "excerpt": "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
+      "originalUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg",
+          "width": 1199,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
+      "publishedDateTime": "2020-11-04T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-sales-enablement-enhanced-with-artificial-intelligence.md",
+      "title": "Sales Enablement Enhanced With Artificial Intelligence",
+      "excerpt": "The amount of data collected in both sales and marketing has had developers focused on each, with only a little thought given to a true integration. That has slowly begun to change; and artificial intelligence (AI) might be providing the final piece necessary to supply a more robust solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-04T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-worldwide-voice-recognition-market-tremendous-growth-gross-margin-production-revenue-and-forecast-2029.md",
+      "title": "Worldwide Voice Recognition Market Tremendous Growth, Gross Margin, Production, Revenue and Forecast 2029",
+      "excerpt": "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. A voice recognition device can receive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/136072/worldwide-voice-recognition-market-tremendous/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/136072/worldwide-voice-recognition-market-tremendous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-seattle-startup-vets-raise-1m-and-reveal-more-details-about-home-valuation-platform-plunk.md",
       "title": "Seattle startup vets raise $1M and reveal more details about home valuation platform Plunk",
       "excerpt": "Will that bathroom remodel increase your home's value by more than $20,000? What about replacing the floors or adding a garage? How about the bad traffic that's getting worse around your neighborhood?",
@@ -993,188 +1174,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-adding-custom-data-sources-to-amazon-kendra.md",
-      "title": "Adding custom data sources to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra provides native connectors for popular data sources like Amazon Simple Storage Service (Amazon S3), SharePoint, ServiceNow, OneDrive, Salesforce, and Confluence so you can easily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/Adding-custom-data-sources-to-Amazon-Kendra-4.jpg",
-          "width": 509,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T15:15:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-chinese-carmaker-invests-in-fremont-self-driving-tech-unicorn-ponyai.md",
-      "title": "Chinese carmaker invests in Fremont self-driving tech unicorn Pony.ai",
-      "excerpt": "Pony.ai, a self-driving tech unicorn led by former Baidu and Google self-driving car executives, on Tuesday announced a strategic investment from Chinese state-owned vehicle manufacturer FAW Group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
-      "publishedDateTime": "2020-11-03T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-explaining-amazon-sagemaker-autopilot-models-with-shap.md",
-      "title": "Explaining Amazon SageMaker Autopilot models with SHAP",
-      "excerpt": "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/27/Graph.jpg",
-          "width": 900,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T14:57:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-pope-francis-pray-that-robotics-and-ai-always-serve-humankind.md",
-      "title": "Pope Francis: Pray that robotics and AI always serve humankind",
-      "excerpt": "Pope Francis has invited Catholics around the world to pray that robotics and artificial intelligence will remain always at the service of human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "originalUrl": "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.catholicnewsagency.com/images/Crucifix_Lars_Hallstrom_via_shutterstock_CNA.jpg?w=375&h=250",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "publishedDateTime": "2020-11-03T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catholic News Agency",
-        "domain": "catholicnewsagency.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

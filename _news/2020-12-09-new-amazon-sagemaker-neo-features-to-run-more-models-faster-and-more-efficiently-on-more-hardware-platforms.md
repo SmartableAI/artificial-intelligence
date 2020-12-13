@@ -141,20 +141,6 @@ related:
         width: 800
         height: 409
         isCached: true
-  - title: "How Thomson Reuters accelerated research and development of natural language processing solutions with Amazon SageMaker"
-    excerpt: "This post is co-written by John Duprey and Filippo Pompili from Thomson Reuters. Thomson Reuters (TR) is one of the world’s most trusted providers of answers, helping professionals make confident decisions and run better businesses. Teams of experts from TR bring together information, innovation, and"
-    publishedDateTime: 2020-12-08T14:01:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/08/tr-1-685x630.gif"
-        width: 685
-        height: 630
-        isCached: true
   - title: "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler"
     excerpt: "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying"
     publishedDateTime: 2020-12-11T17:39:24Z

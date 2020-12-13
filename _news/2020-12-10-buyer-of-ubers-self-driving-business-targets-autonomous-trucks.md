@@ -41,22 +41,6 @@ related:
         width: 1516
         height: 869
         isCached: true
-  - title: "Pittsburgh mayor releases statement after Uber sells self-driving vehicle division"
-    excerpt: "Uber has sold its self-driving vehicle division, Advanced Technologies Group (ATG), to Aurora, which has offices in Pittsburgh’s Strip District.In an announcement made Monday, Aurora said is has acquired ATG’s technology and employees."
-    publishedDateTime: 2020-12-08T13:49:00Z
-    webUrl: "https://www.wtae.com/article/pittsburgh-mayor-releases-statement-after-uber-sells-self-driving-vehicle-division/34902022"
-    ampWebUrl: "https://www.wtae.com/amp/article/pittsburgh-mayor-releases-statement-after-uber-sells-self-driving-vehicle-division/34902022"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/pittsburgh-mayor-releases-statement-after-uber-sells-self-driving-vehicle-division/34902022"
-    type: article
-    provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 38
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wtae/41697926-uber-self-driving-car.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Uber sells self-driving unit to Aurora, with plans to keep Pittsburgh presence"
     excerpt: "Uber‘s self-driving unit is under new ownership, but it will be heading to a familiar name for Pittsburgh. Aurora Innovation is acquiring Uber Advanced Technologies Group (Uber"
     publishedDateTime: 2020-12-08T23:58:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2020/12/Uber-ATG-self-driving-cars.jpg"
         width: 680
         height: 453
-        isCached: true
-  - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
-    excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group"
-    publishedDateTime: 2020-12-08T14:23:00Z
-    webUrl: "https://www.finsmes.com/2020/12/aurora-is-acquiring-uber-s-self-driving-unit-advanced-technologies-group.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 0
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/12/aurora.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
     excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group (Uber ATG). ATG’s team and technology will accelerate Aurora’s mission and the delivery of our first product safely,"

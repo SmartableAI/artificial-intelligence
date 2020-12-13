@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-08-the-ipo-market-looks-hot-as-airbnb-and-c3ai-raise-price-targets.md",
+      "title": "The IPO market looks hot as Airbnb and C3.ai raise price targets",
+      "excerpt": "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
+      "originalUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-grn.jpg?w=300",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/",
+      "publishedDateTime": "2020-12-07T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops.md",
+      "title": "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps",
+      "excerpt": "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
+      "publishedDateTime": "2020-12-07T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-ibm-openpages-with-watson-can-deliver-a-218-return-on-investment-finds-forrester-study.md",
       "title": "IBM OpenPages with Watson can deliver a 218% return on investment, finds Forrester study",
       "excerpt": "The modern enterprise evolves to develop an integrated governance, risk and compliance (GRC) framework. Using a structured approach to manage GRC programs creates efficiencies by aligning technology with business objectives so that the organization can effectively manage risk and operate effectively",
@@ -1108,101 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-elon-musk-makes-clear-his-stance-on-self-driving-cars-ai-oversight-and-his-ad-for-mars.md",
-      "title": "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'",
-      "excerpt": "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "publishedDateTime": "2020-12-06T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-google-ai-researcher-pushed-out-amid-ethics-concerns.md",
-      "title": "Google AI Researcher Pushed Out Amid Ethics Concerns",
-      "excerpt": "She examined the risks of computer systems that analyze huge language databases to create their own human-like text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/home/news/21205809/google-ai-researchers-exit-sparks-ethics-bias-concerns",
-      "originalUrl": "https://www.manufacturing.net/home/news/21205809/google-ai-researchers-exit-sparks-ethics-bias-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2020/12/16x9/iStock_1163973538.5fce4f5ac2ffc.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

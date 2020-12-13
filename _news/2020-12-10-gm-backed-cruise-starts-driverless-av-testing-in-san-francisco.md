@@ -25,33 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Apollo gets green light for fully driverless road tests in Beijing"
-    excerpt: "AutoX announced the roll out a fleet of autonomous RoboTaxis in downtown Shenzhen, representing the first time such vehicles have been deployed in China without safety drivers or remote operators."
-    publishedDateTime: 2020-12-08T14:05:00Z
-    webUrl: "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/"
-    ampWebUrl: "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 83
-  - title: "Baidu is testing its robot axis without a safety driver in Beijing"
-    excerpt: "Baidu has just received permission to test its autonomous taxis with no security drivers on the streets of Beijing. A first for the Chinese capital. The company has been testing its robot axis in China since 2018,"
-    publishedDateTime: 2020-12-09T12:31:00Z
-    webUrl: "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/"
-    ampWebUrl: "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 74
-    images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
     excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
     publishedDateTime: 2020-12-09T17:06:00Z
@@ -84,6 +57,22 @@ related:
         width: 1440
         height: 945
         isCached: true
+  - title: "Tata Elxsi's driverless car buzz steers stock up 7%"
+    excerpt: "Tata Elxsi works with car manufacturers and component makers and deploys its artificial intelligence and computer ... there is no plan to showcase any driverless car today or in the future."
+    publishedDateTime: 2020-12-11T02:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/news_image_files/2016/356x200/d/delhi_transport_traffic_356_2331_356.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "GM’s Cruise putting driverless cars on San Francisco streets for first time"
     excerpt: "The company said it will test cars without a driver in the Sunset District, a neighborhood on the western edge of the city."
     publishedDateTime: 2020-12-09T20:44:00Z
@@ -113,20 +102,6 @@ related:
       - url: "http://i.ce.cn/english/main/latest/202012/09/W020201209396128618445.jpg"
         width: 800
         height: 577
-        isCached: true
-  - title: "Baidu gets nod for driverless vehicle tests"
-    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
-    publishedDateTime: 2020-12-10T01:05:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "Nq7K1awKJ/RrhrvV7J63sgeMpaHGqEPJd3YhLFfXrjUTa0PDqV9DJgUaQaRR3O9e8aFb/4mzAo+TaH1cBiJ5NfDsM0B6SCVkrxcdRvJxJj2aCHWz0E5tkpWe5hcCTPmbUXqimNrgbNWpXQqMC9vU1tDYaoswWhdFiUDFMJEssWLJyIc2AxvY0QILuGrQicG73prVLlwE9HwGlRJbjyoOh8CunH3PjA8vSFHLG2gF5t1n9H72nHPwQRu2zBg62mOMVqM/Fs3U55J5utycB/ffSXpplksNDHkimmlji/pNKFSYbgOYXApVeL8AuEjolRbnCc77J2VFoUQmFA98xlcnKAa15K5dhNgSUt224BoyFvs5DITxO6M07f+LHBEtuNokWNByF43tk9ztKTk/QX2UPN+t6S3t7dmHysmdqtYPzAorxIm7oNGKvyuvpog+2N2Cgr2h4loVgfeeFym8lNl063jM1W8wnY2659F+2aBHfXYOB8MTUBDzg8DlTcgGgOGcZWMU/oLfDILN5ZwVVBdNWg==;B0HYCMvXOACc6AfXDbDNSg=="

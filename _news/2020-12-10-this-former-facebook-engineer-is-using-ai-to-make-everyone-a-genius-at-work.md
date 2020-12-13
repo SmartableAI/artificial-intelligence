@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/alexa-von-tobel/episode-71-deon-nicholas-foret
 webUrl: "https://www.inc.com/alexa-von-tobel/episode-71-deon-nicholas-forethought-artificial-intelligence.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Imagine a world in which AI is in your home, at work, everywhere"
-    excerpt: "The Harvard Gazette featured metaLAB’s AI + Art project, which prompts us to envision how the technology will change our lives, and the Berkman Klein Center’s work on the Ethics and Governance of AI."
-    publishedDateTime: 2020-12-08T14:19:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-12/imagine-world-which-ai-your-home-work-everywhere"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/Screen%20Shot%202020-12-08%20at%209.22.01%20AM_2.png?h=d8e02bda&itok=Vi_W27r8"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "wEAp2VvcQWUaWQT6qIN2KN5fVnz22nMPnFPDOk8/QxzwPAYu7Vn1UdkX8b89+VuENotPEumHw4GhouB4hnHa0vf+PoY8Y2TsFIh3NQLJrmyOO9QfKwoS3hDR/5OiBMjewJm/xEKmlsU7cwKLfBOQ4uhfr8/qiiWyEs8im7U4XekwMmpnyY4PIrwkDcnU38ZSIZ7f5GmTYzL965oVtyjLIP/MYIaPzHP7OMUaQJkvyVc8OyEJk1F1Hx4c1HHhKg9vskvjPR/P1txAfl+VG8OLOxmZ0Uzl1pVkyuK+c6kOhYelNDKLs4+Gnzh0AyuECevBWPAXwjd6mNJFn9CvzLywtcGekrZZsEfEcPb+aM2mDYz8kP7obzyyzl91jA+zn4RM/O8FpwE/ncZzjUET+CZxKAZEAKFZjHLSCPojmTPU+ZYv1SaxtcX267BqIGtKpwPU+KtXyIqJtV97D/gLtHdsU22TfV07Nb4ZEvyLO/c+o5xRtSOsvn6BUrCElTWFbZiUJXE+dH1ICvTnwaXqHPRf6A==;xTBwGu669Sf0gtrqXQpO2A=="
 ---

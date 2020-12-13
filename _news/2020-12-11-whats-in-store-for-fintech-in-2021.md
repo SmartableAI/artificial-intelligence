@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd56a42e4afaed9fb21cb62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D162%26cropY2%3D3369"
         width: 1200

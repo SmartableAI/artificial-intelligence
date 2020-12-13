@@ -3,14 +3,11 @@ category: news
 title: "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI"
 excerpt: "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise."
 publishedDateTime: 2020-12-02T14:08:00Z
-originalUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0"
-webUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0"
-ampWebUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
-cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
+originalUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai"
+webUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai"
+ampWebUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai?amp"
+cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai?amp"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Diginomica
@@ -20,19 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "ServiceNow to snap up Canadian AI startup"
-    excerpt: "ServiceNow has announced that it will acquire Element AI, a Canada-based artificial intelligence (AI) company with deep AI capabilities. According to ServiceNow, the acquisition will significantly enhance its commitment to build the world’s most intelligent workflow platform,"
-    publishedDateTime: 2020-12-06T11:50:00Z
-    webUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup"
-    ampWebUrl: "https://www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/94904-servicenow-to-snap-up-canadian-ai-startup?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 37
+images:
+  - url: "https://diginomica.com/sites/default/files/images/2020-02/BA3B9BD6-71AC-4E8C-A9AC-B11E2800162E.jpeg"
+    width: 640
+    height: 337
+    isCached: true
 
-secured: "N1HX5wdC1L0LiSATNCnwljReA/ZYdaDxXxfug3NEIwqPa2B9nPCRdsLqNenayh82Fu2cbJzbI0aSlBzlwV8T9P582IxJ8gjgw4W9ErTjG5MVbUd/q8JaF7NG0YBG8m0ZvgzaYX5Boj4V3cFGS9bUrYeLxgQ9vJtcgkKNtqyYP4am47YT5N0GPerceLL5F7XsB+rbTRigOaTXwWCVKbhZV5XVO2mqks8KWQ12Y+y7/ur9bfRghb64fJ17f1JZl71US5BQV1z2HinDTHJrCmmk1NJgAS5qnKEpUUGTqXV07vdntp2s5Re8JbHX8+XyqYFV8vGRPlCL5toPXm4s57IAeFtoGECAZNstqPZ6cSwfI+LkGpV7LFcX/++bEZ+R5RPVMx+YLqDu2y5mbiMCDcuegWxwai7bko64oIy7DZUPO9Zs0GSVpUL8BShmqSfJp2UPb+R0xnp+u9pgx2HDvy14eeONnCCX6Y6MKd/6apQkXWROaz/ehBefVR+jj3A5x+XMO0L3wBQrlWpONtntuMfTBg==;byQU2pqqzq9HV5AEjTPbSw=="
+secured: "zoz0WrnoM/2tD+0bp53QdP8T4lHX8Lbf/z7zOULdM1SnS7Jml69ez+D4Cve0rIbb0oJ2IDVZPBqRDdbgNL3rzm64c3cobmIwM0cGGc40ph6iJqmEayCvqJItsNNBUwlnhpvcBfgj2C5RBP/79JyDcAyPzVjL6CtPBQrzy4tYV2MVUt9duvRzDnaqph2Cr43jdnC0JObfjTb5SxWbuLFf3SH+jwrWWB6WLSxW+rcpLFc9ZOO+myH9ORWFa/StUg3oQnceuU75uUBhzds/z0reXhbwmVDJDmZyAf7X0AVwdfuITQxXtRJNTFxMqkwA8/UCJ1wPYoEhrUVSKP27OaVZrg3LhWIU02HVTXRU57cEwBM=;p5GgF63U0abW5XoSD9vvxA=="
 ---
 
