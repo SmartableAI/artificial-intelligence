@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-go
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 756
     height: 630
     isCached: true
-
-related:
-  - title: "Incremental learning: Optimizing search relevance at scale using machine learning"
-    excerpt: "Amazon Kendra is releasing incremental learning to automatically improve search relevance and make sure you can continuously find the information you’re looking for, particularly when search patterns and document trends change over time. Data proliferation is real, and it’s growing. In fact, International"
-    publishedDateTime: 2020-12-08T17:40:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-learning-optimizing-search-relevance-at-scale-using-machine-learning/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1856-1.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "1TtFVzcRzPoilQ6Tm8htRGMNjzLAs52+qGI4euobbdjNQOGcqAc4LPR9uqw9tZkJlAM2SyxNZTNLqFjlBrdiydoAMBLyNTYceLJ2s+JS96F0spMcJD+6RJyL2++SR+OTkDoNLjuP8/EcnhZV74QRDJWubyNxBxRXdu2fAz2bk7xaIJvlKBCJqhtQ9jIZP6QnF/JVmFyspR2+GetoU3T/E33+Qr5qcKwRepfN0Va+cVzTB/oGep9gA2TywKyTEL+bIedtz3IJgr6o8gKfuLdiiZt6wFvwti3dG1BepQjMlTjnOWGnar7wX3xG+FSTOjDLTzbJULZHWACo+Pc5lW44Zs8rdGhtbE89ZZYUC0t9szQ=;fFwh9o8AGn6mBYFLw6eoAg=="
 ---

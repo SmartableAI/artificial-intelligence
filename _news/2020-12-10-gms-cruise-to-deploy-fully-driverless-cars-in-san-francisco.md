@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-dr
 cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "http://i.ce.cn/english/main/latest/202012/09/W020201209396128618445.jpg"
         width: 800
         height: 577
+        isCached: true
+  - title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
+    excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."
+    publishedDateTime: 2020-12-09T19:40:00Z
+    webUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
+    type: article
+    provider:
+      name: Business Travel News
+      domain: businesstravelnews.com
+    quality: 54
+    images:
+      - url: "https://www.businesstravelnews.com/i/BTN-footer-logo-no-tag.png"
+        width: 600
+        height: 398
         isCached: true
   - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
     excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"

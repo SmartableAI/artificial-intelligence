@@ -55,20 +55,6 @@ related:
         width: 680
         height: 453
         isCached: true
-  - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
-    excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group (Uber ATG). ATG’s team and technology will accelerate Aurora’s mission and the delivery of our first product safely,"
-    publishedDateTime: 2020-12-08T17:17:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-edffcc637fa047f8a825a220d2cfac51"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "c7b8HtiWPx1eD7xaSfqsil8QmTZEN708LE/9OXudgVqmNk52lYKWBH083oR0UKEoFIxU54q5m/QgInGXYyE/9LaqBfUBB+a+9L66xZpJTZg272iLktLEq3ICMbRC9Ko58XDj/siK4cF0XYuRykccu4nec5soGzsmfU6fKfn6gp4iCJQl19+hmqqZYz9vJPzClpTCKraHUt3//ZzrgpQUPDP0z2Q3KHSABIG8BOMKuoRR9fR8z2HBFfj7yO0pynUO/vDP5al1wGRyPCy5hlwIVL1/6auqGwhqV5DthUb7c7KiyGWEQLRmn8jbADec5rmKtqqrMQrSFUjoDMifLivHM88kTgFbBgvzcw7TEaSDD6akDfrH8xCTxa9h4d40GukNtv7QaIAmX4BKKvx0ubvT7cazGHW2b45/8kgjaHPL+CUQkhQTvoHeQl2Eub7RNwBvTafB0QFoRx198w7420hqSDFu6AcCibIOz9UcDuwbc/txaz7BqtU2BaMjqinOrHA9i526tx9quJqYSFZdeTBXmQ==;Srci0wXCnpWL7Ptbv4IgZg=="
 ---

@@ -87,20 +87,6 @@ related:
         width: 472
         height: 371
         isCached: true
-  - title: "Microsoft highlights AI innovations at 40th GITEX Technology Week"
-    excerpt: "Azure FarmBeats, an AI solution supporting food security, a key focus at The Hub December 6, 2020; Dubai, United Arab Emirates – opened a socially distanced area ‘The Hub’ as the 40th GITEX Technology Week launched,"
-    publishedDateTime: 2020-12-08T18:14:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2020/12/08/microsoft-highlights-ai-innovations-at-40th-gitex-technology-week/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/12/sayedandHH3LR7122020143330-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
     publishedDateTime: 2020-12-10T20:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief"
 type: article
 quality: 91
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/apple_logo_main_uns.jpg"
         width: 1440
         height: 800
-        isCached: true
-  - title: "AI Chief John Giannandrea Takes Over Apple Car Project"
-    excerpt: "Apple is continuing work on developing some kind of autonomous vehicle product, and the project is under new leadership. Apple"
-    publishedDateTime: 2020-12-08T19:01:00Z
-    webUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/"
-    ampWebUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 57
-    images:
-      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
-        width: 1600
-        height: 1022
         isCached: true
   - title: "Apple's AI and Siri chief John Giannandrea now overseeing Apple Car development"
     excerpt: "Apple has moved its Project Titan self-driving car division to fall under the leadership of artificial intelligence chief John Giannandrea, who also leads Apple's Siri and machine learning teams."

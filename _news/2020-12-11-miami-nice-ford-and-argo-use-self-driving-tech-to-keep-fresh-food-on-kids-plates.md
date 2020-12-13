@@ -135,17 +135,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's self-driving vehicles coming to Central Ohio test facility"
-    excerpt: "Waymo is moving into the Transportation Research Center in East Liberty for a multi-year testing program for its self-driving cars and trucks. “This will be an exclusive, first-of-its-kind testing environment for the Waymo Driver,"
-    publishedDateTime: 2020-12-08T17:21:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.html"
-    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "UK self-driving testing center to simulate real-world scenarios"
     excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
     publishedDateTime: 2020-12-10T13:40:00Z

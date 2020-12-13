@@ -105,20 +105,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft highlights AI innovations at 40th GITEX Technology Week"
-    excerpt: "Azure FarmBeats, an AI solution supporting food security, a key focus at The Hub December 6, 2020; Dubai, United Arab Emirates – opened a socially distanced area ‘The Hub’ as the 40th GITEX Technology Week launched,"
-    publishedDateTime: 2020-12-08T18:14:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2020/12/08/microsoft-highlights-ai-innovations-at-40th-gitex-technology-week/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/12/sayedandHH3LR7122020143330-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Addenbrooke’s to be first hospital to use Microsoft AI cancer treatment tool"
     excerpt: "Microsoft has announced that Addenbrooke's Hospital in Cambridge will be the first hospital in the world to use its InnerEye AI tool"
     publishedDateTime: 2020-12-09T12:09:00Z

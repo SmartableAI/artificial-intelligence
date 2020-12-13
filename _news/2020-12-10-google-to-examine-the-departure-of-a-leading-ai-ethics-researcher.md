@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/sHfv3CAeYQrV758An5vV_OdBJ64=/1200x630/2017/03/08/8a0535b3-8d34-4f44-bf11-c81ac80701fe/sundar-pichai-google-cloud-next-2017-7711.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’"
-    excerpt: "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms."
-    publishedDateTime: 2020-12-08T18:45:00Z
-    webUrl: "https://www.vice.com/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
-    ampWebUrl: "https://www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/epdpwn/googles-firing-of-an-ethics-researcher-shows-the-limits-of-having-a-seat-at-the-table"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 80
-    images:
-      - url: "https://video-images.vice.com//articles/5fcfc38215808c009bbb0587/lede/1607451744337-gettyimages-1028811898.jpeg?crop=1xw:0.8427xh;0xw,0xh"
-        width: 5760
-        height: 3235
         isCached: true
   - title: "Sundar Pichai apologizes for how Google handled the 'departure' of AI ethics researcher"
     excerpt: "While Pichai did not say AI ethicist Timnit Gebru was fired as she has claimed, in an internal memo sent to staff he pledged to investigate the events to led to her exit and 'work to restore' their trust."

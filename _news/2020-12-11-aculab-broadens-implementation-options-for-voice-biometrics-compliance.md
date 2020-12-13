@@ -24,22 +24,6 @@ images:
     height: 499
     isCached: true
 
-related:
-  - title: "Real-time facial recognition and remote biometrics combine in Idemia NSS’ ‘installation of the future’"
-    excerpt: "At the United States Army’s Redstone Arsenal in Hunstville, Alabama, there is a three-mile backup of cars trying to get onto base every morning. The frustration and loss of time for people"
-    publishedDateTime: 2020-12-08T17:28:00Z
-    webUrl: "https://www.biometricupdate.com/202012/real-time-facial-recognition-and-remote-biometrics-combine-in-idemia-nss-installation-of-the-future"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-
 secured: "UOD6V8MV+hKzxGhpHLp1hBQm11bxji6wSUd8c+6LWQe/cac3R1jcZgihpCk2VFwrmyCPcqJS4c2Ne/LiqMsljOlSmkBYsozlm36TulGPIKVOF9Q1w2lY+QsYEkDRExBQAkLIk9lC1ia/miFHPt5Ds234DJKrfC/Jyc/2Mn4V1f3JknBN9COjlpG+2HlD2HE1SMZqhlvpjcwqvv9qbzaEUTWtXFTntLaH27QGEguQAgWIfOVzpp6rNz+PNrIRnahOfXLY4j0TOXziZH4vcNBv6O8F7EKv5yh1N9mOTfFREZbh2nq5j9ErcENTuWflwG0EWtZbHZDwdltx0hlSzPVJeckR6tOnIUU91HwDwWGOeFZj3O4OxVvV6FRBjcJZI4x0jaMqOIx1s3VcriAFBwnaTASPbhyxJ+JJtOnyYGRZB06McPJtlUrhu3MGtUOMsc8/mF2RZDFgkErKIr2mUAZ2brcTz8olPuCEjsZFGuDC42XbOteej7qXHkGweocczQWr7alYZ9nqzrrlvRRgu/uofQ==;63VsuSHX1qUFBDYXkFHTPA=="
 ---
 

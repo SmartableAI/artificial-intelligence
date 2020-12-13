@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-t
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -125,17 +125,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's self-driving vehicles coming to Central Ohio test facility"
-    excerpt: "Waymo is moving into the Transportation Research Center in East Liberty for a multi-year testing program for its self-driving cars and trucks. “This will be an exclusive, first-of-its-kind testing environment for the Waymo Driver,"
-    publishedDateTime: 2020-12-08T17:21:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.html"
-    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/12/08/googles-self-driving-vehicles-coming-to-central-o.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
     excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
     publishedDateTime: 2020-12-10T18:17:00Z

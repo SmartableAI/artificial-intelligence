@@ -60,22 +60,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "AI Chief John Giannandrea Takes Over Apple Car Project"
-    excerpt: "Apple is continuing work on developing some kind of autonomous vehicle product, and the project is under new leadership. Apple"
-    publishedDateTime: 2020-12-08T19:01:00Z
-    webUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/"
-    ampWebUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 57
-    images:
-      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
-        width: 1600
-        height: 1022
-        isCached: true
   - title: "Apple's AI and Siri chief John Giannandrea now overseeing Apple Car development"
     excerpt: "Apple has moved its Project Titan self-driving car division to fall under the leadership of artificial intelligence chief John Giannandrea, who also leads Apple's Siri and machine learning teams."
     publishedDateTime: 2020-12-08T20:33:00Z

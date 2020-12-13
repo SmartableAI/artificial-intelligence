@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-01-google-releases-objectron-dataset-for-3d-object-recognition-ai.md",
+      "title": "Google Releases Objectron Dataset for 3D Object Recognition AI",
+      "excerpt": "Google Research announced the release of Objectron, a machine-learning dataset for 3D object recognition. The dataset contains 15k video segments and 4M images with ground-truth annotations, along with tools for using the data to train AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/12/google-objectron-dataset/",
+      "originalUrl": "https://www.infoq.com/news/2020/12/google-objectron-dataset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/12/google-objectron-dataset/en/headerimage/google-objectron-dataset-header-1606492938634.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-ai-start-up-scale-now-worth-more-than-35-billion-and-breaking-even.md",
+      "title": "A.I. start-up Scale now worth more than $3.5 billion and breaking even",
+      "excerpt": "Scale cleans up data so companies can build good artificial intelligence models. It's been trying hard to keep up with fast-growing customer DoorDash this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/01/scale-ai-breaking-even-after-it-scaled-back-hiring.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/01/scale-ai-breaking-even-after-it-scaled-back-hiring.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106803992-1606785337289-Handout_scale_team-4.jpg?v=1606785984",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/01/scale-ai-breaking-even-after-it-scaled-back-hiring.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/scale-ai-breaking-even-after-it-scaled-back-hiring.html",
+      "publishedDateTime": "2020-12-01T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-servicenow-now-set-to-acquire-ai-focused-startup-element-ai.md",
       "title": "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI",
       "excerpt": "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,",
@@ -1056,108 +1150,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion.md",
-      "title": "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion",
-      "excerpt": "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "originalUrl": "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196?mod=hp_lead_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-265924/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196",
-      "publishedDateTime": "2020-11-30T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-raytheon-intelligence-space-and-c3ai-form-alliance-to-accelerate-military-ai-adoption.md",
-      "title": "Raytheon Intelligence & Space and C3.ai Form Alliance to Accelerate Military AI Adoption",
-      "excerpt": "Faster availability of AI will improve military readiness Business Wire REDWOOD CITY, Cali",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

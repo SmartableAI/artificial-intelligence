@@ -157,14 +157,19 @@ related:
         height: 326
         isCached: true
   - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-    publishedDateTime: 2020-12-09T05:03:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+    publishedDateTime: 2020-12-08T19:40:00Z
+    webUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
+      name: Odessa American
+      domain: oaoa.com
+    quality: 54
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
 
 secured: "z6Wd5MkIp49iZoUeaMhpT06bj99Lrgm3Fnfn6zreekVFg90BxPFqUoR5nyVzliki7CSNE9SZaBEUGfiiIAa/3kGeBuCn95XemsIon5/AanOV/Q2vBhLleHuSUQq5nZhHUtvGmC2xcI0r4fn36OCTnH4D40lV9duseX/1KuejILgOFrhKhGblaeA04lDfK9mRRoqxkx3xkjWKtMKeAbSo+Ke1F2tP/CXQnF4I7gAm437GGM0EJoIoTG4v7hz0VjX+4S7G6AJXzh0/iWaB+GhIWUv3U2sXYZXlwS4I4Yg9X6O8z9hL04RCGvHRtHLwIq+ahenfhBtUkOfdmD4U/lSISwMF5xhCR672zZYgwcboX04=;Y0QldFJ3Eep6YUMT7z21lg=="
 ---

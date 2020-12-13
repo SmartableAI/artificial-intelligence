@@ -58,22 +58,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "AI Chief John Giannandrea Takes Over Apple Car Project"
-    excerpt: "Apple is continuing work on developing some kind of autonomous vehicle product, and the project is under new leadership. Apple"
-    publishedDateTime: 2020-12-08T19:01:00Z
-    webUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/"
-    ampWebUrl: "https://www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/12/08/apple-car-join-giannandrea/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 57
-    images:
-      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
-        width: 1600
-        height: 1022
-        isCached: true
   - title: "Apple brings in TSMC to develop chips for Tesla-like self-driving ‘Apple Car’: report"
     excerpt: "Apple is reportedly working with TSMC, a semiconductor manufacturing and design firm, to develop a semi-autonomous “Tesla-like” vehicle, a new report suggests. Apple Insider reported on Wednesday that Apple’s “Project Titan” may be focused on developing technology that would facilitate the production of self-driving cars."
     publishedDateTime: 2020-12-09T19:40:00Z

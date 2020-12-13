@@ -3,12 +3,12 @@ category: news
 title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
 excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
 publishedDateTime: 2020-12-12T03:08:00Z
-originalUrl: "https://www.law360.com/articles/1337105"
-webUrl: "https://www.law360.com/articles/1337105"
+originalUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
 ampWebUrl: "https://www.law360.com/amp/articles/1337105"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: law360.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Facial recognition's fate could be decided in 2021"
@@ -140,20 +139,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Advocates to press Biden administration, Congress on facial recognition curbs"
-    excerpt: "Advocates for privacy rights, civil liberties and racial justice are preparing to press the next Congress and the Biden administration to impose stricter regulation"
-    publishedDateTime: 2020-12-08T17:07:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21165656/advocates-to-press-biden-administration-congress-on-facial-recognition-curbs"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 38
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/12/20201208_AMX_US_NEWS_BIDEN_FACIALRECOGNITION_GET.5fcfb1aa3ae3b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
     excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
     publishedDateTime: 2020-12-10T18:57:00Z
@@ -178,6 +163,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "yqWPyrpeXYKfc4ka6EIMy9lQnsZQYyNyvydKCLG2KwsUjqpa0875JVOUEmhldUxDkUEzn5e5i/o4EJLKKgcOjnYhJZ5I2hNzsFHSTFuDCEbecEVgmcKpFFF0wXLUt/M+XZIT7EAuENkoi4ozRtInyJl5vn0JhK4ghQ5PNnSJM6VNVqy0E8h1iW6a5BfoQHc3UTrGBCYRfM6lDo2OFePq+8kUnkHERs8WYqn4vxlIWMsG04qbBlY2fULOXeu2jaImARXkgHeXxeXLUtzLMnk6aPoDs+9iOOCJBAxUKr1/cjZgF3XYlfncCB/stPofbpSNggipm+IKkuu49zTzkH3Nr321/ad7ovi091AjnixVQPo=;ZWmyrKnthpF5v0gOJdliXw=="
+secured: "r9SEqC8v3XSzxbLcy0S/HPlnVUtPwYjXav/j7N+5F1iVE/OaTcmR+TEvTjdwWtpM2+NQeTNt5lvq8GkZd2TDHSfzhgS+XclMnjSz79qOTMd4FCQdWrG88YPOQ01pz+rCEmne2bzKpbg0Ae60zQ5UgpWQ31Yg8r/hgTsNylO1GVJi7E8Qi6VrCS+K9MAlh243ZY27YzVtaaFUDxnqBZ87/fvP72x6DTU6nSUwB7VcIWU0Vva0wgkROcR5znkNYgD2jOYKPLqjvrchj1XXeTufHOiBnpGoCUE7rtCaFidijttqjWuQnz+7puz6KXru6yD87m3xsrlhU5zmh7iefe5GiO7yxxFjVbScIfQpd7bY7yk=;cWGLgO3nqRIiBnTwy+ReGg=="
 ---
 

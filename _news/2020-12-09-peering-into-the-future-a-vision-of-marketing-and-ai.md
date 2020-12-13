@@ -90,20 +90,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Exceed.ai Completes $4 Million Raise for AI Marketing Assistant"
-    excerpt: "Exceed.ai, a startup for nurturing marketing leads, has announced the completion of a $4M seed round. Funds will be used to enhance the AI"
-    publishedDateTime: 2020-12-08T18:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/exceed-ai-completes-4-million-raise-for-ai-marketing-assistant-897966/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 54
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/08115121/Exceed-AI.png"
-        width: 1077
-        height: 658
-        isCached: true
   - title: "Using AI to transform the customer experience in banking"
     excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
     publishedDateTime: 2020-12-10T12:44:00Z

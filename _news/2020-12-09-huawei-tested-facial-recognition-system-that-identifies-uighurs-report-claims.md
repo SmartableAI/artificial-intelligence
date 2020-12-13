@@ -45,38 +45,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report"
-    excerpt: "The Chinese tech giant Huawei and artificial intelligence company Megvii developed and tested facial recognition software that triggered alerts whenever the technology detected Uighur Muslims, according to documents obtained by IPVM and provided to the Washington Post."
-    publishedDateTime: 2020-12-08T17:42:00Z
-    webUrl: "https://www.cnet.com/news/huawei-tested-face-recognition-that-set-off-alarm-for-uighur-muslims-report/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/huawei-tested-face-recognition-that-set-off-alarm-for-uighur-muslims-report/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/huawei-tested-face-recognition-that-set-off-alarm-for-uighur-muslims-report/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/QHdz14YUH_aVdegora6rtV4Ns4I=/1200x630/2017/08/29/e0ffeb84-7335-49fb-a6c1-34cd734be174/img-2249.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Huawei tested facial recognition that ID'd Uighur Muslims, set off alarm: report"
-    excerpt: "The Chinese tech giant Huawei and artificial intelligence company Megvii developed and tested facial recognition software that triggered alerts whenever the technology detected Uighur Muslims, according to an internal document obtained by researcher IPVM and provided to The Washington Post."
-    publishedDateTime: 2020-12-08T18:18:00Z
-    webUrl: "https://www.cnet.com/news/huawei-tested-facial-recognition-that-identified-uighur-muslims-set-off-alarm-says-report/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/huawei-tested-facial-recognition-that-identified-uighur-muslims-set-off-alarm-says-report/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/huawei-tested-facial-recognition-that-identified-uighur-muslims-set-off-alarm-says-report/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/QHdz14YUH_aVdegora6rtV4Ns4I=/1200x630/2017/08/29/e0ffeb84-7335-49fb-a6c1-34cd734be174/img-2249.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Barca star Griezmann cuts ties with Huawei over reports of facial recognition surveillance"
     excerpt: "BARCELONA’S WORLD CUP-winning footballer Antoine Griezmann says he is ending his sponsorship contract with Huawei over reports the Chinese telecoms giant was involved in the surveillance of Uighur Muslims."
     publishedDateTime: 2020-12-10T18:00:00Z

@@ -93,20 +93,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Exceed.ai Completes $4 Million Raise for AI Marketing Assistant"
-    excerpt: "Exceed.ai, a startup for nurturing marketing leads, has announced the completion of a $4M seed round. Funds will be used to enhance the AI"
-    publishedDateTime: 2020-12-08T18:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/exceed-ai-completes-4-million-raise-for-ai-marketing-assistant-897966/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 54
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/08115121/Exceed-AI.png"
-        width: 1077
-        height: 658
-        isCached: true
 
 secured: "l57gViOvVaCXEoxt9m+7s6dWK2trb47P2yqYD+L8mScvySYtZ/q/GhWDpjglQ32WfWv+0iYjxcDb42FImNHLwB/kJLevBjzHPy2yuL8kEtG8FLJS11y40guE+bbDEXeG2yNEz2P1F7xnCln3/XriWN51jCILv/N8JbXyvgHv+BklfVDPmhh6/bqQhZIeFZHPs9qooDihtF123xd5+trKBabkcLic/waINRqNyeVp1VWiZ31jjikIxPZE7Gg0DT8nfKedhQqs6W50GTXEcqLiszZExF1darvlo3f69DP1JARTNBPD2dBeaqhkSfWj8Rrn708C4C3c+AzamAzNHMMiGF99wxEYclVH+3xviB37DIIk/pQXIuUrR3oxVOvNvEasMxwxDya7On2hI8OIprQb42A6f+Br7AjQTai79tFzloYebdtR8tXxXNNg78TpD+tlN8mycR/AP9c4Mc2YRVveM9q1cDVgRimiSD4cLbUDREZfQh/KTnHHFEoYiOzVY1Ll35EYkwVutmmyLcLvSoh+jA==;di3R1GockSlb94ADedNi/Q=="
 ---
