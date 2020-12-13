@@ -1,26 +1,27 @@
 ---
 category: news
 title: "London AI start-up Papercup gets funding boost to help make video content watchable in any language"
-excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into"
-publishedDateTime: 2020-12-10T10:30:00Z
-originalUrl: "https://www.newsoneplace.com/40645471911/ai-london-papercup"
-webUrl: "https://www.newsoneplace.com/40645471911/ai-london-papercup"
+excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into other languages."
+publishedDateTime: 2020-12-10T10:31:00Z
+originalUrl: "https://www.standard.co.uk/business/papercup-funding-ai-video-translate-languages-b242176.html"
+webUrl: "https://www.standard.co.uk/business/papercup-funding-ai-video-translate-languages-b242176.html"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: newsoneplace.com
-  domain: newsoneplace.com
+  name: London Evening Standard
+  domain: standard.co.uk
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://static.standard.co.uk/2020/12/10/09/Youtubecontent101220.jpg"
-    width: 4086
-    height: 2724
+  - url: "https://static.standard.co.uk/2020/12/10/09/Youtubecontent101220.jpg?width=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -73,6 +74,6 @@ related:
       domain: techcrunch.com
     quality: 37
 
-secured: "cxHRwB1DXeRqpbn453h1rB0O0cMsT/uxqoklgHuzw0iA704q/6QB30LIWsMsKI55/H8ETEsZn2msKgVkDfSQdkUv4c7uJMokXAmrca7XTLLwmDk9rlOxKhOb4pLUXRWB2NktMEqxF956wBGll1fqA/WN45RXUUKhahaRqv+UHYGDfHHqC6dZ/6EFT6OtyKcrUs7vt6Cm5lcE9TimxyUhO8Ubmxii66Q7TWv6FpwvF6d4NulZemGXBeR+Xw1rwi9kBHQgO+Wl8hjFAVxanXNvUaiDzjyW69MJJq52boCgjCnBFi59gKR/vufnQkbH2RgbpGiPDJzZtdD0iiT8KVSImZnWmENE4wzTgcYO1SUrk/A=;Yr4dBT9WOWJgbvNOXMWbmg=="
+secured: "jZVH+mj4UHAoGyT32/pexaZBd9t6LW8JAC/4XujakdgxEyCDHAXhfuDfyW5tk6sSk6Qs36bjNB9AircoeoGMxP8KCBsy8pjmyV72wHVOAQ/wVsS8p7V2OWBRq9fkoZWW5siZDfu3TE9eXo7jD7WS+yPQio/s8YhxbSRB0+XK6mFetgXp0s5QSh5OcdJvR99LVhxPbMd6wNiFD+fKDsTor+CEvG1JBUfxNASxebHNsjEPHCDI1DdyaaFCfFj8UyCKOFIAy7uV21ufnwIld36wxk2GVVqHLC1tTv+95Y7OkqFzIr6cvWjtXYt1LXdIYnjMUNmFjlh2YGS4OpL7c63e3CyZXfnblyYRIpLyiBbCQmk=;6vSB8UdoqODwkSnNaK6l6Q=="
 ---
 

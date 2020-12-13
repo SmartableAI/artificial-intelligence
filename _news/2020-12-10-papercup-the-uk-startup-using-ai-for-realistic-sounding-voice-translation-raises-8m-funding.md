@@ -63,18 +63,18 @@ related:
         height: 430
         isCached: true
   - title: "London AI start-up Papercup gets funding boost to help make video content watchable in any language"
-    excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into"
-    publishedDateTime: 2020-12-10T10:30:00Z
-    webUrl: "https://www.newsoneplace.com/40645471911/ai-london-papercup"
+    excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into other languages."
+    publishedDateTime: 2020-12-10T10:31:00Z
+    webUrl: "https://www.standard.co.uk/business/papercup-funding-ai-video-translate-languages-b242176.html"
     type: article
     provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 23
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 25
     images:
-      - url: "https://static.standard.co.uk/2020/12/10/09/Youtubecontent101220.jpg"
-        width: 4086
-        height: 2724
+      - url: "https://static.standard.co.uk/2020/12/10/09/Youtubecontent101220.jpg?width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "eYAwgJAAPCEnIkiXTguJWjKt36rsJPXUbDaq7tHDlK6wxBsy2BAaOTMVij1RXpndsUO718GsHy2xD4IHnfK/ujrIRCgb+13w1bBmL+5HMkwjyjvUNUVgToETPyK4CiYsjwlcECZg+/DfQKuAOywI7D0b5Lj3s6yDp6Rrn3pxxy3fGwMSECGOs/gxmiT6jiwsY/mS+J3Qx1+8BKT0xuEqNfHAN1WxKu7l1JREIoCOE98F15SG5ZTw9VATOJiVBirTwQBijMdw4O4tlx74qy2lfeXI+rtDx1baEQ0yrRl/AXv5vuY5m3LKyob31jj70OBPJUnQ9fjA+cNOSqqGQL0OCvlzMOPUNuPp+vVmRtHiPewOHLSXH7oV9BpKg+eMR9Vp52AlkhMdO1d3pkhyYLizMUPW1y17hYKRdGtlbbunYGvapVrZ6Ud5P4fscCLr0MCiZQ2ZzcKfwKL2sYqUjfyY4RiW6AlEe6ai4oiUbrJUAVpN5MMU/TobEGjmpUFxjlpYGwxemtuyVXU5WBOkw+AYKA==;Y8AivtTbMGWtjsl6gZTtrQ=="

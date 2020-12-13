@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/machine-lear
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-identifies-brain-signature-of-depression-343725"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Machine learning identifies new brain network signature of major depression"
-    excerpt: "Using machine learning, researchers have identified novel, distinct patterns of coordinated activity between different parts of the brain in people with major depressive disorder -- even when different protocols are used to detect these brain networks."
-    publishedDateTime: 2020-12-08T08:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201207142315.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
 
 secured: "izSsXewg9GfeUJj77n42Nq3aN0VShiOm39yNYngOmHx6IU1JJvmF4Yf6Gf1pE/TakcZ6hPQ2fd4xMeV7OycIfb2hKZfmzLKBKx8FWJWxdKxhv0WNyRJn28braxnipLqJMi7lW3ks2xrE4Ga6l9r4WRQYsgoFLMEHHg53JiSYYMGmMsJR5Zg6SbEHvU+s6pLtAGLx34wcVOroyuKt1QoXSiGASx14+OJ3pcwOyWaBfswujgce8KJ8cphlXYrbMC+SjT3LG7Du4B9tsTzTnea6WU1fQenhr9LW4ZOnxeWnvbc2oKok+wjnhszVupNBoixfK0vf4mXnBUwP3nBWsnCNtKBqyyB7wFTrWSJ/fY5EzPZ/8cg3ivesGW9qI+G7e64yXafOCnx65KDPwyvAJygaYNsa+EL6zGjKTxSLegEZnggsFM5GO3nkSGdG0hZkKyjfvuEwUr6z2plkws3wywc1GjsskRZ8FTfCg2J66quYk+AyoJLlqpq9s611IKtJ0kPEVEYeAx8gh5Ye1N5K0hcotg==;PF94IgH9osSKvseiV1NfWw=="
 ---

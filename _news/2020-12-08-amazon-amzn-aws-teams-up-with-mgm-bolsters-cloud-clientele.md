@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-teams-up-with-mgm-bolsters-cloud-clientele-2020-12-08?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "MGM leverages AWS for its supply chain"
-    excerpt: "Film studio MGM has reached a multi-year deal with Amazon Web Services to power its media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms. The new MGM media supply chain will use AWS compute,"
-    publishedDateTime: 2020-12-08T08:43:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/mgm-leverages-aws-for-its-supply-chain?amp"
+  - title: "ViacomCBS moving broadcast operations to AWS cloud"
+    excerpt: "Amazon Web Services and ViacomCBS have entered into a multi-year deal that places the broadcast operations of the company in the AWS cloud. The agreement, similar to one also recently announced with MGM,"
+    publishedDateTime: 2020-12-08T22:11:00Z
+    webUrl: "https://www.newscaststudio.com/2020/12/08/viacomcbs-moving-broadcast-operations-to-aws-cloud/"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 74
+      name: Newscast Studio
+      domain: newscaststudio.com
+    quality: 39
     images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/12/bond.jpg"
-        width: 768
-        height: 433
+      - url: "https://www.newscaststudio.com/wp-content/uploads/2019/12/viacomcbs-logo.jpg"
+        width: 1100
+        height: 621
         isCached: true
 
 secured: "rw7Iu8CzC6raP+ZsR9L28CSu4/M8poXI1dSRdwh7DbEFb8Xy6O4i6lAPmi/7bL6pFB45Z+K6OwdbJDpiht7c+hYF0TBnPeoY/o6/SGvEc9FU08g1KGew08wguPOIH2VYZcNSvmW47KkDSaUfoWB9O+JEBN5ksqQ79XnDAHY1zNk4i45ncXMs4wauUX0RD4ICaiSmnDtBpmwyaClVQJ9aCXOyjW3K4LlPEcMffNxXrKkFk70tsz194CmVI4oq4MOetNFUPf9dfBKiEWjGgrHzS7zSZkIUCM4+u5BAQvIMD3282c+KpoF2sOdteHhfHNG5uXc4un5Bqlxha+3dYUhDDrXqf7oh2CAwYBbg6MznUfc=;IRjYgD7agKACy3CkTHMMlQ=="

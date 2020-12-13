@@ -67,14 +67,19 @@ related:
         height: 450
         isCached: true
   - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by F"
-    publishedDateTime: 2020-12-09T15:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-1029877903"
+    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
+    publishedDateTime: 2020-12-09T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Review: DataRobot aces automated machine learning"
     excerpt: "Read Martin Heller take a look at how DataRobot’s end-to-end AutoML suite fares amongst automated machine learning platforms on Information Weekly: Data science is nothing if not tedious, in ordinary practice. The initial tedium consists of finding data ..."
     publishedDateTime: 2020-12-08T21:16:00Z

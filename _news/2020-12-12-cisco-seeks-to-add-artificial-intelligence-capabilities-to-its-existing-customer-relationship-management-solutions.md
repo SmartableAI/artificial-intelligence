@@ -1,26 +1,38 @@
 ---
 category: news
 title: "Cisco Seeks to Add Artificial Intelligence Capabilities to its Existing Customer Relationship Management Solutions"
-excerpt: "ResearchAndMarkets.com published a new article on the CRM industry \"Cisco Seeks to Add Artificial Intelligence Capabilities to its Existing Customer Relationship Management Solutions\" Cisco Systems Inc has agreed to buy customer service software developer IMImobile Plc in a deal valued at about £543 million ( $727 million )."
-publishedDateTime: 2020-12-11T21:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cisco-seeks-to-add-artificial-intelligence-capabilities-to-its-existing-customer-relationship-management-solutions-1029886529"
-webUrl: "https://markets.businessinsider.com/news/stocks/cisco-seeks-to-add-artificial-intelligence-capabilities-to-its-existing-customer-relationship-management-solutions-1029886529"
+excerpt: "ResearchAndMarkets.com published a new article on the CRM industry \"Cisco Seeks to Add Artificial Intelligence Capabilities to its"
+publishedDateTime: 2020-12-11T20:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cisco-seeks-to-add-artificial-intelligence-capabilities-to-its-existing-customer-relationship-management-solutions-301191207.html"
+webUrl: "https://www.prnewswire.com/news-releases/cisco-seeks-to-add-artificial-intelligence-capabilities-to-its-existing-customer-relationship-management-solutions-301191207.html"
 type: article
-quality: 25
-heat: 25
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "XPpqA8W6E9LEqCrBKKncv7tw4O3SPeqxJYNwlopi6vEkvCfWGjcdFMm6YHzSHbiVozOFNVOzFuFo6pFp/rJ7ZBXsowfBUo0JJu2vjfGck2zoQfUucW4cY9zSUIHrxXe5FkR1ClfLE1T/6upROBOzM9IBottxiwfRY6ZY02yRIcPFcs1xiCbIQfhB7JodBPe+YOXacHXmsKv9DdMQfsj90HmOSwBUoRgzfB1mePubvshLG7A3eVt7aOiQ+CLpdV4WfRzawa7m1XqOtwbs2gV1B+5SoMIdH2lA0t4O9Z9JfONByPgSSJ4z5czSfKVht7wvy5FRoXECZAy87NBnjlhahTW2KXTMr0reGCVVz9J+1zs=;snXHEc2ODUOxa6A0GUfZow=="
+related:
+  - title: "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI"
+    excerpt: "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI)."
+    publishedDateTime: 2020-12-10T07:16:00Z
+    webUrl: "https://www.eweek.com/pc-hardware/lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/03/Lenovo.logo2020.jpg?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
+
+secured: "8QvAyke24uXLex677/3vkLnZjI4ZoCgWRzRI4oDXAqbBro3RbKJBZFNDW2NoKh+yT0x3vNvNIbCSM/jKa53hlJmOj/FJop5LkEoCvYSqaPN2MCbqk3p/IonkJSwR+EKoFEclxuHXU0wlS/a4hteoR0P+XNtm08iZJLrJbN58Mxq9xj+/fUKWwAgE4oqV38TOCRrYbmszMODM0qDct2DEEGMqM3OwXx+3qPEIeNjWx5xdWcj8Vs7/vu2qsrvF5ytmmo+j6VOTOMB7x3TgtYyf1GMx4YR22+t3O2U0Rk5piGCCqF8IKmD2cpRZsxgxI5vlGTr/59/slCZrUG6zLGgLGLRpqOTlnzqI7fXp7zX3EEU=;WjFs9gCqryWSkvsXeeGDqA=="
 ---
 

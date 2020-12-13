@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks Joins NVIDIA Inception"
-excerpt: "MakinaRocks today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. MakinaRocks, a startup based in Seoul and Silicon Valley,"
-publishedDateTime: 2020-12-11T06:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
-webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
+excerpt: "MakinaRocks today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data"
+publishedDateTime: 2020-12-11T06:32:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception/article_54858113-553c-5ad1-ade2-fa8a90179bdf.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception/article_54858113-553c-5ad1-ade2-fa8a90179bdf.html"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "HuIpKtc6TKJZmqsCmtUrgGTYaVHb9YVNX4pLEMLauRR9p0yTdIInLEL4VuW/CTYtdKXWtouMfgkDRUuSNN9Ds45MBu+b3RuEEKKAyBFdB0Sw69IXPtBN4SfZ9CEDnTZWuC2MIHUd5r57jwhqzCJo27Dbyk1VSq9ZcrwN0Htp2JwnhsyAVxNkWXjflLNx329gJkxVbJbsGUnlryPsh5fnFEVgmM25sLT4wZFIad0/NJVrT5hIaEHJeedAY5Dfxc6N1KWNgZqU3s+rA8vlmU+VGq38cmZm+G4EgjI/KDLJc+gdrYpLLgj4nDL2bv4jlQ2kbWYk1tuQGa2XI1wde944W8x7eHoDTTK6I9RDOAlA5Q8=;EzU4/UZ9qA0EkS5IebbqRQ=="
+secured: "NKDIhhDlV1l1JK0qZVCB2V99/UmdhfYUMByVPRuW/GR0wxc/nw32slzlXe0uuVCmLRHok3fhmeTuZ5KJm+vW83+xJfOd+R5bY3P54is0CjA2WjHAV/SFPeF+TVMaJjlrqvwDJToxIZWTEkx8/hHqCq+knLfJtYloPuJs1sk+q3zuFZiI8RdXJryuhfz7TM6rTkURM/6i4gDq9KrzOveA94mKG/mR5xf54hVY1ZDLEav6nMOlBMB4/I8eByJYvnybF0Q5C3+SdLzJZdvAftfFmBoLinQP4RhkB0/GBQiNwIk7/rPQkj0lw7Tobd/Q+JeRznlnj6UGxPOEJ6Ah2VgDbjVU7YDOtAgP2Nd5/qPwVPS12TQ0degDSSl900UYvdRbwD/HDfuHIosipOBydQMOkMQCbpe1PWWwYY+/vKr+N4eQuqAwER6YPAAPOxKeI1I4RkIiO1W9nXlV1AzvoypVV1jRgDUP+TVj2Lzynyuz0m8Je82v0c7FOHyxK3qkzJaGlwLowDVZrFbFIEyDdsmQpQ==;eBr6GZieWYuTf9o0KFzg/Q=="
 ---
 

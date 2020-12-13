@@ -65,20 +65,6 @@ related:
         width: 1000
         height: 565
         isCached: true
-  - title: "ViacomCBS moving broadcast operations to AWS cloud"
-    excerpt: "Amazon Web Services and ViacomCBS have entered into a multi-year deal that places the broadcast operations of the company in the AWS cloud. The agreement, similar to one also recently announced with MGM,"
-    publishedDateTime: 2020-12-08T22:11:00Z
-    webUrl: "https://www.newscaststudio.com/2020/12/08/viacomcbs-moving-broadcast-operations-to-aws-cloud/"
-    type: article
-    provider:
-      name: Newscast Studio
-      domain: newscaststudio.com
-    quality: 39
-    images:
-      - url: "https://www.newscaststudio.com/wp-content/uploads/2019/12/viacomcbs-logo.jpg"
-        width: 1100
-        height: 621
-        isCached: true
   - title: "AWS And ViacomCBS Expand Strategic Agreement"
     excerpt: "Related Story Sean Trcalek Named VP-GM Of KATC ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications ..."
     publishedDateTime: 2020-12-09T18:28:00Z
@@ -107,15 +93,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
-    excerpt: "OutSystems, a global leader in modern application development platforms, today announced it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration will enable OutSystems to deliver deeper integrations with AWS services in the OutSystems Cloud,"
-    publishedDateTime: 2020-12-08T08:47:00Z
-    webUrl: "https://www.financialbuzz.com/outsystems-announces-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
   - title: "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery"
     excerpt: "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ..."
     publishedDateTime: 2020-12-08T14:12:00Z

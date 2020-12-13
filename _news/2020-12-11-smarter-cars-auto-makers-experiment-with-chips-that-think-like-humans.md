@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/smarter-cars-auto-makers-experiment
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/smarter-cars-auto-makers-experiment-with-chips-that-think-like-humans-11607631902"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

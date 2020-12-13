@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by F"
-publishedDateTime: 2020-12-09T15:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-1029877903"
-webUrl: "https://markets.businessinsider.com/news/stocks/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-1029877903"
+excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
+publishedDateTime: 2020-12-09T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
+webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "DataRobot raises $50 million more to accelerate enterprise AI adoption"
@@ -91,6 +93,6 @@ related:
         height: 422
         isCached: true
 
-secured: "mYC8nExsvc7GHBtwxc04AkOIGbBnndtWHMFkkJv/sO4D3VTreK94l14l+JB0U0kaRlS3fWj4fM/AZuxBc6cm7H64I0coFgHSA9tBG+heGV0erhlDeWx0Apyincp+b9jnI/v8/iPxwmYQMDFMKcwZmduSpyForCuD1Jz5d+vZygsSyz+xBYVq23eZ2tNwewcO6m5gt/bUrBOUyunLHZyvZryvrhT2ytpNqg97IQB3+fNWBxVacPkfpKmzTjGdkUoyhfv186+ar7bILZ7vJBvzu1zqEREbt7OpG1dOOSzilnPS3O7Nf4+nDWcaRAo3cBwj8/+/+iPNO8MPETBTANSwQRYtMGz/EQKV7HiyXyh8Vyg=;WJXTK80Vi3XJ/aYnxflhUw=="
+secured: "euhXjgB821aznHkzelKSsJfOUpqRMwM9CoGheyeB4smmmTTOsvE8toscZX4fGWrDUqpXgf2Pv+NJOGPxFuPbS2AF88KE7sUIO9HLQIvbaVdGw6weYYTWA7BBJ6wlU9ICYKmsGpzwSe3YBncKijGIctfRpFvNGl9VaIObA3wW3coMCbU1Pp8ASZbJejD58G0W5+DxABDR03MhiXLmV72Tg7Zre7SanYDlp98JVYFtiYWyY7px4ldPaRgsc9ZhU9Wns79mrHl/e+J7qpMi2naGIBzF46RM2R8EgX0y5Z+x+RVrNNZDpd+yV7A7Ys2e7dNJn36DKI2OtvAtDuSeEkvTqNJtBgJPZ79aMDsy/hdQFZM=;NW0yBH1KB1l4FvKJ5mPFpw=="
 ---
 
