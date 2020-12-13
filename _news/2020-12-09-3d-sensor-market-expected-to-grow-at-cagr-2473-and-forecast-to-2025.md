@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expecte
 webUrl: "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Software Market Expected To Grow At A CAGR Of 47.3% by 2027 | Furhat Robotics, ABB, AIBrain, Brain Corp, IBM"
-    excerpt: "The robot software market is anticipated to record a CAGR of 47.3% over the forecast period i.e. 2019-2027. <p>The global robot software market is segmented by robot type into industrial and service robots,"
-    publishedDateTime: 2020-12-08T10:46:00Z
-    webUrl: "https://menafn.com/1101247664/Robot-Software-Market-Expected-To-Grow-At-A-CAGR-Of-473-by-2027-Furhat-Robotics-ABB-AIBrain-Brain-Corp-IBM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/updates/pr/2020-12/07/G_18389f72-7image_story.jpeg"
-        width: 256
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Diagnostics Market Size to Expand at Over 32.3% CAGR through 2026"
     excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth rate of more than 32.3% over the forecast period 2020-2027."
     publishedDateTime: 2020-12-10T12:17:00Z

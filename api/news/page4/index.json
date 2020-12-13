@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-10-the-apple-car-is-now-officially-an-artificial-intelligence-project.md",
+      "title": "The Apple Car Is Now Officially an Artificial Intelligence Project",
+      "excerpt": "This fall has seen a fantastic array of new products from Apple, ranging from new Apple Watches and iPads to the 5G iPhone 12 lineup to the insanely",
+      "sourceUrl": null,
+      "webUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
+      "originalUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.idropnews.com/wp-content/uploads/2018/10/19102529/Apple-Concept-Car-2.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
+      "cdnAmpWebUrl": "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/the-apple-car-is-now-officially-an-artificial-intelligence-project/149048/amp/",
+      "publishedDateTime": "2020-12-09T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iDrop News",
+        "domain": "idropnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
       "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
       "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
@@ -1206,58 +1249,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025.md",
-      "title": "3D Sensor Market Expected to Grow at CAGR 24.73% and Forecast to 2025",
-      "excerpt": "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-sensor-market-expected-to-grow-at-cagr-2473-and-forecast-to-2025-2020-12-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

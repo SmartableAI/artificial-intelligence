@@ -2,14 +2,14 @@
 category: news
 title: "Google to examine the departure of a leading AI ethics researcher"
 excerpt: "Google says it will examine the departure of a prominent Black female researcher in the field of ethics in artificial intelligence, whose recent, sudden exit has angered thousands of the company's employees and others in the tech and academic communities."
-publishedDateTime: 2020-12-10T02:55:00Z
-originalUrl: "https://edition.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
-webUrl: "https://edition.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
+publishedDateTime: 2020-12-09T21:55:00Z
+originalUrl: "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
+webUrl: "https://www.cnn.com/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/sHfv3CAeYQrV758An5vV_OdBJ64=/1200x630/2017/03/08/8a0535b3-8d34-4f44-bf11-c81ac80701fe/sundar-pichai-google-cloud-next-2017-7711.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google is facing a mounting rebellion from its employees over the dismissal of AI ethics researcher Timnit Gebru"
-    excerpt: "Dr. Timnit Gebru says she was fired, whereas Google says she resigned. Google employees have now publicly backed Gebru's version of events."
-    publishedDateTime: 2020-12-08T10:59:00Z
-    webUrl: "https://www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timnit-gebru-google-firing-ai-researcher-employee-rebellion-jeff-dean-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Google’s Firing of an Ethics Researcher Shows the Limits of Having ‘a Seat at the Table’"
     excerpt: "On Monday, a team of Google employees published a letter explaining the events leading up to Google’s firing of Dr. Timnit Gebru, a prominent AI ethics researcher whose work has helped to reveal racial bias in facial recognition algorithms."
@@ -310,6 +294,6 @@ related:
         height: 600
         isCached: true
 
-secured: "eKkwkoS/fWEJJoPAVsMnsjdItaxQH00tJS7C4hQV3hx8SHTUi36fOvPHtPbsDdcA9WfDk20HpVoC/zkWoE0saL6tJ0xywy7sOwy6JARLFkaRx8swYLWqX4pjsW/DiMchxQy/8XCiQDJXEUPj0Xi4dD9Lz1nuHqccQFs2wYoZ+fs6NnkC6pqq4RmkM8m/BiiVMjDDRE3eb3XTd6jZ9QZubnPRjF7fkakTewBx974k2937gEE2/aPiA4nfCPwmh101UJOooyPksYHMZHZxHHuQvfGVFnjajLldV41LoBx8ZBg960ShwyUE/oRMd5vypndPc9ltisIHVf8+z90mNbh7ju5ylkspVJtuji8tnfn0CX3ecpBiQGWFDl/hGJvzs0xMkgptya67gjLHqbDrl+bw/CBGRf2i2Gelw1DGKkVbRgf2Cldtddw9RjYKfZ+bq9rWJZajqeQKv13f7TDlhnRrRG0kTXhNwURqCvYI0cMew53/CgC2T1m+0QOptMP96m2M6BMxjum+CwJALfg4auROrg==;UdswAVFQHbftYtkOegWC3A=="
+secured: "XyEbRiPOw1BsqUm8BrXb/IkWnB/VSo2cT5BQvJdsO60OvZhHjCDvkzhLbITdA5o1X5Ba5+A/uLp1AiJmiXu82PC0GJtAvpzZZ5GjxAxyx0qXamfFoPXDGGVG+OCokKhtP4/kmcdOTIitZiJwiVNRnXNhtXzoOZS9ewvN9cllOiYxfnHyCdi2RnzPWSTkSgbYgErNNooiqbiVdfX/rHSRUjEcWI3pmYoKWRRGZvfjabZa3QXHGE7PCJ08FmgpJiRe0CN9xHbJdlxyIL3T/t7YwW2LUvJc941kNlb5khGvNVXHqIAuwj8FdpXJJJhb3mAmIjTU5RXmHCMU9Oassva2eh+9csKzl4dp3VWh9hOwHG8=;ED4cGTM5WPPAA0wQUDKc8w=="
 ---
 

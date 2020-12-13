@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot Software Market Expected To Grow At A CAGR Of 47.3% by 2027 | Furhat Robotics, ABB, AIBrain, Brain Corp, IBM"
-    excerpt: "The robot software market is anticipated to record a CAGR of 47.3% over the forecast period i.e. 2019-2027. <p>The global robot software market is segmented by robot type into industrial and service robots,"
-    publishedDateTime: 2020-12-08T10:46:00Z
-    webUrl: "https://menafn.com/1101247664/Robot-Software-Market-Expected-To-Grow-At-A-CAGR-Of-473-by-2027-Furhat-Robotics-ABB-AIBrain-Brain-Corp-IBM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/updates/pr/2020-12/07/G_18389f72-7image_story.jpeg"
-        width: 256
-        height: 337
-        isCached: true
 
 secured: "sqgCd5ijnfMWD8NJjx1AWPlD/0Ez5IDV4UtNAzEOBoT520db02RDGH1QdynOx0rWMYX1helMxWy84RE8H+aWJZR6ycuuG6+2BLLlQIJdwjDsMviJ881Guaehjlb2FkFDz0IEuNvi8JSlj0H+5SFF49f+EHlFFf6+mvK/pCJwzBmRWB1oRDOxNBn7gJAAIH1T52xLd6yFQbs72iTVxIo87xaU9bUcetK+YfUF+d3qA0QFShNE0geNW7oXv6RwahCmzB5Li1rUyBf7L84IjOwCIgs6DdkObyHTWYj+MDKAL6TWgtN+tmrA0dEAS03Mn50EO3MyA732HkO+5LB57pt8r2hd9GAzu896JN6MtY75UUg=;q6ZRlG00H4xHBp6TEEpGpw=="
 ---

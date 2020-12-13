@@ -91,15 +91,6 @@ related:
         width: 680
         height: 453
         isCached: true
-  - title: "Uber abandons effort to develop own self-driving vehicle"
-    excerpt: "Uber has abandoned efforts to develop its own self-driving car, bringing to an end one of the most ambitious attempts to develop a fully autonomous vehicle."
-    publishedDateTime: 2020-12-08T10:47:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2020/12/08/uber-abandons-effort-to-develop-own-self-driving-v.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "Aurora is Acquiring Uber’s Self-Driving Unit, Advanced Technologies Group, Accelerating Development of the Aurora Driver"
     excerpt: "Aurora, the self-driving car company, announced today that they are acquiring Uber Technologies Inc.’s (NYSE: UBER) self-driving unit, Advanced Technologies Group"
     publishedDateTime: 2020-12-08T14:23:00Z

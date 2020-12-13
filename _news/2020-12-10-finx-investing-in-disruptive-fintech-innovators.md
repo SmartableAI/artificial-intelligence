@@ -128,20 +128,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "What’s in Store for Fintech in 2021?"
-    excerpt: "By Scott Donnelly, CEO, CapitalBox What a year it is has been.  It has been tough for many – from small businesses, to big high street retailers. We can’t however ignore the fact that the pandemic certainly forced companies to adapt and learn to be agile quite quickly."
-    publishedDateTime: 2020-12-11T08:16:00Z
-    webUrl: "https://www.globalbankingandfinance.com/whats-in-store-for-fintech-in-2021/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Beh-11.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "An AI proposition is now 'table stakes' for fintech startups"
     excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
     publishedDateTime: 2020-12-11T12:35:00Z

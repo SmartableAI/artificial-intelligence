@@ -3,8 +3,8 @@ category: news
 title: "Chatbot startup Kata.ai raises series B funding from MDI, TPTF"
 excerpt: "Kata.ai, a conversational AI startup, said it has secured an undisclosed amount of funding in a round led by the Trans-Pacific Technology fund and MDI Ventures. The Indonesia-based startup plans ..."
 publishedDateTime: 2020-11-25T13:33:00Z
-originalUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding#!"
-webUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding#!"
+originalUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding"
+webUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding"
 type: article
 
 provider:
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "16l6vw5wYz6nm+McXUYQB26y+wF6wHEe6IqQVlqUqzb7RF1onuRS/fpj7gbRZeheDiWacZWBZGvWFNgcjCMx0MVqML5vVv9tSTDkKfSYWPb4ERJB+QYemrmhh0yBFN84fFugdGSrsJy+nh9Q+i3dejYzXwJaolfk3TkHZgq7XBfAYWHozUpghVwhhy2PHNbQrigKNnUruHwJFHRDmyrEHwZS+O3Ys/nxKBHWcoUm56oGIG8Ss6ZVRLfXtqJ0vty+WcnotK5fWsYBT4ZOAUL+3NpCTZI8sx7L6h0wWeymPlhrWGks0gpeE5ysQuWHxcpWZBlf73t+n0TP29Xh8supGbsK+Q9YuYgNYnR6RKyFByo=;nCpGuGcNjVb1PCmykcDXoQ=="
+secured: "eGcLhk1FJHJv69hYxrejMZbz/34qKSybDuQFCiB9fwZe/wZrZXYKm4H+acoKsTXyy1up2jQOsS0Dgywvsl42JhpQsnCDUVKcupt+XlwQgUXMT9TP4RxcdDO/D62M8qUQiFJ4OSKV7KBadPHvj434bB+/McCwAZ9By3N1+DX+j5fSEbgLKy7AC12bntRg/cnSOAR9pUqZq9I1UNGogNqnFkcISfw8gLNjQpee35o4vq1i+YxvZqXE/nDYpAXlX76oXw5zR299N9PU0WjXsEu9BPxKmabLH0ZwCQgKI3CMDQJlHtvxvYZXacHv1qEmXpfR+ZE8oikxAkunvreZmTiwvSHE7ZJlAUAoxBpJ0IxC5aY=;wLWZl3ICZs64zK1QCa+/pw=="
 ---
 

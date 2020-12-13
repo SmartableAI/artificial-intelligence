@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
+      "title": "Dances With Robots, and Other Tales From the Outer Limits",
+      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "publishedDateTime": "2020-11-05T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
       "title": "These Factory Robots May Point the Way to 5G’s Future",
       "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",

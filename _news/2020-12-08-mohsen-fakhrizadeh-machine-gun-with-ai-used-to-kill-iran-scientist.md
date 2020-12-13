@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/world-middle-east-55214359"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-middle-east-55214359"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Iranian nuclear scientist allegedly assassinated via killer robot"
-    excerpt: "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun."
-    publishedDateTime: 2020-12-08T10:32:00Z
-    webUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/07/iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/skyassassination-796x405.jpg"
-        width: 796
-        height: 405
-        isCached: true
   - title: "Iran says Israel killed top nuclear scientist via truck-mounted gun that used facial recognition"
     excerpt: "The killing of Iran’s top nuclear scientist last month was carried out remotely with artificial intelligence and a machine gun equipped with a “satellite-controlled smart system,” Tasnim news agency quoted a senior commander as saying."
     publishedDateTime: 2020-12-08T14:41:00Z
@@ -58,17 +42,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Top nuclear scientist was murdered using smart gun, AI and face recognition, says Iran"
-    excerpt: "In today technology news, we covered about the Top nuclear scientist was murdered using smart gun, AI and face recognition, says Iran"
-    publishedDateTime: 2020-12-08T09:59:00Z
-    webUrl: "https://www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/top-nuclear-scientist-was-murdered-using-smart-gun-ai-and-face-recognition-says-iran/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 46
 
 secured: "gOZT4VhU4L+8ohEOAnRsPOmpYClXRoUAozV1nhPiD0G1Lcde4CH4YC1Pg0rcgdawi801dlKQJ4MukhGYfJbpgtV0qTXer4fU2MNglNEFFELCMpJhWE8iFZYUa4Q4tAiDrDFSmtr8mlVU5HWsyWsuFhDKYBPaKkdMBGr2SvCtRXRZUpE0noZfVSHGNxhuWUnLNC8r6yX4uZEmaOipSRK7p7/jjAVIP8af5U4Q+ohH4RMBsQtDtK4BQlKDew++RhgI32acgaMCT4dvN8rhs9SLyKCwDhnTHygXH9EqKoz7sQZYAwXwb+W8XFq1qCwaf1RDRgBL/4UzvvO18NjM+gogBdXrcgDKY+k+ks1v8DtFFm7oOcchGbUcBqZtChPAxa5vwQ0OPwUlQXQVY/+C2uZO3Mk492ppzEkSjDq00gIpzcpoO1qFUiQkrPYU9mPdgWEPnr37DFDKknzUDeA2xEEpXT/HhWoBIw6Z+/IjlWx3yHu0PZ7DEGxPRbItV/rAlL0JDiPFhC0IZDrGLelLcaTdvw==;EehMeFTFFIEAmqCF6urGBQ=="
 ---

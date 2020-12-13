@@ -136,20 +136,6 @@ related:
         width: 635
         height: 450
         isCached: true
-  - title: "What’s in Store for Fintech in 2021?"
-    excerpt: "By Scott Donnelly, CEO, CapitalBox What a year it is has been.  It has been tough for many – from small businesses, to big high street retailers. We can’t however ignore the fact that the pandemic certainly forced companies to adapt and learn to be agile quite quickly."
-    publishedDateTime: 2020-12-11T08:16:00Z
-    webUrl: "https://www.globalbankingandfinance.com/whats-in-store-for-fintech-in-2021/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Beh-11.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
     excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
     publishedDateTime: 2020-12-12T18:47:00Z

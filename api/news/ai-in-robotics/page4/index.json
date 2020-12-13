@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-13-south-africa-artificial-intelligence-and-robotics-be-careful-what-you-wish-for.md",
+      "title": "South Africa: Artificial Intelligence and Robotics - Be Careful What You Wish for",
+      "excerpt": "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be.",
+      "sourceUrl": null,
+      "webUrl": "https://allafrica.com/stories/202011130572.html",
+      "originalUrl": "https://allafrica.com/stories/202011130572.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "width": 664,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AllAfrica.com",
+        "domain": "allafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-pope-francis-pray-that-robots-dont-turn-against-us.md",
       "title": "Pope Francis: Pray that robots don’t turn against us",
       "excerpt": "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report.",
@@ -1379,58 +1422,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
-      "title": "Dances With Robots, and Other Tales From the Outer Limits",
-      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
-      "publishedDateTime": "2020-11-05T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

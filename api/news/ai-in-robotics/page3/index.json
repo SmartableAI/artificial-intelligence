@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-more-companies-are-opting-for-janitor-robots-in-retail-stores.md",
+      "title": "More companies are opting for janitor robots in retail stores",
+      "excerpt": "Companies around the world are pivoting during this pandemic, and some big brand stores are now taking a more futuristic approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/",
+      "originalUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ksat.com/resizer/WL7N1FdmWRpqkdCfgEtkn1MiscA=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-19-2020/t_d9f898320fa24cdf84a4ba073eb6ddf8_name_image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp",
+      "publishedDateTime": "2020-11-19T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSAT",
+        "domain": "ksat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-its-not-just-deep-fakes.md",
       "title": "New Report Finds that Criminals Leverage AI for Malicious Use - And It's Not Just Deep Fakes",
       "excerpt": "A jointly developed new report by Europol, the United Nations Interregional Crime and Justice Research Institute (UNICRI) and Trend",
@@ -1360,49 +1403,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-south-africa-artificial-intelligence-and-robotics-be-careful-what-you-wish-for.md",
-      "title": "South Africa: Artificial Intelligence and Robotics - Be Careful What You Wish for",
-      "excerpt": "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be.",
-      "sourceUrl": null,
-      "webUrl": "https://allafrica.com/stories/202011130572.html",
-      "originalUrl": "https://allafrica.com/stories/202011130572.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-          "width": 664,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AllAfrica.com",
-        "domain": "allafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
