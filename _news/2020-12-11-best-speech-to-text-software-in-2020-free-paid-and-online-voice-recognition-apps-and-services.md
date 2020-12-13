@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/best-speech-to-text-app"
 webUrl: "https://www.techradar.com/news/best-speech-to-text-app"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 970
     height: 545
     isCached: true
-
-related:
-  - title: "Global Speech and Voice Recognition Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2020-12-08T12:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2020-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "StpDURU87HadAKXaP6G6n8GmB65yvt+V3yV5c+/pvN2JjBePsu7Dn94kaQo38uj8Dki0Icj8pM9oiQcAl1k0tA0VZEIeVOz1ACV9HIVkbEZ+SrOqRQIrWWoD2LeHMV4VbKm/ijWjD3f7u4/oqXfIqefzinSgLiHuIK8VLqxiJXUvwawGj32ch69mcUepBePv72mbh9PMvPIS771dGl0RGSRNLDB/PhvFgG51yJr2jFgQiBreH6HI8CaX4tkQDLAvC6iIVavdItM6fDxWRvUvY+oyKF1sKDNcyfYWxWZn70Q8NRAInLYNoiKEoQwoU/6A7MsqNk2H64DIl29F/VOsQp6kRNrHx5vsXUhokon64pxsmlQGhB5WKINN0/c+JiGPUzfq7nWLf+tD7IxyYKZ5/JmL7k6c7YlEXJVPNS9WvChVx+VApR5hcMDZ2CrvsprB9UBP3YXY6LpCl/UFbowBo+fVR9eySbJys6npQwAvl5Bv5fWN0uDfq9dgKWhVd1C9KxfPtK4RUNtsXwvMyWk91g==;PRRs8vDkz1FpghHSlfbhVQ=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "Uber is getting rid of its self-driving car operation."
-    excerpt: "Uber, which spent hundreds of millions of dollars on a self-driving car project that executives once believed was a key to becoming profitable, is handing the autonomous vehicle effort over to a Silicon Valley start-up,"
-    publishedDateTime: 2020-12-08T11:13:00Z
-    webUrl: "https://www.nytimes.com/2020/12/08/business/uber-is-getting-rid-of-its-self-driving-car-operation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/08/business/uber-is-getting-rid-of-its-self-driving-car-operation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/business/uber-is-getting-rid-of-its-self-driving-car-operation.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/07/business/07uber3/merlin_131842880_4c07396b-2357-409b-8c04-d97ca929e404-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Uber didn’t sell its self-driving dream — it’s just outsourcing the hard work"
     excerpt: "Uber is selling its self-driving division to autonomous vehicle startup Aurora. It's going to get a stake in company, suggesting it's not giving up."
     publishedDateTime: 2020-12-08T13:57:00Z
@@ -170,22 +154,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/tXZUGrfOm13ZGtY6h8scw8JGCWc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LT4MVAKYQ2WKPRMDVPXHODQAVE.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Uber Sells Self-Driving Car Division and Takes a Stake"
-    excerpt: "Uber sells its self-driving car unit to Aurora Innovation and takes a stake in the startup as it shifts its focus back to profitability in the wake of the pandemic."
-    publishedDateTime: 2020-12-08T11:42:00Z
-    webUrl: "https://www.thestreet.com/investing/uber-self-driving-car-division-sale-aurora"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/uber-self-driving-car-division-sale-aurora"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/uber-self-driving-car-division-sale-aurora"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/GN9TPWem-720.jpg"
-        width: 720
-        height: 406
         isCached: true
   - title: "Self-driving cars now navigating SF streets"
     excerpt: "After five years and 2 million test miles driven in all sorts of conditions, San Francisco-based company Cruise has launched its self-driving electric car without a driver behind the wheel for the"

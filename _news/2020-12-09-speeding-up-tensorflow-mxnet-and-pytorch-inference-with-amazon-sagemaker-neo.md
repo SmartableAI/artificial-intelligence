@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorfl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/"
 type: article
 quality: 136
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -186,15 +186,6 @@ related:
         width: 576
         height: 288
         isCached: true
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
-    publishedDateTime: 2020-12-08T12:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201208005335/aws-announces-nine-new-amazon-sagemaker-capabilities"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "WyH5o825mU6onl1GOjs4TDC7v/AVuEhRnUoYYomiSAcQGbIpA7vzJUYPAOuJDQimBIpB3UtFVQqN+9hluSLzPqEtXhpEoIgSEaqG6i6ZV/ZDrwEbJmEBaJ6NDYb+wOnZp1osSeyGNfKjBWOSjFnkt0wjqD7/JViXgZZK75QI6wBhJWlkw1uzXx07WYgz4Og2YwyK1P9bCldvhrkz81f0otrts5S5tEkly89X7hKhq5PNn/WWx2vfjmuDONLLP/aLGmho2oXOFAL6krWIKfZk2mxoEViSIam9KIy1GwjttEvgrx/lj6YYXVSX7o6sEJfZeaIUSJBS7VGmk1QbmJ6Z7oCqlULCC+8kcB41GNKm2Cg=;Vx6p2g908lLg/YY6oopPuw=="
 ---

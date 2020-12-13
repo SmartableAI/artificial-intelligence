@@ -112,20 +112,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 41
-  - title: "Advocates to press Biden, Congress on facial recognition curbs"
-    excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
-    publishedDateTime: 2020-12-08T11:39:00Z
-    webUrl: "https://www.rollcall.com/2020/12/08/advocates-to-press-biden-congress-on-facial-recognition-curbs/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
     publishedDateTime: 2020-12-11T12:30:00Z

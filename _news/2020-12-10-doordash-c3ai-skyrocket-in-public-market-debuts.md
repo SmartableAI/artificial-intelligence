@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechCrunch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DoorDash IPO — How to get a job in consulting — AI in accounting"
-    excerpt: "The top finance stories for December 8, including the latest news on how to get a job at FTI Consulting."
-    publishedDateTime: 2020-12-08T11:27:00Z
-    webUrl: "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5fce468a037cbd00186142e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs"
     excerpt: "Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least."
     publishedDateTime: 2020-12-12T19:03:00Z
@@ -61,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027412766.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "C3.ai jumps more than 130% in public debut"
+    excerpt: "The \"Squawk Alley\" team discusses the IPO of C3.ai as the stock starts trading. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+    publishedDateTime: 2020-12-09T22:31:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/09/c3-ai-jumps-more-than-130-percent-in-public-debut.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106808706-16075337731607533770-12862725574-1080pnbcnews.jpg?v=1607533772"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "maBSJOe3Hiygyj3iOcXipIdfJUGXPkSF5UFxo5I8MUPoac3n5Rh+Ud+mwEl2b5fmT7bDXb35oO1O+rLQsw6yl3+CxjQIYZon1S1VPc0P2DbkQeDSQUcw4J/2fs+jPiPSurV2MT/G7wbHXgz7yR0PrZxYx9nf25c/KAztVrxlWzifmqOFEVJRl8YVyahT3QS/2K00NTkQj3P9xsRpAwp+6p7fkf9S8Dpl9ulq8Z0HMk4so6Hb1sSdjbfQsE4F73J/I56Z57WskQi9Z6bbF8JuBprDWGNAuoVANt+m9fP/1yFTvpvJKsNTPncAgXIJX+M+d9PJccnsDmK0sYVeDICE3qnhONeGsYIq/6gYQDnaqRM=;ZLwz7qcwEl6/rr52zeQDWA=="

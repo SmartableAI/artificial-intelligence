@@ -264,11 +264,11 @@
       "title": "Conversational AI: Inside Rasa's open source approach",
       "excerpt": "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
-      "originalUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
+      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/conversational-ai-inside-rasas-open-source-approach/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/article/conversational-ai-inside-rasas-open-source-approach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -282,8 +282,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
       "publishedDateTime": "2020-12-11T15:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -307,7 +307,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -829,7 +828,7 @@
       "originalUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 299,
       "tags": null,
       "images": [
         {

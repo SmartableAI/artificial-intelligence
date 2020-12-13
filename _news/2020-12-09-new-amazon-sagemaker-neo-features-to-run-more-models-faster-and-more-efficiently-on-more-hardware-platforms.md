@@ -183,15 +183,6 @@ related:
         width: 576
         height: 288
         isCached: true
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon SageMaker, making it even easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
-    publishedDateTime: 2020-12-08T12:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201208005335/aws-announces-nine-new-amazon-sagemaker-capabilities"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
 
 secured: "ppo3KMRT5cE54BQQUMWvNpDBjqTYMErlArNk/3hHYE/xUmgzHbtzkPzNW+xAEVdcLcJrdfQgmpeVv5ki2S4oEu8vYN/81jNmzaTHvFYV12DTtySqUsa9+HRuAVIxVoUu1gtXTcQWMO84mm5GgxH4aZBG4nmQgI8I2kV42ExRb6SvWfIkUjrtHdVvjPW4Qr4Oh164OQqm1ev79ohMFyHF5ByC+K4PnfM/j+hpICIN2alwAkZREl3Z/yenKWqULNyrnzjXCnoC+pVLA437aTY9SzRC9ldTcALn1z4g3ocyGImpOc+xglDG0Ww2j7w1bpAAesW73MOIWKUXXTjSVaiKyy/W+fV2CKZlYeBT2U6j8VQ=;8eeSXCFgrXAekA42fupc+A=="
 ---

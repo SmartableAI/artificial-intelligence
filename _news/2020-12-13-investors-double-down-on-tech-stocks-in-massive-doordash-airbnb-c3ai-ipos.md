@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DoorDash IPO — How to get a job in consulting — AI in accounting"
-    excerpt: "The top finance stories for December 8, including the latest news on how to get a job at FTI Consulting."
-    publishedDateTime: 2020-12-08T11:27:00Z
-    webUrl: "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5fce468a037cbd00186142e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DoorDash, C3.ai skyrocket in public market debuts"
     excerpt: "Haters gonna hate, IPOs gonna pop. That’s the story today as richly valued DoorDash and C3.ai, two American technology unicorns, saw their values skyrocket after they began trading today. DoorDash shares are up just under 83% to $186."
     publishedDateTime: 2020-12-09T18:05:00Z
@@ -61,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-187869847.jpg?w=1024"
         width: 1024
         height: 722
+        isCached: true
+  - title: "C3.ai jumps more than 130% in public debut"
+    excerpt: "The \"Squawk Alley\" team discusses the IPO of C3.ai as the stock starts trading. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+    publishedDateTime: 2020-12-09T22:31:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/09/c3-ai-jumps-more-than-130-percent-in-public-debut.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106808706-16075337731607533770-12862725574-1080pnbcnews.jpg?v=1607533772"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "JXYT5S3AOvi+5ROUQTxl5COEbOJ2+3xqE3L+nqlcvi6W7pO4qAPT7lXlt8ZPzliGZNslm/sB1NEiEuzhbB0eZaTWQ8c1eSxicZwl0ZVQyD6JqQ27YSeV3ba72ov1a2eC/pvU6gqQhp+XMNc5ZIuP8nkMNrF/oZs49vwYKYrvNFset3DHkUqafN/v0MwAeZW3GwYzciRc1AMz617P1gDM20acsE3MNcFr3qjpONihkvLyt6Z9oBa4fJudOlRse09/L9rClD+eVI7+5ewAhojH7iA0RRBNOjUbHzjWBMfzChWkBpVO+Z3yA+Tvi5EY6fSbKqzFmr1w14jVhSz4Tupv8OSElwamF41GOD6UgdE3ZtFYpfuxEt+Kg102RTQPcdujF5HCgxLTIx0VFWdklh977Dr327HQ/7KnGOY4EObLPbiW4GY7KvhBs3RSkh+Yg+hp+2LA4UjnFooVaCHU6S8p4SzccmtACmQVWzWmqNnCtS5jqajVlKBR7YOVUwqtdQgXKZb/i9Quk0LHU/3kYm+OcQ==;UaZz9hdKQU+YVx5VwLDNuQ=="

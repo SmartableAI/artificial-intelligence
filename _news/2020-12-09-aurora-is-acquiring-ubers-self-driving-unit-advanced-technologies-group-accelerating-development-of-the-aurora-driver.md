@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber ditches effort to develop own self-driving car"
-    excerpt: "Ride-hailing company sells division to startup Aurora but says they will collaborate"
-    publishedDateTime: 2020-12-08T11:36:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/f6cb5a973cc9982871c59330281c398ce77e0325/0_322_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a55af5fd62ab7083c31903ce8735046f"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Uber Tosses It Flying and Self-Driving Cars To Focus On Its Past"
     excerpt: "It took Uber a decade to evolve from just another shared economy startup to a tech powerhouse pioneering on such bleeding-edge technologies as flying cars and autonomous driving. But after a brutal year of plummeting revenue,"
     publishedDateTime: 2020-12-09T00:19:00Z

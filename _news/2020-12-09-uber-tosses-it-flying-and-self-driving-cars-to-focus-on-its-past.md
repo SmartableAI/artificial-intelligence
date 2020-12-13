@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2020/12/uber-sell-self-driving-flying-car-focus
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/12/uber-sell-self-driving-flying-car-focus-on-ride-sharing-food-delivery/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber ditches effort to develop own self-driving car"
-    excerpt: "Ride-hailing company sells division to startup Aurora but says they will collaborate"
-    publishedDateTime: 2020-12-08T11:36:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/08/uber-self-driving-car-aurora"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/f6cb5a973cc9982871c59330281c398ce77e0325/0_322_4032_2419/master/4032.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a55af5fd62ab7083c31903ce8735046f"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Pittsburgh mayor releases statement after Uber sells self-driving vehicle division"
     excerpt: "Uber has sold its self-driving vehicle division, Advanced Technologies Group (ATG), to Aurora, which has offices in Pittsburgh’s Strip District.In an announcement made Monday, Aurora said is has acquired ATG’s technology and employees."
     publishedDateTime: 2020-12-08T13:49:00Z

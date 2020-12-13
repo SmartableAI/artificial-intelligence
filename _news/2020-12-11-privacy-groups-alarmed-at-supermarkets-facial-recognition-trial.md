@@ -112,20 +112,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 41
-  - title: "Advocates to press Biden, Congress on facial recognition curbs"
-    excerpt: "Racial justice activists plan to press Congress and the Biden administration for regulation of the technology that can misidentify minority Americans."
-    publishedDateTime: 2020-12-08T11:39:00Z
-    webUrl: "https://www.rollcall.com/2020/12/08/advocates-to-press-biden-congress-on-facial-recognition-curbs/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/12/GettyImages-1080200068.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Face Recognition Software Shows Improvement in Recognizing Masked Faces"
     excerpt: "A new study of face recognition technology created after the onset of the COVID-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces. The findings,"
     publishedDateTime: 2020-12-08T22:41:00Z
