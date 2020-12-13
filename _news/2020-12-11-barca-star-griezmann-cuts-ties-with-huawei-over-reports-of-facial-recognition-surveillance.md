@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Huawei tested AI software that could recognize Uighur minorities and alert police, report says"
-    excerpt: "An internal report shows how the face-scanning system could trigger a “Uighur alarm” if it detects someone resembling a member of the Uighur minority group, sparking concerns that the software could further fuel China’s brutal government crackdown."
-    publishedDateTime: 2020-12-08T15:36:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 49
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVY3YLBVAMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Huawei tests facial recognition system to track ethnic minorities, send 'Uighur alerts' to Chinese authorities"
     excerpt: "It shows how \"terrifying\" and \"totally normalised\" the discriminatory technology has become, a video surveillance expert says."
     publishedDateTime: 2020-12-08T22:38:00Z

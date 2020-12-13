@@ -3,10 +3,10 @@ category: news
 title: "Conversational AI: Inside Rasa's open source approach"
 excerpt: "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right."
 publishedDateTime: 2020-12-11T23:38:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/conversational-ai-inside-rasas-open-source-approach/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/conversational-ai-inside-rasas-open-source-approach/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
+originalUrl: "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/"
+webUrl: "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "j3YxxqZ9S8129MnMyzQRJgA5sVAZoe3sGuWS/z8R7K6mOJZsPyQmuaqotkvz/BB4uaQEBR7w4M63y34HGRLr78LAaxJsTgLmeqi0hzuYZ+fbWyolbYNn6tC/60L80CE5RwzaFhcHSGUC7oniOih87D7DTEvlNejuH3k4o3+NsdQC9hfhK/OZxkVCSoYiYdj8ILVfUzI1tZ2kqZassKBuwUy1ifKXu1hjhkmv+kAtY9JQcNUSwTqkuo4RX/47AEocBcHeK5jroMTWFVMY2V/UeNlu4TcCKsBbsiAIXkuex6Xe0x88wQuzkXiiR9u6HuwIIY3IoOu8pRoW3kYRtRZWE+xEF1q6Fevkk3Y7sXOK13TrKmR6TwkdKWayAPFBiz38NnOMg1Hr3wd00UCqACbM/vjeacflYMO6w0V8HpHasKiSla2LH/IDsYZ7nHon1+cqKhtqa8RNdUEdAsxllW/wrc6qvCmBNk5gv9i/mVmrMELqxNwOgb5pJrSoC1cc/IllEXUxESMB+ljSe0YIT95w6g==;Mqqh3iXzQvAZZ8r3LI2phw=="
+secured: "j0HysMlbQPo/QDRX0gMbho1hSCUX9Qu74yUQgMkLXumGDppxoi14fld432cQaPrMK9yESQRAvmNPv1wtY992lDoZF/kblL58id6Uc3Ti/a/DUCZvT3bNu3sMY0Bo/AyxPxM+/m8Cak1HdmiyLRh3GRwBxun4iqSdDPw+tY/ixgs50EPGFeyhKmIZPECdKz3Lc0i5Ii6vEQIgMuYQrPaPow5F/SNUBjHtIPLObISFev9fqKRG6hW3cw7sOkiVH976xsm6wOA5nsYUH+OPx2Bf00CL1Upj6f+5mFvlLxlSg83P46tNdf2x5OFKVbyIQNzYxUSurxfyw14xiaQtTfKi19lxifY5LV6RlBOQ5Gjj3Bo=;qrA5moQkOo+HTni7DglYYA=="
 ---
 

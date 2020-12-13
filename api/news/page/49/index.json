@@ -2,6 +2,100 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-11-06-tech-news-artificial-intelligence-and-the-human-brain.md",
+      "title": "Tech News: Artificial Intelligence and the human brain",
+      "excerpt": "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
+      "originalUrl": "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=2x0&resize=2996x1685",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
+      "publishedDateTime": "2020-11-06T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-toyota-backed-startup-ponyai-raises-267-million-in-latest-fundraising.md",
+      "title": "Toyota-backed startup Pony.ai raises $267 million in latest fundraising",
+      "excerpt": "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW",
+      "originalUrl": "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50IE",
+          "width": 811,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M0QW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0QW",
+      "publishedDateTime": "2020-11-06T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-three-trends-shaping-the-natural-language-processing-field-in-the-next-year.md",
       "title": "Three Trends Shaping The Natural Language Processing Field In The Next Year",
       "excerpt": "Even in the wake of the global Covid-19 pandemic, enterprise organizations understand – and are investing in – NLP more than ever before.",
@@ -1070,101 +1164,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The artificial intelligence market is often associated ... NVIDIA also sells its Arm-based Tegra CPUs for connected and driverless cars. Those high-end chips power infotainment and navigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598647%2Fgettyimages-687831316.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-11-05T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-realpage-adds-online-reputation-assessment-ora-scores.md",
-      "title": "RealPage Adds Online Reputation Assessment (ORA) Scores",
-      "excerpt": "RealPage, a provider of software and data analytics to the real estate industry, has added Online Reputation Assessment (ORA) Scores into its Performance Analytics Benchmarking and AI Revenue Management solutions. ORA scores from J Turner Research measure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143776",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143776",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133925-1120_SmartIVRs_Verint_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

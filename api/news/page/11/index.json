@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-03-microsoft-unveils-azure-purview-a-new-data-governance-platform.md",
+      "title": "Microsoft unveils Azure Purview, a new data governance platform",
+      "excerpt": "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
+      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
+      "publishedDateTime": "2020-12-03T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
+      "title": "Meet TIME's First-Ever Kid of the Year",
+      "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "originalUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2018/12/TIM201207_KOTY.CoverFINAL4.jpg",
+          "width": 2363,
+          "height": 3150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "publishedDateTime": "2020-12-03T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers.md",
       "title": "Olive Acquires Verata Health to Accelerate Artificial Intelligence Technology For Healthcare Providers and Payers",
       "excerpt": "Prior authorizations were the most costly and time-consuming transactions for providers in 2019 and are among the top reasons patient care",
@@ -1082,91 +1186,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
-      "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
-      "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "publishedDateTime": "2020-12-02T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
-      "title": "Google AI is now piloting Loon's internet-beaming balloons",
-      "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "originalUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

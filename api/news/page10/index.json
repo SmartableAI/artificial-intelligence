@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-04-octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment.md",
+      "title": "OctoML Announces Early Access for Its Machine Learning Platform for Automated Model Optimization and Deployment",
+      "excerpt": "Today at the Apache TVM and Deep Learning Compilation Conference, OctoML, the MLOps automation company for superior model performance, portability and productivity, announced early access to Octomizer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-early-access-for-its-machine-learning-platform-for-automated-model-optimization-and-deployment-2020-12-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
+      "title": "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "excerpt": "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
+      "originalUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
+          "width": 960,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/",
+      "publishedDateTime": "2020-12-03T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-a-prominent-ai-ethics-researcher-says-google-fired-her.md",
       "title": "A Prominent AI Ethics Researcher Says Google Fired Her",
       "excerpt": "Timnit Gebru is a leader among those examining the societal impacts of the technology. She had also criticized the company's diversity efforts.",
@@ -1122,110 +1218,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-microsoft-unveils-azure-purview-a-new-data-governance-platform.md",
-      "title": "Microsoft unveils Azure Purview, a new data governance platform",
-      "excerpt": "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
-      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
-      "publishedDateTime": "2020-12-03T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
-      "title": "Meet TIME's First-Ever Kid of the Year",
-      "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
-      "originalUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2018/12/TIM201207_KOTY.CoverFINAL4.jpg",
-          "width": 2363,
-          "height": 3150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://time.com/5916772/kid-of-the-year-2020/?amp=true",
-      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true",
-      "publishedDateTime": "2020-12-03T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

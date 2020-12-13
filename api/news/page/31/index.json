@@ -2,6 +2,110 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-11-18-k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform.md",
+      "title": "K Health raises $42 million to expand its AI-powered telemedicine platform",
+      "excerpt": "Tech giants like IBM, Facebook, and Microsoft have partnered ... But Bloch asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
+      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
+      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
+          "width": 500,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-are-your-model-governance-practices-ai-ready.md",
       "title": "Are Your Model Governance Practices ‘AI Ready’?",
       "excerpt": "AI/ML models have unique technical and operational characteristics that compound current governance challenges.",
@@ -1072,101 +1176,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras.md",
-      "title": "In 2020, neural chips helped smartphones finally eclipse pro cameras",
-      "excerpt": "It’s hard to overstate AI’s impact on photography. Many of the innovations above are being made possible by neural cores in smartphone chips, powered by machine learning that enables the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/",
-      "originalUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/polycamx.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/amp/",
-      "publishedDateTime": "2020-11-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-aws-announces-general-availability-of-aws-network-firewall.md",
-      "title": "AWS Announces General Availability of AWS Network Firewall",
-      "excerpt": "Amazon Web Services Inc., an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Network Firewall, a new managed security service that makes it easier for customers to enable network protections across all of their AWS workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

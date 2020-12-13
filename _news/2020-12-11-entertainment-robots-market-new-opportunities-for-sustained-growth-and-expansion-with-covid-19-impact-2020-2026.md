@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robots-mar
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2020 Analysis report with Cross-Channel, Opportunities, Upturn Growth by 2026"
-    excerpt: "This report focuses on the global Artificial Intelligence (AI) in Agriculture market with the future forecast, growth opportunity, key market, and key players. The report gives a detailed analysis of the market in terms of development trends,"
-    publishedDateTime: 2020-12-08T16:36:00Z
-    webUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/"
-    ampWebUrl: "https://galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1045980/global-artificial-intelligence-ai-in-agriculture-market-2020-analysis-report-with-cross-channel-opportunities-upturn-growth-by-2026/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 42
-    images:
-      - url: "https://www.insightssuccess.in/wp-content/uploads/2020/03/Article.jpg"
-        width: 900
-        height: 426
-        isCached: true
   - title: "Automotive Artificial Intelligence Market(2020-2029): Covid-19 Impact, Market Growth and Market Analysis | NVIDIA Corporation, Alphabet Inc"
     excerpt: "MarketResearch.biz’s deliberately crafted and planned business intelligence report named Worldwide Automotive Artificial Intelligence market 2020 reveals a brief overview of the market’s geographic scope,"
     publishedDateTime: 2020-12-10T16:29:00Z

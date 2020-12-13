@@ -1,31 +1,25 @@
 ---
 category: news
 title: "AWS comes forward to help India chart its new space journey"
-excerpt: "As the Indian government embarks on a new space exploration journey by wooing the private sector with liberal policies, Amazon Web Services (AWS) which is the Cloud arm of Amazon, has come forward to help the country transform its space sector and[Read"
-publishedDateTime: 2020-12-13T04:39:00Z
-originalUrl: "https://newsd.in/aws-comes-forward-to-help-india-chart-its-new-space-journey/"
-webUrl: "https://newsd.in/aws-comes-forward-to-help-india-chart-its-new-space-journey/"
-ampWebUrl: "https://newsd.in/aws-comes-forward-to-help-india-chart-its-new-space-journey/amp/"
-cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/aws-comes-forward-to-help-india-chart-its-new-space-journey/amp/"
+excerpt: "As the Indian government embarks on a new space exploration journey by wooing the private sector with liberal policies, Amazon Web Services (AWS) which is the Cloud arm of Amazon, has come forward to help the country transform its space sector and tap into the multi-billion-dollar opportunity."
+publishedDateTime: 2020-12-13T07:19:00Z
+originalUrl: "https://www.sify.com/news/aws-comes-forward-to-help-india-chart-its-new-space-journey-news-education-umnePDgedifeg.html"
+webUrl: "https://www.sify.com/news/aws-comes-forward-to-help-india-chart-its-new-space-journey-news-education-umnePDgedifeg.html"
+ampWebUrl: "https://www.sify.com/news/aws-comes-forward-to-help-india-chart-its-new-space-journey-news-education-umnePDgedifeg.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-comes-forward-to-help-india-chart-its-new-space-journey-news-education-umnePDgedifeg.html"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg"
-    width: 1080
-    height: 582
-    isCached: true
-
-secured: "yrDwOR9AaiVfStw5o9pH5HeJzKzjumKQVn9oIvK/Too7dzFgiYunl9aD2z+26q/wHEr3DxRo4kE2Kd9ycHn1PSOqJ/9cs5aZiWCRGjtCHYy7g9ZE2ZeQUxr5vqrVbyMY6SuyGgKQxBrMKd5KyOqzJ4N7uCePrzrN6HsHW7ooYPfNfodyni68fo8hpLrB5fj6I/0LdyHKuRLqN1pIIiShCtdHz4vK785Ho9RSSzEfUT/5JLybW6KOgmbturYaK3Hqbup/y0NQGTzJEirXIrSXffvLK/lBXT5rEQKRgTBzKyRnAH/rSievcnpdrT3O4DWxzEfoiG/z2RB7jOOv9KxBTROKAVVOmFTsQuVJyIaXfKX9BTIPfEcR8/05i8RsMIUi3GsBvVDudJQlfGkvhTgVyglakpkGSovoTgnf3OZo609+V83vHetzmwCj0nLzPkdx9c6AudUemoBvyWyiW72FKo55rikCjnEMurQJzvTV4mRuaBdwUQdMDDL1UhrIWDpAw2m9F4QzzPNQtpyCwBw5IA==;F9rUIXjgBSaKrZZlnqXyPw=="
+secured: "AwKiWm01UnicFhPafkfo/NFFZEb3u8jwrPA1sFoMDyED7F4e9HXLz4PoZFROdHOFhWWnycoEekcDppZE4NkXyCaecRb19j5Tne/Y6vNkVewCBDeylhjGMvFVQ7Yw4YmMb6by25vlY3dngzsT8yK1jy4Lyo5w6UO41wG81/S4AtLfcbxqEWsUUxwRPYQtlYQz7LTMRw6kQ6LzpyRfFms59qQiDT//awzo/P8iHWglPl09eku9vuNw8GiZb7pR5MGAB0+4mDa+e0weFWTf0VC7Q9j4EVytwUmM5v4hKQjgPl8Ljm/5SiownKCI+S5dWsVAk4hxUOnroUWgMNSaRlc89a7yJNsyJlcoS83PzgDxFpE=;Qg/L/FkzQMl0f/EmS6jMdg=="
 ---
 

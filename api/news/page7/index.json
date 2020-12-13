@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-08-apples-2021-chip-strategy-will-create-a-massively-parallel-universe.md",
+      "title": "Apple’s 2021 chip strategy will create a massively parallel universe",
+      "excerpt": "Apple's Macs will soon march into data centers, equipped with multi-core CPU, GPU, and AI capabilities in tiny, power-efficient form factors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/m1die.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/apples-2021-chip-strategy-will-create-a-massively-parallel-universe/amp/",
+      "publishedDateTime": "2020-12-07T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-researchers-can-use-qsim-to-explore-quantum-algorithms.md",
+      "title": "Researchers can use qsim to explore quantum algorithms",
+      "excerpt": "A year ago, Google’s Quantum AI team achieved a beyond-classical computation by using a quantum computer to outperform the world’s fastest classical computer. With this, we entered a new era of quantum computing. We still have a long journey ahead of us to find practical applications, and we know we",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
+      "originalUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qsim-explore-quantum-algorithms/amp/",
+      "publishedDateTime": "2020-12-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-the-ipo-market-looks-hot-as-airbnb-and-c3ai-raise-price-targets.md",
       "title": "The IPO market looks hot as Airbnb and C3.ai raise price targets",
       "excerpt": "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish.",
@@ -1102,100 +1206,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-how-aws-is-staking-its-claim-on-tomorrows-contact-centers.md",
-      "title": "How AWS is staking its claim on tomorrow’s contact centers",
-      "excerpt": "AWS unveiled several new ML-based feature updates for its Amazon Connect cloud contact center service that will simplify call agents workloads",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "originalUrl": "https://techwireasia.com/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_1626983506-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/how-aws-is-staking-its-claim-on-tomorrows-contact-centers/",
-      "publishedDateTime": "2020-12-06T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders.md",
-      "title": "CSIRO's Data61 researchers develop AI helmet to prevent seizure disorders",
-      "excerpt": "Researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61 have developed an implantable artificial intelligence monitoring and seizure detection helmet system designed to prevent seizure disorders for patients who have undergone decompressive brain surgery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "originalUrl": "https://www.zdnet.com/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/07/4bc325fa-5454-4d6b-8093-c9ae2a8f2abd/csiro-data61-brain-seizures.png",
-          "width": 2066,
-          "height": 1144,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiros-data61-researchers-develop-ai-helmet-to-prevent-seizure-disorders/",
-      "publishedDateTime": "2020-12-06T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

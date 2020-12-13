@@ -25,33 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
-    publishedDateTime: 2020-12-08T15:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
+  - title: "Australia Post uses machine learning to tell you when deliveries will arrive"
+    excerpt: "Customers are now provided with a two-hour window for when a delivery will arrive."
+    publishedDateTime: 2020-12-10T06:35:00Z
+    webUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg"
+        width: 770
+        height: 578
         isCached: true
-  - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
-    publishedDateTime: 2020-12-10T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers-2020-12-10"
+  - title: "Boeing tests autonomous, artificial intelligence-enable jets in Australia"
+    excerpt: "In this week’s roundup from the Association for Unmanned Vehicle Systems International, which highlights some of the latest news and headlines in unmanned vehicles and robotics, Boeing makes significant progress in the development of its autonomous systems technology and drones recreate accident scenes for analysis by law enforcement and use in legal cases."
+    publishedDateTime: 2020-12-11T20:49:00Z
+    webUrl: "https://www.vision-systems.com/embedded/article/14188942/boeing-tests-autonomous-artificial-intelligence-enable-jets"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Vision Systems Design
+      domain: vision-systems.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img.vision-systems.com/files/base/ebm/vsd/image/2020/12/Boeing_High_res_Cloncurry.5fd3d8797d94d.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Australia’s Former Defense Minister Urges Recognition of Artsakh"
+    excerpt: "Australia’s former Defense Minister, Joel Fitzgibbon, used a speech in Parliament to urge national recognition of the Republic of Artsakh as the pathway to a lasting peace,”"
+    publishedDateTime: 2020-12-10T14:56:00Z
+    webUrl: "https://asbarez.com/199078/australias-former-defense-minister-urges-recognition-of-artsakh/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 24
+    images:
+      - url: "https://asbarez.com/wp-content/uploads/2020/12/Joel-Artsakh-feature.jpg"
+        width: 576
+        height: 357
         isCached: true
 
 secured: "Ap2OarBbySUlN2Uvgt7vXGXG0cISJtaFdyhyzgGC78/W8b8jeiiRQppAzk1E0LBOr3gTRNIn7bq7oKxbKSSoLWBHBaTvLjaHM4IrWfGMTu5nBs8VHpEmkdnI5dneGSDUBzwoIRjeBGA2r3hdssH4Dy3b7w7uILb46MTmDgGA0Dv+39g9rAojUcyG7iD8V13S5FHIHCfIxlKkB7O/C+YkG+g1HpnHt9XsUcWhBhVNx3pwRLfDtK+i82r+M52b+Wy0us4C/SvkhmJOG23NzxTmJRo0PGo/vweBlPYKEbsrQcLJw0vAM7nQmGK/AfGRbjkXwochOv1iQPh/+nqVSv7o/FAS1eoTcQwOP5k8AgmiVeA=;7LPrV0YFXjUHZPJndTASdA=="

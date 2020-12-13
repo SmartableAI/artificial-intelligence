@@ -26,35 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Diving into Deep Learning"
-    excerpt: "It’s deep learning, which represents a step-jump from the previous generations of AI. But what exactly is deep learning? Deep Learning is the popular name for a branch of machine learning techniques called Artificial Neural Networks (neural nets)."
-    publishedDateTime: 2020-12-08T15:41:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/columns/future-tense/diving-into-deep-learning/article33281966.ece/amp/"
+  - title: "Top events in India's online gaming sector in 2020; Lessons from building an AI startup"
+    excerpt: "India’s online gaming sector gained tremendously from the coronavirus lockdown, and continued to grow throughout the year."
+    publishedDateTime: 2020-12-11T00:37:00Z
+    webUrl: "https://yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking"
+    ampWebUrl: "https://yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/online-gaming-2020-ai-startup-electric-vehicles-coding-trafficking/amp"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 61
+      name: Your Story
+      domain: yourstory.com
+    quality: 49
     images:
-      - url: "https://bloncampus.thehindubusinessline.com/columns/future-tense/article33281965.ece/ALTERNATES/LANDSCAPE_615/artificial-intelligence-analytics-data-sciences"
-        width: 615
-        height: 384
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/online-gaming-1595435856946-1607505784322-1607615611987.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Machine Learning Market Is trending in Key Regions To Reach At Next Level in Coming Years?"
-    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
-    publishedDateTime: 2020-12-11T14:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-trending-in-key-regions-to-reach-at-next-level-in-coming-years-2020-12-11"
+  - title: "Entrepreneur Ashwini Asokan on building AI startup Mad Street Den and lessons from her journey"
+    excerpt: "In this episode of 100x Entrepreneur Podcast, Ashwini Asokan, Co-founder and CEO, Mad Street Den, talks about how she built her AI startup."
+    publishedDateTime: 2020-12-10T00:12:00Z
+    webUrl: "https://yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup"
+    ampWebUrl: "https://yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Your Story
+      domain: yourstory.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagejkss-1607521477536.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "LtU99RhXrbfCz6nbPD/5Mm+ITiWJTGcOZSpbdqW5GQyIu6ZBNZpcF2++VLRxFg0oYin599OeeNW1Otiy3V7ElvcNLmYG53hynanZdK5peksJtiVLLa5ZA8ARei1L+Adevp/jfeSmDyh0QjhQgwBibloqa6VKhKwzZOvhc7NjdNDdd9PUWdrprc4kdeX+dZkVp+87a7xiQE/0Q298s1hgFfH7MTVUHkRc2tOqv19FJj2izhhFkQwwrTs+TUqZLs1M1vICa8+3xUPvy8HdJudXKvHKUr0Tk5shERyoFgyBTpUKFiyaSmOPZCPq2rUdsmHZ+0ycd2fL8wNJ2PxWfaDWIcqTw0BZMd/F8Pp6Vy9/VmCGWRwoO0VIdEqfY69G0gCjtQXV4zAHeORZ/pUCL+NWVGO4ehxfHDGeg4eS8bRtAukBZz7J2sS8KrpgbPrc9frTwuitmXhKepUcRjWDJaU31hTo/ZPVTEhkUJQqMQCwU/p/D9b5AMnCU5H9iVmFCLgtbcJFwOAZjyf06Rn2v7itCg==;krZpMwnFEcMOIih1cNhYYw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-
 webUrl: "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces Plans to Open Second Region in Australia"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
+    publishedDateTime: 2020-12-08T17:23:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-western-australia-oceania-e58c102140d442969c2e50fc92bfb63c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Boeing tests autonomous, artificial intelligence-enable jets in Australia"
     excerpt: "In this week’s roundup from the Association for Unmanned Vehicle Systems International, which highlights some of the latest news and headlines in unmanned vehicles and robotics, Boeing makes significant progress in the development of its autonomous systems technology and drones recreate accident scenes for analysis by law enforcement and use in legal cases."
     publishedDateTime: 2020-12-11T20:49:00Z

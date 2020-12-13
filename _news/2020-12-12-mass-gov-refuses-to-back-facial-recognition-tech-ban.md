@@ -3,8 +3,8 @@ category: news
 title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
 excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
 publishedDateTime: 2020-12-12T03:08:00Z
-originalUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
-webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+originalUrl: "https://www.law360.com/articles/1337105"
+webUrl: "https://www.law360.com/articles/1337105"
 ampWebUrl: "https://www.law360.com/amp/articles/1337105"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
 type: article
@@ -178,6 +178,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "e6FhhRAr41xokrn7Cr1NJI9QOOW7Kj/7wY78KtxRH0rO4nVpYutGboCwZShWnLIjUlgciOHkCf1MLdMzoRD07SecR4hJJsTODtfliG37x6vSbvx8HkERdDcaKtMLTEq/S9T94XZFgfPdg5ttQybOaVofu9yv/vlojuBMdJ9ibm2dB+uJGYU4UD9OCsOBS92B7MfVfwfmjaK2dgN7jLsIqUqI9LvHoZs/L5RPjnZrYMlRTkyV1N9CO6qQFM5XyQwRdDL/chS/y1MH3N5IYcVeDPPJyBeOejlpWR8XQA+R5eAqyRgEHQ/lamkzgYM5G3RlxDJ2Vx9abfX+ZOGhgrTFDrhqoKI8k4MflaQl5JjauBE=;6E6Szerc5Yibq0F3fG6Jpw=="
+secured: "yqWPyrpeXYKfc4ka6EIMy9lQnsZQYyNyvydKCLG2KwsUjqpa0875JVOUEmhldUxDkUEzn5e5i/o4EJLKKgcOjnYhJZ5I2hNzsFHSTFuDCEbecEVgmcKpFFF0wXLUt/M+XZIT7EAuENkoi4ozRtInyJl5vn0JhK4ghQ5PNnSJM6VNVqy0E8h1iW6a5BfoQHc3UTrGBCYRfM6lDo2OFePq+8kUnkHERs8WYqn4vxlIWMsG04qbBlY2fULOXeu2jaImARXkgHeXxeXLUtzLMnk6aPoDs+9iOOCJBAxUKr1/cjZgF3XYlfncCB/stPofbpSNggipm+IKkuu49zTzkH3Nr321/ad7ovi091AjnixVQPo=;ZWmyrKnthpF5v0gOJdliXw=="
 ---
 

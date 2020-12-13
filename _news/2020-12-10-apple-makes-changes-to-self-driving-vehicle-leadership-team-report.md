@@ -165,20 +165,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Uber Stock Cools Off Following Sale of Self Driving Unit"
-    excerpt: "Uber is cooling off, after it was announced that the company's self-driving unit will be acquired by Advanced Technologies Group (ATG)"
-    publishedDateTime: 2020-12-08T15:05:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2020/12/08/uber-stock-cools-off-following-sale-of-self-driving-unit"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 39
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/app-2941689_1920.jpg?sfvrsn=6cdc006_6"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Apple shifts leadership of self-driving car division to AI chief, report says"
     excerpt: "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car."
     publishedDateTime: 2020-12-08T20:40:00Z
@@ -249,20 +235,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Uber sells self-driving unit to Aurora"
-    excerpt: "Uber Technologies sold its self-driving car division to Aurora Innovation and took a stake in the startup, pulling back from its vision for a fleet of autonomous taxis to focus on turning a quarterly profit next year after the pandemic crushed revenue."
-    publishedDateTime: 2020-12-08T15:04:00Z
-    webUrl: "https://europe.autonews.com/automakers/uber-sells-self-driving-unit-aurora"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Uber%20self%20driving%20car%20BB%20web.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Uber moves on from self-driving cars"
     excerpt: "Uber, which once set its sights on being a pioneer in the autonomous vehicle space, has sold its driverless car unit to a start-up."

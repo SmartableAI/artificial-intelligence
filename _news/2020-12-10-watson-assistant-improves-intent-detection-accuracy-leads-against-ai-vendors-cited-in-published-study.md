@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/"
 type: article
 quality: 118
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How GlaxoSmithKline launched 16 virtual assistants in 10 months with Watson Assistant"
-    excerpt: "GSK is a global pharmaceutical company that researches, develops, and manufactures innovative pharmaceutical medicines, vaccines, and consumer healthcare products. A company that prides itself on customer service, GSK was dependent on expensive call centers to provide 24/7 support. But about 20% of incoming"
-    publishedDateTime: 2020-12-08T16:56:13Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/12/how-glaxosmithkline-launched-16-virtual-assistants-in-10-months-with-watson-assistant/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 110
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/gsk-lead-space-990x498.jpg"
-        width: 990
-        height: 498
-        isCached: true
   - title: "CIBC introduces Watson-powered virtual assistant"
     excerpt: "With Canadians using digital banking now more than ever, CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking."
     publishedDateTime: 2020-12-10T16:44:00Z

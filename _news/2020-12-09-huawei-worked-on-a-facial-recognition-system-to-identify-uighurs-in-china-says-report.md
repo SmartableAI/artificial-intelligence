@@ -83,22 +83,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Huawei tested AI software that could recognize Uighur minorities and alert police, report says"
-    excerpt: "An internal report shows how the face-scanning system could trigger a “Uighur alarm” if it detects someone resembling a member of the Uighur minority group, sparking concerns that the software could further fuel China’s brutal government crackdown."
-    publishedDateTime: 2020-12-08T15:36:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 49
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVY3YLBVAMI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Barca star Griezmann cuts ties with Huawei over reports of facial recognition surveillance"
     excerpt: "BARCELONA’S WORLD CUP-winning footballer Antoine Griezmann says he is ending his sponsorship contract with Huawei over reports the Chinese telecoms giant was involved in the surveillance of Uighur Muslims."
     publishedDateTime: 2020-12-10T18:00:00Z

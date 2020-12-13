@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Uber to Offload Self-Driving Unit to Amazon-Backed Startup Aurora"
-    excerpt: "The combined company created by the merger of the two autonomous driving businesses is valued at close to $10 billion."
-    publishedDateTime: 2020-12-08T16:21:00Z
-    webUrl: "https://www.cfo.com/ma/2020/12/uber-to-offload-self-driving-unit-to-amazon-backed-startup-aurora/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 24
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-1195837048.jpg"
-        width: 594
-        height: 446
-        isCached: true
 
 secured: "vO/HsXdILsy1FngjJXtQdwWzTyWVbbJF2SHPrLFo2uBS65TcwlAuv8i1pbvDZj75LW4yEr6UmoyRUsbmakYSRGbruLhx74n5sA526pLJ+OnqHqJ48cept+TtRaerrKYHzAOBRWsdhY6Xv6BNRPQEBdIhr7VToBWTo5SEboUxhZLpS4ZkYVplfRCrh8ViMiso4Oh7lDhWkhcPH7wNapYznaFLDT8G8HESGaDuimpfQlR8opTMTu9TK2+8EbEsjI1nkAyiUiTSfwU9tTZtcOky013b84d2kq/V4CyV7fW4vXcjsvq3xuehsfxNcZfoMR4e17+Dl4yj1wh5NCfZNLZjypmD4OGGNNQWZkN96SoVWT09OplzDKN5TXyCm1QSBA0+cRx2a8TXffHZrhywamWPBqZVuybccB1jXm/T+zMHUF8s3XxmaynjuZBaLM2fnVXeWC4yiI4cr8QG3XvBx8TFyAncqb1BSKnoWNzoey3qHmeS6eicLXKoiJkdEZtFSpb787Z2NVqYbVfBVim1UwAUzQ==;78Bw0WOA23/Ms3Ei9wcqVw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-a
 webUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers-2020-12-10"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Thomson Reuters Taps AWS to Power Digital Transformation"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
-    publishedDateTime: 2020-12-08T15:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
+  - title: "Nationwide Selects AWS As Its Preferred Cloud Provider To Deliver Digital Experiences To Customers"
+    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+    publishedDateTime: 2020-12-10T14:51:00Z
+    webUrl: "https://www.hostreview.com/news/201210-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Host Review
+      domain: hostreview.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS Announces Plans to Open Second Region in Australia"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today announced plans to open a second infrastructure region in Australia in the second half of 2022. The new AWS Asia Pacific (Melbourne) Region, which will consist of three Availability Zones (AZs) at launch,"
-    publishedDateTime: 2020-12-08T17:23:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-western-australia-oceania-e58c102140d442969c2e50fc92bfb63c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "mZVrkPGbzxmTlllguLo+cAUAlYPdqKXSMe5Pne2NQOD/H8ATlKkCEdyCslHzPZ/7YlDLuCXT/GNUQJ+0yEo2kS1M7s8uxdxmDNTsq0WKFlUKEALQChtD0drZPHI0W3m+p29L168RFT2hgxEmtgMvcuemJM9t9K62jNtw8Vo3b6tRFeNr6MTM6HMJjtYfMZjf08pZHyA3nZkny6I8uFq48LdheOQNsGpvDmgE8aBC1gHVCCifTXUnRN4tMDApyjUsaBSWM22kdE9szVWPSWkW88FMIJcB7i10pEVYamGms6JBTeLa5cDDl8wlD/jA1DrcYLMfDd6Pf9LLEdkyujXhDVMbemHoR+RZFLm5XYlX+MI=;p3+7WnezPRWf0XhCn12N1g=="
