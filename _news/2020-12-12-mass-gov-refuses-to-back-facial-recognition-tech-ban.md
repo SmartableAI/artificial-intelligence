@@ -3,12 +3,12 @@ category: news
 title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
 excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
 publishedDateTime: 2020-12-12T03:08:00Z
-originalUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
-webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
+originalUrl: "https://www.law360.com/articles/1337105"
+webUrl: "https://www.law360.com/articles/1337105"
 ampWebUrl: "https://www.law360.com/amp/articles/1337105"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,8 +17,9 @@ provider:
   domain: law360.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Facial recognition's fate could be decided in 2021"
@@ -163,6 +164,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "r9SEqC8v3XSzxbLcy0S/HPlnVUtPwYjXav/j7N+5F1iVE/OaTcmR+TEvTjdwWtpM2+NQeTNt5lvq8GkZd2TDHSfzhgS+XclMnjSz79qOTMd4FCQdWrG88YPOQ01pz+rCEmne2bzKpbg0Ae60zQ5UgpWQ31Yg8r/hgTsNylO1GVJi7E8Qi6VrCS+K9MAlh243ZY27YzVtaaFUDxnqBZ87/fvP72x6DTU6nSUwB7VcIWU0Vva0wgkROcR5znkNYgD2jOYKPLqjvrchj1XXeTufHOiBnpGoCUE7rtCaFidijttqjWuQnz+7puz6KXru6yD87m3xsrlhU5zmh7iefe5GiO7yxxFjVbScIfQpd7bY7yk=;cWGLgO3nqRIiBnTwy+ReGg=="
+secured: "eonfu1g9SmehELfHE+QWKVdbP87DXhqUHI04xO0pIccx+OXxoXUTJh0MSTRJv6o3DTQWzw/wpQSXWPeXZ8YIkSOvVSh/fXm5vj77S+KaQfP6drjVbl4Y12KYQf33fXHNoU5FgFtagg/UylnnLONuqtuMagRcHqzSMXmyD5kx9iMMhky46HA2cUx7nM65Km+QYNbGrYVhH0rd6WwLM8hu6L1kA+l1yOwEhqDdXhK5iZtKiSC1G1x8w/OxsiJJRItIo1Ca6HAk77OhMFSiSOAURtbMIb4eONZoeEXJewTBi1+DBHsZ5jDRJaKM7Gop6CKAZi8vcX1iOO+I9kgXc8NAAr0c2NxzGIr1Gtxqx8Vi8qQ=;qkGxdu3yPQd8SmFKTlpTdw=="
 ---
 

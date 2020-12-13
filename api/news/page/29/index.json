@@ -2,6 +2,152 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-11-19-bobacino-launches-robotic-tea-bar.md",
+      "title": "Bobacino launches robotic tea bar",
+      "excerpt": "A startup company called Bobacino has launched its automated Boba Tea Bar, which uses a robotic arm to make beverages for customers. (See video below.) Bobacino says it is bringing the “unique",
+      "sourceUrl": null,
+      "webUrl": "https://roboticsandautomationnews.com/2020/11/19/bobacino-launches-robotic-tea-bar/38338/",
+      "originalUrl": "https://roboticsandautomationnews.com/2020/11/19/bobacino-launches-robotic-tea-bar/38338/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/01-Bobacino-Machine.jpg",
+          "width": 800,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims.md",
+      "title": "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims",
+      "excerpt": "can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL), the CS-1 is more than 10,000 times faster than leading GPU competitors and 200 times faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "originalUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yky93teYjYQmAYjmkSH3EG-1200-80.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "publishedDateTime": "2020-11-18T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes.md",
+      "title": "Weather forecasts get an AI update with Atmo as businesses grapple with climate-related catastrophes",
+      "excerpt": "“I thought I have to build something to make the intersection of weather and AI much more available for everyone.” That was the beginning of a four year journey, which culminated in Atmo ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1267240670.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes/amp/",
+      "publishedDateTime": "2020-11-18T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-how-to-set-up-speech-to-text-in-windows-10.md",
       "title": "How to set up speech-to-text in Windows 10",
       "excerpt": "Windows 10 conveniently groups its voice commands under Speech Recognition, which interprets the spoken word across the operating system for various tasks. We’ll teach you how to get everything ...",
@@ -1053,163 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
-      "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
-      "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-apple-m1-chip-will-save-25b-a-year-after-dumping-intel-for-the-m1-chip.md",
-      "title": "Apple M1 chip will save $2.5b a year after dumping Intel for the M1 chip",
-      "excerpt": "Apple's decision to quit Intel and use its own M1 chip to power the latest MacBook Pro, MacBook Air, and Mac Mini will save the company $2.5 billion, according to a new report. One of Apple's biggest stated reasons for moving to the new ARM-based silicon was as a cost saving measure and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "originalUrl": "https://www.techradar.com/in/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SqqGSo29Dawg8RLk99zkXG-1200-80.jpg",
-          "width": 980,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "publishedDateTime": "2020-11-18T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient.md",
-      "title": "Neural’s guide to the glorious future of AI: Here’s how machines become sentient",
-      "excerpt": "Welcome to Neural’s guide guide to the glorious future of AI. What wonders will tomorrow’s machines be capable of? How do we get from Alexa and Siri to Rosie the Robot and R2D2? In this speculative science series we’ll put our optimist hats on and try to answer those questions and more.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2013/04/prediction-730x367.jpg",
-          "width": 730,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/",
-      "publishedDateTime": "2020-11-18T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

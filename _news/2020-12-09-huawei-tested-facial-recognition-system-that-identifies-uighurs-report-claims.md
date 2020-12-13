@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-teste
 webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 130
+published: true
 
 provider:
   name: Forbes
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Huawei worked on facial recognition system to surveil Uighurs, new report claims"
-    excerpt: "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,"
-    publishedDateTime: 2020-12-08T19:34:00Z
-    webUrl: "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 99
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Barca star Griezmann cuts ties with Huawei over reports of facial recognition surveillance"
     excerpt: "BARCELONA’S WORLD CUP-winning footballer Antoine Griezmann says he is ending his sponsorship contract with Huawei over reports the Chinese telecoms giant was involved in the surveillance of Uighur Muslims."
     publishedDateTime: 2020-12-10T18:00:00Z
@@ -113,15 +97,6 @@ related:
         width: 784
         height: 487
         isCached: true
-  - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report - CNET"
-    excerpt: "The Chinese government has frequently used surveillance technology to oppress the minority population."
-    publishedDateTime: 2020-12-08T19:39:00Z
-    webUrl: "https://www.newsoneplace.com/40384221911/cnet-huawei-uighur"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 13
 
 secured: "3VdkJK/ZilHrilPzxOoZqGw8alhRp7XwuF31kcdRQFfP4yfLmrE/E7G60TWE1r72JJwOITo2QDJoAuPfqOg3nyu/7X7GktWRlNUNST4opgFlz19FR6oh8WYx5dhEsWTaRTCLCZbJoU/Q+T9UEKOKGK4p42LHw24fRm/1S8KHyKluHQQnoMttH1oeRPukqEz107XtW/U/FQFCYDJFy5R9PuHm6nySq1eRd5ybf4YDq/mDMfV/0eURNj4Ul2CkfN2F7KwzXVpNA3gJEOBZmZfAst3L3TDNhQrPNLw9uxnF3nOV8O94C8Gz5M4oSvKOX9WSZ00M+CuakhQYJauJxfsTkkTFHOQDAz9mTZpmYIbHuFOoZk1W8CjWstb6atFd+UxQV9Pho7byEfaBEQptGY6EN6Fi2jUolSCspFyO77yRfG70S9IBINDj+A0XqFYHIkCOaq29SE0OPQmPusGPZ87LY0939X+2uA55h550YZyqGp9k8hT5ty0wMcY+TAr4hVUBdZBEXFyu1PV3v29BISSAwg==;K4CAQW4+4GzIhbhgE1mf6A=="
 ---

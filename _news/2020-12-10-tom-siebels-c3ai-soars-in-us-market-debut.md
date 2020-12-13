@@ -72,17 +72,6 @@ related:
         width: 790
         height: 395
         isCached: true
-  - title: "I, IPO: C3.ai brings artificial intelligence to Wall Street"
-    excerpt: "C3.ai brings artificial intelligence to Wall Street originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com. Investment Disclosure: The information and opinions expressed herein were prepared by Renaissance Capital's research analysts and do not constitute an offer to buy or sell any security."
-    publishedDateTime: 2020-12-08T19:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 82
   - title: "Watch CNBC's full interview with C3.ai CEO Thomas Siebel"
     excerpt: "Thomas Siebel, CEO of C3.ai, joins \"Squawk Alley\" to discuss the company's public debut. The market will do what the market will do, says Siebel. This is a financing event for C3 to enable us to meet the needs of rapidly expanding demand for what we do."
     publishedDateTime: 2020-12-09T22:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -62,17 +62,6 @@ related:
         width: 790
         height: 395
         isCached: true
-  - title: "I, IPO: C3.ai brings artificial intelligence to Wall Street"
-    excerpt: "C3.ai brings artificial intelligence to Wall Street originally appeared on IPO investment manager Renaissance Capital's web site renaissancecapital.com. Investment Disclosure: The information and opinions expressed herein were prepared by Renaissance Capital's research analysts and do not constitute an offer to buy or sell any security."
-    publishedDateTime: 2020-12-08T19:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/i-ipo%3A-c3.ai-brings-artificial-intelligence-to-wall-street-2020-12-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 82
   - title: "Tom Siebel's C3.ai soars in U.S. market debut"
     excerpt: "Shares of billionaire Tom Siebel-led C3.ai Inc more than doubled in their debut on Wednesday after the company raised about $651 million in its stock market launch, underscoring investor enthusiasm for technology companies."
     publishedDateTime: 2020-12-09T18:01:00Z

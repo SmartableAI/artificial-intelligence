@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Huawei worked on facial recognition system to surveil Uighurs, new report claims"
-    excerpt: "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,"
-    publishedDateTime: 2020-12-08T19:34:00Z
-    webUrl: "https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 99
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/XYJI_iZjAzEa9uQfx396EKQL5t4=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Huawei Tested Facial Recognition System That Identifies Uighurs, Report Claims"
     excerpt: "Human rights groups say the Chinese government has deployed a network of invasive surveillance technologies to track the Muslim ethnic group in the country."
     publishedDateTime: 2020-12-08T21:40:00Z
@@ -108,15 +92,6 @@ related:
         width: 784
         height: 487
         isCached: true
-  - title: "Huawei tested face recognition that set off alarm for Uighur Muslims: report - CNET"
-    excerpt: "The Chinese government has frequently used surveillance technology to oppress the minority population."
-    publishedDateTime: 2020-12-08T19:39:00Z
-    webUrl: "https://www.newsoneplace.com/40384221911/cnet-huawei-uighur"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 13
 
 secured: "nbmjWY/CzLPnB2xyjVSGSn7jfqeCzo5SrkPqagT6X8tWF8OscutTRfep+8kdLCwiRWZesvrXfZbVdjPhcS4Kjv61usbltHkWQJmzR5//SETq2/O+Y+YslJ1Uiglu3RtqqSAMlcFs0xcg24rAKAIeIMC3YnzOPX3whspf9VuE+lMeF9rGOA5FT5AXCPJKpwVmFAUKHqKh6XPwKwDvbCEKdungHMaUC3yM3S9RWY5xNVQofZPkMbmP053toFsa96UB6K6Og9INz1w/D1y+MXEqe9CAVUedaDEJaJSgNRy+L1lWSa7vkEcQPz9lJiq5pWAS6AWJLojWaH++xVMobQMcdJ0Zkp6TZfww1eDEAg8gK0E=;54SACePT11uOcqC3LABrNg=="
 ---

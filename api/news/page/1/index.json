@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-13-ai-algorithms-are-slimming-down-to-fit-in-your-fridge.md",
+      "title": "AI Algorithms Are Slimming Down to Fit in Your Fridge",
+      "excerpt": "Artificial intelligence programs typically are power guzzlers. New research shows how to generate computer vision from a simple, low-power chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "originalUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd41c88c8d3dcf3baf4f08a/master/pass/Business-AI-IoT-488760853.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "publishedDateTime": "2020-12-13T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-algorithmic-and-ai-assessment-tools-a-new-frontier-in-disability-discrimination.md",
       "title": "Algorithmic And AI Assessment Tools — A New Frontier In Disability Discrimination",
       "excerpt": "Algorithmic assessment tools are a serious threat to disability rights. An inescapable tension exists between an algorithm’s use of big population-level data and the highly individualized experiences of disabled people.",
@@ -466,7 +518,7 @@
       "originalUrl": "https://www.businessinsider.com/why-aurora-is-acquiring-ubers-troubled-self-driving-team-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -932,7 +984,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1222,58 +1274,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-amazon-is-cozying-up-in-all-corners-of-the-healthcare-ecosystemai-is-its-next-frontier.md",
-      "title": "Amazon is cozying up in all corners of the healthcare ecosystem—AI is its next frontier",
-      "excerpt": "Amazon is entrenching deeper into healthcare with its launch of Amazon HealthLake, molding itself into a daunting threat to smaller AI firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-coming-for-healthcare-ai-analytics-firms-2020-12?itm_campaign=12-10-2020&itm_content=briefings_post&itm_medium=social&itm_source=twitter",
-      "originalUrl": "https://www.businessinsider.com/amazon-coming-for-healthcare-ai-analytics-firms-2020-12?itm_campaign=12-10-2020&itm_content=briefings_post&itm_medium=social&itm_source=twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f636c6757b7da001ee122c4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

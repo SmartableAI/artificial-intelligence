@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-aurora-is-acquiring-ubers-troubl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-aurora-is-acquiring-ubers-troubled-self-driving-team-2020-12?amp"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Uber Sells Self-Driving Division to Startup Aurora"
+    excerpt: "Self-driving vehicle start-up Aurora bought Uber's Advanced Technologies Group (Uber ATG), which works on self-driving technology. Uber is investing $400 million into Aurora. The Aurora Driver (s"
+    publishedDateTime: 2020-12-09T02:31:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/uber-sells-self-driving-division-to-startup-aurora.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 46
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/selfdrivingtruck-1024x561.jpg"
+        width: 1024
+        height: 561
         isCached: true
   - title: "Aurora Innovations Acquires Uber's Self-Driving Unit"
     excerpt: "Andrew Hawkins, Transportation Reporter for The Verge joins Cheddar to discuss Uber's deal to hand off its self-driving unit to Aurora Innovations."

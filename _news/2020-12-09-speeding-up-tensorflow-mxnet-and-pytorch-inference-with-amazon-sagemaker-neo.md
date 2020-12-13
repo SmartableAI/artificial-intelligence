@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorfl
 webUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/"
 type: article
 quality: 136
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -157,20 +157,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg"
         width: 800
         height: 326
-        isCached: true
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-    publishedDateTime: 2020-12-08T19:40:00Z
-    webUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 54
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
         isCached: true
 
 secured: "WyH5o825mU6onl1GOjs4TDC7v/AVuEhRnUoYYomiSAcQGbIpA7vzJUYPAOuJDQimBIpB3UtFVQqN+9hluSLzPqEtXhpEoIgSEaqG6i6ZV/ZDrwEbJmEBaJ6NDYb+wOnZp1osSeyGNfKjBWOSjFnkt0wjqD7/JViXgZZK75QI6wBhJWlkw1uzXx07WYgz4Og2YwyK1P9bCldvhrkz81f0otrts5S5tEkly89X7hKhq5PNn/WWx2vfjmuDONLLP/aLGmho2oXOFAL6krWIKfZk2mxoEViSIam9KIy1GwjttEvgrx/lj6YYXVSX7o6sEJfZeaIUSJBS7VGmk1QbmJ6Z7oCqlULCC+8kcB41GNKm2Cg=;Vx6p2g908lLg/YY6oopPuw=="

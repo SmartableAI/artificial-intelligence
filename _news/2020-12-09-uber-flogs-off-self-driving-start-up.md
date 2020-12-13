@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Uber moves on from self-driving cars"
+    excerpt: "Uber, which once set its sights on being a pioneer in the autonomous vehicle space, has sold its driverless car unit to a start-up."
+    publishedDateTime: 2020-12-09T08:08:00Z
+    webUrl: "https://www.linkedin.com/news/story/uber-moves-on-from-self-driving-cars-4988620/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQFUIhXv-z9CCQ/storylineheaderimage-shrink_400_400/0?e=1607594400&v=beta&t=ZhwXlOH5c8Z64TlS1wKXBMN1g8CrPMuq9qWdOJTHj7I"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "iIByz362gkeQntBRb9wE83MoPH9WGfmAXl+Q7rt14GKb9JJDarHK8ZmPzTrXWHq629T3wM6O1ZoJiSTJ8BkwX0ysWpFXtbZJsvnIM4xFdZLZIQdfVEo49F3I0eGK4Od8+6vHAS89mvtB3yhgzMzNG+cvecGaQKWk4DbfPypbXUuRHLnpCKVgcaa1J6ChqBe8k0nlSNpbwLwkhT2aPnKy+h082RdA+LFL6ryNiSJAw3GwdcxilO7AzacEIww909XjVQ1AhPN6SdwjC/fC9e+3t7AfgjwCKgtgjfdjxxd1MpHoZNOC2f8BNDz1WeV1S98cx5W6N+7LNa7LEu0mTToEq3RqegA/5/js4N5xmhtRP1JMZ7DZDjHx2x5X7cJiu9HYACrMyB9bOl3buEtX8RNGGiwDTVFTt9GX/oDlXu8iU3pH7+W28f/gsSfII/l7GsIjwVCLCLrFUgWMFJBgVek0F6Aq+2FUHLlAwL2aP8V6v3GRB1fdyAjUKSn8XjJgYlmZy46+TWzT9iOEAgTv4prA5w==;NJAYGzCixe7nGBTJuByhYg=="
 ---

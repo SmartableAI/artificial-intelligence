@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 769
         isCached: true
-  - title: "Apple Reportedly Developing Self-Driving Vehicles"
-    excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
-    publishedDateTime: 2020-12-11T05:10:00Z
-    webUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info"
-    ampWebUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Fapple-reportedly-developing-self-driving-vehicles-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1125
-        height: 750
-        isCached: true
   - title: "TSMC will provide self-driving chips for Tesla like Apple Car – Report"
     excerpt: "DigiTimes reports that the Cupertino tech giant has partnered with TSMC to produce self-driving chips for Apple Car. As the first company to provide 7nm and 5"
     publishedDateTime: 2020-12-09T18:25:00Z
@@ -118,6 +102,22 @@ related:
       - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-Car-like-Tesla-.jpg"
         width: 1200
         height: 445
+        isCached: true
+  - title: "Uber sells self-driving-car division to Aurora after years of turmoil, deadly accident"
+    excerpt: "Uber is selling its self-driving-car unit to Aurora, marking the culmination of a rocky tenure that included a deadly accident and legal controversy."
+    publishedDateTime: 2020-12-09T01:35:00Z
+    webUrl: "https://www.jsonline.com/story/money/cars/2020/12/07/uber-aurora-self-driving-car-division-sold/6482467002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/6482467002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6482467002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 36
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2018/03/23/USATODAY/usatsports/uber-self-driving-car-1_large.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
     excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
@@ -149,15 +149,24 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "DACA Ruling, Self Driving Cars Deliver Produce, Black Violin"
-    excerpt: "Hundreds of thousands of children of undocumented immigrants will be protected from deportation following a recent federal court ruling. Self-driving cars are delivering produce from school gardens to children learning at home in Miami-Dade."
-    publishedDateTime: 2020-12-09T15:59:00Z
-    webUrl: "https://www.wlrn.org/2020-12-09/daca-ruling-self-driving-cars-deliver-produce-black-violin"
+  - title: "Uber sells self-driving cars to focus on profits"
+    excerpt: "Uber is selling its driverless car subsidiary to start-up Aurora Technologies, abandoning a unit that Uber's founder once hailed as critical to the future of the firm. Aurora, founded in 2017, said the deal will help it \"accelerate\" its mission to make self-driving cars a reality."
+    publishedDateTime: 2020-12-09T16:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-55224462"
     type: article
     provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 19
+      name: BBC
+      domain: bbc.co.uk
+    quality: 4
+  - title: "Uber to sell self-driving car division"
+    excerpt: "Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by litigation and a fatal crash. Uber will take a 26% stake in Aurora and invest $400 million in the Silicon Valley-based startup that makes software for autonomous vehicles and lists Amazon among its investors."
+    publishedDateTime: 2020-12-10T17:16:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2020/uber-to-sell-self-driving-car-division/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 4
 
 secured: "71yu5s4z4BGu0Hj3OZgN8vuccboG7SwRdqFQniOb2kFHmG1CvA33mlZVUxfmk87t0Gf+3lKpqwrupZLNoTHR2y/YtUJVzXJyqb/08Jixhp90Ma/C5vmdf5lC4nVjkne6nrnWFlxe1k6ZJouu29oe4DqZMWjujiPGDm5zNMM+Q5r0R+KhWxGVvzTmfFw66pnk4WfZ1as7u6PVq+uXEBqCVwFiY0asWaoT9nbIfewGjFxAfNWb6CSctpHndZ2xX11aet9PumbbL64NuM29qkJXYoK0qcpBmy2YGnGiOLE6qCJ1FEb5i2RNA87C6sOetmSiDW2fIMsmuS6mnElv70g7IpdjPuJ3+SWa20GjzqWICE0=;1b1D7crUuOWvjGQIF2mo1A=="
 ---

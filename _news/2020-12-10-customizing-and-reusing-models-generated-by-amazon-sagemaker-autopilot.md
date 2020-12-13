@@ -155,20 +155,6 @@ related:
         width: 800
         height: 326
         isCached: true
-  - title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
-    publishedDateTime: 2020-12-08T19:40:00Z
-    webUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 54
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
 
 secured: "Uc1Xi+rlffpqBCjqsOb/gziAUYCglwrctEwFzsbvkwa9sT2FZOG4nRgKuROZ0u1i/9D1sjWzsRRDeg10n4e/LtG7ryCxcgq+0uevQp6D8fZeDPU33Wf1NLUhHYOsqSLVqQCK3sZeKmfsHisdmzuSF6Vup/0mP2YisSjZIiUE9ypYUF9gzRYmBfoKQf7IXEZbHnH6SBqs+AiETxBl+9m9dE2Za+59VxLripta9+W+JA8sby2I30ilHSLN4lEz/7tGzDIoSX2QRs1QdfI7dS7Ewwvh4ZNxhmleYGmDMPk9rvCW8eIQm/fkt+4DBgguybgOZBlat4i69hetJvfYUfQJMK7AupqeQWeIDbd9Vojm9dM=;gUM5z4GUkLJJNDG/pjcJ2w=="
 ---
