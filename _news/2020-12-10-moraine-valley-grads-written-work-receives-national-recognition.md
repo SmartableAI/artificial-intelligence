@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Patch
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 action plan earns Luther Manor national recognition"
-    excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
-    publishedDateTime: 2020-12-09T20:36:00Z
-    webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 24
-    images:
-      - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
-        width: 730
-        height: 945
-        isCached: true
   - title: "GPC receives international recognition for safety"
     excerpt: "The accreditation is a fantastic achievement for GPC’s pilot services and a reflection of how hard our team works.”"
     publishedDateTime: 2020-12-14T01:22:00Z

@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Siebel-Led C3.ai More Than Doubles After $651 Million IPO"
-    excerpt: "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range."
-    publishedDateTime: 2020-12-09T19:14:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYf_ilbSSPwk/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Software firm C3.ai skyrockets 174% after $651 million IPO"
-    excerpt: "The firm sold 15.5 million shares at $42 each. C3.ai previously expected to price shares between $36 and $38 before the Tuesday IPO."
-    publishedDateTime: 2020-12-09T19:38:00Z
-    webUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/c3ai-stock-price-public-trading-debut-ipo-siebel-software-ai-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://images2.markets.businessinsider.com/5fd11710240ebd00126bdf8b?format=jpeg"
-        width: 790
-        height: 395
-        isCached: true
   - title: "Watch CNBC's full interview with C3.ai CEO Thomas Siebel"
     excerpt: "Thomas Siebel, CEO of C3.ai, joins \"Squawk Alley\" to discuss the company's public debut. The market will do what the market will do, says Siebel. This is a financing event for C3 to enable us to meet the needs of rapidly expanding demand for what we do."
     publishedDateTime: 2020-12-09T22:02:00Z

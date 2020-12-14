@@ -46,20 +46,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "Computer vision is the next level for AI"
-    excerpt: "AI is very advanced in some ways, but not in others. An IU professor says there are exciting things on the horizon."
-    publishedDateTime: 2020-12-09T20:21:00Z
-    webUrl: "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/770x578/8afd868740035cf629cfc497b4529fd6/20201203-aiindiana-karen.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Using AI to transform the customer experience in banking"
     excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
     publishedDateTime: 2020-12-10T12:44:00Z
@@ -70,6 +56,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "g4a4D41GNEtMrhRlQ5l/WxpZYucUGy+1BKHJ48jf5YjGoKh3rwLGJ3PSroNFsPuhhJVQ7mvcP8WB5ItOllmJsKEbp+tIOibfxr92QDOKcjbnpzy7xGI3PO5Kjz827q0K9maqG618LfMHZddjyO6tohdtq/uF0/eNK1tPpCeWaRJLqFr4WxJqqUXH3kHj9u2m/GpnGzfTiyKeo3Q7k17dThX53ifLiXc9zXcx5Ou3QG7MJS0DD9m9htLztkKqo/z2XLZdrcWjrVhpOYJKsWGEMUYlLglIr3PgudZEfbJfuuKJOzDnaElstvonYb4AQZxz+X3R4tctU0j61NzF9SbfMLaXRQjfz9UpwQP7tJmg4ck=;nqHp/Gnx9hTJXBpnL81RSQ=="
+secured: "yPFuqRy+owPO0RaPiG/hNbAoI5RPKc8wxk7RE4atxEzTNWo8XTRlso4B3FAGDxt3fKQhPQUYP57wbVQRzvQdq7wxLELvOCggi3IMOGVaM+DV77Xpo4Pyhwi+Y6BkKuqR0Ri0mBpciPCOQWhRzpZk7cfDOLGhBJEQwOKhvbPp39sjLmuF+pkbmSGd7lBJleQmgnJVR3e4Mph+TtRW4cYVnZCn5/1l19q9fm8/ZnCTeGNd/0mN4tlekq2U0kgweyG2ocz+UQq+WrGMCrCI2ZDlrnKauTVFj+0dxvEhvzj7CLyxNLscCRrp6lP3YrVxxDM4Ejo1YwqFMuzYPZbbyl22gCu46j8K0EGpz5AhJ6+rlgAIsqThK4uHomw99l3m8b49jdOVm+1/IxDix913f0dWcL+MQ+65OA8ONnpm3Ful80xrL/5QKjlHhDyEV57JohvYUmUdFq1G15JBEHeRdjeo2h5XU65gYa+rsuHGx41PYltkjHd/wPtGfPSda46Q0S9t75BT5IryYZA2LdpQC4nPlw==;mmT0YzRWYekxGPavhIc/lw=="
 ---
 

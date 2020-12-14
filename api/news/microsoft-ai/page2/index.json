@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-26-microsoft-teams-is-not-your-next-lms.md",
-      "title": "Microsoft Teams is NOT your next LMS",
-      "excerpt": "In the past eight months, there has been an astonishing number of changes in how learners receive content and learning materials, as well as the communication methods with instructors. During this period,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/microsoft-teams-your-next-lms-m-reza-ganji",
-      "originalUrl": "https://www.linkedin.com/pulse/microsoft-teams-your-next-lms-m-reza-ganji",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHo8-Ykih_bWw/article-cover_image-shrink_720_1280/0/1604926834354?e=1613001600&v=beta&t=LfoCsgGnDBBQdS7RsMle9sZzoylb9uaMozu1AINZvY0",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-26-working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable.md",
       "title": "Working from home: Making those Zoom calls and Microsoft Teams meetings a bit more comfortable",
       "excerpt": "But I'm not leaving the house for meetings or attending events and conferences. They're all online too, and while I have enough screen space on my desk with a 15\" laptop and two 27\" monitors, I sometimes fancy a change of scene and a different way of working.",
@@ -1422,6 +1370,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-indian-artificial-intelligence-ai-industry-market-growth-trends-analysis-share-and-forecast-2025.md",
+      "title": "Indian Artificial Intelligence (Ai) Industry Market Growth, Trends Analysis, Share and Forecast - 2025",
+      "excerpt": "artificial Intelligence (AI) is poised to transform the world, with integration of intelligent machines allowing high-level cognitive processes ... healthcare sector, Microsoft Corp. is taking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "originalUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb16933502_g.jpg",
+          "width": 626,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "publishedDateTime": "2020-11-16T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

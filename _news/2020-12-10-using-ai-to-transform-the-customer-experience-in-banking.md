@@ -35,20 +35,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "Computer vision is the next level for AI"
-    excerpt: "AI is very advanced in some ways, but not in others. An IU professor says there are exciting things on the horizon."
-    publishedDateTime: 2020-12-09T20:21:00Z
-    webUrl: "https://www.techrepublic.com/videos/computer-vision-is-the-next-level-for-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/770x578/8afd868740035cf629cfc497b4529fd6/20201203-aiindiana-karen.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "EU watchdog warns of using AI in predictive policing, medical diagnoses, and targeted advertising"
     excerpt: "The European Union’s rights watchdog has warned of the risks of using AI in predictive policing, medical diagnoses and targeted advertising."
     publishedDateTime: 2020-12-14T09:51:00Z

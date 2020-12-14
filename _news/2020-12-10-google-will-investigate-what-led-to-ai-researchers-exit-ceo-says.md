@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Google will investigate the controversial exit of a top AI ethicist"
-    excerpt: "Google CEO Sundar Pichai has pledged to investigate the departure of a top AI ethics researcher, according to a company-wide memo Axios obtained. Pichai also apologized for how Google handled Dr. Timnit Gebru's exit."
-    publishedDateTime: 2020-12-09T20:55:00Z
-    webUrl: "https://www.engadget.com/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-sundar-pichai-timnit-gebru-ai-ethics-204137362.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fb5e9b210-1614-11ea-9fee-f891d28bb48a&client=amp-blogside-v2&signature=f9d4ac23559133c63b810b38c30aa9fb7f00b2f8"
-        width: 600
-        height: 350
-        isCached: true
   - title: "The Dark Side of Big Tech’s Funding for AI Research"
     excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
     publishedDateTime: 2020-12-10T12:08:00Z
@@ -109,22 +93,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Google CEO apologizes for handling of AI researcher Timnit Gebru's departure"
-    excerpt: "Google CEO Sundar Pichai on Wednesday apologized for the tech giant's handling of the departure of Timnit Gebru, a star artificial intelligence researcher who left the company last week. In an email to employees,"
-    publishedDateTime: 2020-12-09T20:31:00Z
-    webUrl: "https://www.cnet.com/news/google-ceo-apologizes-for-handling-of-ai-researcher-timnit-gebrus-departure/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ceo-apologizes-for-handling-of-ai-researcher-timnit-gebrus-departure/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ceo-apologizes-for-handling-of-ai-researcher-timnit-gebrus-departure/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/sHfv3CAeYQrV758An5vV_OdBJ64=/1200x630/2017/03/08/8a0535b3-8d34-4f44-bf11-c81ac80701fe/sundar-pichai-google-cloud-next-2017-7711.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Sundar Pichai apologizes for how Google handled the 'departure' of AI ethics researcher"
     excerpt: "While Pichai did not say AI ethicist Timnit Gebru was fired as she has claimed, in an internal memo sent to staff he pledged to investigate the events to led to her exit and 'work to restore' their trust."

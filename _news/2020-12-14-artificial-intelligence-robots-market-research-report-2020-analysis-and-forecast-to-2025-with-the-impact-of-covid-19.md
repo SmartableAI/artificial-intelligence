@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-14T10:55:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
 type: article
-quality: 44
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

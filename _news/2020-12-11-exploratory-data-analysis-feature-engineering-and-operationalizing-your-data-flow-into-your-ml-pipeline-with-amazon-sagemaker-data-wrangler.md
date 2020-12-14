@@ -72,20 +72,6 @@ related:
         width: 800
         height: 416
         isCached: true
-  - title: "Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger"
-    excerpt: "Machine learning (ML) has shown great promise across domains such as predictive analysis, speech processing, image recognition, recommendation systems, bioinformatics, and more. Training ML models is a time- and compute-intensive process, requiring multiple training runs with different hyperparameters"
-    publishedDateTime: 2020-12-09T19:40:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-bottlenecks-improve-resource-utilization-and-reduce-ml-training-costs-with-the-new-profiling-feature-in-amazon-sagemaker-debugger/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/HeatMap.jpg"
-        width: 800
-        height: 409
-        isCached: true
   - title: "AWS SageMaker gets new capabilities"
     excerpt: "Will work to make it easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
     publishedDateTime: 2020-12-10T14:20:00Z

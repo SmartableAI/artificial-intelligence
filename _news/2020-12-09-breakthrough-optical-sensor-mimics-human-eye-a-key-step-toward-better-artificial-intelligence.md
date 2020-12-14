@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
-excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye's ability to perceive ch"
-publishedDateTime: 2020-12-09T15:00:00Z
-originalUrl: "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
-webUrl: "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
-ampWebUrl: "https://sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/?amp"
-cdnAmpWebUrl: "https://sciencebulletin-org.cdn.ampproject.org/c/s/sciencebulletin.org/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/?amp"
+excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye’s ability to"
+publishedDateTime: 2020-12-09T13:36:00Z
+originalUrl: "https://scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
+webUrl: "https://scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
+ampWebUrl: "https://scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/amp/"
 type: article
 
 provider:
-  name: Science Bulletin
-  domain: sciencebulletin.org
+  name: ScienceBlog
+  domain: scienceblog.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://sciencebulletin.org/wp-content/uploads/2020/12/Breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence.jpg"
-    width: 640
-    height: 360
+  - url: "https://scienceblog.com/wp-content/uploads/2020/01/pupil_eye_study-ao.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "YGTBaMy0z3AiIJSB5+YLc4q/T2tdNAw9mq9/e/CpU3Z031ARSog7tfh6GwYFiXJIur9rs6mlcQP8UnAx7S1lNwOVmJc0bnKTHqXgzYdAKk7NB1lNuOfuHU2Zosqv5Idi5Q89lovsqskA/jhAUbKUOqPdgUAQ7gPJT0Yw/Rja0Aw66bH9HsMcele/YSLmjzc4v3vl3i8iJmQahJREtFiGA+DA0CCEvJuGSnyE8FVa/WDfJVNLvJ9plIZegJ1tAEho+ZfhseMdNxhrBmDGRNzy5QvLvhPSuSd9l1duqTVVyXYcPpBrRzEDwcs60um1vqT5YnJlxDhjlmpiQoFbFL0YyRQEGBX6uqSdtnRzVat+fL4=;vHypYJ/zvcyDeBTAzYPpWQ=="
+secured: "kIoaXWcZtQVx2iSuCILezQE6Pt7lKBWzG+HfKQFG/OczwIkVEchs57rz0w0LQnFLK09N3r8KE1/n4HAFLvk86xGVMyE5JhYslaJzxF/BfS/9YQ4bS5JlQec+ByRUeYFvCsaLgFZjgfWJA9x/DZTWlS73XU9JJNE+k+KjJMLWOZIMTKa+sSCQ2iDfg3tkHqP4JGU0u2KfgTJHPIWIUuCJXnMNtLt6Xy3qhH91uM2xdxXYYS/N3TvwRihGZ7HTJz6vaxtG9Lo4Hh4nz2ntPi6YqWakGFW8ee3HINnkPM0B22119174AvIHYGg/4Y37/eg2HywXvBVRuynzxrWvGjr7kHvpB7DwEOTIrARM+HDrvaA=;3uzUe+kDuwDWqnPCGfygYA=="
 ---
 

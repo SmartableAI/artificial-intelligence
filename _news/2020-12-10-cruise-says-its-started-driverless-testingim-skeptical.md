@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Full Self-Driving System's Beta Developer Settings Leaked"
-    excerpt: "Fun options like 'California Stop' might not make safety advocates very happy, and what is 'Chiropractor Adjust Skeleton'?"
-    publishedDateTime: 2020-12-09T20:19:00Z
-    webUrl: "https://www.caranddriver.com/news/a34919792/tesla-full-self-driving-leaked/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34919792/tesla-full-self-driving-leaked/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/eowt33txcait6ee-1607535782.jpeg?crop=1xw:0.8056066176470589xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
     excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"
     publishedDateTime: 2020-12-10T04:52:00Z
@@ -108,38 +92,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/andy-wang-nfw2a9jgbsw-unsplash.jpg"
         width: 4709
         height: 3139
-        isCached: true
-  - title: "Apple brings in TSMC to develop chips for Tesla-like self-driving ‘Apple Car’: report"
-    excerpt: "Apple is reportedly working with TSMC, a semiconductor manufacturing and design firm, to develop a semi-autonomous “Tesla-like” vehicle, a new report suggests. Apple Insider reported on Wednesday that Apple’s “Project Titan” may be focused on developing technology that would facilitate the production of self-driving cars."
-    publishedDateTime: 2020-12-09T19:40:00Z
-    webUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/"
-    ampWebUrl: "https://www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/apple-tsmc-tesla-like-apple-car-rumors/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 52
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2015/08/Apple-6.jpg"
-        width: 634
-        height: 382
-        isCached: true
-  - title: "Self-driving cars now navigating SF streets"
-    excerpt: "After five years and 2 million test miles driven in all sorts of conditions, San Francisco-based company Cruise has launched its self-driving electric car without a driver behind the wheel for the"
-    publishedDateTime: 2020-12-09T19:09:00Z
-    webUrl: "https://www.kron4.com/news/self-driving-cars-now-navigating-sf-streets/"
-    ampWebUrl: "https://www.kron4.com/news/self-driving-cars-now-navigating-sf-streets/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/self-driving-cars-now-navigating-sf-streets/amp/"
-    type: article
-    provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 44
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2020/12/Screen-Shot-2020-12-09-at-12.03.11-PM.png?w=1280"
-        width: 1280
-        height: 689
         isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."

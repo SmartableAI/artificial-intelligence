@@ -57,38 +57,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "GM’s Cruise putting driverless cars on San Francisco streets for first time"
-    excerpt: "The company said it will test cars without a driver in the Sunset District, a neighborhood on the western edge of the city."
-    publishedDateTime: 2020-12-09T20:44:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 57
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OXYHJQPIYI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "GM unit Cruise sends driverless cars out, releases video of it to the public"
-    excerpt: "Cruise LLC has truly self-driving cars — no safety driver — on the streets of San Francisco. The company said it's going so well that it hinted at commercializing the cars sometime next year with the goal of taking the fleet to other major cities."
-    publishedDateTime: 2020-12-09T19:02:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/09/cruise-gm-driverless-san-francisco-video/3865123001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3865123001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3865123001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 56
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDTF/6bef53ab-14f9-4951-8c36-76b319b8af67-Milford_HeroStill_1.jpg?auto=webp&crop=3823,2150,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "6c6o+JsAA1ox7J8vDFG1aqkqspMzec5p/25K1DN2HQ62r5cH2OQYGhresBruiwCC4npTortQZH8JwgDJ1pe8QemJBprdff/qBOzXdLMl9zHTWDHCS0Yca2APQzHetX0mF1ysm0gg2EZ/WGD8lmrkwm7pOb2zT/pqEHZZwCsTaMcHo45A/N57IwPCrm7zYT7p855a/ImoMv42BUkDhzPeqSNq0Y9wuIgiATa7teX/EswyypjjVunnhN4y9pncJBjdVCoa/E9Mnso44qqN3PeTUpxJVwukBEeWrwFUHlarEe8SqhlUGWiP9RZpxsRJsfrJx8FPrEHduhTWdIXAlIl943cfyh7UUDI5T/G/aqgtbBI=;ffksJs+XUalSbRNh+AIpeQ=="
 ---
