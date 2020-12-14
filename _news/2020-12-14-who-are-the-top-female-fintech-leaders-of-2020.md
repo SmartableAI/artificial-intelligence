@@ -130,16 +130,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 3
-  - title: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack"
-    excerpt: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack Team Wizikey Powered by <<Wizikey Logo>> The Indian startup ecosystem has seen a tumultuous 2020 with a raging pandemic,"
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://yourstory.com/2020/12/wizikey-hottest-startups-2020-report-fintech-ecommerce-saas-logistics-edtech-lead"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 0
 
-secured: "J1j6ajoKZu8pG/ijzK1kBwiizd9e9/eIh68MAdSu3qVdv1etDt/KYnbshEkOWnCGeuVsQr79hFUndtAixyF269WKiK/LD1ERH/hkjdrPQ87uzHVKGSMGyDCU4wfK8M/I6xFlYu/lmwkoqMZVWJZv6QzX58kyQPVoGggEnh5kz6GAUj/4LfNqUUR+AXnwx81sAJm6gC+sgtUZh0koXkz9w4etbME8lyHwVkBBsspzSvG2kN3HCvogLn43ZL2gLtZJgDEzUnGFNxrHmSx6fu5JcxnOKS5ZC3j3+fbYYke/JAqviOqhncAk0dnRw0noAFqbclp05gF5KYB5kMPozt9cjQ31M3ceMszKBFbgJvR93Rs=;zPFGgoVaOQ0FnZ4XJdGWrQ=="
+secured: "ZN+Fzv49eYZXfTQK5RpfC80olnqndoeBKVThPlQSNxE+VcfVaW/BElDg+9a1QRTNFYzsCh5W9Rkd9xi2qeSUikHOBqWCSR7y4hl6CxQ3T74V0+vXml8biMzUdaxi9dNgG+45gY6rf5Y+nu0JSiu2pDUmurGqw9ruZxTsGwh31nBA03Fv7xVk4KevUfe4zBSY257qnD4jiNEAHfofrqke6Kwa7cpAMEyHUiQJ0extCVkL6XQEXROnAF2GgZdRi4ZHahABf/re+RAdqVeouT4HOJURnZ9hvmz+PQEim1+NnuHM2CbclpK+THhqGyUAfF/cDzr0b7S8Fw43kshkJENEep4ehvYSkBf57dX1VVQg4zNtxPZqXDPCI2j9WfUbs/iJso8buROdY4tXodluaQZ56ORzHuMFfpgp/MkVLvaLG/izhmGtTVsbeDzxqaOKbg7Voll66yXB0zZ8d9oZ8xKwasEYnpgaV/DdsZkhiVR6npf2jlJhJRKe9LNNH3uw7jZBaPi2jZMtK1YrzhZGALBseQ==;GpuSAIO8WETeJlBr7Dangg=="
 ---
 

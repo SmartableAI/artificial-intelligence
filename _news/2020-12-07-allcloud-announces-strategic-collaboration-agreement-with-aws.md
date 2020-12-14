@@ -2,56 +2,25 @@
 category: news
 title: "AllCloud Announces Strategic Collaboration Agreement with AWS"
 excerpt: "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations."
-publishedDateTime: 2020-12-07T05:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8097033/allcloud-announces-strategic-collaboration-agreement-with-aws"
+publishedDateTime: 2020-12-07T11:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "How AWS aims to democratize machine learning with cloud services"
-    excerpt: "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts."
-    publishedDateTime: 2020-12-08T03:53:00Z
-    webUrl: "https://siliconangle.com/2020/12/07/how-aws-aims-to-democratize-machine-learning-with-cloud-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 73
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/jassy-reinvent2020-pytorch.png"
-        width: 1922
-        height: 994
-        isCached: true
-  - title: "OutSystems Announces Strategic Collaboration Agreement with AWS"
-    excerpt: "OutSystems, a global leader in modern application development platforms, today announced it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). This collaboration will enable OutSystems to deliver deeper integrations with AWS services in the OutSystems Cloud,"
-    publishedDateTime: 2020-12-08T08:47:00Z
-    webUrl: "https://www.financialbuzz.com/outsystems-announces-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
-  - title: "OutSystems partners with AWS for cloud services"
-    excerpt: "Portuguese IT company OutSystems has signed a strategic partnership with Amazon Web Services to accelerate application development and adoption of cloud services at scale, reports Economia Online."
-    publishedDateTime: 2020-12-10T14:16:00Z
-    webUrl: "https://www.telecompaper.com/news/outsystems-partners-with-aws-for-cloud-services--1365191"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "TBPBJc26fpZRNdypVzhqniFEZrmIYMb2dRd5vA8giDGwdzAJnoFn43YraAzf8vmwsmASzGKYw2UAdBLKtdeDMQYFq954opCbkC/cxnkBAkFAKj8DLj2chwS8gdbfrXUbpTGfpVT+sttewbLbCb+LoCbytpz4LWCOeVnz+Pp9D4tFJtfn3jsQCAyxm6BThrbsdhXfqlg49sfMlnt7mXS1Y/2QHVcMO6mMv5vL1WOC8pAQq4MfwlDN8gVe2ngx7GB2ZpyHzDl6skIBvCUi9WbHJNVZJ3NCLGnvzgVtcxfCwjNYiieFXSCuk6WbSNYZWTAFiBlubjCka8gosPhaUjjlSh29l+rs2/45egkmTAguKVE=;Mx/CaJKSocvdcp4AYejhbQ=="
+secured: "oRyKmOFbCcZ/Pig+k4SsKZcfZE1E6c59GBJQVRFmsoibUKdQpcdBQ9dkGjjWSprG1yJKHzbG7b68NL6tWdrvWqMi7/4kkyD9CgTbPcYr4+cZjqZ32k2pkAv/NZb2t7tgXcppL9Ysy+qHsZqks28XhajrB/4sj24ZwBWQ3NM1317X7p7Hmc6zeaw3pSks3lXO6jnuocXzuurg23k9uyWq8FbTZC6GhqpPe7oHupP+faZqTXpwprXanWX27gC1azgKVRMmM/QUfY3+7XswbWlRpCZf9MwobAdqQGBD5ezMVlMRBjtQABW2aASPKYB7zccexAAligNWAJu4B/dUuebooI3LyaZPbmhscT0oxMQLLdM=;/VD7srfj4u+l5FngWTZhpA=="
 ---
 

@@ -26,10 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
-    excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
-    publishedDateTime: 2020-12-14T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
+  - title: "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2020-12-14T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
+    excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2020-12-10T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global 3D Facial Recognition Systems Market 2020 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2025"
+    excerpt: "A new business intelligence report released by MarketQuest.biz with the title Global 3D Facial Recognition Systems Market 2020 by Company, Type and Application, Forecast to 2025 is designed with an objective to provide a micro-level analysis of the market."
+    publishedDateTime: 2020-12-10T02:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2020-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2025-2020-12-10"
     type: article
     provider:
       name: MarketWatch
@@ -40,42 +68,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition for Automotive Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2025"
-    excerpt: "Global Voice Recognition for Automotive Market 2020 by Company, Type and Application, Forecast to 2025 published"
-    publishedDateTime: 2020-12-10T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2025-2020-12-09"
+  - title: "Artificial Intelligence in Manufacturing Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2027"
+    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Manufacturing Market Size study, by Offering, Technology, Application, by End-user Industry and Regional Forecasts 2020-2027',"
+    publishedDateTime: 2020-12-11T16:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2027-2020-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
-    excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
-    publishedDateTime: 2020-12-10T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
+  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
+    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
+    publishedDateTime: 2020-12-10T18:14:00Z
+    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-  - title: "Global Speech and Voice Recognition Market Trends, Forecast and Competitive Analysis Report 2021-2024 - ResearchAndMarkets.com"
-    excerpt: "Trends, Forecast and Competitive Analysis” report has been added to ResearchAndMarkets.com’s offering. The global speech and voice recognition market is expected to grow with a CAGR of 20% from 2019 to 2024."
-    publishedDateTime: 2020-12-10T15:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-military-affairs-military-benefits-government-and-politics-military-and-defense-0e869ceea0654dbca4908a647e71604f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 11
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "YscvIgAJAlAh0elbzxfkzLH0AM01Z26CseF0mHpHGio8g7foX1JZneaFxqxHglAEwesQ2Ng1XZ9fOnDS17AKZSZvi5m424Z/C+zOQxQHQbhZnH5RwsmHKlh5K3H4TZ1mkRI/Ei7F0NUgGY16CfbER4AB/Y4zfyRneHa4VuaIZ2BTyoZM096NBBLSc5em7Rwp2mCNWvA0pEtgGeUVzGtkhLbicj1t1wWalLfz11nwerr6wpt0E78oX+tEJc4OvrgXl9hYR5FdqNGlxBahj9iXrEBwHYHLQYMPDWIIDNp3PgHaWUstV3hfOedU0WewceV2lTwC+yroosAIRyorOkSePTu+mIsbPlFJTXO02kX5o0c=;067dwLhLwXUWsSewUUD0CQ=="

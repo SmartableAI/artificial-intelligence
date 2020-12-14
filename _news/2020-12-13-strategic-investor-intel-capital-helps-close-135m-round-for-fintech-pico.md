@@ -129,15 +129,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack"
-    excerpt: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack Team Wizikey Powered by <<Wizikey Logo>> The Indian startup ecosystem has seen a tumultuous 2020 with a raging pandemic,"
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://yourstory.com/2020/12/wizikey-hottest-startups-2020-report-fintech-ecommerce-saas-logistics-edtech-lead"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 0
 
 secured: "pzxV6g4SQRaxa2PO2Dfmy+xUhepKMW/y5K9n7ogDjgnQPjrVmd8o0Tkt4O/KBvLgD50iivRIi0Az+ruXs+AVO45CTIOPbnRbo66LlrUUCJ9tG+7K51iyHj5UydnQL9mjk9VgRTQssvNlLjk3QqR6kvxVV58nPs5hnCH5wWlReC7eVXAlGaMVyJoa6suN6jJu6JXFvY/I1jUEeFl8xpPRnaeKw0Vnm4awf95QZkiN2HaBN9PdZoOCXjtgns2da2faMyTfCxwJqs8toRWowzBXw4vz5GR6SXpkicc8I162dUVdw4ne2VpZ7zSMNZfOaZ522cfrx/wsN4UFbG9Okx9HGV6j/v87CheQVYYKsrHjq20=;ZxbYcDZhNJs/WA4UWIYXuw=="
 ---

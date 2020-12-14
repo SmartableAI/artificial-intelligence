@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/johnson-controls-microsoft-c
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-microsoft-corporation-integration-openblue-azure-digital-twins-azure-co-2900-ga-co-14053-ga.1607678154.html"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
-    excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
-    publishedDateTime: 2020-12-09T16:02:00Z
-    webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 69
-    images:
-      - url: "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg"
-        width: 6000
-        height: 4001
-        isCached: true
   - title: "Johnson Controls and Microsoft Launch Global Integration of OpenBlue Digital Twin and Azure Digital Twins"
     excerpt: "Johnson Controls and Microsoft expand partnership with worldwide collaboration centered on Open Blue Digital Twin and Azure Digital Twins."
     publishedDateTime: 2020-12-09T17:16:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/09/AdobeStock_278828065_Editorial_Use_Only-1.jpeg"
         width: 500
         height: 300
-        isCached: true
-  - title: "Microsoft and Johnson Controls Report Collaboration on Launch Integration Between Azure Digital Twins and OpenBlue Digital Twin"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and Johnson Controls (NYSE: JCI) have announced a global collaboration to"
-    publishedDateTime: 2020-12-09T16:45:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-and-johnson-controls-report-collaboration-on-launch-integration-between-azure-digital-twins-and-openblue-digital-twin/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 26
-    images:
-      - url: "https://www.financialbuzz.com/wp-content/uploads/2020/12/shutterstock_1405194650.jpg"
-        width: 1000
-        height: 553
         isCached: true
 
 secured: "LZKB5+2sQ/qqd8s1al3zWYApP1aumkmz7k/TU5xc5M2im9BJ9yG9PMtCspoxx7Lbb/Qs5VFvXGKiF8pCZbfXHG4eMMalkiUWeIJXFKMbJyZC6pwLgmUd0yM81/l9iZ+fKRlDY+27JJxqbFnsyNQ6s7Hz9pRHrWY+44XlbspXYJY8GMlUJVbr2Qtxu+Fs3qHQUQURvgzXIRlLpCmC5MJmqaDquc352pQHzmCtDT5LnSnff4LbWiwdtpoEO85fwGUo7aGdNbHGjdQ50Pt6VnTs+5Q4b4XgWtfsDKIxaq2HbRSC+Gavtr99pdWWhSeqMro7NMWUVoM3e42SBw65/vSa8syVQ0MSW1rc43/rFTbTjUhxbtN2TUkhLnfELiy2AnF/9GBF6wG53ZJYbcg6BxB0AlfKnU5yihPZ8OrNQLyb8NmKvgMQIMvBpnOSLSiMeygA4S489qtnoB5Y/LlR8JPt4ZGqhRbxkhZn8k6yy5SCZyiM77VKGA75EWf8xaoM5ZGbwPqA+MULWI3Ntdkn6Igf2g==;UOopkLzVrgaIEiZZyCuMig=="

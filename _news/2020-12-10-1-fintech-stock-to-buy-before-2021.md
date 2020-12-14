@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -134,15 +134,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 3
-  - title: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack"
-    excerpt: "Wizikey’s Hottest Startups of 2020 Report: Fintech, e-commerce, SaaS, logistics and edtech lead the pack Team Wizikey Powered by <<Wizikey Logo>> The Indian startup ecosystem has seen a tumultuous 2020 with a raging pandemic,"
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://yourstory.com/2020/12/wizikey-hottest-startups-2020-report-fintech-ecommerce-saas-logistics-edtech-lead"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 0
 
 secured: "xhmjxSuEykgdULaVk5QYPJwaO/gSPNo3jR15Q+iTWCdDzAntm69FosXKeyZKVd5DidMEKCahqoUHZY30vLZa6uRmOplm8rNJKwrKrCohQzc0VhgHJKcBb3AyB6KUqlVI9p8MhbtZ+3dvRPj2OA4h1FYnJ3Hc4f9l2cTDOtm8knPgiD6+zzvu2JMMiZN+WDPws/mFSckvPXkdbyo1WsBz35LSqnqH+cG2WxIhd9HG8x2rVxYVz/KHovZ34/ypdB2xmXqjkvMJIhjw3TY6wPjsUKKHVIaWWVnYRsEmjypoFQFBq/38Andhp7O6pVyQJdjLXK4ZwmZf8+XK1PQ3BVzimNmcTr8FjPDKpdKfI2B3nnFxFimnfIgTgckOJ/wEmvunhxh0/l3mO0xU6gMP5lbRqg5dkJRV83Hl6MRebZ8hgfK9VGcgSKKtRO1oGzaPfIrKvmS3xxh0j0LXG1GS4PAJvYqtN5nzjV/KEuStyIYaKp9dJ7LWGtI04svsXQU2nls2ZTvdClEaiGyywWfkid0cLA==;K/sh3Y8baS56AchiGNwFZQ=="
 ---

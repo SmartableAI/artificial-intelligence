@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
+    publishedDateTime: 2020-12-14T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Hardware Market Size 2020 Top Manufacturers, Industry Share, Regional Analysis, Types and Applications and Forecasts to 2027"
     excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) Hardware Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Artificial Intelligence (AI) Hardware Market Report also covers top key players,"
     publishedDateTime: 2020-12-11T06:59:00Z

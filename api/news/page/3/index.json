@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-10-how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur.md",
+      "title": "How to get face recognition on HomeKit security cameras in iOS 14 and macOS Big Sur",
+      "excerpt": "Once you know how it's meant to work, it's very easy to have your HomeKit security cameras recognize you and your family. It can just be a little frustrating when you first try to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur",
+      "originalUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/39262-75132-000-lead-Face-Recognition-in-HomeKit-xl.jpg",
+          "width": 870,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/12/10/how-to-get-face-recognition-on-homekit-security-cameras-in-ios-14-and-macos-big-sur/amp/",
+      "publishedDateTime": "2020-12-10T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
+      "title": "FPGA chips are coming on fast in the race to accelerate AI",
+      "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-216391.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai/amp/",
+      "publishedDateTime": "2020-12-10T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-745-billion-automotive-artificial-intelligence-markets-machine-learning-deep-learning-computer-vision-natural-language-processing-global.md",
       "title": "$74.5 Billion Automotive Artificial Intelligence Markets: Machine Learning & Deep Learning, Computer Vision, Natural Language Processing - Global Oppo",
       "excerpt": "The Global Automotive AI Market was valued at USD 2.49 billion in 2019, and is estimated to garner USD 74.5 billion by 2030, at a CAGR of 36.2% during the forecast period, from 2020 to 2030. Artificial Intelligence (AI) is one of the most advancing technologies in computer science.",
@@ -202,7 +300,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -297,58 +395,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-nearly-half-of-it-leaders-fear-ai-will-replace-them-by-2030.md",
-      "title": "Nearly half of IT leaders fear AI will replace them by 2030",
-      "excerpt": "Two-fifths of IT leaders (41%) believe that artificial intelligence (AI) will make them redundant within the next 10 years. Trend Micro research found that only 9% of respondents were confident AI wouldn’t replace their job within the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358066/nearly-half-of-it-leaders-fear-ai-will-them-in-the",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358066/nearly-half-of-it-leaders-fear-ai-will-them-in-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816887/itpro/2019/04/artificial_intelligence_head_illustration.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-moraine-valley-grads-written-work-receives-national-recognition.md",
       "title": "Moraine Valley Grad's Written Work Receives National Recognition",
       "excerpt": "Moraine Valley graduate John Guinta, of Evergreen Park, poem \"Mojave Girl\" recognized by League for Innovation in the Community College.",
@@ -400,7 +446,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -440,57 +486,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-artificial-intelligence-in-manufacturing-market-size-to-witness-huge-growth-by-2027.md",
-      "title": "Artificial Intelligence in Manufacturing Market Size to Witness Huge Growth by 2027",
-      "excerpt": "Selbyville, Delaware Global Artificial Intelligence in Manufacturing Market Report added at Market Study Report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-to-witness-huge-growth-by-2027-2020-12-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-to-witness-huge-growth-by-2027-2020-12-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T23:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

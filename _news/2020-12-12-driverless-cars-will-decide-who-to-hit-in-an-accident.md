@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
-    excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
-    publishedDateTime: 2020-12-09T17:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gm-backed-cruise-starts-driverless-av-testing-san-francisco"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruiseSF-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "cZXlkJdYV0LTw0mHJuJ3AQyjSUVN6HpBM01R0jqPS7/9lKhfTNOZp8wLlZa6PZyRAdOGWg+RGn4OfuSY+IWSQjGMTg6uQz6SBzUnbN31bhgrKBZE9ROC6pENqu1w6aDJRYV7piYs8ftPmmUpbAwdbXzk3mwN7UD1FI991BOi3m3NcppBsE+OGhXtntQDyfXpsi152t3Y+mnbNLlAoh/HfYtmvLFwx+7uSCy9NKyWcf5zoqNwTjKk5dgWcU2GFh7mkW3kpZaqjcrkAnpp2WWU5t7Tic0NCWLzqh0c587wgW6z5b8s7hOBgQFE2qdsRTZ1Kkf1q+jdsDqcpf0p951R0hATQ7+MLK2BLlJ258BgotE=;uoh6pJmgpdjKtUXQRr7Wdw=="
 ---

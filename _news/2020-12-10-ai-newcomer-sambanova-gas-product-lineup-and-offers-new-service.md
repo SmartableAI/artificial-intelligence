@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/2020/12/09/ai-newcomer-sambanova-gas-produ
 webUrl: "https://www.hpcwire.com/2020/12/09/ai-newcomer-sambanova-gas-product-lineup-and-offers-new-service/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova claims AI performance rivaling Nvidia, unveils as-a-service offering"
-    excerpt: "The computer maker has made its custom machine generally available for purchase, but also is offering it on a rental basis for $10,000 per month."
-    publishedDateTime: 2020-12-09T15:10:00Z
-    webUrl: "https://www.zdnet.com/article/sambanova-claims-ai-performance-rivaling-nvidia-unveils-as-a-service-offering/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "SambaNova unveils purpose-built AI machine"
-    excerpt: "SambaNova Systems Inc., an artificial intelligence hardware startup that has raised more than $456 million in venture funding, today is introducing its long-anticipated computing platform optimized for AI workloads."
-    publishedDateTime: 2020-12-09T15:24:00Z
-    webUrl: "https://siliconangle.com/2020/12/09/sambanova-unveils-purpose-built-ai-machine/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
   - title: "SambaNova Systems Announces SambaNova DataScale — Built for AI"
     excerpt: "SambaNova Systems, builder of systems platform for artificial intelligence and data-intensive applications from the data center to the cloud and the edge, today announced SambaNova Systems DataScale."
     publishedDateTime: 2020-12-09T18:41:00Z
@@ -52,15 +34,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
-  - title: "SambaNova Systems Ushers in New Era of Computing with Availability of SambaNova DataScale-Built for AI"
-    excerpt: "SambaNova Systems, the company building the an advanced systems platform to develop and deploy next-generation"
-    publishedDateTime: 2020-12-09T15:56:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/sambanova-systems-ushers-in-new-era-of-computing-with-availability-of-sambanova-datascale-built-for-ai/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 3
   - title: "SambaNova Systems Ushers in New Era of Computing with Availability of SambaNova DataScale Built for AI"
     excerpt: "SambaNova Systems, the company building the industry’s most advanced systems platform to develop and deploy next-generation artificial intelligence (AI) and data-intensive applications from the data center to the cloud and the edge,"
     publishedDateTime: 2020-12-10T08:43:00Z

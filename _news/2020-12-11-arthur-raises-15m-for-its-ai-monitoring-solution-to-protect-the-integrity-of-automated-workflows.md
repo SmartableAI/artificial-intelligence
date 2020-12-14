@@ -9,7 +9,7 @@ ampWebUrl: "https://www.alleywatch.com/2020/12/arthur-ai-monitoring-platform-dat
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/12/arthur-ai-monitoring-platform-data-science-adam-wenchel/amp/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arthur.ai snags $15M Series A to grow machine learning monitoring tool"
-    excerpt: "At a time when more companies are building machine learning models, Arthur.ai wants to help by ensuring the model accuracy doesn’t begin slipping over time, thereby losing its ability to precisely measure what it was supposed to."
-    publishedDateTime: 2020-12-09T15:39:00Z
-    webUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "Arthur raises $15M in a Series A round to fill the last-mile gap in the AI software stack"
     excerpt: "The team has seen firsthand that algorithmic bias and data drift are unavoidable, but that AI observability tools can help teams detect and combat these issues, before their models start behaving badly. “Our team has many models in production."
     publishedDateTime: 2020-12-10T14:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robots-mar
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
+    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
+    publishedDateTime: 2020-12-14T07:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market(2020-2029): Covid-19 Impact, Market Growth and Market Analysis | NVIDIA Corporation, Alphabet Inc"
     excerpt: "MarketResearch.biz’s deliberately crafted and planned business intelligence report named Worldwide Automotive Artificial Intelligence market 2020 reveals a brief overview of the market’s geographic scope,"
     publishedDateTime: 2020-12-10T16:29:00Z

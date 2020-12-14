@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
-    excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2020-12-10T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
+  - title: "Natural Language Processing Market Share, Industry Size, Leading Companies Outlook, Upcoming Challenges and Opportunities till 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 11, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
+    publishedDateTime: 2020-12-11T11:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-share-industry-size-leading-companies-outlook-upcoming-challenges-and-opportunities-till-2026-2020-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

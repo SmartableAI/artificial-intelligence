@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arthur.ai snags $15M Series A to grow machine learning monitoring tool"
-    excerpt: "At a time when more companies are building machine learning models, Arthur.ai wants to help by ensuring the model accuracy doesn’t begin slipping over time, thereby losing its ability to precisely measure what it was supposed to."
-    publishedDateTime: 2020-12-09T15:39:00Z
-    webUrl: "https://techcrunch.com/2020/12/09/arthur-ai-snags-15m-series-a-to-grow-machine-learning-monitoring-tool/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "Arthur Raises $15M for its AI Monitoring Solution to Protect the Integrity of Automated Workflows"
     excerpt: "Arthur, cofounded by Adam Wenchel, is an AI model monitoring solution that gives teams the confidence that their deployments are performing as expected."
     publishedDateTime: 2020-12-10T19:53:00Z

@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
-    excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-10T15:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=390843"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Global Speech and Voice Recognition Market Trends, Forecast and Competitive Analysis Report 2021-2024 - ResearchAndMarkets.com"
     excerpt: "Trends, Forecast and Competitive Analysis” report has been added to ResearchAndMarkets.com’s offering. The global speech and voice recognition market is expected to grow with a CAGR of 20% from 2019 to 2024."
     publishedDateTime: 2020-12-10T15:06:00Z

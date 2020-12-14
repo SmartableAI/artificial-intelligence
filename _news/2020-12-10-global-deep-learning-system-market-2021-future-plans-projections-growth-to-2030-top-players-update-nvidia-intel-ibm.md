@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-sys
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,75 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice Recognition Market 2020 Booming Strategies of Top Companies, Progression Status and Business Trends to 2025"
-    excerpt: "The contemporary development prediction report titled Global Voice Recognition Market 2020 by Company, Type and Application, Forecast to 2025 offers complete guidance which provides an investigation of the most recent market patterns like market development openings,"
-    publishedDateTime: 2020-12-10T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-booming-strategies-of-top-companies-progression-status-and-business-trends-to-2025-2020-12-09"
+  - title: "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2020-12-14T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global 3D Facial Recognition Systems Market 2020 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2025"
+    excerpt: "A new business intelligence report released by MarketQuest.biz with the title Global 3D Facial Recognition Systems Market 2020 by Company, Type and Application, Forecast to 2025 is designed with an objective to provide a micro-level analysis of the market."
+    publishedDateTime: 2020-12-10T02:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2020-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2025-2020-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2027"
+    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Manufacturing Market Size study, by Offering, Technology, Application, by End-user Industry and Regional Forecasts 2020-2027',"
+    publishedDateTime: 2020-12-11T16:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2027-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
+    excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-12-10T15:39:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=390843"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 16
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
+    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
+    publishedDateTime: 2020-12-10T18:14:00Z
+    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 11
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "gG2iclSGjBapoujWjsaGFIMlndRuS4xwQIEtO4mfsq26yV3tjIp7+EXorVPjUUL/+4GVBJwG5dPgDrZtpDDVtSWVZsUU55HQw1veCcKJ1Y8TgfYGsSZBCEA18CPeePmdGPCu/rN187i1U7tkbUpABONNGhumtGKKfRYfLgHDCfsN5KdaGfKoJJ/pZVj5Acdff5SxW4I/2DhtjYh2n45BXwIDO9b9YkCEdCWnFLgMeDFKVMZPqsMTa+AYTCLQ3ZaWzjU3Oq60m8VuY+ypX2zKWedkNEoCJWejkJrlcRawQd2fSoSNJ7NZV+p4ScAOsEbVQT+vN0Cmlti7O/9xbwJBFOs2aW0O8om1+ei5bfpXCbQ=;90sK+oLkVX10vQgNzseEdA=="

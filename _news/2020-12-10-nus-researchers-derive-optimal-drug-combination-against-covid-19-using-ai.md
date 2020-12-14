@@ -71,15 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How AI is Helping the Covid-19 Vaccine Roll-Out"
-    excerpt: "A dvanced technologies such as artificial intelligence, machine learning, and natural language processing have been deployed in the battle against Covid-19 since the pandemic’s earliest days. It started with the ability of AI to track the spread of the disease in order to limit the number of positive cases."
-    publishedDateTime: 2020-12-09T15:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-ai-is-helping-the-covid-19-vaccine-roll-out-2020-12-09"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "NUS researchers finds best combination of available therapies against COVID-19"
     excerpt: "Researchers from the National University of Singapore have utilised a ground-breaking AI platform to find an optimal combination of available therapies against COVID-19. The research team identified the drug combination from over 530,"
     publishedDateTime: 2020-12-10T15:53:00Z

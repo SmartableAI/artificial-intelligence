@@ -1,23 +1,24 @@
 ---
 category: news
 title: "Xanadu's PennyLane brings Quantum Machine Learning to Customers with Amazon Braket"
-excerpt: "PRNewswire/ - PennyLane, Xanadu's open-source software for differentiable quantum computing is now integrated with Amazon Braket, a fully managed"
-publishedDateTime: 2020-12-08T23:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
-webUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
+excerpt: "Xanadu is working with Amazon Web Services to deliver an integrated programming framework for variational quantum computingTORONTO, Dec. 8, 2020"
+publishedDateTime: 2020-12-09T08:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/xanadu-s-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-1029875399"
+webUrl: "https://markets.businessinsider.com/news/stocks/xanadu-s-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-1029875399"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "EZSN+hEqMvBLk2Dt46XDNPA0q1o48WTSkFYxeUgNtr97iHjURR+RDwyE/T3HO6f2/WNqD5Tiqs9DWGm79/jI3QvTDYzm5BXcRmdan3JF/4A2ib7nJDjqEDAkt2PdIysEZGU/71xInh2Ly2DuYJAuGOHImF1Osq5x8Q2zp54jDfiWGBRVritjaY4GspaUFnGavGirJE5l8zJ61o1PQSqiefHejXeS+Q6SdQPfjzQe4i/Pt2cDAF2nond9ipAp5jM/9kDihJz0sQbjvUckMstazIj+tE+EfbrUl5JZaMWzgQEmONmGBulp7vbySp8N2qGaJIoqZXLPx+vPijE0NDVkd3mhycmqyWjOcJDD35H6r/o=;MNy6Y2w/OSnueYRlteHwZQ=="
+secured: "KuHaAahHRwucSLScdK7g7+EKhasJrroMnZx2+D6UDzjTRHUpD6uQ26WB7svHUnhT3969aS3UIEGOU3N0jrbZQzLkwtMHN72D1eW2G+eze5/eH272U4/7ED6yD0CT+1tMcmRiIlJPegnhR8cVovRZKIE8A4A661n0MYait+npq29UlNM/qVQFxROS3j0qNtWSfA5Zp+rr7iI7m6+cudUzv5kMAUuvyYDLGu/6dDD7UIL7LYWUrPomYmth98wHawkJzJ32o9t9WfcyAV6JbmJSnN9oj3izrccEa+GUrLVE3VruyKtUa4hUZR27eLco0NIXXE0L3zwvVHZdxiaM4vJFf86IqOuu31BfnKtUNhW9r34=;iVu5jBeQAaUM3zQodetC9A=="
 ---
 

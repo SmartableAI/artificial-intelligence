@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-is-expected-to-grow-from-usd-21-billion-in-2018-to-usd-361-billion-by-2025-at-a-cagr-of-502-2020-12-09"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Healthcare Artificial Intelligence (AI) Market To Gain A 51.9% CAGR By 2023"
-    excerpt: "Healthcare Artificial Intelligence (AI) Market – Overview The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market."
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-to-gain-a-519-cagr-by-2023-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
 
 secured: "lXj4006KBnLND1l1NyEIv6w298dlV3OaVAQgNcdQY45XvXFzngbcDTcqIcvOcgMgCPAvQ978E3DmauamT983PIUEvu/zfb3EvoTlXaOw0YVjb6swfQedVEHChUipVTACpismRLT0tBJJhoVqdrrC/TxHObIQgdi5lFpi5v/Kq6uq0e2Bd3uKbzTkaRZGsgIpnTnQPRKK2d0f1aVGUQ0DDHY1aNCblnOlXaHd+uim9V9Pqx+hDGeD3mOaQnMTPC/wZO5VsgV1KTYdx4Op9Uyw8Q4ysZlBClh0d0aVP5fp1eJk8x23JX+POnTHHfFYqcuQ8K29uu/9U8MLMXScu6y5lF8rxQgJr7r5fVHPUZ8ch4o=;DA+TI2ez/vDc7AxafoFvDA=="
 ---

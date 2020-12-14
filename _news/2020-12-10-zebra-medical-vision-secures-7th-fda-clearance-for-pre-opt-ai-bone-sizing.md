@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/israels-zebra-medical-vision-secures-7th-fd
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israels-zebra-medical-vision-secures-7th-fda-clearance-for-pre-opt-ai-bone-sizing/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1984
     height: 3051
     isCached: true
-
-related:
-  - title: "FDA clears Zebra Medical Vision’s X-ray modeling AI for orthopedic surgery planning"
-    excerpt: "The artificial intelligence developer Zebra Medical Vision has received its seventh clearance from the FDA for its programs, the latest enabling X-ray images to be used in place of CT scans for certain aspects of orthopedic surgery planning."
-    publishedDateTime: 2020-12-09T16:00:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/fda-clears-zebra-medical-vision-s-x-ray-modeling-ai-for-orthopedic-surgery-planning"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 33
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1607530013/spine3_0.jpg/spine3_0.jpg?8_B5sbaaVyr7x_MXl12Q8tIJPqigC5_6"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "0s1fiYZjbMsz3KFct1CJD4TRsPFljK4bszY2/ysN1N3NaMWvVrENnsG+35TzQ28zaXsMvvLJxxAssSNlOMfqSjLth5mj4SuKfP5uJryprI3df/hmXdccD8CEVe6ue8sSvnRLZsbezE2eWdNW6WF6CdcCdOYdo/8RCo0L5GVTL4d9JtoFYgJsCWkzP7eUumy210HKJWPyUaTeYf2UfH6jNeFjVJwEU0swtPvjPaKAqh1Lwc7fcOfUN/fNIBUcKtrF/ytvwDxgqYKGD2J8DEnsEM6QtAFCwhatZvIeu7U1sk9RwhpnxtRLYDt2yCtAYUfWshd78RQPqEDi7QXj4C7FSdc8hAIzyXfquKRivQAS3nrf1x9gbPMqrXn5FNEQpb89MT0wPKl1u0VRA3FspeZt4IBkC30W0UinAfHj9PK1IbnGRCcLK+LvzNk0iR5/VnECFb7TXyFM72DjHEAgBgg50KVBOo858PVSRaiRuHClIzcJypz0bPBT6vs0HfCxm5EVtJLWT0aOxm2XddHzko98Ew==;SRRuVQfCj06kJdg61EgyIA=="
 ---

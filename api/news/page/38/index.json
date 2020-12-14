@@ -2,6 +2,179 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-11-14-ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies.md",
+      "title": "EY India acquires IIT alumni backed AI startup Spotmentor Technologies",
+      "excerpt": "EY India has acquired an artificial intelligence backed human resource technology startup Spotmentor Technologies. The company, however, did not disclose the financial transaction involved in the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/india_startup_505_141120045507.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html",
+      "publishedDateTime": "2020-11-14T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
+      "title": "Google ML framework TensorFlow hits 160mn downloads",
+      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-14T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence.md",
+      "title": "Nigerian govt to create jobs through robotics, artificial intelligence",
+      "excerpt": "The Nigerian government is planning to harness from the potential 60 million jobs predicted to be created globally through emerging technologies of Artificial Intelligence and Robotics. The Minister of Communications and Digital Economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/",
+      "originalUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.withinnigeria.com/wp-content/uploads/2020/04/03/pantami-understanding-the-shining-star-and-his-detractors.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-withinnigeria-com.cdn.ampproject.org/c/s/www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-13T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Within Nigeria",
+        "domain": "withinnigeria.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-source.md",
+      "title": "Uber in talks to sell its ATG self-driving unit to Aurora - source",
+      "excerpt": "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K",
+      "originalUrl": "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T30K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K",
+      "publishedDateTime": "2020-11-13T20:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-velodyne-aims-to-price-new-self-driving-car-sensor-below-500.md",
       "title": "Velodyne aims to price new self-driving car sensor below $500",
       "excerpt": "(Reuters) - Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne ...",
@@ -1033,215 +1206,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
-      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
-      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
-          "width": 498,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together.md",
-      "title": "OpenAI proposes using reciprocity to encourage AI agents to work together",
-      "excerpt": "Researchers at OpenAI propose a new technique to encourage AI agents to work together to solve complex challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
-      "publishedDateTime": "2020-11-13T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-5-ways-to-celebrate-tensorflows-5th-birthday.md",
-      "title": "5 ways to celebrate TensorFlow's 5th birthday",
-      "excerpt": "Five years ago, we open-sourced TensorFlow, our machine learning framework for research and production. Our goal was to expand access to state-of-the-art machine learning tools so anyone could use them.Since then, TensorFlow has become the most popular machine learning library in the world, with over",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
-      "originalUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TFDS19_411_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
-      "publishedDateTime": "2020-11-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
-      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
-      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
-      "publishedDateTime": "2020-11-13T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Keen to use blockchain, machine learning and open APIs in public service: FinMin"
-    excerpt: "The Centre is keen to promote use of technologies like Blockchain, Machine Learning and Open APIs by all three levels (Centre, State and local) of government to enable delivery of financial and other services,"
-    publishedDateTime: 2020-12-09T15:41:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/keen-to-use-blockchain-machine-learning-and-open-apis-in-public-service-finmin/article33291560.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 31
 
 secured: "10N8xQju2mkvoxYW4jB7BfwEQvj1lFvwh3Zrm33zRWYWzhizswvVvZQwPmayrxPMxTcF+KbJ+VyZa+ts6DW3j7wdHCMoeU5HvSeg7cRkDekCdo7THCWQGtG1ZPD3poFfEcyNWkGTFhJg3tWlB3Zmz15kbiAHu06O9yQVj2nPiYSL1gB2SQSFfnmuDuwyG3//I5+hq1a9kkPhuxc3ka4OZjrs1zm14f1rib8x86LW5x6C0z3gzPTLQKEg/9xvuzzoi5fxA96bgFW9jDfqqU+04CJMcbkM6vAyfb+SxhhR9djQ75oylpieSlkfcE2kc+JXLrq/qFpdduHlelybArAIasKDpRcrDFwe5elrZIvu8VA=;JNTAhR5/Iw5EFISXtvJi3w=="
 ---

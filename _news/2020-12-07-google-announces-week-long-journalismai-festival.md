@@ -2,25 +2,25 @@
 category: news
 title: "Google announces week-long JournalismAI Festival"
 excerpt: "Google on Monday announced a week-long JournalismAI Festival to help address key challenges such as using artificial intelligence (AI) to understand, identify and mitigate newsroom biases and increase audience loyalty."
-publishedDateTime: 2020-12-07T15:03:00Z
-originalUrl: "https://www.dailypioneer.com/2020/technology/google-announces-week-long-journalismai-festival.html"
-webUrl: "https://www.dailypioneer.com/2020/technology/google-announces-week-long-journalismai-festival.html"
+publishedDateTime: 2020-12-07T00:00:00Z
+originalUrl: "https://www.imdb.com/news/ni63119670/"
+webUrl: "https://www.imdb.com/news/ni63119670/"
 type: article
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/google-announces-week-long-journalismai-festival-2020-12-07.jpg"
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
     width: 1000
-    height: 800
+    height: 1000
     isCached: true
 
-secured: "ASmlaIvjEetsRtlHeus4eCPShqerXPzmtV9RO3yTrNPSBGclAQfB28QAfVwjSwEUOaXVW8JKr8lIkkwcgXKHIcSl8JOA3MNoJoiYpsz3DXxbrvtQorGfwzz5JTxs0QsAX269t1DhAMleYpr7HwlV4qNjeJGMF//7tVR+B8seyouNqb9aERzsXKXxsqkSOUS3Ttz+Fr7CQ/8QWJ9wJGvQyFO0uxP0031ccAACGNW7slBz031+6ZD0EuMa/D5YUFwTi2ToeQtWgrjyBjH34eQu+ZRm1luXf4twtbvTFulgvIrw4/tqik02xt35m8yq7GY01mVlFnvF5SSL69jaituBlPL1SNd9IJbiiGJTtbhEx1U=;F4KNioQaktSOL/5wHO6zNg=="
+secured: "Qg1uuCk8c8FpMMLExmTL5II1+pUmkP1LWV4zFKPHnzlARrfyjDPmHgjFfb3OcYUKWZ/sJFI/+1IF8HHBxSUw5wa+cdHLG7er31lxhQyDfk2rjE4dcSbJmHNFY23CqEZ/xRdgryo+ORp5fWfEFh4j5iT9bsy92gkTKIgYdiUcox7cNihszC6E/YrCN9FV4jIEgx2d/P/KWCNm0xBgc3hDuIWfejMZfx+IW+ltakyS1uq6CLPEWTDJ3boiWASTdejEavTWy5QXL9OqFh/QVeHUqhcIbhm3W0V0KBNB1O/bUTUU/9QSPE8n3MH3KmVX0CdJyhrtje8nHIUBStFQb8VA7lpEpop8+4xP+ywE7vTSLqw=;NLVUCOClmjLpCIzvohTt6g=="
 ---
 

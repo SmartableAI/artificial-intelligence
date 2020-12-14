@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
+    publishedDateTime: 2020-12-14T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yOKjcdrt9pOz+4ATVMlMFGLH7Mk35H1duxVv+frxUIVqA0e39d/xf74nndO4TF3skvfHco2zor+DBMrzGX6U7x0+ryxlwkatuUs6wJmfAmT8oxwZGJc30dGZ05/sWYsG2IB9bd9/X9R3D2DPwQO86jhsrmTz9JLctI71gs0jySfTrIWODUxHQwodIxYpmrpw3KYBUcPM+ETeskW05tZzo6SPg3YsXo9ztLwsY9ymWEiK3FAVJMD5f4O4h4JEBC6qs4Mw6UmN9LMb5S9McCgchSnP8thxUl+ke1cGZMWwXhRLxYJ9jBz6F/j/UrfIHJ8UNHoICy44u1jF6HE3Dn2uLEzFpSFkSkRJI+vmGi4qZJQ=;K3eNKjaj/6YgyogMq5dveA=="
 ---
