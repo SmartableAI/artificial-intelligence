@@ -103,6 +103,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Driverless cars 'will decide who to hit in an accident'"
+    excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
+    publishedDateTime: 2020-12-11T23:45:00Z
+    webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 39
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/6178078/"
+        width: 2400
+        height: 1595
+        isCached: true
 
 secured: "vbKjhjJzFdsjx7B7pIemTcGqmYs3x/BW2ohhYumphu9Km6EE/ZuSZJcksdAmHXNMeqCkYhOFH7pRdfEZHRJ7M/EZ12z8Oe90Rp1wmjRK0B5Wjb+XY53EQyivw5654/RUxzPWtQSKIn9KPKaFW+1BJr9BVZGd1K+rGt8hwjdbUW5QZW2kI7O37j/nIu0Pb0ZxzPTcxuoqL0mrPD3dSBu2ObtyIiyhoIMcQEr9V50pxss7YHFdU/GeDD6cJ3LC5EMEwow2u3qFIQpCghjEtXEN8yhW34KxQYxuxZr48/bSoEBJMsWKPkgBjBiYQQwzjGCqcfUq/VSpQruoIhC61xIk5M7GQGFObPSUI35kHdzm96Uh3rWkTMFf7tIR/YEqJFyM+6qhLVuHHlMTTYlf6swQaHMRvhbtFg22/9XNak1TupRMa6OOLe5aNlr7mQZBUXVc1udnveRrztUqrTx3KHDB9Rhs6Za7PD6/flXLRtSBbcZK7E2aksb6vQsnNd6iorws4SfqIAbwWal2kWOMP6KBKA==;4+EAbFxo2dbDUwz2xbOEuw=="
 ---

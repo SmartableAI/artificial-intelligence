@@ -9,8 +9,8 @@ ampWebUrl: "https://vancouversun.com/news/local-news/researchers-aim-to-use-arti
 cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Vancouver Sun
@@ -24,6 +24,19 @@ images:
     width: 1000
     height: 750
     isCached: true
+
+related:
+  - title: "Researchers aim to use artificial intelligence to save endangered B.C. killer whales"
+    excerpt: "Researchers are aiming to \"teach\" a computer to recognize the sounds of endangered B.C. orcas in order to develop a warning system for preventing ships from fatally striking them."
+    publishedDateTime: 2020-12-14T00:37:00Z
+    webUrl: "https://globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/"
+    ampWebUrl: "https://globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 45
 
 secured: "beInQwDQ+a6T/oNOQznS7MCtq9FkD9cqZfM8INzNcF/IJDlP3V65joZ6hw1b3w4HHSyQpN1A/Fqaix23Hq90qLmfGssl6ey1p0xBLBN3zzKli4bj3hhlUMluXjQ08T3tpAkOSt+iuxBGpDQi96HFtMLLJKqmuUp7Zu/C+EbVlmjauI4TL25sNaXT6OZMvcs4I/udMkAr9Zi8JfRxdyhR3Ot8nrdtx6S/rgG53Z8yDiClDRJtnuVwiBrnrwcZ9KLyjhKN8M2ngX/yCuhB1eWe5kT72vi9UubVmeubv/8IsiY8cb+sfz03uHvWRVg2bOdjDN6toPnOHuj/GrypbBA2FC/qG7GrjuRsWSZCYlfGMqY=;QSr2x/WtOJvnWyxHGxkTnQ=="
 ---

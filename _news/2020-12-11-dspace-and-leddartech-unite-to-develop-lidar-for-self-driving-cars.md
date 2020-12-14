@@ -24,19 +24,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "dSPACE and LeddarTech Join Forces to Drive Development of Lidar Innovations for Self-Driving Cars"
-    excerpt: "PADERBORN, Germany, and QUEBEC CITY, Canada, Dec. (GLOBE NEWSWIRE) -- dSPACE and LeddarTech®, a leader in level 1-5 ADAS and AD sensing technology, have"
-    publishedDateTime: 2020-12-09T07:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18707007/dspace-and-leddartech-join-forces-to-drive-development-of-lidar-innovations-for-self-driving-cars"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18707007"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18707007"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
-
 secured: "MiBTA05J/TIZareLVAcoLolIWbhMMLA5WjhHVeNGiJqaS16O/fR/4Vx0r+/U8C8l5uvNyFbvV1pV9eegjd41iHTSVXpN87yJ7mqbSc1joaXUEIqOgsO+HoCsnE+bs3fq65wk7D67zbcMKRhllDKljVuT0W8JpzhXTHWd791P3xrywA2+BRAhvYexB0JVTTEtMXx6jBng8CRwFCLzeQP2RXhmgxd96z4n+49Y17OP/O5rCfUN9Gl0OPqEsxEBQ+0j6NMiKvMvZk4y3+cLUl2J/KBCRq8rhQpkDlS6/TWo0p3ka2vQw9grYZqqHReq5qgMeWQ2ldPt7C3zWCYNbv872Mrjha4oS152tTHvylaZv6Feepd/Hpv4jWeN58/D7GR2zHvZfS4at56Pfz0i7Iazq7y/raoPag21ffuSLGaNug+JcXLzNBGBAgcC15DMaOchbu0shgxADKrZhJIaA1iij4qXNmIJ6cEzyPGCfHPTNe+IdpBtKissqD9qxXSn0Nuh1jETtHbUp2ogaQjTKw9wrQ==;Jew9KUf+PjV8EfAFVMvd6A=="
 ---
 

@@ -52,17 +52,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Huawei worked on a facial recognition system to identify Uighurs in China, says report"
-    excerpt: "In today technology news, we covered about the Huawei worked on a facial recognition system to identify Uighurs in China, says report"
-    publishedDateTime: 2020-12-09T08:43:00Z
-    webUrl: "https://www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/huawei-worked-on-a-facial-recognition-system-to-identify-uighurs-in-china-says-report/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 31
 
 secured: "Js/ncUYbvreXleYk2cAAFCDKdum6CWFw25VFRq/XHLr+4mk4TqFSvib7ZZWhe4cYYIOykbTW7I5XXVQvNg/ERUg1kuB17lHC+FvbrFrqM81OVz3gSOJuCMj0YlCWCBiDtuM3gQoB3rAAJ3irKrZnXyNvZgYw17S2bXiOaAddjpKvrx7In3XNwUP+3ODfjv8jhCpjjxsybyYhIrllg9cfiU7BEvqfPnrejaejruWL2Vw1UvOHcQCn34twebkoFJHLCbd06XUWsfPJW00P637BoTX5v8gkoXLOnzOfn+8Jf/JJomry3Z5wNE8qNGoH1DeXbvuQxaZZc9Wc0OwnONgtSPGl1QCf+ZW4eOPLKo0stjs=;pjeRURMxzgo3cwSlCGO72Q=="
 ---

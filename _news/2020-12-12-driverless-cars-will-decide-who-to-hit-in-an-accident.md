@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
-excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."
-publishedDateTime: 2020-12-09T19:40:00Z
-originalUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
-webUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
+title: "Driverless cars 'will decide who to hit in an accident'"
+excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
+publishedDateTime: 2020-12-11T23:45:00Z
+originalUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
+webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Travel News
-  domain: businesstravelnews.com
+  name: heraldscotland.com
+  domain: heraldscotland.com
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.businesstravelnews.com/i/BTN-footer-logo-no-tag.png"
-    width: 600
-    height: 398
+  - url: "https://www.heraldscotland.com/resources/images/6178078/"
+    width: 2400
+    height: 1595
     isCached: true
 
 related:
@@ -89,6 +89,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
+    excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."
+    publishedDateTime: 2020-12-09T19:40:00Z
+    webUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
+    type: article
+    provider:
+      name: Business Travel News
+      domain: businesstravelnews.com
+    quality: 54
+    images:
+      - url: "https://www.businesstravelnews.com/i/BTN-footer-logo-no-tag.png"
+        width: 600
+        height: 398
+        isCached: true
   - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
     excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
     publishedDateTime: 2020-12-09T17:00:00Z
@@ -103,21 +117,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Driverless cars 'will decide who to hit in an accident'"
-    excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
-    publishedDateTime: 2020-12-11T23:45:00Z
-    webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 39
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/6178078/"
-        width: 2400
-        height: 1595
-        isCached: true
 
-secured: "ooOCO8crnCqAwH21fIRoI1HkH4gH/0Ny8qAE7ncmcKAayx0z0NzcAlizSosthuh4zP4Pi9Vg6YYPIbxG35e1J18qMEwG5Ql80FUd7WLd07FBsyEoZ/RBhn2mlykZXmAyTcz07Ho+e+hCFptWM/xiQdwREQM7ENVnwPTIJDDlsa6mFPcS0dM7k3m6RfHs9WunGb5ITZS1HkEoLxpxttvr8W+NcTBzeANRKTGp624rzonQeCHQONDy7r1GIq4o49R5XgBOx7o+Rxu5Ll0IH81vFQ0hj7iFb7+DZsMslkCh8+G2UmQWOXer1GGG5UrzhgIeMT0Es4GLJGj8j+HJehl5GE0XMZXDR6dy8MZxq23ipvQ=;490+aRHkaqj0BfYMwp1exA=="
+secured: "cZXlkJdYV0LTw0mHJuJ3AQyjSUVN6HpBM01R0jqPS7/9lKhfTNOZp8wLlZa6PZyRAdOGWg+RGn4OfuSY+IWSQjGMTg6uQz6SBzUnbN31bhgrKBZE9ROC6pENqu1w6aDJRYV7piYs8ftPmmUpbAwdbXzk3mwN7UD1FI991BOi3m3NcppBsE+OGhXtntQDyfXpsi152t3Y+mnbNLlAoh/HfYtmvLFwx+7uSCy9NKyWcf5zoqNwTjKk5dgWcU2GFh7mkW3kpZaqjcrkAnpp2WWU5t7Tic0NCWLzqh0c587wgW6z5b8s7hOBgQFE2qdsRTZ1Kkf1q+jdsDqcpf0p951R0hATQ7+MLK2BLlJ258BgotE=;uoh6pJmgpdjKtUXQRr7Wdw=="
 ---
 

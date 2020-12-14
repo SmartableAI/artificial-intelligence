@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-bc.md",
+      "title": "Researchers aim to use artificial intelligence to save endangered whales in B.C.",
+      "excerpt": "Researchers are aiming to “teach” a computer to recognize the sounds of resident killer whales in order to develop a warning system for preventing ships from fatally striking endangered orcas off British Columbia’s coast.",
+      "sourceUrl": null,
+      "webUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c",
+      "originalUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/12/241629645-whales-w.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/",
+      "cdnAmpWebUrl": "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/",
+      "publishedDateTime": "2020-12-13T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Vancouver Sun",
+        "domain": "vancouversun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025.md",
       "title": "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025",
       "excerpt": "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025.",
@@ -1190,7 +1232,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/361483",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1229,49 +1271,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-himax-teams-up-with-edge-impulse-for-ai-chips.md",
-      "title": "Himax teams up with Edge Impulse for AI chips",
-      "excerpt": "Himax Technologies, dedicated to display driver ICs and timing controller (TCON) chips, is set to accelerate the development of AI chips in 2021 through a recent collaboration deal with Edge Impulse,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20201211PD205.html",
-      "originalUrl": "https://www.digitimes.com/news/a20201211PD205.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitimes.com/newsshow/20201211PD205_files/1_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

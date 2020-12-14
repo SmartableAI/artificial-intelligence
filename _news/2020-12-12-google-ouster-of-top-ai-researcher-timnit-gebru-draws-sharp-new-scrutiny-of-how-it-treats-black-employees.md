@@ -2,19 +2,19 @@
 category: news
 title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
 excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
-publishedDateTime: 2020-12-11T18:52:00Z
-originalUrl: "https://www.indystar.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
-webUrl: "https://www.indystar.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
-ampWebUrl: "https://amp.indystar.com/amp/3889402001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3889402001"
+publishedDateTime: 2020-12-11T17:49:00Z
+originalUrl: "https://www.cincinnati.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+webUrl: "https://www.cincinnati.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/3889402001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3889402001"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Facebook AI
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "DxZk1Jxk/I20Xcpch0a7EcBdwf4v4aVlaIuLJ+e/2bD5ns1GonNXuII5w2/p23mSVgWFP9OhG+pkHiAz79zrUnHmgaJL5c2pYCIfahB1nhT34IVKzAEil2SWDMT428ijITW4Bfm3tsRweomQlAYS/TiUpb4KMt+pMmpRuegh1gAUF13yIPDhT7YjEtLG7+E1REj+JrYlawDkzrd/FjzOsTpdpA5GTnh2WXbkT70wNj5JL2InGQhkT0iVac/ELhxQuv8SyzVPnApU0sZCK89fONEATmQcLdN3xYYFhehg/vckO19q8b3foNXnL6eSNnEhrbwx1UfT0mrpNeybEYmlhaHttuU4RiCT/8gkh2UARBY=;uvMuwXYsADKnfw4ivbmhfw=="
+secured: "s1CksTsJyzxsLmC9a3vx/R+lFp3pTibjCPV0TwKrpnkqhmuy1xhgrArHNTxXbtf6GikJSAU34ZFbGbd2G2PGQAMFkXpzWeWcYDZSKVEXsREsybnCcCDGUYypqoSM8gJZ6jlu0CnKqe2lz7vErHICUI1NR2Q5SWEBP93vSOK9U2+uqPU7kPUtyqBT9ZosIm1goQQfjP91rQ6HCPKCPLZdV0oIXuBUhObXFIP00jFs8E1RQTTOrM4yw5QhRhxuTvv7HRclngFAwc5M/2Rgd1lnngWph4FeVdmjJHh551N2wBzFDUJZqeJwUt9jhAiccWlgoKZD3fRttS9lx1p3wduXThUrUOYHBUCQB8IAiph6ug0=;Nu/vz18I94wb1bhCgtyhnA=="
 ---
 

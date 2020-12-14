@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-dr
 cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruiseSF-MAIN_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Driverless cars 'will decide who to hit in an accident'"
+    excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
+    publishedDateTime: 2020-12-11T23:45:00Z
+    webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 39
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/6178078/"
+        width: 2400
+        height: 1595
         isCached: true
 
 secured: "q/zZqI2yMIC6Hnp65Z/5U22kR+ZWs6GdvHvrU5+v/4KJIm2YXp+e+By84r2Q+X2s/JYuZfsZKLnZ9OZwC19M0DRZn6KIZsdWWEijQbi65DtvFOuwgj5CqlgtxVzybh1sdiUzTauGozi+I0G2jKJH1VsgvFgq2z10LPEMqctp/v4KxcmgfKd6wQPBS5qW5eg9LJS26gPHUnhQ2xKLhv8/7gkv+aiPIIEfPz+kKNvuicmzL4lzr8W5nT9CEfqqWbMblRf+Q8hEZFAk03yZyVZmmdf5+BH/9WMG6bUQDaVGhfUxBiOR5H+vo3FBsepxMzqavxrgYQLwNXNmuBYsh61K9RWwOUSaLkPNil/g1aoOSzo3LILLMoiPdO3eUGR1QOCc0jKtYGU4ZaLrL/y5EiejgR30xRT50xNxRZsymqkcWY+c1XVbpip5bEQVV/4do9PF8iHUJoj1ayyIYY4si/eJ3GjeeBhUNPjqKBP4cFofkyEUqVUJzXaMlnw5R15QdAX/KxhtVH2TB6AoaR5Q9BO0Ow==;kn7MmhbCzpxjjdfdhwaIcA=="
