@@ -45,20 +45,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "AI Bots Revolutionizing the Finance and Banking Space"
-    excerpt: "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,"
-    publishedDateTime: 2020-12-09T10:48:00Z
-    webUrl: "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-the-finance-and-banking-space-nid-214809.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 71
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2l804abO.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Using AI to transform the customer experience in banking"
     excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
     publishedDateTime: 2020-12-10T12:44:00Z

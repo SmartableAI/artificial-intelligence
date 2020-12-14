@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Rikkeisoft and Oraichain to Expand AI Blockchain Technology Globally"
+    excerpt: "Rikkeisoft, a leading Vietnamese IT and software enterprise has formalized a strategic partnership with Oraichain, the world’s first AI Data Oracle Blockchain company. In early November, Rikkeisoft invested an undisclosed amount in Oraichain Pte Ltd in exchange for 10% of the company’s shares."
+    publishedDateTime: 2020-12-11T04:10:00Z
+    webUrl: "https://apnews.com/article/2e51f53bc202ac44f301332e3b2b6851"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Keen to use blockchain, machine learning and open APIs in public service: FinMin"
     excerpt: "The Centre is keen to promote use of technologies like Blockchain, Machine Learning and Open APIs by all three levels (Centre, State and local) of government to enable delivery of financial and other services,"
     publishedDateTime: 2020-12-09T15:41:00Z

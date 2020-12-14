@@ -1,27 +1,27 @@
 ---
 category: news
-title: "COVID-19 action plan earns Luther Manor national recognition"
-excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
-publishedDateTime: 2020-12-09T20:36:00Z
-originalUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
-webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
+title: "GPC receives international recognition for safety"
+excerpt: "The accreditation is a fantastic achievement for GPC’s pilot services and a reflection of how hard our team works.”"
+publishedDateTime: 2020-12-14T01:22:00Z
+originalUrl: "https://www.gladstoneobserver.com.au/news/gpc-receives-international-recognition-for-safety/4157870/"
+webUrl: "https://www.gladstoneobserver.com.au/news/gpc-receives-international-recognition-for-safety/4157870/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Patch
-  domain: patch.com
+  name: The Observer
+  domain: gladstoneobserver.com.au
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
-    width: 730
-    height: 945
+  - url: "https://media.apnarm.net.au/media/images/2020/12/14/v3imagesbin3c293237c969aedaa4631331b0cc73b4-mzgj6hluo1rd9fduiv2_ct1880x930.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 701
         height: 526
         isCached: true
-  - title: "GPC receives international recognition for safety"
-    excerpt: "The accreditation is a fantastic achievement for GPC’s pilot services and a reflection of how hard our team works.”"
-    publishedDateTime: 2020-12-14T01:22:00Z
-    webUrl: "https://www.gladstoneobserver.com.au/news/gpc-receives-international-recognition-for-safety/4157870/"
+  - title: "COVID-19 action plan earns Luther Manor national recognition"
+    excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
+    publishedDateTime: 2020-12-09T20:36:00Z
+    webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
     type: article
     provider:
-      name: The Observer
-      domain: gladstoneobserver.com.au
+      name: Patch
+      domain: patch.com
     quality: 24
     images:
-      - url: "https://media.apnarm.net.au/media/images/2020/12/14/v3imagesbin3c293237c969aedaa4631331b0cc73b4-mzgj6hluo1rd9fduiv2_ct1880x930.jpg"
-        width: 1280
-        height: 720
+      - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
+        width: 730
+        height: 945
         isCached: true
   - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
     excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
@@ -70,6 +70,6 @@ related:
         height: 660
         isCached: true
 
-secured: "KthwlM6kjAttb2hBYqP8GtnsG6sk9CIp63MDDD4KZNw6aVBQahDwBEvaDni08H2tfcxXrkiq1S6xG8QRdhRQnHDWkhc8YtDLtHCYMco2e1CDO12kc7Tv+nS9Pd2VadDD31sLWCZD5AU7go26dq2HaNj9+T9cgGwz4s8wNL/9I3mgNQzPyVXxyiKLuBBPg/ciVkaKrwDnLnV25ebRxNuSbqUt3oH4+6Ge3SH36qpQTgMud0lJqi7y3TxJl7DTAzys34D+bw/SDT6yE2VxAjnp8s7aVu+L7ORrQxdp3s1DetZUxHfiy6Q83TwW26N2oZGM6+O9GOm3FQjVv7JfGI0vlT/BKdkDB0ptEWGLlGe5XDg=;0VhPwqW4N/vKvHQ4rbYRxg=="
+secured: "opN1bRo1HrGog6YbAE2dleG5B8I/JcGUjaMVBWA6bvM80/1+n8Tf7zBgKfyF4lPKEysj9k6d2Uf5qjzgJGQvlNPIBZo1yskOprgKhg0Rc6ctp84RARlEmWxA8zWN8jF0nXvpDU2XiPIrfvcjUyZizVaJkzDdsauChc6OZjnjhIkdIgOT0aMdRII9uSb5/6ChXsnnlMqFjWp285PVFyuLhlA5/YlNJz61+9SXoN5E+4iZoAd7ZXvI5bFPgBoPU8PVOHmoyRK/8SGgXGFOiTO90sKG4+uf+2HnUkVFhkGOVvsGvOYcvYynfZtJYK3CKSKXwZOLm/Ww4MS9LAUp+ElpnU+aWh7ojWbzu867WsLbaxE=;3Zu3oGiTf4pkwaMtvvyp8w=="
 ---
 

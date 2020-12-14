@@ -155,22 +155,6 @@ related:
         width: 1200
         height: 445
         isCached: true
-  - title: "Ford’s self-driving cars are being used to deliver food and supplies to Miami-Dade families"
-    excerpt: "Dade County Public Schools families have been receiving fresh greens and school supplies via an unlikely source: a self-driving car."
-    publishedDateTime: 2020-12-09T11:00:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article247682450.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article247682450.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article247682450.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 34
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/dce6238c-6f50-4100-9d7f-edf6a2efbade/35066603-c806-448c-82bc-cc1715a7acfa/1280x720/match/image.jpg"
-        width: 1202
-        height: 720
-        isCached: true
   - title: "Apple Makes Changes To Self-Driving Vehicle Leadership Team: REPORT"
     excerpt: "Apple Inc (NASDAQ: AAPL) has made some managerial changes to its self-driving car operations, according to Bloomberg. These are the details."
     publishedDateTime: 2020-12-09T16:00:00Z

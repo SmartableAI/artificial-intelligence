@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/decipherin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/770x578/8afd868740035cf629cfc497b4529fd6/20201203-aiindiana-karen.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "AI Bots Revolutionizing the Finance and Banking Space"
-    excerpt: "To improve the same factor business are now leveraging the power of AI chatbots. Chatbots are one of the most popularly implemented forms of advanced AI. Chatbots, or simply bots, are software robots that operate like a human - with near-human intelligence - that automate tasks,"
-    publishedDateTime: 2020-12-09T10:48:00Z
-    webUrl: "https://www.siliconindia.com/finance/news/ai-bots-revolutionizing-the-finance-and-banking-space-nid-214809.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 71
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/2l804abO.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Using AI to transform the customer experience in banking"
     excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"

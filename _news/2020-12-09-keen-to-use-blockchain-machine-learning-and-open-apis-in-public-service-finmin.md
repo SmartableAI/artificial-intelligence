@@ -29,6 +29,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Rikkeisoft and Oraichain to Expand AI Blockchain Technology Globally"
+    excerpt: "Rikkeisoft, a leading Vietnamese IT and software enterprise has formalized a strategic partnership with Oraichain, the world’s first AI Data Oracle Blockchain company. In early November, Rikkeisoft invested an undisclosed amount in Oraichain Pte Ltd in exchange for 10% of the company’s shares."
+    publishedDateTime: 2020-12-11T04:10:00Z
+    webUrl: "https://apnews.com/article/2e51f53bc202ac44f301332e3b2b6851"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "kgnyWV+oBQXBYjXdm+Dz0unMupIX1KsLt46oGl55pEQZ2p1dMqV1KoTP6k6nWnlD+DYhHzUsESQERdLATfrTkMoZFflUtE335c1p2wrAShroyHS90hhN42/PdPXYCJ+O2TZL8bhGNdX6wnzT5zcIlv09WBi1SNbAv9FwqAtEoievDwyVnnT6HaN0ouOWnVb6IXqKWyjhz9f53l6eUhC21tRKETCQvR3WZA2Ns/E5mY2OLcFQOgzf6vLEa2grl/yFxqv/T7b1z1keF0SSAaSg59B17+mQCQol1MKHGptTi6172KXVOoQt07jtv0KosR0vTwOjfM18EhhOld359xyYoLnGDZJWmJv2KfvlP/QOkE+RFyJt82L7+0aDFIcHoYndq5FU46u1V//D2nv1dDqkLIPshITpmNspdkcLbxn6R4QgqMCx0KB41KmynMRdW2EeFptTxQe4x8Cn7RczguWU3q4D8rv6ho0igY5ujDoPYiLGy5q72PS8SLpJLLXlteQemV7FjsOp+j/ytJeABclsfA==;o+oosL/XFec42pShr/YmLQ=="
 ---

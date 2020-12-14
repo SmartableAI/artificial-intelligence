@@ -41,17 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Huawei worked on facial recognition project to track Uyghurs: Report"
-    excerpt: "Huawei worked with another Chinese technology company called Megvii on a facial recognition system to track and monitor Uyghur minorities, said a new report from IPVM, a leading video surveillance information source."
-    publishedDateTime: 2020-12-09T10:17:00Z
-    webUrl: "https://www.sify.com/news/huawei-worked-on-facial-recognition-project-to-track-uyghurs-report-news-education-umjiPEcbejjdg.html"
-    ampWebUrl: "https://www.sify.com/news/huawei-worked-on-facial-recognition-project-to-track-uyghurs-report-news-education-umjiPEcbejjdg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/huawei-worked-on-facial-recognition-project-to-track-uyghurs-report-news-education-umjiPEcbejjdg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
 
 secured: "Js/ncUYbvreXleYk2cAAFCDKdum6CWFw25VFRq/XHLr+4mk4TqFSvib7ZZWhe4cYYIOykbTW7I5XXVQvNg/ERUg1kuB17lHC+FvbrFrqM81OVz3gSOJuCMj0YlCWCBiDtuM3gQoB3rAAJ3irKrZnXyNvZgYw17S2bXiOaAddjpKvrx7In3XNwUP+3ODfjv8jhCpjjxsybyYhIrllg9cfiU7BEvqfPnrejaejruWL2Vw1UvOHcQCn34twebkoFJHLCbd06XUWsfPJW00P637BoTX5v8gkoXLOnzOfn+8Jf/JJomry3Z5wNE8qNGoH1DeXbvuQxaZZc9Wc0OwnONgtSPGl1QCf+ZW4eOPLKo0stjs=;pjeRURMxzgo3cwSlCGO72Q=="
 ---

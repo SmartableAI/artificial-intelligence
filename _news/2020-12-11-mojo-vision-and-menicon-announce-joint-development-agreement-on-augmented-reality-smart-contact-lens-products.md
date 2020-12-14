@@ -24,17 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Mojo Vision and Menicon Announce Joint Development Agreement on Smart Contact Lens Products"
-    excerpt: "Mojo Vision, the Invisible Computing company, and Menicon, Japan’s first and largest contact lens manufacturer,"
-    publishedDateTime: 2020-12-09T10:00:00Z
-    webUrl: "https://www.financialbuzz.com/mojo-vision-and-menicon-announce-joint-development-agreement-on-smart-contact-lens-products/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-
 secured: "2jmCMqCaRAOag3gF+Iz3uCkZe2A/4NVZDY0Dd8GXBclDdZzUa0sUELcuZkcug9W0nMwbb58xhkvJKTQxKQ6IxE4Qyz7Th0WA3pYMyArqFwZXJirbiBF99KWGis4VzKECfcPH5RK3S5NIad2UQko7Qo0qhMUUv7glRNLxqidjeA1rgeof+rGmM8INPjHvGETJgGya7jfcvqaBICXDm2q9M1IoOWJTMfe/RmG9LqXcXwrITwTNKlmBGlB9yAb5Wf6uu36+mt9W6y+vaQpDWO/F1SD3sDlN6RHsbXtZrZih98v6F4D5eIG7x8MPWnA9QmdkCM8Q2CpMJq3xEAwdpuqP5m3uxSAUXI0YwP4HjV/S0aw=;erx1WewkW2WR6F2//K7+hw=="
 ---
 

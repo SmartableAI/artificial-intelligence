@@ -1,0 +1,48 @@
+---
+category: news
+title: "Rikkeisoft and Oraichain to Expand AI Blockchain Technology Globally"
+excerpt: "Rikkeisoft, a leading Vietnamese IT and software enterprise has formalized a strategic partnership with Oraichain, the world’s first AI Data Oracle Blockchain company. In early November, Rikkeisoft invested an undisclosed amount in Oraichain Pte Ltd in exchange for 10% of the company’s shares."
+publishedDateTime: 2020-12-11T04:10:00Z
+originalUrl: "https://apnews.com/article/2e51f53bc202ac44f301332e3b2b6851"
+webUrl: "https://apnews.com/article/2e51f53bc202ac44f301332e3b2b6851"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Rikkeisoft and Oraichain to Expand AI Blockchain Technology Globally"
+    excerpt: "Rikkeisoft, a leading Vietnamese IT and software enterprise has formalized a strategic partnership with Oraichain, the world's first AI Data Oracle Blockchain company. In early November, Rikkeisoft invested an undisclosed amount in Oraichain Pte Ltd in exchange for 10% of the company's shares."
+    publishedDateTime: 2020-12-10T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rikkeisoft-and-oraichain-to-expand-ai-blockchain-technology-globally-1029881642"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Keen to use blockchain, machine learning and open APIs in public service: FinMin"
+    excerpt: "The Centre is keen to promote use of technologies like Blockchain, Machine Learning and Open APIs by all three levels (Centre, State and local) of government to enable delivery of financial and other services,"
+    publishedDateTime: 2020-12-09T15:41:00Z
+    webUrl: "https://www.thehindubusinessline.com/economy/keen-to-use-blockchain-machine-learning-and-open-apis-in-public-service-finmin/article33291560.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 31
+
+secured: "10N8xQju2mkvoxYW4jB7BfwEQvj1lFvwh3Zrm33zRWYWzhizswvVvZQwPmayrxPMxTcF+KbJ+VyZa+ts6DW3j7wdHCMoeU5HvSeg7cRkDekCdo7THCWQGtG1ZPD3poFfEcyNWkGTFhJg3tWlB3Zmz15kbiAHu06O9yQVj2nPiYSL1gB2SQSFfnmuDuwyG3//I5+hq1a9kkPhuxc3ka4OZjrs1zm14f1rib8x86LW5x6C0z3gzPTLQKEg/9xvuzzoi5fxA96bgFW9jDfqqU+04CJMcbkM6vAyfb+SxhhR9djQ75oylpieSlkfcE2kc+JXLrq/qFpdduHlelybArAIasKDpRcrDFwe5elrZIvu8VA=;JNTAhR5/Iw5EFISXtvJi3w=="
+---
+

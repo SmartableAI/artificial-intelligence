@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "COVID-19 action plan earns Luther Manor national recognition"
-    excerpt: "Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021, according to an annual survey produced by Newsweek magazine. The national news publication recognized 400 skilled nursing facilities out of more than 10,"
-    publishedDateTime: 2020-12-09T10:30:00Z
-    webUrl: "https://urbanmilwaukee.com/pressrelease/covid-19-action-plan-earns-luther-manor-national-recognition/"
-    type: article
-    provider:
-      name: Urban Milwaukee
-      domain: urbanmilwaukee.com
-    quality: 24
-    images:
-      - url: "https://urbanmilwaukee.com/wp-content/uploads/2018/02/Art-Keup-CFO.jpg"
-        width: 703
-        height: 469
-        isCached: true
-  - title: "COVID-19 action plan earns Luther Manor national recognition"
     excerpt: "COVID-19 action plan earns Luther Manor national recognition Wauwatosa life plan community named a top skilled nursing facility in the U.S. (WAUWATOSA) – Luther Manor is the only senior healthcare facility in Milwaukee to be listed among America’s Best Nursing Homes 2021,"
     publishedDateTime: 2020-12-09T20:36:00Z
     webUrl: "https://patch.com/wisconsin/wauwatosa/ep/1469756"
@@ -54,6 +40,20 @@ related:
       - url: "https://patch.com/img/cdn20/users/quickpost/20201111/013151/styles/raw/public/mos-ascension-program-press-release-1111jpg-20201111133154-11709100.jpg?width=730"
         width: 730
         height: 945
+        isCached: true
+  - title: "GPC receives international recognition for safety"
+    excerpt: "The accreditation is a fantastic achievement for GPC’s pilot services and a reflection of how hard our team works.”"
+    publishedDateTime: 2020-12-14T01:22:00Z
+    webUrl: "https://www.gladstoneobserver.com.au/news/gpc-receives-international-recognition-for-safety/4157870/"
+    type: article
+    provider:
+      name: The Observer
+      domain: gladstoneobserver.com.au
+    quality: 24
+    images:
+      - url: "https://media.apnarm.net.au/media/images/2020/12/14/v3imagesbin3c293237c969aedaa4631331b0cc73b4-mzgj6hluo1rd9fduiv2_ct1880x930.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
     excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
