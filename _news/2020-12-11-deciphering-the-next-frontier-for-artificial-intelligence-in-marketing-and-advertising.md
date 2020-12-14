@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/decipherin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/09/2004f139-bec3-45b0-97ef-38c3f2934cac/thumbnail/770x578/8afd868740035cf629cfc497b4529fd6/20201203-aiindiana-karen.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "EU watchdog warns of using AI in predictive policing, medical diagnoses, and targeted advertising"
+    excerpt: "The European Union’s rights watchdog has warned of the risks of using AI in predictive policing, medical diagnoses and targeted advertising."
+    publishedDateTime: 2020-12-14T09:51:00Z
+    webUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/"
+    ampWebUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all"
+        width: 1200
+        height: 633
         isCached: true
   - title: "Using AI to transform the customer experience in banking"
     excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"

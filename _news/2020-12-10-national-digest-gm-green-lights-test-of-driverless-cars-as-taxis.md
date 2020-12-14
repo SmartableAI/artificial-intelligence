@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-g
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Washington Post
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-    excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
-    publishedDateTime: 2020-12-09T17:06:00Z
-    webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
-    ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 59
-    images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Tata Elxsi's driverless car buzz steers stock up 7%"
     excerpt: "Tata Elxsi works with car manufacturers and component makers and deploys its artificial intelligence and computer ... there is no plan to showcase any driverless car today or in the future."
     publishedDateTime: 2020-12-11T02:46:00Z
@@ -75,19 +59,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
-    excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."
-    publishedDateTime: 2020-12-09T19:40:00Z
-    webUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
+  - title: "GM unit Cruise sends driverless cars out, releases video of it to the public"
+    excerpt: "Cruise LLC has truly self-driving cars — no safety driver — on the streets of San Francisco. The company said it's going so well that it hinted at commercializing the cars sometime next year with the goal of taking the fleet to other major cities."
+    publishedDateTime: 2020-12-09T19:02:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/09/cruise-gm-driverless-san-francisco-video/3865123001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3865123001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3865123001"
     type: article
     provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 54
+      name: USA Today
+      domain: usatoday.com
+    quality: 56
     images:
-      - url: "https://www.businesstravelnews.com/i/BTN-footer-logo-no-tag.png"
-        width: 600
-        height: 398
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDTF/6bef53ab-14f9-4951-8c36-76b319b8af67-Milford_HeroStill_1.jpg?auto=webp&crop=3823,2150,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Baidu gets nod for driverless vehicle tests"
     excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
@@ -102,20 +88,6 @@ related:
       - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Driverless cars 'will decide who to hit in an accident'"
-    excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
-    publishedDateTime: 2020-12-11T23:45:00Z
-    webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 39
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/6178078/"
-        width: 2400
-        height: 1595
         isCached: true
 
 secured: "f24Dv+gJDI0nftibFoUcoSt0HY2c6ZN+wHKFLiqf2yA3zdrbDSdAtc9Mv6PEqa3OS1IGgcK/WHgtU6rnA5tTjn1klwCZDOs506BmJknqlHTmc+zxGfD7zt4lZ2f7ySQEjQpw3zsEabhsFnfEkFWNp+G6MYrXwBqQBAm5Uw7oyBo3qEnThKSMOmc+qDhLWJ2wQwKbL+U5ePUyFmVVDGSRWgzzXkYt40WipIwKtQcARNqVRREklUF4KrMe5SeKhotCQsLNHLBeWZCHroGlN49SlEQgRRWfO4h7wZNzFowbh6TdzNUdHP+wnDYO/FXThB2uLFIoj6iHTbX3bn8RjENVZuzOPuObEOversqkxVIczcErvWNuAC5uo4slnMseNW0/A5BfS7cxwG5TBBXj6MwvTug7Fgc/73oLoRpVY131VrlWlP1Aphj/HkQaocgqJtR21pEB7gSt4pGndK1gtKU4zMcm1sdcQjUB0FquGCdTvyD9O0f0IDHoI48Zd9azr36v2pOrIhqwakkxbk7QmPvz7A==;aMEmba+93M7VsMv+TGnIAg=="

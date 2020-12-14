@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-    excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
-    publishedDateTime: 2020-12-09T17:06:00Z
-    webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
-    ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 59
-    images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "National Digest: GM green lights test of driverless cars as taxis"
     excerpt: "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state."
     publishedDateTime: 2020-12-09T21:44:00Z
@@ -89,33 +73,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
-    excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."
-    publishedDateTime: 2020-12-09T19:40:00Z
-    webUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
+  - title: "GM unit Cruise sends driverless cars out, releases video of it to the public"
+    excerpt: "Cruise LLC has truly self-driving cars — no safety driver — on the streets of San Francisco. The company said it's going so well that it hinted at commercializing the cars sometime next year with the goal of taking the fleet to other major cities."
+    publishedDateTime: 2020-12-09T19:02:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/12/09/cruise-gm-driverless-san-francisco-video/3865123001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3865123001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3865123001"
     type: article
     provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 54
+      name: USA Today
+      domain: usatoday.com
+    quality: 56
     images:
-      - url: "https://www.businesstravelnews.com/i/BTN-footer-logo-no-tag.png"
-        width: 600
-        height: 398
-        isCached: true
-  - title: "Driverless cars 'will decide who to hit in an accident'"
-    excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
-    publishedDateTime: 2020-12-11T23:45:00Z
-    webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 39
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/6178078/"
-        width: 2400
-        height: 1595
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PDTF/6bef53ab-14f9-4951-8c36-76b319b8af67-Milford_HeroStill_1.jpg?auto=webp&crop=3823,2150,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "6c6o+JsAA1ox7J8vDFG1aqkqspMzec5p/25K1DN2HQ62r5cH2OQYGhresBruiwCC4npTortQZH8JwgDJ1pe8QemJBprdff/qBOzXdLMl9zHTWDHCS0Yca2APQzHetX0mF1ysm0gg2EZ/WGD8lmrkwm7pOb2zT/pqEHZZwCsTaMcHo45A/N57IwPCrm7zYT7p855a/ImoMv42BUkDhzPeqSNq0Y9wuIgiATa7teX/EswyypjjVunnhN4y9pncJBjdVCoa/E9Mnso44qqN3PeTUpxJVwukBEeWrwFUHlarEe8SqhlUGWiP9RZpxsRJsfrJx8FPrEHduhTWdIXAlIl943cfyh7UUDI5T/G/aqgtbBI=;ffksJs+XUalSbRNh+AIpeQ=="

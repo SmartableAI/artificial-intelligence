@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
-excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv’s new AI-COVID™ software."
-publishedDateTime: 2020-12-10T19:21:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
-webUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
+excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the pe ..."
+publishedDateTime: 2020-12-10T19:20:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-artificial-intelligence-94e3f78da560413483d159bd2a84e678"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-artificial-intelligence-94e3f78da560413483d159bd2a84e678"
 type: article
-quality: 34
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -109,6 +108,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "D6/YYC3kfQ87ww7u7otzdE9qidHTg+DFzgk1FNZfYO/Ly+aNeUeFv+AgD5ku2TiJZH7+JBS3fQrDKDi8moUa0NZjR+4zkyWEzLyQCTedx9qndZTleQ4Jv7ghYHTyn1qxiGG7jcAX3kE+dGJHqClK6dnZfOFOnWaxXUGwvAgM9Jv04FR7BxDpxzzh/EGtigohsd8Q7vp5AwH48h8JNurxT7tqhjvwOt0noonSrUP6ibl3qQgTpmA3NtrLjHs3bEfQQLbAWl0gcRMLNtaopPcu0sT59KzUoJDj0lXL9wzkkG9PwY+veCo5ebcwp2FGVEJ84ZWtqFNLX4Itqoro+k4b6I7h92dYjBI4qFqTE4JnKRM=;41C3DzlHyNARM1xf/xP/rQ=="
+secured: "muAO9o+8CHSHKUUmRroPu1lxoUiPBfWsGjx8JkvRNGW3xsY8iCcTrZJsnAxt6LUZ+jQ/pzv+/mHl7c38L7mrP3SctJG/r4IX+OIiaw1NODOC9wyZA8SVA3ILjRu0T3QXa5kFC9dT0qThwSlqgRZ/KZhDsMGfCfJr55lgkFCM+LzaJeVpeSuMNXpgQwCFPJ48llWqUfRz6tqFh3IN3LZFAOKO5cnYF4hoGY7kJpzMK0t7pG1OizWlMpG1TcqsjwRGXTp5WfPy5mstfY8ZxGX74EcHlUcKQ/2ZD3+2sdX12TLU4vklT7c93UfNXqJGuF7kfMu+jw5CuVNqg+498iBuAN71tAx8AMmNWvs9HJZQELk=;1x3xcrLXSbZK8wNbBwBh9A=="
 ---
 

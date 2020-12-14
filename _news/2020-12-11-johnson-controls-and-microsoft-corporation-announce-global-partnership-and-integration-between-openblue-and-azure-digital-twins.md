@@ -26,22 +26,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "Johnson Controls and Microsoft Launch Global Integration of OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "Johnson Controls and Microsoft expand partnership with worldwide collaboration centered on Open Blue Digital Twin and Azure Digital Twins."
-    publishedDateTime: 2020-12-09T17:16:00Z
-    webUrl: "https://www.commercialintegrator.com/control_automation/control-systems/johnson-controls-microsoft-openblue-digital-twin/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 37
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/09/AdobeStock_278828065_Editorial_Use_Only-1.jpeg"
-        width: 500
-        height: 300
-        isCached: true
-
 secured: "LZKB5+2sQ/qqd8s1al3zWYApP1aumkmz7k/TU5xc5M2im9BJ9yG9PMtCspoxx7Lbb/Qs5VFvXGKiF8pCZbfXHG4eMMalkiUWeIJXFKMbJyZC6pwLgmUd0yM81/l9iZ+fKRlDY+27JJxqbFnsyNQ6s7Hz9pRHrWY+44XlbspXYJY8GMlUJVbr2Qtxu+Fs3qHQUQURvgzXIRlLpCmC5MJmqaDquc352pQHzmCtDT5LnSnff4LbWiwdtpoEO85fwGUo7aGdNbHGjdQ50Pt6VnTs+5Q4b4XgWtfsDKIxaq2HbRSC+Gavtr99pdWWhSeqMro7NMWUVoM3e42SBw65/vSa8syVQ0MSW1rc43/rFTbTjUhxbtN2TUkhLnfELiy2AnF/9GBF6wG53ZJYbcg6BxB0AlfKnU5yihPZ8OrNQLyb8NmKvgMQIMvBpnOSLSiMeygA4S489qtnoB5Y/LlR8JPt4ZGqhRbxkhZn8k6yy5SCZyiM77VKGA75EWf8xaoM5ZGbwPqA+MULWI3Ntdkn6Igf2g==;UOopkLzVrgaIEiZZyCuMig=="
 ---
 

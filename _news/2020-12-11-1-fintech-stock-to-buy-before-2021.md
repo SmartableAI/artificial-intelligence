@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FINX: Investing In Disruptive FinTech Innovators"
-    excerpt: "The Global X FinTech ETF invests in financial and technology companies that are transforming financial businesses through the use of digital and mobile solutions."
-    publishedDateTime: 2020-12-09T18:07:00Z
-    webUrl: "https://seekingalpha.com/article/4393861-finx-investing-in-disruptive-fintech-innovators"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
-        width: 635
-        height: 450
-        isCached: true
   - title: "Who are the top female fintech leaders of 2020?"
     excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
     publishedDateTime: 2020-12-14T05:35:00Z

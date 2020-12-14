@@ -29,54 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft doubles its money after backing C3.ai as it goes public"
-    excerpt: "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud."
-    publishedDateTime: 2020-12-09T17:45:00Z
-    webUrl: "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "Microsoft launches effort to fight corruption with AI and other emerging technologies"
-    excerpt: "Microsoft's Anti-Corruption Technology and Solutions (ACTS) initiative will aim to stamp out corruption using new high-tech tools."
-    publishedDateTime: 2020-12-09T17:54:00Z
-    webUrl: "https://venturebeat.com/2020/12/09/microsoft-launches-effort-to-fight-corruption-with-ai-and-other-emerging-technologies/"
-    ampWebUrl: "https://venturebeat.com/2020/12/09/microsoft-launches-effort-to-fight-corruption-with-ai-and-other-emerging-technologies/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/microsoft-launches-effort-to-fight-corruption-with-ai-and-other-emerging-technologies/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "Microsoft initiative will use AI to sniff out bribes, theft and other government corruption"
-    excerpt: "Microsoft unveiled an initiative to use artificial intelligence other technologies to detect government corruption, calling it \"an urgent global issue that can and must be solved.\""
-    publishedDateTime: 2020-12-09T18:46:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-initiative-will-use-ai-sniff-bribes-theft-government-corruption/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 96
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
     publishedDateTime: 2020-12-10T20:19:00Z

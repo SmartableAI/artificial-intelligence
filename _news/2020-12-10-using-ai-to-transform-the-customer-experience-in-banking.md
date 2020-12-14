@@ -49,6 +49,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "EU watchdog warns of using AI in predictive policing, medical diagnoses, and targeted advertising"
+    excerpt: "The European Union’s rights watchdog has warned of the risks of using AI in predictive policing, medical diagnoses and targeted advertising."
+    publishedDateTime: 2020-12-14T09:51:00Z
+    webUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/"
+    ampWebUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all"
+        width: 1200
+        height: 633
+        isCached: true
 
 secured: "l57gViOvVaCXEoxt9m+7s6dWK2trb47P2yqYD+L8mScvySYtZ/q/GhWDpjglQ32WfWv+0iYjxcDb42FImNHLwB/kJLevBjzHPy2yuL8kEtG8FLJS11y40guE+bbDEXeG2yNEz2P1F7xnCln3/XriWN51jCILv/N8JbXyvgHv+BklfVDPmhh6/bqQhZIeFZHPs9qooDihtF123xd5+trKBabkcLic/waINRqNyeVp1VWiZ31jjikIxPZE7Gg0DT8nfKedhQqs6W50GTXEcqLiszZExF1darvlo3f69DP1JARTNBPD2dBeaqhkSfWj8Rrn708C4C3c+AzamAzNHMMiGF99wxEYclVH+3xviB37DIIk/pQXIuUrR3oxVOvNvEasMxwxDya7On2hI8OIprQb42A6f+Br7AjQTai79tFzloYebdtR8tXxXNNg78TpD+tlN8mycR/AP9c4Mc2YRVveM9q1cDVgRimiSD4cLbUDREZfQh/KTnHHFEoYiOzVY1Ll35EYkwVutmmyLcLvSoh+jA==;di3R1GockSlb94ADedNi/Q=="
 ---

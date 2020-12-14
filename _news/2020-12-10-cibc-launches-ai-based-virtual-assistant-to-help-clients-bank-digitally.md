@@ -1,14 +1,14 @@
 ---
 category: news
 title: "CIBC launches AI-based Virtual Assistant to help clients bank digitally"
-excerpt: "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ..."
-publishedDateTime: 2020-12-10T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636"
-webUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636"
+excerpt: "Powered by IBM Watson, clients can use it to complete banking transactions and get answers to questions with easeTORONTO, Dec. 10, 2020 With"
+publishedDateTime: 2020-12-10T11:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643"
+webUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "EEFCLlL1tLaZMVT8nj9WJ5OHBK56EveOFTUs1ff2F6n7KOw3Ni5vxs8H6EI7OgQ04VN/XKBiZDbngjObSCPM24s8NjvuicJoCCV2BXU00y0sb+MD51JBHoVtTCe+YuTnzBd02CsSggnvpwWv5sCYUkZjc+4iG/oYUCofD8kq6txeyfkvz9VXnveTy9KgPR/Z29UhWd71kYPxSbIfrf5YtZbN2thFk4XhPxdv3t8FXGZwzyMaJ5VSOZPK47HeCoknfLZY91YypWKk0/2sb66/WRJS2+fDpgtUhKTmOqgb9Vbv6vgiS6NQI6q6vtYb7c0fNDAhDZeYu9Wri5Cr5fZmAkIMPu4YWNHRfwR5hGaIYsU=;2A6MR/sM6F+DhrzUVMxz4w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg"
+    width: 400
+    height: 365
+    isCached: true
+
+secured: "eP0LsTZLH2Mg9t3nxBD9iqOurNOGIBb7YxPHIT6xrFw+yhmqZsvNIRmLxtNehTYR6smJqfJ00pwi9fQ52zekZa/Eyq4hHOuN92WFEU6QAzvNDXIA8RshLYDuuGpwZ+GONWs2Fxe/KDHH/jvH5c7TpBBU1Xm3IatFab1Z8fo6QZIftXtPROkgZlYui7Y/CHorGLvo0OIEk1FWxCncV9Ef14A7mplcOCy+suQDl48VTKIgzmZ6QsseYVICSmH2cD90blwCIxd1FLIchSwffx46m0LRl0kOtsMzr9bA/MVMc6/goD/oPT+wfXwWcE+n1Xsjd9LrxiLPM6t+6/ft+4NAfPrS4hMKIHtlAQMRL9pR3jI=;MH+g6EHxydzo5BY1jEh8EA=="
 ---
 

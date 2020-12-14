@@ -2,19 +2,19 @@
 category: news
 title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
 excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
-publishedDateTime: 2020-12-11T18:52:00Z
-originalUrl: "https://www.indystar.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
-webUrl: "https://www.indystar.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
-ampWebUrl: "https://amp.indystar.com/amp/3889402001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3889402001"
+publishedDateTime: 2020-12-11T19:08:00Z
+originalUrl: "https://www.palmbeachpost.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+webUrl: "https://www.palmbeachpost.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/3889402001"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3889402001"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Facebook AI
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "nRTBA2lrYoE7/tIkkP7ZHQpJVb4k5Zbw85cd3N/3Xzf9FwTl+TAueXPGolsktqrcs4HCBccv8Ale/Rguhm6qlPA+9DrtFzLZug1LEGVVKTlnx3Tk8Jp7vCDhVfdVlHPA+98Zti25uHAnG49DF2fOWJONu+CtoYJqekdBGVf2sD67y4pZg2MxClz+4BE65s1oNwrWRZXiTdFCjwicoXYxYycnfvtBlCkcYL2yFd+fO3RQkqmmTKjvSrUhBJM5UUT05mFrJDBq9OzJuNvsyK74XgL02lDzhHf6H0kui5CMJ0CYGwx/tPmCc7ynUNS1B81qbHE6S2h1LjKv1s1DuGFcRGSIImcEqqCIS8qGYN05G2vlQBg6/hbtBsyfpkeSpUiYAjjSmimNlYBL31tEithh22BxJ0Gddp/OCOpd3uVVVqx2kVLB/TWVYPh+lYyod7FQV7kvq2O5n9OgAV3PPwiKb7MY0PxcyibrBnLNB7Y8oEjHTGvowdMVAwaukKN32tiZojR8ZNueXFpCT2KcJkzJ3Q==;QisYOExTZiOmk8I+KMj78A=="
+secured: "ECg4sCXmGOzWMwFdYeKY5odd7OpOnPCrPXgMlvH9hi+oHa3NVod8C6pQRd2OQUFm1wLQXklCHasgz2wt58rf+9G4iOfFYReQ9oGuLUsWHLMAq5buTMhxExN/eqGJXTD+IVtZxn1QZg+P3iESYqJCGx9APqrEpzxGXysgHj6iHJZxKOw0zga/dvOtXWdApzc7o0hAPtoxmJ74YSjG+lNLkGxUXPHDpvOyLacYVv3ZXuMYYpyIWQyeA57IPLFukdRFge+U+erfqAsTkPtPGYoXJpn5p/GOVQA2yerFGYxn/OKKu8y/J9DjUBawvi5pboP8diE71++qSaRfYVeFS0gTbINV8/DV1wQIXMs3JWbnBFE=;sWTPvWV1Gvstvo9yasNeDA=="
 ---
 

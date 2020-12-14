@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Xanadu's PennyLane brings Quantum Machine Learning to Customers with Amazon Braket"
-excerpt: "Xanadu is working with Amazon Web Services to deliver an integrated programming framework for variational quantum computingTORONTO, Dec. 8, 2020"
-publishedDateTime: 2020-12-09T08:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/xanadu-s-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-1029875399"
-webUrl: "https://markets.businessinsider.com/news/stocks/xanadu-s-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-1029875399"
+excerpt: "PRNewswire/ - PennyLane, Xanadu's open-source software for differentiable quantum computing is now integrated with Amazon Braket, a fully managed"
+publishedDateTime: 2020-12-08T23:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
+webUrl: "https://www.prnewswire.com/news-releases/xanadus-pennylane-brings-quantum-machine-learning-to-customers-with-amazon-braket-301188913.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "KuHaAahHRwucSLScdK7g7+EKhasJrroMnZx2+D6UDzjTRHUpD6uQ26WB7svHUnhT3969aS3UIEGOU3N0jrbZQzLkwtMHN72D1eW2G+eze5/eH272U4/7ED6yD0CT+1tMcmRiIlJPegnhR8cVovRZKIE8A4A661n0MYait+npq29UlNM/qVQFxROS3j0qNtWSfA5Zp+rr7iI7m6+cudUzv5kMAUuvyYDLGu/6dDD7UIL7LYWUrPomYmth98wHawkJzJ32o9t9WfcyAV6JbmJSnN9oj3izrccEa+GUrLVE3VruyKtUa4hUZR27eLco0NIXXE0L3zwvVHZdxiaM4vJFf86IqOuu31BfnKtUNhW9r34=;iVu5jBeQAaUM3zQodetC9A=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Y9FwxyzVmCGFPh1RTCdCN0ZlEi0s/tApjbOTCsvcbcTPCz29fQf54r3YjEvideTbick7ogwjW9YWeTYZaY5kBt2o72YNi97EpkbxZgX98RZDhlgmsSq1LccaMGLbzl21jFojBPhsZCY7Ly0kFlw7OOkNATkXvgBFoqMW/8CMBDMM6oigTj2w+Ghby2LO9T/LLgS0zjUUdEPKEjMTIdeWnsJw2C5F7yry1zgyWk0zCW7NpjWuxieD0a2lRbPWUgPhFlE67K1S7aghu7WhFk4sMPDnnfawe9XDi2L4piV+DkpYRh3WpANBcmJisZFmFpdvwicdm1ys+J/+TnZSMrczgtKCMVNFXzH4GHFf0MjbQ9U=;AxaFl+crREvdYNimyQdlBw=="
 ---
 

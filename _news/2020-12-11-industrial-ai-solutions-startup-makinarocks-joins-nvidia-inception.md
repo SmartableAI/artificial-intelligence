@@ -23,6 +23,19 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Acer launches AI Computing Platform “aiWorks Solution” on servers and workstations in India"
+    excerpt: "ACER announced the launch of \"aiWorks solution\" in India, an Artificial Intelligence Computing Platform. It provides the best streamlined and cost-effective i"
+    publishedDateTime: 2020-12-14T09:08:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/acer-launches-ai-computing-platform-aiworks-solution-on-servers-and-workstations-in-india.html"
+    ampWebUrl: "https://technuter.com/artificial-intelligence/acer-launches-ai-computing-platform-aiworks-solution-on-servers-and-workstations-in-india.html/amp"
+    cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/artificial-intelligence/acer-launches-ai-computing-platform-aiworks-solution-on-servers-and-workstations-in-india.html/amp"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 29
+
 secured: "1AWJ0f+vQyrcCiHulCFy7skyJI7yGlxqaDl7vEdtkc9vXrP8VxATifXSW9GdOOtDgQh/vvreiFnYLHrPYCufCtbRvOpOUOU1B9MouBuAj2srDUs9ziwsIXEr+U9Kq6v9LQAkbTWEifnvD9M7dQw2QtedIrKniPVW+yLXTXoH4yCSDo+ZZ5DVp792utDDopf57MAeHC/xuxPXCKqQkx6f4+xF8Cm6Ui689gJuk4LbI6MbK/d+oNDgHZwEkZOZOCAdE5MSb8yevWQF36By7cmthKndnVLwA11f3q+9Y8swNtBQsrJwQTSA83PyybyE+ocE+FEMVZ0iwtu71suiyl8FQJdyCVHpCbhVVJC3h/0xWJQ=;JRZMaaIWplFcsDeHk2fNNg=="
 ---
 

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova Systems Announces SambaNova DataScale — Built for AI"
-    excerpt: "SambaNova Systems, builder of systems platform for artificial intelligence and data-intensive applications from the data center to the cloud and the edge, today announced SambaNova Systems DataScale."
-    publishedDateTime: 2020-12-09T18:41:00Z
-    webUrl: "https://insidehpc.com/2020/12/sambanova-systems-announces-sambanova-datascale-built-for-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
   - title: "SambaNova Systems Ushers in New Era of Computing with Availability of SambaNova DataScale Built for AI"
     excerpt: "SambaNova Systems, the company building the industry’s most advanced systems platform to develop and deploy next-generation artificial intelligence (AI) and data-intensive applications from the data center to the cloud and the edge,"
     publishedDateTime: 2020-12-10T08:43:00Z

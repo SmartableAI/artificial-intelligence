@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta hesitate to pass a garbage truck almost like a human"
-    excerpt: "We get to see a new interesting behavior from Tesla’s Full Self-Driving Beta in a video showing the system hesitate to pass a garbage truck almost like a human. You can watch the video below. Over the last few months,"
-    publishedDateTime: 2020-12-09T18:54:00Z
-    webUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/"
-    ampWebUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/09/tesla-full-self-driving-beta-hesitate-to-pass-garbage-truck-almost-like-human-video/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 81
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-Driving-passing-garnage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach"
     excerpt: "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update"
     publishedDateTime: 2020-12-10T01:30:00Z
@@ -188,20 +172,6 @@ related:
       - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "TSMC will provide self-driving chips for Tesla like Apple Car – Report"
-    excerpt: "DigiTimes reports that the Cupertino tech giant has partnered with TSMC to produce self-driving chips for Apple Car. As the first company to provide 7nm and 5"
-    publishedDateTime: 2020-12-09T18:25:00Z
-    webUrl: "https://www.ithinkdiff.com/tsmc-provide-chips-apple-car/"
-    type: article
-    provider:
-      name: iThinkDifferent
-      domain: ithinkdiff.com
-    quality: 39
-    images:
-      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/12/Apple-Car-like-Tesla-.jpg"
-        width: 1200
-        height: 445
         isCached: true
   - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
     excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"

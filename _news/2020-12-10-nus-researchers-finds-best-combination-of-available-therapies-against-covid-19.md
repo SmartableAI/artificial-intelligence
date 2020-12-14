@@ -86,18 +86,18 @@ related:
         height: 576
         isCached: true
   - title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
-    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv’s new AI-COVID™ software."
-    publishedDateTime: 2020-12-10T19:21:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
+    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the pe ..."
+    publishedDateTime: 2020-12-10T19:20:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-artificial-intelligence-94e3f78da560413483d159bd2a84e678"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Researchers introduce first artificial intelligence tool to detect COVID-19 probability"
     excerpt: "A study in the Journal of Medical Internet Research introduced Biocogniv's new AI-COVID software that can easily predict the probability of COVID-19 infection. A team of researchers from the University of Vermont and Cedars-Sinai discovered high accuracy in predicting the probability of COVID-19 infection using routine blood tests,"

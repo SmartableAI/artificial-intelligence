@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-creates-knowledg
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson/"
 type: article
 quality: 115
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
         width: 300
         height: 240
-        isCached: true
-  - title: "IBM Launches New Innovative Capabilities for Watson; Leading Global"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by"
-    publishedDateTime: 2020-12-09T17:16:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-launches-new-innovative-capabilities-for-watson-leading-global-brands-including-ey-and-regions-bank-use-watson-to-infuse-intelligence-into-workflows-822080923.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1361739/Watson_Assistant_Banking_interaction_widescreen.jpg?p=facebook"
-        width: 1901
-        height: 996
         isCached: true
 
 secured: "hSmgXWNeLm0TFVWD4krIX241FfawUSadMnyxcjWoQAKlBhuEUldPPiEL9BQ0tEZTFk1XD+Xfidc0NBDy++qj9sxA9E5MdltEhHuWqzV7Gm+8nyFtF7jyWXfQtDSTY+CvyEM+KN6wge1J9o7uleHdNn9LF6JUlTri2/RWglArkDoBrhI8n4Fn57Zg74sqPg58np//7O8bC6vlSI35bxicunBdWeFaiiu+1JF2gqyePsJm4jNqNCZGOZoJRXC4ctKpOJPTYy6BCuoJYU2302kLVR1XURBsI5HVzEev4M1qX35Iz6TdD9rLSKuX8sGeFgu3PxAPE6GPDxBlyw3B1ur7dwDd2PnWIiFxwqI1joSQGhgC4O+ufvR3TbQ4pN8PgYWgWdwlEKSnnegikwPVuQ0CxvOx5Py83A6Hgc3ArOuBXbNppj14uxVgiUo3T9kQ2MSdxaBlHgWKlGo8a5brs68z/kn46ntZpaFyIw6QAENfpOgznbnfrSgspE+/OTblzZfLqLuAcx7VlCef6oKs4wT72g==;6vKioBF+DAXQJkEKUD7ZBA=="

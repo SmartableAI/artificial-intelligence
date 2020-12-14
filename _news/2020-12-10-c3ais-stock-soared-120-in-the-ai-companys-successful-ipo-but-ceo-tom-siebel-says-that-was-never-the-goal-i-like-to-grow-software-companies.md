@@ -90,22 +90,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "C3.ai IPO Adds to Enterprise Software Deal Boom With 100%-Plus Gains in Opening Day Trade"
-    excerpt: "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market."
-    publishedDateTime: 2020-12-09T18:00:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/c3-ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade/2770543/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 50
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "fWDX9ROkzSWVNTPOupdvt4tM79QL462YnDXAXQKXM/pAihlcf82ukS9QkFaddZ1cYvN6qUi+ZbGDMbB2Vw5oY4HRfSaEypJbrQUNfYtGed6wVqOSSjjuPOFEOYgM9vTQfj4nzxn7iia8RGzZainhj9o4AYDQ2QovHYzlnvQyt55Hi9fk7jwFJkx2rG8b37F4Uus1IytcJELLZPx9XYOoICG9Xfd5HuzOIY+EXoeX3ZvgwSCtzwDLYzP92Z2necGDXTVmKwRs7Qbg/gFmI4y/uOY47tXQsPJhA1T30kn79Utz6lAZ9F7irnf98HgWZA1MD+/Q/9Ah4d4ftJbgdeMw9XB8wEMcB5gv9GLuEa1M4egTMYeMO3JcbbrpowxRVenW2z53FQNOt4b5wFCiLmmJDVlKjIey3FUU32luX8Dw0EzHDSN70pPN+QmU0lYTeGfunVSPBrZUgzGFs21EhyQCyGTAsHAXb9Ry0tyzY2DEGO1OUXVFyLiEPW0GDLwmwGCq7uGRLT0PBV2Lvi/R0v00bA==;rI5SRwFF1Ypw1SJ0VJS7GA=="
 ---

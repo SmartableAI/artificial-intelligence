@@ -7,7 +7,7 @@ originalUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-
 webUrl: "https://www.heraldscotland.com/news/17458760.driverless-cars-will-decide-hit-accident/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,100 +23,6 @@ images:
     width: 2400
     height: 1595
     isCached: true
-
-related:
-  - title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-    excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
-    publishedDateTime: 2020-12-09T17:06:00Z
-    webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
-    ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 59
-    images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "National Digest: GM green lights test of driverless cars as taxis"
-    excerpt: "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state."
-    publishedDateTime: 2020-12-09T21:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440"
-        width: 1440
-        height: 945
-        isCached: true
-  - title: "Tata Elxsi's driverless car buzz steers stock up 7%"
-    excerpt: "Tata Elxsi works with car manufacturers and component makers and deploys its artificial intelligence and computer ... there is no plan to showcase any driverless car today or in the future."
-    publishedDateTime: 2020-12-11T02:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/news_image_files/2016/356x200/d/delhi_transport_traffic_356_2331_356.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
-  - title: "GM’s Cruise putting driverless cars on San Francisco streets for first time"
-    excerpt: "The company said it will test cars without a driver in the Sunset District, a neighborhood on the western edge of the city."
-    publishedDateTime: 2020-12-09T20:44:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/09/gm-cruise-driverless-cars/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 57
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OXYHJQPIYI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Air Canada Pilots Facial Recognition Boarding in San Francisco"
-    excerpt: "Air Canada is testing a new boarding option using facial recognition in San Francisco and plans to expand it to additional airports in the United States and Canada, the carrier announced."
-    publishedDateTime: 2020-12-09T19:40:00Z
-    webUrl: "https://www.businesstravelnews.com/Global/Air-Canada-Pilots-Facial-Recognition-Boarding-in-San-Francisco"
-    type: article
-    provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 54
-    images:
-      - url: "https://www.businesstravelnews.com/i/BTN-footer-logo-no-tag.png"
-        width: 600
-        height: 398
-        isCached: true
-  - title: "Baidu gets nod for driverless vehicle tests"
-    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
-    publishedDateTime: 2020-12-10T01:05:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cZXlkJdYV0LTw0mHJuJ3AQyjSUVN6HpBM01R0jqPS7/9lKhfTNOZp8wLlZa6PZyRAdOGWg+RGn4OfuSY+IWSQjGMTg6uQz6SBzUnbN31bhgrKBZE9ROC6pENqu1w6aDJRYV7piYs8ftPmmUpbAwdbXzk3mwN7UD1FI991BOi3m3NcppBsE+OGhXtntQDyfXpsi152t3Y+mnbNLlAoh/HfYtmvLFwx+7uSCy9NKyWcf5zoqNwTjKk5dgWcU2GFh7mkW3kpZaqjcrkAnpp2WWU5t7Tic0NCWLzqh0c587wgW6z5b8s7hOBgQFE2qdsRTZ1Kkf1q+jdsDqcpf0p951R0hATQ7+MLK2BLlJ258BgotE=;uoh6pJmgpdjKtUXQRr7Wdw=="
 ---

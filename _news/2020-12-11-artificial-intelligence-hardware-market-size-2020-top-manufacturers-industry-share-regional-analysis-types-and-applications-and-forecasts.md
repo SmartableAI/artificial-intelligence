@@ -72,6 +72,20 @@ related:
         width: 564
         height: 444
         isCached: true
+  - title: "Voice Recognition Market 2020 Technology, Trend and Growth Forecast To 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
+    publishedDateTime: 2020-12-14T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-technology-trend-and-growth-forecast-to-2026-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
     excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
     publishedDateTime: 2020-12-11T10:05:00Z
@@ -95,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2020-12-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
