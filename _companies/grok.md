@@ -30,7 +30,7 @@ tags:
   - AIOPS
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1220041216206819328/s-dBH1Tb_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1338527130251104262/28GIGXM6_400x400.jpg"
     width: 400
     height: 400
     isCached: true
