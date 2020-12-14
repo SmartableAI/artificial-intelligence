@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Just Revealed a Potential Concern for COVID Vaccine Makers"
-    excerpt: "Machine learning and artificial intelligence are solving problems that we never thought possible. Just this week, a unit of Alphabet -owned Google -- DeepMind -- used the approach to solve a mystery about how proteins fold that had vexed scientists for 50 years."
-    publishedDateTime: 2020-12-09T14:33:00Z
-    webUrl: "https://www.fool.com/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/artificial-intelligence-just-revealed-a-potential/"
+  - title: "Study details first artificial intelligence tool to help labs rule-out COVID-19"
+    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv's new AI-COVID software."
+    publishedDateTime: 2020-12-10T21:51:00Z
+    webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 81
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 70
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F603651%2Fcovid-19-vaccine-vials.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/8-researchersp.jpg"
+        width: 639
+        height: 426
         isCached: true
   - title: "Manufacturers navigate COVID-19 with AI, cloud and robotics, says Google study"
     excerpt: "Manufacturing firms around the world have responded to the COVID-19 pandemic by accelerating their investments in disruptive digital technologies such as artificial intelligence, robotics and cloud platforms,"
@@ -80,6 +80,43 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "NUS researchers finds best combination of available therapies against COVID-19"
+    excerpt: "Researchers from the National University of Singapore have utilised a ground-breaking AI platform to find an optimal combination of available therapies against COVID-19. The research team identified the drug combination from over 530,"
+    publishedDateTime: 2020-12-10T15:53:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/nuos-nrf121020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/251258_web.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
+    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv’s new AI-COVID™ software."
+    publishedDateTime: 2020-12-10T19:21:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/biocogniv-research-partners-detail-first-artificial-intelligence-tool-to-help-laboratories-rule-out-covid-19/article_c52ac42f-05bf-5b2c-856a-fb03bdf384af.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Researchers introduce first artificial intelligence tool to detect COVID-19 probability"
+    excerpt: "A study in the Journal of Medical Internet Research introduced Biocogniv's new AI-COVID software that can easily predict the probability of COVID-19 infection. A team of researchers from the University of Vermont and Cedars-Sinai discovered high accuracy in predicting the probability of COVID-19 infection using routine blood tests,"
+    publishedDateTime: 2020-12-12T16:32:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20201212/3673366.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
 
 secured: "IIs3yjY25tacH6PKbPHpFnIvWFiEG2f0XRTIh2IZpN+GZ8zs0HEvv9CDTupcSh2QDJFhMVHlaaJrJ+5R5SakgHsQZjk5NySY/rfqhPzuuFzZq2AXR5U+MU4ETzutrNSlavc8Bdy6leD2lYE5HU1nQTm4sz+HXrNvyX4QmMjVfbYb9OZ74ra7giJoU7TcfZmlPH65Avui/vhFyuCKhe0P9wqMvDtzkPtpTtyTPIP7bvq6Kl0PY6uNDTjoGAlXNIcCVcUE0lGgrKEXD3hSxn5wGAo95kMqgrLZj0Phpd3EL/pk1zQCXFiuU4b24lMY1k0klJWkRW11DiZc8srkr+7SYHXIvY4oF6QtkE3TaNo2Azk=;L2gIfFQ6Z8jxrqnD7Vr2GQ=="
 ---

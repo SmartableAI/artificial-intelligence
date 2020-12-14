@@ -106,6 +106,20 @@ related:
         width: 635
         height: 450
         isCached: true
+  - title: "Who are the top female fintech leaders of 2020?"
+    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
+    publishedDateTime: 2020-12-14T05:35:00Z
+    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
     excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
     publishedDateTime: 2020-12-12T18:47:00Z

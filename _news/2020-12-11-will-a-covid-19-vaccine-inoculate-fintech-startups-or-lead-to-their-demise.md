@@ -102,6 +102,20 @@ related:
         width: 635
         height: 450
         isCached: true
+  - title: "Who are the top female fintech leaders of 2020?"
+    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
+    publishedDateTime: 2020-12-14T05:35:00Z
+    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "An AI proposition is now 'table stakes' for fintech startups"
     excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
     publishedDateTime: 2020-12-11T12:35:00Z

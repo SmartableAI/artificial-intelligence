@@ -129,22 +129,6 @@ related:
         width: 634
         height: 382
         isCached: true
-  - title: "GM puts its self-driving technology on the Sierra pickup, including towing"
-    excerpt: "Super Cruise, GM's semi-autonomous highway driver assist technology, will launch on the Sierra 1500 Denali in late model year 2022."
-    publishedDateTime: 2020-12-09T14:20:00Z
-    webUrl: "https://www.freep.com/story/money/cars/general-motors/2020/12/09/gm-self-driving-technology-sierra-pickup-towing/6494726002/"
-    ampWebUrl: "https://amp.freep.com/amp/6494726002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6494726002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/08/PDTF/4b846453-50e0-481f-a1c9-1dd2a51ed02d-2022_Sierra_Denali_SuperCruiseTeaser_FINAL.jpg?auto=webp&crop=4266,2400,x1009,y925&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
     excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
     publishedDateTime: 2020-12-10T18:17:00Z

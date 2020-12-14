@@ -41,20 +41,6 @@ related:
         width: 1984
         height: 3051
         isCached: true
-  - title: "VOLTA MEDICAL's VX1 AI software for use in atrial fibrillation mapping now FDA cleared"
-    excerpt: "PRNewswire/ -- Volta Medical, a pioneering French-based HealthTech startup is pleased to announce that it has obtained FDA clearance for its revolutionary"
-    publishedDateTime: 2020-12-09T13:48:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/volta-medicals-vx1-ai-software-for-use-in-atrial-fibrillation-mapping-now-fda-cleared-301189550.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1362241/Volta_Medical_Logo.jpg?p=facebook"
-        width: 619
-        height: 326
-        isCached: true
 
 secured: "shdTl9kVQImPLftincqongLJ8AXPPcyNxABbA+GSJoTDl3CDcUcm50DQgw0inh1aPAsxr2W7gN6+7UXUin9JmJ0KWdye11fYIFGlg0IENhM6pisikbyURGVnSAuUPpi7AJwWm354qsFvhNQOMKFaS78sOjGZ0Z2V0NuUTpc7Fz0yjk5wHGXjvNUHA4lPPCcgJjN7KYHy8qnZprWlPPCCKHTUV3hz4aiN+exyPdnGUohPvY+cT9AJdr1iOX+h2jqkOfTDEZrIpth3JPQ7chpLDPwFJva006JQnZv2J2OX7olE9Br9MVELPUbB+OOCWstlSjMfU8q3H7FSDalRaqDEZoQ0pCPihDgA/sldRZA6YRgezXplS+/5kATS05r/7gSSPZfKyd2Y/F/Y+aBDG7b7ghrHxik3PlNl7vHPF91nBM94M87HU5vWRwEnqzRILdvuf+xNKdpn6fDa4Wrtwq8jaOA3KJPpXtBDuSsQwP0U7BrYbFJpr1CLJs9k1wF4wbPnaNOjzhkO+4Jh48BPsy3s9Q==;OdRahygMjUP13ZKxHDgNbw=="
 ---

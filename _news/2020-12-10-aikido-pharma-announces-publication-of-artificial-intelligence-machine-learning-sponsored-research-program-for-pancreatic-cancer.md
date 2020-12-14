@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-s
 webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-sports-products-and-services-pancreatic-cancer-0b002922f5e8af3a7425dc6899d9dc10"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AIkido Pharma Announces Publication of Artificial Intelligence-Machine Learning Sponsored Research Program for Pancreatic Cancer"
-    excerpt: "AIkido Pharma Inc. today announced the publication of positive results from its Artificial Intelligence/Machine Learning Sponsored Research Program in the field of Pancreatic Cancer. The full article is available at:  (See Nature."
-    publishedDateTime: 2020-12-09T15:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/aikido-pharma-announces-publication-of-artificial-intelligence-machine-learning"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 50
 
 secured: "lFckOka3nSLatV2iV1+DqTtGDcWCr4MCu23Zf3gXbqGxcZd9VJyFZVy1lE3L90QbfQktCHfs8RET3MaIY1ckP99RZCDb7zZIv4Y6Hpjl/xycm/hwYmUEgQbDERGMVW9hugi4Y+OEqe2MU2AaLi0PXEFPrCxqvBBie2R0DsMZaYqPOr4U9Vmv36CptJW6XJXVpfYYnxrDm2sjas0osJAUpPV0cBT2S1iSWYxNQ7Xr7cdpuXtpDlZxv0lRhg9Dub0v/EJXv59rzSj1dzG2gKEi7xmHLY+O+XKk2VbAUtNGfiUOWaMgHKn1I63u7bSeLW7tuGx0+T3HgHGUZZkrcy0jxDB2FbgObXKGLoXIRymrxoM=;DYRrcfrUHxogkQFOh8H11w=="
 ---

@@ -24,19 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "PathAI Present Machine Learning Models that Predict the Homologous Recombination Deficiency Status of Breast Cancer Biopsies at the 2020 SABCS"
-    excerpt: "PRNewswire-PRWeb/ -- PathAI, a global provider of AI-powered technology applied to pathology research, today announced the result of a"
-    publishedDateTime: 2020-12-09T13:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18711797/pathai-present-machine-learning-models-that-predict-the-homologous-recombination-deficiency-status"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18711797"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18711797"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-
 secured: "4w4QKj79F9rxKUTsXlNL6icBVUpEokYYReWA+s/lFA7yL2xwr3fTC3Kd2WQrK5ggFxmaPI/JB8CFsuRSYMEzXEJZcQ/Q7MYMKQB41YKhEXQ1CxBxH6IZunGVEoNtZ9gD1I7wAOzZ3Z+PT6PDHzELqsBarvpnrHJeahRoMhvH4bzcR39JHrwxkx+wMpznZjwR7eASY8KGuXisawbnoX61Po3A3vBHK6T6UQ8TdACm26jxWqORTDOhhqNefMP7Oh5R9y3B9o/0rON8ZWldeUJVhiPWnjo1LSuSLPlGcFIdprcUyWDj7m0B/IrIVR4Dp7tJ3Wf75s/bjlKoCpnUfCpLe8xbnYUqZ6KJpUXCOUIb4ik=;GQHVQfgLX2IKDiLDbEtVOA=="
 ---
 

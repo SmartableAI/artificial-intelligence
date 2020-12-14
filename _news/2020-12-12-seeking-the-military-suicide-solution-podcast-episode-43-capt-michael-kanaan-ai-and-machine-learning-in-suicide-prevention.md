@@ -2,17 +2,17 @@
 category: news
 title: "Seeking the Military Suicide Solution Podcast, Episode 43: Capt. Michael Kanaan, AI and machine learning in suicide prevention"
 excerpt: "This podcast from Military Times examines the alarming rate of military and veterans suicide, offering new insights based on research and effective clinical and peer support practices in suicide prevention."
-publishedDateTime: 2020-12-12T09:19:00Z
-originalUrl: "https://www.defensenews.com/2020/12/11/seeking-the-military-suicide-solution-podcast-episode-43-capt-michael-kanaan-ai-and-machine-learning-in-suicide-prevention/"
-webUrl: "https://www.defensenews.com/2020/12/11/seeking-the-military-suicide-solution-podcast-episode-43-capt-michael-kanaan-ai-and-machine-learning-in-suicide-prevention/"
+publishedDateTime: 2020-12-11T18:44:00Z
+originalUrl: "https://www.militarytimes.com/2020/12/11/seeking-the-military-suicide-solution-podcast-episode-43-capt-michael-kanaan-ai-and-machine-learning-in-suicide-prevention/"
+webUrl: "https://www.militarytimes.com/2020/12/11/seeking-the-military-suicide-solution-podcast-episode-43-capt-michael-kanaan-ai-and-machine-learning-in-suicide-prevention/"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Military Times
+  domain: militarytimes.com
 
 topics:
   - Machine Learning
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "yEGqWaH4X4rzzTTk2+XCD3zNNrQ2WdO/NJF23k1XFO/cDwyQHALQFrxgPYSXI+F3iYh13ZBBjut8Ap2nNP1NlZ12ki+BxcI4XVGa9MJH0Ew0stQGY7LagCKlQGK2v/BibHxn11eq6BoGnGdxBeg4Ti08feq9rAP4MrpPKXLYONVQnssn7uB+Ssc9FvuJvH8SsjabZ60ScN9it8Cjrg3Rmu/HIfncdUzFUHmxMK1nWEWL3Bw6U6Qgx70plYzQZLDoa3FHDZJ8kFzi+RxCqcl1QUVqK/BbXSS70cp9UUdkL99WrrraR4z+nkMMt+EtL33ZTu4mmKUDjx6GbQyZY2h8wUgh/OB2vRUIElFVPk717AWCQoGQnnfm36VxvBubNQGywi5/gtQ6yyBD8F+zZu+1jZOJkxUuw3u5/9jG2Z4rBA0aJj9Sd/lMIU5ax6pLnVJqpy4YPuFbGrWIeYQqofj+RZpzfK/7E3bqQPpK7eyJmrYXKSo9MNl6DHGmh9418RUChzx5rd0RdAdWI20UnNNbWA==;noJyQlYjNgUS/222LiOsCA=="
+secured: "DntoF58fIYIqlC8Fk6D7vZizkKlI0/JpAoDPW2CE604JfpTwGgT0K9l0MflhQvchmx2Wk2w6Zjf5ZeQA/dpqFaJ30wfXh1L3jUBUR62BUnwPdSn2AVuWNsxNuZXH98khMXvPwG2mRtjKyGC3xTsHu51jw3RXc8zZlgQpDmFuzuVeDkSzGs3XBF5gzn9rk41BmZ6g2mld5RQAsXORi88/eZVqUzrVfxVLfw3rFPlXVToV7Lxy9jfNh9vE4umgLDtixG27bazbdXgZJ0/Rvo4U/plNCjY0frDt8q2XLWussg7bYeV48Y2uyxhRS+h+bl+L/0FAy3vnBJqi9nEKAUSSAVWcHccRqbmZaknXgcHBbT0=;yPG+uBDoJDH+RbVhPkggBQ=="
 ---
 

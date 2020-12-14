@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimi
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/an-eye-for-an-ai-optic-device-mimics-human-retina/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 960
     height: 413
     isCached: true
-
-related:
-  - title: "Breakthrough optical sensor mimics human eye, a key step toward better artificial intelligence"
-    excerpt: "Researchers at Oregon State University are making key advances with a new type of optical sensor that more closely mimics the human eye’s ability to"
-    publishedDateTime: 2020-12-09T13:36:00Z
-    webUrl: "https://scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/"
-    ampWebUrl: "https://scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519920/breakthrough-optical-sensor-mimics-human-eye-a-key-step-toward-better-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 47
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/01/pupil_eye_study-ao.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "5uP5i9xoN5rIiSEHhco339VrmtvkXJ9sx1fz7ygU7dlV6G+Y8g5Z7C/INIT70lspkKX6ZfuMqPDfErfOTHVrp7X2vmEu97UABPQ+a1D5/6EF5B8RxRlVge42AUUtmh+bMjJTlMPIADO/kUdRcQ4KZOQO/WqskJHRioyqwTTLSlObUlce5G0LBtuDWpIoMutCr40qQoicNJtJEagpbq6UConYefy1WwqYDtW2EdWwImzjbvzhv+iW4k5bD2Csi16qgWlASNym/e5YOlKTIny0zlP1pCeTn8rYJN/aMGLvrm2zaV27RTkn2Mp49sSuDwK/gA+o5S1sVy/Kh2fb+iR3/1vc7Wna6Nkv1Jtj/Jco3RudrkarWlk8Ljd8NVFzqDWmBTISr4D6ALEC3bSu5sQoJdoHE4bjmdJspAe3KZ7ryAPF+WSGOCCvsDJLYw5UD8tP7xIwjh8xhNn0hyMGy1YAJ26FEU9VEaO3N9h1J1tbVSU78vMs4Tx9mMZe6st0XOotPB1oGXBholXJgvArDWFrxw==;ML/3lMcTH2iVgYL6IofOKw=="
 ---

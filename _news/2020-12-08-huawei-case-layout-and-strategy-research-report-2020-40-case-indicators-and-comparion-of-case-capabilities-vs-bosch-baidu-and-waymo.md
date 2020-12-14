@@ -2,25 +2,23 @@
 category: news
 title: "Huawei CASE Layout and Strategy Research Report 2020: 40+ CASE Indicators and Comparion of CASE Capabilities VS Bosch, Baidu, and Waymo"
 excerpt: "Layout and Strategy Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Research on Huawei's CASE (Connected, Autonomous, Shared, Electrified): Who is the main rival of Huawei in automotive engagement?"
-publishedDateTime: 2020-12-08T11:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-301188138.html"
-webUrl: "https://www.prnewswire.com/news-releases/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-301188138.html"
+publishedDateTime: 2020-12-08T00:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468"
+webUrl: "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "802vt+fF+YL/Gyt8UGqcfllpulabskUz0clz8f9TT3SyaG6mvQk4UZE5beL1+CW1M7fGl2dZqOX56H/XPvETOcy2JA+y7497IxjXz9PbXhcbuiG9jgLDYdUpEIY7JUrq2vIloNrQAiYSTPasfNGPKs6UQ96PVdwhoOXYdVwL3goCxOQKK5Gp3BdrmnMipGvfzX4vA4Nv0QjNhvTkVrmCJmJYetbOx0V6nMJ+/74TWbOcxZYszPp6nzwCAWQAfHFUsg6zFuVelmiSMuTv+hsuCBcUnQQ/qheYPWTzcgu5b9Ay4pGa5mCX4HXmHuhDboreBvIJAoJt6IOxPTqRvQUIQYu8mpuzllT4EAxTTj2tZ10=;DMp2+Z9Dey+yv+hbZeuIMQ=="
+secured: "yitvmBGHLOujJrXWE3FkmDguYCRsbL9jJQ+lDrPPi51LlVO4pYysGMFJglw+9SakUm952VaQeP5ORSNtd23prXOMADMB85Bw09dZfReBEHCyYPn1Stz0wSlkNl60/h9NIt59dMKRF8NgnD93kxbzKYyJQEz8DawxP3awNBJYwAmB5+DIIFtXh2xyv2lE5xgMu/DQJvcj9W4ccJCox9QHKYF0LsSEHA4s/VPoNLTJ4kiujVg6YEb7m4kJi6KslJvEDzCNgtdE51Hd9gICEFZAlPEqZC7f8er62uPnOKIUhJlBAKgJHDzsXRrfu8Gu01dINzMzBjIGx6V1grkSjzYpBJF+Lw8qDUivshdczlHdMPI=;Pe/DD/kAZTOBka5s/GL6og=="
 ---
 

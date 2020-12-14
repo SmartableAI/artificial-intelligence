@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/11/1-fintech-stock-to-buy-before-2021/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/12/7/saupload_003757b20a958dfe27ede1a4b350cab0.png"
         width: 635
         height: 450
+        isCached: true
+  - title: "Who are the top female fintech leaders of 2020?"
+    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
+    publishedDateTime: 2020-12-14T05:35:00Z
+    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "An AI proposition is now 'table stakes' for fintech startups"
     excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."

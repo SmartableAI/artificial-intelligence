@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/c3ai-ai-stock-trading-debut
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/c3ai-ai-stock-trading-debut-nyse"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 720
     height: 406
     isCached: true
-
-related:
-  - title: "C3.ai Prices IPO at $42-Share, Above Estimated Range"
-    excerpt: "C3.ai, the artificial-intelligence-software provider, priced its IPO at $42 a share, above its latest estimate of $36 to $38."
-    publishedDateTime: 2020-12-09T13:51:00Z
-    webUrl: "https://www.thestreet.com/investing/c3ai-prices-ipo-above-estimated-range-at-42-share"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/c3ai-prices-ipo-above-estimated-range-at-42-share"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/c3ai-prices-ipo-above-estimated-range-at-42-share"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 57
-    images:
-      - url: "https://content.jwplatform.com/thumbs/ovyBpuoH-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
 
 secured: "3nFqsINLN4F7oRry4G5ZQjw+ov/BSJCxiuTkFZFyGZNAMj+quyjWYlKEu2alflsCLMJOyMjKOJ3Le0Gv0VuhB88DucpSjKh9PNMlCqvDHYZhxmenxrNcuYiJIDY/ERA4DyknJdB1cY7ieYGJ+Pe92+MFwmmMW9xZwDmu1BTLxFf2azk5aAWpqDPL1RP/32awIgBFzMP1xnx3DEMYh3UaD09PlHxN1suTY5ZfeQVMUwiDYFZjGkcvvmB9gpyA+EhvuRgF4Jm6692k5TyjjeteEHg1pSM/eVXpZ5smA1YGaWs2Hqb6qphP7oG7gq9e6FXjs2t1leQNQhQV4Yb4rMFzJ7gHMEhCgZD1vQ2KaU/54Ytyb4ayOp3FVIuK3RMTti9OGbd32SmQRD9MfMzA/1QnGGgfXro2P7QJ9T5Gqk4qOOByHb5hjsy2N2LfhSKx4xS+/SDGEV4WufCHWQ5HLiLCGPkWq9OCcAXa+cJyRSOGJBfNUaL9BW91kK0hyiApJa6OKKa5j/L50NU97ADW3qcLCg==;PDXwZ2ElP5nRLDqniUmtiQ=="
 ---

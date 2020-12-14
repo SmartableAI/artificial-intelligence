@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-14T04:38:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/12/201211083055.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201211083055.htm"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 related:
   - title: "Artificial visual system of record-low energy consumption for the next generation of AI"

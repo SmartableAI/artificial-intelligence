@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 573
         isCached: true
-  - title: "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work"
-    excerpt: "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,"
-    publishedDateTime: 2020-12-09T14:58:00Z
-    webUrl: "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 73
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg"
-        width: 472
-        height: 371
-        isCached: true
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
     publishedDateTime: 2020-12-10T20:19:00Z

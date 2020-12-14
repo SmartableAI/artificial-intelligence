@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
-    publishedDateTime: 2020-12-09T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "RNXsMt3am+a+FpnjCh6HnGnAYb/DGiADtChvOLOvx1Y97O60x2C2+WnInmEDGC4wPxe53ZW0emh4EmyLssvgcB6sC+xAhyCS3ntWv2lNEBvH7DzSc79sA5RZ6ns5VTY8cO973WrGlCFfCRMYC7bwgNI4TxVTWOmqZuZOPtHl7JnQQzqiMx6RZ454mED30fUr5SqFMxgpYlT/WhWf/LP4pOpwm9MIyjl8Qi07HzYS1ylsYaSBn2JTILXu8CUfJKS3dZxLABpQzC5V3itXU5c051Nr6hHDYV2qDhx9pKSq2HN5sk8t3Q+Ct6f3dBoytHzawJudA2sos7pjQUUIJ04OgzMBRQ8fSYi0c9w7MNSLHx7qrmEBhBesx5WjdlAkjafOhFeia+TrJ2Lp96SedPyR8a8Spg+pII0RS8NysBdOwlJFk+ZFmIoiNBHzmyJCuxVBTpmj9PDDMasSQGmT0099KKtAgTdRbvjkzyRVk7mEueO/G8IvvRnverXp2EfT+O9eBD7FU10o6sxiITorkrKzaQ==;MqHuAQrfZVH2xw9vGByQdA=="
 ---

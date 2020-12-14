@@ -77,20 +77,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work"
-    excerpt: "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,"
-    publishedDateTime: 2020-12-09T14:58:00Z
-    webUrl: "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 73
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg"
-        width: 472
-        height: 371
-        isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
     publishedDateTime: 2020-12-11T14:47:00Z

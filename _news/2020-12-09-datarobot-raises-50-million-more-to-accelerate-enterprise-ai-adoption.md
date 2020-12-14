@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
-    publishedDateTime: 2020-12-09T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Parallel Domain raises $11 million to generate synthetic data for AI model training"
     excerpt: "Parallel Domain, a startup developing a platform for synthesizing AI model training data, has raised $11 million."
     publishedDateTime: 2020-12-09T15:04:00Z

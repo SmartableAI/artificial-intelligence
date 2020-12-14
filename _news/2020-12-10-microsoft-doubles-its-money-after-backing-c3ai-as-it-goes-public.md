@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-inve
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/12/bigstock-Cologne-Germany-July-259415266-630x420.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "2020: Microsoft unifies .NET ecosystem, takes on more advanced AI, and addresses remote work"
-    excerpt: "You’d think that “November 2020” was a cheque that could not be cashed given all the challenges this year, however, .NET 5.0 has been released on time,” Richard Lander, program manager for the .NET team,"
-    publishedDateTime: 2020-12-09T14:58:00Z
-    webUrl: "https://sdtimes.com/msft/2020-microsoft-unifies-net-ecosystem-takes-on-more-advanced-ai-and-addresses-remote-work/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 73
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/12/YEAR-Microsoft.jpg"
-        width: 472
-        height: 371
         isCached: true
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
