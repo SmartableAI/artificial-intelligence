@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Global Military Robots Market Report 2020-2025 - Airborne Segment Currently Dominates the Market - ResearchAndMarkets.com"
+    excerpt: "Also, the companies are investing heavily in R&D to increase autonomy into robots with the use of technologies, like artificial intelligence. In addition, the acquisition of small regional players and technology companies by international players and ..."
+    publishedDateTime: 2020-12-14T16:52:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-military-robots-market-report-2020-2025---airborne-segment-currently-dominates-the-market/article_c319ee51-bd9b-5e20-9eca-bb3cc8941533.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 29
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
   - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
     excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
     publishedDateTime: 2020-12-10T08:56:00Z

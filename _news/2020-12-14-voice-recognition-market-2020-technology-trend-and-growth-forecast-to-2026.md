@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
+    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
+    publishedDateTime: 2020-12-11T22:39:00Z
+    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "obQ5tBOR2O/UKMebIAh9cEpwMQj8mTeNcaHIGxqxjTZ+KdOXAeJ4Xdq0Lg4dAZZG9MeHx7B/pEc5SsRpGgTo7wGIOYxEO1r6IXYkBu/ssnB5ym+ZxdnyDm48VyeYy34VekxBKGTDRPQOIXoPT1bt4mAT0IHV9enAmcp280tkS98fufzO3gHs6xEOM6AQydzOlb3XegubeQscug1Zfa/p4EVY+Tiwst4J+UZEbJy+Meysi+dUCilbPvvK+pKiZOvHaaKYU5/1oOhGwhj4xHtRz1v8svdZIh5dUUMm6q7Lb57uNFBJDgYurG9mIjzFJhk3hJz9/5CNJ0/b2daoVPhiREVnvtojLYdxI4bbw0Rz/yA=;efBHi0kCwWlBWpmpj5KB8w=="
 ---

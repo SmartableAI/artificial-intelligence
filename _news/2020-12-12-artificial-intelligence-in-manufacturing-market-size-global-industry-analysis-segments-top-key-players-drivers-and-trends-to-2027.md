@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global 3D Facial Recognition Systems Market 2020 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2025"
-    excerpt: "A new business intelligence report released by MarketQuest.biz with the title Global 3D Facial Recognition Systems Market 2020 by Company, Type and Application, Forecast to 2025 is designed with an objective to provide a micro-level analysis of the market."
-    publishedDateTime: 2020-12-10T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2020-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2025-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
     excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-12-10T15:39:00Z

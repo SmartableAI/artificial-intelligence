@@ -2,6 +2,299 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-11-10-hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services.md",
+      "title": "Hyundai taps Nvidia for future fleet AI, infotainment services",
+      "excerpt": "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "originalUrl": "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/06/f45dbca6-1fe8-44d1-a0c3-9b9c773cdf84/thumbnail/1200x675/1714b4bf785f425773f040d17a6f803a/nvidia-geforce-now-cloud-gaming-service-5e3b63136b967a00010397a5-1-feb-06-2020-5-48-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "publishedDateTime": "2020-11-09T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
+      "title": "US pushes light regulations for AI, in contrast to Europe",
+      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "publishedDateTime": "2020-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond.md",
+      "title": "Neural’s market outlook for artificial intelligence in 2021 and beyond",
+      "excerpt": "The year is coming to a close and it’s safe to say Elon Musk’s prediction that his company would field one million “robotaxis” by the end of 2020 isn’t going to come true. In fact, so far, Tesla’s managed to produce exactly zero self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/binarystock-796x520.jpg",
+          "width": 796,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
+      "publishedDateTime": "2020-11-09T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns.md",
+      "title": "Oklahoma plans to use Rekor’s AI to track down uninsured drivers, despite discrimination concerns",
+      "excerpt": "Rekor's partnership with the state of Oklahoma could lead to descrimination against certain groups of uninsured drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "originalUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/roadtrip-e1604947444975.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "publishedDateTime": "2020-11-09T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
+      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T12:55:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-how-the-father-of-the-playstation-is-using-his-playbook-from-sony-in-his-new-role-as-ceo-of-ai-backed-startup-ascent-robotics.md",
       "title": "How the 'father of the PlayStation' is using his playbook from Sony in his new role as CEO of AI-backed startup Ascent Robotics",
       "excerpt": "Now he's trying to implement a similar strategy at Ascent, the robotics startup he joined in September as CEO — while forgoing a salary to save capital. \"We want to collaborate with as many smart people\" as possible, the so-called 'father of the ...",
@@ -909,309 +1202,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors.md",
-      "title": "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors",
-      "excerpt": "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "originalUrl": "https://www.techradar.com/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QKvt8wTE9mCHMTYLqMDi7V-1200-80.jpg",
-          "width": 970,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "publishedDateTime": "2020-11-09T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-funding-alert-b2b-sales-startup-nektarai-raises-215-mn-seed-funding-led-by-nexus-venture-partners.md",
-      "title": "[Funding Alert] B2B Sales Startup Nektar.ai Raises $2.15 Mn Seed Funding Led By Nexus Venture Partners",
-      "excerpt": "Singapore-based business-to-business (B2B) sales startup, Nektar.ai on Monday announced it has raised $2.15 million in a seed funding round led by Nexus Venture Partners to build an artificial intelligence (AI)-powered go-to-market collaboration engine for modern revenue teams with participation from Insignia Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359261",
-      "originalUrl": "https://www.entrepreneur.com/article/359261",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604910806-L-RAbhijeetVijayvergiyaAravindRaviSulekha.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359261",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261",
-      "publishedDateTime": "2020-11-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-an-ai-engineer-walks-into-a-data-shop.md",
-      "title": "An AI Engineer Walks Into A Data Shop...",
-      "excerpt": "If it’s not quite off-the-shelf AI, then its composable AI that brings together some of the core functions that smart systems use regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f996d1557bfc401bd9f3e03%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "publishedDateTime": "2020-11-09T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-robot-soldiers-could-soon-make-up-a-quarter-of-the-army.md",
-      "title": "Robot soldiers could soon make up a quarter of the army",
-      "excerpt": "In the age of artificial intelligence, robots will soon represent a large part of the armed forces, according to the UK's chief of the defence staff Nick Carter, who predicted that up to a quarter of the army could be made up of autonomous systems in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "publishedDateTime": "2020-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
-      "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
-      "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "originalUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fa8af370bb14e0095416283/lede/1604891135349-1-1.jpeg?crop=1xw:0.4428xh;0xw,0.0389xh",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "publishedDateTime": "2020-11-08T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

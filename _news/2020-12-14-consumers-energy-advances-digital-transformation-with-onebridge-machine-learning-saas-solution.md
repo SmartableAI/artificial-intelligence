@@ -1,32 +1,23 @@
 ---
 category: news
 title: "Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
-excerpt: "(TSX-V:OSS)(OTCQB:OSSIF) (the \"Company\" or \"OneSoft\") is pleased to announce that Consumers Energy, a Michig"
-publishedDateTime: 2020-12-14T12:10:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-14/consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas-solution"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-14/consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas-solution"
+excerpt: "OneSoft Solutions Inc. is pleased to announce that Consumers Energy, a Michigan- based public utility provider, has entered into a multi-year agreement with the Company's wholly owned subsidiary, OneBridge Solutions Inc."
+publishedDateTime: 2020-12-14T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas"
+webUrl: "https://www.nasdaq.com/press-release/consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas"
 type: article
-quality: 57
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+  - Machine Learning
 
 related:
   - title: "OneSoft Solutions Inc.: Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
@@ -39,6 +30,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "oLB4G73S7bjPCf0j9aV9C4/BmTRe5PqDtTRRPQCQKp2CXwUTk+DPMORsb90fK+VFDq2g7piZHaiyqLGwhkzAmlwSga6+Ut2f4dwbCJ/OlDdSaMId/vaP0Zc2yrkzfQoMQzdEEQ5/vdkyfZoE4TrMiW3EhA2RFOYQGSRyK837UmLAqmw4icud350oMvdruUAziNIblCLMa5PpCyxFBAneD01SGi5+bDUuZhASngNAWTEVHE46QZsSDG0y/trk2gDkRK+MHQZ81SBSCdHIC1KEdui7OjoK0tVC4GxsGEhUpJlHwz6ZNhhdDnuIvuoc2dcKheAcxGEI9IDLPFTezDGowYDpkC7E1Mmxf45Ip4QbmFI=;r2vkSPzSJL/75C3/G7julg=="
+secured: "7fwR1/orgnJKbjns5CbFo2+PwA9kOss7WkTEh3xeQ3qSkX/1douKXFHvGhbjz2N+zuR6UhMmqgy6dMJ729Al2g0ROEO7iyC2Z60xB3hyMGw3Gt4bC2Nv3Nd2QL4T28FG3RXfreepCxYEnfMBAUWqhnaWoLgM7kMKqAbBFiaWFBQXVhs24YOPn0qqY27TtTH6P80j94qe40yYClSAYr+fkTAkVT3r9zA2zqOOQYcTP/6QIy5G26JvQemgus1g0gTY0bzY/fXsVEAwDCp8XHkWZoOX8RW3kDtjuUhMGP9OznT4bpHDZLKdaCABW9RUU91N8uuqiiDiPiFbo4zLSIs6yfAqlrFKLNzmvzlcLgYWowk=;op+DFMrLYldA7UKkLwTbjA=="
 ---
 

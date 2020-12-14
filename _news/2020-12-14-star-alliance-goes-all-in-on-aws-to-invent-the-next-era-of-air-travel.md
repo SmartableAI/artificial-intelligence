@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is going all-in on AWS, moving all of its IT infrastructure to the world’s leading cloud to reduce costs,"
-publishedDateTime: 2020-12-14T14:14:00Z
-originalUrl: "https://www.itweb.co.za/content/VgZeyvJo1Yo7djX9"
-webUrl: "https://www.itweb.co.za/content/VgZeyvJo1Yo7djX9"
+excerpt: "World's largest airline alliance selects AWS to build resiliency, improve operational efficiencies, and enhance traveler experiences Today, Amazon Web Services (AWS), an"
+publishedDateTime: 2020-12-14T08:57:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18767994/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/b18767994/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18767994"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18767994"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "gBnQAymPXaOe+83ko2QnaCQ7PvN2haXCpN6B295enDuBdALoWfYtd70Kp0zvlywy7PH3E46c4+d4/Y5qjYAk2naOJQf1YIEBl2I1q2e6WjvKEtXSJpQCeOGz+CMzK1Xj7rAxadyqqTZvNaxsvBSDLrcvBQczzxAeU9fwJ9AB8sZNzeSqpgwkGV1PhVJphGd9xBt8sg6HV94aKCHD8hEejlqvI0Tr95oXKZOkbV9qfGPmMW+XSu2uF538QAn3evCkpAcEbVfSFSuA4ww6DEJiDCNzMHi3hNk1ojf0/W4StXKvAnG71CUGjuHx8D9Z7IiI06e9idNyONkGEbW8MxIjW93ooA8iEubSEEpaCtegb0g=;TKOvxS1RP7A6724FccEJ5A=="
+secured: "XjSheoryX7xAMHu62C4TFQJ6wop40DGSx/jiwh4IT2HYsJUBoD5oV39A8GZJ+8Yf2RpZH0lzciHOFS8iH4Zxa8S0FlyS3MSAyDOBel9XXSIyZqYqR+eL4m3uAqt8/XxPIARw3CKgJTOkXhxQT2JO7gI1zRAfJ+JUm8zg+h4lSZk5CJEkWUH4f4zfNCqhyxq5FWKoRgZH/xVXfoqJVBkQ22cONKB5Xnvg8vWYXPlDtpqyO1cuJIowekD0aKnsRG9O7zkwZObC8DUhLv203f/iD+WmTRVhMIC94Obem643C8nuLJWvo+c2WMLs5UB4xyy64haN9N+KD0oSsdoUlJQpBIGoOBF6KYEho4wx430PXIs=;LxKZm9UISmO7qxfhCWKUvA=="
 ---
 

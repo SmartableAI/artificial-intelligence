@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
+      "title": "Artificial intelligence and machine learning course",
+      "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg",
+          "width": 330,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "publishedDateTime": "2020-11-19T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
       "title": "Automating business processes with machine learning in the COVID-19 pandemic",
       "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",
@@ -1379,50 +1422,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime.md",
-      "title": "e-Book: Machine learning will (eventually) help win the war against financial crime",
-      "excerpt": "This e-Book, from Compliance Week and Guidehouse Inc., explores how the adoption of machine learning in fighting financial crime will likely explode as technology solutions become more effective and efficient—driven by work-stream prioritization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
-      "originalUrl": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/29730.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.complianceweek.com/e-books/e-book-machine-learning-will-eventually-help-win-the-war-against-financial-crime/pictures/web/b/e/m/cybr21rrisk_7_hp_390x260_617137.png",
-          "width": 391,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Compliance Week",
-        "domain": "complianceweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

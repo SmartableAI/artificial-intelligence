@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
+    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
+    publishedDateTime: 2020-12-14T17:38:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7a1109fbc1575bcbd741d%2F0x0.jpg%3FcropX1%3D353%26cropX2%3D2419%26cropY1%3D193%26cropY2%3D1742"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Zoox self-driving robotaxi revealed – Amazon cash builds bidirectional pod EV"
     excerpt: "Autonomous vehicle startup Zoox has revealed its self-driving car, a purpose-designed robotaxi that the Amazon subsidiary says is ready for the road. Founded in 2014, Zoox was bought by Amazon"
     publishedDateTime: 2020-12-14T16:23:00Z
@@ -121,6 +137,22 @@ related:
         width: 700
         height: 408
         isCached: true
+  - title: "Amazon’s Zoox Trots Out Four-Seat Self-Driving Robotaxi"
+    excerpt: "Zoox — which Amazon acquired in June for $1.2 billion — has unveiled a self-driving electric taxi. Zoox said the four-seater was \"built for ride-hailing.\""
+    publishedDateTime: 2020-12-14T17:08:00Z
+    webUrl: "https://www.pymnts.com/amazon-innovations/2020/amazons-zoox-trots-out-four-seat-self-driving-robotaxi/"
+    ampWebUrl: "https://www.pymnts.com/amazon-innovations/2020/amazons-zoox-trots-out-four-seat-self-driving-robotaxi/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-innovations/2020/amazons-zoox-trots-out-four-seat-self-driving-robotaxi/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/zoox-robotaxi-amazon-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Amazon's self-driving car company reveals its autonomous 'carriage-style' robotaxi"
     excerpt: "Amazon acquired the self-driving car company Zoox in June 2020 Zoox officially unveiled its autonomous vehicle set to shuttle people around It has a carriage-style design that seats four passengers facing each other It's battery packs provide the car ..."
     publishedDateTime: 2020-12-14T16:54:00Z
@@ -137,7 +169,21 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Amazon’s Zoox unit has built its own self-driving taxi"
+    excerpt: "Amazon.com Inc.’s Zoox unit has pulled back the curtains on a homegrown self-driving taxi that can cover up to 75 miles an hour and drive more than half a day on a single battery charge. Foster City,"
+    publishedDateTime: 2020-12-14T18:35:00Z
+    webUrl: "https://siliconangle.com/2020/12/14/amazons-zoox-unit-built-self-driving-taxi/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/zoox.jpg"
+        width: 800
+        height: 515
+        isCached: true
 
-secured: "UosyfeBeCeWnSxYBWoWscqioyY6E67h5oavzhfF5f1OFd2HjBQaH3pfAS5WXXYkiQCPaSeyjZ47ZJcvnXv38JXprUyxRQ1LBDtYxGYzgmWHV/o1bXYMOvvFnLr0gYCn2rly8C60k5fZI/DPNjVugnQHqLpHpmgFhgPuciTzKbofQ5s2vEvfjVeKtL5UmGn+lgHRUPafY9ctxtU69ik+66Q10K+mw2u90SLRFUDw4GK21eBz1c0OD2fuSfYrMZ/vaByPQZFKZQz+fS5bwEMN0mI01dj8Sfudh9cs9WYSMqkTDFqZDUKb5sEDlDU2ai6sFCsVbc5kNxHyB2IY/YpmEyGlZxzt3TewJ7uqKSNq3k3M=;i5wkFIbbwObolORMpW29NQ=="
+secured: "Wguc6ZKGcDLrC7SjgMSdmAFGLmNZAm2f9rYy8v8gVPcBwQbKIXE9h/+90zBHu1FV5gN3DJY8ohSdmKKJC4wPG6jbzeHdsfiSKRZd2ilmnzLYURMjcr9Trinx0Z2uwOJxGyqJiE76UCkr1op7SuM3ziEqlLn2/ef3eNzkGBGrDBmhBCwFlp+uKNLGRypIFQxx5Z9Xgb4wLSJzMnIJBkfgiUBqPFo3q8XSxoKU4xG729DZsYZCNRqsnXewIFqKcfjxdcuFJ5LPU5/lwM12uqpn9lsPtuaebOmbhzfQXD8sMYZv7kbn6nGKzhJyMJ0I2s+SAZyAsWUXuPAZ8B58mo0G4pdVBiVYR46onZhcXFhYyNww3EcDhffeDRUz7flHRFN+99wG/rX4n1VYNdGbGOjQ1A6ebyDFD58/ZaGgAS9aZ8i9pXY4WOoJ8qTeS9Vsl5NA8JfXvlDBhp/U6C4vCCWT+21N/lJOjF5MV2ZbYkPolhhydj0uHtU40WPZPAStRLcAjjtoKu5V7mA+OTMfSFPw1Q==;vN2Ai1TIDMFkj8Wte+ZcvQ=="
 ---
 

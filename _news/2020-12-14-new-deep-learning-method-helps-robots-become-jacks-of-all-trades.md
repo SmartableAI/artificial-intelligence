@@ -8,9 +8,9 @@ webUrl: "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-ro
 ampWebUrl: "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Singularity Hub
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg"
@@ -26,6 +27,6 @@ images:
     height: 792
     isCached: true
 
-secured: "i/geg/Y2f2ICsJPqnIGfnYhe1tfU5loP8bBtRpVLPl6WNLzYekf8Y//61i0hDIOit0kZiEvXPNG90Ms3XSCWjkQt3CPgCbk5m4HRsceprij6EDobi6bUTda0pV45i0V9N/4lFQfb28+A+oBBAuyoMU0h1uQUHfD5QyR3zWE6zPCQ1Ttg1RyqaR6bv02ndmiWtJAXIxSrGwPvCmB5hMX/DvDDjDxNobBi+OMTgPDeW8YPJpgVrcVGuCx8UQeoD8OdSzsdMql1v5eIdaq4j5GTK58899oXze5h4WGt7DkY/dZJeZn/hvdD+/Ze+fzIq7RyWSLA1uWossQbXDicYFcElEP2rSdu13RU6GkIExAehaE=;2GFz977avE7n4UXpuXgY2g=="
+secured: "Cw8pCoGYkTwevzDclzm9SBc1FhQCOr63s5XoFsemFEyl/W29IeJqhPn/5UYdJFJnm2PA+rcMHmxAeZUuCvM7ZuNikgV8SU2wKjsdVpy0X84qmbj8uhuKTEhHPeQDQBvmiiJyvxbDbmlwX6Eb9QKtAaWOPb9yB0O+T27sqwQqudpI56ipGuVymCpoI439IGTzFhjtaSonHm26uAzlsYKfjth9uEjXaQnIeQv7KUvDi9xH8SKMEypQb+8DCn3mAMw30ahlSP55NcL8jgfYDSy+ujYdDXTmMs3chottjb+ehncSu3YvfefJTCaxmayDzrNF2XigVL7M2Md1iZ9zRVE7+5NG+7acOFDJ2Aku6sdIfo1yTVYA3chK3X4PrXO4OujhkUj2in8/lrUIJXN3s09VGbuQs1xFamYKogFmkYz0I0mYFq42mCPjHnxVBo+mK6lpBuWEn+zJKc269VpI62S2X70dfdVYVqW/7N/zzXYvYxy3dDLb3Johj1mxJ45GQMgrCdXVZ7iDA3McOztnSK4grA==;kz5yKJMHAgwFVFW2kF+enQ=="
 ---
 

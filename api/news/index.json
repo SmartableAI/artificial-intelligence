@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion.md",
+      "title": "Is the AI software market headed for $150 billion or closer to $37 billion?",
+      "excerpt": "At that point, the apps category will start to lose steam and the platform category will take the edge. In the apps category, vendors will lose the ability over time to charge a premium for AI-infused apps as this functionality will become a standard feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "originalUrl": "https://www.techrepublic.com/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/14/6f4378f0-a346-4567-9da6-fc984e06efcc/resize/1200x/3cc89591e8366da160bc785a689db300/forrester-ai-graphic.jpg",
+          "width": 1200,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "publishedDateTime": "2020-12-14T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech.md",
+      "title": "Modulate’s ToxMod uses AI to scan game voice chat for toxic speech",
+      "excerpt": "Modulate has launched today ToxMod, a new service that uses AI to scan voice chat in video games for toxic speech or other bad behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/",
+      "originalUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/toxmod.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/",
+      "publishedDateTime": "2020-12-14T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio.md",
       "title": "Trailblaizing end-to-end AI application development for the edge: Blaize releases AI Studio",
       "excerpt": "You might not know it by reading this news, but Blaize is an AI chip company. Blaize is now boldly going where none of its ilk has gone before, releasing a software development product. And that's not",
@@ -109,8 +211,8 @@
       "title": "Gaming platform Roblox acquires 3D facial animation firm Loom.ai",
       "excerpt": "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca",
+      "webUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK",
+      "originalUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -200,6 +302,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
+      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
+      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "publishedDateTime": "2020-12-14T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-amazons-zoox-reveals-self-driving-taxi.md",
       "title": "Amazon's Zoox reveals self-driving taxi",
       "excerpt": "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats.",
@@ -208,7 +354,7 @@
       "originalUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -260,7 +406,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -708,7 +854,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -782,57 +928,6 @@
         "name": "The Vancouver Sun",
         "domain": "vancouversun.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025.md",
-      "title": "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025",
-      "excerpt": "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
-      "originalUrl": "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/11/cb5ab5b0-780a-4e16-afc4-570839d0c3f6/global-ai-software-mkt-by-segment.jpg",
-          "width": 856,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/",
-      "publishedDateTime": "2020-12-13T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1150,110 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-luminar-is-overhyped-these-self-driving-car-stocks-are-better-buys-right-now.md",
-      "title": "Luminar Is Overhyped: These Self-Driving Car Stocks Are Better Buys Right Now",
-      "excerpt": "Investors are right in getting excited about the potential for self-driving cars. But these stocks are better bets to take advantage of that potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604448%2Fsmart-car-road-grid-autonomous-driving-source-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "publishedDateTime": "2020-12-12T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-is-googles-healthcare-play-a-dark-horse.md",
-      "title": "Is Google's Healthcare Play a Dark Horse?",
-      "excerpt": "Healthcare could be the industry where Alphabet finds its next big product, and the company's strategy is painting a clear picture of where it might materialize. Image source: . As of January 2020, Alphabet had bought more digital health start-ups than any other company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604158%2Fgettyimages-1278542600.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "publishedDateTime": "2020-12-12T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

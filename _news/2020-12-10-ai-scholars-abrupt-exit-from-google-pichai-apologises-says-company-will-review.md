@@ -24,22 +24,6 @@ images:
     height: 443
     isCached: true
 
-related:
-  - title: "Google CEO apologizes after AI researcher's dismissal, is sorry it 'seeded doubts'"
-    excerpt: "Pichai sent an email to employees Wednesday apologizing for the way that the company handled the dismissal of AI researcher Timnit Gebru earlier this month, Axios reports."
-    publishedDateTime: 2020-12-10T02:06:00Z
-    webUrl: "https://www.foxbusiness.com/technology/google-ceo-apology-controversy-dismissed-ai-researcher"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 33
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/233eac27-Google-Sundar-Pichai-antitrust.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "pTjSGbYKvwsTGk+x3sX5c7x7lYygcI03u2H+KVUDN1TUYHPHnp4zp4OZBKxl99Coe6mZhtK18qT1cIjEgmhlN1c43/F5xN15HLI5aloN3ZI8dTI/O1etT84F1m40laODwZRGa+gdVv4lW1yZJmtHb/ULrWtTgaykEp5iWWOr8i6llCUdmjuzPsVrGKZiMu1dlohoMDVSLzyvJkXUBQ/FHvFDCBBvvPucZXx5w/dpEyLkhweclV7fFcruUs9+eUBD05Qp4o0MDVjpHMNP2rUNLYKoivnSDoeYqTYwr35/NP3MsAfSHapdJNaYaZmIovrzmto79cDC6591dDmXFAh/bo162dWct9/gMrEeL93ZrhE=;ndZwik9t5s+60sA9kxXXpg=="
 ---
 

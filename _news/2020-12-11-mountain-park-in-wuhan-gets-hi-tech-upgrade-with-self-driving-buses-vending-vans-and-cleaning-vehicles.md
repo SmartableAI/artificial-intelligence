@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update"
-    publishedDateTime: 2020-12-10T01:30:00Z
-    webUrl: "https://www.benzinga.com/tech/20/12/18721086/tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18721086"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 80
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_1.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
     excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"
     publishedDateTime: 2020-12-10T04:52:00Z

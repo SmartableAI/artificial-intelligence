@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Truera Raises $12M in Series A Funding to Accelerate Go-to-Market of First AI Model Intelligence Platform"
+    excerpt: "Truera, which provides the industry's first Model Intelligence platform, announced today that on the heels of its successful launch out of stealth in August, it has closed $12M in Series A funding led by Wing VC with participation from returning investors Conversion Capital and Greylock and new investors Data Community Fund,"
+    publishedDateTime: 2020-12-14T17:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18775468/truera-raises-12m-in-series-a-funding-to-accelerate-go-to-market-of-first-ai-model-intelligence-pl"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18775468"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18775468"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "V3LjMSoINwScxV6ZyAeZoVzVjFCP2MB8o0qUPTFcgTC9aXOjshoszxEQXYBG1oS2VM+Yt8n/K4LYQcvxCtB32R0fS66A8DWy1B7KgEc0fqkoKjTVaNGXCB8esbdg+kQFJ2VPbXcO1cPBSIPzfLw/YkRzCMGyN+TBHscJkj7qP0BEAckR/vKvjmMKbKrlYUMqu8flt+9p8Gw0BKbASOtEY7j43wSH99Pv96aCDa4lSYsjVy9PevhiwDhOs88/dwdzFX1tF23Lgkh3Bmd5DoaAcnVOSQ11zhpusWHzKECAg3sJ0K23ByqjOv3QEJzuv8FaxOCW72jjZ2Ln6t8Wgotw60G/4ufiyoDnbH67CPFFIliqyWU85IHq8KxRLGQQFguEo4dNbIIawNdhBAtN0UHrjDSDNzsN5IjBnbxPIcA3nVty6zTfocPAjdzbfsqtm4N7uj3UBbwTqc99YVlW1oSeI3LcaqAtiiJ9hwxipCl9aQ6wWjJOkkG/rxcy7QIAiTMXjMo7Fv+zNRE6nRGcjko8ww==;+nG1ZLhQqXGwrY7Rq48umg=="
 ---

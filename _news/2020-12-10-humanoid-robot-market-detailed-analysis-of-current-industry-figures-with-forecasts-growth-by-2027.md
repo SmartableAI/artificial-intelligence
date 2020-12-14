@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-de
 webUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10"
 type: article
 quality: 70
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
+    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
+    publishedDateTime: 2020-12-11T22:39:00Z
+    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "ylPOu1FFIRyOK8E6itv9xexPtStBOdH7ruuVQMdL0I8No3PDxAZ5MsmmFy+YyFdbtbUvDgWDVYYB3umKQePBgjhH4YhXnWmQnnDNfD1rpvwq6VRLvQyhUZEL/tjE6DorROVTrYsR1tUsnYtsGcPuaWq1Q1nlyU3rg84Rt9F4ncb3nwiJQDn0ClOyqivtxpAtWZeMalzFqP5Rh9t0+a6OJ4UU7xCpo0rYpofsOuqT+pDqHLFx2T+mzVtIPdSEsxHGVmP4p+JvhYtO7m62V0yCgtSO1C+XZjGgSmcn/mdPmvIS5y3uY1/G8/VWjiFk7bqKzDD7D/r5hAkaGpFgSHZNvFBsebNfwL6svWwHI9b5vwA=;SFwY8Xpq5iq/4agr6PnVpg=="

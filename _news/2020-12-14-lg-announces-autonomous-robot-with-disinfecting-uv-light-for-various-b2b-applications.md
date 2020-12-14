@@ -1,33 +1,29 @@
 ---
 category: news
 title: "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications"
-excerpt: "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
-publishedDateTime: 2020-12-14T14:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
-webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
+excerpt: "LINCOLNSHIRE, Ill., Dec. 14, 2020 /PRNewswire/ -- Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot ..."
+publishedDateTime: 2020-12-14T15:46:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications/article_07eb1462-bdf5-539c-a41d-f95ca5d1794a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications/article_07eb1462-bdf5-539c-a41d-f95ca5d1794a.html"
 type: article
-quality: 62
-heat: 62
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/a3/ca37a982-10ff-51e2-92ee-3144f3db335f/5fd7743cb8350.image.jpg?resize=400%2C306"
     width: 400
     height: 306
     isCached: true
 
-secured: "04Va8RqINEqBQvMtiniWUx3waxwlNAn+Hq9osshSb0Tz06MaL24eZp0o5r4aduY1lqiFzFQbpqlu0TMheW7V7++M7nMUMBJJuLVneiOYbuyxFZmXw83TAtr5Fa6DcHFSc97bb/oLHZqbs8fihNuSAUza079mxPgxIVr2NhqdKQCCuh599MbM7atfOMZ13U8ke2JXAodkf8y7bWUQdZ42nV/WzIviFAu2YhNQ1DJum7YhN5MciPzUvcz6WOG4uqyjREu20CVZU+/23r/Hxkc1oIouyGy03qkfM1PI1Iiy3T/vYcEZriSt3MFaMYlHWiOgwK21QcrrikLuLassiUpPu0WsLXIvq2W4+HAXjYfHMMo=;0+R2uwZ9PE1yxY3xhZ8lng=="
+secured: "WUNBAW5fObsFZyXB1AUcK7v1PEKKFbHr4yOGzGCIbETXIhD0HgnCf4o41F27w6fP87JV/koc6iBFwM/0h60zL9ZFXUroDhF9Shgdgn8Vj3DG7vuVrkipAcr9JJlBm6vV1hpgZ6BS6R2cV+BzjKc4ikNX003Fs+rc09QKimY1714vlJGpXFpDfHf/A2lwptS/hnDL+eCgaVL7OTGaoETpm742PPRhQZDp5mGM83QLDs/4Fw1anwFrhAJAeSJS6vhLtmk09SyvBZp1VVwq5uxHjqNCAM8f9Q4XeZBuHesUUncI27QKHv9evEl4zAiNLP3VBd3kOUJSO2ooic7C9I+cvgUXxzSbI9p5Gd/SBD4Y/FU=;+5qg8nYdmMWDPfRzEIPGfA=="
 ---
 

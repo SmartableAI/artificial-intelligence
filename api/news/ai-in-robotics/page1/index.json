@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
+      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
+      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "publishedDateTime": "2020-12-14T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-artificial-intelligence-ai-whats-in-store-for-2021.md",
       "title": "Artificial Intelligence (AI): What’s In Store For 2021?",
       "excerpt": "As seen with this week’s hugely successful IPO of C3.ai, there continues to be lots of interest in the AI space.",
@@ -348,7 +392,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1352,58 +1396,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-nanorobotics-market-share-current-and-future-industry-trends-2020-2027.md",
-      "title": "Nanorobotics Market Share Current and Future Industry Trends, 2020-2027",
-      "excerpt": "Selbyville, Delaware Global Nanorobotics Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Nanorobotics Market Report also covers top key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Full Self Driving Beta Hack Reveals New Details About Company's Autonomous Approach"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) has released the precursor to its autonomous vehicle solution, named Full Self Driving (FSD) Beta, to a small set of public testers. The update"
-    publishedDateTime: 2020-12-10T01:30:00Z
-    webUrl: "https://www.benzinga.com/tech/20/12/18721086/tesla-full-self-driving-beta-hack-reveals-new-details-about-companys-autonomous-approach"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18721086"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18721086"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 80
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_1.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
     excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
     publishedDateTime: 2020-12-11T10:11:00Z

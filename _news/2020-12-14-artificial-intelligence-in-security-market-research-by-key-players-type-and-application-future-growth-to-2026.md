@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
 type: article
 quality: 64
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global 3D Facial Recognition Systems Market 2020 Industry Size, Share, Growth, Outlook, Segmentation, Comprehensive Analysis by 2025"
-    excerpt: "A new business intelligence report released by MarketQuest.biz with the title Global 3D Facial Recognition Systems Market 2020 by Company, Type and Application, Forecast to 2025 is designed with an objective to provide a micro-level analysis of the market."
-    publishedDateTime: 2020-12-10T02:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2020-industry-size-share-growth-outlook-segmentation-comprehensive-analysis-by-2025-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

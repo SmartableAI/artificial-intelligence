@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-10-td-sees-big-role-for-ai-in-fraud-detection-lending-decisions.md",
+      "title": "TD Sees Big Role for AI in Fraud Detection, Lending Decisions",
+      "excerpt": "The biggest contributions artificial intelligence can make to financial institutions are ones customers may never see, said Toronto-Dominion Bank’s Tomi Poutanen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izHoFxqvJ0o0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-10/td-sees-big-role-for-ai-in-fraud-detection-lending-decisions",
+      "publishedDateTime": "2020-12-10T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-the-dark-side-of-big-techs-funding-for-ai-research.md",
+      "title": "The Dark Side of Big Tech’s Funding for AI Research",
+      "excerpt": "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "originalUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp",
+      "publishedDateTime": "2020-12-10T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-1-fintech-stock-to-buy-before-2021.md",
       "title": "1 Fintech Stock to Buy Before 2021",
       "excerpt": "However, the peculiar nature of the pandemic has actually been something of a boon to disruptive fintech stocks. Because people have had to stay home, retailers and banks have had to reach their customers digitally.",
@@ -156,7 +259,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -602,6 +705,58 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-c3ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade.md",
+      "title": "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade",
+      "excerpt": "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106797794-1605567570876-NYSE_Trading_Floor-Photo-20201116-Press-16.jpg?v=1605567655",
+          "width": 6271,
+          "height": 4181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/c3ai-ipo-adds-to-software-deal-boom-with-100percent-gain-in-trading.html",
+      "publishedDateTime": "2020-12-09T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1088,160 +1243,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-siebel-led-c3ai-more-than-doubles-after-651-million-ipo.md",
-      "title": "Siebel-Led C3.ai More Than Doubles After $651 Million IPO",
-      "excerpt": "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, rose as much as 174% in its trading debut after raising $651 million in its initial public offering above the marketed range.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYf_ilbSSPwk/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-more-than-doubles-after-651-million-ipo",
-      "publishedDateTime": "2020-12-09T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-general-motors-cruise-just-took-the-humans-out-of-its-self-driving-taxis.md",
-      "title": "General Motors' Cruise Just Took the Humans Out of Its Self-Driving Taxis",
-      "excerpt": "The CEO of Cruise, the San-Francisco-based self-driving company controlled by General Motors , said that it has begun operating autonomous vehicles on San Francisco's streets with",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604343%2Fcruise-car-in-hayes-valley-san-francisco.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
-      "publishedDateTime": "2020-12-09T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-doordash-c3ai-skyrocket-in-public-market-debuts.md",
-      "title": "DoorDash, C3.ai skyrocket in public market debuts",
-      "excerpt": "Haters gonna hate, IPOs gonna pop. That’s the story today as richly valued DoorDash and C3.ai, two American technology unicorns, saw their values skyrocket after they began trading today. DoorDash shares are up just under 83% to $186.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/",
-      "originalUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-187869847.jpg?w=1024",
-          "width": 1024,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/09/doordash-c3-ai-skyrocket-in-public-market-debuts/amp/",
-      "publishedDateTime": "2020-12-09T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
