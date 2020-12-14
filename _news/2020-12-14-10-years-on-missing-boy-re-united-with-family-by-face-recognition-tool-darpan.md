@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -26,6 +26,19 @@ images:
     height: 2583
     isCached: true
 
-secured: "6dInA+si0sb3Wk/F/QRzZvNDL1ilFrJW3E3uHW5ECUCQacig0NyisAXacy2ewV6vINJHLVU42xSb6AobHxKx/zBcz99m+X4lPwh6+NJ4ta1yD0yoUOMDic9HhQZ3qq0xPDLDUcv0JDwT2Yk4Px6iplrPTmg+c+TvRTDGlHUG/sFwcdv3EcbGg/dyEaa2Z3WJGjt8K7zYn9Nc032OeVjU9odgvewpgJr8nVBBWTPPK1SaLQKZ66Utb8148qs2d7hrBuFRiRRf5T0t2zA6RFg8B6R5ileWezAPUrJN86UY+Ckz4xOOBsCqs55wprLSI/UdjPHBNryWgWIOFFo3LdcsL+HV8AGP5iJEpgTgYY+zCbs=;OfV0RXu105XezdUTyJ+TDQ=="
+related:
+  - title: "Boy missing for 10 years re-united with family with help of face recognition tool DARPAN"
+    excerpt: "Telangana police used the face recognition tool they had developed to match photographs of missing children with those of children found in children’s homes across the country."
+    publishedDateTime: 2020-12-14T11:42:00Z
+    webUrl: "https://www.hindustantimes.com/it-s-viral/boy-missing-for-10-years-re-united-with-family-with-help-of-face-recognition-tool-darpan/story-kKSldkFJ1y7d2umWLowpKK.html"
+    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/boy-missing-for-10-years-re-united-with-family-with-help-of-face-recognition-tool-darpan/story-kKSldkFJ1y7d2umWLowpKK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/boy-missing-for-10-years-re-united-with-family-with-help-of-face-recognition-tool-darpan/story-kKSldkFJ1y7d2umWLowpKK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 30
+
+secured: "LrMTjVADDrcsjdxJO0Z9LERKjcioBq+JOZr/FxGwier77O1esVPYKLaulI39HyVyRSPjIZX3fQ8z3MhF140XpvcJTi/zH+VQsw7hcAfsC3/XauH8b2w+zYF7z+zrOBug8oI77F+Jtss1FYyr5Qr/uM66dcZjOFakq22Bcsc167/HZKo2YxOgVRd0LA+GW1tbpGWKALbohDIj8xzvjWATdLCPSQYXbnWMxWe4cgfvn3UMW7w/Uda/n1t3iFPtNeTmZ/dPTkoYGQMvgOWGVXfMQfMD+tWW2khYCs/m+jBhByDDzTrA9wUvtcupJavxmLUrswPSQxaSz0YxsdBtXsMW8OOzl9CnwGb1YcLxUtyzrwBfKKNVgjSIXpuRQhxMaMGfGJRu/ZCjD7s0FbNLANUndS+XnW1yHVbYTo10UL1LvsLkzprCJrtpLKL27QIBqjPc3qtDsmDMIL1rQNanrfqwiStG0YMvUtJH08yTV6zMfPklC8LHE9pV33m+/xZHyK+p9NapRgaICf95Ng6rfWS07Q==;HqUV/O6CPggVloxXHvAOfA=="
 ---
 

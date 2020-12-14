@@ -2,6 +2,474 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-04-veritone-achieves-aws-public-safety-disaster-response-competency.md",
+      "title": "Veritone Achieves AWS Public Safety & Disaster Response Competency",
+      "excerpt": "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has ach",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency",
+      "originalUrl": "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-googles-co-head-of-ethical-ai-says-she-was-fired-for-email.md",
+      "title": "Google’s Co-Head of Ethical AI Says She Was Fired for Email",
+      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed “inconsistent with the expectations of a Google manager.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 396,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imC_aAMzSyd0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "publishedDateTime": "2020-12-03T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing.md",
+      "title": "AI’s next act: Genius chips, programmable silicon and the future of computing",
+      "excerpt": "Much of the hype around AI — all the disruption it was supposed to bring and the leaps it was supposed to fuel — will begin in earnest in the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
+      "originalUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1161024057.jpg?w=1024",
+          "width": 1024,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
+      "publishedDateTime": "2020-12-03T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health.md",
+      "title": "Microsoft: Here's how your smartphone camera plus AI can keep an eye on your health",
+      "excerpt": "While wearables are at the forefront of medical applications for mobile technology, COVID-19 has sent researchers looking at older technologies like the humble smartphone for remote diagnosis. Microsoft Research has been working on telehealth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/",
+      "publishedDateTime": "2020-12-03T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-vsco-acquires-mobile-app-trash-to-expand-into-ai-powered-video-editing.md",
+      "title": "VSCO acquires mobile app Trash to expand into AI-powered video editing",
+      "excerpt": "VSCO, the popular photo and video editing app, today announced it has acquired AI-powered video editing app Trash, as the company pushes further into the video market. The deal will see Trash’s technology integrated into the VSCO app in the months ahead,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/",
+      "originalUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Product-01-1.png?w=369",
+          "width": 369,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/amp/",
+      "publishedDateTime": "2020-12-03T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-amazons-amzn-latest-ml-services-boost-its-aws-portfolio.md",
+      "title": "Amazon's (AMZN) Latest ML Services Boost Its AWS Portfolio",
+      "excerpt": "This is evident from its latest move, wherein its cloud computing arm Amazon Web Services (“AWS”) introduced five machine-learning services namely Amazon Monitron, Amazon Lookout for Equipment, AWS Panorama Appliance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
+      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-latest-ml-services-boost-its-aws-portfolio-2020-12-03?amp",
+      "publishedDateTime": "2020-12-03T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-self-driving-cars-being-tailgated-by-obnoxious-human-drivers.md",
+      "title": "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers",
+      "excerpt": "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc85171be22ff9f9a86dc61%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D5250%26cropY1%3D441%26cropY2%3D2859",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
+      "publishedDateTime": "2020-12-03T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-microsoft-unveils-azure-purview-a-new-data-governance-platform.md",
+      "title": "Microsoft unveils Azure Purview, a new data governance platform",
+      "excerpt": "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
+      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/",
+      "publishedDateTime": "2020-12-03T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-meet-times-first-ever-kid-of-the-year.md",
+      "title": "Meet TIME's First-Ever Kid of the Year",
+      "excerpt": "Meet TIME's first-ever Kid of the Year: a 15-year-old scientist and inventor who uses technology to tackle issues ranging from contaminated drinking water to cyberbullying.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "originalUrl": "https://time.com/5916772/kid-of-the-year-2020/?linkId=106178990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2018/12/TIM201207_KOTY.CoverFINAL4.jpg",
+          "width": 2363,
+          "height": 3150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5916772/kid-of-the-year-2020/?amp=true",
+      "publishedDateTime": "2020-12-03T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers.md",
+      "title": "Olive Acquires Verata Health to Accelerate Artificial Intelligence Technology For Healthcare Providers and Payers",
+      "excerpt": "Prior authorizations were the most costly and time-consuming transactions for providers in 2019 and are among the top reasons patient care",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers-301185294.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/olive-acquires-verata-health-to-accelerate-artificial-intelligence-technology-for-healthcare-providers-and-payers-301185294.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1275952/Olive_Logo.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
       "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
       "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
@@ -701,481 +1169,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-performing-simulations-at-scale-with-amazon-sagemaker-processing-and-r-on-rstudio.md",
-      "title": "Performing simulations at scale with Amazon SageMaker Processing and R on RStudio",
-      "excerpt": "Statistical analysis and simulation are prevalent techniques employed in various fields, such as healthcare, life science, and financial services. The open-source statistical language R and its rich ecosystem with more than 16,000 packages has been a top choice for statisticians, quant analysts, data",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/performing-simulations-at-scale-with-amazon-sagemaker-processing-and-r-on-rstudio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/performing-simulations-at-scale-with-amazon-sagemaker-processing-and-r-on-rstudio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/01/ML-1333-1.jpg",
-          "width": 802,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T13:59:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-global-robotics-automation-etf-robo-hits-a-52-week-high.md",
-      "title": "Global Robotics & Automation ETF (ROBO) Hits a 52-Week High",
-      "excerpt": "For investors looking for momentum, ROBO Global Robotics & Automation ETF ROBO is probably a suitable pick. The fund just hit a 52-week high and is up 102.4% from its 52-week low price of $28.27/share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02",
-      "originalUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp",
-      "publishedDateTime": "2020-12-02T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines.md",
-      "title": "MIT machine learning models find gaps in coverage by Moderna, Pfizer, other Warp Speed COVID-19 vaccines",
-      "excerpt": "Vaccine makers need to take into account genetic diversity explicitly in clinical trials or risk missing coverage for some individuals, says MIT scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "originalUrl": "https://www.zdnet.com/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/02/329c2e0d-a24f-468e-971f-2f138e9b391d/mit-2020-gifford-et-al-coverage-gap-of-mhc-vaccine-classes.png",
-          "width": 2186,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-machine-learning-models-find-gaps-in-coverage-by-moderna-pfizer-other-warp-speed-covid-19-vaccines/",
-      "publishedDateTime": "2020-12-02T13:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-meldcx-unveils-sami-digitizing-clean-up-in-public-spaces-with-ai-and-computer-vision.md",
-      "title": "meldCX unveils SAMi® - digitizing clean-up in public spaces with AI and computer vision",
-      "excerpt": "To help businesses meet new hygiene standards efficiently and affordably, meldCX, an enterprise software solution provider, has created SAMi(®) ( a new surface",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/meldcx-unveils-sami---digitizing-clean-up-in-public-spaces-with-ai-and-computer/article_2b17351d-cddc-51a6-bfe9-1f8859164c2f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/ac/8acef392-25fe-5470-b964-e12fc105099c/5fc81d0699c60.image.jpg?resize=400%2C225",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk.md",
-      "title": "How AI-powered video compression could make an honest man out of Elon Musk",
-      "excerpt": "LIDAR is a fool’s errand. Anyone relying on LIDAR is doomed. Doomed! Expensive sensors that are unnecessary. It’s like having a whole bunch of expensive appendices. Like, one appendix is bad, well now you have a whole bunch of them,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/aicodecs-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/",
-      "publishedDateTime": "2020-12-02T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-facial-recognition-company-lied-to-school-district-about-its-racist-tech.md",
-      "title": "Facial Recognition Company Lied to School District About its Racist Tech",
-      "excerpt": "Documents reveal Lockport Schools' facial recognition system misidentifies Black students at much higher rates, and mistakes broom handles for guns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
-      "originalUrl": "https://www.vice.com/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fbd6ae4daaa2a009b1f3af6/lede/1606775605901-11302020racistfacialrecognitionsoftwarecv.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/qjpkmx/fac-recognition-company-lied-to-school-district-about-its-racist-tech",
-      "publishedDateTime": "2020-12-02T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
-      "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
-      "publishedDateTime": "2020-12-02T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-robotics-ai-etfs-still-producing-massive-gains.md",
-      "title": "Robotics & A.I. ETFs Still Producing Massive Gains",
-      "excerpt": "T he Global X Robotics & Artificial Intelligence ETF (BOTZ) isn't churning out an almost 50% gain year-to-date for nothing. The ETF operates in a space that's not only benefiting from the technological requirements brought on by the current pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-a.i.-etfs-still-producing-massive-gains-2020-12-02?amp",
-      "publishedDateTime": "2020-12-02T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-google-ai-is-now-piloting-loons-internet-beaming-balloons.md",
-      "title": "Google AI is now piloting Loon's internet-beaming balloons",
-      "excerpt": "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "originalUrl": "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html",
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-how-ai-works-an-introduction-coming-to-a-school-near-you.md",
-      "title": "How AI works: An introduction coming to a school near you",
-      "excerpt": "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "publishedDateTime": "2020-12-02T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

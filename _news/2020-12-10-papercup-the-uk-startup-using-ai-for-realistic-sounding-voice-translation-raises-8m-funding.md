@@ -39,29 +39,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Papercup raises $10.5 million to dub videos with AI-generated speech"
-    excerpt: "Papercup, a U.K.-based startup developing speech translation technology for video creators, has raised $10.5 million in venture funding."
-    publishedDateTime: 2020-12-10T10:27:00Z
-    webUrl: "https://venturebeat.com/2020/12/10/papercup-raises-10-5-million-to-dub-videos-with-ai-generated-speech/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "London AI startup secures £8m funding for new research"
-    excerpt: "A London artificial intelligence startup has announced that it has secured £8m in funding to invest in new research. Papercup secured… | London | Funding | Technology | Technology | Inward Investment"
-    publishedDateTime: 2020-12-10T11:34:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/xnr9zCyCZsnKVW5HY0Ng4sHiQy7gXXKQr7XsYNyE.jpeg?w=940&h=430&fit=crop-50-50&s=f70bbaa3c84e204929858820dfb394bd"
-        width: 940
-        height: 430
-        isCached: true
   - title: "London AI start-up Papercup gets funding boost to help make video content watchable in any language"
     excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into other languages."
     publishedDateTime: 2020-12-10T10:31:00Z

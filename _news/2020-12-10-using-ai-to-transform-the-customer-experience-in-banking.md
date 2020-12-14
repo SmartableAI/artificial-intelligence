@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
+    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
+    publishedDateTime: 2020-12-11T23:29:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 65
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "l57gViOvVaCXEoxt9m+7s6dWK2trb47P2yqYD+L8mScvySYtZ/q/GhWDpjglQ32WfWv+0iYjxcDb42FImNHLwB/kJLevBjzHPy2yuL8kEtG8FLJS11y40guE+bbDEXeG2yNEz2P1F7xnCln3/XriWN51jCILv/N8JbXyvgHv+BklfVDPmhh6/bqQhZIeFZHPs9qooDihtF123xd5+trKBabkcLic/waINRqNyeVp1VWiZ31jjikIxPZE7Gg0DT8nfKedhQqs6W50GTXEcqLiszZExF1darvlo3f69DP1JARTNBPD2dBeaqhkSfWj8Rrn708C4C3c+AzamAzNHMMiGF99wxEYclVH+3xviB37DIIk/pQXIuUrR3oxVOvNvEasMxwxDya7On2hI8OIprQb42A6f+Br7AjQTai79tFzloYebdtR8tXxXNNg78TpD+tlN8mycR/AP9c4Mc2YRVveM9q1cDVgRimiSD4cLbUDREZfQh/KTnHHFEoYiOzVY1Ll35EYkwVutmmyLcLvSoh+jA==;di3R1GockSlb94ADedNi/Q=="
 ---

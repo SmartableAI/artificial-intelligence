@@ -7,7 +7,7 @@ originalUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-runni
 webUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/cb36871bd72eb922a49fde8efc75ce5f973722c2/0_118_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba290cb07840b1868e3d0f069eb081a0"
         width: 600
         height: 360
-        isCached: true
-  - title: "Chris Lynch: The dangers of police facial recognition software"
-    excerpt: "It has been reported New Zealand police are setting up a multimillion-dollar facial recognition system that could identify people from live streaming CCTV. RNZ reported this could push the country into new territory for tracking citizens. Facial ..."
-    publishedDateTime: 2020-12-09T22:52:00Z
-    webUrl: "https://www.newstalkzb.co.nz/opinion/chris-lynch-the-dangers-of-police-facial-recognition-software/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22974006/facial-recognition-system.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
         isCached: true
   - title: "Co-op is using facial recognition tech to scan and track shoppers"
     excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"

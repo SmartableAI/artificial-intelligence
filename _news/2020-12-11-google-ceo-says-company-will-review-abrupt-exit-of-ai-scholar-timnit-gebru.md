@@ -21,35 +21,69 @@ topics:
   - AI
 
 related:
-  - title: "Google CEO says company will review AI scholar’s abrupt exit"
-    excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher’s abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees"
-    publishedDateTime: 2020-12-09T21:35:00Z
-    webUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/"
-    ampWebUrl: "https://www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
-    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/tech-news/google-ceo-says-company-will-review-ai-scholars-abrupt-exit/amp/"
+  - title: "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru"
+    excerpt: "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure."
+    publishedDateTime: 2020-12-10T04:44:00Z
+    webUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483"
+    ampWebUrl: "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp"
     type: article
     provider:
-      name: myhighplains.com
-      domain: myhighplains.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
     images:
-      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/12/0770646e12a84b3aa2d8315c4a54bc46.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Google CEO apologizes after AI researcher's dismissal, is sorry it 'seeded doubts'"
-    excerpt: "Pichai sent an email to employees Wednesday apologizing for the way that the company handled the dismissal of AI researcher Timnit Gebru earlier this month, Axios reports."
-    publishedDateTime: 2020-12-10T02:06:00Z
-    webUrl: "https://www.foxbusiness.com/technology/google-ceo-apology-controversy-dismissed-ai-researcher"
+  - title: "Google will investigate what led to AI researcher's exit, CEO says"
+    excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
+    publishedDateTime: 2020-12-09T23:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 33
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/233eac27-Google-Sundar-Pichai-antitrust.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/9cb5da72017a928d275551e1df3ff7a5f76a61f1/0_138_2144_1286/master/2144.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=678c03d06bc89eb6dfbdf15dbd462c19"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
+    excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
+    publishedDateTime: 2020-12-11T13:41:00Z
+    webUrl: "https://www.freep.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+    ampWebUrl: "https://amp.freep.com/amp/3889402001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3889402001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/aa31ba1a-8ce7-45eb-8549-b5003111f7dc-AP_Britain_Google.jpg?auto=webp&crop=3528,1985,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
+    excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
+    publishedDateTime: 2020-12-11T20:19:00Z
+    webUrl: "https://www.dispatch.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+    ampWebUrl: "https://amp.dispatch.com/amp/3889402001"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3889402001"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/aa31ba1a-8ce7-45eb-8549-b5003111f7dc-AP_Britain_Google.jpg?auto=webp&crop=3528,1985,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qNrOeiTNXhMvIyDr5Rvgo1+Bh7m8LURD7sEc4LqJ5S71PmEW/NK1N7Eu8zXxXOmmvvw+K6I8EqbJbneu4anxnKP2z83Zcj19zuNWDjRXNhywwd4DNPoYevYYsIbIOXMzWMgOw0scRGmZ61UPXNSrcF2D+NvOxGFeUGvuazUMLHenQQlX2l6wHTc+RB++SAZxenVZjDaAWQT/QN/+QxfeVVZTI/SHJBe9w26IeGCmRsXr2OeN45kJbWXj1EJj3Dy/PAv+T+c6wLEw7+MLgdJmcpr/jKmGbBcbyeCbqqud8AblKSlLjdSjqnXAsqj1w2ojUyjKqQwQ2QDWvac31UIgoVKF5y6mqrUs8bbXk94ABafj16/K9oEmDS7a0s1ocebmyAZwqV7id6oVPR+6t+sWoDbCeH3K5kBazUVL2baGAm3gL8Re0/HwbrUduEaON/dQQWpV8CXC2Hwj+M75lLqnn1BN3EOHpKH18+l4WcUxbmjG7B3ImNI2q2t16jxCyBoVkhgmtWnCZrWqv8HdSao2LQ==;pNPGFg0zwfpbLa+tIzQybw=="

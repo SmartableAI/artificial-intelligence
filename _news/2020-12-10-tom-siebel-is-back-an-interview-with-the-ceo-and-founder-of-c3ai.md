@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-soft
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-ceo-tom-siebel-on-ai-software-industry-outlook-51607561566"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 620
     height: 413
     isCached: true
-
-related:
-  - title: "Watch CNBC's full interview with C3.ai CEO Thomas Siebel"
-    excerpt: "Thomas Siebel, CEO of C3.ai, joins \"Squawk Alley\" to discuss the company's public debut. The market will do what the market will do, says Siebel. This is a financing event for C3 to enable us to meet the needs of rapidly expanding demand for what we do."
-    publishedDateTime: 2020-12-09T22:02:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/09/prowatch-cnbcs-full-interview-with-c3-ai-ceo-thomas-siebel.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106808683-1607532026099-2020-12-08T183156Z_1175983302_RC26JK9J1U2V_RTRMADP_3_HEALTH-CORONAVIRUS-VACCINES-CDC.JPG?v=1607532093"
-        width: 1840
-        height: 1232
-        isCached: true
-  - title: "C3.ai's stock soared 120% in the AI company's successful IPO, but CEO Tom Siebel says that was never the goal: 'I like to grow software companies'"
-    excerpt: "Tom Siebel says that he's more focused on the opportunity ahead in the AI market than he is on C3's stock market moves."
-    publishedDateTime: 2020-12-09T22:03:00Z
-    webUrl: "https://www.businessinsider.com/tom-siebel-c3-stock-ipo-ai-artificial-intelligence-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: "https://i.insider.com/5fd1369c240ebd00126be099?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "IO1issBdt/PKPp2YrCFDww/30wfWOYSbrU1F1jvP9gJt29kpSpgb2fi9ih02kx0c9KpKRT51OxIndDac6RZXpQVMnx0JKQxJzwzl2IYzZIGlNOZxdgTV9FA3dApOo40ZPrVJ29tuVQbw8DWOAwca68o8KH/MOSBw30+xl+jWaOUczLkLqdVWQsBNaYtZ6eUM263LIbA/gaKKU2K7IwnjpwPN232mDeVsFmkTWzxd+E7kvyY/XETjIjDq5Hri3nDaPpp3LQBK1zEG/HdUs+MyfuEbIL5uTV0tC4eny1PSRqrlXyczWdGhIJcdyrDVbV27rJucX4qHrFJNJT8Pw4F+lQedBHRkFYv24ruTopUcMXb/aiChPEGQJL+v809MNQ++UZ/KWDVTqI+vU4gMXgvo7T6nyVZQ5WzBSIL1aMbpKflCNbqggAag5L0GXO3X8vdOPNwHFEsp+q47X/x3NIy9ItDCzP97+C4KV8WIWLAE87GxIcvgYaIB/h5sEcp8H2uDrdjnHcgYjcSr8TzfOFK79Q==;6ZFyHPhU/i+cmgGJ7Ibe2w=="
 ---

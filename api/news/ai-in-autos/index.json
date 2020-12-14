@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-amazons-zoox-reveals-self-driving-taxi.md",
+      "title": "Amazon's Zoox reveals self-driving taxi",
+      "excerpt": "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
+      "originalUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/zoox-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp",
+      "publishedDateTime": "2020-12-14T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-autonomous-vehicles-take-another-big-leap.md",
       "title": "Autonomous Vehicles Take Another Big Leap",
       "excerpt": "On Monday, the Amazon-owned Zoox is unveiling an electric autonomous vehicle as part of what will likely be an aggressive attempt by the company to make robo-taxis a thing. That effort has had a rocky start for Zoox — as well as for Google,",
@@ -1413,49 +1465,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-self-driving-robotaxis-are-taking-off-in-china.md",
-      "title": "Self-driving robotaxis are taking off in China",
-      "excerpt": "The Shenzhen-based firm focuses on making the technology that goes into self-driving cars ... Recently, Chinese tech giant Baidu also announced that anyone could try its robotaxi service in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
-      "originalUrl": "https://www.kctv5.com/self-driving-robotaxis-are-taking-off-in-china/article_f5b2ac9a-7c40-5a59-9551-37ff38a71813.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

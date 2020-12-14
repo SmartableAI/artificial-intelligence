@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "National Digest: GM green lights test of driverless cars as taxis"
-    excerpt: "The move, announced Wednesday by GM-owned Cruise, comes two months after the company received California’s permission to have fully driverless cars in the state."
-    publishedDateTime: 2020-12-09T21:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/national-digest-gm-green-lights-use-of-driverless-cars-as-taxis/2020/12/09/eabd4510-3a30-11eb-9276-ae0ca72729be_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7PC5RB2M4I6XGGEEXOJ6SMH5A.jpg&w=1440"
-        width: 1440
-        height: 945
-        isCached: true
   - title: "Tata Elxsi's driverless car buzz steers stock up 7%"
     excerpt: "Tata Elxsi works with car manufacturers and component makers and deploys its artificial intelligence and computer ... there is no plan to showcase any driverless car today or in the future."
     publishedDateTime: 2020-12-11T02:46:00Z

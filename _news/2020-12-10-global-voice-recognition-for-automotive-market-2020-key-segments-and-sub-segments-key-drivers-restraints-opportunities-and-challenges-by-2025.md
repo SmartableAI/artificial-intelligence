@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-voice-recognition
 webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2025-2020-12-09"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
-    excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
-    publishedDateTime: 2020-12-14T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
     excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
     publishedDateTime: 2020-12-10T10:01:00Z
@@ -52,6 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
+    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2020-12-10T08:56:00Z
+    webUrl: "https://www.financialbuzz.com/global-automotive-voice-industry-report-2020-with-focus-on-china-baidu-and-vw-mobvoi-are-gathering-pace-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "t8h975O8iOOT1BJJ5z14S6WxFxZv74J/GtKG4UbCvrJ4vJfX7e0cJL2iMme+8HtYjIfah4xj0B2ZmGSAypvp3nA0IwoiLu0sonJzF8n6GpZyWW2Q1IRINmTzrUwPlrVfG4x/enqzklMawT37BmGk9JIsZ9/50Wf2jCbebuhOqSscmlpRCDv/JIE/ECTxI5PpYCpNiLxHUY40GEaYeldA7t33na4S4Xq/BuSQWMd9jm5YMaGwTFLEP4aHbtWBbM3XlS++1/3v4brIi17V4E78AK3CAFF73cGnu0YYf9dwMoYtclfgUOpXss79lOqp3MkTUys/dtYRv4i41d1hddmIC/4WusnMCa9pQNowMxVrhv8=;AdQgKvKMH2YTLG8O0991IQ=="
 ---

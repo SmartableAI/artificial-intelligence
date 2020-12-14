@@ -49,20 +49,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Chris Lynch: The dangers of police facial recognition software"
-    excerpt: "It has been reported New Zealand police are setting up a multimillion-dollar facial recognition system that could identify people from live streaming CCTV. RNZ reported this could push the country into new territory for tracking citizens. Facial ..."
-    publishedDateTime: 2020-12-09T22:52:00Z
-    webUrl: "https://www.newstalkzb.co.nz/opinion/chris-lynch-the-dangers-of-police-facial-recognition-software/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 39
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/22974006/facial-recognition-system.jpg?width=635&height=395&mode=crop"
-        width: 635
-        height: 395
-        isCached: true
 
 secured: "e26S7RPIKvd3ruWTNiwsMpRytG0mHndgCM6/3jMQcXk1YZTOhOYPFUzLmvO+YGPfbURTaYRfapHIi1XQ+O6FGvX/fzPakQ1kz409YJKqQ5CadtBZgs9vZYrTiAknVSux4IMR2j1lLH03VkUa+ZFX5DVjePOAqZv+nIMJTvD1fsqX1g7dH7HOEWJIQxuaiZvgwSgUMu531nDGZjEkuMurjPuv3GUOyxgN2O8yokTc4CAsHkQl7aVCJkuIU0EHIN75j+Qp5JTu/XpvFyv+MtrbuCii9CWU72kKyy3WBqsuxcCEnFD0ujVefCbdgVvr1HizcUPP5BrY7BKF+nMTWkItFVru6PZdbZIj2ncwFHTLZQ8=;jxKzRoj605sMeDYIpj5F3w=="
 ---

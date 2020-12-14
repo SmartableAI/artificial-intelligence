@@ -35,22 +35,6 @@ related:
         width: 720
         height: 387
         isCached: true
-  - title: "Fintech, regtech and the role of compliance 2021"
-    excerpt: "The year 2020 has been a year of digital transformation and acceleration to meet the challenges of the COVID-19 pandemic. By necessity and by design firms have implemented the roll-out of technology,"
-    publishedDateTime: 2020-12-09T22:38:00Z
-    webUrl: "https://www.reuters.com/article/bc-fintech-regtech-report-2021-idUSKBN28J2AP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2AP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2AP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543983841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81DF"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
     excerpt: "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?"
     publishedDateTime: 2020-12-11T10:03:00Z
@@ -105,6 +89,22 @@ related:
       - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Fintech and Regtech Adoption Takes Major Step Forward in 2020 As Businesses Prepare for Post COVID Environment: Report"
+    excerpt: "Fintech and Regtech adoption takes major step forward in 2020 as businesses prepare for post COVID environment: report."
+    publishedDateTime: 2020-12-14T13:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170238-fintech-and-regtech-adoption-takes-major-step-forward-in-2020-as-businesses-prepare-for-post-covid-environment-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170238-fintech-and-regtech-adoption-takes-major-step-forward-in-2020-as-businesses-prepare-for-post-covid-environment-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170238-fintech-and-regtech-adoption-takes-major-step-forward-in-2020-as-businesses-prepare-for-post-covid-environment-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 20
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-600x600.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "An AI proposition is now 'table stakes' for fintech startups"
     excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."

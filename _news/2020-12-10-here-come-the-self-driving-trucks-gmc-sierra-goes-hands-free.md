@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.htm
 webUrl: "https://omaha.com/article_c430400b-dc21-5266-ac08-76c5de1bb435.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Buyer of Uber's Self-Driving Business Targets Autonomous Trucks"
-    excerpt: "Autonomous technology developer Aurora, which just bought Uber's self-driving vehicle business, says its first market-ready product will be an autonomous truck."
-    publishedDateTime: 2020-12-09T22:43:00Z
-    webUrl: "https://www.truckinginfo.com/10132172/aurora-driver-acquires-uber-technologies-autonomous-vehicle-business-division"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 24
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-12/aurora-driver-__-1200x630-s.jpg"
-        width: 1150
-        height: 630
-        isCached: true
 
 secured: "71yu5s4z4BGu0Hj3OZgN8vuccboG7SwRdqFQniOb2kFHmG1CvA33mlZVUxfmk87t0Gf+3lKpqwrupZLNoTHR2y/YtUJVzXJyqb/08Jixhp90Ma/C5vmdf5lC4nVjkne6nrnWFlxe1k6ZJouu29oe4DqZMWjujiPGDm5zNMM+Q5r0R+KhWxGVvzTmfFw66pnk4WfZ1as7u6PVq+uXEBqCVwFiY0asWaoT9nbIfewGjFxAfNWb6CSctpHndZ2xX11aet9PumbbL64NuM29qkJXYoK0qcpBmy2YGnGiOLE6qCJ1FEb5i2RNA87C6sOetmSiDW2fIMsmuS6mnElv70g7IpdjPuJ3+SWa20GjzqWICE0=;1b1D7crUuOWvjGQIF2mo1A=="
 ---

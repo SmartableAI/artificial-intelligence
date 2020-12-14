@@ -9,8 +9,8 @@ ampWebUrl: "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earth
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ScienceBlog
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Reveals New Insights Into Mass Extinctions And Life On Earth"
+    excerpt: "Using the power of artificial intelligence (AI), scientists have revealed new insights into the creation and destruction of mass extinctions. Unlike conven"
+    publishedDateTime: 2020-12-14T14:13:00Z
+    webUrl: "https://www.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
+    ampWebUrl: "https://amp.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 59
+    images:
+      - url: "https://cdn.iflscience.com/images/17593630-129c-59be-b9da-33ec8adbacee/default-1607946071-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Artificial intelligence finds surprising patterns in Earth's biological mass extinctions"
     excerpt: "Scientists have long believed that mass extinctions create productive periods of species evolution, or ''radiations,'' a model called ''creative destruction.'' However, new analysis provide evidence for different outcome."
     publishedDateTime: 2020-12-10T05:02:00Z

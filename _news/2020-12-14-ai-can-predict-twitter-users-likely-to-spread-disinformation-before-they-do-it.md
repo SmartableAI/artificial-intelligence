@@ -2,29 +2,30 @@
 category: news
 title: "AI can predict Twitter users likely to spread disinformation before they do it"
 excerpt: "A new artificial intelligence-based algorithm that can accurately predict which Twitter users will spread disinformation before they actually do it has been developed by researchers from the University of Sheffield."
-publishedDateTime: 2020-12-14T10:38:00Z
-originalUrl: "https://www.sheffield.ac.uk/news/ai-can-predict-twitter-users-likely-spread-disinformation-they-do-it"
-webUrl: "https://www.sheffield.ac.uk/news/ai-can-predict-twitter-users-likely-spread-disinformation-they-do-it"
+publishedDateTime: 2020-12-14T13:57:00Z
+originalUrl: "https://techxplore.com/news/2020-12-ai-twitter-users-disinformation.html"
+webUrl: "https://techxplore.com/news/2020-12-ai-twitter-users-disinformation.html"
+ampWebUrl: "https://techxplore.com/news/2020-12-ai-twitter-users-disinformation.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-ai-twitter-users-disinformation.amp"
 type: article
-quality: 37
-heat: 37
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: University of Sheffield
-  domain: sheffield.ac.uk
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://www.sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2020-12/twitter-292994_1280.jpg?h=fd3fefb9&itok=gOQXgAaO"
-    width: 1504
-    height: 846
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/twitter.jpg"
+    width: 1920
+    height: 1079
     isCached: true
 
-secured: "bQ+HMuMJcWq/KU3+uyROfcUfVgIAzIYmBAA91lzINC8WoP/fMVNqWrhTPo3833iez7C1Be4iqGl9B0IwDV5ABJ1cnA8LYlnvquNZMwU27Mmm4QPulv+GjqfXxRE7zfknDWCKcOBI8b4vOhKnmsaDjjHtQTz0uOSYWflCcTj9GaHtnshkKk//D0oHXXVdYoM4s0CofDkedc36i+64WLF7eg53DouZnDgFS24jfCXpF+aZzcTuB8lGFUJTUz/SNC1lW/ldcp8lv2WhW4KjcY6yuLFTQoz50bMpp982+vFZh1F+o4BB80u5fH7H9UujVkeZt42Oi7owvFBbcVhL9YtHjEDzvsYixrCtrTBYZroZK9dZPNJraXxbWroForEZjpUULj/0sDTlWUyWICUtlnCyQfnOrdScqd7rWSZ0+E51iwPQ9N478qXbigUXpzpH7zQIMHDFIgLBIjRijcuWD2LfO3ZByOsYHRsoVGRErEtSH47y/GANfmQtPo8lz9FN5iTuDhTmlW4yFuekX4O0HS1o1g==;Uz1iL7FbH9U9YMwshXZ82Q=="
+secured: "0h74T8/kxF64ONu3f5+2QbmBLWTbhGrGNh/cEx+7tpTmYpA2BZVf4dWHKAq5AtW3E9UYdzI5ahlmGo7/Z5M1uAwteP3EnYOZPsjV5oHogeu0eG1rXh8tQ9DI/202oyopPuhozaFS7vTQceSwNvlINapSPYER25f/YF8C+jyuXexWFEjD3D8LyF1Uc/hUZYRhfDI3Jqi0x68sG0cWwenwuypwq2FwHq3Fd35DhGjskaaGQWv2Ae/fARa+DrV4OBswEUQr6cVpKIAHIrjYp5OGzNtEV2ZWZ2aWplb2dmQRK+saHhvKAgxRweoklq9AgZGdnpY5Sa7Jq0F17edYHVkZ8qmaja0shAqP1liGwJYAgrg=;LduYgrkHLWCEg6X4KpsSAg=="
 ---
 

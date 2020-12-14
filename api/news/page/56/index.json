@@ -2,78 +2,26 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2020-10-23-top-10-logistics-companies-worldwide-imarc-group.md",
-      "title": "Top 10 Logistics Companies Worldwide | IMARC Group",
-      "excerpt": "Some of the other emerging technological trends in the logistics industry include artificial intelligence, driverless vehicles and drone delivery. According to IMARC Group, the global logistics ...",
+      "path": "_news/2020-11-03-siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade.md",
+      "title": "Siemens Healthineers and University of Iowa Health Care Team Up to Advance Care for Iowans Over the Next Decade",
+      "excerpt": "Siemens Healthineers and University of Iowa Health Care Establish 10-Year Value Partnership to Expand Access to Imaging Technology, Artificial Intelligence Tools, Research, and",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2168998/top-10-logistics-companies-worldwide-imarc-group",
-      "originalUrl": "https://www.openpr.com/news/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "webUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
+      "originalUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta22170735_g.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2168998/top-10-logistics-companies-worldwide-imarc-group",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2168998/top-10-logistics-companies-worldwide-imarc-group",
-      "publishedDateTime": "2020-10-22T11:04:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-global-automotive-voice-recognition-system-market-report-2020-trends-forecast-and-competitive-analysis-2013-2024-market-is-expected-to-grow.md",
-      "title": "Global Automotive Voice Recognition System Market Report 2020: Trends, Forecast and Competitive Analysis 2013-2024 - Market is Expected to Grow with a CAGR of 19% ...",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Automotive Voice Recognition System Market: Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The automotive voice recognition system market is expected to grow with a CAGR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201022005941/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "publishedDateTime": "2020-11-02T12:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "WFMJ",
+        "domain": "wfmj.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -83,86 +31,121 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-23-teslas-full-self-driving-mode-is-about-to-get-more-expensive-again.md",
-      "title": "Tesla's Full Self Driving mode is about to get more expensive, again",
-      "excerpt": "\"As it collects more data it gets more robust,\" he said. SEE ALSO: Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of The Self-Driving Coalition, which includes Waymo ...",
+      "path": "_news/2020-11-03-kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report.md",
+      "title": "KenSci attains highest score among Healthcare AI vendors in new KLAS report",
+      "excerpt": "The Decision Insights Report' published in October by KLAS Research reveals KenSci received an overall score of 90.7*, the highest among all healthcare AI providers evaluated in the report, as measured by the clients themselves.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase/",
-      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F22%252F07%252F3d7f470265b54467872a6ba00a7b4603.732b6.jpg%252F1200x630.jpg?signature=hmDhJ8AIrTNBItamNlJbkL-wHCI=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-price-increase.amp",
-      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "publishedDateTime": "2020-11-02T10:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy.md",
-      "title": "IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy",
-      "excerpt": "IBM and Pfizer claim to have developed a model that can predict the onset of Alzheimer's disease years before clear symptoms develop.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
-      "publishedDateTime": "2020-10-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
+      "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
+      "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "originalUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsserve.net/newsR256.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "cdnAmpWebUrl": "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "publishedDateTime": "2020-11-02T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsr.in",
+        "domain": "newsr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-brazil-creates-national-ai-innovation-network.md",
+      "title": "Brazil creates national AI innovation network",
+      "excerpt": "A network of research centers will support startups and established businesses in the development of new products and services based on the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/",
+      "originalUrl": "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "publishedDateTime": "2020-11-02T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -182,157 +165,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving.md",
-      "title": "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way 'Full Self-Driving'",
-      "excerpt": "The text reads: “Full Self-Driving is in early limited access Beta and must be used with additional caution.It may do the wrong thing at the worst time, so you must always keep your hands on the ...",
+      "path": "_news/2020-11-03-the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars.md",
+      "title": "The Near-Miss Quandary Is Unavoidably Messy For Self-Driving Cars",
+      "excerpt": "Near-miss while driving is insidious, including for self-driving cars. getty. Reckless and fleckless drivers. I’m sure you experience their antics and angst-producing driving ac",
       "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
-      "originalUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
-      "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
-      "excerpt": "Clark County and IBM Watson Health today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services, including housing assistance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
-      "originalUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-deep-learning-system-software-market.md",
-      "title": "Deep Learning System Software Market",
-      "excerpt": "The Global Deep Learning System Software market was worth USD +2.28 Billion in 2020 and is expected to reach USD +18.16 Billion by 2027, at a CAGR of +40% from 2020 to 2027. Deep Learning System ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
-      "originalUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ironside-achieves-aws-advanced-consulting-partner-status.md",
-      "title": "Ironside Achieves AWS Advanced Consulting Partner Status",
-      "excerpt": "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18014673",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673",
-      "publishedDateTime": "2020-10-22T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-meet-the-ai-thats-really-not-stealing-jobs.md",
-      "title": "Meet The AI That’s (Really) Not Stealing Jobs",
-      "excerpt": "Rather than worrying about AI as a generic, uniform risk to jobs, procurement and supply-chain leaders should explore its potential to supercharge jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9cef7aa486df619b0da987%2F0x0.jpg%3FcropX1%3D631%26cropX2%3D4938%26cropY1%3D194%26cropY2%3D2711",
           "width": 1200,
-          "height": 800,
+          "height": 701,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -340,9 +187,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "publishedDateTime": "2020-10-22T06:14:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-02T09:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -365,19 +212,20 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-22-tesla-full-self-driving-beta-lands-but-its-about-to-get-more-expensive.md",
-      "title": "Tesla Full-Self Driving beta lands, but it's about to get more expensive",
-      "excerpt": "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming.",
+      "path": "_news/2020-11-03-tesla-full-self-driving-feature-now-costs-10000.md",
+      "title": "Tesla Full Self-Driving feature now costs $10,000",
+      "excerpt": "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 493,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -391,9 +239,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "publishedDateTime": "2020-10-22T06:05:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "publishedDateTime": "2020-11-02T08:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -421,389 +269,19 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-the-robot-artist-thats-challenging-humanitys-concept-of-creativity.md",
-      "title": "The robot ‘artist’ that’s challenging humanity’s concept of creativity",
-      "excerpt": "I picked up his robot, and I thought ... But it does highlight one of the problematic aspects of creativity as a benchmark of artificial intelligence (not that this is necessarily what the endeavor is designed to prove.) Simply put, art is too subjective ...",
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
+      "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
+      "excerpt": "WABG merges Wipro’s diverse industry experience and comprehensive portfolio of services with AWS’s industry-leading cloud platforms to help organizations worldwide drive business acceleration, enhance customer experience,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "originalUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/ai-da-in-a-seat-photographer-victor-frankowski-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "publishedDateTime": "2020-10-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition.md",
-      "title": "Amazon embraces end-to-end models to improve Alexa’s speech recognition",
-      "excerpt": "That’s according to Shezhad Mevawalla, head of automatic speech recognition for Alexa, who spoke with VentureBeat ahead of a keynote address at this year’s Interspeech conference. Alexa is now ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/alexa.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/amp/",
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-congruity360-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Congruity360 Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-deque-releases-axe-accessibility-testing-tool-for-microsofts-new-edge-browser.md",
-      "title": "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser",
-      "excerpt": "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab",
+      "webUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201102005498/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-global-artificial-intelligence-ai-market-2020-business-strategies-sap-microsoft-adobe-systems-salesforce-kreato-crm.md",
-      "title": "Global Artificial Intelligence (AI) Market 2020 Business Strategies – SAP, Microsoft, Adobe Systems, Salesforce, Kreato CRM",
-      "excerpt": "The Zion Market Research added a new report “Artificial Intelligence (AI) Market for CRM by Application (Customer Service and Support, Marketing, Sales, and Other Applications), by Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2167793/global-artificial-intelligence-ai-market-2020-business",
-      "originalUrl": "https://www.openpr.com/news/2167793/global-artificial-intelligence-ai-market-2020-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2167793/global-artificial-intelligence-ai-market-2020-business",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2167793/global-artificial-intelligence-ai-market-2020-business",
-      "publishedDateTime": "2020-10-22T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet.md",
-      "title": "We've been promised driverless cars for years. So why aren't they on the roads yet?",
-      "excerpt": "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
-      "originalUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/13/3dd027e3-df63-48aa-9f7b-a52085ce2608/thumbnail/1200x675/28f68dbe4aac725bdde398611a98bbd9/20200313-daphne-karen-winter.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
-      "publishedDateTime": "2020-10-22T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy.md",
-      "title": "The real business risks of ignoring diversity, equity, and inclusion in your AI strategy",
-      "excerpt": "What happens when decision-makers in tech companies simply don’t reflect the diversity of the general population?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1249641728.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
-      "publishedDateTime": "2020-10-22T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-facebooks-ai-team-expands-post-grad-courses-for-black-and-latinx-students.md",
-      "title": "Facebook's AI team expands post-grad courses for Black and Latinx students",
-      "excerpt": "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
-      "originalUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
-      "publishedDateTime": "2020-10-22T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-st-lukes-university-health-network-selects-ge-healthcare-for-11-million-ultrasound-purchase-to-create-system-wide-efficiencies.md",
-      "title": "St. Luke’s University Health Network Selects GE Healthcare for $11 Million Ultrasound Purchase to Create System-wide Efficiencies",
-      "excerpt": "Two of IBM Watson Health’s 100 Top Hospitals are St. Luke’s hospitals. St. Luke’s University Hospital has earned the 100 Top Major Teaching Hospital designation from IBM Watson Health eight ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
-      "originalUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201022005112/en/51143/23/GE_Imagination_at_Work_Logo.jpg",
+          "url": "https://mms.businesswire.com/media/20201102005498/en/594194/23/Wiprologo1.jpg",
           "width": 1200,
           "height": 627,
           "title": null,
@@ -815,7 +293,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T04:59:00-07:00",
+      "publishedDateTime": "2020-11-02T08:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -829,79 +307,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-left-and-the-right-speak-different-languagesliterally.md",
-      "title": "The Left and the Right Speak Different Languages—Literally",
-      "excerpt": "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "originalUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "publishedDateTime": "2020-10-22T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-22-text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers.md",
-      "title": "Text to speech, automation and AI: How Google is backing Middle East news providers",
-      "excerpt": "Google says it's backing Middle Eastern news projects that develop new business models. By Damian Radcliffe for Heat Sink | October 22, 2020 -- 11:32 GMT (04:32 PDT) | Topic: Digital Transformation Google has awarded just under $2m to 21 projects in the Middle East,",
+      "path": "_news/2020-11-03-ai-may-help-identify-patients-with-early-stage-dementia.md",
+      "title": "AI May Help Identify Patients With Early-Stage Dementia",
+      "excerpt": "Research suggests that how we type, sleep and speak may offer clues of cognitive decline.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "originalUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "webUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "originalUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/29/22929faf-4666-4ee0-bbea-a289c787429d/thumbnail/1200x675/2e0e2e09eb915bb530dd3a1860c282e5/5b08209d60b2521e61a0aff9-1280x7201may292018140008poster.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://images.wsj.net/im-253269/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -909,16 +334,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "publishedDateTime": "2020-10-22T04:32:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -938,21 +363,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-three-changes-impacting-healthcare-marketing.md",
-      "title": "Three Changes Impacting Healthcare Marketing",
-      "excerpt": "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,",
+      "path": "_news/2020-11-03-retailers-use-ai-to-improve-online-recommendations-for-shoppers.md",
+      "title": "Retailers Use AI to Improve Online Recommendations for Shoppers",
+      "excerpt": "Companies are getting better at helping customers find what they are looking for—even when they don’t know what they want.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
+      "webUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "originalUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f48f8fdd0ef32a9717eac46%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
+          "url": "https://images.wsj.net/im-253272/social",
+          "width": 1279,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -960,68 +385,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/",
-      "publishedDateTime": "2020-10-22T04:23:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-saudi-deal-with-huawei-for-arabic-specific-ai-risks-us-ire.md",
-      "title": "Saudi Deal With Huawei for Arabic-Specific AI Risks U.S. Ire",
-      "excerpt": "Saudi Arabia said it would partner with Huawei Technologies Co. to develop Arabic-language recognition in artificial intelligence and train Saudi experts in the field, potentially putting the kingdom at odds with the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTGRJAgjNHN4/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
-      "publishedDateTime": "2020-10-22T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1041,66 +414,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-aiml-soc.md",
-      "title": "DSP Group Announces Support of TensorFlow Lite for Microcontrollers on its DBMD7 AI/ML SoC",
-      "excerpt": "TensorFlow Lite for Microcontrollers is an extension of TensorFlow Lite that addresses the need to run ML on memory-constrained devices with only kilobytes of memory. It comes with a specific set ...",
+      "path": "_news/2020-11-03-aws-to-open-data-centers-in-switzerland.md",
+      "title": "AWS to Open Data Centers in Switzerland",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-ai-ml-soc-1029709437",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-ai-ml-soc-1029709437",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-telesense-raises-102-million-to-monitor-crops-with-ai-and-sensors.md",
-      "title": "TeleSense raises $10.2 million to monitor crops with AI and sensors",
-      "excerpt": "TeleSense, a startup developing AI-powered software and sensors for predicting the quality of crops in storage and transit, has raised $10.2 million. The company says the proceeds will be put ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/3fad1eb9-0c58-4da9-81a4-11a6bc8f67ac-e1602617584749.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
+          "width": 440,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1108,23 +436,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/",
-      "publishedDateTime": "2020-10-22T04:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T08:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1133,10 +452,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AWS AI",
+        "AI"
       ]
     }
   ],
-  "nextPage": 57
+  "nextPage": null
 }

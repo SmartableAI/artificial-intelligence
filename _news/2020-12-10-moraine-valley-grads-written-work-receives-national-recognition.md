@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Patch
@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Worldwide Emotion Detection and Recognition Market Size to record notable gains through 2027"
+    excerpt: "Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
+    publishedDateTime: 2020-12-14T13:46:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136756/worldwide-emotion-detection-and-recognition/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "3bPeYqG5VH+cvG0eb/2mhERlpsTafBwjLbOP0k9GWWtrtzzMDwpXQDJtm0OLxvCc4MnEEf/JqXQ2URdxOCIT5m3EyVRhjv4oTl2K3ZsDgSPywWI4qM+sSa5g3LWIkfOtT9mSy237eGIhw1Oh8yP/m7KmlvpC9Eua5PYAwFVprRSeqhDd49QcGzKIiNMc4zvImpycNiGiuQLtGNB5fhV5YEm/z+LkqADBOBS8L8dQklxWs/sisBsxTsB2SjSiNoSEm/2YARsOU3rcflo8jlTcfoW9MjIzPxirWNCIuYBC/Od5iXqjxtUcXGh7HHP7HvGGAJqAjvzJo0ues4B2XAhryB9wmzXH1xtYdA3ileTQjlE=;b61S+0pI+wvUemXfrU4ByA=="
 ---

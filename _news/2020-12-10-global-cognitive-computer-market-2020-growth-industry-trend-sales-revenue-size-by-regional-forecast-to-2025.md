@@ -24,20 +24,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
-    excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
-    publishedDateTime: 2020-12-14T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Recognition for Automotive Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2025"
     excerpt: "Global Voice Recognition for Automotive Market 2020 by Company, Type and Application, Forecast to 2025 published"
     publishedDateTime: 2020-12-10T07:44:00Z
@@ -52,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
+    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2020-12-10T08:56:00Z
+    webUrl: "https://www.financialbuzz.com/global-automotive-voice-industry-report-2020-with-focus-on-china-baidu-and-vw-mobvoi-are-gathering-pace-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "MBusVIPRTYXFkKiQgNmRh8CszUOSnk7tXvk/qmQ5E7a6wrVzFBy91HbMI44d6E+/HOafh6UqoP65OW48eyLyKLFj8JvoS3Zge1CesXDSLxeEe99LMeaEFU9dPaUHDip9Ojh38HaU6bjVtarkZlvOa4PaVkqRO2ef29i++njf1DBRePGIVDDTCzte+MR6frkfAl7EJM5zUnvVnL/hF6Im3/1xE2EpBg64lMSAXjQdhMF4blgerMrAlbFW95cjPplc1BzPgRl2kCJ8JptHZhMvCPcZZ0+nVZfS/XFjr4LhxwT0zKj1LwFFku+3UkJgURH+zsBpf0HuLAKSYAtRiyfCoyAryd72ig//SvinXcZMzVc=;Apin3bL+7jmSTladIVOzYQ=="
 ---

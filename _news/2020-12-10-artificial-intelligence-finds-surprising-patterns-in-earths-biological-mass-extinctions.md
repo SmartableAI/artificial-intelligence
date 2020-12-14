@@ -41,6 +41,22 @@ related:
         width: 900
         height: 821
         isCached: true
+  - title: "AI Reveals New Insights Into Mass Extinctions And Life On Earth"
+    excerpt: "Using the power of artificial intelligence (AI), scientists have revealed new insights into the creation and destruction of mass extinctions. Unlike conven"
+    publishedDateTime: 2020-12-14T14:13:00Z
+    webUrl: "https://www.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
+    ampWebUrl: "https://amp.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 59
+    images:
+      - url: "https://cdn.iflscience.com/images/17593630-129c-59be-b9da-33ec8adbacee/default-1607946071-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "cSB8u4WFCniMiKiUukQdgz9V4TqU5witcIuQj0mXz95HGCqRBUnWSdIAIn6MbiD0uqUMfpLqPaeSX9yaKU6IZhzZB4mcBPMa5YMZe+h8INYLO6TfSiTPHjrIYqX0iisTJsN4nWpFihyZcLyegtQQlvIHrOtFoMrd1yyf1FtLKvzacN9iEvbWExPlDEC2cuHJbmcL24jEPABHutcsL1lcpQv2FB9sfe3aoGnXDMhGFS5jqK9LHfgd4Mu4LjMCrabNOzOTw8RuPAP929wGoJ4mvameaPm/mGaUKhAWMMkOctuwBSI0Bup97gXiKYQOgdNRX/Kfa7pMfQ9Fs3fsKaXvhh6eA7kL70ILRBgq+vLxgrK5f2LazYKpxC8mWTlyc7U6QaeKjhPOQ2dDzuVI1PKrfdiXLs9xrsKEtm2NLuy5dCaCFRtWgGwrcNRPsPQ7h+Uvsh6L7281mInpH0DI4ItNobUHJ8BN2ceUxc9J1gP35RPmGR7DMH/G4BIr+9iEEbCk1UCA1eJ5yflXklFfDxPSIA==;BQbto5nfSesZZJLalXfYEw=="
 ---

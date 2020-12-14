@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-mar
 webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice Recognition for Automotive Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2025"
-    excerpt: "Global Voice Recognition for Automotive Market 2020 by Company, Type and Application, Forecast to 2025 published"
-    publishedDateTime: 2020-12-10T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2025-2020-12-09"
+  - title: "Conversational Artificial Intelligence Market Analysis, Dynamics, Forecast and Supply Demand 2020-2024"
+    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
+    publishedDateTime: 2020-12-14T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
-    excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
-    publishedDateTime: 2020-12-10T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
 
 secured: "5wx6qSF57sKai7EwJgzEwOcqaYkrqKpYAWEWJPxVkIOZr3Z1CqraDh+4Pei6UVtrjdQXOUs4SeM/pjyNwlzZ+GngT1p+tQ2DkeqBEznoh9d8XZgpyIAnK3/1gmVdGx9Y/pWs34saH6sDMlsMe2TSDoMIqIk0I/Wk7jj4afcWU/BKAjRjo6F8THHnZdHZ2fHe4ORfGe9vaDlFykmaNzzjPT86YHno3/EWtJYYKVV2YMbXit6a053oItLWyzejlVanE3U7dx/Ms4smDkZegeXhJDQS07r14fuDgBx+wmlO2YN0jy33BzDjN4XfQVRnCCmiOv6zZLOE1I+2nXjSVDq6xMWiALI1NSgaWN1gLhyBoK4=;U3h//acCeYg7VxzfIw5Ibw=="
 ---
