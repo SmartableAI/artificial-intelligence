@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-05-worldwide-voice-recognition-market-tremendous-growth-gross-margin-production-revenue-and-forecast-2029.md",
+      "title": "Worldwide Voice Recognition Market Tremendous Growth, Gross Margin, Production, Revenue and Forecast 2029",
+      "excerpt": "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. A voice recognition device can receive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/136072/worldwide-voice-recognition-market-tremendous/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/136072/worldwide-voice-recognition-market-tremendous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-smart-devices-could-use-ai-to-tell-where-your-voice-is-coming-from.md",
       "title": "Smart devices could use AI to tell where your voice is coming from",
       "excerpt": "University researchers have developed a machine learning model that uses the power of AI to determine precisely what direction someone's voice is coming from ... others in that it doesn't require facial recognition tech, which could be for the best.",

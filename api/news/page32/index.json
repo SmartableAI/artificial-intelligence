@@ -2,6 +2,92 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-11-18-lapd-bans-the-use-of-clearviews-controversial-facial-recognition-software.md",
+      "title": "LAPD bans the use of Clearview's controversial facial recognition software",
+      "excerpt": "After Buzzfeed News showed leaders evidence of unauthorized searchers, officials issued a new ban on using the controversial platform,.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
+      "originalUrl": "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F8ce2b190-2988-11eb-b799-db52f3a364a9&client=amp-blogside-v2&signature=ab3d0352f05229713f671a991cfa2339559582b8",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
+      "publishedDateTime": "2020-11-18T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities.md",
+      "title": "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities",
+      "excerpt": "INDIANAPOLIS , Nov. 18, 2020 (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18424642",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642",
+      "publishedDateTime": "2020-11-18T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-hacking-humans-how-neuralink-may-give-ai-the-keys-to-our-brains.md",
       "title": "Hacking Humans: How Neuralink May Give AI The Keys To Our Brains",
       "excerpt": "The consequences of high-level hacking today are severe, but we've never before had computers linked to our brains.",
@@ -1098,84 +1184,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-robotics-prosthetics-industry-overview-top-trends-in-2020-prosthetics-market-review-size-share-and-growth-insights-to-2027.md",
-      "title": "Robotics Prosthetics Industry Overview, Top Trends in 2020, Prosthetics Market Review, Size, Share and Growth Insights to 2027",
-      "excerpt": "In related news, Ossur had developed a mind-controlled prosthetic leg in 2015 ... Get Sample Copy for Report “Robotics Prosthetics Market Information: By-Products (Prosthetic Arms, Prosthetic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/11/robotics-prosthetics-industry-overview-top-trends-in-2020-prosthetics-market-review-size-share-and-growth-insights-to-2027.html",
-      "originalUrl": "https://www.medgadget.com/2019/11/robotics-prosthetics-industry-overview-top-trends-in-2020-prosthetics-market-review-size-share-and-growth-insights-to-2027.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-how-artificial-intelligence-can-democratise-education-after-covid-19.md",
-      "title": "How artificial intelligence can democratise education after Covid-19",
-      "excerpt": "New forms of AI, based on deep neural networks, can now uncover patterns about how the students perform and help teachers optimise their strategies accordingly. AI tutors, software systems that students can interact with online,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-534660,msid-79266905/.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms",
-      "publishedDateTime": "2020-11-17T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

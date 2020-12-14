@@ -7,7 +7,7 @@ originalUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-g
 webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://www.financialbuzz.com/wp-content/uploads/2020/12/shutterstock_1405194650.jpg"
         width: 1000
         height: 553
-        isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
-    publishedDateTime: 2020-12-09T12:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Mkab+WAEy16w+urJWsWRXwCYXiORZaj191SA/eytxfpPIGu5CHf8Q0hAktQ/pUP2Frwk9TmW0AIT9aELPWlPUM0CAsEpNHB/2a56mPLr+izi831/sqDg14M75NP9wa0PQg1hRXsdYdPtksgdDcX4soCCfLNmtqo+cVWRu07NGkDKvaIWU3s+/1he9AGjUdfIwFMxrCYH01AeLvOmT3IpJlWfddHmnbYiIP9fXfsyyhTNrwVHUdJMAQr9tCHsciGG8X79+U6Tx8RIR9nPd9oi2Hrc5Wx8Ae+bS24AcNYnWHdNwVtwJmYDtjIXgFT8TNwAENHcw33boFuMNjbKsihu+0ZAhw0hvAkrY0yoedrxtLTsIYCd6Fc3iBfBx/eZMaR+5R4I+FhfdL9GED3fs1xPBeD2JOkuiIZAuHtRiMmYmzUM7qSCvkH3MW4weT1OzU+TDaQ548AkiuDuGftPOA6pQHI2HrpgXG526GBWoSnth4FFHm6ezVkj1mXHY0ic1oeb16fGBWSycg3K0LaRKQ2hXA==;pmA95v++SI0SopVwmKmkCg=="

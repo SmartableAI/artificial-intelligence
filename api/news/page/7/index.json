@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-08-breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science.md",
+      "title": "Breeding neuromorphic networks for fun and profit: The new reproductive science",
+      "excerpt": "The most expedient way to produce the algorithms you need for a new class of computer that works like the brain, its engineers are discovering, is through a Darwinian exercise in natural selection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
+      "originalUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/03/60022ec6-a5ae-46f8-bf4f-e2249e59ba3c/190226-neuromorphic-12-12x9.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
+      "publishedDateTime": "2020-12-07T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain.md",
       "title": "These Three Companies Will Build Drones To Carry The Air Force's \"Skyborg\" AI Computer Brain",
       "excerpt": "The Air Force ... the Skyborg systems is an exciting development for this program, which already promises to have a significant impact on the future of aerial combat. The artificial intelligence ...",
@@ -1146,57 +1198,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
-      "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
-      "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/hiring.faces_.GettyImages-1145150839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
-      "publishedDateTime": "2020-12-07T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -105,20 +105,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Addenbrooke’s to be first hospital to use Microsoft AI cancer treatment tool"
-    excerpt: "Microsoft has announced that Addenbrooke's Hospital in Cambridge will be the first hospital in the world to use its InnerEye AI tool"
-    publishedDateTime: 2020-12-09T12:09:00Z
-    webUrl: "https://www.information-age.com/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool-123493044/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 51
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/12/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool.jpeg"
-        width: 993
-        height: 675
-        isCached: true
   - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
     excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
     publishedDateTime: 2020-12-11T05:32:00Z

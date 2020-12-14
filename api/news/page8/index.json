@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-07-how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021.md",
+      "title": "How will companies use AI hiring software in the Great Rehire of 2021?",
+      "excerpt": "With record numbers of candidates looking to work remotely, recruiters will have to expand beyond their usual geographic footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/hiring.faces_.GettyImages-1145150839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/how-will-companies-use-ai-hiring-software-in-the-great-rehire-of-2021/amp/",
+      "publishedDateTime": "2020-12-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-mohsen-fakhrizadeh-machine-gun-with-ai-used-to-kill-iran-scientist.md",
       "title": "Mohsen Fakhrizadeh: 'Machine-gun with AI' used to kill Iran scientist",
       "excerpt": "A satellite-controlled machine-gun with \"artificial intelligence\" was used to kill Iran's top nuclear scientist, a Revolutionary Guards commander says. Mohsen Fakhrizadeh was shot dead in a convoy outside Tehran on 27 November.",
@@ -1170,49 +1221,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
-      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
-      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
-      "originalUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702",
-          "width": 1024,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
-      "publishedDateTime": "2020-12-05T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

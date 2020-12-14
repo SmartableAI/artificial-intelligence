@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/illinois/evergreenpark/amp/29131879/moraine-valley
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/evergreenpark/amp/29131879/moraine-valley-grads-written-work-receives-national-recognition"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://media.apnarm.net.au/media/images/2020/12/14/v3imagesbin3c293237c969aedaa4631331b0cc73b4-mzgj6hluo1rd9fduiv2_ct1880x930.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-    excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
-    publishedDateTime: 2020-12-09T12:46:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
-        width: 1262
-        height: 660
         isCached: true
 
 secured: "3bPeYqG5VH+cvG0eb/2mhERlpsTafBwjLbOP0k9GWWtrtzzMDwpXQDJtm0OLxvCc4MnEEf/JqXQ2URdxOCIT5m3EyVRhjv4oTl2K3ZsDgSPywWI4qM+sSa5g3LWIkfOtT9mSy237eGIhw1Oh8yP/m7KmlvpC9Eua5PYAwFVprRSeqhDd49QcGzKIiNMc4zvImpycNiGiuQLtGNB5fhV5YEm/z+LkqADBOBS8L8dQklxWs/sisBsxTsB2SjSiNoSEm/2YARsOU3rcflo8jlTcfoW9MjIzPxirWNCIuYBC/Od5iXqjxtUcXGh7HHP7HvGGAJqAjvzJo0ues4B2XAhryB9wmzXH1xtYdA3ileTQjlE=;b61S+0pI+wvUemXfrU4ByA=="

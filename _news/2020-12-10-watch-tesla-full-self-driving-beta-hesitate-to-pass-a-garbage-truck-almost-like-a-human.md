@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "Tesla Full Self-Driving settings leak, revealing myriad of options, including some funny ones"
-    excerpt: "Beta have leaked and it is revealing a myriad of options that FSD can do, including some funny ones. Over the last few months, Tesla has been pushing its Full Self-Driving (FSD) Beta software to a limited group of Tesla vehicle owners in order to test an"
-    publishedDateTime: 2020-12-09T11:23:00Z
-    webUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/"
-    ampWebUrl: "https://electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/09/tesla-full-self-driving-settings-leak-revealing-myriad-options-funny-ones/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-SElf-Driving-settings-dev-mode-e1607512392614.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Luminar Is Overhyped: These Self-Driving Car Stocks Are Better Buys Right Now"
     excerpt: "Investors are right in getting excited about the potential for self-driving cars. But these stocks are better bets to take advantage of that potential."
     publishedDateTime: 2020-12-12T12:12:00Z

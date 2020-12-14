@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-12-conversational-ai-inside-rasas-open-source-approach.md",
+      "title": "Conversational AI: Inside Rasa's open source approach",
+      "excerpt": "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
+      "originalUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
+      "publishedDateTime": "2020-12-11T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
       "title": "FPGA chips are coming on fast in the race to accelerate AI",
       "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
@@ -1113,26 +1165,17 @@
       "title": "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI",
       "excerpt": "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise.",
       "sourceUrl": null,
-      "webUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai",
-      "originalUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai",
+      "webUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
+      "originalUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-02/BA3B9BD6-71AC-4E8C-A9AC-B11E2800162E.jpeg",
-          "width": 640,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-02T06:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1463,59 +1506,6 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese.md",
-      "title": "Amazon Transcribe streaming adds support for Japanese, Korean, and Brazilian Portuguese",
-      "excerpt": "Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy to add speech-to-text capabilities to your applications. Today, we’re excited to launch Japanese, Korean, and Brazilian Portuguese language support for Amazon Transcribe streaming. To deliver streaming transcriptions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-streaming-adds-support-for-japanese-korean-and-brazilian-portuguese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T13:10:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

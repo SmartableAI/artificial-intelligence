@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/tech/google-timnit-gebru-sundar-pichai-memo/index.html"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -220,20 +220,6 @@ related:
       - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The Future of AI Ethics Hangs in the Balance"
-    excerpt: "DeepMind Claims to Revolutionize Medicine But Questions Remain  Google's DeepMind unit is good at feeding the AI hype machine, because after all, its very future depends on it. But judging how Google treats the future of AI Ethics,"
-    publishedDateTime: 2020-12-09T12:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-ai-ethics-hangs-balance-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZ3Aizn7yjA/article-cover_image-shrink_600_2000/0/1607288835258?e=1613001600&v=beta&t=yFaZdaMkH8ewkqKLh90qZeD8-Pp4ajVI4-3bbx-Vdpw"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Google to Review AI Scholar's Abrupt Exit"
     excerpt: "Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has “seeded doubts” in the company. Pichai told Google employees in a Wednesday memo obtained by Axios that the tech company is beginning a review of the circumstances leading up to Black computer scientist Timnit Gebru's exit and how Google could have “led a more respectful process."

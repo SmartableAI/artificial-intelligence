@@ -3,12 +3,9 @@ category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
 excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
 publishedDateTime: 2020-12-09T11:34:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524"
 type: article
-quality: 65
-heat: -1
-published: false
 
 provider:
   name: Associated Press
@@ -24,47 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "DataRobot raises $50 million more to accelerate enterprise AI adoption"
-    excerpt: "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise."
-    publishedDateTime: 2020-12-09T15:52:00Z
-    webUrl: "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
-    publishedDateTime: 2020-12-09T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Parallel Domain raises $11 million to generate synthetic data for AI model training"
-    excerpt: "Parallel Domain, a startup developing a platform for synthesizing AI model training data, has raised $11 million."
-    publishedDateTime: 2020-12-09T15:04:00Z
-    webUrl: "https://venturebeat.com/2020/12/09/parallel-domain-raises-11-million-to-generate-synthetic-data-for-ai-model-training/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
-
-secured: "YRJ3kKVpL3iNHBuspjF1bUeKw7u0ks36NAKjWaF0mtgWX2d9cjukuN6toorCszWGTJwaIj7hH6lDk4lA8E9W1sCEiU7KAONI29eNN5seuiea7Ir+kdCiKQ8d0H661wiBSZo0yJM24cVp4AqNpcRajD3uAuWWsf+VQ57mlEJL1+nH7XVMm6ZEyw2P65D8Fb3uWDt0GPfg24PRBd/nOViJDYG1DlWeky4Ex5FKS4wpP63numjQJYFHoG+OPclbxcY+PM/xgzKRPTwvezcKiQ8yCRFSDYViBg/fL2tvKkfj+PGFnjMN3DdYhjL6/HNKH3y3mK4kfSMjQ5Adr0lxjYQo10tp7wzCPt8k7dyxhjcP+Mg=;uNnHb4oOE7DbCsCWW8BAaA=="
+secured: "VIJpoE5JVHKiuITlL/HKcDuZtjs9S9uxuEIgtnT77Qi8mJjxOg/oSVbfXYVcqJzZeDfh+SUegrxWoSiJYbx1Ga7/qRVfoYuAKkTu7w9SMdzyz9kXoI+IqOBTbuqEktQmFsc7gLe6OFp8SX3zQYp4f0ytdOE1c7KHDFnDbxYnDporyov1AWs0aNvkcmwpaFUWlnTGnE39L5Q/7TTS/XxhB4Uo6aSlzyXxZX8rV7NlEEMgb0ScUYPeE0nbyD5pMGA03NnWozeXvLYRtHAI011df+4Dd7K+YHoDJbFXnejDnxhjkW1EgPfMkcUvOrXt1BEnTBzKeLl+9oZBIZfDbUkwLdQK+n4NQVPmS+H7U3hIX9E=;NgTtTe0e2SAgO9gt4TRspA=="
 ---
 

@@ -452,7 +452,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -525,6 +525,49 @@
       "provider": {
         "name": "galusaustralis.com",
         "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
+      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
+      "excerpt": "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1387,51 +1430,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-7-tremendous-changes-artificial-intelligence-brings-to-the-education-sector.md",
-      "title": "7 Tremendous Changes Artificial Intelligence Brings to the Education Sector",
-      "excerpt": "Have you considered the role of AI in education as more academic institutes discover its virtues in the coming years?",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
-      "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/AI-in-education.jpg",
-          "width": 1000,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
-      "publishedDateTime": "2020-12-01T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -89,6 +89,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Baidu gets nod for driverless vehicle tests"
+    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
+    publishedDateTime: 2020-12-10T01:05:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM-backed Cruise starts driverless AV testing in San Francisco"
     excerpt: "Cruise has joined the growing ranks of self-driving technology companies removing human safety drivers from at least part of their test fleets. The General Motors-backed company said Wednesday that the milestone ride occurred on a November night in the Sunset,"
     publishedDateTime: 2020-12-09T17:00:00Z

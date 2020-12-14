@@ -103,6 +103,20 @@ related:
         width: 600
         height: 398
         isCached: true
+  - title: "Baidu gets nod for driverless vehicle tests"
+    excerpt: "Online search engine giant Baidu Inc has received permission from transport authorities in Beijing to conduct road tests for five fully driverless vehicles, marking a significant step toward the commercialisation of self-driving technologies."
+    publishedDateTime: 2020-12-10T01:05:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Driverless cars 'will decide who to hit in an accident'"
     excerpt: "Driverless cars could be programmed to ... be governed by automated programmes based on predictable algorithms, artificial intelligence experts are developing neural networks, systems which ..."
     publishedDateTime: 2020-12-11T23:45:00Z

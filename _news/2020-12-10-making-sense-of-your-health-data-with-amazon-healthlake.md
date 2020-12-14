@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your
 webUrl: "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "AWS Announces Amazon HealthLake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN) announced Amazon HealthLake, a HIPAA-eligible"
-    publishedDateTime: 2020-12-09T12:40:00Z
-    webUrl: "https://apnews.com/article/business-technology-amazoncom-inc-products-and-services-financial-services-52fe1d61fe98458eac324f735d215d56"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "yxJaNugnqom5wCi6VlNzA8c40QzlQtRLh5Cq5TvKA71tlx5ROzRHKXSaKD165v+m5Jyx70DQ82L+sWW4NdggKh6CaBCD5PMd9KMR6eI+P5g9RbwIyJn6vC4oTpXGxPUpS5HDaPnlu/QanEreBHdxlXQi5hhQAtwZniNMnaWob9loIapZLjsYVLwL5Uebse18F+xjc4r/UovprBNSrWvoAJ3nckN4g6QnJxkxGEaNSQAI8QfuwPlJixFUPx+nnTSJp7hIQo/xMQYe1125KBUpEnxZAjJZWnuznFNtruypdDie4Niup8o6vasXw3YKsqPo/cvnOqQdMBlfv9Xqm/jMEeMN00eEosfagt2YaQVnjs8=;OpohTwXlYahXZPdQMUzHfA=="
 ---

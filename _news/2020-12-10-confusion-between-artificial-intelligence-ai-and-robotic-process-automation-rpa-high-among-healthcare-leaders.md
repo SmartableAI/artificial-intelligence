@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders"
-excerpt: "Healthcare Organizations Already Using Automation Still Have High Levels of Confusion Between Robotic Process Automation and Artificial Intelligence. SOUTH SAN FRANCISCO, Calif., Dec. 10, 2020 /PRNewswire/ -- Alpha Health,"
-publishedDateTime: 2020-12-10T13:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2"
+excerpt: "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey"
+publishedDateTime: 2020-12-10T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html"
+webUrl: "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook"
+    width: 1440
+    height: 754
     isCached: true
 
-secured: "m7Ih4ANeo3GjU35977ER8UUIV6dtWSw+h/pP8qOruhndUJ5SO8Nag8oyuGZgoX3czCQmu8q3UETPhb9a2kZGs7fDLjjGcFfLbn58Bi2OESm8/VggLKLNR0PvqUBWyypI6XLYAgMkpNHEilbc39JDwBlGYzoJ7AygewRUc55gyvR5MH+gJWTnYZ+PWfBKbFNBfBSqIccEcbkaWVK6f6eYkGtcrDzKrGwL+Krl9PZcXi4u8QMZ4esjBpuLGynlr+vzIpCCveoZzC7wyZC5YvYbXaq/X6HviHYWmcwOjgkvuPZWIffpAB3/Hy39y5HXhtmr22oYOgwf0zaUO/j9qn1h+kk8KEC/lzac2LmxtQFA9uU=;ymNbHilOQjiJuId+5ligpw=="
+secured: "yRZe9ptinA0OIzCJctpUDgEynfqb1P/Lcfs2CW3IuRgRt1bvv/0b6tztR1GeQ4Sx1UuN38k321H1GiPGkwK0Adn1W25ahMSHC+wTkELJXg7SuPRe7srahipHhLEbNCOWsaz4FaTy1bnTANakMWPIFzq1+Dz4v7G2b30kBB/ovkGpcM51jFIIi5W87BpwHRffDenymTHQzMxBXlh+sl6VrnoSNemTjDi7vaAyWhZh8Bc0+NqBb7BxhIjC5RYYcSF0CVasCpZKy/JR4x2Zxfas6fqAm5W5d6TgVMTFC03Q0zxFDQXaqeaD9clROm710I1Myv+csz5C0sYTjndhy1UYyrJwAgC7xhgYyiPD4DfoHYc=;u9Rbun1gbT3ulVzYZCsTLA=="
 ---
 

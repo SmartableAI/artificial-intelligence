@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-    excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
-    publishedDateTime: 2020-12-09T11:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 65
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
     excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
     publishedDateTime: 2020-12-09T15:00:00Z

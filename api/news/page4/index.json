@@ -114,7 +114,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/09/general-motors-cruise-self-driving-prototypes-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -269,7 +269,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -364,7 +364,7 @@
       "originalUrl": "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -459,7 +459,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -564,7 +564,7 @@
       "originalUrl": "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -607,7 +607,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -987,6 +987,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-09-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
+      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
+      "excerpt": "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-02-higher.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading 0.2% Higher",
       "excerpt": "Shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) traded up 0.2% during mid-day trading on Tuesday . The stock traded as high as $48.63 and last traded at $48.55. 27,",
@@ -1081,6 +1124,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
+      "excerpt": "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T21:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
       "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
       "excerpt": "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,",
@@ -1131,100 +1208,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-siebel-led-c3ai-exceeds-ipo-target-to-raise-651-million.md",
-      "title": "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million",
-      "excerpt": "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YbKoqDzKD0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-09/siebel-led-c3-ai-is-said-to-top-ipo-target-to-raise-651-million",
-      "publishedDateTime": "2020-12-08T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-self-driving-car-unit-now-overseen-by-john-giannandrea-report.md",
-      "title": "Apple Self-Driving Car Unit Now Overseen By John Giannandrea [Report]",
-      "excerpt": "Apple's self-driving car unit is now being overseen by AI executive John Giannandrea, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report",
-      "originalUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.iclarified.com/images/news/78905/78905/78905-640.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report/amp",
-      "cdnAmpWebUrl": "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/78905/apple-selfdriving-car-unit-now-overseen-by-john-giannandrea-report/amp",
-      "publishedDateTime": "2020-12-08T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iClarified",
-        "domain": "iclarified.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

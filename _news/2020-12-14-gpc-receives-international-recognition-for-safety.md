@@ -55,20 +55,6 @@ related:
         width: 730
         height: 945
         isCached: true
-  - title: "The National Captioning Institute Offers Automated Speech Recognition (ASR) Closed Captioning Solution"
-    excerpt: "PRNewswire/ -- The National Captioning Institute (NCI) proudly presents CaptionSentry, the premier real-time ASR captioning service for English and"
-    publishedDateTime: 2020-12-09T12:46:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-national-captioning-institute-offers-automated-speech-recognition-asr-closed-captioning-solution-301189374.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1361510/1.jpg?p=facebook"
-        width: 1262
-        height: 660
-        isCached: true
 
 secured: "opN1bRo1HrGog6YbAE2dleG5B8I/JcGUjaMVBWA6bvM80/1+n8Tf7zBgKfyF4lPKEysj9k6d2Uf5qjzgJGQvlNPIBZo1yskOprgKhg0Rc6ctp84RARlEmWxA8zWN8jF0nXvpDU2XiPIrfvcjUyZizVaJkzDdsauChc6OZjnjhIkdIgOT0aMdRII9uSb5/6ChXsnnlMqFjWp285PVFyuLhlA5/YlNJz61+9SXoN5E+4iZoAd7ZXvI5bFPgBoPU8PVOHmoyRK/8SGgXGFOiTO90sKG4+uf+2HnUkVFhkGOVvsGvOYcvYynfZtJYK3CKSKXwZOLm/Ww4MS9LAUp+ElpnU+aWh7ojWbzu867WsLbaxE=;3Zu3oGiTf4pkwaMtvvyp8w=="
 ---

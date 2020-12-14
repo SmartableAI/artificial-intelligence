@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-inve
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/41/2020/12/vlt-brunier-nuit-1024x1024.jpg"
         width: 1024
         height: 1024
-        isCached: true
-  - title: "Addenbrooke’s to be first hospital to use Microsoft AI cancer treatment tool"
-    excerpt: "Microsoft has announced that Addenbrooke's Hospital in Cambridge will be the first hospital in the world to use its InnerEye AI tool"
-    publishedDateTime: 2020-12-09T12:09:00Z
-    webUrl: "https://www.information-age.com/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool-123493044/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 51
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/12/addenbrookes-first-hospital-use-microsoft-ai-cancer-treatment-tool.jpeg"
-        width: 993
-        height: 675
         isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
