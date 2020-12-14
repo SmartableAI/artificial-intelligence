@@ -14,7 +14,7 @@ website: https://t.co/uy8OBWPHze
 twitter:
   username: NandoDF
   url: https://twitter.com/NandoDF
-  followers: 82498
+  followers: 82499
 
 googleScholar:
   url: https://scholar.google.com/citations?user=nzEluBwAAAAJ
@@ -25,7 +25,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1338281834707300356/iW0ugjeA_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg
     width: 400
     height: 400
     isCached: true
