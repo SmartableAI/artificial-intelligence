@@ -37,6 +37,22 @@ related:
         width: 3872
         height: 2583
         isCached: true
+  - title: "Missing Boy Re-united With Family After 10 Years With Help of Face Recognition Tool DARPAN"
+    excerpt: "New Delhi: A boy from Madhya Pradesh’s Jabalpur has been reunited with his parents nearly after a decade with the help of the face recognition tool — DARPAN, which was launched by the Telangana police. The facial recognition tool helps investigating ..."
+    publishedDateTime: 2020-12-14T15:53:00Z
+    webUrl: "https://www.india.com/viral/missing-boy-reunited-with-family-after-10-years-with-help-of-face-recognition-tool-darpan-4266395/"
+    ampWebUrl: "https://www.india.com/viral/missing-boy-reunited-with-family-after-10-years-with-help-of-face-recognition-tool-darpan-4266395/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/missing-boy-reunited-with-family-after-10-years-with-help-of-face-recognition-tool-darpan-4266395/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 49
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/12/missing.jpg"
+        width: 1296
+        height: 708
+        isCached: true
 
 secured: "yIIMQalq/JIIjsFr/r+OE3O9UK1w0QkKUraCwiGl25xQ101M1FMZ5s4+0xiW2S5cJIlA+biTD4RTtId/LNo//7BmkIyA/SuDw4OMsWLBIHFrkC/6+gnqFHTvdgGJntLiTvp1RQuZGOkioKQU1Xv7ibZPfDI0g7KDuaJOae04KFvywTK9boBHhQSo6/+O6L0l7EEtZ6B57nVp+CZ8UBKmlOeDIx3qLLlVTdcg8ByPz500a1dw+YZ+0Q05P/9LDfPLwNF9HmGERAIr0cqdLWDYEoAD+o7aQ1JrJQ94k77VS2hVjg7agqq7GtTfufHkkfTUMCumMkuCazO3M1/Z7YyQkKRcmMs1tKGLecYUN166V8g=;09jQIFDiHTqrpS9H6lgixQ=="
 ---

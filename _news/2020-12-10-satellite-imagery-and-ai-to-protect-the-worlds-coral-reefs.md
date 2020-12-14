@@ -40,6 +40,20 @@ related:
         width: 796
         height: 462
         isCached: true
+  - title: "Project seeks to develop artificial intelligence to protect whales from ships"
+    excerpt: "Researchers at Simon Fraser University (SFU) want to use ‘AI’ to help protect orcas from being hit by ships off the Pacific coast. Steven Bergner is a computing science research associate at the university’s Big Data Hub,"
+    publishedDateTime: 2020-12-14T16:10:00Z
+    webUrl: "https://www.rcinet.ca/en/2020/12/14/project-seeks-to-develop-artificial-intelligence-to-protect-whales-from-ships/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 34
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2020/12/whale-orca-2-k-pod-haro-str-jul-6-19-centre-for-whale-reserach.jpg"
+        width: 999
+        height: 666
+        isCached: true
 
 secured: "Ilw2lzA9Ze44uhtZfeYlY+njS0OVgjOEaQ8qZC+iY1eXGI8NvofyPm4xCOeHuia1txvuiAuhz3k5Y2sISzprGTy4NIDogW7f7bBvZIFFNW3xhZDRVMXTa9jmi36V5XncngddkhkG/8l7VDBrcf+XRTRTjFFdQRYHLvGxoGjUL4gVmCBjauu36m0qB0uV42H8hVrY4pmxGuVfQzd0HXNkFjjdsxNsHdzFYkp/HPAK31SqtLmWaAUflyuMJIa/ToGlCS5p4FLCjUsEnXSnb4d+b2u+f6qVGWs9vuuRWE7rxIC2nc4i4LcIYd+1HlQumqjxwTdjv0uIm8vanNUqz3xDG8+m067mtDp29oOFF/QFq9w=;EuVF0jmv6vlpk18DQUtesQ=="
 ---

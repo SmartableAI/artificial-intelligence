@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Missing Boy Re-united With Family After 10 Years With Help of Face Recognition Tool DARPAN"
+    excerpt: "New Delhi: A boy from Madhya Pradesh’s Jabalpur has been reunited with his parents nearly after a decade with the help of the face recognition tool — DARPAN, which was launched by the Telangana police. The facial recognition tool helps investigating ..."
+    publishedDateTime: 2020-12-14T15:53:00Z
+    webUrl: "https://www.india.com/viral/missing-boy-reunited-with-family-after-10-years-with-help-of-face-recognition-tool-darpan-4266395/"
+    ampWebUrl: "https://www.india.com/viral/missing-boy-reunited-with-family-after-10-years-with-help-of-face-recognition-tool-darpan-4266395/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/missing-boy-reunited-with-family-after-10-years-with-help-of-face-recognition-tool-darpan-4266395/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 49
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/12/missing.jpg"
+        width: 1296
+        height: 708
+        isCached: true
   - title: "Boy missing for 10 years re-united with family with help of face recognition tool DARPAN"
     excerpt: "Telangana police used the face recognition tool they had developed to match photographs of missing children with those of children found in children’s homes across the country."
     publishedDateTime: 2020-12-14T11:42:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Entrepreneur Ashwini Asokan on building AI startup Mad Street Den and lessons from her journey"
-    excerpt: "In this episode of 100x Entrepreneur Podcast, Ashwini Asokan, Co-founder and CEO, Mad Street Den, talks about how she built her AI startup."
-    publishedDateTime: 2020-12-10T00:12:00Z
-    webUrl: "https://yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup"
-    ampWebUrl: "https://yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/12/entrepreneur-ashwini-asokan-mad-street-den-ai-startup/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 45
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagejkss-1607521477536.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Rounding Up Machine Learning Developments From 2020"
     excerpt: "Here is a roundup of innovations in various machine learning domains such as reinforcement learning, Natural Language Processing, and more."
     publishedDateTime: 2020-12-11T11:32:00Z

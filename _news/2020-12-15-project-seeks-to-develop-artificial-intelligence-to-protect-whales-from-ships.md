@@ -1,0 +1,60 @@
+---
+category: news
+title: "Project seeks to develop artificial intelligence to protect whales from ships"
+excerpt: "Researchers at Simon Fraser University (SFU) want to use ‘AI’ to help protect orcas from being hit by ships off the Pacific coast. Steven Bergner is a computing science research associate at the university’s Big Data Hub,"
+publishedDateTime: 2020-12-14T16:10:00Z
+originalUrl: "https://www.rcinet.ca/en/2020/12/14/project-seeks-to-develop-artificial-intelligence-to-protect-whales-from-ships/"
+webUrl: "https://www.rcinet.ca/en/2020/12/14/project-seeks-to-develop-artificial-intelligence-to-protect-whales-from-ships/"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: rcinet.ca
+  domain: rcinet.ca
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2020/12/whale-orca-2-k-pod-haro-str-jul-6-19-centre-for-whale-reserach.jpg"
+    width: 999
+    height: 666
+    isCached: true
+
+related:
+  - title: "Save the bees, save the world: How ApisProtect uses AI and IoT to protect hives"
+    excerpt: "Not be an alarmist, but if bees go extinct it’s likely that coffee would become a rare and expensive luxury commodity. And I don’t want to live in that world. Luckily, ApisProtect today announced its entry into the US market where it will provide its unique AI-powered hive monitoring system to beekeepers and farmers."
+    publishedDateTime: 2020-12-10T20:46:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/10/save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/10/save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/10/save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/apisprotect-796x462.jpg"
+        width: 796
+        height: 462
+        isCached: true
+  - title: "Satellite Imagery and AI to Protect the World’s Coral Reefs"
+    excerpt: "Six TU Delft students have won the top prize in the international innovation competition Copernicus Masters with their company Reef Support. They"
+    publishedDateTime: 2020-12-10T08:31:00Z
+    webUrl: "https://www.gim-international.com/content/news/satellite-imagery-and-ai-to-protect-the-world-s-coral-reefs"
+    type: article
+    provider:
+      name: GIM International
+      domain: gim-international.com
+    quality: 37
+    images:
+      - url: "https://www.gim-international.com/cache/d/2/f/3/1/d2f31be97923394688415c4b72e189cf87192b3c.jpeg"
+        width: 680
+        height: 408
+        isCached: true
+
+secured: "M0M7P4Hs44ArNIAdku5pzlfGkmAU5ikQ7d7WYClbvAwns2YpGcQh/RLbbyDU39uDaldJLJaRd7VK2Aw1CVpIF16fjp6ZLbNxB2HIw2GF64BFUWfHaWYYcDBiN1txjmjntj5mfpS3wkyoCtbrcwKiS/7uYQ6/Ixl8U8z4uWTDXTR0R3DmJJvunVyv0h6qAMpg96Gk+mWhKq6NDN09KN7rK2hzAaZ2nSc001EhM5mzJ1xkqkcWE8Jj8/VLSHj1J4cYPaK/BJ3UnPS2cqG9+5gBuA8gfNj+cMD8BJcZc5n6Xh2+ahI/V9MJb5fSjc2KRgSTBtaJl7+OLmdZKIpH4iWKriDqmnHZOVw5TZcjYDcasxc=;T1ypHpiM0L5IycPvcArSHA=="
+---
+

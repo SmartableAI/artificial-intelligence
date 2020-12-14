@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-14T13:05:00Z
 originalUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
 webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

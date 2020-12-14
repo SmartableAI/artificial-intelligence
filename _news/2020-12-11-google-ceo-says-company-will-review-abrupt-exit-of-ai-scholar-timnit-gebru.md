@@ -37,22 +37,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google will investigate what led to AI researcher's exit, CEO says"
-    excerpt: "Sundar Pichai apologizes for how Timnit Gebru’s departure ‘seeded doubts’ at Google"
-    publishedDateTime: 2020-12-09T23:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/dec/09/timnit-gebru-google-firing-resignation-sundar-pichai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/9cb5da72017a928d275551e1df3ff7a5f76a61f1/0_138_2144_1286/master/2144.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=678c03d06bc89eb6dfbdf15dbd462c19"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
     excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
     publishedDateTime: 2020-12-11T13:41:00Z

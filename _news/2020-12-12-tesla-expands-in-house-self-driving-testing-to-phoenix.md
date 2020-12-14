@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-t
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cruise says it’s started driverless testing—I’m skeptical"
-    excerpt: "Cruise has been testing its self-driving cars for more than 2 million miles. But like other companies with advanced self-driving technologies, Cruise has to decide when and how to make the leap from testing prototypes to releasing a commercial product."
-    publishedDateTime: 2020-12-09T23:29:00Z
-    webUrl: "https://arstechnica.com/cars/2020/12/cruise-says-its-started-driverless-testing-im-skeptical/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Cruise-car-in-San-Francisco-streets-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
     excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"

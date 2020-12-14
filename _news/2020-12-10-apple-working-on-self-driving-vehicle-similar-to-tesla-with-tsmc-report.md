@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cruise says it’s started driverless testing—I’m skeptical"
-    excerpt: "Cruise has been testing its self-driving cars for more than 2 million miles. But like other companies with advanced self-driving technologies, Cruise has to decide when and how to make the leap from testing prototypes to releasing a commercial product."
-    publishedDateTime: 2020-12-09T23:29:00Z
-    webUrl: "https://arstechnica.com/cars/2020/12/cruise-says-its-started-driverless-testing-im-skeptical/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/Cruise-car-in-San-Francisco-streets-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
     publishedDateTime: 2020-12-11T05:10:00Z
