@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "AI explainability specialist Truera closes $12M round"
+    excerpt: "Truera Inc., a startup working to give enterprises better insight into how their artificial intelligence models make decisions, today said that it has closed a $12 million funding round led by Wing VC."
+    publishedDateTime: 2020-12-14T21:50:00Z
+    webUrl: "https://siliconangle.com/2020/12/14/ai-explainability-specialist-truera-closes-12m-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/truera.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Truera Raises $12M in Series A Funding to Accelerate Go-to-Market of First AI Model Intelligence Platform"
     excerpt: "Truera, which provides the industry's first Model Intelligence platform, announced today that on the heels of its successful launch out of stealth in August, it has closed $12M in Series A funding led by Wing VC with participation from returning investors Conversion Capital and Greylock and new investors Data Community Fund,"
     publishedDateTime: 2020-12-14T17:34:00Z

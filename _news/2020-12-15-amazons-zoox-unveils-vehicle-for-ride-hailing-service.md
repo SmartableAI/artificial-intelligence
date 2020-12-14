@@ -153,6 +153,38 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Amazon's Zoox unveils self-driving robo-taxi"
+    excerpt: "Amazon's Zoox subsidiary has pulled the wraps off its first autonomous vehicle. Billed as a car \"built for riders, not drivers,\" the all-electric box on wheels eschews traditional controls, traditional seating and even traditional notions of a front and ..."
+    publishedDateTime: 2020-12-14T22:55:00Z
+    webUrl: "https://www.autoblog.com/2020/12/14/amazon-zoox-autonomous-self-driving-taxi-robotaxi-ev-car/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/12/14/amazon-zoox-autonomous-self-driving-taxi-robotaxi-ev-car/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/12/14/amazon-zoox-autonomous-self-driving-taxi-robotaxi-ev-car/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2020-12/dbf65780-3e5c-11eb-be5e-23d8d1a7d219"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Zoox shows off next-generation self-driving taxis"
+    excerpt: "The boxy vehicle looks more like a toy than any car you’ve ever seen on the road. It’s bidirectional, meaning it can drive frontwards or backwards with equal ease. Doors on each side slide open to reveal bench seats for four people facing each other ..."
+    publishedDateTime: 2020-12-14T22:48:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/60/67/20385279/5/375x250.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Amazon's self-driving car company reveals its autonomous 'carriage-style' robotaxi"
     excerpt: "Amazon acquired the self-driving car company Zoox in June 2020 Zoox officially unveiled its autonomous vehicle set to shuttle people around It has a carriage-style design that seats four passengers facing each other It's battery packs provide the car ..."
     publishedDateTime: 2020-12-14T16:54:00Z
@@ -168,6 +200,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/12/14/16/36830302-0-image-a-5_1607964214267.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Amazon has revealed its first self-driving robotaxi and it looks wild"
+    excerpt: "Amazon acquired Zoox, a self-driving car startup. Now, six months later, the company is lifting the lid off of its first self-driving taxi project. The autonomous mobility company announced today that its robotaxi can hold four people and travel up to 75 miles-per-hour."
+    publishedDateTime: 2020-12-14T21:33:00Z
+    webUrl: "https://knowtechie.com/?p=136759"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2020/12/amazon-robotaxi-main-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Amazon’s Zoox unit has built its own self-driving taxi"
     excerpt: "Amazon.com Inc.’s Zoox unit has pulled back the curtains on a homegrown self-driving taxi that can cover up to 75 miles an hour and drive more than half a day on a single battery charge. Foster City,"

@@ -2,48 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-12-02-no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures.md",
-      "title": "No code platform Signzy tops up fund raise with additional $3 million from Vertex Ventures",
-      "excerpt": "No code AI platform Signzy announced today that it has raised an additional US$3M from Vertex Ventures, taking its latest round of fundraising to $8.4M in total.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
-      "originalUrl": "https://www.finextra.com/pressarticle/85257/no-code-platform-signzy-tops-up-fund-raise-with-additional-3-million-from-vertex-ventures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-713.md",
       "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Expands By 71.3%",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant increase in short interest during the month of November. As of November 15th, there was short interest totalling 16,",
@@ -1183,6 +1141,59 @@
         "AI",
         "AI in Education",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
+      "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
+      "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/aws-logo-reinvent-2017.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
+      "publishedDateTime": "2020-12-01T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

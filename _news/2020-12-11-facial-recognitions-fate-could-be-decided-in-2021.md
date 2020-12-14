@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
 type: article
 quality: 189
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
-    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
-    publishedDateTime: 2020-12-10T06:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
     excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
     publishedDateTime: 2020-12-10T21:34:00Z

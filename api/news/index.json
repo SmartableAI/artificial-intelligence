@@ -2,12 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-amazon-adds-real-time-translation-functionality-to-alexa.md",
+      "title": "Amazon adds real-time translation functionality to Alexa",
+      "excerpt": "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "originalUrl": "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg",
+          "width": 2040,
+          "height": 1360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html",
+      "publishedDateTime": "2020-12-14T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai.md",
       "title": "Gaming platform Roblox acquires 3D facial animation firm Loom.ai",
       "excerpt": "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK",
-      "originalUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK",
+      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28O1YK",
+      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28O1YK",
       "featuredContent": null,
       "highlight": null,
       "heat": 107,
@@ -261,50 +313,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school.md",
-      "title": "Self-driving cleaning robot sparking kids' curiosity at Virginia school",
-      "excerpt": "It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the floors.",
-      "sourceUrl": null,
-      "webUrl": "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/",
-      "originalUrl": "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125130.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html",
-      "cdnAmpWebUrl": "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html",
-      "publishedDateTime": "2020-12-14T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNYT NewsChannel 13",
-        "domain": "wnyt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech.md",
       "title": "Modulate’s ToxMod uses AI to scan game voice chat for toxic speech",
       "excerpt": "Modulate has launched today ToxMod, a new service that uses AI to scan voice chat in video games for toxic speech or other bad behavior.",
@@ -555,7 +563,7 @@
       "originalUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -607,7 +615,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {

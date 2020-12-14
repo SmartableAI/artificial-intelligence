@@ -27,7 +27,7 @@ related:
   - title: "Gaming platform Roblox acquires 3D facial animation firm Loom.ai"
     excerpt: "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars."
     publishedDateTime: 2020-12-14T20:05:00Z
-    webUrl: "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK"
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28O1YK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O1YK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK"
     type: article

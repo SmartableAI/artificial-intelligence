@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
-    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
-    publishedDateTime: 2020-12-10T06:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-10/why-big-tech-wants-some-facial-recognition-rules-quicktake"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQyOJzEwU2c/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "City Council to ban sale of facial recognition data by businesses"
     excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
     publishedDateTime: 2020-12-10T19:44:00Z

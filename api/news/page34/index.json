@@ -2,6 +2,59 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-11-18-apple-releases-forked-version-of-tensorflow-optimized-for-macos-big-sur.md",
+      "title": "Apple releases forked version of TensorFlow optimized for macOS Big Sur",
+      "excerpt": "Apple today released a forked version of TensorFlow, Google’s AI and machine learning development environment, optimized for Intel Macs and Macs powered by Apple’s new M1 chip. By taking ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
+      "publishedDateTime": "2020-11-18T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
       "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
       "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
@@ -1130,57 +1183,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m.md",
-      "title": "Spacemaker, AI software for urban development, is acquired by Autodesk for $240M",
-      "excerpt": "Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/",
-      "originalUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Optimize-copy.jpg?w=680",
-          "width": 680,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/",
-      "publishedDateTime": "2020-11-17T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

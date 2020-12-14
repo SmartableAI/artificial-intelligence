@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Self-driving cleaning robot sparking kids' curiosity at Virginia school"
-excerpt: "It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the floors."
-publishedDateTime: 2020-12-14T18:51:00Z
-originalUrl: "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/"
-webUrl: "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/"
-ampWebUrl: "https://amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html"
-cdnAmpWebUrl: "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html"
+excerpt: "FAIRFAX COUNTY, Va. - It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the ..."
+publishedDateTime: 2020-12-14T18:52:00Z
+originalUrl: "https://wnyt.com/albany-ny-education-stem/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951245/"
+webUrl: "https://wnyt.com/albany-ny-education-stem/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951245/"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
   name: WNYT NewsChannel 13
@@ -22,7 +20,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125130.jpg"
+  - url: "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125005.jpg"
     width: 800
     height: 450
     isCached: true
@@ -43,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "YDis7id+z1TB4Xpcx1t4XOk/Fwtzf0eSFNvKWnWN7ag7d+c0qrwOovf8mJUWwoCSdRXJVm/1uxklTRMVWHf+I4qx3dvJvSxmg6LjxZWIGO0t12DDL0u3dgDlwnRfJE2epFpAMslTPbT9Zx7buj0CRqE+99L5qRZ7z5WggNsVgCbrQJ87FfKlt31AjLyyayUGPSSUeDCn8D/f7iNl9zQgjqLMbLdEYr50Mz9QS2LseG9QGuvqxglbnl1x+Z1GSR07r9zqnTs+SgJGkmcopFq/n6FkYyADJU3gxlZ7wKTz2r8o0Pmzumshka0+fHNd4cUdUDSeGjDQe98X4QX85kWnFC8Y8JGwrxwe0YM8HVPwCnM=;uYpKozJAWEfW+5jQy+dvhA=="
+secured: "HTi7bIHv1puOMIxRFDN76yyRBlAZG+wzuzFVoMJ21VS8gjwqyvdp0fG4QVSlm3meC+t4K9Vxpyxkr5ajGNxzBkzbppZ7Xm4bJ+m/3gEMlQljyhbfdetMlbB46M2GC4PzwIdW2309P8fmSCyPxmOvT7OcVzzowuuUN56ORmLfqD9LPqTJajnI3AmylcFqLur5v4JlW7WMzmmmggrlNimzneJ+8xx9CQDzlrn0fFYZchBi6hbpL/+pg7Ra6jUn7sSjQEUhcEQ434jhC3yqw65F4VMNCE8m7BETXxTpMMfJY6omIOVuVGxhiPFespMF+Xi1/ks0of5klILqzdUz/7aREkIDPgxXzVad2LQHUD0qKJI=;rpYG2JXks5aiuSDyFC3gMg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-an
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications/article_07eb1462-bdf5-539c-a41d-f95ca5d1794a.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 306
     isCached: true
+
+related:
+  - title: "LG Announces Autonomous Robot with Disinfecting UV Light for B2B Applications"
+    excerpt: "Newest addition to LG CLOi family of will help hotels, schools, offices, restaurants and retailers deliver increased peace of mind."
+    publishedDateTime: 2020-12-14T21:59:00Z
+    webUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-robot-uv-light/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 36
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/12/Robot-2-e1607982614216.jpg"
+        width: 1000
+        height: 766
+        isCached: true
 
 secured: "wboxsrj5W2GGk78vDO/bwloiAkGYWT/WzMAFsDyS+63MpHvDgN4Mcqp5+g8tgv6XJcty3ja1u8szN96CwL9pXO07L52jxkT08bc9sHU60RFcc0As8Vvgg8FBv8DdD5+4a7OfGom/p2kM5Ne2Lj++gWYzXdA6wXucH59Hehcy14tLh4MmFLJJA1ubtKTOw0yAx4YGQwApdnW2lGvnbnWpzp0EdiJpFzgWnLXq82J9HDphN9G46UjNihSo8OXurr2d2klvN/+tpym2oxwKMIsDx1EUjegXVX5EoQZgtmBCb5yPOFZ5KGg7OEHW9IG/ZFxEPypEwUqW2tkehv50GtfSu+P2m9pZRUUpkyBGgplI3Tep9uZ12K6790JmFHVe8ufP0twyLzj7g1z5LToizdOQiCd88tnpDj/R/REdb/+1xZQRyJWaCXGMwlnqiTAlfw4RPWvFk3AEtTuDJ2UDB3GQBz5RTFkkNz43YyarAbEWHnfmjdZmxyN2sMrqvqgcJFeghHryYEBZ8WF17UcMYmNEbA==;vyuWACL2P9vpA/6MRPB/Og=="
 ---
