@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/13/barking-command
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/13/barking-commands-at-a-self-driving-car-wont-do-you-any-good/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Self-driving cleaning robot sparking kids' curiosity at Virginia school"
+    excerpt: "It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the floors."
+    publishedDateTime: 2020-12-14T18:51:00Z
+    webUrl: "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/"
+    ampWebUrl: "https://amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html"
+    cdnAmpWebUrl: "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html"
+    type: article
+    provider:
+      name: WNYT NewsChannel 13
+      domain: wnyt.com
+    quality: 61
+    images:
+      - url: "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125130.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "v05s8JsKPVrApIG7L9v0KOmJbglAGA8rW1leFm8mqWz8VP1H9x8Crsc1SieoWVQsJBkdBjzmIYDaaAPlH+FdT+qNoN7CPSTrEd/56blGLWzcFeoCu/OwViei+tEPW6ibNGaGseChTamlxmSZ6/o9DzKO1PHrbh5L1OPM8YxnHiT5lbs46SnfM+2aqKSSHQqDlSAGa4hMo5HPlTZnV76dihR7TBCJorXYU3Z2gi+dzosglC1StIq+xwDzLXxKouXEfdY/9hIELLpqZfhu6eNWinWF5lbFhqnoaiyViZh+nJEIwf0cZEQvAD1u/k1Shv8Ule7D31A01DxZVUjNonsa5x6NS44y1pcKVqqMeHfw6xNzWOtFYanfL8569VoXlSvcYatx+KPgboww+XCqWw7oPVWmHpO6UgAPfP6VF4JGma6X+X45ZfTzlM6aAHDstLX3DfNAGoJn95AGovpe2koqBtzFldUdYYCKSeqKega1vJ4m7Ww9xm6kgfcL96QcCqiFQXS8iI/pBQajavRVnVqUEQ==;xleP5t5mWf654IMtjNTjVw=="
 ---

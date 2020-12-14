@@ -263,49 +263,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-ai-spots-surprising-patterns-in-earths-mass-extinctions.md",
-      "title": "AI spots surprising patterns in Earth’s mass extinctions",
-      "excerpt": "Charles Darwin's landmark opus, On the Origin of the Species, ends with a beautiful summary of his theory of evolution, \"There is a grandeur in this view",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/",
-      "originalUrl": "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/12/Artificial-intelligence-finds-surprising-patterns-in-Earths-biological-mass-extinctions--e1607617785705.jpg",
-          "width": 900,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/",
-      "publishedDateTime": "2020-12-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-10-fpga-chips-are-coming-on-fast-in-the-race-to-accelerate-ai.md",
       "title": "FPGA chips are coming on fast in the race to accelerate AI",
       "excerpt": "Technology innovations Innovations like high-speed tensor logic blocks and lightning-fast transceivers speed AI performance and development.",
@@ -1485,6 +1442,58 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads.md",
+      "title": "Qualcomm’s Snapdragon 888 harnesses ‘fusion AI’ to offset processor workloads",
+      "excerpt": "To make mobile AI more powerful, Qualcomm has focused on removing physical boundaries in accelerator technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
+      "originalUrl": "https://www.zdnet.com/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/30/577ea1b6-fc17-4b65-a205-3cf6f0fae1ad/screenshot-2020-11-30-at-13-46-36.png",
+          "width": 2096,
+          "height": 1266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads/",
+      "publishedDateTime": "2020-12-01T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

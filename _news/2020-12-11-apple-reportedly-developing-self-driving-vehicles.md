@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Working On Self-Driving Vehicle Similar To Tesla With TSMC: Report"
-    excerpt: "Apple Inc (NASDAQ: AAPL) is working with its supplier Taiwan Semiconductor Manufacturing Company Ltd. (NYSE: TSM) on a chip for an autonomous vehicle, Apple Insider"
-    publishedDateTime: 2020-12-10T04:52:00Z
-    webUrl: "https://www.benzinga.com/news/20/12/18726576/apple-working-on-self-driving-vehicle-similar-to-tesla-with-tsmc-report"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18726576"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18726576"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/andy-wang-nfw2a9jgbsw-unsplash.jpg"
-        width: 4709
-        height: 3139
-        isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
     publishedDateTime: 2020-12-12T12:23:00Z

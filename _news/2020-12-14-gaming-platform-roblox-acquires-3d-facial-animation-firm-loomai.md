@@ -1,34 +1,62 @@
 ---
 category: news
-title: "Gaming platform Roblox acquires 3D facial animation firm Loom.ai"
-excerpt: "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars."
-publishedDateTime: 2020-12-14T15:34:00Z
-originalUrl: "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK"
-webUrl: "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O1YK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK"
+title: "Gaming Platform Roblox Acquires 3D Facial Animation Firm Loom.ai"
+excerpt: "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars. Roblox said the deal will accelerate the development of next-generation avatars,"
+publishedDateTime: 2020-12-14T15:26:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-14/gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-12-14/gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-14/gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-14/gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai?context=amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544513436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD12T"
-    width: 817
-    height: 545
-    isCached: true
+related:
+  - title: "Gaming platform Roblox acquires 3D facial animation firm Loom.ai"
+    excerpt: "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars."
+    publishedDateTime: 2020-12-14T20:05:00Z
+    webUrl: "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O1YK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544513436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD12T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Roblox buys digital avatar startup Loom.ai"
+    excerpt: "Roblox announced today that it’s buying a digital avatar startup called Loom.ai. Purchasing a company that has focused singularly on creating more realistic human avatars is an interesting play for a gaming platform that has made such an impact by building experiences that tend to cast"
+    publishedDateTime: 2020-12-14T19:13:00Z
+    webUrl: "https://techcrunch.com/2020/12/14/roblox-buys-digital-avatar-startup-loom-ai/"
+    ampWebUrl: "https://techcrunch.com/2020/12/14/roblox-buys-digital-avatar-startup-loom-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/14/roblox-buys-digital-avatar-startup-loom-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-14-at-12.52.56-PM.jpg?w=680"
+        width: 680
+        height: 487
+        isCached: true
 
-secured: "C94eGQJ0iTrSv//bGjmc7t/cC9nBMkH+PFzWpIK6DcBCbA7GRJIcpb0KfAP98tDdnD/i56fdkDw9q1eU2caKZ5DXfi3hXU7uMnRML/ax0Qr8IdhoJz+PUsk3OkoH9r9zfCnIjuuJYvSPXde6H2j+N2JGcnphVFSmCJb2ytOjSGLbFRJt5vzRORo2ipXvxUdBqOAp2HRoQCs7av4jAW1KcYjDLc3VALxN27cBZImDjTsj1RDoG6griaFnS2FozKl05xUxneUKCH03ZuxBXRTltUIMcjmntHCIVOmevKrWK0jSe5WE2ZSNNBoHm40DTkE4tnIDID+NoCRJe8iemfMQag5q0fY5w95O31V7FGvaxUs=;DjgQOeCIoLlHaQmtiDClXQ=="
+secured: "2mCyQ/mb8gtW2VsBOqP7UiiljvwuTvCallKANFBoObqlf0bGgE2Ss5ekEtyrkH3o0WNHJn/+OM+P8PFGRKptyI1YtWyS1iJdRKzr9BA/4j7z58upqTlBtv8wEKzSflEnz3Qe/g3Ggayz2I50XLYDIrt64foQTyQU0pZvkmE8l6vKBW29U6Wjv0sq/juXL7IlDbO1qtN5ieSWz0p5QfUYV0z9WQQMKLbRBLABS8eJXUpxhAnEFMNfnCuPXA3qiG7QTkfwKzIw6ShCb5LTWGrFra3VjJ8gtSdooJCy6V2tiYkfoymdUwj4uLcxTYyn0Wjca916ZYZC6AjLnZs/AbOQZinNtEGz606ejE8BHSHiz/EGZv4JMChZGPfcDFUlZ9REOy61PVpD2wwu5bf+l+TZCrYJaGkZ6rHbiBwhujrf3EtG11bYkQa/7DXoIw1N/39poyrsxrJmdga60mv5ukS5mg/XJsXDYR82T3qPQdqrZk9dSlKOT8Z+rM9AMpxlPX8pIPZaOFq/IS2XQE70w0mtGQ==;t5ewaPAj/TRx3j457bE4Fg=="
 ---
 

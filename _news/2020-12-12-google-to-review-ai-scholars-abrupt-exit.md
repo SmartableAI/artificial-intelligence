@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
+    excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
+    publishedDateTime: 2020-12-11T13:41:00Z
+    webUrl: "https://www.freep.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+    ampWebUrl: "https://amp.freep.com/amp/3889402001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3889402001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/aa31ba1a-8ce7-45eb-8549-b5003111f7dc-AP_Britain_Google.jpg?auto=webp&crop=3528,1985,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google ouster of top AI researcher Timnit Gebru draws sharp new scrutiny of how it treats Black employees"
+    excerpt: "The dismissal of top AI researcher vocal about Google's diversity failures has drawn new attention to treatment of Black employees, especially women."
+    publishedDateTime: 2020-12-11T20:19:00Z
+    webUrl: "https://www.dispatch.com/story/tech/2020/12/11/google-timnit-gebru-black-employees-diversity-sundar-pichai/3889402001/"
+    ampWebUrl: "https://amp.dispatch.com/amp/3889402001"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3889402001"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/aa31ba1a-8ce7-45eb-8549-b5003111f7dc-AP_Britain_Google.jpg?auto=webp&crop=3528,1985,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XkB/KLDtWNjIWoE3Zp+zVXCOLA2wGhlBDG1A1tdG51M8hBeCmNRYW7FZFE85HlUvAT/kbg1tjZkYMc7DSwPJFqK4VFY8WyYfqHSNkIO1JUirXESKSmR6z/mz84PMI9ylGvmwR8Qveb3ERIeCBTGxR/ZMhfdhqv9BynOphAixhTGN6fogmtZgbSc2LA2giThUeVD0kZ6pegeK/JZRWXAcuL9JUL0AYrDkOpHpLpmFHj6pzKW4owDj1HV0qNR6MtWHOry8yxUk6J6NJwKFWyJGa4b3fjG4yWk4HSheMcJoTovNx3poSLgoEGHb9WzcRti8HnEcmu0uNkcUzkA6xLJTI/mtqmw+d9DQ+56HL2GpysI=;hM9lovRoKhF3vgGeGUGD4A=="
 ---

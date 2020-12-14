@@ -7,7 +7,7 @@ originalUrl: "https://www.bio-itworld.com/news/2020/12/14/new-ai-chips-managed-s
 webUrl: "https://www.bio-itworld.com/news/2020/12/14/new-ai-chips-managed-services-among-flood-from-aws-at-re-invent-2020"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI
   - AWS AI
   - Natural Language Processing
+
+related:
+  - title: "The Most Impactful Non-Compute Announcements At AWS Re: Invent 2020"
+    excerpt: "Invent 2020 virtual summit. In this article, he explains the most impactful non-compute announcements and the reasons why you should care."
+    publishedDateTime: 2020-12-14T20:04:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7c1ea894a58f890b718f0%2F0x0.jpg"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "dm3nB+O4FAmzitjxvIU6SE4mu5ZYMal+bh82UAvEOwnfklxOHSmmyqj8cISVa9XzbmFOzJe0XZPyFT7/UcEU9EoxPD7a5uT/l6Qf308YARseoLIi0su6lgaWT19Y1InYh5FmJARdrITnv85wbShw4px+C86E1N5B4x4DbmNwb3RM+YqCo9EJritA5RPC5kquB2QqlmwKib62KNX3U1Hl8OH8SOD/1GAE0v/e25KAwNuVlJlfvIZ8HPsA18+rqhoQReQHb5TA4UUHIhA3K6WAHxBoLSRZpsPzz8yLA4nDdNpAeS5gBNpHdXMnA+tbksQE0cjSLjDBOyJUXNk8nyQNWyOlWfmDw1SP4V74Ib8JT4Y=;L3LwejeEsjxCAsFP3bsk/g=="
 ---

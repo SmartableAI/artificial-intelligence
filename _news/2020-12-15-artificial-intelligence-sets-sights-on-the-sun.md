@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.html"
 ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-sights-sun.amp"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 secured: "W5VSF/gI5sqndrV7xSuAYpyttreggXxqOdDI61IIT4nROYBDVXJ9+3YgpzdbmiAO3As0caUaH5MypDmbMZoGIBcFowwoh40T/JABAAWLnn/btdJm2fjjgFOTAfovoLw90mpK5Czqjzv/3ISclp4K0UrwZvgoRT8LSITh2k/l/ptAu2If28LDrTS4szHlVus8XPAMlQWo5/3LCr5YCn0Vh4GQimdWTVicO9uCP13LLM3T0Cbe1b2ZL627Ysb9gVpIr9TTJ4MndBOqZ0BC6WhUZKFTgYmuia9yxnXtwxEw0KmOYl1l0GkBkTZRXv9NYN1Ug02afVsKGxUnk1/l7kJfB9E9jqG4hBu9ZbpKt2M5A3wARL0iRU21NpMNLFV486JCeZADU0QjEpOlS4FQxLKw2uBZROoQlA7H4v45AQwq2Pj8KKpjGU01b1Wd3Q+tkWMwaiAoHt4rllZAmclAvjrSMjNQnQEDuNcnqXoMMM6OKbbZ9JNCcNpTEBt8bGmZf8ygzDdGYdR03Gh9UhfCt+IajQ==;pfRdC7F1UYBck5eAbH3PaQ=="
 ---

@@ -33,7 +33,7 @@ related:
   - title: "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025"
     excerpt: "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025."
     publishedDateTime: 2020-12-13T14:58:00Z
-    webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
+    webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
     type: article
@@ -47,6 +47,6 @@ related:
         height: 738
         isCached: true
 
-secured: "ACmNNnPUgQpWaqKf5N7SiLXOIdtwSyAXNrZdRCpvpPfIWzsK6lHQkK4jaVMH52eGrOwVIe6nwKeJuooWgl14O2NIgAM97PVshox543yakncIAf9krMsA9qmr9x+UChV7RN/HqQV+jAHwwqyGQ9QdZcwROoDtUB8+FKb3uXG0o6cgFrnUoPNsgr3GNbl8jegRZoSgnI2iWWmgYJeIzwG84MieUu9d0xOqNggXuJAj+5HuyBVQNanafqN5IMPMUQNUfWBSX3EwlN0FO0Dr2/+18D5Aao97HKJbORYL9fyLx436hWfe+AmE3RsUBFS14Hy7867Qu1bE1t+EAELqWgjfAgpRIr9db4AjrIXzQPg3Dmw=;awY3PjbyQuXGn8lxSuVboQ=="
+secured: "dYY8vZwH8rjVtpZ+vkvMeBJp6/Y8qw3jYTaVHqVycY38We6kIDh+0l3+ZmUaN/ZAnEc0UfAPHF5cEeH1whmzTnrr3kXN92TKjjwVI1V9H6xETCxwzmxa9IG12+s+7J/WEJPA7nX/gm6EQe9qe2BfjJ+tc/4RZO/9wuzTOYfEaHOgacAP4QBrknUdZIBqh9giQOfuXemhNPPB7JfycicE2NbEzahQAEokVRbIRiBPxoQw/ME9HytUzD/i3za3l4lTb8k3wg2ic9o8/sXYwqaeKSp5EvECfiz2sEXouKaEhZbxQfIaFIpss0Q4HLk65VrX13d9vpyY8zPceG/NdTfOVRZhU5dHg1ILKWtHAnMWYbSClE62PK0IQb4kMAxvKkUbwrdNqJPUb0g6/krO7g6swHeX1C2TSXZCYVKCty7o3RAYMtorFYNJQz25ZnrMHwqm/wrRGL1Ht+Wov4JMnZ6l46ogt2tWEw+3lCmGM6NuhTtNAvD55d9hJNTe9ey2EbxMypyx/pQ/Lh0DZ1GmcJshTw==;Y5Ju1+DooTDV2vw3YPVyFA=="
 ---
 

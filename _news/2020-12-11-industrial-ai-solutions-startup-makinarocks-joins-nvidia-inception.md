@@ -2,24 +2,26 @@
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks Joins NVIDIA Inception"
 excerpt: "MakinaRocks today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. MakinaRocks, a startup based in Seoul and Silicon Valley,"
-publishedDateTime: 2020-12-11T06:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
-webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
+publishedDateTime: 2020-12-11T08:31:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seoul-industrial-products-and-services-electronic-parts-manufacturing-d4977b4de9a90ff159d03bf02173b574"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seoul-industrial-products-and-services-electronic-parts-manufacturing-d4977b4de9a90ff159d03bf02173b574"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Acer launches AI Computing Platform “aiWorks Solution” on servers and workstations in India"
@@ -34,6 +36,6 @@ related:
       domain: technuter.com
     quality: 29
 
-secured: "lI6xwzjYpTmwusuzE5rGJ3vkRd60krdRH854clm2QyiIbqr5xs1lAiurheYn5axZLyUJGIUMPejGlZXa38DEu82UxzRe6xFLpJbXhpegB0jL29cb7XmanLk0bBdGfhlrg7Bpm5tK3bx9GitNs/vkDC6ZoATNOTPlTn13SrfEyYa0uIWN5a8CQgzPYsOYUlAoSeS4LO45s/+Cdq5ffPXADGE5sbabcCRqHVOkFHYw0nZwul8AfBwNTN2Sm4xnrM64bzoK39tvR4fBoNOUAN9yYPS7P51xS5Oism8IQbQa1cmULwcgP3wciYmWVLrsFQe2IdLmwM73ctTR6m4XHPEnjsvlp6AG6XaC8z4s/kxFpCc=;6U8LQxjV8Pa9PS63M1Cn1Q=="
+secured: "YsJnXUR8G4UgLZHHvVCNjEf7ZskWq4U7K60cEXU44sEL8GFNbpZgOkVAK+yIxlO9dF/IuCA7troBbDysCt2lSXFzGLWTLLyUYYzX3W48RKA+Ibb51CYLNAAoBBbnhLEZ8ENVU7QwU8bTtr4yHhXMbn3zlFPWLRIJD3mZdoE5EEZpIKck+yOtid68Mujs1vOl+tGVDU73K3Trgl6LclsABPeMD8zeM3b0J2a64uZY1o6hrGeWBtSgsQ51iDOPkF/ibOSEnv4MhCcS8vu+9/TzseFEim7GXO7DLd/1NUhkTEgyLjXYOAVShTtI5kdCrmmLes4iSfpP8Q8jfaVM+GG6SyZ/R8EBWMAVc/NcLRcIbSo=;ZdxVc2jdJihGyAsRGKbC3A=="
 ---
 

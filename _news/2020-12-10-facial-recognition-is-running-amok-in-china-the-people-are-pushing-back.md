@@ -7,7 +7,7 @@ originalUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-runni
 webUrl: "https://www.vice.com/en/article/4adnyq/facial-recognition-is-running-amok-in-china-the-people-are-pushing-back"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition for pigs: Is it helping Chinese farmers or hurting the poorest?"
-    excerpt: "Automation is revolutionising China’s pork farms but leaving independent farmers behind"
-    publishedDateTime: 2020-12-10T05:00:00Z
-    webUrl: "https://www.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
-    ampWebUrl: "https://amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2020/dec/10/facial-recognition-for-pigs-is-it-helping-chinese-farmers-or-hurting-the-poorest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/cb36871bd72eb922a49fde8efc75ce5f973722c2/0_118_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba290cb07840b1868e3d0f069eb081a0"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Co-op is using facial recognition tech to scan and track shoppers"
     excerpt: "Branches of the Southern Co-op are using facial recognition to look for potential shoplifters. The roll-out raises concerns about the creep of surveillance"
     publishedDateTime: 2020-12-10T06:00:00Z

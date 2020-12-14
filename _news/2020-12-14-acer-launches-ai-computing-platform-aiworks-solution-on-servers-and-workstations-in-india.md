@@ -23,13 +23,18 @@ topics:
 related:
   - title: "Industrial AI Solutions Startup MakinaRocks Joins NVIDIA Inception"
     excerpt: "MakinaRocks today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. MakinaRocks, a startup based in Seoul and Silicon Valley,"
-    publishedDateTime: 2020-12-11T06:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-joins-nvidia-inception-1029884065"
+    publishedDateTime: 2020-12-11T08:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seoul-industrial-products-and-services-electronic-parts-manufacturing-d4977b4de9a90ff159d03bf02173b574"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "U2GGk6VpvKKSfRY5sfoOVNyT+PHmfzRH1MNfSua2I8R2yEqsBwzvzAk7Z8VeloxtmP4HtoTNokTLno4viXhgj1GOEBiXmEecCyarXG5oM8zeY/wgjW/r7gCsP2wOG3tga4IlA82fPKNU0ntrgfQjoKvyDcjLq0HwUNYiRSSjTh8kPUTtN3o9IK7san8NCboDYp7MblhqSV+bscF3GQx6hH/wScBxdpxdCqZnzA3B4dlFWHaOANOCUEMXie9bhYWik8gdmOj/MYK+5rJweo2AiUlQZ3551XhDiHnR1UrVPcsnFJtpXJg7znbOeA15VWXydUGXYcNxapUzzrCw7+PekTch7r5vpXyhaZyB07ungf2emI395GQIbuS7GSk7M5GbXjw4xGcDzkKcw9/OR1ntu8iMfCnF/x7GKMnk9aieeGNdLJE//6Wx9ZuxGf11ofsPVZGSUdc/LPl4ql4CBkieq9b2NUR+09NlYwgIpPuD0IrhKd0HIS64r23RyDqhBSRwS+42L9gCOgPWELoPkcSeUg==;EwV1gYweV/d3clWzW/HoyQ=="
 ---

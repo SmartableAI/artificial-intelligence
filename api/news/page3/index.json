@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-11-japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens.md",
+      "title": "Japanese government wants to use AI to play cupid for its citizens",
+      "excerpt": "But if you live in Japan, the government there wants to help you find eternal love -- or at least your future spouse -- by using artificial intelligence.  In a recent effort to find a way to boost Japan's declining birth rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
+      "originalUrl": "https://www.cnet.com/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/eNtX_xRJ4XP2HK0tOMkhuY9hrW8=/470x264/2011/08/26/b9b0cac4-f0f2-11e2-8c7c-d4ae52e62bcc/Screen_Shot_2011-08-26_at_1.25.04_PM.png",
+          "width": 470,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
+      "publishedDateTime": "2020-12-10T16:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws.md",
+      "title": "AI and machine learning influence becomes more apparent with latest analytics releases by AWS",
+      "excerpt": "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
+      "originalUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Rahul-Pathak.png",
+          "width": 3774,
+          "height": 2120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice.md",
+      "title": "New York City Council votes to prohibit businesses from using facial recognition without public notice",
+      "excerpt": "New York City Council today passed a sweeping privacy law for commercial establishments that prohibits retailers and other businesses from using facial recognition or other biometric tracking without notice.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/",
+      "publishedDateTime": "2020-12-10T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-study-details-first-artificial-intelligence-tool-to-help-labs-rule-out-covid-19.md",
+      "title": "Study details first artificial intelligence tool to help labs rule-out COVID-19",
+      "excerpt": "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv's new AI-COVID software.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/8-researchersp.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp",
+      "publishedDateTime": "2020-12-10T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study.md",
       "title": "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study",
       "excerpt": "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest",
@@ -710,49 +900,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-ai-spots-surprising-patterns-in-earths-mass-extinctions.md",
-      "title": "AI spots surprising patterns in Earth’s mass extinctions",
-      "excerpt": "Charles Darwin's landmark opus, On the Origin of the Species, ends with a beautiful summary of his theory of evolution, \"There is a grandeur in this view",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/",
-      "originalUrl": "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/12/Artificial-intelligence-finds-surprising-patterns-in-Earths-biological-mass-extinctions--e1607617785705.jpg",
-          "width": 900,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/",
-      "publishedDateTime": "2020-12-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-cleo-the-ai-powered-financial-assistant-raises-44m-series-b-led-by-eqt-ventures.md",
       "title": "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures",
       "excerpt": "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,",
@@ -1106,147 +1253,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-745-billion-automotive-artificial-intelligence-markets-machine-learning-deep-learning-computer-vision-natural-language-processing-global.md",
-      "title": "$74.5 Billion Automotive Artificial Intelligence Markets: Machine Learning & Deep Learning, Computer Vision, Natural Language Processing - Global Oppo",
-      "excerpt": "The Global Automotive AI Market was valued at USD 2.49 billion in 2019, and is estimated to garner USD 74.5 billion by 2030, at a CAGR of 36.2% during the forecast period, from 2020 to 2030. Artificial Intelligence (AI) is one of the most advancing technologies in computer science.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=390801",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=390801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg",
-          "width": 580,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-unbiased-ai-becomes-mission-critical-in-2021.md",
-      "title": "Unbiased AI becomes mission-critical in 2021",
-      "excerpt": "While data management becomes critical, recognizing how data annotators influence model bias will be paramount to success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1203529758.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/unbiased-ai-becomes-mission-critical-in-2021/amp/",
-      "publishedDateTime": "2020-12-10T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-uk-ai-start-up-papercup-raises-8m-in-funding.md",
-      "title": "UK AI start-up Papercup raises £8m in funding",
-      "excerpt": "UK artificial intelligence start-up Papercup, has managed to raise £8m in funding for its speech tech platform that translates people’s voices into other languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
-      "originalUrl": "https://www.sharecast.com/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img3.s3wfg.com/web/img/images_uploaded/1/f/1566895760_amplifier_audiophile_component_2607311.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
-      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html",
-      "publishedDateTime": "2020-12-10T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sharecast",
-        "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

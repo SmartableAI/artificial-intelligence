@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influe
 webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Regulators catching up on use of analytics; compliance better take notice"
+    excerpt: "If your company isn't making optimal use of data to enhance its compliance program, now is the time to start-before it's too late."
+    publishedDateTime: 2020-12-14T19:23:00Z
+    webUrl: "https://www.complianceweek.com/risk-management/regulators-catching-up-on-use-of-analytics-compliance-better-take-notice/29831.article"
+    type: article
+    provider:
+      name: Compliance Week
+      domain: complianceweek.com
+    quality: 23
+    images:
+      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/8/2/5/12825_adobestock_223567977_330859_crop.jpeg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "JSoR6pj9xWwr0n2NG0JX5Lqbch1htgCuTPrOy28euaIQzUHBFAH3rTclD5B+ickDSYjDNrzjQLxhlasos1PbHt1r+QwdmtUvQsllw3K1Jbcb+iW+cI6hsCF0Y/XyzqRePG2UolxVUmKMwIiU1qRyHGxMBF54ukOuJoxMjqAPfO2D5n4MUX5Dg6iWelq3sb2dXWbpHzx8S9VSNXArh5OOGw7ezjAgmimqwED4+s/zIMJC+5vhq98DuuIpeXOgGwK3LgU/83JMj+gpK8MF6d98meRcum40yreeB+XkTX2u/1rn1zX8/8GbZ3Rbh+qTm6XDAUu9spQnQWDZJCKCtyBEe5uRrZ40gppMHBuGjyfWFQE=;sn0m4PmGqDd5PKNbZUf4/w=="
