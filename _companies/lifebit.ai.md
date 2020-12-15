@@ -2,7 +2,7 @@
 name: "Lifebit"
 overview: "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it."
 type: "profile"
-heat: 58
+heat: 32
 
 website: https://lifebit.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lifebitAI"
   url: "https://twitter.com/lifebitAI"
-  followers: 4125
+  followers: 4124
 
 size: 2-10 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=aycHy_axa_Q"
 
-secured: "ZsbkzGbjnQXmSPphpodSPc2ZbncEWVsUT+f98emg2H8LC5Rr8FMhLSpo2rsYa26a5DI3rN+78rwn87KROu3/P5Y6o0NU4HC1ebiq+4U/lkJU9hOM6XBqJbcgTrLdg+gS0JNf79UvhzQdLAU/0po+9mdiorZRnhlWQk2Nfs/5gCiTkoyjIMLYi16nRGQ2KcNqt+Eh7GqhHoTMWTvw1NHbDbufunzv45lnsBqPJq2/yS3+MlJX7rwM4/+9tLOix3HAJwLQrL1o4E1wqrIfXQTVtTYSmtB+ZFXzIxr8uhOouKsBSubkzIqopauu1ztJruFGBGxiquBYjS2caX84wt5sowkUHNtPD4G0j59n9etiAau7KKnxu8bOwA5B8gvSMplMlmrsXMqbtr/IjCnzNl9VcX+Um66XNOrz9ErlrdQZQR8=;9ZmvG5OJYWZjVIupw4qsMg=="
+secured: "xyzE3QJADeqwNmzwnwsA1R2WdFo1Vi4RgawlIIgPleot4bat5U9FLR1WTU8T8TCpLHpNLWc5DZ8jerjmS95VW1i6l9D4K+HV3FUzh0gmeQ0OraYD9GKsnttzG2cE1tO8PcooaxHUS5b2imDhEHKClc5zujLcDAZYhO8zmwBFhTJlvLzgIpjFir/Bb/w9GBPfqBw6uG6cbyPn71gVeyPLAWJjvBNsx76PueDY5WmFzw6A1ZWrmTHCfU4jadTRWw8uisdt1ZbqvOHWqJu21EX624wOwJqncVifkiJBAYwvvcusPPbNGlxdaxn9xr1+cok+//TT7GDqKc0NcDgOKMPhKYAY69oephcPeCr0BjwUKAWaFs2ZrV+/wUZmAk+P1PJytW4wYt8IqXhaA7lp3D/VVvGxt/4Om0LZugLVWbb5uHI=;P8wuJfAminwOh7xkr5CPxg=="
 ---
 
