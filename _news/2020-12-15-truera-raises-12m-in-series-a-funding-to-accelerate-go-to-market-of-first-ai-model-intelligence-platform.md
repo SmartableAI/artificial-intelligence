@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Papercup raises $10.5 million to dub videos with AI-generated speech"
-    excerpt: "Papercup, a U.K.-based startup developing speech translation technology for video creators, has raised $10.5 million in venture funding."
-    publishedDateTime: 2020-12-10T10:27:00Z
-    webUrl: "https://venturebeat.com/2020/12/10/papercup-raises-10-5-million-to-dub-videos-with-ai-generated-speech/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "AI explainability specialist Truera closes $12M round"
     excerpt: "Truera Inc., a startup working to give enterprises better insight into how their artificial intelligence models make decisions, today said that it has closed a $12 million funding round led by Wing VC."
     publishedDateTime: 2020-12-14T21:50:00Z

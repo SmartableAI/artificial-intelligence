@@ -28,6 +28,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 39
+  - title: "Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
+    excerpt: "The adoption of OneBridge’s software aligns with our 10-year natural gas delivery roadmap and digital transformation strategy. Artificial Intelligence and machine learning capabilities embedded in the solution will assist us to modernize and ensure we have a safe,"
+    publishedDateTime: 2020-12-15T01:52:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/business-technology-government-business-and-finance-products-and-services-government-regulations-d597912a11804d54dc8c8d757d87b923"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "lIXyGuZtoRXqlOfEay3Pe2m3GhwfAqTG/XzhgigS+6gihDyiilirrUutI96qpTfrtbLdwurZ4nTMlvhK0H3Iyr777Mw4pYdC9qlQ1ASREvzpmwJXhiRVBBo2P0gOYEzf0v8VwrGNItkFSCq7mUSR0UJor4mYPKCWU6oioCn3kmZx7HSX6MSzlnNpoykeFTqNDbafmFLxHZeb6e+WucsDcLAdH5Nq0mz7qlN/9GIbj6j+eRMsd8RUbNceUb9x9vTh7zdn0acaXsoP/Dhpa07tnwygMm7G66g/V4zm8H60qqBAHged3wc2UShqQe4KShAONvdLx9ekSEwUScaWb7TQi8c+6Hr3jeM3C//tQoNF6XI=;dzU3oLDOF0CezmhBNomRIg=="
 ---

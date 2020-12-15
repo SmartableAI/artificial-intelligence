@@ -46,6 +46,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Roblox acquires Loom.ai for realistic avatars and delays IPO to 2021"
+    excerpt: "Roblox has acquired Loom.ai for an undisclosed price to enable its users to create realistic 3D avatars. Roblox also delayed its IPO."
+    publishedDateTime: 2020-12-15T01:12:00Z
+    webUrl: "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/"
+    ampWebUrl: "https://venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/roblox-acquires-loom-ai-for-realistic-avatars-and-delays-ipo-to-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Ready-Player-Two-Roblox-Event.jpg?w=1200&strip=all"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Gaming Platform Roblox Acquires 3D Facial Animation Firm Loom.ai"
     excerpt: "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars. Roblox said the deal will accelerate the development of next-generation avatars,"
     publishedDateTime: 2020-12-14T15:26:00Z

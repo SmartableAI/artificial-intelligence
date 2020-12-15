@@ -62,6 +62,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Fintech Firm to Unveil e-Commerce Platform"
+    excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."
+    publishedDateTime: 2020-12-15T02:28:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/01/af825dea-fintech.jpg"
+        width: 1280
+        height: 868
+        isCached: true
   - title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
     excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
     publishedDateTime: 2020-12-11T06:36:00Z

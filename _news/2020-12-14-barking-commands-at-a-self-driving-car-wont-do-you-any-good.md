@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/13/barking-command
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/13/barking-commands-at-a-self-driving-car-wont-do-you-any-good/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Buzz Around Apple Self-Driving Car"
+    excerpt: "Taiwan Tech News Site DigiTimes reports that Apple is working with Taiwan Semiconductor Manufacturing Company (TSMC), on self-driving chip technology. Apple and TSMC have reportedly established plans"
+    publishedDateTime: 2020-12-15T02:20:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Self-driving cleaning robot sparking kids' curiosity at Virginia school"
     excerpt: "FAIRFAX COUNTY, Va. - It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the ..."
     publishedDateTime: 2020-12-14T18:52:00Z

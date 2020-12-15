@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-busine
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/boast-ai-raises-23m-to-help-businesses-get-their-rd-tax-credits/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1189
         height: 600
         isCached: true
-  - title: "This Tech Startup is Using AI to Help Businesses Find the Right Insurance"
-    excerpt: "Finding the right mix of business insurance policies can protect all physical, intellectual, and financial assets of your business during a recession."
-    publishedDateTime: 2020-12-10T10:32:00Z
-    webUrl: "https://www.newsweek.com/amplify/business-insurance-online-2020"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 46
 
 secured: "nA7drRebwLAhimk0/RJMVD+/ejwWsH4jBXR47fbgV30ChjduY/mSzMyl8NNqQ87hFyANYn1Qx7eKxVv7iA5eOuavxlFyBawhe1c07NG5Cutnj5bnXbMQARu71Mc1tTksozQdtlkRGqQfTQYbgGsQOFR/PHEWaV3QwNowZiVM4nKxA/rjZh5ZanaWW/SLISgwBdKQTDIxcnjUPYOvYUodALJrX8jrkC3kfkryhTVxVSCIZiDzH2TayawYtFY9G+7XzVB5V0cbFLkDspDD/kA9sIBADM5tPgLhX1nsqWURF3G4DFpftibs9idYihHls2gbia7uP7MDIZwoyxiElUatZL7pQrvSQHEzrIfk2RO96D99JqbErhrANkhvl1lyNhtG7s/TskD4C+b2o0j6a2SwLRv81MDJ4PaFZRVJzgGDLtQtVwIzDXjkNhWFLZNEyL2IK1l8g3MoRB0zqz370CyFgTZotGdy7D9ogeL9zpUADB5dbsCBBZaDXzzBRaoGDii7kFvlY8Zhx01H01DE6U3HmQ==;VbqFLxuh4Aul2xasH4b1gQ=="
 ---

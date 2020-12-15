@@ -27,8 +27,8 @@ images:
 related:
   - title: "Comviva and Ooredoo Kuwait form strategic partnership to deliver Machine Learning driven CVM campaigns"
     excerpt: "Comviva, the global leader in mobility solutions today announced its strategic partnership with Ooredoo Kuwait. As part of this Data"
-    publishedDateTime: 2020-12-14T13:27:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/comviva-and-ooredoo-kuwait-form-strategic-partnership-to-deliver-machine-learning-driven-cvm-campaigns-843280987.html"
+    publishedDateTime: 2020-12-14T08:22:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/comviva-and-ooredoo-kuwait-form-strategic-partnership-to-deliver-machine-learning-driven-cvm-campaigns-301191846.html"
     type: article
     provider:
       name: PR Newswire

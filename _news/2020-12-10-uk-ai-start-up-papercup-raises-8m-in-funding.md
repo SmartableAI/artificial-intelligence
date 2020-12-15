@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercu
 cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 666
     isCached: true
-
-related:
-  - title: "London AI start-up Papercup gets funding boost to help make video content watchable in any language"
-    excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into other languages."
-    publishedDateTime: 2020-12-10T10:31:00Z
-    webUrl: "https://www.standard.co.uk/business/papercup-funding-ai-video-translate-languages-b242176.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 25
-    images:
-      - url: "https://static.standard.co.uk/2020/12/10/09/Youtubecontent101220.jpg?width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "orce/KSS4zUSEhPy9+XVfdgRLXfe9d+fPEdMJN45plAuqF9ou8kzQkMTElLWJx3f03cCy5ZYMV5PSUXElaCis3um60BwVMXOVtp7FKfIW5HOq96xjdNfSS1HJNXHC4Ge9ylUvNVeUOhq2S6BxdKmeNI2GUiqpscVW3wCCJ5KSzmtWtyD9pZtrRs+d4zhRccjGDXy/PNWYi+kscnM/oRneUuLSZw8oOfEbI0Csu03KIlNWWr0RmM08XPSC24OCJ7Sn/u8rkcuyByPme8Pag/er37/N9dThv3pQzIKfrhNk5g5m9FBYLifmQFpy0QSwiwbjtss1H+Cy4pCwtf+28eslm6Z/G6id/WFm0956dvzoF06BTTFE874jBrCLpxZu/yZgoRxwwAWhkcT9PDUD9bus3A3ApdcRSAG9CX2uW50xr5TqHtPM1UabKcV+Eo4rF0VjmqBwCGVg+GPsDk3/ziGv3kZn/2CrxWiIOADKF0QeVLXOMIgLhl9SsrkPthfS6j4kcKJl/wUHXGeJe0ryBX77w==;vHJwje2qT2oMQP7GrmKCKg=="
 ---

@@ -169,22 +169,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Zoox shows off next-generation self-driving taxis"
-    excerpt: "The boxy vehicle looks more like a toy than any car you’ve ever seen on the road. It’s bidirectional, meaning it can drive frontwards or backwards with equal ease. Doors on each side slide open to reveal bench seats for four people facing each other ..."
-    publishedDateTime: 2020-12-14T22:48:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/60/67/20385279/5/375x250.jpg"
-        width: 375
-        height: 210
-        isCached: true
   - title: "Amazon’s Zoox unveils vehicle for ride-hailing service"
     excerpt: "The vehicle, which Zoox describes as a driverless carriage or robotaxi ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada, on June 6 last year. Photo: AFP To commercialize the technology, Zoox plans to ..."
     publishedDateTime: 2020-12-14T16:21:00Z
@@ -228,6 +212,34 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2020/12/amazon-robotaxi-main-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Zoox Self-Driving Vehicle is Bi—-Directional"
+    excerpt: "Autonomous mobility company Zoox Inc. today revealed its fully functional, electric, autonomous vehicle that is designed for dense, urban environments. Zoox is the first in the industry to"
+    publishedDateTime: 2020-12-15T01:21:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/12/zoox-self-driving-vehicle-is-bi-directional/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://www.autoconnectedcar.com/wp-content/uploads/2020/12/zoox-autonomous-vehicle-threequarter-view.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Zoox shows off next-generation self-driving taxis"
+    excerpt: "Amazon’s Zoox said it has manufactured dozens of a next-generation electric robot car designed for full autonomy with no steering wheel or manual controls."
+    publishedDateTime: 2020-12-15T02:21:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/Zoox-shows-off-next-generation-self-driving-taxis-15801397.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/60/67/20385279/5/rawImage.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "MCAVg7k2qHMLtZqCreX/kWIoBW1oGb9hXRifTXgLF14C8y38W/uXLTtYH3whnl/eriUN1fZCGcz2sXIBDNlcoBrVpW8LXqaaDGCsJ952uT+BuCfiTWrt5q7r50RreH8QtOojrwPoMquhz+rouMrNX3taSkNsCdCwDK+Ys7g3Hyua2QlacRDp+C3ndDl0/Jcz75EUby2z3KkySblJn6PZRAe5+Aoj05NG1M8ckK75V4IIhqhxWqHAlcGigFQDTpMstBZzoPBbkx1xzYNMWrU8kWHcxNQo7KVr2ALtt8/uAiOQwEpLGeQmY6N2evLg09YuK8RS/WJ5benaMn+JjGGzbl20Dj7IJJvtO32/WfynZs+WjxCh7WI8/+hrCAMtN/LypUU/Z8FcMV7TfadTQQxMOV2s3Z2olggzXAcdlurZZ/buj21ifSLv+/n2WSG8EK3sxRk35OOvKOAQtb3KZb8qLBqDyYyXpwl9OlsH6dUuE+I56hSslTgQ5/L5H1tqYHNOeKT6XJXALrF4xCYmJkDMvQ==;O9/5D7dq7YU+HOfhjxh+IA=="

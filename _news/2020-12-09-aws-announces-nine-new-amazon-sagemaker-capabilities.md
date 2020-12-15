@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
-publishedDateTime: 2020-12-09T05:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+publishedDateTime: 2020-12-08T19:40:00Z
+originalUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
+webUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "+nGTP7KvUfywX89PU+QB6UhahfDhA3F9zVPPW3593ZoFvuee5Hj38Sw/L2lNhM1OOilAZyWUuUJC1Mv0vz4uydQpqXYjekzmcq4mgtAElSQSjUM6TP9tTCvkb/HYp1wnXEY6qAyJ7V42l8DVj4E6J5dNyw/kwnjpD8kF07buCRpmm1SF0hVsPM/FiVNdUUrv2wctIa2yP0qvmEhhCZXHtgkRepH/nXViL5yxSXSAKL0gcbuTz58J73vH9f1LMr+tqM08K1z+rMZq+eUJ7cw0ddwtucZAWI+orV5CpUjVd5y8ybu25spSeItyufBpXc9bWbfoGByRYfkFvdiHCDp8MPerUVEBseF6nkFcJaC2zt8=;7pq3lWMvptewbjhIF32Dqw=="
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
+
+secured: "OgKCpBmnlfRInQU1PqNTot6PHVY5awr55Ecprvg6wrcQNN54yMaO0G2FBnnW/lmTeu8dA+7r1TCf7GeH1gIo0W67PASP86NN4oCYUNiN4OXnp6bJeknEUdri1wNyu8q8B++rcMAuCZ+CXEbgkNl6A+QtwsplaaDsUY9Ktb6mfpxoqlXozEO9obRc4VYZH5qbcm/iRhp3+CZa+BnqdW8suavsKl0CNqpzCnWuJJzZBQODZeXRea9NoTwRcnllp4VuBqttVjpCU3nSCRpPciu/H+ey3abFHcwXVRqmDVqP9Hdk3xetBH3Rw0pHQtuTk3EushypSeIVzfAIRF9HwR93LkvXQG5NFo2bIvDXu5yCHiQ=;K/g9ZYTW9P/IeN+DhE+FRQ=="
 ---
 

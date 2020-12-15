@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 583
         isCached: true
-  - title: "This Tech Startup is Using AI to Help Businesses Find the Right Insurance"
-    excerpt: "Finding the right mix of business insurance policies can protect all physical, intellectual, and financial assets of your business during a recession."
-    publishedDateTime: 2020-12-10T10:32:00Z
-    webUrl: "https://www.newsweek.com/amplify/business-insurance-online-2020"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 46
 
 secured: "mUEUszvQwvJ5gKQ/qH2mFS93UJNwy4+GD2JGu4z51GCRAvwrYJ+t/fntmrcIKRxdxwhOewlLF9MY/73p4rWGQS//PIdZv2DKl7PT0Hf3CxrK33aql+cNy2Q0WK055tMzL5rQ9iKjM64tloCg8lKGWvFxpW6Zgnsk1R2Z8baJXBQwvScchGA+m06mP0y7TfKnGNM7DrYsKyg/0Gzmno4JWRudi8hU2TFb8f1cI6/aMvjV2qNr9UERAa1YWJXIKnLDM9KO1JI9VKJMGN6HWpKIBiW8KG+x8C+lgVQIByJsBE9nS/5XgIOek/pUMWA4YP6qRcDPej7w8NKDqz8IMIVAEhXwBpUfD5WqdyKoFg6LIsQ=;V6hh/tbxR3sokcSR9mTM/Q=="
 ---

@@ -67,6 +67,22 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "How machine learning technology boosts contextual targeting for advertisers"
+    excerpt: "In a time of dramatic changes, advertisers are course-correcting targeting efforts to adhere to the ever-evolving digital media landscape. One solution that addresses numerous areas of transformation — from consumer habits to privacy regulations and the demise of third-party cookies — is contextual targeting."
+    publishedDateTime: 2020-12-15T02:07:00Z
+    webUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/"
+    ampWebUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
+    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/12/DailyMotionBanner.jpg?fit=682%2C284&ssl=1"
+        width: 681
+        height: 284
+        isCached: true
 
 secured: "l57gViOvVaCXEoxt9m+7s6dWK2trb47P2yqYD+L8mScvySYtZ/q/GhWDpjglQ32WfWv+0iYjxcDb42FImNHLwB/kJLevBjzHPy2yuL8kEtG8FLJS11y40guE+bbDEXeG2yNEz2P1F7xnCln3/XriWN51jCILv/N8JbXyvgHv+BklfVDPmhh6/bqQhZIeFZHPs9qooDihtF123xd5+trKBabkcLic/waINRqNyeVp1VWiZ31jjikIxPZE7Gg0DT8nfKedhQqs6W50GTXEcqLiszZExF1darvlo3f69DP1JARTNBPD2dBeaqhkSfWj8Rrn708C4C3c+AzamAzNHMMiGF99wxEYclVH+3xviB37DIIk/pQXIuUrR3oxVOvNvEasMxwxDya7On2hI8OIprQb42A6f+Br7AjQTai79tFzloYebdtR8tXxXNNg78TpD+tlN8mycR/AP9c4Mc2YRVveM9q1cDVgRimiSD4cLbUDREZfQh/KTnHHFEoYiOzVY1Ll35EYkwVutmmyLcLvSoh+jA==;di3R1GockSlb94ADedNi/Q=="
 ---

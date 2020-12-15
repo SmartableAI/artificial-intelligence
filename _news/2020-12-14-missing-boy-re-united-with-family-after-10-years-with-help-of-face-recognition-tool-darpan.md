@@ -43,6 +43,22 @@ related:
         width: 3872
         height: 2583
         isCached: true
+  - title: "Telangana police's face recognition tool helps trace missing Madhya Pradesh child in West Bengal"
+    excerpt: "Rahul Srivastava, a resident of Kotwali Jabalpur in Madhya Pradesh, was missing since 2010 and was spotted by police in West Bengal in a mentally unstable condition."
+    publishedDateTime: 2020-12-15T02:43:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2020/dec/15/telangana-polices-face-recognition-tool-helpstrace-missingmadhya-pradesh-child-in-west-bengal-2236275.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2020/dec/15/telangana-polices-face-recognition-tool-helpstrace-missingmadhya-pradesh-child-in-west-bengal-2236275.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/dec/15/telangana-polices-face-recognition-tool-helpstrace-missingmadhya-pradesh-child-in-west-bengal-2236275.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 46
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/16/w600X390/missing.JPG"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Boy missing for 10 years re-united with family with help of face recognition tool DARPAN"
     excerpt: "Telangana police used the face recognition tool they had developed to match photographs of missing children with those of children found in children’s homes across the country."
     publishedDateTime: 2020-12-14T11:42:00Z

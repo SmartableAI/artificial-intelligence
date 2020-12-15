@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
-    excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
-    publishedDateTime: 2020-12-10T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
 
 secured: "6EHfPDCvZGXLKjmLBmUT6a00Wf9Gd2yHvT6BsavsEQ2omUAouV/boha2Sib9lNAGhF7hjMmbKDEbI9W0PwHg+78zWolGQ1jx/aJgGgi5hQsSIqUtO/+E8bE3tAv9blJyA5laB2B8tn7rsh+IrURehKaCNQvvj24IDRqJf29G1B0ffHyTAAFF5nWzJW+o3VvfvFaWv8i8Gw5XuIV1zVKdXnEFb+6KV3BcsukRwd0u2+DFgDZPaF7aYLW+ro1XzHBGjjbIHXSVwetnzNmvkOUeMvMu15sOn5SgItT2KKkpt9ctcoJlQME9nGL5TLpLauTi3khjKQNlH8BeVD1Dgy2XW/vdbVCV1RWuZFjApvd/nP4=;3vZJoSmq0ggoSm+nnnSt+A=="
 ---
