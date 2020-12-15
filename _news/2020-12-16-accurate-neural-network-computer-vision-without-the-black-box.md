@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Accurate Neural Network Computer Vision Without The ‘Black Box’"
-excerpt: "DURHAM, N.C. -- The artificial intelligence behind self-driving cars, medical image analysis and other computer vision applications relies on what’s called deep neural networks."
-publishedDateTime: 2020-12-15T16:01:00Z
-originalUrl: "https://today.duke.edu/2020/12/accurate-neural-network-computer-vision-without-black-box"
-webUrl: "https://today.duke.edu/2020/12/accurate-neural-network-computer-vision-without-black-box"
+title: "Accurate neural network computer vision without the 'black box'"
+excerpt: "New research by a team at Duke University offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis,"
+publishedDateTime: 2020-12-15T18:30:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/du-ann121520.php"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Chronicle
-  domain: duke.edu
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://today.duke.edu/sites/default/files/ChenRudin.jpg"
-    width: 1388
-    height: 930
+  - url: "https://www.eurekalert.org/multimedia/pub/web/251701_web.jpg"
+    width: 720
+    height: 482
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 764
         isCached: true
 
-secured: "7y2dR4JKJUk+v+2Hlvgrj9MLLxBG9gAyMm8JJoccZBvS0fWxpqky/KPwl30Ok1aBDYqwcYRve9eqhVAlx3fFdzFtME40lbPERNj6Ei/Ei7V642XiRVDQiw/sV+FtfqHDBP+Kv9B59ay2KWE/yS8RSXZ4nGDsmRN8SsJwSoHeRzY+cfRBvimWHWxs7bPvrzdxotSPzkRw3pRCYFLiUwJi1txUYglOrYTO383YhGJqSoncKVSTBBMF+LKBGXy6h06cZv0C6pH/0qVcodNmpEmEEP1H2weX4Bhir6uHn9xQowNbkBTSePUTlA9gttA7V9xbEjywVMcSTgz64Yq0TegKcopUHgwvUCBxXE4ibKfKpe0=;09IbeJZNmPCUR40OrQZLWA=="
+secured: "VOadUz+VhDphREckuJVl33TM1GhigpiuNYvfJNmVmT2vp7WbANO8cpoodDK/Q2oUX2e5MRfG1yV1y+Msnqmp9KznGfGhqHLa2fEvyW0nloInjaA7iCn8kFh00NuiD8lfW4doxc+p5P4bRQTh/HOJqn885IVJQagunbHTVj9a9UEDrO+vXfC0/pQrN82rw96/ss5WgFdjfLn7EjuB29pzWvdbZVHwocXTPycm3W27xTLv3np10q4Rkh34+PuJd2pbMOzbDVPWu5+6YKGi691B4mMfDf9SCi9a2UAyda9CARBB/nWBp1r55iv46ORWwzLrMHZq8jPLS5jaZNlqQEpZIVzfdKkM1NJPA0msV0fF5fs=;j2ygTSCcb45a1ZuetdOpzg=="
 ---
 

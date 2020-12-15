@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-
 webUrl: "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: SiliconANGLE
@@ -38,20 +38,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/12/Hawk-HLRS-supercomputer-1220.jpg"
         width: 585
         height: 345
-        isCached: true
-  - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
-    excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
-    publishedDateTime: 2020-12-14T16:08:00Z
-    webUrl: "https://www.hpcwire.com/2020/12/14/hlrs-hawk-supercomputer-to-receive-nvidia-powered-ai-upgrade/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/hawk.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "BL5g+2ecPCURl0XIzKUNjYCoJN4SHLEKLiq65NuOYrr8mjCUd6OfUdAa8oWyX96Jd0uxAVs7n+3BTMuC9C4kkccGHZpVkKbgQYZAXUd0f7wcpy5l61rKszLtM1YgDL/s01pfBYCZ7NmywCHjyU9KreTEYYDJjyqxdhLEH4o0ePOLQE+FoAgZPmO3+vFbCKRmTuIfhFexboCsqa0iBSxsbd679ziZxzAHDg63ApyO5hMDqpMq5MLGM7sDBRNl83JAkDnFZeH7pk5SiKUtey3gSMQGd53KuTXFu4Vbj+gv8Q9nKP9vurL6Dm7bwdqfBypOuSgxgB4OxjCypVE+TzmNF7w2tDN9qVGLojJVHgVMmDM=;JjAWJymelanqa7eaXdv//Q=="

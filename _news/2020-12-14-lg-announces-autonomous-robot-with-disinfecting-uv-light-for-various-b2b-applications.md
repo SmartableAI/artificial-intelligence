@@ -1,32 +1,22 @@
 ---
 category: news
-title: "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications"
-excerpt: "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
-publishedDateTime: 2020-12-14T14:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
-webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
+title: "LG ANNOUNCES AUTONOMOUS ROBOT WITH DISINFECTING UV LIGHT FOR VARIOUS B2B APPLICATIONS"
+excerpt: "Newest Addition to LG’s CLOi Family of Robots Will Help Hotels, Schools, Offices, Restaurants and Retailers Deliver Peace of Mind"
+publishedDateTime: 2020-12-14T14:40:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=16030"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=16030"
 type: article
-quality: 62
-heat: 72
-published: true
+quality: 12
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg"
-    width: 400
-    height: 306
-    isCached: true
 
 related:
   - title: "LG Announces Autonomous Robot with Disinfecting UV Light for B2B Applications"
@@ -44,6 +34,6 @@ related:
         height: 766
         isCached: true
 
-secured: "Cn2J47MhfZMR9gJuiFbd1f320viQB+XF//uk0U9hcik+T3BNj8G/hzK9wYpgzc4cgd6BcqKdyasegfORO2f3W41yvyDYHZKVirntTYUTrljWi9J6VQCBB8hKHU0TC0VeHjKo4nyDzSJyrvhZpX4QcAvv6rA1JnwQqfOCWQiOnRZ2P48kn1EJ8kCO+xpIPCD6RiD0DybnbBDEIFMjqveWh3/DDxEVjIhZe4awnXtFxahXZ2uPgMTWlMxFV9mvIV9NiTX0tnL0KSWS4pC4hCNlZ1EX/YbkvLRHV+5lGKh7g374P1EwV2FwZiAngEFom85Za4D9STC+PDoT5xvnEAvlCwXZv5j5RWU9BpQzQAL/i78=;bVS9axW/jK6xfrmrbhQr2g=="
+secured: "jqzn1vaoNb8UgKPAj+nHUBAXkUf82Qp3rRAreYv1yvF8I0yyitXeDmP4SRDWNmnsdibtcbo56+HNVRl/uHB1cWcB8GZsojutFw5EstUe8bhVh34TP4/hkEltOO4WUfip+e4qJc/5jjsiDLySgbZP0APlnwIc23FP9EaBBi7Mjy4RIRqPBr0XjqJ7zS7vIv7iuPlvE0Zi7VHxMQgrmQfwFKBZPZI6BzI63VKjo7S6tszpSUN8lSJ8nKLHJ+uk33nmDEkrqEaKuI84NphwJwfC16GMaVJWTnQiP48tE2L+iqMdmYd7ez85B+5I2ie7imzCalbljru0qsv9AI3smWI7YUx0GXNiy0a2rti1DBDUzRg=;myL8A8juIPSfnTHc8OZmOg=="
 ---
 

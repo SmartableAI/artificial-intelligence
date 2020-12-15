@@ -7,7 +7,7 @@ originalUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-ro
 webUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-robot-uv-light/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications"
-    excerpt: "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
-    publishedDateTime: 2020-12-14T14:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
+  - title: "LG ANNOUNCES AUTONOMOUS ROBOT WITH DISINFECTING UV LIGHT FOR VARIOUS B2B APPLICATIONS"
+    excerpt: "Newest Addition to LG’s CLOi Family of Robots Will Help Hotels, Schools, Offices, Restaurants and Retailers Deliver Peace of Mind"
+    publishedDateTime: 2020-12-14T14:40:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=16030"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg"
-        width: 400
-        height: 306
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 12
 
 secured: "Ux7wAmYQDzaY+ac4cW+J2QSPwUrx6C72K/ZvKUfRmzcoAkrySUPVq9ckG9EbVM3A6B8KMJib3lRQV8sf4rRz6b/HaCCDf5I1KHqG/DVPs0SpHaGlFod/qEFT+zd7kidviSGg6ETsC/hhGY0Cj9VGlFQ+9euVELh1EZy4XeYwiHqNWuUisvOn2b2R6AK0XDpHsix5UMBWgLGg+U3QzLeW0oCTXv4ptpGr0gYMjstdg8TpvEnctDZ0pIlUGLv0pRyM0LzRT8jCG8F6kSB58TgPSGpLzZIcqfZNwAqGvat+uXjFfbUY6OavmqF9o172sArGmbTI7xeNp3jS7Jk5KH1QrywR14KvcwMvkB1TZLZzqKXy+O8PwE9JydNQPdNWBEZbnBgZzmt6QQAzYelcYj0qULf/cc4fzgdBvr1WIUC/DbX8yl7BTYjfzi/AzPz11J3UTby0UO6wvlXVra9V+P4UrgduUPDaivqlIWpjJEi8n73U8WEHaTGARzX6BV7rXHClT3BrdYbcb8e6PJAy9dXQNA==;wD2ZPWtvKF5K8m8OpLOFcg=="
 ---

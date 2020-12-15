@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
+      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
+      "excerpt": "Another way the Softies describe the mission of the Studio Alpha team is that it's creating a wargaming and simulation platform for Azure decision making that is data-driven, AI-driven and tech-driven. Microsoft's first public customer (or \"partner,\" if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
+          "width": 1527,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "publishedDateTime": "2020-12-15T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs.md",
       "title": "SUN Mobility rides on Microsoft Azure to help build future EVs",
       "excerpt": "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1372,61 +1424,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-tensorflow-turns-5-five-reasons-why-it-is-the-most-popular-ml-framework.md",
-      "title": "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework",
-      "excerpt": "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc09cf1950179a3f5f74874%2F0x0.jpg",
-          "width": 813,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
-      "publishedDateTime": "2020-11-26T22:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

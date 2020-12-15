@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
+      "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
+      "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "publishedDateTime": "2020-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips.md",
       "title": "AIStorm raises $16 million for low-powered AI edge computing chips",
       "excerpt": "and cost requirements associated with at-the-edge AI. The startup’s chip design is capable of 2.5 theoretical operations per second and 10 theoretical operations per second per watt, or about 5 ...",
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-to-accelerate-ai.md",
-      "title": "Stuttgart’s Hawk supercomputer adds 192 Nvidia GPUs to accelerate AI",
-      "excerpt": "Performance Computing Center Stuttgart, known as HLRS, is adding some Nvidia Corp.-powered oomph to its Hawk supercomputer, which is already considered the fastest general-purpose machine for industrial production in Europe.",
+      "path": "_news/2020-12-15-startup-rolls-out-compute-in-memory-chip-for-deep-learning.md",
+      "title": "Startup Rolls Out Compute-in-Memory Chip for Deep Learning",
+      "excerpt": "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/",
-      "originalUrl": "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/",
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/sfzgadthta.png",
-          "width": 600,
-          "height": 319,
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 623,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,11 +130,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T02:18:00-08:00",
+      "publishedDateTime": "2020-12-15T00:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,8 +144,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1432,59 +1485,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
-      "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "originalUrl": "https://www.reuters.com/article/intel-habana-aws-idINL8N2II3SZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28C225",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C225",
-      "publishedDateTime": "2020-12-02T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

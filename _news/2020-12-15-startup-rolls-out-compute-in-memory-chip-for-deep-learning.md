@@ -7,8 +7,8 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Electronic Design
@@ -37,6 +37,20 @@ related:
     quality: 56
     images:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 623
+        isCached: true
+  - title: "Startup Rolls Out Compute-in-Memory Chip for Deep Learning"
+    excerpt: "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras."
+    publishedDateTime: 2020-12-15T17:05:00Z
+    webUrl: "https://www.evaluationengineering.com/applications/embedded-system-design/article/21202445/startup-rolls-out-computeinmemory-chip-for-deep-learning"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 56
+    images:
+      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.5fd8c14174f6b.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 623
         isCached: true

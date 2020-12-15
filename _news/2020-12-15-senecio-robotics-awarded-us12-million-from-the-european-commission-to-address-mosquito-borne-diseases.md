@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Senecio Robotics awarded US$12 Million from the European Commission to address mosquito borne diseases"
-excerpt: "According to Lepek, \"We have been working hard in the last few years, and believe we have solved what is required for operators to start using SIT on a large scale ... Senecio develops an AI-driven solution which automates key parts of the process ..."
-publishedDateTime: 2020-12-15T15:50:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/senecio-robotics-awarded-us12-million-from-the-european-commission-to-address-mosquito-borne-diseases-301193197.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/senecio-robotics-awarded-us12-million-from-the-european-commission-to-address-mosquito-borne-diseases-301193197.html"
+excerpt: "With more than 2,000 early stage companies applying for the EU EIC Accelerator Pilot May cutoff, only 64 companies were selected, following"
+publishedDateTime: 2020-12-15T15:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/senecio-robotics-awarded-us12-million-from-the-european-commission-to-address-mosquito-borne-diseases-301193197.html"
+webUrl: "https://www.prnewswire.com/news-releases/senecio-robotics-awarded-us12-million-from-the-european-commission-to-address-mosquito-borne-diseases-301193197.html"
 type: article
 quality: 38
 heat: 38
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "xZpNCKsNTq/O9hPtr+oRSXqSKPwVfBILPQHuAcaL/Td/8beGqTdXAkpBcTOdxFDuYqEO45MReY1lh04trASmC/wWYvRq38+ZIUpdHZxkeBTnLsRDoDRs7B1NHaybUjK4X4PQVUNDXk6DHKraHkSYPNvhQLusuC/OYYBNnXZwUfZJyOsS+m3OV8ZmTdoNoFoA6DL6lg8K1gicl2Gr91o/pDpzQMfXcMh1X/aDeTPzNktquudMBvPcbg1i8Vm7Bb79e5Cn1vN5KMng8WTEAitEXk7XGctm1dKYdq0Amp3vPEkSlFVtv3PDFxpxEj+xSsdBWYSGs4bty3tAzvof4kzZ/+I3ynSd9y8rP07lbzPbg5o=;T/3XiLoKB0dOACAUkauonA=="
+secured: "NsXL+BKoir7xEpuF/Y8O9i6Ksi0GN+IZgl30tAeKiRakEOazOfAMXwVcOIuelyvSZR1OhNIseb0xFFnTWWtGhG5zKhiZCE4bgt9QUEsgSOr+fQO07kHUCNEZe1cHUlZMIv2hvjBJL2oWGANdrNIZC3Oj7HKpYyKI9itKOLJm/GK44XxCRDQKgNmL3YG9gEC+tOhxb6W2ntAxhUMyfp1S+M+3hAo5h0Vixk8q0NkjPy2w9UxQVrOsk2k34EYfmieE+mKSYYkusu/jI9pqiy4T/OSbsWozV+8LWDlxveyCWwWfBqCHjG46h/d7uSO08tHL5BReq2ZVeoeBljzpuX86sF26MSeOcT/SafQB5nft/4A=;E6KonNZYeMlimkdAlK6tZQ=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-09-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
+      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T12:55:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
+      "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg",
+          "width": 800,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T10:17:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-aws-to-set-up-data-centre-region-in-hyderabad-invest-rs-20761-cr.md",
       "title": "AWS to set up data centre region in Hyderabad, invest Rs 20,761 cr",
       "excerpt": "Amazon Web Services (AWS) on Friday announced setting up of its second data centre region in India in Telangana that will be operational by mid-2022,",

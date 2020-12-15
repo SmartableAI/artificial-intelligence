@@ -3,8 +3,8 @@ category: news
 title: "IBM launches new innovative capabilities for Watson"
 excerpt: "IBM today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses."
 publishedDateTime: 2020-12-10T09:57:00Z
-originalUrl: "https://uniindia.com/ibm-launches-new-innovative-capabilities-for-watson/east/news/2259404.html"
-webUrl: "https://uniindia.com/ibm-launches-new-innovative-capabilities-for-watson/east/news/2259404.html"
+originalUrl: "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html"
+webUrl: "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 229
     isCached: true
 
-secured: "D9+TpooYsLRWD8HD5dwixhUOzx8ZC7jyfmSAdVGPPVlY98oBiEavNP/AHKfCLZLnvqIAtggjCvsaJRSuTnQDDTWwrXA5PA8O7siIlN5BQE0zERpM7PNxOUB7SqjwP1WvxOHDkBqLieVENP53obbbzIt1wycXuWc/YtWtQ5pLLF6Wnb+aq7Rd52Nue+Y1xwClm7d3UxaCVWv9yLy2CyW4phX3r+6KSS+nJUqqy9bT2ZPvj7XoZOhkA04VmD2asmJ6kKVvDs663DIs+7EAcNn9EWQUHUbBHcObzQhu10K73GJuLJUwsIoHdSPoOeKXCLk9Q5936PJMWTZd3sf3e8pnjIwZpzM87u8fUsMBqSmxHjY=;4zPDFenIi9aEX1f29OsKcQ=="
+secured: "JgKc7LbJoC9EjerGfw4KS0VSiBxS9DxPJQvExVNZxcuZJesUSliEPpmi+Nt1aqEAC28DPuIgrciBfB4e3ZLCSV4DIl7CcqsUofxjzcZ8ooKcn6q6Skhq+cMFlNN+W8qBP5AKqQ4EAzK3OJUzd5RZGjg7VpZdE3pCyI2BBRt2Mflv2+zz1b+8nBemPWSPo7FUeJ4WELNSWupicm9X+y0XEeB2g47IAoBIPeblPg0ie4xUMVrKfbHLiVluPK8kCFG4q5t++A2p49TjBLBouBW317cWR5RSv7/jabyLcki4B8t2ha+oIBbCGIncNwU4E+pptxaZ5gMzAoM/L6RIHLxoW4N+fRmWA0YkXykbhysZxr8=;ussI2ngIpQrrVZVUdzPvgA=="
 ---
 

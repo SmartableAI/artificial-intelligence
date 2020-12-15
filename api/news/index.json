@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
+      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
+      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.reuters.com/article/uk-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUKKBN28P2JO",
+      "originalUrl": "https://uk.reuters.com/article/uk-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUKKBN28P2JO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544662680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1KV",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN28P2JO",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P2JO",
+      "publishedDateTime": "2020-12-15T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation.md",
+      "title": "Microsoft's 'Studio Alpha' is bringing together Azure, gaming and AI for wargame simulation",
+      "excerpt": "Another way the Softies describe the mission of the Studio Alpha team is that it's creating a wargaming and simulation platform for Azure decision making that is data-driven, AI-driven and tech-driven. Microsoft's first public customer (or \"partner,\" if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/15/cb0f1967-7a6b-44b9-a4a4-a02e0ab6b920/studioalpha.jpg",
+          "width": 1527,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
+      "publishedDateTime": "2020-12-15T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-national-level-body-of-robotics-formed.md",
+      "title": "National level body of robotics formed",
+      "excerpt": "Hyderabad, Dec 15 (IANS) The All India Robotics Association (AIRA), a not-for-profit trade body of robotic enterprises, was launched here on Tuesday to make India the global leader in robotics production and technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/national-level-body-of-robotics-formed/",
+      "originalUrl": "https://newsd.in/national-level-body-of-robotics-formed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg",
+          "width": 1080,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/national-level-body-of-robotics-formed/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/national-level-body-of-robotics-formed/amp/",
+      "publishedDateTime": "2020-12-15T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-ai-helps-protect-australian-wildlife-in-fire-affected-areas.md",
       "title": "AI helps protect Australian wildlife in fire-affected areas",
       "excerpt": "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World",
@@ -10,7 +157,7 @@
       "originalUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -62,7 +209,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/?tpcc=ECTW2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -101,7 +248,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -268,7 +416,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -372,7 +520,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -413,7 +561,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AWS AI"
       ]
     },
     {
@@ -522,6 +671,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
+      "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
+      "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "publishedDateTime": "2020-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs.md",
       "title": "SUN Mobility rides on Microsoft Azure to help build future EVs",
       "excerpt": "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future.",
@@ -530,7 +731,7 @@
       "originalUrl": "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -826,49 +1027,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-to-accelerate-ai.md",
-      "title": "Stuttgart’s Hawk supercomputer adds 192 Nvidia GPUs to accelerate AI",
-      "excerpt": "Performance Computing Center Stuttgart, known as HLRS, is adding some Nvidia Corp.-powered oomph to its Hawk supercomputer, which is already considered the fastest general-purpose machine for industrial production in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/",
-      "originalUrl": "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/sfzgadthta.png",
-          "width": 600,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-15-artificial-intelligence-people-not-robots-are-in-the-driving-seat.md",
       "title": "Artificial intelligence: people – not robots – are in the driving seat",
       "excerpt": "Like it or not, artificial intelligence (AI) is already part of our daily lives. From smartphones to Alexa virtual assistants, AI and its applications are accepted norms",
@@ -909,6 +1067,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-startup-rolls-out-compute-in-memory-chip-for-deep-learning.md",
+      "title": "Startup Rolls Out Compute-in-Memory Chip for Deep Learning",
+      "excerpt": "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1064,214 +1266,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-can-ai-help-indian-railways-improve-passenger-experience-and-safety.md",
-      "title": "Can AI Help Indian Railways Improve Passenger Experience And Safety?",
-      "excerpt": "Notably, the more obvious and immediate problems that AI can solve for the railways have been conspicuously missing from the discussion. However, the government seems to be enthusiastic about the prospect AI offers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361673",
-      "originalUrl": "https://www.entrepreneur.com/article/361673",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608011313-train-1209291-1920.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361673",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361673",
-      "publishedDateTime": "2020-12-14T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
-      "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
-      "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/DSC_4870.0.0-e1608001481901.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/",
-      "publishedDateTime": "2020-12-14T21:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ai-ethics-learn-the-basics-in-this-free-online-course.md",
-      "title": "AI ethics: Learn the basics in this free online course",
-      "excerpt": "It's time to think about the potential risks of artificial intelligence, instead of after something happens. This free online course about AI ethics is a good starting point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
-      "publishedDateTime": "2020-12-14T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs.md",
-      "title": "Alexa Live Translation feature arrives on Echo with six language pairs",
-      "excerpt": "Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/",
-      "originalUrl": "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/12/echo_show_main.jpg",
-          "width": 1440,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/",
-      "publishedDateTime": "2020-12-14T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-14-uber-in-talks-to-sell-atg-self-driving-unit-to-aurora.md",
+      "title": "Uber in talks to sell ATG self-driving unit to Aurora",
+      "excerpt": "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
+      "originalUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1142303764.jpg?w=1024",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
+      "publishedDateTime": "2020-11-13T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-weather-proof-chip-aims-to-take-self-driving-tech-wireless-communications-to-next-level.md",
       "title": "Weather-proof chip aims to take self-driving tech, wireless communications to next level",
       "excerpt": "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks.",
@@ -1390,49 +1442,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
-      "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
-      "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "publishedDateTime": "2020-11-06T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

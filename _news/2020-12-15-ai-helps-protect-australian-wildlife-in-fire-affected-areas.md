@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-asia/ai-protects-austral
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
+    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
+    publishedDateTime: 2020-12-15T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
+        width: 400
+        height: 250
+        isCached: true
   - title: "Boeing tests autonomous, artificial intelligence-enable jets in Australia"
     excerpt: "In this week’s roundup from the Association for Unmanned Vehicle Systems International, which highlights some of the latest news and headlines in unmanned vehicles and robotics, Boeing makes significant progress in the development of its autonomous systems technology and drones recreate accident scenes for analysis by law enforcement and use in legal cases."
     publishedDateTime: 2020-12-11T20:49:00Z

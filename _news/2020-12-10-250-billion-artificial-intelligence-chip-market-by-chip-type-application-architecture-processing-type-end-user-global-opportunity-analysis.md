@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - AI in Healthcare
 
 images:
   - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"

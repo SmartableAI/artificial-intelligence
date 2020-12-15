@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-15T14:52:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

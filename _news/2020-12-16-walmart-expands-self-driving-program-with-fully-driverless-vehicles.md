@@ -7,7 +7,7 @@ originalUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-ca
 webUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-car-pilot-program"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Tata Elxsi's driverless car buzz steers stock up 7%"
-    excerpt: "Tata Elxsi works with car manufacturers and component makers and deploys its artificial intelligence and computer ... there is no plan to showcase any driverless car today or in the future."
-    publishedDateTime: 2020-12-11T02:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/stocks/tata-elxsis-driverless-car-buzz-steers-stock7--945014.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/news_image_files/2016/356x200/d/delhi_transport_traffic_356_2331_356.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
-
-secured: "tsIr0N46uJm3Nq7DahRc9tehnpGdkPx/T21kyPX7EeT6yyGQxVyIsA/MacGpVMShlVWrOSEG2vOzBP2JtHbnJ9SMXF6iFlnLUyOQudOPa/nMrJ4vDTPyW/YadRi5MWlK+WVUTD9N6aAdszTiwPbTmn2rBxIdIVqRKZjy41fqjTMRnCGTctvC+++AOKO5xhR6nwoaGY4q1IJYVVY9NfY04dlWoRwVBkwCJouwXwQi08YPA2EaJxbMxG6RvzqkZqToe7duWKgCHMwOdZeGBJvihxjMy8tjbDJyfqBctSev5rRrt/wfsmAa0H8dZ3upBgNtfxHi8zL0Fbc3vJlOWExqDyCQC276RNkNR3k67g3BXL8=;5YT/mp5QclgjqZDXcxTM6w=="
+secured: "LHmk61WaJaG7TgqT1h9EjicX35UlFaxpoFxyXPz6zdukomGsOa1YmCh3StWi7MgmMNgFrxKlBaInhYWRJrwHHbP3U8VLJEuidDv0UXn2hAnH+oDyPKk3sogPyQWwCWhCJ/8X3CP3rZ4qSMDrSY7wWUkiCAN6zG2JhGlt2mdX88bVBWUYafTMJxzjoGJcITjLaFFU1NGwDGR5QXqvgSw6cBNHq3dyU6LjkHX0Yp+68QF1ZCJZ5tsIZUqyEJzKYquwKGud6qZfseljgyqZ4sR4jRhjIkR11oxJPRGRlqXdEZ2B9X78Zvfd1AG6T0Wx4mHYFFaNm158ux3QvsDzgjab5nya2fLNxqIS06axxOz0w8tv9LmZwhgHkdexRfrtNsQkpyaVbn8p6j5tCgHZibNzx/LnOA2C7i3O6djFC76YRLisnrShhuD5ohBjW4Wyi2kVsEr+mlzoS05AAHq4F7ZDFhF4dttR/QBuEnKj2YJL/AYaDzQGEZ/vLbGwta3865aQRuQ4kUar62fw4p5Dt+XCcQ==;I4c2fJBjzQq8/1L63PhFAQ=="
 ---
 

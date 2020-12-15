@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-pho
 ampWebUrl: "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/12/Lifestyle-image-5.jpg?w=1024"

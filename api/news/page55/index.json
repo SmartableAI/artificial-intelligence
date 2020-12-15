@@ -2,6 +2,353 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
+      "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
+      "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles ... The Government now also provides very substantial services for institutions to verify their customers through ...",
+      "sourceUrl": null,
+      "webUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
+      "originalUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
+      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
+      "publishedDateTime": "2020-11-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dynamic Business",
+        "domain": "dynamicbusiness.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-computer-vision-puts-a-focus-on-hygiene.md",
+      "title": "Computer Vision Puts a Focus on Hygiene",
+      "excerpt": "And AI technology and Computer Vision layered onto a business’s existing video camera system is likely to be the quickest route to that goal—for a fraction of the cost of manual monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
+      "originalUrl": "https://www.infoworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-provizio-raises-62-million-to-develop-ai-that-reduces-automotive-fatalities.md",
+      "title": "Provizio raises $6.2 million to develop AI that reduces automotive fatalities",
+      "excerpt": "Provizio raised $6.2 million for its platform that seeks to apply autonomous technologies to vehicle safety systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/",
+      "originalUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Provizio-road-test-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/amp/",
+      "publishedDateTime": "2020-11-05T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us.md",
+      "title": "We’re Ready For Mainstream Facial Recognition, But Is It Ready For Us?",
+      "excerpt": "Before real-world implementation of this technology, bias and privacy concerns must be sufficiently explored and addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21aa670d7d1c4064053876%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/",
+      "publishedDateTime": "2020-11-05T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-land-a-career-in-fintech-with-this-blockchain-bootcamp.md",
+      "title": "Land a career in fintech with this blockchain bootcamp",
+      "excerpt": "The Ultimate FinTech & Blockchain Bootcamp Bundle empowers you to confidently deliver smooth, secure and transparent financial services with eight quick courses on the fintech industry, blockchain, lending,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
+      "originalUrl": "https://www.marketwatch.com/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-254411/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
+      "publishedDateTime": "2020-11-05T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update.md",
+      "title": "Yext Answers Expands Global Footprint with New Japanese Language Expansion, Powered by \"Andromeda\" Search Algorithm Update",
+      "excerpt": "PRNewswire/ -- Yext, Inc. (NYSE: YEXT), the Search Experience Cloud company, today announced that Yext Answers, its revolutionary site search product, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1327269/Yext_Blog.jpg?p=facebook",
+          "width": 1560,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
+      "title": "These Factory Robots May Point the Way to 5G’s Future",
+      "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
+      "originalUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa1fbb2227dbb78ec30daf8/master/pass/business_5g_1003931044.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
+      "publishedDateTime": "2020-11-04T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-ai-pioneer-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
       "title": "AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”",
       "excerpt": "That professor was Geoffrey Hinton, and the technique they used was called deep learning. Hinton had actually been working with deep learning since the 1980s, but its effectiveness had been ...",
@@ -827,333 +1174,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-worldwide-voice-recognition-market-tremendous-growth-gross-margin-production-revenue-and-forecast-2029.md",
-      "title": "Worldwide Voice Recognition Market Tremendous Growth, Gross Margin, Production, Revenue and Forecast 2029",
-      "excerpt": "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. A voice recognition device can receive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/136072/worldwide-voice-recognition-market-tremendous/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/136072/worldwide-voice-recognition-market-tremendous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-seattle-startup-vets-raise-1m-and-reveal-more-details-about-home-valuation-platform-plunk.md",
-      "title": "Seattle startup vets raise $1M and reveal more details about home valuation platform Plunk",
-      "excerpt": "Will that bathroom remodel increase your home's value by more than $20,000? What about replacing the floors or adding a garage? How about the bad traffic that's getting worse around your neighborhood?",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/",
-      "originalUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-16-at-10.19.44-AM-e1563297636323-630x316.png",
-          "width": 630,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/amp/",
-      "publishedDateTime": "2020-11-04T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating.md",
-      "title": "Here’s How AI Makes A New-Home Hunt About As Fun As Dating!",
-      "excerpt": "An AI-powered marketing platform designed for a UX that works like a cross between Match.com and Netflix, enables home builders to learn with every click, tracking preferences of web visitors. In real-time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
-      "originalUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa2c94427616a015e59d92d%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
-      "publishedDateTime": "2020-11-04T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-intel-acquires-machine-learning-platform-cnvrgio-to-continue-ai-push-techcrunch.md",
-      "title": "Intel acquires machine learning platform Cnvrg.io to continue AI push - TechCrunch",
-      "excerpt": "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,",
-      "sourceUrl": null,
-      "webUrl": "https://cnvrg.io/",
-      "originalUrl": "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://406167-1278791-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/cnvrg-new-cover-1024x536.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-leena-ai-nabs-8m-series-a-as-it-expands-from-chatbots-to-hr-service-platform.md",
-      "title": "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform",
-      "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
-      "originalUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
-      "publishedDateTime": "2020-11-04T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
-      "title": "AWS launches next-gen GPU instances for machine learning",
-      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
-          "width": 3648,
-          "height": 2736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-how-the-2020-election-could-impact-us-initiatives-to-address-algorithmic-bias.md",
-      "title": "How the 2020 election could impact US initiatives to address algorithmic bias",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Although AI algorithms ... including Facebook, Twitter, and Zoom ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-2020-election-could-impact-ai-bias-policy-2020-11",
-      "originalUrl": "https://www.businessinsider.com/how-2020-election-could-impact-ai-bias-policy-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ee137ac3f73700d4a30a7f3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

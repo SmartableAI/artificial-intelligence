@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "We See What A Fully Self-Driving Tesla Sees Thanks To Known Hacker"
+    excerpt: "They are provided by @greentheonly, a renowned Tesla hacker who has provided us with a lot of information on how some of the company’s technologies work in the past. This time, he posted a couple of videos that essentially show the feed from a Tesla’s forward facing camera with various other things that the car ‘ sees ‘ as an overlay on top of the image."
+    publishedDateTime: 2020-12-15T18:30:00Z
+    webUrl: "https://insideevs.com/news/460483/hacker-shows-inner-workings-tesla-fsd/"
+    ampWebUrl: "https://insideevs.com/news/460483/hacker-shows-inner-workings-tesla-fsd/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/460483/hacker-shows-inner-workings-tesla-fsd/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/WONWL/s1/tsl-fsd-hacker.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
     publishedDateTime: 2020-12-11T05:10:00Z

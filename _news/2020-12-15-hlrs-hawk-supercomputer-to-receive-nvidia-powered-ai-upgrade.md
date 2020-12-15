@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Stuttgart’s Hawk supercomputer adds 192 Nvidia GPUs to accelerate AI"
-    excerpt: "Performance Computing Center Stuttgart, known as HLRS, is adding some Nvidia Corp.-powered oomph to its Hawk supercomputer, which is already considered the fastest general-purpose machine for industrial production in Europe."
-    publishedDateTime: 2020-12-15T10:18:00Z
-    webUrl: "https://siliconangle.com/2020/12/15/stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-accelerate-ai/"
+  - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
+    excerpt: "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?"
+    publishedDateTime: 2020-12-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/sfzgadthta.png"
-        width: 600
-        height: 319
-        isCached: true
-  - title: "University of Stuttgart’s Hawk HPC System to Go CPU-GPU for Deep Learning Workloads"
-    excerpt: "Add the High Performance Computing Center at the University of Stuttgart (HLRS) to the list of supercomputing organizations going from CPU-only to CPU-GPU architectures. HLRS announced this morning it will add Nvidia graphic processing units to its Hawk supercomputer,"
-    publishedDateTime: 2020-12-14T14:28:00Z
-    webUrl: "https://insidehpc.com/2020/12/university-of-stuttgarts-hawk-hpc-system-to-go-cpu-gpu-for-deep-learning-workloads/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 50
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/12/Hawk-HLRS-supercomputer-1220.jpg"
-        width: 585
-        height: 345
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1YWBSQLdxBKLU5Vzvw5yqeWShKCoYlY5rs+A29RmN8WrKm9Ozlstyu+CvUYNQcck2P+tTWWQw0aiVL4zQsc9AEecoE6n3g/8QBu3fQx3FOZhAkJjDbtc9N5vgJkyrrnVbAq35Z16qD4SRZrMtxf2NPVbi05eQ3o0AWB2mx3b+MqgmfWTmbID/BuqnECm+tRkZzY6U2XKUS9fk42OZza09U8MBWz5KiSaupVEyfl7ZgmJttyYgZDlyAWv5949dOfcTpFiRPK1sVc5pc3iMVPm9Fp858C7PpgLRzKZltJneXslOQ9UwYPDfNzbrSaaNkkisKKeodOMlQsF3sGEohmNLhSE0GPT0mffMQAOtFXP19CUoU71/gz66dRvxvAaNZ+LSB4vG9I9POhTsVY2SeVs3agKXzrZ8k5F1pGrp9k8jAR1XBEyUUykJB6LV/dpinXzfMZxCc7J/E/uCpU3fNaV3A6AAoUrE3XfAXTtSx24jSuhblY/mwryYpbF5D3jrxF1pDBT0HNXd6308yflAoihqQ==;kXGvrz20Sh1UuTeWW48aMA=="

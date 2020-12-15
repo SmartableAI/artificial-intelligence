@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-national-level-body-of-robotics-formed.md",
+      "title": "National level body of robotics formed",
+      "excerpt": "Hyderabad, Dec 15 (IANS) The All India Robotics Association (AIRA), a not-for-profit trade body of robotic enterprises, was launched here on Tuesday to make India the global leader in robotics production and technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/national-level-body-of-robotics-formed/",
+      "originalUrl": "https://newsd.in/national-level-body-of-robotics-formed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2016/05/newsd-story-banner-1.jpg",
+          "width": 1080,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/national-level-body-of-robotics-formed/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/national-level-body-of-robotics-formed/amp/",
+      "publishedDateTime": "2020-12-15T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-artificial-intelligence-people-not-robots-are-in-the-driving-seat.md",
       "title": "Artificial intelligence: people – not robots – are in the driving seat",
       "excerpt": "Like it or not, artificial intelligence (AI) is already part of our daily lives. From smartphones to Alexa virtual assistants, AI and its applications are accepted norms",
@@ -339,58 +382,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications.md",
-      "title": "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications",
-      "excerpt": "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg",
-          "width": 400,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

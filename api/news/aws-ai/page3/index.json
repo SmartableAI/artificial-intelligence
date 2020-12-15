@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-02-andy-jassys-aws-keynote-revealed-little-about-multicloud-plans.md",
+      "title": "Andy Jassy’s AWS keynote revealed little about multicloud plans",
+      "excerpt": "In a market moving increasingly toward multi and hybrid cloud models, people are eager to see how AWS’s attitude will evolve.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/aws-logo-reinvent-2017.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/andy-jassys-aws-keynote-revealed-little-about-multicloud-plans/amp/",
+      "publishedDateTime": "2020-12-01T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera.md",
       "title": "AWS announces Panorama a device adds machine learning technology to any camera",
       "excerpt": "AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision enabled super-powered surveillance devices.",
@@ -104,6 +157,61 @@
       "topics": [
         "Natural Language Processing",
         "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-launches-trainium-its-new-custom-ml-training-chip.md",
+      "title": "AWS launches Trainium, its new custom ML training chip",
+      "excerpt": "The company promises that it can offer higher performance than any of its competitors in the cloud, with support for TensorFlow, PyTorch and MXNet. It will be available as EC2 instances and inside ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Screenshot-2020-12-01-084302.png?w=1024",
+          "width": 1024,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-launches-trainium-its-new-custom-ml-training-chip/amp/",
+      "publishedDateTime": "2020-12-01T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
         "AWS AI"
       ]
     },
@@ -1366,92 +1474,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-using-transformers-to-create-music-in-aws-deepcomposer-music-studio.md",
-      "title": "Using Transformers to create music in AWS DeepComposer Music studio",
-      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched a Transformer-based model that iteratively&nbsp;extends your input melody up to 20 seconds.&nbsp;This newly created extension will use the style and musical motifs found",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-transformers-to-create-music-in-aws-deepcomposer-music-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/Using-Transformers-2-1.jpg",
-          "width": 800,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T11:39:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall.md",
-      "title": "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall",
-      "excerpt": "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance",
-      "originalUrl": "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
