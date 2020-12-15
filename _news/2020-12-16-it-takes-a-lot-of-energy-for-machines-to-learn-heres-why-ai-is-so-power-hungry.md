@@ -1,29 +1,26 @@
 ---
 category: news
-title: "It Takes a Lot of Energy for Machines to Learn – Here's Why AI Is So Power-Hungry"
-excerpt: "Training neural networks burns through a lot of energy. As the AI field grows, it's working to keep its carbon foot print from growing with it."
-publishedDateTime: 2020-12-15T18:38:00Z
-originalUrl: "https://www.govtech.com/computing/It-Takes-a-Lot-of-Energy-for-Machines-to-Learn--Heres-Why-AI-Is-So-Power-Hungry.html"
-webUrl: "https://www.govtech.com/computing/It-Takes-a-Lot-of-Energy-for-Machines-to-Learn--Heres-Why-AI-Is-So-Power-Hungry.html"
-ampWebUrl: "https://www.govtech.com/computing/It-Takes-a-Lot-of-Energy-for-Machines-to-Learn--Heres-Why-AI-Is-So-Power-Hungry.html?AMP"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/It-Takes-a-Lot-of-Energy-for-Machines-to-Learn--Heres-Why-AI-Is-So-Power-Hungry.html?AMP"
+title: "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry"
+excerpt: "What makes artificial intelligence language models so costly to build is that the data-intensive training process happens many times during the course of development."
+publishedDateTime: 2020-12-15T21:27:00Z
+originalUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
+webUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
 type: article
-quality: 54
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: GCN
+  domain: gcn.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://media2.govtech.com/images/49062863796_2312335dd6_k.jpg"
-    width: 1120
-    height: 630
+  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"
+    width: 622
+    height: 300
     isCached: true
 
 related:
@@ -44,6 +41,6 @@ related:
         height: 668
         isCached: true
 
-secured: "nLdsGYAbio4J+S/QJ+1kTPgeEA2dwVtTydyMRV9V2Mj2YiyTicvX8ppPJcHc/97FPpCUtMnMi7eBoZCelhI0noj5PB4oBsF1j+nFQ/U3qoNCwRQGPtm9y6b51RND9CO/2CvmVPDKUnCXH/w7eRib8Z0u3BwzFR6S0plrzLLGHDi4lnel5y9RmWIBzaCWAI7Jn+hr4jjx0Mf77Co9OZyN4AzLkwgJZtP1Bl2S9x9HjBiqxZ/wZy19BgmowbPeHlfFP9x8LXvUIwSVHM3e1gSQzPxpYnslD9G4AWZyEkT6QrHHliR8yeXOF356MNok7TSfMzgU9+6lLQUW5h6rZN0PteQTRmpCr6jDC83Czk1T/Ww=;IGKGkEVD0UOxQWdR9Zbe7g=="
+secured: "cqPlxekxk2Toh0ReR1+hEgV9Z8ypvBIDKm48Icu8ABNLPAwQdKkXnxu11arxqGQQak56pRv568gtFdVuhSaW4HzSvZp34M5+FShJRmh8lLSCWmFN1WlJIe5tXntNBd7RuQXqqp06mNHSxGQWKgtSpu/Su9n2WRW8x9OkqBlOeEAz0tf2fnecEh1Zft+VozRDoAblICKOGni5Aq+u8Sb4VmpVKY1EuyTayWrYfx/TTab7M3/lFRqxjCSQjPI2qT9UAdnAMV/y0LwXIvwMiffS2Atwz+5T5+JSJ5TuRufxKU5Zr9uwvuvojyfQrGg7nVHqtyVugUQBblCqrBvPMJzEwPz56ITwpAUnc7zuphfwmMk=;MHsxGCEGGlSsu0NRvFgJ1A=="
 ---
 

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -154,8 +154,8 @@
       "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
       "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28P2I7",
-      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28P2I7",
+      "webUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
+      "originalUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -172,8 +172,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2I7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7",
       "publishedDateTime": "2020-12-15T10:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -732,7 +732,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -772,7 +772,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -982,7 +983,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {

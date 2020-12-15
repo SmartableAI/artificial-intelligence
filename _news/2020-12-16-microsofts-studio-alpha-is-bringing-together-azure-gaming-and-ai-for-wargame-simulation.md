@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -45,21 +45,7 @@ related:
         width: 2300
         height: 1293
         isCached: true
-  - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
-    excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
-    publishedDateTime: 2020-12-11T05:32:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-is-going-big-on-reinforcement-learning-heres-how/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/Screenshot-101.png"
-        width: 957
-        height: 597
-        isCached: true
 
-secured: "YUJm1tLduWX3w7dCc9yrzs87V4MJwcM1qXhQ9opzFraXr2lu0t7YZGdHdC96HTsKn6p9OM1SYIR5Y8JCkHpl2K/JLmjMa4qQWzuhVe+kZSCIXMHHjHwJKvGdAYl1PyEvm7UuYByrns5/ZN/WoDk+RJfITgn7+fNFBydOJPXsWDop93YcWO/L6n2RaXyt9bHcfrwUJamgNnwUaDnVFQdb48ucK6eLDVqUSvAlf3f203vCyDlBYUkaZ7CJ//nDTMtJh7zCPOux7/hotAn8/sNp2X9xsgi9cL1YOIq9458tVjAVvBJg6ZvZYuXvB9KTj6FgLC/ccXpB9Y/xPqfymLpyZMze0bqdmU/I1Si/Ti6T+5U=;Neourwl3HVWGUe2cT9D0iA=="
+secured: "i/2re4G3946RqwETUunXKWJmERHILI8A/ixoszwmJLZN8d1jB2YRZeqpobn38fLNgEewh172EKW/W6jnJWZvmRpv3sgYPCg0d/741eCx0W+1GdDerIOu1JdP2xbPO0OAHVBhzJBUqTnaVsx2XnEET2E90l/bQEuvTLEU2vhKpD7XEx+ibPYpReD0UIxi6yM5K5z5KJcPuXHQDGaGodqL+G+7o9KRbXE1CwLDBjhLIcQ/1PgG7dEH35rb7R2p2X+17kCoXozkJcAHWfUOu/xJdzcWZzYZhVSVCO0tyfKZ+X/HqGgdPvQNmKGoWt4BaFw9PJ5AoMx+VcgVfvd7AI9kJkPVuZv9WM7Jrl5VSqT57LKdoZnCUXvg2aCYkIdgJfc/2z38lj3+e3zVCbLrD3Drr0cr5YMr0+hjwtR3DDjEZCfB4o3K/a1kTkcrhxI2PqqAixUO2jIL2rJL+gKQFPiELNaPT0s1Mr0ZBXqNGAsPMXeYru3v6DL2w8jGRcBxn1FVH1mBiy9HI94gxSPi18HBmw==;tJgNibgVkpn3BJoo/bJbIg=="
 ---
 

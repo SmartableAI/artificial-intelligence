@@ -22,6 +22,17 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Artificial Intelligence Technology Solutions Restructures Convertible Debt"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is thrilled to announce that it has restructured the vast majority of its debt, which"
+    publishedDateTime: 2020-12-15T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201215005671/en/Artificial-Intelligence-Technology-Solutions-Restructures-Convertible-Debt"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+
 secured: "2XJlGZmUN46vQ2tlcSWzwANYZYQdVLLhuivl10XI+MKkd2mACa8fPnxU9+adUIB2buq5LDJ+6ump7Q9wqiGlPipLYxX7n3IwHtj2aS9+M7YpOy3kzpcXh9atFTvOpn7j+2UONbXT41tF2XQcztu7CD8UPcu9eC1jmH6DWYqTo4mOvOU/S7Vn6BoJ+7Bjy1JyOnhai+zP+J0tiKhQZc0RI95iP4eRlsVNU1vs8orF99H88nK2sWzEltPFDSpIoRv1GOFrqvPV1v0HA8LhNwY67ftj6m4ZB7x8w8HAr+zP4FivKqhe/43uwW/aZ1PwychLBO0AEs3meDUBTzX0RQYMqf4AQWHkM+roYvtH9P/7p6I=;cRTwILQhvIepipq0Nsas6A=="
 ---
 

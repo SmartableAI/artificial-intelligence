@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Hardware Market Size 2020 Top Manufacturers, Industry Share, Regional Analysis, Types and Applications and Forecasts to 2027"
-    excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) Hardware Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Artificial Intelligence (AI) Hardware Market Report also covers top key players,"
-    publishedDateTime: 2020-12-11T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hardware-market-size-2020-top-manufacturers-industry-share-regional-analysis-types-and-applications-and-forecasts-to-2027-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
     excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
     publishedDateTime: 2020-12-15T13:50:00Z

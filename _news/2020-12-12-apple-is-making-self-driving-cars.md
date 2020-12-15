@@ -91,22 +91,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Apple Reportedly Developing Self-Driving Vehicles"
-    excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
-    publishedDateTime: 2020-12-11T05:10:00Z
-    webUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info"
-    ampWebUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Fapple-reportedly-developing-self-driving-vehicles-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1125
-        height: 750
-        isCached: true
   - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
     excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
     publishedDateTime: 2020-12-15T11:05:00Z

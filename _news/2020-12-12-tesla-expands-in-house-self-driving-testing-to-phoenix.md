@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-t
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/WONWL/s1/tsl-fsd-hacker.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Apple Reportedly Developing Self-Driving Vehicles"
-    excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
-    publishedDateTime: 2020-12-11T05:10:00Z
-    webUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info"
-    ampWebUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Fapple-reportedly-developing-self-driving-vehicles-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1125
-        height: 750
         isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
