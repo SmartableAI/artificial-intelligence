@@ -1,25 +1,29 @@
 ---
 category: news
 title: "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications"
-excerpt: "LINCOLNSHIRE, Ill., Dec. 14, 2020 /PRNewswire/ -- Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot ..."
-publishedDateTime: 2020-12-14T15:46:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications/article_07eb1462-bdf5-539c-a41d-f95ca5d1794a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications/article_07eb1462-bdf5-539c-a41d-f95ca5d1794a.html"
+excerpt: "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
+publishedDateTime: 2020-12-14T14:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
+webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
 type: article
-quality: 32
-heat: -1
-published: false
+quality: 62
+heat: 72
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/a3/ca37a982-10ff-51e2-92ee-3144f3db335f/5fd7743cb8350.image.jpg?resize=400%2C306"
+  - url: "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg"
     width: 400
     height: 306
     isCached: true
@@ -40,6 +44,6 @@ related:
         height: 766
         isCached: true
 
-secured: "wboxsrj5W2GGk78vDO/bwloiAkGYWT/WzMAFsDyS+63MpHvDgN4Mcqp5+g8tgv6XJcty3ja1u8szN96CwL9pXO07L52jxkT08bc9sHU60RFcc0As8Vvgg8FBv8DdD5+4a7OfGom/p2kM5Ne2Lj++gWYzXdA6wXucH59Hehcy14tLh4MmFLJJA1ubtKTOw0yAx4YGQwApdnW2lGvnbnWpzp0EdiJpFzgWnLXq82J9HDphN9G46UjNihSo8OXurr2d2klvN/+tpym2oxwKMIsDx1EUjegXVX5EoQZgtmBCb5yPOFZ5KGg7OEHW9IG/ZFxEPypEwUqW2tkehv50GtfSu+P2m9pZRUUpkyBGgplI3Tep9uZ12K6790JmFHVe8ufP0twyLzj7g1z5LToizdOQiCd88tnpDj/R/REdb/+1xZQRyJWaCXGMwlnqiTAlfw4RPWvFk3AEtTuDJ2UDB3GQBz5RTFkkNz43YyarAbEWHnfmjdZmxyN2sMrqvqgcJFeghHryYEBZ8WF17UcMYmNEbA==;vyuWACL2P9vpA/6MRPB/Og=="
+secured: "m/gztWcYgGOHzLQFHNwrso/+EauHmtrRej3fBaot06JmRXxjtmGlmeE+NOSpCFgKOCrEToJZSPM/WRUroPYsEEhOcxgQHWGgomGN3iYchk3CZxxQCmLjCLvYryByX4bklNAtWxzLxxmGXBxSFaNhNoGNXsz1ghErEnDl/1e/shSIZO8bYTZdhwsfK8HzJfyc9lOKsHTorw4CDfOJaEX8MYycjlo45etnj5ePUAhQDbyK6cqjd90Eyl5b7z5iWjkTUFFh1aAfJk99EmFQbSBfeDV3MuZ5WKnEJQHcAwjU+CfcYQzIZuCuCzOhpZdx6fzVNT1MjxzY8uj7UI6OHh/W0Bf9NAWjbl0BFOfenyl/RLg=;dRoWaIIPMxkttWNJ/ReoaA=="
 ---
 

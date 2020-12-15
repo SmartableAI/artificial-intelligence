@@ -7,7 +7,7 @@ originalUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-ro
 webUrl: "https://www.commercialintegrator.com/enhancements/lg-autonomous-robot-uv-light/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications"
-    excerpt: "LINCOLNSHIRE, Ill., Dec. 14, 2020 /PRNewswire/ -- Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot ..."
-    publishedDateTime: 2020-12-14T15:46:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications/article_07eb1462-bdf5-539c-a41d-f95ca5d1794a.html"
+    excerpt: "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
+    publishedDateTime: 2020-12-14T14:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/a3/ca37a982-10ff-51e2-92ee-3144f3db335f/5fd7743cb8350.image.jpg?resize=400%2C306"
+      - url: "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg"
         width: 400
         height: 306
         isCached: true

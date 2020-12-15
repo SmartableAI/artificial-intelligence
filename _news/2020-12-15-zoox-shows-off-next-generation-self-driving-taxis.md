@@ -137,6 +137,22 @@ related:
         width: 700
         height: 408
         isCached: true
+  - title: "Amazon's Zoox Introduces New Self-Driving Robo-Taxi"
+    excerpt: "Amazon ‘s electric vehicle startup has just pulled back the curtains on its self-driving robo-taxi. The autonomous vehicle arrives in a market where most self-driving designs feature a steering wheel and brake pedal,"
+    publishedDateTime: 2020-12-15T04:43:00Z
+    webUrl: "https://hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info"
+    ampWebUrl: "https://hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Famazon-zoox-self-driving-taxi-electric-vehicle-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1106
+        height: 737
+        isCached: true
   - title: "Amazon’s Zoox Trots Out Four-Seat Self-Driving Robotaxi"
     excerpt: "Zoox — which Amazon acquired in June for $1.2 billion — has unveiled a self-driving electric taxi. Zoox said the four-seater was \"built for ride-hailing.\""
     publishedDateTime: 2020-12-14T17:08:00Z
@@ -242,6 +258,6 @@ related:
         height: 338
         isCached: true
 
-secured: "3tzO5pYnwH/nMbP7u0tE6TU8CRU9yXuOASDsubDE0LgcAJViqAy1a4pq133q0hrSsXlt81JUc8J+650P+Cm9QeIHLLTEW9lrgUVZYALpNKkf3GQOVNmNWvgF0gQE+kC1ZJz7PBO5zdH89ciaS4zfjOaRM82K18hVByUb4UYD6uWzEtC6OhmPURqEc+JhBTUrzwhQEc6uzbbzzPz+0wCwwcJAaDS2fUsBx2y+OhWaXkwt7Z26lVDfTy1XBt4OI7rFhqeqx7KIDJgwge71x/02nLrXeThSZnH4/5eSt4AC8uurQKcUREyxEwCY+ZvR6c7U0JrAJRMWxqg+4c5mkcxw9vyrpQ2JoVlk2+gWqCsVdUo=;kLdwRts0gKc4g+hxgdxQIw=="
+secured: "aoIXJn88I7u33Vu8gbozqh/fRbuUpWfhjoBQwCrjZEiLTwAQJcjBP5lZe2lgeOqoyY6vdYUU4ZwOz6NpoKpyabVjKioKSSZDgNm3GZJu8lU9iD+RCDhUH+NsjyniEr12NOQTLj6+Mp7LN6+W1wRTFH+RLZk81vuUjFb4yuIVvFtHouD7Oc51sQsw0j5tXwQ+Q8OMGnOgOhJN0j5dHus1czBydZmMmbIwca+Yh6dbzLNAcHPEznTV8K/tiRzsaOMbc9TugOZOhFlkw8snye3c1c/S6ItZ7YVbilX+/0xq2RuE/ABZ53Lxb2h9QgESnE3l8BmX14ePEPnoSrrsA7BuT0twCxtVoI96cUGrhenI76HDFzpoA8krYx8OvgP/xLITOga3/7ueXrweQT4VA0nVL/00QO8jhmCzkz+nyWjKBFOLm8r1SZHYHn/qimuwP49p6uL5aX16ntHT/GtPrF0tpEqL8pRxNaNgWqYakpPi+LnZCCbQgCp3yavx5RV7LO4yDLxtF+IH/dB6tR+V44hb4A==;x0NTw88ZIF/PF+1QGtx+SA=="
 ---
 

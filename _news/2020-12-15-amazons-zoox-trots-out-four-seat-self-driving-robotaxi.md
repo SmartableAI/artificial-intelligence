@@ -139,6 +139,22 @@ related:
         width: 700
         height: 408
         isCached: true
+  - title: "Amazon's Zoox Introduces New Self-Driving Robo-Taxi"
+    excerpt: "Amazon ‘s electric vehicle startup has just pulled back the curtains on its self-driving robo-taxi. The autonomous vehicle arrives in a market where most self-driving designs feature a steering wheel and brake pedal,"
+    publishedDateTime: 2020-12-15T04:43:00Z
+    webUrl: "https://hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info"
+    ampWebUrl: "https://hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/amazon-zoox-self-driving-taxi-electric-vehicle-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Famazon-zoox-self-driving-taxi-electric-vehicle-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1106
+        height: 737
+        isCached: true
   - title: "Amazon's Zoox unveils self-driving robo-taxi"
     excerpt: "Amazon's Zoox subsidiary has pulled the wraps off its first autonomous vehicle. Billed as a car \"built for riders, not drivers,\" the all-electric box on wheels eschews traditional controls, traditional seating and even traditional notions of a front and ..."
     publishedDateTime: 2020-12-14T22:55:00Z

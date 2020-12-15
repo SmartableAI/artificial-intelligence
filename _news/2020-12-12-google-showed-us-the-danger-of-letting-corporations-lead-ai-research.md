@@ -9,8 +9,8 @@ ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-researc
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Quartz
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Dark Side of Big Tech’s Funding for AI Research"
-    excerpt: "Timnit Gebru’s exit from Google is a powerful reminder of how thoroughly companies dominate the field, with the biggest computers and the most resources."
-    publishedDateTime: 2020-12-10T12:08:00Z
-    webUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/"
-    ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
+  - title: "Google’s Dismissal Of A Top AI Researcher Shows How Little Progress Has Been Made In Listening To Discrimination Concerns"
+    excerpt: "Timnit Gebru was one of Google’s most prominent Black female employees until last week, when she was dismissed from her role as co-leader of Google’s Ethical AI team. The uproar that followed reveals a troubling situation for many companies."
+    publishedDateTime: 2020-12-11T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/"
+    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 64
     images:
-      - url: "https://media.wired.com/photos/5fd154613df9cf7176d399a0/master/pass/Big-Tech-Research-Influence.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "What Big Tech and Big Tobacco research funding have in common"
-    excerpt: "Attendees of the Resistance AI workshop at NeurIPS say that by funding research, Big Tech is following the same playbook as Big Tobacco."
-    publishedDateTime: 2020-12-11T20:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/"
-    ampWebUrl: "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/s3.reutersmedia.net_.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd29ab84acee6910d7ac5c7%2F0x0.jpg"
         width: 1200
-        height: 785
+        height: 800
         isCached: true
   - title: "Google showed us the danger of letting corporations lead AI research – Jaweb"
     excerpt: "Artificial intelligence, more than most other fields of research, is dominated by corporations. Private research labs at Google, Microsoft, and Facebook churn out more top-flight research than most universities."
@@ -78,20 +62,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-showed-us-the-danger-of-letting-corporations-lead-AI.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "London AI startup secures £8m funding for new research"
-    excerpt: "A London artificial intelligence startup has announced that it has secured £8m in funding to invest in new research. Papercup secured… | London | Funding | Technology | Technology | Inward Investment"
-    publishedDateTime: 2020-12-10T11:34:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/12/10/london-ai-startup-secures-8m-funding-for-new-research"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/xnr9zCyCZsnKVW5HY0Ng4sHiQy7gXXKQr7XsYNyE.jpeg?w=940&h=430&fit=crop-50-50&s=f70bbaa3c84e204929858820dfb394bd"
-        width: 940
-        height: 430
         isCached: true
 
 secured: "vYLFiQ3RnrfV4ae+Tx2zS6qKdqBrvOZ0K6kgOjlsBI683h7sOYriK70Oh+4McltNUez3Ai5TKfAFks4whgyf8EuamRUVCOVQevEwAL7ZqJKs9VFTqMjJ6C7oyt5tftIcLSO2NMZctp4y4t/00QoJYQ254I4FbGf7MVuLSrWWynQz3Ofv418REhHiX+1hRX1iO4HwGudhBKBN7RRSLeqRCmZ8RIUixC+pZXqnuhRmSR+ffio8tKdiGaGUH+/DRkSwUbuLPLB7bqHC6a+KL9NMthS6kzhSJ2wQlaY6qzP3XhIIZnfg9cuNDRgV1gtBun5iT1q1/mZMEEkREz1AKqSYVsbQdFOZsmxJDrK98+h6egHU256pvC0Fdb0iFXgrYihxyzd8Pl8h+iJdtI7sPl3Bik4voovwYdPj712EfOx6BxBlZqtPZHVWMmZ5zMZimn1I/BvQakgJiJee/bDkxb1rWfCMPJ/UyXGRD4ghuRMp15h9gTUz70SYHR5u0MleOIyLmTIFuohh1XjJpiqaKmUgcw==;8P2KgPigdjQ218yczPKS1Q=="

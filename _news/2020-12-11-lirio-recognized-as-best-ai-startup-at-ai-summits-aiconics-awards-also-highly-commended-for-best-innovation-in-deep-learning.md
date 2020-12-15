@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning"
-excerpt: "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded"
+excerpt: "Lirio, a leading behavior change AI company that uses Precision Nudging™ to move people to better health outcomes, was awarded Best AI"
 publishedDateTime: 2020-12-10T19:32:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html"
+originalUrl: "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html"
+webUrl: "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
-secured: "GYMpDcoJ8O5274UBuTquYonEwwhonFoB0NLfiRX3RzcxFsXiX5Lg+MEVUXBKhWxTURDLxGgV3kymrdiApU3hpGjNYZnZ1xtcSgPua+XrdVshBpTvhu07UrejTOk/gqNHRymCoYE6/3ZZf7Ktr2NvsD38w4TbPi/bpKmcF1/Vo2sYOCzPcK9Xq7O3MpOAgjTd0Wd5mgZITyWJBaLQEFEO7hpXpjiQ5Fu5dpQF5eV2DQf+PMN2AnXfbGMOS7HELZ1MYhj1QJh8/h4pWWCqHreLLHxEY2VoCRHTQ/tiVrDYro6DP3n63ePG3fhFYMJMnbDwOIYm0qFP1r4kKqVHid8YE1U8aj3HZPKBfeNY7sh63RmFB8Fkf+z6DKld+W7SIyk8DxgXCkEktBPt72t/G/3kl9SPQoyJeFm5+X123ev+H1bMq9TnLePvlDfVvSsGj9b55/hB1gjg6Ae7TJfHVJp4KeWV+K74Lu84G6S2i2bZbY0bti6pEC72vt4YKVRWpALkVkaXdY4hhStXNy4nlN3Nuw==;KFWc5l6Gga3Fr3rqNwq87w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1373395/Lirio.jpg?p=facebook"
+    width: 1024
+    height: 536
+    isCached: true
+
+secured: "amWhLlXFz59UZfRcNF7k/5MfgyBWLEAL7hAXNNosqRXuBc2Nj39pFP21RdE+5dk5LlAYzUf7IZlf0PGsDzNsCQ/3NY/miNQhILtkajCzOaPli/Rlqr7fPAFZ0AK1zYcftsogrTGjGoUYPqyrc8zY/Y1HSa76FOQDkNcERPpdgqT+s87yI682voTIkKcLcibBx8zp+CyRFe+wRdk463gS6XA66uBVjUXc9SDZi+VCvvM9wbcXWLVBwkVFXitYpDn6Mj/iKGa7dCMBVqNwNMW+Ll6/MvyhRoVfAf79L0BJmH8dBZprNgZMVLSH9KSm9jYOV6KEMAts5FBLtkSQS1Y/a3x9Km4BRnqbw1EEsoLBpq8=;H2wKls8HZrR9tI9l0PboSQ=="
 ---
 

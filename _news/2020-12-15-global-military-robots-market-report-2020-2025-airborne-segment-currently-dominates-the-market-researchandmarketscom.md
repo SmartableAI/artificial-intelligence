@@ -36,6 +36,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled “2020-2026 Global Artificial Intelligence Chipsets Report” provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2020-12-15T04:20:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/136761/artificial-intelligence-chipsets-market-share/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 9
 
 secured: "DmliyfDR8KSML/WdQBksFhBDTnDgphIU9UJmdFGuOrlGeVQ+1Je7dr8/Tu2MOqCgNSgtRrDR+Eaxwqs5H93NMOj2CpElz6g3JIJYo1y+IJO3LzgU44ppQuUZsOSLXVVVJn+e3OpC5xjnKmJhjDWOOLVoHY6GsqtAFbhSICobJY0Xb1qVuKv28Zi6GGgW0oEroifnxzdzLqqAnCZVWgPD9oQNg5L39exi25OloeFYlx85nxdva5WrLy0xsjgUAp+LzGO1gds36ROI3AtCORMVH7MJZJnFK6GG+/rJPByHA3oevAKtsuOsShDIe+geK+M5mBi03/rQj5Ku3nnc5cVmCwIj8u8iyunhzNTP54CRlws=;HWw0PpHF1loePwI1oSyeJg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/decipherin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
 type: article
 quality: 96
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 681
         height: 284
         isCached: true
-  - title: "Using AI to transform the customer experience in banking"
-    excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
-    publishedDateTime: 2020-12-10T12:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/19634/using-ai-to-transform-the-customer-experience-in-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "9Cf28jHrDRP3qIFPLKnzcqLDerqD0cfjzLsyqsavUdCG8D3eh393ehHX/bF0LjcO/FUWm/R2Qs1Ut29gugA7VcsGJ0FYDtg2sXngHznYuZe/eaX8tVMe1kk9DtpzFQ82bVC6Zv3GA+BfVBPvxXvSKssKIadfDP/8ED9G6z3nt0uTGexl2j2sQwPdn1LV5n3vcW0CIl4jz9CPcTzc1Bl6aiwv2LJ81wDwDBKBb9W9qxr/rvlM4ce4O4A0l/P4OPT84YxlrWEn/ezG/jaWKaHp84+4AKiPIsOXXpkACPhosAig9rgVWdG81+Q9KUfmfAXRi1pvD76i4DGsWyiXAQyEUCD2K/lIm50bGt4wdVPG1fFtvDfcdj5qxNtqiOb32zubm8bPHF3pOCGbTAWNbxXxJk8CrbBSEpYjp1Obwlecp5EkLicztouAozXaIjYyre0VbCBemDLyLwLy7AOgiI3uhlCCUn8F5cZFnW3C7m9p4pDFKx1yuNzxU7HlMkCgFvIeDiBmXpkPW5DccoJDcuxBcQ==;Kh4/DW/giqZrubQRxxc56A=="
 ---

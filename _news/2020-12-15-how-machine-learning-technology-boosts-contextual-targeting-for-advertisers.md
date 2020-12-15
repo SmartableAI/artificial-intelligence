@@ -75,16 +75,7 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Using AI to transform the customer experience in banking"
-    excerpt: "When it comes to thinking about how AI can be applied to improve the customer experience in banking, many people will immediately jump to images of using “robots” to serve customers; these could be actual robots (such as HSBC’s  employment of “Pepper” in downtown Manhattan),"
-    publishedDateTime: 2020-12-10T12:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/19634/using-ai-to-transform-the-customer-experience-in-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
-secured: "AY8w8YIlrE18oN9NtDPiMKk6w6LHa8dhdBGcTCCN49zgFn8bYVQIcapfkOE20bHrYR72gcDcaoIyUGrKfULnPSZWknovGkmTfTGTPfpt9OPMG8XMV/clCYzfRDANENOvxYzhBNo2gZ8di75ecM3pGvAUR3S+VlHpDKbh/5TQIFgZHtb76S5MRCB15rRLE0bIG2d1nQ2bN2/1xfI2/z9sU9yAY+ZVcgV9f/gLyvvFc9ZmLbJGeynr/hqCA/GxwJyPxclwgeAox1tOvzN2t6KnuUI2vqZHyCcJk585/lZgnXi/5pu55uRC5aIGFWpspEFATTJoE6+mKuYErPfpKajBmxjtmcbCpFG3O1YcPsgyEpU=;6SDVZMYjkG74W8PrKpKpRg=="
+secured: "y0y32LE2DE1aeA2A6VqJ8A9+o2rGEoicpZh9WhD/zhLbmPx3gK58U7glahUftNSqJeKfB21ahhSOz54eFwDgTygMwUrMm2PmjxM7zQyynhcg3hYDplWO1vQLiIYaQrX2n/m8Glunin1ybiLZyMBy9a/nNHtNizaXBzTTnOlHIPQ7Yg1pHoMM8nRDEWjNhlgowhB63N66D0jpHsy+pwPyKcmK+BeO2zAPSDZlubHFBI7JRIgs+Jpf0jJzfO9w0fVz1TJaecgOep4Ud+ruHzSqcHMiLF0dNCljPSpYs1tDRaKn0J9mXeZNdEoSHwOC37T1QgHUuJlrRcwyBzbs5vPFXl9iARNdZR4OmyHELwn/RAvBjMc9AVWwiMT+gydiMoWz7JRcJwIvUV+Jo2/NWtp6C8cjBA6iElieARq+nku1T0UgAl/LW2E86PQKi/TB88o9bdiAjaaAZiaSvLLJNPNhC5p7eEfurbgn2WfjSakW/TFwdQFHRbSmtFdFs0yK+XGwW6OTNMmVLd7L69zQbJrq0Q==;m/atUl3lRs/7MZRqA7ms6A=="
 ---
 
