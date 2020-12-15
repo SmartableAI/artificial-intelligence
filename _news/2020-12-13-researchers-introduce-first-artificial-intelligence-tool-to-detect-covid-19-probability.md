@@ -35,20 +35,6 @@ related:
         width: 639
         height: 426
         isCached: true
-  - title: "Manufacturers navigate COVID-19 with AI, cloud and robotics, says Google study"
-    excerpt: "Manufacturing firms around the world have responded to the COVID-19 pandemic by accelerating their investments in disruptive digital technologies such as artificial intelligence, robotics and cloud platforms,"
-    publishedDateTime: 2020-12-10T14:52:00Z
-    webUrl: "https://siliconangle.com/2020/12/10/study-manufacturers-navigate-covid-19-ai-cloud-robotics/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 65
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-10_074458.png"
-        width: 1024
-        height: 529
-        isCached: true
   - title: "AI platform finds best combination of available therapies against COVID-19"
     excerpt: "A team of researchers from the National University of Singapore (NUS) has utilized a ground-breaking artificial intelligence (AI) platform to derive an optimal combination of available therapies against SARS-CoV-2,"
     publishedDateTime: 2020-12-10T18:42:00Z

@@ -2,6 +2,263 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-11-salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy.md",
+      "title": "Salesforce claims its AI can spot signs of breast cancer with 92% accuracy",
+      "excerpt": "Salesforce says it developed an AI system -- ReceptorNet -- that can spot signs of breast cancer with 92% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
+      "publishedDateTime": "2020-12-10T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
+      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
+      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
+      "publishedDateTime": "2020-12-10T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely.md",
+      "title": "Turing nabs $32M more for an AI-based platform to source and manage engineers remotely",
+      "excerpt": "As remote work continues to solidify its place as a critical aspect of how businesses exist these days, a startup that has built a platform to help companies source and bring on one specific category of remote employees,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/",
+      "originalUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1084518636.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/amp/",
+      "publishedDateTime": "2020-12-10T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-cleo-the-ai-powered-financial-assistant-raises-44m-series-b-led-by-eqt-ventures.md",
+      "title": "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures",
+      "excerpt": "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Marketing_Assets_01.png?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/",
+      "publishedDateTime": "2020-12-10T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts.md",
+      "title": "Sensorium and Mubert develop AI-driven DJs for virtual reality concerts",
+      "excerpt": "Sensorium has teamed up with Mubert to develop AI-driven DJs that can make AI-created music at virtual concerts in virtual reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
+      "originalUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/sensorium.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
+      "publishedDateTime": "2020-12-10T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-electric-self-driving-tractor-may-just-be-the-future-of-farming-as-we-know-it.md",
       "title": "Electric, self-driving tractor may just be the future of farming as we know it",
       "excerpt": "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special.",
@@ -309,19 +566,19 @@
     {
       "path": "_news/2020-12-10-confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders.md",
       "title": "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders",
-      "excerpt": "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey",
+      "excerpt": "Healthcare Organizations Already Using Automation Still Have High Levels of Confusion Between Robotic Process Automation and Artificial Intelligence. SOUTH SAN FRANCISCO, Calif., Dec. 10, 2020 /PRNewswire/ -- Alpha Health,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook",
-          "width": 1440,
-          "height": 754,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -331,11 +588,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T05:00:00-08:00",
+      "publishedDateTime": "2020-12-10T05:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -345,8 +602,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -552,6 +809,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-ibm-launches-new-innovative-capabilities-for-watson.md",
+      "title": "IBM launches new innovative capabilities for Watson",
+      "excerpt": "IBM today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
+      "originalUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/12/2020_12$LargePhoto14_Dec_2020_14122020224307.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -931,299 +1231,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020.md",
-      "title": "Grimes, Serena Williams, Gwyneth Paltrow Talk AI, Ventures And Pivots At Web Summit 2020",
-      "excerpt": "An all star cast debated the promise and perils of AI at Web Summit 2020 which featured insights from Deepak Chopra, Mark Cuban, Ridley Scott, Palmer Luckey, Elad Gil, Garry Tan, Nicole Quinn, Gwyneth Paltrow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd1af982273372e528d8ebf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D53%26cropY2%3D593",
-          "width": 959,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/12/10/grimes-serena-williams-gwyneth-paltrow-talk-ai-ventures-and-pivots-at-web-summit-2020/amp/",
-      "publishedDateTime": "2020-12-09T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-google-to-investigate-shady-departure-of-black-ai-ethicist-timnit-gebru.md",
-      "title": "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru",
-      "excerpt": "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483",
-      "originalUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp",
-      "publishedDateTime": "2020-12-09T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-making-sense-of-your-health-data-with-amazon-healthlake.md",
-      "title": "Making sense of your health data with Amazon HealthLake",
-      "excerpt": "We’re excited to announce Amazon HealthLake, a new HIPAA-eligible service for healthcare providers, health insurance companies, and pharmaceutical companies to securely store, transform, query, analyze, and share health data in the cloud, at petabyte scale. HealthLake uses machine learning (ML) models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-sense-of-your-health-data-with-amazon-healthlake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-its-just-research-isnt-good-enough-in-ai-ethics-p.md",
-      "title": "\"It's just research\" isn't good enough in AI Ethics -p",
-      "excerpt": "There was a little bit of noise around some papers being rejected on ethical grounds at the NeurIPS 2020 Conference. The responses fell into two camps: It's just research and AI has implications, ethics matter I'd firmly put myself in the latter camp,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
-      "originalUrl": "https://www.linkedin.com/pulse/its-just-research-isnt-good-enough-ai-ethics-p-steve-jones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEMg6-uH8PJ6w/article-cover_image-shrink_600_2000/0/1607613295550?e=1613606400&v=beta&t=zJK3zRQWmF-nVosNIOpnx5jcyEFwhyGXkx8ljay0BGE",
-          "width": 754,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative.md",
-      "title": "AWS accelerates AI and ML in the public sector with the Rapid Adoption Assistance Initiative",
-      "excerpt": "It provides a direct, scalable and automated mechanism for all the public sector partners to reach out to AWS experts within our team for assistance in building and deploying machine learning workloads on behalf of the agencies,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/09/aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/09/aws-accelerates-ai-and-ml-in-the-public-sector-with-the-rapid-adoption-assistance-initiative-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Wilfred-Justin-AWS-re-Invent-2020.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-09T15:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-c3ai-on-ipo-using-nvidia-gpus-and-competitive-strengths.md",
-      "title": "C3.ai on IPO, Using Nvidia GPUs and Competitive Strengths",
-      "excerpt": "CEO Tom Siebel joined TheStreet to discuss the company's trading debut, its use of Nvidia GPU's and its biggest competitive strengths in comparison to rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "originalUrl": "https://www.thestreet.com/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/7E6sbUJ2-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/c3-ceo-ai-ipo-nvidia-gpus-and-competitive-strengths",
-      "publishedDateTime": "2020-12-09T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

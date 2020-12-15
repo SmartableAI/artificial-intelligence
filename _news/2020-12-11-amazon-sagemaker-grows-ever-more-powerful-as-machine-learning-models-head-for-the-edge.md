@@ -82,20 +82,6 @@ related:
         width: 800
         height: 326
         isCached: true
-  - title: "AWS SageMaker gets new capabilities"
-    excerpt: "Will work to make it easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
-    publishedDateTime: 2020-12-10T14:20:00Z
-    webUrl: "https://www.arnnet.com.au/article/685062/aws-sagemaker-gets-nine-new-capabilities/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "KOInzy3FFGuiAhup8p9UBJnMyjNwmEWNGXGW+L3YX7i3l8Jbcg9uj0Vr8j3Zt7cSa0GvLTWwTFj95XrUmbYZ/MZbB1f2xNwXX9AHVnRIuN1NzRlC27yyeum6v8iX+wk22y2dtcWTNXrVuYARbu0OjnDJOXIR8NT7Vh/x1jlh03985LLOsk79H4JX74a0dczCc5zFnF8GeEdbTJfnH5Xt+Ho9SWJc5HXq3zpnHip4fVe9O3IR033+LJgr38xvUszUHWJ/C6ureMxXNaz/H/Tox30WR9h1+DPzgN51Zy/uLqwcMPxf+sxUQnUUERhlD7a0bP28+FOTKtXgoGz4+diAdqxeZpJn2zKgUNq7O0ngs2M=;rLuXtIDx3pNj7cyofEfzoA=="
 ---

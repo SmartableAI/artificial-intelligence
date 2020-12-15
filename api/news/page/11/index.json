@@ -2,6 +2,343 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-05-a-robot-is-now-making-jamba-smoothies-in-a-california-walmart-in-less-than-3-minutes.md",
+      "title": "A robot is now making Jamba smoothies in a California Walmart in less than 3 minutes",
+      "excerpt": "The contactless kiosk uses a robotic arm to retrieve the ingredients and make the smoothie. It's one of Blendid's five kiosks in California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
+      "originalUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc81645037cbd00186137a9?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamba-using-robot-arm-smoothies-blendid-walmart-2020-12?amp",
+      "publishedDateTime": "2020-12-05T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-training-facial-recognition-on-some-new-furry-friends-bears.md",
+      "title": "Training facial recognition on some new furry friends: Bears",
+      "excerpt": "A few years ago the pair became mesmerized, like many of us, by an Alaskan webcam broadcasting brown bears from Katmai National Park. They also happened to be seeking a project to hone their",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/",
+      "originalUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2020/12/SCI-AI-BEARS-2-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/12/05/training-facial-recognition-on-some-new-furry-friends-bears/amp/",
+      "publishedDateTime": "2020-12-05T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-google-ai-researchers-exit-sparks-ethics-bias-concerns.md",
+      "title": "Google AI researcher’s exit sparks ethics, bias concerns",
+      "excerpt": "Prominent artificial intelligence scholar Timnit Gebru helped improve Google’s public image as a company that elevates Black computer scientists and questions harmful uses of AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "originalUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/12/Google-AI_Researcher_92004.jpg?w=1024&h=702",
+          "width": 1024,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/05/google-ai-researchers-exit-sparks-ethics-bias-concerns/amp/",
+      "publishedDateTime": "2020-12-05T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-using-a-test-framework-to-design-better-experiences-with-amazon-lex.md",
+      "title": "Using a test framework to design better experiences with Amazon Lex",
+      "excerpt": "Chatbots have become an increasingly important channel for businesses to service their customers. Chatbots provide 24/7 availability and can help customers interact with brands anywhere, anytime and on any device. To effectively utilize chatbots, they must be built with good design, development, test,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-a-test-framework-to-design-better-experiences-with-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/04/ML-972-1.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T18:07:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-mlcommons-debuts-with-public-86000-hour-speech-data-set-for-ai-researchers.md",
+      "title": "MLCommons debuts with public 86,000-hour speech data set for AI researchers",
+      "excerpt": "If you want to make a machine learning system, you need data for it, but that data isn’t always easy to come by. MLCommons aims to unite disparate companies and organizations in the creation of large public databases for AI training,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/MLCommons.png?w=1024",
+          "width": 1024,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/mlcommons-debuts-first-public-database-for-ai-researchers-with-86000-hours-of-speech/amp/",
+      "publishedDateTime": "2020-12-04T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility.md",
+      "title": "Intel Develops $50 3D Printed OpenBot to Advance Robotics Accessibility",
+      "excerpt": "A curated collection of industry and product deep-dives. Edouard Moens de Hase talks to us today about Aerosint. For the last few years, they have been working on improving powder bed fusion. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
+      "originalUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3dprint.com/wp-content/uploads/2020/08/openbot4_intel_3dprint_smartphone.jpg",
+          "width": 1015,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
+      "cdnAmpWebUrl": "https://3dprint-com.cdn.ampproject.org/c/s/3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
+      "publishedDateTime": "2020-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "3dprint.com",
+        "domain": "3dprint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
+      "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
+      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "originalUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
+      "publishedDateTime": "2020-12-04T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-ai-weekly-in-firing-timnit-gebru-google-puts-commercial-interests-ahead-of-ethics.md",
       "title": "AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",
       "excerpt": "With the firing of Timnit Gebru this week, Google implicitly signaled that it's willing to put commercial interests ahead of all else.",
@@ -884,335 +1221,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-google-scientists-abrupt-exit-exposes-rift-in-prominent-ai-unit.md",
-      "title": "Google Scientist’s Abrupt Exit Exposes Rift in Prominent AI Unit",
-      "excerpt": "Google’s decision to part ways with a prominent researcher laid bare divisions within the company’s artificial intelligence unit and subjected its leader, the lauded software engineer Jeff Dean, to widespread scorn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNxHoRM2yY0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-04/google-scientist-s-abrupt-exit-exposes-rift-in-prominent-ai-unit",
-      "publishedDateTime": "2020-12-04T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-black-ethical-ai-researcher-says-google-fired-her-over-a-critical-email.md",
-      "title": "Black Ethical AI Researcher Says Google Fired Her Over A Critical Email",
-      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that was allegedly deemed “inconsistent with the expectations of a Google manager.",
-      "sourceUrl": null,
-      "webUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
-      "originalUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wdrwpvfwhrwrv4cgb8nz.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
-      "cdnAmpWebUrl": "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/black-ethical-ai-researcher-says-google-fired-her-over-1845805528/amp",
-      "publishedDateTime": "2020-12-04T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jezebel",
-        "domain": "jezebel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-trump-signs-order-on-principles-for-us-government-ai-use.md",
-      "title": "Trump signs order on principles for U.S. government AI use",
-      "excerpt": "U.S. President Donald Trump signed an executive order on Thursday setting guidance for federal agency use of artificial intelligence in government decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
-      "originalUrl": "https://www.reuters.com/article/us-trump-ai/trump-signs-order-on-principles-for-us-government-ai-use-idUSKBN28D357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28D357",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357",
-      "publishedDateTime": "2020-12-03T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models.md",
-      "title": "AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models",
-      "excerpt": "AI research at the center of Google AI co-lead Timit Gebru's exit focuses on the bias, risks, and inequality tied to deploying large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/ai-ethics-pioneers-exit-from-google-involved-research-into-risks-and-inequality-in-large-language-models/amp/",
-      "publishedDateTime": "2020-12-03T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-top-ai-ethics-researcher-says-google-fired-her-company-denies-it.md",
-      "title": "Top AI ethics researcher says Google fired her; company denies it",
-      "excerpt": "A top Google scientist on ethical artificial intelligence says she was fired after criticizing the company's diversity efforts, a claim the Alphabet Inc unit disputed on Thursday, in the latest brush-up between the internet giant and worker activists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
-      "originalUrl": "https://www.reuters.com/article/uk-alphabet-google-research-idUKKBN28D3JP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 384,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543399867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21Z5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28D3JP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28D3JP",
-      "publishedDateTime": "2020-12-03T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-aws-panorama-bringing-computer-vision-to-business-masses.md",
-      "title": "AWS Panorama — bringing computer vision to business masses?",
-      "excerpt": "Amazon has launched new hardware and an SDK that can turn any networked camera into a computer vision device Users can deploy machine learning models to",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "originalUrl": "https://techwireasia.com/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2020/12/shutterstock_180105386-450x300.png",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/12/aws-panorama-bringing-computer-vision-to-business-masses/",
-      "publishedDateTime": "2020-12-03T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment.md",
-      "title": "Standard Chartered Bank launches learning hub in SG following SG$5m investment",
-      "excerpt": "Meanwhile in August, DBS Bank collaborated with Amazon Web Services to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment",
-      "originalUrl": "https://www.marketing-interactive.com/standard-chartered-bank-launches-learning-hub-in-sg-following-sg5m-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Interactive",
-        "domain": "marketing-interactive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

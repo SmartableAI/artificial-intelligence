@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK self-driving testing center to simulate real-world scenarios"
-    excerpt: "The facility will allow self-driving vehicles to be tested with control in scenarios that can be tailored for each automotive need such as traffic merging, emergency braking, smart parking, highway cruising and lane assistance technology conducted under international regulatory protocols."
-    publishedDateTime: 2020-12-10T13:40:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16078/uk-self-driving-testing-center-to-simulate-real-world-scenarios"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
   - title: "Uber to sell self-driving car division"
     excerpt: "Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by litigation and a fatal crash. Uber will take a 26% stake in Aurora and invest $400 million in the Silicon Valley-based startup that makes software for autonomous vehicles and lists Amazon among its investors."
     publishedDateTime: 2020-12-10T17:16:00Z

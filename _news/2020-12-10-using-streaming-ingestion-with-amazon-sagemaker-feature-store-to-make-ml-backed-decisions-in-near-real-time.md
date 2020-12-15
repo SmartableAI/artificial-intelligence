@@ -72,20 +72,6 @@ related:
         width: 800
         height: 326
         isCached: true
-  - title: "AWS SageMaker gets new capabilities"
-    excerpt: "Will work to make it easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
-    publishedDateTime: 2020-12-10T14:20:00Z
-    webUrl: "https://www.arnnet.com.au/article/685062/aws-sagemaker-gets-nine-new-capabilities/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Amazon SageMaker grows ever more powerful as machine learning models head for the edge"
     excerpt: "Then, Amazon Web Services Inc. released the Amazon SageMaker machine learning service. “Customers saw it was much easier to do machine learning once they were using tools like SageMaker,” said Bratin Saha (pictured),"
     publishedDateTime: 2020-12-11T01:30:00Z

@@ -29,132 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2020-12-14T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
+  - title: "Artificial Intelligence Chipsets Market Size to Witness Huge Growth by 2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2020-12-15T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2020-12-14T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
+  - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
+    excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
+    publishedDateTime: 2020-12-14T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Service Robotics Market Analysis Covering Current and Future Growth, Trend, Feasibility and Regional Outlook to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2020-12-11T20:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-analysis-covering-current-and-future-growth-trend-feasibility-and-regional-outlook-to-2026-2020-12-11"
+  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled “2020-2026 Global Artificial Intelligence Chipsets Report” provides data, information, brief analysis, company profiles,"
+    publishedDateTime: 2020-12-15T04:20:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/136761/artificial-intelligence-chipsets-market-share/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
-    excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2020-12-10T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
-    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
-    publishedDateTime: 2020-12-14T15:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2027"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Manufacturing Market Size study, by Offering, Technology, Application, by End-user Industry and Regional Forecasts 2020-2027',"
-    publishedDateTime: 2020-12-11T16:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2027-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Hardware Market Size 2020 Top Manufacturers, Industry Share, Regional Analysis, Types and Applications and Forecasts to 2027"
-    excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) Hardware Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Artificial Intelligence (AI) Hardware Market Report also covers top key players,"
-    publishedDateTime: 2020-12-11T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hardware-market-size-2020-top-manufacturers-industry-share-regional-analysis-types-and-applications-and-forecasts-to-2027-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
-    excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-10T15:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=390843"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
-    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
-    publishedDateTime: 2020-12-10T18:14:00Z
-    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 11
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
-        width: 500
-        height: 333
-        isCached: true
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 9
 
 secured: "obQ5tBOR2O/UKMebIAh9cEpwMQj8mTeNcaHIGxqxjTZ+KdOXAeJ4Xdq0Lg4dAZZG9MeHx7B/pEc5SsRpGgTo7wGIOYxEO1r6IXYkBu/ssnB5ym+ZxdnyDm48VyeYy34VekxBKGTDRPQOIXoPT1bt4mAT0IHV9enAmcp280tkS98fufzO3gHs6xEOM6AQydzOlb3XegubeQscug1Zfa/p4EVY+Tiwst4J+UZEbJy+Meysi+dUCilbPvvK+pKiZOvHaaKYU5/1oOhGwhj4xHtRz1v8svdZIh5dUUMm6q7Lb57uNFBJDgYurG9mIjzFJhk3hJz9/5CNJ0/b2daoVPhiREVnvtojLYdxI4bbw0Rz/yA=;efBHi0kCwWlBWpmpj5KB8w=="
 ---

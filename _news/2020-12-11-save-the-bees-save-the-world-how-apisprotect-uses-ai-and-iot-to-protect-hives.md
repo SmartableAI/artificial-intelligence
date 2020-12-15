@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/10/save-the-bees-save-the-worl
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/10/save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Secure enclave protection for AI and ML"
+    excerpt: "A secure enclave is a private region of memory whose contents are protected by hardware-grade encryption and hardware isolation techniques."
+    publishedDateTime: 2020-12-15T06:25:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/15/secure-enclave-protection-ai-ml/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 56
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093146/robot.jpg"
+        width: 1600
+        height: 1310
+        isCached: true
   - title: "Project seeks to develop artificial intelligence to protect whales from ships"
     excerpt: "Researchers at Simon Fraser University (SFU) want to use ‘AI’ to help protect orcas from being hit by ships off the Pacific coast. Steven Bergner is a computing science research associate at the university’s Big Data Hub,"
     publishedDateTime: 2020-12-14T16:10:00Z

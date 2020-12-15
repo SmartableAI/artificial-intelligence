@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Nov. 30, 2020 /PRNewswire/ -- The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 ..."
-publishedDateTime: 2020-11-30T19:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-1029850319"
-webUrl: "https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-1029850319"
+excerpt: "Europe Artificial Intelligence in Healthcare Diagnosis Market Analysis, by Application 7.1 Overview 7.2 Artificial Intelligence in Healthcare Diagnosis Market Revenue Share, by Application (2019 ..."
+publishedDateTime: 2020-11-30T22:31:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027---ai-in-epidemic/article_30c5010e-db32-5dea-8508-66092eb27796.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027---ai-in-epidemic/article_30c5010e-db32-5dea-8508-66092eb27796.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "iq2/6phy6Mh/Ra8wf7QU+9bBcEPYsTK60xe/1S4FDAQxlL6EVwyTdGjxEByR1ZhCKWiTVP+iIHI4QLHlodRlw9VYAlXI9HPcbEBWpjdtdoURu1s9GlS0jS77fX8rgOfZ+QmMqUaif8vE0sD0WPBIvBhqFtD8NBLwT2FOnVFnhvsS65/ao3FXFLKBVz/cPPcul/xkTCHk7L/YgwRq/dbM59WcJQVY2cZjvMbdo6HWnHUNdD/WPxdF+GFI9lMGyCmcFAlMSDxAEtCbiDh+KnwhHnwGkOzb2N4S1By7uNI2RZTv+fWARlTQT0lYKATcTQODRN819Fk0PrAhPURgnx/EsJpJSbxDPWtR7Pg3zG9ibRw=;2kcSTbGvDmK418gwvOqFqA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "/Y//CdhfCh+V+P7Phj/Udwr5AGn656VzLM1Cw45PNLRzXAmTpBBv/2bYRNl9RfqNcntygpAc4+/X4zdfNgF436/bAqE5SEsxpLURiNSXcZyhGtjigYNkB+8n2l1g0nSmehmRsIVld+cZVrxzeIWsBnnfnyDMTekzq3BKXIduNKEfzOcJ1U5q3JcFhXfZwigYdCRyzvHf62G4/g2r7+OFjjFXuTwVC7UPescfxD9RSJ5km6nuRucKX5ZpCFVqWoExS0sm6Dgn3wAbS9kxcQKv//XdGB65xGh83QaqoIm8PcHQqV8YjLU58BwSo/e4KSPhqCueKb4jw0e/bnaj2HrZt/b0lht8ndbQutt5+m7/hds=;7epPjACIGNLyLe55RnHeFA=="
 ---
 

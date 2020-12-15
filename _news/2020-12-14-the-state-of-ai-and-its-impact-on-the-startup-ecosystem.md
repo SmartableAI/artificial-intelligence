@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/361600"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361600"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Shaping the Future of IT: AI and AIOps"
-    excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19. So it was"
-    publishedDateTime: 2020-12-10T14:23:00Z
-    webUrl: "https://www.linkedin.com/pulse/shaping-future-ai-aiops-sally-eaves"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGpf2pulOH3pA/article-cover_image-shrink_600_2000/0/1607604022646?e=1613001600&v=beta&t=jbFoibAXbb8vPr5ka1H7ROMTvkfCejcZnB9trZhkpdo"
-        width: 1358
-        height: 600
-        isCached: true
 
 secured: "NZGO4NhrPLsR3elqrqoeDFGEf8FY91sHzhYbk01EKVD4fsgVn108WJvGF9LTZJqz+6Hg9q6Js7RyE1RMe0KISShNJin9j7GyhtsEHxP+wj6R6bYWJlYNQUHd/3dr0+m9PlZZuws7/PYcYpxreih5aJQRKuHArafio6i0TmxcC1nOQZGIwgPefXbq+BuNZNORzqetmhoHD2PggfIbor0tGoAGdqUlLTbR9qNlSKntl/iiouF8NLrKlitbU1xbKnpraamJBiiDVUrPxAupDpXxqow9vMD8S10B/SlRLkTXLyxOowXV0gBtUsVtFKxUxdlipwlRTDT0/xN3t2pKLB4EFZxspyMC487COz6v+HT7Qu46Ik8tbONCH2oCm7zFbLHQNS3mtCR5dfj0pqUKsZZwtRyRa1cHlaF8MB4RhSlQMuNjaV6jCn7hgXAoqBOsuISr8erllOAmpYwP1d38gFNyrTz7o5s5JYcebL5TdMvXmRM06KM4A6IIELnUEPJPE3RY5b/zVGOscAUHVnD+jG4Aeg==;xLcLk9KOQtR06flUmlB5vQ=="
 ---

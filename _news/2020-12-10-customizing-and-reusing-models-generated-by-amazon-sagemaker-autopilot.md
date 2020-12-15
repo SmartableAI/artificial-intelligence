@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-and-reus
 webUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-and-reusing-models-generated-by-amazon-sagemaker-autopilot/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg"
         width: 800
         height: 326
-        isCached: true
-  - title: "AWS SageMaker gets new capabilities"
-    excerpt: "Will work to make it easier for developers to automate and scale all steps of the end-to-end machine learning workflow."
-    publishedDateTime: 2020-12-10T14:20:00Z
-    webUrl: "https://www.arnnet.com.au/article/685062/aws-sagemaker-gets-nine-new-capabilities/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "Amazon SageMaker grows ever more powerful as machine learning models head for the edge"
     excerpt: "Then, Amazon Web Services Inc. released the Amazon SageMaker machine learning service. “Customers saw it was much easier to do machine learning once they were using tools like SageMaker,” said Bratin Saha (pictured),"

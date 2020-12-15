@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
-excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
-publishedDateTime: 2020-12-09T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
-webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
+excerpt: "(MENAFN - PR Newswire) DUBLIN, Dec. 9, 2020 /PRNewswire/ -- The \"Europe Computer Vision Market by Product Type report has been added to ResearchAndMarkets.com's offering. The Europe Computer ..."
+publishedDateTime: 2020-12-10T03:40:00Z
+originalUrl: "https://menafn.com/1101259132/Outlook-on-the-Computer-Vision-European-Market-to-2026-Industry-Analysis-and-Forecast"
+webUrl: "https://menafn.com/1101259132/Outlook-on-the-Computer-Vision-European-Market-to-2026-Industry-Analysis-and-Forecast"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?65688"
+    width: 437
+    height: 250
     isCached: true
 
-secured: "uzWi/LPVO/Y3J2jxBFSxDlE5fkcsyLhFQgzW0SK2hY+IaTJF64jOqbmn3X989lsMGeAa8mSKuKBt2UfTtT+7DMiNw5Nn45VEIHO7GmIw1/pBw10yECsva8OYOlHXnMfW8adcuRjUj5NnRnC/Z1erhfT67RXyviMsv2lAz3uNGrjCMRoDsQsxvgaQ7WhPc2ad+uQTaSmYte0ldrCyMQyrAzZdz5/8HGPCFiHaVpd3ieXZy4ZG11j2Sxq3C8DDyE1D0iAWEe+4bY3VYBQDTWxoqNwhxgnJCOka3cyM81BtkrBGOjFaRRN5AtmmW/WBOUWAdQUcYSHe5GFitFjJx0lwQ+UQFIj8vjEzz3jAwDwKtqE=;Gu3D32sOihI9nN8xAMyp3g=="
+secured: "wkvjd26znlWjnNlIlIVphhct1yLfa+xjRdcv08H6FuvxOVcvHMlc7OzPnv0XK2BVMiU0QT19j2K6tXAEQAHP2D0qmUWKbTLv9AbuQdXt0J1pcjFpuPUpH1Gjc6NHsKG5kEwQctOmAG19hS33DotWqEU3yuXAWtcJbRgOaWeKObwKAM/EeU7Hj4hW67YV0da6Qtv2laRijmyl5GWst7wRYHVhNqy0u8vKx0SoB1kyxabiP2faGt+PN7+G19j554scUwpLIFlyaKiJWu5KW4lkNtNV+Nw8tD97XCVoZvMhpWNDHUCNAbrx7kGURYj/AcNBAzIxTeUI+WDbSIHLy7HuTgWWS/Ee702905NzqiotogQ=;csZMJoaLwKL/iE4oWrHlCQ=="
 ---
 

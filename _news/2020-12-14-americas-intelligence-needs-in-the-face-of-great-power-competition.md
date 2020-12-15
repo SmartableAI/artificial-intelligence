@@ -7,7 +7,7 @@ originalUrl: "https://www.heritage.org/homeland-security/commentary/americas-int
 webUrl: "https://www.heritage.org/homeland-security/commentary/americas-intelligence-needs-the-face-great-power-competition"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Improves America’s Food System"
-    excerpt: "Technology is everywhere in the 21 st century, and America’s food system is no exception. Scientists with the USDA Agricultural Research Service’s (ARS) Western Human Nutrition Research Center (WHNRC),"
-    publishedDateTime: 2020-12-10T14:49:00Z
-    webUrl: "https://www.usda.gov/media/blog/2020/12/10/artificial-intelligence-improves-americas-food-system"
+  - title: "Citytwig's insurance roadmap intelligence recognized as a Red Herring Top 100 North America Winner"
+    excerpt: "Citytwig, a rapidly growing InsurTech developing novel Artificial Intelligence (A.I.) solutions for insurance carriers"
+    publishedDateTime: 2020-12-14T20:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18780377/citytwigs-insurance-roadmap-intelligence-recognized-as-a-red-herring-top-100-north-america-winner"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18780377"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18780377"
     type: article
     provider:
-      name: US Dept of Agriculture
-      domain: usda.gov
-    quality: 37
-    images:
-      - url: "https://live.staticflickr.com/65535/50701829953_4e7cd2c93d_z.jpg"
-        width: 640
-        height: 446
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "0h0gAFywlPXiS2w43VR/VYYSkz+LCmi28CGLxoFV/MgyofqXD1K30b8vT7pdqdqAnBK+ThV2x1KVjAEYNWj6saTADCPAfDODcqOjHqwHzBqJQAhurnX/YerkCHV5oSYBVQizE7sXkXHomdhVBwkeJJW51O0napbs/6v3eYNuUTFMwMhCpOLfh3ruCdPW6Na+SAJ9nJF/N+Tzs9xj8jogXAjhqgA5fLclWex42kuLYdu/puYjnyrAXIk8RJLYX8SqS8JmIDJXgFidEGgYArAZzMSCxVpEmC/+3kHDHsH7WzAddS0m21w+oSSg1NV5d6q5sUUzwkDEl34D+IpDtXLA2GCQLIizNh+FVCnEJVwD56c=;H2RA53U0SEm/61xyHpV90A=="
 ---

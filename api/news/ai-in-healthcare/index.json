@@ -166,7 +166,7 @@
       "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -255,19 +255,19 @@
     {
       "path": "_news/2020-12-10-confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders.md",
       "title": "Confusion Between Artificial Intelligence (AI) and Robotic Process Automation (RPA) High Among Healthcare Leaders",
-      "excerpt": "Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, released results of a national survey",
+      "excerpt": "Healthcare Organizations Already Using Automation Still Have High Levels of Confusion Between Robotic Process Automation and Artificial Intelligence. SOUTH SAN FRANCISCO, Calif., Dec. 10, 2020 /PRNewswire/ -- Alpha Health,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/confusion-between-artificial-intelligence-ai-and-robotic-process-automation-rpa-high-among-healthcare-leaders-301190247.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-public-opinion-medical-technology-social-affairs-ede8269eb915f8af4c8496a24e1594f2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1361546/Robotic_Process_Automation_and_Artificial_Intelligence.jpg?p=facebook",
-          "width": 1440,
-          "height": 754,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -277,11 +277,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T05:00:00-08:00",
+      "publishedDateTime": "2020-12-10T05:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -291,8 +291,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -976,34 +976,34 @@
     {
       "path": "_news/2020-12-01-europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum.md",
       "title": "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Nov. 30, 2020 /PRNewswire/ -- The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 ...",
+      "excerpt": "Europe Artificial Intelligence in Healthcare Diagnosis Market Analysis, by Application 7.1 Overview 7.2 Artificial Intelligence in Healthcare Diagnosis Market Revenue Share, by Application (2019 ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-1029850319",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027-ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-1029850319",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027---ai-in-epidemic/article_30c5010e-db32-5dea-8508-66092eb27796.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020-2027---ai-in-epidemic/article_30c5010e-db32-5dea-8508-66092eb27796.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T11:36:00-08:00",
+      "publishedDateTime": "2020-11-30T14:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

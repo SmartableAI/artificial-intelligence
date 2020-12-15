@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AMP Robotics Extends AI Capabilities to Packaging Producers, Improving Infrastructure for Plastics Recovery"
-    excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as"
-    publishedDateTime: 2020-12-10T14:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18731450/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for-plastics-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18731450"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18731450"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
 
 secured: "5tiaJXSnk0YajlOem8TR6aD/ps4L2TmDBRti+JWW/tD4BV43923EMbAuWyOGFi/D/jb6swB2ZM10btwCa0boNqYuY/ur/3z9u/XdUZD6sO6tJM7lytxNVgwuylZPCU/Dfzj2SRmYVhxb7PFN9de37Jzi0O+9xvuz493TgbmCYXA9SbjiiOM1r7V5XBZDC97E/uDYnuH9tpy1fGS/9dxLcrxqZ5CpHZWhKCbj+7mPvIHdayKJj0qkzgnHq0Nwa3Wa2hESiYWutyVzE9/X8FYLbSFK/Kd1vspdMydm5MrqNHCHYwhgpkPpCbzjo4TIvU+UbONXSp08BlI4snoVi7AOyjb0QYkagEAIL+WfDM/48ic/nM/eUiuMaHPuzJswGsthn58Gs37jX2i5cw1q1zf8RvvArRKuF7fTiYmOQaHryCDLlpVxORijgFauZfvxrA0KO0QNGQfObsvbq1RxioCxfcKjG6EYnbCwfS1C4zB6CUp/Jms3jRM2xQUl9+ZFxziSxSZF1+5h+v47o6qNo/V5VA==;F4kgzOt/fbE4nWAcyhWK4A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-ethics-learn-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ethics-learn-the-basics-in-this-free-online-course/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "The ethics of artificial intelligence"
-    excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
-    publishedDateTime: 2020-12-10T13:28:00Z
-    webUrl: "https://www.swissinfo.ch/eng/machines-and-ethics--artificial-intelligence-switzerland/46213634"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 56
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "fp3Tv5poZHMimTqplnP9d8381e1RHskvPaCZ7PrUAHBO3ljR1Zpnr5EVRUrfme3LqT8ZHNqSFFuOJRhgyJZAAQkbOdrQtr00J4aZXPbyuL+h7dO/N6GeubVBEMgxOrGqboC+6E8gBfBvy8WSIhfyx6ktoNb/0OsV98WgvV6MhiUotNliBy8f/KeHWVkSfMznIhznw/KhojVAB9s0JVIU04bs1IVBDI8Ml/Ha4GlQS+lxcDeDgRNzyYuOh5+WgaWVYDHrSxh4cFMsxFCmQ/Y7SubePahIaL8692o/S1nyXvBE1To/veVWKsm2NkFTIiwYd+NQTuWI0xFVvSYrfBVXzsJX6ARygtAoABVjac2de8kkBRwqRPIHeenDpX4RzVsI30PoLKETP7J39fz3eX5CFeyZYod6mj2r+dXYBb2s2VfSpTeMOlifImezqgKLqwVxK0RuPNYc7s8r3+QNDePY88CbLjXtfmovEYf5inxCmNQ1Y3p1VXSBf8Y7R95eHI1MLOP/ISisKmHlyh5rUQi7ZQ==;Pl7LgD5v2qAhP4BvbIuskA=="
 ---

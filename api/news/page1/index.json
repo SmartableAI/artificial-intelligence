@@ -2,6 +2,317 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-what-it-leaders-expect-from-ai-ml-in-2021.md",
+      "title": "What IT Leaders Expect from AI, ML in 2021",
+      "excerpt": "In this look-ahead article, we focus on key trends involving AI, machine learning and deep learning IT software and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/innovation/what-it-leaders-expect-from-ai-ml-in-2021",
+      "originalUrl": "https://www.eweek.com/innovation/what-it-leaders-expect-from-ai-ml-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2018/09/AI.png?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-chinas-baidu-considers-making-its-own-electric-vehicles-reuters-citing-sources.md",
+      "title": "China's Baidu considers making its own electric vehicles: Reuters, citing sources",
+      "excerpt": "The initiative would be a step up from peers such as Tencent, Amazon and Alphabet, which also developed or invested in related technology and start-ups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106811279-1608013347797-gettyimages-1229059277-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1608012906",
+          "width": 4000,
+          "height": 2669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "publishedDateTime": "2020-12-14T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025.md",
+      "title": "At 22.6 % of CAGR Deep Learning Market Share will increase and aimed to cross 6215.1 Million USD in 2025",
+      "excerpt": "Selbyville, Delaware. The report Deep Learning Market Analysis and forecast 2025 maintains enhanced dynamics and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T21:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-can-ai-help-indian-railways-improve-passenger-experience-and-safety.md",
+      "title": "Can AI Help Indian Railways Improve Passenger Experience And Safety?",
+      "excerpt": "Notably, the more obvious and immediate problems that AI can solve for the railways have been conspicuously missing from the discussion. However, the government seems to be enthusiastic about the prospect AI offers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361673",
+      "originalUrl": "https://www.entrepreneur.com/article/361673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1608011313-train-1209291-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361673",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361673",
+      "publishedDateTime": "2020-12-14T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
+      "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
+      "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/",
+      "originalUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/DSC_4870.0.0-e1608001481901.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/",
+      "publishedDateTime": "2020-12-14T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-ai-ethics-learn-the-basics-in-this-free-online-course.md",
       "title": "AI ethics: Learn the basics in this free online course",
       "excerpt": "It's time to think about the potential risks of artificial intelligence, instead of after something happens. This free online course about AI ethics is a good starting point.",
@@ -10,7 +321,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-ethics-learn-the-basics-in-this-free-online-course/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -960,309 +1271,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan.md",
-      "title": "10 years on, missing boy re-united with family by face recognition tool DARPAN",
-      "excerpt": "The boy from Madhya Pradesh was found at a children's home in Howrah, West Bengal, a press release said here. He went missing on October 7, 2010 from",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79645643,width-242,height-136/79645643.jpg",
-          "width": 3872,
-          "height": 2583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms",
-      "publishedDateTime": "2020-12-14T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-sensex-nifty-end-higher-burger-king-more-than-doubles-in-market-debut.md",
-      "title": "Sensex, Nifty end higher; Burger King more than doubles in market debut",
-      "excerpt": "Indian shares ended higher on Monday after scaling record peaks earlier in the session, with Burger King India soaring more than 100% in its market debut and gains in drugmaker Cipla helping boost the Nifty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/india-stocks/sensex-nifty-end-higher-burger-king-more-than-doubles-in-market-debut-idUSKBN28O0AI",
-      "originalUrl": "https://www.reuters.com/article/india-stocks/sensex-nifty-end-higher-burger-king-more-than-doubles-in-market-debut-idUSKBN28O0AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544486383&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD064",
-          "width": 814,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O0AI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O0AI",
-      "publishedDateTime": "2020-12-14T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-speech-recognition-software-market-technology-advancement-and-future-scope-till-2025.md",
-      "title": "Speech Recognition Software Market Technology Advancement and Future Scope Till 2025",
-      "excerpt": "The Speech Recognition Software market was valued at 48500 Milion US$ in 2019 and is projected to reach 69700 Million US$ by 2025, at a CAGR of 3.9% during the forecast period. A speech recognition software identifies words spoken by an individual or speaker into a microphone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-autonomous-vehicles-take-another-big-leap.md",
-      "title": "Autonomous Vehicles Take Another Big Leap",
-      "excerpt": "On Monday, the Amazon-owned Zoox is unveiling an electric autonomous vehicle as part of what will likely be an aggressive attempt by the company to make robo-taxis a thing. That effort has had a rocky start for Zoox — as well as for Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/14/opinion/Zoox-Amazon-self-driving.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/14/opinion/Zoox-Amazon-self-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/16/opinion/16Swisher/14Swisher-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/14/opinion/Zoox-Amazon-self-driving.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/14/opinion/Zoox-Amazon-self-driving.amp.html",
-      "publishedDateTime": "2020-12-14T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
-      "title": "The State Of AI And Its Impact On The Startup Ecosystem",
-      "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361600",
-      "originalUrl": "https://www.entrepreneur.com/article/361600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607937388-andy-kelly-0E-vhMVqL9g-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361600",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361600",
-      "publishedDateTime": "2020-12-14T01:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026.md",
-      "title": "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-13T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

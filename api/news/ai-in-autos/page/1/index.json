@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-chinas-baidu-considers-making-its-own-electric-vehicles-reuters-citing-sources.md",
+      "title": "China's Baidu considers making its own electric vehicles: Reuters, citing sources",
+      "excerpt": "The initiative would be a step up from peers such as Tencent, Amazon and Alphabet, which also developed or invested in related technology and start-ups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106811279-1608013347797-gettyimages-1229059277-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1608012906",
+          "width": 4000,
+          "height": 2669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
+      "publishedDateTime": "2020-12-14T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-amazons-zoox-reveals-self-driving-taxi.md",
       "title": "Amazon's Zoox reveals self-driving taxi",
       "excerpt": "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats.",
@@ -271,7 +323,7 @@
       "originalUrl": "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1412,58 +1464,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
-      "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
-      "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/383ee54a-aeb2-492e-928e-c3d6b2d8e352-e1595013776178.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver/amp/",
-      "publishedDateTime": "2020-12-03T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

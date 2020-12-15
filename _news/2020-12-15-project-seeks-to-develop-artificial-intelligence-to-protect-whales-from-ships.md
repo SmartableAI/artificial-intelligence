@@ -40,6 +40,20 @@ related:
         width: 796
         height: 462
         isCached: true
+  - title: "Secure enclave protection for AI and ML"
+    excerpt: "A secure enclave is a private region of memory whose contents are protected by hardware-grade encryption and hardware isolation techniques."
+    publishedDateTime: 2020-12-15T06:25:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/15/secure-enclave-protection-ai-ml/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 56
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093146/robot.jpg"
+        width: 1600
+        height: 1310
+        isCached: true
 
 secured: "M0M7P4Hs44ArNIAdku5pzlfGkmAU5ikQ7d7WYClbvAwns2YpGcQh/RLbbyDU39uDaldJLJaRd7VK2Aw1CVpIF16fjp6ZLbNxB2HIw2GF64BFUWfHaWYYcDBiN1txjmjntj5mfpS3wkyoCtbrcwKiS/7uYQ6/Ixl8U8z4uWTDXTR0R3DmJJvunVyv0h6qAMpg96Gk+mWhKq6NDN09KN7rK2hzAaZ2nSc001EhM5mzJ1xkqkcWE8Jj8/VLSHj1J4cYPaK/BJ3UnPS2cqG9+5gBuA8gfNj+cMD8BJcZc5n6Xh2+ahI/V9MJb5fSjc2KRgSTBtaJl7+OLmdZKIpH4iWKriDqmnHZOVw5TZcjYDcasxc=;T1ypHpiM0L5IycPvcArSHA=="
 ---

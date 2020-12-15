@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2020 Technology, Trend and Growth Forecast To 2026"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2020-12-14T10:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-technology-trend-and-growth-forecast-to-2026-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
     excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
     publishedDateTime: 2020-12-14T15:17:00Z

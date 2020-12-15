@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-10-ibm-launches-new-innovative-capabilities-for-watson.md",
+      "title": "IBM launches new innovative capabilities for Watson",
+      "excerpt": "IBM today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
+      "originalUrl": "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/12/2020_12$LargePhoto14_Dec_2020_14122020224307.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-why-ibms-ai-fact-sheets-should-be-the-industry-standard.md",
       "title": "Why IBM’s AI Fact Sheets should be the industry standard",
       "excerpt": "Every once in awhile an idea comes along that’s so good it makes you wonder why it took so long for someone to think of it. IBM’s AI Fact Sheets is one of those ideas. AI Fact Sheets are a lot like packaged food nutrition labels.",
@@ -1382,49 +1425,6 @@
       "provider": {
         "name": "CRN",
         "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
-      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
-      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

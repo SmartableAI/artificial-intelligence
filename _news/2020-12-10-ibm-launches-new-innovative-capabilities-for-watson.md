@@ -1,31 +1,26 @@
 ---
 category: news
-title: "IBM Launches New Innovative Capabilities for Watson"
-excerpt: "IBM announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses. Developed by IBM Research, the new capab"
-publishedDateTime: 2020-12-10T06:57:00Z
-originalUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html"
-webUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html"
-ampWebUrl: "https://technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
-cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/artificial-intelligence/ibm-launches-new-innovative-capabilities-for-watson.html/amp"
+title: "IBM launches new innovative capabilities for Watson"
+excerpt: "IBM today announced innovative new capabilities planned for IBM Watson designed to help scale the use of AI by businesses."
+publishedDateTime: 2020-12-10T09:57:00Z
+originalUrl: "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html"
+webUrl: "https://uniindia.com/~/ibm-launches-new-innovative-capabilities-for-watson/States/news/2259404.html"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: United News of India
+  domain: uniindia.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
+  - url: "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/12/2020_12$LargePhoto14_Dec_2020_14122020224307.jpg"
     width: 300
-    height: 240
+    height: 225
     isCached: true
 
-secured: "3I0GGHSoDNk3QEMRQyE6Hu2JlGH/Ry967ehIDy4IpC8vj+g/Vef0wX0p8+F08wpcU7ERQOV6ML8voDBBjVIIlXuFi6jlullLaVJhrSjJU6gz7aNec+K8OSyNh/qA5DJ7aGYd92pe5MjXwUXjNYQhCEnLomd0wSDHinwBUv50thF7fjNnPQmCWNzgDBCzgvEs0VFZj5PuCeWcVMH6XGwnZhbEd7Lfpfmz2RSNjHCCv4eOj4KosO11x3QC4SPhVWnUJKJM8/yn8FHD9NBVM+ymWQ+s4MeQo4qAJtktmUWXNs6bK9ayUIwjO1XpVLZE60HAQpKfYuFJ0011R6YXWpcpSZVenAZNbvER5Oi0UK6U6eo=;nboVktke1TnlwNGnWLakUQ=="
+secured: "2zcel3Ul9MVZEOkdC6TkL0ht1sriCVbARFpi7XaHjkzHUygv6/U5+64eqYxdGweCSlJhy8lyYvToPLURUd2LpgwqPcUUDNxPILRgcJ3UsX1PHEzk0fQv5oNkppS5fm3p0W0AmljZBMXZWnL/XJyc1XMlfa2jp8vGfktKCBq3j5s90xXhpg2Eq+NwaMs47XhIBBv1HPg++nWAtd1wQFzjbrCIZIyHaxBcxLLHCnn7QQtPfEk9BdF5FpCLHfPNdkoYO5ipPOWy+Di6St8XffGc9pX/dX2bYy+nhDwrLmZHXPcRtnI3i28r1ZPUDZGUZGMvTlDj7KpWst+4zK0l5Bohb71q+siFg1jMS/4v22uvJ6g=;beNR2fbTF7y3D1B3TZkGwg=="
 ---
 

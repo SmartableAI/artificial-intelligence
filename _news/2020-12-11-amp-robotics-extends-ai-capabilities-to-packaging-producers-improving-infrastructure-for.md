@@ -7,8 +7,8 @@ originalUrl: "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabi
 webUrl: "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Omaha.com
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMP Robotics Extends AI Capabilities to Packaging Producers, Improving Infrastructure for Plastics Recovery"
-    excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as"
-    publishedDateTime: 2020-12-10T14:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/g18731450/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for-plastics-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18731450"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18731450"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
   - title: "Artificial intelligence at the edge improves manufacturing productivity"
     excerpt: "Ever since IBM rolled out the world’s first mainframe computer in the 1950s, engineers and manufacturers in information technology (IT) have been pushing the"
     publishedDateTime: 2020-12-10T19:05:00Z

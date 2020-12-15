@@ -2,6 +2,316 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-11-teachable-ai-will-help-alexa-users-set-up-preferences.md",
+      "title": "Teachable AI will help Alexa users set up preferences",
+      "excerpt": "Amazon says that in the coming months, Alexa customers will be able to 'teach' the virtual assistant their preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/",
+      "originalUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/teachable-ai-will-help-alexa-users-set-up-preferences/amp/",
+      "publishedDateTime": "2020-12-11T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026.md",
+      "title": "Entertainment Robots Market New Opportunities for Sustained Growth and Expansion (With Covid-19 Impact) 2020-2026",
+      "excerpt": "Global Entertainment Robots Market Growth 2020-2026 This study specially analyses the impact of Covid-19 outbreak",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-td-bank-is-using-ai-to-boost-engagement-with-its-customers.md",
+      "title": "TD Bank is using AI to boost engagement with its customers",
+      "excerpt": "TD Bank upgraded its mobile banking app in Canada with AI-powered features that tailor users' experiences based on past behavior and transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
+      "originalUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fca3f1c037cbd0018613ca7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-facial-recognitions-fate-could-be-decided-in-2021.md",
+      "title": "Facial recognition's fate could be decided in 2021",
+      "excerpt": "A number of lawsuits and legislative measures mean the debate over the use of facial recognition is poised to ramp up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
+      "originalUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/i8mx0C0pY9FlnIbYSf-cGiOsaeE=/1200x630/2020/12/10/62311dd0-dcb3-4807-a601-9d4b92a337da/gettyimages-1195225361.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/",
+      "publishedDateTime": "2020-12-11T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-how-ai-can-help-surmount-bi-shortcomings.md",
+      "title": "How AI Can Help Surmount BI Shortcomings",
+      "excerpt": "If business leaders can reconfigure their thinking about BI and AI tools so that BI, AI and human employees can do what they are best at, enterprises can become far more efficient and innovate at much faster speeds than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4ed34a0fa20006cf423a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/",
+      "publishedDateTime": "2020-12-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising.md",
+      "title": "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising",
+      "excerpt": "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd299ba7aaefd66c9fe94fb%2F0x0.jpg",
+          "width": 1199,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/",
+      "publishedDateTime": "2020-12-11T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-natural-language-processing-nlp-market-analysis-trends-growth-size-share-and-forecast-2019-to-2025.md",
       "title": "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025",
       "excerpt": "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based",
@@ -10,7 +320,7 @@
       "originalUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -459,7 +769,7 @@
       "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -546,49 +856,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for.md",
-      "title": "AMP Robotics Extends AI Capabilities to Packaging Producers, Improving Infrastructure for ...",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover commodities reclaimed as raw materials for the global",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html",
-      "originalUrl": "https://omaha.com/business/consumer/amp-robotics-extends-ai-capabilities-to-packaging-producers-improving-infrastructure-for/article_7a4bda7f-f0d2-5a3c-965c-c948cf49803d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives.md",
       "title": "Save the bees, save the world: How ApisProtect uses AI and IoT to protect hives",
       "excerpt": "Not be an alarmist, but if bees go extinct it’s likely that coffee would become a rare and expensive luxury commodity. And I don’t want to live in that world. Luckily, ApisProtect today announced its entry into the US market where it will provide its unique AI-powered hive monitoring system to beekeepers and farmers.",
@@ -597,7 +864,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/12/10/save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -951,7 +1218,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-and-reusing-models-generated-by-amazon-sagemaker-autopilot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -992,263 +1259,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy.md",
-      "title": "Salesforce claims its AI can spot signs of breast cancer with 92% accuracy",
-      "excerpt": "Salesforce says it developed an AI system -- ReceptorNet -- that can spot signs of breast cancer with 92% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/salesforce-claims-its-ai-can-spot-signs-of-breast-cancer-with-92-accuracy/amp/",
-      "publishedDateTime": "2020-12-10T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-uk-invests-250-million-to-lead-the-world-in-healthcare-ai.md",
-      "title": "U.K. Invests £250 Million To Lead The World In Healthcare AI",
-      "excerpt": "NHSX, the organisation driving the digital transformation of health and social care, announced that 42 tech companies will receive a share of over £50 million in phase one of its £140m AI in Health and Care Award.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a5b72c8ec9d96b1c67cf5%2F0x0.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamessomauroo/2020/12/10/uk-invests-250-million-to-lead-the-world-in-healthcare-ai/amp/",
-      "publishedDateTime": "2020-12-10T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely.md",
-      "title": "Turing nabs $32M more for an AI-based platform to source and manage engineers remotely",
-      "excerpt": "As remote work continues to solidify its place as a critical aspect of how businesses exist these days, a startup that has built a platform to help companies source and bring on one specific category of remote employees,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/",
-      "originalUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1084518636.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/turing-nabs-32m-more-for-an-ai-based-platform-to-source-and-manage-engineers-remotely/amp/",
-      "publishedDateTime": "2020-12-10T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-cleo-the-ai-powered-financial-assistant-raises-44m-series-b-led-by-eqt-ventures.md",
-      "title": "Cleo, the AI-powered ‘financial assistant’, raises $44M Series B led by EQT Ventures",
-      "excerpt": "Cleo, the London founded “financial assistant” that takes the form of an app and chatbot and now counts the U.S. as its largest market, has raised $44 million in Series B funding. Leading the round, which I understand actually closed earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Marketing_Assets_01.png?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/10/cleo-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/10/cleo-series-b/amp/",
-      "publishedDateTime": "2020-12-10T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts.md",
-      "title": "Sensorium and Mubert develop AI-driven DJs for virtual reality concerts",
-      "excerpt": "Sensorium has teamed up with Mubert to develop AI-driven DJs that can make AI-created music at virtual concerts in virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/sensorium.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/sensorium-and-mubert-develop-ai-driven-djs-for-virtual-reality-concerts/amp/",
-      "publishedDateTime": "2020-12-10T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

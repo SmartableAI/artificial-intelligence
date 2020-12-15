@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2020 Technology, Trend and Growth Forecast To 2026"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2020-12-14T10:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-technology-trend-and-growth-forecast-to-2026-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
     excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
     publishedDateTime: 2020-12-10T15:38:00Z
