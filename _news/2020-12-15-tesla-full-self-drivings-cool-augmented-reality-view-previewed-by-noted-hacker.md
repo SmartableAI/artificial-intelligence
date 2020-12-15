@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving Code Contains Secret “Augmented Reality View”"
+    excerpt: "While digging through the code of their Tesla’s Full Self-Driving feature, a noted Tesla hacker-owner who goes by the handle “green” found an augmented reality view of everything the vehicle ..."
+    publishedDateTime: 2020-12-15T19:43:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-code-secret-augmented-reality-view"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-code-secret-augmented-reality-view/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-code-secret-augmented-reality-view/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 74
+    images:
+      - url: "https://wp-assets.futurism.com/2020/12/tesla-full-self-driving-code-secret-augmented-reality-view-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "j+GAT1n6ZkJtfv+OC5ZsWMtQSNQwmsjEVx2+H+epnkSPm2BVM84lyXAU54AveoatSV4xrsiIllgdwfmKPr9mjcRFVUTK/qlUBwZbn+3SBtfaZHsZ0r3V0xAdFgI6vVEdbl6cjtojauZgNt8fTR0ubPoGtOHxaV1ZCoslvumLLXXSr5NIvpDLO6Ed58ybu706XlK9FlruGW5Wn0kZs2QgURPP9iZ1018a3glDQosqFQaTYSXaDyA4h353J05QgVplfgbJCYeP2b2h6/USHpq/SioKPb/wwsrPXpDg9tjiKrACu6rYWcTuss4/sV/rl5O8J8nrVswlOwhgVpsz96uG3dIjyZ3jYNojDBHHz7Tli5fUiyfSdj7ISg3pSRn6v1SmW37K7o5BbBzY81CCOyWVW6ffMU2RusAL9QF29mJF4Efl/Z1A3Jjtt5rIMTmywl3r65JCUkuqsx8sZSGGuxIPBK7+TlqDaIbqyVWObrHS5ITnnhnbr+vETjGreedrfEfxebwdvl1ABS08llLk2oGyYA==;aFTT+QmueTTPc6kwaGulkQ=="
 ---

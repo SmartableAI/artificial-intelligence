@@ -2,11 +2,11 @@
 category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars."
-publishedDateTime: 2020-12-15T18:39:00Z
-originalUrl: "https://uk.reuters.com/article/uk-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUKKBN28P2JO"
-webUrl: "https://uk.reuters.com/article/uk-intel-mobileye/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-idUKKBN28P2JO"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28P2JO"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P2JO"
+publishedDateTime: 2020-12-15T18:45:00Z
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28P2I7"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN28P2I7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
 type: article
 quality: 74
 heat: 84
@@ -25,7 +25,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544662680&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1KV"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544660587&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1K8"
     width: 817
     height: 545
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 272
         isCached: true
 
-secured: "e4kFShdPG2pvw8dhNFrz5W3uRcDB1N1ESYNINYT7T1XYtYH7qSLEG0isIOouGug5EF2aq89us3FdreMRTWGPH2rkoQGYczCzBTmu7yNAtcvVAwCD5M+/tS+evsd1FIYWr8BXz0YRrp8OHrsE6FdDUUyxxWa7770GJyfhphpSj6bpgZ9YXyKLRACSkpLHzw+ESkpDWrghWDgiztjIWut0EjyKsUWcpONkU6bpf2Zcb7DnBWDKFgaXMVt8xXva9ArySKIdc6PKa7IY0/KgL04ezyzFJ5lqpyU5H1El29Mmnq2NwFU3QR0yZpwq7tLDiGAP1vixGNkJcrWj4AWUps+kC1WlJgcqPcjJkA6vNXBjC5M=;iDSmQ/bVTRrBxAwpD9y1ZQ=="
+secured: "NtV0fLTgKpCP0jUvMsf0iks4Gfr/0TMZXGz3LN9EOHi5dHyzLfKkJoed5s9eTNP1JQC0oUTLroK7q++GOhzCUG/VWqw1XSCfR9NhXsH/FrtFFciqQYmfWxzYni2xvGnDQFIA2nQ4mOcH58ZcnOZpF2IG0x4IDhn7M60mf6c6sdcTEYJMU+EyR6lpzPfqhpjNOh0eLKDtGmwy8thLZrtsRO8hcS8cvsT49rPFsRngeqUBveOYxtcWcsaKsp8c5aeSZHGwFsunWU+kE1NJNZTow/3u+445BI8/XgLgTo6254b2qEi2ep0Sbz5OnCcUUSRE8aKUtEycp8uIYE81Z41OF0AR6W6H/BZLMb9FUqXHp4w=;sxg4cxeyQprV+1TWXfqgSg=="
 ---
 

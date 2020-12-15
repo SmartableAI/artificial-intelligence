@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P0F2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,17 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: A look at the NYPD's new robot dog"
-    excerpt: "Eyewitness News got an exclusive look at a new tool the NYPD has at its disposal for responding to emergency situations. It's a robot dog known as \"Digidog.\""
-    publishedDateTime: 2020-12-11T16:04:00Z
-    webUrl: "https://abc7ny.com/nypd-robot-dog-digidog-k9-artificial-intelligence/8669769/"
-    ampWebUrl: "https://abc7ny.com/amp/nypd-robot-dog-digidog-k9-artificial-intelligence/8669769"
-    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/nypd-robot-dog-digidog-k9-artificial-intelligence/8669769"
+  - title: "Baidu Rockets Higher on Electric Vehicle Plans"
+    excerpt: "Shares of Baidu (NASDAQ:BIDU) surged higher today on rumors that the company is considering entering the electric vehicle (EV) market, according to a report by Reuters. Baidu, whi"
+    publishedDateTime: 2020-12-15T19:10:00Z
+    webUrl: "https://www.fool.com/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/15/baidu-rockets-higher-on-electric-vehicles-plans/"
     type: article
     provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 39
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604991%2Fbaidu-apollo-go-robotaxi-in-cangzhou-china.jpg&w=1200&op=resize"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "TapP/ZmEMPjczrcoW3oZT6sZwHA+UMS+qjRYFl/xYuHfZKbNKW1iZ24h/KT6i/9RxtqLBdzBQv6NylYEw8zJ6XJ7bJZKPFXgbVZNd3doQk2W38Jeo2q36jwNZhtOshrc0C7j7YBS/SnnTa3S6F4S7fcLcFnxkrJ3wShxZQ+tZdP0QlrqNEM6Bdw/yxb8CldQ6OiRH3I2tsz/qzV99Tz+fbXqx89oZXT/mRBUZqVHZL/gCL8Zl+fNABZphuiv1pxopJGK9N79IhufpNzmfzm1U9ycE/lMMn2lwIhnNLFXE7sluWgyE2Ymn2N4ugTb1K2PR7BOhca8dnsV5M6JO5IfA6g1K9yV4axg5bNEnmlJk+cmXE61loBeIrnnKDR3SEs+KtvA99s72i3AydMBTST83GJWC6PxgiWn0trrqF9XTmAHm5iTFPYooDd57FAUZS4thxP4NXED1+Zo/M4DY1nfLyEf/J4hDAphaOZ0NM/0ZOX/E2c8O+UeMZB94ukKR2SWOzCz+e+cLuo72+7KlE/6ug==;EGGl11xMpWRMMX0Bx5raow=="
 ---

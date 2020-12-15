@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-ris
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rising-trends-technology-and-demand-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-12-10"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel’s 2021 Predictions for AI & the Rise of the Intelligent Edge"
+    excerpt: "Intel’s technology has been at the heart of computing breakthroughs.  They stand at the brink of several technology inflections—artificial intelligence (AI), 5G network transformation, and the rise of the intelligent edge—that together will shape the future of technology."
+    publishedDateTime: 2020-12-15T20:11:00Z
+    webUrl: "https://www.unite.ai/intels-2021-predictions-for-ai-the-rise-of-the-intelligent-edge/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/10/intel.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
     excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
     publishedDateTime: 2020-12-12T18:47:00Z

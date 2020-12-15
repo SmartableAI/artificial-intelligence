@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Intel’s 2021 Predictions for AI & the Rise of the Intelligent Edge"
+    excerpt: "Intel’s technology has been at the heart of computing breakthroughs.  They stand at the brink of several technology inflections—artificial intelligence (AI), 5G network transformation, and the rise of the intelligent edge—that together will shape the future of technology."
+    publishedDateTime: 2020-12-15T20:11:00Z
+    webUrl: "https://www.unite.ai/intels-2021-predictions-for-ai-the-rise-of-the-intelligent-edge/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/10/intel.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI in Fintech Market Rising Trends, Technology and Demand 2020| IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science"
     excerpt: "Growth, Trends, And Forecast (2020 – 2025) AI in Fintech market has been thoroughly scrutinized and then carefully demarcated by geographic locations which are based on major economic regions and their topographical regions."
     publishedDateTime: 2020-12-11T06:36:00Z

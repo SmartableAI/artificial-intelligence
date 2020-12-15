@@ -1,29 +1,28 @@
 ---
 category: news
 title: "AWS Leverages Habana Gaudi AI Processors"
-excerpt: "What’s New: Today at AWS re:Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver up to 40% better price performance than current graphics processing unit-based EC2 instances for machine learning workloads 1."
-publishedDateTime: 2020-12-01T17:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-artificial-intelligence-63b962cd9f354b1bbdf732f8551fad13"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-artificial-intelligence-63b962cd9f354b1bbdf732f8551fad13"
+excerpt: "David Dahan, chief executive officer at Habana Labs, an Intel Company Why It Matters: As the world’s leading cloud provider, AWS is used by developers around the world to train their artificial intelligence (AI) models. However, the increase in ..."
+publishedDateTime: 2020-12-01T19:03:00Z
+originalUrl: "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/"
+webUrl: "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/"
+ampWebUrl: "https://newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/"
+cdnAmpWebUrl: "https://newsroom-intel-com.cdn.ampproject.org/c/s/newsroom.intel.com/news/aws-leverages-habana-gaudi-ai-processors/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Intel
+  domain: intel.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://newsroom.intel.com/wp-content/uploads/sites/11/2020/12/Habana-Labs-HL-205-690x460.jpg"
+    width: 690
+    height: 460
     isCached: true
 
-secured: "+12AKi83RfCKFk+i0zf9aILNVCDWQXTNHnft0wSYETPwF/xhtFqCevMdB1l41Ovjt1cgQe/hsjJm8nCcCPBhu+gaudL8sBcTTyKQH0WK8DWo9GbFH9DczA0NJCApEWJFCrGuhKOERxziycQStl8ft/3/PLFdhNwvR7BOhc8KcEBKjb7sGh2RNzmDG/NnS36Sk1ewgm7PyctKj+hV39NDm2CF/bE4DDtdnHpLofF/WGkS6wD1XUvzi948DXsLE1/fEzv9HHVNZy8g8QUaWnqE39u48+My6jstIaNWFLo7ESaFtsmYzj5nnIG210beMaIV6f2GsFc4t3MkSt0CjeecYNpxj2aANgW6l3hvUdWftVo=;owJcmcW/W8lBHZgcNxjxEQ=="
+secured: "6yJ9UTDMSYSeMLoM/EyIEgyO3IxWRdovpaw7oslv+kM6Kmdw7MOVg4y8mUtHbJWWoL20Z/F7gM7Apw/eP7z6G9bZpX5IU+5fsD/b2+NhLWhsAyT+xAsY25Ptjzu6tLVn3CLgSUQ2cbAnoATvz/sJK2eHFLNOLJblJTAfz58n/aj8RTBGi7NRXraSXHENxhupcZ/zNtydFKYffzttKSP8KJsU62R2i1iCtuFKRKg3pcgCmaU2IOkkiD5jjTe+6rSc/5DjCPWSka4fM4a/zy16++L3p39go13sGRc0hXtFyqlve6ZqAsjOkrPkdHuBxugcmHLd/jFt6O/sTj5AoShtLBgIJeNsn8jSDrrwyLa2DaY=;VMttZs29OvpwKRemTrcIXA=="
 ---
 

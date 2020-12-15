@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20201215005797/insi
 webUrl: "https://www.morningstar.com/news/business-wire/20201215005797/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has"
+    publishedDateTime: 2020-12-15T15:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/insight-named-a-strong-performer-in-first-computer-vision-consultancies-report-by-top-independent-research-1029894667"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "y5dirHa6OC3Qe2KgjswZxl/8ACaF/KwSa8uWOvww5Fvmxs5SC11GEmSDXx3z1biovMw4EIlhadR0LGMdxt9kyMVnSLiK7T9aTgdquMe2N3m7Dld9WanhetTZrEBqgSWsvl86a2hwwF/6l8Et025jVZ8zCdbtTr7jDFeyqEzGTlae1dulycDKyTiAtg/ziEqglQtVDTRJ1EAxFCbYiAbk72ksPAWktyase8lw3f24RjOy3zx9/BvGTrpBmzyTA2ZhxDxvTaJkYXERqKVv0kE0XQW35audsBJCnz6wpb7GSK/hDdhj8s7ZRIWoE2vlE88d3F+gl4ONHjteDcDe2OrgOZZXemabHhCufCn1wA3eZB4=;67iOZINQChXdMz3NZHsPhA=="
 ---

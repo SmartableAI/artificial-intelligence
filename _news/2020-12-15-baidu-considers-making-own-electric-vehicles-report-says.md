@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China's Baidu Reportedly Planning Foray Into Electric Vehicle Manufacturing"
+    excerpt: "Baidu Inc (NASDAQ: BIDU) shares were on fire Tuesday following reports of the Chinese search giant's interest in the lucrative field of electric"
+    publishedDateTime: 2020-12-15T19:33:00Z
+    webUrl: "https://www.benzinga.com/news/20/12/18798208/chinas-baidu-reportedly-planning-foray-into-electric-vehicle-manufacturing"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18798208"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18798208"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/street-1721451_1920_4.jpg"
+        width: 1920
+        height: 1179
+        isCached: true
   - title: "China’s Baidu Looking Into Making Its Own Electric Vehicles"
     excerpt: "Chinese search giant Baidu is considering manufacturing its own electric vehicles and has already spoken to various carmakers about this possibility, according to three people with knowledge of the matter."
     publishedDateTime: 2020-12-15T13:30:00Z
