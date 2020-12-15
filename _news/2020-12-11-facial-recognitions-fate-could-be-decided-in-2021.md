@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
 type: article
 quality: 189
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/8/7/5/223875_portsmouthsoutherncoopstore_413428_crop.jpg"
         width: 1024
         height: 536
-        isCached: true
-  - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
-    excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
-    publishedDateTime: 2020-12-10T18:57:00Z
-    webUrl: "https://www.biometricupdate.com/202012/fingers-crossed-for-balanced-federal-facial-recognition-regulation-under-biden"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
         isCached: true
   - title: "Gov. Baker seeks to strike proposed facial recognition ban"
     excerpt: "Gov. Charlie Baker sought to strike a proposal that would have banned police departments and public agencies across Massachusetts from using facial recognition technology."

@@ -73,6 +73,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
+  - title: "Roblox acquires digital avatars startup Loom.ai"
+    excerpt: "The US-based online game platform Roblox has acquired Loom.ai, a privately-held company specialized in real-time facial animation technology for 3D avatars"
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.canindia.com/roblox-acquires-digital-avatars-startup-loom-ai/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 37
+    images:
+      - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
+        width: 252
+        height: 388
+        isCached: true
+  - title: "Roblox purchases digital avatar firm Loom.ai"
+    excerpt: "User-generated gaming platform Roblox announced the acquisition of Loom.ai for an undisclosed sum. Loom.ai is a San Francisco-based startup founded by former LucasFilm and DreamWorks staff. Created in 2016,"
+    publishedDateTime: 2020-12-15T10:31:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2020-12-15-roblox-purchases-digital-avatar-firm-loom-ai"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.eurogamer.net/2020/articles/2020-12-15-10-15/Loom_ai.jpg"
+        width: 955
+        height: 500
+        isCached: true
 
 secured: "PnAe/rR5s7Nm/gPHZKiFUDL4kmbQ5pDUCGaKKSsRF3Udzyi8VZlNOtPEjLwf4g6F68pB/Nfi3psmNvIr9s84AkjTbZ5cArKGjLlAS/vbl+esmysAzsrjdmOnyEYlpVY5fMj6HDbxRPZui3qFTEE9LYmZ7w462WadwD7nQJOZ46Lc4ByIlR+As7Ov86wx1SBmu/M5SZ19vYtxaM19MAhsq1Dr4/JEJoeauOhJ0oeG5blwFKEKgPK03CT0OptxJrDed4ZRz81Ff7COSGPTseMLkjuEOBZ0+Q/pNDp9Pc5V0TXqqK8+zvAE9u1KSSIcbwXSr55C/7eonhJZvu1oovY7qyDPVIxtHl759yMjYoZ9r1i8+Ftnxq/nXqA0PlEAAKuG1VthHrgkRjgtkxgpCkpJl5xOqL8idvMrg1FfqNokIfXLSzrH2qfXpxRTrQG2EWu4qfLsLQjOb/M4aGcPOVeU8VF2DDnDp0D9b2uFwtqFomSEo6UjjBFWNiFsDVGxPZfT63FeG6d2W58zBWzpU982MA==;20AyoiUC2i4P3MF3R4Zabw=="
 ---

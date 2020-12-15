@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel"
-excerpt: "World's largest airline alliance selects AWS to build resiliency, improve operational efficiencies, and enhance traveler experiences Today, Amazon Web Services (AWS), an"
-publishedDateTime: 2020-12-14T08:57:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18767994/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18767994/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18767994"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18767994"
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is g"
+publishedDateTime: 2020-12-14T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201214005174/en/Star-Alliance-Goes-All-In-on-AWS-to-Invent-the-Next-Era-of-Air-Travel"
+webUrl: "https://www.businesswire.com/news/home/20201214005174/en/Star-Alliance-Goes-All-In-on-AWS-to-Invent-the-Next-Era-of-Air-Travel"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -50,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XjSheoryX7xAMHu62C4TFQJ6wop40DGSx/jiwh4IT2HYsJUBoD5oV39A8GZJ+8Yf2RpZH0lzciHOFS8iH4Zxa8S0FlyS3MSAyDOBel9XXSIyZqYqR+eL4m3uAqt8/XxPIARw3CKgJTOkXhxQT2JO7gI1zRAfJ+JUm8zg+h4lSZk5CJEkWUH4f4zfNCqhyxq5FWKoRgZH/xVXfoqJVBkQ22cONKB5Xnvg8vWYXPlDtpqyO1cuJIowekD0aKnsRG9O7zkwZObC8DUhLv203f/iD+WmTRVhMIC94Obem643C8nuLJWvo+c2WMLs5UB4xyy64haN9N+KD0oSsdoUlJQpBIGoOBF6KYEho4wx430PXIs=;LxKZm9UISmO7qxfhCWKUvA=="
+secured: "lf2JyxYh8dvRk7+bF0mYXHXujW/bq4ddOb97XRVkeQe3jvY2iOnbPuJ4lh66EZSkdC0nIsYVrWWX4EYLq+U6FtdG6DGMQMt0Zj/aDCg4eSZOqKx6FhWW0GesRu2x8kkG9YbKCetyMPn44hcdOJ4c85ENrlum6Bfv5WdLwrFcmPRZww0QNgT8OowkDj0je//DWe5t5Hm+KRTR084pyQsdJzLnIDtSJKQ5IYv33U1QPtdInqhIRuj9crbRm8frawiD6ksuIg9Doyrp9EqenBmfXg1erzJIuEjkHOkoj0UY0gaIJoNx0xp5WCG8ABnT+Vx4UhmVq3AxEmA65800sif/7RmOtPvb8NW1sc8hnknQq3Y=;KdfW03OO9V9mN5I/tMKQ3w=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Full Self-Driving’s cool augmented reality view previewed by noted hacker"
+    excerpt: "Driving beta seems to be getting cooler by the week. In a recent set of updates, noted Tesla hacker-owner @greentheonly found what could very well be one of the coolest features of the advanced driver-assist suite to date: augmented reality view."
+    publishedDateTime: 2020-12-15T10:49:00Z
+    webUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 55
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-fsd-augmented-reality-view-1024x632.jpg"
+        width: 1024
+        height: 632
+        isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
     publishedDateTime: 2020-12-12T12:23:00Z
@@ -75,29 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Miami nice: Ford and Argo use self-driving tech to keep fresh food on kids' plates"
-    excerpt: "Enter Ford Autonomous Vehicles and its self-driving technology partner, Argo AI. Miami happens to be where the two companies have been kicking the tires on their autonomous driving technology and, in parallel,"
-    publishedDateTime: 2020-12-10T18:17:00Z
-    webUrl: "https://www.autonews.com/mobility-report-newsletter/miami-nice-ford-and-argo-use-self-driving-tech-keep-fresh-food-kids"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 18
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/cruiseSF-MAIN_i.jpg"
-        width: 792
-        height: 514
-        isCached: true
-  - title: "Uber to sell self-driving car division"
-    excerpt: "Uber is selling its self-driving car division to the autonomous vehicle startup Aurora, ending a five-year run of developing self-driving vehicles that was marred by litigation and a fatal crash. Uber will take a 26% stake in Aurora and invest $400 million in the Silicon Valley-based startup that makes software for autonomous vehicles and lists Amazon among its investors."
-    publishedDateTime: 2020-12-10T17:16:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2020/uber-to-sell-self-driving-car-division/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 4
 
 secured: "o5Wa2mlaijNC7U104lPeCA42pRnYy4inhgHpZxIf/LQi5PzyGzn2J0lSliLqz7bkbHABDR8QRBjsktAMudQsNb77tj5T8Vlt9E+g5ok3N2gZD7XmhFD2/JlL+P8g8GyF1DxlIsVOUFxX5EhCKuN2458JgQJkt0OEH+jmX5EJj9H7aUAczj/F2W371oOfHrCGBoXcZ9gvoEn/3dZrPqX77k0gwd0+pYXwP4WJrxk0TGtpQ2pT3zAZN9+FsUuzaz7uf/uCiK4lCJCKlTwZiMrmBLW4ayV/9QbklGZ3WSurQMZmul1KnV56jYeeA4wfIs/ozXZac8LJPYG27psKdvGYj3OoIxRqlbvdTC1469mPkBbtxV9LXW3dHMajEZnpwiNN99S4aAXzaRiEyX7uEP9Sty7D5jZPNcAszT+aTNXz6AeURUyFpUHa/btk7FbsdQFnULHvRk8Mwah6k9iLFTDOeidV42/zDHdAHFRevIuYuBkIu1npwb6r6XCW9XHoZRBQaklUlLnkLG7QiyzwwCH68w==;YA21jfVL6jUcl5EUEyC39g=="
 ---

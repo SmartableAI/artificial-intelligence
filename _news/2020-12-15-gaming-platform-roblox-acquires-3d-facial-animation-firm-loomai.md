@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O1YK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
+  - title: "Roblox acquires digital avatars startup Loom.ai"
+    excerpt: "The US-based online game platform Roblox has acquired Loom.ai, a privately-held company specialized in real-time facial animation technology for 3D avatars"
+    publishedDateTime: 2020-12-15T10:00:00Z
+    webUrl: "https://www.canindia.com/roblox-acquires-digital-avatars-startup-loom-ai/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 37
+    images:
+      - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
+        width: 252
+        height: 388
+        isCached: true
+  - title: "Roblox purchases digital avatar firm Loom.ai"
+    excerpt: "User-generated gaming platform Roblox announced the acquisition of Loom.ai for an undisclosed sum. Loom.ai is a San Francisco-based startup founded by former LucasFilm and DreamWorks staff. Created in 2016,"
+    publishedDateTime: 2020-12-15T10:31:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2020-12-15-roblox-purchases-digital-avatar-firm-loom-ai"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.eurogamer.net/2020/articles/2020-12-15-10-15/Loom_ai.jpg"
+        width: 955
+        height: 500
+        isCached: true
 
 secured: "y2hAhi/sx3lGHAdl8humPRCAa762rMS52C1fTDINidi1nmQVC2RRSaUgSc77JXGVAQFRBpTdZWf9p5WkD64W30jZWNnWnw5G+BTcOF+psi23vU7+sV19qlmuHwxR6I3d4RLgFIAa/OJdzIbq7EdgdPlLeZoiPDw7XlJfkLuONQhSn1E76pzrWBCc7roJRxEBhRrXaC3YFDP76u0CNWO2nd8qy5FQPu8IvSxLLVEAub3arEKFhZzow2e3rOqoyZf27XQ35kuG56UHDB/o+CfMVZp+02/s8nOKB8QgJw7WsfeBpzm+3sPxB58IMeu0t7Pha63brKMlwX17qjSg8URFRoDRJMMnMmN/Oyk3zUpcGPg=;fWo5160V4FwVZYNaG+63NA=="
 ---

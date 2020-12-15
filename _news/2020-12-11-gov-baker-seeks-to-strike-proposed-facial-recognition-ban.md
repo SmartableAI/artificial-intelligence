@@ -120,20 +120,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Fingers crossed for balanced federal facial recognition regulation under Biden"
-    excerpt: "A new occupant in the White House has some in the privacy community hopeful that meaningful federal and state controls on facial recognition will pass. That is hopeful and not optimistic, although"
-    publishedDateTime: 2020-12-10T18:57:00Z
-    webUrl: "https://www.biometricupdate.com/202012/fingers-crossed-for-balanced-federal-facial-recognition-regulation-under-biden"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
 
 secured: "YxNJHGe05gKkgVR4nxKB3LjMBR7P/ekvn42ZVO10BIYWoz52qR9Tr9XEzfALMu26WQIHsX31ZzPHhUh4sDxNeGmrQVttbJOZQUy9npkOsyLbWW2N2+9EgrF4nix+iw22XhUd9DuHVj3M2JBvtzCxZVKHklSlf08BqI01+sGQMx5wUoYY5yug4v5XLj0GBQpPQfKlMGoQAKlR4QIVhZHqGPgaiWLqv2HgxHQRnj6fbbhwP0ogTyjdcyc12S61dGDEMbotMQ0t7TSCt8QQFYT0ivcY0XKk+D9CaxLIMU2XYoWDInh8G9hn1H4Ui7ldbqHH7kvkwxMWIV3W65xJqsbf8DbxoH6mOyrEMi3MIf9ErPnTZIasF155r+tGPV/jFMIyyJxthKazWz3/0/0mqfWe29NyvepLqHKgSSSdmNUJOOB5bgfS5pzC4ibt3z7YduXyqqMU/kkTBAFrHbgjs5skWyMrHlaNjzuLYQLRsII0aNIZi+s1eqfsfPcNg+fGx+JryWynlbUpJd2RMQI09/uB3g==;QCW59UPLZsFxxm7Hy1L27Q=="
 ---

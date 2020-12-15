@@ -128,20 +128,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
-    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
-    publishedDateTime: 2020-12-10T18:14:00Z
-    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 11
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "BEp+I8u6h99nvz1mVtHnD594nVSHsdGgEnxCsHqDrcuyF/E1hGeeWqPGYtvZHOhPH3nmNPz3KVWk1S0/tk9wBT+D5KCOYx6ArnZc5SvPc830Iv2RGRZ9U8QV+1zeQCRihIOs6YOPkiGqwhECbGM9H3tWLFkD6iGbyt90cDWTjcCFxNJg4SmaMf/jEYQQWK4crEBRXpLWdzSbiX2c/ZaB34VxWmTeoxRQUCw2+qWxaBEWd+1Plk/FSXqz5HFTQ4+CJZjOqLWs06Wb1nm3eYKC6k9adS+1tlTP5SNiHyhG7inj2Vpe1n21nbn4JIcsfLRgwMznc9rtmWi9DfAL6uMnwG6FPGCzVbxf3hZR5fdJm5k=;VbUfoUczbSGCMWNzjbm24Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-wi
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T10:18:00Z
+    webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
     publishedDateTime: 2020-12-10T20:19:00Z
@@ -65,6 +76,6 @@ related:
       domain: seekingalpha.com
     quality: 34
 
-secured: "OmmE5mdG8KAhAl+GXQ/zydqSgamofwOI0FvvzZjQho+0SJpXiuXLaOtPiQWPUoCZn7oMPda5iCuv+PTYHc0eHVSeetSbZorACFsahqlSsieXFihvVEZHNhcRxzz2tRnUi1TD2kZe3OYUuRp8Fv4xse3cSge6o7LvUzatdffAtHWUoSskZJEYEkKAlJ0aNgyCNF9w29HXdxTHfbrwrdWD9hEPLb5F9DnI/J9n0ppdEiW9XwdKJDey87aHKIdcAImiwAIOFssiu+5QtsEFc/vQqymfPaS7OW9hr8cPmcblx5yXmKZxeLBZUNl0ud4QnqjKaftO2V7A62aHx5NQgKpHyVARQkr3z6Nz+y1N01x3v1s=;uT8GRho5Us5+TRcY1MuQhg=="
+secured: "sUUz9e8NePUyEGQfZ1EXSlC3UOOOH/yVVpixeVeNd/u1EAy9DKobfpZr7Z+I8r/aNxDVFNGrTEJryNCYNs8Umbl8iPMrPjPc+kKVWm5kT1n3VUPHgtTjck0xTuXlEUudsjOaNNKlxBoIofYdL99RrRLBm0h9eiscRv8hPKzra/H5zCXWpGpoIEt4A7lM4N5BZUCdfrdzCiJJ1Xh1sTF6qb09U7Ba/4vE0I3hV+0qirSwMBtb4frENrNd63UUU5YsP8ulV/22c9LPeOEJBgO7YlavOVgRz7NItMPPFkMsJf6TlL6HKzuQccuOvS+XEqOlCN/3SuraV1HrrAyYGKgVGxVmf7GdhcoePs71aswBRMm/5RJ4ncw2ZIV1Ve6GZXJlxLjaaLgDu2D1a8WPgNpaZucCUt6r7nAdMDlw8NZM6m3PRGU4VWTD2nCIZtAP/+Y9M+Ng/6SjmEQYt4TIb1Gc6+OBOPCHIwiO7ieH4cO/fpiK5k4NAPND+yRytE8V/g4KeNf+YU7auuies45iknEH3g==;rUXk+kICLs0xMhHGkHBQlQ=="
 ---
 

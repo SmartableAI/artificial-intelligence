@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
 type: article
 quality: 64
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
-    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
-    publishedDateTime: 2020-12-10T18:14:00Z
-    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 11
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "kQAqmuIaPAVPJ7eC4gMtN4wepyDiUCkLUfXf/44LuamcFTXXxyUcVpACSGARMjyfN6Jt623tZKnrlAOwn+Ama/SIfbDo7EHST28/RuvEALvJ2XrXR1RM2LsPlVwrPoniV/JZkZ0YTSfZmwYviANLlgMg5bN8xTRBHhepdZYnXe7YTbSa8ryTUEeqaMk837BGYf5R4h/XucQV089+EmOHnJXLpA+dh+9Ga6FP98CF6wWyifKMzE14VN+cfQvXJkSpXQ3KZHM0Xd0B9dnyTjgZ3DYGVk9Nbjvw6Um3QIJzcIc1BYWGOFFoumS4hDQ7emPUi0II/BMSQpL674O5RJq4CfK2Ca24eMXdBWBQDqeafX4=;nJQtgsBAxBkVYmwslPYUmw=="

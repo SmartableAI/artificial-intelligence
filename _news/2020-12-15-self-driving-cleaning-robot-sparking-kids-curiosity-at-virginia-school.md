@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Self-driving cleaning robot sparking kids' curiosity at Virginia school"
-excerpt: "FAIRFAX COUNTY, Va. - It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the ..."
-publishedDateTime: 2020-12-14T18:52:00Z
-originalUrl: "https://wnyt.com/albany-ny-education-stem/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951245/"
-webUrl: "https://wnyt.com/albany-ny-education-stem/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951245/"
+excerpt: "It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the floors."
+publishedDateTime: 2020-12-14T18:51:00Z
+originalUrl: "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/"
+webUrl: "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/"
+ampWebUrl: "https://amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html"
+cdnAmpWebUrl: "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html"
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: WNYT NewsChannel 13
@@ -20,7 +22,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125005.jpg"
+  - url: "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125130.jpg"
     width: 800
     height: 450
     isCached: true
@@ -40,23 +42,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Buzz Around Apple Self-Driving Car"
-    excerpt: "Taiwan Tech News Site DigiTimes reports that Apple is working with Taiwan Semiconductor Manufacturing Company (TSMC), on self-driving chip technology. Apple and TSMC have reportedly established plans"
-    publishedDateTime: 2020-12-15T02:20:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
-        width: 1024
-        height: 538
-        isCached: true
 
-secured: "k6ovcrRJXr7wUfrC66KSTjoCF2wcjtHZndyV6NTrYXRerzb/pSW9j0lmQA2fL5doD292K+/O6HkrOKGmCZrkpcoImhA9wI6mV5zNBVZKNxG8Ni8l6sxcXalU8dpF35AljDrb+F2VSY3+WrzM5ggCCujpQWYad9gK1DeCPUZZuCGUjAJWx9tzamskBUvP+vdx45uj2FKOdlplWCvIXjxWlC6DtgnQTRvnTCPElaOHMGNY/i9srb4Bp3IvrbBph+EobnG61AELLKRFlkleAFOj5G7mqg4DS2CpE9tkyQAobVXSTdyWdDUqUm1rWrhOUxDE3RlBNc3UYvtS0kBMTBPlmfpCF7F2pyTEEEyaoFGccmZwcmydRRbGH1aj9GYuV3UBswwR/xFzMG5d0L8Gz01jO9rGgUKoAeM5M+20ub9PwOrbJmDwYZjbp/JdYlCwDPfbtWtZ2iICFxkgZjhTVBC35gH9zPDT4xCNIFpakzvCnBLy8nZJ8/Fe0R40+lZ8DROgfV+CesyKCeGhVJeyxW9p2Q==;QSjSonwmoIhBhikRxqww2A=="
+secured: "iVu3hMmciArTJ43tO87IDEL120S8zsetvqp8/UiuFT3K5+npFlLCgvB2JThMO8JtnV1gO3qaS9tWqYulC29aY3N+7dmX3qZrV8A27Bq39ZhHnzD2kKfxOwvpNfdkm611Gs4TrFWbgZUROuhkIvIvVwp8tB9U//xyUpB/IDMXkS2N2zH4sisn/7OIjL8QTUlz5s0WUL2ddPxBqmlIzQ5VP3weknOMCT3hTpOyMH8b5ZjNKEHU7/Wzr9u3fPsWJiGsWIZhMEdgyIXGGyB8LuYgHq3k1iCH6L8q2pGNC+4A2lrt3m7gMDFh45M7g6hBbqfIIlm2Lvnk/bFjYhBQr1c9YEodJ5/5CrhCTuk/E8uY6Ac=;i9tAzV/i2OjiChBNCUNNuA=="
 ---
 
