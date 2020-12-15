@@ -2,26 +2,26 @@
 category: news
 title: "Amazon Zoox Unveils Self-Driving Robotaxi"
 excerpt: "Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other. The car can travel up to 75 miles per hour and can run up to 16 hours on a single charge."
-publishedDateTime: 2020-12-14T07:53:00Z
-originalUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/"
-webUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/"
-ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
-cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
+publishedDateTime: 2020-12-14T10:53:00Z
+originalUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/"
+webUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/"
+ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/?amp"
+cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/?amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: NBC Los Angeles
-  domain: nbclosangeles.com
+  name: NBC Connecticut
+  domain: nbcconnecticut.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbclosangeles.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
+  - url: "https://media.nbcconnecticut.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -258,6 +258,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "rNTEmE2tetv2VE2U3Qj4YMAmH/GQ8dt+GxFzKHmctBCUK7iCKv9n+MPn7JCtbRO8osRLmBQUJYDLrVyTbFfXLkOlaA11xhMLs+4cpghLzmLfkFPL3+U05rI0ZO/jiTGAcZizAnUl6KKRTLoTPhoKV1XVvL3f4hn8IbgP1ymoDtzspzu9QpjZyielZJk5/o+r9ukdfqt+M7grY5S/10XFdUjsnF0TF0+4A9dNt6K2B+DbUllNZN7DQOyLqbMNG9BJAKkJWtPE2rfw8ixnLR1X1+CNV82y1CGgd6TP5dteiq7rjAIvs1qMmg6ZVht3p7C9n/eB6aLlb7qRxjwTnfu8XX4ivwtWKjOHCK2jw6fB7lweNL2h6AW03iC6fnI1Mc9joEy07o+FOi+WljF6IsWlAB+dEmBsrp91RKNwzyD99ocqLOGEXWqQGvjdLLL1C8hAxuIwhehJQaM36uoHUWYjB8rQxSw2eemaVjpbURGDgSWelX5/1hVMdI/O2LoZ2OYHp4dhfwLMrvneQjIJjtMl2g==;XtVWirckGmhanFlaabX+6g=="
+secured: "RoJ1bsE5uO9A4B8gWdX8fCG3YDpKKTfeTNyqGH8aoqvo2xs6LPOmGMFNtjlpCoCU8UhYXiAEkEKKpiBBFqxmMeUBs7tX/WOn8v7clroQAw/pCBRuzsOMVnzjWbjwGbXKMKnAVGgGQXirBrXkiuTHu91lzrScFbJUd+4JQN1zpL7izBN1iXOszrVjyRbL/EpR6K/xRQzbX0gXYoBvG/SI0OzAPdAuAuhF+QVzd8nF63FdBmFuvAUecZUzPb0sGgHoYtHwqfsjxwh5SbLIXesSYz5LJY93iVw0ZQYrhp3gyxzEpVugo0vzUFwy5Oc2jw3j4HZt1kITozKbu1qzxThjUb8727Zu1GQupAntG19yc8I=;Yk5zlADrAxeMPASZlt7fyQ=="
 ---
 

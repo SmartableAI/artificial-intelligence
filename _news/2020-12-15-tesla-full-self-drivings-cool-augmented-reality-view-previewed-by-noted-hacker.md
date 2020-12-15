@@ -91,7 +91,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
+    excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
+    publishedDateTime: 2020-12-15T11:05:00Z
+    webUrl: "https://www.barrons.com/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    ampWebUrl: "https://www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-273242/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "Yu2/AAO48RkleP4leeeIWeNPPO6cw3Tf9JFmWH/IMO4bvclQxVX2oGwjQxXoBfS7VkCknmWu0ezB37wZghxiwlgTNk5zEQR33xo4cpSFy1VepZWxLQePlTs9hHK3WjfRLfM6ifoDq33/BBC2xvndi2ilQi3xpRwzXTM4WQKBoeQ8MCywns9m/XJRLIFQpMoKUvcw/VSBfodQDOeeiv6T8QV9dnGTQz3IyAHP/NUimUbGx/Luraa5zH3qYh6g43Hg8Lpt3oh9lgcjZI1qi0/5a9c+I4pELCJB/N6SY7yiRlI4/gfAF2jrz8L9+Gr1KveTS/JFhdiO30jhkzEzjBMvYESZ+qu1EKjIDWAr/V9oyug=;JPKrQyIdDsfNz2R9fcDrCw=="
+secured: "j+GAT1n6ZkJtfv+OC5ZsWMtQSNQwmsjEVx2+H+epnkSPm2BVM84lyXAU54AveoatSV4xrsiIllgdwfmKPr9mjcRFVUTK/qlUBwZbn+3SBtfaZHsZ0r3V0xAdFgI6vVEdbl6cjtojauZgNt8fTR0ubPoGtOHxaV1ZCoslvumLLXXSr5NIvpDLO6Ed58ybu706XlK9FlruGW5Wn0kZs2QgURPP9iZ1018a3glDQosqFQaTYSXaDyA4h353J05QgVplfgbJCYeP2b2h6/USHpq/SioKPb/wwsrPXpDg9tjiKrACu6rYWcTuss4/sV/rl5O8J8nrVswlOwhgVpsz96uG3dIjyZ3jYNojDBHHz7Tli5fUiyfSdj7ISg3pSRn6v1SmW37K7o5BbBzY81CCOyWVW6ffMU2RusAL9QF29mJF4Efl/Z1A3Jjtt5rIMTmywl3r65JCUkuqsx8sZSGGuxIPBK7+TlqDaIbqyVWObrHS5ITnnhnbr+vETjGreedrfEfxebwdvl1ABS08llLk2oGyYA==;aFTT+QmueTTPc6kwaGulkQ=="
 ---
 

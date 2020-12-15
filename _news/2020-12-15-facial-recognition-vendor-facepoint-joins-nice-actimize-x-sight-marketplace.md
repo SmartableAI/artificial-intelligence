@@ -1,0 +1,54 @@
+---
+category: news
+title: "Facial recognition vendor Facepoint joins Nice Actimize X-Sight marketplace"
+excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE) today announced that FACEPOINT, which launched an industry-leading biometric risk screening engine, has joined the X-Sight Marketplace, bringing its cutting-edge facial recognition technology for advanced KYC and watch list risk screening to the ecosystem."
+publishedDateTime: 2020-12-15T12:28:00Z
+originalUrl: "https://www.finextra.com/pressarticle/85483/facial-recognition-vendor-facepoint-joins-nice-actimize-x-sight-marketplace"
+webUrl: "https://www.finextra.com/pressarticle/85483/facial-recognition-vendor-facepoint-joins-nice-actimize-x-sight-marketplace"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Finextra
+  domain: finextra.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+related:
+  - title: "Nice Actimize taps facial recognition or AML/KYC risk screening"
+    excerpt: "Nice Actimize, a Nice business (Nasdaq: NICE) today announced that FACEPOINT, which launched an industry-leading biometric risk screening engine, has joined the X-Sight Marketplace, bringing its cutting-edge facial recognition technology for advanced KYC ..."
+    publishedDateTime: 2020-12-14T19:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85475/nice-actimize-taps-facial-recognition-or-amlkyc-risk-screening"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "NICE Actimize’s X-Sight Marketplace Offers Facial Recognition Technology for Advanced AML/KYC Risk Screening with Addition of FACEPOINT"
+    excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE) today announced that FACEPOINT, which launched an industry-leading biometric risk screening"
+    publishedDateTime: 2020-12-14T11:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nice-actimize-s-x-sight-marketplace-offers-facial-recognition-technology-for-advanced-aml-kyc-risk-screening-with-addition-of-facepoint-1029889202"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
+
+secured: "FUW4UagV1hBNfhsfQtBVOm4Lv4wNu3WbGmkYgQqFolVNg/0Zk2KgBd8QSemPZ2VsKi3+QfgUd2x48hoWyPFAX19RePQUbHjF8W3rT2Ni5QFaG9Reo3Rr1aeK95EvjxRs+LgHe0Hch6G69W+h5qeintV7tMGNIggldqCHpBRZzgZnvCuwXWC6CjwUOR4MiuOgQKFPLPLKwuONPy58zrmU0juRM32wIqruI4GgeDtuSp0VWbB8uwXbr1HAGDYR9BaYzlYyb8WAXc9NeusMUJ5wla6uxJ1U/ChNgOJADDS+eMl8NAUsG5HcjNSictIDy+sf0hPG22fsKM5f2qHcP22K+cg6Ra1CwzZkMJEOodJKaY0=;lbd1iQEsVsoVIFl5vVb8Cg=="
+---
+

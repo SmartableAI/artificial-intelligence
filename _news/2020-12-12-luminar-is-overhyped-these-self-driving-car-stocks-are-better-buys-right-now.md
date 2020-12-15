@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-t
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 769
     isCached: true
-
-related:
-  - title: "Uber is getting out of the self-driving car game"
-    excerpt: "Uber is selling its driverless car subsidiary, Advanced Technologies Group (ATG), to a startup called Aurora Technologies Inc. This move is a major strategic shift from what was once regarded as a top priority by their former CEO,"
-    publishedDateTime: 2020-12-10T19:34:00Z
-    webUrl: "https://knowtechie.com/uber-is-getting-out-of-the-self-driving-car-game/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2020/12/uber-self-driving-car-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "bCa1wHriWndXL0kQUIl5afPlvRRvBg53keDZFC0RRyLlWJ8d7wWGcZNlfHBuE/r7g9kvw9kATF80QJlULUSRzIFdAUqIbF28/M2Vj4Z3pKDGsxCk6G6OJMqrLTewNCWYfA/VGAST0beO+72IA6c6wKK0nyuWiOumT0poEydWtynkKA26CUz9Ct74CFpEEnhlIwNzKNh6sHkGGzmoZEUHWV1jA2/PZ9/w+OTrKCabaUFyjfRd05Qk/5XVryuT04bqs1+alpiu3CQRiqUz0jb4YHLpn2QeuT0oT0GH2KYv6mzFSEK+UI3agsy9MeUWeYTCAPcLyO4Hr3LV7OZkGkWuLLFhBPc0UJINhkOcUMTuU/oxiN5EBEgYdEy/wWWPeVyYTkD163E8lnPM1/uIo+XrJVM0Ye2J0RwXc6KCHcPD7ij6ucYCoEMoW2mbbfq0N7mZGS+E1aN0YxmzIRvaY0JnUnlO3gxHDX21YPlnETFrxa4W28fMSH0XiYiJjbN61N93caYGemjVFrHkfJMJAUvTLQ==;VKI9gd5w62acm64MOZUyKA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deu
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,63 @@ images:
     isCached: true
 
 related:
+  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T12:33:00Z
+    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 74
+    images:
+      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
+        width: 1000
+        height: 696
+        isCached: true
+  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
+    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T05:37:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 64
+    images:
+      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
+  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T10:18:00Z
+    webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 54
+  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
+    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
+        width: 2300
+        height: 1293
+        isCached: true
   - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
     excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
     publishedDateTime: 2020-12-11T05:32:00Z
@@ -39,6 +96,15 @@ related:
         width: 957
         height: 597
         isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
+    publishedDateTime: 2020-12-11T13:40:00Z
+    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "lvHzJEsNZEQq+Xni4z4EDwrg24RaLfvyhz8OtPlmfuyo4VVl16KtdZqBH+gLgXcLZIirs8vzIBpBwID4I+Fqcmjl+91lZWLJUXpnsKr1kwkl50FJCMd8MI0OSdAnH2bl7oMXXipEcveB6jEbbCn1mXX/kqHi3nfgcP0wD9KJfKR/LrNh/AAKqwlW/dx4bCz3klV54kgORWHvxRk8jrWDq66DTjr7lsDVa26jUWcAUGnkfcLnKDQg3dettqC2sRGeVSYWdvW9puN8aACKwdI1+fF4HcGdX2W6/+8ea+AYNQ3tD6VVKZBx8OBcw3wC/4tVIYEvkrQByGu+4ww5PBkXfWV4mT1b8mXeJ9vruiWciD9hiRVgPH4ZtQ5iiWBCbZ5ofthbP02QNvi/0tyN3GKO8o85XOVnJiQJDNMwtEWL/h0hBWgk6n1yNJkjFAaWBjIgwfC6AqzZTYyS6RO7i9Z4ip2+HtWxvPm30a4dIl8B7mBLeMz0cS3DeHOVcwFwF/DbQORg8fcbToqMYMOy5UJ4Kw==;olrNloWE+EZQCktlzIY03A=="
 ---

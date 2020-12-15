@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
-    publishedDateTime: 2020-12-10T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lf2JyxYh8dvRk7+bF0mYXHXujW/bq4ddOb97XRVkeQe3jvY2iOnbPuJ4lh66EZSkdC0nIsYVrWWX4EYLq+U6FtdG6DGMQMt0Zj/aDCg4eSZOqKx6FhWW0GesRu2x8kkG9YbKCetyMPn44hcdOJ4c85ENrlum6Bfv5WdLwrFcmPRZww0QNgT8OowkDj0je//DWe5t5Hm+KRTR084pyQsdJzLnIDtSJKQ5IYv33U1QPtdInqhIRuj9crbRm8frawiD6ksuIg9Doyrp9EqenBmfXg1erzJIuEjkHOkoj0UY0gaIJoNx0xp5WCG8ABnT+Vx4UhmVq3AxEmA65800sif/7RmOtPvb8NW1sc8hnknQq3Y=;KdfW03OO9V9mN5I/tMKQ3w=="
 ---

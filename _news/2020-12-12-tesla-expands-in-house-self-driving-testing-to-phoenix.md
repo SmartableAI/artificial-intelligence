@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-t
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
+    excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
+    publishedDateTime: 2020-12-15T11:05:00Z
+    webUrl: "https://www.barrons.com/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    ampWebUrl: "https://www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-273242/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "O0ITlfOHAjSvZSfb3X7zds1LbpgWJj+SS6Lua5OeZv7rj/P4g1a/PNgL6wQFNp4vBbf3HdgN5s3GqG30EhC6OfgsuQseH9nzkD2/VLiorov2+lyvocj6g6VY1ncrC2HPCQo4JaSmZh9ySGOkNvdMsDlvMl1KnMRn2/yqBqwZytYcpzi3Y0Hm8gwJ9LBQyM3b8wCMyrR/4wyAc0bcXkcTjxPDfduzczodOLbU3eL77ZcBmqPqWOwnjuQaT6z2hv/aIKJXLkk7RdnaMvjbbaMipnnE3diixlraeVihMuYpQJNuVJH+bED74rp8jN7usmrOTWi5QOue2C4kswCWUoCpnPawTRVXcUSnzdboAdsVFTeKWZJ19oQBmBRks/iE+Ss7dVi56Dqm0KIZA/0yePFqPe8c84FARRnOQh4NBJ1sg8/niA42ehwNmnjF/wg0B/fPKk8YiapxXFNNk4b1wLSv3RGuNB5ZI8GO97mdjImtKFWabWmpdStFV1eRTLEo/6DYXSvIG/tR4Lzydk3ygn2dpw==;hReobddktm8eFeFqy1uUmg=="

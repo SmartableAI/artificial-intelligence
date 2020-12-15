@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
-    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the pe ..."
-    publishedDateTime: 2020-12-10T19:20:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-artificial-intelligence-94e3f78da560413483d159bd2a84e678"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Researchers introduce first artificial intelligence tool to detect COVID-19 probability"
     excerpt: "A study in the Journal of Medical Internet Research introduced Biocogniv's new AI-COVID software that can easily predict the probability of COVID-19 infection. A team of researchers from the University of Vermont and Cedars-Sinai discovered high accuracy in predicting the probability of COVID-19 infection using routine blood tests,"
     publishedDateTime: 2020-12-12T16:32:00Z

@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-14-new-ai-scrabble-mod-only-allows-words-that-dont-exist.md",
+      "title": "New AI Scrabble mod only allows words that don’t exist",
+      "excerpt": "Thanks to a new AI version of the classic board game, his distressing knowledge of the dictionary will be of no use at all — because real words no longer count. The BLABRECS system is the brainchild of Max Kreminski,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-14T124347.274-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
+      "publishedDateTime": "2020-12-14T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa.md",
+      "title": "Tonko bill to expand K-12 AI education passes in NDAA",
+      "excerpt": "Congressman Paul Tonko, one of a handful of engineers currently serving in Congress, announced his Artificial Intelligence Education Act has passed the House as part of this year’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "originalUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/saratogian.com/content/tncms/assets/v3/editorial/e/ee/eee4a3e4-445f-11ea-90a2-1b4c80ce84f5/5e347ffcdaa11.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "publishedDateTime": "2020-12-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Saratogian",
+        "domain": "saratogian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
+      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
+      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "publishedDateTime": "2020-12-14T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-amazons-zoox-reveals-self-driving-taxi.md",
       "title": "Amazon's Zoox reveals self-driving taxi",
       "excerpt": "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats.",
@@ -55,18 +194,18 @@
     },
     {
       "path": "_news/2020-12-14-lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications.md",
-      "title": "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications",
-      "excerpt": "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,",
+      "title": "LG Announces Autonomous Robot With Disinfecting UV Light for Various B2B Applications",
+      "excerpt": "Newest Addition to LG's CLOi Family of Robots Will Help Hotels, Schools, Offices, Restaurants and Retailers Deliver Peace of MindTORONTO, Dec.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029893418",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029893418",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg",
+          "url": "https://mma.prnewswire.com/media/1385553/LG_Electronics_Canada_LG_Announces_Autonomous_Robot_With_Disinfe.jpg",
           "width": 400,
           "height": 306,
           "title": null,
@@ -378,6 +517,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-what-apples-m1-chip-means-for-big-data-and-analytics.md",
+      "title": "What Apple's M1 chip means for big data and analytics",
+      "excerpt": "Apple announced its M1 chip for Mac. The M1 uses system-on-a-chip (SoC) technology that integrates all of the functionality that formerly had to be supplied by multipl",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/what-apples-m1-chip-means-for-big-data-and-analytics/",
+      "originalUrl": "https://www.techrepublic.com/article/what-apples-m1-chip-means-for-big-data-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/3f5a3b71-d96f-4627-bdf2-0df3ad3fdfe8/resize/1200x/6085300a9630f3ae3f518ab8b6e8ed37/mac-m1.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/",
+      "publishedDateTime": "2020-12-14T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -913,7 +1104,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1058,205 +1249,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-conversational-ai-inside-rasas-open-source-approach.md",
-      "title": "Conversational AI: Inside Rasa's open source approach",
-      "excerpt": "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
-      "originalUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
-      "publishedDateTime": "2020-12-11T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-an-ai-used-facebook-data-to-predict-mental-illness.md",
-      "title": "An AI Used Facebook Data to Predict Mental Illness",
-      "excerpt": "Volunteers let an AI scan their messages from more than a year before they received a psychiatric diagnosis. It was able to flag signs of their conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/",
-      "originalUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd3d353efa5f68151a599f7/master/pass/science-psychology-facebook-study.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp",
-      "publishedDateTime": "2020-12-11T15:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-robots-can-encourage-people-to-take-greater-risks-research-shows.md",
-      "title": "Robots can encourage people to take greater risks, research shows",
-      "excerpt": "New research has shown robots can encourage people to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx",
-      "publishedDateTime": "2020-12-11T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-what-big-tech-and-big-tobacco-research-funding-have-in-common.md",
-      "title": "What Big Tech and Big Tobacco research funding have in common",
-      "excerpt": "Attendees of the Resistance AI workshop at NeurIPS say that by funding research, Big Tech is following the same playbook as Big Tobacco.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
-      "originalUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/s3.reutersmedia.net_.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
-      "publishedDateTime": "2020-12-11T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

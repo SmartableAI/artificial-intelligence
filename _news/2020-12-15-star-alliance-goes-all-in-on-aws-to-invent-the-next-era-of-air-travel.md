@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/star-alliance-goes-all-i
 webUrl: "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Nationwide, a Fortune 100 insurance and financial"
-    publishedDateTime: 2020-12-10T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is g"
     publishedDateTime: 2020-12-14T05:00:00Z

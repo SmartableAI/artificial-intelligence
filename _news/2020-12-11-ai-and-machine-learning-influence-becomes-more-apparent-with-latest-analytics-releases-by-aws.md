@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influe
 webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: SiliconANGLE
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Apple's M1 chip means for big data and analytics"
+    excerpt: "Apple announced its M1 chip for Mac. The M1 uses system-on-a-chip (SoC) technology that integrates all of the functionality that formerly had to be supplied by multipl"
+    publishedDateTime: 2020-12-14T11:31:00Z
+    webUrl: "https://www.techrepublic.com/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/3f5a3b71-d96f-4627-bdf2-0df3ad3fdfe8/resize/1200x/6085300a9630f3ae3f518ab8b6e8ed37/mac-m1.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
     excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."
     publishedDateTime: 2020-12-12T03:18:00Z

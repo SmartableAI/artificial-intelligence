@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Thomson Reuters Taps AWS to Power Digital Transformation"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of"
-publishedDateTime: 2020-12-08T15:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
-webUrl: "https://www.marketwatch.com/press-release/thomson-reuters-taps-aws-to-power-digital-transformation-2020-12-08"
+excerpt: "Leading provider of business information services taps AWS to drive large-scale migration to cloud, driving innovation and adopting machine learning across its business SEATTLE--(BUSINESS WIRE)--Today"
+publishedDateTime: 2020-12-08T15:11:00Z
+originalUrl: "https://digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/"
+webUrl: "https://digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/"
+ampWebUrl: "https://digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/amp/"
+cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/amp/"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: digitalproducer.com
+  domain: digitalproducer.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "http://mx1.digitalproducer.com/wp-content/uploads/2019/07/dp_fb2.jpg"
+    width: 428
+    height: 428
     isCached: true
 
-secured: "Q++r/iQ3C1XhXZ2hGE4JWEE1lzY80+jvlcRsUbijMDJZw0R9GpBSVCvEsz2TMKxUIw+NiDmQtMlO+wJbDstTXpNbmRRyU6DINJsYZ+HxW9ixCKfpilv1NlSlP9/f8UJXHQ+C3fp5Ccux0DfohaKURBCixdwzE3O7pixAG9gVGTFX8M4QoHJHQecbOVwjBiieb1kxZ+Wlb2bIRY0wt+1Y/sA9phHyzSNBmYDVNgFCTXd3AfJjC5kMaCbPE4aKtNBcvblQNnFy89t2aHw8FdkYss1ySjDbBz8AF38gH1PB73Kh9C59HQD29pNAXkd3w8PiInClFW/qroQ2LoxNuiXn/Z4N9d2AX0iaS5OCMkmRyKU=;dxv7XGMYm+qeANxITW3SIg=="
+secured: "mFsE5M9DbvmtCxMR99zts/P8Am/82HS7NaOw9dtx1p10EYmbkXrl3sm9mNEaE6TMCgOUY+z7c2KN3T8UpjIVhfD84VcKuihetMbU9FgHksVr3g/E5XzmCesWNNr6YTlNe9ooyJHx07zTfJVvwDOiQ+rFjwxE7P584A9OWMSdkiYt1HVRuAgjxni7ebXNVo3xdl+UmUQ1z/86VpjHuufng+ZdHaZre80huh+wnpFCSWUhyi3O1xK/ezsV1yfsX4DiuHmkYVIOZrWDdym8FOEuOWvw6TubPAGmE15sktCKxleWpPX1VxyeDyU11FSrO4nCU20KdLyputJNA+YnCNKsHp4YXMQXKdixR9eaDFklmYE=;MECDMolYUVcScfWmfUHEbg=="
 ---
 

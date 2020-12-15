@@ -91,6 +91,22 @@ related:
         width: 1125
         height: 750
         isCached: true
+  - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
+    excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
+    publishedDateTime: 2020-12-15T11:05:00Z
+    webUrl: "https://www.barrons.com/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    ampWebUrl: "https://www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-273242/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "a2hVEQyTVXs3MQ0larHUnexLhY/K6yociZygJs2NtBGsiMd6k6mri7tgtQkb949oY249sb3yRlajK3vjqiNiJHSBVzVSi6i21i4jID3fZ+K8ceaDj4J34ZaM3DOtOQ/fqlAFyChTGf2fB0k0EbutRtLZ7b0Ah22xqABRDllohuglzdJ2hBEqex6CQsj3mkvw8efnamjFtgFYE5PpSiLCtaGA7G3oLZLfRKdkV3VQzSQblagfSA2ZXzwXjCYh0YxxXvk0mT828lolU1nxry1BmGIuxL3EX9ruuXlYbsAqsYduvYOQ/bLTyF/eoJKl898Llk6/xIgPqdi1ZOABxrydXijXHjf7jaUIDbap8w583LI=;YKWYliTbZCI5jENzFle7+A=="
 ---

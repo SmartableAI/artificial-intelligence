@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu considers making own electric vehicles, report says"
+    excerpt: "China's Baidu Inc. is considering making its own electric vehicles and has held talks with automakers about the possibility, three people with knowledge of the matter said, the latest move in a race among tech firms to develop smart cars."
+    publishedDateTime: 2020-12-15T12:23:00Z
+    webUrl: "https://www.autonews.com/china/baidu-considers-making-own-electric-vehicles-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "China search giant Baidu considers making own electric vehicles: Sources"
     excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with"
     publishedDateTime: 2020-12-15T06:11:00Z
@@ -78,6 +92,6 @@ related:
         height: 557
         isCached: true
 
-secured: "6Kq5Yo767GPOMFtOzEY1Lr+AGedPETYAy2/ihXlSZ+O8T5ee6vT0xcW5iTc40tzRISe2pvaKfwnANwsEaudaLUhJIgWXvSRqg4qh5nRCpHtCeLUFYJXko4zIgQ7QQr7xZQMFxAlW/u7fiLzYg6tHkDz6CEOIGw36F3frlkYIiExQVfb25g1R1aanwR11jXAb+7UMKjjEUpIDFuIBAMCVKya7LlWTXDGmOWWUNc561p6BElq3mVUP1d+QTR3jDe3k+cgmZThoT7l1NpYIaIq5KMEfB6zVivvLw7ImIAqPsfD++lbU6NCACcTCwEf8iNBQiynK0q7/YRqL5YVdBSCBtBcrxv2yuMkkUUR3+aKW8P4=;IzDHJbHgTxdqu9Jy5K6OOg=="
+secured: "TapP/ZmEMPjczrcoW3oZT6sZwHA+UMS+qjRYFl/xYuHfZKbNKW1iZ24h/KT6i/9RxtqLBdzBQv6NylYEw8zJ6XJ7bJZKPFXgbVZNd3doQk2W38Jeo2q36jwNZhtOshrc0C7j7YBS/SnnTa3S6F4S7fcLcFnxkrJ3wShxZQ+tZdP0QlrqNEM6Bdw/yxb8CldQ6OiRH3I2tsz/qzV99Tz+fbXqx89oZXT/mRBUZqVHZL/gCL8Zl+fNABZphuiv1pxopJGK9N79IhufpNzmfzm1U9ycE/lMMn2lwIhnNLFXE7sluWgyE2Ymn2N4ugTb1K2PR7BOhca8dnsV5M6JO5IfA6g1K9yV4axg5bNEnmlJk+cmXE61loBeIrnnKDR3SEs+KtvA99s72i3AydMBTST83GJWC6PxgiWn0trrqF9XTmAHm5iTFPYooDd57FAUZS4thxP4NXED1+Zo/M4DY1nfLyEf/J4hDAphaOZ0NM/0ZOX/E2c8O+UeMZB94ukKR2SWOzCz+e+cLuo72+7KlE/6ug==;EGGl11xMpWRMMX0Bx5raow=="
 ---
 

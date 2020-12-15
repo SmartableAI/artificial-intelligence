@@ -35,20 +35,6 @@ related:
         width: 639
         height: 426
         isCached: true
-  - title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
-    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the pe ..."
-    publishedDateTime: 2020-12-10T19:20:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-artificial-intelligence-94e3f78da560413483d159bd2a84e678"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "WkLFs0VboSj8P+nnx+mDbcNE+t0RLWKZM0exD/BvoDkBVMCx8nHoY7G1tvDYRotFtViO01MYhrJgjyReR38aZOmTf15aYr0HXEijxAkN/+FSBciYxkFMVjA37bOz01zWliBNKHazSTARO0lSQpFePYRqdKQSc8Ew/DToPAZaT7iH4HwfpK2LFVtjZwXU5GArdQwV0MSyB62qWRtLcaJ+q9yr4kO+RjzOpVc4agBMH46keB69ZKnuK+deNJUFKTefxdoSvf8lszdRn6XuSgO6J28FVkOCvfZfZQooIWLtT629km3vNE5uZMCojDQvGvQulI4QFo/lktM+UHSrss4aWmNW997B5losoe4uOMciz+I=;l9vhgLPadEYp2ZGo+KLDBw=="
 ---

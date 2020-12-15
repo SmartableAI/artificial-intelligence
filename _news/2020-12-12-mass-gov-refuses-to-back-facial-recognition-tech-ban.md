@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "City Council to ban sale of facial recognition data by businesses"
-    excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
-    publishedDateTime: 2020-12-10T19:44:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/city-council-ban-sale-facial-recognition-data-businesses"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 41
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
     publishedDateTime: 2020-12-11T12:30:00Z

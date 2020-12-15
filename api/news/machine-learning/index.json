@@ -202,21 +202,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-11-ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws.md",
-      "title": "AI and machine learning influence becomes more apparent with latest analytics releases by AWS",
-      "excerpt": "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure.",
+      "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
+      "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
+      "excerpt": "Lirio, a leading behavior change AI company that uses Precision Nudging™ to move people to better health outcomes, was awarded Best AI",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/",
+      "webUrl": "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Rahul-Pathak.png",
-          "width": 3774,
-          "height": 2120,
+          "url": "https://mma.prnewswire.com/media/1373395/Lirio.jpg?p=facebook",
+          "width": 1024,
+          "height": 536,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -226,11 +226,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T14:35:00-08:00",
+      "publishedDateTime": "2020-12-10T11:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -240,7 +240,6 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -643,8 +642,8 @@
       "title": "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'",
       "excerpt": "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
-      "originalUrl": "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -661,8 +660,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/",
       "publishedDateTime": "2020-12-08T16:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -686,9 +685,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "AWS AI"
       ]
     },
     {

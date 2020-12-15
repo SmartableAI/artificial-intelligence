@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
 type: article
 quality: 189
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "City Council to ban sale of facial recognition data by businesses"
-    excerpt: "City Council took a small step toward regulating the growing facial-recognition technology industry Thursday. Businesses will be required to inform customers if they use biometric technology in any way,"
-    publishedDateTime: 2020-12-10T19:44:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/city-council-ban-sale-facial-recognition-data-businesses"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 41
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/338866564_1-9.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
     excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."

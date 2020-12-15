@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Apple's M1 chip means for big data and analytics"
+    excerpt: "Apple announced its M1 chip for Mac. The M1 uses system-on-a-chip (SoC) technology that integrates all of the functionality that formerly had to be supplied by multipl"
+    publishedDateTime: 2020-12-14T11:31:00Z
+    webUrl: "https://www.techrepublic.com/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/3f5a3b71-d96f-4627-bdf2-0df3ad3fdfe8/resize/1200x/6085300a9630f3ae3f518ab8b6e8ed37/mac-m1.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "AI and machine learning influence becomes more apparent with latest analytics releases by AWS"
     excerpt: "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure."
     publishedDateTime: 2020-12-10T22:35:00Z
