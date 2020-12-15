@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-26-digital-health-smart-inhalers.md",
+      "title": "Digital Health: Smart Inhalers",
+      "excerpt": "The extensive scope of digital health encompasses technologies such as mobile health (mHealth) apps, artificial intelligence (AI)-enabled medical ... Traditional inhalers have long been the mainstay of therapy for patients with chronic respiratory diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
+      "originalUrl": "https://www.pharmacytimes.com/news/digital-health-smart-inhalers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmacytimes.s3.amazonaws.com/uploadedmedia/images/2020-11-20_AdobeStock_126613568-644px.jpg",
+          "width": 644,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmacy Times",
+        "domain": "pharmacytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-new-artificial-intelligence-platform-detects-covid-19.md",
+      "title": "New Artificial Intelligence Platform Detects COVID-19",
+      "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Coronaviruses infect animals, humans, and birds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-platform-detects-covid-19-198583-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-platform-detects-covid-19-198583-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-platform-detects-covid-19-198583-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-platform-detects-covid-19-198583-1.htm",
+      "publishedDateTime": "2020-11-24T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world.md",
       "title": "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices",
@@ -1241,103 +1327,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "AI in Robotics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-apps-are-now-putting-the-parole-agent-in-your-pocket.md",
-      "title": "Apps Are Now Putting the Parole Agent in Your Pocket",
-      "excerpt": "Instead, he suggests states provide people with social workers, therapy, and access to housing ... calls a “game of life app,” that combines remote monitoring, artificial intelligence, and biometric data from users. “One of the really critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/",
-      "originalUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa5a934e4fe02a20082e954/master/pass/business_parole_480339746.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apps-putting-parole-agent-your-pocket/amp",
-      "publishedDateTime": "2020-11-11T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
-      "title": "People Suffering Depression and Anxiety Want to Reveal Their Pain — to a Robot",
-      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/",
-      "originalUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2020/11/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/?amp",
-      "publishedDateTime": "2020-11-11T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "AI in Robotics",
         "Natural Language Processing"
       ]

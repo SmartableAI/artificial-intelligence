@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-t
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Boeing's fired CEO's next act involves self-driving tractors made by a former Tesla executive"
+    excerpt: "Boeing's embattled 737 Max plane returned to the skies this year, as the company's former CEO headed to Silicon Valley."
+    publishedDateTime: 2020-12-15T16:42:00Z
+    webUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5fd8decc78a5740019a15858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
     excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
     publishedDateTime: 2020-12-11T10:11:00Z

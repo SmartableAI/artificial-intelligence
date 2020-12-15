@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
         width: 2040
         height: 1360
+        isCached: true
+  - title: "Amazon Alexa rolls out live translation in Echo devices"
+    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
+    publishedDateTime: 2020-12-15T16:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267262397/amazon-alexa-rolls-out-live-translation-in-echo-devices"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1608050555.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "AE7qw/3aeXXYqonWVFXBxPqB7LDVLlQxcf/fFrspj4ESDFrdChNPdbP8CKOxmZ5Vqg97ORllx3akOyltu2L2hRCGKdfF9WiDKt74eFWJqjIBzcFuIMSfb1Xjbf9NSKu6mmb6ThzVFKnmMEu+tyc/LFLfXwThEzk1QUhCImrYtl1zvw8nFNNlG4jFgrXkzRwG/ETAWt0i5K+B8cDJLfUPtlh9yYMulBxSh/kdHqKW11PECQrtyVmJ1YRJ15xea3s2jKGmyTKDR8rjAPIJh5kxZ6y9X22Sxh1b+qycN+w0WAegJavun2rfoiTZG/iF+u3ARgDCyY/9tcbYqcH0MThlSZAI2anzcrGC4ZSWX2ENAsE2y2GP+pem24P5UJ3ym3NyBZwCdZ+aCLJuumfNnuWJnjptkbv3VgYAsg/wsacZsvaBiPzUG3GjZLVG7/76nePM+IBAMKEzDOkLz1MZwmPE/jM8RXexr3wdC3iGAw7mPHfDIk1jwf/L+1LUUTaIb6IPoHViFXiXhX5NqcIGw2cxjw==;bfL7LyV2DkyK+cZItGPhsw=="

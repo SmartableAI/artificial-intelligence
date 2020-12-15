@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-ai-helps-protect-australian-wildlife-in-fire-affected-areas.md",
+      "title": "AI helps protect Australian wildlife in fire-affected areas",
+      "excerpt": "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RSwwfau_14310.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
+      "publishedDateTime": "2020-12-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference.md",
       "title": "A quick tour of what you missed at the NeurIPS 2020 AI conference",
       "excerpt": "The world’s most closely watched AI conference didn’t have its usual scenic backdrop of Vancouver or Barcelona, but it was a nicely organized six-day virtual affair that delivered on all the usual fascinating talks and presentations.",
@@ -1430,59 +1482,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-an-introduction-to-tensorflow-lite-development-on-android.md",
-      "title": "An introduction to TensorFlow Lite development on Android",
-      "excerpt": "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "originalUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "publishedDateTime": "2020-11-21T23:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

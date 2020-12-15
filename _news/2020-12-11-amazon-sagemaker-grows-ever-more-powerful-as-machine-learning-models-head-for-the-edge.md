@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger"
-    excerpt: "At AWS re:Invent 2020, AWS released the profiling functionality for Amazon SageMaker Debugger. In this post, we expand on the importance of profiling deep neural network (DNN) training, review some of the common performance bottlenecks you might encounter, and demonstrate how to use the profiling feature"
-    publishedDateTime: 2020-12-10T23:57:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1883-4.jpg"
-        width: 800
-        height: 359
-        isCached: true
   - title: "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler"
     excerpt: "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying"
     publishedDateTime: 2020-12-11T17:39:24Z

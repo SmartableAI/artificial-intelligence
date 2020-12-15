@@ -2,6 +2,478 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-11-19-artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi.md",
+      "title": "Artificial Intelligence, Robotics Key To Fourth Industrial Revolution – Abdullahi",
+      "excerpt": "The director-general of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has identified emerging",
+      "sourceUrl": null,
+      "webUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
+      "originalUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://leadership.ng/wp-content/uploads/2020/08/Kashifu-Inuwa-Abdullahi-NITDA.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
+      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
+      "publishedDateTime": "2020-11-19T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEADERSHIP Newspaper",
+        "domain": "leadership.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-extortion-bio-warfare-and-terrorism-extremists-are-exploiting-the-pandemic-says-un-report.md",
+      "title": "Extortion, bio-warfare and terrorism: Extremists are exploiting the pandemic, says UN report",
+      "excerpt": "NEW YORK, USA – Criminals and violent extremists are exploiting the pandemic to build their ... or high levels of pollution', the report said. 'Inspired terrorism' case A notable case of ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.un.org/en/story/2020/11/1077932",
+      "originalUrl": "https://menafn.com/1101151140/Extortion-bio-warfare-and-terrorism-Extremists-are-exploiting-the-pandemic-says-UN-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/18-11-2020_Unsplash_data.jpg/image770x420cropped.jpg",
+          "width": 770,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-ai-for-cybersecurity-maximizing-strengths-and-limiting-vulnerabilities.md",
+      "title": "AI For Cybersecurity: Maximizing Strengths And Limiting Vulnerabilities",
+      "excerpt": "The rapid pace of technology development that for long was seen as a trigger for digital transformation has given birth to new and advanced security challenges",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360010",
+      "originalUrl": "https://www.entrepreneur.com/article/360010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605784146-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360010",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360010",
+      "publishedDateTime": "2020-11-19T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-anti-adversarial-machine-learning-defenses-start-to-take-root.md",
+      "title": "Anti-adversarial machine learning defenses start to take root",
+      "excerpt": "Much of the anti-adversarial research has been on the potential for minute, largely undetectable alterations to images (researchers generally refer to these as “noise perturbations”) that cause AI’s machine learning (ML) algorithms to misidentify or misclassify the images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
+      "originalUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/hacker_hacking_laptop_security_threat_attack_by_undefined_undefined_gettyimages-962366210_2400x1600_cio_cw-100852252-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html",
+      "publishedDateTime": "2020-11-19T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis.md",
+      "title": "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai.md",
+      "title": "Huge U.K. Defense Spending Boost Funds Cyber Force, Space Command And AI",
+      "excerpt": "The massive increase in military spending focused on specific technology areas suggests a shift in Britain's strategic direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb63e2b2aef54509e02918a%2F0x0.jpg",
+          "width": 1199,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "publishedDateTime": "2020-11-19T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-uk-announces-biggest-military-investment-in-30-years.md",
+      "title": "UK announces biggest military investment in 30 years",
+      "excerpt": "The U.K. has announced the biggest program of investment in British defense in 30 years. Prime Minister Boris Johnson told the House of Commons that the government will spend £16.5 billion ($21.8 billion) more on defense over the next four years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+      "originalUrl": "https://www.msn.com/en-us/news/world/uk-announces-biggest-military-investment-in-30-years/ar-BB1b9UJ9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/2/s960_number10.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T01:09:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "domain": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-3-rising-aiml-startups-from-south-korea.md",
+      "title": "3 rising AI/ML startups from South Korea",
+      "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663546",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663546",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-bobacino-launches-robotic-tea-bar.md",
+      "title": "Bobacino launches robotic tea bar",
+      "excerpt": "A startup company called Bobacino has launched its automated Boba Tea Bar, which uses a robotic arm to make beverages for customers. (See video below.) Bobacino says it is bringing the “unique",
+      "sourceUrl": null,
+      "webUrl": "https://roboticsandautomationnews.com/2020/11/19/bobacino-launches-robotic-tea-bar/38338/",
+      "originalUrl": "https://roboticsandautomationnews.com/2020/11/19/bobacino-launches-robotic-tea-bar/38338/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/01-Bobacino-Machine.jpg",
+          "width": 800,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims.md",
+      "title": "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims",
+      "excerpt": "can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL), the CS-1 is more than 10,000 times faster than leading GPU competitors and 200 times faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "originalUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yky93teYjYQmAYjmkSH3EG-1200-80.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
+      "publishedDateTime": "2020-11-18T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-weather-forecasts-get-an-ai-update-with-atmo-as-businesses-grapple-with-climate-related-catastrophes.md",
       "title": "Weather forecasts get an AI update with Atmo as businesses grapple with climate-related catastrophes",
       "excerpt": "“I thought I have to build something to make the intersection of weather and AI much more available for everyone.” That was the beginning of a four year journey, which culminated in Atmo ...",
@@ -716,497 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by.md",
-      "title": "Global Healthcare Artificial Intelligence Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026",
-      "excerpt": "Nov 18, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ai-startup-graphcore-says-most-of-the-world-wont-train-ai-just-distill-it.md",
-      "title": "AI startup Graphcore says most of the world won't train AI, just distill it",
-      "excerpt": "Also: AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia's Graphcore is known for building both custom chips to power AI, known as accelerators, and also full computer systems to house those chips, with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/db32f0bd-4ae9-4771-882c-313031c3980d/graphcore-2020-hbm-memory-is-wrong-way-to-go.png",
-          "width": 2925,
-          "height": 1875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "publishedDateTime": "2020-11-18T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ping-an-bank-wins-gartner-innovation-award-for-financial-services.md",
-      "title": "Ping An Bank Wins Gartner Innovation Award for Financial Services",
-      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... scene models and machine learning models to achieve the full process of closed-loop ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
-      "publishedDateTime": "2020-11-18T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
-      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
-      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-googles-ai-tool-turns-doodles-into-3d-creatures.md",
-      "title": "Google’s AI Tool Turns Doodles Into 3D Creatures",
-      "excerpt": "Chimera Painter can help video game artists 'create fleshed-out versions of creature outlines,' Google says, but anyone can try the demo online right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures",
-      "originalUrl": "https://www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/027FPju5ccApZ4vyXbEqJh7-1.1605738782.fit_lim.size_1200x630.jpg",
-          "width": 1001,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures?amp=true",
-      "publishedDateTime": "2020-11-18T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals.md",
-      "title": "Zest AI Inks Deal With Freddie Mac To Boost Mortgage Approvals",
-      "excerpt": "Freddie Mac, the company created by the U. S. government in 1970 to fund mortgages and increase home ownership, will start using fintech company Zest AI to help assess the risk of people defaulting on their mortgages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb59f592272b224af5ca66e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/amp/",
-      "publishedDateTime": "2020-11-18T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.md",
-      "title": "IBM sharpens its hybrid cloud, AI focus with Instana buy",
-      "excerpt": "Instana's technology will be primarily used by IBM Watson AIOps, an application that uses AI to automate how enterprises detect, diagnose and respond to IT anomalies in real time. Watson AIOps works by grouping log anomalies and alerts based on spatial and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/684586/ibm-sharpens-its-hybrid-cloud-ai-focus-instana-buy/",
-      "originalUrl": "https://www.reseller.co.nz/article/684586/ibm-sharpens-its-hybrid-cloud-ai-focus-instana-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_id_19577771__tomasz_bidermann__dreamstimecom_2_1.jpg",
-          "width": 740,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-deepfence-nabs-95-million-to-build-ai-shields-for-cloud-workloads.md",
-      "title": "Deepfence nabs $9.5 million to build AI shields for cloud workloads",
-      "excerpt": "Deepfence, a startup developing AI-based protections against cybersecurity threats, has raised $9.5 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://deepfence.io/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/deepfence-nabs-9-5-million-to-shield-cloud-workloads-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deepfence.io/deepfence_media/2020/11/vb.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
-      "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
-      "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-apple-m1-chip-will-save-25b-a-year-after-dumping-intel-for-the-m1-chip.md",
-      "title": "Apple M1 chip will save $2.5b a year after dumping Intel for the M1 chip",
-      "excerpt": "Apple's decision to quit Intel and use its own M1 chip to power the latest MacBook Pro, MacBook Air, and Mac Mini will save the company $2.5 billion, according to a new report. One of Apple's biggest stated reasons for moving to the new ARM-based silicon was as a cost saving measure and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "originalUrl": "https://www.techradar.com/in/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SqqGSo29Dawg8RLk99zkXG-1200-80.jpg",
-          "width": 980,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
-      "publishedDateTime": "2020-11-18T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

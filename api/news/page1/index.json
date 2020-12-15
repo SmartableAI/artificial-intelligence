@@ -2,6 +2,316 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-ai-helps-protect-australian-wildlife-in-fire-affected-areas.md",
+      "title": "AI helps protect Australian wildlife in fire-affected areas",
+      "excerpt": "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RSwwfau_14310.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/",
+      "publishedDateTime": "2020-12-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-skylum-launches-luminar-ai-its-ai-photo-editor.md",
+      "title": "Skylum launches Luminar AI, its AI photo editor",
+      "excerpt": "Over the course of the last few years, Skylum made a name for itself with a set of photo-editing apps like Aurora HDR and Luminar. With Luminar AI, it is now launching a brand-new photo editor, starting at $79.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Lifestyle-image-5.jpg?w=1024",
+          "width": 1024,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/amp/",
+      "publishedDateTime": "2020-12-15T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-social-media-giants-face-big-fines-and-blocked-sites-under-new-uk-rules-on-harmful-content.md",
+      "title": "Social media giants face big fines and blocked sites under new UK rules on harmful content",
+      "excerpt": "The proposals are part of the U.K. government’s bid to force tech giants to rid their platforms of illegal and toxic content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106811313-1608026067894-gettyimages-1229196183-AFP_8TJ2RU.jpeg?v=1608026238",
+          "width": 3834,
+          "height": 2868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/uk-online-harms-bill-tech-giants-face-big-fines-and-blocked-sites.html",
+      "publishedDateTime": "2020-12-15T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-this-ai-from-faceit-may-finally-solve-toxicity-in-esports.md",
+      "title": "This AI From FACEIT May Finally Solve Toxicity In Esports",
+      "excerpt": "FACEIT is pushing toxcity into the past with AI. getty. The competitive gaming and esports world is growing at a rapid pace, with big teams being worth millions of dollars, but wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
+      "originalUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8d7971b3a08f6daf80742%2F0x0.jpg",
+          "width": 1200,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikestubbs/2020/12/15/this-ai-from-faceit-may-finally-solve-toxicity-in-esports/amp/",
+      "publishedDateTime": "2020-12-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation.md",
+      "title": "AI ‘pre-cog’ predicts which Twitter users will spread disinformation",
+      "excerpt": "Researchers used the system to forecast which social media users will share disinformation in the future and also revealed the language that they use.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/dorseyminrotiyreport-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/15/ai-pre-cog-predicts-which-twitter-users-will-spread-disinformation/amp/",
+      "publishedDateTime": "2020-12-15T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-chinese-web-giant-baidu-may-fancy-building-its-own-cars-report-says.md",
+      "title": "Chinese web giant Baidu may fancy building its own cars, report says",
+      "excerpt": "Known as \"China's Google,\" Baidu is reportedly interested in not just developing self-driving software, but its own vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/baidu-china-building-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/DffVxQ58xMv1VNvdgGae9Q2yTBg=/2019/09/27/809b83bf-7d39-4f0a-8de4-472ac3330a59/ogi-apollo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/baidu-china-building-cars/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/baidu-china-building-cars/",
+      "publishedDateTime": "2020-12-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-why-do-many-self-driving-cars-look-like-toasters-on-wheels.md",
       "title": "Why Do Many Self-Driving Cars Look Like Toasters on Wheels?",
       "excerpt": "Without any need for steering wheels or pedals, the cubes give passengers room to maneuver inside. The latest entrant, from Zoox, can hold 4.",
@@ -54,21 +364,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-15-how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi.md",
-      "title": "How IBM researchers enabled AI platform Watson to understand native Hindi",
-      "excerpt": "With this, Watson Discovery can understand documents written in Devanagari and extract their meaning, without having to resort to any translation to English",
+      "path": "_news/2020-12-15-artificial-intelligence-may-be-the-defining-technology-of-our-times.md",
+      "title": "Artificial Intelligence May be the \"Defining Technology of Our Times\"",
+      "excerpt": "Artificial intelligence is reshaping our environment, finding use in healthcare, customer service, data analytics, autonomous driving, and many other industries. JP Morgan analysts believe the market could grow to $58 billion by 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/15/full/1608042837-363.jpg&width=1200",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 900,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +386,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ibm-researchers-enabled-ai-platform-watson-to-understand-native-hindi-120121501070_1.html",
-      "publishedDateTime": "2020-12-15T06:49:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T06:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -92,8 +411,9 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -454,6 +774,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources.md",
+      "title": "Exclusive: China search giant Baidu considers making own electric vehicles - sources",
+      "excerpt": "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with knowledge of the matter, the latest move in a race among tech firms to develop smart cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSKBN28P0F2",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSKBN28P0F2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544609532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P0F2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2",
+      "publishedDateTime": "2020-12-15T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-stuttgarts-hawk-supercomputer-adds-192-nvidia-gpus-to-accelerate-ai.md",
       "title": "Stuttgart’s Hawk supercomputer adds 192 Nvidia GPUs to accelerate AI",
       "excerpt": "Performance Computing Center Stuttgart, known as HLRS, is adding some Nvidia Corp.-powered oomph to its Hawk supercomputer, which is already considered the fastest general-purpose machine for industrial production in Europe.",
@@ -589,58 +961,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-chinas-baidu-considers-making-its-own-electric-vehicles-reuters-citing-sources.md",
-      "title": "China's Baidu considers making its own electric vehicles: Reuters, citing sources",
-      "excerpt": "The initiative would be a step up from peers such as Tencent, Amazon and Alphabet, which also developed or invested in related technology and start-ups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106811279-1608013347797-gettyimages-1229059277-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1608012906",
-          "width": 4000,
-          "height": 2669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html",
-      "publishedDateTime": "2020-12-14T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -912,7 +1232,7 @@
       "originalUrl": "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -952,320 +1272,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference.md",
-      "title": "A quick tour of what you missed at the NeurIPS 2020 AI conference",
-      "excerpt": "The world’s most closely watched AI conference didn’t have its usual scenic backdrop of Vancouver or Barcelona, but it was a nicely organized six-day virtual affair that delivered on all the usual fascinating talks and presentations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "originalUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/a68795c9-ddd8-4fb7-85c5-b93bd3daa6a0/neurips-2020-knowledge-represenation-workshop.png",
-          "width": 1572,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
-      "publishedDateTime": "2020-12-14T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai.md",
-      "title": "Gaming platform Roblox acquires 3D facial animation firm Loom.ai",
-      "excerpt": "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544513436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD12T",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O1YK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK",
-      "publishedDateTime": "2020-12-14T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-the-most-impactful-non-compute-announcements-at-aws-re-invent-2020.md",
-      "title": "The Most Impactful Non-Compute Announcements At AWS Re: Invent 2020",
-      "excerpt": "Invent 2020 virtual summit. In this article, he explains the most impactful non-compute announcements and the reasons why you should care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7c1ea894a58f890b718f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/",
-      "publishedDateTime": "2020-12-14T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-underwater-robot-designed-to-keep-tabs-on-fish-farms.md",
-      "title": "Underwater robot designed to keep tabs on fish farms",
-      "excerpt": "The robot additionally utilizes artificial intelligence-based algorithms to observe the behaviour of the fish, adjusting its movements in order to disturb them as little as possible. As it travels ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
-      "originalUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/cacb1dc/2147483647/strip/true/crop/767x511+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2F69bcb3504d85958797d788cb2d58%2Fcagereportersensorer.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
-      "publishedDateTime": "2020-12-14T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel.md",
-      "title": "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-after-737-max-debacle-former-boeing-ceo-makes-a-comeback-at-monarch-self-driving-tractor-venture.md",
-      "title": "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture",
-      "excerpt": "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
-      "originalUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
-      "publishedDateTime": "2020-12-14T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

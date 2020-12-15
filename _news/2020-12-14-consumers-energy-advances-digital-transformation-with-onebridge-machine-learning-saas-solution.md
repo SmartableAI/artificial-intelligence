@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/consumers-energy-advances-dig
 webUrl: "https://www.nasdaq.com/press-release/consumers-energy-advances-digital-transformation-with-onebridge-machine-learning-saas"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Another U.S. Multinational Company Licenses OneBridge's Machine Learning SaaS Solution"
+    excerpt: "Our business strategy is to seek opportunities to incorporate Data Science and Machine Learning, business intelligence and predictive analytics to create cost-efficient, subscription-based ..."
+    publishedDateTime: 2020-12-15T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/another-u-s-multinational-company-licenses-onebridge-s-machine-learning-saas-solution-1029872920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
     excerpt: "The adoption of OneBridge’s software aligns with our 10-year natural gas delivery roadmap and digital transformation strategy. Artificial Intelligence and machine learning capabilities embedded in the solution will assist us to modernize and ensure we have a safe,"
     publishedDateTime: 2020-12-15T01:52:00Z

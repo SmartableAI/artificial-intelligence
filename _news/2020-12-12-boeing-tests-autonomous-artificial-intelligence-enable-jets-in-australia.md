@@ -7,7 +7,7 @@ originalUrl: "https://www.vision-systems.com/embedded/article/14188942/boeing-te
 webUrl: "https://www.vision-systems.com/embedded/article/14188942/boeing-tests-autonomous-artificial-intelligence-enable-jets"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Paris Agreement 5 years on: big coal exporters like Australia face a reckoning"
-    excerpt: "The Paris Agreement desperately needs to be updated. Currently the big exporters take no responsibility for the emissions created when those fossil fuels are burned overseas."
-    publishedDateTime: 2020-12-14T02:41:00Z
-    webUrl: "https://theconversation.com/the-paris-agreement-5-years-on-big-coal-exporters-like-australia-face-a-reckoning-151915"
-    ampWebUrl: "https://theconversation.com/amp/the-paris-agreement-5-years-on-big-coal-exporters-like-australia-face-a-reckoning-151915"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-paris-agreement-5-years-on-big-coal-exporters-like-australia-face-a-reckoning-151915"
+  - title: "AI helps protect Australian wildlife in fire-affected areas"
+    excerpt: "Over the next six months, more than 600 sensor cameras will be deployed in bushfire-affected areas across Australia, monitoring and evaluating the surviving wildlife populations. This nationwide effort is part of An Eye on Recovery, a large-scale collaborative camera sensor project, run by the World"
+    publishedDateTime: 2020-12-15T17:00:00Z
+    webUrl: "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/"
+    ampWebUrl: "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/amp/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 38
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://images.theconversation.com/files/374644/original/file-20201214-21-1qbvfoh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=210&fit=crop"
-        width: 320
-        height: 210
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RSwwfau_14310.max-1300x1300.jpg"
+        width: 1300
+        height: 866
         isCached: true
 
 secured: "O5s3Tod2f29zmbyLS1ypkFbNlDHEH5iB0RUgHe7e2StCUHtLQcFJxjX8nN5txevEy0NNqrohjxHkPpUmenSZyACIKO1E4rSXzQ/y7EWAw6E8ieL+P8empiqzCDbjF0nb0i/Kgq7y6Wc9p7Br7lTWykJD2vFE8N+c0q7RPlSJznkea6B2qZwA9r2RBoDAdP2JSpRXg6oqlDngE5zUPvzgieuglc2zaIgeASOqimmUxAACS9nLRtFRFVW228o80ZqDnfq1F7PVbqVyG2iya2tHQBX7GV347Jhjt+1WDjfJOMNc5Vh4EwbAhHVx8Rrq1/P8YVYQIu/FnjobF47ZRXJxTlFIX6L0Gshsh0Rl88MrG8munYNgiyvuSTLMEge1ndasTX50tTC3miVhJL8iTFJ7wCDHRPViPy7AcSsWaXMklj1wtNUeye7J7I/Q/nxKbUi0x6qu3yPep58V7rVfPGdliqCVKyUDQCnwvH28/BqbXxXxD5WwKuF8P2PMbzTd5KbVGupGkDFXK8Mzuu684V2vZw==;T2d7FKuOZ8yk+YEuX3Li4g=="

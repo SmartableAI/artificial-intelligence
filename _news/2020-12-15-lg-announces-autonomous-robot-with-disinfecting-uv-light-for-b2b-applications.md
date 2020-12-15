@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "LG Announces Autonomous Robot With Disinfecting UV Light for Various B2B Applications"
-    excerpt: "Newest Addition to LG's CLOi Family of Robots Will Help Hotels, Schools, Offices, Restaurants and Retailers Deliver Peace of MindTORONTO, Dec."
+  - title: "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications"
+    excerpt: "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,"
     publishedDateTime: 2020-12-14T14:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029893418"
+    webUrl: "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
     images:
-      - url: "https://mma.prnewswire.com/media/1385553/LG_Electronics_Canada_LG_Announces_Autonomous_Robot_With_Disinfe.jpg"
+      - url: "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg"
         width: 400
         height: 306
         isCached: true

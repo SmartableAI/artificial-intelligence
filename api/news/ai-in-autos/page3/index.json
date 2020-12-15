@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-24-self-driving-cars-a-level-by-level-explainer-of-the-road-to-autonomy.md",
+      "title": "Self-driving cars: A level-by-level explainer of the road to autonomy",
+      "excerpt": "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "publishedDateTime": "2020-11-23T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada.md",
+      "title": "Gatik And Loblaw Partner To Bring First-Ever Driverless Deliveries To Canada",
+      "excerpt": "Canada is poised to see driverless commercial delivery of goods come to Toronto, thanks to startup Gatik bagging a $25M infusion of capital plus a partnership with Canada’s largest retailer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbab97107d4f398e3ecce1d%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1886%26cropY1%3D0%26cropY2%3D1332",
+          "width": 1199,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
+      "publishedDateTime": "2020-11-23T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-north-america-artificial-intelligence-ai-chipsets-market-growth-predicted-at-35-through-2026.md",
       "title": "North America Artificial Intelligence (AI) Chipsets Market Growth Predicted at 35% through 2026",
       "excerpt": "Graphical Research :According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size, By Product (Graphics Processing Unit (GPU), Application-Specific Integrated Circuit (ASIC),",
@@ -1374,84 +1478,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-weather-proof-chip-aims-to-take-self-driving-tech-wireless-communications-to-next-level.md",
-      "title": "Weather-proof chip aims to take self-driving tech, wireless communications to next level",
-      "excerpt": "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-artificial-intelligence-and-the-law.md",
-      "title": "Artificial Intelligence and the Law",
-      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "originalUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

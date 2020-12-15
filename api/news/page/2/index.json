@@ -2,6 +2,320 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference.md",
+      "title": "A quick tour of what you missed at the NeurIPS 2020 AI conference",
+      "excerpt": "The world’s most closely watched AI conference didn’t have its usual scenic backdrop of Vancouver or Barcelona, but it was a nicely organized six-day virtual affair that delivered on all the usual fascinating talks and presentations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
+      "originalUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/a68795c9-ddd8-4fb7-85c5-b93bd3daa6a0/neurips-2020-knowledge-represenation-workshop.png",
+          "width": 1572,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
+      "publishedDateTime": "2020-12-14T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-gaming-platform-roblox-acquires-3d-facial-animation-firm-loomai.md",
+      "title": "Gaming platform Roblox acquires 3D facial animation firm Loom.ai",
+      "excerpt": "U.S. gaming platform Roblox Corp said on Monday it has acquired Loom.ai, a San Francisco-based startup providing real-time facial animation technology for 3D avatars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/loom-ai-m-a-roblox/gaming-platform-roblox-acquires-3d-facial-animation-firm-loom-ai-idUSKBN28O1YK?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201214&t=2&i=1544513436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBD12T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28O1YK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O1YK",
+      "publishedDateTime": "2020-12-14T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-the-most-impactful-non-compute-announcements-at-aws-re-invent-2020.md",
+      "title": "The Most Impactful Non-Compute Announcements At AWS Re: Invent 2020",
+      "excerpt": "Invent 2020 virtual summit. In this article, he explains the most impactful non-compute announcements and the reasons why you should care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7c1ea894a58f890b718f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/",
+      "publishedDateTime": "2020-12-14T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-underwater-robot-designed-to-keep-tabs-on-fish-farms.md",
+      "title": "Underwater robot designed to keep tabs on fish farms",
+      "excerpt": "The robot additionally utilizes artificial intelligence-based algorithms to observe the behaviour of the fish, adjusting its movements in order to disturb them as little as possible. As it travels ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
+      "originalUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/cacb1dc/2147483647/strip/true/crop/767x511+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2F69bcb3504d85958797d788cb2d58%2Fcagereportersensorer.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-cagereporter-fish-farms/?amp=true",
+      "publishedDateTime": "2020-12-14T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel.md",
+      "title": "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-after-737-max-debacle-former-boeing-ceo-makes-a-comeback-at-monarch-self-driving-tractor-venture.md",
+      "title": "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture",
+      "excerpt": "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "originalUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "publishedDateTime": "2020-12-14T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion.md",
       "title": "Is the AI software market headed for $150 billion or closer to $37 billion?",
       "excerpt": "At that point, the apps category will start to lose steam and the platform category will take the edge. In the apps category, vendors will lose the ability over time to charge a premium for AI-infused apps as this functionality will become a standard feature.",
@@ -200,6 +514,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
+      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
+      "excerpt": "International Business Machines Corporation IBM added new functionalities to IBM Watson to enhance Artificial Intelligence (AI)-powered automation offerings and improve results obtained from AI predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
+      "publishedDateTime": "2020-12-14T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-new-ai-scrabble-mod-only-allows-words-that-dont-exist.md",
       "title": "New AI Scrabble mod only allows words that don’t exist",
       "excerpt": "Thanks to a new AI version of the classic board game, his distressing knowledge of the dictionary will be of no use at all — because real words no longer count. The BLABRECS system is the brainchild of Max Kreminski,",
@@ -347,7 +695,7 @@
       "originalUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -392,18 +740,18 @@
     },
     {
       "path": "_news/2020-12-14-lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications.md",
-      "title": "LG Announces Autonomous Robot With Disinfecting UV Light for Various B2B Applications",
-      "excerpt": "Newest Addition to LG's CLOi Family of Robots Will Help Hotels, Schools, Offices, Restaurants and Retailers Deliver Peace of MindTORONTO, Dec.",
+      "title": "LG Announces Autonomous Robot With Disinfecting UV Light For Various B2B Applications",
+      "excerpt": "Combining its core competencies in robotics, artificial intelligence and autonomous vehicles with a deep understanding of customer needs, LG Electronics announced that it is developing an autonomous robot that will use ultraviolet (UV-C) light to disinfect high-touch,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029893418",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029893418",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-announces-autonomous-robot-with-disinfecting-uv-light-for-various-b2b-applications-1029890018",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1385553/LG_Electronics_Canada_LG_Announces_Autonomous_Robot_With_Disinfe.jpg",
+          "url": "https://mma.prnewswire.com/media/1374082/LG_UVC_Robot_01.jpg",
           "width": 400,
           "height": 306,
           "title": null,
@@ -886,359 +1234,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
-      "title": "The State Of AI And Its Impact On The Startup Ecosystem",
-      "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361600",
-      "originalUrl": "https://www.entrepreneur.com/article/361600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607937388-andy-kelly-0E-vhMVqL9g-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361600",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361600",
-      "publishedDateTime": "2020-12-14T01:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026.md",
-      "title": "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-13T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-bc.md",
-      "title": "Researchers aim to use artificial intelligence to save endangered whales in B.C.",
-      "excerpt": "Researchers are aiming to “teach” a computer to recognize the sounds of resident killer whales in order to develop a warning system for preventing ships from fatally striking endangered orcas off British Columbia’s coast.",
-      "sourceUrl": null,
-      "webUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c",
-      "originalUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/12/241629645-whales-w.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/",
-      "cdnAmpWebUrl": "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/",
-      "publishedDateTime": "2020-12-13T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Vancouver Sun",
-        "domain": "vancouversun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-ai-algorithms-are-slimming-down-to-fit-in-your-fridge.md",
-      "title": "AI Algorithms Are Slimming Down to Fit in Your Fridge",
-      "excerpt": "Artificial intelligence programs typically are power guzzlers. New research shows how to generate computer vision from a simple, low-power chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
-      "originalUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd41c88c8d3dcf3baf4f08a/master/pass/Business-AI-IoT-488760853.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
-      "publishedDateTime": "2020-12-13T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-algorithmic-and-ai-assessment-tools-a-new-frontier-in-disability-discrimination.md",
-      "title": "Algorithmic And AI Assessment Tools — A New Frontier In Disability Discrimination",
-      "excerpt": "Algorithmic assessment tools are a serious threat to disability rights. An inescapable tension exists between an algorithm’s use of big population-level data and the highly individualized experiences of disabled people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd5184be0d1d4808e864722%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/amp/",
-      "publishedDateTime": "2020-12-13T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-artificial-intelligence-ai-whats-in-store-for-2021.md",
-      "title": "Artificial Intelligence (AI): What’s In Store For 2021?",
-      "excerpt": "As seen with this week’s hugely successful IPO of C3.ai, there continues to be lots of interest in the AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd56a42e4afaed9fb21cb62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D162%26cropY2%3D3369",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/",
-      "publishedDateTime": "2020-12-12T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-netflix-explains-how-it-uses-ai-to-sell-you-on-a-show.md",
-      "title": "Netflix explains how it uses AI to sell you on a show",
-      "excerpt": "Netflix has explained how it uses AI to decide how to not only pitch movies, but predict their audiences — it's not just relying on execs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
-      "originalUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F73c97250-3cae-11eb-bd9d-6856f6ef8b98&client=amp-blogside-v2&signature=424034cddd4fcf1b4a10d4b979da695a6463bdd3",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
-      "publishedDateTime": "2020-12-12T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

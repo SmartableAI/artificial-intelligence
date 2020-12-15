@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Another U.S. Multinational Company Licenses OneBridge's Machine Learning SaaS Solution"
+    excerpt: "Our business strategy is to seek opportunities to incorporate Data Science and Machine Learning, business intelligence and predictive analytics to create cost-efficient, subscription-based ..."
+    publishedDateTime: 2020-12-15T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/another-u-s-multinational-company-licenses-onebridge-s-machine-learning-saas-solution-1029872920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Consumers Energy Advances Digital Transformation with OneBridge Machine Learning SaaS Solution"
     excerpt: "OneSoft Solutions Inc. is pleased to announce that Consumers Energy, a Michigan- based public utility provider, has entered into a multi-year agreement with the Company's wholly owned subsidiary, OneBridge Solutions Inc."
     publishedDateTime: 2020-12-14T12:00:00Z

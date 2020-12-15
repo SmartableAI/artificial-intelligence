@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese web giant Baidu may fancy building its own cars, report says"
+    excerpt: "Known as \"China's Google,\" Baidu is reportedly interested in not just developing self-driving software, but its own vehicles."
+    publishedDateTime: 2020-12-15T15:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/baidu-china-building-cars/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/baidu-china-building-cars/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/baidu-china-building-cars/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/DffVxQ58xMv1VNvdgGae9Q2yTBg=/2019/09/27/809b83bf-7d39-4f0a-8de4-472ac3330a59/ogi-apollo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China's Baidu considers making its own electric vehicles: Reuters, citing sources"
     excerpt: "The initiative would be a step up from peers such as Tencent, Amazon and Alphabet, which also developed or invested in related technology and start-ups."
     publishedDateTime: 2020-12-15T06:47:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106811279-1608013347797-gettyimages-1229059277-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1608012906"
         width: 4000
         height: 2669
-        isCached: true
-  - title: "Exclusive: China search giant Baidu considers making own electric vehicles - sources"
-    excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with knowledge of the matter, the latest move in a race among tech firms to develop smart cars."
-    publishedDateTime: 2020-12-15T10:26:00Z
-    webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSKBN28P0F2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P0F2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544609532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE08Y"
-        width: 817
-        height: 545
         isCached: true
   - title: "Baidu looks into making its own electric cars, holding talks with Geely, GAC, FAW, sources say"
     excerpt: "Baidu held talks with Chinese carmakers about making its own electric vehicles, sources say, the latest move in the race against other tech giants to build smart cars."

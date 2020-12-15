@@ -3,8 +3,8 @@ category: news
 title: "Amazon has revealed its first self-driving robotaxi and it looks wild"
 excerpt: "Amazon acquired Zoox, a self-driving car startup. Now, six months later, the company is lifting the lid off of its first self-driving taxi project. The autonomous mobility company announced today that its robotaxi can hold four people and travel up to 75 miles-per-hour."
 publishedDateTime: 2020-12-14T21:33:00Z
-originalUrl: "https://knowtechie.com/?p=136759"
-webUrl: "https://knowtechie.com/?p=136759"
+originalUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
+webUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://knowtechie.com/wp-content/uploads/2020/12/amazon-robotaxi-main-1000x600.jpg"
+  - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2020/12/amazon-robotaxi-main-1000x600.jpg"
     width: 1000
     height: 600
     isCached: true
@@ -245,6 +245,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Amazon's Zoox reveals self-driving shuttle without steering wheel"
+    excerpt: "Just six months after it was acquired by Amazon, self-driving technology company Zoox has unveiled a self-driving shuttle devoid of a steering wheel. Similar to the Origin unveiled in January by rival self-driving technology company Cruise,"
+    publishedDateTime: 2020-12-15T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130654_amazon-s-zoox-reveals-self-driving-shuttle-without-steering-wheel"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/zoox-self-driving-shuttle_100774057_h.jpg"
+        width: 1920
+        height: 1277
+        isCached: true
   - title: "Amazon’s Zoox unit has built its own self-driving taxi"
     excerpt: "Amazon.com Inc.’s Zoox unit has pulled back the curtains on a homegrown self-driving taxi that can cover up to 75 miles an hour and drive more than half a day on a single battery charge. Foster City,"
     publishedDateTime: 2020-12-14T18:35:00Z
@@ -288,6 +302,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "Fck6TcL8XBcionX5FBGCiS17obxcXok+E4Q937GPD6BZE4ObqNkUgJOuHJsp4YQJiL966Fc4/OutNylw/pEcZu72162VMUm7z4X9pmQHPxZ7w8r6PNL0jqpd80NGTmiq7tePzdEA90gHbSaVZkAtWSauDOZIqVtxbOvkLFCCZJ55yIVmbFE9WnhLrzkmlxoqayKmJtJIW3ncteYc0fyZJc+7p+yCedrsN60yx56SuVmHXjb5c4zMUw/izwJd6gTAwhMe7+8/bzdDuFYbDXNAvHQ6Nfx9EvptjZYcOC/FV1rKEh5et7ssybWvdPHkH32HojZIU5pZTRRDHrgNIs/lmkQ+Xp67TMC4rtnP/MsHRP8=;DqrVLYUXWMykTgbTQaz+nA=="
+secured: "2z2N73XdR4dUKgh00547Pe7KQt4ltcpPUmgR1kYkAjDkcis91PG+8MNoXtJdcEtzFi62r+sdQ3OpivXfVfMEPktga/XJ1CAD7ysN05ktKbbRQnK0dFvnQsI8HRzEumIyFml+duoQA7PzyYK4EsIGrhqfEl3hluWIEgTh5m0YUpMqhuAP5sxYwl0icpdlyB4s1mAq02L5t4EUc5Ddzc+W2/pXKuaDIGF1doLqnqNrBWsiuG9y9KoS+ETV4ccq1gO24vJr+Sc8WZ/Z4mwkTvjUQvjiPOZr1Pc4FcxnoAeE43voWD4yw9Wxnb0bLBliplKZUAhUUjrA7KAWhMIqzngwNPgbIVNy2tR7jmuB4VVGOA8=;ZBsft1WWWy7zYNZEY2D9ag=="
 ---
 

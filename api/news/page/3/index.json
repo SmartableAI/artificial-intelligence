@@ -2,6 +2,359 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
+      "title": "The State Of AI And Its Impact On The Startup Ecosystem",
+      "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361600",
+      "originalUrl": "https://www.entrepreneur.com/article/361600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607937388-andy-kelly-0E-vhMVqL9g-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361600",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361600",
+      "publishedDateTime": "2020-12-14T01:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026.md",
+      "title": "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-bc.md",
+      "title": "Researchers aim to use artificial intelligence to save endangered whales in B.C.",
+      "excerpt": "Researchers are aiming to “teach” a computer to recognize the sounds of resident killer whales in order to develop a warning system for preventing ships from fatally striking endangered orcas off British Columbia’s coast.",
+      "sourceUrl": null,
+      "webUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c",
+      "originalUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/12/241629645-whales-w.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/",
+      "cdnAmpWebUrl": "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c/wcm/a85d70f8-868f-45fe-8648-7906e56c0573/amp/",
+      "publishedDateTime": "2020-12-13T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Vancouver Sun",
+        "domain": "vancouversun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-ai-algorithms-are-slimming-down-to-fit-in-your-fridge.md",
+      "title": "AI Algorithms Are Slimming Down to Fit in Your Fridge",
+      "excerpt": "Artificial intelligence programs typically are power guzzlers. New research shows how to generate computer vision from a simple, low-power chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "originalUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd41c88c8d3dcf3baf4f08a/master/pass/Business-AI-IoT-488760853.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp",
+      "publishedDateTime": "2020-12-13T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-algorithmic-and-ai-assessment-tools-a-new-frontier-in-disability-discrimination.md",
+      "title": "Algorithmic And AI Assessment Tools — A New Frontier In Disability Discrimination",
+      "excerpt": "Algorithmic assessment tools are a serious threat to disability rights. An inescapable tension exists between an algorithm’s use of big population-level data and the highly individualized experiences of disabled people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd5184be0d1d4808e864722%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2020/12/13/algorithmic-and-ai-assessment-tools---a-new-frontier-in-disability-discrimination/amp/",
+      "publishedDateTime": "2020-12-13T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-artificial-intelligence-ai-whats-in-store-for-2021.md",
+      "title": "Artificial Intelligence (AI): What’s In Store For 2021?",
+      "excerpt": "As seen with this week’s hugely successful IPO of C3.ai, there continues to be lots of interest in the AI space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd56a42e4afaed9fb21cb62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D162%26cropY2%3D3369",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/",
+      "publishedDateTime": "2020-12-12T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-netflix-explains-how-it-uses-ai-to-sell-you-on-a-show.md",
+      "title": "Netflix explains how it uses AI to sell you on a show",
+      "excerpt": "Netflix has explained how it uses AI to decide how to not only pitch movies, but predict their audiences — it's not just relying on execs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
+      "originalUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F73c97250-3cae-11eb-bd9d-6856f6ef8b98&client=amp-blogside-v2&signature=424034cddd4fcf1b4a10d4b979da695a6463bdd3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
+      "publishedDateTime": "2020-12-12T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-c3ai-ipos.md",
       "title": "Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs",
       "excerpt": "Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least.",
@@ -459,6 +812,57 @@
       ]
     },
     {
+      "path": "_news/2020-12-12-to-boost-birth-rate-japans-government-considers-ai-to-match-spouses.md",
+      "title": "To boost birth rate, Japan's government considers AI to match spouses",
+      "excerpt": "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "originalUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "publishedDateTime": "2020-12-11T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence.md",
       "title": "New Project Will Give U.S. MQ-9 Reaper Drones Artificial Intelligence",
       "excerpt": "The Pentagon’s Joint Artificial Intelligence Center has awarded a $93.3 million contract to General Atomics Aeronautical Systems, Inc to equip their drone with new AI technology for smart, autonomous operations.",
@@ -510,6 +914,59 @@
       ]
     },
     {
+      "path": "_news/2020-12-11-exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler.md",
+      "title": "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler",
+      "excerpt": "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg",
+          "width": 800,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T09:39:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-tesla-expands-in-house-self-driving-testing-to-phoenix.md",
       "title": "Tesla expands in-house Self-Driving testing to Phoenix",
       "excerpt": "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”",
@@ -518,7 +975,7 @@
       "originalUrl": "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -807,463 +1264,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-td-bank-is-using-ai-to-boost-engagement-with-its-customers.md",
-      "title": "TD Bank is using AI to boost engagement with its customers",
-      "excerpt": "TD Bank upgraded its mobile banking app in Canada with AI-powered features that tailor users' experiences based on past behavior and transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "originalUrl": "https://www.businessinsider.com/td-bank-closing-ux-gap-with-canadian-competitors-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fca3f1c037cbd0018613ca7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-facial-recognitions-fate-could-be-decided-in-2021.md",
-      "title": "Facial recognition's fate could be decided in 2021",
-      "excerpt": "A number of lawsuits and legislative measures mean the debate over the use of facial recognition is poised to ramp up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "originalUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/i8mx0C0pY9FlnIbYSf-cGiOsaeE=/1200x630/2020/12/10/62311dd0-dcb3-4807-a601-9d4b92a337da/gettyimages-1195225361.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/",
-      "publishedDateTime": "2020-12-11T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-how-ai-can-help-surmount-bi-shortcomings.md",
-      "title": "How AI Can Help Surmount BI Shortcomings",
-      "excerpt": "If business leaders can reconfigure their thinking about BI and AI tools so that BI, AI and human employees can do what they are best at, enterprises can become far more efficient and innovate at much faster speeds than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4ed34a0fa20006cf423a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/",
-      "publishedDateTime": "2020-12-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising.md",
-      "title": "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising",
-      "excerpt": "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd299ba7aaefd66c9fe94fb%2F0x0.jpg",
-          "width": 1199,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/",
-      "publishedDateTime": "2020-12-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-natural-language-processing-nlp-market-analysis-trends-growth-size-share-and-forecast-2019-to-2025.md",
-      "title": "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025",
-      "excerpt": "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "originalUrl": "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/c/Tc11826692_g.jpg",
-          "width": 564,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends",
-      "publishedDateTime": "2020-12-11T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise.md",
-      "title": "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?",
-      "excerpt": "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
-      "originalUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2cbb4abc4e6125bd76adf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/",
-      "publishedDateTime": "2020-12-11T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented.md",
-      "title": "Artificial Intelligence (AI) Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented",
-      "excerpt": "Moreover, the advent of image, face and voice recognition technologies are likely to catapult the market growth in the 21st generation. The Asia Pacific AI market is anticipated to be the fastest-growing market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-facts-dynamics-segments-and-forecast-predictions-presented-2020-12-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-hyundai-motor-buys-80-of-robotics-firm-boston-dynamics.md",
-      "title": "Hyundai Motor Buys 80% of Robotics Firm Boston Dynamics",
-      "excerpt": "Hyundai Motor Group agreed to buy a controlling stake in Boston Dynamics Inc. in a deal that values the mobile robot firm at $1.1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSByH1t.THsc/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics",
-      "publishedDateTime": "2020-12-11T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-this-entrepreneur-developed-a-cryptocurrency-and-artificial-intelligence-to-help-people.md",
-      "title": "This entrepreneur developed a cryptocurrency and artificial intelligence to help people",
-      "excerpt": "Citibeats by Ivan Caballero detects the real-time needs of citizens in order to make informed decisions using ethical artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361483",
-      "originalUrl": "https://www.entrepreneur.com/article/361483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607628165--MG-92601.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361483",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361483",
-      "publishedDateTime": "2020-12-10T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

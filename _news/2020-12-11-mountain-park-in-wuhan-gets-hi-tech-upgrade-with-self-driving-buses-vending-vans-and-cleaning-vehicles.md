@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Boeing's fired CEO's next act involves self-driving tractors made by a former Tesla executive"
+    excerpt: "Boeing's embattled 737 Max plane returned to the skies this year, as the company's former CEO headed to Silicon Valley."
+    publishedDateTime: 2020-12-15T16:42:00Z
+    webUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5fd8decc78a5740019a15858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
     publishedDateTime: 2020-12-11T05:10:00Z

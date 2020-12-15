@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-05-this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public.md",
+      "title": "This 25-year-old is now a billionaire, after his self-driving car company Luminar went public",
+      "excerpt": "Austin Russell founded Luminar Technologies in 2012 and joins a short list of people who have amassed a billion-dollar fortune before the age of 30",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-268636/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-25-year-old-is-now-a-billionaire-after-his-self-driving-car-company-luminar-went-public-11607114665",
+      "publishedDateTime": "2020-12-04T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-improving-ophthalmologic-care-through-artificial-intelligence.md",
+      "title": "Improving ophthalmologic care through artificial intelligence",
+      "excerpt": "For some, hearing the words artificial intelligence, or AI, sparks imaginative scenes of robot overlords, self-driving cars, dystopian surveillance, chatbots, and machines replacing humans at work.",
+      "sourceUrl": null,
+      "webUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "originalUrl": "https://med.stanford.edu/ophthalmology/news-and-media/annualreport_2020/artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://med.stanford.edu/content/dam/sm/ophthalmology/images/artificial_intelligence.jpeg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-3-popular-robinhood-stocks-that-ill-likely-never-sell.md",
       "title": "3 Popular Robinhood Stocks That I'll Likely Never Sell",
       "excerpt": "E-commerce, the migration to the cloud, artificial intelligence, streaming TV ... In particular, I think that Waymo, the company's self-driving car subsidiary, will be a major success story ...",
@@ -420,6 +525,50 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
+      "title": "7 Machine Learning Stocks for a Smarter Future",
+      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-as-algorithms-take-over-more-of-the-economy-we-should-cede-control-very-carefully.md",
       "title": "As Algorithms Take Over More of the Economy, We Should Cede Control (Very) Carefully",
       "excerpt": "As they proliferate, experts say, we need to make sure they don’t collude against us in damaging ways. Fears of malevolent artificial intelligence plotting humanity’s downfall are a staple of science fiction. But there are plenty of nearer-term ...",
@@ -460,50 +609,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-7-machine-learning-stocks-for-a-smarter-future.md",
-      "title": "7 Machine Learning Stocks for a Smarter Future",
-      "excerpt": "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
-      "originalUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/",
-      "publishedDateTime": "2020-12-01T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1260,110 +1365,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-self-driving-cars-a-level-by-level-explainer-of-the-road-to-autonomy.md",
-      "title": "Self-driving cars: A level-by-level explainer of the road to autonomy",
-      "excerpt": "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "publishedDateTime": "2020-11-23T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada.md",
-      "title": "Gatik And Loblaw Partner To Bring First-Ever Driverless Deliveries To Canada",
-      "excerpt": "Canada is poised to see driverless commercial delivery of goods come to Toronto, thanks to startup Gatik bagging a $25M infusion of capital plus a partnership with Canada’s largest retailer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbab97107d4f398e3ecce1d%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1886%26cropY1%3D0%26cropY2%3D1332",
-          "width": 1199,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
