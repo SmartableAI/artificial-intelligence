@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170139-u-s-fintech-boast-ai
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170139-u-s-fintech-boast-ai-secures-23-million-though-series-a-funding-round-led-by-radian-capital/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "US and Qatar Business Initiatives Now Valued at Around $200 Billion, Supported by Smart City Projects, Fintech, and Other Digital Technologies"
-    excerpt: "US & Qatar business initiatives now valued at around $200 billion, supported by smart city projects, Fintech, and other digital technologies."
-    publishedDateTime: 2020-12-15T03:49:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170239-us-and-qatar-business-initiatives-now-valued-at-around-200-billion-supported-by-smart-city-projects-fintech-and-other-digital-technologies/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170239-us-and-qatar-business-initiatives-now-valued-at-around-200-billion-supported-by-smart-city-projects-fintech-and-other-digital-technologies/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170239-us-and-qatar-business-initiatives-now-valued-at-around-200-billion-supported-by-smart-city-projects-fintech-and-other-digital-technologies/amp/"
+  - title: "Boast.ai raises $23 million to help businesses nab government tax credits"
+    excerpt: "Boast.ai, which is developing a software platform to help companies obtain government innovation credits, raised $23 million."
+    publishedDateTime: 2020-12-10T21:00:00Z
+    webUrl: "https://venturebeat.com/2020/12/10/boast-ai-raises-23-million-to-help-businesses-nab-government-tax-credits/"
+    ampWebUrl: "https://venturebeat.com/2020/12/10/boast-ai-raises-23-million-to-help-businesses-nab-government-tax-credits/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/boast-ai-raises-23-million-to-help-businesses-nab-government-tax-credits/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 8
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Doha-Qatar-mike-swigunski-unsplash-600x468.jpg"
-        width: 600
-        height: 468
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Boast-Team-e1607046356235.png?w=1200&strip=all"
+        width: 1189
+        height: 600
         isCached: true
 
 secured: "y7EtSXqEmlad9MpxrGZyPAjl34E0/IyDjEBynvU1UQ6JhLsgKP5zU+QSBig6Q7IwcrTJ5VA8EZaPEGZBMjZbFLh2go9fWUOX2fPiEFOy3rWOX/1LlfCSppnoZCRbEmNWvx0uMWKG3Zq/8tcypv06HyXQ2QlYhU8PbWyvvDcUAUzzTxtq0PIqAjecFymzrGf6ieGN7N+qqEJ/mdtyKuuBehNirTy2NzVqDWMcE3gvkjNJHKn5RjVZCq6c6jE1HxiTMHZSgU7iImNv8rvi/V+QOKC2V4roByGwmJ9siOxTpN1V/cul9pVcZGEKzuEubWiToiesElDmLkEpwUALyYlKkUqD5oZ+0I56fUS91weCGsxk9lcOb6TZvxeCYdCwASSt9FvxaKWM+YqMz6bdqUxpQlaU3VyUI0dVMeVyaT5rBNnzHw8dKhtFv6Kc8ya7qlQkk9oQiO0qXGawX073V+iPDsjyi/AZiPHRMIaPwW/aUAsDKPWzQZGkEBOSG5EnmhRRG3+4KhbdHn4/Ab1gn9NvWg==;cV9y6eo2kHDscBfTF9axMw=="

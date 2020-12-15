@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Electric, self-driving tractor may just be the future of farming as we know it"
-    excerpt: "This autonomous, all-electric tractor promises to be a game-changer for farms. Here's what makes it so special."
-    publishedDateTime: 2020-12-10T15:35:00Z
-    webUrl: "https://www.digitaltrends.com/news/monarch-tractor-self-driving/"
-    ampWebUrl: "https://www.digitaltrends.com/news/monarch-tractor-self-driving/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/monarch-tractor-self-driving/?amp"
+  - title: "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture"
+    excerpt: "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at"
+    publishedDateTime: 2020-12-14T18:53:00Z
+    webUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/"
+    ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
     images:
-      - url: "https://icdn5.digitaltrends.com/image/digitaltrends/monarchembargo12-8-20tractor-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "T5YrGuUVbz7MMWMlC+pilXv3n1cuds1fjx66GRWekjKBa96RLDjX0ojCGKICv2f95h8UGzhsAk+Z7PAGN/lKJqDK0trkuygymbUuRNfzMjDIbvK/KUV+ZGBDB+KAx/tLka0yTzx8rJaYsJQuuAO9NycM976rUTM0nKpwZaQNR6jgj+haqezrI2bMfGWxXlNEB9d+b5e+nkTEp/DO2YUHUQUapZjkhzr8O4HqYFEEOzVH270du7/JloZW5FKHtwV+Anq7YyZRCpCg+UBFM+6qqvNl/In/ZxN+v2mLETmsMKqw82mjx2dKyPKr2qngDr3K5z/kg3DOSm6FmkkhgMGCCcpYkiOgLgas8WBugrMR4jOzWw7LxEwaaSheYYKSbjPdKxtiePlOleYMG6zyW0DoJUfvV4+bCeS24Eoh+2iY7Z8qr8aiwS9fh6EBL0nXz1acurRYFyGtlrwS4Ze35eQgWDbhoy3fIX9Zv2yp82IOfCBMq1AICihHmhZ/p/8lQh3PQ92OFDJCCpLN/So/7PVHIw==;4eIGv8cncu7NmxyD3c60jQ=="

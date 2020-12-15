@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
+    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T05:37:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 64
+    images:
+      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "ESO and Microsoft will work with artificial intelligence to boost astronomy"
     excerpt: "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement."
     publishedDateTime: 2020-12-10T20:19:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/41/2020/12/vlt-brunier-nuit-1024x1024.jpg"
         width: 1024
         height: 1024
-        isCached: true
-  - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
-    excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
-    publishedDateTime: 2020-12-11T05:32:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-is-going-big-on-reinforcement-learning-heres-how/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/Screenshot-101.png"
-        width: 957
-        height: 597
         isCached: true
   - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
     excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."

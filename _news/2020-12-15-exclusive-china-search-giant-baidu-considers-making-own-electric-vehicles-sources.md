@@ -3,10 +3,10 @@ category: news
 title: "Exclusive: China search giant Baidu considers making own electric vehicles - sources"
 excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with knowledge of the matter, the latest move in a race among tech firms to develop smart cars."
 publishedDateTime: 2020-12-15T05:53:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSKBN28P0F2"
-webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSKBN28P0F2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P0F2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2"
+originalUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idINKBN28P0F2"
+webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idINKBN28P0F2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28P0F2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28P0F2"
 type: article
 quality: 82
 heat: -1
@@ -62,6 +62,6 @@ related:
         height: 557
         isCached: true
 
-secured: "qGYbjdJH5YPapwhrHkabOpvwrCRcNWqVXfkOQGQg3/4rg05CfrPNeo9T4+SgV14ECl5xW0D2AYqXz7V1PWzb4FEix8Qhx9J/s6w4WvKljFp6O/4NqrVsk+MdYr7cXMj7g8KP9c+++1VVFGgdrEb6Lz2HPEMK+SVbYegwS8oE7F1bfkcKG9jVVwQJJiCl43/lRqQ2nEXMxQT5vVvzPYZZBqKhGw4W6qaDCcqE2WWvuJ3+eNnJ8kCsJdvMPPzbbubhvi6nA75ASrM2rsVdywKur8wFSX9DPnrxCthzkrZJBPWJORBkrBLNtzaXSfzuVlTfmWYUfhxCGay6RWoszyNgIJ/T+FGIc6dbSAK2b8nTZ3I=;H4yH1Xeyis6Fr+YQGSc3Gg=="
+secured: "9hkyS3D5l03vw3/M+S50GPMb5BAgph145PcThEGcQqE/yBCb2OZoCml03YfZmz8rWfd5IIVATO0IrUmeoDQyCpsFCJvRj6LVYb4JAyQqupebRaQa7AJ6h702Y/l4qLcke0jfi1VnDosnSIUNxlzF/wcqVcABe+We89EGTogPlrZwrtEXxdsmFLZ2G9lfowUjec1JwhsHcBiMqPDLcZflI4sC1FiQroUb6aDJh0IUBhLcuZtY31G6v1g6/pu0tFImOIj7o+fuKGOn9K3g9qaoM/GnRBeEJ/JR8/5lJ5t6Rb70GqpH2+ytAeDBMt74oR6Lb/u9MnsX828J6nzx0V9xgmEZegGLwdrS3xxSVLq/EYk=;84euQw0pXEm+Isz+E4gcmA=="
 ---
 

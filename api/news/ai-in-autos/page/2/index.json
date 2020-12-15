@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-03-self-driving-cars-being-tailgated-by-obnoxious-human-drivers.md",
+      "title": "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers",
+      "excerpt": "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc85171be22ff9f9a86dc61%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D5250%26cropY1%3D441%26cropY2%3D2859",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/",
+      "publishedDateTime": "2020-12-03T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
       "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
       "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
@@ -1351,50 +1403,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-scholars-delve-deeper-into-the-ethics-of-artificial-intelligence.md",
-      "title": "Scholars Delve Deeper Into The Ethics Of Artificial Intelligence",
-      "excerpt": "\"Take driverless cars,\" he says. \"If there's an accident involving a driverless car, what policies do we have in place? What kind of insurance coverage do they have? And who needs to take insurance?\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/sections/alltechconsidered/2016/11/21/502905772/scholars-delve-deeper-into-the-ethics-of-artificial-intelligence",
-      "originalUrl": "https://www.npr.org/sections/alltechconsidered/2016/11/21/502905772/scholars-delve-deeper-into-the-ethics-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2016/11/21/gettyimages-482280052_wide-95d1955db46ef1604b63642137bbcd041d0ceef4.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

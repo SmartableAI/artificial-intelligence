@@ -2,6 +2,147 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-11-17-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-tensorflow-robot-recognizes-objects.md",
+      "title": "TensorFlow Robot Recognizes Objects",
+      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-nvidias-ai-supercomputers-get-a-massive-upgrade.md",
+      "title": "NVIDIA's AI Supercomputers Get a Massive Upgrade",
+      "excerpt": "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
+      "publishedDateTime": "2020-11-16T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system.md",
       "title": "Ride Vision raises $7M for its AI-based motorcycle safety system",
       "excerpt": "Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd.",
@@ -1063,161 +1204,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-9-key-issues-to-consider-when-operationalize-ai-for-enterprises.md",
-      "title": "9 Key Issues To Consider When Operationalize AI For Enterprises",
-      "excerpt": "This year, large corporations in the financial industry are operationalizing their AI initiatives despite the challenges from the Covid-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29080bdc43adcb3f521b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/amp/",
-      "publishedDateTime": "2020-11-16T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-the-eyes-have-it-the-future-of-human-machine-relations.md",
-      "title": "The Eyes Have It: The Future Of Human-Machine Relations",
-      "excerpt": "This kind of eye contact is all about making the daily work of employees more convenient, ergonomically-friendly, and even fun by controlling applications based on user intention – via eye tracking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad41a2529cdb75bc46e53e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/amp/",
-      "publishedDateTime": "2020-11-16T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-amd-goes-after-nvidia-with-new-gpu-for-the-datacenter.md",
-      "title": "AMD Goes After NVIDIA With New GPU For The Datacenter",
-      "excerpt": "AMD announced its first data center GPU to compete in high-performance computing (HPC) and Artificial Intelligence (AI). Last year, the company announced that it would bifurcate its GPU technology into two architectures: CDNA for computation and RDNA for graphics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb27a2cf774c190ebedca0d%2F0x0.jpg",
-          "width": 899,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/",
-      "publishedDateTime": "2020-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

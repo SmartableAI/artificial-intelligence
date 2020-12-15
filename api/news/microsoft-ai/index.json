@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-11-eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy.md",
-      "title": "ESO and Microsoft will work with artificial intelligence to boost astronomy",
-      "excerpt": "Following of “Transforma Chile #ReactivaciónDigital” investment plan announced yesterday, Brad Smith, President of Microsoft, met with ESO authorities to close a new stage of their collaboration agreement.",
+      "path": "_news/2020-12-15-microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud.md",
+      "title": "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud",
+      "excerpt": "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future.",
       "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/",
-      "originalUrl": "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/",
+      "webUrl": "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/41/2020/12/vlt-brunier-nuit-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
+          "url": "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T12:19:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms",
+      "publishedDateTime": "2020-12-14T21:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

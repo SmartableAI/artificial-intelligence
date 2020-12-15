@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/5fd21d91d80dc.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "NUS researchers finds best combination of available therapies against COVID-19"
-    excerpt: "Researchers from the National University of Singapore have utilised a ground-breaking AI platform to find an optimal combination of available therapies against COVID-19. The research team identified the drug combination from over 530,"
-    publishedDateTime: 2020-12-10T15:53:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/nuos-nrf121020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251258_web.jpg"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Biocogniv & Research Partners Detail First Artificial Intelligence Tool to Help Laboratories Rule-Out COVID-19"
     excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the pe ..."

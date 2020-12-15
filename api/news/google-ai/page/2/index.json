@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-music-from-the-heart-with-an-ai-assist.md",
+      "title": "Music from the heart, with an AI assist",
+      "excerpt": "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
+      "originalUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mj-jacob.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-20T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-new-apple-m1-macbook-pro-trounces-intel-based-predecessor-on-ai-training.md",
+      "title": "New Apple M1 MacBook Pro trounces Intel-based predecessor on AI training",
+      "excerpt": "Apple has released a new version of Google's TensorFlow v2.4 machine learning library that’s optimized for its new M1-powered Macs. The new M1-optimized release leverages Apple’s new ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "originalUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SqqGSo29Dawg8RLk99zkXG-1200-80.jpg",
+          "width": 980,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
+      "publishedDateTime": "2020-11-19T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version.md",
       "title": "Google TensorFlow ML framework gets an Apple M1-optimized version",
       "excerpt": "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ...",
@@ -1400,59 +1504,7 @@
         "Google AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-11-03-alphabets-project-amber-uses-ai-to-try-to-diagnose-depression-from-brain-waves.md",
-      "title": "Alphabet’s Project Amber uses AI to try to diagnose depression from brain waves",
-      "excerpt": "Alphabet's X lab developed hardware and software that attempted to diagnose depression and anxiety from brain wave readings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
-      "originalUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/amp/",
-      "publishedDateTime": "2020-11-02T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }

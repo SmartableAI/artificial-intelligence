@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-make
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: GeekWire
@@ -29,6 +29,24 @@ images:
     width: 630
     height: 420
     isCached: true
+
+related:
+  - title: "Ousted Boeing CEO now a consultant for 35-employee startup that sells self-driving electric tractors"
+    excerpt: "\"My heart will always be with Boeing,” said former CEO Dennis Muilenburg. “Now I have an opportunity for a second career, and it’s very fulfilling.\""
+    publishedDateTime: 2020-12-14T21:22:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 29
+    images:
+      - url: "https://www.chicagotribune.com/resizer/F6m6UYZvrAZECaIq467w_OjDFpI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SUG4NAL565FMHAULNE4MR4SKCY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ML0NTpXit8JaP6gE8kGrQCUTMF8I8+9exokUhXg5zKEMiCTLmzjxivfU5vfYvpcjVsacJZEJu6RPzBXcG5grs9QJf8C+SpSqdM4L0f4U9rfSnrdZJjJiGv0SipSvKltgC6fnyIavgG6ooPsk8qSt6QyHzN7bWy0UHWsrwid4Ks/VpA7HEd1qNO+BR6MrPKU1Z6GwnQDtvMrxdJRrHtVK8DpgZs6SRIr7vrmjbyP8XE6BKAsw4akA4hB9KKGVQ59J2cTd9K6T8lBvMqdoJaRzWwapmQEEbnyOGCXRFU59O/SgLUKM7ee+PLwdXtM9M3+3FEEAja/TFV7QcdWLV6tK3XcZf0g9M/Y4gEicqN99SKfmGU1OylH351D4w13vQimHZ4l+nke2hHAFR5iMfBf3OUBtgqc5ftifi1vS7GVD5qbqIZCHrK+QaGx+LVX/oDMjXymSFZsX47e1Qy/mZ15+3oCm4k4nA4zRwIT+tdOl8Mhe+FoF+WtZaeW1ApAgD1Oqo+Wn8lvRjAndwky5HjogyQ==;hQO2PtMPwM7cTvyqSk6k8w=="
 ---

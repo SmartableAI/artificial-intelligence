@@ -204,7 +204,7 @@ related:
   - title: "Amazon has revealed its first self-driving robotaxi and it looks wild"
     excerpt: "Amazon acquired Zoox, a self-driving car startup. Now, six months later, the company is lifting the lid off of its first self-driving taxi project. The autonomous mobility company announced today that its robotaxi can hold four people and travel up to 75 miles-per-hour."
     publishedDateTime: 2020-12-14T21:33:00Z
-    webUrl: "https://knowtechie.com/?p=136759"
+    webUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
     type: article
     provider:
       name: KnowTechie

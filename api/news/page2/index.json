@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-14-how-rolls-royce-seeks-to-ensure-the-ethical-integrity-of-its-ai-black-boxes.md",
+      "title": "How Rolls-Royce seeks to ensure the ethical integrity of its AI black boxes",
+      "excerpt": "Royce has created a ‘five checks AI philosophy’ that aims to externally interrogate whether its AI systems are acting fairly.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
+      "originalUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-12/1E234A2D-6A42-4D06-9866-6F37D9E47CD9.jpeg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
+      "publishedDateTime": "2020-12-14T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-three-tips-to-maximize-your-investment-in-customer-service-ai.md",
+      "title": "Three Tips To Maximize Your Investment In Customer Service AI",
+      "excerpt": "In particular, artificial intelligence can dramatically lower customer service costs while improving outcomes like customer satisfaction (CSAT) and first contact resolution (FCR). However, that's only if you do it right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd3d45cbc9c462979496ec6%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/amp/",
+      "publishedDateTime": "2020-12-14T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan.md",
       "title": "10 years on, missing boy re-united with family by face recognition tool DARPAN",
       "excerpt": "The boy from Madhya Pradesh was found at a children's home in Howrah, West Bengal, a press release said here. He went missing on October 7, 2010 from",
@@ -93,58 +187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-speech-recognition-software-market-technology-advancement-and-future-scope-till-2025.md",
-      "title": "Speech Recognition Software Market Technology Advancement and Future Scope Till 2025",
-      "excerpt": "The Speech Recognition Software market was valued at 48500 Milion US$ in 2019 and is projected to reach 69700 Million US$ by 2025, at a CAGR of 3.9% during the forecast period. A speech recognition software identifies words spoken by an individual or speaker into a microphone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1214,58 +1256,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more.md",
-      "title": "Bringing data back to the future: Forecasting supply chains with savvy data usage, deep learning, and more",
-      "excerpt": "Historical insights are routinely deployed to determine market forecasts, but how does one predict shifts in consumer behavior related to an unprecedented modern plague? The answer: Clever data use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/11/0eea8d4a-e8e0-40b4-8444-869d5c3d7aa3/resize/1200x/0b738c38ac165efdd7d7439d63bbc47a/monsitj-3.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
-      "publishedDateTime": "2020-12-11T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

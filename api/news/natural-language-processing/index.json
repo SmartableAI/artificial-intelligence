@@ -107,58 +107,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-14-speech-recognition-software-market-technology-advancement-and-future-scope-till-2025.md",
-      "title": "Speech Recognition Software Market Technology Advancement and Future Scope Till 2025",
-      "excerpt": "The Speech Recognition Software market was valued at 48500 Milion US$ in 2019 and is projected to reach 69700 Million US$ by 2025, at a CAGR of 3.9% during the forecast period. A speech recognition software identifies words spoken by an individual or speaker into a microphone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-technology-advancement-and-future-scope-till-2025-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-14-the-state-of-ai-and-its-impact-on-the-startup-ecosystem.md",
       "title": "The State Of AI And Its Impact On The Startup Ecosystem",
       "excerpt": "In some cases, these non-human systems can do tasks even better than one can. AI can now mimic human speech, translate languages, diagnose cancers, draft legal documents, and play games and even beat its human counterpart. In today’s social systems can ...",
@@ -1493,6 +1441,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets.md",
+      "title": "AWS adds natural language search service for business intelligence from its data sets",
+      "excerpt": "When Amazon Web Services launched QuickSight, its business intelligence service, back in 2016, the company wanted to provide product information and customer information for business users — not just developers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
+      "originalUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
+      "publishedDateTime": "2020-12-01T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

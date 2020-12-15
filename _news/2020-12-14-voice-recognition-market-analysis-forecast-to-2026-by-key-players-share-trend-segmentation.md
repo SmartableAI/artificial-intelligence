@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
-    excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2020-12-10T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2027"
     excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Manufacturing Market Size study, by Offering, Technology, Application, by End-user Industry and Regional Forecasts 2020-2027',"
     publishedDateTime: 2020-12-11T16:58:00Z
@@ -94,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Leaning Machine Market 2020 Growth Opportunities, Market Shares, Future Estimations and Key Countries by 2025"
+    excerpt: "Global Leaning Machine Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end"
+    publishedDateTime: 2020-12-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-leaning-machine-market-2020-growth-opportunities-market-shares-future-estimations-and-key-countries-by-2025-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,19 +113,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
-    excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-12-10T15:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=390843"
+  - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
+    publishedDateTime: 2020-12-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2020-key-drivers-and-challenges-opportunities-and-forecast-insights-by-2025-2020-12-14"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
     excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"

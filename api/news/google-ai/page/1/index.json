@@ -614,6 +614,92 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-googles-grip-on-deepmind-set-to-cost-taxpayers-tens-of-billions.md",
+      "title": "Google's grip on DeepMind set to cost taxpayers tens of billions",
+      "excerpt": "DeepMind was snapped up by Google in 2014 for around £400m - but one of its early investors believes it is now worth at least $30bn One of the founding investors in DeepMind has warned that UK ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+          "width": 1960,
+          "height": 1225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "publishedDateTime": "2020-12-02T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-googles-grip-on-deepmind-set-to-cost-taxpayers-tens-of-billions.md",
+      "title": "Google's grip on DeepMind set to cost taxpayers tens of billions",
+      "excerpt": "DeepMind was snapped up by Google in 2014 for around £400m - but one of its early investors believes it is now worth at least $30bn One of the founding investors in DeepMind has warned that UK taxpayers will miss out on billions of pounds in revenue from a pioneering protein breakthrough because of the sale of the technology company to Google six years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+          "width": 1960,
+          "height": 1225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "publishedDateTime": "2020-12-02T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-why-enterprises-are-turning-from-tensorflow-to-pytorch.md",
       "title": "Why enterprises are turning from TensorFlow to PyTorch",
       "excerpt": "The deep learning framework PyTorch has infiltrated the enterprise thanks to its relative ease of use. Three companies tell us why they chose PyTorch over Google’s renowned TensorFlow framework.",
@@ -1397,110 +1483,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-music-from-the-heart-with-an-ai-assist.md",
-      "title": "Music from the heart, with an AI assist",
-      "excerpt": "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
-      "originalUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mj-jacob.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-new-apple-m1-macbook-pro-trounces-intel-based-predecessor-on-ai-training.md",
-      "title": "New Apple M1 MacBook Pro trounces Intel-based predecessor on AI training",
-      "excerpt": "Apple has released a new version of Google's TensorFlow v2.4 machine learning library that’s optimized for its new M1-powered Macs. The new M1-optimized release leverages Apple’s new ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "originalUrl": "https://www.techradar.com/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SqqGSo29Dawg8RLk99zkXG-1200-80.jpg",
-          "width": 980,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/apple-m1-macs-will-make-training-ai-much-faster",
-      "publishedDateTime": "2020-11-19T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

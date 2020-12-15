@@ -261,6 +261,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud.md",
+      "title": "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud",
+      "excerpt": "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms",
+      "publishedDateTime": "2020-12-14T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
       "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
       "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
@@ -676,6 +719,58 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-after-737-max-debacle-former-boeing-ceo-makes-a-comeback-at-monarch-self-driving-tractor-venture.md",
+      "title": "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture",
+      "excerpt": "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "originalUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/",
+      "publishedDateTime": "2020-12-14T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1154,100 +1249,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
       "publishedDateTime": "2020-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-how-rolls-royce-seeks-to-ensure-the-ethical-integrity-of-its-ai-black-boxes.md",
-      "title": "How Rolls-Royce seeks to ensure the ethical integrity of its AI black boxes",
-      "excerpt": "Royce has created a ‘five checks AI philosophy’ that aims to externally interrogate whether its AI systems are acting fairly.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
-      "originalUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-12/1E234A2D-6A42-4D06-9866-6F37D9E47CD9.jpeg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
-      "publishedDateTime": "2020-12-14T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-three-tips-to-maximize-your-investment-in-customer-service-ai.md",
-      "title": "Three Tips To Maximize Your Investment In Customer Service AI",
-      "excerpt": "In particular, artificial intelligence can dramatically lower customer service costs while improving outcomes like customer satisfaction (CSAT) and first contact resolution (FCR). However, that's only if you do it right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd3d45cbc9c462979496ec6%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/amp/",
-      "publishedDateTime": "2020-12-14T04:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

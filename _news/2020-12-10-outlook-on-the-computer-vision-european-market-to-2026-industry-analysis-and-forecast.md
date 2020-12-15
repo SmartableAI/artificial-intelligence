@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Outlook on the Computer Vision European Market to 2026 - Industry Analysis and Forecast"
-excerpt: "(MENAFN - PR Newswire) DUBLIN, Dec. 9, 2020 /PRNewswire/ -- The \"Europe Computer Vision Market by Product Type report has been added to ResearchAndMarkets.com's offering. The Europe Computer ..."
-publishedDateTime: 2020-12-10T03:40:00Z
-originalUrl: "https://menafn.com/1101259132/Outlook-on-the-Computer-Vision-European-Market-to-2026-Industry-Analysis-and-Forecast"
-webUrl: "https://menafn.com/1101259132/Outlook-on-the-Computer-Vision-European-Market-to-2026-Industry-Analysis-and-Forecast"
+excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast"
+publishedDateTime: 2020-12-09T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
+webUrl: "https://www.prnewswire.com/news-releases/outlook-on-the-computer-vision-european-market-to-2026---industry-analysis-and-forecast-301189434.html"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?65688"
-    width: 437
-    height: 250
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
-secured: "wkvjd26znlWjnNlIlIVphhct1yLfa+xjRdcv08H6FuvxOVcvHMlc7OzPnv0XK2BVMiU0QT19j2K6tXAEQAHP2D0qmUWKbTLv9AbuQdXt0J1pcjFpuPUpH1Gjc6NHsKG5kEwQctOmAG19hS33DotWqEU3yuXAWtcJbRgOaWeKObwKAM/EeU7Hj4hW67YV0da6Qtv2laRijmyl5GWst7wRYHVhNqy0u8vKx0SoB1kyxabiP2faGt+PN7+G19j554scUwpLIFlyaKiJWu5KW4lkNtNV+Nw8tD97XCVoZvMhpWNDHUCNAbrx7kGURYj/AcNBAzIxTeUI+WDbSIHLy7HuTgWWS/Ee702905NzqiotogQ=;csZMJoaLwKL/iE4oWrHlCQ=="
+secured: "ZRF2NKjuYTtXoSzbITgovjeL8y9mKA7q+NXyAadkkkZxrCymjDqmcLZWdu1PmDPdwnkJPL4v1pAldZ6uUNaSm5HEmChiAFvstLD1MumRlyeiktf82+bKmGFt36eSqD7WuRYVDq+g3jMm9V6W+CDHoiCPqxoa3bc16WqWV8QdlSWt4+JStHXb309H3JkWnuYEBZ9Ndd0saRmaeYlD+6+C+nbcyOvUfbQhUXwht6jAJoPh4UfKjMgc15Tv4Jj4u7ofLdqW1/gI5XTpAwkfSxmrf3ljx/gAFVhstoZS5Zn9W+J3esKkkEHnZOyPr7ni9+OiXOohEaVpf6atGE3vMLAe9i2ks3TYNklIt6eE3LUUTAI=;TyjiFBRY96HzNs2qqkds3w=="
 ---
 

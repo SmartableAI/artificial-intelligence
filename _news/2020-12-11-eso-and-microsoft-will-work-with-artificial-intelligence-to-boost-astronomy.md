@@ -7,8 +7,8 @@ originalUrl: "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-
 webUrl: "https://news.microsoft.com/es-xl/eso-and-microsoft-will-work-with-artificial-intelligence-to-boost-astronomy/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
+    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T05:37:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 64
+    images:
+      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
     publishedDateTime: 2020-12-11T14:47:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
         width: 2300
         height: 1293
-        isCached: true
-  - title: "Microsoft Is Going Big On Reinforcement Learning. Here’s How"
-    excerpt: "From recommendations to gaming, Microsoft has been using popular techniques like reinforcement learning to create efficient products."
-    publishedDateTime: 2020-12-11T05:32:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-is-going-big-on-reinforcement-learning-heres-how/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/Screenshot-101.png"
-        width: 957
-        height: 597
         isCached: true
   - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
     excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."

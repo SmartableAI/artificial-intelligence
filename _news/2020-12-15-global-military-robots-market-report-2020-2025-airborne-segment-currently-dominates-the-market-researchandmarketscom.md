@@ -1,42 +1,29 @@
 ---
 category: news
 title: "Global Military Robots Market Report 2020-2025 - Airborne Segment Currently Dominates the Market - ResearchAndMarkets.com"
-excerpt: "Also, the companies are investing heavily in R&D to increase autonomy into robots with the use of technologies, like artificial intelligence. In addition, the acquisition of small regional players and technology companies by international players and ..."
-publishedDateTime: 2020-12-14T16:52:00Z
-originalUrl: "https://www.oaoa.com/news/business/global-military-robots-market-report-2020-2025---airborne-segment-currently-dominates-the-market/article_c319ee51-bd9b-5e20-9eca-bb3cc8941533.html"
-webUrl: "https://www.oaoa.com/news/business/global-military-robots-market-report-2020-2025---airborne-segment-currently-dominates-the-market/article_c319ee51-bd9b-5e20-9eca-bb3cc8941533.html"
+excerpt: "The “Military Robots Market - Growth, Trends, and Forecast (2020 - 2025)” report has been added to ResearchAndMarkets.com’s offering. The military robots market is anticipated to register a CAGR of over 10% during the forecast period."
+publishedDateTime: 2020-12-15T08:18:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-government-business-and-finance-corporate-news-government-contracts-b73cb5c772fc4595b2280910b78d45b4"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-government-business-and-finance-corporate-news-government-contracts-b73cb5c772fc4595b2280910b78d45b4"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "Image Recognition Market Covid-19 Analysis Strongly Driven by Rising Global Demand"
-    excerpt: "The global image recognition market is growing by leaps and bounds Visual content is continually replacing the conventional technology of textual solutions With rapid technological advances technologies such as image recognition facial recognition and 3D object recognition provide superior solutions"
-    publishedDateTime: 2020-12-14T21:36:00Z
-    webUrl: "https://www.openpr.com/news/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
-    ampWebUrl: "https://www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-
-secured: "DmliyfDR8KSML/WdQBksFhBDTnDgphIU9UJmdFGuOrlGeVQ+1Je7dr8/Tu2MOqCgNSgtRrDR+Eaxwqs5H93NMOj2CpElz6g3JIJYo1y+IJO3LzgU44ppQuUZsOSLXVVVJn+e3OpC5xjnKmJhjDWOOLVoHY6GsqtAFbhSICobJY0Xb1qVuKv28Zi6GGgW0oEroifnxzdzLqqAnCZVWgPD9oQNg5L39exi25OloeFYlx85nxdva5WrLy0xsjgUAp+LzGO1gds36ROI3AtCORMVH7MJZJnFK6GG+/rJPByHA3oevAKtsuOsShDIe+geK+M5mBi03/rQj5Ku3nnc5cVmCwIj8u8iyunhzNTP54CRlws=;HWw0PpHF1loePwI1oSyeJg=="
+secured: "yjyfek224lK6EbkycriN0Pt4GDs2q5umzLofCLnwhK+1Dn54hkmYTFS2HSbaB1dXPec62f79ZsKghFgGD70HGa1c0A/BQfXpOmdDiSisfL1FS5ii34yi1SyMd3Szr1Ji3GZ9PVlvKAKOT+GmV/GN/FZ+AT4COFqxbdvQuGDOof9oHWN7XTXCkKHcxOUrlIJhOnT7A/cGKRFJBrcaeqhEkVr3MlgqDPaNO+f40wY8y4rF0CtaVC8EKomYkd9cEV/jpgL81yrWgC08PpyJHWkapg3Uf5vtK2/tHw4xkllM8Hr7EWU1BxGIcJDdB2qrcaqa8dKNIpRuEM7I6xQfG+zyAub8xTnpyDtjMjavhqbp1vw=;TmN6cekFwvGzzIkVFFPFpw=="
 ---
 

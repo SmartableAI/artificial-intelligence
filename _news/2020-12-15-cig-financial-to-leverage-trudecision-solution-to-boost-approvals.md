@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "TruDecision Partners with CIG Financial to Drive Auto Loan Growth"
+    excerpt: "(TruDecision) announced today that their advanced analytic platform will be deployed by CIG Financial (CIG) to pursue improved performance and an enhanced dealer experience. CIG will leverage TruDecision’s Expert Auto Score in order to offer an increased number of competitively priced approvals."
+    publishedDateTime: 2020-12-15T08:18:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/lifestyle-business-consumer-products-and-services-automobile-dealing-automobiles-fd936327ed4f41a096eeb86fe5d86e6c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "TruDecision Partners with CIG Financial to Drive Auto Loan Growth"
     excerpt: "(TruDecision) announced today that their advanced analytic platform will be deployed by CIG Financial (CIG) to pursue improved performance and an enhanced dealer experience. CIG will leverage TruDecision's Expert Auto Score in order to offer an increased number of competitively priced approvals."
     publishedDateTime: 2020-12-14T05:00:00Z
     webUrl: "https://www.morningstar.com/news/business-wire/20201214005222/trudecision-partners-with-cig-financial-to-drive-auto-loan-growth"

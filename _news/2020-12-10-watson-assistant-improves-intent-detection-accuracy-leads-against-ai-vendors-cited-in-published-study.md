@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves
 webUrl: "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/"
 type: article
 quality: 118
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 558
     isCached: true
-
-related:
-  - title: "CIBC introduces Watson-powered virtual assistant"
-    excerpt: "With Canadians using digital banking now more than ever, CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking."
-    publishedDateTime: 2020-12-10T16:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85432/cibc-introduces-watson-powered-virtual-assistant"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "UXqyrxh4nQbsp6zMYgg/mXNxmeC97ENACzmrG44qRUs/yPlMEujpBYzHH1yadHLxcRcdSVNCgEl6gihHaMDr45UqsAeJbx4v/5l/t2mMqqKNOi5Yj8xhdQ5O9X5ZWuGKxiK/pRBJfGtoy87wm2f+5AHnXm9lYrg6hz9a3wnLrrrqL/X3H7gmdGxuB/ZENZW0J0P7zAA9NLdFP8vUGxDSJ2Av238+ACDZt+BvD5On0tYt6JCivjNFm/8H6QigW8lRTJ8SRGzz91XhFofvPloPHZckt1+me7E1em7Ywd6oO0CoPHbC85SrAJUgdGSTjDRXRCSA35Gng460XR6P1ss1S/tAJo4YVbMTmdjMDos2EAQ=;x6XmGUsfLAaHIJNbhnlfgw=="
 ---

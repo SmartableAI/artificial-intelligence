@@ -44,9 +44,9 @@ related:
   - title: "Exclusive: China search giant Baidu considers making own electric vehicles - sources"
     excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with knowledge of the matter, the latest move in a race among tech firms to develop smart cars."
     publishedDateTime: 2020-12-15T05:53:00Z
-    webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUSKBN28P0F2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P0F2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2"
+    webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idINKBN28P0F2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28P0F2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28P0F2"
     type: article
     provider:
       name: Reuters
@@ -58,6 +58,6 @@ related:
         height: 545
         isCached: true
 
-secured: "BoHE/oFXXOuPeL5wb5FibpLKnHGF4zOxpvAd723Af4UBN417P0pdIwxEUVf2syoQDxn7gy/H9I1K2ltshSIcGL1yHMl6BWuErNyScPOarsQzW86geFPNzqqkVvpy/U0IvK2Z9vicoPJeQt/6MSYspE6BRJga/9TFRWqzBisYLD2jQktc2BppWEGKsfVgrCpv3kh9CUUZUwD801WXawN6RlHLCi6Dlj5JBmKRRT16DYApaJnKqO2kqagGtJcBPwRBOxC415Nf7Zvu3pGTMaGgjwlZLP8EHxz7Tr3Y8UMvE9GAd3dH+SrqC7/w/bpC7CTdUlB4cGiVcXjwPKNeAL8daiehcLTrW53+O5m/xfP34os=;D9klwARdgKsz23ehuhWwxg=="
+secured: "UyWn9V70A0FJ5wHdSub+4zZlHK+mY0iVS++Kj7Yvu4MOh+8tpera1QU9hsNYdRjFBuE/T+kpLKiuSsdKl+SOKuUZTGLJRuL+iiL5VNykmGzdS+M3RdE1FGKe2JGoofQ3/VF/uYx6x9lNQj6uU3xTFcqerE+5bFYQaEUVetU7MX5rN/w/hYshrcF1/WtbyxEW4rfCXdnnsR3xbH0VRnV6NLBk4XkF98OEP4ANwD/F4idVLBBFbf07Hke86b7GRms9UJTMHKzq4b1GIdaX65nKOj9Kp6BpJqFoGeh0djiwS0GW0b7kLQ8Gt/QQyxNQo/rEtssHL+pcJtaK2JzBP1JGRZ21XkY2eFX/DNeQnPm0KIKlcDMrCj/7STFl1gfv0QVCsPTQ/kMdLPdwL4K57ETUbvG5EPbyM6lb20I0EZElJEXeSCufUHydpkeDMftRxz2xGukXR0Y5uwN9ATwBkcam+nqwlcj2RxV26VDrIQbNA3B337yjgxXxPq/vW3PCzmdAkUaS2imuHO2XUnkH5/+Vgw==;19GVhjX02Bu6k6lwJk+Ijg=="
 ---
 

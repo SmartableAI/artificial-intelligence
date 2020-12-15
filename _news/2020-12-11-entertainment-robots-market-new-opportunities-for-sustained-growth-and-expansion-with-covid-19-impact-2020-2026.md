@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robots-mar
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-new-opportunities-for-sustained-growth-and-expansion-with-covid-19-impact-2020-2026-2020-12-10"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market(2020-2029): Covid-19 Impact, Market Growth and Market Analysis | NVIDIA Corporation, Alphabet Inc"
-    excerpt: "MarketResearch.biz’s deliberately crafted and planned business intelligence report named Worldwide Automotive Artificial Intelligence market 2020 reveals a brief overview of the market’s geographic scope,"
-    publishedDateTime: 2020-12-10T16:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market2020-2029-covid-19-impact-market-growth-and-market-analysis-nvidia-corporation-alphabet-inc-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

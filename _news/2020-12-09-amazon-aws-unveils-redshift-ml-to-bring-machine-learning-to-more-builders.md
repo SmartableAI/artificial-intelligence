@@ -3,10 +3,10 @@ category: news
 title: "Amazon AWS unveils RedShift ML to 'bring machine learning to more builders'"
 excerpt: "Amazon VP of machine learning Swami Sivasubramanian said AI is having its AWS moment, a period of democratizing the technology by \"bringing ML to more builders.\""
 publishedDateTime: 2020-12-09T00:38:00Z
-originalUrl: "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
-webUrl: "https://www.zdnet.com/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
+originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
+webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/got-amazon-aws-unveils-sagemaker-clarify-edge-manager-redshift-ml/"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 998
     isCached: true
 
-secured: "0FqONajDzNszzBwH6HtN0mM/NRLNXQr1dYLKpIQAMeyCaPOqNyLJhmQYaK5uyNgspOggF7GCl9mY359p4l6p37FHuxlt5ift0GdUWVFP6czStogl597kAT74pdvkgRyMh2iMJMYIjft/ID9Vb66Qh6MXPktgUq2+6Pk+WTclxX4kR1cfIgeWlbGsGL21I4TmfctClPin5k65GE21MsT0eUNBmik+hitTZ8UPi7Df5aMR9nlgMx1FlBjzw2zW4K9ZhXPsui1Hu/wqlrTyONt1dAxOE/fxbBVslMc6jUKErQkdLnHYOa+pyRWjBeoR1AzB06MVbn38VkYc4VQX4OVUpM3EMhEL8tsDPZ6TDSJfigepvL2Ms+mGuXIobsJ+ldFZj0suNWxTqJgodQ5fzDjDM01lGf0QjJaDoDSRGIpD/XBo+JlHnVMcLfhszyYhODM5w25jgPCoYJ7ys8Rq1ulR63q/vMktALmVLMgp58HHBGOJRx08vKWDmWd/nCZ4z7mIjyAxGt5+Gufa1yacsiTnHg==;7VOzjlli6qRu1yV710IJLQ=="
+secured: "MRt479Hpvsv18mrl8Yibf2FesaF00UheBRNhw0giwd8LjMWenVCgH/S8TojgQzl8nD6hTBLC3+sBBCvtx0ZNuf/M2dc9Ie21hngUgutQCPxb59sCjLAHcHLjBfh/xBx/q2V7VLSdzq7sWzCUmNDcqoU+YUyFxQsnhIK8V0jUbfXroDl8KH5zjcdTG1w+5fdfdy5V9lUbkF+76BHd5QJADOYWDlm2LAnT9JvtF4FP/R/FSa/FT+rjZ7tkAyiIIQAZ3SVkG7vMInyYfJiKzlbL+phryPYNztyYgj7cJxavRA0J0MFjRtr0HBtPKdTbuWZh741SttUoo9coQkM97qJofJsaG29ZvYN0lZ6hUBWgoWw=;Fu35g6cpZYjcUgSv/F2SCg=="
 ---
 

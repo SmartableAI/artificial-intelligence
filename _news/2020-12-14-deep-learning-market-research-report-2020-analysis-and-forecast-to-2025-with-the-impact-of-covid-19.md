@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market(2020-2029): Covid-19 Impact, Market Growth and Market Analysis | NVIDIA Corporation, Alphabet Inc"
-    excerpt: "MarketResearch.biz’s deliberately crafted and planned business intelligence report named Worldwide Automotive Artificial Intelligence market 2020 reveals a brief overview of the market’s geographic scope,"
-    publishedDateTime: 2020-12-10T16:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market2020-2029-covid-19-impact-market-growth-and-market-analysis-nvidia-corporation-alphabet-inc-2020-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Diagnostics Market 2020–Global Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2026"
     excerpt: "Global \"\"Artificial Intelligence Diagnostics Market\"\"(2020-2026) status and position of worldwide and key regions,"
     publishedDateTime: 2020-12-14T21:45:00Z

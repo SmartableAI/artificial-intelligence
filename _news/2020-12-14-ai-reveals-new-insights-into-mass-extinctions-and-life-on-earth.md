@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/plants-and-animals/ai-reveals-new-insight
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/plants-and-animals/ai-reveals-new-insights-into-mass-extinctions-and-life-on-earth/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "AI spots surprising patterns in Earth’s mass extinctions"
-    excerpt: "Charles Darwin's landmark opus, On the Origin of the Species, ends with a beautiful summary of his theory of evolution, \"There is a grandeur in this view"
-    publishedDateTime: 2020-12-10T16:30:00Z
-    webUrl: "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/"
-    ampWebUrl: "https://scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/519957/ai-spots-surprising-patterns-in-earths-mass-extinctions/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/12/Artificial-intelligence-finds-surprising-patterns-in-Earths-biological-mass-extinctions--e1607617785705.jpg"
-        width: 900
-        height: 821
-        isCached: true
 
 secured: "1nBrh5t0vEQzB3Y09Nle1AUTy9WzdSa3CzcmqO0L2J5YbHVxBypv5ZsMdNvWPdZCWANns3JX+kEupBul9OGSuLijA5qwrhoDRVBRPjij9FXIzDnqm1D1TBF8OAPtj6PTBPwYBo1Eh/DRm3PblJF7bBB5h2cDNdcXvTRJHaYEc/zkdvdcSlCR3oB3TjlFTMxYRygWBP+7N9RG5E6l9ZOBGTajIjX9qhQnkB+0+P8M+yfXiuVZPLpfL4PAvQWTV7778lDrd5M3Q0fm9tbCGjEenCOlVneeaIABlk8aiLW3hnYSAOFAQsfEZfsshvUws2cXDC/eD586z2CYlK6b/RgNy9NXdOoxoqlZpBrqt82+vwFVU/gMM2Yj1QK+7kuoRD05eTHd5IQLEeQH16VPl/o6KQk+iXtI0+j9+G8nVdaq3E29q2oUIygyUurZ2gdwdrT0uFdaWWFqy6Dzol7M5USy5vcOlySFQXR4SWoy8yoCx0Xn0eXe4syjkfmnzO/Aj7wpDTOngCMcyvmVIpYWXSMBAA==;MvWep3yOd3rvhCT0LMVLvg=="
 ---

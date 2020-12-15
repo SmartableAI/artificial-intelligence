@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-03-intel-has-been-missing-an-ai-business-to-compete-with-nvidia-its-finally-here.md",
+      "title": "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here.",
+      "excerpt": "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
+      "originalUrl": "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-267539/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702",
+      "publishedDateTime": "2020-12-02T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025.md",
       "title": "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025",
       "excerpt": "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,",
@@ -566,6 +609,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-googles-grip-on-deepmind-set-to-cost-taxpayers-tens-of-billions.md",
+      "title": "Google's grip on DeepMind set to cost taxpayers tens of billions",
+      "excerpt": "DeepMind was snapped up by Google in 2014 for around £400m - but one of its early investors believes it is now worth at least $30bn One of the founding investors in DeepMind has warned that UK ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+          "width": 1960,
+          "height": 1225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/",
+      "publishedDateTime": "2020-12-02T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
       "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
       "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
@@ -1100,102 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows.md",
-      "title": "US parents now more accepting of robots in children's healthcare, study shows",
-      "excerpt": "The COVID-19 pandemic has forced everyone to be more trusting of robots and AI in healthcare. Tufts professor discusses changes in attitudes toward technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "originalUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/02/b0b14d54-ced1-4968-a198-84015744bb49/resize/1200x/98f2f39d9b8b7d497b578adc563e2d6b/istock-1060861828.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
-      "publishedDateTime": "2020-12-02T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
-      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
-      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "publishedDateTime": "2020-12-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

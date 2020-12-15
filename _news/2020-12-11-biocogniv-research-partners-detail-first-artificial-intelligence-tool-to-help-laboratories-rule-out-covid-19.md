@@ -56,20 +56,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NUS researchers finds best combination of available therapies against COVID-19"
-    excerpt: "Researchers from the National University of Singapore have utilised a ground-breaking AI platform to find an optimal combination of available therapies against COVID-19. The research team identified the drug combination from over 530,"
-    publishedDateTime: 2020-12-10T15:53:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/nuos-nrf121020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251258_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Researchers introduce first artificial intelligence tool to detect COVID-19 probability"
     excerpt: "A study in the Journal of Medical Internet Research introduced Biocogniv's new AI-COVID software that can easily predict the probability of COVID-19 infection. A team of researchers from the University of Vermont and Cedars-Sinai discovered high accuracy in predicting the probability of COVID-19 infection using routine blood tests,"
     publishedDateTime: 2020-12-12T16:32:00Z
