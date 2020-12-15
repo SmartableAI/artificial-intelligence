@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-apples-m1-chip-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI and machine learning influence becomes more apparent with latest analytics releases by AWS"
-    excerpt: "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure."
-    publishedDateTime: 2020-12-10T22:35:00Z
-    webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
+  - title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
+    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
+    publishedDateTime: 2020-12-15T13:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 60
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Rahul-Pathak.png"
-        width: 3774
-        height: 2120
+      - url: "https://mma.prnewswire.com/media/1385142/OrphAnalytics.jpg?p=facebook"
+        width: 2699
+        height: 1414
         isCached: true
   - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
     excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."
@@ -73,7 +73,21 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "4iQ and Alto Analytics Merge and Rebrand as Constella Intelligence"
+    excerpt: "PRNewswire/ -- 4iQ, the leader in identity intelligence, and Alto Analytics, a leader in applying AI & data science to the digital public sphere,"
+    publishedDateTime: 2020-12-15T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/4iq-and-alto-analytics-merge-and-rebrand-as-constella-intelligence-301192217.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1373179/Constella_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
-secured: "OhlDHv9txcpzbpISdqE75PueWpb3iMRkZhZt/jFDjKVmCuVWgEH8iZfMCapygYCLpm8bM06Au3ntivxCi8wAtZ9lq5bOH9hSXOvS4b39MrR8DZxsusmpIYcGahHXvHG/fFCAQ32f311yF6wPpi0UD3pdeT9MhgvULbGtoqqQ78pxujU0t+YztQEFByN39jee0HBaAjB/IOwSFd5vhbedozHVMDwYeI+WvnWRwQD4k8j1NRlk12SzUlsgwxhI8srqjwOIJ0uXKOA0yNLjKMEYknyM3ukUq8HN7V4U/z9Pga5tBfmdYT8fj9xA8C7DoDj/WSf4UfiANwjeBGXyUXzCXHCnx+QXzwyj3nQHo04pz48=;uxIo0V+p+MpyCWEdqU7TlQ=="
+secured: "nyXRiX1ngyT0uKyCqDgvJO8Ty+qv7+s/lpa4HAs0wQ6AR9grMZ5D3rq8Jux6lWI/nUsRFB+xDLrMyYGr8cUsg1TkxxH/3FFUYqqBAWMrom6ONmUqasXDT6dJKXKyMLjYBIvy2NKeaRhKfoQZdcHCE5XVEBbW2SmLo8dqCYK23Ck2CrRsugIcbkzuoqpUohebFtNwyVFd0bepT7qF36QvPG5G3aIZYaI2zF9aCR1aRcaUVxj7jlgDJMT1wL7XCH8Gw/pCZ/3mjncBLxeqW0nAOe21biU57bTJiPRLKJCAvHpujfPfk/ZfDz4aX+3ACIWldGKwnh3hFPirsjukMzhhenK0Dt8qHpPXXKICD60L3BMQ2wB9niWXuw6iSjPI82iLK6H+heVgcCCJ4pYNN6wWQBrInRv0b/WiXhzAquFGojE5fhHcoSa3BabEtlM9hYctYlllD3WIQQ1drk9aJY5rjVjk+XxIDzSuRUTyVsGJpvdqRcdOpc6StnvQ1EFJvHKOJb8p7OToLJWDYD2xg06khA==;VD7tgpR31ftjfzyVYk8swg=="
 ---
 

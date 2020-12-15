@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 type: article
 quality: 74
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Zoox-Autonomous-Vehicle-Studio-Side-Female-Entering-Vehicle.jpg"
         width: 1680
         height: 1050
+        isCached: true
+  - title: "Amazon Zoox introduces self-driving robot taxi"
+    excerpt: "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,"
+    publishedDateTime: 2020-12-15T13:17:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 61
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg"
+        width: 736
+        height: 415
         isCached: true
   - title: "Amazon Zoox Unveils Self-Driving Robotaxi"
     excerpt: "Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other. The car can travel up to 75 miles per hour and can run up to 16 hours on a single charge."
@@ -208,7 +224,7 @@ related:
   - title: "Amazon has revealed its first self-driving robotaxi and it looks wild"
     excerpt: "Amazon acquired Zoox, a self-driving car startup. Now, six months later, the company is lifting the lid off of its first self-driving taxi project. The autonomous mobility company announced today that its robotaxi can hold four people and travel up to 75 miles-per-hour."
     publishedDateTime: 2020-12-14T21:33:00Z
-    webUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
+    webUrl: "https://knowtechie.com/?p=136759"
     type: article
     provider:
       name: KnowTechie
@@ -218,6 +234,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2020/12/amazon-robotaxi-main-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Amazon-owned Zoox Inc. unveils autonomous self-driving Robotaxi"
+    excerpt: "Zoox is an autonomous self-driving vehicle company that is headquartered in California and was acquired by Amazon in 2020."
+    publishedDateTime: 2020-12-15T14:52:00Z
+    webUrl: "https://techstory.in/amazon-owned-zoox-inc-unveils-autonomous-self-driving-robotaxi/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Amazon’s Zoox unit has built its own self-driving taxi"
     excerpt: "Amazon.com Inc.’s Zoox unit has pulled back the curtains on a homegrown self-driving taxi that can cover up to 75 miles an hour and drive more than half a day on a single battery charge. Foster City,"

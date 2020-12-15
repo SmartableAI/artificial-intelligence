@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI and machine learning influence becomes more apparent with latest analytics releases by AWS"
-    excerpt: "One of the messages coming from nearly two weeks of announcements as part of Amazon Web Services Inc.’s re:Invent conference is that artificial intelligence and machine learning are ready to abstract away a lot of manual work involved in moving data around the enterprise IT infrastructure."
-    publishedDateTime: 2020-12-10T22:35:00Z
-    webUrl: "https://siliconangle.com/2020/12/10/ai-and-machine-learning-influence-becomes-more-apparent-with-latest-analytics-releases-by-aws-reinvent/"
+  - title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
+    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
+    publishedDateTime: 2020-12-15T13:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 60
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Rahul-Pathak.png"
-        width: 3774
-        height: 2120
+      - url: "https://mma.prnewswire.com/media/1385142/OrphAnalytics.jpg?p=facebook"
+        width: 2699
+        height: 1414
         isCached: true
   - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
     excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."
@@ -68,6 +68,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "4iQ and Alto Analytics Merge and Rebrand as Constella Intelligence"
+    excerpt: "PRNewswire/ -- 4iQ, the leader in identity intelligence, and Alto Analytics, a leader in applying AI & data science to the digital public sphere,"
+    publishedDateTime: 2020-12-15T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/4iq-and-alto-analytics-merge-and-rebrand-as-constella-intelligence-301192217.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1373179/Constella_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
 
 secured: "0ArjU5peRjKz6e03xhkvNt5XFrj1gjOjyKVK1WywN8RQ1QmIhVLCl7M4xG3JSXpwbQIeGkuHBQDshUI7cZehB7JMCw1jSMrBXlD5HrpXqpOsqMaI2rabetCpOLWCTVveH8PHf29pbNiePUUC9P1wpQQdvFcTuvQARqQ0zc5DqesGcVOQAcDXXfnDvAya6E4v4nE2InVPfts0b3GroxaD2CDHQS2UcXOdp6eQ0GR1HKajSrZi2dV62j6fZ3JlRoN/jcwOfiuloDRDMnAtYdz1aHs9/MrDRXlBjj8k1KkIyROHovr03tMei4u/WJd3U+OfRRDtIS+KSwvyZ5npnVTAhNagHDYR+pho6G/y71K2fR4=;hHF2JNFEZhXGsrMyNBT9kA=="

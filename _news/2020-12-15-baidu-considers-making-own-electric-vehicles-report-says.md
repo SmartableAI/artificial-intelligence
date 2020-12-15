@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China’s Baidu Looking Into Making Its Own Electric Vehicles"
+    excerpt: "Chinese search giant Baidu is considering manufacturing its own electric vehicles and has already spoken to various carmakers about this possibility, according to three people with knowledge of the matter."
+    publishedDateTime: 2020-12-15T13:30:00Z
+    webUrl: "https://www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
   - title: "China search giant Baidu considers making own electric vehicles: Sources"
     excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with"
     publishedDateTime: 2020-12-15T06:11:00Z
@@ -88,6 +99,6 @@ related:
         height: 557
         isCached: true
 
-secured: "EL+romersrcbXPsRe0/PkxgOaf2MSLZHWHv07sjIZbleoZrzyxUq2twQS2BXm4cexU6c6B/wlltYfxpgVR59+j2v7fDSvVMSGpvZYUL6iJT1UmvpvsQNEcoSxTNrPBkDT5595DF2CNPGKLPRqiwTnM8uKmYoe1S1cllA3VI2gICaGpb0jxRSXNFBttB3Q86ASe8TeozUCMWPNSy18iZiyksqX+2850X3jBbD/1Pji6wdX9DNEhRs8EzQ0yaeIpXKU4OMu4OFMsUbkxqJM8Talq/eKST4OAcZVJE9EnmeleqAr/obWdhU6q3JQg6bibYP1jjDUzJjqI3HiRMvu36ZcO2GzIASK1prkckPVMkmu/A=;3YasLfKpkTzFcIhApt1Uhg=="
+secured: "uTbf0wQu0ARtGzCEjljP5Bz8S6nvfEKiQz8mcusKrt1cyPE39CvCp1jVrSfPN6YR/6k4RHC3ovWDpynU0lNjIwT/jRuK1B95ERtf7wZfa/wZGiH7/WlGer+29lFdV/gmptSZl2NESClBTA2rbPTfGxJeATkSa09UzidPzBFxqR413lQAXbunisZ2hnxOD+FzAVBay+TmB6cHo5fjcRi+GVzJ7k9ruOxy6Tgi1rh+AaUy1FLKdGA4fEso7hXMxCV1gA5ATk0ImlXOBOgnxB3FKuxlK1prBR8NHbJyMMeFssRz5GQnszdTjxsIpeRFmtQtlCS66xu6IJoQrpxp3vwHYWJywJjvAdZtEkuvvhlRyJUP21TCe+LJxxTKYU9t7v22T6cBFZBMuPoarHqGDCnXWMo0kevZUeBoutRke5UuH3cWUYRSXbjNA+NWjixz47qh7EvqyUyn2y/Sm8IxVUm1nve9UlueMUaM9y/edPHrXrSSGPoTiMvMS837dzreVNQ2+WzOr3FCPp/xBWf1ujnlkA==;xR5EWpxKMZnLtk9/Cg/miA=="
 ---
 

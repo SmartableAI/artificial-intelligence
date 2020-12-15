@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170199-londons-ai-enabled-m
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170199-londons-ai-enabled-money-management-app-provider-cleo-secures-44m-via-series-b-round/amp/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 296
     height: 300
     isCached: true
-
-related:
-  - title: "Financial Wellness and Advice App Cleo Nets $44M In Series B"
-    excerpt: "A financial wellness app founded in London, targeting Gen Z, has raised $44 million in a Series B funding round, according to a TechCrunch report. Called “Cleo,” the “financial assistant” was founded in 2016 and today combines a chatbot and account aggregation with tips on spending responsibly."
-    publishedDateTime: 2020-12-10T21:21:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/financial-wellness-and-advice-app-cleo-nets-44m-series-b"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 24
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/digital-dollar-sign.jpg"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "HpFNxXv/rvhgyLaGsWkiY84ZRCHZ/c/rBlm5aI5JoVui+UvPzq1DVLc+eorHeABJMUH0WUimZXM8y/esim5R+lLF0FhjpcvvQMHOouxJMMkEPXO+EfVf1vdloRX00BlApq+XTeFMvRhLHeAAi4yaPyHbqI3rkyNwtGkLRsd0Y1k9MLcRUQPLmSxUS/9psrVN49wX+NNMSj+lNjeFzXK8Ehf6KSaOFgnaaEAT62KIT2iqs6nXAE2iKjC21n6nn2eVf5ShECsZZSDC9o5q7L7LglN+a3YtEgJ3pQika97mPRsvFvK7BHeCYpuEiaPbqxjIsU8TlNheH1pbfkdsAhyOTUcZFS3j87IUbNw4s0gpdnp5IKa7FogmXqP+C00hhkt9wsg58ApWvoObDATPzaSgYZa3aKmpRhi6QZoS8hJMtVOy62VJZfZDhmpyuwk4ACLgLxvp9EttfOWKRoVkTvwF/KhIW5pZoMyywDI+UQwqRhVIUQ+CEhx+78d+CIbrrUglj1CEKbxHsBFuDV3Zhj2uIw==;4e5YcEq/4p9OKR/zrGTKlw=="
 ---

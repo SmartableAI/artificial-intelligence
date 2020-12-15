@@ -40,20 +40,6 @@ related:
         width: 800
         height: 359
         isCached: true
-  - title: "Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time"
-    excerpt: "Businesses are increasingly using machine learning (ML) to make near-real time decisions, such as placing an ad, assigning a driver, recommending a product, or even dynamically pricing products and services. ML models make predictions given a set of input data known as features, and data scientists easily"
-    publishedDateTime: 2020-12-10T22:19:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-streaming-ingestion-with-amazon-sagemaker-feature-store-to-make-ml-backed-decisions-in-near-real-time/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/Architecture-Chart.jpg"
-        width: 800
-        height: 416
-        isCached: true
   - title: "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler"
     excerpt: "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying"
     publishedDateTime: 2020-12-11T17:39:24Z

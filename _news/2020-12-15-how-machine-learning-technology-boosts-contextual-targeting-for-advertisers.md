@@ -43,22 +43,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "EU watchdog warns of using AI in predictive policing, medical diagnoses, and targeted advertising"
-    excerpt: "The European Union’s rights watchdog has warned of the risks of using AI in predictive policing, medical diagnoses and targeted advertising."
-    publishedDateTime: 2020-12-14T09:51:00Z
-    webUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/"
-    ampWebUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
     excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
     publishedDateTime: 2020-12-11T23:29:00Z

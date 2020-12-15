@@ -27,85 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla expands in-house Self-Driving testing to Phoenix"
-    excerpt: "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”"
-    publishedDateTime: 2020-12-11T17:37:00Z
-    webUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/"
-    ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
+  - title: "Tesla hacker unlocks Autopilot ‘Augmented Vision’ and it’s awesome"
+    excerpt: "A Tesla hacker has unlocked “Autopilot Augmented Vision,” a new mode in Tesla’s autonomous driving suite, that enables to see what Autopilot can detect in real time. It’s awesome to watch. More than two years ago,"
+    publishedDateTime: 2020-12-15T14:44:00Z
+    webUrl: "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/"
+    ampWebUrl: "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/"
     type: article
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 89
+    quality: 91
     images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Autopilot-Augmeneted-vision-e1608042867540.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
-    excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
-    publishedDateTime: 2020-12-11T10:11:00Z
-    webUrl: "https://www.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    ampWebUrl: "https://amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 73
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Apple Reportedly Developing Self-Driving Vehicles"
-    excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
-    publishedDateTime: 2020-12-11T05:10:00Z
-    webUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info"
-    ampWebUrl: "https://hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/12/apple-develop-self-driving-vehicle-car-info?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F12%2Fapple-reportedly-developing-self-driving-vehicles-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1125
-        height: 750
-        isCached: true
-  - title: "Apple is making self-driving cars"
-    excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
-    publishedDateTime: 2020-12-12T12:23:00Z
-    webUrl: "https://www.esquireme.com/content/50043-apple-is-making-self-driving-cars"
-    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
-    type: article
-    provider:
-      name: Esquire Middle East
-      domain: esquireme.com
-    quality: 44
-    images:
-      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
-    excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
-    publishedDateTime: 2020-12-15T11:05:00Z
-    webUrl: "https://www.barrons.com/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
-    ampWebUrl: "https://www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-273242/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "j+GAT1n6ZkJtfv+OC5ZsWMtQSNQwmsjEVx2+H+epnkSPm2BVM84lyXAU54AveoatSV4xrsiIllgdwfmKPr9mjcRFVUTK/qlUBwZbn+3SBtfaZHsZ0r3V0xAdFgI6vVEdbl6cjtojauZgNt8fTR0ubPoGtOHxaV1ZCoslvumLLXXSr5NIvpDLO6Ed58ybu706XlK9FlruGW5Wn0kZs2QgURPP9iZ1018a3glDQosqFQaTYSXaDyA4h353J05QgVplfgbJCYeP2b2h6/USHpq/SioKPb/wwsrPXpDg9tjiKrACu6rYWcTuss4/sV/rl5O8J8nrVswlOwhgVpsz96uG3dIjyZ3jYNojDBHHz7Tli5fUiyfSdj7ISg3pSRn6v1SmW37K7o5BbBzY81CCOyWVW6ffMU2RusAL9QF29mJF4Efl/Z1A3Jjtt5rIMTmywl3r65JCUkuqsx8sZSGGuxIPBK7+TlqDaIbqyVWObrHS5ITnnhnbr+vETjGreedrfEfxebwdvl1ABS08llLk2oGyYA==;aFTT+QmueTTPc6kwaGulkQ=="

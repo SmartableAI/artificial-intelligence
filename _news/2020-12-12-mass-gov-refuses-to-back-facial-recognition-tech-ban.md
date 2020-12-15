@@ -54,22 +54,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
-    excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-    publishedDateTime: 2020-12-10T21:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
     publishedDateTime: 2020-12-11T12:30:00Z
@@ -98,15 +82,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Gov. Baker seeks to strike proposed facial recognition ban"
-    excerpt: "Gov. Charlie Baker sought to strike a proposal that would have banned police departments and public agencies across Massachusetts from using facial recognition technology."
-    publishedDateTime: 2020-12-10T22:46:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2020/12/10/baker-facial-recognition-ban-police-changes.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "96I7v6UuEBIERSWaQnJrm6lAwHSv047gR4SzxCNH7cYJoTj0acaBMXhQl4vnS2mlWEdGJuxRlL0mlhp6tywkjCcJ0kejezD7DXbblHjctLwTiSOlUoDQAY6vKaDEB84Jq3PERL4b85E4tZaTYZ8KUsqltmp0CkHzJNZ0adt9vr03G/AtiK3LbLzc9AQbLKTiCeKDePmQdjB9+GTQa0zFzP6NRh1qbDytMm4ERpWdOVlAHN+etePZT+4WNL/rgObT2+PLZu+E2RjXk56ESXhNTYxsBBpcsYBhsuiosi42/qiYU4gkcWi/Q6l/YceK+BoVybTbGtfOek/VXWa1lxB+Y3n9bJCrfMYXD37dBcqx/vc=;7fT3YQeN6qq++l7pXePXFw=="
 ---

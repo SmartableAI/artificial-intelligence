@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-ow
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/15/chinas-baidu-considers-making-own-electric-vehicles-.html"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "China’s Baidu Looking Into Making Its Own Electric Vehicles"
+    excerpt: "Chinese search giant Baidu is considering manufacturing its own electric vehicles and has already spoken to various carmakers about this possibility, according to three people with knowledge of the matter."
+    publishedDateTime: 2020-12-15T13:30:00Z
+    webUrl: "https://www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/"
+    ampWebUrl: "https://www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/12/chinas-baidu-looking-into-making-its-own-electric-vehicles/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
   - title: "China search giant Baidu considers making own electric vehicles: Sources"
     excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with"
     publishedDateTime: 2020-12-15T06:11:00Z

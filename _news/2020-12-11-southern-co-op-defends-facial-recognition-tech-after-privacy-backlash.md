@@ -57,22 +57,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
-    excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-    publishedDateTime: 2020-12-10T21:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
     excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
     publishedDateTime: 2020-12-12T03:08:00Z
@@ -98,15 +82,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Gov. Baker seeks to strike proposed facial recognition ban"
-    excerpt: "Gov. Charlie Baker sought to strike a proposal that would have banned police departments and public agencies across Massachusetts from using facial recognition technology."
-    publishedDateTime: 2020-12-10T22:46:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2020/12/10/baker-facial-recognition-ban-police-changes.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "J+o5R/2X5LsmhKgqirNPwCKgeSPe77MZlCmClsSIikXqBSVoa1MtMo50RCVOUc5KdAjwWtq92piw1GhA54NdeNDIMiEdJmqSz5Y+JUKTa+GEcH88CXxhE6QeM/PZ8ItAYdg29uFxp0SmRBCG6xmFX7CtjHLi8zKYq0zadvBEwCgCHtRCnKWEOkisBz0EbNVOvVUrbTtwkt5S4PM/g/JAiXGegcZv/LTjbXeELkScR05WsYK62y2FaHi6sGO7UvA+tJTxSzfVkBxkLaDlfLl3sC9tC+T0gRcnqH6RpLnTf695Hc0OKOf9BOoVMcgcdYTq+Xv/t9Teyxic2TqTCxPa6tRnP/I7KpCFGEc1oBJaikw=;CDrQx8u5JesHIMBCqkHvYw=="
 ---

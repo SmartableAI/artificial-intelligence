@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/bringing-data-back-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Bluesky Helps to Shape the Future of AI Systems with Turing Fellowship Funding"
+    excerpt: "Aerial mapping company Bluesky International is working alongside organisations such as AstraZeneca, Toyota and Amazon Web Services to shape artificial intelligence (AI) systems of the future. Contributing to the multi-million pound UK Government project,"
+    publishedDateTime: 2020-12-15T14:01:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10390"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 35
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/December/15/7/ec1568d1-c109-42cd-8723-4bf33beecba6-sized"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "wmXPXdLFrprQqQgGAtI8nfwDo66PFQhpi264k2Wic56Ln4eT0zmAGt2NIm/A2C4I/PQTz7Ht6LrWRnlNvQJh7XliyAcH9bBoXpdDtFU/VXwUvxkCWAbbgkj7fzlPJ4vCifcI1XO2AWPh3uNgJ2AfC5a4F8SyVyjFYZfs7AdYPkbej/Iyz6l08JRwDcGAsS8Qq5KIdq5nwglFKDcxZXoR7Ap6UUBXKKAseEoDihaOcY6lQxz2naRhilHJeh4IqznRE4WEfvmVcgbqcAZr0dyyMSnnuqhHh4BoYn2mBVN1xFtijVnFoXuEXEMZXpaWMstNz/iVi7q9XCAiPjIgC+jGV2b5iXUXGQw+4rqHmn5e9/h3GpKOG0W821FbIvneUK4H2ryioo3fam8noHzDygnsGx7WoJjevUUrjxenbMlJSozag17ryLkV2bzQJMzXVu+Rj81mfT15BqYXBz1etfxeXt2OI6Sa3WETwGpzgWiczcXs5VslxvoZ1zdT9tBUOHAH/fOgBJTK0KZjKRQQia/Cqg==;NUTcHtGqtp+8YPZGxdjMFA=="
 ---

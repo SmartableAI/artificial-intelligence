@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Full Self-Driving’s cool augmented reality view previewed by noted hacker"
-    excerpt: "Driving beta seems to be getting cooler by the week. In a recent set of updates, noted Tesla hacker-owner @greentheonly found what could very well be one of the coolest features of the advanced driver-assist suite to date: augmented reality view."
-    publishedDateTime: 2020-12-15T10:49:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 55
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-fsd-augmented-reality-view-1024x632.jpg"
-        width: 1024
-        height: 632
-        isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."
     publishedDateTime: 2020-12-11T05:10:00Z
@@ -108,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cNCdEOIHPDNpCOpR5bEOc98E4fCmbTkiMAJrJYmyOR/MhZl3QgVJSDqLvg2DjSNEaNmH8oW6LksSNT993fp6mBt3s133Zg2Pcc/M94M3gfWqwMIQpryp7RJkkv2MTGDI4egwPp7Mw+2zbr//YbQRUKoUsN1YftnwMC2JLtIdjW+Qx6Q721uK0rFIA8J2HkBY3+YNHaqD/atAS56CjzjE5ZeHuGC8OCrJ1wODpJqhgR9h1v0Tl+pB01GkZd5TUTd80ibLfM2xjXoF1deQJfLFnFRabe45GjSq6waCZ7kxPoYCvDck/FKNWyy+NO4ALjLhspc+Mply7Ip6PnzibquLOIUIQVw45p2U+jaA5Dknw0Q=;bT1ITOMbS9e4AAtIAQv+/g=="
+secured: "KxIBdU6I4WCfFm1/mcu6TKOKaIuE3i4pY7dk5ywThcblXZCsjhMxza4QCkn65MTGbsgiKlpsRacLUYw/EY4Nafi84QTG6Fl9+2Iky7H60nd+j5sL8+EVe+GbQHRabpQY5ymDJzIilhKtcXbhy+QKEb9sTqUx39m70s5fgerAR09Ma45Fiym+AB27UWwCyrgPwyyMkkvVkp/hLjHWaxp4xf/Fd8tbCWAWOUFDI9lqpAueX7WraFuWF765eBKKbM4j9HvjOzTPW2NftpJrDlstx83AwulgfyEKZPaBYqRRr6/jyvHoNMgfxF214nPETrZ+mwFVMa5M0tqokAQ6K/0kjBNbH1ii/8QQNrUUidWRdKNZUwew7DtOQYdjZ0ph1xxqnoFkcvZA8G4y8inQdcDq+DtUcUW7wiTxqODypstNnn/WV0eehO8zXSp7QecvSiNwHRa/6qSWeqjNH3NFODCO9evTpDgcY0uPCDpc1yVldb2QOHRKrP/B+Y5c68dhKbpwE1wZgJ2M9T1d3UIrdgwdgw==;y40391upGBKwwi+Glrbo3g=="
 ---
 

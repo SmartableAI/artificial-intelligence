@@ -3,8 +3,8 @@ category: news
 title: "Amazon has revealed its first self-driving robotaxi and it looks wild"
 excerpt: "Amazon acquired Zoox, a self-driving car startup. Now, six months later, the company is lifting the lid off of its first self-driving taxi project. The autonomous mobility company announced today that its robotaxi can hold four people and travel up to 75 miles-per-hour."
 publishedDateTime: 2020-12-14T21:33:00Z
-originalUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
-webUrl: "https://knowtechie.com/amazon-has-revealed-its-first-self-driving-robotaxi-and-it-looks-wild/"
+originalUrl: "https://knowtechie.com/?p=136759"
+webUrl: "https://knowtechie.com/?p=136759"
 type: article
 quality: 24
 heat: -1
@@ -88,6 +88,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Zoox-Autonomous-Vehicle-Studio-Side-Female-Entering-Vehicle.jpg"
         width: 1680
         height: 1050
+        isCached: true
+  - title: "Amazon Zoox introduces self-driving robot taxi"
+    excerpt: "Zoox, Amazon’s self-driving car company, draws the attention of its first robot taxi. Zoox debuted on Monday with an electric, completely driverless vehicle built to drive. It is a “coach-style” car,"
+    publishedDateTime: 2020-12-15T13:17:00Z
+    webUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/"
+    ampWebUrl: "https://www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/amazon-zoox-introduces-self-driving-robot-taxi/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 61
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-521.jpg"
+        width: 736
+        height: 415
         isCached: true
   - title: "Amazon Zoox Unveils Self-Driving Robotaxi"
     excerpt: "Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other. The car can travel up to 75 miles per hour and can run up to 16 hours on a single charge."
@@ -215,6 +231,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Amazon-owned Zoox Inc. unveils autonomous self-driving Robotaxi"
+    excerpt: "Zoox is an autonomous self-driving vehicle company that is headquartered in California and was acquired by Amazon in 2020."
+    publishedDateTime: 2020-12-15T14:52:00Z
+    webUrl: "https://techstory.in/amazon-owned-zoox-inc-unveils-autonomous-self-driving-robotaxi/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Amazon’s Zoox unit has built its own self-driving taxi"
     excerpt: "Amazon.com Inc.’s Zoox unit has pulled back the curtains on a homegrown self-driving taxi that can cover up to 75 miles an hour and drive more than half a day on a single battery charge. Foster City,"
     publishedDateTime: 2020-12-14T18:35:00Z
@@ -258,6 +288,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "HS/E7eNkfqqCVekkkwIoGL/YXFmj8zYB4JI+5Pj7eS+YEOgi5A2DNYE6h1n7L2nMJPqG4slhAkxwWNWI/+nhsbn43WXgwNDCtVuEjts/A0JB9B6JRiAiLjLc75yPqCK0FjUy0rPMGeFp3tNOwl7y9Ll3LmGERIFovhxm+pdljrE80SvVauuB2wKirL3GIGR/+nbnkO7CV5Aod59hLSmh6V2Kji7vZnALPiJrgY08FbDmpP7y5oVeSkQ2NvSXr2OOxZpB3DVMXpUEk5S2QEH6Hz2vS18B0GPcHh7xAdlxvVamZNDRjyrLuxWnceMZBJzUTHGb8vPJMFNGNKiQR9SsJs4yHBel7kmFt7h7KytGu+RaTI36kcB//vSASUFZCHtZ+tbpR9alfwacfqgjeHI2ZnMpZXeI4Z4zIDqJVHWo8X94DHyRYhuuYOIy3Yd2Avw6jg7UAxO8DfbkjaHu/66OccHbJLeki3ucUiO6bT/kSag58MIhuz13WZ0HhxCJw1Zg/Tl/L2YEXuuvroW800bKPQ==;w7kTDZfOQqVDVIyQqufjhg=="
+secured: "Fck6TcL8XBcionX5FBGCiS17obxcXok+E4Q937GPD6BZE4ObqNkUgJOuHJsp4YQJiL966Fc4/OutNylw/pEcZu72162VMUm7z4X9pmQHPxZ7w8r6PNL0jqpd80NGTmiq7tePzdEA90gHbSaVZkAtWSauDOZIqVtxbOvkLFCCZJ55yIVmbFE9WnhLrzkmlxoqayKmJtJIW3ncteYc0fyZJc+7p+yCedrsN60yx56SuVmHXjb5c4zMUw/izwJd6gTAwhMe7+8/bzdDuFYbDXNAvHQ6Nfx9EvptjZYcOC/FV1rKEh5et7ssybWvdPHkH32HojZIU5pZTRRDHrgNIs/lmkQ+Xp67TMC4rtnP/MsHRP8=;DqrVLYUXWMykTgbTQaz+nA=="
 ---
 

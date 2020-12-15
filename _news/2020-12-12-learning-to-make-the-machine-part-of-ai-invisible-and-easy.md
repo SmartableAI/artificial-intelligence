@@ -46,22 +46,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "EU watchdog warns of using AI in predictive policing, medical diagnoses, and targeted advertising"
-    excerpt: "The European Union’s rights watchdog has warned of the risks of using AI in predictive policing, medical diagnoses and targeted advertising."
-    publishedDateTime: 2020-12-14T09:51:00Z
-    webUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/"
-    ampWebUrl: "https://venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/eu-watchdog-warns-of-using-ai-in-predictive-policing-medical-diagnoses-and-targeted-advertising/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_.jpg?w=1200&strip=all"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "How machine learning technology boosts contextual targeting for advertisers"
     excerpt: "In a time of dramatic changes, advertisers are course-correcting targeting efforts to adhere to the ever-evolving digital media landscape. One solution that addresses numerous areas of transformation — from consumer habits to privacy regulations and the demise of third-party cookies — is contextual targeting."
     publishedDateTime: 2020-12-15T02:07:00Z

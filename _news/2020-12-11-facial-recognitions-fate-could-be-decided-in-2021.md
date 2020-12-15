@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
 type: article
 quality: 189
-heat: 249
+heat: 229
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/06/0065f5a8-4ed7-538e-988a-de21a06170d7/5d239eab53a17.image.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
-    excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
-    publishedDateTime: 2020-12-10T21:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deeres-farm-version-of-facial-recognition-is-coming-to-fields-in-2021/2773299/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106808580-1607525082815-gettyimages-1229551124-NY_AGRICULTURE.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
     excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
@@ -102,15 +86,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Gov. Baker seeks to strike proposed facial recognition ban"
-    excerpt: "Gov. Charlie Baker sought to strike a proposal that would have banned police departments and public agencies across Massachusetts from using facial recognition technology."
-    publishedDateTime: 2020-12-10T22:46:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2020/12/10/baker-facial-recognition-ban-police-changes.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "3t9daNKpD3iTsDzHfo3bluVCwJbVO/O6WPenWw+tXGEgEHEmV1tnGpc1fIQHeDg1a/aMFdFoX0Rr0hZmu5AWEOaEfV7iNi7/B0fzCRoJpyW+pxSkWCfZ8PkhaPeyHWG0c9QxJjdRyG02RX7xSIpthgt0VbQWULiaXE3/gf0y+1swXfvQIb1HlFWpAEgfb3ZJngO50vHPx5AZ+j6m7c/dYvqoBoMki5lOpm5M8A/HGf0AuutZbrLu+D4k8LbW9+zoP1xqfKc/WeTeY4e/zR/cBATlSflLZClDZfbmTYIwtJp4jMX2UbPi2WB2o+ZessHZYsejk1NeETs+bDaU0EGOAZeD2bx5uOgpjeEwWsEvxTuQxgYnsFGluNf39PTGZnrHKD0s2WAINDpmyOD7OOsxq0KSb9c69LsjNY1m7coW8BNscFx+FpMurjHrE6+Myk4nNVnvp//o49XAGjPGfnMhMIJYOoxjZ9dw+1VZABkBpulPobTKFnbSbn6CYjdhHXVkubiml78pHvT+gIftPfMUpqE38t++WbstBfAOEkG1wcw=;noQGvfl6mAIGk6Kx+3fPBw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/articles/Science/20201212/367336
 webUrl: "https://news.webindia123.com/news/articles/Science/20201212/3673366.html"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Study details first artificial intelligence tool to help labs rule-out COVID-19"
-    excerpt: "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv's new AI-COVID software."
-    publishedDateTime: 2020-12-10T21:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 70
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/8-researchersp.jpg"
-        width: 639
-        height: 426
-        isCached: true
 
 secured: "WkLFs0VboSj8P+nnx+mDbcNE+t0RLWKZM0exD/BvoDkBVMCx8nHoY7G1tvDYRotFtViO01MYhrJgjyReR38aZOmTf15aYr0HXEijxAkN/+FSBciYxkFMVjA37bOz01zWliBNKHazSTARO0lSQpFePYRqdKQSc8Ew/DToPAZaT7iH4HwfpK2LFVtjZwXU5GArdQwV0MSyB62qWRtLcaJ+q9yr4kO+RjzOpVc4agBMH46keB69ZKnuK+deNJUFKTefxdoSvf8lszdRn6XuSgO6J28FVkOCvfZfZQooIWLtT629km3vNE5uZMCojDQvGvQulI4QFo/lktM+UHSrss4aWmNW997B5losoe4uOMciz+I=;l9vhgLPadEYp2ZGo+KLDBw=="
 ---

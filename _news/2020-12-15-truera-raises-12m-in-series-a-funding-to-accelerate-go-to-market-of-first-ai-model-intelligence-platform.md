@@ -50,6 +50,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Neurala Launches Industry-First AI Explainability Technology for Industrial and Manufacturing Applications"
+    excerpt: "New technology improves quality control in manufacturing by identifying inconsistencies and anomalies in vision inspection datasets."
+    publishedDateTime: 2020-12-15T14:16:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/15/neurala-launches-industry-first-ai-explainability-technology-for-industrial-and-manufacturing-applications/16264/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
 secured: "7yIDs47dczyxPSl8RQ9G4VnNWo5p4uDTuyKgHFt5S0OaCQHp6DLiPmKO3IvNtLXPd0wyWLVZyIOeB+XkTWuf/pUYM+leJVo9X+0R8kamIVYKhI6xx+4+2fZtNUPmFMR/f402XM2H6OQKy6YfWW2/ObKuDGU/FNthmuitGe5VTkqjihXHal8ifBJEZmLw8aXjCUO6LW6TzlXA9fW4mA+Q6u6f3bJ0hE4l0Mu+c0OqsHI4CDdYJTxog8ETe4wCEvOzIORK6hTT7OI2wrmS5w8MXTvvWx2F+Kbwqq9M+jWkuT21BnS7/Ih9yFYideq3m0q+y7tAJPBiOB8OPI52hAFOGRCF6gWJuSzvBOLqVM+Rqfc=;lFNBHq1EimwjcMDh3Bmmjg=="
 ---

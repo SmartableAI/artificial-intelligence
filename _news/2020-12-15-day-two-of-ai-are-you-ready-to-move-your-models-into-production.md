@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd783eeef4d874ac503fd86%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "XjXbTIa1ltVQs3mjqfiryRGyzia0tbh0Jrp+KpwhRquQoCI/SjazknOfvU5CBVh73yXie+AxOEXSwE2nLUvQ0amNuxTE1gd/qNDhvx9VRuCB5JW4iyAQezO7yjvO2OXtfIpm8QONC4wd0rkLLl8a7ylIBMNwnVsLCcELMSxois0Y+NsvgGQ/A3bkntM0xIf69/jyBcmB+1xUuFeP5nIrFf+yhVw6D1ejM51Sf3+ojp+WRpnnLRRPIMk//1MPhfLAantGU7m2cdkBwmEKb3jGrzDWB8vhuukRFUGUTVvHkoEsyx6pd0mweH6v+yNQgfF+OZQVytG6NSrA75M8HlB21y6k3R0VtELcUauSERwkY7I=;349ySjLTJX/7qc1dnbWRDQ=="
+secured: "VQFKZscEcQ4a31klKUMoy03RT+lJa9DmlDTN7Z3cxTkimvUVKZKJl9PNC8PDseABA228nWwk+W0Q2CJokDnzeFm9EM3cHZVpxLSN6Ab6p1HGhiAUuBn0PajlY90R56MNO18OOkybsLfOp3SC3Ko5gd1232XOjWhtoRbARfv13LDnVN3KgqKEcvV10TDlQB/M7TWbALbFDqTu9DFhqaMAe6Xg+d4V96VQSXWdivmRyXSOilEN+dN4eDl/1T3RLWpFzL1YxXo1U5QjLt3gM3+tyGJ6qwL8NyrVamiIcyj4N3Q+9sfuUs8lXdOiHIUv5ybrJseKr6tMMcwIAoww0seNNVs6/K+bV36oyNabpUPv4IugvkKXlW2LWaW72mYAO8aX6nJX6INAkuJehDG9Qx9acezJT9pIAgf3lzkv8G/YpqczfZZB08TPK7MRmO765tYcYOLevHuQ/TIcdiPp5b7NDN4nq2olsz8uWc7JbLVesmmfgaq4fJ3jFtZB22EUSBGAeCYo3Nrtt2FLE16Y7wm81Q==;R04UW1Nre/IVkgtRMU0OPA=="
 ---
 

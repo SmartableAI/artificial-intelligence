@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-t
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla Full Self-Driving’s cool augmented reality view previewed by noted hacker"
-    excerpt: "Driving beta seems to be getting cooler by the week. In a recent set of updates, noted Tesla hacker-owner @greentheonly found what could very well be one of the coolest features of the advanced driver-assist suite to date: augmented reality view."
-    publishedDateTime: 2020-12-15T10:49:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 55
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-fsd-augmented-reality-view-1024x632.jpg"
-        width: 1024
-        height: 632
         isCached: true
   - title: "Apple Reportedly Developing Self-Driving Vehicles"
     excerpt: "Apple is reportedly dipping its toes into the automotive industry. While details are currently scarce, some sources are suggesting that the world’s highest-valued tech company is working to develop self-driving vehicles."

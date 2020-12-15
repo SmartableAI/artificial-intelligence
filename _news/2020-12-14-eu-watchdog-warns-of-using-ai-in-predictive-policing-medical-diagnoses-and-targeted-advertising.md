@@ -30,53 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising"
-    excerpt: "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative."
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
+  - title: "EU watchdog urges AI policymakers to protect fundamental rights"
+    excerpt: "The European Union's rights watchdog has warned of the risks possessed by predictive artificial intelligence (AI) used in policing, medical diagnoses and targeted adverts. The warning came in a report produced by the Agency for Fundamental Rights (FRA),"
+    publishedDateTime: 2020-12-14T10:29:00Z
+    webUrl: "https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 167
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd299ba7aaefd66c9fe94fb%2F0x0.jpg"
-        width: 1199
-        height: 634
+      - url: "https://fra.europa.eu/sites/default/files/fra_images/adobestock_blacksalmon_381282846-for_web.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
-    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
-    publishedDateTime: 2020-12-11T23:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+  - title: "EU rights watchdog warns of risks in use of artificial intelligence"
+    excerpt: "The European Union’s rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
+    publishedDateTime: 2020-12-14T12:11:00Z
+    webUrl: "https://english.alarabiya.net/en/business/technology/2020/12/14/EU-rights-watchdog-warns-of-risks-in-use-of-artificial-intelligence"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/12/14/EU-rights-watchdog-warns-of-risks-in-use-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/12/14/EU-rights-watchdog-warns-of-risks-in-use-of-artificial-intelligence"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 65
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 59
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://vid.alarabiya.net/images/2020/01/21/20192a42-24c4-41b5-8db9-bca5680b8f74/20192a42-24c4-41b5-8db9-bca5680b8f74_16x9_600x338.jpg?width=466"
+        width: 466
+        height: 263
         isCached: true
-  - title: "How machine learning technology boosts contextual targeting for advertisers"
-    excerpt: "In a time of dramatic changes, advertisers are course-correcting targeting efforts to adhere to the ever-evolving digital media landscape. One solution that addresses numerous areas of transformation — from consumer habits to privacy regulations and the demise of third-party cookies — is contextual targeting."
-    publishedDateTime: 2020-12-15T02:07:00Z
-    webUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/"
-    ampWebUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
+  - title: "EU rights watchdog warns of pitfalls in use of Artificial Intelligence"
+    excerpt: "The European Union's rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
+    publishedDateTime: 2020-12-14T05:46:00Z
+    webUrl: "https://www.straitstimes.com/world/europe/eu-rights-watchdog-warns-of-pitfalls-in-use-of-artificial-intelligence"
     type: article
     provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 57
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
     images:
-      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/12/DailyMotionBanner.jpg?fit=682%2C284&ssl=1"
-        width: 681
-        height: 284
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/12/14/af_eu_141220.jpg?itok=tHIAAs-h"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "yPFuqRy+owPO0RaPiG/hNbAoI5RPKc8wxk7RE4atxEzTNWo8XTRlso4B3FAGDxt3fKQhPQUYP57wbVQRzvQdq7wxLELvOCggi3IMOGVaM+DV77Xpo4Pyhwi+Y6BkKuqR0Ri0mBpciPCOQWhRzpZk7cfDOLGhBJEQwOKhvbPp39sjLmuF+pkbmSGd7lBJleQmgnJVR3e4Mph+TtRW4cYVnZCn5/1l19q9fm8/ZnCTeGNd/0mN4tlekq2U0kgweyG2ocz+UQq+WrGMCrCI2ZDlrnKauTVFj+0dxvEhvzj7CLyxNLscCRrp6lP3YrVxxDM4Ejo1YwqFMuzYPZbbyl22gCu46j8K0EGpz5AhJ6+rlgAIsqThK4uHomw99l3m8b49jdOVm+1/IxDix913f0dWcL+MQ+65OA8ONnpm3Ful80xrL/5QKjlHhDyEV57JohvYUmUdFq1G15JBEHeRdjeo2h5XU65gYa+rsuHGx41PYltkjHd/wPtGfPSda46Q0S9t75BT5IryYZA2LdpQC4nPlw==;mmT0YzRWYekxGPavhIc/lw=="

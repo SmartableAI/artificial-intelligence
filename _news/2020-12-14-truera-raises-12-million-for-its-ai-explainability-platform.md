@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
+  - title: "Neurala Launches Industry-First AI Explainability Technology for Industrial and Manufacturing Applications"
+    excerpt: "New technology improves quality control in manufacturing by identifying inconsistencies and anomalies in vision inspection datasets."
+    publishedDateTime: 2020-12-15T14:16:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/15/neurala-launches-industry-first-ai-explainability-technology-for-industrial-and-manufacturing-applications/16264/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
 secured: "HORyHqc/14U6Iy8q2USbb5eKWcgEW1b9sJ+PJhgVBs/w2T3aX4Ws3eA5Z7NIlM5FXetJd0Ndx6/KUPtlxR+vvvcjWcNmQeIifLJskESASV1mQMsHjCSaCaQhaPEfPgC1cnPtXl3SRpAVu/9EYyNdKC1XY7ASjY3i+Xt2s/qLDfyiDKKTGHF+btcHlbnqoPZIUCXPMyCiM1qiRcEivQlWl0Qk5oPX5wqPxhgUrM4+h4dIGzm/dfNfBPv9hhbg28blHoNIhjesPrZE9OsiXKzVjojSz3FyqjmHkwJSXqJZDuGrSSqQhIeqrsM6d2WC/9sAhfJ/OfypgrrAyS94hWHpipx4TvSIGaHoIbL/8aaSbfiXni97AI2gr4el2iiNbhiNkM4lpsqgwFNRgMCGYfC/KTY/cEfioOVzA/v48R2YfP6WATUAtf/oTFCKRBiyFc7ruyPA8oJibpwU/S/4riZuilL99S/3LGxMoxyt7zemup2/G23Z26vP1xayK9I0czD0As5T9NATUHATIL0X7jUx7A==;v485mYqusIkQVqwXeXjKYA=="
 ---

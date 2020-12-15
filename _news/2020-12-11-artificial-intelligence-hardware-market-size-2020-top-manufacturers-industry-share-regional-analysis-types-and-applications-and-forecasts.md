@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
+    excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
+    publishedDateTime: 2020-12-15T13:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-gesture-recognition-in-automotive-sector-industry-2020-market-challenges-business-overview-and-forecast-research-study-2026-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yOKjcdrt9pOz+4ATVMlMFGLH7Mk35H1duxVv+frxUIVqA0e39d/xf74nndO4TF3skvfHco2zor+DBMrzGX6U7x0+ryxlwkatuUs6wJmfAmT8oxwZGJc30dGZ05/sWYsG2IB9bd9/X9R3D2DPwQO86jhsrmTz9JLctI71gs0jySfTrIWODUxHQwodIxYpmrpw3KYBUcPM+ETeskW05tZzo6SPg3YsXo9ztLwsY9ymWEiK3FAVJMD5f4O4h4JEBC6qs4Mw6UmN9LMb5S9McCgchSnP8thxUl+ke1cGZMWwXhRLxYJ9jBz6F/j/UrfIHJ8UNHoICy44u1jF6HE3Dn2uLEzFpSFkSkRJI+vmGi4qZJQ=;K3eNKjaj/6YgyogMq5dveA=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Full Self-Driving’s cool augmented reality view previewed by noted hacker"
-    excerpt: "Driving beta seems to be getting cooler by the week. In a recent set of updates, noted Tesla hacker-owner @greentheonly found what could very well be one of the coolest features of the advanced driver-assist suite to date: augmented reality view."
-    publishedDateTime: 2020-12-15T10:49:00Z
-    webUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/"
-    ampWebUrl: "https://www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-fsd-augmented-reality-video/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 55
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/12/tesla-fsd-augmented-reality-view-1024x632.jpg"
-        width: 1024
-        height: 632
-        isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
     publishedDateTime: 2020-12-12T12:23:00Z
