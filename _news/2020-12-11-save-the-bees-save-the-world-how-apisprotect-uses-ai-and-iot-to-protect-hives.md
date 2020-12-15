@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/10/save-the-bees-save-the-worl
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/10/save-the-bees-save-the-world-how-apisprotect-uses-ai-and-iot-to-protect-hives/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Satellite Imagery and AI to Protect the World’s Coral Reefs"
-    excerpt: "Six TU Delft students have won the top prize in the international innovation competition Copernicus Masters with their company Reef Support. They"
-    publishedDateTime: 2020-12-10T08:31:00Z
-    webUrl: "https://www.gim-international.com/content/news/satellite-imagery-and-ai-to-protect-the-world-s-coral-reefs"
-    type: article
-    provider:
-      name: GIM International
-      domain: gim-international.com
-    quality: 37
-    images:
-      - url: "https://www.gim-international.com/cache/d/2/f/3/1/d2f31be97923394688415c4b72e189cf87192b3c.jpeg"
-        width: 680
-        height: 408
-        isCached: true
   - title: "Project seeks to develop artificial intelligence to protect whales from ships"
     excerpt: "Researchers at Simon Fraser University (SFU) want to use ‘AI’ to help protect orcas from being hit by ships off the Pacific coast. Steven Bergner is a computing science research associate at the university’s Big Data Hub,"
     publishedDateTime: 2020-12-14T16:10:00Z

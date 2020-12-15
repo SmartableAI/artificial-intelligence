@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Nationwide Selects AWS As Its Preferred Cloud Provider To Deliver Digital Experiences To Customers"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2020-12-10T14:51:00Z
-originalUrl: "https://www.hostreview.com/news/201210-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
-webUrl: "https://www.hostreview.com/news/201210-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
+title: "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers"
+excerpt: "Insurance and financial services leader rapidly migrates to AWS to unlock data-driven insights, automate processes in the cloud, and deliver new digital services to millions"
+publishedDateTime: 2020-12-10T09:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18732538/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/b18732538/nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18732538"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18732538"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: Host Review
-  domain: hostreview.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "VyxyU0qocwFDUUyIk98IXvumjM3Dv+hn0gjtVZPMgttES4NTJ2qLtxavQMFLsCUM1YIVni1mJ+qyKYCLMPv20+UHz8rzMU8cyiva1va35gUBC23UpfRoMANTl+xjhRUnjrEFasOUBdrx/7tt2+6a/C961lZ2zXfLWef9S0dTAkNmbUTajGVmPFjdiwpzibE411G/cDWxsv7G3ZlxiXeNi5GuYe0wEfOZ/d//Kv7TpQpJ6X0Qr5sPBcHi2mrEpfy69/LtDUneiPaDMO2wdERUYOFVWY1K7RDl5/PPn1BdhpP90U7qBZMCt4OGYflNgWJ94DvwC6kKyMTxzSZe3f5pvJTi5NDn970xXBvTOrdNJR0=;NQ+FBJpUYSKfY5GtiOLDSg=="
+secured: "e1O0W2uMUjI3UKe/h+ddPopEn4F8SMJzYbx84furkSYxFNv6V6w0g9BpEf/x1b+p8MXuulW+aglpKkE7A/6MzI0dNkbS8i0MbVaPsMux0Lc3J4YxwI2+3UIr0eIIlx9vjO+P+cdVGfxk8Ho+UdDdLKbLvVGamlRL5/a2pUhFtb8HzUNsnXa43BHzgCcdhprIvomcGo0M8225YSwxODdBzNmvAwGBv/LngEgO7Kc5zdoq0jPCMJIsyyo2hpkkdcdDL0C+T9wPrXa35STIXH7P3TUIBkETfGcFchDX47mae7LuxW096N/gGH7X+inSHa/vn04qZI7+ObHzSp3HHlfBIEXt92GkKbjIebCYB1xu/zE=;NIiAqfjVYaTWc542d1Fc+g=="
 ---
 

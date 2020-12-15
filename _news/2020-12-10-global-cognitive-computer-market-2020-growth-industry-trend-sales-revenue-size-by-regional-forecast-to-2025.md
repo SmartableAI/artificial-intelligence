@@ -24,43 +24,64 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Global Voice Recognition for Automotive Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2025"
-    excerpt: "Global Voice Recognition for Automotive Market 2020 by Company, Type and Application, Forecast to 2025 published"
-    publishedDateTime: 2020-12-10T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2025-2020-12-09"
+  - title: "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025"
+    excerpt: "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based"
+    publishedDateTime: 2020-12-11T11:25:00Z
+    webUrl: "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc11826692_g.jpg"
+        width: 564
+        height: 444
+        isCached: true
+  - title: "Conversational Artificial Intelligence Market Analysis, Dynamics, Forecast and Supply Demand 2020-2024"
+    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
+    publishedDateTime: 2020-12-14T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Military Robots Market Report 2020-2025 - Airborne Segment Currently Dominates the Market - ResearchAndMarkets.com"
-    excerpt: "Also, the companies are investing heavily in R&D to increase autonomy into robots with the use of technologies, like artificial intelligence. In addition, the acquisition of small regional players and technology companies by international players and ..."
-    publishedDateTime: 2020-12-14T16:52:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-military-robots-market-report-2020-2025---airborne-segment-currently-dominates-the-market/article_c319ee51-bd9b-5e20-9eca-bb3cc8941533.html"
+  - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
+    excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
+    publishedDateTime: 2020-12-14T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
-    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2020-12-10T08:56:00Z
-    webUrl: "https://www.financialbuzz.com/global-automotive-voice-industry-report-2020-with-focus-on-china-baidu-and-vw-mobvoi-are-gathering-pace-researchandmarkets-com/"
+  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
+    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
+    publishedDateTime: 2020-12-11T22:39:00Z
+    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "MBusVIPRTYXFkKiQgNmRh8CszUOSnk7tXvk/qmQ5E7a6wrVzFBy91HbMI44d6E+/HOafh6UqoP65OW48eyLyKLFj8JvoS3Zge1CesXDSLxeEe99LMeaEFU9dPaUHDip9Ojh38HaU6bjVtarkZlvOa4PaVkqRO2ef29i++njf1DBRePGIVDDTCzte+MR6frkfAl7EJM5zUnvVnL/hF6Im3/1xE2EpBg64lMSAXjQdhMF4blgerMrAlbFW95cjPplc1BzPgRl2kCJ8JptHZhMvCPcZZ0+nVZfS/XFjr4LhxwT0zKj1LwFFku+3UkJgURH+zsBpf0HuLAKSYAtRiyfCoyAryd72ig//SvinXcZMzVc=;Apin3bL+7jmSTladIVOzYQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/global-military-robots-market-r
 webUrl: "https://www.oaoa.com/news/business/global-military-robots-market-report-2020-2025---airborne-segment-currently-dominates-the-market/article_c319ee51-bd9b-5e20-9eca-bb3cc8941533.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,38 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice Recognition for Automotive Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2025"
-    excerpt: "Global Voice Recognition for Automotive Market 2020 by Company, Type and Application, Forecast to 2025 published"
-    publishedDateTime: 2020-12-10T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2025-2020-12-09"
+  - title: "Image Recognition Market Covid-19 Analysis Strongly Driven by Rising Global Demand"
+    excerpt: "The global image recognition market is growing by leaps and bounds Visual content is continually replacing the conventional technology of textual solutions With rapid technological advances technologies such as image recognition facial recognition and 3D object recognition provide superior solutions"
+    publishedDateTime: 2020-12-14T21:36:00Z
+    webUrl: "https://www.openpr.com/news/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
+    ampWebUrl: "https://www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Computer Market 2020 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2025"
-    excerpt: "Global Cognitive Computer Market 2020 by Company, Type and Application, Forecast to 2025 is a conclusive source"
-    publishedDateTime: 2020-12-10T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computer-market-2020-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2025-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-  - title: "Global Automotive Voice Industry Report 2020 with Focus on China – Baidu and VW-Mobvoi are Gathering Pace – ResearchAndMarkets.com"
-    excerpt: "The \"Global and China Automotive Voice Industry Report, 2020\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2020-12-10T08:56:00Z
-    webUrl: "https://www.financialbuzz.com/global-automotive-voice-industry-report-2020-with-focus-on-china-baidu-and-vw-mobvoi-are-gathering-pace-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "DmliyfDR8KSML/WdQBksFhBDTnDgphIU9UJmdFGuOrlGeVQ+1Je7dr8/Tu2MOqCgNSgtRrDR+Eaxwqs5H93NMOj2CpElz6g3JIJYo1y+IJO3LzgU44ppQuUZsOSLXVVVJn+e3OpC5xjnKmJhjDWOOLVoHY6GsqtAFbhSICobJY0Xb1qVuKv28Zi6GGgW0oEroifnxzdzLqqAnCZVWgPD9oQNg5L39exi25OloeFYlx85nxdva5WrLy0xsjgUAp+LzGO1gds36ROI3AtCORMVH7MJZJnFK6GG+/rJPByHA3oevAKtsuOsShDIe+geK+M5mBi03/rQj5Ku3nnc5cVmCwIj8u8iyunhzNTP54CRlws=;HWw0PpHF1loePwI1oSyeJg=="
 ---

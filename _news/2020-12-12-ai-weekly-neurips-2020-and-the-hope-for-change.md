@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/12/11/ai-weekly-neurips-2020-and-the-ho
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/ai-weekly-neurips-2020-and-the-hope-for-change/amp/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,7 +41,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 93
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/a68795c9-ddd8-4fb7-85c5-b93bd3daa6a0/neurips-2020-knowledge-represenation-workshop.png"
         width: 1572

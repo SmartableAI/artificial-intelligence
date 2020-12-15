@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Humanoid Robot Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
-    excerpt: "Global Humanoid Robot Market is valued at approximately USD 1,107 million in 2019 and is anticipated to grow with a healthy growth rate of more than 35% over the forecast period 2020-2027. Humanoid robots are the robots that usually be similar to the body shape and attributes of humans,"
-    publishedDateTime: 2020-12-10T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/humanoid-robot-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-12-10"
+  - title: "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2020-12-14T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025"
-    excerpt: "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based"
-    publishedDateTime: 2020-12-11T11:25:00Z
-    webUrl: "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc11826692_g.jpg"
-        width: 564
-        height: 444
-        isCached: true
   - title: "Voice Recognition Market 2020 Technology, Trend and Growth Forecast To 2026"
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2020-12-14T10:43:00Z
@@ -88,43 +72,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
-    excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2020-12-11T10:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-ai-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2020-12-11"
+  - title: "Global Deep Learning System Market 2021 Future Plans Projections | Growth to 2030 | Top Players Update- NVIDIA, Intel, IBM"
+    excerpt: "The latest research report provides a complete assessment of the Global Deep Learning System market for the forecast year 2021-2030, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2020-12-10T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-system-market-2021-future-plans-projections-growth-to-2030-top-players-update--nvidia-intel-ibm-2020-12-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
-    publishedDateTime: 2020-12-14T07:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-12-14"
+  - title: "Voice Recognition Market Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2020-12-14T15:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Diagnostics Market 2020–Global Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2026"
-    excerpt: "Global \"\"Artificial Intelligence Diagnostics Market\"\"(2020-2026) status and position of worldwide and key regions,"
-    publishedDateTime: 2020-12-14T21:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-diagnostics-market-2020global-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2026-2020-12-14"
+  - title: "Artificial Intelligence in Manufacturing Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2027"
+    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Manufacturing Market Size study, by Offering, Technology, Application, by End-user Industry and Regional Forecasts 2020-2027',"
+    publishedDateTime: 2020-12-11T16:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2027-2020-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -144,19 +128,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
-    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
-    publishedDateTime: 2020-12-11T22:39:00Z
-    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
+  - title: "$250+ Billion Artificial Intelligence Chip Market by Chip Type, Application, Architecture, Processing Type, End User - Global Opportunity Analysis and"
+    excerpt: "The \"Artificial Intelligence Chip Market by Chip Type, by Application, by Architecture, by Processing Type, by End User - Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-12-10T15:39:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=390843"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 16
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "As Voice Recognition Technology Market Surges, Organizations Face Privacy and Cybersecurity Concerns"
+    excerpt: "A new report released by Global Market Insights, Inc. last month estimates that the global market valuation for voice recognition technology will reach approximately $7 billion by 2026, in m"
+    publishedDateTime: 2020-12-10T18:14:00Z
+    webUrl: "https://www.natlawreview.com/article/voice-recognition-technology-market-surges-organizations-face-privacy-and"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 11
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/17444/cybersecuirty%20threat%20globe%20biz%20person_0.jpg?itok=OVTaTwPK"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "BEp+I8u6h99nvz1mVtHnD594nVSHsdGgEnxCsHqDrcuyF/E1hGeeWqPGYtvZHOhPH3nmNPz3KVWk1S0/tk9wBT+D5KCOYx6ArnZc5SvPc830Iv2RGRZ9U8QV+1zeQCRihIOs6YOPkiGqwhECbGM9H3tWLFkD6iGbyt90cDWTjcCFxNJg4SmaMf/jEYQQWK4crEBRXpLWdzSbiX2c/ZaB34VxWmTeoxRQUCw2+qWxaBEWd+1Plk/FSXqz5HFTQ4+CJZjOqLWs06Wb1nm3eYKC6k9adS+1tlTP5SNiHyhG7inj2Vpe1n21nbn4JIcsfLRgwMznc9rtmWi9DfAL6uMnwG6FPGCzVbxf3hZR5fdJm5k=;VbUfoUczbSGCMWNzjbm24Q=="

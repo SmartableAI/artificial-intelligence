@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-portrait-lighting-ai-technology-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-portrait-lighting-ai-technology-180758456.html"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

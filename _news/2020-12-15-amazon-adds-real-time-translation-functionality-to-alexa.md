@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-transl
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -30,6 +30,24 @@ images:
     height: 1360
     isCached: true
 
-secured: "e0Koftu+jkhMVrBcM9HWThRzNaedKjPVuVD96lrO1hZIqIpkRrUBvj+deDpSawgqqGki9y9+2ponymxAqkeUDvXjQXNNRT/H3jNU4Bz1xwx0EofY7odCvOYo1PGhJ8O35PJ7YFmubudKFyA9llVYTuwVfvrVtMN8JZ1ykBgGDAZz/kZZAU7iauYoKulcM/MiY2srKYJwRgZMft6yecbRgSaKGztu4SGDwpK/9eNIgY3ZTWyrI8YvUQX6FhP9073XmWe0fORjxBTNs/bOepO7h4pdjsiKD6qAB3hknrmybnjQ0nk+RkjiJGwy1Aloz2i2b4jC7WIftTJsTBWV8v6Xj5hFE2jBLi8iKmz4N6a/eo8=;TWsl7/TW7Ik6QNjUABweVA=="
+related:
+  - title: "Alexa Live Translation feature arrives on Echo with six language pairs"
+    excerpt: "Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator. The"
+    publishedDateTime: 2020-12-14T21:28:00Z
+    webUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/"
+    ampWebUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/echo_show_main.jpg"
+        width: 1440
+        height: 820
+        isCached: true
+
+secured: "wqi82fxjjfjtr+EIU/0LuJuDCs9mDmuLQAKz6mQbMYYf3e1VBNnB/YCaytz45YcX+P5mLCNhmHlUBeYLlL0mfOOT0PbDCUaU5g23LX6GgetxUaQ1bkL0azsr1PPySjqebT+AtrymSN3TnkMWf0fOnfqSJZpe1WpfEoFZ4+btXiUqtQXbj2SB0JGcp4mAo1SHAWZ77+AU3F8paxqTt8Nm0ynVuw+E1Z3p2/NLpS7JSkJ0XRcCA5WySq+LMdQ3WPrQf0z5hXow6a3IAMOSrMPiJrl7ctdVtXVOf1Hs0/9UA8dkOFhx+BtmR0bC5mo9kpr2gC8Eu3D9e/EDLhIAx4x4qWAFfmlykjSvftQ6pnkUphgwLe6kRZtjM+W76/2O0dC6PrOg6RcA8LtT/BASjQQPL7EzZinUVKgdLxXUQGhiD0x+vURUN1h0aipi7EM1aI7Mv1QlYncoJRnnZxjhCt6ghX8x7sgEjt0mPmPOdFjf+R8A1bMXcQ6TmIftzKSqcV8bp18wklFiA+BNiJKeKN7bLw==;maraG9HFucMKBMOH8KbFsg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sharecast.com/amp/news/technology/uk-ai-start-up-papercu
 cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/technology/uk-ai-start-up-papercup-raises-pound8m-in-funding--7743426.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Sharecast
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Papercup, the UK startup using AI for realistic-sounding voice translation, raises £8M funding"
-    excerpt: "Papercup, the U.K.-based AI startup that has developed speech technology that translates people’s voices into other languages and is already being used in the video and television industry, has raised £8 million in funding."
-    publishedDateTime: 2020-12-10T09:02:00Z
-    webUrl: "https://techcrunch.com/2020/12/10/papercup/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 37
   - title: "London AI start-up Papercup gets funding boost to help make video content watchable in any language"
     excerpt: "A London-based artificial intelligence startup has secured £8 million in funding to help it develop speech technology which translates people’s voices into other languages."
     publishedDateTime: 2020-12-10T10:31:00Z

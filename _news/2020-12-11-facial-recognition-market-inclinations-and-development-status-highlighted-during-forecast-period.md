@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Competitive Scenario of Artificial Intelligence (AI) Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
+    excerpt: "The global Artificial Intelligence (AI) market is anticipated to rise at a considerable rate during the forecast period, between 2020 and 2026. In 2020, the market was growing at a steady rate and with the rising adoption of strategies by key players,"
+    publishedDateTime: 2020-12-11T10:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-ai-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
+    publishedDateTime: 2020-12-14T07:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FOhd3FTZUpoIDH3gj2QRg5+lXLzd4sT2WbnMQ+6lMpVLT7iErW8VfHdtPtCmvjUHQ8vzf7zuEMe04joZq67bp7XjFjf5jybzDub32mXdDPk2zQ/WLUOgF6mpMcjXlpRCmxRQy2pAJFQ1f1co+8xskPWQvaiKCBXRzVXn49tjRHiZVt1OB3cNgUDREsvNfoLrfxNXckgSxCHzwNwJKfV5LCT8y/qJFiauI40uc+1jtlBuU4gD0ISpD3P446/NiLUBtly8mGAuU/jo/sCLmsHLMHhQCEGi//uR0/oEJ3RTQf7/rCtQbXNLZLndU04UxtfOg6ERPddkhavEnroPe3RSYDsbrov50zxI+FDUhrs4K+A=;LZ5LL8vf02+v/LtFeiQsQQ=="
 ---

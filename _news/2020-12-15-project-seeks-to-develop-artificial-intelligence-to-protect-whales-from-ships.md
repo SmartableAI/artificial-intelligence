@@ -40,20 +40,6 @@ related:
         width: 796
         height: 462
         isCached: true
-  - title: "Satellite Imagery and AI to Protect the World’s Coral Reefs"
-    excerpt: "Six TU Delft students have won the top prize in the international innovation competition Copernicus Masters with their company Reef Support. They"
-    publishedDateTime: 2020-12-10T08:31:00Z
-    webUrl: "https://www.gim-international.com/content/news/satellite-imagery-and-ai-to-protect-the-world-s-coral-reefs"
-    type: article
-    provider:
-      name: GIM International
-      domain: gim-international.com
-    quality: 37
-    images:
-      - url: "https://www.gim-international.com/cache/d/2/f/3/1/d2f31be97923394688415c4b72e189cf87192b3c.jpeg"
-        width: 680
-        height: 408
-        isCached: true
 
 secured: "M0M7P4Hs44ArNIAdku5pzlfGkmAU5ikQ7d7WYClbvAwns2YpGcQh/RLbbyDU39uDaldJLJaRd7VK2Aw1CVpIF16fjp6ZLbNxB2HIw2GF64BFUWfHaWYYcDBiN1txjmjntj5mfpS3wkyoCtbrcwKiS/7uYQ6/Ixl8U8z4uWTDXTR0R3DmJJvunVyv0h6qAMpg96Gk+mWhKq6NDN09KN7rK2hzAaZ2nSc001EhM5mzJ1xkqkcWE8Jj8/VLSHj1J4cYPaK/BJ3UnPS2cqG9+5gBuA8gfNj+cMD8BJcZc5n6Xh2+ahI/V9MJb5fSjc2KRgSTBtaJl7+OLmdZKIpH4iWKriDqmnHZOVw5TZcjYDcasxc=;T1ypHpiM0L5IycPvcArSHA=="
 ---

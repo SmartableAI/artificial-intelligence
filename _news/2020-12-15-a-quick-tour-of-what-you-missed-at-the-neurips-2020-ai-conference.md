@@ -8,9 +8,9 @@ webUrl: "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-ne
 ampWebUrl: "https://www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 93
+heat: 103
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
+  - Facebook AI
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/a68795c9-ddd8-4fb7-85c5-b93bd3daa6a0/neurips-2020-knowledge-represenation-workshop.png"
@@ -48,6 +50,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Iri2BI11rrdhwV45uN1ksxz8TbcAtl2Cb3SadJ1NyxsZDqYLIs4FGbwtZUiv5BHZJzKHvLlgwvZPlfEh6dEQ8GIqX9MN54aW1rfhX/727bbpJEMAYWhtQRAgVpRbagmZAQgEGJ2ydw+LlOtT4I2bWZEuZUmqOXbKnwEOWNpn5qy1vY4K4iZLPI3+UjLQfDL0gL3v5jE3oOsvpwV93ElQAHngQBKHipJq8e5aW5DFwq6yI/bILMzeC+NWr5O6/JHXJ+Zjb15i8uOt+wvvT1WJ0PCChaq+7IxYN2VvW/JSz1YBB56obKWaTzPmFG7ZI0J1VoOq3PyOhwyGltRA9ssVtBDnYXm2dNzCO9w+iF0Vonw=;n/9YXWjDdFTVuIgM7jaP6w=="
+secured: "IXSMFIGpWKMRJKXUcuw5wyjhbuGxihZEu07AEyNNMiCsRsFuPpbCt6X65mAazDUEbYi2jJFjsPIjT7Yjfj5jvFXjFhtiLqFspcVyrEFfsOhdpEXH/X2PjUtgrhX5KFjsEzIZDMsc9MsikdmL9XUgWGtgBT+stNCGBTkLwU3Y5fXHihw1LoZXgAVuErndHZvhhUf5gfLfXqi25ukMHnV0NHF2wjXZ7XLALg14weHzOtOEQlsj0MN9QhHzCFwXGFUS2NlJbhZnapNEq9OtIEKgKQ1XJlWJ3riZWu3Jl35ZcdqasrHaVvcQVtW22rmCunWXNH8q9Q0DgwLztgAx7RZseKDUiRgdKfg0r4nPKx3O0Y5grL/9NPIlmwlQce0CIiUvbQy4yBrpKDn3uj3gtRyom8LySvYm5hy9ZUqfsXDzJMJJamoLfIs7PTrB2716WJ3UQJaD7KE8sQ1LWwi30ov3idjycjcBsBMOg+Mv611IixEiGD4oaQ+G439s9JPvZpYcJdqhcQU1b9LqQycsnvL/vg==;3lS843hSqhOGdDhKoNyi+g=="
 ---
 

@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Voice Recognition Market 2020 Booming Strategies of Top Companies, Progression Status and Business Trends to 2025"
-    excerpt: "The contemporary development prediction report titled Global Voice Recognition Market 2020 by Company, Type and Application, Forecast to 2025 offers complete guidance which provides an investigation of the most recent market patterns like market development openings,"
-    publishedDateTime: 2020-12-10T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-booming-strategies-of-top-companies-progression-status-and-business-trends-to-2025-2020-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "KJuc5mHfk5MvnAWVmoWr7X0BxjoM+uTLaai6zFdInK8FLrXcJxxKeFXBx+XOOgsC5uTlKJ/F1GFIx3QxQa/j9zsFUVXLj8ISZOMWqEthhposdYlp8fF9ApfhtzUDU5gYRv9C+LjjfE8qqm/zsyOtWFgQHr0xdcj94dYqy4jHli36mfp0KDwfHNWmjK6Sfuc86C1wYiiakD7OkmBw/UxEevS3cHTxTFi8FYrcsU1zHcULMbKoYYlh/RVqs1LCn+b30Im7lelW3kbDXrKZxXYpJWQN8xiLPAWzWrHWitWyGKemos2lQr1JUJ3uu8N2+K39KHQ6qdXfdgIzOci+bH2aKYH7H4OQI+3PBgQW0b2aXUQ=;8thvOczQGJKdiT/r0x4yNA=="
 ---
 

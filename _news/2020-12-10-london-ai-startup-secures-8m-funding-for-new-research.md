@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The ethics of artificial intelligence"
-    excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
-    publishedDateTime: 2020-12-10T13:28:00Z
-    webUrl: "https://www.swissinfo.ch/eng/machines-and-ethics--artificial-intelligence-switzerland/46213634"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 56
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Ra2XSiid82kcarasi4c5qzNE3BcUmrDgni0yXW5XVGZbV7mkMITJoREWL9i1S70JR1DOn6BSg1fUMwM4p3etVQVHi9yNg0jMz8I9zyIOYhptB/dK0wiwhSJNx7kimb4uWLiopha3kodjg2OKisYFylGZ/Z2gOlWojX8lQQESw6U7YbEo6PVdeEGbznKbRNaSm46Oz19wgIr17oQATyFTbqjSDNumc/G/Nc8dB3vc7p4JkBiHdfyQhUOcRShINcUkxc0ylV1oMceCIA1k2bwkVDZ1nbADGela2CWpCmDscD2ybn70JuXRAbD4cKBr+ZyTL5He8nPCVljLS5rV2p4TnfQEO8e0HJWKXIBN6WaTCCEWoM2c1SIR4uAl62paTYxhbb7sDcbt33kaPK4GEHVUq9AtOFllVI7cn4NrxwKuTRMldimNrlyc1+ucjvIu/8ngccNtR3WkQ9f5rGHdeXD97hmhEvpBK1qSsfntzVgFWjz3IxUdpwpreMZocfkHf140I00mo31dEHYG1CqvtbAgUQ==;IC0yIveWIwaV5m+5HufHyw=="
 ---

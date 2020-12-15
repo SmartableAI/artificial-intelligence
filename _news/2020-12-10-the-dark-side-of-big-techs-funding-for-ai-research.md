@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/dark-side-big-tech-funding-ai-research/a
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dark-side-big-tech-funding-ai-research/amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-showed-us-the-danger-of-letting-corporations-lead-AI.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The ethics of artificial intelligence"
-    excerpt: "The challenges are immense for Switzerland, which is one of the leading developers of artificial intelligence (AI)."
-    publishedDateTime: 2020-12-10T13:28:00Z
-    webUrl: "https://www.swissinfo.ch/eng/machines-and-ethics--artificial-intelligence-switzerland/46213634"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 56
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/46189314/landscape_ratio16x9/1920/1080/63815731496e3dd54f702722b6b92d93/rV/64_ku-nstliche-intelligenz.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "London AI startup secures £8m funding for new research"
     excerpt: "A London artificial intelligence startup has announced that it has secured £8m in funding to invest in new research. Papercup secured… | London | Funding | Technology | Technology | Inward Investment"

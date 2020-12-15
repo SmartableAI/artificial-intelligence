@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-algorithms-slimming-fit-fridge/amp"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

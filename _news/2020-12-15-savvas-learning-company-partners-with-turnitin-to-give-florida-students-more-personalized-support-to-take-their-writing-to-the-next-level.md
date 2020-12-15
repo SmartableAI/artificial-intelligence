@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Savvas Learning Company Partners with Turnitin to Give Florida Students More Personalized Support to Take Their Writing to the Next Level"
-excerpt: "PRNewswire/ -- Savvas Learning Company, a next-generation learning solutions leader for K-12 education, announced it is partnering with Turnitin® to"
-publishedDateTime: 2020-12-14T21:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/savvas-learning-company-partners-with-turnitin-to-give-florida-students-more-personalized-support-to-take-their-writing-to-the-next-level-301192400.html"
-webUrl: "https://www.prnewswire.com/news-releases/savvas-learning-company-partners-with-turnitin-to-give-florida-students-more-personalized-support-to-take-their-writing-to-the-next-level-301192400.html"
+excerpt: "PRNewswire/ -- Savvas Learning Company, a next-generation learning solutions leader for K-12 education, announced it is partnering with"
+publishedDateTime: 2020-12-14T23:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18782404/savvas-learning-company-partners-with-turnitin-to-give-florida-students-more-personalized-support-"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18782404/savvas-learning-company-partners-with-turnitin-to-give-florida-students-more-personalized-support-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18782404"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18782404"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1385321/Savvas_Turnitin_Partnership.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "rKPI/Z5WBb+HbDjO8Cr5puzpCVXdlGJDzOIWD21CKcfac/XYGvQzo1AONQ+HEX2GmsMdle+HVjRTx1aYYoiF1RE9WghoJ0Ugvhr7+ys2uj96iNmRxLBkYzWAophtKKSGKpMKtLzsojuFWTOrjbP8Uazk6DdlQFLYgRhyEjkY/ASa+QB98Ms7q87CxpHdW1BRyKuKku2mLNgnUAcjXE2Jat/kkOb9uSMIODYR2elUQFvEqlHi3ULwL3X6nRzbb9y2AW5H1bSswRX7xy9CtJxaGeZ0+D0zaxJ3YtxBzd11h0+Mh3xMvaM0U2oTHeVyiEwrBbjzhlbEm8U///oYKzYZZIs/86RggD5VwK/UAWG+Xvo=;J6eO8T14Mom3sISIF+Gx8A=="
+secured: "tBkRv7Xf5f16mz1B1OoOrxfLxHKiDf1AAnXxaNunFvzt5maEZ/GPlc6m5cYgvALRGM1Sh0eQYkp1uOtwZbCqv+smEwld6d4DMqLc/c8xkpYExu4jKF4TjueVvUq6yjVYwhZVbGsfVu/diyQAI3noDNv5BuXnGfG7ce0FE8yU7DBGSY3Td9Wvrm57EaDlhTB6c9PD7ubzhrcNeWFOduYOKLq+FTZOYUrxqJtQ8MlJmH1twiWtFIPtUI4hw/1TWO0ureRlk8H0VKP1WwdvXqQBbQCYnGI6ZSm/lxnfP1KcH72shYkedJLzcQ5bsWk2UspPsug3mLNTX3oJT9yzGzVowPhuZVdbVzLPSg7qL3/0q/8=;mRsD5qajobiOE4C0Fvodag=="
 ---
 

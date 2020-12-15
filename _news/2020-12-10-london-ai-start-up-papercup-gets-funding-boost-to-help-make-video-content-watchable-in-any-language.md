@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Papercup, the UK startup using AI for realistic-sounding voice translation, raises £8M funding"
-    excerpt: "Papercup, the U.K.-based AI startup that has developed speech technology that translates people’s voices into other languages and is already being used in the video and television industry, has raised £8 million in funding."
-    publishedDateTime: 2020-12-10T09:02:00Z
-    webUrl: "https://techcrunch.com/2020/12/10/papercup/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 37
 
 secured: "/rRDHu9RXFrI7dkrYrAjDEbYxBM7EHiGJgGbOzOC38AL/U020r8M4ImrnMop6aTY8xUfDmHUL7RFiSPg4WV4ucKJBGNZu6JCo85MPcLzZb6wSGXAqIAMadE6B8JTi12b3S8+bpNDEpvVSnNXBK+bApoCg61rptNJZ7VsTYAuDtfcl4VnBCfoVzmv3bCohQ/kJhs97Q4Mb5Wz9IFfAVnYbRZ3kEciFrT2kY6GKNvDW9lukinOwf1ckfen+aduA3nrTONZi4deVJWCbay7LF6kWx1rKxn26f2DkuKsdMqXx943LOu1mvXjMSYEbACNFdD4hxww3/+5vvNFitqzL+pOPAD4wnIl5jxonCFtrTgQOJkS6HB6KECpoLVwop0bKjPSCKECebb4aN5Og2kSWfk3iN7mRA8Uj6LUgC5/fwArRIgc+cOoBUXJ34Qg55OaFiOduh5cTjWVvNcABCpLFDO7ovtyM3ZgOzC9pMThg44qbfS/wEnfLGnGVhx7j1OheBBttZrpXeiUrz2Y9BC+nBtQXg==;TVb5GQNt5+bHDY7o41F/LA=="
 ---

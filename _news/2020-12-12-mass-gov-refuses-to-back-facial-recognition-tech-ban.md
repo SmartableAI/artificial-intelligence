@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NOPD has used facial recognition since at least 2018, emails reveal"
+    excerpt: "Although the practice was long shrouded in secrecy, the New Orleans Police Department has used a partnership with the Louisiana State Police to run face recognition searches since at least"
+    publishedDateTime: 2020-12-14T23:30:00Z
+    webUrl: "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.html"
+    ampWebUrl: "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 74
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/06/0065f5a8-4ed7-538e-988a-de21a06170d7/5d239eab53a17.image.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Deere's Farm Version of Facial Recognition Is Coming to Fields in 2021"
     excerpt: "Deere is shifting into AI, autonomous equipment and the 5G future, and one of its biggest agtech bets, plant recognition, is coming to the farm in 2021."
     publishedDateTime: 2020-12-10T21:34:00Z
