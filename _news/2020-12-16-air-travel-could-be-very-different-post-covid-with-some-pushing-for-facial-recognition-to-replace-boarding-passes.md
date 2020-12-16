@@ -86,20 +86,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 41
-  - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
-    excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/privacy-groups-supermarkets-facial/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 39
-    images:
-      - url: "https://assets.infosecurity-magazine.com/webpage/og/f75bcb1d-1277-4a9c-b182-ead88c13f2ae.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Southern Co-op defends facial recognition tech after privacy backlash"
     excerpt: "The retailer was responding to criticism from Privacy International, which wrote an open letter demanding reassurrances from the business after learning facial recognition had been introduced in 18 st"
     publishedDateTime: 2020-12-11T15:40:00Z

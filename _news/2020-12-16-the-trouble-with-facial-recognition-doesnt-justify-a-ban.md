@@ -90,20 +90,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 41
-  - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
-    excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/privacy-groups-supermarkets-facial/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 39
-    images:
-      - url: "https://assets.infosecurity-magazine.com/webpage/og/f75bcb1d-1277-4a9c-b182-ead88c13f2ae.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Southern Co-op defends facial recognition tech after privacy backlash"
     excerpt: "The retailer was responding to criticism from Privacy International, which wrote an open letter demanding reassurrances from the business after learning facial recognition had been introduced in 18 st"
     publishedDateTime: 2020-12-11T15:40:00Z
@@ -119,6 +105,6 @@ related:
         height: 536
         isCached: true
 
-secured: "dkRnzBhcdPXbM/eJXr93oFNdc08l6n7XkZun7JNgn5y/I/QooKMrowvoWpe4leAnu4HP7h+ye7Kd4RjwvG6PMWyk5Hdp5cMNrnokNzSEvpd1LxB4f6k6CMwpEU6BtA4iqbl3NcN9tJEwMAbJAR0P2aRAnJfQ/VplX/qlKk3/Rk2spFtwERfuKPBvT8B3Gq5FyWTXiJGNGZKsGLQ0yX9Nrq5eHU5qcUTypkRHTG+rWa4hEvRClM/jIMf+kLBrdWZgxrmTSNM+BZZHqaCCKoqYCyMbUVwjQk0CMl4C58sDrYxVNxpwim6GOvzMpEJh0saj3gxVNkwShXswmhB1RSJLluiyBBaxsG481fHFSaYBkwY=;KtmJFSKlzqKrInM+eXdUeA=="
+secured: "hn5CPPAvHZZWj/cmA78o6UWEzvd9GBlFvOvZyXRY+7FYWd2d2/Cc8V3p+fNP+CGN3wKLJ+l1B8z+M/l0UFNWh4KSzzahV/Y62kvu9/EPmeal5QZMnp+5gn3E26BRZIUAyFTPRWgsqE/fCpESosQseKbe+DGpcwJ+ylmr5J9Tx7qRexDowijeIeIykcKeLxNsa7f5TN+bvISbTUGdnaWXtKsi3teqqe+9ZeNso8rNssHdyONJnDiFVq3cra/8eW/c14xPKCMmkNOFGOMHVRwMQgh6miJBA+V8GMDIba7O2EjjFmPLCIsnRD0ZpMTXqkqnXPLDzwNpfMqHl3x2CYHPbO07Th2qaInSFr7OMzD0DDvuZslMruhoseEM+rdu+WCLKeyEhB6bO1SfajWKT0+t2ctl5YpBv82IZ91zkbZsVyzFND5s6W88eBLBvDuXjAA9ceSb8QkoteIzidG0hf6qXjC0wrNNBZ1bh7RNGgmArZZklYH8HWcAqyNr2vam5AJPjZof77eTSj2Kw6Z4LfBkhA==;uclVmabhVD9q8SEYbJNtbA=="
 ---
 

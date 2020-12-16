@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/lifeandstyle/2020/dec/13/how-artificial-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/lifeandstyle/2020/dec/13/how-artificial-intelligence-helped-me-overcome-my-dyslexia"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "How AI Can Help Surmount BI Shortcomings"
-    excerpt: "If business leaders can reconfigure their thinking about BI and AI tools so that BI, AI and human employees can do what they are best at, enterprises can become far more efficient and innovate at much faster speeds than ever before."
-    publishedDateTime: 2020-12-11T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/how-ai-can-help-surmount-bi-shortcomings/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda4ed34a0fa20006cf423a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "VajdtccZyRcafb2VR2KcM0aDWO+Ofiu/mUJd4Ib83PSHf+v3LOM8lTjloRpBhvoplwZhypT3KGO0AYaXz8RjsoK8sAtb/yMOxJBZ3GGnCuvAhmLNKuLphcvA1xOPqe8O+h0D4hsyC2am7utylbHP2+/N9R4U/tBNMwa+96YVkZWeHbHOu4ZgAi+VQXEy30D/ShsXhvGn5PNgckrQeTaYwc1dhi64PeLlWA6HJOOLLj+/YInKLn5YQp4j27LgnJQpq/hSLwR1ftL66mExLLD5j5WeJiKCBVqSWpa2nhdP4ILCx7IzRQD+luWtp5NLYIlSFM9+X0nZgJNsUO8jEWXfmMllGjVeuqyEUl40Od/IidZOlyeyQzKFSoOCueUJ6nXSzziPFiOyL9ZHoo1ZxbemeZzRLYdITzuVNah5SXpk5YrbG9sTWJ1owz7jWMiul7l2VkbnI1ZYCTBaBPuoFIGGx3eP5xzQnWZ6Jv8gSTHKLjgEf1W3AYNFd4IgQdemA9TccoJGIB0r5RNcv5tHdM5Ung==;2C8INOnvtlSuWyYBoMhKXQ=="
 ---

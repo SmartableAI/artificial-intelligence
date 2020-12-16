@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
+    excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
+    publishedDateTime: 2020-12-12T18:47:00Z
+    webUrl: "https://seekingalpha.com/article/4394402-strategic-investor-intel-capital-helps-close-135m-round-for-fintech-pico"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 3
+
 secured: "Km2tbBnZ8ZszsAnKCQuw54DHQ8MfVbKL9Dkao3S+jjwQK0Znqj2G1rf8zmAOeNoqnHnrECmJpXq4+4FO4PyvCCHtWrlyeC9SnP0o1SLf4Zi+QO68Ew5gpfQVgjp92w29b3YRzLK1MslvEocPhfn+TEO7kEDlQ3GQbSGy3QGpYlr8sxbgSChDRL9WB2MQrlJyb6MTsfmOREoXc6ocUMMjOnRxxsHmF7R+XsR2vxq/9Hm2gPKwYvBB6QoVduil2p9bn4FgiUg0ouyF1N1I7FdND4IAOXEox5P2w3myDmr6lYFLvsQ6gANiI1DNaMeh/25/Jkv0sPrXSOERyrE4d9viAYmEHmoLL8Y9HEKsadtjfkU=;k5f5a5y+uCAIZiLfyeNS+w=="
 ---
 

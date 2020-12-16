@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "1 Fintech Stock to Buy Before 2021"
-    excerpt: "Several different next-gen fintech stocks have thus done very well in 2020. One such intriguing name posting impressive growth metrics heading into 2021 is Chinese fintech OneConnect Financial Technology (NYSE: OCFT)."
-    publishedDateTime: 2020-12-11T12:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-fintech-stock-to-buy-before-2021-2020-12-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "5 Basic Things Every Person Should Know About FinTech"
     excerpt: "The world of banking, trading, financial advice, and financial goods seems to be transformed by FinTech. The industry is booming, with new players getting"
     publishedDateTime: 2020-12-15T09:57:00Z
@@ -68,40 +57,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Fintech and Regtech Adoption Takes Major Step Forward in 2020 As Businesses Prepare for Post COVID Environment: Report"
-    excerpt: "Fintech and Regtech adoption takes major step forward in 2020 as businesses prepare for post COVID environment: report."
-    publishedDateTime: 2020-12-14T13:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/12/170238-fintech-and-regtech-adoption-takes-major-step-forward-in-2020-as-businesses-prepare-for-post-covid-environment-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170238-fintech-and-regtech-adoption-takes-major-step-forward-in-2020-as-businesses-prepare-for-post-covid-environment-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170238-fintech-and-regtech-adoption-takes-major-step-forward-in-2020-as-businesses-prepare-for-post-covid-environment-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 20
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-600x600.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "An AI proposition is now 'table stakes' for fintech startups"
-    excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
-    publishedDateTime: 2020-12-11T12:35:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37137/an-ai-proposition-is-now-table-stakes-for-fintech-startups"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
-    excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
-    publishedDateTime: 2020-12-12T18:47:00Z
-    webUrl: "https://seekingalpha.com/article/4394402-strategic-investor-intel-capital-helps-close-135m-round-for-fintech-pico"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 3
 
 secured: "XDctBXO7q5QbTt6Q2YqfK3FRy294jVHUKBv/3OX+0S8om1xp+ZU/4es/nYcgy+Zvvb78UI6aE4Ryx9wH5btW07ND3LnPm1jwyFHuqxG3NTtdRTMti6X9hKIkNj63JK3ET4+7qNsJZQqNYkNoQCdWDikjlJvtciST64LtXXct3C7nHOuWCVyMMRo5Vk0cpnlO/XnrRzgScKmemdLLekePHvHVxrO4J8kjWu2ODdjQx5GDbWEfdMn2L0saBH8AmZr0rC5hwPn+BBTaSSzRWhrIlzaoE9qgQ33QRyjs6QG/XsGb5QsJTwb3ETQ2lrqfmRY1hsClaefOuYCy48w9dtXcFpwTSa7hqh8Oe1uP6etSinJRr446EX6oLp+xbx3dYRnhyoUmE/nCwQb0uFWquStYbIBD2bzMy9tAEXbd0S0Yr7AyLW31eAZ4f9Y7sl3QZG/b2OvMBZFqGsBJfDT0XkJAVwSyrOYb6woYh0iODqS5frS47TC7ABGgyGQJlbedhmfhbZYWwRdEaJB+yDQUjiWhOg==;70qpvHz6vVu27gX7NYI1xw=="
 ---

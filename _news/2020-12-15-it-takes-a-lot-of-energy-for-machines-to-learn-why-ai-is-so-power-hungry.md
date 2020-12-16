@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hun
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry"
-    excerpt: "What makes artificial intelligence language models so costly to build is that the data-intensive training process happens many times during the course of development."
-    publishedDateTime: 2020-12-15T21:27:00Z
-    webUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
+  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
+    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
+    publishedDateTime: 2020-12-11T23:29:00Z
+    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
+    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 34
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 65
     images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"
-        width: 622
-        height: 300
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Mila, IBM collaborating on open-source AI and machine learning project"
+    excerpt: "Mila and IBM have teamed up to accelerate artificial intelligence (AI) and machine learning research using open-source technology."
+    publishedDateTime: 2020-12-11T17:06:00Z
+    webUrl: "https://betakit.com/mila-ibm-collaborating-on-open-source-ai-and-machine-learning-project/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 56
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/10/InaugurationMila_web_credMaryseBoyce_9771-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "When Machine Learning Goes Off the Rails"
+    excerpt: "What happens when machine learning—computer programs that absorb new information and then change how they make decisions—leads to investment losses, biased hiring or lending, or car accidents? Should businesses allow their smart products and services to autonomously evolve,"
+    publishedDateTime: 2020-12-14T22:02:00Z
+    webUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 56
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/R2101F_REID.jpg"
+        width: 4000
+        height: 1880
         isCached: true
 
 secured: "wcfQnCJZShNvFGhvybs/EEtVvj+kqtXp0eQvsYGXr4m7/s429XdhQtabplAZdgZAeiSw+uZ+27gX4fjCK4pLvndg7rz8h9EDdxYxiIY3RpcWVkT6dTMm9wghmCC2ibL6zbJIi6My6mfrtINylK++rMgPU5scubX2E63CrJKT4UhoC14idOT8HYzfoq6PuJeEYXu+uxiK+64PUIcvD/bOrd0McEuZnsz/wAV4mAmtLqqhhaFZejmbfdYnO2BOEw1aHuI9yEk7seshce9qYVcr+5sD1Kpoar3gK2IDbZBFFm2NfIPVZ4BJIRbCwM0leTvXSSU7bQZ4MQhSK3Mi3KArV6ZpA5CjRZvJgEoVDldOBhteWzpDCqrup+whe/Q94LrIPzgZZWrnTo7NVh9+XsQcCQ0V26pzoaUTFO2hDFYYxYf7HExPdiUYECn5RqnlvnSgmnnORtHChn0Mr0zMvnRK5EBvshLVSUy2SUMFvd7C1lce822SQap/zGhCYL0ASddeqsO98j89tz/NymoEL+5g7w==;TryDFv/5PsS/Eu6Ykx34mQ=="

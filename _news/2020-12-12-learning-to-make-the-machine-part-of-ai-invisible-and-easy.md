@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: The Next Platform
@@ -30,37 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising"
-    excerpt: "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative."
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
+  - title: "It takes a lot of energy for machines to learn: Why AI is so power-hungry"
+    excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
+    publishedDateTime: 2020-12-15T14:03:00Z
+    webUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html"
+    ampWebUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 58
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd299ba7aaefd66c9fe94fb%2F0x0.jpg"
-        width: 1199
-        height: 634
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "How machine learning technology boosts contextual targeting for advertisers"
-    excerpt: "In a time of dramatic changes, advertisers are course-correcting targeting efforts to adhere to the ever-evolving digital media landscape. One solution that addresses numerous areas of transformation — from consumer habits to privacy regulations and the demise of third-party cookies — is contextual targeting."
-    publishedDateTime: 2020-12-15T02:07:00Z
-    webUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/"
-    ampWebUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
+  - title: "Mila, IBM collaborating on open-source AI and machine learning project"
+    excerpt: "Mila and IBM have teamed up to accelerate artificial intelligence (AI) and machine learning research using open-source technology."
+    publishedDateTime: 2020-12-11T17:06:00Z
+    webUrl: "https://betakit.com/mila-ibm-collaborating-on-open-source-ai-and-machine-learning-project/"
     type: article
     provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 57
+      name: BetaKit
+      domain: betakit.com
+    quality: 56
     images:
-      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/12/DailyMotionBanner.jpg?fit=682%2C284&ssl=1"
-        width: 681
-        height: 284
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/10/InaugurationMila_web_credMaryseBoyce_9771-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "When Machine Learning Goes Off the Rails"
+    excerpt: "What happens when machine learning—computer programs that absorb new information and then change how they make decisions—leads to investment losses, biased hiring or lending, or car accidents? Should businesses allow their smart products and services to autonomously evolve,"
+    publishedDateTime: 2020-12-14T22:02:00Z
+    webUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 56
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/R2101F_REID.jpg"
+        width: 4000
+        height: 1880
         isCached: true
 
 secured: "3C5+yUXZLvOuuwp9R9ExvsZHALmldu8/8eKtgFWfP6l4ZDLoLdqnJdwxPkKtPPota69iT6rz5opMRb4p29rrhn1m4jSSwwrLuEathDpR3A39W6zOJcwdixAgisRqqcAo5xlW1wQigUdqJmuPXdL2jv0pmCwpfe0AGewkDXNCNr8ny0GHNyDbYOPMzi0hs3vkJO3Wnz6DsRNgl2cpDqSrlGOnzBGYfZGh9SkihmyWRm20U8uZeQBPLMil82OirGNOyJv+KM3ODV5hf8+2l/4xDZqqKsqr3EaDeGyF0cawPBEvFpLxuwvwpBQ66feEm42POMdzyErVXYrGh6BDVnrHUUSgMxKm7WdDkHDzJDnBu+aliHFPXHxXdanJDM3RaPIY+22pKhihzOQXPTZrBzPLakVLaMl5YjnDlzS0sGe4WatohBsrUp0n+FW1t1d4VD71QRO022gP/Zga8mCENo6hjCxmOdnWjTaGe1XaTJ/5DZPokrSjF09Or1zZUNBR78PWcrOyhXECMDPIYgEJbBNOag==;Fn5h+P5bZfHANveYchfJyQ=="

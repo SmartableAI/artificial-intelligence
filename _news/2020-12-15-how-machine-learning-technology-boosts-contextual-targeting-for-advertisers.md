@@ -9,7 +9,7 @@ ampWebUrl: "https://digiday.com/sponsored/how-machine-learning-technology-boosts
 cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-machine-learning-technology-boosts-contextual-targeting-for-advertisers/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 681
     height: 284
     isCached: true
-
-related:
-  - title: "Deciphering The Next Frontier For Artificial Intelligence In Marketing And Advertising"
-    excerpt: "The role of AI in the marketing and advertising world has always been, and will continue to be, completely transformative."
-    publishedDateTime: 2020-12-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/11/deciphering-the-next-frontier-for-artificial-intelligence-in-marketing-and-advertising/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd299ba7aaefd66c9fe94fb%2F0x0.jpg"
-        width: 1199
-        height: 634
-        isCached: true
-  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
-    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
-    publishedDateTime: 2020-12-11T23:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 65
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "y0y32LE2DE1aeA2A6VqJ8A9+o2rGEoicpZh9WhD/zhLbmPx3gK58U7glahUftNSqJeKfB21ahhSOz54eFwDgTygMwUrMm2PmjxM7zQyynhcg3hYDplWO1vQLiIYaQrX2n/m8Glunin1ybiLZyMBy9a/nNHtNizaXBzTTnOlHIPQ7Yg1pHoMM8nRDEWjNhlgowhB63N66D0jpHsy+pwPyKcmK+BeO2zAPSDZlubHFBI7JRIgs+Jpf0jJzfO9w0fVz1TJaecgOep4Ud+ruHzSqcHMiLF0dNCljPSpYs1tDRaKn0J9mXeZNdEoSHwOC37T1QgHUuJlrRcwyBzbs5vPFXl9iARNdZR4OmyHELwn/RAvBjMc9AVWwiMT+gydiMoWz7JRcJwIvUV+Jo2/NWtp6C8cjBA6iElieARq+nku1T0UgAl/LW2E86PQKi/TB88o9bdiAjaaAZiaSvLLJNPNhC5p7eEfurbgn2WfjSakW/TFwdQFHRbSmtFdFs0yK+XGwW6OTNMmVLd7L69zQbJrq0Q==;m/atUl3lRs/7MZRqA7ms6A=="
 ---

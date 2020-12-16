@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025"
-    excerpt: "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based"
-    publishedDateTime: 2020-12-11T11:25:00Z
-    webUrl: "https://www.openpr.com/news/2207688/natural-language-processing-nlp-market-analysis-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2207688/natural-language-processing-nlp-market-analysis-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
-    images:
-      - url: "https://cdn.openpr.com/T/c/Tc11826692_g.jpg"
-        width: 564
-        height: 444
-        isCached: true
   - title: "Conversational Artificial Intelligence Market Analysis, Dynamics, Forecast and Supply Demand 2020-2024"
     excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
     publishedDateTime: 2020-12-14T13:05:00Z
@@ -54,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide Emotion Detection and Recognition Market Size to record notable gains through 2027"
+    excerpt: "Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
+    publishedDateTime: 2020-12-14T13:46:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136756/worldwide-emotion-detection-and-recognition/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "6EHfPDCvZGXLKjmLBmUT6a00Wf9Gd2yHvT6BsavsEQ2omUAouV/boha2Sib9lNAGhF7hjMmbKDEbI9W0PwHg+78zWolGQ1jx/aJgGgi5hQsSIqUtO/+E8bE3tAv9blJyA5laB2B8tn7rsh+IrURehKaCNQvvj24IDRqJf29G1B0ffHyTAAFF5nWzJW+o3VvfvFaWv8i8Gw5XuIV1zVKdXnEFb+6KV3BcsukRwd0u2+DFgDZPaF7aYLW+ro1XzHBGjjbIHXSVwetnzNmvkOUeMvMu15sOn5SgItT2KKkpt9ctcoJlQME9nGL5TLpLauTi3khjKQNlH8BeVD1Dgy2XW/vdbVCV1RWuZFjApvd/nP4=;3vZJoSmq0ggoSm+nnnSt+A=="
 ---
