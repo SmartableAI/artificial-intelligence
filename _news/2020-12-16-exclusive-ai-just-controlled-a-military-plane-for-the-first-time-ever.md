@@ -42,7 +42,51 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "US Air Force uses artificial intelligence aboard a military jet for the very first time"
+    excerpt: "The historic moment occurred at Beale Air Force Base, CA, and saw an AI algorithm take control of the radar sensors and tactical navigation systems of a U-2 Dragon Lady spy plane."
+    publishedDateTime: 2020-12-16T16:46:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9059947/amp/US-Air-Force-uses-artificial-intelligence-aboard-military-jet-time.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9059947/amp/US-Air-Force-uses-artificial-intelligence-aboard-military-jet-time.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9059947/amp/US-Air-Force-uses-artificial-intelligence-aboard-military-jet-time.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 64
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/16/16/36921492-0-image-a-2_1608134737123.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "AI Copilot: Air Force achieves first military flight with artificial intelligence"
+    excerpt: "Signaling a major leap forward for national defense in the digital age, the Air Force flew with artificial intelligence as a working aircrew member onboard a military aircraft for the first time Dec."
+    publishedDateTime: 2020-12-16T15:16:00Z
+    webUrl: "https://www.usafa.af.mil/News/Article/2448376/ai-copilot-air-force-achieves-first-military-flight-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: AF.mil
+      domain: af.mil
+    quality: 47
+    images:
+      - url: "https://media.defense.gov/2020/Dec/16/2002552935/825/780/0/201215-F-WF370-1172.JPG"
+        width: 825
+        height: 550
+        isCached: true
+  - title: "An AI just helped an Air Force pilot fly a U-2 spy plane during a simulated missile strike"
+    excerpt: "The Air Force has taken a giant step toward creating an artificial intelligence system that would never in a million years turn on humanity – unlike the “Skynet” nemesis in the first two Terminator movies,"
+    publishedDateTime: 2020-12-16T16:11:00Z
+    webUrl: "https://taskandpurpose.com/military-tech/air-force-artificial-intelligence-u2/"
+    type: article
+    provider:
+      name: Task & Purpose
+      domain: taskandpurpose.com
+    quality: 27
+    images:
+      - url: "https://taskandpurpose.com/app/uploads/2020/12/16/U2-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "KY70TFne1JzGXoJOrBJ5nVmrgu9esMz038ZtQ3y9andkSFMJsWjE8QC9/g6MgnEnVlzLROjWhyrKR3thtursW7d3wPiPZvq9I3zz2XdLNJ9V7jsLnKPg7dqmm/9aZAHuW3Ozb4oXyqWH6sqb2n3FJ1WlDw2kvNQmVmBZu/OUlqwnNIY3gqQ+h1MNMq8IO7MKLRGKxCgUxRaBltTDMqnn3g9iBpt9JW+b1ca0NrC68JfBolT4DFvP+LFC1QXl/g1URnfwFnhZ2IDpmj9BXy2nTf4Ec711sFJ4aouvBcluCUuRJXQ0IvQj+fxQIu8pYiabp0Q/4GYRXNRRI9snARiMURZw0ICm4E75UHmwM+gmYwo=;UtL+qndC8IDJbaVMNj9iDQ=="
+secured: "psyQOCGRXPX3+6mPyh7sz17T9j1S1otkyYf/8FpbaHPDVgtMZD49hZ2Ml8mrsiL41vYRC4/vBidPF0VuB9Y71Ga91P9GTp45g9L+iREYBYHLzhhZ0V18cAw5ilOFw+sqovQhgwtIgZH3bGJ1+J1ySaAL8N1+wCcqYBfJ3unKGA2SKv7bF9aNbe57O9oHS280DZUBSQ/Z35uu7ThgyyQ3xl9QBgjLzwnH4fhsHzFibJQhOOoWXL+HwCkrhYUez/Gqtu/qyEs43JqhXMujTQU2CfhF5EtniQ5m4QiL9SqT72vjIXjtEAV9yonjv5+zYuGcq24k6G8ySuLVVkljjjxk0SRPbqYJOsFT1gLI4ROtzNJGEW/ccRxKMwxGktnF8TL0R2ON1LGk4zxlnhGpSwaJAhPZ9ZpK5z0PFDWKuiVyJ/ijLeudBp+OEAWWoFQZGqmy2B8+WCYbKVno7AZFATqUNn8WlvndRRqxBv0XXki6kcrqlYHTsEPjbeIv899vcQ19rxjLVdlQcxKiCIxEB5ZS+A==;0uuXOD6irniavqThWAprcA=="
 ---
 

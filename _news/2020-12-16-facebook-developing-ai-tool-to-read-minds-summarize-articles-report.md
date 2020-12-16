@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Used Facebook Data to Predict Mental Illness"
-    excerpt: "Volunteers let an AI scan their messages from more than a year before they received a psychiatric diagnosis. It was able to flag signs of their conditions."
-    publishedDateTime: 2020-12-11T23:16:00Z
-    webUrl: "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/"
-    ampWebUrl: "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp"
+  - title: "Facebook is reportedly building a tool called 'TLDR' that will read and summarize news articles for you"
+    excerpt: "A leading-edge research firm focused on digital transformation ... an acronym commonly used online), the publication reported. TLDR will be an AI-assistant tool, which will automatically generate bullet-point summaries of articles. Schroepfer said the ..."
+    publishedDateTime: 2020-12-16T13:00:00Z
+    webUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://media.wired.com/photos/5fd3d353efa5f68151a599f7/master/pass/science-psychology-facebook-study.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://i.insider.com/5fd9fbdb6524f100197924c9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "HlxPngHDS3EVb1DqHrbgJw/fi+WLMG/TVQebV772HZkF4DkZGZG6YqetPWYIzGh8noBu/HFcl56Q2UpKjki0Ud8+Slk5TEhYuH4lM5wGLdSl1LN1fXj7yhaARiHRPlX49TkvvG5bSHdFDB+/CPSczOQvLM4+zn5sUWdJDv7k4BgLnBDJ67kSwfYt63fx/uyCyJ9rqxEpksXsrTSqvVFvUKPz1H2RDFrUhB2/Wsl9pgpQQxAN+4Yhn6RpOaMoqi63T2VqID01qSq79v+acOZMG9GzpBN/8yVwl5cBDTHGuRtxSngKyeYF6ogXmqyTj3nWbddlrpFUmlLV4TgKApPUhgSerfoFsNJzMtAIDsNEx6AArEqiI/RU7BRx5TnL7S9B6pvCjDRcs591i1WysV7YdE1EglXB68312TStHbV+U+KCXLH4SElZ9cjPKAy5umHZo7LEvLCa39x1KO5OuUx6mNT3D3iANZPHkhpAjDAHb71XRCI41kspON+fHmCsU+rYeXNBERz5n7sw49dVGBAfeQ==;Hat+niQVC1oaUf0qUJnyEg=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machin
 webUrl: "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ZDNet
@@ -27,24 +27,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "Learning To Make The Machine Part Of AI Invisible And Easy"
-    excerpt: "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at"
-    publishedDateTime: 2020-12-11T23:29:00Z
-    webUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/"
-    ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 65
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "38mmQaeo+0vKbcIlTMcVPxVZeeABvpUSwpEHW2Som+Vi1WK4GUTYk52riQQXhO05WhrRcHT7B6mkY/69PMEDB2tLeCSa/gs1JI4fyQN+UuxeLM44pH+yiWSgtSt+Z7aQDR7OCahLH68Y9/97WHmpVMQ4nazG2q1QeNvTJak4pZ51zjBT47yiSLvSUCJYkJaDMWGYVO+PKWnBEOar2NFCgBwg7CzAHzbVHX+OsAHQQoag/WPa7e/6cpnkF5gYuI/4Zn2VJsSkdiaOTpZMAM0J5kllz5j9JNu2C0IGW65ED7AW3Ay2llK2f2cvR/p1+erV40+StjmprCFO+gh5/WWNhwBQkmd+r2DBLR94EK44dil2oMavUZHzsWjWVmf5K4Z5/lZ+K8rXBky7GokEP/cgor9MuUo+S/kWX8Tvb8TuHmp7Y4aKglft0qUEd+BUSCSdXEGWMROC86My850Ue6sfzVERnfivn5A4A2r8l7zsE9Uy0VYusmA4FfyJCBwcGd6lq6AAtDUVmgaH5loYrYuAkQ==;2cEZ0XABupaAADYKPqSbzQ=="
 ---

@@ -341,6 +341,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Zoox CEO Says Self-Driving Robotaxi Reimagines Personal Transportation"
+    excerpt: "Amazon-owned Zoox has unveiled its first self-driving robotaxi that can seat up to four passengers, has no steering wheel, can run for 16 hours on a single charge, and can travel at up to 75 miles per hour."
+    publishedDateTime: 2020-12-16T15:47:00Z
+    webUrl: "https://cheddar.com/media/zoox-launches-self-driving-robotaxi"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 24
+    images:
+      - url: "https://img.chdrstatic.com/media/5d6c6b40-7246-4325-83a9-034e7c17ea4c.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kUa+ABm3g/nl5x7KA0dxtBZAfcNM7LXlCHm5J8jyfQXstZYjS8pIkIg1DZVW4OAoQUuVRX1YF0GHvHf3XCwbkk1bM8YqHFYZyl+wbJlcQjjJfu39Axd58jOoA0AD7DfcpXGkY+P3a9AHO94Z1AXRg8Ab5f1HIsmA3MI6zysyUbDrqcB1tqSgneq7vd4YkpY1G7vRUaQTT722R7YyGPJBX63JRC8YjPXNYNuWaPAqcE1tTABKHar5EHT+nVLXNhA9lw3vQuW9XdVpFMHuM7CIvLQLkcVFE7v1eLG5Lpg9883K5alFU5PlPZv2KI4TSm+vkCenzQ3GW2pKqLHj2cFVT4bmQtMZqXNbFkjInyto/ro=;zAMATd8i4PPox1a0WyokZQ=="
 ---

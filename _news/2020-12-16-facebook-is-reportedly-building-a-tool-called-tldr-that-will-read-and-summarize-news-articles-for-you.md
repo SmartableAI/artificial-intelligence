@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-arti
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 600
     isCached: true
 
-secured: "C6EHlwVr3QROtEVJAIPGzctGEpS3Po2bM+pzerxViABxxjRoUuDhi2G6VjszZg02QyRoNHV7+z/x56qg+OL098j2ltNaL5BDInEw7JgeD1aldUVLIBHvGQ82aYHig0AwTcJgggwS8cAOR3iIc11JDT0X+rNMdhrdA2DiQk1gdUwe0i9F036/M8vaWrJd7GHAaVnASyQxGfacppam2ycoaM8KvwCD7ZVI/Zfd34FDlKbJdK7FDBDu85DHgljHiKE05hbZjC7JL3osZy2w7loYiJEVC6lzuez9XK0r9oXrYfHvOBuPl4uuHakplPEuq71LqT/D6Pt/0RqBNDluvO1nJLAr3pI7gPm+a3/8OjrMjiA=;KJIxJSOfhjgDGpprEQb/Jw=="
+related:
+  - title: "Facebook Developing AI Tool To Read Minds, Summarize Articles: Report"
+    excerpt: "American technology conglomerate Facebook told its employees that it is developing a mind-reading Artificial intelligence tool to summarise news articles."
+    publishedDateTime: 2020-12-16T11:49:00Z
+    webUrl: "https://www.republicworld.com/technology-news/social-media-news/facebook-developing-ai-tool-to-read-minds-summarize-articles-report.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 39
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/64rzwwljfyn9ipfw_1608118128.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
+
+secured: "gGY/Aundv13Tp+XhG/X1ojtbS4+oTJHfhc7l+8DDp8JpEpdzlRDVFdNv0IEyKCwDkulq0FMiNaDNWXjuxDZOIkKkak5HTMmrPN4vr+die1qittCq9Vson/z9S0Qi76or07E5aAqRsTV5cMetVc0iC2TKv6mEYYKrMBV3AiCuOCld15uDY778YU3Ri0IGFV2iV1oxjMZfoY5/Y2QIMaZHMnQ5J23M6SfX2pYn9+UjSXULUb3R6s8qR/Z0qJSS+KJZV4NHk7W6s7mAKOYp6ltTGu/kGfkqzeUDGI8jzvT1Cbii5A0Nhw2Mv7KA3LsN7xlpqTbqiYpoXyciv4qIDKBxwrIsEaFwvsyRqLw+PM8O1NQxLJUIrurCsRwek4GOsoettDvXdfIDxJbTKhpWvKdE0Ruqw3Rf6HUs34M0R1P4wEPyQ5u2ewHALlI8fv+sv/+unZbhBkn/sup2N0Jd+AuUs/urYx4oApfHxtv7QyJq7N7EdyOZfX5+TomX2y0531Alj5MK83kaWP3IZIdJq41bFQ==;ZMmwKDL/61OjtvAH7eQJMg=="
 ---
 

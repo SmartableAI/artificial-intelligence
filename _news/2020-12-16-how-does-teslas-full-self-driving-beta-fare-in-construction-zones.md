@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Full Self-Driving in hacked AR view looks fascinating, and more"
+    excerpt: "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!"
+    publishedDateTime: 2020-12-16T12:11:00Z
+    webUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/"
+    ampWebUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 89
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg"
+        width: 920
+        height: 470
+        isCached: true
   - title: "Boeing's fired CEO's next act involves self-driving tractors made by a former Tesla executive"
     excerpt: "Boeing's embattled 737 Max plane returned to the skies this year, as the company's former CEO headed to Silicon Valley."
     publishedDateTime: 2020-12-15T16:42:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://i.insider.com/5fd8decc78a5740019a15858?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture"
-    excerpt: "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at"
-    publishedDateTime: 2020-12-14T18:53:00Z
-    webUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/"
-    ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "We See What A Fully Self-Driving Tesla Sees Thanks To Known Hacker"
     excerpt: "They are provided by @greentheonly, a renowned Tesla hacker who has provided us with a lot of information on how some of the company’s technologies work in the past. This time, he posted a couple of videos that essentially show the feed from a Tesla’s forward facing camera with various other things that the car ‘ sees ‘ as an overlay on top of the image."
@@ -75,39 +75,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Apple is making self-driving cars"
-    excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
-    publishedDateTime: 2020-12-12T12:23:00Z
-    webUrl: "https://www.esquireme.com/content/50043-apple-is-making-self-driving-cars"
-    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
+  - title: "Buzz Around Apple Self-Driving Car"
+    excerpt: "Taiwan Tech News Site DigiTimes reports that Apple is working with Taiwan Semiconductor Manufacturing Company (TSMC), on self-driving chip technology. Apple and TSMC have reportedly established plans"
+    publishedDateTime: 2020-12-15T02:20:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
     type: article
     provider:
-      name: Esquire Middle East
-      domain: esquireme.com
+      name: NextBigFuture
+      domain: nextbigfuture.com
     quality: 44
     images:
-      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ousted Boeing CEO now a consultant for 35-employee startup that sells self-driving electric tractors"
-    excerpt: "\"My heart will always be with Boeing,” said former CEO Dennis Muilenburg. “Now I have an opportunity for a second career, and it’s very fulfilling.\""
-    publishedDateTime: 2020-12-14T21:22:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 29
-    images:
-      - url: "https://www.chicagotribune.com/resizer/F6m6UYZvrAZECaIq467w_OjDFpI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SUG4NAL565FMHAULNE4MR4SKCY.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
+        width: 1024
+        height: 538
         isCached: true
 
-secured: "HtkWQ33yZZqPE6WnlsqsoOfJqOEzWzlL+8XyQyf4vA4EHY3/I0QdZhR/qNhRHGKg33M9lqyirKe5jX1vXj6CNUWd1+oMpk9bOSVCSkR0YfoOdukRxLEPxhCAaQ+Zp8aJXGmVK4wp6CNRjMnDurXUclZVlJlUhaF4SZG21jYhoqw8xfGcJIA8cDMOHQLtX2mfvfssYaRjeuVzZUBIVL9JeQOHTWIkUU1ZiVVo5WvsX1nrEBTU24oGsz+fAatbZLnX8NZa/oatbngzVCNxv7yjkTcCunRwC3t8AQtrdcktBayvUBeUm/4/TNgmPwf6ScJlsTw3yD3wrH2k9h+ljMuuSnDl27DpXmX+I0VhohlYZ3s=;V2b21LFFR2UDmu0YRykjCA=="
+secured: "vz8DRpDKiqeiXSxDP9QQGpJZvagAjHfCSfn9q/Qkip1OyHSyD2Pioslw7f3tvzHzb1esjj4vr4CJqD85iKgU6cRtdRYKiwB+fSoR69bT9aN8fmpKlYaPdlhbYL03vlqkzwsfjlCTtrhZ48kkXiraH3vbz8VmwSbZydo8eVswpHCTcl0jmTRlhOH79zYOWC3ObC571dLx/oKOm9Z4hdrhK78uYuqrfWpaFlQPqZOSSS0xx0dfGYrjgEOooWqHn6DfrLsYiqJjAmWWb1YxzpCHZo05w9HpJXJIiINGtRYmnZiQxB7xAoT/sKrZ/DSuNMeZA6i9xbdW1z1EdXGvRo8AvZyn2tXRVYzPdbUHNRz0bId/epkGL1R6Gw7wNPhjYhzjBdAkDbh04n+ijwLfQTPByRuX/D9eXwkqetQHLT+XV/PO0zdgRhtfJE5PZiw7W1tYalL+RBRzg9PYKMeM12cwXsortzcYzYw2Cc7J/gSUpxv60II8/7PGYRfVDHeEvaV5/gm4nVyvnswhn84V2sJUcQ==;DcVAcVaFmj4AfQKQUddETg=="
 ---
 

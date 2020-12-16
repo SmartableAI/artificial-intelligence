@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/former-boeing-ceo-muilenberg-advisin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-boeing-ceo-muilenberg-advising-robot-tractor-firm-ex-tesla-executive-2020-12?amp"
 type: article
 quality: 78
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture"
-    excerpt: "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at"
-    publishedDateTime: 2020-12-14T18:53:00Z
-    webUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/"
-    ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
+  - title: "Tesla Full Self-Driving in hacked AR view looks fascinating, and more"
+    excerpt: "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!"
+    publishedDateTime: 2020-12-16T12:11:00Z
+    webUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/"
+    ampWebUrl: "https://www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/newsletters/tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 89
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/03/model-y-reveal-1-920x470.jpg"
+        width: 920
+        height: 470
         isCached: true
   - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
     excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
@@ -79,39 +79,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Apple is making self-driving cars"
-    excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
-    publishedDateTime: 2020-12-12T12:23:00Z
-    webUrl: "https://www.esquireme.com/content/50043-apple-is-making-self-driving-cars"
-    ampWebUrl: "https://amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-esquireme-com.cdn.ampproject.org/c/s/amp.esquireme.com/amp/article_listing/esquireme/content/50043-apple-is-making-self-driving-cars"
+  - title: "Buzz Around Apple Self-Driving Car"
+    excerpt: "Taiwan Tech News Site DigiTimes reports that Apple is working with Taiwan Semiconductor Manufacturing Company (TSMC), on self-driving chip technology. Apple and TSMC have reportedly established plans"
+    publishedDateTime: 2020-12-15T02:20:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/buzz-around-apple-self-driving-car.html?amp"
     type: article
     provider:
-      name: Esquire Middle East
-      domain: esquireme.com
+      name: NextBigFuture
+      domain: nextbigfuture.com
     quality: 44
     images:
-      - url: "https://www.esquireme.com/public/styles/fb_share_style_image/public/images/2020/12/12/stories-esquire-(4).jpg?itok=Rew4EXPg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ousted Boeing CEO now a consultant for 35-employee startup that sells self-driving electric tractors"
-    excerpt: "\"My heart will always be with Boeing,” said former CEO Dennis Muilenburg. “Now I have an opportunity for a second career, and it’s very fulfilling.\""
-    publishedDateTime: 2020-12-14T21:22:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 29
-    images:
-      - url: "https://www.chicagotribune.com/resizer/F6m6UYZvrAZECaIq467w_OjDFpI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SUG4NAL565FMHAULNE4MR4SKCY.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2018/08/applelogo-1024x538.png"
+        width: 1024
+        height: 538
         isCached: true
 
-secured: "KkS4SeNg+vT3dRi9oZ4mVNRd9OU0ITYo97zH7IEegLImK2BborRcgFZ2mJnFf6AtJrHRVVsxZiWB69ZnXAuI+1Y6l2RJP/3ZcROJdpPGjgFahxrtbcGfhRBUSmANqI7gow7O/tAI9iJ+wBlnomi1meMSCxLaC8nQt7jzpxvyxaOSYXp9nnNEqZeHjOEdr0tZHFEt/b6eU/efQj4vXXg3GhieYD+ONHkzWwWFSPLEWPdMoecM2csDkNHqEAXd3TKygg7kJS8G0qFN8P3PK9gcT4E6+0oKh7DQ45iY76J7wDtS/Bu3he77xAZmVDkwRlt+2edYI6Xu69K3GsVnEVsC6XlU94H8fnQHQqvQFHQfh0E=;hryJczDaJK+YWicNzNjNdw=="
+secured: "p25VTQNWD3GE6nGE+OgKARo+yxL5f/kgT8RpV80n745rzH/nU1QPYEX+UFQac3cKpvZFly3WoksHu5rC3r+Tk9QZQ/HjPtn5PrSxlo1FvvawZP29lNYVsuuUU1aHQuUzsVc/3GQpgYCMunidukv6P+ZHCELjHxN6aL68bgP4k92gbW7ZxRfKW1a7Nh5E2nHieqRkHHTJqY7pVQ+0j2vm8VsHExu9cgFLaC2H5WNBnDgnE5lWK55aLlvK5AX3qLyZsPRbJ14+yf9D+kVR0K6adHiwLKyivyujJaFCTvipnDwRgfWuXRg8NwnZxQ95MCELBVhBa/LXqq9AymofJHn6lY3QnfYRtRIqmEo/nfC20CrSBeiA22RqPSTDO9/TbmNxh3SQ5SpKitE8M8QZ3+xxv4t22RSZlsqP+b5h53k175mz9T+MxtPv618JKHFffKO0XBktmIene9NnjwVofFvUM/NfCK4AgHKFZQXW7QmW7BiSoGYo3JqkuPahC82sGQfzFdhNFAmUzFhIyPZCPfmw8Q==;KM/bzz0FDfaQKtv7tnj6qQ=="
 ---
 
