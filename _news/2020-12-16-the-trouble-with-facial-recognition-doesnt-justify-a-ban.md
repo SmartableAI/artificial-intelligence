@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
-    excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
-    publishedDateTime: 2020-12-12T03:08:00Z
-    webUrl: "https://www.law360.com/articles/1337105/mass-gov-refuses-to-back-facial-recognition-tech-ban"
-    ampWebUrl: "https://www.law360.com/amp/articles/1337105"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1337105"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 41
   - title: "Governor Baker, regulating facial recognition technology is a racial justice issue"
     excerpt: "Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police and has resulted in the wrongful arrests of innocent people."
     publishedDateTime: 2020-12-16T16:52:00Z

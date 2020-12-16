@@ -39,6 +39,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Fractal Named a Leader in Computer Vision Consulting by Independent Research Firm"
+    excerpt: "PRNewswire/ -- Fractal, (fractal.ai), a global leader in artificial intelligence and analytics, powering decisions in Fortune 500 companies, today"
+    publishedDateTime: 2020-12-16T20:39:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-894989686.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has"
     publishedDateTime: 2020-12-15T15:31:00Z

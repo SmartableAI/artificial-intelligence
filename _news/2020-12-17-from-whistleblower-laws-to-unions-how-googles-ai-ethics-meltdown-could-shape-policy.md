@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-ho
 ampWebUrl: "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "YPBebyFLPAoEUAh94j1qbUIrIpTc/qRP4T/4V4s0Gcx1DOvMNOZo6gKy/iIDe5UaG6Cj53G1uYI9YhctJhEW9ZEHKypyzL06rGsI6nMkq3ZpAqr9uaVQDCRxCItqeK5KZwLkLZolfSqDrdXB3mjlhboSFnE5F36fx37EUcJeO6lJwwDxvnXAXQ3ujoEc8RjW71OHvA+Ec3cSvWLDUJUlwFgITmkuHTx8kysFSFvofsHSus6s/MieEJb0sVwPGTdfVKH47mSwC7FkFKCT0CMK+JfFCwrVOQkcHhTYdE2Sg+dOvMoJFYmsaX63xxyjZ7oskI7opkTvPOJ26/EQm0pEnoUs6WaWld78XBAQq9o7uhs=;mkLzjctEOw2As4B2n0qUTw=="
+secured: "7jWLvOATZQMpBWFDuVL6N5dPbzyR+Y8eY6YPb4pSlAZtOs2IFawtWba0H+EFxUrTFWs1zzyGy3sUeeWz6fgEpxCdDSIH6E4RQFAkRJiC4IxaS6zn/ik8QKtrzhGAGEnEGuB6BI8zwWaDBndPtKM1iTPBgNn7lTFlf5RLi0nQEzqeB9kZiKGIYBP1fLwWcsXEvIP0MPvm0E8z+268BPvDPMsWdfV+yVL3cWVJzptDsY83Zg5Esy9b0fKLABHv4UHED0Zpy7wQLNoPshRguwnPJexXHPYsPiGlbhNte1xY6s0RnQCDoSR4L6gwEEpdYVqO9GtnzF++C1AcVe7SZyG1tKxhw8qm2lAkiDOWJz4CC88g5CuGe8zR+ueoBCr/amrlgo+PiX7q2Tzs4cjuY6fMAexjoBH2hKiUF5dqMVnUbX7ikhGfkJpABdkAkvVqe1GyXW4tjxRLlujU8343roDtgpMJVG1qF4uzHMp6oo22KiFB2qV3cT2svhHM7RpF96TSAFY7KKlblEWCoad9Rpu+RQ==;Wpa0OVHymnVSL+TPA+wxTg=="
 ---
 

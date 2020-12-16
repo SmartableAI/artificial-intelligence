@@ -2,33 +2,23 @@
 category: news
 title: "See Walmart's self-driving delivery trucks in action"
 excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-publishedDateTime: 2020-12-16T17:43:00Z
-originalUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+publishedDateTime: 2020-12-16T19:15:00Z
+originalUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
 
 related:
   - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
@@ -78,6 +68,6 @@ related:
         height: 720
         isCached: true
 
-secured: "wER/gtOCHeAsut/oQUGBd8tF7Oq1xvgHtxXkDmDdnBpHLyXfJoKcJceXs2k1IZd8LGctWGhqWduWKdigN1nJsEbN1Bt2WKk5xKbzCgowwESrNhyJecL6z6SX3EbhU39aZ0Z3boimp43WAZlHrduhaKjgL+hf4JdcE/qWd22UOwuvX4Na0RJvF14+UH+o4mCZEeYrMpSXQcxG8Ef4hmLIu9gvljfL3dszHlbHyp9eykJdT3/JvKjmvJamlNYLZ75LsW+PELbyhPctpUwcbqAB5PllT+qWEkGsqmvI3VQQOcLgO2yOOfiNdAz2Rvp9zQ3JVyIBJ143qUiwHWSp9kWbnDe90SW2W6ZWSOO6/5t3fzw=;WSHsgtNezSHVR/T5xd21ZQ=="
+secured: "ZR097H9Ivzvt8hGMFhVnFVDRPVIEfiVL2kP0Z0T5yGGOepPhFLltAqmx5ELfrHq0fmo1eBF2mk+Zj9xIe/WPJFiKWBz/ZIL8DZh6A29F9Qfb/q5p/Zv/dzm9eVkpfulPOYI0hV4JbOgH8Xjza25Xoi0aIGLraMBUtUEEdV4q4QHtp+Xvv/OYqqZMGfJo5PmuK7pEdG1ta+x69PJ3C08Of32LAUFp4YW41gZ2nzZxMCxaHUGsU9+zXaJl3nTl49coaVavGMW5/XUZd9f2vEfDo+PDkjgs5bLggfi2xV8YWwRCcyjLglPjGiTEZKs/r1w8KUrXixJEsTKEzlOQUbbRyp10z8/V8U4WqeiTPhcrB3+8iRMXqCciLE3VanfC4A5geYc++oQV4FqGLZIlCBbJ0dYn3erJww237pBvHn5aMvPuFAjahMMJPwK5N4OAaDFDtIdAV8X17p4y6fYOdTr02Z/3Zy5eqdbhCuh4LwB9eqsxLwf3IStbDmmRxOa98ZQofxx3Gv2jipD+W3PK+WRNSQ==;U6ASaih11L8h+RCoa1zYKQ=="
 ---
 

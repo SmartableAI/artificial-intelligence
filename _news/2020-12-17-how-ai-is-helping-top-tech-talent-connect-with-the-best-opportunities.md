@@ -39,6 +39,20 @@ related:
         width: 405
         height: 247
         isCached: true
+  - title: "Getting healthcare enterprise AI data to deliver"
+    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
+    publishedDateTime: 2020-12-16T18:37:00Z
+    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
 secured: "A6UfJD5Dqjv1QwS6pJcN4CZcnHs5w9ZdDm5xO3cBkxT60UCBCq9brhjXYAdH8NxJBXjJ9o/kfgAbhjzWIU0Qloa/hEq5TRqGjI2MZu3EmljsGqulhQSdB5NR37t45jvG1TaPtUAc2e/8nt/JmbdR9PWBfkJ3Hg5jtmpqNv/3OkTWHOjJdC0yJgQH1+kvtT5p9MZW7pGw8ccCbPT6mqP7b9CxMdDE2/acTMXvgEC0pqxmDo4+A1uUss6p0iFHzmLIcMUwLWfEplTwSg98G4+LtAzZmQlYLSxlduRQJMPBQh5piowG1Y7MyB+ptE/wBqq7V2ou1b1IHBnj8GOgLc5J64Rfn9KOU8VrBFxK3ZzS1jRLdrrRsmCmlXhKcB3tFK5kRQQcjrOsy5I1Pg7TajEM/qpEk86XhaO6nwzKJ9zpkshqKdGs9ZnMomBKIJHFZSyl8d3oQCD4jZraHtJFOxPKr+qY+ebkxFJj2qyExTMaPil3+ZwHpWRnTJuRILrKOdoAsuE+Xx8/9/Yur/b7pr7VqQ==;uwxarRRuX9D5M3Ce2d5dqg=="
 ---

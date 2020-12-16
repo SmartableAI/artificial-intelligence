@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3581
 webUrl: "https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights"
 type: article
 quality: 167
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/12/14/af_eu_141220.jpg?itok=tHIAAs-h"
         width: 763
         height: 509
+        isCached: true
+  - title: "EU agency pushing for research into how AI will affect fundamental human rights"
+    excerpt: "In a world awash in new authoritarian sentiment, it is notable that the European Union has published a lengthy report saying it is key for nascent AI regulation to adequately protect fundamental"
+    publishedDateTime: 2020-12-16T19:00:00Z
+    webUrl: "https://www.biometricupdate.com/202012/eu-agency-pushing-for-research-into-how-ai-will-affect-fundamental-human-rights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/16130235/Retail-by-DeepCam.jpg"
+        width: 2000
+        height: 1280
         isCached: true
 
 secured: "R3VhzCw+LIXMbDrZchz09HPPkzAtN84sy6WHm8/+TrsHMlTElmEcjIxwjAMxudK3ImaXjW2kaJ8+wZpRoIlPSKDKZ22nbv6hKh/O9FtSEt8Jkn0E+maLQYgzkj8ogj3NmbFEu4c7/6sNFbQS0O03qt0Lj2iRY2oJKnXZz0CTTEIlsF92P2bCcED04nT5hsiPbCdNL6nEQ3gzkyI5XBCEkItNH3e8AIViV79IxPxa1tIqJjMAfujeUg6m2edh9CHt+MpXvCcMImSxKGE5/A3J0JFWv8EMQrPdPezjeNcJWD/bZa1xxtrbYRkluxiBKkEeUjBVooqzDbWgK0DLGRDcnbooluyYUTx1/2ip+V6N0CsvQ79DQf4j9oXJp5h9A0g8liJT0qHwXRjBCiFeEzLw8EtlZHqbw/rg/idFRCmn6VGbICOrv7eoIE7ydQ52ZpfqQ1XztoAvfTJS7t3YM51zRbMqImvlpctELRuCE+gKnAmygiZD+UFslJIwhaROlUnAsLp+0Q7vJrKkwJFWbps8VfC5NHuNXm8qZSEJxrtF4Rg=;UEvL6MYG2GmS+IXFGGXWyg=="

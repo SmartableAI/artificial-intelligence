@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Ping An launches artificial intelligence assisted clinical decision support system for gastroesophageal cancers"
-excerpt: "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,"
-publishedDateTime: 2020-12-16T09:17:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201216cn26068/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers"
+excerpt: "Company of China, Ltd. (hereafter \" Ping An \" or the \"Group\", HKEX: 02318; SSE: 601318) announced the launch of the artificial intelligence (AI) assisted clinical decision support system (CDSS), AskBob Cancer for Gastroesophageal Cancers,"
+publishedDateTime: 2020-12-16T09:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-1029897097"
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-launches-artificial-intelligence-assisted-clinical-decision-support-system-for-gastroesophageal-cancers-1029897097"
 type: article
-quality: 0
-heat: 0
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "AvMotVxlikjLSiybpbfbh4pmKpgVPdqCg+JghAOQ5j1uJWwlLJb5QabGkt1mPFr1p1B60gP3Lgkm/4Tq0MxWlN0rOOfQxRxHVaK8CUAVnFm97LABI/q7A1ftg3fAimgTwH7suv+1a3z0Nxc3ixe5WOssM7rKpWlJ8kavHRjxHdcx9NTcYvHp2+3iKNJf2BZhg01fY9jicMemqyv5fbXUx462ve3scqGH3F8gt1nWsHha9qIH5/c3fzDVOjTQsBNq+cj4udGHUwERq7B3B1FkdFJ6SA04sXqqbPjgXjZ4Vm0JgmXMxhJ9XTMl0uWVaWBSQBLaB9GV0MIvdIhzleYA2tBSDrFLv4Q6mxHWIdBMUo0=;elCKu9u6aDlvGn1lUSYsuA=="
+secured: "TCTcIV8QxGGk5GJW+jY9CuCxYEQbGVMGEkr9TZy7amDNGRBryKwE0iEbWLfx/yo6HjK9IQ07/AmijgzojkECVruaCbUaGbs5NSrZ3x54CH0wsdRuIRCBO0VNFYD0bOg3BEjfz29hqGtaL25keUOQkCCpm5d4iNtR9uQ9RmV7MU+H96JKIcAZqDTzmf8g9p1iq4cJggeWKHqsxNZ0iy7DBo7SwSDZkuvtAY2oPMg6seGJLqpk/NOa27tvXs1/PfG0qsge3p7aP3a5SOPr5eheJsbj4kMrsO/jBu/sfRznPs4hFUhblt4MfXNu41psN0uKXFgt4jFv9JWQr/1kwY/hvNMt/1uIDkeymUuBEzLFpjI=;wEQHvRwPJe7U5PN5tHodoA=="
 ---
 

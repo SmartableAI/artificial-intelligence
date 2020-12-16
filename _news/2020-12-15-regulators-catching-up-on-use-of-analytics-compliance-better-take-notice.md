@@ -55,20 +55,6 @@ related:
         width: 400
         height: 256
         isCached: true
-  - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
-    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."
-    publishedDateTime: 2020-12-12T03:18:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-artificial-intelligence-75c43851f3d048399a73b9ab291f5fd7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "4iQ and Alto Analytics Merge and Rebrand as Constella Intelligence"
     excerpt: "PRNewswire/ -- 4iQ, the leader in identity intelligence, and Alto Analytics, a leader in applying AI & data science to the digital public sphere,"
     publishedDateTime: 2020-12-15T14:00:00Z

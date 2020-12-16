@@ -84,6 +84,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "EU agency pushing for research into how AI will affect fundamental human rights"
+    excerpt: "In a world awash in new authoritarian sentiment, it is notable that the European Union has published a lengthy report saying it is key for nascent AI regulation to adequately protect fundamental"
+    publishedDateTime: 2020-12-16T19:00:00Z
+    webUrl: "https://www.biometricupdate.com/202012/eu-agency-pushing-for-research-into-how-ai-will-affect-fundamental-human-rights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/16130235/Retail-by-DeepCam.jpg"
+        width: 2000
+        height: 1280
+        isCached: true
 
 secured: "MwWiZSFjCRkVNAu1nl62L+G5DXWG9M4vOniKY8pxnmA8BAaoCInIyUBa4VuE7GxSyh6vKvfLY/QtBBjVaE5POS8W9pETSSohoSojMYmptIMmOuYnsGZlp9XZ9AGHo4oa4dkDmo+6Eilfcty/49GUvlWBKLGGEloNozfYi41RCaKNsBxSzHBB0U2mZ6CPjpYOV4XMY5N8//z8zUTIWt60n9RjdcMwt9OapgUggssZRI8TDHiEiHZn39/0N8VqA5h5Z7hKjJl2EamUaxje6cOtTR4PNbBT7gLbzGHIvVzc2a/ba/XJT3ziqAxk/8+QDnq89Dar/dhXunFNneoMwGrerVSnjkZ55lTZe5FZ6Loq4r8=;pu3Eefywc6GeWxzzVG3tEg=="
 ---

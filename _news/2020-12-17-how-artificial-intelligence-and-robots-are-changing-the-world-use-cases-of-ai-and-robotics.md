@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-16T17:11:00Z
 originalUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/"
 webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/"
 type: article
-quality: 76
-heat: 86
+quality: 78
+heat: 88
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg"
@@ -41,6 +42,6 @@ related:
         height: 510
         isCached: true
 
-secured: "aA1qjUbl2r+w/oa1n0Y60mMph9XtyYwT+HJ+1nlQk/onDij5Utqk9PbfJrKq3OBe+T63YkP8zOWvC8cb0eWxJQcGhX7E/93FAcXov4fzpT2I4YcAvES5r9KezDUjdQQQHgYAskmLcET7AKDiFxC7374atf54OASAFr0rSfWW7T1iwItoEDNciavtBNvujyFUAaXCloxy0a62IIqCv8S2LEB0GqZBGNPq6JyEklnGuewTcRhjFgojF7XhLmOc2DzOMVsg+mTTPFMxoH4ukDwH9qZyZOf5sQD2SmDWXD4iQa1c0Fzadx8u0ajWTl0CHZjYs9Br+gYd6JB+uqCeBnKKJ1UJyFv9IHDaddXh9HXcDqs=;hsXYsXW9+uBvn0tw+BeSdQ=="
+secured: "HVWJCUOGpVTUc/KmHaYc0AjwNybnaOU0TxstFr0gokO3hRSvSg+XhnZzT4o/qmKx9bPupsYqyylAJpHIGjVO0aOHfIgKgYFiertxVF8GyEOmx7lTXvLEZQCDEcQRqVkMubRctBBpqzID2UXSdtcAG8cTUc/L5Sbjzd8O3u87q1lzDzlPus7ou2C7wrAgab8E4tFI913O7+h6AsUgK4iFBPFFz3piQ7TdPWzASM9yZ0OSzG2HNdyW0nnAjgp/Un6T0w8k1gERMON+O8FGI1xbitoMq1Ib9T/RQkLZQPmdRhruBVUXyJtGT3s1C8ndD5bn4U+3PvDYcZD6/NgDWOqLkzOgwJITfeVCGblo/8Sk6pL+sqyWdLCCyj0L9oTWsIsAoracfit7yxQXNIl3QKqPLlSZGdF+7BVIf33DGANjH3aICA7JKx6XKQ+Ke3I7NPl/nrB9NZnU90UZsBhatEQdNJuolOHW70sxEkeCW8+CThcx5y+6KOIP5ajhJngzpGAJoFl7GlKN0slb6/Ow2UK0CA==;X0/BtIX3eGgRP/HAcgSfmw=="
 ---
 

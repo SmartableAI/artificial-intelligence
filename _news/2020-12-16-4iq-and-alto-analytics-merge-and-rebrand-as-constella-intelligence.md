@@ -54,20 +54,6 @@ related:
         width: 400
         height: 256
         isCached: true
-  - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
-    excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."
-    publishedDateTime: 2020-12-12T03:18:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-artificial-intelligence-75c43851f3d048399a73b9ab291f5fd7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Regulators catching up on use of analytics; compliance better take notice"
     excerpt: "If your company isn't making optimal use of data to enhance its compliance program, now is the time to start-before it's too late."
     publishedDateTime: 2020-12-14T19:23:00Z

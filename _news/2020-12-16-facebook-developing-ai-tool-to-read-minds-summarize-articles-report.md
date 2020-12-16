@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook AI tool called TLDR would summarize news articles, report says"
+    excerpt: "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so that you won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,"
+    publishedDateTime: 2020-12-16T20:24:00Z
+    webUrl: "https://www.cnet.com/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/6LBIHoLfC1d6SrZT8pbkWNgUr8Q=/1200x630/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook creating an AI tool called TLDR that summarizes news articles, report says"
     excerpt: "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so a user won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,"
     publishedDateTime: 2020-12-16T18:22:00Z

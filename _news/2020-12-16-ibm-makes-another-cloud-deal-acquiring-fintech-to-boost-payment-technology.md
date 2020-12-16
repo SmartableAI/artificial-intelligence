@@ -73,6 +73,22 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Upstart Jumps in Trading Debut for Fintech Company"
+    excerpt: "Get Report jumped more than 25% in its trading debut Wednesday after pricing its IPO at the low end of its projected range. Shares jumped 30% to $26.16 in afternoon trading Wednesday. The San Mateo-based fintech company priced its offering of 9 million shares at $20,"
+    publishedDateTime: 2020-12-16T20:00:00Z
+    webUrl: "https://www.thestreet.com/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/upstart-jumps-in-trading-debut-for-fintech-company"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/jbWUzoVg-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
     publishedDateTime: 2020-12-16T12:06:00Z
