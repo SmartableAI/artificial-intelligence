@@ -59,6 +59,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
+    excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
+    publishedDateTime: 2020-12-16T14:43:00Z
+    webUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/"
+    ampWebUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/7xNko/s1/tesla-model-3-construction.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "We See What A Fully Self-Driving Tesla Sees Thanks To Known Hacker"
     excerpt: "They are provided by @greentheonly, a renowned Tesla hacker who has provided us with a lot of information on how some of the company’s technologies work in the past. This time, he posted a couple of videos that essentially show the feed from a Tesla’s forward facing camera with various other things that the car ‘ sees ‘ as an overlay on top of the image."
     publishedDateTime: 2020-12-15T18:30:00Z

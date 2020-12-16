@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/deepdub-uses-ai-to-localize-dubbing-for-foreign-language-films/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 675
     isCached: true
 
-secured: "gDRzMVRwcxucwv5Tb1lBn3RHbPnlVi2lxyJdGryeU7A6VhIxjBrGqZfKrVTLDYhv+T88Aah62uDg7S6AWgX+YvNFFwSBe5FMtT7v3G+HFZ47eSnPJrEspjr87lXJiEHCUUbWaKwLaj8GMGVXevn5Vpyx90KGdmacOdPXTKdVidd2X4vVz+GP27VGGNdf4UXu69iNFppy2hF61ChvKK5Hpb5FIlbYdj9MAIx++suYt/IVuYxGxCiogVc46xMpr///MDH2oI/JeCgnVNQFknKDM+0JvttmFqF/bM+9OC2qpXcWJ0gPmR790tOyHshnTNyQXzWjgpsGbah1ZyLqufFfHK1Bjjt8gADGMyvrUVmkDco=;2WonuKa7FlZJ0RMQfAfSVQ=="
+related:
+  - title: "deepdub Launches AI Platform to Revolutionize Global Entertainment Experiences at the Click of a Button"
+    excerpt: "Ofir Krakowski, Co-Founder and CEO of deepdub, states, \"We set forth to explore how AI and deep learning technologies could be used to create a more rich and compelling experience for audiences worldwide. During this process we discovered that the ..."
+    publishedDateTime: 2020-12-16T13:36:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/deepdub-launches-ai-platform-to-revolutionize-global-entertainment-experiences-at-the-click-of-a-button-301194084.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1386466/deepdub_team.jpg?p=facebook"
+        width: 1403
+        height: 735
+        isCached: true
+
+secured: "XMNZJz31u9p3I/u+Ym+H2c6QH8yTcGgENKXg3sotsF8E4inaafJRtGmbbGTze0BUawfpV1a1ENA0g+1PWgi0XeP6Y5rkJB0NJ3y3b5yRsZtkVwJUC51P52/QL5AAQ9/BInK2L7tppiddE/APFUIRpNnbrmpUBU6+wEyAji7cnQPqf9/WJJOf/4dVHxdzIeJwFr5406xOUHdaf4By8VCUBLMjCALUjWsQXOpFZfkG1bplsu5DoWoIja5xww+nNWDqMj3MeakQUWjK8w68fL286BaTbkbcEwX3CEttfxGfqOzvLLWpG9zvaJa4BEM+BB4EgLzTb9r5GAU7EeY1qWqQXvydEb9aeYcU8Gn5A9wczVd6JS9l90x6Do6c0xk7GqTgPv1pYe184//qo8KeP1B5tCbErQDAy0HE9wOkVhjC2rIp8Jzoay5KzH8IZXnN106umGCS51cAfRZDjh5rCiTmTJ8CV0i+UrpYF+czgoxdzipEJxm5nC2lKe12tN/sb6jvO0HTroXwjdOS0u6S+ISKSw==;78xkopUq+y30hNmpD/mK/Q=="
 ---
 

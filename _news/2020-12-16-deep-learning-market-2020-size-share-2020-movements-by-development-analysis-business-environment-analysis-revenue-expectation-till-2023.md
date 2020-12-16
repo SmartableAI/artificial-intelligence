@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-16T11:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-size-share-2020-movements-by-development-analysis-business-environment-analysis-revenue-expectation-till-2023-2020-12-16"
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-size-share-2020-movements-by-development-analysis-business-environment-analysis-revenue-expectation-till-2023-2020-12-16"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Marketing Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2023"
+    excerpt: "Market Synopsis The GLOBAL Artificial Intelligence (AI) in Marketing Market is estimated to record a significant"
+    publishedDateTime: 2020-12-16T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
+    excerpt: "Market Synopsis The Enterprise Artificial Intelligence Market is estimated to record a significant growth throughout"
+    publishedDateTime: 2020-12-16T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robots Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
     publishedDateTime: 2020-12-14T10:55:00Z
@@ -127,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Law Market 2020: Market Growth, Trends, Revenue, Share and Demands Research Report"
+    excerpt: "Global Artificial Intelligence in Law Market Report has released a new research Analysis and forecast 2019-2024 comprehensive of one or more factors covering regional opportunities, application landscape, product demand trends, and end-use portfolio of the ..."
+    publishedDateTime: 2020-12-15T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2020-market-growth-trends-revenue-share-and-demands-research-report-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market 2020, Global Trends, Opportunity and Growth Analysis Forecast by 2023"
     excerpt: "The Artificial Intelligence in Telecommunication Market is estimated to record a significant growth throughout the"
     publishedDateTime: 2020-12-16T07:31:00Z
@@ -136,6 +178,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
+    excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
+    publishedDateTime: 2020-12-16T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -224,20 +280,6 @@ related:
       - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
         height: 339
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
-    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
-    publishedDateTime: 2020-12-11T22:39:00Z
-    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "3RpEx3DyHne/8l0xy9eeraMft7BaGfizXrXQeZqZ67+fpeT2/eFRUgSBw+mGm9xNF0pGjUHslWdw3LHFILXtzhFT8wUkpTWzKbcoB7N2YzsR3Qty+kb/MIrhAMTfGzyJSr9NLtRQ/0Dj70oTzivV70hlNPFG0QbOfqX1CsHY3mk7PgsfmM5DyUOOB9LL0ylUm7zzKq+0PS2+0JUDC61qPbY6B3PESAzc70E0m5ykcXjp5HGSKHkHfHC+jo/BuehgXQbF+yePf63UGT5D0+boqPXwEIqFFL71vaZAJAv552vbKg48XqS7gE2dGVXgQtn3DUoKWwpYfI7wjTO+jyUlGosWi3ysUrZkq4W+7tQKqDA=;UdCTS6rOlnorKyyAf/KuOA=="

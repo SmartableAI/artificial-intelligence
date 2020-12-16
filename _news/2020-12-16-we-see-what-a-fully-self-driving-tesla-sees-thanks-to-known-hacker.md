@@ -59,6 +59,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "How Does Tesla's Full Self-Driving Beta Fare In Construction Zones?"
+    excerpt: "Tesla's FSD Beta technology is impressive on many levels, but it's not yet capable of full self-driving. Inconsistent and unique situations are the issue."
+    publishedDateTime: 2020-12-16T14:43:00Z
+    webUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/"
+    ampWebUrl: "https://insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/460678/tesla-fsd-beta-difficult-construction-zones/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/7xNko/s1/tesla-model-3-construction.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
     publishedDateTime: 2020-12-12T12:23:00Z

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 586
         isCached: true
+  - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
+    excerpt: "The first production-ready integrated solution for enterprises to catalogue, store and share features centrally, and use them to develop, deploy and manage AI applications across hybrid multi-cloud environments Iguazio’s feature store tackles one of the greatest challenges in machine learning operations (MLOps) today - feature engineering The feature store is a key component in Iguazio’s data science platform,"
+    publishedDateTime: 2020-12-16T14:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201216005486/iguazio-launches-the-first-integrated-feature-store-within-its-data-science-platform-to-accelerate-deployment-of-ai-in-any-cloud-environment"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "P8nUR3gBwgJKg0zcMHnpXFq2w0TpzCcHKvsFlhQC6Yt/8T4gVmuHDQnR22MWm5CI4TM6LM8aqTUnzWzFJSmGJlGXX8YF98nQTiB2NhqBYFcFOalXKWkTOX86coCsBSaoEHqGkwoS96D8I8chxd7y0ujNLPGazlKC3FcchWB8XMX069FIgRJmfzNF1GiCpx/mJ0yrZT6tgU8nUyeZMUM7LsRg03iFhTE+mXglBCmyOnfHLc90OurU/R0rpKT1M37Z5T2daFBljaYLfVFsQS3VaDezilmFc1agoYI4Gbp7OATDpBaEUwSU6S8N8FRHoZlAKG9ygiU/lVRlfamZtpZmjfCHfckZ/il2L1ITpvuKksA=;DvKW0kqV0DqZ3B6pueyEaQ=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 288
     isCached: true
 
+related:
+  - title: "RSIP Vision Announces New Cardiac Diagnostic Tool for Point-of-Care Ultrasound Screening"
+    excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new medical ultrasound module. This new software module enables medical teams at various point-of-care settings to perform a heart evaluation quickly with high accuracy and receive an immediate,"
+    publishedDateTime: 2020-12-16T10:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-artificial-intelligence-49d66835d6c3460db348047b3e299d8b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "t9I3c4xEhX5SiEaArGrwNccAkvRHejO1pjNTlQVEel146ghx7lvd9LCuTlqzkWi0NjnIv7tA5pHzKc20OaoPNsIXwBEV9AbqMER+HhdCD4krpW4uL4UWpYRVbaX1mrdC/LsVrrPT2F6YjTg+fSQqEuE9h3acj2ZX+jfJwDEzi9ZBBNsMHukzPOq+eAizImEk2Kqvl3tJItPkGSJ9+6CaT6DkEEA56G66+1gU5+la2p6ly8JyT/pvTOesyuCgb9jI1RemP8rhtBxRjphBODZ0aNcv57ClQJLIqZ4ZvMUpU1Ig1md0GwJc8F3P3HM0kccTV9ff9j9/7DF0J06O+bc15/TmT986zj73/M3KF7nZMkc=;qvcsNTEf5wf9z+govBNj+g=="
 ---
 

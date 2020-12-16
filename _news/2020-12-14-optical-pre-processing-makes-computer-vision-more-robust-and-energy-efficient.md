@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2020-12-optical-pre-processing-vision-ro
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-optical-pre-processing-vision-robust-energy.amp"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1631
     height: 613
     isCached: true
-
-related:
-  - title: "Optical pre-processing makes computer vision more robust and energy efficient"
-    excerpt: "Computers that use deep-learning convolutional neural networks—layers of algorithms that process images—have revolutionized computer vision.  Luat Vuong But convolutional neural networks, or CNNs, classify images by learning from prior-trained data,"
-    publishedDateTime: 2020-12-11T21:44:00Z
-    webUrl: "https://news.ucr.edu/articles/2020/12/11/optical-pre-processing-makes-computer-vision-more-robust-and-energy-efficient"
-    type: article
-    provider:
-      name: UCR Today
-      domain: ucr.edu
-    quality: 36
-    images:
-      - url: "https://news.ucr.edu/sites/g/files/rcwecm1816/files/styles/news_article_latest_l/public/2020-12/hass-avocados-avocados-fruit-green-tree-healthy.jpg?h=df6deb68&itok=ImS40bGs"
-        width: 370
-        height: 420
-        isCached: true
 
 secured: "1NxkkfVObUmi/uJU2KPkD4yxk+5RHfn+I4eW0yI123PiDokUHJLj5iLeLmnKoRjaHMISO+iNbfvoyQ/+x6w6jB6V/Uk5xnXtiXn1ov/P2tPCR3CnmRfrtdaKJy6Z3PRtULF8VQaBcgvlalbs5ehgjJHRdqQrPmfBnzKveqqJ6dLamEQATIK8XNKpBleE/Jzfa+Xte5CJYUU24kT06UF5OMftkNXGe+bXhgFiDAtZ6hirpFKDs//Pt4ZhwXx7cn4E8CJmMlMTP4HORSeizb5MHQ28Z6BAo+/xC5wbVDKuXftUausLV+7DNpT601zBOFwl4h33z1EqME5F9GlnfiKKHues/M1Wp+0CYMOFETG0nKb+3lgUYIByD2nsGoz5Q7/nzMb9RtbHdanQeg9o1vlleRvOVdeznju5HdLvvUUEp7VIR6liA/YMRdZDsA0xMabDIpTk1hUTUokKOxjd73ep2nnBu7DVCjzXQuvlBCT556dQFhGk9V5rmNuwjQV1bVKClQ0EYLhyvcBE+Q+9qMeDbQ==;hWTi6GLUDRli1YOqNFKvcw=="
 ---

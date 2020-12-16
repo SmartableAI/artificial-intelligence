@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chip
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "This supercomputer centre has chosen Nvidia for its AI"
+    excerpt: "Performance Computer Center Stuttgart (HLRS) in Germany will use its GPUs to accelerate its journey to AI. HLRS is one of the largest supercomputer centers in Europe and since Michael Resch became director in 2002,"
+    publishedDateTime: 2020-12-16T12:05:00Z
+    webUrl: "https://www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-562.jpg"
+        width: 797
+        height: 447
+        isCached: true
   - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
     excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
     publishedDateTime: 2020-12-14T16:08:00Z

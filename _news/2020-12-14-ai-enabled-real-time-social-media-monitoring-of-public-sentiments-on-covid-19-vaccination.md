@@ -52,6 +52,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 11
+  - title: "Sheba Medical Center Inks Strategic Agreement with Iguazio to Deliver Real-Time AI for COVID-19 Patient Treatment Optimization"
+    excerpt: "Iguazio was selected to facilitate Sheba’s transformation with AI through clinical and logistical use cases such as predicting and mitigating COVID-19 patient deterioration and optimizing patient journey with smart mobility Iguazio,"
+    publishedDateTime: 2020-12-16T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201216005453/sheba-medical-center-inks-strategic-agreement-with-iguazio-to-deliver-real-time-ai-for-covid-19-patient-treatment-optimization"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "eAqRwilFF5j3lwgExPouFl5qXs8clQkwOZHYFK/ok4DI82bGA3OnDZkwC46z6s5Ww5FwsEZIWZ3EuFCRJMZCpNFbJlfNoA6c7Xme1AmAv/PPeYs8LGI7XNCUlhtmjbMDoMAw5bUcxg+wU8k6N44AqiZsZdeTR5GU/hhQm//R3oOFR6lZx+JgOQjChg1mAAM7kIcGGezQfG/70AXonueto5NJyTavA8tuf2K3Nixh2mF4xzWlW3eGmaq9v7fgy1SJ55dXyleCPeUdfq3wJSMDcWPtxkwF4vJ6xrTGyc9E8+48gfMCTsIPLQwMjjFNVwLgoaPNnoMBiwtBomLZJpl/u8MPADygYcMoXrbNw+KmGwc=;qyhxubuW8xumlYAjuxHPhQ=="
 ---

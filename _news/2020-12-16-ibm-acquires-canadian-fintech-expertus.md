@@ -43,6 +43,22 @@ related:
         width: 2832
         height: 2832
         isCached: true
+  - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
+    excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
+    publishedDateTime: 2020-12-16T14:00:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 44
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/07/Acquisitions-header-2.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
     publishedDateTime: 2020-12-16T12:06:00Z

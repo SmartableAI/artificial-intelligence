@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
+    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
+    publishedDateTime: 2020-12-14T17:38:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/?sh=78e0557ec916"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 172
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7a1109fbc1575bcbd741d%2F0x0.jpg%3FcropX1%3D353%26cropX2%3D2419%26cropY1%3D193%26cropY2%3D1742"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Amazon's Zoox reveals self-driving taxi"
     excerpt: "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats."
     publishedDateTime: 2020-12-14T14:56:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/aPDrvFp3YlE0pjJYWqV6vZlwBAM=/2020/12/14/ed965842-f0e3-4dd5-86d4-583dd57991ca/ogi-zoox.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
-    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
-    publishedDateTime: 2020-12-14T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7a1109fbc1575bcbd741d%2F0x0.jpg%3FcropX1%3D353%26cropX2%3D2419%26cropY1%3D193%26cropY2%3D1742"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Zoox self-driving robotaxi revealed – Amazon cash builds bidirectional pod EV"
     excerpt: "Autonomous vehicle startup Zoox has revealed its self-driving car, a purpose-designed robotaxi that the Amazon subsidiary says is ready for the road. Founded in 2014, Zoox was bought by Amazon"
@@ -336,13 +336,13 @@ related:
   - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
     excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
     publishedDateTime: 2020-12-15T23:27:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html#!"
+    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html"
     type: article
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 4
 
-secured: "llXVhqQkcJ0GS05/3Dt2eODy+ualRlb9jSntt8a7H1MXHsSuz1aEpzwR5fIbzLGWUUIRyr5qG5gfjO6hhU1YNo+Db9ZEsVZz+xZ1XX6lc9cS80j/oHY4J/NbewZySZXcf+fQaMd4+mwwUsJa67T9WLJtxb4jyKjzlURVtHJqvEeXJ6fnvdTrYPJiPJZFtkqoJVThkmC4/3I3eHZ4ijvQ0BoME99S7SY+7ZsCiThzA/C4HVGXh09GV6aHTlPtyex0RonLQJvBAQhZLBjLHETeTXDvfuWw2ftF+tc9RuUNw8uA5hD41yzGo44fsy1JZtRjekhbR/ISkxmR6frLZbAyWiwWyEuiT7V94/4M1dn4mBk=;Tbbh/XFHVPHC1gNksVWWsA=="
+secured: "8C9c4FRKr6N+TZ0Zp3pi7+PhQOZwdTlCPR8VnlLnKBx+0lpKnbQXu9mEZJadMGKNc4RHBAoHka+5bbZZp/wSSwabRv2q/vb6t6JgLRuA6mZMKtdqkYecYQcF0VyKve+zxRPZ3G3rgAu86WwPMv0OLfeyFtk0S2dH6CD6rb2rl4P7h+IHJo6Y+iuHv0Dgt0bJiIDJ4khvlbV3EghnilVme6pooelCaZEpUfcboIqiYrW9VyDKkIm9MZDVkhpr6Fhk1v49zcWZSKAITAbRf6cZiS/sHouNhO8YKaZkPUZhxiVqwWhUvuQuNWHzOl/DeDc5AcPKVO2bnEfLEeU3U22qBdEUWiugL9FqZXQXdWKuKXfzLOci5Iwz375L+HSCotcnHnTqTE5MHxb9yPsvLpKqRYCJze9fZyUxqFYgTATSw2S1mSZRWK8jFrYGTJVh+eXFfstvw+VR6ffQw+lqqtsGcneZB/kkMOclM7paU5BNAETZNYR48IarfIaLkPPsTEIxFXWwmjEPxZySPWoD94gRjg==;GN2XJ0uDLDUxBpd5waJVRA=="
 ---
 

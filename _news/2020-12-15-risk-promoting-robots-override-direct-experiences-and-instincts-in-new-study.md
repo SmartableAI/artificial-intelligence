@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/risk-promoting-robots-override-direct-experie
 webUrl: "https://www.unite.ai/risk-promoting-robots-override-direct-experiences-and-instincts-in-new-study/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 826
     height: 480
     isCached: true
-
-related:
-  - title: "The Robot Made Me Do it: Robots Encourage Risk-taking Behavior"
-    excerpt: "Increasing our understanding of whether robots can affect risk-taking could have clear ethical, practical and policy implications, which this study set out to explore."
-    publishedDateTime: 2020-12-14T14:24:00Z
-    webUrl: "https://www.laboratoryequipment.com/571137-The-Robot-Made-Me-Do-it-Robots-Encourage-Risk-taking-Behavior/"
-    type: article
-    provider:
-      name: Laboratory Equipment
-      domain: laboratoryequipment.com
-    quality: 39
-    images:
-      - url: "https://media.laboratoryequipment.com/m/52/article/571137.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "haRrx9fmesynoPNfp1OKatRYqGiZdvgUuh6/T3y733zxJWdQN03U/NkUA68wXv1u1EvpH6WtTYAbyaShzUb6zAg+0IAaYGQSN5gGo0tjdg+iSg3/e1Jyv4gfIvQe4QE7A8yS+LB7KvgaDMPxHeuJDiSOZsd5KBii3RTKD+8rgAc+onyQ4NuDyt2YFIxSGzYsZXtWTO0fK7luY2gXkDASHQgOmEfjj/oacRKExFyxvRGfgLruMjjDUsbtmlWo3D/jsjeXFT4v+A56JU+IRlT/YQTmZhlF1L1w6IBXvCrGclUAfUCeUkMEIqFDDF6bXzsSRd6o5hHCapfSiOJM0ZBxZmi2iQjLRl0Nyj6SBk80svtPwy8jsm7xpS7uv1Gxklj8FE4aFZosjCiL/w535ibNSccfERS2HTij7cJxk2J4zzDOqY7rvQF15r0xGWqluyV/DjY+NlGlFe0Lp9BYV+sQwVMXNk0v8qjCC7St0bjCCXzW65ExQMI+lTDwr/BshRgKL3PGwMy92J84j1e600DTig==;Hy6wcJ+65IQPN5osj0VNnA=="
 ---

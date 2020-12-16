@@ -4,24 +4,23 @@ title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
 excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
 publishedDateTime: 2020-12-14T17:38:00Z
 originalUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/"
-webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/"
+webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/?sh=78e0557ec916"
 ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 172
+heat: 382
+published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -340,13 +339,13 @@ related:
   - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
     excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
     publishedDateTime: 2020-12-15T23:27:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html#!"
+    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html"
     type: article
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 4
 
-secured: "/ng+yJguPKRZs+9eY8Aid/1vHgnOau7gBjPXEz5MxBotCQMRnfgB4d3tAJYUvQUEU49bBvMYgkytMFyNhMi6lle/U6+0g6GbRauSoT9kzvTLP+GpPlk5HbKpZjvjTBJzNIPvIhXFV10FBkrX1KgxLrKfMVfCG/kE8V7WlOHIzA/4f44YnuGO6oynzOyPf1vWG1YXpKY+YqkLQP0fOyiZKz5+yLd7QJisLkQcrOk4AU7pFsV25tTyPtR8HYb5Zmric3qJzJjiPgavNGM2Ts2sLvrPOntq/dfujgpe0pNqTfPsqz8zrH8X6wnYXh9+1iDBZylhdi/Ebrh/4j3DXBu7pzcBjhGFBtXNYetsAYD6f2x/CBVxotH9/oZxyQW/M6j+Qin0IMbEFDQ3yN5Y1DMWviDBUf/DZWpOsRxBjeXSZUvrch2mE5VU0W+8UTlWKStlrsJ3xPPbLt8EkHrlKGMC82s67115hwO61cMRrdIGc/bLzclrhF93WwPbnGd9EzIe/KgcUbqMtnwOH0sUTsGYGg==;KrIJ0Id8xwjR58JKSoXepA=="
+secured: "KprjDAHqviRs2jZLsdT5VAqPClsZCG7wFJ9/xX8ckfgct7o7oh+rcoc5DE+8PcKf8JK3d/pkzN96rixl0gc0tqCRsZRWPJXs3UZgJCzQVnyHwLX08fanMEGoit5O6+twBp01fcpH5Y+m2jMZjBigvQpPU5dqHkdTNi4+SfkCW5cB53fU+4XXihWpEYk9AV8qaEE/UWjOUDuvDZoWLOHg0zuBfHiAkt4UE5Pna7T1U8lu7gsmrm00ijQNvNevRT6Vl0Vfs9vN7uMnO8qgBQWEkAIXWQ6h60kHqkl+neXNgHG0s3RF3eNvqklcbNMH6fUD7PIfPG2Q2/zo61AlOtrWWSbQJ5LhNtikugaUpYH0DXk=;WkuiRYD5CcdQ0ZQa4LAEFA=="
 ---
 

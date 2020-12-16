@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,7 +44,16 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
+    excerpt: "The first production-ready integrated solution for enterprises to catalogue, store and share features centrally, and use them to develop, deploy and manage AI applications across hybrid multi-cloud environments Iguazio’s feature store tackles one of the greatest challenges in machine learning operations (MLOps) today - feature engineering The feature store is a key component in Iguazio’s data science platform,"
+    publishedDateTime: 2020-12-16T14:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201216005486/iguazio-launches-the-first-integrated-feature-store-within-its-data-science-platform-to-accelerate-deployment-of-ai-in-any-cloud-environment"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
-secured: "0ctsB8tVGnWwcQFxO0RerMyj8sMD/KaRK8VQfEQCvMQNDcC+qAov6GqdekwYgXVNcCO4OFk1tgFUI3Zs5nJtOmeboEAPcjpBK0qakmf222LmjM2G4cYSklRWevcRtbrxXFttj9ZQusb9q/UET3PwGzjjvfGTSJeikvhd2TG0f+vYkiC7w4DAVngD/mjsNrbKqo8k3jZduMKOLctTT3uelZY31rR+DNwv7tYf9jaOVZAhEXWaxOUpqE2jKdb961ykrghWtI3hpsouyFdzh8RMGOIrdvLg7U+eo1+yYdo4HY9yQYFQ0TPqgXm6bJFN30N5BWO53fmLlMzZ/su//vw7jMXrfpv2fI0g6gt8RkbGwJo=;8eUSu2W3eX3XQjg78ZZdUg=="
+secured: "S57vsc7SlU+5DDEFCPYhRPc8TvJss7sY1gm/aL5I+KorfWV1wLSHI9o+BbfE80pudySzAwkmPilPGiEledDHS9JUU9U8AdS1AETHHJbg973GB+NAoIvGbjWdtqO6UJ9hMyW0018vtIz5N0m+hgh/eNa56BnhMa1GR+5MZSl7pV3ejzti2qSnwXPMjhv6/2okOaG28sUZU2bm9KKQvV7Si5L503FitVrXTv7/Kfe4e5AXyNh9tTFcC9yIUpgzHeEBAKxX7QhoGVJkMkj382NhRESvhBx5iWoYSKAY8mycm+xnHTk0wZuc5soXy3mCU1suV9ha5sZGOFxEjQpQRBQjUlQVMzhpDQH/hOWnE5wHzOP6NeXadrdbpndOZJ0kXTkreji/evB1X/o/B0KuUtNwhW3683M+VSIR9dCiBr/hfbfdSySM9a/vFH5R2MS7MHsBEHmbgkJC9LHzqvQtGbD8sl1F4xlD6xsOioUOvOwaMkwhIz/SxakqPolnHTXCB/YR9oilpGm8u8jlRV4Ac1eSww==;jMryVpVZ0uGQXK3bnJ9LhQ=="
 ---
 

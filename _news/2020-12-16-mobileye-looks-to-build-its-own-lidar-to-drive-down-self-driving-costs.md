@@ -3,13 +3,13 @@ category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
 publishedDateTime: 2020-12-16T04:25:00Z
-originalUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
+originalUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
+webUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2I7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,7 +45,16 @@ related:
         width: 500
         height: 272
         isCached: true
+  - title: "Video: Watch a one-hour journey in a Mobileye self-driving car"
+    excerpt: "In the test, Mobileye’s vehicles were deployed in Munich and within a few days were operating in the region using vehicles to build maps before the self-driving cars start driving. “High-definition maps are crucial to a safe and robust self-driving system,"
+    publishedDateTime: 2020-12-16T13:56:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16094/video-watch-a-one-hour-journey-in-a-mobileye-self-driving-car"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
-secured: "1zwFp7pcFd46xbgwiwLrCDtO0TBfkQTYI1EMwAPi14KOCByo6ep/xiVcmfoSz4FhNdu9IZ8KjFwx4AAFPDwy852NfWCskDnwfeGgyfKAqUfY+rUdVzjZWlYUstSOmfP8mt6tWQoqC5vgAjczMyWhVftdKQdPQELKv+sYWbJILAcAl5Y6OOYNM6k42LqgPtSs37luK341xP56SrNRGGrZdKrg8ex4taaSR9u4Q+nRgTo22o51tpSsPJyTlZXBZmf3tHOjEiF3jmJkm0/nl+HsgLz9PnlOq3ibTS6aKA3wsgFkmrgT0SwPRlr1Bt5/RekpyPBZiXoJv17M0dkXdnpTvHM+JsEbkRIgHJOjbNJ7IBk=;EpnzDLRLmKVT6NIvCwIVMQ=="
+secured: "+Kr50YGHqr11kOFw6KnVMmJUWokp1Iphu3lx9MpQVqOhvf0lvkKRfAZ8Ffn2iJzfYbOclpJBcXuNxC8T0fgHSy6HRw4bNRXUl8/bJpRkmDhc8pkKH6VX9wzqGJIwl+UI5lfDeoAPpyt7QBXknvvYSsRfI5bEBV7N/7xBip43VZYodmePTDzoY7rK5JznUblBPvwxuq/5KpAWez97oHYKIuW7oU3zsfqXXZV43jIJPYYdi92i8HI7EQ1Rr+9U0wGo2sy8jYBSio+b2abpDt3UnML6DpzN4H2GWVQfMJB4dQRck/jAzIF7+X3S9AFBb8c4fdS6hZd2Uo2suiYWHfuA2diHc3FSoJfUcBheWr9GdtU=;cq22MiQLAsYzNqfRSs1aqA=="
 ---
 

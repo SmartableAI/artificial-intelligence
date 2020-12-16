@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This supercomputer centre has chosen Nvidia for its AI"
+    excerpt: "Performance Computer Center Stuttgart (HLRS) in Germany will use its GPUs to accelerate its journey to AI. HLRS is one of the largest supercomputer centers in Europe and since Michael Resch became director in 2002,"
+    publishedDateTime: 2020-12-16T12:05:00Z
+    webUrl: "https://www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-562.jpg"
+        width: 797
+        height: 447
+        isCached: true
 
 secured: "1YWBSQLdxBKLU5Vzvw5yqeWShKCoYlY5rs+A29RmN8WrKm9Ozlstyu+CvUYNQcck2P+tTWWQw0aiVL4zQsc9AEecoE6n3g/8QBu3fQx3FOZhAkJjDbtc9N5vgJkyrrnVbAq35Z16qD4SRZrMtxf2NPVbi05eQ3o0AWB2mx3b+MqgmfWTmbID/BuqnECm+tRkZzY6U2XKUS9fk42OZza09U8MBWz5KiSaupVEyfl7ZgmJttyYgZDlyAWv5949dOfcTpFiRPK1sVc5pc3iMVPm9Fp858C7PpgLRzKZltJneXslOQ9UwYPDfNzbrSaaNkkisKKeodOMlQsF3sGEohmNLhSE0GPT0mffMQAOtFXP19CUoU71/gz66dRvxvAaNZ+LSB4vG9I9POhTsVY2SeVs3agKXzrZ8k5F1pGrp9k8jAR1XBEyUUykJB6LV/dpinXzfMZxCc7J/E/uCpU3fNaV3A6AAoUrE3XfAXTtSx24jSuhblY/mwryYpbF5D3jrxF1pDBT0HNXd6308yflAoihqQ==;kXGvrz20Sh1UuTeWW48aMA=="
 ---

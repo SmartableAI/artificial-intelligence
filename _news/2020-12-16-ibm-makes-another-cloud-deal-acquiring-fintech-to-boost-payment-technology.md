@@ -57,6 +57,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "IBM acquires Montreal fintech solutions provider Expertus Technologies"
+    excerpt: "IBM has acquired Expertus Technologies Inc, a Montreal-based fintech company. Expertus, a financial technology firm that processes more than $50 billion in"
+    publishedDateTime: 2020-12-16T14:00:00Z
+    webUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770"
+    ampWebUrl: "https://www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-acquires-montreal-fintech-solutions-provider-expertus-technologies/116770?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 44
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/07/Acquisitions-header-2.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
     publishedDateTime: 2020-12-16T12:06:00Z
@@ -69,6 +85,6 @@ related:
       domain: sify.com
     quality: 24
 
-secured: "5eGqNzir2nivTZqfVt5X+zsOSWRj447ES8rt3ak3SahyhexAtbN5sOhnWCDSSg/HFS1dTTf62Lhjd3K/Z82czpKuqE8a7S7oTcJEPp4gHZs59uYPmP/U2KwrjmvwMyjfErIk1OG8bOWFIpnxhLa+Mz62MWK9wWqMb8uiJc560L699T2bvF/G6EWVILBdPXKvDhQzcyBA/iTA17wxCjpY+g3H6FsCIw6nBJgn1TamOLDzPW5OjKj5FbEWIB6mcoTMajoAa2cshQO7/5ajehwFOB8VOrX0xKTxxK4oXHfiWB2N9pqjdY7ciwV7Yn8x8GnzBOq+9lM8wPLRipAj4GBGeS/pG1OB4WQhQDHRhhMBgoE=;I3PCuMtudV0vKjiVXI5VXA=="
+secured: "kYGHesV3/KbSRfsyWu1aRhWcVZ5+zOq7m16l3zDglV026hIc1E3ELKTuNMyB3T+ZAJ2miMrxMo4GaHkk/ICEyl/TyW1bQZs5HKhMgHshAPJ7CdoR6STSOJEI3Zqfb+va17+/uYTzRk69zBUHJHxWxPBMA7qG9y8rPsnOXbA0hzJTa8shmVDQPCWlKEARIYy95eLcDAjfAhPgRxkCdC6YVIXlzN/BQsCmRuhSXJha+OA4qsczrgAsdv4m8F51Ljs2NnGmHbhgMfdnI2WQG5jXjk7zi5gHMVF/pSmqg9bC5N2kGXN8EjY69ukIyYnNh2XPsXAKPHi1FE6EepEia4gfXGZ3aGKo5ufOSIUPTmUou8UCMrRNWVVoC7SAxQEzSZgsVwVPlnMYvAcKH54zpweKrUtKBsfVsm2PYfgbtN9HYM3LVhQEWKCx4xtTgg4vCVWVXf5USGwRiyz2oeJWBp77C3oRs1bFKhyx7/fpA7DiuysZFChnOyJRFwC1pVLLosK0i9IKleS8nNE702J4p0Ewtw==;GopKJwpUpHY//3jkdaKQuA=="
 ---
 

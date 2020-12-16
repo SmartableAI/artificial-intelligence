@@ -3,8 +3,8 @@ category: news
 title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
 excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
 publishedDateTime: 2020-12-15T23:27:00Z
-originalUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html#!"
-webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html#!"
+originalUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html"
+webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html"
 type: article
 quality: 4
 heat: -1
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
+    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
+    publishedDateTime: 2020-12-14T17:38:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/?sh=78e0557ec916"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 172
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7a1109fbc1575bcbd741d%2F0x0.jpg%3FcropX1%3D353%26cropX2%3D2419%26cropY1%3D193%26cropY2%3D1742"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Amazon's Zoox reveals self-driving taxi"
     excerpt: "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats."
     publishedDateTime: 2020-12-14T14:56:00Z
@@ -50,22 +66,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/aPDrvFp3YlE0pjJYWqV6vZlwBAM=/2020/12/14/ed965842-f0e3-4dd5-86d4-583dd57991ca/ogi-zoox.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon-Owned Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
-    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of the car,"
-    publishedDateTime: 2020-12-14T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/12/14/amazon-owned-self-driving-taxi-zoox-reveals-its-secret-vehicle/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd7a1109fbc1575bcbd741d%2F0x0.jpg%3FcropX1%3D353%26cropX2%3D2419%26cropY1%3D193%26cropY2%3D1742"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Zoox self-driving robotaxi revealed – Amazon cash builds bidirectional pod EV"
     excerpt: "Autonomous vehicle startup Zoox has revealed its self-driving car, a purpose-designed robotaxi that the Amazon subsidiary says is ready for the road. Founded in 2014, Zoox was bought by Amazon"
@@ -342,6 +342,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "DTob5C+5yzVHhQN0q4o5KS7guT2rHLmnIuoAHPrsx29UbHCZ+R5VhMp7zIivXfTP2CQHDwkSGJu0As4etUgfctMCeHZOHOBjZtrQAwe64muSC5zohJSAajZFuAs3V7769SGfz2/9qsyLeWXYXcfkz3N+0AiLe9qyxJ6ihhWaVmHdX0vgjTWy5Au4psvNCDORWR5WlApGYqXIxiHzdpKh9I41E8DBNPHOueeWL6bdYYCJHB/Uf2LvNIRB8Jrab39XFVS0xWc0qSmBI0P+Rx8d9LAjMUOVP0yVfBXNykX4pCkCrE0Zol364ulso3zIgESB+1G9B0lBrsrfaTwHIrOfXuvqMZjfLfyokmEjIpSFv3A=;qivDHAkoeY49V/RkPLuEAg=="
+secured: "kUa+ABm3g/nl5x7KA0dxtBZAfcNM7LXlCHm5J8jyfQXstZYjS8pIkIg1DZVW4OAoQUuVRX1YF0GHvHf3XCwbkk1bM8YqHFYZyl+wbJlcQjjJfu39Axd58jOoA0AD7DfcpXGkY+P3a9AHO94Z1AXRg8Ab5f1HIsmA3MI6zysyUbDrqcB1tqSgneq7vd4YkpY1G7vRUaQTT722R7YyGPJBX63JRC8YjPXNYNuWaPAqcE1tTABKHar5EHT+nVLXNhA9lw3vQuW9XdVpFMHuM7CIvLQLkcVFE7v1eLG5Lpg9883K5alFU5PlPZv2KI4TSm+vkCenzQ3GW2pKqLHj2cFVT4bmQtMZqXNbFkjInyto/ro=;zAMATd8i4PPox1a0WyokZQ=="
 ---
 

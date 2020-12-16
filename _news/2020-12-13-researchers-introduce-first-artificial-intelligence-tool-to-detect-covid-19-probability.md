@@ -51,6 +51,15 @@ related:
         width: 2150
         height: 849
         isCached: true
+  - title: "Sheba Medical Center Inks Strategic Agreement with Iguazio to Deliver Real-Time AI for COVID-19 Patient Treatment Optimization"
+    excerpt: "Iguazio was selected to facilitate Sheba’s transformation with AI through clinical and logistical use cases such as predicting and mitigating COVID-19 patient deterioration and optimizing patient journey with smart mobility Iguazio,"
+    publishedDateTime: 2020-12-16T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201216005453/sheba-medical-center-inks-strategic-agreement-with-iguazio-to-deliver-real-time-ai-for-covid-19-patient-treatment-optimization"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "WkLFs0VboSj8P+nnx+mDbcNE+t0RLWKZM0exD/BvoDkBVMCx8nHoY7G1tvDYRotFtViO01MYhrJgjyReR38aZOmTf15aYr0HXEijxAkN/+FSBciYxkFMVjA37bOz01zWliBNKHazSTARO0lSQpFePYRqdKQSc8Ew/DToPAZaT7iH4HwfpK2LFVtjZwXU5GArdQwV0MSyB62qWRtLcaJ+q9yr4kO+RjzOpVc4agBMH46keB69ZKnuK+deNJUFKTefxdoSvf8lszdRn6XuSgO6J28FVkOCvfZfZQooIWLtT629km3vNE5uZMCojDQvGvQulI4QFo/lktM+UHSrss4aWmNW997B5losoe4uOMciz+I=;l9vhgLPadEYp2ZGo+KLDBw=="
 ---

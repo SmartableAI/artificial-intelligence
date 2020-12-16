@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-enga
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,7 +52,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 11
+  - title: "Sheba Medical Center Inks Strategic Agreement with Iguazio to Deliver Real-Time AI for COVID-19 Patient Treatment Optimization"
+    excerpt: "Iguazio was selected to facilitate Sheba’s transformation with AI through clinical and logistical use cases such as predicting and mitigating COVID-19 patient deterioration and optimizing patient journey with smart mobility Iguazio,"
+    publishedDateTime: 2020-12-16T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201216005453/sheba-medical-center-inks-strategic-agreement-with-iguazio-to-deliver-real-time-ai-for-covid-19-patient-treatment-optimization"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
-secured: "9iflw4LLpn2KWoy0GkSDS1JYY/VTyDpws6iDtiQ5ewOTpzDX4k0MwKbw2oIY8uKklfTbQ3ri6iAU1qN2Nx0BIMSGf2mkIaT7YCkwyyV5OopQVXj2CUmQ01sIbA+ZkS8sdz8zftSSsFDmGk50ugcLc4S+Weu/n8LDmhh3+OPQOY+Z3I9TKXFFAR+e9yUF1GcScle+qdvnYplpFyyejNXihCoUtL1T8Mxb8VX50qS3DRYhUhS3RAWA3b/g45MjwJ081Owik3RrnqbKEVV0d7bHMAPIVIQOyFocHgAB/dlUivLEsCM6zNs8wKqEptHOPF3TncBC4DxEQ5WZr9J06j2Jq6N/2mjuueMr7qzDjIJadt8=;gPFvHUcPwCcfbTybqH0TwA=="
+secured: "XAJEgzAjbDdkJskiJUlSr+G7WeoY3el4OtaYpQpOLiOPkN5Dv6PqUYX3LlW2132PO1SE/z9wIykUftsxPZkNT9UZ7PFsDFjUUKG0w1weTng/RU4xftLaT/ZaWtAfBd1NQrcIeZKXsKKUUPSb1Y+qgbxfW67a0N057meSMzyin8L75FQ94m7j1JtQwYg1lntlxPmhYQp6Lkr+FeJwSs1r4C8CVfoGfDc8G6hCUaTJ2ulzTfFHr1DZPs/mo7osef2OtrrN14JM+cPI3vZKhEkg9X5HCzzqNffSN8b/4MXZlyoZqcymhCGLKoOoLcGK584+Sap7T/Q5/kojvv5Yi6fdTpX84+ku/ibt+KlOnhKlsueVGIlse1Cb0nHM3eqNhJe9gMuKNjgtJ2MSu0V0gzNsWdlBVZIyusFYptW0LBkYwd5M9XhQYf0Azgz1orL1cFnigm2ByJusOPnLl6jG+pILK3zGcEYtvSJqkWmXQODO4IckiWBg9zp/FMT0f+ateoAUMfYNOw8RXWZ4uKTMsaoyzg==;PKFsCz0Apj0Z8KCJC2tbyA=="
 ---
 
