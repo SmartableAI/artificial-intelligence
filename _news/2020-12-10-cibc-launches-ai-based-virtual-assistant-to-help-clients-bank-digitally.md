@@ -3,8 +3,8 @@ category: news
 title: "CIBC launches AI-based Virtual Assistant to help clients bank digitally"
 excerpt: "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ..."
 publishedDateTime: 2020-12-10T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643"
-webUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636"
+webUrl: "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636"
 type: article
 
 provider:
@@ -20,12 +20,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg"
-    width: 400
-    height: 365
-    isCached: true
-
-secured: "nME3HZ6eDVUJI/mJEnBSHo8iGtw1ERPcQ1wIgJsIuEhsrUOVqb5esat6WKx6USgw5qHFUKNqqwJg6yetBkEkYtpEX1RWVr9V8edLO+fOGbiK0NGqcuqr2+19XtI1uN3ql/MaPc044vtrdQ2AgdQ48Gl1s4leh9Tkq6+mF6mAI6WX3d3FIaNppXYu2OYyI4odrR+KFp69d3goLaA6be/lo/mFcqL1Tb5ONX6/2JHtszcML4GMPthwafG3ymFrc3HrmBf42BrQ+h5lj2KiPQmge3/UG0/aLc3A7EiDHiBqLr72Q3J10jOU6gAWerApzMgJY19cNHqQ4Tkx7XfNlPvsHMd67v+mS3CMQEtfthfa8ko=;4eptZb0TYYIzDYK0QtKz3w=="
+secured: "5u2I1t3maHBCAjOhsxJh0bv5uSzYZhHOzaXQXs4LDZ3gDyIrBvzOyQpm8/xXHXc8MFjYV68+7Gprd7+enxq4spVpNjyjbBYjCRcy+2CJL0x6WprjR6l48pOuUOtProkUPkbD3IOLSaciJfX5VwVCS6SirxKzE6DYvf8kjBLnw7yOcgAD3sujg44/eOcDrC/k/w06356AGT6x6Bvzjm/MfsdM71AsBoNLaIoq8+uFe1SMDM00ZYJbfRQPEJSJFwL8O6hiey/JA1WmZj0w+84XpBj4TAi7BbmNTI5Kf36ltHvrIsYcsrugsjqCBaOXyMR5C5RBim0WxCMhT588a/BVZ+sE0q07uWcdOIVMLVuCYMs=;JKFLM/ZONMJusKZxkwwYiw=="
 ---
 

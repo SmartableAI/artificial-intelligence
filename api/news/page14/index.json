@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-04-using-jax-to-accelerate-our-research.md",
+      "title": "Using JAX to accelerate our research",
+      "excerpt": "Here we share our experience of working with JAX, outline why we find it useful for our AI research, and give an overview of the ecosystem we are building to support researchers everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
+      "originalUrl": "https://deepmind.com/blog/article/using-jax-to-accelerate-our-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/ZaEyeo80XRS5DaGC-T2Ex2B1kdrfwK-93Md7sqf9ijfb4AU88Zu61yFOhTRnhRKCOR2OQ0z2QQmUdWxrT4XXe_QTP_X1HJSVfpqe",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-daily-crunch-google-fires-co-lead-of-its-ethical-ai-team.md",
       "title": "Daily Crunch: Google fires co-lead of its Ethical AI team",
       "excerpt": "Google fires a leading researcher, Stripe launches a new banking service and WarnerMedia shakes up the theatrical business model. This is your Daily Crunch for. The big story: Google fires co-lead of its Ethical AI team Timnit Gebru,",
@@ -1174,59 +1226,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Research Report, Growth Forecast 2026",
-      "excerpt": "The major vendors in the Healthcare Natural Language Processing (NLP) market aggressively focused on enhancing their contributions to meet the business goal. Request a sample Report of Healthcare Natural Language Processing (NLP) Market Analysis Report at:  Global Healthcare Natural Language Processing (NLP) Market to reach USD XX billion by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-research-report-growth-forecast-2026-2020-12-03?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

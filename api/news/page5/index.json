@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-11-the-new-laws-of-robotics-building-on-asimovs-science-fiction-legacy-in-the-age-of-ai.md",
+      "title": "The new laws of robotics — building on Asimov's science fiction legacy in the age of AI",
+      "excerpt": "Way back in 1942, science fiction writer Isaac Asimov created the Three Laws of Robotics. Now, an AI expert has expanded that list in a bid to ensure the robotics revolution works for humans, not against them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
+      "originalUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/da758a2d6f4454e05854a74f2abb1c4b?impolicy=wcms_crop_resize&cropH=420&cropW=745&xPos=0&yPos=229&width=862&height=485",
+          "width": 745,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/12947424",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12947424",
+      "publishedDateTime": "2020-12-10T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-how-ai-and-machine-learning-moved-forward-in-2020.md",
       "title": "How AI and machine learning moved forward in 2020",
       "excerpt": "AI and machine learning saw several steps forward in 2020, from the first beta of GPT-3, stricter regulation of AI technologies and conversations around bias.",
@@ -914,22 +957,13 @@
       "title": "CIBC launches AI-based Virtual Assistant to help clients bank digitally",
       "excerpt": "CIBC is introducing a conversational AI-based Virtual Assistant powered by IBM Watson Assistant, that can perform banking transactions and answer questions about everyday banking. CIBC's Virtual ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880643",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cibc-launches-ai-based-virtual-assistant-to-help-clients-bank-digitally-1029880636",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1372408/CIBC_CIBC_launches_AI_based_Virtual_Assistant_to_help_clients_ba.jpg",
-          "width": 400,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1182,57 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-this-ai-powered-growth-tools-helps-in-getting-instagram-followers.md",
-      "title": "This AI-Powered Growth Tools Helps In Getting Instagram Followers",
-      "excerpt": "What is SocialMeep? SocialMeep is an AI-powered Instagram growth and automation tool that gets you real, organic Instagram followers. SocialMeep helps you increase your brand or business reach allowing you to grow your audience and revenue. Along with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/361367",
-      "originalUrl": "https://www.entrepreneur.com/article/361367",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607585356-MyPost77.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361367",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361367",
-      "publishedDateTime": "2020-12-09T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

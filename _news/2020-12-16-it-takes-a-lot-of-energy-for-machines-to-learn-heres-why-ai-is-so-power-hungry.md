@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-15T21:27:00Z
 originalUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
 webUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"
@@ -41,6 +42,6 @@ related:
         height: 668
         isCached: true
 
-secured: "cqPlxekxk2Toh0ReR1+hEgV9Z8ypvBIDKm48Icu8ABNLPAwQdKkXnxu11arxqGQQak56pRv568gtFdVuhSaW4HzSvZp34M5+FShJRmh8lLSCWmFN1WlJIe5tXntNBd7RuQXqqp06mNHSxGQWKgtSpu/Su9n2WRW8x9OkqBlOeEAz0tf2fnecEh1Zft+VozRDoAblICKOGni5Aq+u8Sb4VmpVKY1EuyTayWrYfx/TTab7M3/lFRqxjCSQjPI2qT9UAdnAMV/y0LwXIvwMiffS2Atwz+5T5+JSJ5TuRufxKU5Zr9uwvuvojyfQrGg7nVHqtyVugUQBblCqrBvPMJzEwPz56ITwpAUnc7zuphfwmMk=;MHsxGCEGGlSsu0NRvFgJ1A=="
+secured: "RnG4Ik1h627fp6qJ/RPwQLO4AVAKYj5iEuNgmb3AqIdpShhf3JXV9tu5pEjN9antkhzQRjCwXpL+ZBrVXRe+vrmJJnqubpdMagT/JIfTSbvgoSrNLqJx24/FnqMySoMCODt6kCwjKDI/Lz0AczKFBOAm2g1ahZDCIBhqEzAH+vtNe7P4lCOLud2HLvI1bwH6hbhw87aChfHexYNhg2JvS+4B5PpGod7dRXNIrLLkEk5aPyGBcXvnAKLxBZQ/hUlbYYlb9VcXZYSjGBoMIXOp3dCJIS3c8IpZE3yejEDy3Lv3bT8aSfmMGyLKBti0M5oT0yx9JsGoxGLkjpj8cMlhhhcCgT0CfJGFAav92mut4NZBLMu3Q+pulzCmJ2K81kXj99HJSvEaX6+FqwBhndsIBYxULm81HcLpN6YebR6jLEBQe43aVSehtE66wMXUfJOB9XKS/nwNsnX9YnK9dtpjy6KRpugIb8GMYO5K49lLRiCXtUl/WKjkNP3YlnToA5ssV6+9Krr5sddAAqBVJkK34g==;GIA2lIwalSHu3LtS426mPA=="
 ---
 

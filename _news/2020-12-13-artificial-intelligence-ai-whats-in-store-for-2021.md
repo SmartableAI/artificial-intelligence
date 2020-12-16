@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "What’s in Store for Fintech in 2021?"
-    excerpt: "By Scott Donnelly, CEO, CapitalBox What a year it is has been.  It has been tough for many – from small businesses, to big high street retailers. We can’t however ignore the fact that the pandemic certainly forced companies to adapt and learn to be agile quite quickly."
-    publishedDateTime: 2020-12-11T08:16:00Z
-    webUrl: "https://www.globalbankingandfinance.com/whats-in-store-for-fintech-in-2021/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Beh-11.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "O4WW6LBfKWKSbInb1m6ZMgc7Ooo//p9dNlQRqem0q1Oe9JOSl3NCQhDTfMXDMFl/PJ1NeenXCf0uLpr2euQU9BUhu5tFCvA6hwBQ5H4DQbt8COLAKENswZke9F5GBAQImL2dhgzKSOhXScy4R4I+JuW48baVYgX0S0CCyHmAAlv4YwtCBbFr39lIPvGIEoSqE9RBysHJ+VAYmcOe9IWqQMUQ1dejhdHx+YKOAJ7S/v3fjfcUAWaHqiy/LWnzuXwoGlJO5ZXTyair5oVuCUQZOaNP5OWElen1YvKAf7BG4VODByLKmAdPzQe2pUx2+6CszumcSNTLYeuatD1oNTuhBXjnYYexTE06RM5aYGGEjamYzdZtjmrv+x/tyJqi3SnKy08PkO+gCkAfVyFj9EyHjC93JtT+NyUFj5iNsY2+FSEE1tLFfvwQjoi4YMwtQJ2VRHDpaMzILTqc6/igLrVPC6+61xCkyRtBosHnb9ZyXjqicz3EiN4mhX+Rk7nuxX08+VC7gBTdEhrylzMj53jEAw==;dpdut/WciAT6IzgeEfv2Sw=="
 ---

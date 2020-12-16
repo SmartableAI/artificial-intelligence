@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
-excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
-publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+excerpt: "(Reuters) - Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the ..."
+publishedDateTime: 2020-12-01T19:45:00Z
+originalUrl: "https://www.reuters.com/article/amazon-com-aws-int-idUSKBN28B621"
+webUrl: "https://www.reuters.com/article/amazon-com-aws-int-idUSKBN28B621"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "8+Way9jozjZiM1UkJuGVuZddTmL9vslyuVMbQi1W2mXbS2mlTgkVfKEAP1VvhH7WrLs2qPeeDOnlZGW8JR1GeAPP3xaNCQqkTGFBkLNR6ZyyNOeodacWzTG+LybhOOde+pmaarOf7DiOiMK8J3PgQlzTwILmkj/EEdVAuti4zsfLEY1nThOb+MixaHTT087psek+bgrz6www8rAYahUCOKGEBLyi2teYbel4PBWAP+lrxWkK7ymZeRQMOEDT+kxCkXHk0Jsj2leilwn8zrPQUmxgaIG5BBXXnmDASdOxbVHnc1dTDnpcidSLJWCRyKf18XoPw4g492i5DYId2yzH7jVmOolKsgM8E73ap8CojsQ=;g9koJZxuB0t7dG+B9ppR6Q=="
+secured: "ozw5+WFogvxQ6Tr0/7nz7OpAlxxhg9748BnfgBaUxXroO0z/ES7QG5HUDRw/78le3vraa0nP1eTaZqKqC9b36jgpoq77nnHZ2r7XJgqeRSGQ8OXQtOm3VXI8f+59Dle9iS1GmuMr+i4f3NwHrwkj53PK1/HA32au/KOvSBzxLpBko28YshGMtc8QSFfrsAgZ0Q+BrwdExNhkOepxLF4hHJ55xHy2/YAKNb5VdQVaWy5Cu32W1farb0Tr3Csj/F9rZjESwBeRDskFC2oOS9ypvnQX4sJk4OwLAFnAgeA9GTt0gf8h6nogkrquBqoxasHbH/ctR1wA/Ufq0vhovETrXYKg0XTxmLD6qQ7TwcCxwYM=;+6DtOLLiHsHtxJqlGFJIYQ=="
 ---
 

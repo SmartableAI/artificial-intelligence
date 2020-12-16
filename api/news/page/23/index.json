@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
+      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
+      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
+      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
+      "publishedDateTime": "2020-11-27T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer.md",
       "title": "Volvo thinks gaming tech can help make self-driving cars safer",
       "excerpt": "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer.",
@@ -1165,58 +1216,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition.md",
-      "title": "This AI tool generates your creepy lookalikes to trick facial recognition",
-      "excerpt": "If you’re worried about facial recognition firms or stalkers mining your online photos, a new tool called Anonymizer could help you escape their clutches. The app was created by Generated Media, a startup that provides AI-generated pictures to customers ranging from video game developers creating new characters to journalists protecting the identities of sources.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-26T115747.122-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
-      "publishedDateTime": "2020-11-26T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

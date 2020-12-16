@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-15-aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan.md",
+      "title": "AWS DeepRacer League announces 2020 Championship Cup winner Po-Chun Hsu of Taiwan",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-league-announces-2020-championship-cup-winner-po-chun-hsu-of-taiwan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/15/Thumbnail-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T15:54:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
+      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
+      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28P2I7",
+      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28P2I7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JP",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW",
+      "publishedDateTime": "2020-12-15T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-baidu-rockets-higher-on-electric-vehicle-plans.md",
       "title": "Baidu Rockets Higher on Electric Vehicle Plans",
       "excerpt": "Shares of Baidu (NASDAQ:BIDU) surged higher today on rumors that the company is considering entering the electric vehicle (EV) market, according to a report by Reuters. Baidu, whi",
@@ -34,58 +139,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs.md",
-      "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
-      "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544660587&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1K8",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2I7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7",
-      "publishedDateTime": "2020-12-15T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -421,7 +474,7 @@
       "originalUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -525,7 +578,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1433,58 +1486,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-elon-musk-makes-clear-his-stance-on-self-driving-cars-ai-oversight-and-his-ad-for-mars.md",
-      "title": "Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'",
-      "excerpt": "In a recent interview, Musk discussed his thoughts on a self-driving car revolution, government oversight on AI, and his timeline to get into space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd6a35eadd8400183df672?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12?amp",
-      "publishedDateTime": "2020-12-06T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

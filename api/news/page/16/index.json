@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
+      "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
+      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
+          "width": 619,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "publishedDateTime": "2020-12-02T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-intel-announces-gold-release-of-oneapi-toolkits-and-new-intel-server-gpu.md",
       "title": "Intel Announces Gold Release Of OneAPI Toolkits And New Intel Server GPU",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper as a few weeks ago, Intel announced its gold release of the oneAPI toolkit and its first discrete graphics card for the data center, the Intel Server GPU.",
@@ -1178,57 +1222,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission.md",
-      "title": "Genesis Therapeutics raises $52M A round for its AI-focused drug discovery mission",
-      "excerpt": "Sifting through the trillions of molecules out there that might have powerful medicinal effects is a daunting task, but the solution biotech has found is to work smarter, not harder. Genesis Therapeutics has a new simulation approach and cross-disciplinary team that has clearly made an impression:",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/",
-      "originalUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/04/biotech-molecules.jpg?w=1024",
-          "width": 1024,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/02/genesis-therapeutics-raises-52m-a-round-for-its-ai-focused-drug-discovery-mission/amp/",
-      "publishedDateTime": "2020-12-02T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

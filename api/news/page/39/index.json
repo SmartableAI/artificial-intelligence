@@ -2,6 +2,50 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-11-17-natural-language-processing-nlp-in-healthcare-market-next-big-thing-cerner-3m-ibm.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Next Big Thing | Cerner, 3M, IBM",
+      "excerpt": "Global Natural Language Processing NLP in Healthcare Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
+      "originalUrl": "https://www.openpr.com/news/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb17369727_g.jpg",
+          "width": 736,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
+      "publishedDateTime": "2020-11-17T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-ai-decision-automation-where-it-works-and-where-it-doesnt.md",
       "title": "AI decision automation: Where it works, and where it doesn't",
       "excerpt": "Some companies are using AI for end-to-end decision-making, but not all decisions can be made without human intervention. Here are some real-world cases. As artificial intelligence (AI ...",
@@ -1134,41 +1178,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1169146&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1169146&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

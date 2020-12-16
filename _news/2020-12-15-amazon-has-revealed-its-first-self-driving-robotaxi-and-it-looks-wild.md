@@ -301,6 +301,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
+    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
+    publishedDateTime: 2020-12-15T23:27:00Z
+    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html#!"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 4
 
 secured: "2z2N73XdR4dUKgh00547Pe7KQt4ltcpPUmgR1kYkAjDkcis91PG+8MNoXtJdcEtzFi62r+sdQ3OpivXfVfMEPktga/XJ1CAD7ysN05ktKbbRQnK0dFvnQsI8HRzEumIyFml+duoQA7PzyYK4EsIGrhqfEl3hluWIEgTh5m0YUpMqhuAP5sxYwl0icpdlyB4s1mAq02L5t4EUc5Ddzc+W2/pXKuaDIGF1doLqnqNrBWsiuG9y9KoS+ETV4ccq1gO24vJr+Sc8WZ/Z4mwkTvjUQvjiPOZr1Pc4FcxnoAeE43voWD4yw9Wxnb0bLBliplKZUAhUUjrA7KAWhMIqzngwNPgbIVNy2tR7jmuB4VVGOA8=;ZBsft1WWWy7zYNZEY2D9ag=="
 ---

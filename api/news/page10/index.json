@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-08-europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020.md",
+      "title": "Europe’s funding for deep tech like AI and VR fell 13% in 2020",
+      "excerpt": "As European startups have tried to carve out a competitive edge against the U.S. and China, there has been a big push to promote so-called “deep tech.” And in recent years, there had indeed been a surge in European startups that were developing products based on scientific breakthroughs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/",
+      "originalUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Europe-e1607356671199.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/07/europes-funding-for-deep-tech-like-ai-and-vr-fell-13-in-2020/amp/",
+      "publishedDateTime": "2020-12-07T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-uber-sells-atg-self-driving-unit.md",
       "title": "Uber Sells ATG Self-Driving Unit",
       "excerpt": "Monday marked the end of Uber Technology 's ( NYSE:UBER) attempt to develop in-house autonomous driving capability. The rideshare giant and self-driving tech specialist Aurora announced in a joint press release that the latter has purchased Uber's Advanced Technologies Group (ATG),",
@@ -1165,49 +1216,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-aws-cloud-tech-to-power-mgm-media-supply-chain.md",
-      "title": "AWS Cloud Tech to Power MGM Media Supply Chain",
-      "excerpt": "SEATTLE—Amazon Web Services has reached a multi-year deal with Metro Goldwyn Mayer (MGM) that will power MGM’s media supply chain with AWS cloud technology to help distribute its TV and film content across multiple platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "originalUrl": "https://www.tvtechnology.com/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fqjU6wF6WGeuL5n3M7NMuN-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/aws-cloud-tech-to-power-mgm-media-supply-chain",
-      "publishedDateTime": "2020-12-07T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

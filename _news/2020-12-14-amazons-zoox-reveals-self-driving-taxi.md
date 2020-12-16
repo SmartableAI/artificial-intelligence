@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 type: article
 quality: 74
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -305,6 +305,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Amazon's Self-Driving Taxi Zoox Reveals Its Secret Vehicle"
+    excerpt: "This morning, long-time stealth startup Zoox, a company founded by a radical Australian designer and a Stanford roboticist finally unveiled their new design that they feel is not merely the future of"
+    publishedDateTime: 2020-12-15T23:27:00Z
+    webUrl: "https://www.realclearmarkets.com/2020/12/15/amazons_self-driving_taxi_zoox_reveals_its_secret_vehicle_653315.html#!"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 4
 
 secured: "46aAiqiVVf8dwklwpPdYOotIQHdxYz/WJBI24CSAR/z011cW2fL3Zz3ERQU2GxnKEhRjT64IJ4ug9SIehKlaTwmlkG4G0nyPJqxxv8qypQsptmNdGpeRKJJ1AR/l4S0p4XPzfgT3ax6C/W5eXVIWXRm0Z9fIrLy89uDSVUDczhRWcjzq/Hl9TV2wpxS2XbrwY1r/3XDsmMW1xY101wvjXvcOF+hvMoTuKY1AjR/Uj4rkB8DtEzrrOBW7fiyY0p/efLgccWkKfFWiebfQe7xI428nTHBngkoqy3YA3aepElxZg6dr7G/8++xYl7bOiMzepyc6th/qaJrQBrM/incz3gNg8Lb4uzqFs4yhY37pYyuEBklpS2BvTi65aK5u+a1P2k9iiNO/X7Rm6Y84AaBzgl1TQQWmfIh8bGHrfDvAeAcDSsqifmvNiIWFJEt78eD+9ODibssFY3GPlSTltKo9ym+cfV5okXVknCh7W8pTGZ859t6y2FSuR6s97+KlCIdvdarqV01yYGIWL8R4lZTUIw==;DanyjkP3bh/q/BBgw57cbg=="
 ---

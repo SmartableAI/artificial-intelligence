@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-11-bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more.md",
+      "title": "Bringing data back to the future: Forecasting supply chains with savvy data usage, deep learning, and more",
+      "excerpt": "Historical insights are routinely deployed to determine market forecasts, but how does one predict shifts in consumer behavior related to an unprecedented modern plague? The answer: Clever data use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/12/11/0eea8d4a-e8e0-40b4-8444-869d5c3d7aa3/resize/1200x/0b738c38ac165efdd7d7439d63bbc47a/monsitj-3.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/bringing-data-back-to-the-future-forecasting-supply-chains-with-savvy-data-usage-deep-learning-and-more/",
+      "publishedDateTime": "2020-12-11T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-teachable-ai-will-help-alexa-users-set-up-preferences.md",
       "title": "Teachable AI will help Alexa users set up preferences",
       "excerpt": "Amazon says that in the coming months, Alexa customers will be able to 'teach' the virtual assistant their preferences.",
@@ -207,7 +259,7 @@
       "originalUrl": "https://www.cnet.com/news/facial-recognitions-fate-could-be-decided-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -813,19 +865,19 @@
     {
       "path": "_news/2020-12-11-study-details-first-artificial-intelligence-tool-to-help-labs-rule-out-covid-19.md",
       "title": "Study details first artificial intelligence tool to help labs rule-out COVID-19",
-      "excerpt": "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study conducted with collaborators from the University of Vermont and Cedars-Sinai describes the performance of Biocogniv's new AI-COVID software.",
+      "excerpt": "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study describes the performance of Biocogniv's new AI-COVID™ software,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.html",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/lcom-sdf121020.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/lcom-sdf121020.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/8-researchersp.jpg",
-          "width": 639,
-          "height": 426,
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -833,13 +885,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-tool-labs-rule-out.amp",
-      "publishedDateTime": "2020-12-10T13:51:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T13:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1114,10 +1166,10 @@
     {
       "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
       "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
-      "excerpt": "KNOXVILLE, Tenn. and NASHVILLE, Tenn., Dec. 10, 2020 /PRNewswire/ -- Lirio, a leading behavior change AI company that uses Precision Nudging™ to",
+      "excerpt": "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lirio-recognized-as-best-ai-startup-at-ai-summit-s-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-1029883114",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1127,21 +1179,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:56:00-08:00",
+      "publishedDateTime": "2020-12-10T11:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1150,8 +1193,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1202,49 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-the-new-laws-of-robotics-building-on-asimovs-science-fiction-legacy-in-the-age-of-ai.md",
-      "title": "The new laws of robotics — building on Asimov's science fiction legacy in the age of AI",
-      "excerpt": "Way back in 1942, science fiction writer Isaac Asimov created the Three Laws of Robotics. Now, an AI expert has expanded that list in a bid to ensure the robotics revolution works for humans, not against them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
-      "originalUrl": "https://www.abc.net.au/news/2020-12-10/new-laws-of-robotics-what-they-mean-for-ai/12947424?section=technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/da758a2d6f4454e05854a74f2abb1c4b?impolicy=wcms_crop_resize&cropH=420&cropW=745&xPos=0&yPos=229&width=862&height=485",
-          "width": 745,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/12947424",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12947424",
-      "publishedDateTime": "2020-12-10T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

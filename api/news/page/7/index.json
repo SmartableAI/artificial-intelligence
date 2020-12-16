@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-10-7-in-demand-tech-skills-to-master-in-2021.md",
+      "title": "7 in-demand tech skills to master in 2021",
+      "excerpt": "IT pros who have worked with natural language processing, automation, and machine learning operations will have the most job opportunities in the new year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/27/7c3ec992-c2b8-439b-9dc5-f52cd95459cb/resize/1200x/ac384d0f97025cd688a727e7951b3337/istock-667954440.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-in-demand-tech-skills-to-master-in-2021/",
+      "publishedDateTime": "2020-12-09T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-microsoft-doubles-its-money-after-backing-c3ai-as-it-goes-public.md",
       "title": "Microsoft doubles its money after backing C3.ai as it goes public",
       "excerpt": "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud.",
@@ -1062,65 +1114,12 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
-      "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
-      "excerpt": "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,",
+      "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
+      "excerpt": "AWS Announces Nine New Amazon SageMaker Capabilities Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1085999578.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
-      "publishedDateTime": "2020-12-08T18:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-israeli-martech-startup-exceedai-banks-4m-in-seed-money.md",
-      "title": "Israeli martech startup Exceed.ai banks $4m in seed money",
-      "excerpt": "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!",
-      "originalUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2020/12/08/aws-announces-nine-new-amazon-sagemaker-capabilities",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1130,21 +1129,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T18:33:00-08:00",
+      "publishedDateTime": "2020-12-08T21:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1153,7 +1143,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
         "AI"
       ]
     }

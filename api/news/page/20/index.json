@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-01-computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027.md",
+      "title": "Computer Vision Market Analysis with Key Players, Applications, Trends and Forecasts to 2027",
+      "excerpt": "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-analysis-with-key-players-applications-trends-and-forecasts-to-2027-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-amazon-is-launching-new-industrial-ai-tools-to-help-companies-monitor-productivity-and-worker-safety.md",
       "title": "Amazon is launching new industrial AI tools to help companies monitor productivity and worker safety",
       "excerpt": "Amazon AWS is launching a series of industrial machine learning tools aimed at helping companies use artificial intelligence to monitor factory workers and machines, the company announced in a ...",
@@ -1118,58 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction.md",
-      "title": "Alphabet’s DeepMind achieves historic new milestone in AI-based protein structure prediction",
-      "excerpt": "DeepMind, the AI technology company that’s part of Google parent Alphabet, has achieved a significant breakthrough in AI-based protein structure prediction. The company announced today that its ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/",
-      "originalUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1279331936.jpg?w=1024",
-          "width": 1024,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/",
-      "publishedDateTime": "2020-11-30T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

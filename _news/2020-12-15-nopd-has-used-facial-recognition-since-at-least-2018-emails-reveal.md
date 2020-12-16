@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Trouble With Facial Recognition Doesn’t Justify a Ban"
+    excerpt: "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error."
+    publishedDateTime: 2020-12-15T23:45:00Z
+    webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-272359/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
     excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."
     publishedDateTime: 2020-12-12T03:08:00Z

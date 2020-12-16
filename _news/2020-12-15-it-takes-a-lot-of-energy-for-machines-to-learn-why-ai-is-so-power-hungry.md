@@ -35,7 +35,7 @@ related:
     provider:
       name: GCN
       domain: gcn.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"
         width: 622

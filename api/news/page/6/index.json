@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-10-this-ai-powered-growth-tools-helps-in-getting-instagram-followers.md",
+      "title": "This AI-Powered Growth Tools Helps In Getting Instagram Followers",
+      "excerpt": "What is SocialMeep? SocialMeep is an AI-powered Instagram growth and automation tool that gets you real, organic Instagram followers. SocialMeep helps you increase your brand or business reach allowing you to grow your audience and revenue. Along with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/361367",
+      "originalUrl": "https://www.entrepreneur.com/article/361367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607585356-MyPost77.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/361367",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/361367",
+      "publishedDateTime": "2020-12-09T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-lenovo-shows-new-data-management-solutions-for-hybrid-cloud-ai.md",
       "title": "Lenovo Shows New Data Management Solutions for Hybrid Cloud, AI",
       "excerpt": "Lenovo has considerably expanded its business customers’ options for working with hybrid cloud, analytics and artificial intelligence (AI).",
@@ -1173,58 +1224,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-7-in-demand-tech-skills-to-master-in-2021.md",
-      "title": "7 in-demand tech skills to master in 2021",
-      "excerpt": "IT pros who have worked with natural language processing, automation, and machine learning operations will have the most job opportunities in the new year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/7-in-demand-tech-skills-to-master-in-2021/",
-      "originalUrl": "https://www.techrepublic.com/article/7-in-demand-tech-skills-to-master-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/27/7c3ec992-c2b8-439b-9dc5-f52cd95459cb/resize/1200x/ac384d0f97025cd688a727e7951b3337/istock-667954440.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/7-in-demand-tech-skills-to-master-in-2021/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-in-demand-tech-skills-to-master-in-2021/",
-      "publishedDateTime": "2020-12-09T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

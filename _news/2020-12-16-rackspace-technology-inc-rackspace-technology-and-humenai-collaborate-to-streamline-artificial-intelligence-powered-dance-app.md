@@ -20,16 +20,14 @@ topics:
 
 related:
   - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
-    excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users  visualize themselves conducting complex dance moves. Rackspace Technology’s team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced  infrastructure cost."
-    publishedDateTime: 2020-12-15T16:05:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/13275244-rackspace-technology-and-humen-ai-collaborate-to-streamline-artificial-intelligence-powered-dance-app"
-    ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/13275244-rackspace-technology-and-humen-ai-collaborate-to-streamline-artificial-intelligence-powered-dance-app"
-    cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/13275244-rackspace-technology-and-humen-ai-collaborate-to-streamline-artificial-intelligence-powered-dance-app"
+    excerpt: "Human.Ai Expected to Save 70% on Infrastructure CostsSAN ANTONIO, Dec. 15, 2020 (GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading en"
+    publishedDateTime: 2020-12-16T00:32:00Z
+    webUrl: "https://www.generation-nt.com/rackspace-technology-and-humen-ai-collaborate-to-streamline-newswire-1983393.html"
     type: article
     provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 39
+      name: GNT
+      domain: generation-nt.com
+    quality: 19
 
 secured: "XednA06UHcNcSyb7bUGK0GJYHZJHW+VkBdvF0KjMxU9Cf33PUDY3l0mRFJzBC81JbDUZ6b9+xztb2WueF6NNIxFejfAt8onT2ZPcEa/feL/5EU7nP0Mcwgtfz+/JyTDdD3a2s7ItEiw0xhZeq2FHd1SbjlAjZp+UA2JNn0JxVEcEcaOP0365es7y3UO9IJp1vgIT3oztQhGfTR01UyZn/Hrl5x9hZ5wOyWY6jpyVIIrmsPL5uHetio54bKgJ5BUPaYLDNmP2e597iFPmfv5sk4E9gbr+DbeXs+KHHwkc1ZA2AKsxhq/LbU8I+qxgnO9QNQHrlhENr/k4poVvCARFgnmg4iziBlZu5M9DML63Aj8=;zpsK8v6qnNlrpTXSvbHIqw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
 type: article
 quality: 189
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Trouble With Facial Recognition Doesn’t Justify a Ban"
+    excerpt: "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error."
+    publishedDateTime: 2020-12-15T23:45:00Z
+    webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-272359/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "NOPD has used facial recognition since at least 2018, emails reveal"
     excerpt: "Although the practice was long shrouded in secrecy, the New Orleans Police Department has used a partnership with the Louisiana State Police to run face recognition searches since at least"
     publishedDateTime: 2020-12-14T23:30:00Z

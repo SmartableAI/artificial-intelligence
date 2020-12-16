@@ -2,6 +2,102 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-09-aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning.md",
+      "title": "AWS expands on SageMaker capabilities with end-to-end features for machine learning",
+      "excerpt": "Nearly three years after it was first launched, Amazon Web Services’ SageMaker platform has gotten a significant upgrade in the form of new features, making it easier for developers to automate and scale each step of the process to build new automation and machine learning capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1085999578.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-expands-on-sagemaker-capabilities-with-end-to-end-features-for-machine-learning/amp/",
+      "publishedDateTime": "2020-12-08T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-israeli-martech-startup-exceedai-banks-4m-in-seed-money.md",
+      "title": "Israeli martech startup Exceed.ai banks $4m in seed money",
+      "excerpt": "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors such as Glilot Capital and West Fountain Global Fund. Angel backers, including former Red Hat president Alex Pinchev and WalkMe chairman Gur Shomron,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!",
+      "originalUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money?ref=recommender-666565#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-siebel-led-c3ai-exceeds-ipo-target-to-raise-651-million.md",
       "title": "Siebel-Led C3.ai Exceeds IPO Target to Raise $651 Million",
       "excerpt": "C3.ai Inc., the software maker founded by former Oracle Corp. executive Tom Siebel, has priced its initial public offering above the marketed range to to raise $651 million, according to a people familiar with the matter.",
@@ -909,49 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
-      "excerpt": "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-huawei-worked-on-facial-recognition-system-to-surveil-uighurs-new-report-claims.md",
       "title": "Huawei worked on facial recognition system to surveil Uighurs, new report claims",
       "excerpt": "Huawei worked on a facial recognition system to monitor and track China’s Uighur minority, according to a new report from video surveillance researchers at IPVM. First reported by The Washington Post,",
@@ -1201,58 +1254,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition.md",
-      "title": "Cisco unveils revamped Webex experience, including noise cancellation, AI-powered gesture recognition",
-      "excerpt": "Cisco announced a bevy of new features within its Webex portfolio on Tuesday, as the company ramps up its efforts to compete with rival collaboration players such as Zoom, Slack, Google Meet and Microsoft Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/f1cdb0b1-e45b-4d77-8edb-9941bef8c0d7/reaction-dark-1024x576.png",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-unveils-revamped-webex-experience-including-noise-cancellation-ai-powered-gesture-recognition/",
-      "publishedDateTime": "2020-12-08T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
