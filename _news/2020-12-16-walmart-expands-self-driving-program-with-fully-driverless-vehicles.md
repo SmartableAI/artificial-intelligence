@@ -7,7 +7,7 @@ originalUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-ca
 webUrl: "https://www.foxbusiness.com/retail/walmart-expands-self-driving-car-pilot-program"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Huge obstacles to autonomous vehicles have \"scarcely been addressed\" as Uber sells its self-driving car unit"
-    excerpt: "Following news that Uber has sold its self-driving car unit to a start-up, Nick Chater, Professor of Behavioural Science at Warwick Business School, said: \"We have all seen impressive videos of drivers switching on autopilot while on motorways or freeways,"
-    publishedDateTime: 2020-12-15T19:56:00Z
-    webUrl: "https://www.eubusiness.com/Members/warwickbs/uber-self-drive"
+  - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
+    excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
+    publishedDateTime: 2020-12-16T08:20:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
     type: article
     provider:
-      name: EUbusiness
-      domain: eubusiness.com
-    quality: 0
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 46
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/gatik-self-driving-vehicle-use-for-lead-image-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
 
 secured: "LHmk61WaJaG7TgqT1h9EjicX35UlFaxpoFxyXPz6zdukomGsOa1YmCh3StWi7MgmMNgFrxKlBaInhYWRJrwHHbP3U8VLJEuidDv0UXn2hAnH+oDyPKk3sogPyQWwCWhCJ/8X3CP3rZ4qSMDrSY7wWUkiCAN6zG2JhGlt2mdX88bVBWUYafTMJxzjoGJcITjLaFFU1NGwDGR5QXqvgSw6cBNHq3dyU6LjkHX0Yp+68QF1ZCJZ5tsIZUqyEJzKYquwKGud6qZfseljgyqZ4sR4jRhjIkR11oxJPRGRlqXdEZ2B9X78Zvfd1AG6T0Wx4mHYFFaNm158ux3QvsDzgjab5nya2fLNxqIS06axxOz0w8tv9LmZwhgHkdexRfrtNsQkpyaVbn8p6j5tCgHZibNzx/LnOA2C7i3O6djFC76YRLisnrShhuD5ohBjW4Wyi2kVsEr+mlzoS05AAHq4F7ZDFhF4dttR/QBuEnKj2YJL/AYaDzQGEZ/vLbGwta3865aQRuQ4kUar62fw4p5Dt+XCcQ==;I4c2fJBjzQq8/1L63PhFAQ=="
 ---

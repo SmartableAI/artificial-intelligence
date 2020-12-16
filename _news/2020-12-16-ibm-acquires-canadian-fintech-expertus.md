@@ -26,6 +26,24 @@ images:
     height: 274
     isCached: true
 
+related:
+  - title: "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions"
+    excerpt: "IBM Corporation (NYSE: IBM) on Tuesday announced it has acquired Expertus Technologies Inc, a Canadian fintech startup offering payments and cash management solutions."
+    publishedDateTime: 2020-12-16T07:20:00Z
+    webUrl: "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg"
+        width: 2832
+        height: 2832
+        isCached: true
+
 secured: "ROhpvtSB/bVm56CcO61nkj+N4FpVDpMARS2DuaG0/k9UVE0VZ0GcGR4R+QKMCBkJ5XjVRgn9pUZgnONvzBcY+6m7hQsKos38MYrW2e6XdcJXm/jZmDqKhnroz2aTodLfX4o0m9ZOhPlBoCk0qyJmEORn6EUFgNb8CiChKIdIAsvcx9DZNqjKtedSU2sSQRGfYo1kgoqol2EkITMgL/FkioRu/bqTp5aAdg2Wj4nV/Sb5PlbbsLYJD+Q12Xg4jbSZOLJYhmaUBF1n6GRTI5FartYUB21uh8DVUgShoBIoi3UkbFRT0yXduUpkbud8tttWDizEKgnMGt22M4ffikYvJUXl/qvVMs+aas79wkIdxf0=;LiuiJwhVP5kWIsPTdNGNvw=="
 ---
 

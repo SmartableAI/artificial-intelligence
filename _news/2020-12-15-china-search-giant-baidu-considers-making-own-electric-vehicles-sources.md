@@ -89,6 +89,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EXCLUSIVE-China search giant Baidu considers making own electric vehicles -sources"
+    excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with knowledge of the matter, the latest move in a race among tech firms to develop smart cars."
+    publishedDateTime: 2020-12-15T10:22:00Z
+    webUrl: "https://www.reuters.com/article/baidu-auto-idUSL8N2IR1UR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2IR1UR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2IR1UR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
   - title: "China's Baidu Reportedly Planning Foray Into Electric Vehicle Manufacturing"
     excerpt: "Baidu Inc (NASDAQ: BIDU) shares were on fire Tuesday following reports of the Chinese search giant's interest in the lucrative field of electric"
     publishedDateTime: 2020-12-15T19:33:00Z
@@ -130,6 +141,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
+  - title: "China search giant Baidu considers making own electric vehicles: Sources"
+    excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, said three people with"
+    publishedDateTime: 2020-12-16T08:51:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive--china-search-giant-baidu-considers-making-own-electric-vehicles---sources-13775932"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 38
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13775930/16x9/991/557/bf1feb1d6558c50ba28ed178f030675c/eG/file-photo---a-logo-of-baidu-is-seen-during-the-world-internet-conference--wic--in-wuzhen-1.jpg"
+        width: 991
+        height: 557
+        isCached: true
 
 secured: "UyWn9V70A0FJ5wHdSub+4zZlHK+mY0iVS++Kj7Yvu4MOh+8tpera1QU9hsNYdRjFBuE/T+kpLKiuSsdKl+SOKuUZTGLJRuL+iiL5VNykmGzdS+M3RdE1FGKe2JGoofQ3/VF/uYx6x9lNQj6uU3xTFcqerE+5bFYQaEUVetU7MX5rN/w/hYshrcF1/WtbyxEW4rfCXdnnsR3xbH0VRnV6NLBk4XkF98OEP4ANwD/F4idVLBBFbf07Hke86b7GRms9UJTMHKzq4b1GIdaX65nKOj9Kp6BpJqFoGeh0djiwS0GW0b7kLQ8Gt/QQyxNQo/rEtssHL+pcJtaK2JzBP1JGRZ21XkY2eFX/DNeQnPm0KIKlcDMrCj/7STFl1gfv0QVCsPTQ/kMdLPdwL4K57ETUbvG5EPbyM6lb20I0EZElJEXeSCufUHydpkeDMftRxz2xGukXR0Y5uwN9ATwBkcam+nqwlcj2RxV26VDrIQbNA3B337yjgxXxPq/vW3PCzmdAkUaS2imuHO2XUnkH5/+Vgw==;19GVhjX02Bu6k6lwJk+Ijg=="
 ---

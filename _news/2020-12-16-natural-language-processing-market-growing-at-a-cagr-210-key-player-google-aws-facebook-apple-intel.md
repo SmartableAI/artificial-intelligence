@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market 2020, Global Trends, Opportunity and Growth Analysis Forecast by 2023"
+    excerpt: "The Artificial Intelligence in Telecommunication Market is estimated to record a significant growth throughout the"
+    publishedDateTime: 2020-12-16T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-2020-global-trends-opportunity-and-growth-analysis-forecast-by-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fRChRFtM3qAS4dI9EBWPA6FMKGuINLH7hcrh9DmXWxCHJNp7z7T8bN7RixrctKm9cGQ44DgvCUna9ZdBN7Sx/+zU7lHLQFnxJopMmX6JLDeW/knAiqgTh8Aizvfpy4W5MrbD4aPavmDJ+5vdUfY4Vlr7ux83RTRUcR3M/+DJtanzCJBTvQ1J5Dk0XAxLJID06gZS+9T3svu6UOEYmB4YbIcxw3bN8hKUzqIrUpRe1ypN58yXKUjR3I6dvjeLXK96BcB72lBUq9wEtWiK3Y+g9EQWNOngJWQ7K7+2y9YpOk0T07iPamSQsUgonOkPyxK/m93ck8pBylbA+bBLTR4k/BdsOga4ZMRJUfqp6H5yiW4=;se/na2THUaubJ2WTYjNgow=="
 ---

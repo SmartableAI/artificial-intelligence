@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2020-12/dbf65780-3e5c-11eb-be5e-23d8d1a7d219"
         width: 800
         height: 450
+        isCached: true
+  - title: "Amazon’s Electric Taxi Zoox Operates Up To 16 Hours On A Single Charge"
+    excerpt: "Enter the… the Autonomous Electric Taxi. An electric, driverless taxi that is designed to be right at home in dense and urban environments. Tesla has led the way with this technology, but other companies are now starting to catch up."
+    publishedDateTime: 2020-12-15T20:59:00Z
+    webUrl: "https://www.hotcars.com/amazons-electric-taxi-zoox-operates-up-to-16-hours-on-a-single-charge/"
+    ampWebUrl: "https://www.hotcars.com/amazons-electric-taxi-zoox-operates-up-to-16-hours-on-a-single-charge/amp/"
+    cdnAmpWebUrl: "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/amazons-electric-taxi-zoox-operates-up-to-16-hours-on-a-single-charge/amp/"
+    type: article
+    provider:
+      name: hotcars
+      domain: hotcars.com
+    quality: 44
+    images:
+      - url: "https://static2.hotcarsimages.com/wordpress/wp-content/uploads/2020/12/zoox-functional-autonomous-electric-taxi.jpg"
+        width: 1710
+        height: 900
         isCached: true
   - title: "Amazon’s Zoox unveils vehicle for ride-hailing service"
     excerpt: "The vehicle, which Zoox describes as a driverless carriage or robotaxi ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada, on June 6 last year. Photo: AFP To commercialize the technology, Zoox plans to ..."

@@ -1,102 +1,26 @@
 ---
 category: news
 title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed"
-publishedDateTime: 2020-12-08T15:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046"
-webUrl: "https://markets.businessinsider.com/news/stocks/robot-ai-company-mech-mind-robotics-raises-close-to-us-15-million-in-series-b-1029873046"
+excerpt: "Led by a world-class team of engineers with comprehensive skills, the startup provides an all-in-one solution for industry end users looking to harness artificial intelligence in industrial robots. \"We intend to solve pain points in industries with our ..."
+publishedDateTime: 2020-12-08T08:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html"
+webUrl: "https://www.prnewswire.com/news-releases/robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b-301188176.html"
 type: article
-quality: 95
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg"
-    width: 400
-    height: 274
+  - url: "https://mma.prnewswire.com/media/1360916/Mech_Mind_Product_Map.jpg?p=facebook"
+    width: 1500
+    height: 785
     isCached: true
 
-related:
-  - title: "DataRobot raises $50 million more to accelerate enterprise AI adoption"
-    excerpt: "DataRobot has extended its series F round to $320 million through partnerships with Snowflake, Salesforce, and Hewlett Packard Enterprise."
-    publishedDateTime: 2020-12-09T15:52:00Z
-    webUrl: "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/datarobot-raises-50-million-more-to-accelerate-enterprise-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+"
-    excerpt: "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,"
-    publishedDateTime: 2020-12-09T11:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 65
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Parallel Domain Raises $11 Million Series A to Accelerate Computer Vision Development"
-    excerpt: "Parallel Domain, the leading synthetic data generation platform, today announced its Series A funding round of $11 million led by"
-    publishedDateTime: 2020-12-09T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/parallel-domain-raises-11-million-series-a-to-accelerate-computer-vision-development-301189015.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Parallel Domain raises $11 million to generate synthetic data for AI model training"
-    excerpt: "Parallel Domain, a startup developing a platform for synthesizing AI model training data, has raised $11 million."
-    publishedDateTime: 2020-12-09T15:04:00Z
-    webUrl: "https://venturebeat.com/2020/12/09/parallel-domain-raises-11-million-to-generate-synthetic-data-for-ai-model-training/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
-  - title: "Review: DataRobot aces automated machine learning"
-    excerpt: "Read Martin Heller take a look at how DataRobot’s end-to-end AutoML suite fares amongst automated machine learning platforms on Information Weekly: Data science is nothing if not tedious, in ordinary practice. The initial tedium consists of finding data ..."
-    publishedDateTime: 2020-12-08T21:16:00Z
-    webUrl: "https://ctovision.com/review-datarobot-aces-automated-machine-learning/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
-
-secured: "segU46snj6jEEQWetswKc263bWbwpgaIY0JhH6F4HQiLCv4jKyM0BNV7AaQFkouQ2Ktl93mGJhT5Vf+L2b3FBXG+eef6zzzZv3tXCqYRjyEHj7qoH0d8u66MFhbUkkKxocHSgBjl9zy5YxZ7LF1ghdJ62FSJlNXGBJpLsB0rh3nW7cQmSdGuniiwsZMvSQ7/SJNyzisTLy46O2K4o8wBLYUiQw3x8EnCy8e+K+6lvUwzo+M3FUx34Gs3h/Wu05NVs7EIwaZ8mr2b4wFCl3pBSOs/1xXzibXVBNqRWqzwzc0kCqYm0DPk8JovRdsUPFdyrKnm9aCkJpd3PU6v1ilgTu3DSE7hB42vgVxP6o8tZRo=;wxTMBAe+7uh3p6tlmnYfpQ=="
+secured: "0N/6Pj/jtixTUqG0K9XOqn2dnQABLTg2st1NuQya5PbOnnbX0EBGGNg7rqE0Z+9EoCXwnf9eaYL3ift0dVF9i5w+REMR83P1MnMnjHDetcPcg3oqp2NF7ZJrYXuk5b8YJ0we6Mna5IzFu0cajAHDCgPTWB83vrPxecCxNiVr+aVGs5xbR439l6dhRPaX/nyEz1dlXHrHf5CDxBep39qQKm6kLt5eSz1QcNZBt+T8Y19s+8YqQ9KmBRHWstE4iEQka035UuEVdeDCfaihFJXQOtlSPhjOnUDE9G0yaDTTIpt+zds+HI8TVW8rKrj/iX0YqimDYsllKK7aS2sKThcNADaPtl1ELAqt1RULBfwFbRA=;SmpYPWsdgzsFN7kaxJaLiw=="
 ---
 

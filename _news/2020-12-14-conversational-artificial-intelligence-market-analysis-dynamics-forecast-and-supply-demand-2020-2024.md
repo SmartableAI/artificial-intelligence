@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile AI Market 2020 Detailed Analysis of Current Industry Figures with Forecasts Growth By 2023"
+    excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security."
+    publishedDateTime: 2020-12-16T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Transportation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
     excerpt: "Market Synopsis The Artificial Intelligence in Transportation Market is estimated to record a significant growth"
     publishedDateTime: 2020-12-16T06:02:00Z

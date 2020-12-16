@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
-    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
+    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such as the existence of"
     publishedDateTime: 2020-12-15T13:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics/article_7a7f4333-de1d-5d91-b603-00cfa6346360.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/1385142/OrphAnalytics.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/5b/55bd74fc-5ee9-58ad-900c-5682a8dae0d4/5fd8c2391e893.image.jpg?resize=400%2C256"
+        width: 400
+        height: 256
         isCached: true
   - title: "NTT DATA Services to Acquire Hashmap to Advance Data-driven Analytics and AI Solutions"
     excerpt: "NTT DATA Services, a global digital business and IT services leader, has entered an agreement to acquire Hashmap, adding deep technical expertise with modern data platforms to support analytics, artificial intelligence and machine learning."

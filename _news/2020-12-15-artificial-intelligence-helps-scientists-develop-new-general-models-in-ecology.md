@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/12/201211100627.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201211100627.htm"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial intelligence helps scientists develop new general models in ecology"
-    excerpt: "In ecology, millions of species interact in billions of different ways between them and with their environment. Ecosystems often seem chaotic, or at least overwhelming for someone trying to understand them and make predictions for the future."
-    publishedDateTime: 2020-12-11T16:09:00Z
-    webUrl: "https://phys.org/news/2020-12-artificial-intelligence-scientists-ecology.html"
-    ampWebUrl: "https://phys.org/news/2020-12-artificial-intelligence-scientists-ecology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-artificial-intelligence-scientists-ecology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/endangeredsp.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
 
 secured: "tTWkgHZBQ7c0hYZFdjLDtsYlfz3AtkfZUmpKvuTH8RTjdDZOVVQUn5jN36aoEAz0Tc6jJz9J8sXVU1rRB7CB7wLyBTnjtsPY4wciI59jH7qyUaATe8ayBdAvz6zyzvKQ+VIyD1uphYhgAD4QEKD4WuZSKrQTGVQN4ykoSACiQXqQY9mEGYg22PteLYWpeI9EfmAdJv6a0+/Ks+OPaxw8Pk2opBEAuhbWGkx99xxhYEBjefYKVZHNM1UAWVPe5yXWS54NC0ZR6HwDV5aB0Yqg5NDZk1yAVuZk7Gp/z5m+EDSBSIBcnfdWGfFSf3RWoHD+qT9wHtUzaP+mmwnX0iso9fEq3yi/qJylMv09SiaeCvE=;/Qe6oBJdvJNhY5i4n4vktQ=="
 ---
