@@ -102,6 +102,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 63
+  - title: "Baidu shares jump on report it will build electric car"
+    excerpt: "Baidu is considering jumping into EV manufacturing as investment in the sector is picking up tempo, with tech majors buying in."
+    publishedDateTime: 2020-12-16T11:19:00Z
+    webUrl: "https://technode.com/2020/12/16/baidu-shares-jump-on-report-it-will-build-electric-car/"
+    ampWebUrl: "https://technode.com/2020/12/16/baidu-shares-jump-on-report-it-will-build-electric-car/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/12/16/baidu-shares-jump-on-report-it-will-build-electric-car/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2020/12/6374319471053836478109685.png?fit=1080%2C720&ssl=1"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Baidu considers making own electric vehicles, report says"
     excerpt: "China's Baidu Inc. is considering making its own electric vehicles and has held talks with automakers about the possibility, three people with knowledge of the matter said, the latest move in a race among tech firms to develop smart cars."
     publishedDateTime: 2020-12-15T12:23:00Z

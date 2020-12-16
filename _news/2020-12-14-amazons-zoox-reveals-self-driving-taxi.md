@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/amazons-zoox-self-driving-taxi.amp"
 type: article
 quality: 74
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2020-12/dbf65780-3e5c-11eb-be5e-23d8d1a7d219"
         width: 800
         height: 450
+        isCached: true
+  - title: "Amazon shows off Zoox’s self-driving robotic taxi"
+    excerpt: "Tech giant Amazon is once again expanding into a new field and this time around it’s the transportation industry. It’s through a technology company called Zoox. This company is developing a personal transportation vehicle similar to a taxi but there is no driver."
+    publishedDateTime: 2020-12-16T12:00:00Z
+    webUrl: "https://www.wlns.com/news/amazon-shows-off-zooxs-self-driving-robotic-taxi/"
+    ampWebUrl: "https://www.wlns.com/news/amazon-shows-off-zooxs-self-driving-robotic-taxi/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/amazon-shows-off-zooxs-self-driving-robotic-taxi/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 44
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/12/Zoox-Autonomous-Vehicle-ThreeQuarter-View.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Amazon’s Electric Taxi Zoox Operates Up To 16 Hours On A Single Charge"
     excerpt: "Enter the… the Autonomous Electric Taxi. An electric, driverless taxi that is designed to be right at home in dense and urban environments. Tesla has led the way with this technology, but other companies are now starting to catch up."

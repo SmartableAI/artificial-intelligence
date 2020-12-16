@@ -52,19 +52,19 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "Facial recognition, AI in post-covid airports of the future"
-    excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
-    publishedDateTime: 2020-12-15T20:36:00Z
-    webUrl: "https://www.abc.net.au/radio/programs/am/facial-recognition,-ai-in-post-covid-airports-of-the-future/12988210"
+  - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
+    publishedDateTime: 2020-12-16T12:56:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
     images:
-      - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 394
+        height: 450
         isCached: true
 
 secured: "jHrbzJbS4KuhFORCudijDM6EYTSC702eZU1NWtoCRErfmgwnlGVlq6U01wWDCTVNCK93H2mHTjtSMZGexvjQYzgWfrkXGj9fCanwILbb8TdGTbIJpuHuN860JWXCIKG7/a3TSLy9bA/6VhKbhe8ia4Gwiq88z0uDHveOnqVZQ+rMeF2y/2c4W344uv5k1p5cB9UwIlXvn0VpLsjXBVczFT9VIqeB4a8lv2fAsCIjXe+PNAodwEpXC9FdGUrdMhuY/x8nQaXoJmc7bwlyHNZbm/Dld2gUP9hA2QpGVEDgwD47QlVPG9OLN1FsIOiuAVXCPSsbDgSTN/42UInnHvFoJRALAJBHXmdVNs57Z3DqH4g=;sXE0pKdEoOSADA5NUMlQtA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Platform
@@ -30,35 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "It takes a lot of energy for machines to learn: Why AI is so power-hungry"
-    excerpt: "Google forced out a prominent AI ethics researcher after she voiced frustration with the company for making her withdraw a research paper. The paper pointed out the risks of language-processing artificial intelligence,"
-    publishedDateTime: 2020-12-15T14:03:00Z
-    webUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.html"
-    ampWebUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
+  - title: "Using machine learning and data to reduce road accidents"
+    excerpt: "Transport for New South Wales and Microsoft ran a trial in Wollongong to uncover five potentially risky intersections."
+    publishedDateTime: 2020-12-15T05:17:00Z
+    webUrl: "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ittakesaloto.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "When Machine Learning Goes Off the Rails"
-    excerpt: "What happens when machine learning—computer programs that absorb new information and then change how they make decisions—leads to investment losses, biased hiring or lending, or car accidents? Should businesses allow their smart products and services to autonomously evolve,"
-    publishedDateTime: 2020-12-14T22:02:00Z
-    webUrl: "https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 56
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/R2101F_REID.jpg"
-        width: 4000
-        height: 1880
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/19/bfec6085-f806-4ba9-858f-4d4848a19624/thumbnail/770x578/ab6b4e2fb15289bafe46205cb28e887e/nsw-transport-and-microsoft-use-machine-5fb5cf8f6df74d74600bc5b6-1-nov-19-2020-6-12-05-poster.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "3C5+yUXZLvOuuwp9R9ExvsZHALmldu8/8eKtgFWfP6l4ZDLoLdqnJdwxPkKtPPota69iT6rz5opMRb4p29rrhn1m4jSSwwrLuEathDpR3A39W6zOJcwdixAgisRqqcAo5xlW1wQigUdqJmuPXdL2jv0pmCwpfe0AGewkDXNCNr8ny0GHNyDbYOPMzi0hs3vkJO3Wnz6DsRNgl2cpDqSrlGOnzBGYfZGh9SkihmyWRm20U8uZeQBPLMil82OirGNOyJv+KM3ODV5hf8+2l/4xDZqqKsqr3EaDeGyF0cawPBEvFpLxuwvwpBQ66feEm42POMdzyErVXYrGh6BDVnrHUUSgMxKm7WdDkHDzJDnBu+aliHFPXHxXdanJDM3RaPIY+22pKhihzOQXPTZrBzPLakVLaMl5YjnDlzS0sGe4WatohBsrUp0n+FW1t1d4VD71QRO022gP/Zga8mCENo6hjCxmOdnWjTaGe1XaTJ/5DZPokrSjF09Or1zZUNBR78PWcrOyhXECMDPIYgEJbBNOag==;Fn5h+P5bZfHANveYchfJyQ=="

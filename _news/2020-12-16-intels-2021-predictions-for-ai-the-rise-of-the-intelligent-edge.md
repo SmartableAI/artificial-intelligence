@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/intels-2021-predictions-for-ai-the-rise-of-th
 webUrl: "https://www.unite.ai/intels-2021-predictions-for-ai-the-rise-of-the-intelligent-edge/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Intel’s share price is chipping into artificial intelligence"
+    excerpt: "Intel’s [INTC] share price has been chipped away in 2020, falling 16.7% to 15 December, even as the PHLX Semiconductor Index [SOX] has risen 47%. The coronavirus pandemic, which has driven a rally for most technology stocks,"
+    publishedDateTime: 2020-12-16T11:25:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/opto/why-intels-share-price-is-chipping-into-artificial-intelligence"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/Intel1612_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
   - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
     excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
     publishedDateTime: 2020-12-12T18:47:00Z

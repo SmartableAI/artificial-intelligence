@@ -212,6 +212,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics Market Growth, Trends, and Forecasts Report 2020-2025: Advent Of Industry 4.0 Driving Automation & Increasing Emphasis On Safety - Res"
+    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued at USD 39.72 billion in 2019 and is expected to register a CAGR of 25."
+    publishedDateTime: 2020-12-16T11:42:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=393688"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
     excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
     publishedDateTime: 2020-12-11T22:39:00Z

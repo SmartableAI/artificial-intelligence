@@ -25,46 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn"
-    excerpt: "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation."
-    publishedDateTime: 2020-12-16T05:22:00Z
-    webUrl: "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn"
-    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
-    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
+  - title: "The future of AI deployments reaching production is bright in 2021"
+    excerpt: "Despite AI's deployment historic failure rate, the future's looking brighter for a number of reasons, and many will beat the odds."
+    publishedDateTime: 2020-12-16T12:14:00Z
+    webUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/"
+    ampWebUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 58
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "Facial recognition, other ways to authenticate voters in AICF polls"
-    excerpt: "Digital facial recognition and other authentication methods would be adopted during electronic voting to elect the new office bearers of the All India Chess Federation (AICF), as per the orders of the Returning Officer K."
-    publishedDateTime: 2020-12-13T10:18:00Z
-    webUrl: "https://www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    ampWebUrl: "https://www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/sports/facial-recognition-other-ways-to-authenticate-voters-in-aicf-polls-news-others-umnjPfihafagf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 54
-  - title: "From check-in to boarding: Facial recognition technology to follow you through Perth Airport in national first"
-    excerpt: "Biometric facial recognition technology that will follow passengers from self check-in to boarding will be rolled out as part of plans to develop the country’s first common departure lounge."
-    publishedDateTime: 2020-12-14T18:03:00Z
-    webUrl: "https://thewest.com.au/business/aviation/from-check-in-to-boarding-facial-recognition-technology-to-follow-you-through-perth-airport-in-national-first-ng-b881745317z"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 34
-    images:
-      - url: "https://thewest.com.au/static/media/everyday_digital.0516c439.png"
-        width: 440
-        height: 318
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1195223774.jpg?w=1200&strip=all"
+        width: 1200
+        height: 586
         isCached: true
 
 secured: "P8nUR3gBwgJKg0zcMHnpXFq2w0TpzCcHKvsFlhQC6Yt/8T4gVmuHDQnR22MWm5CI4TM6LM8aqTUnzWzFJSmGJlGXX8YF98nQTiB2NhqBYFcFOalXKWkTOX86coCsBSaoEHqGkwoS96D8I8chxd7y0ujNLPGazlKC3FcchWB8XMX069FIgRJmfzNF1GiCpx/mJ0yrZT6tgU8nUyeZMUM7LsRg03iFhTE+mXglBCmyOnfHLc90OurU/R0rpKT1M37Z5T2daFBljaYLfVFsQS3VaDezilmFc1agoYI4Gbp7OATDpBaEUwSU6S8N8FRHoZlAKG9ygiU/lVRlfamZtpZmjfCHfckZ/il2L1ITpvuKksA=;DvKW0kqV0DqZ3B6pueyEaQ=="

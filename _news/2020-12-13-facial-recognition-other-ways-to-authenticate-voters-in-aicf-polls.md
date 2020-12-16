@@ -37,20 +37,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Facial recognition, AI in post-covid airports of the future"
-    excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
-    publishedDateTime: 2020-12-15T20:36:00Z
-    webUrl: "https://www.abc.net.au/radio/programs/am/facial-recognition,-ai-in-post-covid-airports-of-the-future/12988210"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
   - title: "From check-in to boarding: Facial recognition technology to follow you through Perth Airport in national first"
     excerpt: "Biometric facial recognition technology that will follow passengers from self check-in to boarding will be rolled out as part of plans to develop the country’s first common departure lounge."
     publishedDateTime: 2020-12-14T18:03:00Z
@@ -64,6 +50,20 @@ related:
       - url: "https://thewest.com.au/static/media/everyday_digital.0516c439.png"
         width: 440
         height: 318
+        isCached: true
+  - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
+    publishedDateTime: 2020-12-16T12:56:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "k3FB0UKD1dQXAqhplz1K6e1HHEG7PwbYCew5HbBirCP8qqRHTN9Dr45ZWJONUiRh6YlJGWP/kSplOxEbv4o0eQZG64AipQWHglXYPyXiD1nlMaqmKaqueLyM/L6GmzUTAcMNusiOGoR5D85Zr6wU9k7aK6+c4/8/35QAkQe2HMmK9qY7A/gsDYHFrpY41J1YCLIJ7HWuaXplF5I+/ToyHOq6CUsw1nG2mKIso2lDHEcWZ3VpoSJ1L7PuPsvbMeRrYUpY9Zt0Os+G2MqPW+yFhc4grFKqT2nOAO2Coi8MYAaoz1aEHh1EOXE3bi7/BvDdUtGDiQy0Mj5BQWzlWSsj4z6RSJi6dOyLOkdq2hf9Kec=;dwQ/6gfWaokDy4ZujQY8Qw=="

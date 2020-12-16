@@ -220,6 +220,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics Market Growth, Trends, and Forecasts Report 2020-2025: Advent Of Industry 4.0 Driving Automation & Increasing Emphasis On Safety - Res"
+    excerpt: "Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued at USD 39.72 billion in 2019 and is expected to register a CAGR of 25."
+    publishedDateTime: 2020-12-16T11:42:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=393688"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "6EHfPDCvZGXLKjmLBmUT6a00Wf9Gd2yHvT6BsavsEQ2omUAouV/boha2Sib9lNAGhF7hjMmbKDEbI9W0PwHg+78zWolGQ1jx/aJgGgi5hQsSIqUtO/+E8bE3tAv9blJyA5laB2B8tn7rsh+IrURehKaCNQvvj24IDRqJf29G1B0ffHyTAAFF5nWzJW+o3VvfvFaWv8i8Gw5XuIV1zVKdXnEFb+6KV3BcsukRwd0u2+DFgDZPaF7aYLW+ro1XzHBGjjbIHXSVwetnzNmvkOUeMvMu15sOn5SgItT2KKkpt9ctcoJlQME9nGL5TLpLauTi3khjKQNlH8BeVD1Dgy2XW/vdbVCV1RWuZFjApvd/nP4=;3vZJoSmq0ggoSm+nnnSt+A=="
 ---

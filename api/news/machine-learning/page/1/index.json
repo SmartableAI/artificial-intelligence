@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-how-deep-learning-can-encourage-brand-loyalty.md",
+      "title": "How Deep Learning Can Encourage Brand Loyalty",
+      "excerpt": "One answer lies in the application of deep learning. Not only can deep learning help marketers identify those potential customers who have the highest chances of becoming brand loyal in the future, but it also allows marketers to tailor their bottom-of-the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/12/16/how-deep-learning-can-encourage-brand-loyalty/amp/",
+      "publishedDateTime": "2020-12-16T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fun-machine-learning-experiment-creates-a-vocal-opera-in-your-browser.md",
+      "title": "Fun machine learning experiment creates a vocal opera in your browser",
+      "excerpt": "Google's Arts and Culture lab has launched a clever browser experiment in collaboration with David Li. The Blob Opera puts four operatic voices at your disposal to create glorious AI-driven performances.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
+      "originalUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/afd589d/2147483647/strip/true/crop/1071x714+65+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9e%2F02%2F996578d848038d6c195522c0ef87%2F01.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true",
+      "publishedDateTime": "2020-12-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-accurate-neural-network-computer-vision-without-the-black-box.md",
       "title": "Accurate neural network computer vision without the 'black box'",
       "excerpt": "New research offers clues to what goes on inside the minds of machines as they learn to see. Instead of attempting to account for a neural network's decision-making on a post hoc basis, their method shows how the network learns along the way,",
@@ -246,6 +350,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-using-machine-learning-and-data-to-reduce-road-accidents.md",
+      "title": "Using machine learning and data to reduce road accidents",
+      "excerpt": "Transport for New South Wales and Microsoft ran a trial in Wollongong to uncover five potentially risky intersections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/19/bfec6085-f806-4ba9-858f-4d4848a19624/thumbnail/770x578/ab6b4e2fb15289bafe46205cb28e887e/nsw-transport-and-microsoft-use-machine-5fb5cf8f6df74d74600bc5b6-1-nov-19-2020-6-12-05-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
       "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
       "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
@@ -287,52 +443,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-learning-to-make-the-machine-part-of-ai-invisible-and-easy.md",
-      "title": "Learning To Make The Machine Part Of AI Invisible And Easy",
-      "excerpt": "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/",
-      "originalUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/",
-      "publishedDateTime": "2020-12-11T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1339,103 +1449,6 @@
         "AI",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science.md",
-      "title": "Breeding neuromorphic networks for fun and profit: The new reproductive science",
-      "excerpt": "The most expedient way to produce the algorithms you need for a new class of computer that works like the brain, its engineers are discovering, is through a Darwinian exercise in natural selection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "originalUrl": "https://www.zdnet.com/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/03/60022ec6-a5ae-46f8-bf4f-e2249e59ba3c/190226-neuromorphic-12-12x9.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/breeding-neuromorphic-networks-for-fun-and-profit-the-new-reproductive-science/",
-      "publishedDateTime": "2020-12-07T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-aws-expands-think-big-ato-aiml-rapid-adoption-programs.md",
-      "title": "AWS Expands Think Big, ATO, AI/ML Rapid Adoption Programs",
-      "excerpt": "Amazon Web Services is ramping up offerings for its public sector partners with the expansion of its Think Big for Small Business, AI/ML Rapid Adoption and Authority to Operate on AWS programs",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-expands-think-big-ato-ai-ml-rapid-adoption-programs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0260-1029655d8d40-42cc89fb2319-1000/aws-booth.jpg",
-          "width": 609,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

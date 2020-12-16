@@ -2,6 +2,314 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-08-thomson-reuters-taps-aws-to-power-digital-transformation.md",
+      "title": "Thomson Reuters Taps AWS to Power Digital Transformation",
+      "excerpt": "Leading provider of business information services taps AWS to drive large-scale migration to cloud, driving innovation and adopting machine learning across its business SEATTLE--(BUSINESS WIRE)--Today",
+      "sourceUrl": null,
+      "webUrl": "https://digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/",
+      "originalUrl": "https://digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://mx1.digitalproducer.com/wp-content/uploads/2019/07/dp_fb2.jpg",
+          "width": 428,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/thomson-reuters-taps-aws-to-power-digital-transformation/amp/",
+      "publishedDateTime": "2020-12-08T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalproducer.com",
+        "domain": "digitalproducer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-simon-says-ai-tool-turns-text-transcript-into-video-editing-platform.md",
+      "title": "Simon Says AI Tool Turns Text Transcript Into Video-Editing Platform",
+      "excerpt": "Video creators can now use a browser-based text editing program called Simon Says Assemble to assemble rough cuts of video pieces. Simon Says is building on its AI-based transcription tools to enable the text-based video assemblies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcec54e8e259f4221d14aeb%2F0x0.jpg",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2020/12/08/simon-says-unveils-tool-that-turns-text-transcript-into-video-editing-platform/amp/",
+      "publishedDateTime": "2020-12-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response.md",
+      "title": "Christopher Nolan Trashes HBO Max, Gets Trashed By Twitter In Response",
+      "excerpt": "HBO Max, have finally come together - to make fun of While many filmmakers are (understandably) unhappy with the fact that their films are going to hit theatres and HBO Max simultaneously, Nolan had an amusingly dismissive take,",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/itamblyn/status/1335692328854556674?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1335692328854556674|twgr^|twcon^s1_&ref_url=https%3A%2F%2Fventurebeat.com%2F2020%2F12%2F07%2Fresearchers-are-starting-to-refuse-to-review-google-ai-papers%2F",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2020/12/08/christopher-nolan-trashes-hbo-max-gets-trashed-by-twitter-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-microsoft-launches-azure-digital-twins-in-general-availability.md",
+      "title": "Microsoft launches Azure Digital Twins in general availability",
+      "excerpt": "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/",
+      "publishedDateTime": "2020-12-08T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-google-releases-new-coral-apis-for-iot-ai.md",
+      "title": "Google Releases New Coral APIs for IoT AI",
+      "excerpt": "Google has released new APIs and tools for their Coral AI toolkit. The new release brings parity across the C++ and Python SDKs and includes more efficient memory usage. Other updates include additional pre-trained models and general-availability of model pipelining.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/12/google-coral-ai-iot/",
+      "originalUrl": "https://www.infoq.com/news/2020/12/google-coral-ai-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/12/google-coral-ai-iot/en/headerimage/google-coral-ai-iot-header-1606664656669.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-aws-and-viacomcbs-expand-strategic-agreement-to-transform-content-creation-and-delivery.md",
+      "title": "AWS and ViacomCBS Expand Strategic Agreement to Transform Content Creation and Delivery",
+      "excerpt": "ViacomCBS plans to use AWS Elemental media services as well as AWS machine learning technologies, including Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery",
+      "originalUrl": "https://www.businesswire.com/news/home/20201208005361/en/AWS-and-ViacomCBS-Expand-Strategic-Agreement-to-Transform-Content-Creation-and-Delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-baidu-apollo-gets-green-light-for-fully-driverless-road-tests-in-beijing.md",
+      "title": "Baidu Apollo gets green light for fully driverless road tests in Beijing",
+      "excerpt": "AutoX announced the roll out a fleet of autonomous RoboTaxis in downtown Shenzhen, representing the first time such vehicles have been deployed in China without safety drivers or remote operators.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-apollo-fully-driverless-road-tests-beijing/?amp=true",
+      "publishedDateTime": "2020-12-08T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-google-cloud-expands-edge-computing-to-help-companies-leverage-ai-and-5g.md",
       "title": "Google Cloud expands edge computing to help companies leverage AI and 5G",
       "excerpt": "Google Cloud expands its edge computing services by partnering with 200 developers to put their applications closer to enterprise customers.",
@@ -885,314 +1193,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo.md",
-      "title": "Huawei CASE Layout and Strategy Research Report 2020: 40+ CASE Indicators and Comparion of CASE Capabilities VS Bosch, Baidu, and Waymo",
-      "excerpt": "Layout and Strategy Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Research on Huawei's CASE (Connected, Autonomous, Shared, Electrified): Who is the main rival of Huawei in automotive engagement?",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-case-layout-and-strategy-research-report-2020-40-case-indicators-and-comparion-of-case-capabilities-vs-bosch-baidu-and-waymo-1029872468",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-israeli-martech-startup-exceedai-banks-4m-in-seed-money.md",
-      "title": "Israeli martech startup Exceed.ai banks $4m in seed money",
-      "excerpt": "Israel-based martech startup Exceed.ai has secured US$4 million in a seed round from investors ... It’s being used by companies such as Demandbase, SugarCRM, CBORD, and Universal Robots. AD. Remove this ad space by subscribing. Support independent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money",
-      "originalUrl": "https://www.techinasia.com/israeli-martech-startup-exceedai-banks-4m-seed-money",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain.md",
-      "title": "These Three Companies Will Build Drones To Carry The Air Force's \"Skyborg\" AI Computer Brain",
-      "excerpt": "The Air Force ... the Skyborg systems is an exciting development for this program, which already promises to have a significant impact on the future of aerial combat. The artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/the-war-zone/34351/glitzy-air-force-video-lays-out-skyborg-artificial-intelligence-combat-drone-program",
-      "originalUrl": "https://www.thedrive.com/the-war-zone/38015/these-three-companies-will-build-drones-to-carry-the-air-forces-skyborg-ai-computer-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.thedrive.com/wp-content/uploads/2020/06/skyborg-top-1.jpg?quality=85",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-lemonade-ceo-daniel-schreiber-to-present-at-the-goldman-sachs-financial-services-conference.md",
-      "title": "Lemonade CEO Daniel Schreiber to Present at the Goldman Sachs Financial Services Conference",
-      "excerpt": "Daniel Schreiber, CEO and cofounder of Lemonade (NYSE: LMND), will present at the Goldman Sachs U.S. Financial Services Conference on Wednesday, December 9, 2020. The presentation is expected to begin at approximately 9:20 am ET.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/lifestyle-technology-business-north-america-personal-insurance-dc84f464b8984fe1a8adb8de935f06d6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/lifestyle-technology-business-north-america-personal-insurance-dc84f464b8984fe1a8adb8de935f06d6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-50k-ai-prediction-contest-launches-today.md",
-      "title": "$50K AI Prediction Contest Launches Today",
-      "excerpt": "A forecasting platform that aggregates insight from thousands of technology experts announced a two-year contest today focused on AI predictions: the future state of key benchmarks in machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcea9ea964f1397d45a037c%2F0x0.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/12/07/50k-ai-prediction-contest-launches-today/amp/",
-      "publishedDateTime": "2020-12-07T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b.md",
-      "title": "Uber sells self-driving unit Uber ATG in deal that will push Aurora’s valuation to $10B",
-      "excerpt": "Aurora Innovation, the autonomous vehicle startup backed by Sequoia Capital and Amazon, has reached an agreement with Uber to buy the ride-hailing firm’s self-driving unit in a complex deal that will value the combined company at $10 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-2410b/ar-BB1bIk7S",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 634,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/aurora-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/amp/",
-      "publishedDateTime": "2020-12-07T13:05:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
-        "domain": "https://techcrunch.com/2020/12/07/uber-sells-self-driving-unit-uber-atg-in-deal-that-will-push-auroras-valuation-to-10b/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020.md",
-      "title": "Brainchip leads the ASX’s top small cap AI stocks in 2020",
-      "excerpt": "If you’re an investor seeking exposure to AI in the small cap space look no further because we have compiled an extensive run-down of small cap ASX stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/primers/brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020/",
-      "originalUrl": "https://stockhead.com.au/primers/brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2020/11/GettyImages-1179686423.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/primers/brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/primers/brainchip-leads-the-asxs-top-small-cap-ai-stocks-in-2020/?amp",
-      "publishedDateTime": "2020-12-07T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

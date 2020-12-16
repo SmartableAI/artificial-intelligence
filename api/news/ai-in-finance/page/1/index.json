@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-16-financial-regulators-increase-ai-engagement-amidst-covid-pandemic.md",
+      "title": "Financial regulators increase AI engagement amidst COVID pandemic",
+      "excerpt": "Living up to its nation’s reputation as a hub for fintech and innovation ... Gartner reporting that a quarter of IT professionals upped levels of investment in AI in light of COVID-19, with 75% expressing intentions to commence new AI projects in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314",
+      "originalUrl": "https://www.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/financial-regulators-increase-ai-engagement-amidst-covid-pandemic-652314/amp",
+      "publishedDateTime": "2020-12-16T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions.md",
+      "title": "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions",
+      "excerpt": "IBM Corporation (NYSE: IBM) on Tuesday announced it has acquired Expertus Technologies Inc, a Canadian fintech startup offering payments and cash management solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions",
+      "originalUrl": "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startup-expertus-to-strengthen-banking-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg",
+          "width": 2832,
+          "height": 2832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18809433",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433",
+      "publishedDateTime": "2020-12-15T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-td-bank-is-using-ai-to-boost-engagement-with-its-customers.md",
       "title": "TD Bank is using AI to boost engagement with its customers",
       "excerpt": "TD Bank upgraded its mobile banking app in Canada with AI-powered features that tailor users' experiences based on past behavior and transactions.",
@@ -1270,92 +1356,6 @@
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
-      "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-this-fintech-and-blockchain-training-bundle-features-8-courses-for-40.md",
-      "title": "This fintech and blockchain training bundle features 8 courses for $40",
-      "excerpt": "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
-      "publishedDateTime": "2020-11-22T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

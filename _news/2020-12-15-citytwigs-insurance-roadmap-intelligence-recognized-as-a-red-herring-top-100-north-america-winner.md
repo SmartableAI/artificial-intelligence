@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-b
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-health-insurance-industry-north-america-fadc335b55e3b1843712ed3f1f91e3ea"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "America’s Intelligence Needs in the Face of Great-Power Competition"
-    excerpt: "Both China and Russia now rank as great powers and antagonistic competitors—and they are not alone. To cope with this reality, the military is shifting its primary focus from defeating international terrorism to prevailing in a great-power competition."
-    publishedDateTime: 2020-12-14T15:35:00Z
-    webUrl: "https://www.heritage.org/homeland-security/commentary/americas-intelligence-needs-the-face-great-power-competition"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 22
-    images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2020-12/GettyImages-1148506776.jpg?itok=vfSxstbM"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WdqgnD0HqlBWskJzdNf/RtO+8lveVDxhwicnEYam0CTgVMFGcN6rncaJG7YkYGk09Vz3r/SG01beB3HFlVP3nD3ChJ6PN4YY+F+FSZZatbywyKC772sGmI2OvTFXTsfxUE3nqebElV+DdZFmDgNhnlzPQos9v/qH+9FDHWRu9WdB+KpbtFngauOP2tAyY+xP7ZYHnZUMTGgBKAZiQu9hYZQua8ccwtsD9KLdZuguQnk76/wVaZRUDcLuQXsASDpnzoTN1ZCR8z6QDSJaNg6YPOgPnlr2BvlFteVCIsWnsxpmNlmGTdyJ2YeeiAfbLbPXfKCZ9lWmd1ymDJLetnKhrHVxQSqZ8+Ol7aJSSi5Bss8=;gal8eSVPY8kUuklzsvZH1Q=="
 ---

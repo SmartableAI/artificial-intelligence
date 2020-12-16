@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Benzinga.com
@@ -42,6 +42,31 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_779236312-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
+    excerpt: "New York, Dec 16 (IANS) Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a move that is aimed at strengthening IBMs portfolio as an end-to-end digital payments solution provider and further advancing IBMs hybrid cloud and AI strategy."
+    publishedDateTime: 2020-12-16T12:06:00Z
+    webUrl: "https://www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
+    ampWebUrl: "https://www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-news-news-umqkOOhbggcci.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 24
+  - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
+    excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
+    publishedDateTime: 2020-12-16T12:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/12/16/ibm-makes-another-cloud-deal-acquiring-fintech-to-boost-payment-technology/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 22
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
+        width: 577
+        height: 324
         isCached: true
 
 secured: "IzU9h8NQvtBMd7xT+9L7xC/Q0laXx2zVjSbSRviS7yOcimxnZWsvekq/U9OjyRXyScn3EaC4tEL8IkDPCgJT46Y/V3mwpC9PMjy0LElG2SemHdGWtQwDckAFjPKp6lGJ1BDHE1bagINZkk6mAx580N6iUSr9FZx3UcVUfs0jZj2nQKbKyf56urbq+jui5erT7MSQ7afPrPzxtI+PHsFmpv8ZnkZ1wzzOwscBhtlMXTH5tP0MN5sJFua+G2wdkgRIxONZfS2S9yCNGfgmA1epP40DOak+ziqPTjErRIJ+HjECxMs5vH4tNpxn6115iY7rz7XYYg2bwfBGA6yGFPR5Phv9Gk9j3D9qJwZ01p0vlf2whRKTJrqoyxy9ddL2+T7QKws0yQYFVLco7xiaF4831DEaOB0I6e7xnaKro1/mZZ23ML0UQ1pROJjHBKieBFWl8uE5UYS2I5ttgX+vQT5v3Pe4XT95IItdBrTBd+YFY872EN2B7ehcyS6z/vlZ6AuaQNU0NOBpmn6rQmmUqWXsng==;Twe0BPcKDrD60uKkYcthGg=="

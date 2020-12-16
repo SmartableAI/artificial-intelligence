@@ -82,6 +82,20 @@ related:
         width: 2695
         height: 1414
         isCached: true
+  - title: "4iQ and Alto Analytics Merge and Rebrand as Constella Intelligence"
+    excerpt: "PRNewswire/ -- 4iQ, the leader in identity intelligence, and Alto Analytics, a leader in applying AI & data science to the digital public sphere, today announced the two companies have merged and rebranded as Constella Intelligence (“Constella”),"
+    publishedDateTime: 2020-12-16T12:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computer-and-data-security-artificial-intelligence-computing-and-information-technology-4847220154597895be67c625de83b6e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "aNdNBxni/pALLHTCicsJ4Skf77mwpr+KL+huUZ+GF8LdVHkd+fZai7JdYuq0tAAqoQ/Xd/u4eMvoEVLCUHxzmgzzcU5AbEObH6q7EbYjRiioMk6F3HbeznjYHcp/JSL84vwq1hxJKo3iJzeTtzzcNydPmYWTxFhHmurW/ygM1KG2E9Epd5O6AMGmRKgnWgMU2o1uecUM4cVo0EXUYzgGZQlcpFNWC7k/dHBfSPIt2rFW0WpKKwKjjzlTsCk38YQBXwmoPVE7Kc1BUV9yzi3XFYW4oLFoexC81aUcnrg2NuSpcUo50aTOjYPVkWyYZSUmsWtxsPSIP63FUVx5l5dS1ctCxifVuD/yaE/020h4TTg=;rmqKasVxDHVB8/msXrEmRA=="
 ---

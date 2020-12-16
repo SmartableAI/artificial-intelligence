@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-01-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today.md",
+      "title": "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today",
+      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as part of the company's Solve Strategy Series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18572236",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236",
+      "publishedDateTime": "2020-11-30T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
       "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
       "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
@@ -1309,111 +1396,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-mit-neural-network-knows-when-it-can-be-trusted.md",
-      "title": "MIT neural network knows when it can be trusted",
-      "excerpt": "Deep learning neural networks are artificial intelligence systems that are being used for increasingly important decisions. Deep learning neural networks are used for tasks as varied as autonomous",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
-      "originalUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/ai-certainty.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
-      "publishedDateTime": "2020-11-23T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill.md",
-      "title": "Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill",
-      "excerpt": "Many BI job offerings want someone who can deploy predictive models that actively impact the company, instead of passive analytics, like dashboards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3a9bf8ea6250a0856f35b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/amp/",
-      "publishedDateTime": "2020-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

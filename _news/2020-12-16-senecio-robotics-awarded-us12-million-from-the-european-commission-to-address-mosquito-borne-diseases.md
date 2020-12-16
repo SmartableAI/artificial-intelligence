@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Senecio Robotics awarded US$12 Million from the European Commission to address mosquito borne diseases"
-excerpt: "According to Lepek, \"We have been working hard in the last few years, and believe we have solved what is required for operators to start using SIT on a large scale ... Senecio develops an AI-driven solution which automates key parts of the process ..."
-publishedDateTime: 2020-12-16T00:01:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/senecio-robotics-awarded-us-12-million-from-the-european-commission-to-address-mosquito-borne-diseases-807048614.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/senecio-robotics-awarded-us-12-million-from-the-european-commission-to-address-mosquito-borne-diseases-807048614.html"
+excerpt: "With nearly 700 million people infected with a mosquito borne disease every year, as well as the increase in mosquito populations driven by a warming climate, it is a massive and growing challenge to fight them using only traditional approaches."
+publishedDateTime: 2020-12-16T12:30:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-automobile-parts-manufacturing-consumer-products-and-services-a51b62c1bde9b6547171c4adc063de76"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-automobile-parts-manufacturing-consumer-products-and-services-a51b62c1bde9b6547171c4adc063de76"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i1.ytimg.com/vi/UUyj3-NleG0/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 360
         isCached: true
 
-secured: "ij1vpSWVJ0bhWlIuO/5lN8/4rJ7CCcrM28wXeLHvmUdIflX6CF51rgzU5H4d3huGc0o6+MXKrEQK2QEZU0CCCb3XIHZsqscuA7VWrD5nYp7nyJ5E5cxGOAc6elodiU6zopOKAdPhRzdoRJCuhkhIRGm4TWxAR4jL85VBFW1XkwI4kGM/dQWD3IH5xofT4wjqYNAeMSULj2Btm1gR7o1L6ey7IsFdq2PdRXxc9mTSdG2d1ahorJzAri8JcB7Zld9o+OLch5oD0rD7FYnL2vTlLjXPI6vweA9yVw6vYLMPJ8npnMrPeFv7dEU+iYxaOpaH3HWS4t60iFbwftYzNAPMJlgXqR8lWTBoT5vLBGfiSrM=;I5WCUPXdMX4hVmN+gRYy+w=="
+secured: "+PXk/K0PiqWPiB4G4VCxBAtfbt4H3ExlLEm8HobtCTtMDW6TaOI85vwRvNhEctJudPfLGfp+bYoIZD5vCkaJSSWtiZDUjMW9xgeqemhrmXQYUqthUwwnVTFPMtjYEnB0/1SrpFVmcS3nYZfZ+/Y0gfF+dnmwLUXCu9sGiKY/Sau4tXyNHoueQBbKlKCkLB2Mh7OLG/ke1G9QuTff+4nI9fqd/tpe4Pt0LQAD/lo9VLWusyko4UD1NXlwbUFvCM71L8gVavkJMwnDVkg0m27Zq/gI+JXNWPLoge0WK+snOTSXcNF85+KDp99YMhUVYS5vLpI0x8pmT72Yg4u1cxpWr33HG+cMxV4jBS8abX3Czac=;XuYxF0o2Aw3A0addn7EXvg=="
 ---
 

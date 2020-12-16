@@ -51,6 +51,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Nasdaq listed Regtech NICE Actimize to Leverage Biometric Risk Screening Engine and Facial Recognition Tech from FACEPOINT"
+    excerpt: "Nasdaql listed Regtech NICE Actimize to leverage biometric risk screening engine and facial recognition tech from FACEPOINT."
+    publishedDateTime: 2020-12-16T03:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170286-nasdaq-listed-regtech-nice-actimize-to-leverage-biometric-risk-screening-engine-and-facial-recognition-tech-from-facepoint/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170286-nasdaq-listed-regtech-nice-actimize-to-leverage-biometric-risk-screening-engine-and-facial-recognition-tech-from-facepoint/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170286-nasdaq-listed-regtech-nice-actimize-to-leverage-biometric-risk-screening-engine-and-facial-recognition-tech-from-facepoint/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Risk-Money-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "l1pkQHbQ5LF62bt24vLYY9bhMRMGZdSNL8/lF6d+tc563sJOS/8QGuTQ+QvcdfEU8AuE+p1/nFYCgZv3nJcEbJlGieunyMqfP/03nxR9FOxrE3wkoiSjt3TalMoQK9Da2VDdF/85mFF8DPZoRQfJlfY9847Vykrx2ttpHzanK/lCAZzRrRDNj8fw+SMc2jtMNLXB47+miHmmJgI2tVDErU2McrGB+EAKpPzRPwlWbioE9Tv02tKK7MCYX9bfQReC51gHD5S0xrZjNzjisFz7Izgln/ZFFGQN41baC/OnEHUuBUgJumlV3su7KTx+8m7xo5c7OtgODgRwH/kHVDHkXxLQdk9kWNlZnNftFeOH/98=;gTKw5l6ur2l6qi9eWc50bw=="
 ---

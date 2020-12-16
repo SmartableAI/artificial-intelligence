@@ -2,6 +2,416 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-why-do-many-self-driving-cars-look-like-toasters-on-wheels.md",
+      "title": "Why Do Many Self-Driving Cars Look Like Toasters on Wheels?",
+      "excerpt": "Without any need for steering wheels or pedals, the cubes give passengers room to maneuver inside. The latest entrant, from Zoox, can hold 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
+      "originalUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd7a8484c7927c6dddd2eba/master/pass/Business-Zoox-Autonomous-Vehicle.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-cars-look-toasters-wheels/amp",
+      "publishedDateTime": "2020-12-15T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-artificial-intelligence-may-be-the-defining-technology-of-our-times.md",
+      "title": "Artificial Intelligence May be the \"Defining Technology of Our Times\"",
+      "excerpt": "Artificial intelligence is reshaping our environment, finding use in healthcare, customer service, data analytics, autonomous driving, and many other industries. JP Morgan analysts believe the market could grow to $58 billion by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-may-be-the-defining-technology-of-our-times-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025.md",
+      "title": "A Data-Driven Guide to Whether a Machine Will Be Doing Your Job By 2025",
+      "excerpt": "Humans and machines will clock the same work hours by 2025 (and other startling findings from the World Economic Forum’s ‘Future of Jobs 2020’ report).",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "originalUrl": "https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1608041314845-screen-shot-2020-12-02-at-91900-pm.png",
+          "width": 789,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025",
+      "publishedDateTime": "2020-12-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome.md",
+      "title": "Tesla hacker unlocks Autopilot ‘Augmented Vision’ and it’s awesome",
+      "excerpt": "A Tesla hacker has unlocked “Autopilot Augmented Vision,” a new mode in Tesla’s autonomous driving suite, that enables to see what Autopilot can detect in real time. It’s awesome to watch. More than two years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
+      "originalUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Autopilot-Augmeneted-vision-e1608042867540.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/15/tesla-hacker-unlocks-autopilot-augmented-vision-and-its-awesome/amp/",
+      "publishedDateTime": "2020-12-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
+      "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
+      "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/",
+      "publishedDateTime": "2020-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs.md",
+      "title": "SUN Mobility rides on Microsoft Azure to help build future EVs",
+      "excerpt": "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
+      "originalUrl": "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg",
+          "width": 1000,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html",
+      "publishedDateTime": "2020-12-15T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-ai-is-the-key-to-more-affordable-and-available-live-transcription.md",
+      "title": "AI Is The Key To More Affordable And Available Live Transcription",
+      "excerpt": "Many organizations with an accessibility mindset (or mandate) consider real-time transcription services a must-have for live events. How else to ensure every attendant is able to follow what's happening,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/ai-is-the-key-to-more-affordable-and-available-live-transcription/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/ai-is-the-key-to-more-affordable-and-available-live-transcription/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29fb70f114e9e30f73339%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/ai-is-the-key-to-more-affordable-and-available-live-transcription/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/15/ai-is-the-key-to-more-affordable-and-available-live-transcription/amp/",
+      "publishedDateTime": "2020-12-15T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-day-two-of-ai-are-you-ready-to-move-your-models-into-production.md",
+      "title": "Day Two Of AI: Are You Ready To Move Your Models Into Production?",
+      "excerpt": "Day two of AI is the day that an organization’s models are moved out of the realms of research and training and into production, where their hypersensitivity meets the hyper dynamism of real-life data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd783eeef4d874ac503fd86%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/15/day-two-of-ai-are-you-ready-to-move-your-models-into-production/amp/",
+      "publishedDateTime": "2020-12-15T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-aistorm-raises-16-million-for-low-powered-ai-edge-computing-chips.md",
       "title": "AIStorm raises $16 million for low-powered AI edge computing chips",
       "excerpt": "and cost requirements associated with at-the-edge AI. The startup’s chip design is capable of 2.5 theoretical operations per second and 10 theoretical operations per second per watt, or about 5 ...",
@@ -402,6 +812,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-using-machine-learning-and-data-to-reduce-road-accidents.md",
+      "title": "Using machine learning and data to reduce road accidents",
+      "excerpt": "Transport for New South Wales and Microsoft ran a trial in Wollongong to uncover five potentially risky intersections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/19/bfec6085-f806-4ba9-858f-4d4848a19624/thumbnail/770x578/ab6b4e2fb15289bafe46205cb28e887e/nsw-transport-and-microsoft-use-machine-5fb5cf8f6df74d74600bc5b6-1-nov-19-2020-6-12-05-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking.md",
       "title": "Sony AI launches the Gastronomy Flagship Project to apply AI to cooking",
       "excerpt": "Learn about the next-gen architecture needed to unlock the true capabilities of AI and machine learning. Sony began investing in AI with cooking applications in April 2018, when the company’s U.S. division — Sony Corporation of America — signed an agreement with Carnegie Mellon University to work on AI and robotics research.",
@@ -462,7 +924,7 @@
       "originalUrl": "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -809,429 +1271,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel.md",
-      "title": "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion.md",
-      "title": "Is the AI software market headed for $150 billion or closer to $37 billion?",
-      "excerpt": "At that point, the apps category will start to lose steam and the platform category will take the edge. In the apps category, vendors will lose the ability over time to charge a premium for AI-infused apps as this functionality will become a standard feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
-      "originalUrl": "https://www.techrepublic.com/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/14/6f4378f0-a346-4567-9da6-fc984e06efcc/resize/1200x/3cc89591e8366da160bc785a689db300/forrester-ai-graphic.jpg",
-          "width": 1200,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
-      "publishedDateTime": "2020-12-14T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school.md",
-      "title": "Self-driving cleaning robot sparking kids' curiosity at Virginia school",
-      "excerpt": "It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the floors.",
-      "sourceUrl": null,
-      "webUrl": "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/",
-      "originalUrl": "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125130.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html",
-      "cdnAmpWebUrl": "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html",
-      "publishedDateTime": "2020-12-14T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNYT NewsChannel 13",
-        "domain": "wnyt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech.md",
-      "title": "Modulate’s ToxMod uses AI to scan game voice chat for toxic speech",
-      "excerpt": "Modulate has launched today ToxMod, a new service that uses AI to scan voice chat in video games for toxic speech or other bad behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/toxmod.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/",
-      "publishedDateTime": "2020-12-14T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio.md",
-      "title": "Trailblaizing end-to-end AI application development for the edge: Blaize releases AI Studio",
-      "excerpt": "You might not know it by reading this news, but Blaize is an AI chip company. Blaize is now boldly going where none of its ilk has gone before, releasing a software development product. And that's not",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
-      "originalUrl": "https://www.zdnet.com/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/38c37d7d-8f53-495a-8df8-d835aa2a8658/blaize.png",
-          "width": 674,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
-      "publishedDateTime": "2020-12-14T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
-      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
-      "excerpt": "International Business Machines Corporation IBM added new functionalities to IBM Watson to enhance Artificial Intelligence (AI)-powered automation offerings and improve results obtained from AI predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
-      "publishedDateTime": "2020-12-14T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-new-ai-scrabble-mod-only-allows-words-that-dont-exist.md",
-      "title": "New AI Scrabble mod only allows words that don’t exist",
-      "excerpt": "Thanks to a new AI version of the classic board game, his distressing knowledge of the dictionary will be of no use at all — because real words no longer count. The BLABRECS system is the brainchild of Max Kreminski,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-14T124347.274-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
-      "publishedDateTime": "2020-12-14T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa.md",
-      "title": "Tonko bill to expand K-12 AI education passes in NDAA",
-      "excerpt": "Congressman Paul Tonko, one of a handful of engineers currently serving in Congress, announced his Artificial Intelligence Education Act has passed the House as part of this year’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
-      "originalUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/saratogian.com/content/tncms/assets/v3/editorial/e/ee/eee4a3e4-445f-11ea-90a2-1b4c80ce84f5/5e347ffcdaa11.image.jpg?resize=1024%2C678",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
-      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
-      "publishedDateTime": "2020-12-14T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Saratogian",
-        "domain": "saratogian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
-      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
-      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
-      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
-      "publishedDateTime": "2020-12-14T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

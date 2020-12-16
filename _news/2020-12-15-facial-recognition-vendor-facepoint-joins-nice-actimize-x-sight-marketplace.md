@@ -39,6 +39,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Nasdaq listed Regtech NICE Actimize to Leverage Biometric Risk Screening Engine and Facial Recognition Tech from FACEPOINT"
+    excerpt: "Nasdaql listed Regtech NICE Actimize to leverage biometric risk screening engine and facial recognition tech from FACEPOINT."
+    publishedDateTime: 2020-12-16T03:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170286-nasdaq-listed-regtech-nice-actimize-to-leverage-biometric-risk-screening-engine-and-facial-recognition-tech-from-facepoint/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170286-nasdaq-listed-regtech-nice-actimize-to-leverage-biometric-risk-screening-engine-and-facial-recognition-tech-from-facepoint/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170286-nasdaq-listed-regtech-nice-actimize-to-leverage-biometric-risk-screening-engine-and-facial-recognition-tech-from-facepoint/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Risk-Money-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "NICE Actimize’s X-Sight Marketplace Offers Facial Recognition Technology for Advanced AML/KYC Risk Screening with Addition of FACEPOINT"
     excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE) today announced that FACEPOINT, which launched an industry-leading biometric risk screening"
     publishedDateTime: 2020-12-14T11:44:00Z

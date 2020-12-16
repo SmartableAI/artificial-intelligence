@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Service Robotics Market Analysis Covering Current and Future Growth, Trend, Feasibility and Regional Outlook to 2026"
-    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
-    publishedDateTime: 2020-12-11T20:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-analysis-covering-current-and-future-growth-trend-feasibility-and-regional-outlook-to-2026-2020-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026"
     excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
     publishedDateTime: 2020-12-16T07:31:00Z

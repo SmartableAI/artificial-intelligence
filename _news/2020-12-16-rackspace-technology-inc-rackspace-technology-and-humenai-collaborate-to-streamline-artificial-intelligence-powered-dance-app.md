@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered ..."
+    excerpt: "Premier Consulting Partner, Onica, a Rackspace Technology company, to improve its Sway app, which uses AI-powered motion filters to let users visualize themselves conducting complex dance moves. Rackspace Technology’s team of engineers quickly identified the need for a stronger infrastructure foundation for rapid releases and reduced infrastructure cost."
+    publishedDateTime: 2020-12-16T12:21:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-entertainment-business-corporate-news-products-and-services-604c5fe1ae46e3d12bc709e7a9236e9b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 42
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Rackspace Technology and Humen.Ai Collaborate to Streamline Artificial Intelligence-Powered Dance App"
     excerpt: "Human.Ai Expected to Save 70% on Infrastructure CostsSAN ANTONIO, Dec. 15, 2020 (GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading en"
     publishedDateTime: 2020-12-16T00:32:00Z

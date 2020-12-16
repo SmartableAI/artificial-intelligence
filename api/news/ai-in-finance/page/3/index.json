@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-07-new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker.md",
+      "title": "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker",
+      "excerpt": "New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been recognized as a 2020 Benzinga Global Fintech Listmaker in two categories: Best Financial Research Company and Best Investment Research Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-2020-11-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-2020-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T16:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-ai-can-make-bank-loans-more-fair.md",
+      "title": "AI Can Make Bank Loans More Fair",
+      "excerpt": "Many financial institutions are turning to AI reverse past discrimination in lending, and to foster a more inclusive economy. But many lenders find that artificial-intelligence-based engines exhibit many of the same biases as humans.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/ai-can-make-bank-loans-more-fair",
+      "originalUrl": "https://hbr.org/2020/11/ai-can-make-bank-loans-more-fair",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_06_1215016292.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/ai-can-make-bank-loans-more-fair",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ai-can-make-bank-loans-more-fair",
+      "publishedDateTime": "2020-11-06T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-inside-fintech-startup-upstarts-ipo-filing.md",
       "title": "Inside fintech startup Upstart’s IPO filing",
       "excerpt": "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ...",

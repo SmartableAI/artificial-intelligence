@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a4
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "City releases dozens of pages of emails on police use of facial recognition"
+    excerpt: "The emails show that the NOPD and Louisiana State Police have had a formal relationship since at least 2018 that provides the NOPD access facial recognition software."
+    publishedDateTime: 2020-12-14T19:04:00Z
+    webUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Lens
+      domain: thelensnola.org
+    quality: 72
+    images:
+      - url: "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/12/DSC_5214-scaled.jpg?fit=2560%2C1709&ssl=1"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "ACLU of Louisiana Obtains E-mails that Confirm NOPD’s Use of Racially Biased Facial Recognition Technology"
     excerpt: "After years of assurances from city officials that facial recognition was not used in New Orleans, the ACLU of Louisiana has obtained nearly 50 pages of email requests from New Orleans Police Department (NOPD) to the Louisiana State Police (LSP) Fusion Center asking LSP to use facial recognition on various photos and video stills."
     publishedDateTime: 2020-12-14T21:48:00Z

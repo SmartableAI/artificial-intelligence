@@ -367,52 +367,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-12-learning-to-make-the-machine-part-of-ai-invisible-and-easy.md",
-      "title": "Learning To Make The Machine Part Of AI Invisible And Easy",
-      "excerpt": "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/",
-      "originalUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/",
-      "publishedDateTime": "2020-12-11T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-natural-language-processing-nlp-market-analysis-trends-growth-size-share-and-forecast-2019-to-2025.md",
       "title": "Natural Language Processing Nlp Market Analysis, Trends, Growth, Size, Share and Forecast 2019 to 2025",
       "excerpt": "The Global Natural Language Processing Nlp Market size is expected to grow at an annual average of 20 3 during 2019 2025 Key growth factors for the NLP market include increased use of smart devices increased adoption of cloud based",
@@ -1513,6 +1467,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ipo-launch-c3ai-proposes-terms-for-504-million-ipo.md",
+      "title": "IPO Launch: C3.ai Proposes Terms For $504 Million IPO",
+      "excerpt": "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "originalUrl": "https://www.thestreet.com/ipo/news/c3ai-ipo-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png",
+          "width": 619,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch",
+      "publishedDateTime": "2020-12-02T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-apples-m1-chip-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-apples-m1-chip-means-for-big-data-and-analytics/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1373179/Constella_Logo.jpg?p=facebook"
         width: 2695
         height: 1414
+        isCached: true
+  - title: "4iQ and Alto Analytics Merge and Rebrand as Constella Intelligence"
+    excerpt: "PRNewswire/ -- 4iQ, the leader in identity intelligence, and Alto Analytics, a leader in applying AI & data science to the digital public sphere, today announced the two companies have merged and rebranded as Constella Intelligence (“Constella”),"
+    publishedDateTime: 2020-12-16T12:31:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computer-and-data-security-artificial-intelligence-computing-and-information-technology-4847220154597895be67c625de83b6e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "nyXRiX1ngyT0uKyCqDgvJO8Ty+qv7+s/lpa4HAs0wQ6AR9grMZ5D3rq8Jux6lWI/nUsRFB+xDLrMyYGr8cUsg1TkxxH/3FFUYqqBAWMrom6ONmUqasXDT6dJKXKyMLjYBIvy2NKeaRhKfoQZdcHCE5XVEBbW2SmLo8dqCYK23Ck2CrRsugIcbkzuoqpUohebFtNwyVFd0bepT7qF36QvPG5G3aIZYaI2zF9aCR1aRcaUVxj7jlgDJMT1wL7XCH8Gw/pCZ/3mjncBLxeqW0nAOe21biU57bTJiPRLKJCAvHpujfPfk/ZfDz4aX+3ACIWldGKwnh3hFPirsjukMzhhenK0Dt8qHpPXXKICD60L3BMQ2wB9niWXuw6iSjPI82iLK6H+heVgcCCJ4pYNN6wWQBrInRv0b/WiXhzAquFGojE5fhHcoSa3BabEtlM9hYctYlllD3WIQQ1drk9aJY5rjVjk+XxIDzSuRUTyVsGJpvdqRcdOpc6StnvQ1EFJvHKOJb8p7OToLJWDYD2xg06khA==;VD7tgpR31ftjfzyVYk8swg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.industryweek.com/supply-chain/article/21150270/supply-
 webUrl: "https://www.industryweek.com/supply-chain/article/21150270/supply-chain-ai-getting-the-most-bang-for-your-buck"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 625
     isCached: true
+
+related:
+  - title: "Ethical AI: The Next Big Thing for Enterprises in 2021"
+    excerpt: "Before COVID-19, most people had some degree of apprehension about robots and artificial intelligence (AI). While the initial dilemma of the technology was shap"
+    publishedDateTime: 2020-12-16T11:35:00Z
+    webUrl: "https://www.cxotoday.com/ai/ethical-ai-the-next-big-thing-for-enterprises-in-2021/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 56
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/ai-ethics.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "xpXQa1NryU+aRtht4hej/AZtT6EH6TAXjHlSXjH3l2H/cKnLGBfPFoXWHRhKxcxWaYa/vMrOyoga/piW9MMqJb+hW0fshDHdzhXN/nWULdeaOCZghsPTDYQnHwjxoqiAofABJ5zMIccV4APrelS8JKKH7/wJr3FWA5reW8ryHmi74vT2jEb3n0Y4ZQlEDjF48u6cKpRheJL9OCqNp+XbcJWKFISwsET5Qyzz+lLvszajqwtv783G7vG+V0vnekVJXMtdv0j4yzYX8SmaR6OhgQIkvmaopESw6XvAh2TWqEn+plB5JiLQha0zv/kSDwkqopZvBWw9G6zKCIciybWZwnVX4SGV1WgPDFyCNdroM7E=;PNni83c9KqpPmm432Dnkxw=="
 ---

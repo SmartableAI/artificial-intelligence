@@ -41,6 +41,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "City releases dozens of pages of emails on police use of facial recognition"
+    excerpt: "The emails show that the NOPD and Louisiana State Police have had a formal relationship since at least 2018 that provides the NOPD access facial recognition software."
+    publishedDateTime: 2020-12-14T19:04:00Z
+    webUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Lens
+      domain: thelensnola.org
+    quality: 72
+    images:
+      - url: "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/12/DSC_5214-scaled.jpg?fit=2560%2C1709&ssl=1"
+        width: 2560
+        height: 1709
+        isCached: true
 
 secured: "hmJhTjPgX6GQ9eXRGTtn8+hlq5fo4/0OH3qzyGMnVyAzQMSfLD7Xmv6ajPNaXiSqkEcapQLb7AizMGIcx6VSwkPJrK4f66ir/gp5qwHAP2UQ1WlXPveycX3Yaw0SXJ1yoidY+6DOiVU3v9PBMLcqx0sZ3t17GyT8a0AHUJY/7L2Wj2+brkf3BMprnafOtnC3h7nvsg6vICjEsxD4B+NMsr5jirZvPZb/zqDh3ZL5YSvwaHaxycfCYNFTT4uCmCYNlF4gMy9azGtY9oEQuwDZHa1oDfjFsJKqjsMFPi2NdewFCsOQBQHvz0UnUqsrvXFtMcwf6KAp2G1A0NgDMqOpB1wSzh6XDRV8CTIe3xOaDss=;2X1ct+VN2yRF6csu8+BK9A=="
 ---

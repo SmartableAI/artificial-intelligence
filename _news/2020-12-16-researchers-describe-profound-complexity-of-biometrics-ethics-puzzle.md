@@ -24,6 +24,22 @@ images:
     height: 1005
     isCached: true
 
+related:
+  - title: "Infinity Optics to use Rank One facial recognition algorithms in True Biometric Hash technology"
+    excerpt: "Rank One Computing and Infinity Optics have formed a partnership under which Rank One’s facial recognition algorithms will be used in the development of Infinity’s QuantumCrypt biometric face"
+    publishedDateTime: 2020-12-13T23:27:00Z
+    webUrl: "https://www.biometricupdate.com/202012/infinity-optics-to-use-rank-one-facial-recognition-algorithms-in-true-biometric-hash-technology"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 27
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
+
 secured: "NCzXzpUiBAA5wzqr9Q9QhSxij3BPIePelKIkYS6YfD82+K6N/jn9E8yo16giTtwZ3QSgo1krshVhPro0jJre6QBvezKQQCwOdvumw2S7XW7r/xmuhidTWtHhuhMZsU5SyWIpFi7dgsYbXaVfn9WQEUtkWt8luBAdJ4jUmrW4+YRQhMwZGiZEKYKCyEtrLExuMpW8wj6GE37veJapZWmA3yiJ3JGavigkrYezush/DvCHyAPYz8nvao8L6wCOxANqrx9x4qxh9m/sZudgFhR3HM2NEBM/8lXFgw179KUzBbCSTtj2OEyAIn31xQs8rhL/tBX9TrgNrSl6vdw0nDXqD9KerIrjq66AdTe2f4lbaKw=;Y6nmkEyTG9h+K7Lb01xwdg=="
 ---
 

@@ -2,6 +2,429 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel.md",
+      "title": "Star Alliance Goes All-In on AWS to Invent the Next Era of Air Travel",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Star Alliance, the world’s largest airline alliance, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/star-alliance-goes-all-in-on-aws-to-invent-the-next-era-of-air-travel-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion.md",
+      "title": "Is the AI software market headed for $150 billion or closer to $37 billion?",
+      "excerpt": "At that point, the apps category will start to lose steam and the platform category will take the edge. In the apps category, vendors will lose the ability over time to charge a premium for AI-infused apps as this functionality will become a standard feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "originalUrl": "https://www.techrepublic.com/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/14/6f4378f0-a346-4567-9da6-fc984e06efcc/resize/1200x/3cc89591e8366da160bc785a689db300/forrester-ai-graphic.jpg",
+          "width": 1200,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/",
+      "publishedDateTime": "2020-12-14T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school.md",
+      "title": "Self-driving cleaning robot sparking kids' curiosity at Virginia school",
+      "excerpt": "It's kind of like of those robotic vacuums on steroids. There’s a self-driving robot methodically making the rounds at St. Marks Catholic School scrubbing and cleaning the floors.",
+      "sourceUrl": null,
+      "webUrl": "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/",
+      "originalUrl": "https://wnyt.com/commit-to-kids/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school/5951246/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wnyt.com/wnytimages/repository/2020-12/Selfdriving_cleaning_robot_sparking_kids39_curiosity_at_Virginia_school-syndImport-125130.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html",
+      "cdnAmpWebUrl": "https://amp-wnyt-com.cdn.ampproject.org/c/s/amp.wnyt.com/articles/self-driving-cleaning-robot-sparking-kids-curiosity-at-virginia-school-5951246.html",
+      "publishedDateTime": "2020-12-14T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WNYT NewsChannel 13",
+        "domain": "wnyt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech.md",
+      "title": "Modulate’s ToxMod uses AI to scan game voice chat for toxic speech",
+      "excerpt": "Modulate has launched today ToxMod, a new service that uses AI to scan voice chat in video games for toxic speech or other bad behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/",
+      "originalUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/toxmod.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/modulates-toxmod-uses-ai-to-scan-game-voice-chat-for-toxic-speech/amp/",
+      "publishedDateTime": "2020-12-14T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio.md",
+      "title": "Trailblaizing end-to-end AI application development for the edge: Blaize releases AI Studio",
+      "excerpt": "You might not know it by reading this news, but Blaize is an AI chip company. Blaize is now boldly going where none of its ilk has gone before, releasing a software development product. And that's not",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
+      "originalUrl": "https://www.zdnet.com/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/14/38c37d7d-8f53-495a-8df8-d835aa2a8658/blaize.png",
+          "width": 674,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trailblaizing-end-to-end-ai-application-development-for-the-edge-blaize-releases-ai-studio/",
+      "publishedDateTime": "2020-12-14T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
+      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
+      "excerpt": "International Business Machines Corporation IBM added new functionalities to IBM Watson to enhance Artificial Intelligence (AI)-powered automation offerings and improve results obtained from AI predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp",
+      "publishedDateTime": "2020-12-14T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-new-ai-scrabble-mod-only-allows-words-that-dont-exist.md",
+      "title": "New AI Scrabble mod only allows words that don’t exist",
+      "excerpt": "Thanks to a new AI version of the classic board game, his distressing knowledge of the dictionary will be of no use at all — because real words no longer count. The BLABRECS system is the brainchild of Max Kreminski,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-14T124347.274-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/14/new-ai-scrabble-mod-only-allows-words-that-dont-exist/amp/",
+      "publishedDateTime": "2020-12-14T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa.md",
+      "title": "Tonko bill to expand K-12 AI education passes in NDAA",
+      "excerpt": "Congressman Paul Tonko, one of a handful of engineers currently serving in Congress, announced his Artificial Intelligence Education Act has passed the House as part of this year’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "originalUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/saratogian.com/content/tncms/assets/v3/editorial/e/ee/eee4a3e4-445f-11ea-90a2-1b4c80ce84f5/5e347ffcdaa11.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "publishedDateTime": "2020-12-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Saratogian",
+        "domain": "saratogian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
+      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
+      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "publishedDateTime": "2020-12-14T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-amazons-zoox-reveals-self-driving-taxi.md",
       "title": "Amazon's Zoox reveals self-driving taxi",
       "excerpt": "Amazon-owned Zoox has unveiled the autonomous electric vehicle it plans to launch in a ride-hailing service. The four-passenger car has sliding doors and center-facing seats.",
@@ -10,7 +433,7 @@
       "originalUrl": "https://www.foxnews.com/auto/amazons-zoox-self-driving-taxi",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -354,7 +777,7 @@
       "originalUrl": "https://www.techrepublic.com/article/what-apples-m1-chip-means-for-big-data-and-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -613,7 +1036,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -799,466 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-artificial-intelligence-ai-whats-in-store-for-2021.md",
-      "title": "Artificial Intelligence (AI): What’s In Store For 2021?",
-      "excerpt": "As seen with this week’s hugely successful IPO of C3.ai, there continues to be lots of interest in the AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd56a42e4afaed9fb21cb62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D162%26cropY2%3D3369",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/12/12/artificial-intelligence-ai-whats-in-store-for-2021/amp/",
-      "publishedDateTime": "2020-12-12T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-netflix-explains-how-it-uses-ai-to-sell-you-on-a-show.md",
-      "title": "Netflix explains how it uses AI to sell you on a show",
-      "excerpt": "Netflix has explained how it uses AI to decide how to not only pitch movies, but predict their audiences — it's not just relying on execs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
-      "originalUrl": "https://www.engadget.com/netflix-explains-ai-for-show-marketing-201524601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F73c97250-3cae-11eb-bd9d-6856f6ef8b98&client=amp-blogside-v2&signature=424034cddd4fcf1b4a10d4b979da695a6463bdd3",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/netflix-explains-ai-for-show-marketing-201524601.html",
-      "publishedDateTime": "2020-12-12T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-c3ai-ipos.md",
-      "title": "Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs",
-      "excerpt": "Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/",
-      "originalUrl": "https://techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027412766.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/amp/",
-      "publishedDateTime": "2020-12-12T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-google-used-a-64-camera-rig-to-train-its-portrait-lighting-ai.md",
-      "title": "Google used a 64-camera rig to train its portrait lighting AI",
-      "excerpt": "On the Pixel 4, Pixel 4a, Pixel 4a (5G) and Pixel 5, the Pixel Camera automatically applies Portrait Light in default mode and to Night Sight photos that have people in them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-portrait-lighting-ai-technology-180758456.html",
-      "originalUrl": "https://www.engadget.com/google-portrait-lighting-ai-technology-180758456.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fe60d2cd0-3c77-11eb-9dd7-226a3fff991b&client=amp-blogside-v2&signature=2ce2c91b44de27c7f06cb14aa5c89a940953eed1",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-portrait-lighting-ai-technology-180758456.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-portrait-lighting-ai-technology-180758456.html",
-      "publishedDateTime": "2020-12-12T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-luminar-is-overhyped-these-self-driving-car-stocks-are-better-buys-right-now.md",
-      "title": "Luminar Is Overhyped: These Self-Driving Car Stocks Are Better Buys Right Now",
-      "excerpt": "Investors are right in getting excited about the potential for self-driving cars. But these stocks are better bets to take advantage of that potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604448%2Fsmart-car-road-grid-autonomous-driving-source-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/luminar-is-overhyped-these-self-driving-car-stocks/",
-      "publishedDateTime": "2020-12-12T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-is-googles-healthcare-play-a-dark-horse.md",
-      "title": "Is Google's Healthcare Play a Dark Horse?",
-      "excerpt": "Healthcare could be the industry where Alphabet finds its next big product, and the company's strategy is painting a clear picture of where it might materialize. Image source: . As of January 2020, Alphabet had bought more digital health start-ups than any other company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604158%2Fgettyimages-1278542600.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/12/is-googles-healthcare-play-a-dark-horse/",
-      "publishedDateTime": "2020-12-12T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-google-showed-us-the-danger-of-letting-corporations-lead-ai-research.md",
-      "title": "Google showed us the danger of letting corporations lead AI research",
-      "excerpt": "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/",
-      "originalUrl": "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/",
-      "publishedDateTime": "2020-12-12T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-conversational-ai-inside-rasas-open-source-approach.md",
-      "title": "Conversational AI: Inside Rasa's open source approach",
-      "excerpt": "Rasa isn't the only open source approach to natural language processing, but its large community suggests it's doing something right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
-      "originalUrl": "https://www.techrepublic.com/article/conversational-ai-inside-rasas-open-source-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/conversational-ai-inside-rasas-open-source-approach/",
-      "publishedDateTime": "2020-12-11T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-learning-to-make-the-machine-part-of-ai-invisible-and-easy.md",
-      "title": "Learning To Make The Machine Part Of AI Invisible And Easy",
-      "excerpt": "About 15 years ago, as Swami Sivasubramanian was making his way from grad school back into the working world, he saw that developers and builders at",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/",
-      "originalUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_edge-abstract-painting-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/12/11/learning-to-make-the-machine-part-of-ai-invisible-and-easy/amp/",
-      "publishedDateTime": "2020-12-11T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

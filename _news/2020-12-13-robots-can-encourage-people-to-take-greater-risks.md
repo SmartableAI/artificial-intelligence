@@ -43,15 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "'The robot made me do it': Robots encourage risk-taking behavior in people"
-    excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
-    publishedDateTime: 2020-12-11T20:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201211100646.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "k3LtJo54vM0XE5nWJJpCTra6kpg3UPaMfWiEnGUbKNag31ZwLvJaXWuxyPuJ6WOoUBy5fmPIKoMq9A5hcK7APJ2LTGAproCJNhd1LK9WeZJJLWid4KYasrt/TjTpmngPO83az7Y8PTQbIScFroAEBP3tV+kt6jmuNFjkRT84SQASYh5RHctzsiu6ydO59b4aB0aBG5o8KI5hke9L89dzIrgbf3dJgJIwxAV+XVvyTNDsTew0zVzJO1zyZoCvjRceDtGAiuRMMtrhMz/qxpinWDf+2ZvVMSInotgB9AW4Et8GaLPHssnW/ywKn/xj3xTACQOrjJ264GBoZiXu47XS/ZVVUw0HBRV50o2G12DRWPk=;yfmkYLY/5e+Ke0A4hLoOIA=="
 ---

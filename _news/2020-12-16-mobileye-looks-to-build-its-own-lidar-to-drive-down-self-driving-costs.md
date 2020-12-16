@@ -3,10 +3,10 @@ category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
 publishedDateTime: 2020-12-16T04:25:00Z
-originalUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
-webUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2I7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7"
+originalUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
+webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
 type: article
 quality: 74
 heat: 84
@@ -46,6 +46,6 @@ related:
         height: 272
         isCached: true
 
-secured: "zs6edMfkZikrT9o0OO0u5R3bhXBes16SESlkZ0t+0AaL8EVMsju/5CenC2fX9DqVdo+VKZPXdGXVD309q9ldz+baUpQPqub91+z9RRCAeq3kL4MAR5C8oe5GJ4OSnAcWBfxgLab5ErBNIpb9Gy4TNflVshj+AmOrbr8r1Ol568Mvi/D7mevTaLRIjnZMlOj+L3uRHz+8MSXfNjEAh4MBxgt4RdsKZIGj39V2WebG6053tven75uB/KYlW4U6YcNMlHnvOS9aQwDJ7f3Cc8cRY2BahiWH8o0fnp+vpRvQqnKsB1EEoeuT3Rn4MnIX3Fm1SnbfYoFKfVszJq0OfDS7Kb785ca7RFyc9VHZmjoE8JRpAlV/ucEBcaOvMjkaHuA0jAw9W2ZcL7fjYM4SU7KhZgMtVcoN3pEcF0oaOrG2L6NNmBsC8UzJwgeCLbxUefSxUoLz+8B7+XwC+tvlrSrOQx0ZFj2yxzb2xPUq9Xyilbqekh8PGRoE9YutoBBs4qOAXELz9tk9y++yY5oQURZIGg==;XmRTBYkmpGwk+nKqcbsBwQ=="
+secured: "1zwFp7pcFd46xbgwiwLrCDtO0TBfkQTYI1EMwAPi14KOCByo6ep/xiVcmfoSz4FhNdu9IZ8KjFwx4AAFPDwy852NfWCskDnwfeGgyfKAqUfY+rUdVzjZWlYUstSOmfP8mt6tWQoqC5vgAjczMyWhVftdKQdPQELKv+sYWbJILAcAl5Y6OOYNM6k42LqgPtSs37luK341xP56SrNRGGrZdKrg8ex4taaSR9u4Q+nRgTo22o51tpSsPJyTlZXBZmf3tHOjEiF3jmJkm0/nl+HsgLz9PnlOq3ibTS6aKA3wsgFkmrgT0SwPRlr1Bt5/RekpyPBZiXoJv17M0dkXdnpTvHM+JsEbkRIgHJOjbNJ7IBk=;EpnzDLRLmKVT6NIvCwIVMQ=="
 ---
 

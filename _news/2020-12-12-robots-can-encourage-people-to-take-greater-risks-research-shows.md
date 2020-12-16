@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201211/Robots-can-encourage-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201211/Robots-can-encourage-people-to-take-greater-risks-research-shows.aspx"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: News Medical
@@ -43,15 +43,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "'The robot made me do it': Robots encourage risk-taking behavior in people"
-    excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviors. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
-    publishedDateTime: 2020-12-11T20:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201211100646.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "VSgNYcJ6MRmfaoQPCkR8GSdZjYZjZtuoysT50wN3FVPqdwAfn3LbrYdGeIWvuxxvXhChZ8974DHViRi/l4rVaJRUbAH5DU2rd8M5Tpg9C4GHW7SEUtszIAxUrLhvGgsXVY+7D/3UdwC3gUKMCueRYrejowDW2b8XxrEHfUzmKVZ0uf1WlNtXQtrpMhnfAvzA8ZVRQISWbhZNWdCFN/32pPbvr08CqMrbb9jkzOTNe3TnoVmT81bt9OtQgFwLQxx0a4/y4gMQeMWiYiKR0f/dvej1Fyz1pAacc3HiX0Vcxl56meUZ1Xl2mK5gwTYuPa6jGFsWbY7+IvSK4RIx1/kXeIEGRkOT+dnswkkObGqjgO/SFYpVbjCrsOwicBRoH0VsXGWOWbjtCP76yufdDqUZI0cr9J8iB1SBsaq3Zt6NpKgasCfo30m547Pi1yTilO3g0erEzqz5hBIdoKMy2qcP/zcuuSwhNMWTTgPT8vwiKIjtikPXlVjmjWAMY/MBxRe8qGQDXPzQj5j5AhY3Nx7mkw==;LyzVxyy0JQ2L7Wsp5FijPg=="
 ---
