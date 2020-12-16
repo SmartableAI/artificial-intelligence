@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-brain-controlled-gaming-exists-though-ethical-questions-loom-over-the-tech.md",
+      "title": "Brain-controlled gaming exists, though ethical questions loom over the tech",
+      "excerpt": "Celebrities and tech companies ranging from the game developer Valve to Elon Musk are invested in its revolutionary potential. But even as BCI research holds remarkable promise for Copeland and those like him,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
+      "originalUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRG3FCQEOZEVXE4JZOAOOANZRI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
+      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
+      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
+      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-nvidias-chips-have-powered-nearly-every-major-ai-breakthrough.md",
       "title": "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough",
       "excerpt": "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?",
@@ -1355,93 +1443,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-has-intuitive-surgical-only-scratched-the-surface-of-robotics.md",
-      "title": "Has Intuitive Surgical Only Scratched The Surface of Robotics?",
-      "excerpt": "Robotics-assisted surgery will keep growing for decades, and despite its hefty price, this stock is just getting started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
-      "publishedDateTime": "2020-12-04T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
-      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
-      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
-      "publishedDateTime": "2020-12-04T01:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Mining Review",
-        "domain": "globalminingreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-04-has-intuitive-surgical-only-scratched-the-surface-of-robotics.md",
+      "title": "Has Intuitive Surgical Only Scratched The Surface of Robotics?",
+      "excerpt": "Robotics-assisted surgery will keep growing for decades, and despite its hefty price, this stock is just getting started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "originalUrl": "https://www.fool.com/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/04/has-intuitive-surgical-only-scratched-the-surface/",
+      "publishedDateTime": "2020-12-04T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator.md",
+      "title": "Sundance joins Digital Catapult’s Machine Intelligence Garage AI/ML incubator",
+      "excerpt": "Sundance Multiprocessor Technology Ltd has joined Digital Catapult’s Machine Intelligence Garage business incubator to accelerate and deep-en its knowledge of artificial intelligence and machine learning techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "originalUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/finance-business/04122020/sundance-joins-digital-catapults-machine-intelligence-garage-aiml-incubator/amp/",
+      "publishedDateTime": "2020-12-04T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Mining Review",
+        "domain": "globalminingreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-the-journey-to-make-robots-more-human.md",
       "title": "The journey to make robots more human",
       "excerpt": "The latest exhibition at the Hong Kong Science Museum shows the 500-year journey to make machines more realistic.",
@@ -732,19 +819,19 @@
     {
       "path": "_news/2020-11-30-modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity.md",
       "title": "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity",
-      "excerpt": "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5.",
+      "excerpt": "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-301181623.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-301181623.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to/article_3c9e0208-f5ac-593b-848e-f0734decbb22.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to/article_3c9e0208-f5ac-593b-848e-f0734decbb22.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -757,8 +844,8 @@
       "publishedDateTime": "2020-11-30T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1278,105 +1365,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis.md",
-      "title": "Entertainment Robots Market 2020 is expected to see magnificent spike in CAGR with Global Industry Brief Analysis",
-      "excerpt": "The Entertainment Robots Market is estimated to record a significant growth throughout the forecast period. The ICT",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-north-america-artificial-intelligence-ai-chipsets-market-growth-predicted-at-35-through-2026.md",
-      "title": "North America Artificial Intelligence (AI) Chipsets Market Growth Predicted at 35% through 2026",
-      "excerpt": "Graphical Research :According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size, By Product (Graphics Processing Unit (GPU), Application-Specific Integrated Circuit (ASIC),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb",
-      "originalUrl": "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-22T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Healthcare",
-        "Microsoft AI",
         "AI in Robotics"
       ]
     }

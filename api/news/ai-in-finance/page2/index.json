@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-24-uk-based-ai-fintech-finchatbot-secures-12-million-through-latest-investment-round.md",
+      "title": "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round",
+      "excerpt": "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/",
+      "publishedDateTime": "2020-11-23T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
       "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
       "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,",
@@ -1264,49 +1307,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-smarsh-to-acquire-ai-company-digital-reasoning.md",
-      "title": "Smarsh to Acquire AI Company Digital Reasoning",
-      "excerpt": "Smarsh says Digital Reasoning’s artificial intelligence and machine-learning technology will allow it to more efficiently sift through the virtual reams of communications it archives for financial-services firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "originalUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-257802/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "publishedDateTime": "2020-11-10T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

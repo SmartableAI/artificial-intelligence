@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-d
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2020/walmart-gatik-expands-self-driving-truck-test-to-louisiana-arkansas-test-will-now-be-driverless/amp/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-16T17:43:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
     excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
     publishedDateTime: 2020-12-15T11:05:00Z

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Artificial intelligence co-pilots US military aircraft for the first time"
+    excerpt: "Dragon Lady” spy plane during a test flight Tuesday, the first time artificial intelligence has been used in such a way aboard a US military aircraft. Mastering artificial intelligence or “AI” is incr"
+    publishedDateTime: 2020-12-16T18:19:00Z
+    webUrl: "https://kesq.com/news/national-politics/2020/12/16/artificial-intelligence-co-pilots-us-military-aircraft-for-the-first-time/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 53
+    images:
+      - url: "https://kesq.b-cdn.net/2020/12/hypatia-h_84a61fe9c801139ee9d8f9af92787b6b-h_28d23efb9535f50307fcd78130c91b1d_preview.jpg"
+        width: 500
+        height: 325
+        isCached: true
   - title: "AI Copilot: Air Force achieves first military flight with artificial intelligence"
     excerpt: "Signaling a major leap forward for national defense in the digital age, the Air Force flew with artificial intelligence as a working aircrew member onboard a military aircraft for the first time Dec."
     publishedDateTime: 2020-12-16T15:16:00Z

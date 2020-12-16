@@ -2,6 +2,325 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-09-adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker.md",
+      "title": "Adobe launches AI tools to track omnichannel, spot anomalies quicker",
+      "excerpt": "The goal of the AI tools is to combine data from repositories as wide ranging as point-of-sale to website and apps to call center and loyalty programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "originalUrl": "https://www.zdnet.com/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/12/08/24c56ea5-52a7-49da-8d14-642dda076668/adobe-call-center.png",
+          "width": 3176,
+          "height": 1996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-launches-ai-tools-to-track-omnichannel-spot-anomalies-quicker/",
+      "publishedDateTime": "2020-12-09T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ionqs-roadmap-quantum-machine-learning-by-2023-broad-quantum-advantage-by-2025.md",
+      "title": "IonQ’s roadmap: Quantum machine learning by 2023, broad quantum advantage by 2025",
+      "excerpt": "IonQ's roadmap for trapped ion quantum computers: rack-mounted modular quantum computers by 2023 and broad quantum advantage by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/ionq-roadmap-graphic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ionq-roadmap-quantum-machine-learning-2023-broad-quantum-advantage-2025/amp/",
+      "publishedDateTime": "2020-12-09T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ibm-announces-new-ai-language-explainability-and-automation-services.md",
+      "title": "IBM announces new AI language, explainability, and automation services",
+      "excerpt": "At its AI Summit, IBM announced a number of new machine learning-powered products and services across its portfolio of cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/",
+      "originalUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/09/ibm-announces-new-ai-language-explainability-and-automation-services/amp/",
+      "publishedDateTime": "2020-12-09T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing.md",
+      "title": "Baidu is testing its robot axis without a safety driver in Beijing",
+      "excerpt": "Baidu has just received permission to test its autonomous taxis with no security drivers on the streets of Beijing. A first for the Chinese capital. The company has been testing its robot axis in China since 2018,",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/",
+      "originalUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2020/12/baidu-apollo-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/12/1046180/baidu-is-testing-its-robot-axis-without-a-safety-driver-in-beijing/amp/",
+      "publishedDateTime": "2020-12-09T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-robot-ai-company-mech-mind-robotics-raises-close-to-us15-million-in-series-b.md",
+      "title": "Robot AI Company Mech-Mind Robotics Raises Close to US$15 Million in Series B+",
+      "excerpt": "PRNewswire/ -- Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising. Backed by Sequoia Capital China and Source Code Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-46754a29427631e338eddad878342568/gallery/de5bc9ad9cd784c2607d2782cc99d524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-eu-boosts-evaxions-artificial-intelligence-vaccine-research.md",
+      "title": "EU Boosts Evaxion’s Artificial Intelligence Vaccine Research",
+      "excerpt": "EIB signs €20 million (DKK 149 million) loan agreement with Danish research and development company Evaxion Biotech A/S. Evaxion will use financing for research and development into its proprietary artificial intelligence platforms used to identify novel vaccine and immunotherapy targets.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-public-health-products-and-services-financial-services-c779a75e7eca6031e80e27292a0a0c38",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-public-health-products-and-services-financial-services-c779a75e7eca6031e80e27292a0a0c38",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-2280.md",
+      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200-Day Moving Average of $22.80",
+      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Tuesday . The stock has a 200-day moving average of $22.80 and traded as high as $26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
+      "publishedDateTime": "2020-12-09T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-thomson-reuters-taps-aws-to-power-digital-transformation.md",
       "title": "Thomson Reuters Taps AWS to Power Digital Transformation",
       "excerpt": "(NASDAQ: AMZN), announced that Thomson Reuters, a leading global provider of business information services, has successfully completed a large scale migration to AWS – a critical part of their digital transformation strategy – which will enable the company to innovate faster,",
@@ -866,355 +1185,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims.md",
-      "title": "Huawei Tested Facial Recognition System That Identifies Uighurs, Report Claims",
-      "excerpt": "Human rights groups say the Chinese government has deployed a network of invasive surveillance technologies to track the Muslim ethnic group in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/",
-      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/12/08/huawei-tested-facial-recognition-system-that-identifies-uighurs-report-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcfef0de1a692d0d7afa0fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D244%26cropY2%3D3754",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-leverages-gaudi-ai-processor-to-reduce-cost-of-deep-learning-models.md",
-      "title": "AWS leverages Gaudi AI processor to reduce cost of deep learning models",
-      "excerpt": "As the use of machine learning grows and gains complexity, the cost and time of training models can be challenging for enterprises. Amazon Web Services Inc. announced that its EC2 will be powered by Gaudi accelerators from Habana Labs,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
-      "originalUrl": "https://siliconangle.com/2020/12/08/aws-leverages-gaudi-ai-processor-reduce-cost-deep-learning-models-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Chetan-Kapoor-and-Eitan-Medina-AWS-re-Invent-2020.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-predicting-soccer-goals-in-near-real-time-using-computer-vision.md",
-      "title": "Predicting soccer goals in near real time using computer vision",
-      "excerpt": "In a soccer game, fans get excited seeing a player sprint down the sideline during a counterattack or when a team is controlling the ball in the 18-yard box because those actions could lead to goals. However, it is difficult for human eyes to fully capture such fast movements, let alone predict goals.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-soccer-goals-in-near-real-time-using-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/03/ML-1389-2-756x630.jpg",
-          "width": 756,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T13:09:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-oceania-treats-climate-change-like-a-machine-learning-grand-challenge.md",
-      "title": "OcéanIA treats climate change like a machine learning grand challenge",
-      "excerpt": "Oceanographers and AI researchers are working together for OcéanIA, a four-year project to understand oceans and the impact of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/",
-      "originalUrl": "https://venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/jakob-owens-sxNktWfTkHM-unsplash.jpg?fit=800%2C495&strip=all",
-          "width": 800,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/oceania-treats-climate-change-like-a-machine-learning-grand-challenge/amp/",
-      "publishedDateTime": "2020-12-08T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-apple-shifts-leadership-of-self-driving-car-division-to-ai-chief.md",
-      "title": "Apple Shifts Leadership of Self-Driving Car Division to AI Chief",
-      "excerpt": "Apple Inc. has moved its self-driving car unit under the leadership of top artificial intelligence executive John Giannandrea, who will oversee the company’s continued work on an autonomous system that could eventually be used in its own car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifXBaPelED4s/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-08/apple-shifts-leadership-of-self-driving-car-division-to-ai-chief",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-the-best-foodie-gift-boxes-and-subscriptions-to-send-this-year.md",
-      "title": "The best foodie gift boxes and subscriptions to send this year",
-      "excerpt": "There are countless curated food and booze gift boxes to choose from in 2020, but not all are created equal. This year has required a healthy mix of calm, cunning and creativity to say the least. At the risk of belaboring a well-worn point,",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.cnet.com/news/best-food-gift-baskets-to-send-by-mail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
-      "excerpt": "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

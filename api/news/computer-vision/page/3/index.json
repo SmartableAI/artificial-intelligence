@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-20-googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses.md",
+      "title": "Google’s Project Guideline uses AI to help low-vision users navigate running courses",
+      "excerpt": "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/a577f9c4-b652-4554-9655-39dc580ad1d7-e1605769616203.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
+      "publishedDateTime": "2020-11-19T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-lapd-bans-use-of-third-party-facial-recognition-software-for-law-enforcement-work.md",
+      "title": "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work",
+      "excerpt": "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
+      "originalUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg",
+          "width": 708,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/lapd-facial-recognition-ban",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban",
+      "publishedDateTime": "2020-11-18T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-los-angeles-police-department-bans-the-use-of-third-party-facial-recognition-technology.md",
       "title": "Los Angeles Police Department bans the use of third-party facial recognition technology",
       "excerpt": "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ...",
@@ -1299,101 +1394,6 @@
         "name": "The Province",
         "domain": "theprovince.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-face-recognition-on-an-mcu.md",
-      "title": "Face recognition on an MCU",
-      "excerpt": "NXP has announced its latest NXP EdgeReady IoT solution for secure face recognition that enables original equipment manufacturers (OEMs) to quickly, easily and inexpensively add vision-based touchless access control. NXP’s turnkey solution includes the i ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/face-recognition-mcu-2020-11/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/face-recognition-mcu-2020-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/11/05144942/A2937726-5A0B-4E44-AEFE-E8CA8F9DA5BF.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025.md",
-      "title": "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025",
-      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

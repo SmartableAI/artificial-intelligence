@@ -2,26 +2,26 @@
 category: news
 title: "Amazon Zoox Unveils Self-Driving Robotaxi"
 excerpt: "Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other. The car can travel up to 75 miles per hour and can run up to 16 hours on a single charge."
-publishedDateTime: 2020-12-14T10:53:00Z
-originalUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/"
-webUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/"
-ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/?amp"
-cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/?amp"
+publishedDateTime: 2020-12-14T07:53:00Z
+originalUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/"
+webUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/"
+ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
+cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: NBC Connecticut
-  domain: nbcconnecticut.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcconnecticut.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
+  - url: "https://media.nbclosangeles.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -357,6 +357,6 @@ related:
       domain: realclearmarkets.com
     quality: 4
 
-secured: "RoJ1bsE5uO9A4B8gWdX8fCG3YDpKKTfeTNyqGH8aoqvo2xs6LPOmGMFNtjlpCoCU8UhYXiAEkEKKpiBBFqxmMeUBs7tX/WOn8v7clroQAw/pCBRuzsOMVnzjWbjwGbXKMKnAVGgGQXirBrXkiuTHu91lzrScFbJUd+4JQN1zpL7izBN1iXOszrVjyRbL/EpR6K/xRQzbX0gXYoBvG/SI0OzAPdAuAuhF+QVzd8nF63FdBmFuvAUecZUzPb0sGgHoYtHwqfsjxwh5SbLIXesSYz5LJY93iVw0ZQYrhp3gyxzEpVugo0vzUFwy5Oc2jw3j4HZt1kITozKbu1qzxThjUb8727Zu1GQupAntG19yc8I=;Yk5zlADrAxeMPASZlt7fyQ=="
+secured: "TNBYwHABGCtU27BJkOA3qiAHX1qbnw+VzSWTJXtRQuWSAfBChdOFfbm+EaLWqo2IV6p3QyN4SrWpseJxVdU91rvaFZcEZYwruluy1e6Q+VlfO2+wP6QVwYgncyvObRYLgGiDZ8HL70MlJzZVixDBnLXdeki+zNaPomEX3nHKCb1jdu0Eq04tvceyed0zx0bnYQ6Dgd5384kamyPziDeP3KM8G7cJOoHIPyCasuOjXUcJARDe8fv34fMsMK3OZRwY3B2dh+eh0sbR66e5gASpyr/Qs+lLRWhgBis064fMvBBBTuKavBDQfhsfs2Bqva0pHKAzIsAuEFWt9ABlOwlStX0SPMG09ZWqyAYwK5kIAAg=;ohKFay6EMFMZok+lbGMNUQ=="
 ---
 

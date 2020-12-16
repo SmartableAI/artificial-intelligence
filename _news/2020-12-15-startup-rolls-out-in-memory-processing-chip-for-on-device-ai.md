@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 623
         isCached: true
+  - title: "Startup Rolls Out Analog Compute-in-Memory Chip for AI"
+    excerpt: "The models are used for identifying objects and other features in images or carrying out other AI chores. At the heart of the IPU are analog compute engines, which are analogous to the cores in central processing chips. The cores are arranged in 108 ..."
+    publishedDateTime: 2020-12-16T18:20:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-analog-computeinmemory-chip-for-ai"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_PROMO_1.5fda4dd85b60d.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "N014Up9RDj6FUHPbnPj/Tho4RNvfb8YFWPzqeMOH6v3Rz96vbU7QfzPuDfBqbBQT4xyta/NZ4m+3cwE/sPwFZOS2kykl7dMp1Sh1dWSV+4j8d23tg+N1T4PVmHAnrIDBR6h38DppRsIVDUrEkXLlFAX35ekceXYK/r9hsjezk98MMrxKC8OxMJB903Wta7UCgf3zbDzsiHpq8HDfRSqh4qecTDYBr/lHvny4P8QdROBdfZn1HiMedyOQDVIuoNNLRn2L/zSftLOMxiVJCGhB71QftUhgJwzXiDSB6Jy0JEFMLd0+v4LM/po14XAMKBG/w8BdlBQiQLAHsG67pn2+MtzP6gxUZONg+hbz08sDsu6AovyE7SLCawIo1Q4v7BLPnZz7GjYrxMGttpnW8aHQuJ+87svTnNKU5agig3Wn4m1YTVlWYFHBY6v5UJ+qx+7uvaslfcChyq67Yv7Rd5rvSRaNncQ+oWX9+578lQJQWyQvDf7dXF8ECmXKh/lAhQLH/TxcbcIxm9R+lTxjyFr8tA==;w12zJe0kS8xd+Ronv5lG9Q=="
 ---

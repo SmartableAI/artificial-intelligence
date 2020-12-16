@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-tldr-ai-tool-read-news-arti
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tldr-ai-tool-read-news-articles-for-you-2020-12?amp"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook creating an AI tool called TLDR that summarizes news articles, report says"
+    excerpt: "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so a user won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,"
+    publishedDateTime: 2020-12-16T18:22:00Z
+    webUrl: "https://www.cnet.com/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 81
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/6LBIHoLfC1d6SrZT8pbkWNgUr8Q=/1200x630/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook Developing AI Tool To Read Minds, Summarize Articles: Report"
     excerpt: "American technology conglomerate Facebook told its employees that it is developing a mind-reading Artificial intelligence tool to summarise news articles."
     publishedDateTime: 2020-12-16T11:49:00Z

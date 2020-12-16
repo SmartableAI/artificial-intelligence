@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Artificial intelligence co-pilots US military aircraft for the first time"
+    excerpt: "Dragon Lady” spy plane during a test flight Tuesday, the first time artificial intelligence has been used in such a way aboard a US military aircraft. Mastering artificial intelligence or “AI” is incr"
+    publishedDateTime: 2020-12-16T18:19:00Z
+    webUrl: "https://kesq.com/news/national-politics/2020/12/16/artificial-intelligence-co-pilots-us-military-aircraft-for-the-first-time/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 53
+    images:
+      - url: "https://kesq.b-cdn.net/2020/12/hypatia-h_84a61fe9c801139ee9d8f9af92787b6b-h_28d23efb9535f50307fcd78130c91b1d_preview.jpg"
+        width: 500
+        height: 325
+        isCached: true
   - title: "An AI just helped an Air Force pilot fly a U-2 spy plane during a simulated missile strike"
     excerpt: "The Air Force has taken a giant step toward creating an artificial intelligence system that would never in a million years turn on humanity – unlike the “Skynet” nemesis in the first two Terminator movies,"
     publishedDateTime: 2020-12-16T16:11:00Z
@@ -87,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "7Cr1p09pK1h5T5EuJp3vLXTZv3j3WLwJG4PSnfXm/xoOpXQwBAz75kmEZnWLXHlPHK36w3Ocz3GYDi1ihAZeHN4QrEq149ye1t8ZnPHMJvV0k5Ve90giIkUFEUxoqU7Om6QwOITP4cesApxAz7WxFWEzdH/0FX91yUcjsM33u/d4D3amv4dveFWY7OKYcoEE7bqgiir9sRVclj1q0UeTPY8HwYF9fIcIg4nSiuMoQiEnvbayPL24M7f72tQi95DKNQ4S3PTWTp/OfnQgP1/mHITJDvpTKBLlZ8jCIsJGU+4/GIj2F8oqF0qE1yzDmVL/QvE3g6HgwGI3oAcoINsPN6XGnCyaUiZgokuewSDTGqY=;K4KCsa1AHVjhFjpczW8ReQ=="
+secured: "6iKI8pxGA8yOpQgMOMMAGAyXMMgVtCz6gffcAX5+47STSxqV5jZPIgyjjfiwie53QmLhQLMyayX3+ltBu/ZKow9JGfQG7pqH1yl0yi6t+yPEMWuyrcY9nEk9bqn1GcDniAYZuES3xGRgI8rV4kSZ3m0RakKFfvfORc7W4WbpaDCDmLFYtZHemLBOTQvjnbsWJFkHtoZ4qN73ipV3INmmSobu3n9WCBDviqKWTjmDJjNz6rBAkgvZV1hU66YV3SGS5LFUj5GRWYT0+/SBT03zaR2rvzK5p6j+M9Jw6RkI5kg6xoarw0bfj8yhZjvcloKE5ar+DvdI4sCsNKrs7pBlIxznk+VzXJeXxlCFjDCAV71NMv+s2sSoDGO2EjrvTfdbJMOHJCxA7FeYKzpoEjRaXmYd6ZJz8PzeapJ3LjSul46n9FghR/n9U6f2bu5XZqjvdFIhylbWbBQbMGf5+8f8U5tKnbisppRW+x7GXYAYRP+0xbnMHCJqZdVqxiF6bbU9wSh51q71L4uxBlRzFL9fYg==;PnfnbN6uT3ILNC46ZpebNg=="
 ---
 

@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-11-education-key-to-developing-lifelike-intelligent-robots-study-argues.md",
+      "title": "Education key to developing lifelike intelligent robots, study argues",
+      "excerpt": "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "publishedDateTime": "2020-11-10T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
+      "title": "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-how-to-quantify-the-benefits-of-ai-driven-shelf-digitization.md",
       "title": "How To Quantify The Benefits Of AI-Driven Shelf Digitization",
       "excerpt": "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs.",
@@ -1357,50 +1454,7 @@
         "AI in Robotics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-drops-plans-to-use-robots-for-tracking-inventory.md",
-      "title": "Walmart drops plans to use robots for tracking inventory",
-      "excerpt": "US company Walmart Inc said on Nov 2 that it has dropped its plans to use roving robots to scan shelves and keep track of inventory, squashing the world's largest retailer's years-long efforts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/03/walmart-drops-plans-to-use-robots-for-tracking-inventory",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/03/walmart-drops-plans-to-use-robots-for-tracking-inventory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/11/03/923013.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 6
 }

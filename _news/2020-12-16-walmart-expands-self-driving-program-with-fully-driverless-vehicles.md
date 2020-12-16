@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-16T17:43:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
     excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
     publishedDateTime: 2020-12-16T08:20:00Z

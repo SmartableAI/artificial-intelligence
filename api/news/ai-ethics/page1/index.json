@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-brain-controlled-gaming-exists-though-ethical-questions-loom-over-the-tech.md",
+      "title": "Brain-controlled gaming exists, though ethical questions loom over the tech",
+      "excerpt": "Celebrities and tech companies ranging from the game developer Valve to Elon Musk are invested in its revolutionary potential. But even as BCI research holds remarkable promise for Copeland and those like him,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
+      "originalUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRG3FCQEOZEVXE4JZOAOOANZRI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy.md",
+      "title": "From whistleblower laws to unions: How Google’s AI ethics meltdown could shape policy",
+      "excerpt": "Unionization of AI ethics researchers and stronger whistleblower protections are being discussed two week after Google fired Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
+      "originalUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
+      "publishedDateTime": "2020-12-16T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-healthcare-ai-implementation-for-emerging-markets-lessons-learned-from-the-us-and-eu.md",
       "title": "Healthcare AI Implementation For Emerging Markets: Lessons Learned From The U.S. And EU",
       "excerpt": "Emerging markets are at the cusp of implementing and developing their own framework for AI implementation in healthcare.",
@@ -1394,110 +1490,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-how-the-department-of-defense-approaches-ethical-ai.md",
-      "title": "How The Department Of Defense Approaches Ethical AI",
-      "excerpt": "Military and defense organizations using AI and machine learning can realize tremendous advantages over increasingly capable adversaries and competitors. But there is also a risk of unintended consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc2fb4596d24545cccb633c%2F0x0.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/amp/",
-      "publishedDateTime": "2020-11-28T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-29-ethical-ai-isnt-the-same-as-trustworthy-ai-and-that-matters.md",
-      "title": "Ethical AI isn’t the same as trustworthy AI, and that matters",
-      "excerpt": "Certainly, unethical systems create mistrust. It does not follow, however, that an ethical system will be categorically trusted.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/28/ethical-ai-isnt-the-same-as-trustworthy-ai-and-that-matters/",
-      "originalUrl": "https://venturebeat.com/2020/11/28/ethical-ai-isnt-the-same-as-trustworthy-ai-and-that-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/trust.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/28/ethical-ai-isnt-the-same-as-trustworthy-ai-and-that-matters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/28/ethical-ai-isnt-the-same-as-trustworthy-ai-and-that-matters/amp/",
-      "publishedDateTime": "2020-11-28T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

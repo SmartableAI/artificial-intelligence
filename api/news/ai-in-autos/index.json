@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-see-walmarts-self-driving-delivery-trucks-in-action.md",
+      "title": "See Walmart's self-driving delivery trucks in action",
+      "excerpt": "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business",
+      "publishedDateTime": "2020-12-16T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-tesla-full-self-driving-in-hacked-ar-view-looks-fascinating-and-more.md",
       "title": "Tesla Full Self-Driving in hacked AR view looks fascinating, and more",
       "excerpt": "Seeing a Tesla crunch data in a real-time augmented reality view is cool and slightly concerning, plus more tech news today!",
@@ -58,8 +110,8 @@
       "title": "Mobileye looks to build its own lidar to drive down self-driving costs",
       "excerpt": "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW",
+      "webUrl": "https://www.reuters.com/article/us-intel-mobileye-idINKBN28P2I7",
+      "originalUrl": "https://www.reuters.com/article/us-intel-mobileye-idINKBN28P2I7",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -76,9 +128,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28P2GW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW",
-      "publishedDateTime": "2020-12-15T20:25:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28P2I7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28P2I7",
+      "publishedDateTime": "2020-12-15T20:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1434,58 +1486,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal.md",
-      "title": "Amazon’s self-driving Zoox vehicle spotted ahead of next week’s reveal",
-      "excerpt": "The first vehicle from Amazon-owned self-driving startup Zoox has been spotted on the streets of San Francisco ahead of its reveal next week.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/",
-      "originalUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/zoox-spotted-car-autonomous-unveiling-ev-future-self-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/12/07/amazons-self-driving-zoox-vehicle-spotted-ahead-of-next-weeks-reveal/amp/",
-      "publishedDateTime": "2020-12-07T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

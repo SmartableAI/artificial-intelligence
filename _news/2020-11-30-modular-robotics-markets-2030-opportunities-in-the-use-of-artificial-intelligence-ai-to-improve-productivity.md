@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
-excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
+excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report"
 publishedDateTime: 2020-11-30T15:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-301181623.html"
-webUrl: "https://www.prnewswire.com/news-releases/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-301181623.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to/article_3c9e0208-f5ac-593b-848e-f0734decbb22.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/modular-robotics-markets-2030---opportunities-in-the-use-of-artificial-intelligence-ai-to/article_3c9e0208-f5ac-593b-848e-f0734decbb22.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "XGibs3LG6Qsb8tk5scKoxcmL678UWyyDiiySCS5mw2f/YTOQ5PXkKwemlShPAz7YWsyeXBGRjjsvLGWi487w1uT88sUXUT4Q3MQw+MPHsbYw4bsEDyVURnz8AplnLr9SiM5KMF+ok0j2bAhcMb96qhiCU3h1I4QvbByUZEIbiFsHtsA0C7/fm/nASx2mRxjMZ1p2TdfLBTgWM1jgyDmwjDeb4h2JYJQoBQPrzkWZk6jNr5RR0+eQw+W3FnMUJOi08vw9YpvQ3gULUZJMmcwfQryrZubtwDsD1V+bcVm0MAmPMYKYMfg+6K7EOuqHFwFbYtrKnZixyw4DUuUl2LiiytGxi5cu+F77G/x72JQqDa4=;wAOEP58ohrKGSpehePQs5Q=="
+secured: "AfAXVDETicCZHp/3hNBtfrfzbhdWhLJG+2LGi4jn+ppmj4qW1/Ht/8jedSNrOj+OtEoRPQfqJP9pQRE6gJ0rU1437PnNqqgqE9A0Ez9YfxdQOfj4f6MCn3WSBbn+uMMCr5/5Uiq7Tn5sTqeGyedEdPMpiPMd0Eiil1R182HDB9cfAtrwjfLTeo78SvEavVgklbloDu+XmTrlnh91kYIoxo3uM0Ou5oWbDeGdXhRx9NSL6jo4ymKoZfJWIf7VO2MpOJde2IgBj1NiUUs8RDm7htF/7ynKPOOtNMzAy+rkar5zQVmXVRrvuu7vhOoGUiUbPTR7rFVa50SzCMEA9LfkOJHS/8AWMy009tX8iTnZwdk=;4fjBqvbJNTaiKk/qND0g6w=="
 ---
 

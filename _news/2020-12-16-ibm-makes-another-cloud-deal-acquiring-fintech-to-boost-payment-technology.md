@@ -84,6 +84,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Montreal-based FinTech Expertus acquired by IBM"
+    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
+    publishedDateTime: 2020-12-16T17:21:00Z
+    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "kYGHesV3/KbSRfsyWu1aRhWcVZ5+zOq7m16l3zDglV026hIc1E3ELKTuNMyB3T+ZAJ2miMrxMo4GaHkk/ICEyl/TyW1bQZs5HKhMgHshAPJ7CdoR6STSOJEI3Zqfb+va17+/uYTzRk69zBUHJHxWxPBMA7qG9y8rPsnOXbA0hzJTa8shmVDQPCWlKEARIYy95eLcDAjfAhPgRxkCdC6YVIXlzN/BQsCmRuhSXJha+OA4qsczrgAsdv4m8F51Ljs2NnGmHbhgMfdnI2WQG5jXjk7zi5gHMVF/pSmqg9bC5N2kGXN8EjY69ukIyYnNh2XPsXAKPHi1FE6EepEia4gfXGZ3aGKo5ufOSIUPTmUou8UCMrRNWVVoC7SAxQEzSZgsVwVPlnMYvAcKH54zpweKrUtKBsfVsm2PYfgbtN9HYM3LVhQEWKCx4xtTgg4vCVWVXf5USGwRiyz2oeJWBp77C3oRs1bFKhyx7/fpA7DiuysZFChnOyJRFwC1pVLLosK0i9IKleS8nNE702J4p0Ewtw==;GopKJwpUpHY//3jkdaKQuA=="
 ---

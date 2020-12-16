@@ -2,6 +2,303 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix.md",
+      "title": "Facial Recognition Market Growing at a CAGR 17.2% | Key Player Thales E-Security, Nuance Communications, Microsoft, Amazon, Ayonix",
+      "excerpt": "MarketsandMarkets forecasts the Facial Recognition Market size to grow from USD 3.8 billion in 2020 to USD 8.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2020 to 2025. Growing importance of the surveillance industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-artificial-intelligence-people-not-robots-are-in-the-driving-seat.md",
+      "title": "Artificial intelligence: people – not robots – are in the driving seat",
+      "excerpt": "Like it or not, artificial intelligence (AI) is already part of our daily lives. From smartphones to Alexa virtual assistants, AI and its applications are accepted norms",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2020/12/Artificial_intelligence_CITYAM_header.png",
+          "width": 983,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-people-not-robots-are-in-the-driving-seat/amp/",
+      "publishedDateTime": "2020-12-15T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-startup-rolls-out-compute-in-memory-chip-for-deep-learning.md",
+      "title": "Startup Rolls Out Compute-in-Memory Chip for Deep Learning",
+      "excerpt": "Mythic, which has amassed more than $85 million in venture funding, rolled out its first chip for bringing artificial intelligence to compact , power-constrained devices, from autonomous drones to computer-vision cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21122885/startup-rolls-out-computeinmemory-chip-for-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/12/Mythic_Accelerator_Card_01.5fd5224b4e08b.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-what-it-leaders-expect-from-ai-ml-in-2021.md",
+      "title": "What IT Leaders Expect from AI, ML in 2021",
+      "excerpt": "In this look-ahead article, we focus on key trends involving AI, machine learning and deep learning IT software and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/innovation/what-it-leaders-expect-from-ai-ml-in-2021",
+      "originalUrl": "https://www.eweek.com/innovation/what-it-leaders-expect-from-ai-ml-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2018/09/AI.png?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025.md",
+      "title": "At 22.6 % of CAGR Deep Learning Market Share will increase and aimed to cross 6215.1 Million USD in 2025",
+      "excerpt": "Selbyville, Delaware. The report Deep Learning Market Analysis and forecast 2025 maintains enhanced dynamics and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T21:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-can-ai-help-indian-railways-improve-passenger-experience-and-safety.md",
       "title": "Can AI Help Indian Railways Improve Passenger Experience And Safety?",
       "excerpt": "Notably, the more obvious and immediate problems that AI can solve for the railways have been conspicuously missing from the discussion. However, the government seems to be enthusiastic about the prospect AI offers.",
@@ -209,7 +506,7 @@
       "originalUrl": "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -261,7 +558,7 @@
       "originalUrl": "https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -942,290 +1239,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
-      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
-      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
-      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
-      "publishedDateTime": "2020-12-14T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-truera-raises-12-million-for-its-ai-explainability-platform.md",
-      "title": "Truera raises $12 million for its AI explainability platform",
-      "excerpt": "Truera, a startup developing an AI explainability platform, has raised $12 million in venture capital financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
-      "originalUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/",
-      "publishedDateTime": "2020-12-14T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-how-ai-helps-advance-immunotherapy-and-precision-medicine.md",
-      "title": "How AI Helps Advance Immunotherapy And Precision Medicine",
-      "excerpt": "Tel-Aviv-based Nucleai is developing AI software for image analysis and modeling of pathology data to assist in the development of more effective drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd6e2725e35c8349497ccdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
-      "publishedDateTime": "2020-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-how-rolls-royce-seeks-to-ensure-the-ethical-integrity-of-its-ai-black-boxes.md",
-      "title": "How Rolls-Royce seeks to ensure the ethical integrity of its AI black boxes",
-      "excerpt": "Royce has created a ‘five checks AI philosophy’ that aims to externally interrogate whether its AI systems are acting fairly.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
-      "originalUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-12/1E234A2D-6A42-4D06-9866-6F37D9E47CD9.jpeg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
-      "publishedDateTime": "2020-12-14T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-three-tips-to-maximize-your-investment-in-customer-service-ai.md",
-      "title": "Three Tips To Maximize Your Investment In Customer Service AI",
-      "excerpt": "In particular, artificial intelligence can dramatically lower customer service costs while improving outcomes like customer satisfaction (CSAT) and first contact resolution (FCR). However, that's only if you do it right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd3d45cbc9c462979496ec6%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/14/three-tips-to-maximize-your-investment-in-customer-service-ai/amp/",
-      "publishedDateTime": "2020-12-14T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan.md",
-      "title": "10 years on, missing boy re-united with family by face recognition tool DARPAN",
-      "excerpt": "The boy from Madhya Pradesh was found at a children's home in Howrah, West Bengal, a press release said here. He went missing on October 7, 2010 from",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/articleshow/79722468.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79645643,width-242,height-136/79645643.jpg",
-          "width": 3872,
-          "height": 2583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/10-years-on-missing-boy-re-united-with-family-by-face-recognition-tool-darpan/amp_articleshow/79722468.cms",
-      "publishedDateTime": "2020-12-14T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

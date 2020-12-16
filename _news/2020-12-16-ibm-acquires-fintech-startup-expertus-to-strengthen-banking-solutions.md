@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Montreal-based FinTech Expertus acquired by IBM"
+    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
+    publishedDateTime: 2020-12-16T17:21:00Z
+    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z

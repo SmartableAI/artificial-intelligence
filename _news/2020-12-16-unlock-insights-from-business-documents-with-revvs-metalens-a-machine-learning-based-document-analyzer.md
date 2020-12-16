@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-16T15:13:00Z
 originalUrl: "https://www.register-herald.com/region/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/article_7c2bbd11-0fb4-52c8-8697-1639441df2b9.html"
 webUrl: "https://www.register-herald.com/region/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/article_7c2bbd11-0fb4-52c8-8697-1639441df2b9.html"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"

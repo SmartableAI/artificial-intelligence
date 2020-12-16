@@ -75,6 +75,22 @@ related:
         width: 2040
         height: 1360
         isCached: true
+  - title: "How to Use Alexa's New Live Translate Mode"
+    excerpt: "Amazon Echo devices can now work as your personal translator thanks to Alexa’s new Live Translate mode. Like the translation functions available from other digital assistants, Live Translate is an AI-powered feature that can recognize multiple languages as they’re spoken,"
+    publishedDateTime: 2020-12-16T17:34:00Z
+    webUrl: "https://lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778"
+    ampWebUrl: "https://lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778/amp"
+    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778/amp"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/w0hjrpsqbocqvjxgue4r.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Amazon Alexa rolls out live translation in Echo devices"
     excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
     publishedDateTime: 2020-12-15T16:51:00Z

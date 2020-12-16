@@ -107,17 +107,17 @@ related:
         isCached: true
   - title: "Amazon Zoox Unveils Self-Driving Robotaxi"
     excerpt: "Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other. The car can travel up to 75 miles per hour and can run up to 16 hours on a single charge."
-    publishedDateTime: 2020-12-14T10:53:00Z
-    webUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/"
-    ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/?amp"
-    cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2383333/?amp"
+    publishedDateTime: 2020-12-14T07:53:00Z
+    webUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amazons-self-driving-company-zoox-unveils-autonomous-robotaxi/2484505/?amp"
     type: article
     provider:
-      name: NBC Connecticut
-      domain: nbcconnecticut.com
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
     quality: 44
     images:
-      - url: "https://media.nbcconnecticut.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
+      - url: "https://media.nbclosangeles.com/2020/12/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -357,6 +357,6 @@ related:
       domain: realclearmarkets.com
     quality: 4
 
-secured: "teeUGgfBVED3Za39U+rSlgKEpEmgxkk0fMVhWPzQsimxcDmxGI2CCqdyovErrfCAHzTQ7mVlD0aUNu1YQQdlNshuGACFSrtI47Mxi/xvYwpUbuR+uHI/n+iW47eJ8I12b8eWHws8vAiuMiriYg55vgr3BCgg7ejwTFsCU4HMNS4s/k6Xuw/cLoRz6GyvtM5+QS2i7WR4xu1VW9Z1y/cwdtElnbqvC2H4uywLZu7YilE4Drns8m9qO1islefra8QQj2rxI2X+qpcWsgl2pmmg+nzOHVV8uy82Ry6HaPujXRnqRQ/5ssJ8c2GdDiMQjApsfyq0R5JeLhoz4LMqQgK7ojl8FqQAHxNxjAhfnu5YwfQ=;1f2zABtNS6WbZN5j190lhQ=="
+secured: "Z9im7Q6iBVWbMWEyZfN1BbQalZJrMKg5AJoI1PPkXlFA+GXlWgk+GqpJCzZIpb2k9Qd78nJbTAcEQxOn0jMmbJN/GjSvHHe4q60Px9/OBYi7YzS4IHWY6lcAQIk9Y57INeeoC3cX/tEcgU0ehm2LUlNHwXmZdnf2+JnnF9uaxshs+F/qBfOrDzR/Uno0iEaUUQJqYFDBa8/FIyz0ZL7yeNLxa7AeXBM9MRSd92IiPqMc+0U0RfbXSEB5wgDRsBBlelKZqUZPiyuB20NX0R7LOOYAB4VGwEBdDMIBquq+hvfDmbQVShqoHVKKMHPtjX7QYCBm3gsQjJWK6YtO5H/Tulr3l0bysNE2xILyR6zXMSWtWsQ4aX6oqSwb3XtTqUanLkkmYdjlBUusEKN9CWwezIkexaTdf0VNTGiqRvF57kP/+XpjGv9QFletySL5pmxRgbDaZpk90jVM/krWOHmQlfD1erlszP8SNTkAyiAWqFuMBxNiQmKEu6C4b2mrwrIaDBL4kTSL1sQpSIgoFwwh6g==;LxLD+C26ha0YlAQBWeOHIw=="
 ---
 

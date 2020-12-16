@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
         width: 2040
         height: 1360
+        isCached: true
+  - title: "How to Use Alexa's New Live Translate Mode"
+    excerpt: "Amazon Echo devices can now work as your personal translator thanks to Alexa’s new Live Translate mode. Like the translation functions available from other digital assistants, Live Translate is an AI-powered feature that can recognize multiple languages as they’re spoken,"
+    publishedDateTime: 2020-12-16T17:34:00Z
+    webUrl: "https://lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778"
+    ampWebUrl: "https://lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778/amp"
+    cdnAmpWebUrl: "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/how-to-use-alexas-new-live-translate-mode-1845895778/amp"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/w0hjrpsqbocqvjxgue4r.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Amazon Alexa rolls out live translation feature in Echo devices"
     excerpt: "To make use of the new feature, users may simply ask Alexa to translate and name the two languages that will be spoken. The AI will automatically detect what language is being spoken by either person and provide the translations. The new feature has been ..."

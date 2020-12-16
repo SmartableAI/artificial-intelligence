@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
+excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first ..."
 publishedDateTime: 2020-12-03T07:55:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
-webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+webUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AWS AI
   - AI
 
-secured: "QMOsz0iWsU+SAr/mIW9aozPGOPRJbO45XMKrIHyfoMUtQhPmSa3J2+NwHVRkYc4kgXFSEeqjkuddH0Ll0MKt4w5V/YbOsOc5++DZCaG+Cd/fc9T+NrgdCi/b1S7PSE+d0StGQVuuRnRANSZkqNlUaEk8hGHaF54Sd29zcEetFnyuc0P5117QmmSKCsDbLr0QgR0f8x9xQMIN9zd0mUAEq6CTfzdt4N+PXWEUvktsSRjRCNht5Fm3CLFiaZ0XujYExjs0MdUsLEvxUOEgaa+4l88npuFznLY2vmNB3yhq1lljYrmOHnJqpKruvFT+BhTsN6+Pn4zPj2jeJsm7fXLMhsZCULfBZwKRXjD86dfNb/g=;WUyaIViffjEU6vNT+/r0qw=="
+secured: "EEyoZBLrGrvJjvwavGb5IyM78Carw289PE4e3be4aA2olPkGWjmJWo0I8KXwopWYpDZ67WBLj2yfin12DNNoGWS2082pujfLXXwgBE2U8ZG8hr271KaIcxhf7r5HDn0ENhU54bBZYzDPfDqi4HyHof6XCUv/UOosracvHy8zRHAbMuLBlLCsSqLX7XZOtHasO0YYy66T/uF24jQ3/JGyqxdmfOHtqlqhLMnW623t9DrbPgi1sDR2W5BEBPfcWFSOPSIpZf/w/cTgk39Z5bs++vVZjarKavK1ZLBA24kb/1bm0IEVrEDFzSxVdrlCuv7HJlJTZs+FPhOlv+04cHN3vZrMg2PE70C/JTKFLtXvH2g=;ceZLU0K+r5K/c8iYc6xECg=="
 ---
 

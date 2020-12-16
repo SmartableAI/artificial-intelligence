@@ -2,11 +2,11 @@
 category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
-publishedDateTime: 2020-12-16T04:25:00Z
-originalUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
+publishedDateTime: 2020-12-16T04:21:00Z
+originalUrl: "https://www.reuters.com/article/us-intel-mobileye-idINKBN28P2I7"
+webUrl: "https://www.reuters.com/article/us-intel-mobileye-idINKBN28P2I7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28P2I7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28P2I7"
 type: article
 quality: 74
 heat: 94
@@ -55,6 +55,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "MvMdyGLPQdfD+XvucAfJXJOwH6DnsYMDD/6JfDyyMJ6y66cAc3mNvVi728P4XxEIxMR3/NOHjg3JvBdH1gy5AdSE6mCFI1CiHOzeF6E83Td63Wk6PbOmaLIDBnWdOW29eQe+VILVNrE4NRYCdpxe9/ZBK9pPWCTO/329e5QppcCkopyS3W8MwdnFLPIRX+yYKAKv54MTZAmUscio7JbOB4KgXSmEkLbuciYdphUrBBWdCCs6ZsmUsvxegyzUWKfEB1dvyUVRmV8JFStwTnFZi5Ca8e0Pvnzq03kLWcbhy2PrOV1yYwoe6t0ngkrJ1Q+SdLqV8y24Tcn2j3TjdD36H7yXbov4bmgNjKPfNoUV62g=;J4lAKG9wZ+jsd8tsUInIOg=="
+secured: "zLWg2v40tVi3YBBTlKeXn0ObcuhBhzXzWFrh/qKdlIb0fH+Euzhf10u1YkVfYea8xEWPdpbaJFqXfApazTiTOKhVQ0UbLPUPaQVjLmAsgSTFKTSuRkkkb3n9E2B6jXNS2DCEk5m3ySElWwPwz24x9fpdC7tcQ3gg6R/aPdmAWYTl26aFReKjuYiId9oiNDxZWm0dxFhwDfkJFKgVVLtwg/LRV4BH3AgH/rSEx7kFHtpDTGM3Cmg7sixJXUAeZ0xuLAn0FxTP2JwdTK7BeBhEvUGxb+YuYiUYxLAcxNIJ6kjhw3u3rKsinsT/x/sBHwwEJwei6SqRU2I3hfjSXuJL/lBLZhhIS7Q5FLY7KayPQKc=;sIgveL5Ro0a/3PXuQHrm4w=="
 ---
 

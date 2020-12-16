@@ -69,6 +69,20 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Montreal-based FinTech Expertus acquired by IBM"
+    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
+    publishedDateTime: 2020-12-16T17:21:00Z
+    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z

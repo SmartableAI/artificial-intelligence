@@ -70,6 +70,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Montreal-based FinTech Expertus acquired by IBM"
+    excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
+    publishedDateTime: 2020-12-16T17:21:00Z
+    webUrl: "https://betakit.com/montreal-based-fintech-expertus-acquired-by-ibm/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/12/expertus-technologies-office.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z
@@ -85,6 +99,6 @@ related:
         height: 324
         isCached: true
 
-secured: "ROhpvtSB/bVm56CcO61nkj+N4FpVDpMARS2DuaG0/k9UVE0VZ0GcGR4R+QKMCBkJ5XjVRgn9pUZgnONvzBcY+6m7hQsKos38MYrW2e6XdcJXm/jZmDqKhnroz2aTodLfX4o0m9ZOhPlBoCk0qyJmEORn6EUFgNb8CiChKIdIAsvcx9DZNqjKtedSU2sSQRGfYo1kgoqol2EkITMgL/FkioRu/bqTp5aAdg2Wj4nV/Sb5PlbbsLYJD+Q12Xg4jbSZOLJYhmaUBF1n6GRTI5FartYUB21uh8DVUgShoBIoi3UkbFRT0yXduUpkbud8tttWDizEKgnMGt22M4ffikYvJUXl/qvVMs+aas79wkIdxf0=;LiuiJwhVP5kWIsPTdNGNvw=="
+secured: "R7xXI/kVHM7Mk+zQ5b8Q4gtkIUzB/olYNroB/oEQAk7NZPWgn8HE5ZjeI1s4Xb6UfwGPYwaHj1G5/hLTrCYIkulEk3dkh8SyE69v1lmAwFHNWz0oOGXyFzp0lPsv81NaP8hbnsYiOnOnxg0lNJBcjwhGUzhZKPK2IvK55gKfA2tgiVq03yMfUhXdQgc6KHOLJzPRLW+CAnBUFaofWsPmPvpfz1DcHSHPsTPV05ViCZqaXl5gH3Wq8iNDbg3mDmIGrlfXToV3wOzxjIGhs2eSIpMQgBrucxNCucF4/t9D6rsotYDFenz4ngBwwyXPcCQBdNLtYRxmhcZDiSXbmLv91ivPHsUtxxD7+TIguBXdIuymifCl3UFLBNsqcBqYSRu068LTSEr8uQSD41/dx9+HaTuGJDyzQXlVybbfxsU1UPGOlMkBE9IIfBCemIHOP9q91uAF3rQiuZlcXq7ip0s2lFXiVXJZAVVtH9z2pp2sxrPyNv8CC9yQerjFuIQT2MvpjBecHVRLS3LkEokFzp9CYw==;LTx7ROGjdIv7+/GJ2R765g=="
 ---
 
