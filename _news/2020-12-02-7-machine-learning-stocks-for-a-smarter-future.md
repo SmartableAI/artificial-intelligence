@@ -2,28 +2,24 @@
 category: news
 title: "7 Machine Learning Stocks for a Smarter Future"
 excerpt: "Machine learning is a subset of AI (Artificial Intelligence). It’s about using sophisticated algorithms to find patterns in large amounts of data. Note that machine learning is far from new."
-publishedDateTime: 2020-12-01T16:55:00Z
-originalUrl: "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/"
-webUrl: "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/"
-ampWebUrl: "https://investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/7-machine-learning-stocks-for-a-smarter-future/amp/"
+publishedDateTime: 2020-12-01T19:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
+webUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
   - Machine Learning
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600c.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "YxyK/A64xx9aeMOZOi38Wl7tcA+K93cvbB1tgd+cl05jVz56e2KBA9gMr8nspUBMGxoacGCjfHjYX588whf9sq+drx8f97hp35KzzVGbf0OxPrhDKXPK28K0W87+vTCfuw5JVr2vp8dMz94UF50GxRh9mAHwtKPxZo7LoFNDfz2OhAWAXT/AcUWBL9qJvEO/Px4f7KbDS5tQUAu5bboXSuvspJrY7w9perDDJRwlPOTFCBs99vdY9TBEuMZ4pRp/UTpIybLZz6gFu3g1hd3QEtmbZM7IFulpCZNuH2LTmEvjLOZz9GYbtW9D3dBs0takDRKiLyNes0pEP9oQb4Z2rCLR8imHXPHIYHuJ0Mp/Qnk=;qTNE/ckVQLjGdY3Osv2icg=="
+secured: "/zn4iDV4HzE6pn6rs4e+NVi+TzdxcrAwteavbXBOVtQRyL+VXeCdWOxoSGiK+lY6o2lw3rExpFFtDidSqcZZ85RIYOImN74NPAJAAjwQdW2J7rM0YulOpOVeM3en99gTLfoVmlEXoF3+S+LqQ32O4QNq4BFV6LwnPJW6JYaemFmiPzUITOUGW7UqQ2Bq1/Xuj3tvaUtjyBeDec17xKcIcdw86x4dc0l+biqrzFZlLANNZKB5wkzghalH4LQWjPLpm/SyFX9CoQDqxu1TC3UiSEJl+TIFo+VQpDlRvSeTDfKiIFT9YJyOspuSWRuPGwBocjRkScRk2D63yWar7RPjhB0C+jdxWKRvi6CUiQcgSwQ=;721QWm5xChj+pSkdz4FqDA=="
 ---
 

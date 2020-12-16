@@ -68,15 +68,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
-    publishedDateTime: 2020-12-11T13:40:00Z
-    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "lvHzJEsNZEQq+Xni4z4EDwrg24RaLfvyhz8OtPlmfuyo4VVl16KtdZqBH+gLgXcLZIirs8vzIBpBwID4I+Fqcmjl+91lZWLJUXpnsKr1kwkl50FJCMd8MI0OSdAnH2bl7oMXXipEcveB6jEbbCn1mXX/kqHi3nfgcP0wD9KJfKR/LrNh/AAKqwlW/dx4bCz3klV54kgORWHvxRk8jrWDq66DTjr7lsDVa26jUWcAUGnkfcLnKDQg3dettqC2sRGeVSYWdvW9puN8aACKwdI1+fF4HcGdX2W6/+8ea+AYNQ3tD6VVKZBx8OBcw3wC/4tVIYEvkrQByGu+4ww5PBkXfWV4mT1b8mXeJ9vruiWciD9hiRVgPH4ZtQ5iiWBCbZ5ofthbP02QNvi/0tyN3GKO8o85XOVnJiQJDNMwtEWL/h0hBWgk6n1yNJkjFAaWBjIgwfC6AqzZTYyS6RO7i9Z4ip2+HtWxvPm30a4dIl8B7mBLeMz0cS3DeHOVcwFwF/DbQORg8fcbToqMYMOy5UJ4Kw==;olrNloWE+EZQCktlzIY03A=="
 ---

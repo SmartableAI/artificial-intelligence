@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
+    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
+    publishedDateTime: 2020-12-16T05:35:00Z
+    webUrl: "https://allafrica.com/stories/202012150316.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 24
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+  - title: "Our favourite fintech apps of 2020"
+    excerpt: "Team AltFi may have spent most of 2020 in lockdown... but we also downloaded quite a few apps. It’s that time of the year again. The AltFi team have trawled through their smartphone home screens to reveal the financial apps that they found most useful,"
+    publishedDateTime: 2020-12-16T05:32:00Z
+    webUrl: "https://www.altfi.com/article/7382_our-favourite-fintech-apps-of-2020"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/our-favourite-fintech-apps-of-2020.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "XDctBXO7q5QbTt6Q2YqfK3FRy294jVHUKBv/3OX+0S8om1xp+ZU/4es/nYcgy+Zvvb78UI6aE4Ryx9wH5btW07ND3LnPm1jwyFHuqxG3NTtdRTMti6X9hKIkNj63JK3ET4+7qNsJZQqNYkNoQCdWDikjlJvtciST64LtXXct3C7nHOuWCVyMMRo5Vk0cpnlO/XnrRzgScKmemdLLekePHvHVxrO4J8kjWu2ODdjQx5GDbWEfdMn2L0saBH8AmZr0rC5hwPn+BBTaSSzRWhrIlzaoE9qgQ33QRyjs6QG/XsGb5QsJTwb3ETQ2lrqfmRY1hsClaefOuYCy48w9dtXcFpwTSa7hqh8Oe1uP6etSinJRr446EX6oLp+xbx3dYRnhyoUmE/nCwQb0uFWquStYbIBD2bzMy9tAEXbd0S0Yr7AyLW31eAZ4f9Y7sl3QZG/b2OvMBZFqGsBJfDT0XkJAVwSyrOYb6woYh0iODqS5frS47TC7ABGgyGQJlbedhmfhbZYWwRdEaJB+yDQUjiWhOg==;70qpvHz6vVu27gX7NYI1xw=="
 ---

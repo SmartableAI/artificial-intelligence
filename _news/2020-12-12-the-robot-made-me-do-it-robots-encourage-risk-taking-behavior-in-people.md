@@ -71,20 +71,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "'The robot made me do it': Robots encourage risk-taking behaviour in people"
-    excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviours. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
-    publishedDateTime: 2020-12-11T14:52:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/uos-rm121120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251415_web.jpg"
-        width: 1440
-        height: 1080
-        isCached: true
 
 secured: "MTxE2AXNJuZtIezbl0P+FHQW8SFvH9k35Nmfx5aNKlYBI3pZvSxxX4Zj2lQ+Mz+1TqCaAKU8Ay6vowRTjXkADYn30RIuxFBc0P9b9HGEILGXagZmWI3i4GcArAfSx6gkhFZhL5EBefE99zL4Irlpcd9NkCpiWSxnwu2OsZh292Yasgq0poogMAwKRk8YK/9UNR7xDYWvKSz1LMU3AHhJf/q4Z8dU7Ky0MwFkjHA2JpjaHhilC44wjbDJMwwr3p5f3cbLmTxHIf8Xd/+9ZdMelDMuQ7fSEdCW9GyMwJSpgACeqPsENbS9n/+stneKduVBuXfspJvgb6rIjE5M85eAym5rgR1FXJgE6JPS1GUO19w=;adyx0Rq7cBNmouEQoHpeWA=="
 ---

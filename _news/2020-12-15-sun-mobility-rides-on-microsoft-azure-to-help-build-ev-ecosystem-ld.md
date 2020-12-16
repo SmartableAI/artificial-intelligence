@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
-    publishedDateTime: 2020-12-11T13:40:00Z
-    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "jN8S1d13EQwN1SdBaSY2u+scAzT0ZPGKJPuAUg4hURwln/5TpXUYG/cadKMuKpqFZ/KB494Y97V4sjRnXX0zmykDHRYeXF/rADAuFw1bMG06vExq/5DSlEN/lWvywMgz5Ojy5F3xwlbcNmJp4EY5SCRMVc2o9/6V4ZvAbfSwkokFEq9DW53tEEybMv5u/biRO8H9iK0NukoHOj5ptXlC/dzEqw1Sn/vD77EaNPUaGEfjQCdZJ7B4qD6HQu33MB0OVPgeV5CS0litKDFWkBM1M28z6IyIxWzXCiP+aQdwiLhYChwYOEQc8p9+tc3gOxYec/gR7K2O8v69XZsSATWs5TRvx7WzCjF3CyIkfQgcEpQ=;Aj/ucyQwGL9zctsiuyw9tg=="
 ---

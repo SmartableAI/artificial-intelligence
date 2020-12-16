@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
-excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars."
-publishedDateTime: 2020-12-16T03:23:00Z
-originalUrl: "https://www.reuters.com/article/us-intel-mobileye-idUSKBN28P2I7"
-webUrl: "https://www.reuters.com/article/us-intel-mobileye-idUSKBN28P2I7"
+excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
+publishedDateTime: 2020-12-16T04:25:00Z
+originalUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
+webUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2I7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 272
         isCached: true
 
-secured: "aR4StKZ8/S7xl2hGnpxAUizhlej9eQfdSp5HYprmILyXLxpfRhlkkl7i/rii3em68SWecFgiI+q0aX8vbQbWuvnrh8w4fw2Oj4HQxm0BpfbTYkDYfRBE0KFRdXAJMdDZ2aFeSLyB8PCri1FzzxkE6pKONt5ItLM+tLbTKvlCF3Iq8XXHF6r0YYMu+wTjjVlLHf8kQrUi3yM0rY8GNybk5by8b8QOOu27J0Zzv/CvCndn/E9xAbCijjOHoVNdQpSBqniBTH4UncBiDs5TQLHQZwv9uVEpNic9Beslz4aooExzOAYGil0R8/l+Gjcp4ZItOsN3YhklaiPTx6eBMqlvpT0R5YAhTc8cp+utj1C+Zos=;jgjCzG50sTIUptQC1UbTBQ=="
+secured: "X2uDIDZfdK6R7wFCLZ1FEOHJnqZlX983+4JTuInj0NNN1xIfB4YyO4QVmqYELXEpdevad/gM2X2BbKHaOvLgmUGObikPszHZZ2xaDzXX4ShSr4XlgAz5pKCtQG0b3jKOVLW67TbmyVxoBPBcF+Tu5lbvQPoHPBAFr8IKKHk0+6O5eAE5sV77Gy0//aB8Nb9luzltwHvMrRG2VXMUqh0+vatzXda1S+C+R3OlaauxWt94amd2eGoBtGgHa3oqbf/Gl8K2lbn1S6FkVp3VBrlcfdaJ7CcS5qkBRPjhzdd09alI1DUwNTQCLpd8+TRDKHe1YQQ8Sxc7klJyox62qRwYytPW33CK2MpnrOFBcpoTyYQ=;EVzduzJHml8JGqVe1pOd8A=="
 ---
 

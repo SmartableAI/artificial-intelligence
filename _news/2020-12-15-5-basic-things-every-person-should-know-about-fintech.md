@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
+    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
+    publishedDateTime: 2020-12-16T05:35:00Z
+    webUrl: "https://allafrica.com/stories/202012150316.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 24
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+  - title: "Our favourite fintech apps of 2020"
+    excerpt: "Team AltFi may have spent most of 2020 in lockdown... but we also downloaded quite a few apps. It’s that time of the year again. The AltFi team have trawled through their smartphone home screens to reveal the financial apps that they found most useful,"
+    publishedDateTime: 2020-12-16T05:32:00Z
+    webUrl: "https://www.altfi.com/article/7382_our-favourite-fintech-apps-of-2020"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/our-favourite-fintech-apps-of-2020.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "6bHgLMIjZiJKzJY9L7uig4nrX/dhJTnNjSOVKmdDeRVbT2a0+DH9d5rVp5FBetyKpj5ymJ21p0uRZ2QomtfI2J1RnOCXYQSd68MxQY3Dd+hEvrREVhQEinE2H/xyPfb68bReM599Uhu43Njy0qORDTwddUbo0KP5IpqhcZgPH2aqJsnLsOH4aY6dj8jf4HV61Cl2oyMn5+lPrAfa1V2DClor9zdy1njMtoR3APQ+cG/eQvBzzmRQxOwibeMqtEXWbOAWVvD+M8NpTAc3e2Qpw1d6tW8qupbPxvAHiscrt8o/KAhEKBLdg/AQ10go/tXL8u+vurWwHrOgM5qKjVFnWiqLgW8papSxSP+Oi5fgPNQ=;Njcj5ORSUrQVRO0Ec5XKnw=="
 ---

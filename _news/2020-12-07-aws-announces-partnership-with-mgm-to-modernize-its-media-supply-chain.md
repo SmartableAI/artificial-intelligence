@@ -1,26 +1,30 @@
 ---
 category: news
 title: "AWS Announces Partnership with MGM to Modernize its Media Supply Chain"
-excerpt: "(NASDAQ: AMZN), announced a multi-year collaboration with Metro Goldwyn Mayer (MGM) to reimagine its core media supply chain and enterprise-wide media distribution platform. MGM owns one of the world’s largest libraries of premium film and television content,"
-publishedDateTime: 2020-12-07T14:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-amazoncom-inc-media-distribution-products-and-services-6c135fe74a8f459cb4706be9ef6963f2"
+excerpt: "Applying machine learning services like Amazon Rekognition (AWS’s service that adds intelligent image and video analysis to applications) will enable MGM to analyze content, as well as create ..."
+publishedDateTime: 2020-12-07T15:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-partnership-with-mgm-to-modernize-its-media-supply-chain-2020-12-07"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "4FlTuHcYyL1O+C6qTwgPl1CxiuCEBWRyBEWxTe8m4PyVeIxsSAGm9mHClRnxQVQDqnTGqep0nHSttADZQIfri8b3g97dd9KNruwDNnvM9xVLFdydrP4jBhhgFibaY8aHJOLDxNWUAYUB/dWcJxtZXTa+SA71Efvk8PqszShEgsnP4sX8uSPAVp8reBG1gQAOfxFC0RqKPmeF7mM+QqifVHf9aFjjl5Efs0lwGoBpWWnF3rB51sehg7yCaLRu8D3ngfIJAAFUlUZu6QVpUuydhtOevw+vODoLaoh3rmAQ7imHeHULonlM6YsiGCOm6rzdfT7GdB0pOQarENQL8D2Jz+l/glcJOEj7C/TpGVHg+6s=;UXn6e881lf9x28B4d2zrUg=="
+secured: "X8yG8jAiEr9LAPD+14//F5E66YMdADeLa7S/5l2jQdnKtv2L1fLunGO4VRLcniPkSkQ1zPiWT/jr1cxwRGu2uYucje6Knz8k8ujiQOmTQs12Lh+jWQf/FmC46YsxQ1GywP29NVb9DklE1i+AKpyeGTyVJD0ivnbHZhtmzRaPeXm0x9MJd+7xDf2sw565Ho9+bRH1Kzc1Xr0c3zR1ilZ/OlX1ut9Rj703ZdfEXLuRD6Ya8U8gfSBxnHFnj1YUIq0ggHds5mGRIXZF6xv2OCT2JRt5/VYsqSxtpytGOFBQ9qejJ8N9MSXXZI7DTY8nvyEAZUHkAX/wF9Dtwa8b1EhkQV3bWuKKeKKOFBrcIw7x2JY=;p6jn5Zq2MvH0wAkM7LMuDA=="
 ---
 

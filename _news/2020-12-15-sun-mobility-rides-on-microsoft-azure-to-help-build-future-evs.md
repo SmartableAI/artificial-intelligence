@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-t
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
-    publishedDateTime: 2020-12-11T13:40:00Z
-    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "cbgqwAYhHs++XeNvdM9CED75ugQtOP4Pga4tjfjczFtB8hDn3wb6Wu3bIvf98A2CZ+skoQ9f9ado2GV2otFKY6AuvcrgFcYWHMn0aeSnTVEriXeIYDTyQfG7CD2vERbhe+uHfSl7IZwNgOIOxcXraPNjCtVx65ur2rIANqECctLjsSYmN1DC+Q6Gwr2B4k+1mh1/4B+B90oraEQ3U1MRs+tSQR3J12/qncZTRU9p6SfCgAjZtfBuDdojAujA5pXHZW7xj2w305AiK3xNga/OdF0SIjAswAG4CH2+JiVz1wtvng/Wx8uEsSX8EgkS2bWlqlT3jgKAXAldXynb4GG2ctQ/kEdl8iFNkmoi+O08l3I=;iIKMZk6ddjJeoAMGuhKHlw=="
 ---

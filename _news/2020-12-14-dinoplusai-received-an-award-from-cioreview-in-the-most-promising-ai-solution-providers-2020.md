@@ -1,8 +1,8 @@
 ---
 category: news
 title: "DinoPlusAI Received an Award from CIOReview in the \"Most Promising AI Solution Providers 2020\""
-excerpt: "PRNewswire/ -- DinoPlusAI, a leading real-time edge computing AI platform provider, received an award from CIOReview in the \"Most Promising AI"
-publishedDateTime: 2020-12-14T13:36:00Z
+excerpt: "The platform also features an open full-stack for AI (OSA), including a powerful AI inference engine hardware, driver, API, compiler, and optimization tools (AutoML, sparsity, and low-bit ..."
+publishedDateTime: 2020-12-14T13:37:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dinoplusai-received-an-award-from-cioreview-in-the-most-promising-ai-solution-providers-2020-301191812.html"
 webUrl: "https://www.prnewswire.com/news-releases/dinoplusai-received-an-award-from-cioreview-in-the-most-promising-ai-solution-providers-2020-301191812.html"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 1535
     isCached: true
 
-secured: "G9hUQWA5jvN8b3REvAhvWZSD+eSu9zy5bEGzDZfSDdAL3a1jZAySSh4ymQKMDmYiaSqozNGTjuv0AbzuKGMpYvLsGafTuQ42Yr/6YdBfGODfv82FemqbzK9UOPhL37K6IwmJ/xkExFDnpGQkOBNUwVvo6Hnr5IOeoTjTBU75l3AlhUEwlLMpN64UuCP/n1uiZ6TaJDq6pXCDxseGtaVyoe2Ce73X91z7LyzShVAJi+pSfq1HDRnS2yFU019TpJM2NStjAUvOX2tDvUAv1i1OIQh1SMFugzMCdlaR0x7xUjArYYR0+r7TrDzZtjuPjPLmM51HbbJ8pn4U66yA79VAbNeQuddV74lvGF262942WlA=;UKqyb0YyvGGQyFeOMM2TEA=="
+secured: "uegMksJWlx/E87e834mU+tQm5bGG9Zr0sFMd5Ii+kyNIqN4SyxozMuexyS57GCOOwtxHfUbNbjQfsZ9hTZU5iQBPRjIeB/KUjt6PV5fdOOqvL1m7kd4lckN7I/8ZCR3Xyb0sfUuTXdrHE13au/b7FqRoCC1NSlKkW0au0NH4cC4jePDjgF3ymmV69+j/HOUJB7Qi3yl9a/Ag72tLTbUSjeBvsa122KQGUDUSgNIlxBjgL9xW8zjrqPNQQxIH9pzxK4k89mZRFKTqYNlROedo95kDreP2WMklU4SdY1Lons3fwVgy1R8rnkL42oWTEqQkOxnTVYkawzTByGisPVUgK5/ikUCl0UQmF4KkFdTDA5w=;wheWon2TWniVBOQ53U/v/A=="
 ---
 

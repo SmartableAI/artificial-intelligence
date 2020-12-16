@@ -68,20 +68,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "'The robot made me do it': Robots encourage risk-taking behaviour in people"
-    excerpt: "New research has shown robots can encourage humans to take greater risks in a simulated gambling scenario than they would if there was nothing to influence their behaviours. Increasing our understanding of whether robots can affect risk-taking could have clear ethical,"
-    publishedDateTime: 2020-12-11T14:52:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/uos-rm121120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/251415_web.jpg"
-        width: 1440
-        height: 1080
-        isCached: true
 
 secured: "k3LtJo54vM0XE5nWJJpCTra6kpg3UPaMfWiEnGUbKNag31ZwLvJaXWuxyPuJ6WOoUBy5fmPIKoMq9A5hcK7APJ2LTGAproCJNhd1LK9WeZJJLWid4KYasrt/TjTpmngPO83az7Y8PTQbIScFroAEBP3tV+kt6jmuNFjkRT84SQASYh5RHctzsiu6ydO59b4aB0aBG5o8KI5hke9L89dzIrgbf3dJgJIwxAV+XVvyTNDsTew0zVzJO1zyZoCvjRceDtGAiuRMMtrhMz/qxpinWDf+2ZvVMSInotgB9AW4Et8GaLPHssnW/ywKn/xj3xTACQOrjJ264GBoZiXu47XS/ZVVUw0HBRV50o2G12DRWPk=;yfmkYLY/5e+Ke0A4hLoOIA=="
 ---

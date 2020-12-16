@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google’s Dismissal Of A Top AI Researcher Shows How Little Progress Has Been Made In Listening To Discrimination Concerns"
-    excerpt: "Timnit Gebru was one of Google’s most prominent Black female employees until last week, when she was dismissed from her role as co-leader of Google’s Ethical AI team. The uproar that followed reveals a troubling situation for many companies."
-    publishedDateTime: 2020-12-11T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/"
-    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2020/12/11/googles-dismissal-of-a-top-ai-researcher-shows-how-little-progress-has-been-made-in-listening-to-discrimination-concerns/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd29ab84acee6910d7ac5c7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "cMaLtKOcxFAO+vMvHDQ4deeh0CKfINnFRANUehRFPftywLoCzBVzEdT056hO4Ux3dyr50atXLvBuzD9H0PRlNqgEVt48+r4tWg1bC5XwtRsxEvTqWRvRF3N/KzMRUIpUTI9ORxsMDHd+SEHuWjhImGMXUWFnQvwuv95J43spy4rME03Eurd1P4M+tKCJ+vBVgUGLdrbkfMZRUxbi+192H7Syog1ofrtsyv1YCwSqneyTy+CX0kLtiK4XRd8z2dYHUmPtGXxJSK9qC3BwLBYWXgB1MId607MjVHuNowqbMVxwG9QG7aon5fEr1T9990w/D125QYPIEpUQ6C8m+y9q6X0a4OGGrcxskxvkBvpj6qr7x2A2g3f/mABcLDMx1GhRmUfL3zq51ZvCnWn2hykbkWIsL8tGnQ+5TtfXamgVePSQq8G52sDNBt7t27SiF8hjwhrXshuam/+saKASoQle1JOa3LcukTbANyS+D39ih/9PW04XAXvH/IJyhP9mtB+yyDGOjo+hMNGAYgNXQzJ7wQ==;0eBCaECJeX87mZ6OG7KZUQ=="
 ---

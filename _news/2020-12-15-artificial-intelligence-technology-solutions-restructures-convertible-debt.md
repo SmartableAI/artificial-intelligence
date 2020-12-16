@@ -1,26 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Restructures Convertible Debt"
-excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is thrilled to announce that it has restructured the vast majority of its debt,"
-publishedDateTime: 2020-12-15T14:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-restructures-convertible-debt-1029894026"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-restructures-convertible-debt-1029894026"
+excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is thrilled to announce that it has restructured the vast majority of its debt, which has saved the company a tremendous amount of dilution."
+publishedDateTime: 2020-12-15T08:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201215005671/artificial-intelligence-technology-solutions-restructures-convertible-debt"
+webUrl: "https://www.morningstar.com/news/business-wire/20201215005671/artificial-intelligence-technology-solutions-restructures-convertible-debt"
 type: article
-quality: 47
-heat: 47
+quality: 15
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence Technology Solutions Restructures Convertible Debt"
@@ -33,6 +28,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "2XJlGZmUN46vQ2tlcSWzwANYZYQdVLLhuivl10XI+MKkd2mACa8fPnxU9+adUIB2buq5LDJ+6ump7Q9wqiGlPipLYxX7n3IwHtj2aS9+M7YpOy3kzpcXh9atFTvOpn7j+2UONbXT41tF2XQcztu7CD8UPcu9eC1jmH6DWYqTo4mOvOU/S7Vn6BoJ+7Bjy1JyOnhai+zP+J0tiKhQZc0RI95iP4eRlsVNU1vs8orF99H88nK2sWzEltPFDSpIoRv1GOFrqvPV1v0HA8LhNwY67ftj6m4ZB7x8w8HAr+zP4FivKqhe/43uwW/aZ1PwychLBO0AEs3meDUBTzX0RQYMqf4AQWHkM+roYvtH9P/7p6I=;cRTwILQhvIepipq0Nsas6A=="
+secured: "lD80+83qFJdLRcZEDSIKTnwrc3K+eEKCnhjU6b48x7zlGkEBzcVXl8WpriKVT58jpItQze3UFlpEWAauJ8z3i1Bzcp0keYl/k0u42mqfrBi3LgcCGzAVqaRDly6/HaikGeGoLuH6+etCSnVAp4jO+T1KE+9ZuZKBQ6qxiiytt3MiEWX0xcVXSaGdy5avFH1aFHlf4ee1k8oTun98s1mux+toqGaZVVZqI4SnnqNA+OQ5EjiP9IyI83r2i+CYjMAqGbQupiH+cKi+J20BRONgDbBZakq+iMJiAe6zX6tw6nKBxjNyoB/4Zjzr9AGdPmd2QuqR1ot5fwj/JuR0rSWg4OUe2B777/MgibZi6HdVCkk=;e1+SPOMkX6Y8OGxLevQGXg=="
 ---
 
