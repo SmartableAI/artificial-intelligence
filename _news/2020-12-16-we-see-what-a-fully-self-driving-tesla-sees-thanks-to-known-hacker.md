@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla expands in-house Self-Driving testing to Phoenix"
-    excerpt: "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”"
-    publishedDateTime: 2020-12-11T17:37:00Z
-    webUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/"
-    ampWebUrl: "https://electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/11/tesla-expands-in-house-self-driving-testing-phoenix/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Boeing's fired CEO's next act involves self-driving tractors made by a former Tesla executive"
     excerpt: "Boeing's embattled 737 Max plane returned to the skies this year, as the company's former CEO headed to Silicon Valley."
     publishedDateTime: 2020-12-15T16:42:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://i.insider.com/5fd8decc78a5740019a15858?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "After 737 MAX debacle, former Boeing CEO makes a comeback at Monarch self-driving tractor venture"
+    excerpt: "It's been almost a year since Boeing fired CEO Dennis Muilenburg over his handling of the 737 MAX crisis, but now he's found a new role in the manufacturing industry — as an investor and adviser at"
+    publishedDateTime: 2020-12-14T18:53:00Z
+    webUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/"
+    ampWebUrl: "https://www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/737-max-debacle-former-boeing-ceo-makes-comeback-monarch-self-driving-tractor-venture/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/10/1342-Summit-Day-2-2018-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
@@ -75,21 +75,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
-    excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
-    publishedDateTime: 2020-12-15T11:05:00Z
-    webUrl: "https://www.barrons.com/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
-    ampWebUrl: "https://www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+  - title: "Ousted Boeing CEO now a consultant for 35-employee startup that sells self-driving electric tractors"
+    excerpt: "\"My heart will always be with Boeing,” said former CEO Dennis Muilenburg. “Now I have an opportunity for a second career, and it’s very fulfilling.\""
+    publishedDateTime: 2020-12-14T21:22:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-boeing-muilenberg-tractor-consultant-20201214-zo6hhjeqiram7kcyujkyommhb4-story.html?outputType=amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 29
     images:
-      - url: "https://images.barrons.com/im-273242/social"
-        width: 1280
-        height: 640
+      - url: "https://www.chicagotribune.com/resizer/F6m6UYZvrAZECaIq467w_OjDFpI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SUG4NAL565FMHAULNE4MR4SKCY.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "7FG2gmmiRp/Ie+P0S/oVh/cDzF6FFEBDnLIwjeSfpECImu2QF0AdXpclHHtYCdskd9wuI4fOtfJUgTEYCyJ8pLzoDyJOLcQz/O6Rcxdu7HDOno8Gd++OgZYmF8KQRuVfVR3h6oOWs0FgLhYgcIUpwROD/VXuwKGFl50ls3usskOf8q5WQQl8uDnmSRbFbND+kxrxjjqEnv43ize470DS08e+xO7ie6ud+aJ8w2YlIjw8I816HlHjJq6PjDJLW/ZXs9hlLh6MeielboChBb8O8ssqsp+LoxzXTjwuGYW36AEBcF8kmyPPr5fzDqvApDYW4NANZ86hkh+bCaq0HxkcoKmRPaRQ8Shq/8ZP36wHOgc=;5eK/FJVNnbeFszJRG0d/8g=="

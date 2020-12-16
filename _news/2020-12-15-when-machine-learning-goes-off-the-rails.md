@@ -58,20 +58,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Mila, IBM collaborating on open-source AI and machine learning project"
-    excerpt: "Mila and IBM have teamed up to accelerate artificial intelligence (AI) and machine learning research using open-source technology."
-    publishedDateTime: 2020-12-11T17:06:00Z
-    webUrl: "https://betakit.com/mila-ibm-collaborating-on-open-source-ai-and-machine-learning-project/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 56
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/10/InaugurationMila_web_credMaryseBoyce_9771-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "xVtB2ssUHw04l2kj4n82vTGy9dH/V2eIGjjttFsNBi+Xhz134N5RJ6fO5NZwqRPhVT9Q25RZc5Fa13bvCsYmSwnT7hOs+iODBanYItY4e94B4HimdT05lvGJTpq0OY48IPT/7u68ZXIw2j8Zyxnixki19qJo0MHG0lK272KFQ9tsw/Axa9W2jzNt011o5DmB6lUaDhy4LTLLPz/O7lsODy350XJ7OOQf3zL0DGa0Eybxthl1Ic67hWV8JxIr+IyizA/y3V0onQ7pelTQWoYixZ+YKNd+HsLfDf6CwT8/KTOtECiWUyJn2gMc7n9aAJWh6VAADdpVpdOFQ1TX/UrkCA/hKW2LrF/NLuK8+R6gbdgF10k0rVOBktq9yd8SOlpRxdHWhgZQSgOwahuDSgdKkmLoxs1TSnypE5twNdio4nt2qq6///dNkPYye4jDpCPFBmroCGLjPhEftnZ7THRFARCCrAhZSNNHBo198a1k/muItqsWPi9rrczaHsZGdLC69TqT+oRWQKPQiPmCnXs+Lw==;51SoW//HcM71f47xBwTp4g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "H2O.ai Launches H2O Wave"
+    excerpt: "H2O Wave is H2O’s latest open source offering, making it even faster and easier for data scientists, machine learning engineers, and software developers to develop real-time int"
+    publishedDateTime: 2020-12-16T10:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-open-source-software-software-development-computing-and-information-technology-f380c33f067542bbba03346b0656c3ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "deHVjRp64siaySnXyHEyUmhd1WjckcFVc9Vt+PJ/djtEHIqo/LPNM7v/On+iUlg8i12lg0o2saytkRJvH3Kyo7Q7aB8PhYpB2Sl/rHa9SyfdBTmD2TUv+FyG2c+7TKABuSlsVxx8B2NQvwJfe0ShgRcuR8RqIW0Lx24HNRtwJY7csn1VGaHKvI2uM4EARRyDxYopY4wJw4F75C3dYkHWvjaVumehK88OvVtRfdamYf3Xo7v7JdfUiMBnF5/T2JIHTjJNHech9eF3Q6YUNgPLQCxpojEAYIS5nwGwBCrIc+Y6221okmMb5TiDEPgfLcQbbf0eOoVsIjKQGEHH0bsDQjjBTru9Oorl2EnAsjbeTuIS3fVCmREBZiIpsBf8R3wGVSL21RLVfw5S2+IWoxFP2JxjXa2RaFjSWWwg/eJzXo26hRTu0lriAvxq+z1bBKezOkAjw8MypdVscOImvq2293d5W2EQuojwZrPNB3J1RXcs3ULXyroUzWIbxZn29YSUDw2KsK/ixlLzlTTjuHPtGw==;JzG1+cajW3i3fkZ7+oyQOQ=="

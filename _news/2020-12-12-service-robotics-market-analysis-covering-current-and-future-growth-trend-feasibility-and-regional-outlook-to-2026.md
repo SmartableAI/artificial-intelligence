@@ -29,66 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020 Dynamics, Trends, Emerging Growth Factors and Forecast to 2023"
-    excerpt: "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
-    publishedDateTime: 2020-12-16T05:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-dynamics-trends-emerging-growth-factors-and-forecast-to-2023-2020-12-16"
+  - title: "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2020-12-14T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2020-12-14T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2020-12-14T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mobile AI Market 2020 Detailed Analysis of Current Industry Figures with Forecasts Growth By 2023"
-    excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security."
-    publishedDateTime: 2020-12-16T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2023-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational Artificial Intelligence Market Analysis, Dynamics, Forecast and Supply Demand 2020-2024"
-    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
-    publishedDateTime: 2020-12-14T13:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
+  - title: "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2020-12-16T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16"
     type: article
     provider:
       name: MarketWatch
@@ -99,24 +57,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
-    excerpt: "Market Synopsis The Artificial Intelligence in Transportation Market is estimated to record a significant growth"
-    publishedDateTime: 2020-12-16T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
+  - title: "Voice Recognition Market Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
+    excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
+    publishedDateTime: 2020-12-14T15:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-forecast-to-2026-by-key-players-share-trend-segmentation-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Diagnostics Market 2020–Global Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2026"
-    excerpt: "Global \"\"Artificial Intelligence Diagnostics Market\"\"(2020-2026) status and position of worldwide and key regions,"
-    publishedDateTime: 2020-12-14T21:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-diagnostics-market-2020global-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2026-2020-12-14"
+  - title: "Global Leaning Machine Market 2020 Growth Opportunities, Market Shares, Future Estimations and Key Countries by 2025"
+    excerpt: "Global Leaning Machine Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end"
+    publishedDateTime: 2020-12-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-leaning-machine-market-2020-growth-opportunities-market-shares-future-estimations-and-key-countries-by-2025-2020-12-14"
     type: article
     provider:
       name: MarketWatch
@@ -127,19 +85,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
-    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
-    publishedDateTime: 2020-12-11T22:39:00Z
-    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
+  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
+    publishedDateTime: 2020-12-16T10:57:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "EnYk7dKnBcPDVbSlggsucWuxhGTetgbIf7Q9RpXyqmrIgc690eVpwQFfPYbxHskY+BcM3yXuh2yNEI9x2mA68xuvhYv+f/7mGKQAVb17nmLjGSBQgzNg6rCSJFNvSrH7PYc9ah5rQNw61PWZChexnrblW+TT6TQW2MBIujxmwT3NHXpNNeyjZOMRqjt8WERLkWzoVTGo//6nb/2Owxi07KmpgzVyTnEi833D6sw/fBNkKu8e0grYp9t7VScZ/h6/IZdeeiv5ztkbu5oLddlDUtPeYgJShTfjK58zTciEUITGr8kR8eg/fo8WFKRVQfZ4KxQxNRZVFqSs7FkrdeopJCBSbvKwrqyulDujex85M38=;c1h+GEAIJ5lNDNTxdx6Kyw=="

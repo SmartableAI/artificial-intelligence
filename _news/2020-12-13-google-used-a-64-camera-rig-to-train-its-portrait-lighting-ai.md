@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-portrait-lighting-ai-technology-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-portrait-lighting-ai-technology-180758456.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 600
     height: 350
     isCached: true
+
+related:
+  - title: "How Amazon Aims To Take On Custom AI Training With Trainium Chips"
+    excerpt: "Invent event is the launch of the custom machine learning chip by the company — Trainium. It is the second ML chip by AWS after Inferentia, which was launched amid much fanfare at last year’s event. While both of them share the same AWS Neuron SDK,"
+    publishedDateTime: 2020-12-16T09:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-amazon-aims-to-take-on-custom-ai-training-with-trainium-chips/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/12/chip.jpg"
+        width: 960
+        height: 641
+        isCached: true
 
 secured: "63b90FWI+ftiNcTozSwgdsbJV87SnIuqTDZnKJDt+4nMgL/uTN/bczjGKbzQqWKnla0KcBqCnRVOqz8R8ROIGdPF5mrXp3qmDJpxozHYCq/7deATUWI4usHEf6FF6ZSUdu0vwJ88y9ZNsc5/4ejNqrX/+qqvexaMqqMQ4GhDEWlfLR3zvJDuM6lUEvRm3e0d7456ReObL77pjbO7+W/o98TqwfrYn9nfeKgbptBNHdkkUmhLRup/OGIzlM0yFXoZGmbaKOzy01t5G5C7kvGP5SfPgi0RNW/boI+9iTmbIIr/syPjHvQ+pWvJsTa8o8UZK92fMa9CfN34X4YCQeW+jhuIX/KMzP7FRDtA8/Kmo6ICp5iYdecwnj+UhFIqg5HuwP10lb/U+0AVacq0WLFcyNZ6m3D0F3zc+SBww3VbPAHnqUeFHqw1184aTAqgLh0yTso+GwqKkp9hitRBIicnVESr3y3pCa617dwjPHVRYzt4ZXCeRHAnFP8iN9ftplUYBwzGdEDAfkyG+WIBjefZZg==;hoPJ+BFtdgTSBg19GUPRbQ=="
 ---

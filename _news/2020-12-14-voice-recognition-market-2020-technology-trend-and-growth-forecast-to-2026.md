@@ -29,10 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Size to Witness Huge Growth by 2026"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2020-2026 Global Artificial Intelligence Chipsets Report\" provides data, information, brief analysis, company profiles,"
-    publishedDateTime: 2020-12-15T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-to-witness-huge-growth-by-2026-2020-12-15"
+  - title: "Artificial Intelligence in Supply Chain Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
+    excerpt: "Kenneth Research has recently added a market research study on Artificial Intelligence in Supply Chain Market 2023"
+    publishedDateTime: 2020-12-16T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market 2020 Dynamics, Trends, Emerging Growth Factors and Forecast to 2023"
+    excerpt: "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2020-12-16T05:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-dynamics-trends-emerging-growth-factors-and-forecast-to-2023-2020-12-16"
     type: article
     provider:
       name: MarketWatch
@@ -43,15 +57,99 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
-    publishedDateTime: 2020-12-14T07:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-12-14"
+  - title: "Artificial Intelligence Robots Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2020-12-14T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Research Report 2020 Analysis and Forecast To 2025 With The Impact of Covid-19"
+    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
+    publishedDateTime: 2020-12-14T07:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2020-analysis-and-forecast-to-2025-with-the-impact-of-covid-19-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile AI Market 2020 Detailed Analysis of Current Industry Figures with Forecasts Growth By 2023"
+    excerpt: "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security."
+    publishedDateTime: 2020-12-16T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-2020-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Conversational Artificial Intelligence Market Analysis, Dynamics, Forecast and Supply Demand 2020-2024"
+    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
+    publishedDateTime: 2020-12-14T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-analysis-dynamics-forecast-and-supply-demand-2020-2024-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What led Artificial Intelligence in Manufacturing and Supply Chain Market 2025 to mark 2116.7 Million USD with CAGR of 35.3 %"
+    excerpt: "Selbyville, Delaware. The research report on Artificial Intelligence in Manufacturing and Supply Chain Market is"
+    publishedDateTime: 2020-12-15T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/what-led-artificial-intelligence-in-manufacturing-and-supply-chain-market-2025-to-mark-21167-million-usd-with-cagr-of-353-2020-12-15?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market 2020, Global Trends, Opportunity and Growth Analysis Forecast by 2023"
+    excerpt: "The Artificial Intelligence in Telecommunication Market is estimated to record a significant growth throughout the"
+    publishedDateTime: 2020-12-16T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-2020-global-trends-opportunity-and-growth-analysis-forecast-by-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Transportation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
+    excerpt: "Market Synopsis The Artificial Intelligence in Transportation Market is estimated to record a significant growth"
+    publishedDateTime: 2020-12-16T06:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,15 +169,62 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Share Current and Future Industry Trends, 2020-2026"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled “2020-2026 Global Artificial Intelligence Chipsets Report” provides data, information, brief analysis, company profiles,"
-    publishedDateTime: 2020-12-15T04:20:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/136761/artificial-intelligence-chipsets-market-share/"
+  - title: "Artificial Intelligence Diagnostics Market 2020–Global Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2026"
+    excerpt: "Global \"\"Artificial Intelligence Diagnostics Market\"\"(2020-2026) status and position of worldwide and key regions,"
+    publishedDateTime: 2020-12-14T21:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-diagnostics-market-2020global-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2026-2020-12-14"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 9
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
+    publishedDateTime: 2020-12-15T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2020-key-drivers-and-challenges-opportunities-and-forecast-insights-by-2025-2020-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
+    excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
+    publishedDateTime: 2020-12-15T13:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-gesture-recognition-in-automotive-sector-industry-2020-market-challenges-business-overview-and-forecast-research-study-2026-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market: Global Analysis, Industry Growth, Current Trends and Forecast till 2024"
+    excerpt: "Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2024'</p> <p>PUNE, MAHARASHTRA, INDIA, December 11, 2020 / / -- Updated Research Report of <a href='"
+    publishedDateTime: 2020-12-11T22:39:00Z
+    webUrl: "https://menafn.com/1101265118/Artificial-Intelligence-in-Agriculture-Market-Global-Analysis-Industry-Growth-Current-Trends-and-Forecast-till-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "obQ5tBOR2O/UKMebIAh9cEpwMQj8mTeNcaHIGxqxjTZ+KdOXAeJ4Xdq0Lg4dAZZG9MeHx7B/pEc5SsRpGgTo7wGIOYxEO1r6IXYkBu/ssnB5ym+ZxdnyDm48VyeYy34VekxBKGTDRPQOIXoPT1bt4mAT0IHV9enAmcp280tkS98fufzO3gHs6xEOM6AQydzOlb3XegubeQscug1Zfa/p4EVY+Tiwst4J+UZEbJy+Meysi+dUCilbPvvK+pKiZOvHaaKYU5/1oOhGwhj4xHtRz1v8svdZIh5dUUMm6q7Lb57uNFBJDgYurG9mIjzFJhk3hJz9/5CNJ0/b2daoVPhiREVnvtojLYdxI4bbw0Rz/yA=;efBHi0kCwWlBWpmpj5KB8w=="
 ---

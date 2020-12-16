@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3581
 webUrl: "https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights"
 type: article
 quality: 167
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "EU rights watchdog warns of pitfalls in use of AI"
+    excerpt: "The European Union's rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
+    publishedDateTime: 2020-12-14T05:06:00Z
+    webUrl: "https://www.businessinsider.com/eu-rights-watchdog-warns-of-pitfalls-in-use-of-ai-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/eu-rights-watchdog-warns-of-pitfalls-in-use-of-ai-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/eu-rights-watchdog-warns-of-pitfalls-in-use-of-ai-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "EU rights watchdog warns of risks in use of artificial intelligence"
     excerpt: "The European Union’s rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
     publishedDateTime: 2020-12-14T12:11:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Service Robotics Market Analysis Covering Current and Future Growth, Trend, Feasibility and Regional Outlook to 2026"
+    excerpt: "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at"
+    publishedDateTime: 2020-12-11T20:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-analysis-covering-current-and-future-growth-trend-feasibility-and-regional-outlook-to-2026-2020-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
     excerpt: "The 'Voice Recognition market' report, compiled recently by Market Study Report, LLC, examines the industry in"
     publishedDateTime: 2020-12-14T15:17:00Z
@@ -71,33 +85,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
-    publishedDateTime: 2020-12-15T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-systems-market-2020-key-drivers-and-challenges-opportunities-and-forecast-insights-by-2025-2020-12-14"
+  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
+    publishedDateTime: 2020-12-16T10:57:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Impact Of Covid 19 On Gesture Recognition In Automotive Sector Industry 2020 Market Challenges Business Overview And Forecast Research Study 2026"
-    excerpt: "Overview for \"Gesture Recognition In Automotive Sector Market\" Helps in providing scope and definitions, Key Findings, Growth Drivers, and Various Dynamics. The Gesture Recognition In Automotive Sector market is expected to grow from 2020 to 2026,"
-    publishedDateTime: 2020-12-15T13:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-gesture-recognition-in-automotive-sector-industry-2020-market-challenges-business-overview-and-forecast-research-study-2026-2020-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "LxXR0hVsEaGwciTW0+P7VqECkz+EiAWcfmxQBfK6FFyT7TR/GD+1YuuT/J337P4fLieTHatc6pMcjnf27CAl8TbkZDR5696A+WjHRntjLx0frrrpRtH25IBeOahb9+gzumL4yn/MEjAaU98yN6ZBI9NxC2wTKOQS5X6/GL7VeRGCLfHNGXp3aJSSW2vEzB3yeWlX7uYlyJZkM2H0aEaOt3mpKxpbj3SmSyTEQ0+EoZXFnlwVdH52GhLBVfArUuVDbaufOwVGEZ1J5oRpJhNfXtnf6a0W1z7F612V2GV4A91ZP3yiADnH55YArvARsrQQovepP1N0LP9k7QpPQo+Bfo9G7jpbPoKlvuR4XrjNHsQ=;qjYM4J/PAmaWQ2t3sGSoVQ=="

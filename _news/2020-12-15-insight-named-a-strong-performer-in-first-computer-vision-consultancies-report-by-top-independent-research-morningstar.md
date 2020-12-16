@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Fractal Named a Leader in Computer Vision Consulting by Independent Research Firm"
+    excerpt: "PRNewswire/ -- Fractal, ( fractal.ai ), a global leader in artificial intelligence and analytics, powering decisions in Fortune 500 companies, today announced that it has been named a Leader among Computer Vision Consultancies in the recent report,"
+    publishedDateTime: 2020-12-16T10:28:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-1e8d786002313f6780dddf2a49e93352"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research"
     excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has"
     publishedDateTime: 2020-12-15T15:31:00Z
@@ -28,6 +42,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
+  - title: "Insight Named a Strong Performer in First Computer Vision Consultancies Report by Top Independent Research"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, has been named a strong performer in the report, The Forrester New Wave™: Computer Vision Consultancies,"
+    publishedDateTime: 2020-12-16T10:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-drone-aircraft-610cd0a0abc249b0aa568e35afe25c14"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "y5dirHa6OC3Qe2KgjswZxl/8ACaF/KwSa8uWOvww5Fvmxs5SC11GEmSDXx3z1biovMw4EIlhadR0LGMdxt9kyMVnSLiK7T9aTgdquMe2N3m7Dld9WanhetTZrEBqgSWsvl86a2hwwF/6l8Et025jVZ8zCdbtTr7jDFeyqEzGTlae1dulycDKyTiAtg/ziEqglQtVDTRJ1EAxFCbYiAbk72ksPAWktyase8lw3f24RjOy3zx9/BvGTrpBmzyTA2ZhxDxvTaJkYXERqKVv0kE0XQW35audsBJCnz6wpb7GSK/hDdhj8s7ZRIWoE2vlE88d3F+gl4ONHjteDcDe2OrgOZZXemabHhCufCn1wA3eZB4=;67iOZINQChXdMz3NZHsPhA=="
 ---

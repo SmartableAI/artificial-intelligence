@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Masked Face Detection and Recognition Capability Released by piXlogic Software"
-excerpt: "The new features extend the face recognition capabilities of the piXlogic software. piXserve detects and recognizes faces accurately under a broad range of conditions, including different lighting, angle of face and image quality."
-publishedDateTime: 2020-12-15T17:18:00Z
-originalUrl: "https://www.marketwatch.com/press-release/masked-face-detection-and-recognition-capability-released-by-pixlogic-software-2020-12-15"
-webUrl: "https://www.marketwatch.com/press-release/masked-face-detection-and-recognition-capability-released-by-pixlogic-software-2020-12-15"
+excerpt: "(GLOBE NEWSWIRE) -- piXlogic has issued a new release for its award-winning software piXserve that enables customers to detect and recognize faces in images and videos that are partially obscured with COVID-19 style face masks and coverings."
+publishedDateTime: 2020-12-16T10:12:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-software-industry-lung-disease-information-technology-8a66f684dd8f9901cc958a9bdbc612a1"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-software-industry-lung-disease-information-technology-8a66f684dd8f9901cc958a9bdbc612a1"
 type: article
-quality: 50
-heat: 60
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: arnnet.com.au
     quality: 8
 
-secured: "lqfGUgXNnR/pm9+XvD25LT/XMVGwJadphQA2ekqU+DrLhLYlYd7bXmxyAr1CYHDD+Ki1TjHYsMkrXSz2MWYskcajMAWj4thNU2icEp7l/vqABjljTdKjvGJvAYVCWlaQwfPAgophVS5jRsRtpkHF8TtglMggELIm408z4GuH5WaMq3WLCwm5p2IVcVhDpr2ZQbS6S+Y02PBgPmPH9iGQyAPzzvlfnjKRKVj1gNJS+jIia2e1SJMY+7J1elgwoqbgeLRwiaxqjeTy+7naJXFbuHlicV2snE7/SvQ8B5++z5wRIAQFLksIcU0MK9XyR4QMoLphJVtITgvNfJc2fC3dX5nAW2QAib9lBvBZoL54OrI=;ts1rlGkq6Ehi+ljj/5/R0g=="
+secured: "o5n5YwSdmdEH9MFRTVGz3zb7Ufs8SFr5eSUFaZw7NvX+LmsYHunpq5oFeozGmkCzyA5gh9f6VJNT/0eKbHFdH3uJjdvq/FvA/dbKy9a/zxYhfRVuwj9SRWnqQsk7XUCTWf9ZQYbimz4nc0teYMjaz2J5o2XLV226KD9ReHmMGrQbpq196+1TUgJ6khqMVaUTevOjty2tlnYJr1ZVlMiCYRYbB/C/UnF/Be2nLrEtG4u0TmPVeHfibpVnbpOyAdgc6LtHTfYyw0ogojdlLcqqOu499+wZwWzSnoOBofeNkaBQWUxcu5cLmrgWCg6dvKOg9i/dDVIP3M9YhWOXpZuNLQZiDp/5vcgPo2imw6x9cWU=;Ia4p0CBzBWSppVzZFVdGsw=="
 ---
 

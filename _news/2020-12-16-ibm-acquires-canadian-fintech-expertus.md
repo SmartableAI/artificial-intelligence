@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/ibm-acqui
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/ibm-acquires-canadian-fintech-expertus/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 42
+    quality: 59
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg"
         width: 2832

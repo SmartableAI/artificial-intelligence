@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/m-a/20/12/18809433/ibm-acquires-fintech-startu
 ampWebUrl: "https://amp.benzinga.com/amp/content/18809433"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18809433"
 type: article
-quality: 42
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.benzinga.com/files/images/story/2012/sam-pak-nwlfmvepzhi-unsplash.jpg"
@@ -43,6 +44,6 @@ related:
         height: 274
         isCached: true
 
-secured: "r+HBpT3vW+SQ3S/XFtKXQnhMoQxueMoZxhY8L5EIOHsDBAZpsXEoD2ABnm3h7a4JG6Huv8ZGM5r7QudhMB0wjEUFhhOH5G+U9hHpHEqq6yvmCXzgiFQaC6C7v5jkfaip8TTBnG+0ZesjDyoR9sE8yeHNgX3tlGFmrKGnbfT2lCKDyQr2cldvh+ZqAzFAeMQ1tk+1M+AfprQjMDN84rQOGX5gNz8u/b9h0NsgDPKHB2tin9/pXpzil8fFyW1A/oevFsyAPXXeS+Tgfj91c/0I0dczNbPvtp1QIDHfUw78TaSl8tv1fKi86lEwzc8gI2K0HZsDsQIWFOJmlcKNasgsja4Fe7+5CcKTc3/8ESt/zWw=;N8IBPiZ3bvgg7jwa0T50Og=="
+secured: "IzU9h8NQvtBMd7xT+9L7xC/Q0laXx2zVjSbSRviS7yOcimxnZWsvekq/U9OjyRXyScn3EaC4tEL8IkDPCgJT46Y/V3mwpC9PMjy0LElG2SemHdGWtQwDckAFjPKp6lGJ1BDHE1bagINZkk6mAx580N6iUSr9FZx3UcVUfs0jZj2nQKbKyf56urbq+jui5erT7MSQ7afPrPzxtI+PHsFmpv8ZnkZ1wzzOwscBhtlMXTH5tP0MN5sJFua+G2wdkgRIxONZfS2S9yCNGfgmA1epP40DOak+ziqPTjErRIJ+HjECxMs5vH4tNpxn6115iY7rz7XYYg2bwfBGA6yGFPR5Phv9Gk9j3D9qJwZ01p0vlf2whRKTJrqoyxy9ddL2+T7QKws0yQYFVLco7xiaF4831DEaOB0I6e7xnaKro1/mZZ23ML0UQ1pROJjHBKieBFWl8uE5UYS2I5ttgX+vQT5v3Pe4XT95IItdBrTBd+YFY872EN2B7ehcyS6z/vlZ6AuaQNU0NOBpmn6rQmmUqWXsng==;Twe0BPcKDrD60uKkYcthGg=="
 ---
 

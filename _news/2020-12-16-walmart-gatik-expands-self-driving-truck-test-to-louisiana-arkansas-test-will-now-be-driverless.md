@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart Is Expanding Its Self-Driving Technology. Why That’s Good for the Stock."
+    excerpt: "It’s the latest in a string of unconventional investments for the retail giant and successful advances in self-driving cars. Walmart (ticker: WMT) announced Tuesday that it would expand its pilot program with Gatik’s autonomous box trucks to operate a ..."
+    publishedDateTime: 2020-12-15T11:05:00Z
+    webUrl: "https://www.barrons.com/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    ampWebUrl: "https://www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/walmart-is-expanding-its-self-driving-technology-why-thats-good-for-the-stock-51608030060"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-273242/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Walmart expands self-driving program with fully driverless vehicles"
     excerpt: "Walmart says it has tested the multi-temperature trucks on a small scale in Bentonville in order to see how they may be able to transfer customer orders from a dark store to a live store, or one that is open to the public."
     publishedDateTime: 2020-12-15T16:22:00Z
@@ -42,6 +58,6 @@ related:
         height: 720
         isCached: true
 
-secured: "xN8wl0DH5y4ZzQeN5jh3c+9gO1sCFpEeUSLgJh3E58CS25HcoqgctCwz8LfOFw7dSPO5J7+VxWi5QQsPWxb0mqOsvnj2RYcqECsyJqm6azhY5IrXlfeHNHQDlWtvhS6D3qk4B4SDy/wdLLTY/XkUuOvx+SqP21dn/ulprvEOIr9+kcYIMuHwYN37aVj/Z0yQ6mXcUKkkBmAxy21eSHXhyP4W3d7Aw3k0sj7RV591ggU1VWn9fMgn0FIQHk6Ni/KxX6hKOLKSY8qpqfR1HFBEJ2VchmQtugtYhoqLck2Mi1hjoJNqCIzp9XGcR/yCYf3556A0QcsFhDE+cHbwMHmQNkghR12GRiG8otaSJaw9oio=;2X5ciHJuhb8kixTGLpoSIw=="
+secured: "8WFy0LIo+52UHREL+BzWuClDqTklNUjvvS1Ixi3Wsq2th10c7T5v3g7jUHwLqZ756KLEu72whVnqi4G7SypkUy1qBkFI1Mhgn0089IAaWqCi1+ORxRSVUCe1Q2oiLAxYdde5B2TBrMzl1ExJkXQoErRsH/DciLX4K9s/tlbba5acLorGrBtpfsposUl1XOlns3mBe3hkXoWDiOwYhCpNGou/7MYzWHYIlDJspeZShp3BdhhxvN+lw/bNmWTKb4/dJFVrjWVpb1y8tBSpvlUzuL0qW7rsfrI0z2jTCOdcdLpaECsy38snVAiWhdTwc8bk33ZTZth1mG3RNMEtdinRqSPGoGUbtZmpn6cZqMoYcr6Mq6pgEdAcSpSNNTLl1t48ZucrrwcBVYOJzSD8mXLe/cnr+n3BOpu0FcXNek9vwO8GmGoCSC8jcpPJISgpWFnUnD95Y0e28mnSteZpboocJMqAxuF4T16r5WezTTlp9I+XlAncdd3EchYG/50TfYpu13O0ZOoTQlOlhkcjj3FKMg==;TqVA6ooHXxrZa9kN+yffqQ=="
 ---
 

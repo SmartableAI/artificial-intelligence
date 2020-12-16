@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "H2O.ai Launches H2O Wave"
+    excerpt: "H2O Wave is H2O’s latest open source offering, making it even faster and easier for data scientists, machine learning engineers, and software developers to develop real-time int"
+    publishedDateTime: 2020-12-16T10:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-open-source-software-software-development-computing-and-information-technology-f380c33f067542bbba03346b0656c3ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "T1svx7ste9cHOuA9DunRzUcJCMpvu4rgJBw5Ldbrw1w0PIz5vA2ba62l/Dc/r7PHQI10r5RSjcQgfHgtNZPThNVBiS0B2NSMOWsc8tYEteXI2DL8EmSSX27n03b7tll1OKeW1A+t3AIInHK4vlByBBwAtU8xsrQ7ixhsLWgAvhhMc4ReFvd5od72gCsbqrt047bfDaXDiT+aN+FkcnP3E16nAnVetPI/ZAiOXHXzv3jBuMl155HAdZJn+rZXRnFw1FB5AMwcNjoCkCCwfeMG3ZYIgl/NavYVZoHOrz7707PwQPOGIyDDkYc093hOoEsXaHFRafcknITsvMmbzvtGuk+ljG37+SeSKQmmAnA60aA=;CMUsDxcc4jrqO9E1zqFaZA=="
 ---

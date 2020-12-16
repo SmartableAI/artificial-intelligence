@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Mila, IBM collaborating on open-source AI and machine learning project"
-    excerpt: "Mila and IBM have teamed up to accelerate artificial intelligence (AI) and machine learning research using open-source technology."
-    publishedDateTime: 2020-12-11T17:06:00Z
-    webUrl: "https://betakit.com/mila-ibm-collaborating-on-open-source-ai-and-machine-learning-project/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 56
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/10/InaugurationMila_web_credMaryseBoyce_9771-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "When Machine Learning Goes Off the Rails"
     excerpt: "What happens when machine learning—computer programs that absorb new information and then change how they make decisions—leads to investment losses, biased hiring or lending, or car accidents? Should businesses allow their smart products and services to autonomously evolve,"
     publishedDateTime: 2020-12-14T22:02:00Z
