@@ -2,7 +2,7 @@
 name: "Agolo"
 overview: "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information."
 type: "profile"
-heat: 50
+heat: 58
 
 website: http://www.agolo.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "agolo"
   url: "https://twitter.com/agolo"
-  followers: 748
+  followers: 749
 
 size: 11-50 employees
 yearFounded: 2013
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=rijPqvv1xSc"
 
-secured: "h1YT8Oq0eQlVEzJY0JnMw/z5gJzhpNcRIDY7tAJg8E0jor4cFJiRUXSsrn/8cmGUmSpkpPUp0zx+ldtXIkJp3Cd8jyMaWnvqto1mYA3nO/DplHs7xUUloMvAfr9vlm/GhN8hmssDEveJrvMv/QH7GTvGA+48A6J4+dkr6BYAvFN9GOnb3Tj/KemLrjE3ifSjbrP76wP3HzRWF9hsPw1x4mwo6FnmtYoA0VPEX6cMlRdx64xwovuXhSDRzOKUJZrjIJwse/T8IPcj3skyyhL2MWthOj/w0S+AgUSFZK36oVqTRe2ey55OU0OAhR8az4TXC3SvExIVOruB3pcKkmouZv8NuRN3UpEq/KCrIXkTcBLCNxrEWTdwToXoj+i1JP/4zuvCULVejDawUol4fDaO4w==;kw4rzsCCeRuAKtEEgwzNxA=="
+secured: "rBzFjM2WZ81hZ3Ijyh+ltHH9WRrLj1mD0DUf/RAuh2EMoMF9tRK+RHuBFh1FO+16FqCRhqXCm2JPyC2+zRFPl3bQwnK1g16fBUSUqyS4e5mqOpxOyfvrdXxh8HcctRbEh5172486zKHfdAqScTiLFsT5+KCZkIVCkzbP3dcrVBjg/9JfwMP8yZxB01BceF057GFXEdDBd/heOw4vUOIYUDbBbNMRxrf6TDV769C9WN0sqqUrX063rD9LTDYJ+sATxsZM8nI8TiFCBb8v47JvxmuniYeTySH2X4Pgyj3aKTA9t7QI/YiZ7g0cW25AwGeK8+XRbsuDCigDVP9GjUjUhuOJBu0Bxf+y+VgEb1ipBdi3gBWLqnMYfF6qiuEyR+uKPmVaNEGSV0ssvIEk48N/TA==;sPW8W8mPm2G67YYqbFaDxQ=="
 ---
 

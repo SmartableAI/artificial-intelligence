@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mojofertility"
   url: "https://twitter.com/mojofertility"
-  followers: 389
+  followers: 390
 
 size: 11-50 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Q6EYc3yLMT4xz9HReaylZ4tDNI9t4x42bTBQ1Rr//cOLQ+zY0+dSmrjYpi9dK9izPqyC+qgrxcjIpSLs06XGd47nSZpqC1tWy0OXneFNThyCObCE3A/YpMIcO0a2lrxHCu5eU6pW/r5AfDcPItblh7XXXLfxIDKdyHBDj8d3uKfPFfdXCawVlfcI70GLVensfS+EK65/MSOyWRlD/ieZOvUWNxCQSLRD9Le5+MVDFuxISxQrNidSfLA7eKo4pC0cl12MstEcP+KQuipitKJreX/pOb4AFfSQ+YvxqB3ZvcVF2jUgooQ+4WZnHFlZIrnsAnXnpKUZQLORF5x1ov2pV4SukDSCfr4U55XKNGx4FUmvDxwx/fcbMxu+Wc8tCbaOhcrWvQizhQmSYsAKeOJ5Ag==;jwC9y/xNePlC/VPB3x+Hxw=="
+secured: "R+HhEUElur4pNpLqEI+d6UAIgk4cK0461Vww9ScsZR5ra061fPMQbODh0VXVfu3+rdFpKsazUJbzX79aF3T4n/FcBF2fPLB6XIcfMRaTNmzbop1kXabEVxzH8/reLcowt15ChPIG/t1Qj0eOLg2t9hMU9R54F7I+e7gGD5HyYeKLslKylCB8Y92sR5wldMg550VfG4RlbTb01AzQvSr+OigB+RqAy26aesP98Iaibqyppb5k8VwXj+tEQHV1q1k4y7Z6X86gwlwrwSRG9v2beReKWSMiV3gexDd2MxMtF8CaKN82atPF3ZBCTPSCG5tebWfeFLX5EkZ92aYTUQvXPuogcN8fNn4EbpTk6etWB5oHfvgdMwAceFjU+dvXKUYzOQsE1EfRKH5m+7snKHBGqg==;cTbrVWsihWINZWJDjlTEHQ=="
 ---
 
