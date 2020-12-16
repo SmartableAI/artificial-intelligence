@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/sony-ai-launches-the-gastronomy-flagship-project-to-apply-ai-to-cooking/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Sony AI launches new project dedicated to gastronomy research"
+    excerpt: "Sony AI, the machine learning and artificial intelligence (AI) research arm of the Japanese conglomerate, has launched a new project that will be dedicated to gastronomy research and development. The gastronomy flagship project,"
+    publishedDateTime: 2020-12-16T01:43:00Z
+    webUrl: "https://www.zdnet.com/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-ai-launches-new-project-dedicated-to-gastronomy-research/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/16/98b4cc2f-ffaa-46eb-ae8f-f770e1094bc7/gastronomyui-for-pr.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "deHVjRp64siaySnXyHEyUmhd1WjckcFVc9Vt+PJ/djtEHIqo/LPNM7v/On+iUlg8i12lg0o2saytkRJvH3Kyo7Q7aB8PhYpB2Sl/rHa9SyfdBTmD2TUv+FyG2c+7TKABuSlsVxx8B2NQvwJfe0ShgRcuR8RqIW0Lx24HNRtwJY7csn1VGaHKvI2uM4EARRyDxYopY4wJw4F75C3dYkHWvjaVumehK88OvVtRfdamYf3Xo7v7JdfUiMBnF5/T2JIHTjJNHech9eF3Q6YUNgPLQCxpojEAYIS5nwGwBCrIc+Y6221okmMb5TiDEPgfLcQbbf0eOoVsIjKQGEHH0bsDQjjBTru9Oorl2EnAsjbeTuIS3fVCmREBZiIpsBf8R3wGVSL21RLVfw5S2+IWoxFP2JxjXa2RaFjSWWwg/eJzXo26hRTu0lriAvxq+z1bBKezOkAjw8MypdVscOImvq2293d5W2EQuojwZrPNB3J1RXcs3ULXyroUzWIbxZn29YSUDw2KsK/ixlLzlTTjuHPtGw==;JzG1+cajW3i3fkZ7+oyQOQ=="
 ---

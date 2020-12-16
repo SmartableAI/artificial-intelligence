@@ -1,0 +1,95 @@
+---
+category: news
+title: "Amazon Alexa rolls out live translation feature in Echo devices"
+excerpt: "To make use of the new feature, users may simply ask Alexa to translate and name the two languages that will be spoken. The AI will automatically detect what language is being spoken by either person and provide the translations. The new feature has been ..."
+publishedDateTime: 2020-12-16T02:44:00Z
+originalUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices-11608085453988.html"
+webUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices-11608085453988.html"
+ampWebUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp-11608085453988.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp-11608085453988.html"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://images.livemint.com/img/2020/12/16/600x338/alexa-kFxC--621x414@LiveMint_1608086139466.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+related:
+  - title: "Alexa Live Translation feature arrives on Echo with six language pairs"
+    excerpt: "Amazon has announced the arrival of Live Translation on its Echo devices, enabling users to have a conversation in two different languages in real-time with Alexa serving as a translator. The"
+    publishedDateTime: 2020-12-14T21:28:00Z
+    webUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/"
+    ampWebUrl: "https://www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-live-translation-feature-arrives-on-echo-with-six-language-pairs-14651110/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/echo_show_main.jpg"
+        width: 1440
+        height: 820
+        isCached: true
+  - title: "Amazon adds real-time translation functionality to Alexa"
+    excerpt: "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this"
+    publishedDateTime: 2020-12-14T21:40:00Z
+    webUrl: "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
+        width: 2040
+        height: 1360
+        isCached: true
+  - title: "Amazon Alexa gets real-time translation functionality"
+    excerpt: "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this"
+    publishedDateTime: 2020-12-16T01:41:00Z
+    webUrl: "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
+        width: 2040
+        height: 1360
+        isCached: true
+  - title: "Amazon Alexa rolls out live translation in Echo devices"
+    excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
+    publishedDateTime: 2020-12-15T16:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267262397/amazon-alexa-rolls-out-live-translation-in-echo-devices"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1608050555.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "tcS/sRJ7txvzVxPttwq+Q9WfOwNpR+g+l75tRY1RFAaXFXcETlwooeB4kOqpyxKNfBjhmdJmYr1QKizOcdVpqGd/jD+e9UFxiyAVlR7kWz9hphmo//3PpJKaubrX9pqAGJGPLlly0EWrIwIEl9o2RGo72T9KGFw0PCKySJv0UeK5NkieHA3ZexepULea+U4jhIumPLG7Z5pvyC2rGKXWAj8dRj1JLw6TkhX7etE4wri1dhKy9j62QQ4S+hTiLSx1QO8trBSaxGXdW5G3kEq3PJixYgNVYUw0SCqgFov78HKA5vdX8bQi7eEG+WLjAdtd8SBPyu54cXIb2qM8dAKC19agRJUxNpBD2VLVnZ50K08=;kDX8xRtCeXBk8Lvhz1pK8A=="
+---
+

@@ -70,6 +70,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Air travel could be very different post-COVID with some pushing for facial recognition to replace boarding passes"
+    excerpt: "Boarding passes and tickets could be replaced by facial recognition data, which would be used by passengers from check-in to embarking on their flight as airports transform themselves for a post-COVID world."
+    publishedDateTime: 2020-12-16T02:31:00Z
+    webUrl: "https://www.abc.net.au/news/2020-12-16/future-of-travel-after-covid-facial-recognition-technology/12988812"
+    ampWebUrl: "https://amp.abc.net.au/article/12988812"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12988812"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 53
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/82241e0c7a75346849e534f98b8921e7?impolicy=wcms_crop_resize&cropH=849&cropW=1277&xPos=3&yPos=3&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
   - title: "Privacy Groups Alarmed at Supermarket’s Facial Recognition Trial"
     excerpt: "Privacy Groups Alarmed Over Supermarket’s Facial Recognition Trial. Southern Co-operative teamed up with Facewatch in bid to reduce crime"
     publishedDateTime: 2020-12-11T12:30:00Z

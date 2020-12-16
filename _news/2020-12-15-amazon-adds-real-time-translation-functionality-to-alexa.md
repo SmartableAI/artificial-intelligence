@@ -47,6 +47,38 @@ related:
         width: 1440
         height: 820
         isCached: true
+  - title: "Amazon Alexa gets real-time translation functionality"
+    excerpt: "All you have to do to activate Live Translation is \"ask Alexa to initiate a translation session.\" Amazon didn't say exactly what keywords will trigger this"
+    publishedDateTime: 2020-12-16T01:41:00Z
+    webUrl: "https://www.techspot.com/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87967-amazon-adds-real-time-translation-functionality-alexa.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-14-image-23.jpg"
+        width: 2040
+        height: 1360
+        isCached: true
+  - title: "Amazon Alexa rolls out live translation feature in Echo devices"
+    excerpt: "To make use of the new feature, users may simply ask Alexa to translate and name the two languages that will be spoken. The AI will automatically detect what language is being spoken by either person and provide the translations. The new feature has been ..."
+    publishedDateTime: 2020-12-16T02:44:00Z
+    webUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices-11608085453988.html"
+    ampWebUrl: "https://www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp-11608085453988.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-alexa-rolls-out-live-translation-feature-in-echo-devices/amp-11608085453988.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2020/12/16/600x338/alexa-kFxC--621x414@LiveMint_1608086139466.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Amazon Alexa rolls out live translation in Echo devices"
     excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
     publishedDateTime: 2020-12-15T16:51:00Z

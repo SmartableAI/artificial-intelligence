@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/48360-robot-vendor-boston-dyna
 webUrl: "https://www.dcvelocity.com/articles/48360-robot-vendor-boston-dynamics-says-hyundai-acquisition-will-boost-its-plans-for-warehouse-automation"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1068
     height: 635
     isCached: true
-
-related:
-  - title: "Hyundai Motor Buys 80% of Robotics Firm Boston Dynamics"
-    excerpt: "Hyundai Motor Group agreed to buy a controlling stake in Boston Dynamics Inc. in a deal that values the mobile robot firm at $1.1 billion."
-    publishedDateTime: 2020-12-11T09:12:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-11/hyundai-motor-buys-80-of-robot-firm-boston-dynamics"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 119
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSByH1t.THsc/v0/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
 
 secured: "B2In0CC9Zu8gjztm3n+BchgJPWVpZ6HX5yZ0IBLyoxnKkZhtZVRpXIpPWe1fwIaD7MoeNODgMpwZl/V9oB5/mdxjCaaZCFhLHhKb9vHJE5qUsfcS2TnKmzE6dD+FZdTJHwXPQMinT8n9xkeilJvkRP5IhKgBVWtCeUU9P11dqp3YVZdGna70TsJGIPfFGSvQeCa0+9VNzlLJi02ySmoxdIxfjQMNkssNtPMiqeiAMz85ZpdENXRSVXSEUxoO5403VkgcokEfhJ36AjFMHJDDAqxmvUeY9oveLSL8fjvoVtmjDyTsDn8fdszwHVYDFslzjZ9G1AgijjyR/vp6+PKjc5ZCg7+OHi2T47h/N+6Djz4=;BKSURThniYYiGGw/Mg9GOA=="
 ---

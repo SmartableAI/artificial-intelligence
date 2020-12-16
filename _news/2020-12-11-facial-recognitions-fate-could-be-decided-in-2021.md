@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognitions-fate-could-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-fate-could-be-decided-in-2021/"
 type: article
 quality: 189
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/0/06/0065f5a8-4ed7-538e-988a-de21a06170d7/5d239eab53a17.image.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Air travel could be very different post-COVID with some pushing for facial recognition to replace boarding passes"
+    excerpt: "Boarding passes and tickets could be replaced by facial recognition data, which would be used by passengers from check-in to embarking on their flight as airports transform themselves for a post-COVID world."
+    publishedDateTime: 2020-12-16T02:31:00Z
+    webUrl: "https://www.abc.net.au/news/2020-12-16/future-of-travel-after-covid-facial-recognition-technology/12988812"
+    ampWebUrl: "https://amp.abc.net.au/article/12988812"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12988812"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 53
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/82241e0c7a75346849e534f98b8921e7?impolicy=wcms_crop_resize&cropH=849&cropW=1277&xPos=3&yPos=3&width=862&height=575"
+        width: 862
+        height: 575
         isCached: true
   - title: "Mass. Gov. Refuses To Back Facial Recognition Tech Ban"
     excerpt: "Massachusetts' bid to become the first state in the nation to broadly restrict police from using facial recognition technology hit a snag Thursday, when Gov. Charlie Baker threatened to veto the sweeping police reform bill that housed the proposal unless lawmakers agreed to ax the ban."

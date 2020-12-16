@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will A COVID-19 Vaccine Inoculate FinTech Startups Or Lead To Their Demise?"
-    excerpt: "Despite, or maybe partly because of the raging pandemic, many FinTech startups are more successful and are raising more funds than ever before. But what will happen to the many currently operating FinTech startups after the pandemic ends?"
-    publishedDateTime: 2020-12-11T10:03:00Z
-    webUrl: "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/"
-    ampWebUrl: "https://www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nizangpackin/2020/12/11/will-a-covid-19-vaccine-inoculate-fintech-startups-or-lead-to-their-demise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2cbb4abc4e6125bd76adf%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "1 Fintech Stock to Buy Before 2021"
     excerpt: "Several different next-gen fintech stocks have thus done very well in 2020. One such intriguing name posting impressive growth metrics heading into 2021 is Chinese fintech OneConnect Financial Technology (NYSE: OCFT)."
     publishedDateTime: 2020-12-11T12:11:00Z
@@ -54,6 +38,36 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "5 Basic Things Every Person Should Know About FinTech"
+    excerpt: "The world of banking, trading, financial advice, and financial goods seems to be transformed by FinTech. The industry is booming, with new players getting"
+    publishedDateTime: 2020-12-15T09:57:00Z
+    webUrl: "https://www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech"
+    ampWebUrl: "https://www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech/amp"
+    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech/amp"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 44
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2020/12/5-Ba.png"
+        width: 1200
+        height: 782
+        isCached: true
+  - title: "Who are the top female fintech leaders of 2020?"
+    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
+    publishedDateTime: 2020-12-14T05:35:00Z
+    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Fintech and Regtech Adoption Takes Major Step Forward in 2020 As Businesses Prepare for Post COVID Environment: Report"
     excerpt: "Fintech and Regtech adoption takes major step forward in 2020 as businesses prepare for post COVID environment: report."
     publishedDateTime: 2020-12-14T13:28:00Z
@@ -70,6 +84,24 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "An AI proposition is now 'table stakes' for fintech startups"
+    excerpt: "An offering that harnesses AI is now the minimum expectation of a fintech startup, according to Ben Davey, chief executive officer of Barclays Ventures."
+    publishedDateTime: 2020-12-11T12:35:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37137/an-ai-proposition-is-now-table-stakes-for-fintech-startups"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "Strategic Investor Intel Capital Helps Close $135M Round For Fintech Pico"
+    excerpt: "Venture Capital Deals of the Week is going on holiday break. Check out a new column on January 23 at a new location, the Seeking Alpha Breaking News page."
+    publishedDateTime: 2020-12-12T18:47:00Z
+    webUrl: "https://seekingalpha.com/article/4394402-strategic-investor-intel-capital-helps-close-135m-round-for-fintech-pico"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 3
 
 secured: "XDctBXO7q5QbTt6Q2YqfK3FRy294jVHUKBv/3OX+0S8om1xp+ZU/4es/nYcgy+Zvvb78UI6aE4Ryx9wH5btW07ND3LnPm1jwyFHuqxG3NTtdRTMti6X9hKIkNj63JK3ET4+7qNsJZQqNYkNoQCdWDikjlJvtciST64LtXXct3C7nHOuWCVyMMRo5Vk0cpnlO/XnrRzgScKmemdLLekePHvHVxrO4J8kjWu2ODdjQx5GDbWEfdMn2L0saBH8AmZr0rC5hwPn+BBTaSSzRWhrIlzaoE9qgQ33QRyjs6QG/XsGb5QsJTwb3ETQ2lrqfmRY1hsClaefOuYCy48w9dtXcFpwTSa7hqh8Oe1uP6etSinJRr446EX6oLp+xbx3dYRnhyoUmE/nCwQb0uFWquStYbIBD2bzMy9tAEXbd0S0Yr7AyLW31eAZ4f9Y7sl3QZG/b2OvMBZFqGsBJfDT0XkJAVwSyrOYb6woYh0iODqS5frS47TC7ABGgyGQJlbedhmfhbZYWwRdEaJB+yDQUjiWhOg==;70qpvHz6vVu27gX7NYI1xw=="
 ---

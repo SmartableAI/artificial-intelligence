@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Multi-Class Classification Using PyTorch: Defining a Network"
-excerpt: "Dr. James McCaffrey of Microsoft Research explains how to define a network in installment No. 2 of his four-part series that will present a complete end-to-end production-quality example of multi-class classification using a PyTorch neural network."
-publishedDateTime: 2020-12-15T21:39:00Z
-originalUrl: "https://visualstudiomagazine.com/Articles/2020/12/15/pytorch-network.aspx?p=1"
-webUrl: "https://visualstudiomagazine.com/Articles/2020/12/15/pytorch-network.aspx?p=1"
+excerpt: "Their values must be determined by trial and error guided by experience. The term \"AutoML\" is sometimes used for any system that programmatically, to some extent, tries to determine good hyperparameter values. More hidden layers and more hidden nodes is ..."
+publishedDateTime: 2020-12-15T21:22:00Z
+originalUrl: "https://visualstudiomagazine.com/articles/2020/12/15/pytorch-network.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2020/12/15/pytorch-network.aspx"
 type: article
 quality: 41
 heat: 41
@@ -15,7 +15,7 @@ provider:
   domain: visualstudiomagazine.com
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
   - Facebook AI
 
@@ -25,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "nfq1PK3B0gQ8oROq9zLFltvQCDxxPkl4++5xHC9fBgoIEG2NMKxKv2zBkB2D7B8cw8Nc+g55JcxPGqnCpoWfTpGEDX58s1adkVpUB1JgGgNMk4uNxH12Wc0/+KyESzGXq98clO9pmU36TEbSTE1YMNJ7P+fUm6mWBTJItlRhz/3+FbwwPh3y0UU1/hFjV/aRSVsKzu0FOJGlDPnA5oPZrZEKAQeqkKpBPGjX/ETGUxh22Vi3IZ4CMGcf3SAgWeMVe6wYapgZYJuX3/CXd0GWt6EJGn4lb4LzXmbhsFzJiwyBrjcYj4VJHAL5Ba84kZem8jQjJ7j50yw4gH0zPokjgyk3rvzD8o9y5UWK7Vu4CyM=;6T6Hb+ZhpmTm791nME16Gg=="
+secured: "caLhYEqvdJzIb8VheWSQH2Zm7cL1OyZvRbzed7ooazUMtP6riblsDBw2/PwXIaO8rMgOWu/1RM1Ppg9i+Mvtifk+i9/1rxBNfvHvDrhko8WX7GRoj0emCBhDuNdJ7fXwlpCVYoiyWJAfMtU5bHo9E7FgbY5JK28Lqjc2zzs0pvGxwX9xfMg0UFTYtEl6K2ZbL3Ud1LpRx5tKNlPMNVQNuH5lD5sK1KoAdN0bImndRteAUq7z74i8V6m3J8cxm3WzMvk7tgJ3ykMfV4qS26jFf8gSTmc/sG+qxnGvipVzXWn8FOLDdCKO459NeU58A5ZFyudOXnNlp3dMDMYAkeeLL7bi3wNRfNEQTFS3ucKqolM=;b+7189UTu5yAWyPzd5EmdQ=="
 ---
 

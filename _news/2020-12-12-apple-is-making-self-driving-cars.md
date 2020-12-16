@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
-    excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
-    publishedDateTime: 2020-12-11T10:11:00Z
-    webUrl: "https://www.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    ampWebUrl: "https://amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 73
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "We See What A Fully Self-Driving Tesla Sees Thanks To Known Hacker"
     excerpt: "They are provided by @greentheonly, a renowned Tesla hacker who has provided us with a lot of information on how some of the company’s technologies work in the past. This time, he posted a couple of videos that essentially show the feed from a Tesla’s forward facing camera with various other things that the car ‘ sees ‘ as an overlay on top of the image."
     publishedDateTime: 2020-12-15T18:30:00Z

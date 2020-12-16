@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Masked Face Detection and Recognition Capability Released by piXlogic Software"
-    excerpt: "The new features extend the face recognition capabilities of the piXlogic software. piXserve detects and recognizes faces accurately under a broad range of conditions, including different lighting, angle of face and image quality."
-    publishedDateTime: 2020-12-15T17:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/masked-face-detection-and-recognition-capability-released-by-pixlogic-software-2020-12-15"
+  - title: "Facial Recognition Market Inclinations and Development Status Highlighted During Forecast Period"
+    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
+    publishedDateTime: 2020-12-11T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-inclinations-and-development-status-highlighted-during-forecast-period-2020-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

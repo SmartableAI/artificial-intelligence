@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mountain park in Wuhan gets hi-tech upgrade with self-driving buses, vending vans and cleaning vehicles"
-    excerpt: "A new project from Chinese technology and auto companies brings autonomous self-driving buses, vending machines and cleaning vehicles to Wuhan’s Longlingshan Ecological Park starting on January 1."
-    publishedDateTime: 2020-12-11T10:11:00Z
-    webUrl: "https://www.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    ampWebUrl: "https://amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3113587/mountain-park-wuhan-gets-hi-tech-upgrade-self-driving-buses-vending"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 73
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/11/bd838554-3b8a-11eb-9b80-f4f1a4017c77_image_hires_170017.jpg?itok=OgbyeN5h&v=1607677228"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple is making self-driving cars"
     excerpt: "Apple is reportedly trying its hand in the automotive industry. While nothing is known right now, sources suggest that the tech company - which is the world's highest-valued business - is working on self-driving vehicles."
     publishedDateTime: 2020-12-12T12:23:00Z
