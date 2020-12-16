@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Learning Market Growing at a CAGR 19.5% | Key Player Blackboard, IBM, Samsung, SMART Technologies, Adobe"
+    excerpt: "By component, the hardware segment to record a larger market size during the forecast period. The smart learning hardware market consists of gadgets, equipment, and systems that h"
+    publishedDateTime: 2020-12-16T22:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18824787/smart-learning-market-growing-at-a-cagr-19-5-key-player-blackboard-ibm-samsung-smart-technologies"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18824787"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18824787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "fRChRFtM3qAS4dI9EBWPA6FMKGuINLH7hcrh9DmXWxCHJNp7z7T8bN7RixrctKm9cGQ44DgvCUna9ZdBN7Sx/+zU7lHLQFnxJopMmX6JLDeW/knAiqgTh8Aizvfpy4W5MrbD4aPavmDJ+5vdUfY4Vlr7ux83RTRUcR3M/+DJtanzCJBTvQ1J5Dk0XAxLJID06gZS+9T3svu6UOEYmB4YbIcxw3bN8hKUzqIrUpRe1ypN58yXKUjR3I6dvjeLXK96BcB72lBUq9wEtWiK3Y+g9EQWNOngJWQ7K7+2y9YpOk0T07iPamSQsUgonOkPyxK/m93ck8pBylbA+bBLTR4k/BdsOga4ZMRJUfqp6H5yiW4=;se/na2THUaubJ2WTYjNgow=="
 ---

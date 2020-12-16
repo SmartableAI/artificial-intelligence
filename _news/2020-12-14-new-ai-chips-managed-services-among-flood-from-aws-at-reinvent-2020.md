@@ -53,6 +53,20 @@ related:
         width: 624
         height: 293
         isCached: true
+  - title: "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020"
+    excerpt: "AI Trends’ Staff  Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who has been with Amazon for over 23 years, and who is now seen as the most likely successor to Amazon founder Jeff Bezos,"
+    publishedDateTime: 2020-12-16T21:52:00Z
+    webUrl: "https://internetofbusiness.com/new-ai-chips-managed-services-among-flood-from-aws-reinvent-2020/"
+    type: article
+    provider:
+      name: Internet of Business
+      domain: internetofbusiness.com
+    quality: 71
+    images:
+      - url: "https://internetofbusiness.com/wp-content/uploads/2020/12/12-11AmazonAWSlogo-2.jpg"
+        width: 550
+        height: 330
+        isCached: true
 
 secured: "dm3nB+O4FAmzitjxvIU6SE4mu5ZYMal+bh82UAvEOwnfklxOHSmmyqj8cISVa9XzbmFOzJe0XZPyFT7/UcEU9EoxPD7a5uT/l6Qf308YARseoLIi0su6lgaWT19Y1InYh5FmJARdrITnv85wbShw4px+C86E1N5B4x4DbmNwb3RM+YqCo9EJritA5RPC5kquB2QqlmwKib62KNX3U1Hl8OH8SOD/1GAE0v/e25KAwNuVlJlfvIZ8HPsA18+rqhoQReQHb5TA4UUHIhA3K6WAHxBoLSRZpsPzz8yLA4nDdNpAeS5gBNpHdXMnA+tbksQE0cjSLjDBOyJUXNk8nyQNWyOlWfmDw1SP4V74Ib8JT4Y=;L3LwejeEsjxCAsFP3bsk/g=="
 ---

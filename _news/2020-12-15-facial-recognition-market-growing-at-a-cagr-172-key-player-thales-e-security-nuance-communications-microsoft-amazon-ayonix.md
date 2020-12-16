@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growing-at-a-cagr-172-key-player-thales-e-security-nuance-communications-microsoft-amazon-ayonix-2020-12-14"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Learning Market Growing at a CAGR 19.5% | Key Player Blackboard, IBM, Samsung, SMART Technologies, Adobe"
+    excerpt: "By component, the hardware segment to record a larger market size during the forecast period. The smart learning hardware market consists of gadgets, equipment, and systems that h"
+    publishedDateTime: 2020-12-16T22:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/ab18824787/smart-learning-market-growing-at-a-cagr-19-5-key-player-blackboard-ibm-samsung-smart-technologies"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18824787"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18824787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "9uLqHG3nMoZnZC3Wdw0yTsqOtk/nCR20QDLpY4KOGcbI3RULlnqWkVnQSzmQ7ggQZN/qbldbWauAIch7RqofPA/z5WJe17yKV6sTh/RLLti2qW0fG9R9y8IsUBZatH7ceIJYZKCOqj5zFZtZMY2T3suVXRDCFxvFTxxgeufYLdAJm4Q9EW3WbwfGU+JYVALUnLi0j4ffnpKA5AUGeGvzA/xUSMrj1/V22gkGNx94x2UzrZtFJmmdqI4Z6WatRGEqs8Xp9CjyzeCM4o3cTtY9AO09BQ6PgzR9jbOZWdUo7+j1EYd5gvKREi+uL+AI0n1m3jJ5TgclbkEe8JxHDqNEel5KWBImXW/cX6+f8VgKYB0=;W3S5K6C9wAYK8haQaY4GWQ=="
 ---

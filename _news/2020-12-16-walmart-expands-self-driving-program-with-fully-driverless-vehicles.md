@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-16T17:43:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In Self-Driving, Amazon Invests While Walmart Partners"
+    excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
+    publishedDateTime: 2020-12-16T21:18:00Z
+    webUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
     excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
     publishedDateTime: 2020-12-16T08:20:00Z
@@ -57,17 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "See Walmart's self-driving delivery trucks in action"
-    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T19:15:00Z
-    webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
-    ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
 
 secured: "LHmk61WaJaG7TgqT1h9EjicX35UlFaxpoFxyXPz6zdukomGsOa1YmCh3StWi7MgmMNgFrxKlBaInhYWRJrwHHbP3U8VLJEuidDv0UXn2hAnH+oDyPKk3sogPyQWwCWhCJ/8X3CP3rZ4qSMDrSY7wWUkiCAN6zG2JhGlt2mdX88bVBWUYafTMJxzjoGJcITjLaFFU1NGwDGR5QXqvgSw6cBNHq3dyU6LjkHX0Yp+68QF1ZCJZ5tsIZUqyEJzKYquwKGud6qZfseljgyqZ4sR4jRhjIkR11oxJPRGRlqXdEZ2B9X78Zvfd1AG6T0Wx4mHYFFaNm158ux3QvsDzgjab5nya2fLNxqIS06axxOz0w8tv9LmZwhgHkdexRfrtNsQkpyaVbn8p6j5tCgHZibNzx/LnOA2C7i3O6djFC76YRLisnrShhuD5ohBjW4Wyi2kVsEr+mlzoS05AAHq4F7ZDFhF4dttR/QBuEnKj2YJL/AYaDzQGEZ/vLbGwta3865aQRuQ4kUar62fw4p5Dt+XCcQ==;I4c2fJBjzQq8/1L63PhFAQ=="
 ---

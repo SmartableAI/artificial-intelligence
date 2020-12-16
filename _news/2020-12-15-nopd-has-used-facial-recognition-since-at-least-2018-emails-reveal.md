@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a4
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 2560
         height: 1709
         isCached: true
+  - title: "New Orleans Police Have Used Facial Recognition for Years"
+    excerpt: "New records reveal that the New Orleans Police Department has been partnering with state police to use facial recognition software since, at least, 2018. The city did not admit use of the technology until last month. (TNS) — Although the practice was ..."
+    publishedDateTime: 2020-12-16T22:26:00Z
+    webUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html"
+    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "ACLU of Louisiana Obtains E-mails that Confirm NOPD’s Use of Racially Biased Facial Recognition Technology"
     excerpt: "After years of assurances from city officials that facial recognition was not used in New Orleans, the ACLU of Louisiana has obtained nearly 50 pages of email requests from New Orleans Police Department (NOPD) to the Louisiana State Police (LSP) Fusion Center asking LSP to use facial recognition on various photos and video stills."
     publishedDateTime: 2020-12-14T21:48:00Z

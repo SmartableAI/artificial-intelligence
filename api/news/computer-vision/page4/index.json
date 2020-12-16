@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-06-face-recognition-on-an-mcu.md",
-      "title": "Face recognition on an MCU",
-      "excerpt": "NXP has announced its latest NXP EdgeReady IoT solution for secure face recognition that enables original equipment manufacturers (OEMs) to quickly, easily and inexpensively add vision-based touchless access control. NXP’s turnkey solution includes the i ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/face-recognition-mcu-2020-11/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/face-recognition-mcu-2020-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/11/05144942/A2937726-5A0B-4E44-AEFE-E8CA8F9DA5BF.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-05-global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025.md",
       "title": "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025",
       "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",

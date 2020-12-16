@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-imp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/12/14/the-most-impactful-non-compute-announcements-at-aws-re-invent-2020/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd91335968b46008096796b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D624%26cropY1%3D18%26cropY2%3D311"
         width: 624
         height: 293
+        isCached: true
+  - title: "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020"
+    excerpt: "AI Trends’ Staff  Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who has been with Amazon for over 23 years, and who is now seen as the most likely successor to Amazon founder Jeff Bezos,"
+    publishedDateTime: 2020-12-16T21:52:00Z
+    webUrl: "https://internetofbusiness.com/new-ai-chips-managed-services-among-flood-from-aws-reinvent-2020/"
+    type: article
+    provider:
+      name: Internet of Business
+      domain: internetofbusiness.com
+    quality: 71
+    images:
+      - url: "https://internetofbusiness.com/wp-content/uploads/2020/12/12-11AmazonAWSlogo-2.jpg"
+        width: 550
+        height: 330
         isCached: true
   - title: "New AI Chips, Managed Services Among Flood from AWS at re:Invent 2020"
     excerpt: "| Amazon Web Services CEO Andy Jassy delivered a three-hour keynote at a virtual event on Dec. 1, the AWS re:Invent 2020 event. Jassy, who"

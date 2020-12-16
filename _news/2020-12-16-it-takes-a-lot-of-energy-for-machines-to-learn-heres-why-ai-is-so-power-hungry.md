@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-15T21:27:00Z
 originalUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
 webUrl: "https://gcn.com/articles/2020/12/15/ai-energy-consumption.aspx"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DataCenters/datacenter.png"

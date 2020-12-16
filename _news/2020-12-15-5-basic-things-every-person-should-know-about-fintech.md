@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
+    excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
+    publishedDateTime: 2020-12-16T22:00:00Z
+    webUrl: "https://www.law.com/americanlawyer/2020/12/16/as-fintech-stays-hot-reed-smith-hires-partner-who-led-2-big-law-firms-payment-tech-practices/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 12
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2020/12/Reed-Smith-Office-Sign-Article-202012161651.jpg"
+        width: 621
+        height: 372
+        isCached: true
 
 secured: "6bHgLMIjZiJKzJY9L7uig4nrX/dhJTnNjSOVKmdDeRVbT2a0+DH9d5rVp5FBetyKpj5ymJ21p0uRZ2QomtfI2J1RnOCXYQSd68MxQY3Dd+hEvrREVhQEinE2H/xyPfb68bReM599Uhu43Njy0qORDTwddUbo0KP5IpqhcZgPH2aqJsnLsOH4aY6dj8jf4HV61Cl2oyMn5+lPrAfa1V2DClor9zdy1njMtoR3APQ+cG/eQvBzzmRQxOwibeMqtEXWbOAWVvD+M8NpTAc3e2Qpw1d6tW8qupbPxvAHiscrt8o/KAhEKBLdg/AQ10go/tXL8u+vurWwHrOgM5qKjVFnWiqLgW8papSxSP+Oi5fgPNQ=;Njcj5ORSUrQVRO0Ec5XKnw=="
 ---

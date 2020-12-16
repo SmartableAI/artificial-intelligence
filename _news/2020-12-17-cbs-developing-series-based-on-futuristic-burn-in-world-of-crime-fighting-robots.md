@@ -30,7 +30,7 @@ related:
   - title: "CBS is developing a series based on the futuristic ‘Burn In’ world of crime-fighting robots"
     excerpt: "CBS Studios is developing a television series based on the book Burn In: A Novel of the Real Robotic Revolution, according to Deadline. The details are slim aside from who is attached to the project — Elementary creator Rob Doherty — though Deadline describes it as a drama set in Washington,"
     publishedDateTime: 2020-12-16T15:02:00Z
-    webUrl: "https://taskandpurpose.com/entertainment/burn-in-book-tv-series-cbs/"
+    webUrl: "https://taskandpurpose.com/news/burn-in-book-tv-series-cbs/"
     type: article
     provider:
       name: Task & Purpose

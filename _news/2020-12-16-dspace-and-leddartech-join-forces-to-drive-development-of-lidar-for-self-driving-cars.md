@@ -26,21 +26,16 @@ images:
 
 related:
   - title: "Mobileye looks to build its own lidar to drive down self-driving costs"
-    excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
-    publishedDateTime: 2020-12-16T04:21:00Z
-    webUrl: "https://www.reuters.com/article/us-intel-mobileye-idINKBN28P2I7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28P2I7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28P2I7"
+    excerpt: "(Reuters) - The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars."
+    publishedDateTime: 2020-12-15T18:20:00Z
+    webUrl: "https://www.businessinsider.com/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-2020-12?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JP"
-        width: 818
-        height: 545
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "Video: Watch a one-hour journey in a Mobileye self-driving car"
     excerpt: "In the test, Mobileye’s vehicles were deployed in Munich and within a few days were operating in the region using vehicles to build maps before the self-driving cars start driving. “High-definition maps are crucial to a safe and robust self-driving system,"
     publishedDateTime: 2020-12-16T13:56:00Z

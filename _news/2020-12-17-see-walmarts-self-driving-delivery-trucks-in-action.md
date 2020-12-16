@@ -2,25 +2,49 @@
 category: news
 title: "See Walmart's self-driving delivery trucks in action"
 excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-publishedDateTime: 2020-12-16T19:15:00Z
-originalUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
-webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
-ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+publishedDateTime: 2020-12-16T17:43:00Z
+originalUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
 related:
+  - title: "In Self-Driving, Amazon Invests While Walmart Partners"
+    excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
+    publishedDateTime: 2020-12-16T21:18:00Z
+    webUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda603d7a56de2ddd2dd785%2F0x0.jpg%3FcropX1%3D6%26cropX2%3D1283%26cropY1%3D0%26cropY2%3D958"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
     excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
     publishedDateTime: 2020-12-16T08:20:00Z
@@ -68,6 +92,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ZR097H9Ivzvt8hGMFhVnFVDRPVIEfiVL2kP0Z0T5yGGOepPhFLltAqmx5ELfrHq0fmo1eBF2mk+Zj9xIe/WPJFiKWBz/ZIL8DZh6A29F9Qfb/q5p/Zv/dzm9eVkpfulPOYI0hV4JbOgH8Xjza25Xoi0aIGLraMBUtUEEdV4q4QHtp+Xvv/OYqqZMGfJo5PmuK7pEdG1ta+x69PJ3C08Of32LAUFp4YW41gZ2nzZxMCxaHUGsU9+zXaJl3nTl49coaVavGMW5/XUZd9f2vEfDo+PDkjgs5bLggfi2xV8YWwRCcyjLglPjGiTEZKs/r1w8KUrXixJEsTKEzlOQUbbRyp10z8/V8U4WqeiTPhcrB3+8iRMXqCciLE3VanfC4A5geYc++oQV4FqGLZIlCBbJ0dYn3erJww237pBvHn5aMvPuFAjahMMJPwK5N4OAaDFDtIdAV8X17p4y6fYOdTr02Z/3Zy5eqdbhCuh4LwB9eqsxLwf3IStbDmmRxOa98ZQofxx3Gv2jipD+W3PK+WRNSQ==;U6ASaih11L8h+RCoa1zYKQ=="
+secured: "8FU0c92pUatch5Izvmbp+1TEk3QafyyKRZCGE7WpZfuDSjirwHiDp4TbjHR4JxdhBQQJ+sAI+dOXZdbkneMzHNNvqeb0ZxNaPVBh6rWmG2oaTYLMZZy9u8QZnLWuNz4dw0GY8hBBfc5Z5Bo6oId5N5bpu9UXl95Kyx+HdSSFU9aO56JeDKH+O8KaX6D8jc+uoIE1jo+zSgPIDoOhIViLvzLz9AlqN0MRBZe5MwLx2CL1VHPCVAKJ0rCiE1hV18J5UrANjz17Ov+joclHK1hNGLqHT9gxOVkXaKruVHaq+OopowzpPnd3OfVTisxyuSPumX4cfX5zCSPY5A+ZeQk3olPdWgDljdd7aan21HpVYPQ=;KY5GyRkX6eqGH29cRmqfGg=="
 ---
 
