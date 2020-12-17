@@ -102,6 +102,17 @@ related:
         width: 500
         height: 325
         isCached: true
+  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
+    excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."
+    publishedDateTime: 2020-12-17T06:23:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 52
   - title: "An AI just helped an Air Force pilot fly a U-2 spy plane during a simulated missile strike"
     excerpt: "The Air Force has taken a giant step toward creating an artificial intelligence system that would never in a million years turn on humanity – unlike the “Skynet” nemesis in the first two Terminator movies,"
     publishedDateTime: 2020-12-16T16:11:00Z

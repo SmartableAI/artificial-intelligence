@@ -91,6 +91,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google India announces new features across products to help users with regional languages"
+    excerpt: "Google has announced a range of features to help users with regional languages. The tools are designed to make transliteration more convenient to users. Google has extended language support to toggle between English and Indian languages,"
+    publishedDateTime: 2020-12-17T06:06:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/google-india-announces-new-features-across-products-to-help-users-with-regional-languages-1750354-2020-12-17"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 35
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Language-Chips-Search-results-647x363.png?xeC4CcVbuYHjhKmbLFH5LmcjgQ8No9_i"
+        width: 647
+        height: 363
+        isCached: true
   - title: "Amazon Alexa rolls out live translation in Echo devices"
     excerpt: "Tech company Amazon has announced the arrival of Live Translation on its Echo devices enabling users to have a conversation in two different languages in real-"
     publishedDateTime: 2020-12-15T16:51:00Z

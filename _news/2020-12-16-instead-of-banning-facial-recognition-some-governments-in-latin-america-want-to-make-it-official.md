@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Getting Smarter About Running An Agile Government: AI And The Next Wave Of American Innovation"
+    excerpt: "At the heart of the field of AI is the idea that machines can be used to simulate human intelligence. Since its introduction by Alan Turing in the 1940s, AI has attracted the interest and funding of the federal government and the private sector."
+    publishedDateTime: 2020-12-17T05:27:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/getting-smarter-about-running-an-agile-government-ai-and-the-next-wave-of-american-innovation-nid-6946.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 25
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/brrp2436.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "America’s Intelligence Needs in the Face of Great-Power Competition"
     excerpt: "Both China and Russia now rank as great powers and antagonistic competitors—and they are not alone. To cope with this reality, the military is shifting its primary focus from defeating international terrorism to prevailing in a great-power competition."
     publishedDateTime: 2020-12-14T15:35:00Z

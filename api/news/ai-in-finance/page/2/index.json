@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-24-india-fintech-forum-selects-27-fintech-startups-for-ifta-2020.md",
+      "title": "India FinTech Forum Selects 27 Fintech Startups for IFTA 2020",
+      "excerpt": "Non-profit fintech advocacy group India FinTech Forum announced on Tuesday the list of 27 fintech startups shortlisted for the 5 th edition of India Fintech Awards (IFTA). The startups will be giving live demos to the jury from 30 November till 2 December 2020 to compete for the Fintech Startup of the Year at the award ceremony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360295",
+      "originalUrl": "https://www.entrepreneur.com/article/360295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606208672-austin-distel-EMPZ7yRZoGw-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360295",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295",
+      "publishedDateTime": "2020-11-24T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-uk-based-ai-fintech-finchatbot-secures-12-million-through-latest-investment-round.md",
       "title": "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round",
       "excerpt": "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners.",
@@ -1250,49 +1302,6 @@
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
       "publishedDateTime": "2020-11-10T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
-      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "publishedDateTime": "2020-11-10T11:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

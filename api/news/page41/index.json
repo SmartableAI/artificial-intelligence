@@ -2,6 +2,100 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-11-17-edgeq-raises-51m-in-funding-to-unify-5g-and-ai-in-an-open-and-programmable-platform-to-ignite-edge-networks.md",
+      "title": "EdgeQ Raises $51M in Funding to Unify 5G and AI in an Open and Programmable Platform to Ignite Edge Networks",
+      "excerpt": "EdgeQ Inc, a 5G systems-on-a-chip company, today announced its launch from stealth with $51 million in total funding, including $38.5 million in a Series A round. Backed by renowned investors Threshold Ventures (formerly DFJ),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-communication-technology-jerry-yang-software-0201899cf0bd44e891598e9f4522e2d2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-communication-technology-jerry-yang-software-0201899cf0bd44e891598e9f4522e2d2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-how-ai-can-change-customer-experience-and-engagement.md",
+      "title": "How AI Can Change Customer Experience And Engagement",
+      "excerpt": "Customers and brands alike stand to gain immense benefits from AI. To get the most out of the technology, organizations must make sure to use it intelligently and offer personalized experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2b09502ab39790dd3e41c%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
+      "publishedDateTime": "2020-11-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure.md",
       "title": "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure",
       "excerpt": "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is",
@@ -1043,103 +1137,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-tensorflow-robot-recognizes-objects.md",
-      "title": "TensorFlow Robot Recognizes Objects",
-      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidias-ai-supercomputers-get-a-massive-upgrade.md",
-      "title": "NVIDIA's AI Supercomputers Get a Massive Upgrade",
-      "excerpt": "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "publishedDateTime": "2020-11-16T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

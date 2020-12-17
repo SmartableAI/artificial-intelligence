@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Exclusive-China search giant Baidu considers making own electric vehicles -sources"
     excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ..."
-    publishedDateTime: 2020-12-15T16:30:00Z
-    webUrl: "https://uk.reuters.com/article/baidu-auto/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUKL1N2IV1GR"
+    publishedDateTime: 2020-12-15T17:27:00Z
+    webUrl: "https://uk.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2"
     ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
     cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
     type: article

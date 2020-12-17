@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Tesla could widen release of 'self-driving' software in two weeks"
-excerpt: "(Reuters) - Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla ..."
-publishedDateTime: 2020-11-28T03:22:00Z
-originalUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
-webUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
+excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks. FILE PHOTO: The Tesla logo is seen at ..."
+publishedDateTime: 2020-11-28T03:41:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/tesla-could-widen-release-of--self-driving--software-in-two-weeks-13657168"
+webUrl: "https://www.channelnewsasia.com/news/business/tesla-could-widen-release-of--self-driving--software-in-two-weeks-13657168"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
-    width: 716
-    height: 545
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13657166/16x9/991/557/152cb289bdaa0b6b8f78c6476c6ca0f3/PX/file-photo--the-tesla-logo-is-seen-at-the-entrance-to-tesla-motors--showroom-in-manhattan-s-meatpacking-district-in-new-york-city-1.jpg"
+    width: 991
+    height: 557
     isCached: true
 
-secured: "WzXysbK1NDr1yv5+sE6QEzipifGiQXBXVuHyWXMDSsjKlOB03wy5uUnNtayKXd3Gb6+z0PH5ThrgvCXxwIP1JAeg9jDrIyputSHWVowK965ir4zy+te7BeSx7OglBPZ9UYodS+XVuPeDMzoJ3ip7VvaCFaUlnd72Y1d1sRaTfoxEVuiqD4KuSOvtLXjWkaZ4/AAIQ13rCQ44mANbdeU60aymqkOUHofdeyY4F4xYtNeV+WLJtNzBJvUtF7XGx/rvDev1RQD+fuALS1Pd+5C2HM5KKCOOoi94FIX3w5unpijkTIm72krVtD8Om0znoFvJ7VWzsRkm+IpO7K2ihrBeWFe6H0M9XE06wB5KS1BQEe4=;TwlvRiQWxMY/CPHVhqNFtA=="
+secured: "5B4qveNfWRxX2aKQP2rONEI12ZMb6CSAQD+5opy235sFzpMzEII19mqHP6udi4ZRB74crVuKQPfGRUab1PxsXheBYS68s6bNUvnNiPrF9U6mz5lqSFoYGsIlpMOI+ZLwaW3wPzw7qPUZyWkgI0GDtPDTp0FNlfKyd1V0JaNY+wfy0p3LdkJ4lNWk4UEiHYTsbfhlhD3Po7LlsP4kevGeBWA7fV3dXYUZJGp15ADgx3Y83mh+Xx5Dbcn//1rOpb6KykvLTpWiXG4kfp9fsENHmGEBSD52+Z388tJXFgnoEBxUZGPakM3YK8RRN+bza560wu/J9ynyOiHu6qPwYaGtWkNQdlw7mjH1MhqfZ+RwFlY=;+FToWDqzwIjxEN55IV74aA=="
 ---
 

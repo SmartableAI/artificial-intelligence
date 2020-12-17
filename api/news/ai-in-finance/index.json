@@ -408,6 +408,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-09-intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud.md",
+      "title": "Intel & Consilient Join Forces to Use Federated Learning to Fight Financial Fraud",
+      "excerpt": "Consilient, a newly formed company dedicated to establishing a next-generation system for anti-money laundering and countering the financing of terrorism (AML/CFT), launched a new secure, federated learning platform powered by Intel® Software Guard Extensions (Intel® SGX).",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud/",
+      "originalUrl": "https://www.unite.ai/intel-consilient-join-forces-to-use-federated-learning-to-fight-financial-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/12/consilients-federated-learning-framework.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-how-aws-aims-to-democratize-machine-learning-with-cloud-services.md",
       "title": "How AWS aims to democratize machine learning with cloud services",
       "excerpt": "Swami Sivasubramanian, vice president of Amazon AI, will hold the first-ever re:Invent keynote on the topic, a clear sign that AWS views AI and machine learning as an area ripe for reinvention. AWS Chief Executive Andy Jassy (pictured) told me that the company’s overall aim is to enable machine learning to be embedded into most applications before the decade is out by making it accessible to more than just experts.",
@@ -1288,58 +1331,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-india-fintech-forum-selects-27-fintech-startups-for-ifta-2020.md",
-      "title": "India FinTech Forum Selects 27 Fintech Startups for IFTA 2020",
-      "excerpt": "Non-profit fintech advocacy group India FinTech Forum announced on Tuesday the list of 27 fintech startups shortlisted for the 5 th edition of India Fintech Awards (IFTA). The startups will be giving live demos to the jury from 30 November till 2 December 2020 to compete for the Fintech Startup of the Year at the award ceremony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360295",
-      "originalUrl": "https://www.entrepreneur.com/article/360295",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606208672-austin-distel-EMPZ7yRZoGw-unsplash1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360295",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295",
-      "publishedDateTime": "2020-11-24T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

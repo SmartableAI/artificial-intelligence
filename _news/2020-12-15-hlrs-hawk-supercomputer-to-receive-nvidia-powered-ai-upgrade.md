@@ -57,6 +57,20 @@ related:
         width: 797
         height: 447
         isCached: true
+  - title: "Beyond Limits to Expand Industrial AI in Energy with NVIDIA"
+    excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced it is working with NVIDIA to advance its initiative for bringing digital transformation to the energy sector."
+    publishedDateTime: 2020-12-17T05:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/beyond-limits-to-expand-industrial-ai-in-energy-with-nvidia/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "1YWBSQLdxBKLU5Vzvw5yqeWShKCoYlY5rs+A29RmN8WrKm9Ozlstyu+CvUYNQcck2P+tTWWQw0aiVL4zQsc9AEecoE6n3g/8QBu3fQx3FOZhAkJjDbtc9N5vgJkyrrnVbAq35Z16qD4SRZrMtxf2NPVbi05eQ3o0AWB2mx3b+MqgmfWTmbID/BuqnECm+tRkZzY6U2XKUS9fk42OZza09U8MBWz5KiSaupVEyfl7ZgmJttyYgZDlyAWv5949dOfcTpFiRPK1sVc5pc3iMVPm9Fp858C7PpgLRzKZltJneXslOQ9UwYPDfNzbrSaaNkkisKKeodOMlQsF3sGEohmNLhSE0GPT0mffMQAOtFXP19CUoU71/gz66dRvxvAaNZ+LSB4vG9I9POhTsVY2SeVs3agKXzrZ8k5F1pGrp9k8jAR1XBEyUUykJB6LV/dpinXzfMZxCc7J/E/uCpU3fNaV3A6AAoUrE3XfAXTtSx24jSuhblY/mwryYpbF5D3jrxF1pDBT0HNXd6308yflAoihqQ==;kXGvrz20Sh1UuTeWW48aMA=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Fractal Named a Leader in Computer Vision Consulting by Independent Research Firm"
-excerpt: "NEW YORK, Dec. 16, 2020 /PRNewswire/ -- Fractal, (fractal.ai), a global leader in artificial intelligence and analytics, powering decisions in Fortune 500 companies, today announced that it has been named a Leader among Computer Vision Consultancies in the ..."
-publishedDateTime: 2020-12-16T10:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-301193847.html"
-webUrl: "https://www.prnewswire.com/news-releases/fractal-named-a-leader-in-computer-vision-consulting-by-independent-research-firm-301193847.html"
+excerpt: "PRNewswire/ -- Fractal, ( fractal.ai ), a global leader in artificial intelligence and analytics, powering decisions in Fortune 500 companies, today announced that it has been named a Leader among Computer Vision Consultancies in the recent report,"
+publishedDateTime: 2020-12-16T10:28:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-1e8d786002313f6780dddf2a49e93352"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-1e8d786002313f6780dddf2a49e93352"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "PVG7ojCZ32uN2a+/hob0BBVnjdjXNhzIMtWifA+nKCF8x3kfcepZrioYM2U5ESnKG8gtB+AIWi+nTRk1pr907BI9gSMJnWTMMLR7Ewg6GoE1wIV5pcQK9rFI/DpMee2b5XxRkS2qwzkIsYNtYtq1SFJ8E6t9cSdXA8gygrh7JFa/25rYX18PUHCIx2qdy5St88DiDVV9hfNTNNBdMFd6CsBU6G5vhrNneD6QKd0ExfWrFbu8cQoQKzG+pDSsvBcyyvFv75MW9SQdE1PUSJztX+Yhw6JRcX3+E9+TkZUhF+RGpho2ArGSM4iQIbiiR4fHJZdfAfiOzCjeGPtOy5OdH4476iHfRJ0IezrBa0f6ItA=;F4aUJ/9nZHzmOiQDcNeyuQ=="
+secured: "a9L3750t69inS2LruW5XEIh11H8seOGTRQxBSsZJdoxynTIq339NwigDASMFxlWeGNM6VNAhz9FeZAlWK50A2Grp4/21ut8bFLyDyBTitbbIIv8apPyxFD1190UG6N86UxkUENFLPGbIl9/Wi/UthQKQsttsSFnkRm0CJ9ZLcPZlo1ikoH2WHVK3IKdhekNRzApJD7JRdfHQUPeE0VO57nV2UG91vtLvyFRfQG4KCuTSO3JVh/SH/86LY/VBsVpfVJ3N996ijmwzDxasxTg0F2FfWEfU5pq2nZ9zKdxBthDGzVhFTYT4rTbNOthFLQa6hp2Ftp4nFrZkyMJRJdd3P22/Yzp9cy2MtjDfPBBS52U=;RhrNVkJ0M6+233Mj5SQz0g=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-12-02-amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud.md",
-      "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
-      "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
+      "path": "_news/2020-12-02-healthcare-process-automation-startup-olive-ai-lands-15b-valuation.md",
+      "title": "Healthcare process automation startup Olive AI lands $1.5B valuation",
+      "excerpt": "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
-      "originalUrl": "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ",
+      "webUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
+      "originalUrl": "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543091445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03DZ",
-          "width": 818,
-          "height": 545,
+          "url": "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg",
+          "width": 725,
+          "height": 482,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B621",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621",
-      "publishedDateTime": "2020-12-01T16:45:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T18:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-configuring-autoscaling-inference-endpoints-in-amazon-sagemaker.md",
+      "title": "Configuring autoscaling inference endpoints in Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/26/Configuring-autoscaling-inference-1.jpg",
+          "width": 800,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T17:50:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +92,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -645,6 +688,40 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud.md",
+      "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
+      "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020?amp",
+      "publishedDateTime": "2020-12-01T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-will-google-make-money-from-deepminds-once-in-a-generation-ai-breakthrough.md",
       "title": "Will Google make money from DeepMind's 'once in a generation' AI breakthrough?",
       "excerpt": "On Monday, British machine learning startup DeepMind announced that it had solved the 50-year \"protein folding\" problem. Scientists rejoiced at the promise of improved drugs for incurable diseases.",
@@ -1120,102 +1197,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets.md",
-      "title": "AWS adds natural language search service for business intelligence from its data sets",
-      "excerpt": "When Amazon Web Services launched QuickSight, its business intelligence service, back in 2016, the company wanted to provide product information and customer information for business users — not just developers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-491580488.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-adds-natural-language-search-service-for-business-intelligence-from-its-data-sets/amp/",
-      "publishedDateTime": "2020-12-01T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-finnish-researchers-say-ai-tool-can-help-optimize-cancer-combination-therapy.md",
-      "title": "Finnish researchers say AI tool can help optimize cancer combination therapy",
-      "excerpt": "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "originalUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4601606838101/2020/1/9cfb143b32837f2bd66aa13fc75ac5b8/v1.5/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
-      "publishedDateTime": "2020-12-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

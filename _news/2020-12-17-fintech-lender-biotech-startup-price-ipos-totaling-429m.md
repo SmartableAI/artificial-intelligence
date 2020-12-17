@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
-publishedDateTime: 2020-12-17T03:19:00Z
-originalUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
-webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
+publishedDateTime: 2020-12-17T03:31:00Z
+originalUrl: "https://www.law360.com/banking/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+webUrl: "https://www.law360.com/banking/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
 ampWebUrl: "https://www.law360.com/amp/articles/1338324"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
 type: article
@@ -139,6 +139,6 @@ related:
         height: 324
         isCached: true
 
-secured: "u2zOjEILFKuBoWwlE4BviK4fk1IAdLWuR+IV+GAD5KBnBeAfKM8CpVv7dEwsMj4S0n4IMtX9asr0Z7aei5oAT2vrTxdNzJuX3CLpuvAxNGxFt6CWzj3xtjCCpFVq2LnIv3W7tSanU609LZfKF8Zd+zwu8m1Jpjxp34YRwEsKYN4ulZ2178107Mr8oHUXKXzV0yovBih/NQpDOBVEdb+71INnoN29OiyYtENEwMYfVlTuZvFQ8xHG+srBKmFlUGHRdISYFBNrz2QzKj0QvsfK/m0Ey7ScUaZnqv+xL9DrEc7c4JRn8FZm0ABfZACxQJOaZM4u64HxW54dn0o/N0fNkHCxQ8FPh1ot+JUVM0ZJRb4=;4Dd8JF8g0XwLKJzRfuK08Q=="
+secured: "vI6F9J2EFvei2glj9B5aVYS7uagL4HN0bxyjqgxtA+ghF2nChoLAKhZq0MIJ568PvXGDWBa0x6F+lgFEvcoO9UIlx2PbxqD0yFMRKhmvaSCrx9ES4fCUIPEKwt6pNiiK5amtxEOub2dXh5xlinet98tNcXAI/8c3WW8+DkEmjzFwT+9QYbP/qjC0LXoh+52spl9Nhh8+qfpH5n/uh+IwXzDaFpEmXJYo3SUy3vON+2XsWUjfieOuxF6aTk71t/tHEFADhWCXXrjzPg2tfDy4xjT+R1SD0XtVYaUPPVyJpA/trkeR8zhlBnH0JA90UZbfKzxd1FgYihW670InPbc0KJaGObVxkWuNxQc9FAMFuwY=;kuzkUUkiLRhZVzi9rwuAOA=="
 ---
 

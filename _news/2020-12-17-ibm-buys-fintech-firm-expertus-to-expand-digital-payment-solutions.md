@@ -101,9 +101,9 @@ related:
       domain: sify.com
     quality: 24
   - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
-    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
-    publishedDateTime: 2020-12-17T03:19:00Z
-    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    excerpt: "Consumer-lending firm Upstart Holdings Inc. and tumor-focused drug developer BioAtla Inc. went public on Wednesday to receptive investors after raising $429 million combined under guidance from four law firms,"
+    publishedDateTime: 2020-12-17T03:31:00Z
+    webUrl: "https://www.law360.com/banking/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
     ampWebUrl: "https://www.law360.com/amp/articles/1338324"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
     type: article
@@ -140,6 +140,6 @@ related:
         height: 324
         isCached: true
 
-secured: "oFM4k6qkVTgCvXzQnv0k3bsjk5WUIDUsOxrQpK+cfX0uf2O8uSD7X97/WP1NT/nQUCK6pxjkYXh8S5ArrcrJ+GdlYDE36bwoWS+UyT3k8dSN00/WQT4+rt6o/Q1VSS02qakGLZpllfVzEeBA/3OZ2u78bUcJ7ZC7OQzPzXwJ4TMAuW7INcDMr5jxCmOnGP3PmHy+jIhBXvCWLnnbRcwhUneT4Ubgz9qLS8v0mtzGgeV3RM+1vdw0HH4CRw5WFRT8UqJnV4vGN33q8B4dj6H+EILxVLTfF57hW2191SdQUdjSHNgoBeX0YYQn5TDtOrvUszAn0o+NHkw/6m3qcld6ThTQlOR7bpdYjELOHLQFOZ0=;IiMcSpCSZLtRnQOmnrH0BA=="
+secured: "jf/wXdSKlT1o0nQywBB1iByrnp7QLTYJiSL3C1BxjzvWSBZgfxxJ4Nh+nl1w3uD0vjMDw2+jo/JOdABEWv4y+L+JS9aScPOus1z2dzuRUPhjl+uWOZbH7Tw7krnFXv6dhaLB7bVkA8fEqPvbzcLC3IhKA8aa6+pX3fJ9m8yHx+ewShcuisKmevX07uQxtf9tpan3FEGJpcxFH2+8JXF4rtrF5HZ3ASrgiGExXUs2qraN+rnSe+2adk9boPju2cwezGPAmiDnbrVUBO+ACJpNEyxyZWSMSB1NFKb0mppsfZYzlQF/WBxZawvIGa/6QEUY9YvBvJ8pWWTpQyXX1Z9pWkjxFqbZgd4krPgbptL9q1AQS0+nW+7gwazg7W977nPrhKkDVLOvd9bQ5bb6he0eYdBnOono5vYaJTTA3+EAp1vE278o/aa0M0e4KGfBWhtDHNGW8Ior/xhYJgJyrP15AdNEnftsalLL1YLCUbQvLzYD7dygPVlUfm7CkEuy410DYRejm+QTf93Hk1JNNXLW6Q==;UiWhPyKpsyuWK/gpPqxMsg=="
 ---
 

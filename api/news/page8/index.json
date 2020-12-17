@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-10-australia-post-uses-machine-learning-to-tell-you-when-deliveries-will-arrive.md",
+      "title": "Australia Post uses machine learning to tell you when deliveries will arrive",
+      "excerpt": "Customers are now provided with a two-hour window for when a delivery will arrive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "originalUrl": "https://www.zdnet.com/video/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/11/16/889f53f4-8d41-4a47-894e-76ec0fae8caa/thumbnail/770x578/1f49e95166b2f46a861bdd857982d0b3/australia-post-using-machine-learning-to-5fb1b2ed6df74d74600b9fd7-1-nov-16-2020-3-36-39-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-global-media-brand-viacomcbs-makes-aws-preferred-cloud-partner.md",
       "title": "Global media brand ViacomCBS makes AWS preferred cloud partner",
       "excerpt": "ViacomCBS said it plans to combine AWS Elemental with the facial recognition software, Amazon Rekognition, and its machine learning library building tool, Amazon SageMaker to rapidly expand its ...",
@@ -1165,58 +1217,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-microsoft-doubles-its-money-after-backing-c3ai-as-it-goes-public.md",
-      "title": "Microsoft doubles its money after backing C3.ai as it goes public",
-      "excerpt": "The two companies announced a partnership in 2018 to promote C3's software running on Microsoft's public cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "originalUrl": "https://www.cnbc.com/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106808319-1607474344177-gettyimages-962079778-FRANCE_VIVA_TECH.jpeg?v=1607474512",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/09/microsoft-sees-gain-on-c3ai-investment-concurrent-with-ipo.html",
-      "publishedDateTime": "2020-12-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

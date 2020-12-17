@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artific
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
 type: article
 quality: 74
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -89,6 +89,17 @@ related:
         width: 500
         height: 325
         isCached: true
+  - title: "In a first, Air Force uses artificial intelligence aboard military jet"
+    excerpt: "The Air Force allowed an artificial-intelligence algorithm to control sensor and navigation systems on a U2 Dragon Lady spy plane in a training flight Tuesday, officials said."
+    publishedDateTime: 2020-12-17T06:23:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-first-air-force-uses-artificial-intelligence-aboard-military-jet/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 52
   - title: "AI Copilot: Air Force achieves first military flight with artificial intelligence"
     excerpt: "Signaling a major leap forward for national defense in the digital age, the Air Force flew with artificial intelligence as a working aircrew member onboard a military aircraft for the first time Dec."
     publishedDateTime: 2020-12-16T15:16:00Z

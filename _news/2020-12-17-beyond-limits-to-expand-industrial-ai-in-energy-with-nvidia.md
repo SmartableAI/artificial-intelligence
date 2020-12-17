@@ -1,0 +1,77 @@
+---
+category: news
+title: "Beyond Limits to Expand Industrial AI in Energy with NVIDIA"
+excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced it is working with NVIDIA to advance its initiative for bringing digital transformation to the energy sector."
+publishedDateTime: 2020-12-17T05:08:00Z
+originalUrl: "https://www.globalbankingandfinance.com/category/news/beyond-limits-to-expand-industrial-ai-in-energy-with-nvidia/"
+webUrl: "https://www.globalbankingandfinance.com/category/news/beyond-limits-to-expand-industrial-ai-in-energy-with-nvidia/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
+
+related:
+  - title: "Nvidia’s Chips Have Powered Nearly Every Major AI Breakthrough"
+    excerpt: "In the ‘50s, we imagined bionic men would soon be running factories. Within a decade, cyborgs would be doing our housework. We were promised a new breed of machines. 70 years later, what did we get?"
+    publishedDateTime: 2020-12-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bdc08240120acd5675ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D159%26cropY2%3D1959"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "This supercomputer centre has chosen Nvidia for its AI"
+    excerpt: "Performance Computer Center Stuttgart (HLRS) in Germany will use its GPUs to accelerate its journey to AI. HLRS is one of the largest supercomputer centers in Europe and since Michael Resch became director in 2002,"
+    publishedDateTime: 2020-12-16T12:05:00Z
+    webUrl: "https://www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/this-supercomputer-centre-has-chosen-nvidia-for-its-ai/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/12/1-562.jpg"
+        width: 797
+        height: 447
+        isCached: true
+  - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
+    excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
+    publishedDateTime: 2020-12-14T16:08:00Z
+    webUrl: "https://www.hpcwire.com/2020/12/14/hlrs-hawk-supercomputer-to-receive-nvidia-powered-ai-upgrade/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/hawk.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "1ZW0882kummOwglS4VLJZe/Zh2nqxjXcdF+to4dclpn2WE0sQ4qPZ0ACkGhrARe24fvTAw5Dov5QEmskt7y/kdaxL/aYpTrCzOtk/hjP4NtKgk3M58sxbNbBD48kHIazjdZqgt4Qn7ENFJlA3daJZkZxJxZW1i098Hr4bFdvb7K6XBpFezMod3BZhLdTQ/l4Zr8goJ1qaJOXc6ocGyq1RG+uWKY2EzjL6wvePid1C+lvEf1qLx47eHQiPm48Am5W3YIEvWAGSARtMYPq5gd0eFpFeKnsN/FFSpAp/01i2y7wkCfClTwqfs2/0fsudyGtbm8XETBiEsr64Oq/MrXA6fhx4J5zZ4hBW8eJW/vh/Ks=;BnWussMFFMk6htVgSoTPrQ=="
+---
+

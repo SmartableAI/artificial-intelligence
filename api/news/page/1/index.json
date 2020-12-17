@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-googles-new-open-source-ai-model-understands-indic-languages-better.md",
+      "title": "Google’s new open-source AI model understands Indic languages better",
+      "excerpt": "Google’s various products, such as Search and Assistant, are already available in India in multiple local languages. The company is now turning to a new AI to potentially make more of its offerings accessible to Indic language speakers — more specifically,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Screenshot-2020-12-17-at-11.24.08-AM-e1608184545438-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/googles-new-open-source-ai-model-understands-indic-languages-better/amp/",
+      "publishedDateTime": "2020-12-16T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-ces-honors-john-deere-for-x-series-combines-in-robotics-category.md",
       "title": "CES honors John Deere for X Series combines in Robotics category",
       "excerpt": "The artificial intelligence, computer vision ... annual competition honoring outstanding design and engineering in consumer technology products. The Robotics category highlights programmable or otherwise intelligent machines capable of performing specific ...",
@@ -850,7 +901,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1182,57 +1233,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-the-future-of-ai-deployments-reaching-production-is-bright-in-2021.md",
-      "title": "The future of AI deployments reaching production is bright in 2021",
-      "excerpt": "Despite AI's deployment historic failure rate, the future's looking brighter for a number of reasons, and many will beat the odds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1195223774.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/",
-      "publishedDateTime": "2020-12-16T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
