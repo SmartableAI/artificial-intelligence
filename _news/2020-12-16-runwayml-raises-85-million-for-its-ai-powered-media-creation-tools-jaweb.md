@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-power
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/runwayml-raises-8-5-million-for-its-ai-powered-media-creation-tools-jaweb/?amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Creative Tech Platform Runway Raises $8.5 Million to Make AI Tools More Accessible"
-    excerpt: "A series of research advances over the past few years have unlocked new potential for the use of AI in creative settings, from generating realistic-sounding copy to creating art from scratch. Startup Runway wants to make all of these capabilities ..."
-    publishedDateTime: 2020-12-16T22:14:00Z
-    webUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/"
-    ampWebUrl: "https://www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/creative-tech-platform-runway-raises-8-5-million-to-make-ai-tools-more-accessible/amp/"
+  - title: "Anomalo nabs $5.95 million for AI data validation tools"
+    excerpt: "Anomalo, a provider of data validation and documentation services for developers, today announced that it raised $5.95 million in venture capital. First Round Capital and Foundation Capital participated in the seed funding round,"
+    publishedDateTime: 2020-12-17T17:03:00Z
+    webUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/"
+    ampWebUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 51
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/12/Xandr_Brandshare_121620_HP-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "6 million SEK to research on artificial intelligence"
+    excerpt: "Professor Per Andersson at the Stockholm School of Economics has been granted 6 million SEK in funding by the Marianne and Marcus Wallenberg Foundation"
+    publishedDateTime: 2020-12-15T15:34:00Z
+    webUrl: "https://www.mynewsdesk.com/se/handelshogskolan_i_stockholm/news/6-million-sek-to-research-on-artificial-intelligence-417564"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 37
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/y3ufi9h81skubinzlyda.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "J8A4stqb0uEQt/okdP8meMEDDoJKQmgIJEV/h09qe0wcWdyKC19zNhTsEQQWEcSca+qr8wsTqEEuxVhNB1Sk1yo+LI9yUT4hNNXYSiINKJVrOqfHv1Ue41pya4LcJnl7fEx5Es4leGPyfBtndW99gYoMwxC4FfNwJoynfkbgSuFekx7gUBFI5wD9FUxMhalGDhysqWzix4NdPFr6smIpoZdTWQHmOtHFAE0L67ND4m/WfdjtIL6duHTYlPBlpiJC6aFVxwtCvX/e8Ghi6/TZ7lzLWo0GAZ9IQsgx8/9ERZHO/eRKeKjjq9EDhdQULcjYPxE8M1CcfhHOnnuIFMEtLHxpm/nW+H8XpBBruepSp8Y=;wP6V8WP7PXTf3XfB/5bsTw=="

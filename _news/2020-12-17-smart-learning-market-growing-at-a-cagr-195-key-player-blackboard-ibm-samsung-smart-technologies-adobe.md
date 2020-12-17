@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player Google, AWS, Facebook, Apple, Intel"
+    excerpt: "Dec 15, 2020 (AB Digital via COMTEX) -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 21.0% during the ..."
+    publishedDateTime: 2020-12-15T21:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-210-key-player-google-aws-facebook-apple-intel-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Size Rapidly Growing at a CAGR of 18.4% by 2026"
     excerpt: "The growth of the image recognition market is primarily driven by the increasing application of facial recognition in the financial industry and growing demand for security applications integrated with image recognition functions. Request for a sample ..."
     publishedDateTime: 2020-12-17T08:25:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wesa.fm/post/aurora-acquires-ubers-atg-self-driving-ca
 webUrl: "https://www.wesa.fm/post/aurora-acquires-ubers-atg-self-driving-car-unit"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Huge obstacles to autonomous vehicles have \"scarcely been addressed\" as Uber sells its self-driving car unit"
-    excerpt: "Following news that Uber has sold its self-driving car unit to a start-up, Nick Chater, Professor of Behavioural Science at Warwick Business School, said: \"We have all seen impressive videos of drivers switching on autopilot while on motorways or freeways,"
-    publishedDateTime: 2020-12-15T19:56:00Z
-    webUrl: "https://www.eubusiness.com/Members/warwickbs/uber-self-drive"
+  - title: "Your Car Buying Experience In An Era Of Self-Driving Cars"
+    excerpt: "Here's how car buying will change in an era of self-driving cars, including a marked dual focus on personal use and ridesharing use for that vaunted purchase."
+    publishedDateTime: 2020-12-17T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: EUbusiness
-      domain: eubusiness.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdacb6584c4899af831f4ac%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Barking Commands At A Self-Driving Car Won’t Do You Any Good"
+    excerpt: "Humans sometimes provide urgently spoken commands to drivers of cars, but will this happen for self-driving cars and do we want it to occur?"
+    publishedDateTime: 2020-12-13T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/13/barking-commands-at-a-self-driving-car-wont-do-you-any-good/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc2d88bf0bf2254f607e587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5327%26cropY1%3D79%26cropY2%3D3630"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Building a self-driving car that people can trust"
+    excerpt: "Over the past year, we’ve seen a rise in robotaxis and autonomous vehicle use. Companies such as Waymo, Cruise, and Baidu have all made strong headway as industry pioneers. In China specifically, 2020 headlines regularly featured major autonomous vehicle announcements,"
+    publishedDateTime: 2020-12-16T15:20:00Z
+    webUrl: "https://www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/"
+    ampWebUrl: "https://www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/12/Picture1.png?w=977"
+        width: 977
+        height: 650
+        isCached: true
 
 secured: "mHAr22ZSIYFo2uu9FcHVOiwIG0UX6F9PklMuo4b7aCI0zGt5H002kcbxqeTOfjQ1SpAmbIjp0SzOp1/okkJ/lBSWMRAobg549jvNyVqLrOUy8Cg/CPWQrwASmoHShF3BdrTKn/4gbEPXcI7uCV6E3kykN1chlJJJRoPHSDrNTV6k2RdLAiIYCyaAGRabT1braINUtCqEbWyS0ZmIP4vOaNoOt7Fa/J7gIAeXcw//MWDj9euRURIEnI6qQ4Dm+DzkiC1jGzMxPo0cl+8MViD74vaMX7HEITIFigfdyKDsTNHx1pt05G25AB+wE76ptfZ0hzAZcqZCLox/KXy1Aq0+vbB5WVj9hmg8NXrri6HPaIM=;ukWOMdiv6yTLgOKlXesM6Q=="
 ---

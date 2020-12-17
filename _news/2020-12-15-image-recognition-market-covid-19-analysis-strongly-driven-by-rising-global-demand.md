@@ -21,37 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Air travel could be very different post-COVID with some pushing for facial recognition to replace boarding passes"
-    excerpt: "Boarding passes and tickets could be replaced by facial recognition data, which would be used by passengers from check-in to embarking on their flight as airports transform themselves for a post-COVID world."
-    publishedDateTime: 2020-12-16T02:31:00Z
-    webUrl: "https://www.abc.net.au/news/2020-12-16/future-of-travel-after-covid-facial-recognition-technology/12988812"
-    ampWebUrl: "https://amp.abc.net.au/article/12988812"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12988812"
+  - title: "COVID-19 Analysis to Understand the Competitive Outlook of AI based Edge Computing Chip Market"
+    excerpt: "Researchmoz added a title on AI based Edge Computing Chip Market 2020 2026 to its collection of market research reports The study of the Global AI based Edge Computing Chip Market will include the analysis of all the comprehensive segments"
+    publishedDateTime: 2020-12-17T17:49:00Z
+    webUrl: "https://www.openpr.com/news/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212555/covid-19-analysis-to-understand-the-competitive-outlook-of-ai"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 53
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/82241e0c7a75346849e534f98b8921e7?impolicy=wcms_crop_resize&cropH=849&cropW=1277&xPos=3&yPos=3&width=862&height=575"
-        width: 862
-        height: 575
+      - url: "https://cdn.openpr.com/T/c/Tc17255954_g.jpg"
+        width: 687
+        height: 384
         isCached: true
-  - title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools"
-    excerpt: "The app provides the schools “with the data that confirms face coverings are being worn and, most importantly, worn properly.”"
-    publishedDateTime: 2020-12-16T21:10:00Z
-    webUrl: "https://www.star-telegram.com/news/nation-world/national/article247898780.html"
-    ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article247898780.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article247898780.html"
+  - title: "Puma, PVH Corp. on AI and Forecasting, Merchandising in the COVID-19 Era"
+    excerpt: "AI has found its place as a critical tool, particularly for companies managing a fleet of stores. That’s certainly the case for Puma and PVH Corp., which have both come to rely on the technology in the critical months of the coronavirus pandemic."
+    publishedDateTime: 2020-12-16T15:35:00Z
+    webUrl: "https://wwd.com/business-news/technology/puma-pvh-corp-ai-forecasting-merchandising-covid-wwd-summit-1234680059/"
     type: article
     provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 52
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 36
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/02eeb3db-ac63-4e9f-829e-9ee27499fbc0/ec3e6f2c-3706-454a-addc-83e161507858/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wwd.com/wp-content/uploads/2020/12/AdobeStock_119888051.jpeg?w=394&h=263&crop=1"
+        width: 394
+        height: 263
         isCached: true
 
 secured: "/sLGXUEycgQP+ro9BddMIosDz5tJJyM6eyvFv6DoY5XuxrvC0jFWLwupGSYhSqcO6e7Awolb2j6DZH7SKB9R+qO+Sn236x3MG6wQTWVMSOGBcy1fto1vyHGvyXOduR2rpPCEt6FoLVYgdD5fIOlA9MFGqy8fX+o0e7u40G0njl0YLKW6NdxiDpZOEQ2w6iJ8SnATLDOZmOO8ge3GvmOmiyINPPd4EDoZ9s1pN6qvBUoVpH/F+QMXFiaN766Gv5sJD30Ek9Wed+OlY/QxE/PFhc9faZtT30iJAXIDl2B55Vt6G5ObpisivDsbUw+v4hIF7zCcI0pWOZOvv3WORvCnu//kiiAGlci6dwhsoUFGSbo=;CnDIsOIru7QhGBtbld/zrQ=="

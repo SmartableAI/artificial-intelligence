@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Teaching artificial intelligence to adapt"
-excerpt: "Getting computers to 'think' like humans is the holy grail of artificial intelligence, but human brains turn out to be tough acts to follow. Now, researchers have used a computational model of brain activity to simulate this process more accurately than ever before."
-publishedDateTime: 2020-12-16T22:39:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/12/201216155201.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/12/201216155201.htm"
+excerpt: "Getting computers to 'think' like humans is the holy grail of artificial intelligence, but human brains turn out to be tough acts to follow. Now, Salk researchers have used a computational model of brain activity to simulate this process more accurately than ever before."
+publishedDateTime: 2020-12-16T19:33:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/si-tai121620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-12/si-tai121620.php"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/251838_web.jpg"
+    width: 685
+    height: 281
+    isCached: true
 
 related:
   - title: "Trump Could Torpedo a Bill to Boost Funding for AI"
@@ -39,6 +41,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "KVRkzRwnik5UtJ3mO/bIKH0ezlTWPDa+D+4ydCZNqlLxukZBx3HEOtHYkDZ68TGqlZHnOpkiY4g267/qCz4YeX1vCSJvavwbnl1Nyx7WA6NOn46vJYoGyfXW4h4HPdBdoB1EPJ0UGeV054WXaYUdbxtK3ScuEpDZmy3rp8mlKyujRNDxGD4r4nfZ3Nj6S+GIIa0VNqYnAbfQ21UwIwYHEqYgNfB8bJm79YngjKqi6DakuT+5QRKi9EBfer9elQmveleoX6N1EWX0Q84g7Ej2G5iQk0DhhkZ3lo2Ys+5mkVpdwfN6YcIek72fB9I+Mip5JJPSfUBXn5ToWnuQQOuGzWFpCd3nmvTmlTrkKtw1S/Y=;fsxcDGBzgZl1ANmrFqYaFw=="
+secured: "jyHcvvQmXU+Vygg6Hi8T9TOcJ6hOItp7ZDSsLsgCPjSAc88OpT7cqK0eJ9g3XivRf4hBVHNm02JW2QK8ronWI/Dv7BmeMSLLpvWngreF3fuoW46vSm6l1MIVauwiTZGv8J2gUiUGIeuKbNqk9y7rTJ2LpRpHYpRO4SKuPOm9VAguaYl2Xg5+AhFXNYT8NF7ZFrjgvXYS7aeWLMV3rmvrerVXur6cf5t0bvyD6eF+6tYoKdf4qarl3gw3VfZV6PTCSU2EdaACmvLLkXUII+XtVMekLr7xWf0QUAdCdG1u2YkRdKYOck2C4p/BBEsVZ44DSXut+gjPbGKxKb6Kc03Vwr9w8JMokqq6Axls94Dko3E=;v1Cng1psVfgdqeZTpf3CEA=="
 ---
 

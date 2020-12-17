@@ -1,31 +1,42 @@
 ---
 category: news
 title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
-publishedDateTime: 2020-12-17T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
-webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
+excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
+publishedDateTime: 2020-12-17T15:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
 type: article
-quality: 51
-heat: 71
+quality: 59
+heat: 89
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
-    width: 958
-    height: 502
-    isCached: true
+  - AI
 
 related:
+  - title: "Getting healthcare enterprise AI data to deliver"
+    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
+    publishedDateTime: 2020-12-16T18:37:00Z
+    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "Fintech Firm to Unveil e-Commerce Platform"
     excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."
     publishedDateTime: 2020-12-15T02:28:00Z
@@ -57,6 +68,6 @@ related:
         height: 664
         isCached: true
 
-secured: "OKzT9NdM47im7uLFG0JW7yY2XInFRcSCqxtK1PE4RnPlAYS54Oau0tiBEatEm7JvQGmnKIM1QXuAAthGrUcq3hadelcWtH1KtQOf76IQ7SXP5T/ipKRU4CzCctCZk0VO9LQIc5TDpIN2vZYcULYkIB/8IjdHVPgk77wUjJGOh/N6WgGdj+y/NbHlTbmmgtAde4AjnFLYlmNaPCwzajzUmDHqFqzsgspKpri9CYz1CPh1BLgvQYxJUj252XuzE6GO+lVu6PnQrXmz1KT8N21aj1CCWhTtDdjEB9cMSKjLIUb6vigsoMWratRb9DYTRfeKlcLS4cPLOkB/7n9zDGMZCRfhwGCDOTrYfAXVIzVyu1U=;RrRrriwYg7M8BhhSP4+nOA=="
+secured: "Faofb++rLa4BQjFg4MfW8Qfo1XXFfT80w9M64ktGZ6J44QEJhEgbwCgL9p9muo7n0zKfYgiTgOxkDCguJyHqehlJu8ZD6b8NZJTRcT2s8lBKl5yG00ovd+N6BrP5Sr0RnCvsBZhf29+3WcYGENyU57MncURGoZFsvleGjizXrPiEaCInfmx16iLGqP8i5CTOThrVOSztoAAajKSBnX6D4MhTF9mvc0TrdC9t1eMgQPXKW3OofgBixxQJYakX/e2HUcFE1p7AhoQkp5zKOBFI/DGAfj9RF/ENNVpBOMDt+7c8J/Uot7DR/Qk/WcCdL39E6NdAnppNZLnZz3b1GhLodOgNgAZ9e0/+lQ8je1mcRv4=;Jdt7F+wjVyZP2HoiVO5bSw=="
 ---
 

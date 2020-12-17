@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI co-pilots US Air Force spy plane for the first time"
+    excerpt: "An AI modified from a gaming algorithm controlled a military system on a U-2 Dragon Lady, marking another milestone moment for Air Force autonomy."
+    publishedDateTime: 2020-12-17T17:59:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-17T150501.855-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "In a first, Air Force uses artificial intelligence aboard military jet"
     excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
     publishedDateTime: 2020-12-16T13:38:00Z
@@ -113,6 +129,20 @@ related:
       - url: "https://media.defense.gov/2020/Dec/16/2002552935/825/780/0/201215-F-WF370-1172.JPG"
         width: 825
         height: 550
+        isCached: true
+  - title: "U-2 spy plane uses artificial intelligence to control radar"
+    excerpt: "The US Air Force for the first time used an artificially intelligent algorithm program, called ARTUµ, to control the radar on a Lockheed Martin U-2 spy plane."
+    publishedDateTime: 2020-12-16T18:43:00Z
+    webUrl: "https://www.flightglobal.com/fixed-wing/u-2-spy-plane-uses-artificial-intelligence-to-control-radar/141644.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 37
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/6/8/0/75680_maj.vuduau2dragonladypilotassignedtothe9threconnaissancewingpreparestotaxiafterreturningfromatrainingsortieatbealeairforcecalif.dec.152020.cusaf_836090.jpeg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "An AI just helped an Air Force pilot fly a U-2 spy plane during a simulated missile strike"
     excerpt: "The Air Force has taken a giant step toward creating an artificial intelligence system that would never in a million years turn on humanity – unlike the “Skynet” nemesis in the first two Terminator movies,"

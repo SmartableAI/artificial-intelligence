@@ -25,33 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Reshaping the Healthcare Sector"
-    excerpt: "How Artificial Intelligence is Reshaping the Healthcare Sector  - The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools"
-    publishedDateTime: 2020-12-15T08:34:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
+  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
+    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
+    publishedDateTime: 2020-12-17T15:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 54
-    images:
-      - url: "https://www.cioreview.com/graph_image/0tsouino.jpg"
-        width: 405
-        height: 247
-        isCached: true
-  - title: "How AI is helping top tech talent connect with the best opportunities"
-    excerpt: "Despite what’s happened to the world economy over the past year—and the continued uncertainty of what lies ahead—when it comes to hiring top talent it remains a job candidate’s market. The current focus of the conversation is around the impact of artificial intelligence on hiring practices."
-    publishedDateTime: 2020-12-16T16:18:00Z
-    webUrl: "https://www.fastcompany.com/90586957/how-ai-is-helping-top-tech-talent-connect-with-the-best-opportunities"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+  - title: "Fintech Firm to Unveil e-Commerce Platform"
+    excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."
+    publishedDateTime: 2020-12-15T02:28:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/12/Image-2-scaled.jpg"
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/01/af825dea-fintech.jpg"
         width: 1280
-        height: 855
+        height: 868
+        isCached: true
+  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
+    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
+    publishedDateTime: 2020-12-16T05:35:00Z
+    webUrl: "https://allafrica.com/stories/202012150316.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 24
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
 
 secured: "brwC2aijQh9ytGSvyi/stOuFSYcT6Ca9nbfk21KBL9Wy8MQAeLR5AmZkuwTF+22E28tUQy4jtGvqI7nKqmdHexYY1aGY9mqppqHlNGm8aDKTyIa9NPtwD2scoqwMQbSQr8rVs5lFYP0UX0Zl4cnTKK2YyPcEhjREMUfBwB1LZb+5FnFGJg4mgn42BeiwYhVkEcnwaas6z/iCYkRwWolJApeqhNb8TykYnrS8rd/IWLcyOYeNygAKlQYFuxg9ZvT9vOPaeKHo5byiLz1ED5j8hROODLnTOCMx7PxKePqlqiefyI/qlw4IUcKPvhGJfVSESYf6yOSEjtXhfzEOVWcMJ/6akLY66CB1JIO5p7d/0fzPk06gq1+FGuU0Fy8RJ3AD+/N7xSo5Rpo/IQR6u5GH/Xt6e7cpWMQnNBcfsNyPMYmeB6Cs3wYRTHSQ1v1fyDemlRotPfrTVgosFaHt0csOMaf1pJU674EQsCCsff7gxBKyV9FOTpu0mJgh4msDBlUEisPYY/zppTzMQRydZg462w==;/KSqPBOfqoGfz3Lx4nNfqg=="

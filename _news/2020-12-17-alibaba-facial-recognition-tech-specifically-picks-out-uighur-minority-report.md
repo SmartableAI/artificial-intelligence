@@ -2,14 +2,14 @@
 category: news
 title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
 excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-publishedDateTime: 2020-12-17T11:25:00Z
-originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+publishedDateTime: 2020-12-17T15:14:00Z
+originalUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
+webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0IR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -26,12 +26,28 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
     width: 817
     height: 545
     isCached: true
 
 related:
+  - title: "Alibaba facial recognition tech can identify Uighurs: Report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
+    publishedDateTime: 2020-12-17T17:43:00Z
+    webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 61
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alibaba offered clients facial recognition to identify Uighur people, report reveals"
     excerpt: "Software could be used to identify videos filmed and uploaded by Uighur person, says IVPM First published on Thu 17 Dec 2020 05.42 EST The Chinese tech company Alibaba Group Holding Ltd offered facial recognition software to clients which can identify the ..."
     publishedDateTime: 2020-12-17T10:46:00Z
@@ -63,6 +79,6 @@ related:
         height: 315
         isCached: true
 
-secured: "lhh8TQ1lEJjnOuPGbMkOGL3niTQ88VAPYC8+xUpVtmYQmo+gkTYoxhr9723U+ZfRli92/CO2gTfGWdQ815+QmypERTN0lK0xEJ+DTGP/4CWUUCySzf/5E2fl5mUUmsPmbZME1NW96WOwiF/mTSo0q2SgTzDzlodmk5N5Id8CqLY780e2sDuq9zin+wKRmyic9Y63Fcc61Qa5Hbi40fLEnMz4pRE1x0sdGHcr3mm7AfeQ8AvXMvfudkFgUELnTsOW6p9WgSFZzwLQqlqlKkAajsFabesNnqtCfV+AWkzZ1IGmhv4W0aCcnWNT3M31zysFNfsFFVD1saIvIz0/TTFDiZBFrs7o57Pnnb0eN7R44ju27gxrzzsvt/PgQ9NULTjrRUu/6udGR7aE/uoQfRbnfMPr6iL2CyFmZ8UzaRLoMb8A3DUQcJzrVsBx6Lk2DImnpGuqDoqU/y0Hmd81L2pXVt61YTm4dTVJdXkxfj1e8EsFqdxvkMh9HbF2rvXnltalE63snpKzGLoFzyy5Mxzq/A==;zBgTFXakCuKDsn0NG0eJSA=="
+secured: "rRJDYDcR8iaITxiFFQndAf2F2d8g4BugtPY96UNx89pJDQ2YaQYR0dDr7Ul0OAj4G7poMieg95eJW0p4LL2r4PgzyTWilMT/1DLJzNWy1Y9NdELRdO8PbEH+T/dn3RREtDTYXlgJHaJXbK15cZ01v9TDpFTMKeAUk1TFUig7ttXqcNds71VsN3r1zTF5ja9aHXhIeMdWEwnG2ymXjglAcCOq71RdaIvliY3WOcSoRjRaUijACTPdtp+Q3sg/q+s2dOg2lpHmIUdm2p/pQyL5h23MZlRUed7B6zF8T1rkPnQD5Cktuc8uTpeXlknkapMNduFa8RgdNe6WaHs1xbxvf89aN7YJMctBi3KAxzLZOlI=;DQ94R0Lh28X/taHw9XQujg=="
 ---
 

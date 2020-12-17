@@ -25,26 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven IntelligentCross Posting Best Displayed Prices in U.S. Equities Market"
-    excerpt: "IntelligentCross at those times is 32% better on average than the best price available on the exchanges. \"The superior quotes on IntelligentCross are due to our AI innovation in matching buyers and sellers close to fair value,"
-    publishedDateTime: 2020-12-16T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driven-intelligentcross-posting-best-displayed-prices-in-u-s-equities-market-1029898330"
+  - title: "Intel debuts 'Clover Falls' companion chip for better laptop AI"
+    excerpt: "Intel launches 'Clover Falls,' a companion chip that will help commercial laptops sense and adapt to their surroundings and strengthen Intel's 'Evo' PC platform message."
+    publishedDateTime: 2020-12-17T18:52:00Z
+    webUrl: "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html"
+    ampWebUrl: "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Intel’s 2021 Predictions for AI & the Rise of the Intelligent Edge"
-    excerpt: "Intel’s technology has been at the heart of computing breakthroughs.  They stand at the brink of several technology inflections—artificial intelligence (AI), 5G network transformation, and the rise of the intelligent edge—that together will shape the future of technology."
-    publishedDateTime: 2020-12-15T20:11:00Z
-    webUrl: "https://www.unite.ai/intels-2021-predictions-for-ai-the-rise-of-the-intelligent-edge/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
+      name: PC World
+      domain: pcworld.com
+    quality: 104
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/10/intel.png"
+      - url: "https://images.idgesg.net/images/article/2020/12/intel-platform-approach-100871412-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Intel Reveals Visual Sensing Controller Chip For Smarter Laptops"
+    excerpt: "Intel introduced the Visual Sensing Controller, code-named Clover Falls, as a new component it will use for Intel Evo-verified premium laptops."
+    publishedDateTime: 2020-12-17T18:59:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-reveals-visual-sensing-controller-chip-for-smarter-laptops"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
         isCached: true

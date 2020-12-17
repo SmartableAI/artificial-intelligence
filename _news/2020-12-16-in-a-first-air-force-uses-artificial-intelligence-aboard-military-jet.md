@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artific
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
 type: article
 quality: 74
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI co-pilots US Air Force spy plane for the first time"
+    excerpt: "An AI modified from a gaming algorithm controlled a military system on a U-2 Dragon Lady, marking another milestone moment for Air Force autonomy."
+    publishedDateTime: 2020-12-17T17:59:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-17T150501.855-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "US Air Force uses artificial intelligence aboard a military jet for the very first time"
     excerpt: "The historic moment occurred at Beale Air Force Base, CA, and saw an AI algorithm take control of the radar sensors and tactical navigation systems of a U-2 Dragon Lady spy plane."
     publishedDateTime: 2020-12-16T16:46:00Z
@@ -113,6 +129,20 @@ related:
       - url: "https://media.defense.gov/2020/Dec/16/2002552935/825/780/0/201215-F-WF370-1172.JPG"
         width: 825
         height: 550
+        isCached: true
+  - title: "U-2 spy plane uses artificial intelligence to control radar"
+    excerpt: "The US Air Force for the first time used an artificially intelligent algorithm program, called ARTUµ, to control the radar on a Lockheed Martin U-2 spy plane."
+    publishedDateTime: 2020-12-16T18:43:00Z
+    webUrl: "https://www.flightglobal.com/fixed-wing/u-2-spy-plane-uses-artificial-intelligence-to-control-radar/141644.article"
+    type: article
+    provider:
+      name: Flightglobal
+      domain: flightglobal.com
+    quality: 37
+    images:
+      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/6/8/0/75680_maj.vuduau2dragonladypilotassignedtothe9threconnaissancewingpreparestotaxiafterreturningfromatrainingsortieatbealeairforcecalif.dec.152020.cusaf_836090.jpeg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "An AI just helped an Air Force pilot fly a U-2 spy plane during a simulated missile strike"
     excerpt: "The Air Force has taken a giant step toward creating an artificial intelligence system that would never in a million years turn on humanity – unlike the “Skynet” nemesis in the first two Terminator movies,"

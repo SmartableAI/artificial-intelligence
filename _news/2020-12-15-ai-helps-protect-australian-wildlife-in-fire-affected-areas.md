@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
-    publishedDateTime: 2020-12-16T14:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
+    publishedDateTime: 2020-12-15T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "GrMyJMx6GGySNjbKj09xkBTJ7o45a7Ki98U02hoeGmjS5EFP5Xe3ASJFZMH3Eb2+ryC6U9CXaweAPAwi6LLzNFHq0lC+WTA0SMo/G/Qa6CP0WVHxWAhek+S9m8oGp37wiaSVMsweGJNDFUieetJGo10APK+hyHFW/u0B9VFvew0/jvJNJUIj9WNFsPdN37d2ACidiJGwUI1yyHt2EIg5y+ks1V8nLHQSA944yMjSGO8modIJs7qCV2SFYpyWxPMuVbbS92CCjqXoLcD1//kIAomTRc0a1ppVNQg4Z/AW+ceiqaseS1acNEIKqcvB5kDat4ZzdHIXyMU4fvqtoekQZ6j6BsswI1Oke2Zh9OLrmYg=;pr67xw1z31pY2jBDPBcheA=="

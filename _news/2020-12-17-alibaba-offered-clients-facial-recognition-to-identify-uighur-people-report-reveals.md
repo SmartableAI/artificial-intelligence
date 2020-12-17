@@ -33,19 +33,35 @@ images:
 related:
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-17T11:25:00Z
-    webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+    publishedDateTime: 2020-12-17T15:14:00Z
+    webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 87
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alibaba facial recognition tech can identify Uighurs: Report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
+    publishedDateTime: 2020-12-17T17:43:00Z
+    webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 61
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority"
     excerpt: "The report comes as human rights groups accuse China of forcing over 1 million Muslim Uighurs into labour camps, and calls out firms suspected of complicity"
