@@ -43,15 +43,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Researchers introduce first artificial intelligence tool to detect COVID-19 probability"
-    excerpt: "A study in the Journal of Medical Internet Research introduced Biocogniv's new AI-COVID software that can easily predict the probability of COVID-19 infection. A team of researchers from the University of Vermont and Cedars-Sinai discovered high accuracy in predicting the probability of COVID-19 infection using routine blood tests,"
-    publishedDateTime: 2020-12-12T16:32:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20201212/3673366.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 11
   - title: "Sheba Medical Center Inks Strategic Agreement with Iguazio to Deliver Real-Time AI for COVID-19 Patient Treatment Optimization"
     excerpt: "Iguazio was selected to facilitate Sheba’s transformation with AI through clinical and logistical use cases such as predicting and mitigating COVID-19 patient deterioration and optimizing patient journey with smart mobility Iguazio,"
     publishedDateTime: 2020-12-16T14:20:00Z

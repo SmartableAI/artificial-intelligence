@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
+    excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated. Gebru, who studies the ethics of AI and was one of the only Black ..."
+    publishedDateTime: 2020-12-17T08:16:00Z
+    webUrl: "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/17/ap_20339793092004_wide-b51116f47b69a5579175b6b1b27be2b90e1002f9.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
+    excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."
+    publishedDateTime: 2020-12-17T08:35:00Z
+    webUrl: "https://wfuv.org/content/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/default/files/logo_0.png"
+        width: 342
+        height: 240
+        isCached: true
 
 secured: "bg2jYjBRa7kWyl8Oea+o97xfRF6ZQkOWKOUwVeH+A+NuG9KcC17fpzPHXGcxYrGGLu0aG0gh9/LqFrM5o61lLqbeyolIbcEgUP3+ri/ZlJm7GardWC3Y/sdCZX+AUvwPe/zm4zeDCdJBVA9bTxmCUHG9OdPNrwk+UM3lrR6CsuishyLgS4DgHWzc+mQr+MPnTbKWWa8crjhQy9iEbhfeisDhffdRFNZlM9PapBRehT/kSTufGVATuXVkVyPrAiYbJtjhBtoZPRPuLOmgI3i0z2fQiSOB1CSdXlvQX5vG3e2OAjGzvOHRJ9I6m2xKP2CqZgzLXUtQgGKNVUa2ucOfHNt8+KnEJie1jDvgB3S8+wJhYTsk6iAWB8XAa4D2M/0NIMdR0qaA3b0Y+b5xyA7ZFTxlY4DJKtNsPmfT+2wQUJVsqWjNzO7tIrXBTPMr6mL2KlGrtaJNdO2DhsMTPJCp7/ox70yXDxPAFfxcd8R6LD8TmKHQGshVsvZkBdyKjNSU9T91DYtdcY1OkrPLGiiICA==;vZtPegcxwZ16OuGKc1uJGQ=="
 ---

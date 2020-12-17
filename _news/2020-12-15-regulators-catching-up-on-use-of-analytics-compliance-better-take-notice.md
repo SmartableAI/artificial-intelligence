@@ -42,18 +42,18 @@ related:
         height: 676
         isCached: true
   - title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
-    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such as the existence of"
+    excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
     publishedDateTime: 2020-12-15T13:38:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics/article_7a7f4333-de1d-5d91-b603-00cfa6346360.html"
+    webUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/5b/55bd74fc-5ee9-58ad-900c-5682a8dae0d4/5fd8c2391e893.image.jpg?resize=400%2C256"
-        width: 400
-        height: 256
+      - url: "https://mma.prnewswire.com/media/1385142/OrphAnalytics.jpg?p=facebook"
+        width: 2699
+        height: 1414
         isCached: true
   - title: "4iQ and Alto Analytics Merge and Rebrand as Constella Intelligence"
     excerpt: "PRNewswire/ -- 4iQ, the leader in identity intelligence, and Alto Analytics, a leader in applying AI & data science to the digital public sphere,"

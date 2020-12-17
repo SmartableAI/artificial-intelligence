@@ -1,30 +1,35 @@
 ---
 category: news
-title: "Alibaba facial recognition tech specifically picks out Uighur minority: Report"
-excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority,"
-publishedDateTime: 2020-12-17T06:57:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
-webUrl: "https://www.channelnewsasia.com/news/business/alibaba-facial-recognition-tech-specifically-picks-out-uighur-13790946"
+title: "Alibaba facial recognition tech specifically picks out Uighur minority -report"
+excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+publishedDateTime: 2020-12-17T08:18:00Z
+originalUrl: "https://uk.reuters.com/article/uk-alibaba-surveillance/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report-idUKKBN28R0IV"
+webUrl: "https://uk.reuters.com/article/uk-alibaba-surveillance/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report-idUKKBN28R0IV"
+ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28R0IV"
+cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28R0IV"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13790944/16x9/991/557/2bf9e11b4298d4e7ec1cc13d09dfbe57/Xx/file-photo--a-logo-of-alibaba-group-is-seen-during-the-world-internet-conference--wic--in-wuzhen-3.jpg"
-    width: 991
-    height: 557
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544859231&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AO"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "cdGdxOvzYvY99+g8OUHcLrOcd3lTWVXuWdioZEeKCTFiuU93MgkURE9ip9cEDNN7tOyUMgM5RqfCTbvpVt/ISiggeIEABjDZ0bCbYoK10sxh0M+/9tVYFSA61BxjGG18fX73mTdWz3RGDRaxLuszu3otJ1HJeMOXzyMXjL9tDOg9SMU2g3F55gzbmsV7+jQDKXpAh+2POO4/VrPLdg7mETeSk0wK7Ka1ypHStAoQTS7slXZZARZMNG82dB6IvItUuV1T6STZRg5clbzEAqvNic5Y1yjvlzv1k9pJV0Mji6wpFinJIsEU5p7e4PXeQKzgJAt/63ADzOeKleUybtY2qYUuuUNeiBo69o79F14iVGQ=;oqDcr2kxoHAmyzooB7bFQg=="
+secured: "fMemXn4Aa+ztip/YQdAlGOjnTCbM3tjj5nK4VRWVWqXRxYtMu2TB6rcF+hjVLzzR5GSXPNR4rRnVUTU10J+6jRjkQTlh9Unf/r0UKt+ighS2Nbq2vgqF/mOtYh2K/D3OlYOgwGT5CuCXuLb/R5vJdLwMrQ1aCmkdgkQ4t9oo6mx3/DN19bKR1J6Bgz2z9HBBXJiYZKjqvVvXM/k1KSjcH5DDSGGotoy+XqvUS1uSWn9iZ6ck4GFKnJlt/i9Sw/fFnzJbgD/6Pnstg4OjuOsJYoAqCsHxzsZzv/GRuA40A5+HxLfO4bZyNEFIh1tFtKP6J1PhbvXkpeCsFs79CJAn+OpelkZsW9RVU6E/S+WI/30=;SgT3JmNAz/zK6VXQb0i4Hw=="
 ---
 

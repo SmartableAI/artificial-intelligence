@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Exclusive-China search giant Baidu considers making own electric vehicles -sources"
-excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ..."
-publishedDateTime: 2020-12-15T17:27:00Z
-originalUrl: "https://uk.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2"
-webUrl: "https://uk.reuters.com/article/us-baidu-auto-exclusive-idUKKBN28P0F2"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
+excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, three people with knowledge of the matter said, the latest move in a race among tech firms to develop smart cars."
+publishedDateTime: 2020-12-15T20:29:00Z
+originalUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2"
+webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P0F2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2"
 type: article
 quality: 83
 heat: -1
@@ -206,6 +206,6 @@ related:
         height: 557
         isCached: true
 
-secured: "aYcsNpFcQRv+U89KXFJyNdOnYrR0x77WqRMWPkCIXENYqsXylZCyLtnbFTcns1YCXiga/BjN2LAvk+wcwTbxSmaf8tDUZshlOS5JdZipWZemLRplH3pHDYvG+HRfwdlykMCueNEbhW7yFenWhlzkXzVbVs10iJ/r+38vYFylPXUVOm5H/0cx2OxJ6XRpBIxwoi68gV+XhTvAWNhY2jYuSOob9V4WU0MAiy3vyfSF5aJV+26pOuRIqf61qAE5PeX+ZKu8+tFkme0YIyrSTv3+AZo+ykpBOtPjYV1c/mSUlXefM6El1CnnIOeODVfzNv20TXAj109+EzV2AOsOZqoawPdgPOWEqg2YuIti7Jv1WCg=;s06ex123sYH77xkOhX1ZYw=="
+secured: "Z0k+RyFQYj7kaAyXmGoE6bEZjfiwYXnXcDAmRDdV3vVesWsn+u0C0IgMTQcJqS9NroCcksRtmiyh5AYhZZ46Ozmc2eiaY7w+QWXlTniGmuypZFCg+MaKFhbGVhHq++CjPV0sho3LHo6qP8uvz4EWtrAJ8qVy1NIlqBwVrI3vbYBdgVQYfL6FgaYKkGMriivx7ZctGvohZDHfL2QX2yhUHiHK9CrrjraFwFv02u8sYe8JeRtH8L367iDEhFjcd7lO5ZhoUneIeod1oVuk8yXfQkYwAOw5sgCEFSWrSILMm1dSjcn0YFYy+2XZhzm5Xc1BXlZfJvW2vmw8bsBOCzpq/HwvVlWBSjwpPUl0Nt7UlVw=;5P+NHFNvDNELdka4EF4f4w=="
 ---
 

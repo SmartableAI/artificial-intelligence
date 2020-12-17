@@ -75,6 +75,34 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
+    excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated. Gebru, who studies the ethics of AI and was one of the only Black ..."
+    publishedDateTime: 2020-12-17T08:16:00Z
+    webUrl: "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/17/ap_20339793092004_wide-b51116f47b69a5579175b6b1b27be2b90e1002f9.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
+    excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."
+    publishedDateTime: 2020-12-17T08:35:00Z
+    webUrl: "https://wfuv.org/content/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/default/files/logo_0.png"
+        width: 342
+        height: 240
+        isCached: true
 
 secured: "PRGbjeZWPHOTP6qrvg/NSfT69ETAgPNxd5uFneAcExnTWX6nHGtoJDZSkgnrm/enwrzJmvKaX/vQ2kJCnFKfkb1YEUTWzGTRRNDsc2yQj/yHSjdMfZxdgkxehb4cnqTwbfb60qwQQCp4mJXqm/CLWo9oV8AM1G5f0LDODgXMWaHbq3UzjRvSQE5SF/4ghIbS2EPfu12ALs9LDa8vmKtD3RFGTerM3thFf2V16Issp1Eco1Ja0Gtl+tlWVVPUGLKRJHoaz0IQc/1E5168x8ShtjxmV+MIv/N913yvaYfB2UjPq8iJ4bXnRFXF7eIdEDn9wYbq3VikcDeEVp9tH3Hi4mZcs/87+cRgb0KuAYns2lI=;3fatvavPsK/LTgx34I2eTw=="
 ---

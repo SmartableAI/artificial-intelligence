@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-res
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -74,6 +74,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
+    excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated. Gebru, who studies the ethics of AI and was one of the only Black ..."
+    publishedDateTime: 2020-12-17T08:16:00Z
+    webUrl: "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2020/12/17/ap_20339793092004_wide-b51116f47b69a5579175b6b1b27be2b90e1002f9.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
+    excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."
+    publishedDateTime: 2020-12-17T08:35:00Z
+    webUrl: "https://wfuv.org/content/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/default/files/logo_0.png"
+        width: 342
+        height: 240
         isCached: true
 
 secured: "2ID4RfLtkv+k69yrU2pZP4RtleT0yqXbg9eGXruI8sAadfoN3XV90UavJT1f4poWJyrpr3PIQPSThERFIvknEBRkPZDp7FiSW+McfYb/ejulERUmlXwtEPdHcmwGjs++DvDBOHG5F0BkRiK4rHyMmK+tmb4bAl32rkgHiLZeF5/xaNeratzFheERy/6wd6vcUq0J2sL5JnWpZ6nlY/fZbJ9BsDn9Ih6Qni0NSjYt4z52I2/ZuG0aCgo6711UNIKML6vVjSmlRrkWOiJ76jtXflAxoHgaIvpjAUJukEbkNfs9JHM0LaaUyzFK+9tInx1NKj07zLeT/t/zJ0bVTNR0ARHlJyF1Rbav9lGLKqn20tG/n1UOWCwSafZOxRaFhr/SFC0vwVqFM1I5ffIbQEld3xu/EUdLQsTHL/aomCwTfHFDfaTCeRaUiv7MNkJSTrA3IHlLzESmPakt79PjGcKTCFDGNYnRG+u4+QgKXohWPG8aNVVQvOzEF1zyZ7LnWa187Er5AHyU8/aBpuFqbHYkvg==;YKNxKWHnJPoXsP1TW39w9Q=="

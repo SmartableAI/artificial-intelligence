@@ -39,6 +39,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Beyond Limits Expands AI Technology into Asia Pacific; Signs MoUs in Singapore with Infosys Compaz and Kaplan"
+    excerpt: "PRNewswire/ -- Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding"
+    publishedDateTime: 2020-12-17T07:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-limits-expands-ai-technology-into-asia-pacific-signs-mous-in-singapore-with-infosys-compaz-and-kaplan-1029901075"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "ABxYdEgTGvCoInsb9BxRMpTdzOFUKsSLoeOGlVjc3R1+EwBvgmngfaPASd6Qee/ko1s0A1j1s50mlcarRSc+uQrdooMCZ+3lbY8f9xAh74hzdV/HRcXm0MpvxLOEJmmReD9tJxwT0Ct1/DYNzLtOSNjgRArJiRz4Gkr2JJZUCR7jJ6bhiryOyKtY1i2unnXZOwj6mpZdRNJel3Vr2wekLBJQ97B03eWjmkZummB43qF09lCo/NoExnG041MEucHKmbLHSRvunWSEosTok3bpqA28udG/y6CO4NZa9I3n05FvG+iOvGjumbQM0l5fHrXceh0yjXaWb8+8yIpNCbW259FHaspHCAdUw7Q6gY44jUg=;7RWsA03j6DXAfxjYjwYTTg=="
 ---

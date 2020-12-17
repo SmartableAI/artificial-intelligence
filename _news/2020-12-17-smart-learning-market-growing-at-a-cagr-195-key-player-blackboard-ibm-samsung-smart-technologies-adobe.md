@@ -35,6 +35,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player Google, AWS, Facebook, Apple, Intel"
+    excerpt: "Dec 15, 2020 (AB Digital via COMTEX) -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by 2024, at a Compound Annual Growth Rate (CAGR) of 21.0% during the ..."
+    publishedDateTime: 2020-12-15T21:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-210-key-player-google-aws-facebook-apple-intel-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Size Rapidly Growing at a CAGR of 18.4% by 2026"
+    excerpt: "The growth of the image recognition market is primarily driven by the increasing application of facial recognition in the financial industry and growing demand for security applications integrated with image recognition functions. Request for a sample ..."
+    publishedDateTime: 2020-12-17T08:25:00Z
+    webUrl: "https://www.openpr.com/news/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
+    ampWebUrl: "https://www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2211900/image-recognition-market-size-rapidly-growing-at-a-cagr-of-18-4"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "AoIKJcrxN/e1QqjwSmlS1MDFzHD4I23bWhkHdIChcrgRjp29Wzr4E/VH4DFtWPGHKjXECnCHpkModR/ZOe4TNVYVDFtCZVjoxKfExyrF6Ot6bAZq9gGvAFbriYXPKkndCQ9tF3RJSwPT5mGym47K0Om4tEcrmUTWhU80b+9eiznca4wNC33rZR4WCc/CAyDqLR1OwhClGxZrKf08CrQLYTYux1EpcjIn4i/Im/TdmHqZ8ggnAHb/xWVqExVaF3NVurD/n/iWqlVjWvIC/WQoAhUrNzC9KC4ZmPGI3NYMWEIxjop5j0ORxjY2Rq/VSXEeVJNv42RucPiS7iMGYLbY8QrSYQrh8q1lJJvPE972IBiQlNCtFrPD+exYPFvJ2oRLz3oyLQeXbZZyrhrEE3KChUYpZWtvgo4V9BmjLSXZ3c7RNDNv//jaeqeTzG3GV9anEfAq26mIzqt6OFzUZO3eRoxdVh3k3XiPg0VkdRlowTRiL+unIlKBLyv1YSmjShvuZoH2G5/Dk/DR4ZgQ6U/2Og==;HCY+UWwJcofxyx1Wd/kkRw=="
 ---

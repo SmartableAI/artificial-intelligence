@@ -1,27 +1,27 @@
 ---
 category: news
 title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
-excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such as the existence of"
+excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
 publishedDateTime: 2020-12-15T13:38:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics/article_7a7f4333-de1d-5d91-b603-00cfa6346360.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics/article_7a7f4333-de1d-5d91-b603-00cfa6346360.html"
+originalUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
+webUrl: "https://www.prnewswire.com/news-releases/qanon-is-two-different-people-shows-machine-learning-analysis-from-orphanalytics-301192981.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/5b/55bd74fc-5ee9-58ad-900c-5682a8dae0d4/5fd8c2391e893.image.jpg?resize=400%2C256"
-    width: 400
-    height: 256
+  - url: "https://mma.prnewswire.com/media/1385142/OrphAnalytics.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3QTy3FMImwVYBzF1TrNvORhwj1BbtrjUaYgU8EfqSzlucwJVzWAJ8f5Df+Dk23M2cLCN5m9UnyIAvrYI1h5/84PYxgIIN8Oapu5/KgyW3JJB6OpBMuW2tFs3e0TX/QCyNXIlEQBV6Vc65NxHvpnbZ0P51uYfO69WX+fkCtmExmLhao8pIXPX3Ao+3HkwoPHViQm61zPXabKmV7lDMRriE0mSspALRdHcDEgnM1wrOtoUbqHOtpnova2MAPhnVWktE4pUP8bJpVbZmeqhAbhe+pIUJE9N1SvksU5LgXQJkv7wxUi7rzBn2r1C2kc4mO2aAg73+Demb70xr4ly+hTG5DKieD4btqAaxif+f1WZl25Z2fCShTKsI/vp8wQtcVLZZ1bCaC/xzYlBtK1CJs2WCljG+eDDa4jOC9K3Ql1orXD59Ie3eAxJw7HsYYZXKP+aPJzgKe372gKIUxT38ZY8krNZK4EexSKzNlfD+8Z8fEwOLjktQEHaHk2C9ynCkIErTXfkbkl3ohRpJjkJGigbqw==;/CNuSX7ruP3m4clxasFZ5Q=="
+secured: "Jg89p5XvtP0A4s9ncn77sTc6pnMaB6EU/ol/orPa6YmldEh9XsVS+zOIgEp2WNfrb1ZRq+cwux7hjcT8q7gpnXS4pA+wB5+iRCGPsQla0dGAKoEejWoM2VhWG13o0thzqlD1wFxxFsAdmV5zPfdVJcXkeZ1cEXhQhrjdLfTKVHI4+q20LguqEtFrcHoVtMQAXkoligfZQAKfdp9xfel3OPvfLaS2mH1LAE3DscteNjQ8vtyZfwHlExk4g9bHdQwyEz9FpWaE3Dl68MBL18vHyosj/eVQvHcqxXTgPGVp9aR43ZNfd5RFsXWm4fRb70HcKKnpnSGWBQFraRqfJcr1XNUv4+E21nO6Ko0IimOI3LA=;dlGt8hNZCZM3vedL2HFvEQ=="
 ---
 

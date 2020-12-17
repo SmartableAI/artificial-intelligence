@@ -25,6 +25,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Unlock Insights From Business Documents With Revv’s Metalens, a Machine Learning Based Document Analyzer"
+    excerpt: "Metalens allows users to extract relevant information and identify potential discussion points from any document (pdf or Docx) within Revv. This extracted data can be reused to set up workflows, feed downstream business apps with relevant information,"
+    publishedDateTime: 2020-12-17T08:57:00Z
+    webUrl: "https://www.financialbuzz.com/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 4
+
 secured: "jq4Ohm8SriF5Tu4gwH7E3Jc8L6G5zMNCozXjYy+LuhwMVQBRxrulqhVpbhtrJ5NCzV5+ltDW2ez6mOJxlGXKYR1lB/VOdo9y+6oG3lfYsnWGKL+oo8hS3vXcz88+FdAsaHu5U96omdLdBCelwy9dbHEUlm8FIRsi93C7VesW4kMCZQ+kQpaKaCpey7z1xZUYQmt5U9sIaWAxejdnzisc9d9bubUNWWu4jImQG7hruuVK1yp8QRDTDEKQF6YOXIsKn2GnTl5MRk/MYZel3HHL0VNnUFFQ9hWoQF8czq0oF5f/tnLzzb5phr6oA59arA2+UZ+mpXXjSrOTgllAOyS5EoLaNyKw6RIr6BL85r+yDFE=;7Za7rBPGw17h3baAzVhpJA=="
 ---
 
