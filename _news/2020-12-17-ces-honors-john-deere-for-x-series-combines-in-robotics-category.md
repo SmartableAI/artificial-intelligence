@@ -1,22 +1,28 @@
 ---
 category: news
 title: "CES honors John Deere for X Series combines in Robotics category"
-excerpt: "The artificial intelligence, computer vision ... annual competition honoring outstanding design and engineering in consumer technology products. The Robotics category highlights programmable or otherwise intelligent machines capable of performing specific ..."
-publishedDateTime: 2020-12-17T04:35:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ces-honors-john-deere-for-x-series-combines-in-robotics-category-2020-12-16"
-webUrl: "https://www.nasdaq.com/press-release/ces-honors-john-deere-for-x-series-combines-in-robotics-category-2020-12-16"
+excerpt: "X Series combines feature proprietary artificial intelligence, computer vision, in-field machine-to-machine communication and integrated sensors for connectivity and self-driving capabilities. - X Series combines can monitor themselves and enable farmers and service technicians to manage issues remotely,"
+publishedDateTime: 2020-12-17T10:24:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-crop-farming-products-and-services-corporate-news-74d985b537377673d76537492456013e/gallery/7865a44b682003027a7d3e232ad231c4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-crop-farming-products-and-services-corporate-news-74d985b537377673d76537492456013e/gallery/7865a44b682003027a7d3e232ad231c4"
 type: article
-quality: 64
-heat: 84
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "CES honors John Deere for X Series combines in Robotics category"
@@ -48,6 +54,6 @@ related:
         height: 231
         isCached: true
 
-secured: "KqTp/xvgrD6yG5nVfdSjTSy/Kgywi5eHppJSe43tIDt43oucWYi/dF/SovvZlZFTnnrNoC0sf3NOZTxbKAodbmD9RHkW1GLrDUnTe6UZiC8/ha229P2CkzmDZA7eT8fKzVPEB/X+2xusbMg9sGSKHBXnqBRLLhd2bbWvokBS7HdFnd8LhZGsZ/qlr7EU407W0DAf9LvlKw+F0wKUQMANNYMN5Y6J7WNLK9O08PhEnoYsxL6WYVnboa4l8j+Sh/9P5Zl4hKAo9yg+nrGZtiTeMNlmLEJyeEoPLuFsa1U+jRs4ROFvMms67sfR8z3iPyRA0LLgawktx7cp5t+89Hxd4fyVcw0JE/p9X+kkWQ/skaI=;twzI06EkjsAtC05lA9y1bg=="
+secured: "yHlTqVraB0YwqOvsaJ26UjKhaWIp403kuta0o/VCn3w4dAiLhLLX0qeogz9ZC1JH8DwvFpHaBhxqazcZc1oSZZdoFQMr+WCrV/WlHHXc81TDNT7PDkP/q4RIgzuaL4+mh5McBa4hjK+DZMic9CovSogjwEvBVixL1tjYOVl1bCK1/ahQGFQ1mvK3TUZqw6jaJwYQRsXY+VhBgYfL61qnGDcWnMdPmXlL7s/ydHPmoKZ83eUca9lMrdLh1wwxnCbZTfhtbMlFV/7q5vWMFWS2DBVC33CYOcwAHfBfmviQXcpxHntkQP/vVYErw0R/YqLe/GLbt/uKjwYfegqwwjANxCxZLlmiE7MXPUXVgTg4Tms=;6u8BEFycx1Txoev6UiRzYA=="
 ---
 

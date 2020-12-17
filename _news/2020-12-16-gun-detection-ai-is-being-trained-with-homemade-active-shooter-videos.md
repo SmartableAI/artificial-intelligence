@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/7k94a9/gun-detection-ai-is-being
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k94a9/gun-detection-ai-is-being-trained-with-homemade-active-shooter-videos"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

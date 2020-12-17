@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/ces-honors-john-deere-for
 webUrl: "https://www.prnewswire.com/news-releases/ces-honors-john-deere-for-x-series-combines-in-robotics-category-301194041.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: PR Newswire
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "CES honors John Deere for X Series combines in Robotics category"
-    excerpt: "The artificial intelligence, computer vision ... annual competition honoring outstanding design and engineering in consumer technology products. The Robotics category highlights programmable or otherwise intelligent machines capable of performing specific ..."
-    publishedDateTime: 2020-12-17T04:35:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ces-honors-john-deere-for-x-series-combines-in-robotics-category-2020-12-16"
+    excerpt: "X Series combines feature proprietary artificial intelligence, computer vision, in-field machine-to-machine communication and integrated sensors for connectivity and self-driving capabilities. - X Series combines can monitor themselves and enable farmers and service technicians to manage issues remotely,"
+    publishedDateTime: 2020-12-17T10:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-crop-farming-products-and-services-corporate-news-74d985b537377673d76537492456013e/gallery/7865a44b682003027a7d3e232ad231c4"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CES honors John Deere for X Series combines in Robotics category | Morningstar"
     excerpt: "X Series combines feature proprietary artificial intelligence, computer vision, in-field machine-to-machine communication and integrated sensors for connectivity and self-driving capabilities. - X Series combines can monitor themselves and enable farmers and service technicians to manage issues remotely,"
     publishedDateTime: 2020-12-16T13:54:40Z

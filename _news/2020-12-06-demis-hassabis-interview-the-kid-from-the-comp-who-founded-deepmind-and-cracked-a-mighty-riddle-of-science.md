@@ -3,8 +3,8 @@ category: news
 title: "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science"
 excerpt: "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and"
 publishedDateTime: 2020-12-05T18:10:00Z
-originalUrl: "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
-webUrl: "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
+originalUrl: "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
+webUrl: "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 385
     isCached: true
 
-secured: "uGb4kNGLTRLHT1sMu5ipIQLmMoa/YR5pW0MCmwS7Tqcwa/fQLLEYMKrdmlp+HY6fSq8wcvz4QTbM4L0EUegZbldQSnYAJ2aibclFc9gOsc2DW35ahyz9kzR2TnVPWkSpMtzzzAWSEZNNT5fefWoQ58GHVXl2HmQRCJUkgVdqFC7oq+czDKZ76YBeTOxGAVnJ8F3yq599Elo/FADlSX2yjtizCv0kL9riKU93vd+WGb9sLfuRAPciL0z3E5McHbafcExQmAOKF4kq+E9Ho+GP8abvcZNtwwXIFEO+vYaeD9jcKb3UUTBvPelQG/xOBbF2PA6zT5wEubxWG1S4wPQonG754rvicJBDmUnKjxZpGcFXncW+nkqWFbDmfQ7puTGG69nXEdo+QuVVnBJ9jcxn1tZsZgc87LAznj2jOrr2KU74T8+WBhdU+kuT9JlZHUfH0yF68w1t5iP8YIuUkfw/V/A80RvcNrEhWIZ/X4mY7HwDS9zWwuxuOlzrf0/E8GGcSboQT56X+aICs2qFcGw46Q==;y/Hbl+OPRoa9RnBE9dbs0A=="
+secured: "blhNdCkSMSYpxL5BatYvnb+Sr8xC0N8Yv6x6rbMF7h0c6FxAEtypxOQq+fTqS1L9E763iskyowCBZBCO4BdSg6uCLDtoVlkELbPLLyyIbH9TQd22pTkt1AI1Ipep4FmTEq4Pou268NX5CdDU4kYcGAs4y7m8ueSpX0M+t7vEldvGY1DESyVE9aaf+8Jn+KFKgdxxov128s4KcxxxrMSDbljGHKJzoqHeMGPAygw4tUQaLf+9umpc2AOqRmeIyLhwXeLjMNDHK5/jT1rIG1WXsf9K9xM4FQauRDnN8nJCm3ZpJb9D5P8VQdm1qvS+rBHbcb8cUYFyPfqGG5+CQ5g0QnEjjTRykgkiyigSHLFEi8Q=;XeQNREYep8X8IKpq2x3RSA=="
 ---
 

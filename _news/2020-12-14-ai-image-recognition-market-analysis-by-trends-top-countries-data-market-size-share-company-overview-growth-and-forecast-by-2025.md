@@ -183,6 +183,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
+    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
+    publishedDateTime: 2020-12-17T09:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-2021-overview-opportunities-in-depth-analysis-and-forecasts-outlook--2023-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market 2020 Research Study including Growth Factors, Types and Application to 2023"
     excerpt: "Market Synopsis The Artificial Intelligence in Aviation Market is estimated to record a significant growth throughout"
     publishedDateTime: 2020-12-16T13:11:00Z

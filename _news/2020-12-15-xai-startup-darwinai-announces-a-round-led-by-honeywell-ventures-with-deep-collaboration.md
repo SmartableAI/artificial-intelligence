@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Honeywell Invests in AI Startup, Eyes Predictive Maintenance Application"
+    excerpt: "Honeywell’s aerospace division is working with DarwinAI to use the startup’s technology in predictive maintenance, anomaly detection and computer... Honeywell Invests in AI Startup ..."
+    publishedDateTime: 2020-12-16T00:00:00Z
+    webUrl: "https://aviationweek.com/aerospace/emerging-technologies/honeywell-invests-ai-startup-eyes-predictive-maintenance"
+    type: article
+    provider:
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 36
+    images:
+      - url: "https://aviationweek.com/sites/default/files/2020-12/AW_201207_CVR.jpg?itok=80ytHIfM"
+        width: 300
+        height: 420
+        isCached: true
 
 secured: "mCplyTFA0jWLDNZmo0cQnYUVPuzBcaEhPNLzLKnWEUtuso6l23Qv+OsQp5bakSlDuH6SmO0h1vl8GjpzbMR2BLhQBmnJhSOXRZ4vr5nHhm5CvRShU8Fcpebqvb9CZQhxJoeXTo6hdUATo7/6fT4GIIkCZBc5IuNuVHSmXUbVI9oyut/3404f1IAQzJ8x/b/pkaPjdp2emh6sfiv+QDlLXevGasj2OjKz97HTV/SZ2Sz5zSZAUK9pF2R727TTLHiS+Vrz5rKaNsNl1Btj0v1hPLSzUy4DozkEtE6xjZDXyS2JXMfhxp5SI0E1jmPc2cSSm1OLTSsyADGCuljYjg7GJHjunA84Wn5yc3GiIgOlDFU=;ANUUdRXexf/lA5RY8oQDFQ=="
 ---

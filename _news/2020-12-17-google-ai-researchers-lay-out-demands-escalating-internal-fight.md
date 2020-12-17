@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-res
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
 type: article
 quality: 89
-heat: 139
+heat: 140
 published: true
 
 provider:
@@ -76,18 +76,18 @@ related:
         height: 630
         isCached: true
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
-    excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated. Gebru, who studies the ethics of AI and was one of the only Black ..."
-    publishedDateTime: 2020-12-17T08:16:00Z
-    webUrl: "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+    excerpt: "The tech giant's researchers say the dismissal of renowned researcher Timnit Gebru has \"had a demoralizing effect\" on one of the most prestigious units in the company."
+    publishedDateTime: 2020-12-17T10:20:00Z
+    webUrl: "https://scpr.org/news/2020/12/17/95759/google-ai-team-demands-ousted-black-researcher-be/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: KPCC
+      domain: scpr.org
     quality: 39
     images:
-      - url: "https://media.npr.org/assets/img/2020/12/17/ap_20339793092004_wide-b51116f47b69a5579175b6b1b27be2b90e1002f9.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://a.scpr.org/i/0f751ee17f142bf14f004c5879eb1649/230387-full.jpg"
+        width: 1024
+        height: 631
         isCached: true
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
     excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."

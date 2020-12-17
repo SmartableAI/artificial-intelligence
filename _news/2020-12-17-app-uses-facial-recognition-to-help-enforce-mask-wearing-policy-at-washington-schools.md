@@ -3,18 +3,18 @@ category: news
 title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools"
 excerpt: "The app provides the schools “with the data that confirms face coverings are being worn and, most importantly, worn properly.”"
 publishedDateTime: 2020-12-16T21:10:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/national/article247898780.html"
-webUrl: "https://www.sacbee.com/news/nation-world/national/article247898780.html"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247898780.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247898780.html"
+originalUrl: "https://www.star-telegram.com/news/nation-world/national/article247898780.html"
+webUrl: "https://www.star-telegram.com/news/nation-world/national/article247898780.html"
+ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article247898780.html"
+cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article247898780.html"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Fort Worth Star-Telegram
+  domain: star-telegram.com
 
 topics:
   - Computer Vision
@@ -55,6 +55,6 @@ related:
       domain: openpr.com
     quality: 18
 
-secured: "RT5hZYI9b83nLxYS4zDziamJrrHsTGHJuVehM0ZNCl4WazCxMbMsigcCgJZGqhUI1KVA1bMZ0HLR5jaeMw5i+0+S8EGbc/6DTk9bcoYz9O12T7QG6J0o8u2QC1XovY3+WD7k0me5rzURHXnFPscFlVlY2KQHKG1hgf3JDkBdjx9WrHDKsp7+FBtMiOkfx8+B22q1TU38LYh/MrMJNbm1tOHEQXbR2wi8rNoP4vv3hbXzhqrwVbeGO0QK0i/rsuF+6tUPF73Fp/ZlpY9hhfl8moX2yqlDm4k04ItTTYKCh26Jk7M0klcamrsCgaPC9RXzHnImc2x0lSN5yNTkC3rK3HjTWKZkcflXHdIADl9D2gBY3o25KBjyGrt4EROmNkTai+WJmP4S5h8IYzQlrih0Usuhj0MXv1VmVE+Jark9QghjW9jdliesvFn4zLEUiLdN3lJjeDYqS9Ve7nDNlv2IAqObkU0cJSGI4dlepPPd5Q27FtkNoKcvXDVDoRGnB0hm55DrBwUviVW5BjHUCW3+xw==;kzmJgVtxCtBU8twaNHH/aA=="
+secured: "g3A8yoRfWhOzd1pBZ0kxt/HVk/nE4xc0jgW3XWThFUd9VEywXkxAzwKwXSu4x18rkYMOgw9QOIAP+gNdXr5XjZf3W5rtWoupfNDI83BP4XsypbVPwsg5v13VU8yB3bK4Lb10Utl1U0e7wBAaXmPGYgDzrrTavbZUcHEwxhM/xN8/3uvej/C0vsNZA2iDzIyIaho6NLaFDupvirepemxYp40EJU8x7WLj3R7qNTEwM2rnz7SgA4CE9W/039XQlkg0D6wL27cSXjCYPCMedqjwif8B9tviCEUS84wiiM90YSt8pHPJMgppTGmCj5K0hLMqsSM5/sksGuTJQIvm2KkFu1xo37KScWwCuSKAlDoVWxk=;ImLMfFcZsfiSc/ZxznuMpQ=="
 ---
 

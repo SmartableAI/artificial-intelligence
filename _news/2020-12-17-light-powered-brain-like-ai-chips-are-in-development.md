@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-
 webUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

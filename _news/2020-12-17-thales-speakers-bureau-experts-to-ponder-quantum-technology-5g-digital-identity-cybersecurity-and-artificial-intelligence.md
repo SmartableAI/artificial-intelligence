@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-17T07:44:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-audio-equipment-driverless-cars-8ad58de78e57408c840ec0c4dd18c9e5"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-audio-equipment-driverless-cars-8ad58de78e57408c840ec0c4dd18c9e5"
 type: article
-quality: 10
-heat: 10
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -2,9 +2,9 @@
 category: news
 title: "IBM buys fintech firm Expertus to expand digital payment solutions"
 excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
-publishedDateTime: 2020-12-17T04:26:00Z
-originalUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214848-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214848-cid-1.html"
+publishedDateTime: 2020-12-17T04:00:00Z
+originalUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214846-cid-1.html"
+webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214846-cid-1.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/m5S1U8up.jpg"
+  - url: "https://www.siliconindia.com/news/newsimages/5uFf8ylk.jpg"
     width: 570
     height: 367
     isCached: true
@@ -140,6 +140,6 @@ related:
         height: 324
         isCached: true
 
-secured: "jf/wXdSKlT1o0nQywBB1iByrnp7QLTYJiSL3C1BxjzvWSBZgfxxJ4Nh+nl1w3uD0vjMDw2+jo/JOdABEWv4y+L+JS9aScPOus1z2dzuRUPhjl+uWOZbH7Tw7krnFXv6dhaLB7bVkA8fEqPvbzcLC3IhKA8aa6+pX3fJ9m8yHx+ewShcuisKmevX07uQxtf9tpan3FEGJpcxFH2+8JXF4rtrF5HZ3ASrgiGExXUs2qraN+rnSe+2adk9boPju2cwezGPAmiDnbrVUBO+ACJpNEyxyZWSMSB1NFKb0mppsfZYzlQF/WBxZawvIGa/6QEUY9YvBvJ8pWWTpQyXX1Z9pWkjxFqbZgd4krPgbptL9q1AQS0+nW+7gwazg7W977nPrhKkDVLOvd9bQ5bb6he0eYdBnOono5vYaJTTA3+EAp1vE278o/aa0M0e4KGfBWhtDHNGW8Ior/xhYJgJyrP15AdNEnftsalLL1YLCUbQvLzYD7dygPVlUfm7CkEuy410DYRejm+QTf93Hk1JNNXLW6Q==;UiWhPyKpsyuWK/gpPqxMsg=="
+secured: "zcSK1PYgI/hpug0W7ctsosWbrW+DLeqbVYDXeEKLxCpyNB2FrkXGKtkucvddswEHd16QAzrPyXgcvmtdNO1p2wd1MXog+RptLsWVLU06gK9wKhASTxojSv84uwTHl278WlZlBOIXXJJ+a45Are9KpSOE9/LaaIDsG7ZQP5O53fRtXJo5/1kRHA3yP7Kmxztjn9lJaqF0rYgqQyqGLvZspLuvZlJzcTun7I2csUq+172+UPj0jfzFL+Aornj1PWiTEJCa9534cgKu10DSJn6adl+0YfkP7MMSgmkQ1LgYzUFX6WwDlQpWaDdHB4dsDM5qK7tB+moQWDZxMM6RmzvaWJfkShbIcy4QEh7VcSOJfVc=;1oA9WZ9Hbtf7MzjN/lt0sQ=="
 ---
 

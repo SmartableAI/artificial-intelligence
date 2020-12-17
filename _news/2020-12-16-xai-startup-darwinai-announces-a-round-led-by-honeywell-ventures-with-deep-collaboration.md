@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/xai-startup-darwinai-ann
 webUrl: "https://www.marketwatch.com/press-release/xai-startup-darwinai-announces-a-round-led-by-honeywell-ventures-with-deep-collaboration-2020-12-15"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Honeywell Invests in AI Startup, Eyes Predictive Maintenance Application"
+    excerpt: "Honeywell’s aerospace division is working with DarwinAI to use the startup’s technology in predictive maintenance, anomaly detection and computer... Honeywell Invests in AI Startup ..."
+    publishedDateTime: 2020-12-16T00:00:00Z
+    webUrl: "https://aviationweek.com/aerospace/emerging-technologies/honeywell-invests-ai-startup-eyes-predictive-maintenance"
+    type: article
+    provider:
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 36
+    images:
+      - url: "https://aviationweek.com/sites/default/files/2020-12/AW_201207_CVR.jpg?itok=80ytHIfM"
+        width: 300
+        height: 420
+        isCached: true
   - title: "XAI startup DarwinAI announces a round led by Honeywell Ventures with deep collaboration"
     excerpt: "DarwinAI, the explainable AI company located in Waterloo, Canada, today announced an investment round led by Honeywell Ventures with participation from ACVC Partners, REDDS Capital, existing investors and numerous angels."
     publishedDateTime: 2020-12-15T14:01:00Z

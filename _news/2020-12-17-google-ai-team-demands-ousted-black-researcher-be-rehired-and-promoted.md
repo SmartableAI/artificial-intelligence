@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
-excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated. Gebru, who studies the ethics of AI and was one of the only Black ..."
-publishedDateTime: 2020-12-17T08:16:00Z
-originalUrl: "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
-webUrl: "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+excerpt: "The tech giant's researchers say the dismissal of renowned researcher Timnit Gebru has \"had a demoralizing effect\" on one of the most prestigious units in the company."
+publishedDateTime: 2020-12-17T10:20:00Z
+originalUrl: "https://scpr.org/news/2020/12/17/95759/google-ai-team-demands-ousted-black-researcher-be/"
+webUrl: "https://scpr.org/news/2020/12/17/95759/google-ai-team-demands-ousted-black-researcher-be/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: KPCC
+  domain: scpr.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2020/12/17/ap_20339793092004_wide-b51116f47b69a5579175b6b1b27be2b90e1002f9.jpg?s=1400"
-    width: 1400
-    height: 787
+  - url: "https://a.scpr.org/i/0f751ee17f142bf14f004c5879eb1649/230387-full.jpg"
+    width: 1024
+    height: 631
     isCached: true
 
 related:
@@ -100,6 +100,6 @@ related:
         height: 240
         isCached: true
 
-secured: "QED/vNMnl/3id99Dws1211LhzrUBZ3PG+N2BNK4294499fML7OaQsFKjiqejrApqbQp2ZAtjo3AQGoLGTo2VrO3Uiq4y4g662YNXuJf9h+lBmT8ZOIaL1s+BTSOTGFRlZff7udAuFapykLSkGGkLoJ9N2iH5lFDsxYsk0kLaC0FSOzUWFnFAb9ede9OUY5S4AwBDebR/OMR/8e12UJogxhjBdduTI1D2MQ+YqydrWO/kyrlrr7lWGjY+uIXPRKKW5lTj8uWm3Kx9EpvGUZJ0M7KsjnRPhgNESEFXAg2lmiXeOmX1GpeDiGZ3e+rjBWJnKuYJQ21ormgkTh9sHGl0iKYZ345D3UQcKmRdRBZeL0E=;ygEb1faaPFQeA/GQZhUEBw=="
+secured: "gO7o8Kck0MOJxWKKre9mStFtbARnJdBJoR8iV7CzZmkfS08Xfi0CrBrALJG+0fPQrfqQnhcKC1PjIpJ7FrNQ+pKNjeviqo/JU6vRG5Bu4iUUFQAxjtNOsuLsyPukliz5hrFCiUZlAmGam58ZIIMQCf7nFzzoJXC/QRiUuZY2Fy0q2RDZX3lOff6n0A9QamIlxtA1TOrqUrKGTes4oafBA8uGlDv25/6pfMr+1oC9aqsM0qKQWyM4krNTXYbF0KGnfORelIgZBoIABcpwAuYhv692xTNDrw54eRT4XvGTGc0U5sA0lLHeueRcWC8nm4wMd1+9AGuJ+7uRxQPU5BRX1h5NKD23DcaSPZhGrvG9WvQ=;OpuMPVPt/5/3IZUiJH/2dw=="
 ---
 

@@ -99,15 +99,15 @@ related:
     quality: 24
   - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
     excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
-    publishedDateTime: 2020-12-17T04:26:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214848-cid-1.html"
+    publishedDateTime: 2020-12-17T04:00:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214846-cid-1.html"
     type: article
     provider:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 24
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/m5S1U8up.jpg"
+      - url: "https://www.siliconindia.com/news/newsimages/5uFf8ylk.jpg"
         width: 570
         height: 367
         isCached: true

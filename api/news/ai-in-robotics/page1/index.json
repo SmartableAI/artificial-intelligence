@@ -2,40 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-17-ces-honors-john-deere-for-x-series-combines-in-robotics-category.md",
-      "title": "CES honors John Deere for X Series combines in Robotics category",
-      "excerpt": "The artificial intelligence, computer vision ... annual competition honoring outstanding design and engineering in consumer technology products. The Robotics category highlights programmable or otherwise intelligent machines capable of performing specific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ces-honors-john-deere-for-x-series-combines-in-robotics-category-2020-12-16",
-      "originalUrl": "https://www.nasdaq.com/press-release/ces-honors-john-deere-for-x-series-combines-in-robotics-category-2020-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-nissan-builds-baffling-belly-surfing-gtr-x-2050-concept.md",
       "title": "Nissan builds baffling, belly-surfing GTR-X 2050 concept",
       "excerpt": "Nissan's design team has built a full-scale model of Korean designer Jaebum \"JB\" Choi's concept of an autonomous supercar for the year 2050. Conceived as a mind-controlled, rolling exoskeleton, the GTR-X is one of the year's most unusual concepts.",
@@ -174,6 +140,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-ces-honors-john-deere-for-x-series-combines-in-robotics-category.md",
+      "title": "CES honors John Deere for X Series combines in Robotics category",
+      "excerpt": "X Series combines equipped with ActiveVision cameras, can help farmers see inside the combine's grain tank and observe tailings so they can monitor",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ces-honors-john-deere-for-x-series-combines-in-robotics-category-301194041.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ces-honors-john-deere-for-x-series-combines-in-robotics-category-301194041.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1385842/John_Deere_X9_combine_3.mp4?p=medium",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

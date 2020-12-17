@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:
