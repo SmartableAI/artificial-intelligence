@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "See Walmart's self-driving delivery trucks in action"
-    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T17:43:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "In Self-Driving, Amazon Invests While Walmart Partners"
     excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
     publishedDateTime: 2020-12-16T21:18:00Z
@@ -86,6 +70,31 @@ related:
       - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/gatik-self-driving-vehicle-use-for-lead-image.jpg?ve=1&tl=1"
         width: 1280
         height: 720
+        isCached: true
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-16T19:15:00Z
+    webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+    ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+  - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
+    excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
+    publishedDateTime: 2020-12-17T00:29:00Z
+    webUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/14/414db6b5-4f64-5b41-80b9-516f5eedd63e/5fda6c37b8120.preview.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "KxIBdU6I4WCfFm1/mcu6TKOKaIuE3i4pY7dk5ywThcblXZCsjhMxza4QCkn65MTGbsgiKlpsRacLUYw/EY4Nafi84QTG6Fl9+2Iky7H60nd+j5sL8+EVe+GbQHRabpQY5ymDJzIilhKtcXbhy+QKEb9sTqUx39m70s5fgerAR09Ma45Fiym+AB27UWwCyrgPwyyMkkvVkp/hLjHWaxp4xf/Fd8tbCWAWOUFDI9lqpAueX7WraFuWF765eBKKbM4j9HvjOzTPW2NftpJrDlstx83AwulgfyEKZPaBYqRRr6/jyvHoNMgfxF214nPETrZ+mwFVMa5M0tqokAQ6K/0kjBNbH1ii/8QQNrUUidWRdKNZUwew7DtOQYdjZ0ph1xxqnoFkcvZA8G4y8inQdcDq+DtUcUW7wiTxqODypstNnn/WV0eehO8zXSp7QecvSiNwHRa/6qSWeqjNH3NFODCO9evTpDgcY0uPCDpc1yVldb2QOHRKrP/B+Y5c68dhKbpwE1wZgJ2M9T1d3UIrdgwdgw==;y40391upGBKwwi+Glrbo3g=="

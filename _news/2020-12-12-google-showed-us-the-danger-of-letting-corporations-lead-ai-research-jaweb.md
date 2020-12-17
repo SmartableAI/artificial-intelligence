@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google AI Researchers Lay Out Demands, Escalating Internal Fight"
+    excerpt: "A group of Google artificial intelligence researchers sent a sweeping list of demands to management calling for new policies and leadership changes, escalating a conflict at one of the company’s prized units."
+    publishedDateTime: 2020-12-16T23:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.im7Te14rY4/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
 
 secured: "cMaLtKOcxFAO+vMvHDQ4deeh0CKfINnFRANUehRFPftywLoCzBVzEdT056hO4Ux3dyr50atXLvBuzD9H0PRlNqgEVt48+r4tWg1bC5XwtRsxEvTqWRvRF3N/KzMRUIpUTI9ORxsMDHd+SEHuWjhImGMXUWFnQvwuv95J43spy4rME03Eurd1P4M+tKCJ+vBVgUGLdrbkfMZRUxbi+192H7Syog1ofrtsyv1YCwSqneyTy+CX0kLtiK4XRd8z2dYHUmPtGXxJSK9qC3BwLBYWXgB1MId607MjVHuNowqbMVxwG9QG7aon5fEr1T9990w/D125QYPIEpUQ6C8m+y9q6X0a4OGGrcxskxvkBvpj6qr7x2A2g3f/mABcLDMx1GhRmUfL3zq51ZvCnWn2hykbkWIsL8tGnQ+5TtfXamgVePSQq8G52sDNBt7t27SiF8hjwhrXshuam/+saKASoQle1JOa3LcukTbANyS+D39ih/9PW04XAXvH/IJyhP9mtB+yyDGOjo+hMNGAYgNXQzJ7wQ==;0eBCaECJeX87mZ6OG7KZUQ=="
 ---

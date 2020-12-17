@@ -43,6 +43,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Documents Detail New Orleans PD's Facial Recognition Use"
+    excerpt: "The city's police department has not made its use of the AI technology public before, and a spokesperson once said it doesn't"
+    publishedDateTime: 2020-12-17T00:00:00Z
+    webUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
   - title: "New Orleans Police Have Used Facial Recognition for Years"
     excerpt: "New records reveal that the New Orleans Police Department has been partnering with state police to use facial recognition software since, at least, 2018. The city did not admit use of the technology until last month. (TNS) — Although the practice was ..."
     publishedDateTime: 2020-12-16T22:26:00Z

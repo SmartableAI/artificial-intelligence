@@ -2,33 +2,23 @@
 category: news
 title: "See Walmart's self-driving delivery trucks in action"
 excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-publishedDateTime: 2020-12-16T17:43:00Z
-originalUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+publishedDateTime: 2020-12-16T19:15:00Z
+originalUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
 type: article
-quality: 74
-heat: 114
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
 
 related:
   - title: "In Self-Driving, Amazon Invests While Walmart Partners"
@@ -91,7 +81,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
+    excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
+    publishedDateTime: 2020-12-17T00:29:00Z
+    webUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/14/414db6b5-4f64-5b41-80b9-516f5eedd63e/5fda6c37b8120.preview.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
 
-secured: "esMkOV1vSz9cApRPS94c3MT3f6QWYBJE3FAUdzHB0qb1UUEk8Dc13xtzAJ4L8HrTtNL/nRn2qYDmeDjSOw4moGQf9dzHyl+6GCFff2C5gjWpIKxPSam9K403pH/35jxkcSFySY77+4LxbKA9x/yt2lk7Jo8Q7W+y8VGyGCqetaIq9lbK/ooLo1T+Lko/pQ5FaPbBB8w5BiScXvaiGPvzyFnsN4C8L4NfD4Zp7rt4MnT1L648dQBmX2eKazevPjtO7pw7PatSaUbV45KdQY2fmACWnTd92645hX4PrFmFMpFhEnFn2YSIvruEHJ27o0V4Px1DJdllZouTUhW5OZV50NtQGT4QT5F/BCXwIVrtYyE=;zQAOr5iO6vzGxrBKe9wL9Q=="
+secured: "W4lm7HhhIN77pKm5/m0LLDsczB1B0YqZI2TzEOlfDyXSm0Bpp259lz/mIRv4/DQ45ACy1WTJUy4PDPhY5TZfKyEVutDUj9VocQqc8qvXjMWZvPv3LRloaCBSf21QYC/pPEWRN+//4XHrjeEU+/1FwtoACuyhNzOaglsUtcaII8/SZmAidmfwpMgEACMIRGUGti+RgF2zT9dohIq6l2hn0oX/EWYKqnmHKJt9y0BZ8yJ2xy7/CgDyIlb2Ems7sP1fHvgcy3azkrAWhyxQ42OFBvcQpdhQYUqbnKq+qOPN1CqZTbOU7nSKz2TFdUDKPsyk5AzWHs54xH2bXe7QpuYtVPHD7RNj3g/YtPSBhyWe+44s+4QiNy3p6kUoKzSFuePh+Uz7VHd1cJe4pfDOz1YX0gXgQfcJcwCOStmSQ38sQ8hwRSZXGGBFMC124FIxxy2qF5B4QysmIHeO0gCzxYwR2pNGPba+ZZMK5pYXy+5w2XaiqG1hn5Z0CV4dMQZk7V7WCtYGNLs1vrt/YLFH9lvIJw==;bFVoJ2L445vCKrJ0lY7gEA=="
 ---
 

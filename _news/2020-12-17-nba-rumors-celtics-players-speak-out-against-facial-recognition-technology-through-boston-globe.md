@@ -9,7 +9,7 @@ ampWebUrl: "https://hoopshype.com/rumor/celtics-players-speak-out-against-facial
 cdnAmpWebUrl: "https://hoopshype-com.cdn.ampproject.org/c/s/hoopshype.com/rumor/celtics-players-speak-out-against-facial-recognition-technology-through-boston-globe/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Celtics players call for Gov. Baker to end facial recognition surveillance"
+    excerpt: "\"Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police.\""
+    publishedDateTime: 2020-12-16T23:08:00Z
+    webUrl: "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance"
+    ampWebUrl: "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 57
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/08/Celtics_76ers_Basketball_90482-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "Z4u4MP//1L1VcK34hpibpH1qXeCZpgXNaKM5XYrKUJNt4xmNs2PGNvYPjxhBD6/z+XykHp97o7sosWdSCR2U6Dtm5knWZarb/hP6h2eIa1Ma3pxoLaX7nwqd8O7Z1zLU+UAYQnDL2SlcmHuxetABXbtEINku6zfuR+epvejKSchUHDmZarULPa4z3e8IEEXjSpp7b0BQtWsKpHV5XWjVglpYNRP1kWG8O/pRTzPty5PJNBG5yh/tdrGjb4L7LhhXjKkPCaJIkVXd62JbGm0yN4bRJ1kZyOvu8V4NB8py5JJtUWmUJKKuA2E0zkVf0wwyc/YTjjDM6gWs8zWVQlp7+JsSV4aP40quLbsGafZwG32JOYPlAv0V51ynUyN5346XSF9F9lFyNBCbhgarIY+mDz0nZC+9Md1BXBOr6oRfUD3KRIghTuvvtZUlKv7uWNY2fdsoLM+FHix6Njcv0SCTLmF7mGWpjijcFFhdMnq3EgSuzshLKN5lPtw692ILoodfPkH/0eJITjdXoF9kLtk58A==;X49sDrXfwoIkwH8+ag7V6w=="
 ---

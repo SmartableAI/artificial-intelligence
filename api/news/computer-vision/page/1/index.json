@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-16-air-travel-could-be-very-different-post-covid-with-some-pushing-for-facial-recognition-to-replace-boarding-passes.md",
+      "title": "Air travel could be very different post-COVID with some pushing for facial recognition to replace boarding passes",
+      "excerpt": "Boarding passes and tickets could be replaced by facial recognition data, which would be used by passengers from check-in to embarking on their flight as airports transform themselves for a post-COVID world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2020-12-16/future-of-travel-after-covid-facial-recognition-technology/12988812",
+      "originalUrl": "https://www.abc.net.au/news/2020-12-16/future-of-travel-after-covid-facial-recognition-technology/12988812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/82241e0c7a75346849e534f98b8921e7?impolicy=wcms_crop_resize&cropH=849&cropW=1277&xPos=3&yPos=3&width=862&height=575",
+          "width": 862,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/12988812",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12988812",
+      "publishedDateTime": "2020-12-15T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech.md",
       "title": "Jaylen Brown tweets his support of bill banning facial recognition tech",
       "excerpt": "Boston’s Jaylen Brown came out in support of a police reform bill that would ban facial recognition technology in Massachusetts.",
@@ -307,7 +350,7 @@
       "originalUrl": "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1389,49 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom.md",
-      "title": "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com",
-      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
-      "originalUrl": "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-researc
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI Researchers Lay Out Demands, Escalating Internal Fight"
+    excerpt: "A group of Google artificial intelligence researchers sent a sweeping list of demands to management calling for new policies and leadership changes, escalating a conflict at one of the company’s prized units."
+    publishedDateTime: 2020-12-16T23:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.im7Te14rY4/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Google showed us the danger of letting corporations lead AI research – Jaweb"
     excerpt: "Artificial intelligence, more than most other fields of research, is dominated by corporations. Private research labs at Google, Microsoft, and Facebook churn out more top-flight research than most universities."
     publishedDateTime: 2020-12-12T09:22:00Z

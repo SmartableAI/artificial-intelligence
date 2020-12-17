@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.abc.net.au/article/12988812"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12988812"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Australian Broadcasting Corporation
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools"
+    excerpt: "The app provides the schools “with the data that confirms face coverings are being worn and, most importantly, worn properly.”"
+    publishedDateTime: 2020-12-16T21:10:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article247898780.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247898780.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247898780.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/02eeb3db-ac63-4e9f-829e-9ee27499fbc0/ec3e6f2c-3706-454a-addc-83e161507858/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Image Recognition Market Covid-19 Analysis Strongly Driven by Rising Global Demand"
     excerpt: "The global image recognition market is growing by leaps and bounds Visual content is continually replacing the conventional technology of textual solutions With rapid technological advances technologies such as image recognition facial recognition and 3D object recognition provide superior solutions"
     publishedDateTime: 2020-12-14T21:36:00Z

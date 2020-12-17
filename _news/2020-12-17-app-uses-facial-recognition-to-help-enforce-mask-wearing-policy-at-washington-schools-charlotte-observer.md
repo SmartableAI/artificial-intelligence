@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article247898780.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools"
-    excerpt: "Once the user is correctly wearing a mask, it will tell them they are “good to go.” The app uses RealNetworks’ facial recognition software SAFR, according to the release. MaskCheck-enabled devices enter anonymous data on a user’s mask-use into a ..."
-    publishedDateTime: 2020-12-16T22:35:00Z
-    webUrl: "https://www.kansascity.com/news/nation-world/national/article247898780.html"
-    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article247898780.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article247898780.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 52
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/02eeb3db-ac63-4e9f-829e-9ee27499fbc0/ec3e6f2c-3706-454a-addc-83e161507858/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "gywwuaMbgmhvpcr9Zf1sJeAsN/P0c25ZMsdj9m2QFHMCl20sVqg7C9bC/Gf+gLVdO4agYv4ZwEPojlCrmGQN19jGkjsZm+h9k2LVu/SeFslyGq0BuZ4wydV+uq9czYGlyec4x/yythzW6BX9DsQfdgDjbPTZSldCph+cEyFZMGPIYZvhe/pUM1VYQE0+sHtFu2osPRD/gFlws26DzAiK0XkQoCygbykikcdNMNiZNcXuE0GovL7vmBY9J/G3gahcpoABiuYS+zMpHPBFfDVi6EIIso2JXOm33WwIGPRw9SYkVrMCxkhGXoRQS7a3UKtKzSbHQ5HvxTE3CdEXGXY1/KeQPsp1rI5hzgiDp6g5Ei0=;+0zkhabFhY34iXUG4wxJKw=="
+secured: "/J/dFHzcawp2NAZcHeApydtYXmhykwR61qgk0ZV7+gpfcqzPI1oSgs3gdOAasYCZTGv+Wb9aK3Hec3QRvwSIza7Tu5cJ3x6QMUexf8bkkZfC7/qDrVxyhb3pb8etPtZwCKsIva41+bvF7K4fPVFKXhKgXb5LRdPLFNv6oqKa6eeWfW/Li1DvVlCNAEb/WLl9ehV4d7bYoltOjJ4ed9KweRTTcGPfYOs0aV9HoCHuaHR78U0HbL53USng5xtr4mrLmvNSH8XYZuFM4BdchwN6PlCbj8JYsCgdjQWFJkr0s9HMsyx8iDoC1pSAO58BnQrKuwLJSxuaeOUD4BdtO7rvB7ZviUtuAJ23nqcMI/qGsB8xYDHYXyZ7VVLgnzGilpL1I+f7GkUS0k6LpiQncuqaP905ge/tCKD8PBAp6z2nXmyVCbzd+GYLgtVTohmgy9NqCMgQwCqub51xLzBJoA1FVxIGffN1p9ezOhY4qpFfhvKgkkRKvCPNk8dLZ4UnCH/+GrRKOgwGxpUmxoMXaFf1KQ==;Ux5M9UKhCbSrwCffY7XFNQ=="
 ---
 

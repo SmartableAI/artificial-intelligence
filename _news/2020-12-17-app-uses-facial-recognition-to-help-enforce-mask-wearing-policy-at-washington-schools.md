@@ -1,20 +1,20 @@
 ---
 category: news
 title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools"
-excerpt: "Once the user is correctly wearing a mask, it will tell them they are “good to go.” The app uses RealNetworks’ facial recognition software SAFR, according to the release. MaskCheck-enabled devices enter anonymous data on a user’s mask-use into a ..."
-publishedDateTime: 2020-12-16T22:35:00Z
-originalUrl: "https://www.kansascity.com/news/nation-world/national/article247898780.html"
-webUrl: "https://www.kansascity.com/news/nation-world/national/article247898780.html"
-ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article247898780.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article247898780.html"
+excerpt: "The app provides the schools “with the data that confirms face coverings are being worn and, most importantly, worn properly.”"
+publishedDateTime: 2020-12-16T21:10:00Z
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article247898780.html"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article247898780.html"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247898780.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247898780.html"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Computer Vision
@@ -27,23 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools | Charlotte Observer"
-    excerpt: "The app provides the schools “with the data that confirms face coverings are being worn and, most importantly, worn properly.”"
-    publishedDateTime: 2020-12-16T22:10:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article247898780.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article247898780.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article247898780.html"
+  - title: "Air travel could be very different post-COVID with some pushing for facial recognition to replace boarding passes"
+    excerpt: "Boarding passes and tickets could be replaced by facial recognition data, which would be used by passengers from check-in to embarking on their flight as airports transform themselves for a post-COVID world."
+    publishedDateTime: 2020-12-16T02:31:00Z
+    webUrl: "https://www.abc.net.au/news/2020-12-16/future-of-travel-after-covid-facial-recognition-technology/12988812"
+    ampWebUrl: "https://amp.abc.net.au/article/12988812"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12988812"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 41
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 53
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/02eeb3db-ac63-4e9f-829e-9ee27499fbc0/ec3e6f2c-3706-454a-addc-83e161507858/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://live-production.wcms.abc-cdn.net.au/82241e0c7a75346849e534f98b8921e7?impolicy=wcms_crop_resize&cropH=849&cropW=1277&xPos=3&yPos=3&width=862&height=575"
+        width: 862
+        height: 575
         isCached: true
+  - title: "Image Recognition Market Covid-19 Analysis Strongly Driven by Rising Global Demand"
+    excerpt: "The global image recognition market is growing by leaps and bounds Visual content is continually replacing the conventional technology of textual solutions With rapid technological advances technologies such as image recognition facial recognition and 3D object recognition provide superior solutions"
+    publishedDateTime: 2020-12-14T21:36:00Z
+    webUrl: "https://www.openpr.com/news/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
+    ampWebUrl: "https://www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2209615/image-recognition-market-covid-19-analysis-strongly-driven"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
-secured: "1H9oPJIkDh19Ol222myVpOpbLK/tV6EVXJ+ioqEcxz+1wxjN3HEA1DhCoH8yIvFkzTbiTc6Rxy4gQ0UYt08K6MxkDrKzsqka7uxeW56RIPiIrJSiNuE10HD8NhBG0hDtukNu7qtKfN0A0+FsbmYg8H61u0PwF78Syukn/SBNFkFe74XWQOx1uJsh9rz2V2T4eJ60OJ4ELm0nssTTY5q1rJ/pftzI0O7jxfFY9j7OHYt+Zh4ugpd4kmXEWj/7KnJFo7R2GjOBH3PHWMGRhQ5u86B4+AwYS2bPPw2Gai58xnTErDBtpahK7757xh1kMoAeNyUhc+qp7BLDkbn+c2cxVruz2pNNbOy0NhV1p4FSDoI=;hssx8x7kd9Yoj7u2Slpl2Q=="
+secured: "I+T+ICIoLL52FTBpm/T4S2fDbjPnBtqsa2TXxa2amCfNh5uf0EfnbNqYgPTp/4pLGcIfiDrCLina1tNc2yMYZxuvNItX8GgjRCfeeKkBKg/K1bpcOkRCqyUFXWPLTP54G/gtxYUfA9fQgvumi5sihKHM3yhK7RFhGA0fx4tRikq4TE5QVFb1KJcD03iTG5mUEN+3sb/QBksGoO+9yF6Que2o9QoKfHKFp6tMlQN59G0oYVDmAHDb0mB8aHMZWxr8uEAt/gEe2bb9ZORZFDMRrB1dg/EZdZ4lIBE1EVfTFvKUHLPkANH/6rhZuu2lj+YUYt9xFObNf0dF2QkGDorCZX53t9t/TirQBOrOwNdlFYg=;QL9s83mAlWGIT1yXMq3A8A=="
 ---
 

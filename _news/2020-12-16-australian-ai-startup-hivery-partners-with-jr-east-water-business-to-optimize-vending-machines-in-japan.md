@@ -3,8 +3,8 @@ category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
 excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
 publishedDateTime: 2020-12-16T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
 type: article
 quality: 20
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 866
         isCached: true
 
-secured: "/E9iZT57tc4k+uf753pbFEvVe36IPPIQGZvvUHmc4kwEh+VFYSvZq+jPCS4ffvfHlHphk0E9t6dnd04He6aNnE59VV5Aa3QBGJtfFy9wJw5msE2EKypBI4Ex4Dr3C4EyKDQmpPqyDPbol7CuSBjtsHhvaKTx5ZY0ZNhwau1FoBlIcXqiN3B3iVrJwALKTEl0ZY1Kbdm9taGtbipeIMIivZo1xJRgDq3tr5w0Aw3SYPEZTR2lLX7fWCx1uMnlXS+eCAHQ9OV6pBRG4CgRbLGsJY4zEVz63+e/Ki5CEmPRKgYjXWr95whLmLoT6RHntSym/KtyIGUGfCPBwhYGHGe3lmUszuxEWNUJ0B1anyOA2Nc=;yImcDTEdhvL3S3qX+ZmLOQ=="
+secured: "JzsLta0eXJBa5pbM0Bb15mShlroQ2lAis2Y/qoJIemzYUvFu2c/jlgexHkqbxJLn/fHBbd5ZSYhIprlMeequkYxO4tqyAGGw9yzEgkvOIDP8UOEvhSC5o98zdT17MUDDU0d3B93cppOXFhWDhjdHlksFL/JU2j1BfK60CWJRjQXQVbviphrVSp89QcnWaJMgBDA2d2RbHWWdRa+bfTIctQyvzCZUz5kUH9cRAOSzvyf9xEc79qCcvoP9n4STkzRcN1Nf4rfdEIjRTrluYB4M97R/F+pu8xlgCaG6tAWJYxbmqDrO8Z8DAfkSVEZC8Ddqt39NiYOi3irElK+HVvacoIKTYiUYz39JuRbBUlm+8V0=;rlY8u2FmdR64ISKIoIW9Kw=="
 ---
 

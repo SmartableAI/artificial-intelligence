@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "See Walmart's self-driving delivery trucks in action"
-    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T17:43:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "In Self-Driving, Amazon Invests While Walmart Partners"
     excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
     publishedDateTime: 2020-12-16T21:18:00Z
@@ -86,6 +70,31 @@ related:
       - url: "https://images.barrons.com/im-273242/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-16T19:15:00Z
+    webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+    ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+  - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
+    excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
+    publishedDateTime: 2020-12-17T00:29:00Z
+    webUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/14/414db6b5-4f64-5b41-80b9-516f5eedd63e/5fda6c37b8120.preview.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "LHmk61WaJaG7TgqT1h9EjicX35UlFaxpoFxyXPz6zdukomGsOa1YmCh3StWi7MgmMNgFrxKlBaInhYWRJrwHHbP3U8VLJEuidDv0UXn2hAnH+oDyPKk3sogPyQWwCWhCJ/8X3CP3rZ4qSMDrSY7wWUkiCAN6zG2JhGlt2mdX88bVBWUYafTMJxzjoGJcITjLaFFU1NGwDGR5QXqvgSw6cBNHq3dyU6LjkHX0Yp+68QF1ZCJZ5tsIZUqyEJzKYquwKGud6qZfseljgyqZ4sR4jRhjIkR11oxJPRGRlqXdEZ2B9X78Zvfd1AG6T0Wx4mHYFFaNm158ux3QvsDzgjab5nya2fLNxqIS06axxOz0w8tv9LmZwhgHkdexRfrtNsQkpyaVbn8p6j5tCgHZibNzx/LnOA2C7i3O6djFC76YRLisnrShhuD5ohBjW4Wyi2kVsEr+mlzoS05AAHq4F7ZDFhF4dttR/QBuEnKj2YJL/AYaDzQGEZ/vLbGwta3865aQRuQ4kUar62fw4p5Dt+XCcQ==;I4c2fJBjzQq8/1L63PhFAQ=="

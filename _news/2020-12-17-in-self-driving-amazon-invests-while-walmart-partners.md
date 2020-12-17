@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-drivin
 webUrl: "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Forbes
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "See Walmart's self-driving delivery trucks in action"
-    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T17:43:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Walmart, Gatik Expands Self-Driving Truck Test To Louisiana; Arkansas Test Will Now Be Driverless"
     excerpt: "Walmart will be running full autonomous delivery trucks, with no human oversight, in Arkansas and expanding to Louisiana. Here's what they're doing."
     publishedDateTime: 2020-12-16T08:20:00Z
@@ -91,7 +75,32 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-16T19:15:00Z
+    webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
+    ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+  - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
+    excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
+    publishedDateTime: 2020-12-17T00:29:00Z
+    webUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/14/414db6b5-4f64-5b41-80b9-516f5eedd63e/5fda6c37b8120.preview.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
 
-secured: "dgdHmk8PhYHqJBQz5b9ksnH0qFTiDx9EK6RBvqSzM8y4vJK8TLUOogATkVrOChin8ikx+5zxphojCNgI2iXz5cJMEnTj+BXBZnLZoxtdYhu7W49yuXDH+vfZx7NgSmi4s102Bpokg9c83b59SsQ9Rfk9WHdSGcpWEjkYC+KhnFd3jn1j9ef6qvbZIwo+2pRiL0OUliNgzz2LG5zoY0oIl4x1+FeT/PdFRNVRWDCTk0xRsDq1cClTDsh/Ni+3frd6QfNCUYSqhJJ28U9n+ttFC+EhVRHolkfNzlUF2o1Bby08lWqfUI9hocoK2D3zrhW1G+R1fQjJDzl29FoiSGyAelGgBfkL5B9HEyP20G0sbNM=;DysTUXbZ5xQifWMcvPL8Ew=="
+secured: "sqWV3RzQrh/cLFv+hY/ZZRrXMW0HR02yZcBLoxK6+yKxkqfxilKDsX2mknuDK4XZiRR2qprJ2Hn7nIZDoDz4X27LeDx7zoDSQHqbJmvle/QuMiEfJXqmEXi43y+9/4ovjzSqo8l+dkR1GYK6GKJEoL39MWcR5Eco9Fo6z2I/m8/xqPk2D8dKRb4Wz2S0alDHSFyZH5NfzHknXUT1nZgEmjnWCPNYClPEimkU0t7wZNG45eogPLbBi2Wc2HuVK5gMRcfEE+cxX40rDFPfJN00ck8o9SYBM90VsAJa1qSr4nS8OubUU6pa9D+MK0gjJweiW57naLLmRa0+cZ75kXHdjovzVgXTHhcj5luFmKCt5Hy8AgfKTl+y+JoZLwpS27ngzyRlaFQ8rNfozZ+N5qdgZD7cM4B1OTKPAp005EF70zwD657zCnjmDaLOeG+vVq9yFVvlgvYrSUlXjIePcskwVd+1ttjnWxduKojT6aad7AZGbfwXxZ2gMluma7HZNMCf3iZMj6SGQe1LAqSiGkJjfQ==;JmIXko+SJrvoO+oqLPTCiw=="
 ---
 

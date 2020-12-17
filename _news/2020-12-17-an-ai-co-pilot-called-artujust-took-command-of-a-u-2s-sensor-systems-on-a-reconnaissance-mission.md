@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-16T22:12:00Z
 originalUrl: "https://www.forbes.com/sites/erictegler/2020/12/16/an-ai-co-pilot-called-artujust-took-command-of-a-u-2s-sensor-systems-on-a-reconnaissance-mission/"
 webUrl: "https://www.forbes.com/sites/erictegler/2020/12/16/an-ai-co-pilot-called-artujust-took-command-of-a-u-2s-sensor-systems-on-a-reconnaissance-mission/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fda6ffac8eaf4371750c490%2F0x0.jpg"
@@ -27,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Zr0ICZC/2inPKP7Qn6n7lBgeYEHji2j5g/PBJ4TveI/COQDteYZjhJnyches0ySoHMzjE7hZnOZmRreVS04LYm/Lqp9D0om/0SEcVEvg+tjAqxwmi3P7M6CuBluTT3fAdMMEMMbJ9oz9BqDQwnLtezd0oNw+dZ0mqnLwr5E97cngbbP3yPz1GwMZ0S9MXqQcMjhhnPU1lF5iDnJxJ+p+HBK2tm6U5G+IolghbNTPTxhfkMjyyqz2rklJfz6OoMNyELYsFLAnWZQm8gmjK37UNF2gj2SD+r9zYyU92uCSLyVnoL4WiVWn9mLe4n/hp1wbMEenOWgR39miSQgzKyGGx7QtD0r6nTu2poZmnPhrQ6I=;4ytxGBwA5JVxDjBGz4qIbw=="
+secured: "+QilY9YA0v6Ok85rm6eq00FlB5lRK47GgvOGrnsMOnp6gJS2HrHSf5DmAtYdWStKK2xJi6gTDlr9DTt4PLcu/92kHTSSnzneWT4XFw4yiEFqmROFqoSXmy2oe3m+KSx0+P7tOr2+OdfhlcytfHjg1uNxBXqp4ap9RYlzw9CS/Y86TGaDgLwfd2Yt+3QBvz3zmaUn/lJRIEq5sL+p0CXmx1oj0DBFfjunMdZ29soou6mwtcfS2cEPeGvz5W3ZGWrEzA/Wgnfag/ifpEkqbrXcxtWB8DcYaEhVN1rmCYXvuqFBJZ8cp1P5a9cE7s4eK5aYhYDcimU2Eej+AMl4BDSsu2ZeFOnpKQagJFzHYeSarqTfyaIfVWSzche1sdqIIUgttHcQjMlxzW1uCgyMDuJti9lMzyDpGTWFkyLnCMfbeAd6AF+Jkz2LelOw449H3lTXQgEzLu7CKWxHqmGYoC/2O/2NUcwmhVReD+55wJ9Fqqul3CFQ1/ehRtn31DlwSxS9oR9cfLlFcmA9vS/JODRbrA==;xGZieU+N0qvoMOaGjd1pPg=="
 ---
 

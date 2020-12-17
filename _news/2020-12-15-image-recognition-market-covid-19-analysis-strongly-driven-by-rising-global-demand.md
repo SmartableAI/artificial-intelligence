@@ -37,6 +37,22 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "App uses facial recognition to help enforce mask-wearing policy at Washington schools"
+    excerpt: "The app provides the schools “with the data that confirms face coverings are being worn and, most importantly, worn properly.”"
+    publishedDateTime: 2020-12-16T21:10:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article247898780.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article247898780.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article247898780.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/02eeb3db-ac63-4e9f-829e-9ee27499fbc0/ec3e6f2c-3706-454a-addc-83e161507858/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/sLGXUEycgQP+ro9BddMIosDz5tJJyM6eyvFv6DoY5XuxrvC0jFWLwupGSYhSqcO6e7Awolb2j6DZH7SKB9R+qO+Sn236x3MG6wQTWVMSOGBcy1fto1vyHGvyXOduR2rpPCEt6FoLVYgdD5fIOlA9MFGqy8fX+o0e7u40G0njl0YLKW6NdxiDpZOEQ2w6iJ8SnATLDOZmOO8ge3GvmOmiyINPPd4EDoZ9s1pN6qvBUoVpH/F+QMXFiaN766Gv5sJD30Ek9Wed+OlY/QxE/PFhc9faZtT30iJAXIDl2B55Vt6G5ObpisivDsbUw+v4hIF7zCcI0pWOZOvv3WORvCnu//kiiAGlci6dwhsoUFGSbo=;CnDIsOIru7QhGBtbld/zrQ=="
 ---

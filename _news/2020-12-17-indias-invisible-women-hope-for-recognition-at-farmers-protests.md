@@ -2,9 +2,9 @@
 category: news
 title: "India's 'invisible' women hope for recognition at farmers protests"
 excerpt: "Legions of women have trekked to India's capital to join massive protests against agricultural reforms, hoping not only to protect their livelihoods but also win visibility as farmers."
-publishedDateTime: 2020-12-16T16:12:00Z
-originalUrl: "https://www.reuters.com/article/india-women-farmers/indias-invisible-women-hope-for-recognition-at-farmers-protests-idUSL8N2IV4M5"
-webUrl: "https://www.reuters.com/article/india-women-farmers/indias-invisible-women-hope-for-recognition-at-farmers-protests-idUSL8N2IV4M5"
+publishedDateTime: 2020-12-16T21:41:00Z
+originalUrl: "https://www.reuters.com/article/india-women-farmers-trfn-idUSKBN28Q2F7"
+webUrl: "https://www.reuters.com/article/india-women-farmers-trfn-idUSKBN28Q2F7"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28Q2F7"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q2F7"
 type: article
@@ -24,6 +24,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "4IB5YepGZWZv6Fvx+Aj2jbooa0Mp0vi3u7K5JLzJOl5W8kWy1tMBt2gVg2ZEQfyZCiUGBd9PJRkn3C57OEYt/Do4F257IGMixUEIE1rArgBA+NMiivBVCMhbmAohgOJAoyBunEibjpWaY5D6Da3lH8IX3E/Pm3DtG44J1eer08dm+2Aut7uc44PlTHjhIg7LZMEr/QMNzhUIWyC2IQ0vrMt6SXKwacVmeR0j2hDgA5JyUDXmayPK2AEam0VynlI7IyathLibhWxrbwQnBJn8ZBLJkvRlCz+xWwDV5vJZeFxKPl8+AxQ2RbsbteaXhTSIxlMH/DQoX1W3/j9shxrHGt2Ae1sYLiZTX1CGJLCRDz4=;nc/rwWgCAtnQBcpJRzCPGQ=="
+secured: "dp20xYYQOEu8gFvogwrqw2ZLyslGGcyIW6fHOK/FDLDBoVrQQvE438kbIBMQaMfXzeq0vbYfYLGKyVO5zebr6FRqDUlQhZPNTJe7VcWPqhAcMYRTNwxMNqUdeXdKAW8GFI3qbbS5u/i3T1sWA3/QOAk3cL60f53Cilu+oeXSl9i8D2vjnH6uhgexiNbyg7FuTHY1uE24sku12lNBTyYgm1SSQB5ex6jfoJOD/Hdme33P38kAMw5kBj2qaGYLC5xP2DY7MJ4ETo8azVDG7VlpM/jP2HTPMO+JD+CjZighM+B9jGUB2kpXlHVxjeCQiBK1so0tFgk3fLam05DAcqPdu1MzTv3t0wl6h7zh1C/SqQ4=;l642FfDSajiuU7Y1G0gY8A=="
 ---
 
