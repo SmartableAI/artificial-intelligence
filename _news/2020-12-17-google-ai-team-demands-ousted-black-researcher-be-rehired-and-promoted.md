@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Google AI Team Demands Ousted Black Researcher Be Rehired And Promoted"
-excerpt: "The tech giant's researchers say the dismissal of renowned researcher Timnit Gebru has \"had a demoralizing effect\" on one of the most prestigious units in the company."
-publishedDateTime: 2020-12-17T10:20:00Z
-originalUrl: "https://scpr.org/news/2020/12/17/95759/google-ai-team-demands-ousted-black-researcher-be/"
-webUrl: "https://scpr.org/news/2020/12/17/95759/google-ai-team-demands-ousted-black-researcher-be/"
+excerpt: "Members of a prestigious research unit at Google have sent a letter to the company's chief executive demanding that ousted artificial intelligence researcher Timnit Gebru be reinstated."
+publishedDateTime: 2020-12-17T15:31:00Z
+originalUrl: "https://www.kuow.org/stories/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
+webUrl: "https://www.kuow.org/stories/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KPCC
-  domain: scpr.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://a.scpr.org/i/0f751ee17f142bf14f004c5879eb1649/230387-full.jpg"
-    width: 1024
-    height: 631
+  - url: "https://kuow-prod.imgix.net/store/b13a90cc1ee5c6b568e14821e1f591ed.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 838
+    height: 628
     isCached: true
 
 related:
+  - title: "Google AI ethics team demands changes after dismissal of renowned researcher"
+    excerpt: "It comes after executives admitted to losing the trust of employees amid the departure of renowned researcher Timnit Gebru."
+    publishedDateTime: 2020-12-17T16:46:00Z
+    webUrl: "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 101
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105750686-1550688923203gettyimages-1086152010.jpg?v=1550688994"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Google AI Researchers Lay Out Demands, Escalating Internal Fight"
     excerpt: "A group of Google artificial intelligence researchers sent a sweeping list of demands to management calling for new policies and leadership changes, escalating a conflict at one of the company’s prized units."
     publishedDateTime: 2020-12-16T23:52:00Z
@@ -55,21 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence learning research lands in DPS"
-    excerpt: "Denver Public Schools has been selected to be part of five-year, $20 million classroom artificial intelligence research project."
-    publishedDateTime: 2020-12-16T20:09:00Z
-    webUrl: "https://kdvr.com/news/local/artificial-intelligence-learning-research-lands-in-dps/"
-    ampWebUrl: "https://kdvr.com/news/local/artificial-intelligence-learning-research-lands-in-dps/amp/"
-    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/artificial-intelligence-learning-research-lands-in-dps/amp/"
+  - title: "Google's AI Ethics Team Makes Demands of Executives to ‘Rebuild Trust'"
+    excerpt: "and if the legitimacy of the field as a whole is to persevere,\" Google's AI Ethics team's letter reads. The employees' letter continues, by asking for the removal of Kacholia, who the team states notified Gebru of her removal without notifying Gebru's ..."
+    publishedDateTime: 2020-12-17T07:04:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust/2785779/?amp"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 59
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
     images:
-      - url: "https://kdvr.com/wp-content/uploads/sites/11/2020/07/DPSScholarship_ProgramPage3.jpg?w=1280"
-        width: 800
-        height: 475
+      - url: "https://media.nbcnewyork.com/2020/12/105750686-1550688923203gettyimages-1086152010.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tensions in Google’s ethical AI group increase as it sends demands to CEO"
     excerpt: "Tension between Google’s Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team’s leaders — a prominent Black woman in a field that’s largely White and male."
@@ -85,20 +101,17 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Global Artificial Intelligence in Law Market 2020: Market Growth, Trends, Revenue, Share and Demands Research Report"
-    excerpt: "Global Artificial Intelligence in Law Market Report has released a new research Analysis and forecast 2019-2024 comprehensive of one or more factors covering regional opportunities, application landscape, product demand trends, and end-use portfolio of the ..."
-    publishedDateTime: 2020-12-15T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2020-market-growth-trends-revenue-share-and-demands-research-report-2020-12-15"
+  - title: "Researchers aim to use artificial intelligence to save endangered B.C. killer whales"
+    excerpt: "Researchers are aiming to \"teach\" a computer to recognize the sounds of endangered B.C. orcas in order to develop a warning system for preventing ships from fatally striking them."
+    publishedDateTime: 2020-12-14T00:37:00Z
+    webUrl: "https://globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/"
+    ampWebUrl: "https://globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7519953/researchers-aim-to-use-artificial-intelligence-to-save-endangered-b-c-killer-whales/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Global News
+      domain: globalnews.ca
+    quality: 45
   - title: "Google AI Team Demands Ousted Black Researcher Be Rehired..."
     excerpt: "Gebru, who studies the ethics of AI and was one of the only Black research scientists at Google, says she was unexpectedly fired after a dispute over an academic paper and months of speaking out ..."
     publishedDateTime: 2020-12-17T08:35:00Z
@@ -114,6 +127,6 @@ related:
         height: 240
         isCached: true
 
-secured: "EorgCBdSS2dQ3zp1PGDo5BdfsnWIWlhykLt3s+EaDMJxw7FuXPY2eVZA4h34K2OWsIN8lzww7gZd09+icXyvyKiAvxnKHWEvFRDw3d1WhHE9RdxJbwMs//DlHyArMFpaPsMuL6tMUdVZ5GDxUyb7t+xxgVuNyOhoZ4cLmkEhaUpUSXrfmOEw/dvGpEcZlX2QbN4Rp1CPpskNL/9jPqWu7THiEQDHthWvlJH3Le7rDI8bEAqQzPJIS3rHb9tuH/270KDALCUC9sWLoPhAhv7/sWyLI5jYEn1sb91LaRLjLMrmYZaMGWMmUPeaKUNIxNsN7XwC5pHUyKan2eo8AfVRZ5JWjiQqLL6IVMLkTkEn5A1dOsd0TLTlp1p9BQu4tDAmNVSJ2sJbuaHwJCFy8Q3EmRUoGWRnKwX074NJnrLqKjOFLVM9J8r+R4n8O5x1pOyGEtCqbIfCJ4p/au6EaI/Hsk7VB6bYbK1N+Tco7yCTK5QWQl1lVA+DPfz9X+pyyYEz+HyA5RmGq8L9val1bqA+MQ==;S/MaE9e5pfJ55J5jXGcW1g=="
+secured: "5C+LiMs3HcJKXnsc1mUqx5GvdDVH1jVwF7KBj9DqguzhhznZZ7d5y3nfR8AGo08SG+9aGItouAOJe4XdLclgn4kxy+NvYsyskzEX2J7tv/2f6r3Ofv5rRi4Vx1eS2SQ2NuQ2zjXWJncpJgXA6B9lAkaZQt8bkzFCdeX+jWzOQL5SNTg0I4bhOmXCQuZqaDIx9kivXm8h8pQS+20m14u2c5JwHZoDTXqulkYXo7QoWPHlCI6annI4cj4hq4/LeAjTAeG67y4Z5ofTUDq/GYv8pdSZw2Bfpue7Q3P3KcG2WTu71DfMD/QLsV7Vf69UeipnGl1dzJfaz/e6RZPxZWMK+uc1+EEBQ0YrxGvpz+AnjT0=;80d7bnC4rhOu4efYyzuFAw=="
 ---
 

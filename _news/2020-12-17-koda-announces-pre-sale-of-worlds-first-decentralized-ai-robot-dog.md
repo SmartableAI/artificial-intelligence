@@ -1,23 +1,29 @@
 ---
 category: news
 title: "KODA Announces Pre-Sale of World's First Decentralized AI Robot Dog"
-excerpt: "Dec. 17, 2020 /PRNewswire/ -- KODA, the artificial intelligence (AI) robotic dog company dedicated ... First shipments of the dog will start September 1, 2021. KODA is designed to be functional from both pragmatic and emotional perspectives."
-publishedDateTime: 2020-12-17T14:51:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/koda-announces-pre-sale-of-worlds-first-decentralized-ai-robot-dog/article_aed5ba97-5f7d-5ba1-9f13-d7d0dafb95bf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/koda-announces-pre-sale-of-worlds-first-decentralized-ai-robot-dog/article_aed5ba97-5f7d-5ba1-9f13-d7d0dafb95bf.html"
+excerpt: "PRNewswire/ -- KODA, the artificial intelligence (AI) robotic dog company dedicated to helping people live better lives with robotic companions, announced"
+publishedDateTime: 2020-12-17T13:59:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/koda-announces-pre-sale-of-worlds-first-decentralized-ai-robot-dog-301195033.html"
+webUrl: "https://www.prnewswire.com/news-releases/koda-announces-pre-sale-of-worlds-first-decentralized-ai-robot-dog-301195033.html"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "zWZh2LgASVAC0pFpurjIxjJ0Bke6UUmJrAwq41jIarNBM/OBf+CFbnnNbAACrZKpDXNZ1w/9Uq6FDeeSpey90MnYiM04jKuzqFcbgLB6/KaDgIWbgog87+/AvcuojuqDIerZPcJ2FiOFzVrBsEh0WSafg3nzDtlhXXnFqWDmH0rQsyaFSgv+Djv8FPI9boYaFN6q5VGUYlpvAAclyeq2UJnTXNM75W9Cbbu1qX/BUnGvdz8a6Z8gPf7sp22Iqn4sDECItdqO4oQP7fGnrX+7Ij5cYv1oGJBvY4HW0IWvGlLC6oyNSbNi7T2EkqVNwV5oe1qPsegAIPKXPzCYQs6F73aE6QpO9HA7tgtkOtJSRXQ=;JlnZi0PmNlSqhVwc9xbQ8Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1387722/KODA_Logo.jpg?p=facebook"
+    width: 1087
+    height: 569
+    isCached: true
+
+secured: "OKuOLYxQgjT2r8wmuzT3x/E+7/jWAe23YeIbXSqgTMEesAfJ2P98+GQHNNF5LUnpItzUOJM82Jl7PNQa0SDypAZc8dyfBw2cKYhOJ2qq2Honp3URaydIj4EcWfBdKWt6DYV6MQVMxe40N1K3WUUD24NrywIzo7jmyWY3cvGHljSPfeczwuw+RJTl/y9RD6kfObHSxyOwLqzdhj8svTPL9JoTIjUof9fJxHonU/qj5cNOoGTRiyyfsAJwgczyerUX4Bd1Pxyki20vkCspSKhUCHPln+XyyegPknoRVTgQms3WOoZ6IOVOxTWjEuO1mC1Iom+a5NdWfSMkQ0B+LXe35OFK9sWI4LFQ9n0jjTIsv5A=;FxaYq9rbB4t9qI5Gjt1l/g=="
 ---
 

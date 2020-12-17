@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
 type: article
 quality: 78
-heat: 288
+heat: 298
 published: true
 
 provider:
@@ -179,6 +179,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Law Market 2020: Market Growth, Trends, Revenue, Share and Demands Research Report"
+    excerpt: "Global Artificial Intelligence in Law Market Report has released a new research Analysis and forecast 2019-2024 comprehensive of one or more factors covering regional opportunities, application landscape, product demand trends, and end-use portfolio of the ..."
+    publishedDateTime: 2020-12-15T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2020-market-growth-trends-revenue-share-and-demands-research-report-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

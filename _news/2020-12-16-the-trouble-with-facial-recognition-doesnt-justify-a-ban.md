@@ -3,8 +3,8 @@ category: news
 title: "The Trouble With Facial Recognition Doesn’t Justify a Ban"
 excerpt: "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error."
 publishedDateTime: 2020-12-16T04:19:00Z
-originalUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 285
         isCached: true
 
-secured: "6fE0BJtmgwiXRzU5z5RfRdb8lx+i+BNtKVrUjwTp11DemcJLRnQL12PquOpFyLieiNQCuaUQS5W/uIskT/SBDDKwzXIfyr6y5Zas4UUUpT/IqZ2wnuYYu/4+3NlenjpCArf2PErX3nu7SohyaSu/N+OOVps9rGEGlFi69KHBwlEuvVUSuTklITYXc1wFGd49RaIepyFAKG2c1a7ym6oqEyIpcwAXlLHXZS81KMMnvUUIEs+a/9zUcZUk8yiPUz0gSRzQEdkPBIDVnqU9u151w2p8EvZuP0rOT6r2ckEZYJGzArudauxM4TWqgGB0yjslAeCOSW9wx+uJdRm35psRbnDRz2KBzsAkTOG3KMk4q9M=;6DkGTqQdJI4380WqrghmdA=="
+secured: "7TJpc9y3AqvtF+kA4FJafyx/wO9i9vtWQHuRudXN2Dvthgnu1d8Cgau6m8RgHo1LjxJ6pSZkJxDu2Wy6CUlL9z7dinP8LKHSIbEFHIvxJoJGnI3jspIIlNDBdNVdz1m5IsnecDW+DYUnaCBUtsVqOpmu/kByAi5lJaSwu8LQPGlCMSfUUdC37+DmRnm7REElD4FlFhhr1Vz4e2Pqljt8NUa6yYbWCfeOdoIahiODEPc4IIwV/MZHXCEF3DfbQngDImC0wx8kMAMrIFc5FKIcja0SFKY+9EznwZwKCUgi2Bxid4JFMVZcEOpqexNaY7ykJExfWpKQ7sgjiaziB+r1mefZBrBKiEgwG7CHql8bgvc=;0R/B9xHLOlD+U+F5Iq35NQ=="
 ---
 

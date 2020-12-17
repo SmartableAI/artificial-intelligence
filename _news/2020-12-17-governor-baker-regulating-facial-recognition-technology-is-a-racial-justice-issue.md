@@ -28,7 +28,7 @@ related:
   - title: "The Trouble With Facial Recognition Doesn’t Justify a Ban"
     excerpt: "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error."
     publishedDateTime: 2020-12-16T04:19:00Z
-    webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
     ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
     type: article

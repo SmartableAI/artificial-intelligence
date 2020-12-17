@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 Basic Things Every Person Should Know About FinTech"
-    excerpt: "The world of banking, trading, financial advice, and financial goods seems to be transformed by FinTech. The industry is booming, with new players getting"
-    publishedDateTime: 2020-12-15T09:57:00Z
-    webUrl: "https://www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech"
-    ampWebUrl: "https://www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech/amp"
-    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/articles/5-basic-things-every-person-should-know-about-fintech/amp"
+  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
+    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
+    publishedDateTime: 2020-12-17T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
     type: article
     provider:
-      name: iLounge
-      domain: ilounge.com
-    quality: 44
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
     images:
-      - url: "https://www.ilounge.com/wp-content/uploads/2020/12/5-Ba.png"
-        width: 1200
-        height: 782
-        isCached: true
-  - title: "Who are the top female fintech leaders of 2020?"
-    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
-    publishedDateTime: 2020-12-14T05:35:00Z
-    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
-        width: 1200
-        height: 720
+      - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
+        width: 958
+        height: 502
         isCached: true
   - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
     excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
@@ -70,34 +54,6 @@ related:
       - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
         width: 664
         height: 664
-        isCached: true
-  - title: "Our favourite fintech apps of 2020"
-    excerpt: "Team AltFi may have spent most of 2020 in lockdown... but we also downloaded quite a few apps. It’s that time of the year again. The AltFi team have trawled through their smartphone home screens to reveal the financial apps that they found most useful,"
-    publishedDateTime: 2020-12-16T05:32:00Z
-    webUrl: "https://www.altfi.com/article/7382_our-favourite-fintech-apps-of-2020"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/our-favourite-fintech-apps-of-2020.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
-    excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
-    publishedDateTime: 2020-12-16T22:00:00Z
-    webUrl: "https://www.law.com/americanlawyer/2020/12/16/as-fintech-stays-hot-reed-smith-hires-partner-who-led-2-big-law-firms-payment-tech-practices/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 12
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2020/12/Reed-Smith-Office-Sign-Article-202012161651.jpg"
-        width: 621
-        height: 372
         isCached: true
 
 secured: "XDctBXO7q5QbTt6Q2YqfK3FRy294jVHUKBv/3OX+0S8om1xp+ZU/4es/nYcgy+Zvvb78UI6aE4Ryx9wH5btW07ND3LnPm1jwyFHuqxG3NTtdRTMti6X9hKIkNj63JK3ET4+7qNsJZQqNYkNoQCdWDikjlJvtciST64LtXXct3C7nHOuWCVyMMRo5Vk0cpnlO/XnrRzgScKmemdLLekePHvHVxrO4J8kjWu2ODdjQx5GDbWEfdMn2L0saBH8AmZr0rC5hwPn+BBTaSSzRWhrIlzaoE9qgQ33QRyjs6QG/XsGb5QsJTwb3ETQ2lrqfmRY1hsClaefOuYCy48w9dtXcFpwTSa7hqh8Oe1uP6etSinJRr446EX6oLp+xbx3dYRnhyoUmE/nCwQb0uFWquStYbIBD2bzMy9tAEXbd0S0Yr7AyLW31eAZ4f9Y7sl3QZG/b2OvMBZFqGsBJfDT0XkJAVwSyrOYb6woYh0iODqS5frS47TC7ABGgyGQJlbedhmfhbZYWwRdEaJB+yDQUjiWhOg==;70qpvHz6vVu27gX7NYI1xw=="

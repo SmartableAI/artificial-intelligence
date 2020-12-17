@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firm to Unveil e-Commerce Platform"
-    excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."
-    publishedDateTime: 2020-12-15T02:28:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/01/af825dea-fintech.jpg"
-        width: 1280
-        height: 868
-        isCached: true
   - title: "Who are the top female fintech leaders of 2020?"
     excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
     publishedDateTime: 2020-12-14T05:35:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
-    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
-    publishedDateTime: 2020-12-16T05:35:00Z
-    webUrl: "https://allafrica.com/stories/202012150316.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 24
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
         isCached: true
   - title: "Our favourite fintech apps of 2020"
     excerpt: "Team AltFi may have spent most of 2020 in lockdown... but we also downloaded quite a few apps. It’s that time of the year again. The AltFi team have trawled through their smartphone home screens to reveal the financial apps that they found most useful,"

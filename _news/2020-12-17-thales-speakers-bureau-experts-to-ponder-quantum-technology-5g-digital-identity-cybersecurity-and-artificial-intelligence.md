@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
+    excerpt: "Cybersecurity company, Deep Instinct, announces Ryan Shopp has been named to the newly created position of chief marketing officer."
+    publishedDateTime: 2020-12-17T16:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201217005730/en/Cybersecurity-Company-Deep-Instinct-Expands-Executive-Team-with-Appointment-of-Chief-Marketing-Officer"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
+
 secured: "oVZSSl2YBpiMCp+7WnZC3SWycB7UklEuMMZd7sqKoZbA/9xPaJ/T+iU4RBkG1jvHAkltf+IHLPfjLAT1RonE1qzCkRDka/lqbu/IkAFGCPpk+PFSaF6TPyNybEX8gQGT66gaWvqm1AxzOajwc38yAWOXoPuCDQGFpE7m6GyUWxd5L0miaXs2RxbTtIn7a1x4nxefMwWgnkkCeqW7W+RxG+KWL4L75unPuwn9L/4xGdQhx1uBB6Z60ex/M+docaqr/vLI9VummCXhdOrQzsm781jYg+2uAoGpOKI9W3cVhV88pdiCHSXwuF0Ksdh+JHBLxOGFjc9oNjvFOMdrFwEetmA8ruB4Mi6uDdaUHnSm7Dw=;uLaMtoLfS0fLqy+hgGYjdg=="
 ---
 
