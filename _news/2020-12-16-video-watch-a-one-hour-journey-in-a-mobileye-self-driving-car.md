@@ -20,16 +20,21 @@ topics:
 
 related:
   - title: "Mobileye looks to build its own lidar to drive down self-driving costs"
-    excerpt: "(Reuters) - The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc and cost a \"few thousand\" dollars."
-    publishedDateTime: 2020-12-15T18:20:00Z
-    webUrl: "https://www.businessinsider.com/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mobileye-looks-to-build-its-own-lidar-to-drive-down-self-driving-costs-2020-12?amp"
+    excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
+    publishedDateTime: 2020-12-16T04:25:00Z
+    webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201215&t=2&i=1544659107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBE1JP"
+        width: 818
+        height: 545
+        isCached: true
   - title: "dSPACE and LeddarTech Join Forces to Drive Development of Lidar for Self-Driving Cars"
     excerpt: "The collaboration will combine LeddarTech’s laser sensors in simulation solutions and dSPACE’s simulation models for testing and validation, as well as the sensor simulation environment."
     publishedDateTime: 2020-12-15T17:11:00Z

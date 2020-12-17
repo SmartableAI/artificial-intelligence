@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2020-12-17T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2026-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Leaning Machine Market 2020 Growth Opportunities, Market Shares, Future Estimations and Key Countries by 2025"
     excerpt: "Global Leaning Machine Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end"
     publishedDateTime: 2020-12-15T07:29:00Z

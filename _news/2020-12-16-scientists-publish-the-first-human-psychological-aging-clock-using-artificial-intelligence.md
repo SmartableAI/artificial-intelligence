@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Longevity Publishes the First Human Psychological Aging Clock Using Artificial Intelligence"
+    excerpt: "PRNewswire/ -- Regent Pacific Group Limited (\"Regent Pacific\" or the \"Company\" and together with its subsidiaries, the \"Group\"; SEHK: 0575.HK)'s Deep"
+    publishedDateTime: 2020-12-17T12:08:00Z
+    webUrl: "https://www.asiaone.com/business/deep-longevity-publishes-first-human-psychological-aging-clock-using-artificial"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 26
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2020/pr-newswire_500_4_987.jpg?itok=HYSHix8v"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Scientists Publish the First Human Psychological Aging Clock Using Artificial Intelligence (image)"
     excerpt: "Scientists at Deep Longevity published the first set of psychomarkers of aging developed using deep learning to track the changes in human psychology and assess the effectiveness of interventions, life events,"
     publishedDateTime: 2020-12-16T13:04:00Z

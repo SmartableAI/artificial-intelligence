@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Guardian view on DeepMind’s brain: the shape of things to come"
-excerpt: "This is an achievement that answers one big scientific question but raises more fundamental ones for society"
-publishedDateTime: 2020-12-06T18:30:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come?via=indexdotco"
+excerpt: "This is an achievement that answers one big scientific question but raises more fundamental ones for society An image issued by DeepMind of a three-dimensional digital rendering of a protein."
+publishedDateTime: 2020-12-06T19:59:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come"
+webUrl: "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "dDOUFg0nzkeOj4bw/bIb0q2K99Nn6c4IYYoh4K8LV3Nhtph7RAdkv860+EmgZ9zSrk5vLR2j7YcWvkq13seHSTyTEm1MYyAnFc53Sjn5Gjxtg/24kaptxu37nuk7v+caFLafhqPBXtmh540Sf0AxX3A7fsVfQsq1BhD/VEIYThscY7QtDZS5/YZF1NzQmyeCRliUCmqKd2k8kF0iVd3H4gBQhtNvgrk/m/I7Y9fEuftYOp6zAJZb5EhGB4F2leDIqDb6ng+j7DWnbCiS2gjtziuYFBEwceLJj3nSBrxmQJup+goIyhSTZO+vXBKzDvZ2W6iG7QxQHvxzC5x5B7kx3qyM55CD1zg/F7czzlKHaZs=;8k1NSLW4lrE1IWBsLP9NzA=="
+secured: "FGtPmb38QL+HJElDK+oMGUCKZWoJg0zvpRfAcbiP82AxDTFfPKdOsTL0atEUFO2+lQTri9+niJ5pE+c0yF89hLVntA3WhGKbLSgJDH/x02wOm9X6N68N/HaUYSxKX7115a8JJZJeuFAgP30gA3iQEcY/B2bZ5WoKYC1GQXGMdCfPHs6gmJQLPyp31WnSvdCsWQEpjYx+N2HxG4Pmo0aIs1wCUOd/u9BOSrrORmWcY5Gt2MT0gffBaXGjxuibYArmgionIqV68ldvrCAvGlb142ANj9u5kYzT1Br2x0ltkkOMnwhzbT3XLFuHhSXzA1DJ4BKuc0a8UxrYWNGfO/afm52GxroMrOi0rbW9nDQ3mVQ=;v/ZDjZ2pZEy6IjZFxwHm4Q=="
 ---
 

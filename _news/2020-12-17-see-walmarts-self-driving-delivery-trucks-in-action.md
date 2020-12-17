@@ -82,16 +82,16 @@ related:
         height: 720
         isCached: true
   - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
-    excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
-    publishedDateTime: 2020-12-17T00:39:00Z
-    webUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
+    excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers ..."
+    publishedDateTime: 2020-12-17T00:18:00Z
+    webUrl: "https://omaha.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_a75865cb-4ac2-5226-b349-128d9fce16e4.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/14/414db6b5-4f64-5b41-80b9-516f5eedd63e/5fda6c37b8120.preview.jpg?resize=576%2C324"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/75/a75865cb-4ac2-5226-b349-128d9fce16e4/5fda6b2d4ad5e.preview.jpg?resize=576%2C324"
         width: 576
         height: 324
         isCached: true

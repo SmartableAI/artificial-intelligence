@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Unlock Insights From Business Documents With Revv’s Metalens, a Machine Learning Based Document Analyzer"
-excerpt: "Metalens allows users to extract relevant information and identify potential discussion points from any document (pdf or Docx) within Revv. This extracted data can be reused to set up workflows, feed downstream business apps with relevant information,"
-publishedDateTime: 2020-12-17T08:57:00Z
-originalUrl: "https://www.financialbuzz.com/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/"
-webUrl: "https://www.financialbuzz.com/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/"
+excerpt: "Businesses run on documents as documents help build connections. They cement relationships and enable trust and transparency between stakeholders. Documents bring certainty, continuity, and clarity. When it comes to reviewing documents,"
+publishedDateTime: 2020-12-17T13:37:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/palo-alto-north-america-california-united-states-3ab97f0d31f84f3984903dd60d1e4231"
+webUrl: "https://apnews.com/press-release/business-wire/palo-alto-north-america-california-united-states-3ab97f0d31f84f3984903dd60d1e4231"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
+  - AI in Finance
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Unlock Insights From Business Documents With Revv's Metalens, a Machine Learning Based Document Analyzer"
@@ -35,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pQdAOKWP1JzcBiJQ2Qe8xgOvh3+85OOZQ25MdXr7DjJ6n6KcLbtyLpCRmoivnmD2vgPVAloEV35CYYP4uoWFn8m0fzx5jU7M0KcUa9k3MYyyYbg8+4KwKoE5m2sgC8wY/bf/tJqiBBU8gn1t+8OsWN4moiHHi354rCVJtsBfm91toW+KXojfQ8372B4/5smXkIKlQ8i0xicxWxyZ3FwATPgVKo9NP3Ovu9ECpMEe7AcFpWBC2dfdPyNKnXHJa9oBqpR7eeu8VPEjJ623Fxh4mKd7fniuvP2lM2SXftMvRg96C2WGqNEG75kGAFyUC1u6rNYsI+7Uy22RaMXPzN6xwG6yZEzW6bnkXCBKamY5i8lgD+2nksJXfDWkHiO1FMKjIR7Q25Wnz6VJo89EFaV+r5cvrZ/oJKGJ3jDWZn1n9A2e7yNXb5nxqfBXcZRcfjvobt8i30T67H2jYJURx+ZyjhbWxaYA5B4Ba+qLfCMUO+xg2OHdFHDsTVsew8wQA2qFjR2O4o362ceNxPjPFJeM/A==;/YAfjrha55JBkvnSG6I0QQ=="
+secured: "H0iFd+BsISLC/EbyWFz/a6PK1Xy3yzNYaIGI2h2SVMjncFLHDvJZ88pUO4DeUgWPgVCE+s01F+GOK0LhQTpkgxejYDolsXaObN+GQCu6YfgQymI5JEMTW/68CQRTrdYtdhhCzFEZytbfDep8G8+dePxChPuxfOodd9kdNVy5vhNKntarfWDXIAdR8s6P+Q+BvuZHt1HnFwUoKAl7/hBwbvSY3JuipbTCYybOlGr2Ir94NsTybDBE6u8+jYDetBx/5rLVdxzCWRpZR296x/SBMH701RHuttTkBtO/6QOM2dSNvgKT3PlncszVMS23ZXdZSr5pR14dMKMSmejUAkXVN/WonSAXE2xFn/3jvrhL64c=;sFR6thcqvg+US1YNl8Kfcg=="
 ---
 

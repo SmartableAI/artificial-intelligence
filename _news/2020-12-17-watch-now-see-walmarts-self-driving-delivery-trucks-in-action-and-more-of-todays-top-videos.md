@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
-excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."
-publishedDateTime: 2020-12-17T00:39:00Z
-originalUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
-webUrl: "https://www.stltoday.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_414db6b5-4f64-5b41-80b9-516f5eedd63e.html"
+excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers ..."
+publishedDateTime: 2020-12-17T00:18:00Z
+originalUrl: "https://omaha.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_a75865cb-4ac2-5226-b349-128d9fce16e4.html"
+webUrl: "https://omaha.com/news/national/watch-now-see-walmarts-self-driving-delivery-trucks-in-action-and-more-of-todays-top/collection_a75865cb-4ac2-5226-b349-128d9fce16e4.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/14/414db6b5-4f64-5b41-80b9-516f5eedd63e/5fda6c37b8120.preview.jpg?resize=576%2C324"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/75/a75865cb-4ac2-5226-b349-128d9fce16e4/5fda6b2d4ad5e.preview.jpg?resize=576%2C324"
     width: 576
     height: 324
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: stltoday.com
     quality: 24
 
-secured: "8I2PaWDvVXLpAoKsgIsDanIdF1App39qSRBHtx2zlVrC4wPz5JLbJxZCGwDiU7Vv8hqcaok8xRAH1ZRLSm7cIuXCImsgc3Wp0It9QOKXs+aRW3oddKnnNKfpUa3jw7RWqc2JXi6BoTN3KRpYrDAl6uG9nMjhhORKwLkNQmrclu+5jWuYKecJNLo89LLQlTYbz1HSOznNUxk2X3dPJxtTZ3Xa9qTy/vOxSZ/4skZCWiip3ny0TKGPjmZvveOP8plQjIHvfofKGfmc3lzGlY7DrEK11dJUUh/o3urcje0iNxUZ6DHDpLgZEyQ8NeF2KA0VLPCKlH1kjFAef+JuTneHJ6nd7SKFrHpNCtkQPPcm41LvIOdVKZRb8V4h0DzG1XaBEljsBg+Fw+/zGJrGW0jkYocz8uY3uNH62moS931W5EFgRh/xBGHZZx6ib2pMt5i2yYEThdVb0mPZ+vbSXPSdgO3FHevk1nCpf5/LQAm2+BDYjibSFnwjGuEjmN6lbGKEJ26bM6h25GG7AZfjil30Fg==;TKvJSCX/2JWEdnqHKaGLWQ=="
+secured: "ze3RbTlFeprsAwuXfpcX+BTkQL9Xs6LHKojT41Ywb/MtU5K9Kan/MANDrrzqV/kHBt27DAmZDG6ezn+WjArMXtTcoN+eDyDY5DNkSen1aIFW9PUDayoOYvmc/w++1DvQOMqr4cg9yMbxEXQSu7EtXgzPtpYnS7WAOguD3fIibrQE+r/xzLLpoaiir7FFhOpJdzn2m4+00rTUTpRF7frVtcJY0ZTPi+TJrjHW3uB3+YkBp5Lv66rXVH0vsmg3KZGIM5Sqz9hJYFxqDHmVW1zPGy/Vha9kZwgP292+lyVAX6zR9llR3DFf2ZtPl9DanjITdNxT9XjCG9bj1Z9rJWODupWf/7u7KA3vXhjUvm1IA4A=;T23k+P52yUBa9kycjn60VQ=="
 ---
 

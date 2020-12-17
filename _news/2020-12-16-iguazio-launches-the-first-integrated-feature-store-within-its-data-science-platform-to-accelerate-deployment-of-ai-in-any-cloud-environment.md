@@ -49,6 +49,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
+    excerpt: "Iguazio, the Data Science Platform built for production and real-time machine learning (ML) applications, today announced that it has launched the first production-ready integrated feature store. The feature store,"
+    publishedDateTime: 2020-12-17T13:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-environment-and-nature-data-storage-d2d639e7621d42ba8eef61bba3998e8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "e8RdzJslDgUXQOJhzk7JLxaB+EK4xD0U0OFbIy4Ok/7z/SsUBwMumTZ2NTJkGCUdGEK58DlSAoB6u1P1RlMEsLCF2UwG1jl4QOcpGCWD+z2QzeUXnhM+rRCp5rVv5H2umm6woNbEmRAT5P3VetnAW97j4t/22ano0n753j+KZlfOepFj2+DYKiNxrAgCILWSPPvr1ulw1hSeJLl6nI4hTQtBdrs9NsI9Qw3Zisu8wQvqq3EfHoSvB4ti4FWpT7i8G/5xN2HWB7BrRUBr4juhHl0OVEkKOA7Jj0+vZ4ek4KQbjYkcGZ+mVPrGS2SYDu7ivUtjwk37Uy0xglEtzmNuF99t5bRUDlBlZLSet4/viSk=;FuFSKtRoKLwtB5KMnLbO2w=="
 ---

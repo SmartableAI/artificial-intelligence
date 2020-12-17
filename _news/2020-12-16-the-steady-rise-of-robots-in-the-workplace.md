@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "10 Largest AI Companies In The World"
+    excerpt: "Topping the list of the 10 largest AI companies in the world is Microsoft Azure, which is the cloud computing service for Microsoft was created 10 years ago in 2010. The service provides software as a service, infrastructure as a service, platform as a ..."
+    publishedDateTime: 2020-12-17T14:15:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-largest-ai-companies-in-the-world-906473/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 41
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17134426/55618829_ml.jpg"
+        width: 1937
+        height: 969
+        isCached: true
 
 secured: "dHcVYoefHv+ptP3WShOc0B46T2sKaF89C8H5OXB39MskxfTrpRQ2NPNVJ/80vOmXrppZZDBa6ahmpQFp5Q1FalZ8YhE5TLKaQTyCSWzut7wGC0niRgrD08cnA9nATZfo2YPuB6VIapzGCNo/DdOvQu/3gVQ429IQa6zMD21laBEE5FuRQ5Nt8vBu2iK12qQw5FN8hKb8M9Y+LBEUqFGrVj9TGXQM6inffHJc3EksaLLnMAEorp8KJ40uVURahG0JEEE3jg4uIbcvc7MzbJ69Zh2MNyd93AALQjtBzrS5bdKgEtNOqY0zK/AkCVnPoxz7TmUQvhRZLlPhrOv0xKNaCP/uW6f+7ra/jPouWFpBeLPCEek7A8F9EVFHc4XUr7hJgsqPnpM4QGEMhaWBIOOzJww7gZ5DPgsIPIeNXABkF3U/d2bn7oKatfGZ6cSKnhZaQvp6cUXvZFABo+d5AJYrRTVO+gGgzlVbnd03Ooi4XKkQfqkX6KIzvfAptzjdt6N62LtWqhGBq+UzdOLlmuZdZQ==;aphYBqmF8K0VT159jr3quw=="
 ---

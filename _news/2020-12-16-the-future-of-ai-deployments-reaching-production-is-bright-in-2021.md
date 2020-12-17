@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
         width: 700
         height: 394
+        isCached: true
+  - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
+    excerpt: "Iguazio, the Data Science Platform built for production and real-time machine learning (ML) applications, today announced that it has launched the first production-ready integrated feature store. The feature store,"
+    publishedDateTime: 2020-12-17T13:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-environment-and-nature-data-storage-d2d639e7621d42ba8eef61bba3998e8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
     excerpt: "The first production-ready integrated solution for enterprises to catalogue, store and share features centrally, and use them to develop, deploy and manage AI applications across hybrid multi-cloud environments Iguazio’s feature store tackles one of the greatest challenges in machine learning operations (MLOps) today - feature engineering The feature store is a key component in Iguazio’s data science platform,"

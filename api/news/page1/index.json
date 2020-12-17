@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-blaize-creates-pc-revolution-for-ai-on-smart-edge-devices.md",
+      "title": "Blaize Creates ‘PC Revolution’ For AI On Smart Edge Devices",
+      "excerpt": "A PC Revolution for AI may still be a little way off, but a new ubiquity and accessibility is coming to these software tools and the future development of smart cities could well depend upon them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdb6934df7272f1e50885c4%2F0x0.jpg",
+          "width": 640,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/12/17/blaize-creates-pc-revolution-for-ai-on-smart-edge-devices/amp/",
+      "publishedDateTime": "2020-12-17T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-deepmind-ai-unit-lost-649-million-last-year-and-had-a-15-billion-debt-waived-by-alphabet.md",
       "title": "DeepMind A.I. unit lost $649 million last year and had a $1.5 billion debt waived by Alphabet",
       "excerpt": "DeepMind made a loss of £477 million ($649 million) in 2019, up from £470 million in 2018, according to documents filed with the U.K.'s Companies House.",
@@ -503,57 +554,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-17-facebook-ai-tool-called-tldr-would-summarize-news-articles-report-says.md",
-      "title": "Facebook AI tool called TLDR would summarize news articles, report says",
-      "excerpt": "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so that you won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/",
-      "originalUrl": "https://www.cnet.com/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/6LBIHoLfC1d6SrZT8pbkWNgUr8Q=/1200x630/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-creating-an-ai-tool-called-tldr-that-summarizes-news-articles-report-says/",
-      "publishedDateTime": "2020-12-16T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl.md",
       "title": "Training a reinforcement learning Agent with Unity and Amazon SageMaker RL",
       "excerpt": "Unity is one of the most popular game engines that has been adopted not only for video game development but also by industries such as film and automotive. Unity offers tools to create virtual simulated environments with customizable physics, landscapes, and characters. The Unity Machine Learning Agents",
@@ -711,7 +711,7 @@
       "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -800,6 +800,57 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-facebook-said-its-developing-a-tool-to-read-your-brain.md",
+      "title": "Facebook Said It’s Developing A Tool To Read Your Brain",
+      "excerpt": "Facebook told employees on Tuesday that it’s developing a tool to summarize news articles so users won’t have to read them. It also laid out early plans for a neural sensor to detect people’s thoughts and translate them into action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/16/23/campaign_images/bd8ee38aefa9/twitter-just-stopped-blocking-the-biden-article-i-2-2674-1602891383-8_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader",
+      "publishedDateTime": "2020-12-16T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-light-powered-brain-like-ai-chips-are-in-development.md",
       "title": "Light-powered, brain-like AI chips are in development",
       "excerpt": "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants.",
@@ -849,6 +900,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-googles-blob-opera-combines-christmas-carols-with-machine-learning-heres-how-to-play-around-with-it.md",
+      "title": "Google’s Blob Opera Combines Christmas Carols With Machine Learning: Here’s How to Play Around With it",
+      "excerpt": "Need an extra dose of holiday cheer? Look no further than the Blob Opera, Google’s latest, festive machine learning experiment!",
+      "sourceUrl": null,
+      "webUrl": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en",
+      "originalUrl": "https://www.msn.com/en-us/music/news/google-s-blob-opera-combines-christmas-carols-with-machine-learning-here-s-how-to-play-around-with-it/ar-BB1bYMeZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/p23feUh1kc0fPF1lGWx8KHCjll1Zagy-CGZvGTH0gR8jdz4sCrubieqPiO0jI4oERSE",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T08:08:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
+        "domain": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1142,109 +1236,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-vroom-acquires-ai-enabled-vehicle-information-provider-carstory.md",
-      "title": "Vroom Acquires AI-Enabled Vehicle Information Provider CarStory",
-      "excerpt": "Vroom's announcement that it will purchase AI-enabled info provider CarStory shows how used-car retailers are increasingly relying on data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/",
-      "originalUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd96040fcae4acbbba931b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/12/16/vroom-acquires-ai-enabled-vehicle-information-provider-carstory/amp/",
-      "publishedDateTime": "2020-12-16T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-trump-could-torpedo-a-bill-to-boost-funding-for-ai.md",
-      "title": "Trump Could Torpedo a Bill to Boost Funding for AI",
-      "excerpt": "The National Defense Authorization Act would increase US investment by $6.4 billion over 5 years. But the president could veto it over other provisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "originalUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd939cf55d4309f339343c4/master/pass/Business-Defense-Bill-AI-Trump-1290145039.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/trump-torpedo-bill-boost-funding-ai/amp",
-      "publishedDateTime": "2020-12-16T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
