@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
         width: 1200
@@ -55,6 +55,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/RunwayML-raises-8.5-million-for-its-AI-powered-media-creation-tools.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Digital.ai Drives Innovation in AI-Powered Value Stream Management with Four New Patents"
+    excerpt: "Digital.ai, the creator of the industry’s first intelligent Value Stream Platform, today announced that it has been granted four U.S. patents for advances in AI-powered analytics. The patents represent industry-leading innovations in applying artificial intelligence (AI),"
+    publishedDateTime: 2020-12-17T10:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-21a975372aac423c8da91c5f2f16a7b7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "VRj4QAiyPxp7ygpKjI5BRK+NqgiMlBU5IknZt4MR2YBDAZbf97+LTs6X07QBdSwPribkGsBx71kP8GZaz0UHM7ISEJF6ZHRRVfo3RauuFr6CuFjPckTxPu9hA0QwvqzOyc8dUrLT9X+9pVcUqedM4Ta0qyAmXbuBRAxI+/uwrxuYnGqgMaC6Pvef99BLWDmIwEM0ndU0HPuDZnDSCrZ77WtJ6TcxsGxOydRvr0LR0Tg9/ItCcKYJFs54hiduSIjtCd37nd925kPx1xrNQ/IFFj6CbQJqaLdI57IgL19gkaHgK1j8iYGLZp8W57JCgPAPfnkkUNDGBaPWCf6XfFNUHNjPOpA6VaAKHRDDwP5I8nY=;TE0QsbNvXmqX745yOdwWWg=="

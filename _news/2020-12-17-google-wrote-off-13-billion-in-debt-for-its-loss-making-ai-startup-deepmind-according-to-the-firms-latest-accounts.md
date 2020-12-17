@@ -45,6 +45,17 @@ related:
         width: 4189
         height: 2792
         isCached: true
+  - title: "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount"
+    excerpt: "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development."
+    publishedDateTime: 2020-12-17T16:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
   - title: "DeepMind swallows £1.6bn as Google pours funds into UK AI unit"
     excerpt: "Google’s UK-based artificial intelligence unit DeepMind lost half a billion pounds last year, a similar figure to 2018, and its parent company Alphabet wrote off a further £1.1bn in debt, according to its latest accounts."
     publishedDateTime: 2020-12-17T11:10:00Z
@@ -60,6 +71,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c6982b9-6a93-4da4-aa2b-c65680dbfc20.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Google Waives $1.5B in DeepMind Startup Debt"
+    excerpt: "The waiver \"underscores Google's commitment to DeepMind, with little indication the [AI] startup is likely to turn a profit any time soon.\""
+    publishedDateTime: 2020-12-17T20:11:00Z
+    webUrl: "https://www.cfo.com/applications/2020/12/google-waives-1-5b-in-deepmind-startup-debt/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 54
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/12/cover.jpg"
+        width: 555
+        height: 330
         isCached: true
 
 secured: "2nBYMq+XBORi2fSjKloB0rAnMfkRlBo1sDAkHqAh+RgtMiQg+f19ORa51zz02RzVfvc46EyARnio5ZoZf9/bHOzpF6VbVr4cR8UTvkPQm0X9DD+SLN3UBTS01ldYTPb7ctFhhMa/cA63hjI1XWhLe7ny/CYG6sGlQ6FbTOxz6cGHN/uv3haI6h8NjO66xsDwZqvTyUoDSHeUeYmEI1HrBnzyHZND3I6hTYC0fGJj/nfft8NcgPYU+gtj8qwHs8OdKE+0mN9c3IS2Xk/cCtcVHNfD8FlfRZhiZDaamSys/d40RiEvHyY57Vlg7FiJba1MWS8q5ioB8guBWq5ToCDc1O9L0jJTlPIB1ACSIKFTE9fMm+NDC5W64b+WtgecMWFE4UpgrG+1/JVJggIXcnNnXTQyI5SebDKhVXQGfO57psIMslFoZ5H93dSWnNl7hQqNcNq9AuQ672fAqj2p2lPJvi6oCmuk2hIHNsy0DVSei3c9GZhGwhH1WkoeBUFjZcBuJOIGNaDJTFiBX1Wtvj3t2A==;+KMV4hQLwQxcKiqBIMtGCw=="

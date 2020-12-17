@@ -52,6 +52,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 54
+  - title: "Facial recognition technology grappling with mask challenge amid health crisis"
+    excerpt: "This little technical mishap has become part of daily life in 2020, with masks turning facial recognition systems, previously considered innovative ways of streamlining smart payments, into a cumbersome affair."
+    publishedDateTime: 2020-12-17T20:37:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202012/17/WS5fdabd44a31024ad0ba9c54e.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 35
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202012/17/5fdac3c6a31024adbda8b351.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
     excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
     publishedDateTime: 2020-12-16T12:56:00Z

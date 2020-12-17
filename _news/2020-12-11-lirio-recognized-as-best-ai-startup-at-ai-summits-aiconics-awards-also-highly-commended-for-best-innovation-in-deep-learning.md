@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning"
-excerpt: "\"We are deeply honored to receive the AIconics Award for Best AI Startup,\" said Mike West ... innovations from previous winners such as IBM Watson, Microsoft, Blue Prism, PwC, and DarkTrace."
-publishedDateTime: 2020-12-10T19:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html"
-webUrl: "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html"
+excerpt: "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded"
+publishedDateTime: 2020-12-10T19:32:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - IBM AI
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1373395/Lirio.jpg?p=facebook"
-    width: 1024
-    height: 536
-    isCached: true
-
-secured: "dOI6lbmVRhgtgx8B2FbjlpxB30b5s5qP/Wm3Q/Lr73jPuSqU6ZYYAalXx/AWodOmz1IYj+MgLkCvPUvyMHCAnvshj0amuFbn0Jtpcf7A0nrOoCTxdW5+VLTgbxTqHGkGsV/zkuMu8qb2c0Q39Qa0L4nvLfHkm7/7dW1VevZz/ngAsBSa8e2OBtN6xlBx+YZSKaWGTvFNG3pYYtKZruMyWGi6ZAcbOuZ+F/xexZml4A8s3YmURtO6uiw5IiEUxmcFn6dVAk8ZVvzP/a7bFvI9fhaVmR3sD2kD2CLl9JAs45OATnwSj727BVusEsNXgVpKAAn2Fh8VsQfecvqYZVsBmyPjKEEPFlilJDxJR6vBwX4=;Y9eKKuts6hFKI+/1y37bzg=="
+secured: "gPOwCxhsS15wSKmeYqbe6CtvLhiSoKCAyC7Yc1UWhnXRl4OmVE57e/AnEhqvbEcrT0spLCy4yLiXf/bFhBFK6qAFJ1JtsPtGFFnFHb84WdR3Yqy3F46xLETn9u6U16Q+wIFwy4TuQrn5Coj7jObrnnSdgXthsctLT/9/hkEgvNhZyp6EYgLMQHACRsJfl9xGEhNTRyBLyi1qF58WMEANQbAWd+uKRPYLykINwhG92QxcD5FTFsY8vLVwZv4w4krZ6CdGGDJUsEQVIu2tEq5e96eW/3uIiIE/jS6neCfzWa//0Rq5Ctf4Ix1Jke7v7Z0jiyLVXW0ASpROdk/9h+uH3Y1gdI38p3ekPXqo/ek0+gQuz3hTAfAoiNYlbwd5ZjEXhMj8Wec5BZN90WEuQB8rDWrCtIdSvHnvKX5ZaE2sDmvDNhhJdNIJsLt89FfCaRSDpkXoS/luYWZCdVAU1d9h21/cJrFXegxmriOXSZJLfTc2dCQPk3bEoabbPDNi7hG2YC6afX4q8DznjXbhNGD71Q==;l1mvCjHVd/KMkHY5Tdt2qA=="
 ---
 

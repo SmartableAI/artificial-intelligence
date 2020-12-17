@@ -13,6 +13,10 @@ published: true
 provider:
   name: google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en
   domain: google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en
+  images:
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -24,6 +28,6 @@ images:
     height: 288
     isCached: true
 
-secured: "cuiQHHfSVNqut4PR4F3tiFZDb6xHXb0qPLLwuAg3taVDVi1Two8twAZTXsIDxsCp1x6G3COkj8FQQ9rouoaWXBFtAhcEkYpfk0fYqrEuLRziDTV66M+TdgXZ6UE1bwPC9JEB7TEfYyM5GemSmDlwcRTPkHmstCrgYhkiX0Lb8lcrq/3SQrDeWLIRZESYQBgAhCI7+5RxvacOMOMDweUWDYWIq8mKsEf8HbaqMcKYKW5miyDczUxoPBhSaZwd+sl5AWd3iYwLbvcwDibR9nF46AXLx34oKkjqni/qosV0fXrCxcsrNXrtzlZiSlruqjhngRr0B9oqQpmVsKM9vaCiwl7HDQFK55t6zPiHM8iUph0=;QOzj6Zjy30dUhd1o+jhSiw=="
+secured: "QbMcz/HFHI4NDqIc2WoQEEbf2eZs5/Er2jG2KmAkzKTJz56oYRQ66gphLtCVWK1NDpmftNo9GmERNSLfXIsn1zyDdu4ngD/uQn5kim1DTOUC1H0eTPa3nwyXlHAPMlPC0ZzYXNzCjC4tE6yes/btUGSnbkbBRBYV1NjoJZiWFHlgBdCrbnzK69EIAQjjV2JpXoVFeUTHUHALlkCxSK/x0890LtKt4fyzJsGeZquuU4QBBNBgJyK1aghIxOFMiHbwGMZnmXNkweeKavsvgifW/fxKbGFMgJ2WPVHDcEeKuMya10QS7UdulSdZPf8+uW7DG30PauMq2Q2Ad7phNnpiQmX1d+DqD9QYPvWF5iRnUcWoIz/iGm02Q87kt1m9gUf/AWYwHlriSzdvIWS9zPcCivzOzAu47a3jr6SpHZw/Ps3iTfyYViTm0cm/nvpfI4h3DP8hhI8rkuH9q++TId4QymwrX1kBNkX0hjNWutCad/yvIu4w5/TerjEWJOm5Ei4G3w+W3RccnNORnO9j3S8xS7ix0B5l1hnqDeSHq40aJSM=;Bs8A2UefnmWpwMQ14vJrRg=="
 ---
 

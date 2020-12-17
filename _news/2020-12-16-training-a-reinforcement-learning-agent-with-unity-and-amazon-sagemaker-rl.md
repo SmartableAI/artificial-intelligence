@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-a-reinforce
 webUrl: "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Monitoring in-production ML models at large scale using Amazon SageMaker Model Monitor"
+    excerpt: "Machine learning (ML) models are impacting business decisions of organizations around the globe, from retail and financial services to autonomous vehicles and space exploration. For these organizations, training and deploying ML models into production is only one step towards achieving business goals."
+    publishedDateTime: 2020-12-17T19:56:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitoring-in-production-ml-models-at-large-scale-using-amazon-sagemaker-model-monitor/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/15/ML-1764-1.jpg"
+        width: 800
+        height: 440
+        isCached: true
   - title: "AWS Announces Amazon SageMaker Feature Store"
     excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new SageMaker capability allows customers to create repositories that make it easier to store,"
     publishedDateTime: 2020-12-17T12:08:00Z

@@ -37,6 +37,20 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Facial recognition technology grappling with mask challenge amid health crisis"
+    excerpt: "This little technical mishap has become part of daily life in 2020, with masks turning facial recognition systems, previously considered innovative ways of streamlining smart payments, into a cumbersome affair."
+    publishedDateTime: 2020-12-17T20:37:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202012/17/WS5fdabd44a31024ad0ba9c54e.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 35
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202012/17/5fdac3c6a31024adbda8b351.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "From check-in to boarding: Facial recognition technology to follow you through Perth Airport in national first"
     excerpt: "Biometric facial recognition technology that will follow passengers from self check-in to boarding will be rolled out as part of plans to develop the country’s first common departure lounge."
     publishedDateTime: 2020-12-14T18:03:00Z

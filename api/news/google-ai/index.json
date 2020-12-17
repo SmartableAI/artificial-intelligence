@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://blog.google/around-the-globe/google-asia/ai-protects-australian-wildlife/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -559,6 +559,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-ai-will-empower-scientists-rather-than-replace-them-expert-says.md",
+      "title": "AI will empower scientists rather than replace them, expert says",
+      "excerpt": "Google’s DeepMind AI team solved a long-running biological problem. Scientists are not about to lose their jobs to more sophisticated artificial intelligence – instead it will help them work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/12/07/ai-will-empower-scientists-rather-than-replace-them-expert-says/",
+      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/12/07/ai-will-empower-scientists-rather-than-replace-them-expert-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expressandstar.com/resizer/Ttc5NfvTilsHQup-r4ApS2PvzN4=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/37QUOSPE3VBKPF3SBS6OTBFRYQ.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express & Star",
+        "domain": "expressandstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1418,49 +1461,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-the-ceo-behind-deepmind-the-ai-company-finding-cures-for-illnesses.md",
-      "title": "The CEO behind Deepmind, the AI company finding cures for illnesses",
-      "excerpt": "As DeepMind, the British artificial intelligence (AI) firm owned by Google, claims to have solved one of science's toughest and most enduring mysteries, the ‘protein folding problem’, you can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9003813/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9003813/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/12/01/02/36290672-0-image-a-15_1606790342926.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9003813/amp/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9003813/amp/Former-schoolboy-chess-prodigy-used-AI-open-door-finding-cures-illnesses.html",
-      "publishedDateTime": "2020-11-30T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "GM’s Cruise to deploy fully driverless cars in San Francisco"
-excerpt: "“You’re seeing fully driverless technology out of the ... Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has ..."
-publishedDateTime: 2020-12-09T18:30:00Z
-originalUrl: "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
-webUrl: "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
-ampWebUrl: "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
-cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
+excerpt: "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic"
+publishedDateTime: 2020-12-09T17:06:00Z
+originalUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
+webUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/"
+ampWebUrl: "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
+cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/"
 type: article
 
 provider:
-  name: KRQE
-  domain: krqe.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
+  - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280"
     width: 1280
     height: 853
     isCached: true
 
-secured: "zijt7vW/z4TMV86ElPjbJ6E1z5A1t3OAlasgNJaTCJFOsmwixRVT/8dnxtyQ9b0z4moSol6HVHCB1DWBQu3gkSLVaOgko9lMiIHdLlV7rdeLrxEDasIc21uCajDaXqtC69prA42s9GpH71nfj7fmIZEsrSv6dQOlcbk9+TqS6LDcMqT31anpC99TfcHSrtpQLGzfpY1ORUXhuh30bu/uVFacnTYpa10OTTpTYxVK+ggKLyz5cBA1MC5ruROwoluBwjr2um9tpGdBgmiuPXeRNHNBEh3nXv2jpUFlOUNuRaH4KV10EzqMEvJtfPjNQUGycCRY0sOUyFcTbQrhy6ICNEep8tC0Yr1ERm7cOWAGxhk=;O2+qz1wACfsLYTIJUKKOnA=="
+secured: "lkFBzT2yvvCB7AvT76Y3YwtVOfE9Mz3Qk8YvBA6UcA6Urjn8bo7RTvRW43z6ayhLW6L4pTitnOj8kuYggzSWOJYeFMP3hiZA+Z2ja6mDyTvQ4nfT0aymYcvI75HeCZ6tSaemMGM0uE0eEGGtYeSIccZZKtfLWlvNHoJUp4qxDlO3owKFlyhH+MT6kQSbD1+QMGL2P1fDvMB7RAoRcsv5fmGWd3uYCXGmf5/dIN4BD0n1d1/5DjOuMXkHRLMIm5H4ot7D+cQ/K+5GERMTxwNRBb9AnDjVLn7yQO/NroBSCifpInn2tS3XpKx0BWd1OetviOOWvP0295aFtFO5rbk8BQocWc8a5+nMixsbIHvD9jI=;3dCml2GPvr8lLKB4uQ95DQ=="
 ---
 

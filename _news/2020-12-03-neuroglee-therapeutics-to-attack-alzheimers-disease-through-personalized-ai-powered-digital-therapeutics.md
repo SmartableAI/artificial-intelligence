@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics"
-excerpt: "Neuroglee's technology leverages artificial intelligence (AI), machine learning and novel ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on slowing dementia-related cognitive decline."
-publishedDateTime: 2020-12-03T11:49:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape"
-webUrl: "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape"
+excerpt: "Neuroglee's technology leverages artificial intelligence (AI), machine learning ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on ..."
+publishedDateTime: 2020-12-03T11:34:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html"
+webUrl: "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html"
 type: article
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.pharmiweb.com/media/9690/neurogleerx_logo.jpg?anchor=center&amp;mode=crop&amp;width=300&amp;height=300&amp;rnd=132514696030000000"
-    width: 300
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1357579/NeurogleeRx_Logo.jpg?p=facebook"
+    width: 1956
+    height: 1024
     isCached: true
 
-secured: "0+++AdBRQlAV27zFjC9cxfdrHi/a3M6xD5B8ji+zZfQZ9JVgPJN2hqUj1XvaFy32GE+orwIvnUDDzDI0iByjWvOt7l6cILhGnC8sLlyFHQnkMWlJa+YNT8mUqdJTmcUFpx6TtMczqdjwtyIb9s8eUQvN4nfqECwYps/sy5Ty3AnKJl5pY63r1v9SyFq9DjAdsJTauLeGzBrYk+kC0a4Wn+cvw7VyudN43iWKZ27xRnUsM2O8YelWQbFIOcVpylqyMV8B0sgSUqvIHQgz0YTRnSuUzgd4V2aZc9Q9nuA/Dn4YnXfgGYkY8SVb0XFDDpWh9FXDDlNg9oxb0+XA71q1NE2inQ7YRNK6RLG9Jz38xKU=;8zhC/xtAeuvXm5SaLYZrgw=="
+secured: "Z9/lKbEQEuN0soNARIQhgdnUZ9fI+edIocFja03PzqmLu3nnq+LpJBhA+xTvkF1avY6AcoxSk5dx3pmLyv9yUf39hzJspnIKv06N9N28VW0TLDjRQqeJmHL2uyY+VpzVIBY5hyQW/fI/6CD1hjT0xfgPA87oy01qMmCVBDXn2/Jo5n/oTMnOIAwsQJHwXa5/dFA3PtyvNSJouThVONAW4U2AraDhK5tJwR7J0H1viG+Mq+buUglQlhJWBDdr0miDIyHF7HfDZm8p1+ak+NoBYfa4uhP3tVOAVye3RWh/SfiYP9EfEicb6P4B6QF7VZUagrkJzvBteD9lBepc9PsFugbrT3CbucrbodzHC9Wk5Aw=;T79jGfuN2Pe2DT3B0cyHZA=="
 ---
 

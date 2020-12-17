@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk.md",
+      "title": "Focusing on disaster response with Amazon Augmented AI and Mechanical Turk",
+      "excerpt": "It’s easy to distinguish a lake from a flood. But when you’re looking at an aerial photograph, factors like angle, altitude, cloud cover, and context can make the task more difficult. And when you need to identify 100,000 aerial images in order to give first responders the information they need to accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/16/Flood.jpg",
+          "width": 803,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T12:32:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-amazon-aws-ramps-new-hardware-for-ai.md",
+      "title": "Amazon AWS Ramps New Hardware For AI",
+      "excerpt": "Amazon continues to build its AI software stack, adding over 200 new features every year for the last three years. Amazon SageMaker Studio makes AI as easy as point and click, reducing the need for in-depth AI expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbb59c68a7edc3af291b7c%2F0x0.png",
+          "width": 902,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/",
+      "publishedDateTime": "2020-12-17T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-want-to-make-more-money-in-real-estate-development-use-ai.md",
+      "title": "Want to Make More Money in Real Estate Development? Use AI.",
+      "excerpt": "\"By actively harnessing the power of AI you set the stage to start the sales cycle.” The real estate industry has benefited and continues to benefit from the impact of Artificial Intelligence in the areas of marketing, lead generation and communication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360915",
+      "originalUrl": "https://www.entrepreneur.com/article/360915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607706704-GettyImages-694034887.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360915",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360915",
+      "publishedDateTime": "2020-12-17T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.md",
       "title": "Intel debuts 'Clover Falls' companion chip for better laptop AI",
       "excerpt": "Intel launches 'Clover Falls,' a companion chip that will help commercial laptops sense and adapt to their surroundings and strengthen Intel's 'Evo' PC platform message.",
@@ -54,6 +209,57 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence.md",
+      "title": "It Is Time To Stop Talking About Moore’s Law When Discussing Artificial Intelligence",
+      "excerpt": "That is scale-out, and is what continues to push forward the frontiers of AI. It also has nothing to do with Moore’s Law. Unfortunately, too many people have heard about the law as part of technology culture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-12-17T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-ai-co-pilots-us-air-force-spy-plane-for-the-first-time.md",
       "title": "AI co-pilots US Air Force spy plane for the first time",
       "excerpt": "An AI modified from a gaming algorithm controlled a military system on a U-2 Dragon Lady, marking another milestone moment for Air Force autonomy.",
@@ -62,7 +268,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -156,7 +362,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -195,7 +401,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -357,62 +564,19 @@
     {
       "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
       "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
-      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products.",
+      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119",
+      "webUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
-      "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
-      "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR",
-      "originalUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI",
-          "width": 817,
-          "height": 545,
+          "url": "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook",
+          "width": 958,
+          "height": 502,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -420,23 +584,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R0IR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR",
-      "publishedDateTime": "2020-12-17T07:14:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -445,9 +600,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Finance",
         "AI",
-        "Computer Vision"
+        "AI in Healthcare"
       ]
     },
     {
@@ -511,7 +666,7 @@
       "originalUrl": "https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -551,6 +706,58 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
+      "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
+      "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
+      "originalUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28R0KP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP",
+      "publishedDateTime": "2020-12-17T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -761,6 +968,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-celtics-players-call-for-gov-baker-to-end-facial-recognition-surveillance.md",
+      "title": "Celtics players call for Gov. Baker to end facial recognition surveillance",
+      "excerpt": "\"Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
+      "originalUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boston.com/wp-content/uploads/2020/08/Celtics_76ers_Basketball_90482-850x478.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/sports/boston-celtics/2020/12/16/celtics-players-call-for-massachusetts-governor-charlie-baker-face-recognition-surveillance/amp",
+      "publishedDateTime": "2020-12-16T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
       "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
       "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
@@ -864,7 +1114,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1002,249 +1252,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
-      "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
-      "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "originalUrl": "https://www.analyticsinsight.net/how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/12/AI-and-Robotics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information.md",
-      "title": "Google, Apple, and others show large language models trained on public data expose personal information",
-      "excerpt": "Researchers at Google, OpenAI, and others show that large language models including GPT-2 can reveal sensitive information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/google-apple-and-others-show-large-language-models-trained-on-public-data-expose-personal-information/amp/",
-      "publishedDateTime": "2020-12-16T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-facebook-said-its-developing-a-tool-to-read-your-brain.md",
-      "title": "Facebook Said It’s Developing A Tool To Read Your Brain",
-      "excerpt": "Facebook told employees on Tuesday that it’s developing a tool to summarize news articles so users won’t have to read them. It also laid out early plans for a neural sensor to detect people’s thoughts and translate them into action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/16/23/campaign_images/bd8ee38aefa9/twitter-just-stopped-blocking-the-biden-article-i-2-2674-1602891383-8_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/facebook-news-article-summary-tools-brain-reader",
-      "publishedDateTime": "2020-12-16T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-light-powered-brain-like-ai-chips-are-in-development.md",
-      "title": "Light-powered, brain-like AI chips are in development",
-      "excerpt": "The chip could potentially be used to power drones, robotics, smart watches, and bionic implants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "originalUrl": "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/11/20/d1eb7060-4ea6-4d3a-a2a9-8522490a2dc7/thumbnail/770x578/4c0e95589ad879e2c227bc6c03fb5190/the-human-brain-inspires-rmit-researcher-5fb5f1f16df74d74600bc66d-1-nov-20-2020-24-22-49-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-googles-blob-opera-combines-christmas-carols-with-machine-learning-heres-how-to-play-around-with-it.md",
-      "title": "Google’s Blob Opera Combines Christmas Carols With Machine Learning: Here’s How to Play Around With it",
-      "excerpt": "Need an extra dose of holiday cheer? Look no further than the Blob Opera, Google’s latest, festive machine learning experiment!",
-      "sourceUrl": null,
-      "webUrl": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en",
-      "originalUrl": "https://www.msn.com/en-us/music/news/google-s-blob-opera-combines-christmas-carols-with-machine-learning-here-s-how-to-play-around-with-it/ar-BB1bYMeZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/p23feUh1kc0fPF1lGWx8KHCjll1Zagy-CGZvGTH0gR8jdz4sCrubieqPiO0jI4oERSE",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T08:08:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
-        "domain": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,309 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-12-an-ai-used-facebook-data-to-predict-mental-illness.md",
+      "title": "An AI Used Facebook Data to Predict Mental Illness",
+      "excerpt": "Volunteers let an AI scan their messages from more than a year before they received a psychiatric diagnosis. It was able to flag signs of their conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/",
+      "originalUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fd3d353efa5f68151a599f7/master/pass/science-psychology-facebook-study.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp",
+      "publishedDateTime": "2020-12-11T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-what-big-tech-and-big-tobacco-research-funding-have-in-common.md",
+      "title": "What Big Tech and Big Tobacco research funding have in common",
+      "excerpt": "Attendees of the Resistance AI workshop at NeurIPS say that by funding research, Big Tech is following the same playbook as Big Tobacco.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
+      "originalUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/s3.reutersmedia.net_.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
+      "publishedDateTime": "2020-12-11T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-4-cutting-edge-ai-stocks-to-buy.md",
+      "title": "4 Cutting-Edge AI Stocks to Buy",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips No longer the domain of science fiction, artificial intelligence (AI) is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T11:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-to-boost-birth-rate-japans-government-considers-ai-to-match-spouses.md",
+      "title": "To boost birth rate, Japan's government considers AI to match spouses",
+      "excerpt": "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "originalUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
+      "publishedDateTime": "2020-12-11T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence.md",
+      "title": "New Project Will Give U.S. MQ-9 Reaper Drones Artificial Intelligence",
+      "excerpt": "The Pentagon’s Joint Artificial Intelligence Center has awarded a $93.3 million contract to General Atomics Aeronautical Systems, Inc to equip their drone with new AI technology for smart, autonomous operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd3ae6599ea4d062fab0404%2F0x0.jpg",
+          "width": 1200,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-12-11T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler.md",
+      "title": "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler",
+      "excerpt": "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg",
+          "width": 800,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T09:39:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-tesla-expands-in-house-self-driving-testing-to-phoenix.md",
       "title": "Tesla expands in-house Self-Driving testing to Phoenix",
       "excerpt": "Driving testing to Phoenix, Arizona, which is already a hub for self-driving tests. Over the last few years, Tesla has been criticized for not reporting autonomous test mileage in California. The California DMV makes companies who are testing autonomous vehicles in the state submit yearly “disengagement reports”",
@@ -910,308 +1213,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-amazon-is-cozying-up-in-all-corners-of-the-healthcare-ecosystemai-is-its-next-frontier.md",
-      "title": "Amazon is cozying up in all corners of the healthcare ecosystem—AI is its next frontier",
-      "excerpt": "Amazon is entrenching deeper into healthcare with its launch of Amazon HealthLake, molding itself into a daunting threat to smaller AI firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-coming-for-healthcare-ai-analytics-firms-2020-12?itm_campaign=12-10-2020&itm_content=briefings_post&itm_medium=social&itm_source=twitter",
-      "originalUrl": "https://www.businessinsider.com/amazon-coming-for-healthcare-ai-analytics-firms-2020-12?itm_campaign=12-10-2020&itm_content=briefings_post&itm_medium=social&itm_source=twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f636c6757b7da001ee122c4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens.md",
-      "title": "Japanese government wants to use AI to play cupid for its citizens",
-      "excerpt": "But if you live in Japan, the government there wants to help you find eternal love -- or at least your future spouse -- by using artificial intelligence.  In a recent effort to find a way to boost Japan's declining birth rate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
-      "originalUrl": "https://www.cnet.com/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/eNtX_xRJ4XP2HK0tOMkhuY9hrW8=/470x264/2011/08/26/b9b0cac4-f0f2-11e2-8c7c-d4ae52e62bcc/Screen_Shot_2011-08-26_at_1.25.04_PM.png",
-          "width": 470,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/japanese-government-wants-to-use-ai-to-play-cupid-for-its-citizens/",
-      "publishedDateTime": "2020-12-10T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger.md",
-      "title": "Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger",
-      "excerpt": "At AWS re:Invent 2020, AWS released the profiling functionality for Amazon SageMaker Debugger. In this post, we expand on the importance of profiling deep neural network (DNN) training, review some of the common performance bottlenecks you might encounter, and demonstrate how to use the profiling feature",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1883-4.jpg",
-          "width": 800,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T15:57:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice.md",
-      "title": "New York City Council votes to prohibit businesses from using facial recognition without public notice",
-      "excerpt": "New York City Council today passed a sweeping privacy law for commercial establishments that prohibits retailers and other businesses from using facial recognition or other biometric tracking without notice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/",
-      "originalUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/10/new-york-city-council-votes-to-prohibit-businesses-from-using-facial-recognition-without-public-notice/amp/",
-      "publishedDateTime": "2020-12-10T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-study-details-first-artificial-intelligence-tool-to-help-labs-rule-out-covid-19.md",
-      "title": "Study details first artificial intelligence tool to help labs rule-out COVID-19",
-      "excerpt": "Hospital-based laboratories and doctors at the front line of the COVID-19 pandemic might soon add artificial intelligence to their testing toolkit. A recent study describes the performance of Biocogniv's new AI-COVID™ software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-12/lcom-sdf121020.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-12/lcom-sdf121020.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study.md",
-      "title": "Watson Assistant improves intent detection accuracy, leads against AI vendors cited in published study",
-      "excerpt": "Have you ever used a chatbot to get help? If you have, chances are that you’re all too familiar with answers like, “I’m sorry, I don’t understand” or “Can you try rephrasing?” With frustrating responses like these, many businesses still see chatbots as immature tools for customer service. The biggest",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/12/watson-assistant-improves-intent-detection-accuracy-leads-against-ai-vendors-cited-in-published-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/12/WA_NLU_TableAccuracy-1024x558.jpg",
-          "width": 1024,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T13:40:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

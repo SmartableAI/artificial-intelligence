@@ -2,6 +2,402 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-11-19-lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system.md",
+      "title": "LAPD bars detectives’ use of Clearview AI facial recognition system",
+      "excerpt": "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/",
+      "originalUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailybreeze.com/wp-content/uploads/2020/11/LDN-Z-CLEARVIEW-AI-1.jpg?w=1024&h=446",
+          "width": 1024,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/",
+      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/",
+      "publishedDateTime": "2020-11-18T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Breeze",
+        "domain": "dailybreeze.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes.md",
+      "title": "Go Jauntly applies AI to seek scale via ‘greener’ walking routes",
+      "excerpt": "Unless you’ve been on very extended digital detox, you’ll have noticed algorithms don’t exactly have the greatest reputation these days, saddled as they are with pervasive questions of bias and inequity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GJ-Routesforyou-Mockup4.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
+      "publishedDateTime": "2020-11-18T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing.md",
+      "title": "Financial services companies are starting to use the cloud for big data and AI processing",
+      "excerpt": "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "publishedDateTime": "2020-11-18T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-what-chinas-fintech-market-can-teach-the-world.md",
+      "title": "What China’s fintech market can teach the world",
+      "excerpt": "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
+      "publishedDateTime": "2020-11-18T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-new-electronic-chip-delivers-smarter-light-powered-ai.md",
+      "title": "New electronic chip delivers smarter, light-powered AI",
+      "excerpt": "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers.md",
+      "title": "AI helps create the Milky Way’s family tree — tracking eons of galactic mergers",
+      "excerpt": "A team of astrophysicists has used computer simulations and an artificial neural network to identify the mergers that formed the Milky Way.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-18T111356.807-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/18/ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers/amp/",
+      "publishedDateTime": "2020-11-18T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-ibm-acquires-instana-builds-out-application-monitoring-tools.md",
+      "title": "IBM acquires Instana, builds out application monitoring tools",
+      "excerpt": "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/",
+      "publishedDateTime": "2020-11-18T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rapid-robotics-raises-55m-for-pre-programmed-manufacturing-robots.md",
+      "title": "Rapid Robotics raises $5.5M for pre-programmed manufacturing robots",
+      "excerpt": "Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/RMO-Shot.jpg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/amp/",
+      "publishedDateTime": "2020-11-18T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online.md",
       "title": "Bolt’s Machine Learning Checkout Platform Will Make Forever 21 More Competitive Online",
       "excerpt": "Bolt's checkout technology helps retailers compete in a world where Amazon's 1-click checkout has set the online buying experience standard.",
@@ -784,389 +1180,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
-      "title": "Today’s data science roles won’t exist in 10 years",
-      "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "originalUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "publishedDateTime": "2020-11-18T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-4paradigm-named-as-leader-in-the-forrester-wave-paml-report.md",
-      "title": "4Paradigm named as leader in the Forrester Wave PAML report",
-      "excerpt": "Forrester, a leading international market analysis firm, released The Forrester Wave™: Predictive Analytics And Machine Learning In China, Q4 2020 report. 4 Paradigm received the top score in the Current Offering category,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
-      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-did-a-university-use-facial-recognition-to-id-student-protesters.md",
-      "title": "Did a University Use Facial Recognition to ID Student Protesters?",
-      "excerpt": "University of Miami students accuse the campus police of using the software. Administrators deny it, but they had previously touted the capability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "originalUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb307a284aca534b93b08aa/master/pass/Business-University-Miami-Facial-Recognition-AP_20238702097234.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "publishedDateTime": "2020-11-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-cognitive-systems-market-key-players-ibm-accenture-microsoft-intel-hp.md",
-      "title": "Cognitive Systems Market Key Players - IBM, Accenture, Microsoft, Intel, HP",
-      "excerpt": "The Cognitive Systems market report is segmented into following categories; By Type Hardware Software Services By Application Banking Education Government Healthcare Insurance Manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "originalUrl": "https://www.openpr.com/news/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb18422120_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189666/cognitive-systems-market-key-players-ibm-accenture",
-      "publishedDateTime": "2020-11-18T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
-      "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
-      "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/23-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
-      "publishedDateTime": "2020-11-18T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-bfsi-turning-to-ai-moving-from-sms-to-omnichannel-chatbots.md",
-      "title": "BFSI Turning To AI, Moving From SMS To Omnichannel Chatbots",
-      "excerpt": "AI is transforming every aspect of our lives and it’s quite prominent in the banking industry. Today, with the help of omnichannel chatbots, customers enjoy seamless and personalized service across ev",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359915",
-      "originalUrl": "https://www.entrepreneur.com/article/359915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605679433-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359915",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359915",
-      "publishedDateTime": "2020-11-17T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-plaza-las-vegas-turning-to-artificial-intelligence-for-added-security.md",
-      "title": "Plaza Las Vegas turning to artificial intelligence for added security",
-      "excerpt": "After months of violent incidents on the Las Vegas Strip and downtown The Plaza hotel-casino is turning to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
-      "originalUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/81b751f/2147483647/strip/true/crop/1166x656+0+8/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F79%2F1e0f07ad4f8ba8e43d8c70829010%2Fpatscan.PNG",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
-      "publishedDateTime": "2020-11-17T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTNV Las Vegas",
-        "domain": "ktnv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract.md",
-      "title": "Store output in custom Amazon S3 bucket and encrypt using AWS KMS for multi-page document processing with Amazon Textract",
-      "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that makes it easy to process documents at scale by automatically extracting printed text, handwriting, and other data from virtually any type of document. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/image02.png",
-          "width": 800,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T21:30:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

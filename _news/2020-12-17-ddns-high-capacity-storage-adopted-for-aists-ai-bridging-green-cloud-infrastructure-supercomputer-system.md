@@ -38,6 +38,15 @@ related:
         width: 283
         height: 400
         isCached: true
+  - title: "DDN’s Storage Adopted for “AI Bridging Green Cloud Infrastructure” Supercomputer in Japan"
+    excerpt: "Chatsworth, CA — DDN, provider of artificial intelligence (AI) and data management software and hardware solutions enabling Intelligent Infrastructure, today announced that its AI-focused storage solution,"
+    publishedDateTime: 2020-12-17T20:19:00Z
+    webUrl: "https://insidehpc.com/2020/12/ddns-high-capacity-storage-solutions-adopted-for-ai-bridging-green-cloud-infrastructure-supercomputer-system-in-japan/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 8
 
 secured: "2KXveLZaXwKWtUlR3w9bY5N/yVuTn/j+6YdkMLFyyXQbrcgjFtzQ8HUNqlLPJRYK+o6iFJJFl4nO/Oq3eCmhL/bJUPr6ge39/qbuBMTRN/h1SwqjByxHqcjGMCTzQQl9AxyFW953skYLdUM3zE7hBqpMZucFjB3jCMLZGgvHkhdQCCOC9RWIe5OyE5N9K+uvxpcYhZWVqOIStsnifC4m7ajlM+dOUBgEoa7bBkjb5//bdPK23W1TsjoJcbjK0RK76RLkZl8YlfzwOjDrvobacWj8C+fmuSNv6czks7mdAI1GHLkVtPVEW5q1R2kXWA1el0w4micql4oXJN6ueFN5o2ifgtSfuu1azgXHzMTpPFQbcOLiDnaz8t+lPuonGJuUeetEYFfBGR/nzDM6OxCBG1Prw2fi8HOKRTLLBZAIjtWp/KSDNHwoHGCy7rFsr7ABTz0UPqbQgF62aA9s4Bkxm1JIPMXWM53tW2ePdBhIvWP/RrmopC1jrF9VFADSYaIW129wHZT/tM99wSSyfo9VVw==;5y7m6RFYKRBpDkeUo2w7RA=="
 ---

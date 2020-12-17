@@ -2,6 +2,292 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-14-tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa.md",
+      "title": "Tonko bill to expand K-12 AI education passes in NDAA",
+      "excerpt": "Congressman Paul Tonko, one of a handful of engineers currently serving in Congress, announced his Artificial Intelligence Education Act has passed the House as part of this year’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "originalUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/saratogian.com/content/tncms/assets/v3/editorial/e/ee/eee4a3e4-445f-11ea-90a2-1b4c80ce84f5/5e347ffcdaa11.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/news/local-news/tonko-bill-to-expand-k-12-ai-education-passes-in-ndaa/article_54ccefa4-3a41-11eb-a1ea-a729bf440399.amp.html",
+      "publishedDateTime": "2020-12-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Saratogian",
+        "domain": "saratogian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-new-deep-learning-method-helps-robots-become-jacks-of-all-trades.md",
+      "title": "New Deep Learning Method Helps Robots Become Jacks-of-all-Trades",
+      "excerpt": "A particularly promising approach is deep reinforcement learning, where the robot interacts with its environment through a process of trial-and-error and is rewarded for carrying out the correct actions. Over many repetitions it can use this feedback to ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "originalUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/12/deepreinforc.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/12/14/new-deep-learning-method-helps-robots-become-jacks-of-all-trades/amp/",
+      "publishedDateTime": "2020-12-14T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-after-an-amazing-year-for-science-whats-next.md",
+      "title": "After An Amazing Year For Science, What’s Next?",
+      "excerpt": "I’ve written about AI’s use in battling the pandemic already but arguably its biggest breakthrough in life sciences this year came at Google’s DeepMind AI lab in London. It has now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
+      "originalUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd776b192162aafb68c1685%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
+      "publishedDateTime": "2020-12-14T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-truera-raises-12-million-for-its-ai-explainability-platform.md",
+      "title": "Truera raises $12 million for its AI explainability platform",
+      "excerpt": "Truera, a startup developing an AI explainability platform, has raised $12 million in venture capital financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
+      "originalUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/14/truera-raises-12-million-for-its-ai-explainability-platform/amp/",
+      "publishedDateTime": "2020-12-14T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-how-ai-helps-advance-immunotherapy-and-precision-medicine.md",
+      "title": "How AI Helps Advance Immunotherapy And Precision Medicine",
+      "excerpt": "Tel-Aviv-based Nucleai is developing AI software for image analysis and modeling of pathology data to assist in the development of more effective drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd6e2725e35c8349497ccdb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/12/14/how-ai-helps-advance-immunotherapy-and-precision-medicine/amp/",
+      "publishedDateTime": "2020-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-how-rolls-royce-seeks-to-ensure-the-ethical-integrity-of-its-ai-black-boxes.md",
+      "title": "How Rolls-Royce seeks to ensure the ethical integrity of its AI black boxes",
+      "excerpt": "Royce has created a ‘five checks AI philosophy’ that aims to externally interrogate whether its AI systems are acting fairly.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
+      "originalUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-12/1E234A2D-6A42-4D06-9866-6F37D9E47CD9.jpeg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-rolls-royce-seeks-ensure-ethical-integrity-its-ai-black-boxes?amp",
+      "publishedDateTime": "2020-12-14T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-three-tips-to-maximize-your-investment-in-customer-service-ai.md",
       "title": "Three Tips To Maximize Your Investment In Customer Service AI",
       "excerpt": "In particular, artificial intelligence can dramatically lower customer service costs while improving outcomes like customer satisfaction (CSAT) and first contact resolution (FCR). However, that's only if you do it right.",
@@ -973,309 +1259,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-an-ai-used-facebook-data-to-predict-mental-illness.md",
-      "title": "An AI Used Facebook Data to Predict Mental Illness",
-      "excerpt": "Volunteers let an AI scan their messages from more than a year before they received a psychiatric diagnosis. It was able to flag signs of their conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/",
-      "originalUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fd3d353efa5f68151a599f7/master/pass/science-psychology-facebook-study.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/an-ai-used-facebook-data-to-predict-mental-illness/amp",
-      "publishedDateTime": "2020-12-11T15:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-what-big-tech-and-big-tobacco-research-funding-have-in-common.md",
-      "title": "What Big Tech and Big Tobacco research funding have in common",
-      "excerpt": "Attendees of the Resistance AI workshop at NeurIPS say that by funding research, Big Tech is following the same playbook as Big Tobacco.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
-      "originalUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/s3.reutersmedia.net_.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/11/what-big-tech-and-big-tobacco-research-funding-have-in-common/amp/",
-      "publishedDateTime": "2020-12-11T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-4-cutting-edge-ai-stocks-to-buy.md",
-      "title": "4 Cutting-Edge AI Stocks to Buy",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips No longer the domain of science fiction, artificial intelligence (AI) is",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/4-cutting-edge-ai-stocks-to-buy-ibm-ayx-crm-nvda-1029900162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-to-boost-birth-rate-japans-government-considers-ai-to-match-spouses.md",
-      "title": "To boost birth rate, Japan's government considers AI to match spouses",
-      "excerpt": "Japan's Cabinet Office is asking for budget approval for a new dating service driven by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "originalUrl": "https://www.cnet.com/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/a9uT034rFZiUTJXGoj0DnW0pSGI=/2020/12/11/d68d417c-dd0d-4b94-84d7-ee47ba7fcd29/pikachuweddingreception-1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-boost-birth-rate-japans-government-looks-to-ai-to-match-spouses/",
-      "publishedDateTime": "2020-12-11T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence.md",
-      "title": "New Project Will Give U.S. MQ-9 Reaper Drones Artificial Intelligence",
-      "excerpt": "The Pentagon’s Joint Artificial Intelligence Center has awarded a $93.3 million contract to General Atomics Aeronautical Systems, Inc to equip their drone with new AI technology for smart, autonomous operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd3ae6599ea4d062fab0404%2F0x0.jpg",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/12/11/new-project-will-give-us-mq-9-reaper-drones-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-12-11T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler",
-      "excerpt": "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg",
-          "width": 800,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T09:39:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
-publishedDateTime: 2020-12-15T18:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
-webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
+publishedDateTime: 2020-12-16T14:21:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
 type: article
-quality: 50
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
-    width: 400
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,7 +40,16 @@ related:
         width: 1300
         height: 866
         isCached: true
+  - title: "Brown County translation tech company acquired by Australian business"
+    excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
+    publishedDateTime: 2020-12-17T18:29:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/news/2020/12/17/brown-county-tech-company-acquired-by.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
-secured: "unTWYgIo8E+QSh4+C4GeJ3w6Z2GhVe2r6Beu0U62JaNM5zlPm9+/8Nu3zoeGu35YLv3wK5OrYVDsUm5VIduvHcniId/WosCr1AnYUlx5x1/I3267ZbHebPjdfBEEnkPO01XXAhNvEZVoCrn1QwuBRbPdLslEnZY5tVU4Y8znM5Wtj6xPIXZ014l3IoGCdZVX4aiCK/VG/hwLw33+3TzwheENmzKoxz7npb7Y6SA5vnMqzFC8mhoN8xeaKhi1h1vCTflkOUUb7ZjZwoMy9tjafGwEPaxM1tuXvDqm3bDKGGZd/Q0LsVKz57Eallt92KBl688W89t8XhdLTQgXAgF37GwPsZIqY2wmg7yswxGIfHY=;rNvG8/hozD+xcJCo03cBbA=="
+secured: "ycKcglk1keSovU1WSlX3j5G7ND7MNEkbkPkBf281IZfy6NM/zje81bjObK2DmJfEg7+jssDMdhIPo15oGJwWD4KylZtCCf+U2utTWna8qulcS2tWPbn5QTstsrtzAjEXFK5CUEqOKsI17m0eqYCmjJrsUsexkZCK+v4yb+oz2sL+q0pn7ZmKNDNrwLXAEK9Afy7XPit/UZZiTdv2aXGZRWsaAgtOK+GITd7p927KA6tK0Mc2EswRpoMoi9mo55HQ/G4h5NZKa9ORO+xZyMzlnkKlvPVJyy5BIC95VoeStBV1xr1k0QNzF6IHDEdDwcGHj5boCAAI8aIlC7HaVWiBOgZTYZr7fUZLSUJ94W+8CrI=;gFpjKKieOTlY6NWDFBlYSA=="
 ---
 

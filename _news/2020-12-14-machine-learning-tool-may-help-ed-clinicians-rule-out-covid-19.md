@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "Artificial Intelligence could help clear surgical backlog created by COVID-19"
+    excerpt: "University of Waterloo researcher found machine learning can optimize surgical times and minimize overtime and underutilized surgical rooms"
+    publishedDateTime: 2020-12-17T19:03:00Z
+    webUrl: "https://www.therecord.com/news/waterloo-region/2020/12/17/artificial-intelligence-could-help-clear-surgical-backlog-created-by-covid-19.html"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 36
+    images:
+      - url: "https://images.thestar.com/COM3-ScoNKxgRdLqXB66s6oGUu4=/1200x738/smart/filters:cb(1608238635794)/https://www.therecord.com/content/dam/therecord/news/waterloo-region/2020/12/17/artificial-intelligence-could-help-clear-surgical-backlog-created-by-covid-19/tavi_6.jpg"
+        width: 1200
+        height: 738
+        isCached: true
 
 secured: "I2IAxWmV8xX00E8fIt0vpqzV2wU+0K+zsAZXsmF6Jv1wYHOpbrJUYn/UBOkJSOGcxlf42vN43Cie9TqBeEmMSmEdKKrCB0lbtruZ2c0br8yPQ2JYXo5BnQYHB6ePHqJu/ajltUnjaoIbajOs2QWP9sJmswSeM83ZaTl+s9ZcGqraa0b9DpBo1Z1yfx44IDR1HTE5261Q6C18O3R2S82V3kyLZ9QIjnZB/t09llLB2Eacos4xg89gL6+Ani46yod+NA7Xc63NUXB1qqy9CgZ+61wk8Tmdpa3RGjDT+Q1wCk4pOE9rg3fsPMODztkmxbMvgTZRX9Ki+kQxiiuf+e7Vc2UHPq4DsMpVBr6Tah30tz4aL9tD+ZmKGIoHsvbU8E2UXFF1Q5GEMS5X5yV8fmpjsWcv0YTfAgrZn21sgNV0nXdRi3D066WFFVOaM9S3j7OgHShFG8Rvun9kN0XyRlcRpL1rCcn5tW3mp/g9WHIwecg2l5RKqU+55t60h/Dvlcz9caOQbm1dfhlco2GHPLunaQ==;H5srO4GS76jtkkqHSLX/jw=="
 ---

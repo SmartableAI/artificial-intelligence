@@ -26,27 +26,18 @@ images:
 
 related:
   - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their operations, unveils its Enterprise Marketplace, a B2B platform that allows fintech and healthcare firms to access an array of compatible artificial intelligence (AI) products."
-    publishedDateTime: 2020-12-17T15:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-1029903119"
+    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
+    publishedDateTime: 2020-12-17T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-  - title: "Getting healthcare enterprise AI data to deliver"
-    excerpt: "There are fascinating academic discussions in the medtech space about what can be achieved using artificial intelligence, but not enough about what’s practical for medtech clients — physicians ..."
-    publishedDateTime: 2020-12-16T18:37:00Z
-    webUrl: "https://medcitynews.com/2020/12/getting-healthcare-enterprise-ai-data-to-deliver/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
     images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
+      - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
+        width: 958
+        height: 502
         isCached: true
   - title: "Fintech Firm to Unveil e-Commerce Platform"
     excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."

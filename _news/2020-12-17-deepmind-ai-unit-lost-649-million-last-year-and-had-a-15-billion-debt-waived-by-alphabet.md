@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-al
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html"
 type: article
 quality: 93
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount"
+    excerpt: "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development."
+    publishedDateTime: 2020-12-17T16:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
   - title: "DeepMind swallows £1.6bn as Google pours funds into UK AI unit"
     excerpt: "Google’s UK-based artificial intelligence unit DeepMind lost half a billion pounds last year, a similar figure to 2018, and its parent company Alphabet wrote off a further £1.1bn in debt, according to its latest accounts."
     publishedDateTime: 2020-12-17T11:10:00Z
@@ -60,6 +71,20 @@ related:
       - url: "https://i.insider.com/5fdb489bc910a400192e8015?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google Waives $1.5B in DeepMind Startup Debt"
+    excerpt: "The waiver \"underscores Google's commitment to DeepMind, with little indication the [AI] startup is likely to turn a profit any time soon.\""
+    publishedDateTime: 2020-12-17T20:11:00Z
+    webUrl: "https://www.cfo.com/applications/2020/12/google-waives-1-5b-in-deepmind-startup-debt/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 54
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/12/cover.jpg"
+        width: 555
+        height: 330
         isCached: true
 
 secured: "ljClQ843GiB07GPIF+2u5yLg8Xn6z8xHGnGBqXRglIkodoA4RAVapswoPlbBV09lrc6A5Xo+JdJyWtXPkMuxWchupXjvefXti/d9q8+bgANQIHiq1T3UH9ucsKlyYl29+RdGMzRiUsp9YsFasPKNebHrLqEeyxdWj39tNnAzZyartXikHKngZCEAceX0m/XuSS5I/4CazQ/2c9sX0nOjJnCHuIKkm2VX9MQzRi66LqDGk2HHT67asMZ/+fi97PuuxWyJ4PF/A7fh0LQZiMe2Bnn7uuyhxge2DMmoay8WtnmmSG0mIDvJbaB/momPuRDQJPB2IF+h9XqoM+d11ll0APA/j1C59YsfRm23wSdYVr+eMKniL6cjVNijbR4ZL7sEOS8dyEKlfLMZZ57SlamrNlCdjzuiQF5nEU8SxKEiS3OLubIU2MPxkqkaLZjbbCbOeNGUQ/3nnQooLl2/8kx70OU+y4jFf6U/lCNZRc0M9ycDnjatW3vMqt20iM1kJGDZFJFImh1ahVxq5LzG5+YkBA==;6RBwSvQiCahobmvkuc+g7A=="

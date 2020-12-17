@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chip
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2020/12/15/nvidias-chips-have-powered-nearly-every-major-ai-breakthrough/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Beyond Limits to Expand Industrial AI in Energy with Nvidia"
+    excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, announced it"
+    publishedDateTime: 2020-12-17T19:08:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/beyond-limits-to-expand-industrial-ai-in-energy-with-nvidia/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/shutterstock_covid-vaccine-2-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "hi/5ZPhWQ0cDmL/tuhXrYtJdZ2iNnAb6Z5VFqDigpwkXAmCk1N03Gy5eenoJpkN0SgFFvx1J+NsrVA2fwjcJJO60D9rJTAfGzn4bV7fZ+U43XvNWeKY5EDbhJ3oOTZUXeo1vy5ca7gjWy6HNAdwAE4Y/INenC/OI3nDB6rRvs2FBQI/9MZDdPYs6cdOzhhYM3semrcvPBoHkp+AYNTIdA9TUo93a6IO37z6mWovQxqO9Gsk/8Lf2vfChYtuEaEtsSxXSVWg6ixLsJcMkapflpgfB8Euy9+XEvvLULqQmvnsxafWHKz3J32LWoVExAP5typqnuTdd1aBl7wu5raeSyDgf6gwruspyY8N8uOkQnwYUSuJWdCUnJx3XSyjoEW0VJ+nUJSPI29aIjttvy7RNeKhKTYilnU+FNsKaDL6ld5oSLbt9McjiCS/ejQlV3xOS+kqfnfGKZfB+myXP1eg3OEBWLrjIij8D9AWz1DVs/PLSJa0dlnQ/HDhpbJD3XyutZ4n74dLNGjVdhUEc+VqpnA==;+iovwCXZSQl2zSJ5jXP39w=="

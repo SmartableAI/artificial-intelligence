@@ -43,6 +43,17 @@ related:
         width: 4189
         height: 2792
         isCached: true
+  - title: "Google Waives $1.5 Billion DeepMind Loan as AI Costs Mount"
+    excerpt: "Alphabet Inc.’s Google waived a 1.1 billion-pound loan ($1.5 billion) to DeepMind Technologies Ltd. in 2019 after the U.K.-based artificial intelligence lab continued to ramp up the scale of its research and development."
+    publishedDateTime: 2020-12-17T16:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-17/deepmind-says-2019-revenue-jumped-158-on-ai-research-work"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
   - title: "Google wrote off $1.3 billion in debt for its loss-making AI startup DeepMind, according to the firm's latest accounts"
     excerpt: "The move underscores Google's commitment to DeepMind, with shows little sign of turning a profit any time soon."
     publishedDateTime: 2020-12-17T12:50:00Z
@@ -56,6 +67,20 @@ related:
       - url: "https://i.insider.com/5fdb489bc910a400192e8015?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google Waives $1.5B in DeepMind Startup Debt"
+    excerpt: "The waiver \"underscores Google's commitment to DeepMind, with little indication the [AI] startup is likely to turn a profit any time soon.\""
+    publishedDateTime: 2020-12-17T20:11:00Z
+    webUrl: "https://www.cfo.com/applications/2020/12/google-waives-1-5b-in-deepmind-startup-debt/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 54
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/12/cover.jpg"
+        width: 555
+        height: 330
         isCached: true
 
 secured: "B208k/Io98gK/W6sCDrYVypWufcN8KbKqTq9xcPf2UghNll9jUmNh9A+HELOvxRVwVDDOUc6h/xxoquI2YR76yReyYIEFJUvxtPgWRa37kIurzGum8QEHdtJjQkWjlifKPRo1L1kAIjtf4YRDTtURkCdbYogPmadB0OYreiBJn89SDZlZ6EgMQWsQFMvbeNg3nx/9iD0w5CrraQbOt1Evp4TUlb1NuTlgNLQEc0sGd0RIt9fWYM9bUGu04M/2Us01KmU3dGMbf6kyaPv/JUqZ0oN1wdGj5XiFT+RbHyYlGkmfvweBRmv2+2LssWdz3dpEiZ/4kplqGN7CZZZTXfX2tuLGPUrbTDSaV40lVzsV6GLiAJfsDOvLEuvHgEqmRys9b5udnjmS8xxWu8ENJ6w6oyfeQXaDV8BnJpH7aNopcp3ekcjv6YX86ICvLV2ylmaf/6jO2RH5NMqJ1EQPNN/MRNsPkwBN75KgHjb0HzKOUgF3E5syCwZ9f8PKL919jFRXH0SGhB/gVYxeUclGZ77VQ==;inirMzWenO3dI+0UHWioBw=="

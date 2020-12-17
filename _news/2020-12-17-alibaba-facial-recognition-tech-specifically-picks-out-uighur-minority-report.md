@@ -2,14 +2,14 @@
 category: news
 title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
 excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-publishedDateTime: 2020-12-17T15:14:00Z
-originalUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
-webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0IR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR"
+publishedDateTime: 2020-12-17T11:25:00Z
+originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
 type: article
-quality: 87
-heat: 117
+quality: 85
+heat: 115
 published: true
 
 provider:
@@ -21,12 +21,11 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
     width: 817
     height: 545
     isCached: true
@@ -79,6 +78,6 @@ related:
         height: 315
         isCached: true
 
-secured: "rRJDYDcR8iaITxiFFQndAf2F2d8g4BugtPY96UNx89pJDQ2YaQYR0dDr7Ul0OAj4G7poMieg95eJW0p4LL2r4PgzyTWilMT/1DLJzNWy1Y9NdELRdO8PbEH+T/dn3RREtDTYXlgJHaJXbK15cZ01v9TDpFTMKeAUk1TFUig7ttXqcNds71VsN3r1zTF5ja9aHXhIeMdWEwnG2ymXjglAcCOq71RdaIvliY3WOcSoRjRaUijACTPdtp+Q3sg/q+s2dOg2lpHmIUdm2p/pQyL5h23MZlRUed7B6zF8T1rkPnQD5Cktuc8uTpeXlknkapMNduFa8RgdNe6WaHs1xbxvf89aN7YJMctBi3KAxzLZOlI=;DQ94R0Lh28X/taHw9XQujg=="
+secured: "aHGKb0xJVcXtD2Gea+pjwI49jARYT4OK4zITgqvipqMeJpe9lV+l/y45gnFKRb5Vyz/ps1njrLOF7Gsv2wozJk23qlYqaPWKi2yiC84tslxw1POrBPq4QgvkkIMsmo69I8a+u6XqQ6nNftWvX7731CVsY5Sx/T+NN0cv4izT29kL9lbvsHrQO3V/dte9dNkIpk7kavI9c20emZzoTpan69H3vTA1ZzS6vcaiwbktaW4CA8G6s/on1eocWr1Zqsw+FAdqbn8smCpRc5IxRruvyyWdx5Gzrj5BYyve9zEG0BxZMJOuTUH2t6vnJiuVYQpqAqI693JTJTyClWrlxK/cvVcy6PsOFvCC29EXSwdR2Ys=;J/M+eF4aj1s39VG0OqcgvA=="
 ---
 

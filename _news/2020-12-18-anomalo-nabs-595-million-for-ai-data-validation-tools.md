@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-dat
 ampWebUrl: "https://venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/anomalo-nabs-5-95-million-for-ai-data-validation-tools/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
@@ -60,7 +61,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Digital.ai Drives Innovation in AI-Powered Value Stream Management with Four New Patents"
+    excerpt: "Digital.ai, the creator of the industry’s first intelligent Value Stream Platform, today announced that it has been granted four U.S. patents for advances in AI-powered analytics. The patents represent industry-leading innovations in applying artificial intelligence (AI),"
+    publishedDateTime: 2020-12-17T10:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-21a975372aac423c8da91c5f2f16a7b7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "0D0J0zoTkE0V80HcsNFNKJk2TZh9oMpBRFu1RUT3peDrapP5OCEgfdz89/KcR6s5eUkugqQ/5ZdraJZ75NTvmgjwdG6+l+fqYpYwAo26Ce4szMhuaTi0nAwjFFoRPv5A2n4jk9msCjHYIS8+ynQ0ZZK+yFavZkHwFazpztSR6HtYCQJ3+uWEzzXsSleAP2CrQR47z4UtvUnoTG6hwfy+c87ZckGsPS7lpxzx1b81sz6BosZeU18dycl4s6DO0vHDy4D9ndJHimEt9yXqKBSX/P5RBM7wz2GKQpERCqQknHTybT+cREFUU2iV0RPYWrHI2B7P6DlDDy4PFtBje3m9Tx/V06kmqweib1x++q9SFnY=;fq3N6aeCHfW2KWb3hcAl1w=="
+secured: "QhEiW7hPZoNatoUkkQ3QC7CZWyrnLmnypCwj1dTcHbGQYJ0OaShQIcmXjvQ6w5CwTchYUDQcu0bGlYcUZ5e8St02qBpdd9Apyzl61SgkzfF6ODJc8rQK+GJut48C4RuE1BZlmBPM+s3bqJT1L0BWosPR4fYOdJ6YhvEYQKNJXGjY/EcI6f2PoFbu4qntPDT1YhN/cSgA7cPloT8wdNXErhzWAaWbAaMLlNyPdLOSauA8GYfyDY5MADfQAxv7IYG8biJiURFnGj0ndL5RSMPKKM70kPYd27dFph6kBcLNePe4KAMBxrBmn6K+ep+FDNEY1EwnFqQBMTcwBpbypKFfKc8EL/ELUTaKk+AL0r612XD+yZzMKiD0psQWep1IOtvAGKsgP/L8tvuBxYCTVizI3llgUKzDGmsKPY1zkREaAM65wCU0ubuXdhVT32bujuHZo1nCqmKokQaO+j0IhsDcENM5MK5TM80H7fdSaL08Mqs4Ppo4iSJq67Vkq6j8XqexNQHz66cYcRT3Ut7rD80lJA==;gl6Er4WuxY1al426S1z9Ig=="
 ---
 

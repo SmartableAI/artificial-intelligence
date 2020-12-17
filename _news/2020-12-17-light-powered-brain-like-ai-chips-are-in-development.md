@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-
 webUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
 type: article
 quality: 84
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -27,6 +27,24 @@ images:
     width: 770
     height: 578
     isCached: true
+
+related:
+  - title: "Want to Make More Money in Real Estate Development? Use AI."
+    excerpt: "\"By actively harnessing the power of AI you set the stage to start the sales cycle.” The real estate industry has benefited and continues to benefit from the impact of Artificial Intelligence in the areas of marketing, lead generation and communication."
+    publishedDateTime: 2020-12-17T20:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/360915"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/360915"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360915"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1607706704-GettyImages-694034887.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "9n8ea/IGPML+q1RryybyHSlqe8mmvhOqymUUTA8IFleM97DCG8W1D297BFhru1b3asMKEcakc4/N7rKDOcj1Z94SJnuRKpXVKLjHqB0wzD93e5mEHANVsRGYZz3bh8uk1KXBjvyq8QZd50Gfz6ofUSohlnx9gPmC+nrOiiP+uN/wmupwS8fmUbdI71l9acLKk8SqL7tXCedptoCNNW478mxxFUFkhEPw/T5/pLgRhnX+Q92D1Th7J9Y+kGgSWmyslc2MFJDdm3KQWrIPZTPqtjMGzkvtLdjltTr0LQvYWbvW8fsX4gXpHHw1754/0TEQweXYqT2OHqeejKFAmybuKbDclWvqg5VQPJb9f3GMPnfkYxoXLfjW9J/xczllIHF8jtpW3MDQq5e+9j8/y33+Dpq/L4uZN1aGgLvEbiT/Inuyw7xkKzWVyuWsyU0tSh981vQCg08d/3/uYlEsBGHDsAPmlBHRdQa7Z2cQ40GvPFgV1f9EZzJZ2cRU5c+WXryWvvnqTR8UC0d3TkdwEPw16w==;HT3TGh97NiO0beqjqhhY2w=="
 ---

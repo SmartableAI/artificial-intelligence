@@ -31,7 +31,16 @@
       "provider": {
         "name": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
         "domain": "google.com/experiment/blob-opera/aahwrq360ncgbw?hl=en",
-        "images": null,
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -297,6 +306,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-15-comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns.md",
+      "title": "Comviva and Ooredoo Kuwait develop machine learning-based CVM campaigns",
+      "excerpt": "Mobility solutions provider, Comviva, has formed a strategic partnership with Ooredoo Kuwait to develop machine learning-based Customer Value Management (CVM) campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.capacitymedia.com/articles/3827240/comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns",
+      "originalUrl": "https://www.capacitymedia.com/articles/3827240/comviva-and-ooredoo-kuwait-develop-machine-learning-based-cvm-campaigns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.capacitymedia.com/Image/ServeImage?id=50813&w=780&h=442&cr=true",
+          "width": 780,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capacity Media",
+        "domain": "capacitymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment.md",
       "title": "AI: This COVID machine-learning tool helps swamped hospitals pick the right treatment",
       "excerpt": "A Barcelona hospital's artificial-intelligence tool analyzes trillions of pieces of data to predict likely patient outcomes.",
@@ -305,7 +357,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-this-covid-machine-learning-tool-helps-swamped-hospitals-pick-the-right-treatment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -639,33 +691,24 @@
     {
       "path": "_news/2020-12-11-lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning.md",
       "title": "Lirio Recognized as Best AI Startup at AI Summit's AIconics Awards; Also \"Highly Commended\" for Best Innovation in Deep Learning",
-      "excerpt": "\"We are deeply honored to receive the AIconics Award for Best AI Startup,\" said Mike West ... innovations from previous winners such as IBM Watson, Microsoft, Blue Prism, PwC, and DarkTrace.",
+      "excerpt": "Lirio, a leading behavior change AI company that uses Precision Nudging(TM) to move people to better health outcomes, was awarded",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for-best-innovation-in-deep-learning-301190775.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lirio-recognized-as-best-ai-startup-at-ai-summits-aiconics-awards-also-highly-commended-for/article_a6189559-f590-5229-8d2a-56dbd422ea94.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1373395/Lirio.jpg?p=facebook",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:34:00-08:00",
+      "publishedDateTime": "2020-12-10T11:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -675,9 +718,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -779,24 +821,33 @@
     {
       "path": "_news/2020-12-10-global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmarketscom.md",
       "title": "Global Deep Learning Market Report 2020: Focus on Medical Image Processing, 2020-2030 - ResearchAndMarkets.com",
-      "excerpt": "Focus on Medical Image Processing, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. The 'Deep Learning",
+      "excerpt": "Focus on Medical Image Processing, 2020-2030” report has been added to ResearchAndMarkets.com’s offering. The ‘Deep Learning Market: Focus on Medical Image Processing, 2020-2030’ report features an extensive study on the current market landscape offering an informed opinion on the likely adoption of such solutions over the next decade.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18728995/global-deep-learning-market-report-2020-focus-on-medical-image-processing-2020-2030-researchandmar",
+      "webUrl": "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec",
+      "originalUrl": "https://apnews.com/press-release/business-wire/health-mri-scans-diagnostic-tests-diagnostic-imaging-diagnosis-and-treatment-8698f86f790142539e2761ba6f9987ec",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18728995",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18728995",
-      "publishedDateTime": "2020-12-10T04:26:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-10T03:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1394,59 +1445,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models.md",
-      "title": "AWS announces SageMaker Clarify to help reduce bias in machine learning models",
-      "excerpt": "As companies rely increasingly on machine learning models to run their businesses, it’s imperative to include anti-bias measures to ensure these models are not making false or misleading assumptions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
-      "originalUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Screenshot-2020-12-08-083749.png?w=1024",
-          "width": 1024,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/08/aws-announces-sagemaker-clarify-to-help-reduce-bias-in-machine-learning-models/amp/",
-      "publishedDateTime": "2020-12-08T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

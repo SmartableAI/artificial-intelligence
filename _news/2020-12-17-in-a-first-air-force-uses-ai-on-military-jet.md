@@ -58,6 +58,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI robot co-pilots US military spy plan in world first"
+    excerpt: "After takeoff, the controls were handed off to Artuμ, named after Star Wars droid R2-D2, which was put in charge of sensor systems"
+    publishedDateTime: 2020-12-17T20:46:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/Artu_trans_NvBQzQNjv4BqBmo3ZBPOSwC7GqRZsuXAwPz7VF_eVkNHHJ3r8hY6kQM.jpg"
+        width: 2760
+        height: 1725
+        isCached: true
   - title: "US Air Force uses artificial intelligence aboard a military jet for the very first time"
     excerpt: "The historic moment occurred at Beale Air Force Base, CA, and saw an AI algorithm take control of the radar sensors and tactical navigation systems of a U-2 Dragon Lady spy plane."
     publishedDateTime: 2020-12-16T16:46:00Z

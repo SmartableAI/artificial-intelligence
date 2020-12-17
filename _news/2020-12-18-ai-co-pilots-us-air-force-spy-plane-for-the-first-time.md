@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-s
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76KO3XRVYFEXTG4BLXBONIQWZQ.jpg&w=1440"
         width: 1000
         height: 667
+        isCached: true
+  - title: "AI robot co-pilots US military spy plan in world first"
+    excerpt: "After takeoff, the controls were handed off to Artuμ, named after Star Wars droid R2-D2, which was put in charge of sensor systems"
+    publishedDateTime: 2020-12-17T20:46:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/17/ai-robot-co-pilots-us-military-spy-plan-world-first/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/Artu_trans_NvBQzQNjv4BqBmo3ZBPOSwC7GqRZsuXAwPz7VF_eVkNHHJ3r8hY6kQM.jpg"
+        width: 2760
+        height: 1725
         isCached: true
   - title: "US Air Force uses artificial intelligence aboard a military jet for the very first time"
     excerpt: "The historic moment occurred at Beale Air Force Base, CA, and saw an AI algorithm take control of the radar sensors and tactical navigation systems of a U-2 Dragon Lady spy plane."
@@ -162,6 +178,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "2JU/+4+KzTwQSsX2ZB9eFqGnPIvTiR45BmX6Pgia5CNaBpcZhqjrZRqJ7He2UWrKMVkm46isg3HFe6559eJrbLz6YZoN54pNel6KetLJ181JhJQCXKCqWNjG55THnSqNPN229EfQLycBQwm4WBdXdmZwA70d+QhfIbb8tbwlzhW8J5nQPkiW0jIsQPbD08+vn6kAxH9EMw1DHbMTH1MixIxip1EhsRSdxh+JOBWfkC4dwR39jbAkfTmjOmBmOQkOdp07cRDQzFJwAK3d7XKhdsvE+JViD5fB8GZvufVgrjU7y2vDIZKJGvrCC1caJa2VxtUbKw0fRm2+GBw6A8T66xTX4zV/Hr9kAPLvwDKE8zA=;4kmqVvqCh/SPlWsWyuKW/A=="
+secured: "pMnJmxabLJ04a/i1VTEEWuBh3y9CHaQjjWUGwxIWIU+ukTzkpepQzOLve+jkvE/7yzwvK5OxbFbpFBBcJmJnc3dI/Iuhg6e66egJa0tdV5mbg7zmaqcZmDStNchxPiYPOYGcrdIZDk1YoxVrbXCM82IlLpX6G3zKIokEV3ozzP9hlIpaLmXLARdOC+3nbwKd9+qcNpWzjvYlKEoKBHlAdRgVgQmhpyapOb2AyQkF7IwuLwExfNa4+Aa+F/uaqlUpiyLzIdlOJbCXQVcU9ZFCWWVJiX7w6cMdbf64AQ6bnDk24JSHbAE/lF1nqYugEyV29E5FcNUyFaHHzuUN5nFojph0Gn9BWMIlI2iLhBM/rvvjUiumy/MfvPySMyl08zE9etA/mbKJLptIXZc3dy3KQCjcfom/EW1YT3AMyIV1YhZCABCUeaY1+L5NS3t7Yx5GZdJfkRSmvuFV0/7i5CIVib04n4/9A2RQZfqlkzEHkYK8z4lIi8CFfsQ1Oc5yB/baiG7QiZME/Z4Hjia3H7UIig==;W5pBJzTjB+fJSimp/LNooA=="
 ---
 
