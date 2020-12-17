@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-co
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform"
+    excerpt: "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward."
+    publishedDateTime: 2020-12-17T21:52:00Z
+    webUrl: "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tHasCRNvhLb5akDB52Swkc-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Why Intel’s share price is chipping into artificial intelligence"
     excerpt: "Intel’s [INTC] share price has been chipped away in 2020, falling 16.7% to 15 December, even as the PHLX Semiconductor Index [SOX] has risen 47%. The coronavirus pandemic, which has driven a rally for most technology stocks,"
     publishedDateTime: 2020-12-16T11:25:00Z

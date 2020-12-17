@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 497
         isCached: true
-  - title: "Getting Smarter About Running An Agile Government: AI And The Next Wave Of American Innovation"
-    excerpt: "At the heart of the field of AI is the idea that machines can be used to simulate human intelligence. Since its introduction by Alan Turing in the 1940s, AI has attracted the interest and funding of the federal government and the private sector."
-    publishedDateTime: 2020-12-17T05:27:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/getting-smarter-about-running-an-agile-government-ai-and-the-next-wave-of-american-innovation-nid-6946.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 25
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/brrp2436.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "0h0gAFywlPXiS2w43VR/VYYSkz+LCmi28CGLxoFV/MgyofqXD1K30b8vT7pdqdqAnBK+ThV2x1KVjAEYNWj6saTADCPAfDODcqOjHqwHzBqJQAhurnX/YerkCHV5oSYBVQizE7sXkXHomdhVBwkeJJW51O0napbs/6v3eYNuUTFMwMhCpOLfh3ruCdPW6Na+SAJ9nJF/N+Tzs9xj8jogXAjhqgA5fLclWex42kuLYdu/puYjnyrAXIk8RJLYX8SqS8JmIDJXgFidEGgYArAZzMSCxVpEmC/+3kHDHsH7WzAddS0m21w+oSSg1NV5d6q5sUUzwkDEl34D+IpDtXLA2GCQLIizNh+FVCnEJVwD56c=;H2RA53U0SEm/61xyHpV90A=="
 ---

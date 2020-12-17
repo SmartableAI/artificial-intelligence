@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-has-ai-adoption-plateaued-or-is-it-just-catching-its-breath.md",
+      "title": "Has AI adoption plateaued, or is it just catching its breath?",
+      "excerpt": "While AI adoption in the enterprise has slowed, major breakthroughs in AI research this year show the technology is still moving forward.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
+      "originalUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/plateau.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/",
+      "publishedDateTime": "2020-12-17T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money.md",
+      "title": "How Corporate Card Startup Ramp Is Using AI To Save Clients Money",
+      "excerpt": "Ramp's growth and success in attracting venture funding in a challenging economic environment further prove that their business model is prescient and signals the future of fintech,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbc218d27bb5af30fdc3c9%2F0x0.jpg",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/",
+      "publishedDateTime": "2020-12-17T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-focusing-on-disaster-response-with-amazon-augmented-ai-and-mechanical-turk.md",
       "title": "Focusing on disaster response with Amazon Augmented AI and Mechanical Turk",
       "excerpt": "It’s easy to distinguish a lake from a flood. But when you’re looking at an aerial photograph, factors like angle, altitude, cloud cover, and context can make the task more difficult. And when you need to identify 100,000 aerial images in order to give first responders the information they need to accelerate",
@@ -62,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -102,7 +204,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -165,7 +268,7 @@
       "originalUrl": "https://www.pcworld.com/article/3601710/intel-debuts-clover-falls-companion-chip-for-better-laptop-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -217,7 +320,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -256,7 +359,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -606,6 +710,59 @@
       ]
     },
     {
+      "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
+      "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
+      "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR",
+      "originalUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R0IR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR",
+      "publishedDateTime": "2020-12-17T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-blaize-creates-pc-revolution-for-ai-on-smart-edge-devices.md",
       "title": "Blaize Creates ‘PC Revolution’ For AI On Smart Edge Devices",
       "excerpt": "A PC Revolution for AI may still be a little way off, but a new ubiquity and accessibility is coming to these software tools and the future development of smart cities could well depend upon them.",
@@ -706,58 +863,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
-      "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
-      "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
-      "originalUrl": "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28R0KP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP",
-      "publishedDateTime": "2020-12-17T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1062,7 +1167,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidsilver/2020/12/16/in-self-driving-amazon-invests-while-walmart-partners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1155,103 +1260,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-brain-controlled-gaming-exists-though-ethical-questions-loom-over-the-tech.md",
-      "title": "Brain-controlled gaming exists, though ethical questions loom over the tech",
-      "excerpt": "Celebrities and tech companies ranging from the game developer Valve to Elon Musk are invested in its revolutionary potential. But even as BCI research holds remarkable promise for Copeland and those like him,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
-      "originalUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZRG3FCQEOZEVXE4JZOAOOANZRI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/12/16/brain-computer-gaming/?outputType=amp",
-      "publishedDateTime": "2020-12-16T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy.md",
-      "title": "From whistleblower laws to unions: How Google’s AI ethics meltdown could shape policy",
-      "excerpt": "Unionization of AI ethics researchers and stronger whistleblower protections are being discussed two week after Google fired Timnit Gebru.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
-      "originalUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/from-whistleblower-laws-to-unions-how-googles-ai-ethics-meltdown-could-shape-policy/amp/",
-      "publishedDateTime": "2020-12-16T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

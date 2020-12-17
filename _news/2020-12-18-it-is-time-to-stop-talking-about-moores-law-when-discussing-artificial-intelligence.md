@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-t
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/17/it-is-time-to-stop-talking-about-moores-law-when-discussing-artificial-intelligence/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519"
@@ -29,6 +30,6 @@ images:
     height: 493
     isCached: true
 
-secured: "oTzzhxHYkB5iLGX2AqkL4vn8ZeDmODwwJwkhQLlcg9mdNywgss6lY9h0Y8XwQqgUjvhruDNue8dxvkY7WlvvwEESmtZZjorlFwUknzuDx+8tIV6UxhUTA+Cecq8PjFGFIKoPzzOjZzYlnxKTLwffuc0R5ZPALbcB+lBW5NQ7l3oGe7ECEg/VOD87RLhwKpBrBEvUFvU8+iOegrax1bPTEOfA+gNtzf5PWsLpidO19DjRaPHrp1GZWclwzMYAyUI4qxzVNH78KwMKJ5BYBj0pGsnPXGQTQDRIMLHTdB2xSviOxOxRMmSsWTNzJsYx+8d1qKjNLMMEt83UqTdL48V0BZuyqyBug+5qK/rsNjbG+ZM=;fyltmifv6T8ht8lMjzZvnw=="
+secured: "3bCBe2d19sfzCN5bmZ/bhSP9Acf0qqN00Oezt1FPU+KCoPiA5UmWTQ5IsAyjxnEG2XDxNqHg2EvpfB0+SUQXIk6b4ibJ7KvCV69xbMtJ5iLW4PtVy74XzOLJWWXm5GBI9v9ndJ1cVmyqNJZ97W+cFcekrpIC+zWYDJ94KLC7PodOrbL7WZEYi6vQhjL7Je6IOjdoqtfSHNmzotPpLbRX84EPI+D6sAlkfWmOKv+iK3sMJm6e6DGR8sreIIxSmdT8T+Qf3ph7TywbFxmaCNZ+9kAjmXPy9Mdblk8cfeWVC6R4SZkcPeqqrSjxqLPxSYYg5bqRkZA0vPgWX1U+tY2CLjxOWAc1CieyoWtBFDJN5aWjqA8Z2ozh+l1J4uk9Zp1/zo9vRmD844BjqHGeaRYBXQzTYpqVn17wKI8o0W/iA4e1CyTSn+hG0+D1tEgIzB2AL1vRApnRMG6J6HBNkl8+szFrValNC84JUn4EO5VgYX/ArLIr+H81UwIlTF7+zPdLdpkch65nk0v9UdyjrXLraw==;pLTa0xCIeEfkH2NstnbvaA=="
 ---
 

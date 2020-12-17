@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2020-12-lot-energy-machines-ai-power-hun
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-lot-energy-machines-ai-power-hungry.amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI is Literally Hungry for Power"
+    excerpt: "Even achieving a 1% improvement in accuracy on difficult tasks like machine translation is considered ... estimated the energy cost of developing AI language models by measuring the power ..."
+    publishedDateTime: 2020-12-16T00:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/why-ai-literally-hungry-power-174613"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2018-11-01T194326Z_1950560704_RC14A66058F0_RTRMADP_3_ALPHABET-GOOGLE-HARASSMENT.JPG_0.jpg"
+        width: 1222
+        height: 815
+        isCached: true
   - title: "It takes a lot of energy for machines to learn – here’s why AI is so power-hungry"
     excerpt: "What makes artificial intelligence language models so costly to build is that the data-intensive training process happens many times during the course of development."
     publishedDateTime: 2020-12-15T21:27:00Z

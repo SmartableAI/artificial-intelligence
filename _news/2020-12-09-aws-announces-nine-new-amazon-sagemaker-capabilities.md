@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Nine New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ..."
-publishedDateTime: 2020-12-08T19:35:00Z
-originalUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
-webUrl: "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ..."
+publishedDateTime: 2020-12-08T19:40:00Z
+originalUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
+webUrl: "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "QVbpTNv2Lwf3+PF7+TDkMix2tIJ4TFyhSnddl/I1Z73IA1asGpTR7AO+SrfC0Ol4F+gg1++kXBjtigve6DXZq53dGH46HNqYgJZimXSbItqg1Qyg9n02ps99cDZvgGfodgIPQ0qCgTulL2EzeJ8tW3M41ZFoQ7YiPTrgSDXLZqqiBPTtVAe0dJlFo92ajkD8Z8MNvt+wzgv8SFHJH6GPLqjkOP24fxzPGlEiMNq+LM9Zhl/kvg3tSWl+8EpwPFvAeU0EkhdLCOdK5T4jq0z9ucYJF6gmXp9U5xfys87ePWJ8QFhNpbDOAlZYHqLtK78d3RYb4E88Lf/5nk8XLT6A4fVI4qVYcrqVYjE5Ok47Z60=;cuxoJAnTYO61IM6Tjrs1cg=="
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
+
+secured: "k9kqCH5/T0eWTHIyYTzVcZ4o7xPI9A7Vl2rwDEkgOg8Mzy9hr2Vybd0dIncdlV3UfsesJnWE79ZOqLwYDS7XrZpCKQXoaBeEJartXcxRfd35dI5+lLNe/YGC8O73XyE/3LO6YyFt24L6IlBU1t5JQ3lHSADugewXkrjiqYB9aT08TIzzUC6jVgnj87dItfRqLa31wdaym4Qby1yUrEijYPaE2lH7SQd24qmxiJe2XgefgnlMC7JgByO8Wj9ouX2WEBNNMnABZ1MYBEXpLZWNPlnkdNF1liR+RZuI8p9Je15aVgRH5mi2bNsbwaWf+CuOmcuPGBHJ7JosHc/HfWLvr0KgfYwMxZ6dB1ZMka/yarE=;UCM4Cer62tpuNGaD1uvhPQ=="
 ---
 

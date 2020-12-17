@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1344,24 +1345,33 @@
     {
       "path": "_news/2020-12-09-aws-announces-nine-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Nine New Amazon SageMaker Capabilities",
-      "excerpt": "Amazon SageMaker Data Wrangler provides the fastest and easiest way for developers to prepare data for machine learning Amazon SageMaker Feature Store delivers a purpose-built data store for ...",
+      "excerpt": "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced nine new capabilities for its industry-leading machine learning service, Amazon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08",
-      "originalUrl": "https://www.nasdaq.com/press-release/aws-announces-nine-new-amazon-sagemaker-capabilities-2020-12-08",
+      "webUrl": "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html",
+      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-nine-new-amazon-sagemaker-capabilities/article_41e5acd1-cefb-5cfa-b7a9-00b7e2b028b5.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-08T11:35:00-08:00",
+      "publishedDateTime": "2020-12-08T11:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Marlabs recognized as an Established solutions provider for AI engineering and IoT Services in Zinnov Zones 2020"
+    excerpt: "Marlabs, a leading Digital Solutions & Services company has been recognized as an 'Established and Niche' technology service provider for"
+    publishedDateTime: 2020-12-17T22:24:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/marlabs-recognized-as-an-established-solutions-provider-for-ai-engineering-and-iot-services-in-zinnov-zones-2020-865579361.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "Dbv2cVayDtXlA/4BVpOOWidOmrf6EzvOp7DKmHCN/oozwKDX1HZ8twqVDU3i9Yct/BjUFqanf7WmztNuUI37qHUkTDRFAtdSpaQtv4z+D4vLSOKT3PYP96sUBCApCH7ayNow4exKHr+/gyCMlVhYaTaVnpJfldoVMVrZvmqyr0qXzgooRKDBha/VFrab7yyNR/8ILN7KDGC5iu/mFWgB5w2zFx6M/ux8fphxjTkJPb35E5ypyMko/phoUIGy/Xvhbq11yY1Sl1KvkCJCsssrB3+q/+HgaIyfpSxkZJ+DdKKtYKtLen+1s89F45wMY6kn6k/7W15zByJX+wBpH7PE1TGnsHf/kiLWQsF7NsYS70C/yqbDEM/n5BqSSjYoRGHG6V8am6BAv2Udw+k35+2tAykPgmZSi0xcSj98h96qHSJOGbbD+wi853qWGMLJ9qCaMGpHXymEqL0Vig9BZUqy7r6xK+/2XeCNe0NDh5HKi8QKXUzfyaW7AAVJaVaZCHLklkSKudmbccYadH3dXvpFgw==;sHIY0gH38pccNoV9bUxA7A=="
 ---

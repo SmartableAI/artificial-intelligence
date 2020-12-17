@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-n
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/"
 type: article
-quality: 104
-heat: 124
+quality: 106
+heat: 126
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbb59c68a7edc3af291b7c%2F0x0.png"
@@ -57,6 +58,6 @@ related:
       domain: forbes.com
     quality: 66
 
-secured: "GZRXUq21/BcatHTP5vExAACgvDEbTc5OxLpcZFVEz4evswppQqGydEzCnWvx+Xcr3kihIdzPy6Loy0MgAK5tg4RD0qNVT7xLCu2TZC3HGlYrPA8cYcZyDAsa02rfgAH57kW4ff8EbdCefD5018AIwYSqHPoN53+d5q8rG74ONgryCKsDTX2/vQNVvoOj+R7i2CYl1bxEY75/lUvNjRSjLE49O4qlyxONjPbl/BaBNoh8nG5h4y3aruizCsXw6KZh7DbdqB4sfUhexwgsSGB+8btyT+z5PXufSG9BfBh1Dca/bpeEEyzpxMfN9FWcAaBhiSu703dbICQAcHCXleW6w0T2ObL/B9TGpEVjfmVZo8Q=;JKHYHBON4DhQbTI7nYeQbg=="
+secured: "1xinRB7zRsUcUiUCeapKT9oRtTCQhwVUDp8zFwuoQOW3FKKdpiiZPRTZ2Rzx2ztjyU00TsOMCHsnCaUbtWzIpGQ2P1+h4621mS9FTMO6SC6XklKCeo3kpAg/GhMIMg4F+m1Ui3eKEM6nZCmAe8GGrXZ/Dhpc+x6/A6uwGGR+7q4BiJRyy2HOn+0tlDWF6KQ803DGY2/vyV5nEBBudQumYqIC8wRVVl1A2iqJ4Osqq6TD9zctAXkutZ8swro5EInQvUSqPKlCvdGBs3kX2VEcJska1ejsTxdpeHk3OXxbGcYGlmu5YdH+G0dClOC2ZVt3wRmMb7PE+ia2URrv5a7Ekgp2+RAJ3MvH7IZsP4jVgYjSkRwvI3ZaW7TA1no9StGw+YpYuFZOimPaF6kl/pgV0mXlIxgwq95la+mtkrrOKGYjRouFHsVLYgrfRpsc1mF84WWqpraOfUluG0kLlL2snWVCD0pMnUO2XRFbxe326OBWZB4RLhUrLk3E+x4wevEivODY5b7j1iH8Boq7fu/irQ==;0RNmMdjE0Q1GSXPRhAowzw=="
 ---
 

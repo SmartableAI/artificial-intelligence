@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel reveals new Clover Falls AI-powered coprocessor for Intel Evo platform"
+    excerpt: "Intel unveiled their latest enhancement to their Intel Evo mobile computing platform this week: Clover Falls, an AI-powered coprocessor that Intel says will noticeably improve laptop power efficiency and battery life going forward."
+    publishedDateTime: 2020-12-17T21:52:00Z
+    webUrl: "https://www.techradar.com/nz/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-reveals-new-clover-falls-ai-powered-coprocessor-for-intel-evo-platform"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tHasCRNvhLb5akDB52Swkc-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Intel Reveals Visual Sensing Controller Chip For Smarter Laptops"
     excerpt: "Intel introduced the Visual Sensing Controller, code-named Clover Falls, as a new component it will use for Intel Evo-verified premium laptops."
     publishedDateTime: 2020-12-17T18:59:00Z

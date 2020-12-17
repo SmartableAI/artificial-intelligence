@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Instead of banning facial recognition, some governments in Latin America want to make it official"
-    excerpt: "There is increasing implementation of facial recognition technology for mass surveillance in Latin America, and things are getting worse. Government leaders in Buenos Aires, Brasilia, and Uruguay are pushing a legal framework to perpetuate this invasive and harmful use of mass surveillance tools."
-    publishedDateTime: 2020-12-16T12:30:00Z
-    webUrl: "https://www.accessnow.org/facial-recognition-latin-america/"
+  - title: "Some Reflections on the Role of Government in Trustworthy AI"
+    excerpt: "BKC Executive Director Urs Gasser delivered a keynote speech at Lanzamiento de la Ética de la Inteligencia Artifical en Colombia (“Launch of Ethics of Artificial Intelligence in Colombia”) about the role governments can play in promoting trustworthy AI systems."
+    publishedDateTime: 2020-12-17T21:21:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-12/some-reflections-role-government-trustworthy-ai"
     type: article
     provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 26
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
     images:
-      - url: "https://www.accessnow.org/cms/assets/uploads/2020/06/facial-recognition-social.jpg"
-        width: 1024
-        height: 497
-        isCached: true
-  - title: "America’s Intelligence Needs in the Face of Great-Power Competition"
-    excerpt: "Both China and Russia now rank as great powers and antagonistic competitors—and they are not alone. To cope with this reality, the military is shifting its primary focus from defeating international terrorism to prevailing in a great-power competition."
-    publishedDateTime: 2020-12-14T15:35:00Z
-    webUrl: "https://www.heritage.org/homeland-security/commentary/americas-intelligence-needs-the-face-great-power-competition"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 22
-    images:
-      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2020-12/GettyImages-1148506776.jpg?itok=vfSxstbM"
-        width: 1200
-        height: 630
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2020-12/ColombiaEvent.jpg?h=23b8e2ce&itok=VBTQIPae"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "yu/I6EwJqph4kdd2xJqvIIVXIlgw0wJWrMqE8dGh8NFLR9VBVp0VZdhiLnDZYsotjzE1hht2ACf8xNlrcrcfhmvpIX+5eDVXOSjvO31ZnMwIGcSmnQKfTfXhbrCoJ6GqBOEfCrbt3nm2MjmoEndEbRkRUOFepmXoPg7ikvxXkXC+8WZNC2PZurJeBGR+xssqTYKrk9Q/f+WM7GpXU5j6/On9iuy6BR9Y3thXjgxYAkf7kc5h6psq+8NNPVyj4uVjOvtQ1MS1GWZShSK9s8KZZEF8B4Mu283P6L92nYFp7sb6Y2uaNqLEoiaFIpc0l5bDzJWreoMXL/wxTgMn0507acL+ubtqGy251yeXLbQytd0=;G0BQSsVGY3e/VjMX6WnXcQ=="

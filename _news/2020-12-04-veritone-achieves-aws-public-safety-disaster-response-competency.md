@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Veritone Achieves AWS Public Safety & Disaster Response Competency"
-excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has achieved Amazon Web Services (AWS ..."
-publishedDateTime: 2020-12-03T18:04:00Z
-originalUrl: "https://www.oaoa.com/news/business/veritone-achieves-aws-public-safety-disaster-response-competency/article_8cdb3730-da60-5f2e-a8be-c05ed112fbe5.html"
-webUrl: "https://www.oaoa.com/news/business/veritone-achieves-aws-public-safety-disaster-response-competency/article_8cdb3730-da60-5f2e-a8be-c05ed112fbe5.html"
+excerpt: "VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has achieved Amazon Web Services (AWS) Public Safety & Disaster Response ..."
+publishedDateTime: 2020-12-03T17:28:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
+webUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/e/ba/eba72b13-a152-5661-b543-e851af78d691/5fc91dbd26e1c.image.jpg?resize=1181%2C630"
-    width: 1181
-    height: 630
-    isCached: true
-
-secured: "ZfYXWjTNE7HiMsCHle2iegeJ9DQEPQltXpC7C48FUmmxP02CjAN8QVDtVx67fzwdMkC4hktdvsw+OqCk8YlfLgGOV/Hp7k4LOArg/ko8dGFoN86F2qB9P9BV4iTZTiK1b7R89dsekR8zzqLc29XumMTK8JBCjVc0esmPBjNx4zUAloFcbP0EdOsuh0xSM/KfcfeEX2pEW1d0f4pnX1hjjNj10RPeIKsS/ScCPK1zaJL9q7dPRmSfL/fh5Ena5ZH+q9DGQxfaHSqusQR+jePhJMHxIoo7R+dzrCewYp3gIc2JODn3+y9ADKXgZTLXewgNqcLy95pe8jHJw96DJI7bALAh74miTo7oaAqIAwNGHTw=;tk8PIJ2grNxgOAzvy7LCZA=="
+secured: "/JlYrFMfzkkX9tol+nA+9s6PMMY5rua5wLdSmh79IkZBBAvMYCiIOhaOOVdF/53r2U9XyaDxffoOySYh+tbO79N2rgnKHsYFuVKgyz4mKiEVt8Tb0FcrBDo5Hl3wBv+AJ3RDZiqy281fdMYtS4qODki950pToMJ3NOsQcrEQ0GNk7DeB9AdEhItkJxvpNgfoBak+suf35j03IdPejruJgs2f6orvMRn+FNxkkskC2JFFT5GUyskUylsf1qPlmjfx8jkjyK7ogqgm3s5JAQ0nLIABkfUOnydk0hfrTvOWCKSmz2fyXqAJa4UKpqiSEno+tIefQrfN7GpVDib2xWSgqArXBO9wpVQii4CPkWar3gU=;UAsD9IBxpHxaLHxT8XNnmA=="
 ---
 
