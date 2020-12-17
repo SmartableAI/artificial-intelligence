@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-17-google-ai-researchers-lay-out-demands-escalating-internal-fight.md",
+      "title": "Google AI Researchers Lay Out Demands, Escalating Internal Fight",
+      "excerpt": "A group of Google artificial intelligence researchers sent a sweeping list of demands to management calling for new policies and leadership changes, escalating a conflict at one of the company’s prized units.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.im7Te14rY4/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight",
+      "publishedDateTime": "2020-12-16T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-retired-uw-computer-science-professor-embroiled-in-twitter-spat-over-ai-ethics-and-cancel-culture.md",
       "title": "Retired UW computer science professor embroiled in Twitter spat over AI ethics and ‘cancel culture’",
       "excerpt": "(UW Photo) The University of Washington computer science department denounced comments made online by a retired professor over a debate about AI ethics, Timnit Gebru’s controversial exit at Google, so-called “cancel culture,” and more. A heated back ...",
@@ -1438,58 +1490,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-how-ai-works-an-introduction-coming-to-a-school-near-you.md",
-      "title": "How AI works: An introduction coming to a school near you",
-      "excerpt": "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/",
-      "publishedDateTime": "2020-12-02T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

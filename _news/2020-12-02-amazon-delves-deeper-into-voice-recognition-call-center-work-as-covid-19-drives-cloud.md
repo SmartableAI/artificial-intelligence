@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/us-amazon-com-aws-idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/us-amazon-com-aws-idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 545
     isCached: true
 
-secured: "ZPDL7qBwPgE4ScPOObQ16wJRFPDHhV0usV5YAZcrLwx4gqUUk6pw1r/KtiVe8ezSN7tsiTnbwu89D0UPbg1W25sOssBu8VrNX83U45DRM4jMtAG/VHe93MZFPDCFCxYbFlogs2rCzHL1q89anObtrIqEN6DyrcAn6pqSzuWLK0JMG689GYqwhQoQplw/g8ZgzulQ//eV9wlS1QoAU0JezvBsHATssi0CGvDTJXWQbZzbz5X4yb0WVYXefqfNMfY7i4LbTQ+Rr30kY8ctvE+DcPaVezK9CVL6HG2X0QONAVVGYUEUMcA6UqOk34yVc8F3Uz2Jck8Mo4K0uZIAiXsIb3p3bVuxrHVZqD20WxVxZjM=;9vYxiPeOwB90HtVsjXw6Dw=="
+secured: "FVZZzHDRzVF6swTe9BHFQDRDjAxzK7qEBGuqJSYwN4iCg7JMecGryadf5P8nE9hou4w0QWSAuoYGbEtGfsa9CTRoc0OYUWvcc0yx6UuzPyO1Bta/Psw3gbOw/oXR7ixa5MCp3ZHLDBkbXh+PeaOqs/3jC61zyCkKOHvHFksdupVpVFmUo5rvGJLIN05p4LjxfCF0ZE2cDqS7U1FD3VErl7qjPRq88xYbcY4sRbrMnH82StNovnFlaT9DNJE7IDd2oEnh0Jyj4+KwTO3XefaA3QiJffn6LZX+lDsUjwOnz/Wxhkla8/umoqhUXZ2GJIhJmyDJT50SBmMs4EQOjDkrrT8+td4HXPX2uKRAVXLtt3Q=;45On/IxAA7CYst/EVNCRug=="
 ---
 

@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "In a first, Air Force uses AI on military jet"
+    excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
+    publishedDateTime: 2020-12-17T01:35:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 57
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76KO3XRVYFEXTG4BLXBONIQWZQ.jpg&w=1440"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Artificial intelligence co-pilots US military aircraft for the first time"
     excerpt: "Dragon Lady” spy plane during a test flight Tuesday, the first time artificial intelligence has been used in such a way aboard a US military aircraft. Mastering artificial intelligence or “AI” is incr"
     publishedDateTime: 2020-12-16T18:19:00Z

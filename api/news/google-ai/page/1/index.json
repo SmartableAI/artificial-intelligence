@@ -108,6 +108,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-14-after-an-amazing-year-for-science-whats-next.md",
+      "title": "After An Amazing Year For Science, What’s Next?",
+      "excerpt": "I’ve written about AI’s use in battling the pandemic already but arguably its biggest breakthrough in life sciences this year came at Google’s DeepMind AI lab in London. It has now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
+      "originalUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd776b192162aafb68c1685%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drkathmackay/2020/12/14/after-an-amazing-year-for-science-whats-next/amp/",
+      "publishedDateTime": "2020-12-14T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo.md",
       "title": "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo",
       "excerpt": "Various machine learning (ML) optimizations are possible at every stage of the flow during or after training. Model compiling is one optimization that creates a more efficient implementation of a trained model. In 2018, we launched Amazon SageMaker Neo to compile machine learning models for many frameworks",
@@ -1393,58 +1445,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-london-ai-lab-claims-breakthrough-that-could-accelerate-drug-discovery.md",
-      "title": "London A.I. Lab Claims Breakthrough That Could Accelerate Drug Discovery",
-      "excerpt": "Researchers at DeepMind say they have solved “the protein folding problem,” a task that has bedeviled scientists for more than 50 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/30/science/30SCI-DEEPMIND1/30SCI-DEEPMIND1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html",
-      "publishedDateTime": "2020-11-30T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

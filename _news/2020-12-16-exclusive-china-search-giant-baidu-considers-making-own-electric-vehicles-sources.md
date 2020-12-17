@@ -90,6 +90,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 63
+  - title: "China search giant Baidu considers making own electric vehicles"
+    excerpt: "China search giant Baidu considers entering the automotive market, becoming the latest tech giant to consider branching into vehicles."
+    publishedDateTime: 2020-12-15T13:18:00Z
+    webUrl: "https://www.autoblog.com/2020/12/15/baidu-explores-automotive/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/12/15/baidu-explores-automotive/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/12/15/baidu-explores-automotive/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2020-12/c46256a0-3ed4-11eb-acd7-a2c611190d43"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Baidu shares jump on report it will build electric car"
     excerpt: "Baidu is considering jumping into EV manufacturing as investment in the sector is picking up tempo, with tech majors buying in."
     publishedDateTime: 2020-12-16T11:19:00Z
@@ -133,6 +149,20 @@ related:
     quality: 39
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Baidu considers making own EVs, report says"
+    excerpt: "China's Baidu is considering making its own electric vehicles and has held talks with automakers about the possibility, three people with knowledge of the matter said, the latest move in a race among tech companies to develop smart cars."
+    publishedDateTime: 2020-12-15T12:23:00Z
+    webUrl: "https://europe.autonews.com/automakers/baidu-considers-making-own-evs-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Baidu-MAIN_i.jpg"
         width: 800
         height: 600
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
 excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
 publishedDateTime: 2020-12-16T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c"
 type: article
 quality: 20
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 866
         isCached: true
 
-secured: "JzsLta0eXJBa5pbM0Bb15mShlroQ2lAis2Y/qoJIemzYUvFu2c/jlgexHkqbxJLn/fHBbd5ZSYhIprlMeequkYxO4tqyAGGw9yzEgkvOIDP8UOEvhSC5o98zdT17MUDDU0d3B93cppOXFhWDhjdHlksFL/JU2j1BfK60CWJRjQXQVbviphrVSp89QcnWaJMgBDA2d2RbHWWdRa+bfTIctQyvzCZUz5kUH9cRAOSzvyf9xEc79qCcvoP9n4STkzRcN1Nf4rfdEIjRTrluYB4M97R/F+pu8xlgCaG6tAWJYxbmqDrO8Z8DAfkSVEZC8Ddqt39NiYOi3irElK+HVvacoIKTYiUYz39JuRbBUlm+8V0=;rlY8u2FmdR64ISKIoIW9Kw=="
+secured: "YZn4ZC/z/kGqrWag2noGeQ4lO+vtB1lh9oBSKLQUvMX2H2XhMTs1J2b5Ll5jVpwSjxVpT1PaYnqSdgAPYO3wOe87W+spP/sZz7W8ZiQMuQFz0ZjcftnvIWCPbLCE+KBatTYCDKOwnGVvRfaiAXkKZHLO/UWWeNhRQK01pO6uDz2UxAPyPbMyktZ7nabgLsEHbB7alEwFrR+SY/tn86G13DZ9KnrjIHysQFrrRFguM7Dvn7oH2M1l6PKkYiROkC3ZeKRGLGJIExn3y5C9xTMw7QeMr+tyUt6z0CVI9v5D0PyhdPM+2DsDXgEH5a2maixURJEsCRvv65ZPqms/SQE+IYYG236Pzye4eSUs7wRyX1Y=;/p1n+tBOk3P7lNTG77dnLA=="
 ---
 

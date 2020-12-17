@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "In a first, Air Force uses AI on military jet"
+    excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
+    publishedDateTime: 2020-12-17T01:35:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/12/16/air-force-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 57
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76KO3XRVYFEXTG4BLXBONIQWZQ.jpg&w=1440"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AI Copilot: Air Force achieves first military flight with artificial intelligence"
     excerpt: "Signaling a major leap forward for national defense in the digital age, the Air Force flew with artificial intelligence as a working aircrew member onboard a military aircraft for the first time Dec."
     publishedDateTime: 2020-12-16T15:16:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-res
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-16/google-ai-researchers-lay-out-demands-escalating-internal-fight"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Bloomberg
@@ -31,39 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Google showed us the danger of letting corporations lead AI research"
-    excerpt: "But over the course of one topsy-turvy week, Google gave us a clear case study in the perils of turning so much AI research over to Big Tech firms. No company is more dominant in AI than Alphabet, parent company of Google and its AI-focused sister lab DeepMind."
-    publishedDateTime: 2020-12-12T09:04:00Z
-    webUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/"
-    ampWebUrl: "https://qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1945293/the-dangers-of-letting-google-lead-ai-research/amp/"
+  - title: "Artificial Intelligence learning research lands in DPS"
+    excerpt: "Denver Public Schools has been selected to be part of five-year, $20 million classroom artificial intelligence research project."
+    publishedDateTime: 2020-12-16T20:09:00Z
+    webUrl: "https://kdvr.com/news/local/artificial-intelligence-learning-research-lands-in-dps/"
+    ampWebUrl: "https://kdvr.com/news/local/artificial-intelligence-learning-research-lands-in-dps/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/local/artificial-intelligence-learning-research-lands-in-dps/amp/"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 89
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 59
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/12/2016-03-08T120000Z_418414419_GF10000337499_RTRMADP_3_SCIENCE-INTELLIGENCE-GO-e1607727789291.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2020/07/DPSScholarship_ProgramPage3.jpg?w=1280"
+        width: 800
+        height: 475
         isCached: true
-  - title: "Google showed us the danger of letting corporations lead AI research – Jaweb"
-    excerpt: "Artificial intelligence, more than most other fields of research, is dominated by corporations. Private research labs at Google, Microsoft, and Facebook churn out more top-flight research than most universities."
-    publishedDateTime: 2020-12-12T09:22:00Z
-    webUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/google-showed-us-the-danger-of-letting-corporations-lead-ai-research-jaweb/?amp"
+  - title: "Tensions in Google’s ethical AI group increase as it sends demands to CEO"
+    excerpt: "Tension between Google’s Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team’s leaders — a prominent Black woman in a field that’s largely White and male."
+    publishedDateTime: 2020-12-17T02:55:00Z
+    webUrl: "https://krdo.com/money/2020/12/16/tensions-in-googles-ethical-ai-group-increase-as-it-sends-demands-to-ceo/"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 60
+      name: KRDO
+      domain: krdo.com
+    quality: 55
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/12/Google-showed-us-the-danger-of-letting-corporations-lead-AI.jpg"
+      - url: "https://krdo.b-cdn.net/2020/12/hypatia-h_a6115cbeed17161a3e4fa7b67d7b1fba-h_bc4659a814d1231d2d76c90c84518d96_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Global Artificial Intelligence in Law Market 2020: Market Growth, Trends, Revenue, Share and Demands Research Report"
+    excerpt: "Global Artificial Intelligence in Law Market Report has released a new research Analysis and forecast 2019-2024 comprehensive of one or more factors covering regional opportunities, application landscape, product demand trends, and end-use portfolio of the ..."
+    publishedDateTime: 2020-12-15T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-law-market-2020-market-growth-trends-revenue-share-and-demands-research-report-2020-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
 
-secured: "q8mQ4O6E4dL4QnpF/v2xbVl1twGk1gPYdDYOoIHeaXprlf4bHcpgCx3L1wYwAoLl8AhzKTYdB6cCWiMb9REFdtUaI+rSxkHtIrvmCGdKYTBuoH9rgfRPZfRr/KwC/nbgQAUfKHYlMtYMJYZFCU1l5bxdiwEU2NA9E5Qw8LPI+fHS9gqGTX6fx4BwZClR/fJ8869HOWCSAQ44WZ626Tgr8zG2vn66sVeNffGceGMGPMyv0K1paUxC0bXhTGGE7oMOrj7jZsvkq5232BCjgagSKp0zCcOoAsTY1kKZEUpvQX8lQR8sYC9/cNEaScJ861pQt65HNosK+2RZvwUVnccV+hgS8a3JpOXB3YltvP4Wyrs=;A8U7icfuMS6+nUUN8I6QLQ=="
+secured: "Mgg/5SXuOSGeyuRFV9UQW5Kf2VXOVBR+WaCcGOnjNgNRe5y7x6OEg9DWMi4uw1ItLOXeMN4cMjleKz8BOKF+U9UuRlhPHjtES032uhIH77fsGn6NeyckhkdBLe4YNpOrFjogHWrQ97f9mc29JLikDqo2KoSHtfquZZfCvrE0XGT9ejt6FYnGeLNjHycV6fydL8tOhgCx5wxqUgth4C8FQSBYlZfMyyWJ1CBRLM51F8LWxJCKsNV+yrljF6ng5KcTjMzcX+ODdvYzP+iMuigSeU9oyKBNJ+eyrMSrVBy/PGoqSK1uF8IksbTsEfbdiYh5kX8NY317qBSEi7Te2X93zBMcqvNJaR7Lny9wPFIEvlIaffyIUi/csX7xz6Ey45xxTTHkJXH8wEPCMv/vpdIRMo0oeV2CMt6KlLkITQDsZIKVQ7F/UI3OJKoqVlWFniMQgn2Q4vfTOUtuCGV09+WyBPjJO9FZID7s4PHP6Kve480ppw+eKmB0eu315CvjsNpOTYINo/3pXg1E1VkzCpox8Q==;L70Nra+ECS4Hvy7YDaRJhA=="
 ---
 
