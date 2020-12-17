@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Exclusive-China search giant Baidu considers making own electric vehicles -sources"
-excerpt: "China's Baidu Inc is considering making its own electric vehicles and has held talks with automakers about the possibility, three people with knowledge of the matter said, the latest move in a race among tech firms to develop smart cars."
-publishedDateTime: 2020-12-15T17:34:00Z
-originalUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2"
-webUrl: "https://www.reuters.com/article/us-baidu-auto-exclusive-idUSKBN28P0F2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P0F2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P0F2"
+excerpt: "tech giant Sony Corp in January unveiled an electric concept car with self-driving functions. Building cars would represent a dramatic development in Baidu’s push to diversify income streams as ..."
+publishedDateTime: 2020-12-15T16:30:00Z
+originalUrl: "https://uk.reuters.com/article/baidu-auto/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUKL1N2IV1GR"
+webUrl: "https://uk.reuters.com/article/baidu-auto/exclusive-china-search-giant-baidu-considers-making-own-electric-vehicles-sources-idUKL1N2IV1GR"
+ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
+cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN28P0F2"
 type: article
 quality: 83
 heat: -1
@@ -206,6 +206,6 @@ related:
         height: 557
         isCached: true
 
-secured: "MK75yiBqyqdLy0PqxiEI1SSM4FpxJefvFc1OGMu+fQw07Kh9uqlfntiM76NhnfTmWkijk16pJHYLNBWTk0dYOSEAHTIpyHmR/qbn+nG9O/fa9N3fcxwMHhRmK2A6K8oV8T2thQeZLcpnU5NsDeYOvf5O+ew4B2J7hBvPTDX4pCjt98XAP3kOXo3b1+8uSne1jr7VXltWiHBQmUz9i+m8l7s0zhxd1bVwWGKm8sAWTFwHegvuLZ9GKFAHBh5USm3nBT4szHZlIuhPdbhM4gKXk17mxfZ1Lf7KPbH2vxGzomivFZH7O6cAAc9l/FgvNDk2sbluW9ulr6IgVRcb5/9uGMJQuf2fJ+pNr7f6/5EujsKDABqp9S1V/MdWAAPBYyVAO3SifZUpt5xVWd4JiuuTEA2rWHAUwBtMuraX0KrPlH6CQEIHaN9AEKVOBrBr7BuO+GoarGqP0jpy26aoWClMTLa9upND4OB6bSliMyFVt+2/Tmj8/pZQ1iYKB4cXDYza2TGZRlnRThVzxNQuWQy8aw==;ZVdJC9lHLm9tT688e65j7w=="
+secured: "mFzqWfBxrRORvlddb4Tpt1MJ3wWBxxzAWxJEGia4s0wSTZN1sFcB/vkLqr+g3nvGeOz5GcPmFC4tdkvDEC7ZtV2UvsaWRfeXhzhUm2HQLPG5+/lw4zPLEymzjkedpCPWbdV+Q52u84htBsbdDOe40nS2yGS9qQZAOVUIjm4RhkxgAZ3YYDbHVl1kAwivfqcAYhI5vVREI29XcmmXmVo3nFkH3DcxgLIK8giXsZCQSlMq+PtG3B8KjNz9LtBA4ZUyQ2xnB9Atx6/ezKA1hA58WVEti1JNTM7QaK+CcI5LxTNx22iqRXiS72RcYNrFjuRzvDzgELmp0JjI8y501EbcoUm4mKd7qs4dySM7qwRfWfU=;QLukFysaM1f9li+Xrr4oNg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/15/skylum-launches-luminar-ai-its-ai-photo-editor/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 658
     isCached: true
+
+related:
+  - title: "Try Luminar for a Still-Early Stake in Self-Driving Auto Tech"
+    excerpt: "Perhaps you’ll even consider joining Russell’s quest for better self-driving tech. A long position in LAZR stock won’t necessarily make you billions, but at least you’ll have an early ..."
+    publishedDateTime: 2020-12-17T03:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/try-lazr-stock-for-a-still-early-stake-in-self-driving-auto-tech-1029891265"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "T7K+2m0Bz52Vm3nseT9AMgwyGlu9u/HXvmNcclUf6ZYbj5uh2H01unk4h6nAf0YkfBVagaZ4iKItDEgpoUNwyu0T1J9gszCk5t/bfTi5VZ3FWgv609sdSWwJ2hb1jADzFAYN0bd9KabjfZrape2yAhC/MbobKtD0r06sx2UaUJxzreos92GQW+e/E3Z5CgiX+ROWdfcJ4yZjrBQRV+rAC+JyWN9livEMMvcILbPidmsGbftLX2z1ML0r055K/ooh7cLtwETSTQMZj2dG5W99EdyasYQ6BJgbI5fSAQH/cM30/CIqyvo4zMReAjMRkHo1SWTm9oU3z5gTTLhcdVASG1CqENq0uYyL83vBLni3doU=;DmakgzwsoD5bOZNZw80HBQ=="
 ---

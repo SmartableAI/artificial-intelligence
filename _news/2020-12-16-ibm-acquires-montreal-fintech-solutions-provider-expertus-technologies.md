@@ -86,6 +86,31 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
+    publishedDateTime: 2020-12-17T03:19:00Z
+    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "IBM buys fintech firm Expertus to expand digital payment solutions"
+    excerpt: "IBM buys fintech firm Expertus to expand digital payment solutions - Tech giant IBM has acquired Montreal-based fintech company Expertus Technologies for an undisclosed sum - a"
+    publishedDateTime: 2020-12-17T04:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-buys-fintech-firm-expertus-to-expand-digital-payment-solutions-nid-214848-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/m5S1U8up.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Montreal-based FinTech Expertus acquired by IBM"
     excerpt: "Montreal-based FinTech Expertus Technologies has been acquired by IBM as part of a strategy to become an end-to-end digital payment solution provider."
     publishedDateTime: 2020-12-16T17:21:00Z

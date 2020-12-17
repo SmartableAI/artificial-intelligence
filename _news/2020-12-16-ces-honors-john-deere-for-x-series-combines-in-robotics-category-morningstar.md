@@ -26,6 +26,15 @@ images:
 
 related:
   - title: "CES honors John Deere for X Series combines in Robotics category"
+    excerpt: "The artificial intelligence, computer vision ... annual competition honoring outstanding design and engineering in consumer technology products. The Robotics category highlights programmable or otherwise intelligent machines capable of performing specific ..."
+    publishedDateTime: 2020-12-17T04:35:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ces-honors-john-deere-for-x-series-combines-in-robotics-category-2020-12-16"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "CES honors John Deere for X Series combines in Robotics category"
     excerpt: "X Series combines equipped with ActiveVision cameras, can help farmers see inside the combine's grain tank and observe tailings so they can monitor"
     publishedDateTime: 2020-12-16T14:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/ces-honors-john-deere-for-x-series-combines-in-robotics-category-301194041.html"
