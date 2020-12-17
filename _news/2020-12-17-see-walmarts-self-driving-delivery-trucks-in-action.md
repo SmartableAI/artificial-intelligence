@@ -2,19 +2,19 @@
 category: news
 title: "See Walmart's self-driving delivery trucks in action"
 excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-publishedDateTime: 2020-12-16T19:15:00Z
-originalUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
-webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
-ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+publishedDateTime: 2020-12-17T01:43:00Z
+originalUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.html"
+webUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.html"
+ampWebUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
@@ -96,6 +96,6 @@ related:
         height: 324
         isCached: true
 
-secured: "sUxqlmNbwNtCRmeYO0KsE5jnkHbHKbUAvcAG+StDIx50H7ctw9Okx1wUHhXg8/s9A8vwpFn1Bj+y2B+0nRgkrru/kDZcpULwFeJWzsBUoCnxLcV0efmov+UbsF9Pihm7T0MTVUy4hU75kiIX05HrvugCiQsnJnQB7YEa212BWR+7dmLpIX8zPa9nelObjuYWF5h+AG8J2dXzvs+JI1SoeD9zlORYzPn8+skZ7Hake10vHK0JDZY2n504LvhH2My+v+be2bDbcKldZlYifpoqy+eDtfjFPNM5UuJ6gj1lUxGCl1OiERRaGcID71Kw+J6uSw3FYe6bSW0Ib+PUhsrDXpnuxy1ZKtC6Mx7pL4yHDuuiyuZHNJQTtu6XcXquBaXQcmcxGA/J78yInNM0X96YaLVIxh8E6V5dHU85gBFKyjsi2828GYPCtb4FFCC6i8bbiDnuTm3oqkndPNqJdD6CAQ72IbByJ2VimVazTPAc3AGhTLI/LARBR48ry9BbnZLrlWDXFO3Yk9bG9S8L5PabYQ==;Y8RWRH77V/6J9RNQcClGbw=="
+secured: "bIMCw1gdrbX5T6uRHCiSXGM3uC3xhW0y8RTEKQMpkCRAsLgM8jKhbZzopSj9fOs288cWeWI8tOIxRm+qn8JfHCcVt58/QBFnO966Qn3qWcf6QPiEwL1d4pHw9U+0ctrH2gPeURvO+lLJBxeE3BZNcDH92xTFhCNBMjPHG92CjRQyZzbo611trTT3yy6dUlAy5pd2RiQFWtGq+ZsAADpW546ZyuFBllTYTS/aCukxlx0gYfPI211lvml6LtwPKl9IXpvOzMUvn4pxI0gS0PHXCgunjdl/mMdDblcaC5C6pnZebfC7rXus/CatrmxIWMfoKi6L0Am3s1ouS7sAugsO2F08J5KNzH64vLcTBxbCS9liimqWO5DHK9YWKXYDcAPQwnLwO26S49QHyTJsk4cHkDOGzrUk/1Kw7jYHI+AJgZ5wTB2kkKKgOKKo+QtKKIy78cwrQnffOTAc9VfDGRaNfBUF3L9h3PCc9lklbRh0WuihfzUtOzAcyWlLq/cKygxdjBzBXss6b3BZ7c7ZVBbVAQ==;VEnlcG008y7jJMPBY1XshQ=="
 ---
 

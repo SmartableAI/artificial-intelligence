@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-healthcare-artificial-intelligence-requires-data-access-standards.md",
+      "title": "Healthcare Artificial Intelligence Requires Data Access, Standards",
+      "excerpt": "To ensure the successful use of artificial intelligence in healthcare, leaders will need to expand data access and develop industry standards.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
+      "originalUrl": "https://healthitanalytics.com/news/healthcare-artificial-intelligence-requires-data-access-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg",
+          "width": 689,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-bayer-and-blackford-analysis-announce-ai-platform-agreement-in-radiology.md",
       "title": "Bayer and Blackford Analysis Announce AI Platform Agreement in Radiology",
       "excerpt": "About artificial intelligence at Bayer Pharmaceuticals Artificial intelligence provides significant opportunities for Bayer’s Pharmaceuticals business. Bayer is committed to realizing the ...",
@@ -1274,58 +1317,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
-      "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
-      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

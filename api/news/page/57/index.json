@@ -2,6 +2,125 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-11-06-amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well.md",
+      "title": "Amazon’s Robotics Deals Have Paid Off, And One Investor Thinks Ocado’s May As Well.",
+      "excerpt": "In these and other applications, embracing robotics and AI is cost-effective, safer, autonomous (as the technology works continuously in the background once switched on), limits human errors, and its marginal costs are minimal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
+      "originalUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-256173/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249",
+      "publishedDateTime": "2020-11-06T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era.md",
+      "title": "7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era",
+      "excerpt": "Baidu is primarily known as the “Google of ... GM’s autonomous vehicle unit Cruise announced on Oct. 15 that it was granted self-driving permission in San Francisco. The permit allows Cruise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
+      "originalUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
+      "publishedDateTime": "2020-11-06T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round.md",
+      "title": "Toyota-backed startup Pony.ai raises $267 million in new funding round",
+      "excerpt": "Pony.ai, backed by Toyota Motor Corp, said on Friday it raised $267 million in the initial phase of its latest funding round at $5.3 billion valuation, as the self-driving startup seeks to boost its presence in the United States and China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11",
+      "originalUrl": "https://www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-2020-11?amp",
+      "publishedDateTime": "2020-11-06T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-aws-to-set-up-data-centre-region-in-hyderabad-invest-rs-20761-cr.md",
       "title": "AWS to set up data centre region in Hyderabad, invest Rs 20,761 cr",
       "excerpt": "Amazon Web Services (AWS) on Friday announced setting up of its second data centre region in India in Telangana that will be operational by mid-2022,",
@@ -1036,154 +1155,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-amazing-new-headset-translates-thoughts-into-speech-for-vocally-impaired-wearers.md",
-      "title": "Amazing new headset translates thoughts into speech for vocally impaired wearers",
-      "excerpt": "A craniotomy, as he points out, is invasive brain surgery. The goal of his work at the University of Bath is to achieve the effect of “imagined speech recognition,” but without the need for someone to cut open your head and plant sensors onto the surfa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
-      "originalUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/headset-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
-      "publishedDateTime": "2020-11-05T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
-      "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
-      "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles ... The Government now also provides very substantial services for institutions to verify their customers through ...",
-      "sourceUrl": null,
-      "webUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
-      "originalUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
-      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
-      "publishedDateTime": "2020-11-05T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamic Business",
-        "domain": "dynamicbusiness.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-computer-vision-puts-a-focus-on-hygiene.md",
-      "title": "Computer Vision Puts a Focus on Hygiene",
-      "excerpt": "And AI technology and Computer Vision layered onto a business’s existing video camera system is likely to be the quickest route to that goal—for a fraction of the cost of manual monitoring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
-      "originalUrl": "https://www.infoworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

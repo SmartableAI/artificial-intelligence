@@ -2,9 +2,9 @@
 category: news
 title: "The Trouble With Facial Recognition Doesn’t Justify a Ban"
 excerpt: "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error."
-publishedDateTime: 2020-12-15T23:45:00Z
-originalUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
-webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+publishedDateTime: 2020-12-16T04:19:00Z
+originalUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 285
         isCached: true
 
-secured: "FH/U7z708AZb2Cy4I402jYfVf7PXH/rhKlwn1BfFeacfZGi/L2WTzuMS2KLat8e5JL74K76W9VQCCXQX4h0VPBQPaAMfp8iaB4vKvOz5C2+wm7Ae5hVzjvsfWh2fgMeovHJpVGBvQHGgue6cumQZUBEu8Lh4R0cy4XPoQ8uRkaXO+reCffgQTYsD+vyR5wueLqU+7y3ro9ddkmhWnEKkvXGawGFjN1PTcqauTQW0vjEx7f9dLor3Xkz52PCtt7ehoWcMVyASgPTUXJRjTCIgpPeo7HfOsF/aTbjgZzxD7Tko7iH+FUKS7TKcNr84MCUtPL7S0zlpVsqeEaB25wJb3QH09i9gynrd2m8rF3n/ktXE4S/uzjBZEtXkfxWOeLOsO97Q2iSMZ8g14ez9LlG0nLE7i9YazYJDk4gD5v2bs0mR06NNGhYNA+JziIYKsC0ujz+TcN+AC7swQSJHcctu6Gpo6a2NTly+iEdTIcoxRrt8PVeLcgM4VxnolGNlJFmbA5ye+8WyS7WWMT0RwldZVg==;nzj/uVkb6rXK7VZKPnbPvA=="
+secured: "6fE0BJtmgwiXRzU5z5RfRdb8lx+i+BNtKVrUjwTp11DemcJLRnQL12PquOpFyLieiNQCuaUQS5W/uIskT/SBDDKwzXIfyr6y5Zas4UUUpT/IqZ2wnuYYu/4+3NlenjpCArf2PErX3nu7SohyaSu/N+OOVps9rGEGlFi69KHBwlEuvVUSuTklITYXc1wFGd49RaIepyFAKG2c1a7ym6oqEyIpcwAXlLHXZS81KMMnvUUIEs+a/9zUcZUk8yiPUz0gSRzQEdkPBIDVnqU9u151w2p8EvZuP0rOT6r2ckEZYJGzArudauxM4TWqgGB0yjslAeCOSW9wx+uJdRm35psRbnDRz2KBzsAkTOG3KMk4q9M=;6DkGTqQdJI4380WqrghmdA=="
 ---
 

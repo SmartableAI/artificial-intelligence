@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How Artificial Intelligence is Reshaping the Healthcare Sector"
-excerpt: "The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools for diagnosis. FREMONT, CA: Artificial intelligence (AI) has already started transforming many industries, including healthcare. It is growing ..."
-publishedDateTime: 2020-12-15T00:00:00Z
-originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector-nid-32589-cid-31.html"
-webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector-nid-32589-cid-31.html"
+excerpt: "How Artificial Intelligence is Reshaping the Healthcare Sector  - The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools"
+publishedDateTime: 2020-12-15T08:34:00Z
+originalUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
+webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
 type: article
 quality: 54
 heat: 74
@@ -54,6 +54,6 @@ related:
         height: 855
         isCached: true
 
-secured: "SvFxpGfXBZwfYIcwxQ85yr2Rnbo3zY5iqIxDvMpQrlE7B8VMv4bHy3F+mE6eRw5hoB2e/RvwbX+TCj6boR9bkZSBjG35PBHEmwkQO/PkC3zy1pTDzoxjGa8RBm4J9wFteE4qiRqj3hhGEnlPfcmsjBdMcEglg/bv399lMR93bNvGt9UCVwZkYOIO/zSVSiBNHZFMkN7RfCc+AAVrvhZ9i1TqyUThEoFq8ReVCCwuUGYO4TqHSoWLz8kLs0bxdgLjaoV3IMuq1je9o2stRc8z8VeJnUGODbnBvpikPQ/Tq293ty+T9LldX8644vf2T/G9QQsMjgopneI+NiX0QaasnR21oe3oVdCS3qKMt9Ee3QbIaVY5+FB8UDhb2YZQw+MvgsWM5s91ePlF74SVxTHIdptDTdC2rMCkFUhVi0E7HxMmKuP3sqoSEu4XVyEK8ub5z/cPl8GjjZaxPAGI1ewnbnsBAqdQMg+hu5e79KdXDoqz0sSTmSntjJeSapZd9VxQXBRwAN9vJDPFHBNEWwnj2Q==;bLSuU2gtO98gocnsaGF0/w=="
+secured: "hPHRkYrUm9mZ6vA5FQTJiWRwYunuYlVwomCbv7ooRIu8/pAfh71mFwKlH6JAifeKQuQSmi6E0bwcdCOSuYo3b4sKAloJmdOcA/KsT6sqF2qmyqB5A+LgZJWU0z6Xmsqg5kwtQZCEl5XuZva7YI+nuSo3Fq9gVgoRjtpNjraRmawE8AbKw6u9kaJk/HTeBoAzjrKRhwIicIO9iJS3q9Fmdue+FzP0m6k6FzRo/kccdjdmGtP9aUb6XC9BTaDNnt0uhpnxoGROYOASyt+Gl9XP9rw00cn3gJiQYs6jjoi8d4UuKNaWPim3N8N7Slw2E/trXPzps72yk//7PSUoB2UYD5Sn+KCgE4EWF86S0BXjmCY=;yOtiE1XheQ3cGzGrADT6kw=="
 ---
 

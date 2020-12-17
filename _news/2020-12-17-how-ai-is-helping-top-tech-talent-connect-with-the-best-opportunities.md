@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "How Artificial Intelligence is Reshaping the Healthcare Sector"
-    excerpt: "The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools for diagnosis. FREMONT, CA: Artificial intelligence (AI) has already started transforming many industries, including healthcare. It is growing ..."
-    publishedDateTime: 2020-12-15T00:00:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector-nid-32589-cid-31.html"
+    excerpt: "How Artificial Intelligence is Reshaping the Healthcare Sector  - The healthcare sector is adopting artificial intelligence because it helps build reliable predictive tools"
+    publishedDateTime: 2020-12-15T08:34:00Z
+    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-is-reshaping-the-healthcare-sector--nid-32589-cid-31.html"
     type: article
     provider:
       name: CIOReview

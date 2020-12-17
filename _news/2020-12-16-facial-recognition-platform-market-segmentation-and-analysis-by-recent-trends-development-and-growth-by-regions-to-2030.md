@@ -81,6 +81,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Size Analysis, Share, Growth Potential to 2026 | Research Report by Fortune Business Insights™"
+    excerpt: "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-12-17T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-analysis-share-growth-potential-to-2026-research-report-by-fortune-business-insightstm-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
+    publishedDateTime: 2020-12-17T11:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qpjlJ/Z59j+0rnmi2UoC0awambPCzFXDvPuV25jZwEmhsvFY+ak7mrIgS+qGUiVXvI7Y+3O2AKiFHPipsz5QaiPRYfLbgfd5SR4V19flXBYVvnRa/z3tW8pfCVMyYjyNKUyIlWpUIqxxKs+qgd9oEAgJkYE62b53qSZHlsyLLEu9QmmuAnYZoYVz4b0NA6kzXGDvwyn+LV8+zOTe+fPj7rtN5Fk7U9NoBXQBxnzQBOJ/6w5JmHm3JTT3PfDqIGVsd+VK70B5VTcBToAnlb7CvjAtf6U4QaeamMv7+lksa3Cx+qTpR/tJYLm7yatUZErd+tNTsp12PrhFQCDcpB/pfEXp/WT1KUMKVyew3nny8mc=;gskcbppCdLWHE4Shj4oOwg=="
 ---

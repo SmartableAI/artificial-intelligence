@@ -33,19 +33,33 @@ images:
 related:
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-17T10:58:00Z
-    webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUSKBN28R0IR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28R0IR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0IR"
+    publishedDateTime: 2020-12-17T11:25:00Z
+    webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 87
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority"
+    excerpt: "The report comes as human rights groups accuse China of forcing over 1 million Muslim Uighurs into labour camps, and calls out firms suspected of complicity"
+    publishedDateTime: 2020-12-17T12:23:00Z
+    webUrl: "https://www.dhakatribune.com/world/2020/12/17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 39
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2020/12/watermarked/353648/1608207544694alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-1608207508068.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "h+XKx+UQm+2ef2GqXBXRqBuCjZvkz5bJsE3ZV/quEJU1YjSnl1D63QmgN3eL5XbWQ5ZGcT/WpYFNwcElHu7dY6cxsmFMLlGuIiN3X2LFxtlI5GspgNOJPDsD9oQfv8Yn5pg+UMq7aJoQ8HLTkh/+iUIG8mirVAfbFAOLgyDukCzO5V+Kv7uS4JBQpo6TETuCiJGTEH4oTdt5ZQBAs6Lmyv2tdySvsgTHazf5zyxv2DsoEd/+BKX2OQooxXJ2/lfNST7BOcHlGOWjNAZ83pl4f5yDQ3X+SNI0+epc7lOBYeSTGU7HwFpj+uTrsS+hQ2K+SfVMWskYMOkWUmKFqKiHCBFi8stPxOQtZKO8Rr0vOE0=;MTFBVYCdGym9W0RCzISsfA=="

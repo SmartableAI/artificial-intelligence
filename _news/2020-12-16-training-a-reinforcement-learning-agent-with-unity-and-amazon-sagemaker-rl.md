@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-a-reinforce
 webUrl: "https://aws.amazon.com/blogs/machine-learning/training-a-reinforcement-learning-agent-with-unity-and-amazon-sagemaker-rl/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "AWS Announces Amazon SageMaker Feature Store"
+    excerpt: "AWS announced a new capability of SageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new SageMaker capability allows customers to create repositories that make it easier to store,"
+    publishedDateTime: 2020-12-17T12:08:00Z
+    webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2020/12/amazon-sagemaker-feature-store/en/headerimage/croppted-Feature+Store-1608021403547.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Qhi9WSO2kt/nW7QXdEJMClFO/Xaxrqp7U+EpUyq8/HVTscy7OJyV79vr9FsNV0x1rxedCVCsPl67E1m4+Qd4w+mRu8ZStEG82iaDPaj3ZJ2recG8n6zYBld9uAqh7glN6QsnhoR5n5Uk7yK6jeVHvf5jbTp3756L6GuZNlNJ7xJzwV7L5ex+oHAwjwg2/FzyqBpI50eADpRz0wSFnddmjhzP3LlaZFtvSwhtnn5dVH0e3ibRJFLwb3RrSyjeaCRbOeiAftuMvEsZZ2Wr5X8d3OdFRPB3PdpkSaIMwMAPtYF8/CTGEHqOydo37xsqoIoYeO+g2zD2CIp+uAhHl2rr7RcwwNDKpHiMGk1UMjZ3TNA=;WhirEW9cyIcX57Uq998q4g=="
 ---

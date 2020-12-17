@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-06-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
+      "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
+      "excerpt": "This study set out to develop and validate an artificial neural network model that uses AI technology to detect definite radiographic sacroiliitis as a manifestation of AxSpA. \"Conventional X-ray ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/acor-aad110520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/acor-aad110520.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-tech-news-artificial-intelligence-and-the-human-brain.md",
       "title": "Tech News: Artificial Intelligence and the human brain",
       "excerpt": "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds.",

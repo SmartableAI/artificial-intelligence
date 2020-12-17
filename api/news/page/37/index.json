@@ -2,6 +2,155 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-11-19-google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version.md",
+      "title": "Google TensorFlow ML framework gets an Apple M1-optimized version",
+      "excerpt": "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
+      "originalUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/Apple_Events_-_Special_Event_Stream_-_Apple-33-1.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/",
+      "publishedDateTime": "2020-11-18T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-white-house-issues-guidance-for-federal-agencies-on-ai-applications.md",
+      "title": "White House issues guidance for federal agencies on AI applications",
+      "excerpt": "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
+      "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
+      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept, Transport for NSW ran a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "publishedDateTime": "2020-11-18T18:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-ibm-buys-apm-startup-instana-to-boost-ai-automation.md",
       "title": "IBM Buys APM Startup Instana To Boost AI Automation",
       "excerpt": "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps.",
@@ -1069,135 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech.md",
-      "title": "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech",
-      "excerpt": "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/israel-emirates-regulato-int/israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech-idUSKBN27Y1QX",
-      "originalUrl": "https://www.reuters.com/article/israel-emirates-regulato-int/israel-abu-dhabi-markets-regulators-agree-to-cooperate-on-fintech-idUSKBN27Y1QX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX",
-      "publishedDateTime": "2020-11-18T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors.md",
-      "title": "How The Trevor Project uses AI to help LGBTQ+ youth and train its counselors",
-      "excerpt": "To better serve its mission of reducing suicide among LGBTQ+ youth, The Trevor Project turned to natural language processing (NLP).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-13-at-1.12.14-PM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/amp/",
-      "publishedDateTime": "2020-11-18T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-free-webinar-on-the-booming-global-ai-based-learning-market.md",
-      "title": "Free Webinar on the Booming Global AI-based Learning Market",
-      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18433212",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212",
-      "publishedDateTime": "2020-11-18T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

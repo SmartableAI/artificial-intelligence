@@ -43,6 +43,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Google AI Researcher’s Departure Ignites New Conflict Over Ethics"
+    excerpt: "On Dec. 2, Timnit Gebru, an artificial intelligence researcher best known for showing how ... Pichai didn’t seem to have just ethics researchers in mind. Gebru, a Black woman, has been an outspoken advocate for other non-White employees."
+    publishedDateTime: 2020-12-17T12:02:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/google-googl-faces-backlash-over-ai-researcher-timnit-gebru-s-exit"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixbAqRGBT7tg/v0/1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tensions in Google’s ethical AI group increase as it sends demands to CEO"
     excerpt: "Tension between Google’s Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team’s leaders — a prominent Black woman in a field that’s largely White and male."
     publishedDateTime: 2020-12-17T02:55:00Z

@@ -24,6 +24,22 @@ images:
     height: 506
     isCached: true
 
-secured: "Uze2cTMNzpNd2QxuWiRGT3tib7U+ACvZURcAJTAsneALaxgJ073AEpTCbo3sf58M6hzZTmqbfrfp/Sacq3K/otDWD7WgzdB17TgTqr26rtOIq5ftWUxerP9RUhtaiC0kO1fenhIVWsl7XaD2j3lspO5E/OWN24u0L/MNV3dmP0cWf6KDBRTrQ0/L0/Arvhz+Ub//qFyctzqV1g9Wa+W6RpQuap9GESUH2ZrgdOB9uZsniQssStdHlt90BH5M1m2B2cHoQ9nW/2JPuncdcV2yFp8m6cfr5r5TCy5YXVQ6/nOvrYusWlck8j9tyI8b6ErBFGSSxCEOOHaCT13+TFK4ZCVZfHaamnGFKkDyuFluXgo=;VVvrfmewgDdglo+ni1+Slw=="
+related:
+  - title: "Marlabs recognized as an Established solutions provider for AI engineering and IoT Services in Zinnov Zones 2020"
+    excerpt: "Marlabs, a leading Digital Solutions & Services company has been recognized as an ‘Established and Niche’ technology service provider for AI engineering in the recent Zinnov Zones 2020 ER&D Services report."
+    publishedDateTime: 2020-12-17T12:53:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-digitization-engineering-artificial-intelligence-computing-and-information-technology-831586184444848ea9b21289ea23e974"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "Dbv2cVayDtXlA/4BVpOOWidOmrf6EzvOp7DKmHCN/oozwKDX1HZ8twqVDU3i9Yct/BjUFqanf7WmztNuUI37qHUkTDRFAtdSpaQtv4z+D4vLSOKT3PYP96sUBCApCH7ayNow4exKHr+/gyCMlVhYaTaVnpJfldoVMVrZvmqyr0qXzgooRKDBha/VFrab7yyNR/8ILN7KDGC5iu/mFWgB5w2zFx6M/ux8fphxjTkJPb35E5ypyMko/phoUIGy/Xvhbq11yY1Sl1KvkCJCsssrB3+q/+HgaIyfpSxkZJ+DdKKtYKtLen+1s89F45wMY6kn6k/7W15zByJX+wBpH7PE1TGnsHf/kiLWQsF7NsYS70C/yqbDEM/n5BqSSjYoRGHG6V8am6BAv2Udw+k35+2tAykPgmZSi0xcSj98h96qHSJOGbbD+wi853qWGMLJ9qCaMGpHXymEqL0Vig9BZUqy7r6xK+/2XeCNe0NDh5HKi8QKXUzfyaW7AAVJaVaZCHLklkSKudmbccYadH3dXvpFgw==;sHIY0gH38pccNoV9bUxA7A=="
 ---
 

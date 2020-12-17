@@ -240,6 +240,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market 2020 Industry Challenges, by Key Players, Types, Applications, Countries, Market Size, Forecast to 2023"
+    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2020-12-17T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-industry-challenges-by-key-players-types-applications-countries-market-size-forecast-to-2023-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Diagnostics Market 2020–Global Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2026"
     excerpt: "Global \"\"Artificial Intelligence Diagnostics Market\"\"(2020-2026) status and position of worldwide and key regions,"
     publishedDateTime: 2020-12-14T21:45:00Z
@@ -295,6 +309,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Artificial Intelligence in Social Media Market Report (2020-2029): Market Demand, Growth Prospects and Market Size | Google LLC, Facebook Inc"
+    excerpt: "MarketResearch.Biz –:As per a study on Artificial Intelligence in Social Media market, recently | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-12-17T11:47:00Z
+    webUrl: "https://www.eturbonews.com/2186492/artificial-intelligence-in-social-media-market-report-2020-2029-market-demand-growth-prospects-and-market-size-google-llc-facebook-inc/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 4
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "vFFWfAHUHQQiKPhggxhz1S8UGG1AhZ57OWvzHQo6vutwUC6E5FTlCVp26PDr+/WK9jB+/g3QAy5T7qxWhjaZp6hjcojapzqeBcUv4vwbgTzO5PskXWnJJ49uPUEXDo9VfpJKXS8LaWDzul9at8/S25jbhJAd2TsgG8Ey6EDMdCGUFQ/KCqXg6uQkDDnElX4vWzL8LLG0zZjBMW59yz1jGb3Xbt6pez6et017AqvRCZmPodwRgJKYvDmjL3594J252B0UwPUM3WTwhrILXZX/4LKkXNH7ymi+5r7wDogF9o51Bgp6rzkDVUwF9/3s+QpwGNGPfVy2jYHPzhdesdp65ypQ/LfUxv3Nhu7gf/jyTRk=;8tnQEa8ljJ3qwa+GM95Ekg=="

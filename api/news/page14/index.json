@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-07-retina-ai-health-inc-welcomes-nwamaka-imasogie-as-chief-product-officer.md",
+      "title": "RETINA-AI Health, Inc. Welcomes Nwamaka Imasogie as Chief Product Officer",
+      "excerpt": "AI Health, Inc. as Chief Product Officer. She joins from Microsoft’s Healthcare AI and Research team where she was Principal Software Engineer. Nwamaka has a passion for healthcare and is driven to build technology that will save lives.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-care-industry-north-america-medical-technology-bd235b7e50a2cec9810a9d5c363a4e4c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-allcloud-announces-strategic-collaboration-agreement-with-aws.md",
+      "title": "AllCloud Announces Strategic Collaboration Agreement with AWS",
+      "excerpt": "AllCloud, a leading cloud professional services company, has announced a Strategic Collaboration Agreement with Amazon Web Services (AWS) to help customers use AWS to accelerate their digital transformations.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-israel-products-and-services-398ca9c65afe355fb0836b3f9da8b5c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-when-newsrooms-collaborate-with-ai.md",
       "title": "When newsrooms collaborate with AI",
       "excerpt": "Two years ago, the Google News Initiative partnered with the London School of Economics and Political Science to launch JournalismAI, a global effort to foster media literacy in newsrooms through research, training and experimentation.  Since then, more than 62 thousand journalists have taken Introduction",
@@ -470,13 +556,13 @@
     {
       "path": "_news/2020-12-07-the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come.md",
       "title": "The Guardian view on DeepMind’s brain: the shape of things to come",
-      "excerpt": "This is an achievement that answers one big scientific question but raises more fundamental ones for society An image issued by DeepMind of a three-dimensional digital rendering of a protein.",
+      "excerpt": "This is an achievement that answers one big scientific question but raises more fundamental ones for society",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
+      "webUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come?via=indexdotco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -492,7 +578,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/dec/06/the-guardian-view-on-deepminds-brain-the-shape-of-things-to-come",
-      "publishedDateTime": "2020-12-06T10:34:00-08:00",
+      "publishedDateTime": "2020-12-06T10:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -732,8 +818,8 @@
       "title": "Demis Hassabis interview: the kid from the comp who founded DeepMind and cracked a mighty riddle of science",
       "excerpt": "If you want to understand Demis Hassabis, and his quest to apply artificial intelligence to the greatest scientific mysteries, you first have to understand chess. Or more precisely, the trials and",
       "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
-      "originalUrl": "https://www.thetimes.co.uk/edition/news/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
+      "webUrl": "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
+      "originalUrl": "https://www.thetimes.co.uk/article/demis-hassabis-interview-the-kid-from-the-comp-who-founded-deepmind-and-cracked-a-mighty-riddle-of-science-g3v3z9b80",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1110,102 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility.md",
-      "title": "Intel Develops $50 3D Printed OpenBot to Advance Robotics Accessibility",
-      "excerpt": "A curated collection of industry and product deep-dives. Edouard Moens de Hase talks to us today about Aerosint. For the last few years, they have been working on improving powder bed fusion. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
-      "originalUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3dprint.com/wp-content/uploads/2020/08/openbot4_intel_3dprint_smartphone.jpg",
-          "width": 1015,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
-      "cdnAmpWebUrl": "https://3dprint-com.cdn.ampproject.org/c/s/3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/",
-      "publishedDateTime": "2020-12-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "3dprint.com",
-        "domain": "3dprint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-google-widely-criticized-after-parting-ways-with-a-leading-voice-in-ai-ethics.md",
-      "title": "Google widely criticized after parting ways with a leading voice in AI ethics",
-      "excerpt": "Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "originalUrl": "https://www.cnn.com/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203175844-timnit-gebru-google-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/tech/google-timnit-gebru-ai-ethics-leaves/index.html",
-      "publishedDateTime": "2020-12-04T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

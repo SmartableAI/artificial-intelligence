@@ -73,14 +73,14 @@ related:
         isCached: true
   - title: "See Walmart's self-driving delivery trucks in action"
     excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T19:15:00Z
-    webUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.html"
-    ampWebUrl: "https://omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_54e2f7bf-8011-5742-b26b-2bc6da8ef268.amp.html"
+    publishedDateTime: 2020-12-17T01:43:00Z
+    webUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 24
   - title: "Watch Now: See Walmart's self-driving delivery trucks in action, and more of today's top videos"
     excerpt: "See Walmart's new driverless delivery trucks in action as they start routes in Arkansas and Louisiana, a collection of jaw-dropping images are showing the work of U.S. military photographers, watch the emotional moment a non-verbal autistic child speaks ..."

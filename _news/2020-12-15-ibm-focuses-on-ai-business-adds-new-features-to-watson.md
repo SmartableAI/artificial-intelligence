@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2020-12-14?amp"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/IBMWatson-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now"
+    excerpt: "As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type (Watson Language, Watson Data Insights, Watson Speech, and Watson Vision Services);"
+    publishedDateTime: 2020-12-17T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "India’s Construction Landscape needs the intervention of AI"
     excerpt: "Simultaneously, diverse applications of Artificial Intelligence (AI) and Machine Learning (ML) have opened up numerous possibilities in various businesses. Through these technologies, information ..."

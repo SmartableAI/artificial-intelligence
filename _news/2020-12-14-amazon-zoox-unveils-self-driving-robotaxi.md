@@ -107,6 +107,17 @@ related:
         width: 736
         height: 415
         isCached: true
+  - title: "Amazon's (AMZN) Zoox Rolls Out New Self-Driving Robotaxi"
+    excerpt: "Amazon’s AMZN self-driving company, Zoox Inc. has unveiled its first self-driving robotaxi, putting an end to its long-awaited quest for driverless car services. Zoox’s new robotaxi does not have any steering wheel,"
+    publishedDateTime: 2020-12-16T12:48:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-zoox-rolls-out-new-self-driving-robotaxi-2020-12-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Amazon's Self-Driving Company Zoox Unveils Autonomous Robotaxi"
     excerpt: "Amazon’s self-driving company Zoox unveiled its autonomous robotaxi on Monday. Amazon's Zoox unveiled its self-driving robotaxi on Monday. It's a \"carriage-style\" car, which means that passengers face each other."
     publishedDateTime: 2020-12-14T14:45:00Z

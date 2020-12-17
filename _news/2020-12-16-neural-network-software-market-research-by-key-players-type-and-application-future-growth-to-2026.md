@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Size Analysis, Share, Growth Potential to 2026 | Research Report by Fortune Business Insights™"
+    excerpt: "The global “Image Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-12-17T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-analysis-share-growth-potential-to-2026-research-report-by-fortune-business-insightstm-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
+    publishedDateTime: 2020-12-17T11:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
     excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
     publishedDateTime: 2020-12-16T10:57:00Z

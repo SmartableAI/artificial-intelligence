@@ -252,6 +252,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market 2020 Industry Challenges, by Key Players, Types, Applications, Countries, Market Size, Forecast to 2023"
+    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2020-12-17T12:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-industry-challenges-by-key-players-types-applications-countries-market-size-forecast-to-2023-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Speech & Voice Recognition Systems Market 2020 Key Drivers and Challenges, Opportunities and Forecast Insights by 2025"
     excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Speech & Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025, provides an analysis of the scope of the current and future market."
     publishedDateTime: 2020-12-15T07:29:00Z
@@ -293,6 +307,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Artificial Intelligence in Social Media Market Report (2020-2029): Market Demand, Growth Prospects and Market Size | Google LLC, Facebook Inc"
+    excerpt: "MarketResearch.Biz –:As per a study on Artificial Intelligence in Social Media market, recently | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-12-17T11:47:00Z
+    webUrl: "https://www.eturbonews.com/2186492/artificial-intelligence-in-social-media-market-report-2020-2029-market-demand-growth-prospects-and-market-size-google-llc-facebook-inc/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 4
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "wevlDlytfmpxgwWgutYY74mNot+M4s/zMSeICoAvhlRqfKJwhzPKJd+BsUChuTw7yEQOmXpgQExGVkpVw4uix4tTAkblinRB4b1JDBqbW7QZ0XqaQD07R6I3FMreCB3hMdDfGHMklXsR1ahPnkByoYS0P9ykRVnuTDaQxastpWH/id7XgYkohL+7pK+MBTW+maVoUrPFerdR0gANgrfOTUa0F5ECe8IjvuObiUChgDhkI57O3gArUmot52f1JLaWEsb/Td5o7rZ6h4OXV588988+qqZw16EwB5hpgSq5abb2MTIiaXQ+Z6oUvhkUZtL/8Fh8q4N9vnrRzNhLPBBSNRkT19rIA2J3g+KiVPG1wW4=;gnP2Zc0p4IY6kiJwXCELDg=="

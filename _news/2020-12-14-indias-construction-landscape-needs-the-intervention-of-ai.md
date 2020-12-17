@@ -60,6 +60,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Global IBM Watson services market size, share valuation to reach USD 16.5 billion by 2027 - Live Now"
+    excerpt: "As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type (Watson Language, Watson Data Insights, Watson Speech, and Watson Vision Services);"
+    publishedDateTime: 2020-12-17T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ibm-watson-services-market-size-share-valuation-to-reach-usd-165-billion-by-2027---live-now-2020-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Team builds AI model for predicting transportation delays"
     excerpt: "Urbana Champaign built an artificial intelligence (AI) model to improve predictions about transportation delays using British Railway data. Using graph neural networks — a neural network operating on the graph structure that is used for node classification wherein nodes are connected via edges — the team built the Spatial Temporal Graph Convolutional Network model."
     publishedDateTime: 2020-12-14T16:45:00Z

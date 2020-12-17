@@ -41,6 +41,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Google AI Researcher’s Departure Ignites New Conflict Over Ethics"
+    excerpt: "On Dec. 2, Timnit Gebru, an artificial intelligence researcher best known for showing how ... Pichai didn’t seem to have just ethics researchers in mind. Gebru, a Black woman, has been an outspoken advocate for other non-White employees."
+    publishedDateTime: 2020-12-17T12:02:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-12-17/google-googl-faces-backlash-over-ai-researcher-timnit-gebru-s-exit"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixbAqRGBT7tg/v0/1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence learning research lands in DPS"
     excerpt: "Denver Public Schools has been selected to be part of five-year, $20 million classroom artificial intelligence research project."
     publishedDateTime: 2020-12-16T20:09:00Z
@@ -100,6 +114,6 @@ related:
         height: 240
         isCached: true
 
-secured: "gO7o8Kck0MOJxWKKre9mStFtbARnJdBJoR8iV7CzZmkfS08Xfi0CrBrALJG+0fPQrfqQnhcKC1PjIpJ7FrNQ+pKNjeviqo/JU6vRG5Bu4iUUFQAxjtNOsuLsyPukliz5hrFCiUZlAmGam58ZIIMQCf7nFzzoJXC/QRiUuZY2Fy0q2RDZX3lOff6n0A9QamIlxtA1TOrqUrKGTes4oafBA8uGlDv25/6pfMr+1oC9aqsM0qKQWyM4krNTXYbF0KGnfORelIgZBoIABcpwAuYhv692xTNDrw54eRT4XvGTGc0U5sA0lLHeueRcWC8nm4wMd1+9AGuJ+7uRxQPU5BRX1h5NKD23DcaSPZhGrvG9WvQ=;OpuMPVPt/5/3IZUiJH/2dw=="
+secured: "EorgCBdSS2dQ3zp1PGDo5BdfsnWIWlhykLt3s+EaDMJxw7FuXPY2eVZA4h34K2OWsIN8lzww7gZd09+icXyvyKiAvxnKHWEvFRDw3d1WhHE9RdxJbwMs//DlHyArMFpaPsMuL6tMUdVZ5GDxUyb7t+xxgVuNyOhoZ4cLmkEhaUpUSXrfmOEw/dvGpEcZlX2QbN4Rp1CPpskNL/9jPqWu7THiEQDHthWvlJH3Le7rDI8bEAqQzPJIS3rHb9tuH/270KDALCUC9sWLoPhAhv7/sWyLI5jYEn1sb91LaRLjLMrmYZaMGWMmUPeaKUNIxNsN7XwC5pHUyKan2eo8AfVRZ5JWjiQqLL6IVMLkTkEn5A1dOsd0TLTlp1p9BQu4tDAmNVSJ2sJbuaHwJCFy8Q3EmRUoGWRnKwX074NJnrLqKjOFLVM9J8r+R4n8O5x1pOyGEtCqbIfCJ4p/au6EaI/Hsk7VB6bYbK1N+Tco7yCTK5QWQl1lVA+DPfz9X+pyyYEz+HyA5RmGq8L9val1bqA+MQ==;S/MaE9e5pfJ55J5jXGcW1g=="
 ---
 
