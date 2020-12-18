@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Research By Key Players, Type And Application, Future Growth To 2026"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2020-12-14T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-14"
+  - title: "Global Face Recognition Device Market 2020 Global Size, Development Status, Business Growth and Regional Forecast 2025"
+    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
+    publishedDateTime: 2020-12-18T20:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-2020-global-size-development-status-business-growth-and-regional-forecast-2025-2020-12-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-12-16T07:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market 2020 Size, Share 2020 Movements by Development Analysis, Business Environment Analysis, Revenue Expectation till 2023"
+    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
+    publishedDateTime: 2020-12-16T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-size-share-2020-movements-by-development-analysis-business-environment-analysis-revenue-expectation-till-2023-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Leaning Machine Market 2020 Growth Opportunities, Market Shares, Future Estimations and Key Countries by 2025"
     excerpt: "Global Leaning Machine Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 offers end"
     publishedDateTime: 2020-12-15T07:29:00Z
@@ -99,34 +99,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Rapidly Increasing in Size Globally : Latest Report with Current Trends, Future Estimations and Opportunity Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 17, 2020 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate ..."
-    publishedDateTime: 2020-12-17T11:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-rapidly-increasing-in-size-globally-latest-report-with-current-trends-future-estimations-and-opportunity-analysis-2020-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Platform Market Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2030"
-    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Platform market, for example, merchant viewpoint, market drivers, and difficulties alongside the provincial research."
-    publishedDateTime: 2020-12-16T10:57:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/business-corporate-news-products-and-services-middle-east-new-products-and-services-bc14fb233d51c3321049125c2293fc7c"
+  - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
+    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
+    publishedDateTime: 2020-12-16T12:56:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 14
+    quality: 16
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Worldwide Emotion Detection and Recognition Market Size to record notable gains through 2027"
+    excerpt: "Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
+    publishedDateTime: 2020-12-14T13:46:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136756/worldwide-emotion-detection-and-recognition/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "Sn1KYW+fCZudqNaluzGIldHd+kqL/44OALf5Ab5i78pfXgaAV+mbXALA+cEE6IMIDtYQGMynbGYdFCPjE/VdM7Z8uY+jYPQrjeIv5enj2lWzuX19cVyiCTgVp/wh0BI1xqVsVoCrUxz2yxL52K5HcS/P5XRLJz3g9dNG0MV+fmrTNumQUMq79r9BHKOby2BwQjyE4CH+KGFhYtKp+H3nBlLnqqMNKzUDt6i3Zb03IiocsoNDaU4L/yKjBXXXRdBVZkHIZnj0VHZxW1y9+H7dtRpAFWW1PltxElUyqKqXQXA1uWfO5Mxv/DIPhomUpABICPjQoPY4uXjhq9itkS9RZi6DOXLpCpAZHcLbvU82Tis=;MB3ourT++0pI4NjtO/Rzmw=="
 ---

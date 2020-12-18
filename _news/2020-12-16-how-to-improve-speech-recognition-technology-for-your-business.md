@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market Research By Key Players, Type And Application, Future Growth To 2026"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2020-12-16T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-key-players-type-and-application-future-growth-to-2026-2020-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8CVDWjkbR1H3HSS8nreZ1qomRG58GyEiFBOgCnml6CHliUzeIGBk6DTdQXmfk1lm4UUwxr2ht3xwSXbRgGLe/OVArNfqSKciWmmp4ThFKShRjQN4Sm8QmfW2Z4+rUwjZvJT7QFIYKnKnQCOB+GNCx3RDClM/7tLmStRMNuuE6zw4OlHceB1gjqdSDl2ypy+t1Ng1e2nYy5tC2MopoHmEheI3hKZxvIS3b997WOl3EMJbKrJ/Nh6GiE8kPG4tx6GYaVLqJ5dxYkJl4T7ogOJza3Jps8ZHeEoaMOy72MKlVniPqpl+iTRGnnhQtDn6qBiGDOdAQSPKBtZt8+Bn3Qa5vXB6HdBqxMFqnRgKkmBoBvxSoa4itd5xEVpBRxeqDdJhI1M/FIsmfiWLd9e3aK1MYkBiG+zCNJcc3AJ41wP8XLhsjGh/aRC17Fqnri92SSYZrY+hUcryZRDI3l/ux0P6b+I3iDO1uUE11n8EMrNvLvGeXne2PtInEy0DMXx176yk/bDThEE4GC7BGJHKJoPrBw==;z2ZQE/0JoYj+rS7msPqjTg=="
 ---

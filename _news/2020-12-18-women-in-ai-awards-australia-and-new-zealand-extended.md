@@ -43,6 +43,22 @@ related:
         width: 1300
         height: 866
         isCached: true
+  - title: "AusKidTalk database of Australian children's speech aims to improve voice recognition software"
+    excerpt: "The University of NSW-based project is recording children aged three to 12 for the database The recordings will be used to develop automatic speech recognition systems to support education and speech therapy The University of New South Wales' AusKidTalk ..."
+    publishedDateTime: 2020-12-18T21:22:00Z
+    webUrl: "https://www.abc.net.au/news/2020-12-19/auskidtalk-childrens-speech-database-voice-recognition/12991740"
+    ampWebUrl: "https://amp.abc.net.au/article/12991740"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12991740"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 47
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/807087ab7fafb3992ab75a1662d3d7f5?impolicy=wcms_crop_resize&cropH=448&cropW=796&xPos=0&yPos=75&width=862&height=485"
+        width: 796
+        height: 448
+        isCached: true
   - title: "Australian AI startup Dataro named in the top 10 fundraising tech ideas globally"
     excerpt: "Sydney-based AI startup Dataro has been selected as one of the top 10 fundraising innovations globally in a competitive open innovation challenge run by leading international charities."
     publishedDateTime: 2020-12-18T06:18:00Z

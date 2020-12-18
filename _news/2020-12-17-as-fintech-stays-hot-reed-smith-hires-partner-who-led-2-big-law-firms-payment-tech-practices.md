@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Who are the top female fintech leaders of 2020?"
-    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
-    publishedDateTime: 2020-12-14T05:35:00Z
-    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Our favourite fintech apps of 2020"
     excerpt: "Team AltFi may have spent most of 2020 in lockdown... but we also downloaded quite a few apps. It’s that time of the year again. The AltFi team have trawled through their smartphone home screens to reveal the financial apps that they found most useful,"
     publishedDateTime: 2020-12-16T05:32:00Z

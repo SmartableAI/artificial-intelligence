@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Who are the top female fintech leaders of 2020?"
-    excerpt: "Being a leader can be a tough job, especially in 2020, so here are five female leaders who really stood out this year."
-    publishedDateTime: 2020-12-14T05:35:00Z
-    webUrl: "https://www.altfi.com/article/7369_who-are-the-top-female-fintech-leaders-of-2020"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/who-are-the-top-female-fintech-leaders-of-2020.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "As Fintech Stays Hot, Reed Smith Hires Partner Who Led 2 Big Law Firms' Payment Tech Practices"
     excerpt: "Fintech has been a hot practice area lately ... [and] how it is monetized,” Aschettino said. “The AI that predicts where you are going will need to be looked at. Lawyers in this field will be busy and marketable for years to come.”"
     publishedDateTime: 2020-12-16T22:00:00Z

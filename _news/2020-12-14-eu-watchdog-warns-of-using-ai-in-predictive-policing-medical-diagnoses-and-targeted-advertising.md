@@ -44,17 +44,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "EU rights watchdog warns of pitfalls in use of AI"
-    excerpt: "The European Union's rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
-    publishedDateTime: 2020-12-14T05:06:00Z
-    webUrl: "https://www.businessinsider.com/eu-rights-watchdog-warns-of-pitfalls-in-use-of-ai-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/eu-rights-watchdog-warns-of-pitfalls-in-use-of-ai-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/eu-rights-watchdog-warns-of-pitfalls-in-use-of-ai-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "EU rights watchdog warns of risks in use of artificial intelligence"
     excerpt: "The European Union’s rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
     publishedDateTime: 2020-12-14T12:11:00Z
@@ -70,20 +59,6 @@ related:
       - url: "https://vid.alarabiya.net/images/2020/01/21/20192a42-24c4-41b5-8db9-bca5680b8f74/20192a42-24c4-41b5-8db9-bca5680b8f74_16x9_600x338.jpg?width=466"
         width: 466
         height: 263
-        isCached: true
-  - title: "EU rights watchdog warns of pitfalls in use of Artificial Intelligence"
-    excerpt: "The European Union's rights watchdog has warned of the risks of using artificial intelligence in predictive policing, medical diagnoses and targeted advertising as the bloc mulls rules next year to address the challenges posed by the technology."
-    publishedDateTime: 2020-12-14T05:46:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/eu-rights-watchdog-warns-of-pitfalls-in-use-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/12/14/af_eu_141220.jpg?itok=tHIAAs-h"
-        width: 763
-        height: 509
         isCached: true
   - title: "EU agency pushing for research into how AI will affect fundamental human rights"
     excerpt: "In a world awash in new authoritarian sentiment, it is notable that the European Union has published a lengthy report saying it is key for nascent AI regulation to adequately protect fundamental"

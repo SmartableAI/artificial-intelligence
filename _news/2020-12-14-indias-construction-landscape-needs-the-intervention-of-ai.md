@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "John Kelly, ‘Father’ Of Watson Computer, Retires From IBM"
+    excerpt: "IBM veteran John Kelly III, who helped develop the company’s famous Watson AI computer, is retiring from Big Blue after working there for more than 40 years. The Armonk, N.Y.-based company announced on Friday that Kelly,"
+    publishedDateTime: 2020-12-18T22:37:00Z
+    webUrl: "https://www.crn.com/news/applications-os/john-kelly-father-of-watson-computer-retires-from-ibm"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0264-111f43d6c48e-815779cbba9b-1000/john-kelly-ibm.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Team builds AI model for predicting transportation delays"
     excerpt: "Urbana Champaign built an artificial intelligence (AI) model to improve predictions about transportation delays using British Railway data. Using graph neural networks — a neural network operating on the graph structure that is used for node classification wherein nodes are connected via edges — the team built the Spatial Temporal Graph Convolutional Network model."
     publishedDateTime: 2020-12-14T16:45:00Z
