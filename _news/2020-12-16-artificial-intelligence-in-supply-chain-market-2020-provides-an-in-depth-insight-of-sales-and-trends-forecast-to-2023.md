@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-12-16"
 type: article
 quality: 78
-heat: 308
+heat: 318
 published: true
 
 provider:
@@ -156,6 +156,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics Market Growth, Trends, and..."
+    excerpt: "The \"Robotics Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued"
+    publishedDateTime: 2020-12-16T11:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18811814/global-robotics-market-growth-trends-and-forecasts-report-2020-2025-advent-of-industry-4-0-driving"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18811814"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811814"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Voice Recognition Market 2020 Technology, Trend and Growth Forecast To 2026"
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2020-12-14T10:43:00Z

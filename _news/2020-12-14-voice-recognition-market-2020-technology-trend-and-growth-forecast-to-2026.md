@@ -169,6 +169,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics Market Growth, Trends, and..."
+    excerpt: "The \"Robotics Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added to ResearchAndMarkets.com's offering. The robotics market was valued"
+    publishedDateTime: 2020-12-16T11:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18811814/global-robotics-market-growth-trends-and-forecasts-report-2020-2025-advent-of-industry-4-0-driving"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18811814"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18811814"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Computer Vision Market Size, Share 2021 Overview, Opportunities, In-Depth Analysis and Forecasts, Outlook -2023"
     excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
     publishedDateTime: 2020-12-17T09:27:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-01-deepmind-breakthrough-helps-to-solve-how-diseases-invade-cells.md",
+      "title": "DeepMind Breakthrough Helps to Solve How Diseases Invade Cells",
+      "excerpt": "Google’s artificial intelligence unit took a giant step to predict the structure of proteins, potentially decoding a problem that has been described as akin to mapping the genome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-30/deepmind-s-alphafold-crosses-threshold-in-solving-protein-riddle",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-30/deepmind-s-alphafold-crosses-threshold-in-solving-protein-riddle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Mhi2KlALl4/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-the-ceo-behind-deepmind-the-ai-company-finding-cures-for-illnesses.md",
       "title": "The CEO behind Deepmind, the AI company finding cures for illnesses",
       "excerpt": "As DeepMind, the British artificial intelligence (AI) firm owned by Google, claims to have solved one of science's toughest and most enduring mysteries, the ‘protein folding problem’, you can ...",
@@ -1447,41 +1499,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-neural-network-ip-listing.md",
-      "title": "Neural network IP Listing",
-      "excerpt": "Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... WhisPro is a neural network based speech recognition software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/sip/?q=neural+network",
-      "originalUrl": "https://www.design-reuse.com/sip/?q=neural+network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

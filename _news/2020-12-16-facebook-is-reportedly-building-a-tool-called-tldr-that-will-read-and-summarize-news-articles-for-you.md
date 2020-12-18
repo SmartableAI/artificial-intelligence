@@ -47,6 +47,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "AI Weekly: Facebook’s news summarization tool reeks of bad intentions"
+    excerpt: "Facebook is reportedly developing an AI tool that summarizes news articles. There's plenty of reason to be wary of it."
+    publishedDateTime: 2020-12-18T19:33:00Z
+    webUrl: "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/"
+    ampWebUrl: "https://venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/ai-weekly-facebooks-news-summarization-tool-reeks-of-bad-intentions/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook AI tool called TLDR would summarize news articles, report says"
     excerpt: "Facebook is building an AI assistant called TLDR that will summarize news articles into bullet points, so that you won't have to read a full story, Buzzfeed News reported Tuesday. The tool -- named for the internet acronym \"too long,"
     publishedDateTime: 2020-12-16T20:24:00Z

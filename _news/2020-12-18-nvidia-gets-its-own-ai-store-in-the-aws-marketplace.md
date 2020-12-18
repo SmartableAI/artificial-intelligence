@@ -96,7 +96,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
         width: 325

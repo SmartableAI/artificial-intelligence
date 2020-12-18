@@ -41,6 +41,22 @@ related:
         width: 775
         height: 436
         isCached: true
+  - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
+    excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
+    publishedDateTime: 2020-12-18T19:39:00Z
+    webUrl: "https://www.openpr.com/news/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18425884_g.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "Key Players in Machine Learning Market 2020-26 :Amazon Web Services, Google, Microsoft, Hewlett Packard Enterprises, IBM and more"
     excerpt: "Global Machine Learning market was valued at US 1 7 Bn in 2018 and is expected to reach US 33 4 Bn in 2026 growing at a CAGR of 44 3 during the forecast period The growth of the machine"
     publishedDateTime: 2020-12-16T12:19:00Z

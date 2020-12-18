@@ -160,6 +160,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Alibaba ‘Dismayed’ Over Ethnic Profiling Feature in Facial Recognition Technology"
+    excerpt: "Alibaba Group Holding, in a statement Thursday, said it would not allow any of its technology to be used for targeting specific ethnic groups. What Happened: The Chinese e-commerce giant’s comments come in the aftermath of a report from surveillance industry researcher IPVM that claimed Alibaba’s facial recognition technology was capable of specifically identifying people from China’s Uighur ethnic minority."
+    publishedDateTime: 2020-12-18T19:45:00Z
+    webUrl: "https://www.cfo.com/technology/2020/12/alibaba-dismayed-over-cloud-unit-including-ethnic-profiling-feature-in-facial-recognition-technology/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 34
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/12/GettyImages-614202874.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Chinese tech giant Alibaba distances itself from facial-recognition software to identify Uyghurs"
     excerpt: "SHANGHAI: Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uyghur minority. A report this week revealing ..."
     publishedDateTime: 2020-12-18T06:32:00Z

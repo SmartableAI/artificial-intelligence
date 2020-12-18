@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Pintec enables China Mobile's subsidiary Aspire Holdings with intelligent fintech solutions"
-excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. (\"Pintec\"; NASDAQ: PT), a leading independent fintech solutions provider, announced today that it"
-publishedDateTime: 2020-12-18T10:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
-webUrl: "https://www.prnewswire.com/news-releases/pintec-enables-china-mobiles-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-301195859.html"
+excerpt: "PRNewswire/ -- Pintec Technology Holdings Ltd. ('Pintec'; NASDAQ: PT), a leading independent fintech solutions provider,"
+publishedDateTime: 2020-12-18T10:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
+webUrl: "https://markets.businessinsider.com/news/stocks/pintec-enables-china-mobile-s-subsidiary-aspire-holdings-with-intelligent-fintech-solutions-1029905536"
 type: article
-quality: 14
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "IBM Acquires Fintech Startup Expertus To Strengthen Banking Solutions"
@@ -181,6 +179,6 @@ related:
         height: 225
         isCached: true
 
-secured: "r3P67gYtrgJMacyMOElWH+g2TIy6hxvGZ8+Dt57OFHdPM4sV9kh9bN4RPPc6wdi5isHOU1LuWN8VJ8Y6gknUg1G/gDbyyQAxcvRoaqXLO9vmVS+uAej7LXSGic2RUVJ/2rhgmZQwgfcjWDi59FknLsHmORZZPEL17510QNYqUzW7M1X0wXKh8ixFjc06HytqQD3aeZcaeLVOKA3BMuecdq+BCtsVj1GtS+1Fwsz2pk66ubZ7kyFklFzEd1+dLHqp8G0smORwChO818z1yQ6eN+kywnIqrrxC8q3y4UegO25IcLaXJfRywvYjodKRsjLgVS8k6EmKGlOZfZgxt+ZeMHTQxoxza0hY7FxPQpNP0yo=;lmrkuvrqALCbpcUP4C5kCA=="
+secured: "9+1OCaEpUZlfOX/fvL9dJC1v2sIgWIFaawsqsx66LSTFKDqKmvHBt180I8mBqk3kAWrX9cOHOVl2VGIMGzmz6lNvX8D1WCH370Ghy5eC8SWFTtiDhFRzO8Ts6CwPxVvcSGIgMTcUrO5Gt1XLukDpZWrj/+XiakxE/EPBewvp88DI5EajvB/CpUDt7/4XZeISWBVCm5raAATj+3pauX91/3jFrc8X3L6/nuEBGMVgnQypAWfJf0aiQfZXXLYI+qAI9XSKY6tC1e4iuDR3TTCgsCVfAj1kaZtBNNWLN67YDRLWzuI/kWhmGOLJohjrB0sEDPUDxdfbVoP1Qi3RIk7CA6zWa8OxC0L3DEMb1jycQtA=;FBHbukv9HwH5IRTFuTwpMQ=="
 ---
 

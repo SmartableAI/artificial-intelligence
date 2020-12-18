@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2213095/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213095/healthcare-artificial-intelligence-market-may-see-a-big-move"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Software Market is Booming Worldwide with Microsoft, IBM, SAP SE, SAS Institute"
+    excerpt: "The Latest research study released by AMA COVID 19 Outbreak Global Machine Learning Software Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
+    publishedDateTime: 2020-12-18T19:39:00Z
+    webUrl: "https://www.openpr.com/news/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213436/machine-learning-software-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18425884_g.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "Shell and Equinor develop smart inventory management system with Microsoft Azure"
     excerpt: "The collaboration is the first of a series of planned co-innovation initiatives across the wider energy value chain, including themes such as maintenance, production optimization and supply chain management."
     publishedDateTime: 2020-12-16T12:57:00Z

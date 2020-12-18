@@ -78,6 +78,20 @@ related:
         width: 797
         height: 447
         isCached: true
+  - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
+    excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
+    publishedDateTime: 2020-12-18T17:37:00Z
+    webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 58
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
+        isCached: true
   - title: "Nvidia gets its own AI store in the AWS Marketplace"
     excerpt: "Nvidia Corp. is getting its own storefront in Amazon Web Services Inc.’s AWS Marketplace. Under an announcement today, customers will be able to download directly more than 20 of Nvidia’s NGC software resources to speed up their artificial intelligence deployments in healthcare,"
     publishedDateTime: 2020-12-18T15:09:00Z
@@ -91,20 +105,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-18_085931.png"
         width: 925
         height: 488
-        isCached: true
-  - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
-    excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
-    publishedDateTime: 2020-12-18T17:37:00Z
-    webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
-        width: 325
-        height: 325
         isCached: true
   - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
     excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"

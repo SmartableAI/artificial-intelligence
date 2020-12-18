@@ -56,6 +56,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier"
+    excerpt: "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,"
+    publishedDateTime: 2020-12-18T20:10:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 82
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/sonygastro-796x398.jpg"
+        width: 796
+        height: 398
+        isCached: true
 
 secured: "NUDnZQxEQNCd/Bu21Bxvorpwp+PCdr15Jga93GFpKhZUZqZRVB76VqA3oJw2LmQjAxrZFWbBGO01R8L1JoPhMdFxU38MAkYJfBTmL+0gHJAinLk5kEAbEF9TYldppPFRGuEqMs2YX1r/W2fWBrxQY2xy6oiyd16CtfNOKQhHS2zivTNoXmI83EACQ6Dl8e3KuAQdkffyy0wWZft6+BPuX9v1pxRI5HJhp5rmI5CyeH20/J/kqV+AQ4LLj+m7G/XKF5AYl8dehp2N0xa+kbufw7BVnMvncZyZ2e/AlY+qgjd2x/bKpnBpYnnSixYPaDPw8gGtrrAodyHxw0zMbIdk0XpgVr1uvHulG7W1jzijP88=;cVE7/mZwIlzH23DiRw+9mg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-18T17:37:00Z
 originalUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
 webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AWS AI
+  - AI Hardware
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
@@ -145,6 +146,6 @@ related:
         height: 228
         isCached: true
 
-secured: "sCyIWTSCZTsNegWU3CZcRFDXvV1ELjGav1kOxMpuLt3r2qU5jozcTpkG7Ouk37HoyXGFsNXjKOr5fdykKk6x4vM7il3T5gL4TeYYKo50/oFK+Y7beVxbnT1lMIWrI5B8Di5J0iZfM7jXy8yPoAa55gR8plMU5M90pMY3xHxzpJPtYlZs7JPLcDQKrNUFhm9V2wUamUS5YKTabhTCdtQ8HOeMMYOmYz/4POFyhe8E6qiMOCIcqBONKJsfHvu3w8+roF3KU7X2pf90qN5T+KIbLrUGQAL+edHIRJWtoFReT4qvLyjO9l4efRd9Epo3hJB9KEYJMaAg1srguDkS+WTySyCqI00lVDS34IwFx+O3uNc=;MZ1uPCG8OaukRkI84gVHWA=="
+secured: "aWIdNsps2EGpvWJySE3dY3qqYDc1xTEu7DrrU2774jLNIrfh2rUoK8evHb8je5p9ZVPHfGFOBlVVqIw0O35N28u45FJNTUxodxkDtva6zRsvDQiOYIH6TfJ9aZM9TTDdHuSNTJK/YrwPBjEVpJGWWu9kRdgbXX9jDFICfiShHUsBziFan8xuUpBevVOU/nyFj6+i8gGo10xIk5g8PFpXO3tHxpndwxPnlLZxd1ZlFRRiU0P9UP9P1N6sg95TfLfYV0XvgXjytEX5qgHzs1vpaYolLd6OgKYYHHezwnJrkTNRSUNMGEAV2yCC3xYXhA55eZpGbqyMHIEsyWzEGk8JrvTWPZSe7hiUTbuyadVUvjLudX/ps4z15rO89fmYwojB9z9bbbGH+QCOK7tTghSCXyK1IHWK67NdBamspOQFfDwCmHchI3+iRFNnppv0dVN/p9uWWhwztQE1tAVZUHbbmgabrmzkT19ybMgjV0JAQVFpZN9xbJPkaduo7G8yKN9Hq0kCOdIt9rLbWYM+Hvu26w==;00McRhozgj+AVQdtMqohQg=="
 ---
 

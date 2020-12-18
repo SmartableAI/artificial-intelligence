@@ -39,15 +39,6 @@ related:
         width: 880
         height: 495
         isCached: true
-  - title: "TruDecision Partners with CIG Financial to Drive Auto Loan Growth"
-    excerpt: "(TruDecision) announced today that their advanced analytic platform will be deployed by CIG Financial (CIG) to pursue improved performance and an enhanced dealer experience. CIG will leverage TruDecision's Expert Auto Score in order to offer an increased number of competitively priced approvals."
-    publishedDateTime: 2020-12-14T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201214005222/trudecision-partners-with-cig-financial-to-drive-auto-loan-growth"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "vH1w/22o9JFoHjWXlYoeI7r0aHjISy1uYfyUlIXsFDQJdHL/PMmBojJAVEIlRjGHAP+j/kvV8sIUExnPWz9cZbhKSOwvBLHtA5LujnLpAJOQeWPeHocTvItSfbaWbdLFt/EC2eO5WPalajDkH936yqLvIPOzu1uoteVpEo0gULSGVJ6SBabpvUdBYRUbk032RTfbh51eCFrHXFEGPofw4FATRLfTD5o7aHknUZ5ja48Wysto2ozm2BuiLQkMKfmWliVZC/MI0KZFMTYbu5zN+qAj1mnbeKhQabZDuvWthMoLjYGebZh2e6l+fsM3M3EmmqUeUauzTnrQdeMk16yaTLdYT99UksKbcaEYftic+cE=;4418WhvZrepIUu9azj55fA=="
 ---

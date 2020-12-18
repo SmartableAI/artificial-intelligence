@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-17T13:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201217005030/en/Reply-Machine-Learning-Reply-Wins-the-Airbus-Quantum-Computing-Challenge"
 webUrl: "https://www.businesswire.com/news/home/20201217005030/en/Reply-Machine-Learning-Reply-Wins-the-Airbus-Quantum-Computing-Challenge"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "7RBZaMoJPbhdqkdxAac7fulSGgw/REeqhg3iBm11/9t6uN0srNM39A3tkDkgiPqeGFhiQMXWoAZW59R5HGWTGP1xJaSy6hkVxrDPtYhdO7WcrIcYQUhwEk/HutF6wvwN6gSwDBIGdcqBHoW4NET1nWiTc0ErdAUpbENvH9as7nc1vRAOsh6xugL+64lPf3QeFlzKWtNY27QVB+TdauAbDHdj86gEAfdd75hFZh/F9ZuZl+HC1iAUcrgOwYInhZnH/W6x8IJSChjoP7vjrih+A5BT6/AEepFWCJva/Pj9ZjMAWsD/TtPIC2qTnZCd28vdKC1v1cXyc3LcqEdp5QOqB0IvW8cFOaKJYm9TaImF8aGrDN7Kkw+GkdmxcXs1MSPAK/1ojaceh84yuZy8TCN2UYx7TSS1dR/8O/Lzv7yx8Xj5vxmkOXIzoggmcN0n0ajew5vQwHBzGStCQ8BZhkvjF9NjrjgJINnvKwF3jPDkJQf8ic62geh6N/tWQWRvn8BVSVhGaz6fEj8829h5lGq3UA==;IqqjvYdFdhBgKaKu355RHA=="
+secured: "ejBA04HqY9exwDbx8zNxxn/3mZQkVA6An2cbBKCDgFWBCJKUeoyJ965rlNzWCo0A1s+OeWoxjyjFxVxSkrvXgyG36FuhzfgU/YHYSwihdyxbgkQs2vLBN+EHx56S5DwFPADrC++ELpxYk9Do4oCNVnFsW6Yrop8G3QZjwdok5GCEObWpqcWlRaDBxvo8LdV8iZkbBvcWj8mPiiJ6hLPlu6W/TezBWSmlcuhyOhT9FYtahYvps3yGZ4WRkNmV5uxB2BDcgUBmKcGNKHHXUKqHyz6Xp5qN48ey6yLugpsrDl3sxte4krVU6Bc0iZsGMZSrdwjRU/izIggbfd1ENuktuNOwJ9czujJmAyPeXbC4PWKsl9XOZaQpdu8uO3w/5L5kkpLRPKQIEcXG/F4tOCRChBOhYd5BoNXFDAbe1gNFDzNvisK4BgGXYI8on1R8V76TFbibyzs6QfZtSZA9KQjn1vduF9FkU4/3V7J6XywwrI7T562zAZKgcxp3+YwZOO/6B7M22JywC43clygsiuG/0Q==;rwpXO9xq+XrA5zb25XhLYw=="
 ---
 

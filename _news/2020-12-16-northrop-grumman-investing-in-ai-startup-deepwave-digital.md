@@ -27,7 +27,7 @@ related:
   - title: "How Northrop's tech scouting led them to this AI startup"
     excerpt: "Like all defense companies, Northrop Grumman is on the hunt for technologies outside of its own industry that could be beneficial to themselves and their customers. Here's how that search led Northrop to invest some equity in a Philadelphia-based AI startup and how others can at least get on the radar."
     publishedDateTime: 2020-12-18T18:56:00Z
-    webUrl: "https://washingtontechnology.com/Articles/2020/12/18/Northrop-Deepwave-investment.aspx?p=1"
+    webUrl: "https://washingtontechnology.com/articles/2020/12/18/northrop-deepwave-investment.aspx"
     type: article
     provider:
       name: Washington Technology

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Sony AI launches its Gastronomy Flagship Project to make the world a bit tastier"
+    excerpt: "Sony AI recently announced its Gastronomy Flagship Project, an AI-powered initiative built on “enhancing the creativity and techniques of chefs around the world.” This might sound like a small-potatoes problem compared to self-driving cars,"
+    publishedDateTime: 2020-12-18T20:10:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/18/sony-ai-launches-its-gastronomy-flagship-project-to-make-the-world-a-bit-tastier/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 82
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/sonygastro-796x398.jpg"
+        width: 796
+        height: 398
+        isCached: true
   - title: "H2O.ai Launches H2O Wave"
     excerpt: "H2O Wave is H2O’s latest open source offering, making it even faster and easier for data scientists, machine learning engineers, and software developers to develop real-time int"
     publishedDateTime: 2020-12-16T10:06:00Z
