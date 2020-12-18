@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "meet_cleo"
   url: "https://twitter.com/meet_cleo"
-  followers: 14626
+  followers: 14630
 
 size: 11-50 employees
 yearFounded: 2016
@@ -37,7 +37,7 @@ tags:
   - FinTech
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1339858322892222467/k8b2VzzV_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg"
     width: 400
     height: 400
     isCached: true
