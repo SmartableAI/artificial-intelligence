@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/16/the-future-of-ai-deployments-reac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/16/the-future-of-ai-deployments-reaching-production-is-bright-in-2021/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1608288885-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Facial recognition, AI in post-covid airports of the future"
-    excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
-    publishedDateTime: 2020-12-15T20:36:00Z
-    webUrl: "https://www.abc.net.au/radio/programs/am/facial-recognition,-ai-in-post-covid-airports-of-the-future/12988210"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
         isCached: true
   - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
     excerpt: "Iguazio, the Data Science Platform built for production and real-time machine learning (ML) applications, today announced that it has launched the first production-ready integrated feature store. The feature store,"

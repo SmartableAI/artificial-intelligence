@@ -2,49 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2020-11-03-aws-announces-general-availability-of-amazon-ec2-p4d-instances-with-ec2-ultraclusters-capability.md",
-      "title": "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability",
-      "excerpt": "AWS announces availability of EC2 P4d instances powered by NVIDIA A100 GPUs with UltraClusters capability for machine learning training and HPC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201102006034/en/AWS-Announces-General-Availability-of-Amazon-EC2-P4d-Instances-with-EC2-UltraClusters-Capability",
-      "originalUrl": "https://www.businesswire.com/news/home/20201102006034/en/AWS-Announces-General-Availability-of-Amazon-EC2-P4d-Instances-with-EC2-UltraClusters-Capability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201102006034/en/835509/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-machines-are-not-good-enough-to-match-human-decision-making.md",
       "title": "‘Machines are not good enough to match human decision making’",
       "excerpt": "Artificial Intelligence, the more commonly used term ... bigger deal when that same software fails to recognise faces in a driverless car. Therefore, having a darker skin tone could make you ...",
@@ -1139,6 +1096,57 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas.md",
+      "title": "Researchers claim AI tool can predict heart disease by analysing retinas",
+      "excerpt": "The examination of retinal blood vessels to predict a patient's risk of CVD is not new, but the software used to carry out the procedure can now be semi-automated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/15/2bca2c70-8fca-4cd0-a676-50dc1fc72111/thumbnail/770x578/e0e6c0dc697daa8487df190663318730/australian-and-new-zealand-scientists-us-5f877ba5e6d2502094fc4814-1-oct-15-2020-4-35-33-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

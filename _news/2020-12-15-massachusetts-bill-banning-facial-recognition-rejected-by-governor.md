@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Celtics Players Pen Op-Ed Opposing Lack of Regulation on Facial Recognition Tech"
-    excerpt: "The Boston Celtics team, in an op-ed for the Boston Globe , decried Massachusetts Governor Charlie Baker's decision to remove regulations from recent police reform legislation regarding the use of facial recognition"
-    publishedDateTime: 2020-12-16T18:07:00Z
-    webUrl: "https://bleacherreport.com/articles/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    type: article
-    provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
-    quality: 54
-    images:
-      - url: "https://cdn.branch.io/branch-assets/journeys/banner_bottom-PlayStore_App-1505340973220.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "CvRHXXn4d+wzELoLmrOOkTzyDZ2wRPp2JrU317Au9h/FCJi6WSNR+OYp72bdo/RfsWXkEBml12H4XNFfyTvDtLTHkysPftrRpVd0qXuSRx+P9SOYVrT9bfsbZgtkNJFAwYQ1T8ZJe3ySQRAxntzFN1KKFIuWntNcRmzFgNG12xxJ+bb5IhwpZykiOCVgv5vXZhB0KzR5Cj87lduXvijVxqV8CAtc8pm2xfHjcupcEKIcJujP8pr6W2n3zk2wuN80aP1iFpu4rhHFw2f0qqP0csmw6iDOk7qE0Uyz4CpOKLuRxNP8+IWKcFQ/LEC4mnH5JXI+GyNupGEFW8QZVQiczpigForxwMoxX6iAFn0TZb1JmCja3KfCthtxXl54nMCYelul113rpNo99IcxepDfZ1A/tx+PnyPJt8nYNkg97qNsZ5Maa8hkHUP5LyPE/0MV07eH+QJr1X/mfuaRBx2huvrMhXHNKmtj/d4MjK29UYoqLGu0NC+3DKA/s/gu7WompxPI5+CSJneDNIL0GMQYNw==;7fsvX354OLKZhxqPcRHhwg=="
 ---

@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Making the Most of Supply Chain AI"
+    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
+    publishedDateTime: 2020-12-18T14:36:00Z
+    webUrl: "https://www.mhlnews.com/technology-automation/article/21150574/making-the-most-of-supply-chain-ai"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/12/Supply_chain_analytics.5fd788eea68c4.5fda518569d69.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Neural Network Software Market 2020 Industry Challenges, by Key Players, Types, Applications, Countries, Market Size, Forecast to 2023"
     excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
     publishedDateTime: 2020-12-17T12:31:00Z

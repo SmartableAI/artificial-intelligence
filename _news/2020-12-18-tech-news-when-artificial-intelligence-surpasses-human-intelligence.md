@@ -8,8 +8,8 @@ webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-when-artificial
 ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-when-artificial-intelligence-surpasses-human-intelligence-e57e8983-dfd5-4215-933d-8f13bcd5f696"
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-when-artificial-intelligence-surpasses-human-intelligence-e57e8983-dfd5-4215-933d-8f13bcd5f696"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=0x0&resize=2993x1684"
@@ -26,6 +27,6 @@ images:
     height: 366
     isCached: true
 
-secured: "2teE7jHkWmqiOkvpThbhADDty6eUIJztLt5MW4pdkDyG8qx+eG94+02qAeoyJPovyQtkNMwHBMLg5eWEF2tMmkAKRZ0aQoWs9+Y+1Z95buceevjHbmeEcY8nMvM89LJ8ni2GlC+LmjTSAda8aUkDn2yWH9R13tvs50nOby8r26w2n7ooX/kULknM2q75LwnNunwmXdtVL0uk1zt9RbZErQPkMBsyQw8FuXJUxjcPbYSCRR/iFrzyjO1NxuZL5sX2IUMvubNQpvkbTNkIvWhwyvWnff92FTtwx8n27ZEAdFQhS6AddkqK2tsyBtvRN0lVHYfaMOQpoKy0ZKixQRMuUCWMFCgBOJO5DgDT8Fg7jnU=;rEDS7tFbNY3K8MoLca1VZw=="
+secured: "QfhYgRJ2/9ER34DdUGWr2QAmQr1UiQsPJ6EwJu1bKXUH68707Z8yvG4TIojzwjh2qXmhv2g2KIbaAPY2rGH3rgCGrbkH99hZuJ2x9nmYQH8CAIV6PNKAOpym4aT24nv2KBK6PHPO8hgq7ZoexvginRp8aYxUqSRx5eF1zod9pKQ5IBGVZEj2yxSxZeKd+StobOpMHP8L+SeGfh2P2l64l4e7xjdYNBRNA9bUi+2+rfJoIRUuxQhQbNevLEVibH+vxpGXDNUV6CCQH5mlsQbqmO1gPzh1QCEYdddG7f6JUOCQUSNfA6T7Gaf/39zdt4vVAQ1jQU8re2KCPbVVPiMCkSrnk80O0bctpHHhOMZwDWeQ8GBtGyykFyJaBmyqE0t2OrPM2G2Qp5rAAGSt8DIuVD8LOEIzCfRSjhZBoN26dhfOAHa/zsHMvPkwQbNsTk5seo9sy6qHZPO+z+056JmKjKXra8yOnutZGnq7clWQ67jL71xfKFVLZNUAfHC4f4pZOas4LOehkiJ1cbIa10W2Hg==;UqSUUntLTvRrYABdgTP/dw=="
 ---
 

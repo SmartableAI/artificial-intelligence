@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI controlled a US military aircraft for the first time"
+    excerpt: "AI has controlled a US military aircraft for the first time, serving as a co-pilot aboard a U-2 spy plane in a milestone test for the Air Force."
+    publishedDateTime: 2020-12-18T14:32:00Z
+    webUrl: "https://www.engadget.com/ai-controls-us-military-aircraft-142844768.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-controls-us-military-aircraft-142844768.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F88a387b0-4136-11eb-b7ff-d535d526638c&client=amp-blogside-v2&signature=746051fd7fa46351f3d53bca721d6e884784658e"
+        width: 600
+        height: 350
+        isCached: true
   - title: "AI co-pilots US Air Force spy plane for the first time"
     excerpt: "An AI modified from a gaming algorithm controlled a military system on a U-2 Dragon Lady, marking another milestone moment for Air Force autonomy."
     publishedDateTime: 2020-12-17T17:59:00Z
@@ -179,17 +195,17 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "An AI just helped an Air Force pilot fly a U-2 spy plane during a simulated missile strike"
-    excerpt: "The Air Force has taken a giant step toward creating an artificial intelligence system that would never in a million years turn on humanity – unlike the “Skynet” nemesis in the first two Terminator movies,"
-    publishedDateTime: 2020-12-16T16:11:00Z
-    webUrl: "https://taskandpurpose.com/military-tech/air-force-artificial-intelligence-u2/"
+  - title: "Artificial Intelligence Takes Control Of A U-2 Spy Plane's Sensors In Historic Flight Test"
+    excerpt: "The Air Force says the flight test was the first time ever that AI-driven software had been trusted to safely operate a U.S. military system."
+    publishedDateTime: 2020-12-16T17:24:00Z
+    webUrl: "https://www.thedrive.com/the-war-zone/38202/artificial-intelligence-takes-control-of-a-u-2-spy-planes-sensors-in-historic-flight-test"
     type: article
     provider:
-      name: Task & Purpose
-      domain: taskandpurpose.com
+      name: The Drive
+      domain: thedrive.com
     quality: 27
     images:
-      - url: "https://taskandpurpose.com/app/uploads/2020/12/16/U2-AI.jpg"
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/12/ai-u2-top.jpg?quality=85"
         width: 1920
         height: 1080
         isCached: true

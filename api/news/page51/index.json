@@ -2,51 +2,6 @@
   "page": 51,
   "value": [
     {
-      "path": "_news/2020-11-12-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
-      "title": "People Suffering Depression and Anxiety Want to Reveal Their Pain — to a Robot",
-      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/",
-      "originalUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2020/11/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/?amp",
-      "publishedDateTime": "2020-11-11T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-a-case-for-facial-recognition.md",
       "title": "A Case for Facial Recognition",
       "excerpt": "Facial recognition software doesn’t have to be all or nothing, argues a city official in Detroit. By Shira Ovide This article is part of the On Tech newsletter. You can sign up here to receive it weekdays.",
@@ -1244,6 +1199,49 @@
         "Google AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
+      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
+      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-
 cdnAmpWebUrl: "https://celticswire-usatoday-com.cdn.ampproject.org/c/s/celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: USA Today
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Celtics Players Pen Op-Ed Opposing Lack of Regulation on Facial Recognition Tech"
-    excerpt: "The Boston Celtics team, in an op-ed for the Boston Globe , decried Massachusetts Governor Charlie Baker's decision to remove regulations from recent police reform legislation regarding the use of facial recognition"
-    publishedDateTime: 2020-12-16T18:07:00Z
-    webUrl: "https://bleacherreport.com/articles/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/2922725-celtics-players-pen-op-ed-opposing-lack-of-regulation-on-facial-recognition-tech.amp.html"
-    type: article
-    provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
-    quality: 54
-    images:
-      - url: "https://cdn.branch.io/branch-assets/journeys/banner_bottom-PlayStore_App-1505340973220.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Massachusetts bill banning facial recognition rejected by governor"
     excerpt: "A new police reform bill which calls for a state-wide ban on police and public authorities using facial recognition technology has been passed by lawmakers in Massachusetts, yet rejected by State"
     publishedDateTime: 2020-12-14T20:17:00Z

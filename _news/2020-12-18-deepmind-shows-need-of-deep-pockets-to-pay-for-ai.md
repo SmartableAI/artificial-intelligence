@@ -35,7 +35,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 93
+    quality: 193
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1529477891"
         width: 4189

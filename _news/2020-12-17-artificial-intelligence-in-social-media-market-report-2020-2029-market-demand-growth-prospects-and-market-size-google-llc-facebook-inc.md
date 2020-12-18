@@ -249,6 +249,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Making the Most of Supply Chain AI"
+    excerpt: "The widespread scale of the coronavirus pandemic, and the need to distribute a vaccine the moment it’s ready, has introduced new complexities to the global supply chain. These include the number of parties and jurisdictions involved,"
+    publishedDateTime: 2020-12-18T14:36:00Z
+    webUrl: "https://www.mhlnews.com/technology-automation/article/21150574/making-the-most-of-supply-chain-ai"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/12/Supply_chain_analytics.5fd788eea68c4.5fda518569d69.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
+        isCached: true
   - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
     excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
     publishedDateTime: 2020-12-14T01:47:00Z

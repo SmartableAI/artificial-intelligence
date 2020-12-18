@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SoftBank-backed Chinese warehouse solutions startup bags $100m in series C+ round"
-excerpt: "Founded in 2014, Quicktron develops robot intelligent warehousing solutions based on artificial intelligence. AD. Remove this ad space by subscribing. Support independent journalism. Its business covers the research and development, production, sales ..."
-publishedDateTime: 2020-12-18T12:31:00Z
-originalUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-665846"
-webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-665846"
+excerpt: "The new funds will go toward global expansion, products and technology development, as well as talent acquisition."
+publishedDateTime: 2020-12-18T09:35:00Z
+originalUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-666811"
+webUrl: "https://www.techinasia.com/softbankbacked-chinese-warehouse-solutions-startup-bags-100m-series?ref=recommender-666811"
 type: article
 quality: 29
 heat: 29
@@ -22,6 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "JxJ7HorAuJztkWBadfB7MvMfIRYwPxiIGc4hJ70H4O0EcBXYa8U67/4IRZbbM0C4LUyyhArRs+RJa/2V2hTR12hONzjdnmeI6vM63BqweywsyUMo4/jncoM1yCKEY1TzrJiEpj9I5lg/kdIKT7sV+2zk9T9NqGZDv1LKIoaUduC1LK9DRkKVzd1+e00+QGgF2f3G72A/3QSq/VjJoRFZM78+2tnWsnPrHo0Y5uB+5ioc9UfQl5QKJJNPjFFCcWTIjllyLGYiItWB8XfEqv5RCYVVTbKHlNQa3FO8jMzBuv1vPbPs+HAG61eORm9eJoZBLQ1JMsp15l6Nq87AnzEvtVdbw2zhAWMPCWC6fa6h7wKxvrzyQDreC6ALCj9Q/YOZDOsgTvEZdTSvCgH8uXi9Lv8/AMUEolDtYq1ZgCLGeapTsV0e4Xm2WBKE2R/u+yNjkD2zLrk9y7yIHkfHduH0IV/mgb3zl+9ZjCt4ZfDvECM0G6U1FE1w2GjZ+WiHeZQbgGQbuHc9H+kw1K36YSo7nw==;xh2vUy6k9qClQcfeCw6YOg=="
+secured: "Y0+JseILBGaN7JAiTsYScoPeO4bfyOnNGZUJlOfp6pkUFj3HEwOM+OsBrsw09AuiX1r0YPB9XWRau/sen5f3Cn1FXSbFeA++6VfFwqZzZxh1d/U7tiGYdFB2XqpGcVTbkISnG92GnLka4pnPbCNYlxHvMPj023DnfZV6FhHnJ8qlBj0V0BVshg2tZ9wZeesjqWnDX+gUvlKMGJRSVllCrHR8967AdzURmRmf3GJ9D7OS1pSYeP9hEgljv571n1kpn/ZipkOleCPWxr07/hDQjo91pWVlxBuOwl/96VMIn1zCKLdwX2P/GAT++udaRbBmdMubdALrVvVWW/3sMoa/M2w8xIc7E7NklbLdgKqAJLMAAoI5/0mGD9hwfsfuc+CNbu0B/ldldrTO7LoAYRLytwXp6BKy/U4BB9BJOu+F8/XOvOur+MlKYzCaNpasIFX7n3C8CMbi7XfDIWRZebvTTPm43oxDzs5KPi5lR/NdOIbsvQP9Hx9rI4L931JI2nJHQnCkqTuQnG7NGqqw2M8jDA==;xFuvAqQWBH9vg8Al0LuhaA=="
 ---
 

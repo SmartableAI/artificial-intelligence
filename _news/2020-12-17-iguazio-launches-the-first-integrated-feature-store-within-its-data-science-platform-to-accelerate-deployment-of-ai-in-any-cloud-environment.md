@@ -57,20 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facial recognition, AI in post-covid airports of the future"
-    excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
-    publishedDateTime: 2020-12-15T20:36:00Z
-    webUrl: "https://www.abc.net.au/radio/programs/am/facial-recognition,-ai-in-post-covid-airports-of-the-future/12988210"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Iguazio Launches the First Integrated Feature Store within its Data Science Platform to Accelerate Deployment of AI in Any Cloud Environment"
     excerpt: "The first production-ready integrated solution for enterprises to catalogue, store and share features centrally, and use them to develop, deploy and manage AI applications across hybrid multi-cloud environments Iguazio’s feature store tackles one of the greatest challenges in machine learning operations (MLOps) today - feature engineering The feature store is a key component in Iguazio’s data science platform,"
     publishedDateTime: 2020-12-16T14:33:00Z

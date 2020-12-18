@@ -27,35 +27,108 @@ images:
     isCached: true
 
 related:
-  - title: "Jaylen Brown tweets his support of bill banning facial recognition tech"
-    excerpt: "Boston’s Jaylen Brown came out in support of a police reform bill that would ban facial recognition technology in Massachusetts."
-    publishedDateTime: 2020-12-16T02:07:00Z
-    webUrl: "https://celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/"
-    ampWebUrl: "https://celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://celticswire-usatoday-com.cdn.ampproject.org/c/s/celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/amp/"
+  - title: "US plans major expansion of facial recognition authority at airports"
+    excerpt: "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,"
+    publishedDateTime: 2020-12-18T14:41:00Z
+    webUrl: "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 59
+      name: The Verge
+      domain: theverge.com
+    quality: 104
     images:
-      - url: "https://celticswire.usatoday.com/wp-content/uploads/sites/39/2020/12/d174717ca9104bddb2dd329faa9b1b66.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
+      - url: "https://cdn.vox-cdn.com/thumbor/LN_n6S12cK_P45z1SZJ7UeGAsnI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68547533/acastro_180730_1777_facial_recognition_0003.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Massachusetts bill banning facial recognition rejected by governor"
-    excerpt: "A new police reform bill which calls for a state-wide ban on police and public authorities using facial recognition technology has been passed by lawmakers in Massachusetts, yet rejected by State"
-    publishedDateTime: 2020-12-14T20:17:00Z
-    webUrl: "https://www.biometricupdate.com/202012/massachusetts-bill-banning-facial-recognition-rejected-by-governor"
+  - title: "Documents Detail New Orleans PD's Facial Recognition Use"
+    excerpt: "The city's police department has not made its use of the AI technology public before, and a spokesperson once said it doesn't"
+    publishedDateTime: 2020-12-17T00:00:00Z
+    webUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "City releases dozens of pages of emails on police use of facial recognition"
+    excerpt: "The emails show that the NOPD and Louisiana State Police have had a formal relationship since at least 2018 that provides the NOPD access facial recognition software."
+    publishedDateTime: 2020-12-14T19:04:00Z
+    webUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Lens
+      domain: thelensnola.org
+    quality: 72
+    images:
+      - url: "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/12/DSC_5214-scaled.jpg?fit=2560%2C1709&ssl=1"
+        width: 2560
+        height: 1709
+        isCached: true
+  - title: "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn"
+    excerpt: "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation."
+    publishedDateTime: 2020-12-16T05:22:00Z
+    webUrl: "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn"
+    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
+    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 58
+    images:
+      - url: "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "Facial recognition, AI in post-covid airports of the future"
+    excerpt: "As the aviation industry plans for how to protect travellers in a post-pandemic world, facial recognition technology and other forms of artificial intelligence will be adopted to help minimise covid risk."
+    publishedDateTime: 2020-12-15T20:36:00Z
+    webUrl: "https://www.abc.net.au/radio/programs/am/facial-recognition,-ai-in-post-covid-airports-of-the-future/12988210"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 54
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12988182-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "New Orleans Police Have Used Facial Recognition for Years"
+    excerpt: "New records reveal that the New Orleans Police Department has been partnering with state police to use facial recognition software since, at least, 2018. The city did not admit use of the technology until last month. (TNS) — Although the practice was ..."
+    publishedDateTime: 2020-12-16T22:26:00Z
+    webUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html"
+    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Governor Baker, regulating facial recognition technology is a racial justice issue"
+    excerpt: "Baker’s rejection of this section of the police reform bill is deeply troubling because this technology supercharges racial profiling by police and has resulted in the wrongful arrests of innocent people."
+    publishedDateTime: 2020-12-16T16:52:00Z
+    webUrl: "https://www.bostonglobe.com/2020/12/16/opinion/governor-baker-regulating-facial-recognition-technology-is-racial-justice-issue/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 33
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/djjMhYJ02Jg9RNwCWvbXdbwh7aY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/OMQRJ3YHWTCR6G5K4J5KYA55UM.jpg"
+        width: 506
+        height: 285
         isCached: true
 
 secured: "8EIgql5oFD/KTOy4XbuG1yFGsKHcAjlMAFgKEuPT55oG5LKRJwLElWF6LsOi1LAz2WKptxO6KEJziJvEKmoqeQEqEZB7oGn6M6Aa3W66OOSI532pMvJOBQNGyVm7GPiZkm0ZbTqmLT2vf3mSskBWCUXKQBTJgU6uUDAW4GfQKo643cUfI39gXDihgvUJVgwf4oQPxebsnyjDJMCWNV8AgHr0frnV3fLdPTXwBId0ktCNe7tRtzEG437Xn4DIb2KfkJqrVBt/L1IfdAVpKs/WO+3XY9KiJurb8eSK/rmaLnfKLGqkmsPM6wEriKllBv69jBMNOE9PNHiCU0AjFWTc1bplkHZQyhe8Sd2T5U1DDE9V7B6hl4Fvp8ClPeZU8cAgcOU7BEkFL6BL5cXxt9/NwY2MUf6UjZqJn1dUvo/OAdhEKLmS79Vx2MV6nnwYCwoV0r3cuRr7iUgt/7iOgQtb+XGIZU3HMxnmtws6CHRcmtgrWRvNhuf/diA71aSfIL4V/xBuE78uZ8UPVU1vtUmHUQ==;Cgxv16dRzifGxS9IL7JmNw=="

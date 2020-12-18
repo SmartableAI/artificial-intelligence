@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia’s Inception program tracks 7,000 AI startups, up 25% in a year"
+    excerpt: "Nvidia's Inception program is tracking over 7,000 AI startups, up 25% in a year. That's a lot of growth in a very tough climate."
+    publishedDateTime: 2020-12-18T13:34:00Z
+    webUrl: "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/"
+    ampWebUrl: "https://venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/nvidias-inception-program-tracks-7000-ai-startups-up-25-in-a-year/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/nvidia-nv-inception-milestone-logo.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AWS Marketplace Adds Nvidia’s GPU-Accelerated NGC Software For AI"
+    excerpt: "AWS is adding 21 software resources from Nvidia's NGC hub, which consists of frameworks and software development kits for GPU-accelerated applications."
+    publishedDateTime: 2020-12-18T14:04:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-marketplace-adds-nvidia-s-gpu-accelerated-ngc-software-for-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0264-111d4a4730ae-112e092fd3a8-1000/ai-artificial-intelligence-mind.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
     excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
     publishedDateTime: 2020-12-14T16:08:00Z

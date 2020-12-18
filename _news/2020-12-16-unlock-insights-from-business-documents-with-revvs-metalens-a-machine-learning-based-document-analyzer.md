@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Unlock Insights From Business Documents With Revv's Metalens, a Machine Learning Based Document Analyzer"
-excerpt: "This machine learning approach provides users with an alternative solution that allows them to circumvent their dependence on intimately knowing the document to extract information from it.” Revv’s new Metalens feature gives its users the speed and ..."
-publishedDateTime: 2020-12-16T15:13:00Z
-originalUrl: "https://www.register-herald.com/region/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/article_7c2bbd11-0fb4-52c8-8697-1639441df2b9.html"
-webUrl: "https://www.register-herald.com/region/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer/article_7c2bbd11-0fb4-52c8-8697-1639441df2b9.html"
+excerpt: "Unlock Insights From Documents With Revv's Metalens, a Machine Learning Based Document Analyzer. Businesses run on documents as documents help build connections. They cem"
+publishedDateTime: 2020-12-16T08:10:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201216005530/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer"
+webUrl: "https://www.morningstar.com/news/business-wire/20201216005530/unlock-insights-from-business-documents-with-revvs-metalens-a-machine-learning-based-document-analyzer"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
+  - AI
+  - Machine Learning
 
 related:
   - title: "Unlock Insights From Business Documents With Revv’s Metalens, a Machine Learning Based Document Analyzer"
@@ -41,6 +35,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jq4Ohm8SriF5Tu4gwH7E3Jc8L6G5zMNCozXjYy+LuhwMVQBRxrulqhVpbhtrJ5NCzV5+ltDW2ez6mOJxlGXKYR1lB/VOdo9y+6oG3lfYsnWGKL+oo8hS3vXcz88+FdAsaHu5U96omdLdBCelwy9dbHEUlm8FIRsi93C7VesW4kMCZQ+kQpaKaCpey7z1xZUYQmt5U9sIaWAxejdnzisc9d9bubUNWWu4jImQG7hruuVK1yp8QRDTDEKQF6YOXIsKn2GnTl5MRk/MYZel3HHL0VNnUFFQ9hWoQF8czq0oF5f/tnLzzb5phr6oA59arA2+UZ+mpXXjSrOTgllAOyS5EoLaNyKw6RIr6BL85r+yDFE=;7Za7rBPGw17h3baAzVhpJA=="
+secured: "soeNXHDsJqnW6pFtbF3QoDD4pukyczFbo3o9wR3Bgdk+tBUJClL/F8VKNPffaFrMUGC9W3bhRh+n7+JNz+nV6WpjZLPPQMSFm/y7Pn07LMpb3cBxgHxPtEadVT+iB3w368SfbfGqpJD14ePq5CTj8SisBUZgPf1xLCf0f742hFSTsc8/8TvlWlMI7WLKZ41Cqf0Keo/wsH3cktoqGXoPM94wUmfAiRQF69p/YPMMkYiZuOfa76+5g0Bm3ixCSqJoYJYNzywNOIBGvPWDnoE2zFz3lbA3+CWDaz6j0b82WEDxNP3ydN/ZO+OXt095rculUri2QF8jGmRK4ydp0JssW/lk0mhHAosqsdeMBmuC5yGuZBAoXWk0aie69WNKtbbgHTT1BMr3M4FwB5WJ/dG/sQDpgk+R7ImvkUTEN29Y3lHeIdZI4m3CFT+IRskZhK4f9cIM4cpNgT0MsbroxkG8mfOmZFFmHkLSbEyJhfMh5c5e9uca6iJdseRB+CW8zQCxavdTDhRxUSxMJsCVbhC1YQ==;PBpRQOHaymu+1FKFre4BEg=="
 ---
 

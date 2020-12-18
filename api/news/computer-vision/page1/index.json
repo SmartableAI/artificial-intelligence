@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-us-plans-major-expansion-of-facial-recognition-authority-at-airports.md",
+      "title": "US plans major expansion of facial recognition authority at airports",
+      "excerpt": "US Customs and Border Protection has filed for a significant expansion in its authority to conduct facial recognition at airports. On November 19th, the agency submitted a filing to the Federal Register seeking to expand the ongoing biometric exit program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "originalUrl": "https://www.theverge.com/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/LN_n6S12cK_P45z1SZJ7UeGAsnI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68547533/acastro_180730_1777_facial_recognition_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/18/22188526/airport-facial-recognition-us-customs-biometric-exit-expansion",
+      "publishedDateTime": "2020-12-18T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report.md",
       "title": "Alibaba facial recognition tech specifically picks out Uighur minority - report",
       "excerpt": "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report.",
@@ -98,49 +150,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-16-advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn.md",
-      "title": "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn",
-      "excerpt": "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn",
-      "originalUrl": "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b",
-      "cdnAmpWebUrl": "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b",
-      "publishedDateTime": "2020-12-15T21:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SBS",
-        "domain": "sbs.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-16-the-trouble-with-facial-recognition-doesnt-justify-a-ban.md",
       "title": "The Trouble With Facial Recognition Doesn’t Justify a Ban",
       "excerpt": "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error.",
@@ -149,7 +158,7 @@
       "originalUrl": "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -180,49 +189,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech.md",
-      "title": "Jaylen Brown tweets his support of bill banning facial recognition tech",
-      "excerpt": "Boston’s Jaylen Brown came out in support of a police reform bill that would ban facial recognition technology in Massachusetts.",
-      "sourceUrl": null,
-      "webUrl": "https://celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/",
-      "originalUrl": "https://celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://celticswire.usatoday.com/wp-content/uploads/sites/39/2020/12/d174717ca9104bddb2dd329faa9b1b66.jpg?w=1024&h=576&crop=1",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://celticswire-usatoday-com.cdn.ampproject.org/c/s/celticswire.usatoday.com/2020/12/15/jaylen-brown-tweets-his-support-of-bill-banning-facial-recognition-tech/amp/",
-      "publishedDateTime": "2020-12-15T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -447,7 +413,7 @@
       "originalUrl": "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1415,6 +1381,49 @@
       "provider": {
         "name": "ScienceBlog",
         "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-massachusetts-legislators-vote-to-ban-police-from-using-facial-recognition-technology.md",
+      "title": "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology",
+      "excerpt": "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457",
+      "originalUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg",
+          "width": 800,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp",
+      "publishedDateTime": "2020-12-02T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
         "images": null,
         "publishers": null,
         "authors": null

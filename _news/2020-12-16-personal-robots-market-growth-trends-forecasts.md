@@ -20,6 +20,24 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "GCC Agricultural Robots Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
+    excerpt: "The GCC agricultural robots market was valued at US 167 4 Mn in 2019 and is estimated to reach US 389 1 Mn by 2027 it is expected to grow at a CAGR of 11 3 from 2019 to 2027"
+    publishedDateTime: 2020-12-18T14:19:00Z
+    webUrl: "https://www.openpr.com/news/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2213290/gcc-agricultural-robots-market-2020-with-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18855863_g.jpg"
+        width: 700
+        height: 350
+        isCached: true
+
 secured: "ZzIN0qXrDvb474cspc+EoGbxGiP61Feh0iO8satA5ZK7Hoa440+qiFY6f0M3vL4k6X3gzFaJmYB+F3fMJpfcnwhBMMgkjEhlj2+tIMjNLzmet/6tI3G35QK1LDk7wnWN/oH4Cia9Bkqu6cB6mxPRv12bYab9bzz1wlohZHllOlwv9Q/5oHZok8qV916bn+jns0/6L7qusaVQBR+57r4Mp9M8mNpQcismyxUsMfnOre/Gvdmyc//EtvpWJoQ8oMWfb1R+fbtu9EMV3u7K95PLsC3o5xcOOA+6AIy/9jrM3M5UwkE2zcRRVUI5Kn7E876hLslAfxY+KS2W+AMvtTYkqNJoJSFjJ91dAcZmZkaGbxQ=;yxMyTg+SlCskY3vZ/muQJg=="
 ---
 

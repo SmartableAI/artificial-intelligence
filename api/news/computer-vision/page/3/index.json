@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-22-scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality.md",
-      "title": "Scandit Expands into the Japanese Market to Enable Digital Transformation Through Computer Vision and Augmented Reality",
-      "excerpt": "Scandit is a unique computer vision and machine learning platform combining leading-edge barcode scanning, text recognition (OCR), object recognition, and AR for any camera-equipped smart device - from familiar smartphones to drones, wearables, and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "originalUrl": "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-21T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realwire.com",
-        "domain": "realwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
       "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
       "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
@@ -1404,6 +1370,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america.md",
+      "title": "Cadillac Facial Recognition Feature Could Be In The Works For North America",
+      "excerpt": "It appears as though a new Cadillac facial recognition feature is planned for release in North America sometime in the near future. As first reported by GM Authority’s sister publication, Cadillac Society,",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/",
+      "originalUrl": "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gmauthority.com/blog/wp-content/uploads/2020/09/2021-Cadillac-XT4-Sport-China-exterior-02-Face-ID-Biometric-System.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/",
+      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/",
+      "publishedDateTime": "2020-11-09T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

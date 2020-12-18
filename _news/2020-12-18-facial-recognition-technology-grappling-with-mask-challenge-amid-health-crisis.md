@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Advances in facial recognition technology could amplify the persecution of minorities, AI experts warn"
-    excerpt: "As AI technology rapidly advances, experts say people of colour and other minorities around the world will face further persecution without regulation."
-    publishedDateTime: 2020-12-16T05:22:00Z
-    webUrl: "https://www.sbs.com.au/news/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn"
-    ampWebUrl: "https://amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
-    cdnAmpWebUrl: "https://amp-sbs-com-au.cdn.ampproject.org/c/s/amp.sbs.com.au/v1/news/article/advances-in-facial-recognition-technology-could-amplify-the-persecution-of-minorities-ai-experts-warn/da16ed2b-daa4-4b04-80c7-89b730388f1b"
+  - title: "How to solve healthcare challenges with innovative technologies?"
+    excerpt: "The healthcare industry is rapidly developing under the impact of innovative technologies. There are plenty of digital medical solutions that help improve treatment, increase staff productivity, streamline workflows,"
+    publishedDateTime: 2020-12-16T23:17:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2020/12/16/447434-how-solve-healthcare-challenges-with-innovative-technologies.htm"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 58
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 39
     images:
-      - url: "https://sl.sbs.com.au/public/image/file/ee9a2d46-4aa0-4ba7-a1ff-7a20fc88edc0/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "From check-in to boarding: Facial recognition technology to follow you through Perth Airport in national first"
-    excerpt: "Biometric facial recognition technology that will follow passengers from self check-in to boarding will be rolled out as part of plans to develop the country’s first common departure lounge."
-    publishedDateTime: 2020-12-14T18:03:00Z
-    webUrl: "https://thewest.com.au/business/aviation/from-check-in-to-boarding-facial-recognition-technology-to-follow-you-through-perth-airport-in-national-first-ng-b881745317z"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 34
-    images:
-      - url: "https://thewest.com.au/static/media/everyday_digital.0516c439.png"
-        width: 440
-        height: 318
-        isCached: true
-  - title: "Facial Recognition Technology in the Financial Services Industry Environment Development Trend & Forecast Report 2030"
-    excerpt: "Market.Biz :The ongoing market research report reveals insight into basic parts of the worldwide Facial Recognition Technology in the Financial Services market, for example, merchant viewpoint, market drivers,"
-    publishedDateTime: 2020-12-16T12:56:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-financial-services-technology-corporate-news-products-and-services-6424298be67deaca4782e13de430a55b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://arateg.com/static/docs/how-to-solve-healthcare-challenges-with-tech.jpg"
+        width: 1128
+        height: 540
         isCached: true
 
 secured: "F6wwlEhldY8aFgbhrcKsCAineum23yMOMlH18Loeka4arlClkSYxGXlwZL1FyPIyMsu8WChqL6BQdFKLuWhF8IjaNRNEhEEwHNIOc9F3ffDgv9rkSBYoWwE/vcZh/CoBiGo4OUieV8oy1TVHhvqt3tDN3zy3W+MHZGal5GjXbkPYhwaOVvfGLgJJQIj+D5aJhzljKSNh5eJaA9glSmlPdR23POVWHCQcAZWCoSUOmoZBCDaXA+oWDL4J85HRi67UfRlJL9KNwZ/OYvDJZzAS725KvN3MDpa4p72zBO8EnovlwX0vS5PPzFQK1TjVgw1syBWnUw1HxfwQim1zNJQi0YDEPLvKXDVeJwNnUHHRoZw=;zpu+BHntoNQZneVmP6AXuw=="

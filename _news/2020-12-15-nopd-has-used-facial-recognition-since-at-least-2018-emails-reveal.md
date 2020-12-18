@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a4
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_2e2fccb2-3e5c-11eb-a45d-032cabc1b089.amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 84
 published: true
 
 provider:
@@ -27,49 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Documents Detail New Orleans PD's Facial Recognition Use"
-    excerpt: "The city's police department has not made its use of the AI technology public before, and a spokesperson once said it doesn't"
-    publishedDateTime: 2020-12-17T00:00:00Z
-    webUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Documents-Detail-New-Orleans-PDs-Facial-Recognition-Use.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
-  - title: "City releases dozens of pages of emails on police use of facial recognition"
-    excerpt: "The emails show that the NOPD and Louisiana State Police have had a formal relationship since at least 2018 that provides the NOPD access facial recognition software."
-    publishedDateTime: 2020-12-14T19:04:00Z
-    webUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    ampWebUrl: "https://thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/12/14/city-releases-dozens-of-pages-of-emails-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: The Lens
-      domain: thelensnola.org
-    quality: 72
-    images:
-      - url: "https://i2.wp.com/thelensnola.org/wp-content/uploads/2020/12/DSC_5214-scaled.jpg?fit=2560%2C1709&ssl=1"
-        width: 2560
-        height: 1709
-        isCached: true
-  - title: "New Orleans Police Have Used Facial Recognition for Years"
-    excerpt: "New records reveal that the New Orleans Police Department has been partnering with state police to use facial recognition software since, at least, 2018. The city did not admit use of the technology until last month. (TNS) — Although the practice was ..."
-    publishedDateTime: 2020-12-16T22:26:00Z
-    webUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html"
-    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Have-Used-Facial-Recognition-for-Years.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "ACLU of Louisiana Obtains E-mails that Confirm NOPD’s Use of Racially Biased Facial Recognition Technology"
     excerpt: "After years of assurances from city officials that facial recognition was not used in New Orleans, the ACLU of Louisiana has obtained nearly 50 pages of email requests from New Orleans Police Department (NOPD) to the Louisiana State Police (LSP) Fusion Center asking LSP to use facial recognition on various photos and video stills."
     publishedDateTime: 2020-12-14T21:48:00Z

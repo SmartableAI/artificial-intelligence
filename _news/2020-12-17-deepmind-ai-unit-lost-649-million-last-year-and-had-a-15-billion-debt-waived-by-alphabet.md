@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-
 ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html"
 type: article
-quality: 93
-heat: 143
+quality: 193
+heat: 243
 published: true
 
 provider:
@@ -101,6 +101,6 @@ related:
         height: 330
         isCached: true
 
-secured: "ljClQ843GiB07GPIF+2u5yLg8Xn6z8xHGnGBqXRglIkodoA4RAVapswoPlbBV09lrc6A5Xo+JdJyWtXPkMuxWchupXjvefXti/d9q8+bgANQIHiq1T3UH9ucsKlyYl29+RdGMzRiUsp9YsFasPKNebHrLqEeyxdWj39tNnAzZyartXikHKngZCEAceX0m/XuSS5I/4CazQ/2c9sX0nOjJnCHuIKkm2VX9MQzRi66LqDGk2HHT67asMZ/+fi97PuuxWyJ4PF/A7fh0LQZiMe2Bnn7uuyhxge2DMmoay8WtnmmSG0mIDvJbaB/momPuRDQJPB2IF+h9XqoM+d11ll0APA/j1C59YsfRm23wSdYVr+eMKniL6cjVNijbR4ZL7sEOS8dyEKlfLMZZ57SlamrNlCdjzuiQF5nEU8SxKEiS3OLubIU2MPxkqkaLZjbbCbOeNGUQ/3nnQooLl2/8kx70OU+y4jFf6U/lCNZRc0M9ycDnjatW3vMqt20iM1kJGDZFJFImh1ahVxq5LzG5+YkBA==;6RBwSvQiCahobmvkuc+g7A=="
+secured: "WNqWWrhQtCQhTicK4+y7E2c4hecjIkqAF5Il5nOBMchE3pcCkkMzHB1WafRhRi6B1La+mxKN1Ro+OimZsYg4C9qTQBepAyi+UpeUS6CtekmXVssKPXS3eNGTlq5qajTqQCFnL4i1sYC0224pMf0Ac+RjMZvu8z8Un2i6qoOv0RvYMiqueOBhvwuwbxAzh9fu1l4E4or8GUWFECGmzHLr3pjdMP7RBJZYWXtdGkar+n+yeC90jeWy3LX8L4nxp9sCu6ykonm5N1WihT0tqczfj0d9ghWNmgTnK62T19tE9jaYFAbkFw/alL3oouxf7DWFIeWHKeqA1PGirLqEodFGhIEwGPe6L1UV6tQHQqMH9ZhCqRx530iMW4864dYsghmQiXOZBho/kCHTeqKOj1GcHu0pxfFQRP66VabMUnqs2057V2GIgAqOi/w/0gj2IGDQuJaeu2FIpycg48PBuWYlBlFQ7nlkWmaB4yde+BK5liwDtQcbaQyTvF1DVa6YDIuxvTSwWvYohwve9AnjLhrOCx4bdhcMOLjZl60G0oLrfcg=;FCo0KCYHvMP45tBZaX/cmQ=="
 ---
 
