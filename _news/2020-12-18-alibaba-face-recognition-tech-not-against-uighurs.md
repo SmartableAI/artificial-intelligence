@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Alibaba facial recognition tech can identify Uighurs: Report"
-excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
-publishedDateTime: 2020-12-17T17:43:00Z
-originalUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+title: "Alibaba face-recognition tech 'not against Uighurs'"
+excerpt: "Tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users"
+publishedDateTime: 2020-12-18T06:21:00Z
+originalUrl: "https://news.rthk.hk/rthk/en/component/k2/1565990-20201218.htm"
+webUrl: "https://news.rthk.hk/rthk/en/component/k2/1565990-20201218.htm"
 type: article
-quality: 61
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Al Jazeera English
-  domain: aljazeera.com
+  name: rthk.hk
+  domain: rthk.hk
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
-    width: 1200
-    height: 630
+  - url: "https://newsstatic.rthk.hk/images/mfile_1565990_1_L_20201218140217.jpg"
+    width: 1280
+    height: 960
     isCached: true
 
 related:
@@ -59,6 +56,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alibaba facial recognition tech can identify Uighurs: Report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
+    publishedDateTime: 2020-12-17T17:43:00Z
+    webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 61
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"
     excerpt: "SHANGHAI - Technology giant Alibaba Group Holding Ltd. has facial recognition technology that can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report. Alibaba itself said it was dismayed a unit ..."
@@ -122,20 +135,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Alibaba face-recognition tech 'not against Uighurs'"
-    excerpt: "Tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users"
-    publishedDateTime: 2020-12-18T06:21:00Z
-    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1565990-20201218.htm"
-    type: article
-    provider:
-      name: rthk.hk
-      domain: rthk.hk
-    quality: 39
-    images:
-      - url: "https://newsstatic.rthk.hk/images/mfile_1565990_1_L_20201218140217.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Chinese tech giant Alibaba distances itself from facial-recognition software to identify Uyghurs"
     excerpt: "SHANGHAI: Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uyghur minority. A report this week revealing ..."
     publishedDateTime: 2020-12-18T06:32:00Z
@@ -167,6 +166,6 @@ related:
         height: 682
         isCached: true
 
-secured: "LUJUVGb/8og0xjAyMIDQFI1LhKQqWcpb32jw7nj8nEjkS2ZqgE8CewTiXCQBK0yGi4f4+VJ7qZpdgcvmluJHbzse13AYL/1bJ1iZzm/1FFwGsh68TcB0NsKV+K+jk3irmXMTfNLyZYAJmeG3UN8a8dXgUM0OspMdoBuuUnFTVOCRDKy0JjFlsNXQx1tPz6Dsmqty+CUA6HgFox3tx8OVbzjgxyVrsw0mTHjagT7xsMs3RTJuuadiHM+6fwo/fcKEDbNNo3UVyZJvtAKVmM6PgM5JHciWYWMYZGk6iLAVUMLx/z8RheSKqidABriwKan/dojEOcaz4EtadQj+Wq4XdR8APLNLYEFy5CAP+xSwRLE8hfXapToBCgANMDMmtL5u0ywZW2aliJyFkhiqAmswuwqPhAOMUkhQQ2F6gzezaFXs2KcJr7Au/SxkTeROkByT7hfeN0bw+gULt5uohBUy/RkQeu+IOMaAJNl12kxx4jFFCqZ9ou32D9JQSBlGPvP1bYJrRMaSbaMtjuxKKnVihw==;YBj6cwjeEXYxQ+kESg01kA=="
+secured: "lkXz9XFFwk/5xE+DfHIeh4un1KsnbXwSbvB9MUtlajCdhDIICxm9w5ete09GcFE3VjEEjX7gmSS29gUeIbLKUwaZQ/V4fQ4uChHoGqOfGnSYNtsVlNJh2/TcS051w+M7sAGZcquv9k2XCSgG+VUHY+2qhaad19ujVKlBeGyAsbhVDzyvYjRe7y/lE/UI9lFVtEo3sk90fyFvp3/KA4s26CXi02ej96HJJC9ffhj+gzC5cZ3v1yE3IDqXpLJckne5EM/05X8zCLFq9OQoQ8r0QpDthV3udV4KBM6+pJK4NqwVl9g0Xp1uLsH+btWT5x9cMHUKr8Ew3L3u1Ah1E/6Qzpp+paWaSx7oWylH09P9GT0=;RQ22Bk+xtQFTcbFj2nOTAw=="
 ---
 

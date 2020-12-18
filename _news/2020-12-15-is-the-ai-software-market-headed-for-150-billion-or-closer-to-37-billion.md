@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/is-the-ai-software-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-the-ai-software-market-headed-for-150-billion-or-closer-to-37-billion/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 1044
     isCached: true
-
-related:
-  - title: "Sizing the AI software market: Not as big as investors expect but still $37 billion by 2025"
-    excerpt: "The velocity of demand for AI technology, tools, platforms, and applications draws parallels to the demand for cloud. And, indeed, the market for AI maker platforms, AI facilitator platforms, and new AI-centric and AI-infused applications will grow to $37 billion by 2025."
-    publishedDateTime: 2020-12-13T14:58:00Z
-    webUrl: "https://www.zdnet.com/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/?via=indexdotco"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sizing-the-ai-software-market-not-as-big-as-investors-expect-but-still-37-billion-by-2025/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/12/11/cb5ab5b0-780a-4e16-afc4-570839d0c3f6/global-ai-software-mkt-by-segment.jpg"
-        width: 856
-        height: 738
-        isCached: true
 
 secured: "OyNGQ0lz8qTs7hUX76x9hCecyH4BcfAoXwVo56WF6pMbX+bKmq1NQHhWzYU/PbY5yd0ZC5oTDMBgGFM7FGdwZdI4ayMFsoJtf41UGLTYoLvC0IsPoKtw70s9HAn6imDc3fbX/6n55WTIxfywaUcUnFHa/h3ELUJ0wITp6uXBizrYVLEQPYVvaD5PHFY/3TI8uioKwG6BuzjFbNEGQalEyPINE7voptSCiit8Su+WNcFWhmi4y8Dwh1fOet07BhP2/3qBsWuKw4SAuJ6bfSi3DwNBKr4I1mGjLtfJ479ggCbQO1Zs9gPxc8ju1OpM/hLzdxcpQ76N62jFXHLGOfJQ5Fz4G1eC+8MPKwTjUv1U1na7XfbneSA4ocqcKaW0WW+uwX8G/zqxqOkFcUXqBQDfSb7kgEDTyx0KCepyl5QMWt56spyFEwX2SVB1/ItKl7X5VPr7Cos9G+s6KSNdSQdYSVj170A7m2nXaFNkRA5276Hornb8yWyGPA6QyROYr5YVzR60GlD6GLsrnh0juwpewA==;DMoLVu/6tZxwAM3tfhba8w=="
 ---

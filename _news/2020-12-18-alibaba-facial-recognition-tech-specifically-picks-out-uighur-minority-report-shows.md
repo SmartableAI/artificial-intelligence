@@ -8,7 +8,7 @@ webUrl: "https://www.voanews.com/east-asia-pacific/voa-news-china/alibaba-facial
 ampWebUrl: "https://www.voanews.com/east-asia-pacific/voa-news-china/alibaba-facial-recognition-tech-specifically-picks-out-uighur?amp"
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/east-asia-pacific/voa-news-china/alibaba-facial-recognition-tech-specifically-picks-out-uighur?amp"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-12/2020-12-17T055451Z_1389166760_RC2TOK9THUO5_RTRMADP_3_ALIBABA-SURVEILLANCE.JPG"
@@ -27,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+    publishedDateTime: 2020-12-18T06:50:00Z
+    webUrl: "https://www.reuters.com/article/us-alibaba-surveillance-idUKKBN28R0IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28R0IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28R0IR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
     publishedDateTime: 2020-12-17T11:25:00Z
@@ -105,6 +122,36 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Alibaba face-recognition tech 'not against Uighurs'"
+    excerpt: "Tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users"
+    publishedDateTime: 2020-12-18T06:21:00Z
+    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1565990-20201218.htm"
+    type: article
+    provider:
+      name: rthk.hk
+      domain: rthk.hk
+    quality: 39
+    images:
+      - url: "https://newsstatic.rthk.hk/images/mfile_1565990_1_L_20201218140217.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Chinese tech giant Alibaba distances itself from facial-recognition software to identify Uyghurs"
+    excerpt: "SHANGHAI: Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uyghur minority. A report this week revealing ..."
+    publishedDateTime: 2020-12-18T06:32:00Z
+    webUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 31
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/18/w600X390/2017-05-19T024552Z_2_LYNXNPED4I02C_RTROPTP_3_CHINA-INVESTMENT-ISRAEL.JPG"
+        width: 600
+        height: 390
+        isCached: true
   - title: "China's Alibaba 'Dismayed' By Uighur Facial-recognition Software"
     excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
     publishedDateTime: 2020-12-18T04:13:00Z
@@ -119,16 +166,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-18T00:46:00Z
-    webUrl: "https://news.trust.org/item/20201217091120-rqb3j"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 17
 
-secured: "lDoVuqPRrTq8q0yyKVoxGDJYmz4Xlya6yp64stbSN1ru2+ytcP7kdz+WJFdh1QJRCnAFT5z0td8seikul8XihrEE+HUt4/RgPo1H3Lx/Fc5IOZzSdmirNHzCyknUqeiiT7K2/QL9UI9O412CHGOKuWartbTgJCUSwuyuzZG2emC3O6JVon3ZphlerEXANDBupfGbQMOmvyQhnmT/iXaGLlFNkwWPymjnBQMByKPK5xtwN9L6eevZj1ePIzQnMZXWzLwUk0Y/ySrWAHiGWDjVRO51c/JgMsT4YPTU5hRvGNMcDx2+QjBtUYVe5/Yjc5Q7yera6XjOdze7eYNZQAqnYhVvtTCCSaIEB4w5lxTT6FI=;jNGQ2R2pSoSmbDXI84hOAg=="
+secured: "4lF03qz1cdxK477TAHqkQAQNmpC2Be4kG05L7Gbcvx+ieUNbY53OquLh3ez3LykIhO/zLCqbPlvkqkz/L17fIAMU1Ifuf4ygc4hUQgHoKPDo/GkgZStpLcfnBIou1BmPyenO0Ke2osY/BT1epB2bZYR67BRvDAmgPgyerNITsp6Vs8CzVFS+9Bd2OCQ4OiABA9XNFOalUy+7qxwagzRQtauWRsE7NnhX5PAUdmHiwhfqqgibs9XMsnICLWVmD9026Whgt1EijXhFVJ0v6Lg3ek4UDPqy526zLokjfKdJP5WvkAgZfu3k1w4bVsSIzL1buwYq1pgvLGEccKwj8ayiA5qO+WTtR9/7GWG6XnRMnZNND39b8J2ExJh9bLhglqLZtpadB0PLGzrCF+UZuS5sYTLIKjmW4HSM5ESdRjdwi8WfeGkq4EGRjzGBjbtqPyvO9+/O4V1F6c3CKpSdRNlL5mvwcy4fEafeEQA5Dxa6UXarjm7cECgPWOORv7Ni/Wzh3dbKOr5wsFCF0S6/61dNPA==;nMbj0fUSHIaWcrqT3N6dBA=="
 ---
 

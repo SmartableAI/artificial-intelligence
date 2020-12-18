@@ -3,8 +3,8 @@ category: news
 title: "The Trouble With Facial Recognition Doesn’t Justify a Ban"
 excerpt: "It’s helped find thousands of dangerous criminals. Reasonable limits can prevent abuse and error."
 publishedDateTime: 2020-12-16T04:19:00Z
-originalUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
+webUrl: "https://www.wsj.com/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trouble-with-facial-recognition-doesnt-justify-a-ban-11608074354"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 285
         isCached: true
 
-secured: "r6Zm+E+wcM34TpBTp6J+FzFZVvyeSyB/AsMPbXrntzZgCVjAM5/JQ0EjYtDZ5TQuHFNkdPIR2Ug/SvCJIPNE4oXkDh43xLkIuJ0x755G87Nr/d7xbb/6J/iTabNatk0JJP+IOh8XjcWnu8r4wrYjJB+RkakBBLpIXV7W/Ys5fwl5lQwAj2enAXmHVycaCcONuGNS7D4naI9c8cvBOwvlUIIDPOWS7xxgK7ln6CI9frTCJF4C1cSPPyPdLqn+2v5PV7zeFZMvwv5RBgzl43aN+Ac4H6Ebl7QtG+W3epGx1Disn8e5wTI/TliUsyrPSMXY44/MHUeJKUOyJHrBxmUErNyVMH8041EYhRQbQoOqDMePQRcls/wPZsxKiZctJyOJMy18nTH6Hmon9vRA8LB10QUHB8RykQdcjBVM2mWMBRKa22FodPOB1DH9oW0LD1l0ue3pFKaMQTnC8kIalXkCTZOHENjIphAGqjPc/izu5GTdD8VrgNGSEMwMUcPObeCBhLGoeGaVtus3E8pSGSk4Uw==;ZutXtetAIUA1TKd8xhtltg=="
+secured: "bnfEyMgPTD91z0JUqVyV6C31vmeSvNWJkuKy224LtNGGh6v/da2W0x8FU7Iej3XpBHC+o4I7rAlRZ2+eNxKVErwoFaaeyuvUb7mofIptI7z2da4wIsKeK8VI875hevrcWoAhptuJPu17mYc36lyru6z8QNCAOUSsdeXtzRuDy4xEyI6Xg31JP6P0lSF644zSJOW+SlEyW6VCtEXL4DnSIzoxDxnZQp7pe0gOBKW4l58/l5dyZ472ljWx9qJ424tknxXo/xiI2fzWswwswdjMyb/karTd28fa17j/EiCJUDORT2eS6mVQVIoayIhPB8Qj/SSb5ZJER2IaKM08gVNSuKS6NUf6AKof5pMuBGvXOVQ=;i+w97zPDdDMvcSjlMehCpg=="
 ---
 

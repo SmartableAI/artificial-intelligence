@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
-publishedDateTime: 2020-12-16T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+title: "Australian AI startup Dataro named in the top 10 fundraising tech ideas globally"
+excerpt: "Sydney-based AI startup Dataro has been selected as one of the top 10 fundraising innovations globally in a competitive open innovation challenge run by leading international charities."
+publishedDateTime: 2020-12-18T06:18:00Z
+originalUrl: "https://anthillonline.com/australian-ai-startup-dataro-named-in-the-top-10-fundraising-tech-ideas-globally/"
+webUrl: "https://anthillonline.com/australian-ai-startup-dataro-named-in-the-top-10-fundraising-tech-ideas-globally/"
 type: article
-quality: 20
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Login - Anthill Online
+  domain: anthillonline.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://anthillonline.com/wp-content/uploads/2020/11/tim_paris_photo.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -56,19 +56,19 @@ related:
         width: 1200
         height: 1192
         isCached: true
-  - title: "Australian AI startup Dataro named in the top 10 fundraising tech ideas globally"
-    excerpt: "Sydney-based AI startup Dataro has been selected as one of the top 10 fundraising innovations globally in a competitive open innovation challenge run by leading international charities."
-    publishedDateTime: 2020-12-18T06:18:00Z
-    webUrl: "https://anthillonline.com/australian-ai-startup-dataro-named-in-the-top-10-fundraising-tech-ideas-globally/"
+  - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
+    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
+    publishedDateTime: 2020-12-16T14:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
     type: article
     provider:
-      name: Login - Anthill Online
-      domain: anthillonline.com
-    quality: 32
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://anthillonline.com/wp-content/uploads/2020/11/tim_paris_photo.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Brown County translation tech company acquired by Australian business"
     excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
@@ -80,6 +80,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "3JSuljllC4O3N7dm4VTYF+M9XVR98ZrRtKXJNuHOjKB0zAxnfcbvYx72el7AVXqsen4b6hxYCp0jPWM6oxHbJmLny/3hDxGN5ZH3Ikkgs5B7OhhXIDo05sSbpGRf6nt+798bsRatwX8BUsUvVVrhU83ABRgdTExMNVbO5zkEYeU+Lqv3cpc20cw66ILn8h4pZa/V3qDiQo/KLHrZ2HNxEEyhAZ3WdIKd9BhaLxcJozhgDpJAXGV9SfR3U1H0+C0Tks0kGovWVVyu75XQv8ERJNSIMQ4E1mJwqn2Dug+4zDRhqzFfHTaFVQGiOduliRLkRu3A45Gtn0HeBtO4GGwQnfYylfiZb8KmeRtRLPMnCGY=;JC6xmyPwOzORe7oP5XBOUg=="
+secured: "Zl3CFZgi/M72vOOEkJE20vw9aHjq6nS6IgzptlEWpGKoT/Tcf4VAeWxSBpljwC2VyirVwfwihopGRl5nebI1k4V1GIPN81vBTsr+7+9LieRSt179+sJjJZ39XTR4dJNVgj3pv6W+GEwyQFfiJHBIRTuCFvKw5TGtGTSVTulTH4cOolm2b6vSXbMXiKOjlD1mal84l65u4clJjlerGWPwNbDpgIxTgI7qbmIPPOQ1CnEE3+7fPo3xSMYrH16y5k3TXHRvXUyWKj9XqO/fD8YZ8HEZazEsbxJr7OcEytPHo3MptY7rwqqbPS5CqQBox8vIBM3MyLiGg12wlChjuFChXAozNnbFqGlpyc+maEyFWyY=;89N+YzHUQkkQeuY8WQrjTA=="
 ---
 

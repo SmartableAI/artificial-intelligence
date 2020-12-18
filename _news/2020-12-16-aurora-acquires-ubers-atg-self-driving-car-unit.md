@@ -71,6 +71,22 @@ related:
         width: 977
         height: 650
         isCached: true
+  - title: "Motorists in self-driving cars will not be legally liable for accidents"
+    excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
+    publishedDateTime: 2020-12-18T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/TELEMMGLPICT000246281323_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Self-driving car owners will NOT face crash blame for accidents, experts say"
     excerpt: "Drivers will be renamed 'users-in-charge' when automated vehicles hit UK roads and will not be criminally liable if there is a crash, Government law experts have proposed in a new report."
     publishedDateTime: 2020-12-18T00:21:00Z

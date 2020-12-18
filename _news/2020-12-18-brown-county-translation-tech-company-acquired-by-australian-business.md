@@ -51,19 +51,33 @@ related:
         width: 1200
         height: 1192
         isCached: true
-  - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
-    publishedDateTime: 2020-12-15T18:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+  - title: "Australian AI startup Dataro named in the top 10 fundraising tech ideas globally"
+    excerpt: "Sydney-based AI startup Dataro has been selected as one of the top 10 fundraising innovations globally in a competitive open innovation challenge run by leading international charities."
+    publishedDateTime: 2020-12-18T06:18:00Z
+    webUrl: "https://anthillonline.com/australian-ai-startup-dataro-named-in-the-top-10-fundraising-tech-ideas-globally/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: Login - Anthill Online
+      domain: anthillonline.com
+    quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
-        width: 400
-        height: 250
+      - url: "https://anthillonline.com/wp-content/uploads/2020/11/tim_paris_photo.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
+    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
+    publishedDateTime: 2020-12-16T14:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "g9sb88T3APWbYaa3R7F8FcyamU0w4kW16ZeIH0XhH7lwW7pYjYxXwMZ5PGTxm2NxaIzA+zFAglwKQbDC1Gwc7TT26WKRjDMVlYenQzMS6EgAstPu/Or3dfQM3llsffgoX58iiaGnRncHaZgpujdCY8PAAmkbtOPPRcDZGy6lYFetIYrFqACyucQkfUjgREn7nWMGgaVwmA1bM2IjBqDtXZT7okueA7BLJn0AEUbelE3rqUTJaKyIl42hVNM6lLNt97/t7ZgjUMz6RKSZZIweekMIKbNVxL3h+U9OPJnA4U1d3J63SxEfq6HjkLd5OTIaFpHz07jjh8IiDN3icN9kn6A8DqFeYRDS3xjH6dwevkSdnqdqjBZaPVtVejZyCjlmMyymSbvKEmKTy/AXDj1DL8mai+F6fZTZHVtE07eK2ks9oiorAoWpWx2/GcmR091Bzzns8bV1z2Wqyg0pE5uHSIYxiWfoy3xRgseXyjwlJ5avVohm4V5G5Ywae+GgUA7CsO71o/AJj60O9f+oo4Kayw==;2msj1pfMp5wtSufX4MrjdA=="

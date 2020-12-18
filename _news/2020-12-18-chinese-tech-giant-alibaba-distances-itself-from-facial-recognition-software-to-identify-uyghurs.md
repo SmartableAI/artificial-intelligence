@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Alibaba facial recognition tech can identify Uighurs: Report"
-excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
-publishedDateTime: 2020-12-17T17:43:00Z
-originalUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
-cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+title: "Chinese tech giant Alibaba distances itself from facial-recognition software to identify Uyghurs"
+excerpt: "SHANGHAI: Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uyghur minority. A report this week revealing ..."
+publishedDateTime: 2020-12-18T06:32:00Z
+originalUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.html"
+webUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.html"
+ampWebUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.amp"
 type: article
-quality: 61
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Al Jazeera English
-  domain: aljazeera.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
-    width: 1200
-    height: 630
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/18/w600X390/2017-05-19T024552Z_2_LYNXNPED4I02C_RTROPTP_3_CHINA-INVESTMENT-ISRAEL.JPG"
+    width: 600
+    height: 390
     isCached: true
 
 related:
@@ -59,6 +58,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alibaba facial recognition tech can identify Uighurs: Report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
+    publishedDateTime: 2020-12-17T17:43:00Z
+    webUrl: "https://www.aljazeera.com/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2020/12/17/alibaba-facial-recognition-tech-can-identify-uighurs-report"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 61
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/12/333234268.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority, Report Shows"
     excerpt: "SHANGHAI - Technology giant Alibaba Group Holding Ltd. has facial recognition technology that can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report. Alibaba itself said it was dismayed a unit ..."
@@ -136,22 +151,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Chinese tech giant Alibaba distances itself from facial-recognition software to identify Uyghurs"
-    excerpt: "SHANGHAI: Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uyghur minority. A report this week revealing ..."
-    publishedDateTime: 2020-12-18T06:32:00Z
-    webUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.html"
-    ampWebUrl: "https://www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2020/dec/18/chinese-tech-giantalibaba-distances-itself-from-facial-recognition-software-to-identifyuyghurs-2237941.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 31
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/12/18/w600X390/2017-05-19T024552Z_2_LYNXNPED4I02C_RTROPTP_3_CHINA-INVESTMENT-ISRAEL.JPG"
-        width: 600
-        height: 390
-        isCached: true
   - title: "China's Alibaba 'Dismayed' By Uighur Facial-recognition Software"
     excerpt: "Chinese tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users to identify members of the country's Muslim Uighur minority."
     publishedDateTime: 2020-12-18T04:13:00Z
@@ -167,6 +166,6 @@ related:
         height: 682
         isCached: true
 
-secured: "LUJUVGb/8og0xjAyMIDQFI1LhKQqWcpb32jw7nj8nEjkS2ZqgE8CewTiXCQBK0yGi4f4+VJ7qZpdgcvmluJHbzse13AYL/1bJ1iZzm/1FFwGsh68TcB0NsKV+K+jk3irmXMTfNLyZYAJmeG3UN8a8dXgUM0OspMdoBuuUnFTVOCRDKy0JjFlsNXQx1tPz6Dsmqty+CUA6HgFox3tx8OVbzjgxyVrsw0mTHjagT7xsMs3RTJuuadiHM+6fwo/fcKEDbNNo3UVyZJvtAKVmM6PgM5JHciWYWMYZGk6iLAVUMLx/z8RheSKqidABriwKan/dojEOcaz4EtadQj+Wq4XdR8APLNLYEFy5CAP+xSwRLE8hfXapToBCgANMDMmtL5u0ywZW2aliJyFkhiqAmswuwqPhAOMUkhQQ2F6gzezaFXs2KcJr7Au/SxkTeROkByT7hfeN0bw+gULt5uohBUy/RkQeu+IOMaAJNl12kxx4jFFCqZ9ou32D9JQSBlGPvP1bYJrRMaSbaMtjuxKKnVihw==;YBj6cwjeEXYxQ+kESg01kA=="
+secured: "rXyjdMycEAmW2cOYLiLCh8NVgXi+FyMy82VqWynU5OSc4rs0efDmKD4YGPdpI7axLACv9UEElqAX0qO0FiJv+yK0KKqQwVnzyHS/xxvxIQ8MlkmHiqRpTRCbOfn/01P+JpfwSz4rp9LygiMq7oxg6Cui44xfTFHUKSW8lNvWD8Je4Ucy4kLoxEtb9gQkKUq0RNt1QbXT9mMgjpZ+97p6n/Ef5D9qqc3J3QOoJUvp34FaucLq2waGybJC4ldOQdkKjzWIQ90bba0VNxXc6U0zLs5Ste1mGr0HNakSArFkvTSJqAlgvmGMWK2WaDF1i6fLhrxWKDNDWIKF0KbRMqZ8PYd+R2/QuwY5HH9rXR+aFLk=;ZuevcGyqnK7wfGrgASKX1Q=="
 ---
 

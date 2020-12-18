@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosqu
 ampWebUrl: "https://medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-artificial-intelligence-id-mosquitos.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/88-researchersu.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1944
     isCached: true
 
-secured: "Jb57ZPuy5MApxOX4BVaEP7wbRyDZEHFSpivrdlrR9KKpYCXx2gBJup1tmxpXSVmAoqZ0svLAKO9Ao1JRlUmyFv7zZHgl/CALAN5lwm6KYZ9Ex29Vq1l6bX5AfsXWONSR0Q8itF1zDGd1/XqXRTNewYggVYFjKwYFCfIUyaW8ReaM+oXMkvhPiv+Iv6TE79XPCXNx6Qj4ITxNx0CRkE00EbCqTYgR9XRSOl3qGPy0Wkew9aMiHqKTIXHG65FWIBiQHaby5uOXJ5JYBgUcudpxLxG+kO6F0BYsCPm1kWtw/4HK0Q5Y0HhI5oiOheOifCqaAmEtBX3eX2KlT8OmAUA6g7r9QVqu6X8DfIInk7H33hE=;L2JR+Rr3zor7Wz/bv0CiZA=="
+secured: "DFKLNX2Dj2BkTeVePc7/2cWjRlbeOhkvbqTHLcovISl/N92FsnsEyKxJoNq+WjKheEjnC4bQyNKo4/s0mOhEvHz/VdF71RVIOMiYI1cOrK27JariVD2ZEVpgNDLOPHBZw+XwPYsUsjwGDgclgAN5xmuSViL/iBGHGc/i3Xc/Q/LUT6R6Bj7v1JgOf2GiKsjea4y9B56BMBmlzGiLlPcL+//Ega+qOP/t/kry+4uvaFrSwrMM9GCMMJ3epBsoSHFv5cSqB81ugOJTJHrKY4+2zImTEQNPphPAkw9oJMPKixz1rGmQpz9s7GmdA0c4+BZMTl1Q3E6osugKLPXqBgbbyBCtGdZrXIQp687FzX8RQVZyrx5S/AZAtEYmllQ3GEMBDY0LnEH1sE+p4vex8Xnu56bhT1ICYaXZA80EbG7yC6xpsxjWNp4YRaESsWanVZjz2r2Qd4yCSPEpCdMTaVs/DOUKsldGPSZipFX6pVqjN/LsFz2xH3rnERZa7Nbo3j/E+H63KPA3fAogtjofwSHttw==;6EcNO5qrTM6d42Rv4uxN3g=="
 ---
 

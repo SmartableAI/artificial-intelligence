@@ -2,9 +2,9 @@
 category: news
 title: "Using machine learning and data to reduce road accidents"
 excerpt: "Transport for New South Wales and Microsoft ran a trial in Wollongong to uncover five potentially risky intersections."
-publishedDateTime: 2020-12-15T05:17:00Z
-originalUrl: "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-webUrl: "https://www.zdnet.com/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+publishedDateTime: 2020-12-15T08:17:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 578
     isCached: true
 
-secured: "38mmQaeo+0vKbcIlTMcVPxVZeeABvpUSwpEHW2Som+Vi1WK4GUTYk52riQQXhO05WhrRcHT7B6mkY/69PMEDB2tLeCSa/gs1JI4fyQN+UuxeLM44pH+yiWSgtSt+Z7aQDR7OCahLH68Y9/97WHmpVMQ4nazG2q1QeNvTJak4pZ51zjBT47yiSLvSUCJYkJaDMWGYVO+PKWnBEOar2NFCgBwg7CzAHzbVHX+OsAHQQoag/WPa7e/6cpnkF5gYuI/4Zn2VJsSkdiaOTpZMAM0J5kllz5j9JNu2C0IGW65ED7AW3Ay2llK2f2cvR/p1+erV40+StjmprCFO+gh5/WWNhwBQkmd+r2DBLR94EK44dil2oMavUZHzsWjWVmf5K4Z5/lZ+K8rXBky7GokEP/cgor9MuUo+S/kWX8Tvb8TuHmp7Y4aKglft0qUEd+BUSCSdXEGWMROC86My850Ue6sfzVERnfivn5A4A2r8l7zsE9Uy0VYusmA4FfyJCBwcGd6lq6AAtDUVmgaH5loYrYuAkQ==;2cEZ0XABupaAADYKPqSbzQ=="
+secured: "eJFy3vtRcbtR9L6/SMfUcUOBO0s6c3vrI8RlkQY02JQC6yjwKqaM1cBPrciqFQ6R4qHCYKsiPikOFZs5foB1GzrBUNlVwCP2b+xK+81qKUoAJXummii8+pI165Ax8Eiq62jxUC6EP2i+flGO6sUoQd4d+qKSuzqi8dJRC7nEK66o0AoAMwHoeZZ96za+aaG06KEQN1gnOV30d5JjcBdqSXS9iUMB23QnBN9Al86xJ83yy/rBYQd8t1j2N+6YgAdd56EbzcWR3T4QiroRPwjw/+V6kRi/7PNaDblKqm7MEyvduT+7Ns/cOUL+12AZHUHadH5mO7nsJMV7KVwA7grCpVy3UObMU7dD5z0y/SNvx5g=;4L0cGil06hfoVHk7DKsddA=="
 ---
 

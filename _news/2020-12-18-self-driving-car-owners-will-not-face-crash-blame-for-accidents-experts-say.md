@@ -73,6 +73,22 @@ related:
         width: 977
         height: 650
         isCached: true
+  - title: "Motorists in self-driving cars will not be legally liable for accidents"
+    excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
+    publishedDateTime: 2020-12-18T06:00:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/12/18/motorists-self-driving-cars-will-not-legally-liable-accidents/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/12/17/TELEMMGLPICT000246281323_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Aurora Acquires Uber's ATG Self-Driving Car Unit"
     excerpt: "We hear what’s next for Aurora since acquiring Uber’s self-driving branch; and the Pittsburgh Mercy President and CEO on what’s"
     publishedDateTime: 2020-12-15T20:43:00Z
