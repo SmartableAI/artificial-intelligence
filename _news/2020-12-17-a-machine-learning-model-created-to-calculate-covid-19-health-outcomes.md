@@ -43,6 +43,22 @@ related:
         width: 687
         height: 384
         isCached: true
+  - title: "Artificial Intelligence Wants to Help Covid-Wary Biz Travelers Be Smarter About Flying"
+    excerpt: "Dataminr said it leverages artificial intelligence to provide the earliest indications of business-critical information about risks to staff. It claims it can provide real-time insights from on-the-ground happenings,"
+    publishedDateTime: 2020-12-18T17:00:00Z
+    webUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/"
+    ampWebUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 49
+    images:
+      - url: "https://skift.com/wp-content/uploads/2020/12/Aircraft-cabin-crew-Ismail-Mohamed-Sovile-Unsplash-scaled-e1608299910510.jpg"
+        width: 1367
+        height: 911
+        isCached: true
   - title: "Puma, PVH Corp. on AI and Forecasting, Merchandising in the COVID-19 Era"
     excerpt: "AI has found its place as a critical tool, particularly for companies managing a fleet of stores. That’s certainly the case for Puma and PVH Corp., which have both come to rely on the technology in the critical months of the coronavirus pandemic."
     publishedDateTime: 2020-12-16T15:35:00Z

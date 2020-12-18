@@ -88,6 +88,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Gurucul XDR Uses Machine Learning Analytics to Strengthen Security"
+    excerpt: "Gurucul, a leader in Unified Security and Risk Analytics technology for on-premises and the cloud, is releasing Gurucul XDR, a cloud-native analytics-driven platform that improves threat detection and incident response."
+    publishedDateTime: 2020-12-18T17:05:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Gurucul-XDR-Uses-Machine-Learning-Analytics-to-Strengthen-Security-144472.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 56
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "QAnon Is Two Different People, Shows Machine Learning Analysis from OrphAnalytics"
     excerpt: "QAnon has spread conspiracy theories to an unprecedentedly large audience. Its thousands of online messages have popularized narratives such"
     publishedDateTime: 2020-12-15T13:38:00Z

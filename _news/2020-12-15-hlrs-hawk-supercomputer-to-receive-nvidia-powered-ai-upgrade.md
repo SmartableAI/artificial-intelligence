@@ -101,6 +101,20 @@ related:
         width: 925
         height: 488
         isCached: true
+  - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
+    excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
+    publishedDateTime: 2020-12-18T17:37:00Z
+    webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 56
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
+        isCached: true
   - title: "Beyond Limits to Expand Industrial AI in Energy with NVIDIA"
     excerpt: "Beyond Limits, an industrial and enterprise-grade AI technology company built for the most demanding sectors, today announced it is working with NVIDIA to advance its initiative for bringing digital transformation to the energy sector."
     publishedDateTime: 2020-12-17T05:08:00Z

@@ -2,6 +2,59 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-12-03-why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning.md",
+      "title": "Why Intel believes confidential computing will boost AI and machine learning",
+      "excerpt": "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2020-12-02T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-madison-wis-bans-city-agency-use-of-facial-recognition.md",
       "title": "Madison, Wis., Bans City Agency Use of Facial Recognition",
       "excerpt": "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes.",
@@ -1157,58 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-review-datarobot-aces-automated-machine-learning.md",
-      "title": "Review: DataRobot aces automated machine learning",
-      "excerpt": "AutoML, i.e. automated machine learning, can speed up these processes dramatically, sometimes from months to hours, and can also lower the human requirements from experienced Ph.D. data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/digital-twins_ai_robots_mirror-image_duo_pair_toy-robots-100760560-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596593/review-datarobot-aces-automated-machine-learning.amp.html",
-      "publishedDateTime": "2020-12-02T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

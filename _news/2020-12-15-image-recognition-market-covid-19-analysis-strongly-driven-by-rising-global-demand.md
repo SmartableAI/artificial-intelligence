@@ -37,6 +37,22 @@ related:
         width: 687
         height: 384
         isCached: true
+  - title: "Artificial Intelligence Wants to Help Covid-Wary Biz Travelers Be Smarter About Flying"
+    excerpt: "Dataminr said it leverages artificial intelligence to provide the earliest indications of business-critical information about risks to staff. It claims it can provide real-time insights from on-the-ground happenings,"
+    publishedDateTime: 2020-12-18T17:00:00Z
+    webUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/"
+    ampWebUrl: "https://skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2020/12/18/artificial-intelligence-wants-to-help-covid-wary-biz-travelers-be-smarter-about-flying/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 49
+    images:
+      - url: "https://skift.com/wp-content/uploads/2020/12/Aircraft-cabin-crew-Ismail-Mohamed-Sovile-Unsplash-scaled-e1608299910510.jpg"
+        width: 1367
+        height: 911
+        isCached: true
   - title: "A machine-learning model created to calculate COVID-19 health outcomes"
     excerpt: "University of California, Irvine health sciences researchers have created a machine-learning model to predict the probability that a COVID-19 patient will need a ventilator or ICU care. The tool is free and available online for any healthcare organization ..."
     publishedDateTime: 2020-12-17T00:00:00Z

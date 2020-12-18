@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
-publishedDateTime: 2020-12-15T18:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
-webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
+publishedDateTime: 2020-12-16T14:21:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
 type: article
-quality: 50
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
-    width: 400
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -84,6 +80,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "9tUDLo29kg/ZA9HshZq1Z6Y/95MjO7mLApdfFd2M0Mzuj9BxZbcYeEfB0zOJo/GVy6QUSbVpfeTLNPTXQi8K3ekXCG56DPW+N1B89CxWTFBwKBmv76Z1FtpAqj+uUPm4AS4Zcev5rnI/eQMEMpQxsJx5k6IqCD7GQijkMXhL0AfTJvu6VvzoCohZv3BVunbSCfb/7r+WmkuQeMBl+hUDTTRkjG1QxVpZxW6gvWeud7EBEsJxD/FjuEDGHRjLBNXBON+WFbkF5G+8FiyHREGDyn6klWwy+ykE7/jovMsaGJHMzSZAQLYFuxLKKU0kWGjl5sKWp17WL14x2bc3Q/eRq/kkM4LN1SYb3FiOWi1dV0U=;cq1Km7D93uiGtgJpxr4miQ=="
+secured: "7ymUTyc1JESwkxGFZHjg/DDtTPzDz1Wr3+AYacYKYenKXlr74vfLqCwqQZGpmrPoJhYeql688UArDBExKkcabeH2pD7JsW9cGoxc4mQl2+VIETLNeOPK19V2Q6oDCYxsY/g4b+Dg3NNr4xxErdfxMGL+mf1hdo0/nUyztWzx/aLKJX6jrhQPXsI7WkEGUNEYzfP7l5WdLiz6bj9DGQ6F37o3ZwoJ/6KczFT/Y8i7jtFPYjMmnE+69RrpPacJRi/prVSCskCCRNHtuv1AiPoB+AqqLRr48rPW1Jo55x2BD1AoZdc04YlG1U1PCc3R0WjG24MGt9EaeP2Elr+po3P9srMW2BizORUbQJk/P8AXKxA=;EIWjJEFfQcrjHJuCeU5fRQ=="
 ---
 

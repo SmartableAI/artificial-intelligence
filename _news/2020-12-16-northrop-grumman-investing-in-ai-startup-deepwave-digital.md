@@ -23,6 +23,22 @@ images:
     height: 702
     isCached: true
 
+related:
+  - title: "How Northrop's tech scouting led them to this AI startup"
+    excerpt: "Like all defense companies, Northrop Grumman is on the hunt for technologies outside of its own industry that could be beneficial to themselves and their customers. Here's how that search led Northrop to invest some equity in a Philadelphia-based AI startup and how others can at least get on the radar."
+    publishedDateTime: 2020-12-18T18:56:00Z
+    webUrl: "https://washingtontechnology.com/Articles/2020/12/18/Northrop-Deepwave-investment.aspx?p=1"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 37
+    images:
+      - url: "https://washingtontechnology.com/-/media/GIG/Washington-Technology/Staff/Ross-Wilkers.jpg"
+        width: 300
+        height: 300
+        isCached: true
+
 secured: "wVDvF9qUxfAo2Z25p8HgaiSj4hT1Ue1TXo8G/rw5YDjixXySHbQolWN2WQwc6l9MdwW04cRceC4INjSMVAIytjlxMY5A//wKg5YYfofNn7FpxDf2au73NFDVsiAYacZutMM/0LhfJHFynM0POXlsrwXIumxnBBGEV2r1gU9mCPrU9hchq3Fnj8p63gg4CWQ6UQOzRx6LusBle8sAsakjGb0IzCEbyhVPtN7dgtm8zMT5D5is8qiPFUmi1QULUsBZskldc2hRMu/oSj+78hWInoqFw+ANU/xKJgpvM2F5XjxMoSgTEu5KFDCqpM2L2U9s1bG6VWL3s3x0l7hLNDCaZW3oTbfBZ/Uj7J+/ONQ5DgE=;tKu9WAVqqGR2t7T9yF7KBw=="
 ---
 

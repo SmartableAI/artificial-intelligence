@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-10-machine-learning-a-cheat-sheet.md",
+      "title": "Machine learning: A cheat sheet",
+      "excerpt": "This comprehensive guide explains what machine learning really means. Artificial intelligence (AI), which has been around since the 1950s, has seen ebbs and flows in popularity over the last 60 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/02/28/0b23d692-86fe-4992-ac77-01704623cc2b/thumbnail/1200x675/1b95ac4d209af970fcc0c175aad91cf6/20180227machinelearningtom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-the-smart-persons-guide/",
+      "publishedDateTime": "2020-12-10T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-nationwide-selects-aws-as-its-preferred-cloud-provider-to-deliver-digital-experiences-to-customers.md",
       "title": "Nationwide Selects AWS as Its Preferred Cloud Provider to Deliver Digital Experiences to Customers",
       "excerpt": "Insurance and financial services leader rapidly migrates to AWS to unlock data-driven insights, automate processes in the cloud, and deliver new digital services to millions",
@@ -1147,58 +1200,6 @@
         "AI",
         "Computer Vision",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-why-ibms-ai-fact-sheets-should-be-the-industry-standard.md",
-      "title": "Why IBM’s AI Fact Sheets should be the industry standard",
-      "excerpt": "Every once in awhile an idea comes along that’s so good it makes you wonder why it took so long for someone to think of it. IBM’s AI Fact Sheets is one of those ideas. AI Fact Sheets are a lot like packaged food nutrition labels.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
-      "originalUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/watson-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
-      "publishedDateTime": "2020-12-09T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-10-why-ibms-ai-fact-sheets-should-be-the-industry-standard.md",
+      "title": "Why IBM’s AI Fact Sheets should be the industry standard",
+      "excerpt": "Every once in awhile an idea comes along that’s so good it makes you wonder why it took so long for someone to think of it. IBM’s AI Fact Sheets is one of those ideas. AI Fact Sheets are a lot like packaged food nutrition labels.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
+      "originalUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/watson-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/09/why-ibms-ai-fact-sheets-should-be-the-industry-standard/amp/",
+      "publishedDateTime": "2020-12-09T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-ibm-creates-knowledgeable-nlp-system-and-adds-ai-governance-capabilities-to-watson.md",
       "title": "IBM creates knowledgeable NLP system and adds AI governance capabilities to Watson",
       "excerpt": "IBM has unveiled a slew of announcements designed to help businesses scale their use of AI. The company also announced the rollout of new capabilities for its Watson platform. IBM researchers have built a hybrid question-answering system called Neuro-Symbolic-QA (NSQA) that for the first time uses neurosymbolic AI to allow an AI system to offer \"and\"/ \"or\" to its recommendations.",
@@ -1145,40 +1197,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-2280.md",
-      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200-Day Moving Average of $22.80",
-      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Tuesday . The stock has a 200-day moving average of $22.80 and traded as high as $26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/09/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-22-80.html/amp",
-      "publishedDateTime": "2020-12-09T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cy
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-ml-can-bolster-cybersecurity-and-vice-versa-professor-says/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Predicting 2021 in cybersecurity: DDOS attacks, 5G speed, AI security, and more"
+    excerpt: "Talk here about some predictions for 2021 as we round out, fortunately, this year 2020. Let's start with 5G. Of course, we're moving now from that hype phase to reality, and we're starting to see 5G inching its way in a little bit more."
+    publishedDateTime: 2020-12-18T18:56:00Z
+    webUrl: "https://www.techrepublic.com/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/predicting-2021-in-cybersecurity-ddos-attacks-5g-speed-ai-security-and-more/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 100
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/6032b612-5e42-4f1b-a34a-7a7780f492a8/thumbnail/1200x675/b9ae690b5f7b685be658c631eaf05eec/20201215-2021predict-karen.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI And Its Potential For Cybersecurity"
     excerpt: "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before."
     publishedDateTime: 2020-12-18T12:20:00Z
@@ -85,6 +101,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "Qfi3fhE4MW/Vest1+PWpvDnHDoE20svwx9cus5/W7zocT8Uq8st2BIMhKMOYrMiBSTJuos8bpDkVlv/P9sf1TquA3qVFRMqBCLMNTkSGMAfKB6ytrrr+AX1m5Jt7i2P/EB4wVdg0pncF3YuwzYtXwfj880O2akOID3TjsWqyq4vbGaYODCtjFaJznCCyo5sieGVT82FculbD+VZCJOFfJexRmfazoSHbYUjErNH0PXd8UV6dP4LOVqs9KzfjWQthPWZghX7/DM0Nc2TG3u8FaxIqX5tDHl8XvdeJ23fCu2QXNAcNocY8z2Rl7PFAf5mcMc0tQUbmAMKEmgS38uCH9bHEX1IvbnSxED6tHp5lcsI=;yQECr2SzJqxo0kL36PRz6Q=="
+secured: "Umd8aecHU1W+mps9Ws1SwytXlDGzEE5erhdnnMJ8aW7Hk06q/Em7CooX3kyJ7k6+enjMOB7yiih2NYkzmhrvYuLK3iA6AE10YE3Tzt2MpSWZQAXLIXbgsYgT2lobVKc6nnSDJ2cWpILmgQKUdFM2RXtofMghJycY6oGSnLqzgFxBezw5BGVSfFTMCfJg/OpzcfHiNbSE3vkMY6NstQL/tBJp0U/H0uteXZrG8p9xVFrBe3iZ47Xp5pyn9Gc6e0b2Qvs0GO8UD3X1fin7fLRPTS0GEOjHak5NfP/wrXvBbB4fR2yOIfs3MptJvmV5UFBMq1Um2xus6X1Cqh9ay5tzO4NIgANVQtuU8UZT51lmAwnKpetyD7rDDBJrcyqLpTWcge/YxR/frGk3ZLM7+wgd5HCyseVWEEvje6b1HfrfWV1w6fUR4o2McMXU+MFkB4upcfHmD4DgfRdeHtBanuVHZw/2/qkfU51jqnYTGbagcU/M5Rbs4V0RkunAXJIjgVVFhNAxnaSDITt1RCUIFtaZAA==;K1FnDObIHAKnHjCGwZ4moA=="
 ---
 

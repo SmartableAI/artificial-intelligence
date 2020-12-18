@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-18T14:24:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-seoul-ea4e0f6acac74808b658faa640509a34"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-seoul-ea4e0f6acac74808b658faa640509a34"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -57,18 +57,18 @@ related:
         height: 1192
         isCached: true
   - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
-    publishedDateTime: 2020-12-15T18:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
+    publishedDateTime: 2020-12-16T14:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
-        width: 400
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Brown County translation tech company acquired by Australian business"
     excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."

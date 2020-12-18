@@ -263,20 +263,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "AI Image Recognition Market Analysis by Trends, Top Countries Data, Market Size, Share, Company Overview, Growth and Forecast by 2025"
-    excerpt: "Research Reports provides key analysis on the global market in a Report, titled \"COVID-19 Outbreak-Global \" AI Image Recognition Industry Market \" Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020\" BrowseÂMarket data Tables and Figures spread throughÂ111 Pages and in-depth TOC onÂAI Image Recognition Industry Market."
-    publishedDateTime: 2020-12-14T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-analysis-by-trends-top-countries-data-market-size-share-company-overview-growth-and-forecast-by-2025-2020-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market 2020 Industry Challenges, by Key Players, Types, Applications, Countries, Market Size, Forecast to 2023"
     excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
     publishedDateTime: 2020-12-17T12:31:00Z

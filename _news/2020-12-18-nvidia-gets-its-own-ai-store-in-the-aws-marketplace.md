@@ -88,6 +88,20 @@ related:
         width: 797
         height: 447
         isCached: true
+  - title: "Nvidia Launches AI, HPC Storefront on AWS Marketplace"
+    excerpt: "Nvidia has issued a blog announcing the availability of more than 20 NGC software resources for free in AWS Marketplace, targeting deployments in healthcare, conversational AI, HPC, robotics and data science."
+    publishedDateTime: 2020-12-18T17:37:00Z
+    webUrl: "https://insidehpc.com/2020/12/nvidia-launches-ai-hpc-storefront-in-aws-marketplace/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 56
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
+        isCached: true
   - title: "HLRS’ Hawk Supercomputer to Receive Nvidia-Powered AI Upgrade"
     excerpt: "Performance Computing Center of the University of Stuttgart (HLRS) inaugurated its new “Hawk” supercomputer, which made its"
     publishedDateTime: 2020-12-14T16:08:00Z
@@ -131,6 +145,6 @@ related:
         height: 228
         isCached: true
 
-secured: "6gmh6QQRVFJOzH75dbtSc41iO2j/6kFd0anQyrekFdSkyfmxd3Bt9PRz+885jOqQXloUcAlqqST8guW7D3P+TlxCD+O+4Xyx9yWO//8BjqEGMhnkfe3pOrBewWtso3d2byNr0raC+ErCz6szW2L9Cc185Kas+5dAsW0mKPizUv9CxFd3Qnuzd8q8u+hBQpuNNOykBAGWjwtSi6m53MXtmLKurM3nn1Wmy/SW7hUpMmavD0ZKOzkXN9ydMrgM8Q9DFEqSXTxPC1hhBushYxIPZcNv8WvxL8UifXmhZzy03G1nPGzNZO1EU3g0FaBu73eE4sS8jFUnp2/JWF2GefbnJws20u19tjKCZl2KJurwC7E=;ET1VAU4BDOWwXy0TAXSr7A=="
+secured: "1XLnCmbUQ3Pg4fQykHMDIjvFofZ4dj1e7sBlJUWek02fx9/czP/+9zDT0Up57hLgNgLaiV8ebBBxVMr2hEApKe5hgq5b5U1Vu1mGjBcHNKEyNihOpwgZ4Mbo/3+eJC/uSs9P1nVmXKoOm9yyh1nijXWc9Qw5/D+JBziBCVWujnYeEZXtZnZKKK9YQcK+ao1RRWKi1a0vHHoNFSpoLkDAx+eZmeg8Vex319SID95ZTEUQJUyWWltAr3vukq3mUlZt7Q9q5CuG5W6Zn+OesUd+lppp8N0TKl1psFKnzza85RQJD9VW6NRQIeRORU9fHy6i1RsXDffAG21thdy1naqS+UxC0OjI2eK8LG4L1EjbxGkhsCPVNsN3xlKcUb8Je9sfLW93S0d1JSjqa04WtbPyrt+PWphs8WjiJWkXOViBqhyJ2mgO/kfPuzaE/H74a3nireRiWCxkLDyg/Lkp7JzdUhKCGSM4L6mvEpWy46P1EXIOt/9ZbPzsCiw2u48cWgfw09vFs2iJSSrB8jvZjoEEwQ==;qoH8BINTKAOfT8IIGWdZrw=="
 ---
 
