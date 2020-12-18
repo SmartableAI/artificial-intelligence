@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-tha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/12/16/the-four-mistakes-that-kill-artificial-intelligenceprojects/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Text-based primary care startup Curai raises $27.5M"
+    excerpt: "The company, which offers a text-based primary care platform, is building a suite of technology to support its physicians."
+    publishedDateTime: 2020-12-18T00:44:00Z
+    webUrl: "https://medcitynews.com/2020/12/text-based-primary-care-startup-curai-raises-27-5m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2020/05/doctor-text-Venimo.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "WNjMJzcv0k4TbcMaCBKiGPa0JGIyKjjb5QqgGlcSjWad03BbXoEH9O3xddQ3yOkNxufW/cUSoZOqOe6imYEJgLRPTz0H24IHg8yS3MIgid5B8P2euRv7SVX74HXZ5sKOB1dwpJVEuEmT4xcbLOk0LefDquNdmsageVDdoP5Jh0sc5dBMrRSGqE2fXUUyui/mWBfgLf14U7mIqBs/xBWgYn+gsY181PGXooHUXDAVC0nq4013VZMK8PAv/jsxkoSCgPhgXCcYb4Q4PTy1yzzGw5ooohbo3W/rnsk6pcy+wVBxZcqAcVKF7umqFELnJGELy9p7aonC7b0Vqh/HoOgkgTvpdUovdF+JbyGqMgaHIf8=;thPYpo9ASGCXj89wVv3SJQ=="
 ---

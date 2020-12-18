@@ -61,6 +61,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Google AI team demands changes after Dr. Timnit Gebru's departure"
+    excerpt: "Two weeks after the departure of AI researcher Dr. Timnit Gebru, Google’s Ethical AI team has issued a list of demands to its management."
+    publishedDateTime: 2020-12-18T00:31:00Z
+    webUrl: "https://www.engadget.com/google-ethical-ai-team-letter-174518115.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ethical-ai-team-letter-174518115.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F6dd60fa0-74fb-11ea-bf7f-7fb473523e83&client=amp-blogside-v2&signature=729ca1927b897fbd0725d08b45ec058dcc6ac7b6"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Google's AI Ethics Team Makes Demands of Executives to ‘Rebuild Trust'"
     excerpt: "and if the legitimacy of the field as a whole is to persevere,\" Google's AI Ethics team's letter reads. The employees' letter continues, by asking for the removal of Kacholia, who the team states notified Gebru of her removal without notifying Gebru's ..."
     publishedDateTime: 2020-12-17T07:04:00Z

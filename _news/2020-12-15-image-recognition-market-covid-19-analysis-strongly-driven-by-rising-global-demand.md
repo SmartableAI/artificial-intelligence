@@ -37,6 +37,22 @@ related:
         width: 687
         height: 384
         isCached: true
+  - title: "A machine-learning model created to calculate COVID-19 health outcomes"
+    excerpt: "University of California, Irvine health sciences researchers have created a machine-learning model to predict the probability that a COVID-19 patient will need a ventilator or ICU care. The tool is free and available online for any healthcare organization ..."
+    publishedDateTime: 2020-12-17T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20201217/A-machine-learning-model-created-to-calculate-COVID-19-health-outcomes.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201217/A-machine-learning-model-created-to-calculate-COVID-19-health-outcomes.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201217/A-machine-learning-model-created-to-calculate-COVID-19-health-outcomes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Puma, PVH Corp. on AI and Forecasting, Merchandising in the COVID-19 Era"
     excerpt: "AI has found its place as a critical tool, particularly for companies managing a fleet of stores. That’s certainly the case for Puma and PVH Corp., which have both come to rely on the technology in the critical months of the coronavirus pandemic."
     publishedDateTime: 2020-12-16T15:35:00Z

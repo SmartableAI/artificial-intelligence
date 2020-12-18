@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-17T21:11:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-artificial-intelligence-industrial-products-and-services-f64eedc675f33d84ea674d4266225732"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-artificial-intelligence-industrial-products-and-services-f64eedc675f33d84ea674d4266225732"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

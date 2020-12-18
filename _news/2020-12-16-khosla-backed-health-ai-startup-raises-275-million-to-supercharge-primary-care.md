@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/12/16/khosla-backed-health-ai-startup-raises-275-million-to-supercharge-primary-care/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Text-based primary care startup Curai raises $27.5M"
+    excerpt: "The company, which offers a text-based primary care platform, is building a suite of technology to support its physicians."
+    publishedDateTime: 2020-12-18T00:44:00Z
+    webUrl: "https://medcitynews.com/2020/12/text-based-primary-care-startup-curai-raises-27-5m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2020/05/doctor-text-Venimo.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Curai Health Secures $27.5 Million In Series B Funding To Make Virtual Primary Care Accessible For Everyone"
     excerpt: "Curai Health, a virtual care company using AI to make high-touch, lower-cost primary care available to everyone, today announced $27.5 million in Series B funding led by Morningside Ventures. The round,"
     publishedDateTime: 2020-12-16T14:15:00Z

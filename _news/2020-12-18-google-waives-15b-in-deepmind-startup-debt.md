@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Deepmind shows need of deep pockets to pay for AI"
+    excerpt: "Google’s London-based artificial intelligence laboratory has used up a further £1.6 billion in capital, underlining the cost of conducting advanced research.Deepmind made losses of £477 million last"
+    publishedDateTime: 2020-12-18T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd3f0b550-408f-11eb-87aa-2b872fbc5d91.jpg?crop=3343%2C1880%2C354%2C604&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "cqfJpx6e45+NTUbgFrJoDWCrGMzhygLJz2lT8YcoZtcUN1MP8EuEi+HzxrJyseQgcvtNGio9c6H4MoPRBCA7uqqIxBTIYu+/ufEmlTrtvNnWGVv3PUnXkVB0IjT7uUKHDXciUamACfxmp5Av3C2395ar07vhM6krRJ+ZFe8ljk8TcuROlgfHM17xX25IWvUOUeXc22tK96cb55MrWK9IE2oMcCRkrCcsHxMyl9tFOYTeA6jfwzFpc6fzrDu7x6Bmrwly8aW/qNabaSDoj8BsezqlHBYlEMT/+vbOt7r1NKYLws3Ni1IYDupxJE0LBFeKI1jL6fJH47GqtrtuarAOR0LO7myy0iYteU5q8fWyfpV1yYzWOAz0X29CL67gCoj7yKdzMGvZahP9gehNPmIdC0BMwm1yY2P0ksa/n9wu2epgq0LNWMZlQzCBUQvU2Zhh4nUGJyBPp9wM+OnoodnsUuGoTZ3uxUuvhNZ70IFKponJxk0sXrEWPuUP6SgrwRha2cXK9oe7MIUhPeJU/y+WOg==;2Rq06aZo+LvO6WOlhhVrHw=="
 ---

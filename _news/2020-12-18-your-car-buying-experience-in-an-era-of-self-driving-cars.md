@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/17/your-car-buying-experience-in-an-era-of-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/12/Picture1.png?w=977"
         width: 977
         height: 650
+        isCached: true
+  - title: "Self-driving car owners will NOT face crash blame for accidents, experts say"
+    excerpt: "Drivers will be renamed 'users-in-charge' when automated vehicles hit UK roads and will not be criminally liable if there is a crash, Government law experts have proposed in a new report."
+    publishedDateTime: 2020-12-18T00:21:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9065865/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9065865/amp/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9065865/amp/Self-driving-car-owners-NOT-face-crash-blame-accidents-experts-say.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 41
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/12/18/00/36988390-0-image-a-35_1608250821801.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Aurora Acquires Uber's ATG Self-Driving Car Unit"
     excerpt: "We hear what’s next for Aurora since acquiring Uber’s self-driving branch; and the Pittsburgh Mercy President and CEO on what’s"

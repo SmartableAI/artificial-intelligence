@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-j
 ampWebUrl: "https://venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/17/has-ai-adoption-plateaued-or-is-it-just-catching-its-breath/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/plateau.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "6EHZVSzV3lje2HXwcdZkWl6JZvhN0SnlGAMxef3qC8/2TvwkEqrSRa/vdcN7UBzdOXwEEZeyf51wh5PhPy52O0ujVAwKqJ15EZjDPNhV9bxWB/ywNBwNbsJUnluWAohUjIMW3mWs8DI/e8fFM2gg+9ba/AD+wEtWAzS1NGcVU1V4bvwdOCVqW32Otm/EvD9JkBmGZauRRC2ThDJ1yJzifKHZG8mbwyhUn46U+tjc+onhEJwZ7ZJTSvDrutOdCvegiXVw4rH5gsjPI+X1XdrmMWxhaMv1mc7cvf4rnNuhVInm/PXEWSzK2k8icRpSdn5FkOcKxMTuqwVD7ZzSsOBtf7iUOBBqcw/rMTyvknoX0jE=;MqikozM4empgxabOLr1cDw=="
+secured: "66nuuG+BUeHGGHawMuo5vhu07t5/PH+ipbzy2fyU5Ncu76Noh3rY9BChdtARMMLNbBNqEGkR2qNMRxwXX++U2rMnzyLt7v81QyEW68W9YsbdTP+bLmJzKu+8417t+ZJ2aFHw/zs6/L5O6qBJNdyryKXfOdfogwPQuKuxz+n6TfjT/naeGnGkfutNt9Bng5ccwL6YiOZZTqTIBhhvTbf62W3qH3ir53xHX+Syw5HHveehx+dU4De9K2a5+VVDbElO0FjCoMOJCCVzxbe0kIgY1099SZf7UAtqhN4a/ztanYl1g6cZkh0ffIizJeQ6jdoTL2sclMFJXprXoCCGqFdNJrsjO/eAsrK1b7J6zjmCwBoPZyHie1CHU3SxmJmpwgRds8qfnUyaL6F6AY/cxVE7kCF98uT2+NTVRgjAwO8vc2pHCdsTRUvUrQyfJKYbWa3P0uxkzFHbzywVO9Za60v61RE+Pmr/GPg32ihptKfkztyy1mHPGcO0DjKCh/4vDvOowm/Ry1UCLN5Idm82bY/Kig==;Xh4/WKGFoRSbSuj2GoE1ZA=="
 ---
 

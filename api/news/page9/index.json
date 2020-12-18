@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-10-google-to-investigate-shady-departure-of-black-ai-ethicist-timnit-gebru.md",
+      "title": "Google To Investigate Shady Departure of Black AI Ethicist Timnit Gebru",
+      "excerpt": "In a Wednesday memo to staff, Google CEO Sundar Pichai acknowledged the public outcry surrounding Gebru’s departure.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483",
+      "originalUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t76kb1d0rv5cn9iu7yqi.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-to-investigate-shady-departure-of-black-ai-ethic-1845847483/amp",
+      "publishedDateTime": "2020-12-09T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-c3ai-ipo-adds-to-enterprise-software-deal-boom-with-100-plus-gains-in-opening-day-trade.md",
       "title": "C3.ai IPO adds to enterprise software deal boom with 100%-plus gains in opening day trade",
       "excerpt": "C3.ai, an enterprise software start-up founded by Tom Siebel, soared by more than 100% in its first day of trading amid a hot initial public offering market.",
@@ -825,6 +876,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-10-gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco.md",
+      "title": "GM’s Cruise to deploy fully driverless cars in San Francisco",
+      "excerpt": "“You’re seeing fully driverless technology out of the ... Google CEO Sundar Pichai has apologized for how a prominent artificial intelligence researcher's abrupt departure last week has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
+      "originalUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
+      "publishedDateTime": "2020-12-09T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-general-motors-cruise-just-took-the-humans-out-of-its-self-driving-taxis.md",
       "title": "General Motors' Cruise Just Took the Humans Out of Its Self-Driving Taxis",
       "excerpt": "The CEO of Cruise, the San-Francisco-based self-driving company controlled by General Motors , said that it has begun operating autonomous vehicles on San Francisco's streets with",
@@ -1075,49 +1169,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-10-gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco.md",
-      "title": "GM’s Cruise to deploy fully driverless cars in San Francisco",
-      "excerpt": "SAN RAMON, Calif. (AP) — General Motors’ self-driving car company is sending vehicles without anybody behind the wheel in San Francisco as it navigates its way toward launching a robotic",
-      "sourceUrl": null,
-      "webUrl": "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
-      "originalUrl": "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news10.com/wp-content/uploads/sites/64/2020/12/21543341c8a540568ce8899025ed0f7c.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/gms-cruise-to-deploy-fully-driverless-cars-in-san-francisco/amp/",
-      "publishedDateTime": "2020-12-09T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTEN",
-        "domain": "news10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-09-amazon-forecast-weather-index-automatically-include-local-weather-to-increase-your-forecasting-model-accuracy.md",
       "title": "Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy",
       "excerpt": "We’re excited to announce the Amazon Forecast Weather Index, which can increase your forecasting accuracy by automatically including local weather information in your demand forecasts with one click and at no extra cost. Weather conditions influence consumer demand patterns, product merchandizing decisions,",
@@ -1167,58 +1218,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-heres-how-youll-get-paid-to-ride-in-a-self-driving-car.md",
-      "title": "Here’s How You’ll Get Paid To Ride In A Self-Driving Car",
-      "excerpt": "There are some intriguing (and surprising) ways that people will get paid to go riding in self-driving cars, and here are the Top 5 most likely means.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a30cd9c66718cf61faaf9%2F0x0.jpg%3FcropX1%3D2033%26cropX2%3D7408%26cropY1%3D611%26cropY2%3D4256",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/09/heres-how-youll-get-paid-to-ride-in-a-self-driving-car/amp/",
-      "publishedDateTime": "2020-12-09T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

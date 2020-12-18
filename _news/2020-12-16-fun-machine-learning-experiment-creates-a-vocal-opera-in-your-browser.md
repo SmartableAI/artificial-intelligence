@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/google-blob-opera-machine-learning-ex
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/google-blob-opera-machine-learning-experiment/?amp=true"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

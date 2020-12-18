@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-car
 ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/17/how-corporate-card-startup-ramp-is-using-ai-to-save-clients-money/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdbc218d27bb5af30fdc3c9%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 664
     isCached: true
 
-secured: "zvVSiF4gjXxHdM6oDDTIB/XNFHp33EUNNLQOaSTdk465yL+3mAydruVlD/x0hP/ZZDi6YYhlTz/SIGlI4cXhMm0aBdTFwaqNvC639z1rt8yXbJ0IYxbTPj9fbT+pZ4AsOAdemSTH6IPUNdSCrWlHWD3gfcc4VS2iMqMHHAshD+fLyVzHJ2Hvz4jahwP27D+MvL/dp14DccnUsG/ZuyF6kjb1K4Kp7FvtkIt/DQ7ZyhWe6LLyn4+gfkPwMpRbpGSnBBSo93EqiEzTygAJoYbByYtTxhoxZ3s44ot6dmJXRrtO/c84Yh1SsVKW9AVPShCxRp4oosHVUWqR8eiDW+xJIhYc0oeOwxRhp0x4KXGiZGc=;ROufidMkGX5HfdZepHpU+Q=="
+secured: "NCO8xWjlnLVG5YtEHJF+aebKr5GWgscTAH4UUv1DLsgp04OdiFsCDMPnkhlQm5DDHa+5QtvTnH9vOnmDmJer8n6onO/2oxVJ5G83ZcQXUeL0y0Iz7aRMVbt1xz4e0+8F10y3Y536CSEZ/jEsTKBMhxIhh42jXa79VJklrvZy38L+BECFj9qPSz1ceRr26WT9aCB+Kqwu+/HqFO/gBaFulbGNtSjKoLZPUf8pWO8mpOtbHC0JP5BSqediHCdte9raVACWV9boHleafwfqBD8yqAFb1z2/hZS2KF34N4MijQwb+SkmO0RKK4OL+32IpLcRiXNaCzGg2oPblcjm+1MpXdqFarCJKbKVIHqUm0R9RBWHb2DJtQPvcLOHhjd0LOjDoDCKfclg4tpB7bbXu+spSIY8bKZjXl6wWGyqoJ/BBEJsVFBrbhksUBjOEcAN9P427yjGN0cY0mC0u176ejdx5Vt1CGcx8iw/fT/5jPSUA7cyKLBYjJ5PPoNDXv/e13IHXtn/euL/soc2H/vGRxFtKA==;gY9NbVg+EB3q+daqgg0WSw=="
 ---
 

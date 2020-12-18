@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-al
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://i.insider.com/5fdb489bc910a400192e8015?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Deepmind shows need of deep pockets to pay for AI"
+    excerpt: "Google’s London-based artificial intelligence laboratory has used up a further £1.6 billion in capital, underlining the cost of conducting advanced research.Deepmind made losses of £477 million last"
+    publishedDateTime: 2020-12-18T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-shows-need-of-deep-pockets-to-pay-for-ai-rc3fv0tm6"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd3f0b550-408f-11eb-87aa-2b872fbc5d91.jpg?crop=3343%2C1880%2C354%2C604&resize=685"
+        width: 685
+        height: 385
         isCached: true
   - title: "Google Waives $1.5B in DeepMind Startup Debt"
     excerpt: "The waiver \"underscores Google's commitment to DeepMind, with little indication the [AI] startup is likely to turn a profit any time soon.\""
