@@ -15,7 +15,7 @@ website: https://t.co/s5ydlRJnm8
 twitter:
   username: huahaiy
   url: https://twitter.com/huahaiy
-  followers: 993
+  followers: 992
 
 linkedin:
   url: https://www.linkedin.com/in/huahaiyang/
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Huahai Yang"
 
-secured: "kwu2QIynHt56Nlnr1pUEcxIdnZhcv0yG4SV3pkvOkVmiGEz6++ewZSr2PvxNQxan3kSBweAAzldjJZUI7B95HKQh26BuGMo1ytqMGjY+m/1zU59acxeDmNqPyK+mTbgHYpYhXWktyXoxMsCZfISfTmT/PsgF2pwkmueK1cwCCQ8VBYy5H8l8fhcttFrVLmJk9bwfjId2IEqmofCdgpcXTfxL0sk58qCCC1ErhbnAGI6OQh49/pEa1y8pjR+T4f9UCPwWBKalNr1884ZwsM92kUPbXOU2cEYV5wP/QwxRzr3ZwftKfXbP0L36aPp6Ep/dL8yRmn+2sLcxT12TvU5pa78TpCbFrvNjJCtRvV+KDxXs4G7kLAUoK6wY2PFOrLaJIqVLkYc6OUO73Uf54aFcvhJCm3vZny6eAaFVkkeBZTM=;C3SVKa2QbmFywJ+DFY6ugA=="
+secured: "5mYVUA/qp7o4bAmEjPOXatC0ECRuANaNZgFCruhYggbGNBezMTHCt/ErLRopJe6ETpp3P44sR3zn8xc9CRgG7VP4fmzo+SHuyOXDg/gKac+PHOMIdr6QlVVM4sssacX7kkkue1r5poxBETE2/H3wb7HTHRYsw42CZgIMdZUkklGsUZiLZz8i9ZiqZLFj0wcWeA2Etgl8x9gxmuO9l1j6A8JYFbGf+ShM+9FIugQSZpE5jeZAT9S67sSCkkG1o9KaaLR5cSndF9Sw2nwC4qP+JcuhBfybffLLzdnORhYdmG3yB0gaGvhy32rn9Ft1KcVeoZh70J93nzlxNtzOfNSfVXlcfirE3E5eYWqkGhKNHooGg3tQ8YbgFlygOX9iTf47hYstdlOtgcyvpWqBq9RtdJqfvmhtr3Z3EPZTeXuIhsM=;RDJ4NY9NxfJWO9pPeiO8FQ=="
 ---
 
