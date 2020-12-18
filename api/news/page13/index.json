@@ -2,6 +2,108 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-08-tech-startup-aifi-debuts-largest-hybrid-unmanned-store-in-shanghai.md",
+      "title": "Tech Startup AiFi Debuts Largest Hybrid Unmanned Store In Shanghai",
+      "excerpt": "California-based tech start-up AiFi has just debuted its fourth and largest autonomous store in Shanghai. Founded by Steve Gu and Ying Zheng, the company specializes in autonomous computer-vision technologies applied into stores of all scales and sizes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/",
+      "originalUrl": "https://www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcf61508239ccb68f7579d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2020/12/08/tech-startup-debuts-largest-hybrid-unmanned-store-in-shanghai/amp/",
+      "publishedDateTime": "2020-12-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-doordash-ipo-how-to-get-a-job-in-consulting-ai-in-accounting.md",
+      "title": "DoorDash IPO — How to get a job in consulting — AI in accounting",
+      "excerpt": "The top finance stories for December 8, including the latest news on how to get a job at FTI Consulting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12",
+      "originalUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fce468a037cbd00186142e4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-december-8-2020-12?amp",
+      "publishedDateTime": "2020-12-08T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-iranian-nuclear-scientist-allegedly-assassinated-via-killer-robot.md",
       "title": "Iranian nuclear scientist allegedly assassinated via killer robot",
       "excerpt": "A top nuclear scientist with the Islamic Revolutionary Guard Corps (IRGC), a branch of Iran’s military services, was assassinated on 27 November in what the Iranian government is calling an assassination via AI-powered machine gun.",
@@ -1097,109 +1199,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-the-ipo-market-looks-hot-as-airbnb-and-c3ai-raise-price-targets.md",
-      "title": "The IPO market looks hot as Airbnb and C3.ai raise price targets",
-      "excerpt": "So much for a December slowdown— this morning, Airbnb and C3.ai raised their IPO price ranges and we got early pricing information from Upstart and Wish.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
-      "originalUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-grn.jpg?w=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/07/the-ipo-market-looks-hot-as-airbnb-and-c3-ai-raise-price-targets/amp/",
-      "publishedDateTime": "2020-12-07T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops.md",
-      "title": "Big Data From Enterprise AI Will Unleash The New Era Of AI-Driven WAN And AIOps",
-      "excerpt": "This year, with many enterprise AI initiatives and distributed networking capabilities promising more resiliency, the fourth generation of network infrastructure integrates SD-WAN with AIOps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce67266d848429cf0fff34%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/07/big-data-from-enterprise-ai-will-unleash-the-new-era-of-ai-driven-wan-and-aiops/amp/",
-      "publishedDateTime": "2020-12-07T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

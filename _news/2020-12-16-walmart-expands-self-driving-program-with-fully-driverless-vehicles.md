@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "See Walmart's self-driving delivery trucks in action"
-    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-    publishedDateTime: 2020-12-16T17:43:00Z
-    webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business/video/playlists/business-tech/"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "In Self-Driving, Amazon Invests While Walmart Partners"
     excerpt: "In 2020, Amazon purchased self-driving startup Zoox for $1.2 billion. Just this week, Zoox unveiled its new vehicle. Zoox is focusing on ridesharing, although the vehicles could also transport goods. Amazon has invested hundreds of millions of dollars in ..."
     publishedDateTime: 2020-12-16T21:18:00Z
@@ -87,6 +71,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "See Walmart's self-driving delivery trucks in action"
+    excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
+    publishedDateTime: 2020-12-17T01:43:00Z
+    webUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
   - title: "Walmart says it will be making self-driving deliveries in 2021"
     excerpt: "Gatik’s fully autonomous box trucks will start making unassisted deliveries for the giant retailer. It is well-known that Walmart has made significant investments in several self-driving companies such as Baidu,"
     publishedDateTime: 2020-12-17T21:08:00Z

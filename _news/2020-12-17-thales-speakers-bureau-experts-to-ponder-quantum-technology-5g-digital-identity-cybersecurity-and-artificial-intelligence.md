@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-audio-equipment-driverless-cars-8ad58de78e57408c840ec0c4dd18c9e5"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "AI And Its Potential For Cybersecurity"
+    excerpt: "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before."
+    publishedDateTime: 2020-12-18T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ca54a147a4f0006753ed7%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Secure enclave protection for AI and ML"
+    excerpt: "A secure enclave is a private region of memory whose contents are protected by hardware-grade encryption and hardware isolation techniques."
+    publishedDateTime: 2020-12-15T06:25:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/15/secure-enclave-protection-ai-ml/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 56
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2019/09/09093146/robot.jpg"
+        width: 1600
+        height: 1310
+        isCached: true
   - title: "Cybersecurity Company Deep Instinct Expands Executive Team with Appointment of Chief Marketing Officer"
     excerpt: "Cybersecurity company, Deep Instinct, announces Ryan Shopp has been named to the newly created position of chief marketing officer."
     publishedDateTime: 2020-12-17T16:20:00Z

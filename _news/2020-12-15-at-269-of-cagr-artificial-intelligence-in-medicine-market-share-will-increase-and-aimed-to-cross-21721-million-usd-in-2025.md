@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Next Big Thing In Image Recognition Market, Which will hit USD 91,029. Mn By 2030 at 15.6% CAGR -Market.Biz"
+    excerpt: "Market.Biz –:Market.Biz offers accurate information and a holistic view of the Image Recognition Market | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-12-18T12:13:00Z
+    webUrl: "https://www.eturbonews.com/2186827/next-big-thing-in-image-recognition-market-which-will-hit-usd-91029-mn-by-2030-at-15-6-cagr-market-biz/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 6
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "wZBnCLWVo4RimBTdFdqQ1vRVvEI5u/f/dSK7WZ59LtI0lzLK/2k9hKo7vxgiiQDfry89Vp1DywAF2PcHJJ0u5r91LPNMONjrvWCCNvc5qG4NwUNGy59xu2qK/pZrEbIQ6Uf21ubCzpExU5iM7Eae3IztMDzaMoobtZYER5a+vI/t/jQGfgW9QeX0/Xq2Au9FwwsRw74c3bCE/8wkzfg1UCgawuJVawS2z9oNfo1NKq7BrA3w/Xw1Bh8xt1Zo6QCjALS5+n0mF0SqLtiEwDUyA2fLHniiJU9pky0hZ6WRECGwcsjFkrqJveF6W7x6krlxQrbmj3LqL4OQgKp2wnjSQxI91CQ00w3Hv9X9URe0hWE=;aTYtpYE5VoE/OeJ66h0fuQ=="
 ---

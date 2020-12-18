@@ -41,22 +41,33 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
-    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-    publishedDateTime: 2020-12-17T11:25:00Z
-    webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+  - title: "Alibaba says Uygur-tracking facial recognition violates company values, removes software"
+    excerpt: "Alibaba says it removed software that could detect Uygurs and other ethnic minorities, saying it does not permit technology that identifies specific ethnic groups."
+    publishedDateTime: 2020-12-18T12:37:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 80
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
-        width: 817
-        height: 545
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/18/6b952082-40ed-11eb-be63-b2d34bb06b66_image_hires_205018.jpeg?itok=CTdRTvyB&v=1608295826"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
+    excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
+    publishedDateTime: 2020-12-17T06:18:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
   - title: "Alibaba facial recognition tech can identify Uighurs: Report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
     publishedDateTime: 2020-12-17T17:43:00Z
@@ -134,6 +145,20 @@ related:
       - url: "https://media-eng.dhakatribune.com/uploads/2020/12/watermarked/353648/1608207544694alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-1608207508068.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Alibaba criticised for racial profiling through facial recognition"
+    excerpt: "Chinese e-commerce giant Alibaba has developed facial recognition technology trained to detect members of China's Uyghur minority in videos. In a report published on Wednesday, US-based surveillance industry publication IPVM said that it found details of a digital 'alarm' on the website of Alibaba's cloud unit."
+    publishedDateTime: 2020-12-18T11:54:00Z
+    webUrl: "https://www.computing.co.uk/news/4025189/alibaba-racial-profiling-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/a028426/847621e3-35eb-4676-b86b-ded5daa93aac/4/Uighur-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "Alibaba face-recognition tech 'not against Uighurs'"
     excerpt: "Tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users"

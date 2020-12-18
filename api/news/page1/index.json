@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-18-microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise.md",
+      "title": "Microsoft Teams: Switch on new AI-powered noise suppression to cut out unwanted background noise",
+      "excerpt": "Microsoft has trained its algorithm to identify more than 150 annoying background noises and stop them from interrupting your calls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/18/11f374da-de9f-4b49-9eea-e107a9dc680e/resize/1200x/b6f2c41a1543fc1da0acaf993562f29f/mother-and-child-video-call-family.jpg",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-switch-on-new-ai-powered-noise-suppression-to-cut-out-unwanted-background-noise/",
+      "publishedDateTime": "2020-12-18T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-ai-and-its-potential-for-cybersecurity.md",
+      "title": "AI And Its Potential For Cybersecurity",
+      "excerpt": "The combination of AI and cybersecurity measures offers unique opportunities, insights and speed that have never been seen before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ca54a147a4f0006753ed7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/12/18/ai-and-its-potential-for-cybersecurity/amp/",
+      "publishedDateTime": "2020-12-18T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-healthcare-artificial-intelligence-market-may-see-a-big-move-microsoft-ibm-medtronic.md",
       "title": "Healthcare Artificial Intelligence Market May See a Big Move | Microsoft, IBM, Medtronic",
       "excerpt": "Healthcare Artificial Intelligence Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Healthcare Artificial Intelligence industry with an attention on the Global market. The report gives key ...",
@@ -105,7 +208,7 @@
       "originalUrl": "https://www.reuters.com/article/us-alibaba-surveillance-idUKKBN28R0IR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -451,57 +554,6 @@
         "AWS AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-want-to-make-more-money-in-real-estate-development-use-ai.md",
-      "title": "Want to Make More Money in Real Estate Development? Use AI.",
-      "excerpt": "\"By actively harnessing the power of AI you set the stage to start the sales cycle.” The real estate industry has benefited and continues to benefit from the impact of Artificial Intelligence in the areas of marketing, lead generation and communication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360915",
-      "originalUrl": "https://www.entrepreneur.com/article/360915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1607706704-GettyImages-694034887.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360915",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360915",
-      "publishedDateTime": "2020-12-17T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1219,57 +1271,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-with-ai-maturing-are-humans-still-needed-to-fight-cybercrime.md",
-      "title": "With AI maturing, are humans still needed to fight cybercrime?",
-      "excerpt": "Cybercriminals are clever, and AI cannot always account for that. This is where cybersecurity and AI professionals come in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "originalUrl": "https://www.techrepublic.com/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/06/ef0111ce-ea65-4960-a59e-9a56cbae842a/resize/1200x/509cfce7c60248092f686616d40569d1/istock-1132912672.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/with-ai-maturing-are-humans-still-needed-to-fight-cybercrime/",
-      "publishedDateTime": "2020-12-16T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

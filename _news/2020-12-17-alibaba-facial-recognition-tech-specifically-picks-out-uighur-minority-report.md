@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
+title: "Alibaba Facial Recognition Tech Specifically Picks Out Uighur Minority - Report"
 excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology which can specifically pick out members of China's Uighur minority, surveillance industry researcher IPVM said in a report."
-publishedDateTime: 2020-12-17T11:25:00Z
-originalUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-webUrl: "https://www.reuters.com/article/alibaba-surveillance-idINKBN28R0KP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28R0KP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28R0KP"
+publishedDateTime: 2020-12-17T06:18:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-17/alibaba-facial-recognition-tech-specifically-picks-out-uighur-minority-report?context=amp"
 type: article
-quality: 85
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544849747&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0BY"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Alibaba facial recognition tech specifically picks out Uighur minority - report"
@@ -46,6 +40,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544846899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG0AI"
         width: 817
         height: 545
+        isCached: true
+  - title: "Alibaba says Uygur-tracking facial recognition violates company values, removes software"
+    excerpt: "Alibaba says it removed software that could detect Uygurs and other ethnic minorities, saying it does not permit technology that identifies specific ethnic groups."
+    publishedDateTime: 2020-12-18T12:37:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3114458/alibaba-says-uygur-tracking-facial-recognition-violates-company"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 80
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/18/6b952082-40ed-11eb-be63-b2d34bb06b66_image_hires_205018.jpeg?itok=CTdRTvyB&v=1608295826"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Alibaba facial recognition tech can identify Uighurs: Report"
     excerpt: "Technology giant Alibaba Group Holding Ltd has facial recognition technology that can specifically ... to avoid running afoul of a government that strictly controls online speech, and which last month published draft rules to police livestreaming."
@@ -125,6 +135,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Alibaba criticised for racial profiling through facial recognition"
+    excerpt: "Chinese e-commerce giant Alibaba has developed facial recognition technology trained to detect members of China's Uyghur minority in videos. In a report published on Wednesday, US-based surveillance industry publication IPVM said that it found details of a digital 'alarm' on the website of Alibaba's cloud unit."
+    publishedDateTime: 2020-12-18T11:54:00Z
+    webUrl: "https://www.computing.co.uk/news/4025189/alibaba-racial-profiling-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/a028426/847621e3-35eb-4676-b86b-ded5daa93aac/4/Uighur-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Alibaba face-recognition tech 'not against Uighurs'"
     excerpt: "Tech giant Alibaba has sought to distance itself from a face-recognition software feature devised by its cloud computing unit that could help users"
     publishedDateTime: 2020-12-18T06:21:00Z
@@ -170,6 +194,6 @@ related:
         height: 682
         isCached: true
 
-secured: "l52eTPV58CSZzPcfROAY+wXsK+aFnBxXF/J1syr4xUMrGdTJZ5WwCFLBwVMfb962YzaMa7n/EewJNUOO3xX5MDSVWyZzYSb6J3Rh5aG9LiXLbb9a+QerWVUaaht5sRspJgjitKL/nHd5ihCae1FiV7RFuLgbXXuaYw9s710OFyAwK22nHlXHkao/ywKPl2IQzd/UwR2H+IPCB5C0XJ0hYWYdndnY+qCXEFC0h4Or4X7AlxpqnyegsTu4icTyPzCnG86cY8gUALdNElqd6uKsjuegptLpyN3jvU622o6orJsFGc1dTkejXedJwYHr85lFzrRiRuBAi4C1wiXAO+qR/RXk9klfKdHQtdWpfF9ju6PL3dq7vM332+bUQQmTz9an4FPBLr+rphAwV97QusTxwkxA1ZipoUTGxME6tNTZc69wwZsan4TkhDZNpZupPJTUQKXJ3pWTLe54HnCBl6nLVN79Xgwk5i4lo6t9pxB2SaEsw9LHZ64w0dgcuAVatTuqsnhDNDt8+wIyuGCZxvJKgw==;VDcvR/lvtN4W3lvoBvL3QQ=="
+secured: "Iv1zDih/LKMTpyqRa7AKDCATiJ9CnbNP//yLy5uDCGVTaJgZBnJ4gSlKVrYMmZ9vp/udxl9Cecu/G2LL/EL0MTD2dBG1Ty2Gpo7Mb/uIyei2aYrfcdFOpiS4qV48Xrjwu9yNLt1xyxSQ3wW31nxwT5mz1eQO0VdE9SREV96sBq8Kja1kEj9MvxG3olv6dl0CLhyhJEft6pVzmY/GjWfzM4SK3PmDQ1c/9tCkz9oMS7wHJOIZydyZKOWz97M99R+gWep/PTESKwKTbOoSsUQl0ez1hcYh7JnJZNqYcFa//tGD7HbJBOc0k79l2tDgPqBpGtWbrZzYjCGRngdrNhpjJyG93rDsveHIgF6cdv5vRiYS/Ky/Ra4MfErU/RhGSFRK7cy3vWSss3DQ4rmdixIKgvWKzb8Ftnq6THnkvVqceHP2qdqukDToeaBlW1+TE7WRpoiMg14bumiqd8Fln9SJ5SblA1x1HsZAl+qIbEjeW/PPavWhutTxsn524kE5F8IpTikWJ551Tla/Z2J4tx7J0Q==;+KnJvjektUW9Ov36VT99ew=="
 ---
 

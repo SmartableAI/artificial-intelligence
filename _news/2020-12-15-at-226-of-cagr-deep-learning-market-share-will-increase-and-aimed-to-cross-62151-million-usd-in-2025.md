@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-lear
 webUrl: "https://www.marketwatch.com/press-release/at-226-of-cagr-deep-learning-market-share-will-increase-and-aimed-to-cross-62151-million-usd-in-2025-2020-12-15?tesla=y"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Next Big Thing In Image Recognition Market, Which will hit USD 91,029. Mn By 2030 at 15.6% CAGR -Market.Biz"
+    excerpt: "Market.Biz –:Market.Biz offers accurate information and a holistic view of the Image Recognition Market | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-12-18T12:13:00Z
+    webUrl: "https://www.eturbonews.com/2186827/next-big-thing-in-image-recognition-market-which-will-hit-usd-91029-mn-by-2030-at-15-6-cagr-market-biz/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 6
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "iaMf1Sbp1ibpn1dGiVeeZeWxR+Sc8ty8ywkwjGN48cfHAk0TmEeL5tNlt8v/+M1QsMhM7eWZYxeeWlXCStpK0AHDf2ceyrOH9BFjhYqyzi+3e63CJZCPtghzbQrUWecOv5bNwQcKEerk25ZpYYRd6VSkRN+NAxgZ+OjHikVkp6chuC1/+NrQR/yoVsTWEUXkc0W8rcX4LCvffG+uOcxjWLgsf6CA4toNEMW20mgVA9F7ASbCMHjh8o6JjoMPNVsZkjyxquAlAGu+kbBtXX7lvcASqAVFEbeuuT3LlrGPR9kjA7855AH5DXRmzPrs2LnvYebRmVbeaI4JXVscY8gYn9j7MTkZEfTizr2KgOvXAJg=;O2as8ogTaKW3L8y02JwhCg=="

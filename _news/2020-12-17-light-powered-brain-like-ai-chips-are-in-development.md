@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-
 webUrl: "https://www.zdnet.com/video/light-powered-ai-chips-powered-by-the-brain-are-in-development/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: ZDNet
@@ -31,19 +31,17 @@ images:
 related:
   - title: "Want to Make More Money in Real Estate Development? Use AI."
     excerpt: "\"By actively harnessing the power of AI you set the stage to start the sales cycle.” The real estate industry has benefited and continues to benefit from the impact of Artificial Intelligence in the areas of marketing, lead generation and communication."
-    publishedDateTime: 2020-12-17T20:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/360915"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/360915"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360915"
+    publishedDateTime: 2020-12-18T11:20:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Want-to-Make-More-Money-in-Real-Estate-15811863.php"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1607706704-GettyImages-694034887.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://s.hdnux.com/photos/01/15/64/42/20400293/17/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "lo3b1VNX3ZV0I12spDd5awdGTX/Ul38/R+WShwV/sOhjh7I13iO3/xBaWESJ0vUa1tvNG36oPP4h9Obk7kdwIJjZ1vdmVDiKEUo/re/0bey0wj9doEmr5cItqPDu6M/BGKySoxvR8aYzm6umn1rmRoSOvISxPd8hLPPRgXQxJI/zabeFh28orRLoGLULh6lNKKbi4ZMUmzgg93Ilegi68L2ad3LhE5EQafQvf0svM58vH+ua0reJDW9fsKjz/SUWS+gX9YZ7Hb5ebDOt+ADWZEQPWIxO2V6a5eVGiJf8bkzh1xN6qPWu2yK2iITHNSRWwZ2x0r8EY+G16cHcJ91MgG0PpFlZ+5dPn3yWO4xYoq0qMQEsTEZNsL4S41EkkfUjYJkgJ+qiRfF6sLwOfzCZV+oYRxaqJ7ipMPrL1sm1USC6EFmweO76RvQXTUgbB1apmfCum1G/1lvSCganHcFxpanryK75ZeazbWmh4gC41Lq4szEgpcj+zrKEz4ImYOwOV1VfCLEOtLoG4WAdPFj8eA==;Uhxe84e/AE5zYA2lNl4huw=="

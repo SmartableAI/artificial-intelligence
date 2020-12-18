@@ -2,31 +2,25 @@
 category: news
 title: "Want to Make More Money in Real Estate Development? Use AI."
 excerpt: "\"By actively harnessing the power of AI you set the stage to start the sales cycle.” The real estate industry has benefited and continues to benefit from the impact of Artificial Intelligence in the areas of marketing, lead generation and communication."
-publishedDateTime: 2020-12-17T20:02:00Z
-originalUrl: "https://www.entrepreneur.com/article/360915"
-webUrl: "https://www.entrepreneur.com/article/360915"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/360915"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360915"
+publishedDateTime: 2020-12-18T11:20:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/Want-to-Make-More-Money-in-Real-Estate-15811863.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/Want-to-Make-More-Money-in-Real-Estate-15811863.php"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1607706704-GettyImages-694034887.jpg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://s.hdnux.com/photos/01/15/64/42/20400293/17/rawImage.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -45,6 +39,6 @@ related:
         height: 578
         isCached: true
 
-secured: "/ZbIl/x7Ha+4j74kNMq5txyJsDlCeoOm7Im++gMYl4H+AwLdAbRqGENyCJZ+gVUqAJykVYeKes777uT25mqq9E/kgV8hTFrWTZSItysNE2PM1eDikIqJyz45CpAOHs1cdppkX97tIUy6FFwqMPDn60IDdtTKp51IboyFi3QVQc1BkisGes0a/0BguWsl53zslikIuF+8A8qXeNqtCOryTHs12tFCW+A0hk6grEja0lWpG6sBUbOARo0oHfLO0dPQzkYG4BTkvjRS4aUZimxiM3WrXwXreOiS3NwT8/lfIM3CUQmqcD5GdL4oHg/fcAqoohixY91K91/KUh/kK8x5A4kMBl4tts7nuY94ARokumo=;yN8aU4gJO6W6Ck+H+nxWrA=="
+secured: "rhZBTyGzAlDeEtg9s5Kr3wRUIXgiwsASYY8ORwkoP3fJy4PHPLfzHB2jhunQG+SZcxicXz5+xS6koL5NDzzCqTPmTAhhr4QxRvAhw8PHZeoordtSHVipC9LKpz6Yes9q+sgZZfxe14RDaT8zGyvxGKo3ckkScRL69Abq9x0te9WiKbwHQ1FXqqRl2B1JACbkRpaSTTmp71zgW5L+AZfKQwvQmW8mk4wTGlpc3KV2xvQY1hPktfjGoOp4RAKWrb00oV7DPwEkP8EduTHj+9RWnP2KSlUvVD7bqMXK7/Fq2JifHayKfDHtioBQE5CGKaMBLwYLa39ycrXy7B3MkjikQDaAc1gAwbVmpcopHFz2pzk=;sR1gepsEc1q6F/b/XwQ1Rw=="
 ---
 

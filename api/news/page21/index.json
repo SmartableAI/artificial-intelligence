@@ -2,6 +2,91 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-02-how-artificial-intelligence-can-aid-inventors-to-prevent-idea-theft.md",
+      "title": "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft",
+      "excerpt": "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
+      "originalUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1",
+      "publishedDateTime": "2020-12-02T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-facebook-agrees-to-acquire-crm-platform-kustomer.md",
+      "title": "Facebook Agrees to Acquire CRM Platform Kustomer",
+      "excerpt": "Facebook agreed to acquire customer-relationship-management platform Kustomer, which was named Adweek’s best customer experience platform in 2020. The Kustomer team—including co-founders Brad Birnbaum and Jeremy Suriel—will join Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/",
+      "originalUrl": "https://www.adweek.com/media/facebook-acquires-crm-platform-kustomer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2020/11/NRP-11-2020.jpg?fit=1920%2C1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "publishedDateTime": "2020-12-02T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
       "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
       "excerpt": "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism's cloud-first ...",
@@ -765,58 +850,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud.md",
-      "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
-      "excerpt": "(Reuters) - Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/amazon-com-aws-int-idUSKBN28B621",
-      "originalUrl": "https://www.reuters.com/article/amazon-com-aws-int-idUSKBN28B621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543091445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03DZ",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B621",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621",
-      "publishedDateTime": "2020-12-01T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility.md",
       "title": "Waymo self-driving cars set out for Ohio snow at new testing facility",
       "excerpt": "Alphabet's Waymo division is ready to take on the Buckeye State as it announced on Tuesday a new facility in East Liberty, Ohio, to house its self-driving car prototypes. There, Waymo plans to put its Waymo Driver system to work on driving a car entirely by itself,",
@@ -1120,35 +1153,26 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-will-google-make-money-from-deepminds-once-in-a-generation-ai-breakthrough.md",
-      "title": "Will Google make money from DeepMind's 'once in a generation' AI breakthrough?",
-      "excerpt": "On Monday, British machine learning startup DeepMind announced that it had solved the 50-year \"protein folding\" problem. Scientists rejoiced at the promise of improved drugs for incurable diseases.",
+      "path": "_news/2020-12-02-amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud.md",
+      "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
+      "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2020/12/01/TELEMMGLPICT000224849586_trans_NvBQzQNjv4Bq9-zn32UdN-2qebTEmhS1ZTsJ7F30oTa8NmuLcxnm_sU.jpeg",
-          "width": 2370,
-          "height": 1482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/will-google-make-money-deepminds-generation-ai-breakthrough/amp/",
-      "publishedDateTime": "2020-12-01T11:43:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020?amp",
+      "publishedDateTime": "2020-12-01T12:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1158,61 +1182,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera.md",
-      "title": "AWS announces Panorama a device adds machine learning technology to any camera",
-      "excerpt": "AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision enabled super-powered surveillance devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/AWS-Panorama-Appliance.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/",
-      "publishedDateTime": "2020-12-01T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],
