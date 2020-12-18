@@ -36,6 +36,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
+  - title: "India's 'invisible' women hope for recognition at farmers protests"
+    excerpt: "\"It matters to them to voice their thoughts and perspective on these laws,\" said Kavitha Kuruganti, convener of Alliance for Sustainable and Holistic Agriculture, a coalition of farmer groups ..."
+    publishedDateTime: 2020-12-16T15:53:00Z
+    webUrl: "https://news.trust.org/item/20201216145516-jaxhg"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 24
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/c5cfce1e-d633-425a-9444-0d2a49ccee3f/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 781
+        isCached: true
 
 secured: "MS4ld6pCOT3F9zjttE/TkE4r0+RYbsoPmUdO2+FrUBaQDa0LGZ73vPkglu9lZJks4JdKULFXzTTXcbg8gEaFch/ewHfe23HgxNN6Fec0D8mZabeOxnIT60mHukQC/6+lad/4BceNcnOWtGL+KGhkFAo9539Y+oEY2xJqt/oxWk2ybxuvyA9zQGV37rSqCzTKWNrjC9jeI7I8RLBhJXtAlFvoMJ13gJ/UHgsoYyfujHVXxq+N+4vjo7T/DW9Mr8HWjLl+3fY+3a/tINme4FPQk6VzAI264/CPGv7SwlnrS0lsPv+T4JXwhoyjiJLlfw1rKf2Vs/ORByw6y7nbl5j5MJa/LWqcMDYWvl9Tfcw/hbuMXXQ9kCZCUBkBTRcwCBsrfFLmySqfLCxgGVEqKlF5K6sLxxRfRDR9f1mv06r62Oa4C6a4IXTScRZ1OiJWUiqQ6yI52TzYU4rXJTGQPzBLpSDYPLA/NQT8uTkaXmqp+WdIiLoJ8RErfXOu1/i4P92nZpKmdeEaxpLeleNOBU/pbg==;sN/UI01XkDz1FoEc6S1+Ow=="
 ---

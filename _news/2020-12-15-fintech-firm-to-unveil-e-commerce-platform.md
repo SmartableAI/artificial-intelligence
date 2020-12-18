@@ -27,34 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare"
-    excerpt: "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their"
-    publishedDateTime: 2020-12-17T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
+  - title: "Upstart (UPST): Fresh Fintech IPO With Enormous Potential"
+    excerpt: "This AI powered cloud incepted fintech business is changing the way banks assess credit worthiness. Many fintech giants are competing against banks but Upstart has decided to partner with them in its next generation offering."
+    publishedDateTime: 2020-12-18T03:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-fresh-fintech-ipo-with-enormous-potential-2020-12-18?amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook"
-        width: 958
-        height: 502
-        isCached: true
-  - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
-    excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
-    publishedDateTime: 2020-12-16T05:35:00Z
-    webUrl: "https://allafrica.com/stories/202012150316.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 24
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "XDctBXO7q5QbTt6Q2YqfK3FRy294jVHUKBv/3OX+0S8om1xp+ZU/4es/nYcgy+Zvvb78UI6aE4Ryx9wH5btW07ND3LnPm1jwyFHuqxG3NTtdRTMti6X9hKIkNj63JK3ET4+7qNsJZQqNYkNoQCdWDikjlJvtciST64LtXXct3C7nHOuWCVyMMRo5Vk0cpnlO/XnrRzgScKmemdLLekePHvHVxrO4J8kjWu2ODdjQx5GDbWEfdMn2L0saBH8AmZr0rC5hwPn+BBTaSSzRWhrIlzaoE9qgQ33QRyjs6QG/XsGb5QsJTwb3ETQ2lrqfmRY1hsClaefOuYCy48w9dtXcFpwTSa7hqh8Oe1uP6etSinJRr446EX6oLp+xbx3dYRnhyoUmE/nCwQb0uFWquStYbIBD2bzMy9tAEXbd0S0Yr7AyLW31eAZ4f9Y7sl3QZG/b2OvMBZFqGsBJfDT0XkJAVwSyrOYb6woYh0iODqS5frS47TC7ABGgyGQJlbedhmfhbZYWwRdEaJB+yDQUjiWhOg==;70qpvHz6vVu27gX7NYI1xw=="
 ---

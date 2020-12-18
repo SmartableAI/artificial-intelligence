@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
-publishedDateTime: 2020-12-16T14:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
+publishedDateTime: 2020-12-15T18:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
 type: article
-quality: 20
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
+    width: 400
+    height: 250
     isCached: true
 
 related:
@@ -40,6 +44,22 @@ related:
         width: 1300
         height: 866
         isCached: true
+  - title: "Women in AI awards Australia and New Zealand extended"
+    excerpt: "The Women in AI Awards A/NZ has extended its deadline for entries to December 31. Founded in Paris three years ago, Women in AI (WAI) is an international network of leading women working in AI, seeking great gender diversity in the field itself,"
+    publishedDateTime: 2020-12-18T04:33:00Z
+    webUrl: "https://www.cio.com/article/3601833/women-in-ai-awards-anz-extended.html"
+    ampWebUrl: "https://www.cio.com/article/3601833/women-in-ai-awards-anz-extended.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3601833/women-in-ai-awards-anz-extended.amp.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/beth-carey-100871436-large.jpg"
+        width: 1200
+        height: 1192
+        isCached: true
   - title: "Brown County translation tech company acquired by Australian business"
     excerpt: "Melbourne-based Access Innovation Holdings, doing business as Ai-Media, acquired the De Pere-based company along with acquiring CaptionAccess in Illinois for a combined $1.9 million, of which $1.6 million is in cash."
     publishedDateTime: 2020-12-17T18:29:00Z
@@ -50,6 +70,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ycKcglk1keSovU1WSlX3j5G7ND7MNEkbkPkBf281IZfy6NM/zje81bjObK2DmJfEg7+jssDMdhIPo15oGJwWD4KylZtCCf+U2utTWna8qulcS2tWPbn5QTstsrtzAjEXFK5CUEqOKsI17m0eqYCmjJrsUsexkZCK+v4yb+oz2sL+q0pn7ZmKNDNrwLXAEK9Afy7XPit/UZZiTdv2aXGZRWsaAgtOK+GITd7p927KA6tK0Mc2EswRpoMoi9mo55HQ/G4h5NZKa9ORO+xZyMzlnkKlvPVJyy5BIC95VoeStBV1xr1k0QNzF6IHDEdDwcGHj5boCAAI8aIlC7HaVWiBOgZTYZr7fUZLSUJ94W+8CrI=;gFpjKKieOTlY6NWDFBlYSA=="
+secured: "ahAd8BwvCmbQcbYrAwsBSajFICdD/0WOQk3ANLmFOm2DpNefj0gRLt/IQjuZrZJAV1gEDWRWCdmQo3V4+KsFX0pp7Y9THqYEXzlLTwD1mxHpXrBeaK6d1D3kQpwfCN0Xz0oLbIWiehLfhfbWxvuYgztKSZKLhAKA9sh+Cg67ydkI8GFOJ+cxiyUWvUvDK/Kl8NfUm7p0+pzLJ8z5VwgUmdF9Iblp2AyfAsPtj49TNH2LQw6IHscuTHUVW/YsI8mkX2yxZ33x6HUU5/avv+MxDAMAT3Lz/cQBnONe4b1zaCFrGgjod1CvGnYHzFkQzwBr12Ikt+mP+8/vuCpUY3iF41bCZaqD8KVhIbmdqLiLBHg=;GjMLIBgbyTUiPQBYVTvxIg=="
 ---
 

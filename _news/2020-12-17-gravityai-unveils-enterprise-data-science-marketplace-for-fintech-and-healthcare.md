@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterpr
 webUrl: "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: PR Newswire
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firm to Unveil e-Commerce Platform"
-    excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."
-    publishedDateTime: 2020-12-15T02:28:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/01/af825dea-fintech.jpg"
-        width: 1280
-        height: 868
-        isCached: true
   - title: "Nigeria: Fintech Firm to Unveil E-Commerce Platform"
     excerpt: "A new Nigerian fintech start-up, Shago Payments Limited, will tomorrow unveil its bill payment and e-commerce platform to serve the banked and unbanked locally and internationally."
     publishedDateTime: 2020-12-16T05:35:00Z

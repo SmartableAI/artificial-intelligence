@@ -139,6 +139,33 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
+    publishedDateTime: 2020-12-17T23:54:00Z
+    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "kYGHesV3/KbSRfsyWu1aRhWcVZ5+zOq7m16l3zDglV026hIc1E3ELKTuNMyB3T+ZAJ2miMrxMo4GaHkk/ICEyl/TyW1bQZs5HKhMgHshAPJ7CdoR6STSOJEI3Zqfb+va17+/uYTzRk69zBUHJHxWxPBMA7qG9y8rPsnOXbA0hzJTa8shmVDQPCWlKEARIYy95eLcDAjfAhPgRxkCdC6YVIXlzN/BQsCmRuhSXJha+OA4qsczrgAsdv4m8F51Ljs2NnGmHbhgMfdnI2WQG5jXjk7zi5gHMVF/pSmqg9bC5N2kGXN8EjY69ukIyYnNh2XPsXAKPHi1FE6EepEia4gfXGZ3aGKo5ufOSIUPTmUou8UCMrRNWVVoC7SAxQEzSZgsVwVPlnMYvAcKH54zpweKrUtKBsfVsm2PYfgbtN9HYM3LVhQEWKCx4xtTgg4vCVWVXf5USGwRiyz2oeJWBp77C3oRs1bFKhyx7/fpA7DiuysZFChnOyJRFwC1pVLLosK0i9IKleS8nNE702J4p0Ewtw==;GopKJwpUpHY//3jkdaKQuA=="
 ---

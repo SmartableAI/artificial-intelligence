@@ -3,10 +3,10 @@ category: news
 title: "Mobileye looks to build its own lidar to drive down self-driving costs"
 excerpt: "The chief executive of Intel Corp-owned Mobileye on Tuesday laid out plans for a self-driving car system for 2025 that could use house-built lidar sensors rather than units from Luminar Technologies Inc."
 publishedDateTime: 2020-12-16T04:25:00Z
-originalUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-webUrl: "https://www.reuters.com/article/intel-mobileye-int-idUSKBN28P2GW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2GW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2GW"
+originalUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
+webUrl: "https://www.reuters.com/article/intel-mobileye-idUSKBN28P2I7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28P2I7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28P2I7"
 type: article
 quality: 74
 heat: 94
@@ -55,6 +55,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "Cj9zkZAPiBJX0+41Rv/AfJvy2b+eXpLSy4RYtD7rmf79C7G1Pgbm5UmmoFnY9ULQKEe6A0z4SQbY0TaVTThpUdKXQmcPjpzslTngClTt0JmkkOytPIJtdHlJGJBPtqdfv1vGxOGoZhwm9SkvSz37BbU9/3acfkKaC8zraQCmuvYQhtBVs3/VC5axILt20L/8KH5DLyRR43RjeIioLaih2iCLsRc8Yej3KpwZIsTxWuSXMQvKSZ1XzsEbEJ27C0mNgC6R7MHdU7tRTCeWUWeUfXCMosbBrGVZ2F1DJapzqxPWpTL7DlsFnkhPLP6PNdlmdC1lc/5fB3twNzkTtLF1Mjw0eh+Ci3cDcz5RZGqRxy/uUqKx+slMv2BOR/OuU08hzVO0boLF1dUwLrQCzZ5z7fINtmIV9hcbS+5tffNhRFnyo81ybpLOdR52lvRQJgrg+5Hgchmacu1/1zdzFi8yXSln80hoVUjUkRMYWIemAv5YG1qX2qlb4AUnUo+9hlKxsHCulrVKAapWOXBWq+0DnA==;Jc1tp6i4gIz6+jOmz6897w=="
+secured: "rbmQZE7XkvZyKyUnogvM1U6+Tnic395BFNKrT2Ol+woDuqlWLBBmrK27erhLAodTNOVhcm/Tl+oJEVWpA6tp13HmezfN4FD8CJWJN+cP8dUANEBozYZl5ReIXl6lgetM2LX34OrKFrkHzToyY9zTyYFB3T+qm8jslGN3nQtrZBOE/mQBlfMmfk6iArSW0GzINniZPhmcWkbptEo1DWeDL14JpAZSf+b8TU+nDAu9W+rD8UyPkQ7/FbovxZwOL5gwWiJdwmQWcryGhQJ2i0ni39iaaQRz0RXqOi/CyTs+wIiBOLb02iCJ8GRzax3wdXwzIyubSdTHFjZIMYxO+5LA0fqJj0sUWLM4/22pCxT1fK4=;Vfxu2uwToOCHbEbIe2q81Q=="
 ---
 

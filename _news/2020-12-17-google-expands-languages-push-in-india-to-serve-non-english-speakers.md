@@ -47,6 +47,22 @@ related:
         width: 796
         height: 418
         isCached: true
+  - title: "Google expands languages push to serve non-English speakers in India"
+    excerpt: "There are more than 600 million internet users in India, but only a fraction of this population is fluent in English. Most online services and much of the content on the web currently, however, are available exclusively in English."
+    publishedDateTime: 2020-12-18T04:15:00Z
+    webUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/"
+    ampWebUrl: "https://techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/16/google-expands-languages-push-in-india-to-serve-non-english-speakers/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1219601702.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Google adds new features to strengthen Indian language capabilities across products"
     excerpt: "Now with the introduction of new features people can toggle their Search results between English and four additional languages Tamil Telugu Bangla and Marathi"
     publishedDateTime: 2020-12-17T11:57:00Z

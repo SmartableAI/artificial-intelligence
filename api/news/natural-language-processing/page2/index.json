@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-05-language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio.md",
+      "title": "Language Services Market | Globalization of Businesses to Boost the Market Growth | Technavio",
+      "excerpt": "The language services market is expected to grow by USD 9.72 billion during 2020-2024. The report also provides competitive insights into the market impact and new opportunities created due to the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/category/news/language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio/",
+      "originalUrl": "https://www.globalbankingandfinance.com/category/news/language-services-market-globalization-of-businesses-to-boost-the-market-growth-technavio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-ready-to-enter-a-new-era-of-ai-ready-smartphones.md",
       "title": "Ready to enter a new era of AI-ready smartphones?",
       "excerpt": "The Qualcomm Snapdragon 888 chip will let handsets take high-resolution photos faster and perform AI-related tasks more efficiently",
@@ -1399,58 +1442,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-the-secret-to-powering-web-apps-with-full-speech-recognition.md",
-      "title": "The secret to powering web apps with full speech recognition",
-      "excerpt": "A few months ago, I wrote an article on web speech recognition using TensorflowJS. Even though it was super interesting to implement, it was cumbersome for many of you to extend. The reason was ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/?via=indexdotco",
-      "originalUrl": "https://thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/1-22-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/syndication/2020/11/24/the-secret-to-powering-web-apps-with-full-speech-recognition/amp/",
-      "publishedDateTime": "2020-11-24T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

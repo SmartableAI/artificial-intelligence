@@ -39,22 +39,6 @@ related:
         width: 958
         height: 502
         isCached: true
-  - title: "Fintech Firm to Unveil e-Commerce Platform"
-    excerpt: "While adding that the fintech firm would provide the channel for various business transactions for its clients, mostly for those in the rural areas, he said Shago has a great future, with a focus on other areas like Artificial Intelligence (AI), e-health ..."
-    publishedDateTime: 2020-12-15T02:28:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/12/15/fintech-firm-to-unveil-e-commerce-platform/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/01/af825dea-fintech.jpg"
-        width: 1280
-        height: 868
-        isCached: true
 
 secured: "9tQkFntp0Enpdr6O+teZe2+sr4LO8wzW6m8NLbPEZUj0R4VjA5J+s2DFsmdKa4/3vQrgFxdO9Wp1ABLCLB26VgwqF5JKRhp6HTYxfv6fEE1YtNt62xDPs8LGCYJkUor3Rg2vId+r8Cd00a14lcInC+JGcGLiilqpQ1ac6R6iM/UOsV1GMLe+6qk99TcgGTZJPmlT9zp13KS5f/xj6osOu/atcXj5wWIYqTrnC33htWMVvQa851Er95dz1qW1gDH/Qac9K+aRJbVqgG2MdPIEEPJl7pAWL65LMKbA2aqTvU43enntM/GnOsZpVC3VhBVj6hd3glfQ/b5PC/mC26EfT/anz2OSCOlCQd5dnfTuTnQ=;LrnVBCLs77NE0ihA+kuujg=="
 ---

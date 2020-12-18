@@ -35,19 +35,35 @@ related:
         width: 1300
         height: 866
         isCached: true
-  - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
-    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [  ], (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance [  ] - an AI-driven vending machine optimization solution,"
-    publishedDateTime: 2020-12-16T14:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-new-south-wales-australia-transportation-technology-summits-a216b354ca367940d4fbcba358505f7c/gallery/97d33f2a79e956f83fe8cbc259f4aabc"
+  - title: "Women in AI awards Australia and New Zealand extended"
+    excerpt: "The Women in AI Awards A/NZ has extended its deadline for entries to December 31. Founded in Paris three years ago, Women in AI (WAI) is an international network of leading women working in AI, seeking great gender diversity in the field itself,"
+    publishedDateTime: 2020-12-18T04:33:00Z
+    webUrl: "https://www.cio.com/article/3601833/women-in-ai-awards-anz-extended.html"
+    ampWebUrl: "https://www.cio.com/article/3601833/women-in-ai-awards-anz-extended.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3601833/women-in-ai-awards-anz-extended.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
+      name: CIO
+      domain: cio.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.idgesg.net/images/article/2020/12/beth-carey-100871436-large.jpg"
+        width: 1200
+        height: 1192
+        isCached: true
+  - title: "Australian AI startup, HIVERY, partners with JR East Water Business to optimize vending machines in Japan"
+    excerpt: "PRNewswire/ -- Retail AI pioneer, HIVERY [ (headquartered in Sydney, Australia) and JR East Water Business (headquartered in Tokyo, Japan), a subsidiary of East Japan Railway Company, have agreed to rollout HIVERY Enhance[ - an AI-driven vending machine optimization solution,"
+    publishedDateTime: 2020-12-15T18:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/australian-ai-startup-hivery-partners-with-jr-east-water-business-to-optimize-vending-machines-in-japan-1029895460"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/1384514/1.jpg"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "g9sb88T3APWbYaa3R7F8FcyamU0w4kW16ZeIH0XhH7lwW7pYjYxXwMZ5PGTxm2NxaIzA+zFAglwKQbDC1Gwc7TT26WKRjDMVlYenQzMS6EgAstPu/Or3dfQM3llsffgoX58iiaGnRncHaZgpujdCY8PAAmkbtOPPRcDZGy6lYFetIYrFqACyucQkfUjgREn7nWMGgaVwmA1bM2IjBqDtXZT7okueA7BLJn0AEUbelE3rqUTJaKyIl42hVNM6lLNt97/t7ZgjUMz6RKSZZIweekMIKbNVxL3h+U9OPJnA4U1d3J63SxEfq6HjkLd5OTIaFpHz07jjh8IiDN3icN9kn6A8DqFeYRDS3xjH6dwevkSdnqdqjBZaPVtVejZyCjlmMyymSbvKEmKTy/AXDj1DL8mai+F6fZTZHVtE07eK2ks9oiorAoWpWx2/GcmR091Bzzns8bV1z2Wqyg0pE5uHSIYxiWfoy3xRgseXyjwlJ5avVohm4V5G5Ywae+GgUA7CsO71o/AJj60O9f+oo4Kayw==;2msj1pfMp5wtSufX4MrjdA=="

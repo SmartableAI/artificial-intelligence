@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-s
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/17/ai-co-pilots-us-air-force-spy-plane-for-the-first-time/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence co-pilots military jet for the first time"
+    excerpt: "A US Air Force jet has became the first military aircraft to have an artificial intelligence algorithm serve as the co-pilot. On December 15, 2020, a U-2 Dragon Lady high-altitude reconnaissance aircraft attached to the 9th Reconnaissance Wing and piloted by Major \"Vudu\" took off from Beale"
+    publishedDateTime: 2020-12-18T03:15:00Z
+    webUrl: "https://newatlas.com/military/artificial-intelligence-copilot-us-air-force-jet/"
+    ampWebUrl: "https://newatlas.com/military/artificial-intelligence-copilot-us-air-force-jet/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/artificial-intelligence-copilot-us-air-force-jet/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 87
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/388d4f6/2147483647/strip/true/crop/6517x4345+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcf%2F69%2Feae9d53c4a5ba94a322f6bc40485%2F201215-f-wf370-1134.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In a first, Air Force uses artificial intelligence aboard military jet"
     excerpt: "Officials described the test flight as a step toward the eventual use of human-AI teaming in military aircraft."
     publishedDateTime: 2020-12-16T13:38:00Z

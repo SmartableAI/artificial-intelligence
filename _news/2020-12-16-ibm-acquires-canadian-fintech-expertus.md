@@ -125,6 +125,17 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Fintech Lender, Biotech Startup Price IPOs Totaling $429M"
+    excerpt: "The company has recently expanded into auto lending as well. \"While we expect AI to disrupt virtually all forms of credit globally, Upstart is focused on the U.S. consumer market and personal loans in particular,\" Upstart co-founder Dave Girouard said in a ..."
+    publishedDateTime: 2020-12-17T23:54:00Z
+    webUrl: "https://www.law360.com/articles/1338324/fintech-lender-biotech-startup-price-ipos-totaling-429m"
+    ampWebUrl: "https://www.law360.com/amp/articles/1338324"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1338324"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
   - title: "IBM makes another cloud deal, acquiring fintech to boost payment technology"
     excerpt: "“Expertus’ payment-as-a-service solution expands our hybrid cloud-based payments offerings, transforming payments and treasury management with AI to give financial institutions the flexibility to rapidly innovate and stay competitive as consumer ..."
     publishedDateTime: 2020-12-16T12:30:00Z
@@ -138,6 +149,22 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/07/ibm-red-hat-merger-e1603293539991.png"
         width: 577
         height: 324
+        isCached: true
+  - title: "Nasdaq Listed Fintech Fiserv Enters Agreement to Acquire Ondot, a Digital Experience Platform for Financial Institutions"
+    excerpt: "Fiserv intends to further develop the Ondot platform’s interplay between real-time authorization, user context, and AI in order to “engage users in-the-moment – before, during and after transactions,” according to a release. Frank Bisignano ..."
+    publishedDateTime: 2020-12-18T03:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/12/170363-nasdaq-listed-fintech-fiserv-enters-agreement-to-acquire-ondot-a-digital-experience-platform-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-US-Dollars-100-Benjamin-2-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "R7xXI/kVHM7Mk+zQ5b8Q4gtkIUzB/olYNroB/oEQAk7NZPWgn8HE5ZjeI1s4Xb6UfwGPYwaHj1G5/hLTrCYIkulEk3dkh8SyE69v1lmAwFHNWz0oOGXyFzp0lPsv81NaP8hbnsYiOnOnxg0lNJBcjwhGUzhZKPK2IvK55gKfA2tgiVq03yMfUhXdQgc6KHOLJzPRLW+CAnBUFaofWsPmPvpfz1DcHSHPsTPV05ViCZqaXl5gH3Wq8iNDbg3mDmIGrlfXToV3wOzxjIGhs2eSIpMQgBrucxNCucF4/t9D6rsotYDFenz4ngBwwyXPcCQBdNLtYRxmhcZDiSXbmLv91ivPHsUtxxD7+TIguBXdIuymifCl3UFLBNsqcBqYSRu068LTSEr8uQSD41/dx9+HaTuGJDyzQXlVybbfxsU1UPGOlMkBE9IIfBCemIHOP9q91uAF3rQiuZlcXq7ip0s2lFXiVXJZAVVtH9z2pp2sxrPyNv8CC9yQerjFuIQT2MvpjBecHVRLS3LkEokFzp9CYw==;LTx7ROGjdIv7+/GJ2R765g=="

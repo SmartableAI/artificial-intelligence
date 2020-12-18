@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-17-gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare.md",
-      "title": "GravityAI Unveils Enterprise Data Science Marketplace for Fintech and Healthcare",
-      "excerpt": "GravityAI, a startup that provides a simple, secure platform for companies to easily integrate data science solutions into their",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/gravityai-unveils-enterprise-data-science-marketplace-for-fintech-and-healthcare-301195280.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1388287/GravityAI.jpg?p=facebook",
-          "width": 958,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-how-artificial-intelligence-and-robots-are-changing-the-world-use-cases-of-ai-and-robotics.md",
       "title": "How Artificial Intelligence and Robots are Changing the World? Use cases of AI and Robotics",
       "excerpt": "Artificial intelligence and robotics are bringing drastic changes in the technological fields. Here is how artificial intelligence and robots are changing the World and here are the use cases of AI and Robotics.",
@@ -1083,19 +1039,19 @@
     {
       "path": "_news/2020-12-03-neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics.md",
       "title": "Neuroglee Therapeutics to Attack Alzheimer's Disease Through Personalized AI-Powered Digital Therapeutics",
-      "excerpt": "Neuroglee's technology leverages artificial intelligence (AI), machine learning ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on ...",
+      "excerpt": "Neuroglee's technology leverages artificial intelligence (AI), machine learning and novel ... will offer DTx that can be used with pharmacological therapy or as a standalone treatment, with a focus on slowing dementia-related cognitive decline.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therapeutics-301185532.html",
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2020-12-03/neuroglee-therapeutics-to-attack-alzheimers-disease-through-personalized-ai-powered-digital-therape",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1357579/NeurogleeRx_Logo.jpg?p=facebook",
-          "width": 1956,
-          "height": 1024,
+          "url": "https://www.pharmiweb.com/media/9690/neurogleerx_logo.jpg?anchor=center&amp;mode=crop&amp;width=300&amp;height=300&amp;rnd=132514696030000000",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1105,11 +1061,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-03T03:34:00-08:00",
+      "publishedDateTime": "2020-12-03T03:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1399,6 +1355,51 @@
       ],
       "topics": [
         "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-7-tremendous-changes-artificial-intelligence-brings-to-the-education-sector.md",
+      "title": "7 Tremendous Changes Artificial Intelligence Brings to the Education Sector",
+      "excerpt": "Have you considered the role of AI in education as more academic institutes discover its virtues in the coming years?",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
+      "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/AI-in-education.jpg",
+          "width": 1000,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
+      "publishedDateTime": "2020-12-01T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education",
         "AI in Healthcare"
       ]
     }
