@@ -46,14 +46,19 @@ related:
         height: 449
         isCached: true
   - title: "Veritone Launches Automate Studio to Accelerate AI-Based Digital Transformation Initiatives"
-    excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced the public launch of Veritone Automate Studio, a low-code, web-based workflow designer tightly integrated with aiWARE."
+    excerpt: "(NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced the public launch of Veritone Automate Studio, a low-code, web-based workflow designer tightly integrated with aiWARE."
     publishedDateTime: 2020-12-15T12:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/veritone-launches-automate-studio-to-accelerate-ai-based-digital-transformation"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-operating-systems-data-management-california-408bd25337d140d3992f13b3f3607c55"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "uhK7yjmXQ2cPLLkGqnTZ+gY5e1QCA763l728yPFKVN+oQrs3fCZN2YmNXL4J+qZEqmLiZO7LNoyBBRGhHPRqyg5GMZG1CGqZBU87MwkeyDvBTAbhpROVX1+VgHz6HOOL/vR67ecydQHPUB0z6RWODy1hz737QbCJPXYos5YFM+93jv52aStA6C2aakR9QGfa0mca3oq4u5YcoR4iyVGJuIKwi6FKhLTokHwzYqoDXA8HbghOK6r9fkke8xyG5STMeB5zjvshQ6HynApXNurhHMiS9ySkJ5PcLylE7xDYiwH/nKL5R3ppxwpjyYNtkUAZAzbArU6pDrXcOoPqiS39u2ILIuPyWrMPH+ACsFP7Ths=;Y5kJK08gSvQ47HiZ3qL2Og=="
 ---

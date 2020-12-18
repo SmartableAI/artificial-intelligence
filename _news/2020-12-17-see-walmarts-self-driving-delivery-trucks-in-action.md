@@ -2,23 +2,33 @@
 category: news
 title: "See Walmart's self-driving delivery trucks in action"
 excerpt: "Walmart, in partnership with software company Gatik, has announced the launch of two driverless delivery routes in Arkansas and Louisiana. See the autonomous truck here."
-publishedDateTime: 2020-12-17T01:43:00Z
-originalUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.html"
-webUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.html"
-ampWebUrl: "https://www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/see-walmarts-self-driving-delivery-trucks-in-action/video_6fcf1003-fe05-5565-98df-413dbf2aade9.amp.html"
+publishedDateTime: 2020-12-16T17:43:00Z
+originalUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business/video/playlists/business-tech/"
+webUrl: "https://www.cnn.com/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business/video/playlists/business-tech/"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/12/16/walmart-driverless-delivery-truck-orig.cnn-business"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 134
+published: true
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216123750-walmart-driverless-truck-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
 
 related:
   - title: "In Self-Driving, Amazon Invests While Walmart Partners"
@@ -110,6 +120,6 @@ related:
         height: 324
         isCached: true
 
-secured: "bIMCw1gdrbX5T6uRHCiSXGM3uC3xhW0y8RTEKQMpkCRAsLgM8jKhbZzopSj9fOs288cWeWI8tOIxRm+qn8JfHCcVt58/QBFnO966Qn3qWcf6QPiEwL1d4pHw9U+0ctrH2gPeURvO+lLJBxeE3BZNcDH92xTFhCNBMjPHG92CjRQyZzbo611trTT3yy6dUlAy5pd2RiQFWtGq+ZsAADpW546ZyuFBllTYTS/aCukxlx0gYfPI211lvml6LtwPKl9IXpvOzMUvn4pxI0gS0PHXCgunjdl/mMdDblcaC5C6pnZebfC7rXus/CatrmxIWMfoKi6L0Am3s1ouS7sAugsO2F08J5KNzH64vLcTBxbCS9liimqWO5DHK9YWKXYDcAPQwnLwO26S49QHyTJsk4cHkDOGzrUk/1Kw7jYHI+AJgZ5wTB2kkKKgOKKo+QtKKIy78cwrQnffOTAc9VfDGRaNfBUF3L9h3PCc9lklbRh0WuihfzUtOzAcyWlLq/cKygxdjBzBXss6b3BZ7c7ZVBbVAQ==;VEnlcG008y7jJMPBY1XshQ=="
+secured: "dkhW1pX0VCGk6YuAckmO4xNeh689D9bJuy4Srl61zRU6q+kF2Vpiqpi2IekkM3HaonTVrT7CjnqdzxUYdYZIavL6FXul+r5VNVcUXMtuI+vbA6aqQnGuVUT2L0dY5gGrpcUedHOzDQgErjI+lrxE2q7TbGs5dON24sD2nT6X2ZE7wF3WDCGyP2ZlM4gPutUZbLMj61KB7COKB2TP9M031tnQAfNjWzmCzLLqgiB47z0PUz0J9LmX4eMd3igh4GVdVDw5TDOm/z4IbtDxMOPtwtDRnGZvzbEQJvrSAPzKxMz8GgAKH6S3GJLr8yIfhvzALhqW2OkZklkZZLp9JEs3SiOPV7PJ0IlCDOu8af+02tQ=;5bJzf5IiuU/1kY07iFfgSg=="
 ---
 

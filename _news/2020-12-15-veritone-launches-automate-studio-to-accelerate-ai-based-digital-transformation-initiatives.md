@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Veritone Launches Automate Studio to Accelerate AI-Based Digital Transformation Initiatives"
-excerpt: "Veritone, Inc., the creator of the world’ s first operating system for artificial intelligence, aiWARE™, today announced the public launch of Veritone Automate Studio, a low-code, web-based workflow designer tightly integrated with aiWARE."
+excerpt: "(NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence (AI), aiWARE™, today announced the public launch of Veritone Automate Studio, a low-code, web-based workflow designer tightly integrated with aiWARE."
 publishedDateTime: 2020-12-15T12:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/veritone-launches-automate-studio-to-accelerate-ai-based-digital-transformation"
-webUrl: "https://www.nasdaq.com/press-release/veritone-launches-automate-studio-to-accelerate-ai-based-digital-transformation"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-operating-systems-data-management-california-408bd25337d140d3992f13b3f3607c55"
+webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-operating-systems-data-management-california-408bd25337d140d3992f13b3f3607c55"
 type: article
-quality: 39
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Oscar-nominated studio Laika leans on AI to accelerate stop-motion animation"
@@ -50,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tTXoNKQv0H30oWnzDL+oaxbyYsZWAs2Hne1zm0FQ36J/Sv9hibxzC5ulBkFnNwUX7Y6BfpS0TXiG81Iw5NXixnvTk/wfnu283RoUBMvHO88tZgXCyfEqxeB0fsfv7ylhv2Sn2fZ4Mw6qfgmYtGjc+X6aMdclaSVrdd1M8kWWMjvpSPdrNP2JLlrbJy4Edd4hUAdWJf3u/0zzfHh/NGR/t0soA0d8y6foliXHzbct+vPNzDK2wXUMVp2dTr4APYz/9b/BEwYACi2JPzknEg8EgnYbXNzU+e20DHw5AsXdKv7cKetL1E6NLCqf8x6KDuImWAaUV0oo2NVUqUBQ99+WMl3vs10FPgWycFxU8Bs+rcY=;FBmOCwrG7h2w2rb41aMd8w=="
+secured: "UNm3JYz4NzvoUmtaYGBofML2XzW8NpRX0WPcDc1aebDEB7xRuBIg/z5dOJBRFHUNlI+02cqFcynbHaKtnppgCR66VfnIvNobdpdfYq1qpso8shZpra4oex7+D30M8u83QGc65La0yPaID4gwGjiLQ6HUYupGX+FHv+8YrW/1YAsrMg5mI1J2NwCt1boG337gwZ7YM2/FAMpeMx0E9s6kIS9nxUCjRrbLBYeeivGDq5cAdsXfwEYnlvO+reCHcBMEU6db+fIS4VFCqpuxKLD1S4nvVyzBdC07k+1mN7Baz1ROGHJdu8gHnKOts2ZY8Jl+KWGZjo2uEpaYKFMcURBOvAG0pHbtPA84LL6l2A9HG6Y=;rWDYerXN7IrsGS1MKcYq5A=="
 ---
 

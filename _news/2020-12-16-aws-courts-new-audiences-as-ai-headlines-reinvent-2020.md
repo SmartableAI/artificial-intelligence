@@ -52,6 +52,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "A boost for artificial intelligence"
+    excerpt: "Chancellor Merkel gives go-ahead for “AI Breakthrough Hub” – which will be funded by the federal and state governments as well as the Hector Foundation"
+    publishedDateTime: 2020-12-18T08:01:00Z
+    webUrl: "https://www.mpg.de/16193056/a-boost-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 37
+    images:
+      - url: "https://www.mpg.de/16193150/original-1608277854.jpg"
+        width: 1019
+        height: 679
+        isCached: true
 
 secured: "2nV/pDECm8wSfDlZmEH0sy5BuqPjLBIcK6DLC0Yu9+GFR+dmYU5beM8wPsY9SNcUFnaDiFt6zmSQyXQ3KDkIJcPSZtD6cohe8AOY7XhTTgkyCpT/x0vUTTN6Ht3pEK+LO/fHKaSCulXK8z60htskc8gwBgEiZCCAWeoa8ln0+TQcV+86rzKSW7HuL4zFtRL0oPnHQvGYAMLD5sISa1NejUgS8Xx6U9+fsVzAPVJPFSLb4V0rmMK+Bnbxw/YBQNV5BPrq6DvZ7wsDxn5/WkmT4mxEC1yAJ0/iK/Gg3QuC3CsgfIP1ACCQI7UqShq9SBR2gwLlNIoOXcSVQvHkutKvM5BD8xx50pyq8j1GWEBtlM62EUJ7SecvX+MVAHzb8PWUoMsU2WUc5HYHZrtWDRKTCmgTVR8udWuGcZi2cGvhbqAm8dJ0h38jpnSqX3byMNUyJs5WOgR5jLajBu29Rx/f2pxGFW3DjcX1Bcik4sGhH+CE0If1WkYSl2yM/pjTEQWv8FNkMp1dPqqW9DMV5lVh4w==;yiIWn8oUoJhB/qeNz9eYPQ=="
 ---

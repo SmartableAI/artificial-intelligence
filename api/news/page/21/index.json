@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-02-seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success.md",
+      "title": "Seoul Fintech Lab Online Meet-up in Luxembourg Ended in Success",
+      "excerpt": "The online meet-up ' 10X Extension in Luxembourg ' held by the Seoul Fintech Lab on November 26 was ended in great success. This press release features multimedia. View the full release here:   (Graphic: Business Wire) The meet-up was organized for the purpose of business matching between the startups of the Seoul Fintech Lab that wish to enter the European market and investors and financiers in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success/article_d8343a16-1e9e-543b-bbea-6fca15633df2.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/seoul-fintech-lab-online-meet-up-in-luxembourg-ended-in-success/article_d8343a16-1e9e-543b-bbea-6fca15633df2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/01/001cdcb4-5558-50ff-9281-772eb269301e/5fc75176aef04.image.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-qualcomms-snapdragon-888-harnesses-fusion-ai-to-offset-processor-workloads.md",
       "title": "Qualcomm’s Snapdragon 888 harnesses ‘fusion AI’ to offset processor workloads",
       "excerpt": "To make mobile AI more powerful, Qualcomm has focused on removing physical boundaries in accelerator technologies.",
@@ -1179,58 +1222,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down.md",
-      "title": "WaveOne aims to make video AI-native and turn streaming upside down",
-      "excerpt": "Video has worked the same way for a long, long time. And because of its unique qualities, video has been largely immune to the machine learning explosion upending industry after industry. WaveOne hopes to change that by taking the decades-old paradigm of video codecs and making them AI-powered —",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024",
-          "width": 1024,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/",
-      "publishedDateTime": "2020-12-01T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

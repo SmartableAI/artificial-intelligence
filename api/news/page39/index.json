@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-11-19-free-webinar-on-the-booming-global-ai-based-learning-market.md",
+      "title": "Free Webinar on the Booming Global AI-based Learning Market",
+      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18433212",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212",
+      "publishedDateTime": "2020-11-18T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-human-rights-watch-once-again-calls-for-ban-on-killer-robots.md",
       "title": "Human Rights Watch Once Again Calls for Ban on “Killer Robots”",
       "excerpt": "Sir Nick Carter, suggested that these robots and other autonomous platforms could fill roles that reduce the dependency on human soldiers, he didn’t actually suggest that these would be “terminator” style fighting machines.",
@@ -1154,57 +1188,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women.md",
-      "title": "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women",
-      "excerpt": "A deepfake bot has been generating explicit, non-consensual images on the platform. The researchers who found it say their warnings have been ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
-      "originalUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

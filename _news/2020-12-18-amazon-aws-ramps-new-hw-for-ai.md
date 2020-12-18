@@ -56,6 +56,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "A boost for artificial intelligence"
+    excerpt: "Chancellor Merkel gives go-ahead for “AI Breakthrough Hub” – which will be funded by the federal and state governments as well as the Hector Foundation"
+    publishedDateTime: 2020-12-18T08:01:00Z
+    webUrl: "https://www.mpg.de/16193056/a-boost-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 37
+    images:
+      - url: "https://www.mpg.de/16193150/original-1608277854.jpg"
+        width: 1019
+        height: 679
+        isCached: true
 
 secured: "xzo8xBPLKw1jK5xKW5kCbfoLW1cPtLGKO5Y+eRiV1x1yPL0U9khPg7pjBDrarBPXlDfUdoI8kNpM8xghAYu0e4oLERoqoDDqPk3wX5bHMmkloe5Id274euuRJNtoTBng6fQa/YhP3dnw78asjr0zeET81bwXHOTJ+S1oj4chNhYQE5rUg0wd5NRw7Hva3W9PRdin2EZ9DaozktiyMM23jneKkC9VFMTHSPaZ1DfKd2hhsVDZqEbBKmgonb0lSCBJTEFHg8Hoby9s+Q+ca6aiVjuiuOnxJXIom6XOv0CqZNGs8EMcli7fwXSbfaW0Ez4vzphqQC3drx3QDO6r+f7zlou8e+1sqoExcMDepxkvoY5PuEOjC0/Vu4Eege/RDk/200I5pQT8ChO9G5fKWoBN76vmxzQHLGNHmgi6zEohXyHFB8yUY2ZgMb/L3Mqmuc70TzaySgpg2LyTMqfeL8v4pnGC5/lhGMlayfF2nKrQOPHrkEBbwjjsNnLa+DY8tcLcK6DdbSvOrgpEFwuWyJkFkg==;1IS2DhHTAvkILgH9cBXqgA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/17/amazon-aws-ramps-new-hardware-for-ai/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "A boost for artificial intelligence"
+    excerpt: "Chancellor Merkel gives go-ahead for “AI Breakthrough Hub” – which will be funded by the federal and state governments as well as the Hector Foundation"
+    publishedDateTime: 2020-12-18T08:01:00Z
+    webUrl: "https://www.mpg.de/16193056/a-boost-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 37
+    images:
+      - url: "https://www.mpg.de/16193150/original-1608277854.jpg"
+        width: 1019
+        height: 679
+        isCached: true
 
 secured: "1xinRB7zRsUcUiUCeapKT9oRtTCQhwVUDp8zFwuoQOW3FKKdpiiZPRTZ2Rzx2ztjyU00TsOMCHsnCaUbtWzIpGQ2P1+h4621mS9FTMO6SC6XklKCeo3kpAg/GhMIMg4F+m1Ui3eKEM6nZCmAe8GGrXZ/Dhpc+x6/A6uwGGR+7q4BiJRyy2HOn+0tlDWF6KQ803DGY2/vyV5nEBBudQumYqIC8wRVVl1A2iqJ4Osqq6TD9zctAXkutZ8swro5EInQvUSqPKlCvdGBs3kX2VEcJska1ejsTxdpeHk3OXxbGcYGlmu5YdH+G0dClOC2ZVt3wRmMb7PE+ia2URrv5a7Ekgp2+RAJ3MvH7IZsP4jVgYjSkRwvI3ZaW7TA1no9StGw+YpYuFZOimPaF6kl/pgV0mXlIxgwq95la+mtkrrOKGYjRouFHsVLYgrfRpsc1mF84WWqpraOfUluG0kLlL2snWVCD0pMnUO2XRFbxe326OBWZB4RLhUrLk3E+x4wevEivODY5b7j1iH8Boq7fu/irQ==;0RNmMdjE0Q1GSXPRhAowzw=="
 ---

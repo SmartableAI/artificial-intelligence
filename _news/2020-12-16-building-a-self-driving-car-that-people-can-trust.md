@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Barking Commands At A Self-Driving Car Won’t Do You Any Good"
-    excerpt: "Humans sometimes provide urgently spoken commands to drivers of cars, but will this happen for self-driving cars and do we want it to occur?"
-    publishedDateTime: 2020-12-13T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/13/barking-commands-at-a-self-driving-car-wont-do-you-any-good/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc2d88bf0bf2254f607e587%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5327%26cropY1%3D79%26cropY2%3D3630"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Motorists in self-driving cars will not be legally liable for accidents"
     excerpt: "Motorists in self-driving cars will not be held legally responsible for accidents, under Law Commission plans. The commission recommended the “user in charge” of the vehicle could not be prosecuted for careless or dangerous driving,"
     publishedDateTime: 2020-12-18T06:00:00Z

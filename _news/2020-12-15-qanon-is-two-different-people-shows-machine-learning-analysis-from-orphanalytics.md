@@ -41,6 +41,54 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "CoachHub nabs $30 million for talent development platform that meshes AI with analytics"
+    excerpt: "CoachHub, a digital coaching platform that leans on AI and analytics, has raised $30 million in a round of funding led by Draper Esprit."
+    publishedDateTime: 2020-12-18T08:04:00Z
+    webUrl: "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/18/coachhub-nabs-30-million-for-talent-development-platform-that-meshes-ai-with-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/feat-4.png?w=1200&strip=all"
+        width: 1200
+        height: 715
+        isCached: true
+  - title: "Kenshoo acquires AI marketing startup Signals Analytics to boost digital brand engagement"
+    excerpt: "eCommerce continues to be the name of the game in 2020, with brands scouring the market to improve consumer engagement. This makes the marketing-focused acquisition a definite move in the right direction... Global data-backed marketing giant Kenshoo ..."
+    publishedDateTime: 2020-12-18T07:22:00Z
+    webUrl: "https://www.geektime.com/kenshoo-acquires-ai-marketing-startup-signals-analytics-to-boost-digital-brand-engagement/"
+    ampWebUrl: "https://www.geektime.com/kenshoo-acquires-ai-marketing-startup-signals-analytics-to-boost-digital-brand-engagement/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/kenshoo-acquires-ai-marketing-startup-signals-analytics-to-boost-digital-brand-engagement/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 65
+    images:
+      - url: "https://www.geektime.com/content/images/2020/12/---------------------------1.jpg"
+        width: 1483
+        height: 1976
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market May See a Big Move | Major Giants AWS, Avaamo, Cape Analytics"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in BFSI Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence in BFSI Market research report shows the latest market insights ..."
+    publishedDateTime: 2020-12-18T08:17:00Z
+    webUrl: "https://www.openpr.com/news/2212938/artificial-intelligence-in-bfsi-market-may-see-a-big-move-major"
+    ampWebUrl: "https://www.openpr.com/amp/2212938/artificial-intelligence-in-bfsi-market-may-see-a-big-move-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2212938/artificial-intelligence-in-bfsi-market-may-see-a-big-move-major"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/c/Tc18370383_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Regulators catching up on use of analytics; compliance better take notice"
     excerpt: "If your company isn't making optimal use of data to enhance its compliance program, now is the time to start-before it's too late."
     publishedDateTime: 2020-12-14T19:23:00Z
